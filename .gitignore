@@ -143,3 +143,4 @@ cython_debug/
 *.bin
 *.big.csv
 *.big.tsv
+*.big.json
