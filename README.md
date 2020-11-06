@@ -190,3 +190,18 @@ def words(text: str) -> Generator[str, Any, None]:
     if word_buffer:
         yield f''.join(word_buffer)
 ```
+
+
+
+#   TODO
+-   use unicode map
+    -   language -> script
+    -   script -> chars
+    -   languages (iso 639-2)
+    -   scripts (iso 15924)
+-   how to handle traditional vs simplified chinese
+    -   check the unicode chars?
+-   clean ngrams using proper word tokenizer (ignore numbers)
+    -   ignore any words using wrong scripts
+    -   outliers? loanwords?
+-   get dictionaries for each language
