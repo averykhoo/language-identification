@@ -146,6 +146,11 @@ testing repo
     *   https://unicode-org.github.io/cldr-staging/charts/37/supplemental/languages_and_scripts.html
     *   https://unicode-org.github.io/cldr-staging/charts/37/supplemental/scripts_and_languages.html
     *   https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
+        *   `mis`, for "uncoded languages";
+        *   `mul`, for "multiple languages";
+        *   `qaa` - `qtz`, a range reserved for local use.
+        *   `und`, for "undetermined";
+        *   `zxx`, for "no linguistic content; not applicable";
 *   tokenization?
     *   https://www.unicode.org/reports/tr29/#Word_Boundaries
     *   special handling for U+00AD (Soft Hyphen)?
@@ -194,14 +199,72 @@ def words(text: str) -> Generator[str, Any, None]:
 
 
 #   TODO
--   use unicode map
-    -   language -> script
-    -   script -> chars
-    -   languages (iso 639-2)
-    -   scripts (iso 15924)
--   how to handle traditional vs simplified chinese
-    -   check the unicode chars?
--   clean ngrams using proper word tokenizer (ignore numbers)
-    -   ignore any words using wrong scripts
-    -   outliers? loanwords?
--   get dictionaries for each language
+*   use unicode map
+    *   language -> script
+    *   script -> chars
+    *   languages (iso 639-2)
+    *   scripts (iso 15924)
+*   pycountry?
+    *   need script alias
+*   how to handle traditional vs simplified chinese
+    *   check the unicode chars?
+*   clean ngrams using proper word tokenizer (ignore numbers)
+    *   ignore any words using wrong scripts
+    *   outliers? loanwords?
+*   get dictionaries for each language
+
+
+#   script lookup
+*   ~~binary tree?~~
+*   ~~based on ip-lookup? (ranges in sets)~~
+    *   ~~unicode max is 0x10FFFF~~
+    *   ~~masks:~~
+        *   ~~0xfffff0~~
+        *   ~~0xffffe0~~
+        *   ~~0xffffc0~~
+        *   ~~0xffff80~~
+        *   ~~0xffff00~~
+        *   ~~0xfffe00~~
+        *   ~~0xfffc00~~
+        *   ~~0xfff800 <- max 544 of these~~
+*   just use one set per lang / script and use lrucache(maxsize=0xFFFF)
+    *   char -> langs or char -> scripts?
+
+#   modular langid
+*   language code, variation?
+    *   eg. "japanese, romaji"
+*   script / chars (whitelist)
+*   word ngram freqs
+    *   char ngram freqs (with start/end chars) (fallback)
+    *   n-grams: `[word[i:i + n] for i in range(length - n + 1)]`
+*   kenlm?
+    *   (decoder only) `pip install https://github.com/kpu/kenlm/archive/master.zip`
+    *   [example.py](https://github.com/kpu/kenlm/blob/master/python/example.py)
+*   nltk?
+    *   [kneser ney](https://www.nltk.org/api/nltk.lm.html#nltk.lm.models.KneserNeyInterpolated)
+
+
+#   cleanup
+*   mimic cld2 cleanup
+    *   expand HTML entities `&amp;` 
+    *   delete digits
+    *   delete punctuation
+    *   delete tags `<br>`
+*   filter
+    *   by script
+    *   remove 1-char words
+    *   remove common english words
+        *   but keep most common vernacular words (whitelist / dictionary)?
+*   remove low-count word ngrams
+*   count char ngrams
+
+
+#   cld2
+Several embellishments improve the basic algorithm:
+*   additional scoring of some sequences of two CJK letters or eight other letters
+*   scoring some words and word pairs that are distinctive within sets of statistically-close languages,
+    such as {Malay, Indonesian} or {Spanish, Portuguese, Galician}
+*   removing repetitive sequences/words that would otherwise skew the scoring,
+    such as jpg in foo.jpg bar.jpg baz.jpg
+*   removing web-specific words that convey almost no language information,
+    such as page, link, click, td, tr, copyright, wikipedia, http.
