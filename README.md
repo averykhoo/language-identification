@@ -136,16 +136,16 @@ testing repo
     
 
 ## Unicode
-*   https://www.unicode.org/Public/UCD/latest/ucdxml/ucd.all.flat.zip
-*   https://en.wikipedia.org/wiki/ISO_15924
-    *   https://unicode.org/iso15924/iso15924-num.html
-    *   https://unicode.org/iso15924/iso15924.txt.zip
-*   https://en.wikipedia.org/wiki/International_uniformity_of_braille_alphabets
-*   https://en.wikipedia.org/wiki/Tengwar
-*   https://github.com/unicode-org/cldr/blob/master/common/supplemental/supplementalData.xml
-    *   https://unicode-org.github.io/cldr-staging/charts/37/supplemental/languages_and_scripts.html
-    *   https://unicode-org.github.io/cldr-staging/charts/37/supplemental/scripts_and_languages.html
-    *   https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
+*   [x] https://www.unicode.org/Public/UCD/latest/ucdxml/ucd.all.flat.zip
+*   [x] https://en.wikipedia.org/wiki/ISO_15924
+    *   [ ] ~~https://unicode.org/iso15924/iso15924-num.html~~
+    *   [x] https://unicode.org/iso15924/iso15924.txt.zip
+*   [ ] https://en.wikipedia.org/wiki/International_uniformity_of_braille_alphabets
+*   [ ] https://en.wikipedia.org/wiki/Tengwar
+*   [ ] https://github.com/unicode-org/cldr/blob/master/common/supplemental/supplementalData.xml
+    *   [ ] https://unicode-org.github.io/cldr-staging/charts/37/supplemental/languages_and_scripts.html
+    *   [ ] https://unicode-org.github.io/cldr-staging/charts/37/supplemental/scripts_and_languages.html
+    *   [ ] https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
         *   `mis`, for "uncoded languages";
         *   `mul`, for "multiple languages";
         *   `qaa` - `qtz`, a range reserved for local use.
