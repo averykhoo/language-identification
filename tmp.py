@@ -1,3 +1,51 @@
+from typing import Any
+from typing import Callable
+from typing import Generator
+
+import unicodedata
+
+
+def memoize(f: Callable) -> Callable:
+    """
+    memoization decorator for a function taking ONLY a single argument
+    src: http://code.activestate.com/recipes/578231-probably-the-fastest-memoization-decorator-in-the-/
+    """
+
+    class MemoDict(dict):
+        def __missing__(self, key):
+            ret = self[key] = f(key)
+            return ret
+
+    return MemoDict().__getitem__
+
+
+@memoize
+def is_word_char(char: str) -> bool:
+    # todo: special handling for U+00AD (Soft Hyphen)?
+    return unicodedata.category(char) in {'Lu', 'Ll', 'Lt', 'Lm', 'Lo',  # letters
+                                          # 'Nd', 'Nl', 'No',  # numbers
+                                          'Mn', 'Mc', 'Me',  # diacritics, etc
+                                          # 'Co',  # private use char class
+                                          }
+
+
+def words(text: str) -> Generator[str, Any, None]:
+    word_buffer = []
+    for char in text:
+        # char is part of word
+        if is_word_char(char):
+            word_buffer.append(char)
+
+        # char is non-text AND buffer is text
+        elif word_buffer:
+            yield f''.join(word_buffer)
+            word_buffer = []
+
+    # yield remainder
+    if word_buffer:
+        yield f''.join(word_buffer)
+
+
 langs = {
     'Korean':            'kor',
     'ENGLISH':           'eng',
