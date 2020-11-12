@@ -66,6 +66,10 @@ class CharSet:
         return iter(self.chars)
 
     def __contains__(self, chars: Union[str, int]) -> bool:
+        """
+        we can't use lru_cache here, because self is not hashable
+        we can't even use an instance-internal cache, because self.chars is mutable
+        """
         if isinstance(chars, str):
             if len(chars) == 0:
                 raise ValueError(chars)
