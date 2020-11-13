@@ -31,9 +31,9 @@ testing repo
     *   [x] https://unicode.org/iso15924/iso15924.txt.zip
 *   [ ] https://en.wikipedia.org/wiki/International_uniformity_of_braille_alphabets
 *   [ ] https://en.wikipedia.org/wiki/Tengwar
-*   [ ] https://github.com/unicode-org/cldr/blob/master/common/supplemental/supplementalData.xml
-    *   [ ] https://unicode-org.github.io/cldr-staging/charts/37/supplemental/languages_and_scripts.html
-    *   [ ] https://unicode-org.github.io/cldr-staging/charts/37/supplemental/scripts_and_languages.html
+*   [x] https://github.com/unicode-org/cldr/blob/master/common/supplemental/supplementalData.xml
+    *   [x] https://unicode-org.github.io/cldr-staging/charts/37/supplemental/languages_and_scripts.html
+    *   [x] https://unicode-org.github.io/cldr-staging/charts/37/supplemental/scripts_and_languages.html
     *   [x] https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
         *   `mis`, for "uncoded languages";
         *   `mul`, for "multiple languages";
@@ -42,34 +42,45 @@ testing repo
         *   `zxx`, for "no linguistic content; not applicable";
 *   tokenization?
     *   https://www.unicode.org/reports/tr29/#Word_Boundaries
+*   NKFD decompose before match?
+    *   allow dropping of M* chars for match?
 
 
 
 #   TODO
-*   [ ] https://en.wiktionary.org/wiki/Category:Basic_word_lists_by_language
-*   [ ] use unicode map
-    *   [ ] language -> script (+Zyyy)
-    *   [ ] script -> chars
-    *   [ ] languages (iso 639-2)
-    *   [ ] scripts (iso 15924)
+*   [ ] ~~https://en.wiktionary.org/wiki/Category:Basic_word_lists_by_language~~
+*   [x] use unicode map
+    *   [x] language -> script (+Zyyy)
+    *   [x] script -> chars
+    *   [x] languages (iso 639-2)
+    *   [x] scripts (iso 15924)
 *   [ ] pycountry?
     *   [ ] need script alias
-*   [ ] how to handle traditional vs simplified chinese
-    *   [ ] check the unicode chars?
-*   [ ] clean ngrams using proper word tokenizer (ignore numbers)
+*   [x] how to handle traditional vs simplified chinese
+    *   [x] check the unicode chars?
+*   [x] clean ngrams using proper word tokenizer (ignore numbers)
     *   [ ] ignore any words using wrong scripts
     *   [ ] outliers? loanwords?
-*   [ ] get dictionaries for each language
-*   [ ] build my own word ngrams from cleaner corpora
-    *   [ ] [JW300](http://opus.nlpl.eu/JW300.php)
-    *   [ ] [bible](http://opus.nlpl.eu/bible-uedin.php)
-    *   [ ] [GNOME](http://opus.nlpl.eu/GNOME.php) / [KDE4](http://opus.nlpl.eu/KDE4.php) / [Ubuntu](http://opus.nlpl.eu/Ubuntu.php)
-    *   [ ] [tatoeba](http://opus.nlpl.eu/Tatoeba.php)
-    *   [ ] [W2C](http://ufal.mff.cuni.cz/~majlis/w2c/download.html)
-    *   [ ] [UDHR](https://www.kaggle.com/nltkdata/udhr-corpus) [Alt](http://research.ics.aalto.fi/cog/data/udhr/)
-    *   [ ] [unimorph](https://unimorph.github.io/) (as dictionary)
+        *   common english words
+        *   common multilingual words
+*   [x] get dictionaries for each language
+    *   [x] dump dictionaries from some free apks
+    *   [ ] parse dictionaries
+*   [ ] rebuild models from clean corpora
+    *   dictionaries
+        *   [ ] [GNOME](http://opus.nlpl.eu/GNOME.php) / [KDE4](http://opus.nlpl.eu/KDE4.php) / [Ubuntu](http://opus.nlpl.eu/Ubuntu.php)
+        *   [ ] [tatoeba](http://opus.nlpl.eu/Tatoeba.php)
+        *   [ ] [unimorph](https://unimorph.github.io/)
+        *   [ ] [memolon](https://github.com/JULIELab/MEmoLon/tree/master/memolon/data/TranslationTables)
+        *   [ ] stopwords corpus
+    *   word / char ngrams
+        *   [ ] [UDHR](https://www.kaggle.com/nltkdata/udhr-corpus) [Alt](http://research.ics.aalto.fi/cog/data/udhr/)
+        *   [ ] [JW300](http://opus.nlpl.eu/JW300.php)
+        *   [ ] [bible](http://opus.nlpl.eu/bible-uedin.php)
+        *   [ ] [W2C](http://ufal.mff.cuni.cz/~majlis/w2c/download.html)
+    
 *   other corpora
-    *   [ ] [ELG catalog](https://live.european-language-grid.eu/catalogue/#/)
+    *   [ELG catalog](https://live.european-language-grid.eu/catalogue/#/)
 
 
 #   script lookup
@@ -86,15 +97,24 @@ testing repo
         *   ~~0xfffc00~~
         *   ~~0xfff800 <- max 544 of these~~
 *   just use one set per lang / script and use lrucache(maxsize=0xFFFF)
-    *   char -> langs or char -> scripts?
+*   char -> langs or char -> scripts?
 
 #   modular langid
-*   language code, variation?
-    *   eg. "japanese, romaji"
-*   script / chars (whitelist)
-*   word ngram freqs
+*   language code, variation/dialect name
+    *   eg. "japanese, romaji" or "english, deseret"
+*   script / charset (whitelist)
+*   (optional) word ngram freqs
+    *   1-gram at a minimum
     *   char ngram freqs (with start/end chars) (fallback)
     *   n-grams: `[word[i:i + n] for i in range(length - n + 1)]`
+    *   if no words, just use ngrams
+*   (optional) char ngram freqs
+    *   chars only, no spaces etc
+        *   clean on load? or error?
+        *   use the script as whitelist?
+    *   if no chars, build from word freqs
+    *   if no chars and no words, assume uniform distribution over all chars, but L* gets priority over M*
+    *   some kind of smoothing where you specify the total population of ngrams
 *   kenlm?
     *   (decoder only) `pip install https://github.com/kpu/kenlm/archive/master.zip`
     *   [example.py](https://github.com/kpu/kenlm/blob/master/python/example.py)
