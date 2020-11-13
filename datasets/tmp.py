@@ -1,25 +1,11 @@
+from functools import lru_cache
 from typing import Any
-from typing import Callable
 from typing import Generator
 
 import unicodedata
 
 
-def memoize(f: Callable) -> Callable:
-    """
-    memoization decorator for a function taking ONLY a single argument
-    src: http://code.activestate.com/recipes/578231-probably-the-fastest-memoization-decorator-in-the-/
-    """
-
-    class MemoDict(dict):
-        def __missing__(self, key):
-            ret = self[key] = f(key)
-            return ret
-
-    return MemoDict().__getitem__
-
-
-@memoize
+@lru_cache(maxsize=0xFFFF)
 def is_word_char(char: str) -> bool:
     # todo: special handling for U+00AD (Soft Hyphen)?
     return unicodedata.category(char) in {'Lu', 'Ll', 'Lt', 'Lm', 'Lo',  # letters
@@ -29,7 +15,7 @@ def is_word_char(char: str) -> bool:
                                           }
 
 
-def words(text: str) -> Generator[str, Any, None]:
+def find_words(text: str) -> Generator[str, Any, None]:
     word_buffer = []
     for char in text:
         # char is part of word
@@ -46,7 +32,11 @@ def words(text: str) -> Generator[str, Any, None]:
         yield f''.join(word_buffer)
 
 
-langs = {
+def ngrams(seq, n=2):
+    return [seq[i:i + n] for i in range(len(seq) - n + 1)]
+
+
+lang_codes = {
     'Korean':            'kor',
     'ENGLISH':           'eng',
     'POLISH':            'pol',
@@ -144,7 +134,7 @@ langs = {
     'YORUBA':            'yor',
     'NYANJA':            'nya',
     'AMHARIC':           'amh',
-    'LATIN':             'lat',
+    'LATIN':             'lat',  # no useful data
     'CORSICAN':          'cos',
     'IGBO':              'ibo',
     'SESELWA':           None,  # iso 639-3 -> 'crs'
@@ -152,9 +142,9 @@ langs = {
     'LINGALA':           'lin',
     'XHOSA':             'xho',
     'TIBETAN':           'bod',
-    'OCCITAN':           'oci',
+    'OCCITAN':           'oci',  # no useful data
     'NEPALI':            'nep',
     'GUARANI':           'grn',
-    'HMONG':             'hmn',
-    'TATAR':             'tat',
+    'HMONG':             'hmn',  # no useful data
+    'TATAR':             'tat',  # no useful data
 }

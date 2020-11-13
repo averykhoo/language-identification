@@ -60,6 +60,16 @@ testing repo
     *   [ ] ignore any words using wrong scripts
     *   [ ] outliers? loanwords?
 *   [ ] get dictionaries for each language
+*   [ ] build my own word ngrams from cleaner corpora
+    *   [ ] [JW300](http://opus.nlpl.eu/JW300.php)
+    *   [ ] [bible](http://opus.nlpl.eu/bible-uedin.php)
+    *   [ ] [GNOME](http://opus.nlpl.eu/GNOME.php) / [KDE4](http://opus.nlpl.eu/KDE4.php) / [Ubuntu](http://opus.nlpl.eu/Ubuntu.php)
+    *   [ ] [tatoeba](http://opus.nlpl.eu/Tatoeba.php)
+    *   [ ] [W2C](http://ufal.mff.cuni.cz/~majlis/w2c/download.html)
+    *   [ ] [UDHR](https://www.kaggle.com/nltkdata/udhr-corpus) [Alt](http://research.ics.aalto.fi/cog/data/udhr/)
+    *   [ ] [unimorph](https://unimorph.github.io/) (as dictionary)
+*   other corpora
+    *   [ ] [ELG catalog](https://live.european-language-grid.eu/catalogue/#/)
 
 
 #   script lookup
@@ -97,7 +107,15 @@ testing repo
     *   expand HTML entities `&amp;` 
     *   delete digits
     *   delete punctuation
-    *   delete tags `<br>`
+    *   delete all html tags `<br>`
+    *   removing repetitive sequences/words that would otherwise skew the scoring,
+        such as jpg in foo.jpg bar.jpg baz.jpg
+    *   removing web-specific words that convey almost no language information,
+        such as page, link, click, td, tr, copyright, wikipedia, http.
+*   more cleanup
+    *   emails, urls, twitter handles
+    *   common tech terms (pdf, jpg, ppt, docx, htm, href)
+    *   common entities (facebook, instagram, chrome, twitter, wiki)
 *   filter
     *   by script
     *   remove 1-char words
@@ -105,6 +123,11 @@ testing repo
         *   but keep most common vernacular words (whitelist / dictionary)?
 *   remove low-count word ngrams
 *   count char ngrams
+*   dedupe repeated chars?
+    *   hello -> helo <- hellloooo
+    *   `1608.03030` -> sequences such as 'hahahaha...' or 'arghhhhh...' 
+                        we restricted any sequence of repeating characters to at most five repetitions
+                        where the repeating pattern can be from one to four characters
 
 
 #   cld2
@@ -112,7 +135,3 @@ Several embellishments improve the basic algorithm:
 *   additional scoring of some sequences of two CJK letters or eight other letters
 *   scoring some words and word pairs that are distinctive within sets of statistically-close languages,
     such as {Malay, Indonesian} or {Spanish, Portuguese, Galician}
-*   removing repetitive sequences/words that would otherwise skew the scoring,
-    such as jpg in foo.jpg bar.jpg baz.jpg
-*   removing web-specific words that convey almost no language information,
-    such as page, link, click, td, tr, copyright, wikipedia, http.
