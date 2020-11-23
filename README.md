@@ -74,10 +74,11 @@ testing repo
     *   dictionaries
         *   [ ] [GNOME](http://opus.nlpl.eu/GNOME.php) / [KDE4](http://opus.nlpl.eu/KDE4.php) / [Ubuntu](http://opus.nlpl.eu/Ubuntu.php)
         *   [ ] [tatoeba](http://opus.nlpl.eu/Tatoeba.php)
-            *   [ ] [unimorph](https://unimorph.github.io/)
+        *   [ ] [unimorph](https://unimorph.github.io/)
         *   [x] [memolon](https://github.com/JULIELab/MEmoLon/tree/master/memolon/data/TranslationTables)
-        *   [ ] stopwords corpus
-            *   https://blog.gdeltproject.org/compiling-a-massive-multilingual-news-based-stopword-list/
+        *   [x] stopwords corpus
+            *   ~~https://blog.gdeltproject.org/compiling-a-massive-multilingual-news-based-stopword-list/~~
+            *   stopwords-iso
             
     *   word / char ngrams
         *   [ ] [UDHR](https://www.kaggle.com/nltkdata/udhr-corpus) [Alt](http://research.ics.aalto.fi/cog/data/udhr/)
