@@ -65,13 +65,17 @@ testing repo
         *   common multilingual words
 *   [x] get dictionaries for each language
     *   [x] dump dictionaries from some free apks
-    *   [ ] parse dictionaries
+    *   [x] parse dictionaries
+    *   more dictionaries:
+        *   https://apkcombo.com/en-sg/developer/ProDict/
+        *   https://apkcombo.com/en-sg/developer/Sohid+Uddin/
+        *   https://apkcombo.com/en-sg/developer/AllDict/
 *   [ ] rebuild models from clean corpora
     *   dictionaries
         *   [ ] [GNOME](http://opus.nlpl.eu/GNOME.php) / [KDE4](http://opus.nlpl.eu/KDE4.php) / [Ubuntu](http://opus.nlpl.eu/Ubuntu.php)
         *   [ ] [tatoeba](http://opus.nlpl.eu/Tatoeba.php)
         *   [ ] [unimorph](https://unimorph.github.io/)
-        *   [ ] [memolon](https://github.com/JULIELab/MEmoLon/tree/master/memolon/data/TranslationTables)
+        *   [x] [memolon](https://github.com/JULIELab/MEmoLon/tree/master/memolon/data/TranslationTables)
         *   [ ] stopwords corpus
     *   word / char ngrams
         *   [ ] [UDHR](https://www.kaggle.com/nltkdata/udhr-corpus) [Alt](http://research.ics.aalto.fi/cog/data/udhr/)
