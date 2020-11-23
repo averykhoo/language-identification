@@ -133,7 +133,7 @@ testing repo
     *   removing web-specific words that convey almost no language information,
         such as page, link, click, td, tr, copyright, wikipedia, http.
 *   more cleanup
-    *   emails, urls, twitter handles
+    *   emails, urls, twitter handles, hashtags
     *   common tech terms (pdf, jpg, ppt, docx, htm, href)
     *   common entities (facebook, instagram, chrome, twitter, wiki)
 *   filter

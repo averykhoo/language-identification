@@ -23,7 +23,9 @@ LANGID_LANGUAGES = langid_wrapper.SUPPORTED_LANGUAGES
 CLD2_LANGUAGES = cld2_wrapper.SUPPORTED_LANGUAGES
 
 # todo: run tests on fasttext, langid, and cld2-cffi; and use a decent boosting algo to combine the results
-
+# todo: try method proposed
+# https://people.eng.unimelb.edu.au/tbaldwin/subjects/socialtext-webst2016/lecture1.pdf (slide 131/218)
+# 3-system vote between langid.py, ChromeCLD, and LangDetect is a good choice
 
 # def language_detect(text: str) -> Optional[str]:
 #     # cleanup
