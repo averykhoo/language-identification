@@ -1,5 +1,6 @@
 from dataclasses import dataclass
 from dataclasses import field
+from typing import Callable
 from typing import Iterable
 from typing import List
 from typing import Set
@@ -288,3 +289,54 @@ class CharSet:
 
     def pop(self) -> str:
         return self.chars.pop()
+
+    def filter(self,
+               filter_func: Callable,
+               *,
+               inplace: bool = False,
+               invert: bool = False,
+               ) -> 'CharSet':
+
+        # create a new object if not inplace
+        if not inplace:
+            return self.copy().filter(filter_func, inplace=True, invert=invert)
+
+        # check the func
+        if not isinstance(filter_func, Callable):
+            raise TypeError(filter_func)
+
+        # filter
+        if not invert:
+            _chars = set(char for char in self.chars if filter_func(char))
+        else:
+            _chars = set(char for char in self.chars if not filter_func(char))
+
+        # update self
+        self.chars.clear()
+        self.chars.update(_chars)
+        return self
+
+    def to_regex(self) -> str:
+
+        # turn a code point into escaped unicode
+        def to_unicode(code_point: int) -> str:
+            if code_point < 0:
+                raise ValueError(code_point)
+            elif code_point <= 0xFF:
+                return f'\\x{code_point:02X}'
+            elif code_point <= 0xFFFF:
+                return f'\\u{code_point:04X}'
+            elif code_point <= 0x10FFFF:  # max valid unicode char
+                return f'\\U{code_point:08X}'
+            else:
+                raise ValueError(code_point)
+
+        regex_parts = ['[']
+        for range_start, range_end in self.ranges:
+            regex_parts.append(to_unicode(range_start))
+            if range_end > range_start:
+                regex_parts.append('-')
+                regex_parts.append(to_unicode(range_end))
+
+        regex_parts.append(']')
+        return ''.join(regex_parts)
