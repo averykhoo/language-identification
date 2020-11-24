@@ -1,11 +1,63 @@
+import re
 from dataclasses import dataclass
 from dataclasses import field
 from typing import Callable
 from typing import Iterable
 from typing import List
+from typing import Pattern
 from typing import Set
 from typing import Tuple
 from typing import Union
+
+import unicodedata
+
+unicode_category_mapping = {
+    'Lu': {'Lu'},  # Uppercase_Letter
+    'Ll': {'Ll'},  # Lowercase_Letter
+    'Lt': {'Lt'},  # Titlecase_Letter
+    'LC': {'Lu', 'Ll', 'Lt'},  # Cased_Letter
+    'Lm': {'Lm'},  # Modifier_Letter
+    'Lo': {'Lo'},  # Other_Letter
+    'L':  {'Lu', 'Ll', 'Lt', 'Lm', 'Lo'},  # Letter
+    'L*': {'Lu', 'Ll', 'Lt', 'Lm', 'Lo'},  # Letter
+    'Mn': {'Mn'},  # Nonspacing_Mark
+    'Mc': {'Mc'},  # Spacing_Mark
+    'Me': {'Me'},  # Enclosing_Mark
+    'M':  {'Mn', 'Mc', 'Me'},  # Mark
+    'M*': {'Mn', 'Mc', 'Me'},  # Mark
+    'Nd': {'Nd'},  # Decimal_Number
+    'Nl': {'Nl'},  # Letter_Number
+    'No': {'No'},  # Other_Number
+    'N':  {'Nd', 'Nl', 'No'},  # Number
+    'N*': {'Nd', 'Nl', 'No'},  # Number
+    'Pc': {'Pc'},  # Connector_Punctuation
+    'Pd': {'Pd'},  # Dash_Punctuation
+    'Ps': {'Ps'},  # Open_Punctuation
+    'Pe': {'Pe'},  # Close_Punctuation
+    'Pi': {'Pi'},  # Initial_Punctuation
+    'Pf': {'Pf'},  # Final_Punctuation
+    'Po': {'Po'},  # Other_Punctuation
+    'P':  {'Pc', 'Pd', 'Ps', 'Pe', 'Pi', 'Pf', 'Po'},  # Punctuation
+    'P*': {'Pc', 'Pd', 'Ps', 'Pe', 'Pi', 'Pf', 'Po'},  # Punctuation
+    'Sm': {'Sm'},  # Math_Symbol
+    'Sc': {'Sc'},  # Currency_Symbol
+    'Sk': {'Sk'},  # Modifier_Symbol
+    'So': {'So'},  # Other_Symbol
+    'S':  {'Sm', 'Sc', 'Sk', 'So'},  # Symbol
+    'S*': {'Sm', 'Sc', 'Sk', 'So'},  # Symbol
+    'Zs': {'Zs'},  # Space_Separator
+    'Zl': {'Zl'},  # Line_Separator
+    'Zp': {'Zp'},  # Paragraph_Separator
+    'Z':  {'Zs', 'Zl', 'Zp'},  # Separator
+    'Z*': {'Zs', 'Zl', 'Zp'},  # Separator
+    'Cc': {'Cc'},  # Control
+    'Cf': {'Cf'},  # Format
+    'Cs': {'Cs'},  # Surrogate
+    'Co': {'Co'},  # Private_Use
+    'Cn': {'Cn'},  # Unassigned
+    'C':  {'Cc', 'Cf', 'Cs', 'Co', 'Cn'},  # Other
+    'C*': {'Cc', 'Cf', 'Cs', 'Co', 'Cn'},  # Other
+}
 
 
 @dataclass(frozen=True)
@@ -47,6 +99,10 @@ class CharSet:
         for range_start, range_end in unicode_ranges:
             out.add_range(range_start, range_end)
         return out
+
+    @property
+    def pattern(self) -> Pattern:
+        return re.compile(f'{self.to_regex()}+', flags=re.U)
 
     @property
     def ranges(self) -> List[Tuple[int, int]]:
@@ -291,18 +347,56 @@ class CharSet:
         return self.chars.pop()
 
     def filter(self,
-               filter_func: Callable,
+               filter_func: Union[Callable, str, Iterable[str]],
                *,
                inplace: bool = False,
                invert: bool = False,
                ) -> 'CharSet':
+        """
+        charset2 = charset.filter({'L*',  # letters
+                                   'M*',  # diacritics, etc
+                                   'N*',  # numbers
+                                   'Co',  # private use char class
+                                   })
+
+        charset3 = charset2.filter('N*', invert=True)  # remove numbers
+        """
 
         # create a new object if not inplace
         if not inplace:
             return self.copy().filter(filter_func, inplace=True, invert=invert)
 
-        # check the func
-        if not isinstance(filter_func, Callable):
+        # is a func
+        if isinstance(filter_func, Callable):
+            if filter_func('\0') not in {True, False}:
+                raise TypeError(filter_func)
+
+        # is a string (unicode category)
+        elif isinstance(filter_func, str):
+            if filter_func not in unicode_category_mapping:
+                raise ValueError(filter_func)
+
+            _categories = unicode_category_mapping[filter_func]
+
+            def filter_func(char):
+                return unicodedata.category(char) in _categories
+
+        # is a set of strings (unicode categories)
+        elif isinstance(filter_func, Iterable):
+            _categories = set()
+
+            for elem in filter_func:
+                if not isinstance(elem, str):
+                    raise TypeError((elem, filter_func))
+                if elem not in unicode_category_mapping:
+                    raise ValueError((elem, filter_func))
+                _categories.update(unicode_category_mapping[elem])
+
+            def filter_func(char):
+                return unicodedata.category(char) in _categories
+
+        # unknown filter type
+        else:
             raise TypeError(filter_func)
 
         # filter
@@ -317,6 +411,9 @@ class CharSet:
         return self
 
     def to_regex(self) -> str:
+        """
+        create a regex pattern that matches exactly one char, e.g. r'[\x09\x0A\x0D\x20-\x7E]'
+        """
 
         # turn a code point into escaped unicode
         def to_unicode(code_point: int) -> str:
@@ -340,3 +437,10 @@ class CharSet:
 
         regex_parts.append(']')
         return ''.join(regex_parts)
+
+    def _find_all(self, text: str, pos=None, endpos=None) -> List[str]:
+        if pos is None:
+            pos = 0
+        if endpos is None:
+            endpos = len(text)
+        return self.pattern.findall(text, pos, endpos)
