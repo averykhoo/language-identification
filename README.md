@@ -66,10 +66,6 @@ testing repo
 *   [x] get dictionaries for each language
     *   [x] dump dictionaries from some free apks
     *   [x] parse dictionaries
-    *   more dictionaries:
-        *   https://apkcombo.com/en-sg/developer/ProDict/
-        *   https://apkcombo.com/en-sg/developer/Sohid+Uddin/
-        *   https://apkcombo.com/en-sg/developer/AllDict/
 *   [ ] rebuild models from clean corpora
     *   dictionaries
         *   [ ] [GNOME](http://opus.nlpl.eu/GNOME.php) / [KDE4](http://opus.nlpl.eu/KDE4.php) / [Ubuntu](http://opus.nlpl.eu/Ubuntu.php)
