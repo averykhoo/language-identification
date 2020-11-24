@@ -90,9 +90,6 @@ class CharSet:
         self.chars.clear()
         self.chars.update(_chars)
 
-        # # remove the constructor
-        # object.__delattr__(self, 'from_ranges')
-
     @classmethod
     def from_ranges(cls, unicode_ranges: Iterable[Tuple[int, int]]) -> 'CharSet':
         out = CharSet()
