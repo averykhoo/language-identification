@@ -444,3 +444,30 @@ class CharSet:
         if endpos is None:
             endpos = len(text)
         return self.pattern.findall(text, pos, endpos)
+
+
+class MultiCharSet:
+    def __init__(self, *charsets: CharSet):
+        for charset in charsets:
+            assert isinstance(charset, CharSet)
+        self.charsets = list(charsets)
+
+    @property
+    def pattern(self) -> Pattern:
+        return re.compile('|'.join(f'{charset.to_regex()}+' for charset in self.charsets), flags=re.U)
+
+    def __contains__(self, item):
+        return any(item in charset for charset in self.charsets)
+
+    def add(self, charset):
+        if not isinstance(charset, CharSet):
+            raise TypeError(charset)
+        self.charsets.append(charset)
+        return self
+
+    def _find_all(self, text: str, pos=None, endpos=None) -> List[str]:
+        if pos is None:
+            pos = 0
+        if endpos is None:
+            endpos = len(text)
+        return self.pattern.findall(text, pos, endpos)
