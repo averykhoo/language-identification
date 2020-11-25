@@ -75,6 +75,7 @@ testing repo
         *   [x] stopwords corpus
             *   ~~https://blog.gdeltproject.org/compiling-a-massive-multilingual-news-based-stopword-list/~~
             *   stopwords-iso
+        *   [ ] http://wiki.webz.cz/dict/
     *   word / char ngrams
         *   [ ] [UDHR](https://www.kaggle.com/nltkdata/udhr-corpus) [Alt](http://research.ics.aalto.fi/cog/data/udhr/)
         *   [ ] [JW300](http://opus.nlpl.eu/JW300.php)
