@@ -213,7 +213,6 @@ avdeling,department
 avdeling,division
 avdeling,part
 avdeling,section
-avdeling,section
 avfall,waste
 avfall,waste material
 avfall,waste matter
@@ -535,7 +534,6 @@ dommer,jurist
 dommer,justice
 drepe,kill
 drikke,beverage
-drikke,drink
 drikke,drink
 drikke,drinkable
 drikke,imbibe
@@ -1080,7 +1078,6 @@ godtgjøre,testify
 golf,golf
 golf,golf game
 grad,degree
-grad,degree
 grad,grade
 grad,level
 grafem,character
@@ -1205,7 +1202,6 @@ hjerte,ticker
 hjul,wheel
 hode,caput
 hode,head
-hoste,cough
 hoste,cough
 hoste,coughing
 hotell,hotel
@@ -1494,7 +1490,6 @@ komme,come up
 kone,married woman
 kone,wife
 konkurranse,competition
-konkurranse,competition
 konkurranse,contest
 konkurrent,challenger
 konkurrent,competition
@@ -1567,7 +1562,6 @@ kurve,curve
 kurve,curved shape
 kvadrat,foursquare
 kvadrat,second power
-kvadrat,square
 kvadrat,square
 kvalitet,quality
 kveld,eve
@@ -1678,7 +1672,6 @@ lære,acquire
 lære,instruct
 lære,larn
 lære,learn
-lære,learn
 lære,teach
 lærer,instructor
 lærer,teacher
@@ -1714,7 +1707,6 @@ matros,sailor
 maur,ant
 maur,emmet
 maur,pismire
-med,with
 med,with
 med en gang,at once
 med en gang,directly
@@ -1766,7 +1758,6 @@ metall,metallic element
 metode,method
 midnatt,midnight
 miljø,environment
-miljø,environment
 miljø,environs
 miljø,surround
 miljø,surroundings
@@ -1813,7 +1804,6 @@ mutter,nut
 myk,soft
 mål,destination
 mål,finish
-mål,goal
 mål,goal
 måle,measure
 måle,measure out
@@ -2007,11 +1997,9 @@ oppnå,accomplish
 oppnå,achieve
 oppnå,arrive at
 oppnå,attain
-oppnå,attain
 oppnå,gain
 oppnå,hit
 oppnå,make
-oppnå,reach
 oppnå,reach
 oppriktig,sincere
 orange,orange
@@ -2074,7 +2062,6 @@ passasjer,rider
 pastinakk,Pastinaca sativa
 pastinakk,parsnip
 pause,break
-pause,break
 pause,intermission
 pause,interruption
 pause,pause
@@ -2111,7 +2098,6 @@ plan,programme
 plante,flora
 plante,plant
 plante,plant life
-plass,place
 plass,place
 plass,seat
 plass,spot
@@ -2183,12 +2169,10 @@ protestere,protest
 prøve,assay
 prøve,attempt
 prøve,essay
-prøve,essay
 prøve,examine
 prøve,prove
 prøve,seek
 prøve,test
-prøve,try
 prøve,try
 prøve,try out
 pulver,powder
@@ -2516,7 +2500,6 @@ slutte,cease
 slutte,complete
 slutte,end
 slutte,finish
-slutte,finish
 slutte,stop
 slutte,terminate
 slåss,contend
@@ -2554,7 +2537,6 @@ soldat,soldier
 som,as
 som,equally
 som,every bit
-som,which
 som,which
 sommer,summer
 sommer,summertime
@@ -2742,7 +2724,6 @@ sytti,lxx
 sytti,seventy
 så,and so
 så,and then
-så,so
 så,so
 så,then
 såpe,soap
@@ -2947,7 +2928,6 @@ utbrudd,burst
 utbrudd,flare-up
 utbrudd,outburst
 utdannelse,education
-utdannelse,education
 utmerket,excellent
 utmerket,fantabulous
 utmerket,first-class
@@ -2989,7 +2969,6 @@ vente,expect
 vente,hold back
 vente,hold off
 vente,look
-vente,wait
 vente,wait
 verdi,value
 vest,W
@@ -3061,7 +3040,6 @@ ytelse,performance
 økonomi,economic system
 økonomi,economy
 økonomisk,economic
-økonomisk,economic
 økonomisk,economical
 øl,beer
 ønske,want
@@ -3079,11 +3057,8 @@ ytelse,performance
 øyeblikk,bit
 øyeblikk,instant
 øyeblikk,minute
-øyeblikk,minute
 øyeblikk,mo
 øyeblikk,moment
-øyeblikk,moment
-øyeblikk,second
 øyeblikk,second
 øyekast,aspect
 øyekast,expression

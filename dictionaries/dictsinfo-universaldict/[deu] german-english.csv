@@ -19,8 +19,6 @@ Abteilung,department
 Abteilung,division
 Abteilung,part
 Abteilung,section
-Abteilung,section
-Abteilung,section
 Abteilung,subdivision
 Abwechslung,alteration
 Abwechslung,change
@@ -145,7 +143,6 @@ April,April
 Arbeit,business
 Arbeit,chore
 Arbeit,job
-Arbeit,job
 Arbeit,line
 Arbeit,line of work
 Arbeit,occupation
@@ -208,7 +205,6 @@ Aufgabe,chore
 Aufgabe,job
 Aufgabe,labor
 Aufgabe,project
-Aufgabe,task
 Aufgabe,task
 Aufgabe,undertaking
 Aufmerksamkeit,attending
@@ -458,7 +454,6 @@ Bild,image
 Bild,picture
 Bildung,didactics
 Bildung,education
-Bildung,education
 Bildung,educational activity
 Bildung,instruction
 Bildung,pedagogy
@@ -522,7 +517,6 @@ Brunnen,outpouring
 Brunnen,spring
 Brunnen,well
 Brust,breast
-Brust,chest
 Brust,chest
 Brust,pectus
 Brust,thorax
@@ -748,7 +742,6 @@ Element,chemical element
 Element,component
 Element,constituent
 Element,element
-Element,element
 Element,factor
 Element,ingredient
 Ende,end
@@ -784,10 +777,7 @@ Erdboden,terra firma
 Erde,Earth
 Erde,dry land
 Erde,earth
-Erde,earth
-Erde,earth
 Erde,globe
-Erde,ground
 Erde,ground
 Erde,land
 Erde,solid ground
@@ -817,8 +807,6 @@ Ergebnis,event
 Ergebnis,final result
 Ergebnis,issue
 Ergebnis,outcome
-Ergebnis,outcome
-Ergebnis,result
 Ergebnis,result
 Ergebnis,resultant
 Ergebnis,termination
@@ -1235,7 +1223,6 @@ Gesellschaft,fellowship
 Gesellschaft,organisation
 Gesellschaft,organization
 Gesellschaft,society
-Gesellschaft,society
 Gesetz,law
 Gesicht,face
 Gesicht,human face
@@ -1286,7 +1273,6 @@ Gipfel,tiptop
 Gipfel,top
 Glas,drinking glass
 Glas,glass
-Glas,glass
 Glaube,faith
 Glaube,religion
 Glaube,religious belief
@@ -1302,7 +1288,6 @@ Gold,atomic number 79
 Gold,gold
 Golf,golf
 Golf,golf game
-Grad,degree
 Grad,degree
 Grad,grade
 Grad,level
@@ -1419,7 +1404,6 @@ Hochzeit,wedding ceremony
 Hoffnung,hope
 Hoffnung,promise
 Holz,forest
-Holz,wood
 Holz,wood
 Holz,woods
 Honigbiene,bee
@@ -1771,7 +1755,6 @@ Kurs,course of instruction
 Kurs,course of study
 Kurve,bend
 Kurve,curve
-Kurve,curve
 Kurve,curved shape
 Kuvert,envelope
 Kuß,buss
@@ -1793,7 +1776,6 @@ Laub,leafage
 Laubwerk,foliage
 Laubwerk,leaf
 Laubwerk,leafage
-Leben,life
 Leben,life
 Leder,leather
 Lehrer,instructor
@@ -1884,7 +1866,6 @@ Markt,market place
 Markt,marketplace
 Maschine,machine
 Masse,bulk
-Masse,mass
 Masse,mass
 Masse,volume
 Material,material
@@ -2071,7 +2052,6 @@ Nadel,needle
 Nadel,pin
 Nadelstich,stitch
 Nagel,nail
-Nagel,nail
 Nahrungsmittel,food
 Nahrungsmittel,nutrient
 Name,name
@@ -2128,7 +2108,6 @@ Note,grade
 Note,mark
 Note,musical note
 Note,notation
-Note,note
 Note,note
 Note,score
 Note,tone
@@ -2192,7 +2171,6 @@ Opa,granddaddy
 Opa,grandfather
 Opa,grandpa
 Operation,operation
-Operation,operation
 Operation,surgery
 Operation,surgical operation
 Operation,surgical procedure
@@ -2237,7 +2215,6 @@ Passagier,rider
 Pastinak,Pastinaca sativa
 Pastinak,parsnip
 Patient,patient
-Pause,break
 Pause,break
 Pause,intermission
 Pause,interruption
@@ -2299,7 +2276,6 @@ Plan,plan
 Plan,program
 Plan,programme
 Platz,place
-Platz,place
 Platz,seat
 Platz,spot
 Platz,topographic point
@@ -2339,7 +2315,6 @@ Preis,toll
 Problem,issue
 Problem,job
 Problem,problem
-Problem,problem
 Problem,trouble
 Produkt,product
 Produkt,production
@@ -2351,7 +2326,6 @@ Programm,computer programme
 Programm,program
 Programm,programme
 Projekt,labor
-Projekt,project
 Projekt,project
 Projekt,projection
 Projekt,task
@@ -2395,7 +2369,6 @@ Pädagogik,pedagogy
 Pädagogik,teaching
 Quadrat,foursquare
 Quadrat,second power
-Quadrat,square
 Quadrat,square
 Qualität,quality
 Qualm,fume
@@ -2481,8 +2454,6 @@ Reichweite,ambit
 Reichweite,compass
 Reichweite,orbit
 Reichweite,range
-Reichweite,range
-Reichweite,reach
 Reichweite,reach
 Reichweite,scope
 Reif,frost
@@ -2504,9 +2475,7 @@ Rekord,record
 Relation,human relationship
 Relation,relationship
 Religion,faith
-Religion,faith
 Religion,organized religion
-Religion,religion
 Religion,religion
 Religion,religious belief
 Relikt,balance
@@ -2526,7 +2495,6 @@ Rest,repose
 Rest,residual
 Rest,residue
 Rest,residuum
-Rest,rest
 Rest,rest
 Resultat,consequence
 Resultat,effect
@@ -2617,7 +2585,6 @@ Rückstand,rest
 Sache,affair
 Sache,matter
 Sache,thing
-Sache,thing
 Saison,season
 Sakko,jacket
 Salat,salad
@@ -2634,7 +2601,6 @@ Sandwich,sandwich
 Satz,charge per unit
 Satz,rate
 Satz,sentence
-Satz,set
 Satz,set
 Sauce,sauce
 Saurer Regen,acid precipitation
@@ -2861,7 +2827,6 @@ Spiel,match
 Spieler,participant
 Spieler,player
 Sprache,language
-Sprache,language
 Sprache,linguistic communication
 Sprache,oral communication
 Sprache,speech
@@ -2951,7 +2916,6 @@ Stockwerk,story
 Stoff,cloth
 Stoff,fabric
 Stoff,material
-Stoff,material
 Stoff,matter
 Stoff,stuff
 Stoff,textile
@@ -2979,7 +2943,6 @@ Strom,flow
 Strom,stream
 Struktur,construction
 Struktur,structure
-Struktur,structure
 Strömung,current
 Strömung,stream
 Student,educatee
@@ -3006,7 +2969,6 @@ Stängel,stem
 Stärke,force
 Stärke,forcefulness
 Stärke,strength
-Stück,piece
 Stück,piece
 Stück,slice
 Stückchen,bit
@@ -3072,10 +3034,8 @@ Teil,component
 Teil,component part
 Teil,constituent
 Teil,part
-Teil,part
 Teil,percentage
 Teil,piece
-Teil,portion
 Teil,portion
 Teil,share
 Teilung,division
@@ -3111,10 +3071,8 @@ Tinte,ink
 Tisch,table
 Titel,championship
 Titel,title
-Titel,title
 Tochter,daughter
 Tochter,girl
-Tod,death
 Tod,death
 Tod,decease
 Tod,expiry
@@ -3172,7 +3130,6 @@ Umfang,orbit
 Umfang,range
 Umfang,reach
 Umfang,scope
-Umgebung,environment
 Umgebung,environment
 Umgebung,environs
 Umgebung,surround
@@ -3261,7 +3218,6 @@ Vereinigte Staaten,the States
 Vereinigung,union
 Verfahren,physical process
 Verfahren,procedure
-Verfahren,process
 Verfahren,process
 Vergangenheit,past
 Vergangenheit,past times
@@ -3487,7 +3443,6 @@ Wiederkehr,return
 Wiederverwertung,recycling
 Wille,volition
 Wille,will
-Wille,will
 Wind,air current
 Wind,current of air
 Wind,wind
@@ -3520,7 +3475,6 @@ Wunsch,want
 Wunsch,wish
 Wunsch,wishing
 Wurf,throw
-Wurzel,root
 Wurzel,root
 Wörterbuch,dictionary
 Wörterbuch,lexicon
@@ -3691,7 +3645,6 @@ andere,other
 andere,some other
 anders,another
 anders,different
-anders,different
 anders,dissimilar
 anders,other
 anders,some other
@@ -3800,8 +3753,6 @@ auch,besides
 auch,likewise
 auch,too
 auf,at
-auf,at
-auf,on
 auf,on
 aufbauen,constitute
 aufbauen,establish
@@ -3982,7 +3933,6 @@ beklagenswert,sorry
 bekommen,acquire
 bekommen,become
 bekommen,get
-bekommen,get
 bekommen,go
 bekommen,have
 bekommen,receive
@@ -4043,7 +3993,6 @@ besitzen,own
 besitzen,possess
 besondere,especial
 besondere,exceptional
-besondere,particular
 besondere,particular
 besondere,special
 besonders,especially
@@ -4267,7 +4216,6 @@ diese,those
 direkt,direct
 direkt,directly
 direkt,straight
-direkt,straight
 diskutieren,discuss
 diskutieren,hash out
 diskutieren,talk over
@@ -4430,8 +4378,6 @@ endigen,finish
 eng,narrow
 entdecken,detect
 entdecken,discover
-entdecken,discover
-entdecken,find
 entdecken,find
 entdecken,notice
 entdecken,observe
@@ -4459,7 +4405,6 @@ enthüllen,break
 enthüllen,bring out
 enthüllen,detect
 enthüllen,disclose
-enthüllen,discover
 enthüllen,discover
 enthüllen,divulge
 enthüllen,expose
@@ -4515,7 +4460,6 @@ erhöhen,get up
 erhöhen,heighten
 erhöhen,lift
 erhöhen,raise
-erhöhen,raise
 erinnern,call back
 erinnern,call up
 erinnern,recall
@@ -4561,18 +4505,15 @@ erreichen,accomplish
 erreichen,achieve
 erreichen,arrive at
 erreichen,attain
-erreichen,attain
 erreichen,gain
 erreichen,hit
 erreichen,make
-erreichen,reach
 erreichen,reach
 ersetzen,replace
 ersetzen,supercede
 ersetzen,supersede
 ersetzen,supervene upon
 ersetzen,supplant
-erst,first
 erst,first
 erst,first of all
 erst,first off
@@ -4623,7 +4564,6 @@ existieren,exist
 fallen,fall
 falsch,fake
 falsch,false
-falsch,false
 falsch,faux
 falsch,imitation
 falsch,incorrect
@@ -4653,7 +4593,6 @@ fertigstellen,complete
 fertigstellen,finish
 fest,firm
 fest,solid
-fest,solid
 festgelegt,laid
 festgelegt,set
 festgesetzt,laid
@@ -4672,7 +4611,6 @@ finanziell,fiscal
 finden,detect
 finden,discover
 finden,find
-finden,find
 finden,notice
 finden,observe
 finden,regain
@@ -4687,7 +4625,6 @@ folgend,following
 folgend,next
 fordern,ask
 fordern,bespeak
-fordern,call for
 fordern,call for
 fordern,demand
 fordern,involve
@@ -4709,7 +4646,6 @@ fragen,inquire
 frei,complimentary
 frei,costless
 frei,free
-frei,free
 frei,gratis
 frei,gratuitous
 freilassen,free
@@ -4729,11 +4665,9 @@ fremd,strange
 freundlich,friendly
 frisch,fresh
 früh,early
-früh,early
 früh,early on
 früher,erstwhile
 früher,former
-früher,old
 früher,old
 früher,one-time
 früher,onetime
@@ -4825,7 +4759,6 @@ gerade,exactly
 gerade,just
 gerade,precisely
 gerade,straight
-gerade,straight
 geradewegs,direct
 geradewegs,directly
 geradewegs,straight
@@ -4861,7 +4794,6 @@ gestatten,let
 gestatten,permit
 gesund,good for you
 gesund,healthy
-gesund,healthy
 gesund,salubrious
 getrennt,separate
 gewaltsam,violent
@@ -4870,7 +4802,6 @@ gewiss,certain
 gewiss,certainly
 gewiss,for certain
 gewiss,for sure
-gewiss,sure
 gewiss,sure
 gewiss,sure as shooting
 gewiss,sure enough
@@ -4938,7 +4869,6 @@ gründen,found
 gründen,institute
 gründen,plant
 gut,good
-gut,good
 gut,well
 guten Tag,good day
 gängig,current
@@ -4953,7 +4883,6 @@ hallo,hullo
 halten,endure
 halten,go
 halten,halt
-halten,hold
 halten,hold
 halten,hold out
 halten,hold up
@@ -5030,7 +4959,6 @@ heute abend,this evening
 heute abend,this night
 heute abend,tonight
 hier,here
-hier,here
 hier,hither
 hinauf,up
 hinauf,upward
@@ -5084,7 +5012,6 @@ häufig,often
 häufig,oftentimes
 häufig,ofttimes
 hören,hear
-hören,hear
 hören,listen
 hören,take heed
 ich heiße,my name is
@@ -5128,7 +5055,6 @@ jene,that
 jenseits,beyond
 jetzt,at present
 jetzt,now
-jetzt,now
 jung,immature
 jung,young
 kalorienarm,calorie-free
@@ -5165,7 +5091,6 @@ klein,fiddling
 klein,footling
 klein,lilliputian
 klein,little
-klein,little
 klein,niggling
 klein,petty
 klein,picayune
@@ -5182,7 +5107,6 @@ kläglich,misfortunate
 kläglich,pathetic
 kläglich,piteous
 kläglich,pitiable
-kläglich,pitiful
 kläglich,pitiful
 kläglich,poor
 kläglich,sad
@@ -5245,7 +5169,6 @@ landen,set down
 lang,long
 langsam,easy
 langsam,slow
-langsam,slow
 langsam,slowly
 langsam,tardily
 langweilig,boring
@@ -5281,7 +5204,6 @@ lehren,teach
 leicht,calorie-free
 leicht,easy
 leicht,light
-leicht,light
 leicht,lite
 leicht,low-cal
 leise,quiet
@@ -5305,7 +5227,6 @@ lesen,read
 letzte,last
 letzter,finally
 letzter,in conclusion
-letzter,last
 letzter,last
 letzter,lastly
 lieb,good
@@ -5344,7 +5265,6 @@ materiell,material
 materiell,stuff
 medizinisch,medical
 mehr,more
-mehr,more
 mehr,more than
 mehr,to a greater extent
 mehrere,several
@@ -5364,7 +5284,6 @@ mies,ugly
 militärisch,military
 mir,me
 mit,with
-mit,with
 mitten,amid
 mitten,amidst
 mitten,among
@@ -5379,7 +5298,6 @@ munter,awake
 mutmaßlich,likely
 mutmaßlich,probable
 männlich,male
-männlich,male
 männlich,manful
 männlich,manlike
 männlich,manly
@@ -5387,7 +5305,6 @@ männlich,virile
 mögen,like
 möglich,possible
 müde,tired
-nach,after
 nach,after
 nach,afterward
 nach,afterwards
@@ -5616,12 +5533,10 @@ privat,private
 probieren,assay
 probieren,attempt
 probieren,essay
-probieren,essay
 probieren,examine
 probieren,prove
 probieren,seek
 probieren,test
-probieren,try
 probieren,try
 probieren,try out
 professionell,professional
@@ -5686,7 +5601,6 @@ rezent,recent
 richtig,correct
 richtig,right
 richtig,true
-riechen,smell
 riechen,smell
 ringen,contend
 ringen,fight
@@ -5829,7 +5743,6 @@ sechzig,sixty
 sechzig,threescore
 sehen,catch
 sehen,see
-sehen,see
 sehen,take in
 sehen,view
 sehen,watch
@@ -5881,7 +5794,6 @@ sicher,certainly
 sicher,for certain
 sicher,for sure
 sicher,safe
-sicher,sure
 sicher,sure
 sicher,sure as shooting
 sicher,sure enough
@@ -5955,7 +5867,6 @@ springen,spring
 spärlich,sparse
 spärlich,thin
 spät,belatedly
-spät,late
 spät,late
 spät,tardily
 später,after
@@ -6053,7 +5964,6 @@ tasten,sense
 tatsächlich,actually
 tatsächlich,really
 tausend,1000
-tausend,1000
 tausend,G
 tausend,K
 tausend,M
@@ -6062,9 +5972,7 @@ tausend,grand
 tausend,k
 tausend,m
 tausend,one thousand
-tausend,one thousand
 tausend,thou
-tausend,thousand
 tausend,thousand
 tausend,yard
 teilen,carve up
@@ -6208,7 +6116,6 @@ unsauber,soiled
 unsauber,unclean
 unser,our
 unsere,our
-unsere,our
 unten,down
 unter,amid
 unter,amidst
@@ -6260,7 +6167,6 @@ verkörpern,stand for
 verlangen,ask
 verlangen,bespeak
 verlangen,call for
-verlangen,call for
 verlangen,demand
 verlangen,involve
 verlangen,necessitate
@@ -6272,7 +6178,6 @@ verlangen,require
 verlangen,take
 verletzen,injure
 verletzen,wound
-verlieren,lose
 verlieren,lose
 vermeiden,avoid
 vermindern,bring down
@@ -6364,7 +6269,6 @@ vollständig,complete
 vollständig,consummate
 vollständig,whole
 von,from
-von,from
 vor,ago
 vor,agone
 vor,before
@@ -6422,7 +6326,6 @@ vorstellen,acquaint
 vorstellen,correspond
 vorstellen,innovate
 vorstellen,introduce
-vorstellen,introduce
 vorstellen,present
 vorstellen,represent
 vorstellen,stand for
@@ -6440,7 +6343,6 @@ wahrlich,truly
 wahrscheinlich,belike
 wahrscheinlich,in all likelihood
 wahrscheinlich,in all probability
-wahrscheinlich,likely
 wahrscheinlich,likely
 wahrscheinlich,probable
 wahrscheinlich,probably
@@ -6477,8 +6379,6 @@ weitermachen,keep
 weitermachen,proceed
 weiß,white
 welch,which
-welch,which
-welcher,which
 welcher,which
 wen,whom
 wenig,few
@@ -6518,7 +6418,6 @@ wir,we
 wirklich,actually
 wirklich,genuinely
 wirklich,really
-wirklich,really
 wirklich,truly
 wirtschaftlich,economic
 wollen,desire
@@ -6551,12 +6450,10 @@ zerbrechlich,delicate
 zerbrechlich,fragile
 zerbrechlich,frail
 zerdrücken,crush
-zerdrücken,crush
 zerdrücken,mash
 zerdrücken,squash
 zerdrücken,squeeze
 zerdrücken,squelch
-zerquetschen,crush
 zerquetschen,crush
 zerquetschen,mash
 zerquetschen,squash
@@ -6653,7 +6550,6 @@ zwischen,betwixt
 Öl,crude oil
 Öl,fossil oil
 Öl,oil
-Öl,oil
 Öl,petroleum
 Öl,rock oil
 Überraschung,surprise
@@ -6676,7 +6572,6 @@ zwischen,betwixt
 über,higher up
 über,in a higher place
 über,to a higher place
-übereinstimmen,agree
 übereinstimmen,agree
 übereinstimmen,check
 übereinstimmen,concord
@@ -6711,5 +6606,4 @@ zwischen,betwixt
 übertreffen,top
 übertreffen,transcend
 üblich,common
-üblich,usual
 üblich,usual

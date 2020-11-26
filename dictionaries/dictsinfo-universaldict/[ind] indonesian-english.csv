@@ -138,12 +138,10 @@ amplop,envelope
 anak,child
 anak,kid
 anak laki-laki,boy
-anak laki-laki,boy
 anak laki-laki,male child
 anak laki-laki,son
 anak perempuan,daughter
 anak perempuan,fille
-anak perempuan,girl
 anak perempuan,girl
 anak perempuan,miss
 anak perempuan,missy
@@ -185,12 +183,9 @@ arloji,ticker
 arloji,watch
 arus,charge
 arus,current
-arus,current
 arus,electric charge
 arus,flow
 arus,stream
-arus,stream
-asam,acid
 asam,acid
 asap,smoke
 asap kabut,smog
@@ -232,9 +227,7 @@ bagian,component part
 bagian,constituent
 bagian,department
 bagian,part
-bagian,part
 bagian,percentage
-bagian,portion
 bagian,portion
 bagian,section
 bagian,share
@@ -256,7 +249,6 @@ bahan sampah,waste
 bahan sampah,waste material
 bahan sampah,waste matter
 bahan sampah,waste product
-bahasa,language
 bahasa,language
 bahasa,linguistic communication
 bahasa,oral communication
@@ -323,7 +315,6 @@ batu mulia,gem
 batu mulia,jewel
 batu mulia,precious stone
 batuk,cough
-batuk,cough
 batuk,coughing
 bau,aroma
 bau,odor
@@ -360,7 +351,6 @@ benar,true
 benar-benar,actually
 benar-benar,rattling
 benar-benar,real
-benar-benar,really
 benar-benar,really
 benar-benar,very
 benar-benar ada,existent
@@ -463,7 +453,6 @@ besok pagi,tomorrow
 betina,female
 betul,correct
 betul,right
-biasa,common
 biasa,common
 biasa,usual
 biasanya,by and large
@@ -610,7 +599,6 @@ curang,soiled
 curang,unclean
 dada,breast
 dada,chest
-dada,chest
 dada,pectus
 dada,thorax
 daftar,list
@@ -681,7 +669,6 @@ delapan puluh,eighty
 delapan puluh,fourscore
 delapan puluh,lxxx
 demikian,so
-dengan,with
 dengan,with
 dengan cepat,apace
 dengan cepat,chop-chop
@@ -826,7 +813,6 @@ gaya,fashion
 gaya,manner
 gaya,mode
 gaya,style
-gaya,style
 gaya,way
 gedung,building
 gedung,edifice
@@ -925,7 +911,6 @@ hidung,olfactory organ
 hidup,alive
 hidup,be
 hidup,live
-hidup,live
 himpunan,set
 hotel,hotel
 hubungan,human relationship
@@ -1005,7 +990,6 @@ irit,economical
 istimewa,especial
 istimewa,exceptional
 istimewa,particular
-istimewa,particular
 istimewa,special
 istirahat,break
 istirahat,recess
@@ -1035,7 +1019,6 @@ jangkauan,orbit
 jangkauan,range
 jangkauan,reach
 jangkauan,scope
-jantan,male
 jantan,male
 jantan,manful
 jantan,manlike
@@ -1134,7 +1117,6 @@ kamar tidur,sleeping room
 kambing,caprine animal
 kambing,goat
 kamera,camera
-kamera,camera
 kamera,photographic camera
 kamera,television camera
 kamera,tv camera
@@ -1208,7 +1190,6 @@ kedua,second
 keduanya,either
 kehidupan,life
 kehilangan,lose
-kehilangan,lose
 kehilangan,loss
 keinginan,want
 keinginan,wish
@@ -1250,7 +1231,6 @@ kemanisan,sweetness
 kematian,death
 kemauan,volition
 kemauan,will
-kemauan,will
 kemeja,shirt
 kemenangan,win
 kenangan,memory
@@ -1265,7 +1245,6 @@ kentang,spud
 kentang,tater
 kentang,white potato
 kenyataan,fact
-kepada,at
 kepada,at
 kepada,for
 kepala,caput
@@ -1328,7 +1307,6 @@ ketakutan,fearfulness
 ketakutan,fright
 ketat,tight
 ketenangan,placidity
-ketenangan,quiet
 ketenangan,quiet
 ketenangan,repose
 ketenangan,serenity
@@ -1564,7 +1542,6 @@ lima puluh,fifty
 lima puluh,l
 lingkaran,circle
 lingkungan,environment
-lingkungan,environment
 lingkungan,environs
 lingkungan,surround
 lingkungan,surroundings
@@ -1669,7 +1646,6 @@ mati,croak
 mati,dead
 mati,death
 mati,decease
-mati,decease
 mati,die
 mati,drop dead
 mati,exit
@@ -1723,7 +1699,6 @@ melewatkan,pass
 melewatkan,spend
 melihat,catch
 melihat,look
-melihat,see
 melihat,see
 melihat,take in
 melihat,view
@@ -1895,11 +1870,9 @@ mencapai,accomplish
 mencapai,achieve
 mencapai,arrive at
 mencapai,attain
-mencapai,attain
 mencapai,gain
 mencapai,hit
 mencapai,make
-mencapai,reach
 mencapai,reach
 mencegah,forbid
 mencegah,foreclose
@@ -1956,9 +1929,6 @@ menelepon,ring
 menelepon,telephone
 menemukan,detect
 menemukan,discover
-menemukan,discover
-menemukan,find
-menemukan,find
 menemukan,find
 menemukan,notice
 menemukan,observe
@@ -1970,7 +1940,6 @@ menerbitkan,publish
 menerbitkan,put out
 menerbitkan,release
 menerima,accept
-menerima,have
 menerima,have
 menerima,receive
 menerima,take
@@ -2190,8 +2159,6 @@ menunggu,hold back
 menunggu,hold off
 menunggu,look
 menunggu,wait
-menunggu,wait
-menuruni,down
 menuruni,down
 menuruni,downward
 menuruni,downwardly
@@ -2407,7 +2374,6 @@ nasihat,advice
 negara,country
 negara,land
 negara,state
-negara,state
 nenas,ananas
 nenas,pineapple
 nilai,grade
@@ -2438,7 +2404,6 @@ nyeri,hurting
 nyeri,pain
 ombak,moving ridge
 ombak,wave
-operasi,operation
 operasi,operation
 operasi,surgery
 operasi,surgical operation
@@ -2531,7 +2496,6 @@ pasti,for certain
 pasti,for sure
 pasti,last
 pasti,sure
-pasti,sure
 pasti,sure as shooting
 pasti,sure enough
 pasti,surely
@@ -2544,7 +2508,6 @@ pegangan,hold
 pekerja kasar,worker
 pekerjaan,business
 pekerjaan,chore
-pekerjaan,job
 pekerjaan,job
 pekerjaan,line
 pekerjaan,line of work
@@ -2567,7 +2530,6 @@ pelayanan,service
 pemain,actor
 pemain,histrion
 pemain,participant
-pemain,player
 pemain,player
 pemain,role player
 pemain,thespian
@@ -2610,8 +2572,6 @@ pendapat,thought
 pendapat,view
 pendek,short
 pendidikan,didactics
-pendidikan,education
-pendidikan,education
 pendidikan,education
 pendidikan,educational activity
 pendidikan,instruction
@@ -2742,7 +2702,6 @@ perjanjian,understanding
 perkara,case
 perkara,example
 perkara,instance
-perkawinan,marriage
 perkawinan,marriage
 perkawinan,marriage ceremony
 perkawinan,matrimony
@@ -2898,7 +2857,6 @@ produk,product
 produk,production
 produksi,production
 profesional,professional
-profesional,professional
 profesional,professional person
 program,computer program
 program,computer programme
@@ -2908,7 +2866,6 @@ prosedur,procedure
 prosedur,process
 proses,physical process
 proses,process
-protes,protest
 protes,protest
 protes,protestation
 proyek,project
@@ -2949,7 +2906,6 @@ rahasia,cloak-and-dagger
 rahasia,hole-and-corner
 rahasia,hugger-mugger
 rahasia,hush-hush
-rahasia,secret
 rahasia,secret
 rahasia,surreptitious
 rahasia,undercover
@@ -3066,7 +3022,6 @@ sayang,dear
 sayang,dearest
 sayang,honey
 sayang,love
-sayang,love
 sayap,wing
 sebab,for
 sebagai,as
@@ -3088,7 +3043,6 @@ sedih,distressing
 sedih,lamentable
 sedih,pitiful
 sedih,sad
-sedih,sad
 sedih,sorry
 sedikit,little
 segalanya,everything
@@ -3101,7 +3055,6 @@ segi empat,square
 sehat,good
 sehat,good for you
 sehat,healthy
-sehat,healthy
 sehat,salubrious
 sehat,well
 sejajar,parallel
@@ -3111,7 +3064,6 @@ sekali,once
 sekali,one time
 sekarang,at present
 sekarang,here
-sekarang,now
 sekarang,now
 sekejap,instant
 sekejap,minute
@@ -3247,7 +3199,6 @@ serangan,onslaught
 serangga,insect
 serangkaian,set
 seribu,1000
-seribu,1000
 seribu,G
 seribu,K
 seribu,M
@@ -3256,9 +3207,7 @@ seribu,grand
 seribu,k
 seribu,m
 seribu,one thousand
-seribu,one thousand
 seribu,thou
-seribu,thousand
 seribu,thousand
 seribu,yard
 sering,frequent
@@ -3274,7 +3223,6 @@ seruan,outcry
 seruan,shout
 seruan,vociferation
 seruan,yell
-sesudah,after
 sesudah,after
 sesudah,afterward
 sesudah,afterwards
@@ -3625,7 +3573,6 @@ unsur,chemical element
 unsur,component
 unsur,constituent
 unsur,element
-unsur,element
 unsur,factor
 unsur,ingredient
 untuk industri,industrial
@@ -3688,7 +3635,6 @@ wewenang,authority
 wewenang,authorization
 wewenang,control
 wewenang,dominance
-wewenang,dominance
 wewenang,potency
 wewenang,say-so
 wol,wool
@@ -3696,7 +3642,6 @@ wortel,Daucus carota sativa
 wortel,carrot
 wortel,cultivated carrot
 ya,yes
-yang,which
 yang,which
 yang berhubungan dengan keuangan,financial
 yang berhubungan dengan keuangan,fiscal

@@ -86,7 +86,6 @@ Koj puas nyob zoo?,"How are you?, hello"
 Koj puas paub kub tug kwv?,Do you know my younger brother
 Koj puas paub kuv niam?,Do you know my mother?
 Koj puas paub kuv txiv?,Do you know my father?
-Koj puas paub kuv txiv?,Do you know my father?
 Koj puas paub nyeem ntawv?,Can you read?
 Koj puas paub tsav?,Do you know how to drive?
 Koj puas tau muaj menyuam?,Do you have any children?
@@ -107,7 +106,6 @@ Koj ua dabtsi?,What are you doing?
 Koj ua haujlwm dabtsi?,What do you do?
 Koj ua haujlwm qhovtwg?,Where do you work?
 Koj yog leej twg?,Who are you?
-Koj yog xeem dabtsi?,What is your last name?
 Koj yog xeem dabtsi?,What is your last name?
 Koj yuav dabtsi?,What did you buy?
 Koj yuav mus qhovtwg?,Where are you going?
@@ -546,7 +544,6 @@ cem quav,constipation
 cereal,cereal
 ces,then
 ces dag,superficial
-ces kaum,corner
 ces kaum,corner
 cev ntas,menstruate
 cev ntoo,trunk
@@ -1434,7 +1431,6 @@ hnub peb,wednesday
 hnub plaub,thursday
 hnub poob,dawn (1)
 hnub poob,sundown
-hnub poob,sundown
 hnub poob,sunrise
 hnub poob qho,sunset
 hnub qub,star
@@ -2210,7 +2206,6 @@ kev ua qab yias,crater
 kev ua qias tuaj,pollution
 kev ua rov qab,reaction
 kev ua tau yog,morals
-kev ua tau yog,morals
 kev ua tej pab tej pawg,tribe
 kev ua tej yam dab tsi,performance
 kev ua tsim,design
@@ -2958,7 +2953,6 @@ lug kev,detour
 luj,"mongoose, skunk, donkey"
 luj kev hnyav,weigh
 luj khau,heel of shoe
-luj khob,cup
 luj khob,cup
 luj taw,heel
 luj taws,heel of foot
@@ -3766,7 +3760,6 @@ nkawm vuam txwj,socks
 nkee,pooped
 nkees,"tired, lethargic"
 nkees dua,more tired
-nkees dua,more tired
 nkees kawg li,most tired
 nkees kawg li,very tired
 nkees tshaj plaws,"most tired, very tired"
@@ -3808,7 +3801,6 @@ noj mov,to eat
 noj nqaij,carnivorous
 noj nroj tsuag,herbivorous
 noj ntau heev,overeat
-noj qab nyob zoo,fine
 noj qab nyob zoo,fine
 noj qhuav,eat only one food item
 noj rau,full
@@ -4079,7 +4071,6 @@ nrov heev nthe,volatile
 nrov suab yau yau,muffle
 nru,"uvula, tonsil, glottis"
 nrua,stick
-nrua,stick
 nruab,flattened-out bamboo
 nruab hnub,daytime
 nruab nrab,mean
@@ -4110,15 +4101,12 @@ ntaj,sword
 ntas,pole
 ntau,"abundant, great, many, much, multiple, plenty"
 ntau dua,more
-ntau dua,more
 ntau heev,"considerable, excess, much, plentiful, so much"
 ntau hom,variety
 ntau npaug,times
 ntau ntau,numerous
 ntau ntxiv,more
-ntau ntxiv,more
 ntau pua,hundreds
-ntau tshaj,more than
 ntau tshaj,more than
 ntau tshaj ib tus,plural
 ntau xyoo,years
@@ -4129,7 +4117,6 @@ ntau yam los sib txuam,coincidence
 ntau yam neeg kev cai,multiculturalk (1)
 ntau yam xim,colorful
 ntau zaug,"many times, times"
-ntau zuj zus,increase
 ntau zuj zus,increase
 ntaub,"fabric, material, cloth, linen"
 ntaub cee zis,diaper
@@ -4488,7 +4475,6 @@ ntxhua,"scrub, wash"
 ntxhua khaub ncaws,launder
 ntxhuab,clumps of moss
 ntxhuab,moss
-ntxhuab,moss
 ntxhuav,"camel, hairy"
 ntxhw,elephant
 ntxhw dej,hippopotamus
@@ -4517,12 +4503,10 @@ ntxiv sij hawm ntxiv,extend
 ntxiv tag nrho,tabulate
 ntxivre,pair
 ntxo tej kaug me me,morsel
-ntxo tej kaug me me,morsel
 ntxoov,cloudy
 ntxoov,outcast
 ntxoov ntxoo,shade
 ntxov,early
-ntxuag,include
 ntxuag,include
 ntxuaj,"fan, flap"
 ntxuaj mus ntxuaj los,flutter
@@ -4538,12 +4522,10 @@ nub qub,star
 nug,"ask, prosecute, question"
 nug,question
 nug hmoo,contact
-nug hmoo,contact
 nug kom tau ib yam dab tsi,claim (1)
 nug qhov tseeb,interview
 nug seb cov neeg xav lis cas,poll
 nug seb nws puas kam yuav kuv,proposal
-nug xov,contact
 nug xov,contact
 nug xyuas,investigate
 nuj nqi,debt
@@ -4850,7 +4832,6 @@ pejxeem,population
 pejxeem huabhwm,"citizens, people"
 pem,"up obove, up above"
 pem,up the hill
-pem hauv ntej,front
 pem hauv ntej,front
 pem yaj sab,rural
 pev cia li noj,The rice is done. Let's eat.
@@ -5279,7 +5260,6 @@ qaug cawv,drunk
 qaug dab peg,"eplepsy, epilepsy"
 qaug dabpeg,seizure
 qaug qav,morning sickness
-qaug qav,morning sickness
 qaug tshav ntuj,sunstroke
 qaug zog,"fatigue, exhaustion, weak (1)"
 qauj,"fail to hatch, unhatched"
@@ -5347,7 +5327,6 @@ qhia rau,"declare, guide, suggest, recommend"
 qhia saib vim li cas,reason (1)
 qhia tau meej heev,explicit
 qhia tau rau,indicator
-qhia tau rau,indicator
 qhia thiab qhuas,recomend
 qhia tias muaj tseeb,verify
 qhia tias muaj tswv lawm,possessive
@@ -5363,9 +5342,7 @@ qhia txog yam tshiab,"ornament, orientation"
 qhia txoj hau kev,guide
 qhia ua,supervise
 qhiab,open
-qhiab,open
 qhiav,ginger
-qhib,open
 qhib,open
 qho cua dhau,vent
 qhob noom,candy
@@ -5398,7 +5375,6 @@ qhov dej tua hluav taws,fire hydrant
 qhov fwj kom khov,splint
 qhov fwj kom txhob txav tau,splint
 qhov hauv ntsuab ntsab,average
-qhov hauv qab,bottom
 qhov hauv qab,bottom
 qhov hlau,mineral (1)
 qhov hws,pores
@@ -5629,12 +5605,10 @@ raug neeg zoo,aociable
 raug nplua,punitive
 raug npluag,charge
 raug nqi,cost
-raug nqi,cost
 raug plaub,sue
 raug raws cai,legal
 raug raws ntaub ntawv,official
 raug siab,arouse
-raug teeb meem,trouble
 raug teeb meem,trouble
 raug tshem tawm,"bench, suspension"
 raug tsim txom,victim
@@ -6156,7 +6130,6 @@ tas ke cia siab,succumb
 tas luav,cartoon
 tas siab,satisfactory
 tas siab,satisfied
-tas siab,satisfied
 tas simneej,lifetime
 tas ub no,general
 tas zim tawv,deceased
@@ -6214,7 +6187,6 @@ taw,foot
 taw,"leg, aim, foot"
 taw kev,show
 taw npua,"barrow, boar"
-taw qhia tau,indicator
 taw qhia tau,indicator
 taw rau,aim
 taw ris,hem
@@ -6659,7 +6631,6 @@ tsaus,dark
 tsaus fuab,outcast
 tsaus muag,blackout
 tsaus muag,faint
-tsaus muag,faint
 tsaus ntuj zuag,dusk
 tsav,"drive, steer car, steer bicycle"
 tsav tsheb,driver
@@ -6799,7 +6770,6 @@ tshaj plaws,most
 tshaj sijhawm,overtime
 tshaj tawm,declaration
 tshaj tawm,"declare, proclaim, propose, publicity"
-tshaj tej ntawm,moreover
 tshaj tej ntawm,moreover
 tshaj xo,advertize
 tshaj xo tawm,declare (1)
@@ -7502,7 +7472,6 @@ tus saib xyuas haujlwm,boss
 tus sau,scribe
 tus siab,depressed
 tus so tsev,mop
-tus so tsev,mop
 tus tau cai los tu me nyuam,foster parent
 tus tawm tswv yim pab,consultant
 tus thaj mom kho tsiaj,veterinarian
@@ -7703,7 +7672,6 @@ txhawj xeeb,"depression, qualms, stress"
 txhawj xeeb txog yus tus kheej,self-conscious
 txhawm,set aside
 txhawm chim,choke
-txhawm rau ib cag,set aside
 txhawm rau ib cag,set aside
 txhaws,"clog, plugged up"
 txhawv,plant sprout
@@ -8051,7 +8019,6 @@ ua kom muaj zog,fortify
 ua kom muaj zog ntxhiv,strengthen
 ua kom ncaj kab,align
 ua kom nrov loj,amplify
-ua kom ntau,increase
 ua kom ntau,increase
 ua kom ntshai,"scared, scare"
 ua kom nws me zog me zog,shrink

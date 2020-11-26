@@ -211,25 +211,17 @@ dan,solar day
 dan,twenty-four hour period
 dan,twenty-four hours
 dati,give
-dati,give
 datum (m),date
 datum (m),day of the month
 davati,give
-davati,give
-deset,10
 deset,10
 deset,ten
-deset,ten
-deset,x
 deset,x
 devedeset,90
 devedeset,ninety
 devedeset,xc
 devet,9
-devet,9
 devet,ix
-devet,ix
-devet,nine
 devet,nine
 devetnaest,19
 devetnaest,nineteen
@@ -259,10 +251,7 @@ drvo (n),tree
 država,state
 duga,rainbow
 dva,2
-dva,2
 dva,ii
-dva,ii
-dva,two
 dva,two
 dvadeset,20
 dvadeset,twenty
@@ -374,10 +363,7 @@ igrač,participant
 igrač,player
 ili,or
 imati,have
-imati,have
 imati,have got
-imati,have got
-imati,hold
 imati,hold
 ime,name
 imenovati,call
@@ -403,19 +389,14 @@ jaje,egg
 japanski,Japanese
 japanski (m),Japanese
 jedan,1
-jedan,1
-jedan,ane
 jedan,ane
 jedan,i
-jedan,i
-jedan,one
 jedan,one
 jedanaest,11
 jedanaest,eleven
 jedanaest,xi
 jesen,autumn
 jesen,fall
-jesti,eat
 jesti,eat
 jezik,clapper
 jezik,glossa
@@ -463,7 +444,6 @@ ključ,key
 ključ (m),key
 knjiga,book
 knjiga,volume
-ko,who
 ko,who
 koncert,concert
 konj,Equus caballus
@@ -519,7 +499,6 @@ kutija (f),box
 kuća,house
 kvadrat,foursquare
 kvadrat,second power
-kvadrat,square
 kvadrat,square
 kćerka (f),daughter
 kćerka (f),girl
@@ -594,14 +573,9 @@ memorija,retentivity
 menadžment,direction
 menadžment,management
 merhaba,hello
-merhaba,hello
-merhaba,hi
 merhaba,hi
 merhaba,how-do-you-do
-merhaba,how-do-you-do
 merhaba,howdy
-merhaba,howdy
-merhaba,hullo
 merhaba,hullo
 meso,meat
 metal,metal
@@ -647,8 +621,6 @@ mrkva,Daucus carota sativa
 mrkva,carrot
 mrkva,cultivated carrot
 mrziti,detest
-mrziti,detest
-mrziti,hate
 mrziti,hate
 mržnja,hate
 mržnja,hatred
@@ -693,11 +665,8 @@ narandža,orange
 nauke,science
 nauke,scientific discipline
 ne,non
-ne,non
-ne,not
 ne,not
 nebo,sky
-nikad,never
 nikad,never
 noga,leg
 noga (f),leg
@@ -720,7 +689,6 @@ noć (f),nighttime
 nož,knife
 oblak,cloud
 obrazovanje,didactics
-obrazovanje,education
 obrazovanje,education
 obrazovanje,educational activity
 obrazovanje,instruction
@@ -801,10 +769,7 @@ perje,feather
 perje,plumage
 perje,plume
 pet,5
-pet,5
 pet,five
-pet,five
-pet,v
 pet,v
 petnaest,15
 petnaest,fifteen
@@ -812,14 +777,9 @@ petnaest,xv
 pirinač,rice
 pirinač (m),rice
 pitati,ask
-pitati,ask
-pitati,enquire
 pitati,enquire
 pitati,inquire
-pitati,inquire
 piti,drink
-piti,drink
-piti,imbibe
 piti,imbibe
 pivo,beer
 piće,beverage
@@ -965,8 +925,6 @@ sabiranje,addition
 sabiranje,plus
 sabiranje,summation
 sad,at present
-sad,at present
-sad,now
 sad,now
 sapun,soap
 sat,60 minutes
@@ -992,14 +950,9 @@ sekunda,s
 sekunda,sec
 sekunda,second
 selam,hello
-selam,hello
-selam,hi
 selam,hi
 selam,how-do-you-do
-selam,how-do-you-do
 selam,howdy
-selam,howdy
-selam,hullo
 selam,hullo
 sendvič,sandwich
 sila,force
@@ -1064,7 +1017,6 @@ srebro,silver
 sretan (m),lucky
 stablo (n),tree
 staklo,glass
-star,old
 star,old
 stepen,degree
 stijena,rock
@@ -1161,10 +1113,7 @@ trešnja,cherry
 trgovati,sell
 trgovina,trade
 tri,3
-tri,3
 tri,iii
-tri,iii
-tri,three
 tri,three
 trideset,30
 trideset,thirty
@@ -1252,8 +1201,6 @@ zabava,entertainment
 zadovoljstvo,pleasance
 zadovoljstvo,pleasure
 zahvaliti,give thanks
-zahvaliti,give thanks
-zahvaliti,thank
 zahvaliti,thank
 zapad,W
 zapad,due west
@@ -1264,14 +1211,9 @@ zašto,why
 zdravlje,health
 zdravlje,wellness
 zdravo,hello
-zdravo,hello
-zdravo,hi
 zdravo,hi
 zdravo,how-do-you-do
-zdravo,how-do-you-do
 zdravo,howdy
-zdravo,howdy
-zdravo,hullo
 zdravo,hullo
 zelena,dark-green
 zelena,green
@@ -1299,14 +1241,9 @@ zub,tooth
 zvijezda,star
 zvuk,sound
 ćao,hello
-ćao,hello
-ćao,hi
 ćao,hi
 ćao,how-do-you-do
-ćao,how-do-you-do
 ćao,howdy
-ćao,howdy
-ćao,hullo
 ćao,hullo
 ćelija,cell
 ćerka (f),daughter
@@ -1330,7 +1267,6 @@ zvuk,sound
 čovjek,homo
 čovjek,human
 čovjek,human being
-čovjek,man
 čovjek,man
 čovjek (m),adult male
 čovjek (m),man

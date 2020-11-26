@@ -65,7 +65,6 @@ Other,English
 [de] aardappel,white potato
 [de] aarde,Earth
 [de] aarde,earth
-[de] aarde,earth
 [de] aarde,globe
 [de] aarde,ground
 [de] aarde,world
@@ -81,7 +80,6 @@ Other,English
 [de] acteur,player
 [de] acteur,role player
 [de] acteur,thespian
-[de] actie,action
 [de] actie,action
 [de] actie,activeness
 [de] actie,activity
@@ -246,7 +244,6 @@ Other,English
 [de] borst,chest
 [de] borstel,brush
 [de] borstkast,breast
-[de] borstkast,chest
 [de] borstkast,chest
 [de] borstkast,pectus
 [de] borstkast,thorax
@@ -445,7 +442,6 @@ Other,English
 [de] envelop,envelope
 [de] enveloppe,envelope
 [de] ervaring,experience
-[de] ervaring,experience
 [de] evolutie,development
 [de] evolutie,evolution
 [de] expert,expert
@@ -500,11 +496,9 @@ Other,English
 [de] fout,fault
 [de] fout,mistake
 [de] functie,function
-[de] functie,function
 [de] functie,office
 [de] functie,part
 [de] functie,purpose
-[de] functie,role
 [de] functie,role
 [de] functie,use
 [de] garage,garage
@@ -568,7 +562,6 @@ Other,English
 [de] golf,wave
 [de] gooi,throw
 [de] gootsteen,sink
-[de] graad,degree
 [de] graad,degree
 [de] graad,grade
 [de] graad,level
@@ -647,7 +640,6 @@ Other,English
 [de] hond,dog
 [de] hond,domestic dog
 [de] hoofdstad,capital
-[de] hoofdstad,capital
 [de] hoofdstad,working capital
 [de] hoogte,altitude
 [de] hoogte,height
@@ -671,7 +663,6 @@ Other,English
 [de] informatie,data
 [de] informatie,info
 [de] informatie,information
-[de] informatie,information
 [de] ingeving,idea
 [de] ingeving,thought
 [de] inkt,ink
@@ -692,7 +683,6 @@ Other,English
 [de] juli,July
 [de] juni,June
 [de] kaart,bill of fare
-[de] kaart,card
 [de] kaart,card
 [de] kaart,carte
 [de] kaart,carte du jour
@@ -848,7 +838,6 @@ Other,English
 [de] marktplaats,marketplace
 [de] massa,bulk
 [de] massa,mass
-[de] massa,mass
 [de] massa,volume
 [de] materie,matter
 [de] matroos,crewman
@@ -928,7 +917,6 @@ Other,English
 [de] nacht,night
 [de] nacht,nighttime
 [de] nagel,nail
-[de] nagel,nail
 [de] namiddag,afternoon
 [de] natie,country
 [de] natie,land
@@ -954,7 +942,6 @@ Other,English
 [de] oktober,October
 [de] olie,oil
 [de] olifant,elephant
-[de] omgeving,environment
 [de] omgeving,environment
 [de] omgeving,environs
 [de] omgeving,surround
@@ -987,7 +974,6 @@ Other,English
 [de] opinie,sentiment
 [de] opinie,thought
 [de] opinie,view
-[de] opleiding,education
 [de] opleiding,education
 [de] opoe,gramps
 [de] opoe,grandad
@@ -1136,9 +1122,7 @@ Other,English
 [de] relatie,relation
 [de] relatie,relationship
 [de] religie,faith
-[de] religie,faith
 [de] religie,organized religion
-[de] religie,religion
 [de] religie,religion
 [de] religie,religious belief
 [de] rente,interest
@@ -1311,7 +1295,6 @@ Other,English
 [de] stijl,manner
 [de] stijl,mode
 [de] stijl,style
-[de] stijl,style
 [de] stijl,way
 [de] stoel,chair
 [de] stok,stick
@@ -1328,9 +1311,7 @@ Other,English
 [de] strijd,competition
 [de] strijd,contest
 [de] stroom,current
-[de] stroom,current
 [de] stroom,flow
-[de] stroom,stream
 [de] stroom,stream
 [de] stropdas,necktie
 [de] stropdas,tie
@@ -1347,8 +1328,6 @@ Other,English
 [de] sun,sun
 [de] supermarkt,supermarket
 [de] taal,language
-[de] taal,language
-[de] taal,language
 [de] taal,linguistic communication
 [de] taal,natural language
 [de] taal,oral communication
@@ -1363,7 +1342,6 @@ Other,English
 [de] tafel,table
 [de] tak,branch
 [de] tand,tooth
-[de] tas,bag
 [de] tas,bag
 [de] tas,handbag
 [de] tas,pocketbook
@@ -1587,7 +1565,6 @@ Other,English
 [de] wol,wool
 [de] wolk,cloud
 [de] worp,throw
-[de] wortel,root
 [de] wortel,root
 [de] zaak,business
 [de] zaak,business concern
@@ -1814,7 +1791,6 @@ Other,English
 [het] dak,roof
 [het] deel,division
 [het] deel,part
-[het] deel,part
 [het] deel,percentage
 [het] deel,portion
 [het] deel,section
@@ -1850,7 +1826,6 @@ Other,English
 [het] element,chemical element
 [het] element,component
 [het] element,constituent
-[het] element,element
 [het] element,element
 [het] element,factor
 [het] element,ingredient
@@ -1912,7 +1887,6 @@ Other,English
 [het] gezicht,human face
 [het] glas,drinking glass
 [het] glas,glass
-[het] glas,glass
 [het] gordijn,curtain
 [het] gordijn,drape
 [het] gordijn,drapery
@@ -1923,7 +1897,6 @@ Other,English
 [het] goud,gold
 [het] graan,grain
 [het] gras,grass
-[het] haar,hair
 [het] haar,hair
 [het] haar,pilus
 [het] hart,heart
@@ -1942,7 +1915,6 @@ Other,English
 [het] hotel,hotel
 [het] hout,wood
 [het] huis,house
-[het] huwelijk,marriage
 [het] huwelijk,marriage
 [het] huwelijk,marriage ceremony
 [het] huwelijk,matrimony
@@ -2003,7 +1975,6 @@ Other,English
 [het] land,earth
 [het] land,ground
 [het] land,land
-[het] land,land
 [het] land,solid ground
 [het] land,state
 [het] land,terra firma
@@ -2016,7 +1987,6 @@ Other,English
 [het] leger,ground forces
 [het] leger,regular army
 [het] lemmet,blade
-[het] leven,life
 [het] leven,life
 [het] licht,light
 [het] licht,visible light
@@ -2171,13 +2141,11 @@ Other,English
 [het] proces,physical process
 [het] proces,procedure
 [het] proces,process
-[het] proces,process
 [het] product,product
 [het] product,production
 [het] protest,protest
 [het] protest,protestation
 [het] publiek,populace
-[het] publiek,public
 [het] publiek,public
 [het] publiek,world
 [het] raadgevend lichaam,council
@@ -2345,9 +2313,7 @@ Other,English
 [het] voetbal,football game
 [het] voorbeeld,case
 [het] voorbeeld,example
-[het] voorbeeld,example
 [het] voorbeeld,illustration
-[het] voorbeeld,instance
 [het] voorbeeld,instance
 [het] voorbeeld,representative
 [het] voordeel,advantage
@@ -2381,7 +2347,6 @@ Other,English
 [het] welzijn,wellness
 [het] werk,business
 [het] werk,chore
-[het] werk,job
 [het] werk,job
 [het] werk,line
 [het] werk,line of work
@@ -2533,11 +2498,9 @@ Other,English
 [wij] bereiken,achieve
 [wij] bereiken,arrive at
 [wij] bereiken,attain
-[wij] bereiken,attain
 [wij] bereiken,gain
 [wij] bereiken,hit
 [wij] bereiken,make
-[wij] bereiken,reach
 [wij] bereiken,reach
 [wij] beschouwen,consider
 [wij] beschouwen,reckon
@@ -2691,7 +2654,6 @@ Other,English
 [wij] gebruiken,utilize
 [wij] geloven,believe
 [wij] geven,give
-[wij] geven,give
 [wij] geven,hand
 [wij] geven,pass
 [wij] geven,pass on
@@ -2829,7 +2791,6 @@ Other,English
 [wij] leren,instruct
 [wij] leren,larn
 [wij] leren,learn
-[wij] leren,learn
 [wij] leren,teach
 [wij] leven,be
 [wij] leven,live
@@ -2857,7 +2818,6 @@ Other,English
 [wij] meten,measure
 [wij] meten,measure out
 [wij] meten,mensurate
-[wij] missen,miss
 [wij] missen,miss
 [wij] moedigen aan,encourage
 [wij] naaien,run up
@@ -2912,7 +2872,6 @@ Other,English
 [wij] ordenen,order
 [wij] ordenen,say
 [wij] ordenen,tell
-[wij] overhandigen,give
 [wij] overhandigen,give
 [wij] overhandigen,hand
 [wij] overhandigen,pass
@@ -3033,7 +2992,6 @@ Other,English
 [wij] roepen,squall
 [wij] roepen,yell
 [wij] roken,smoke
-[wij] ruiken,smell
 [wij] ruiken,smell
 [wij] schieten,fire
 [wij] schieten,open fire
@@ -3174,7 +3132,6 @@ Other,English
 [wij] verlangen,quest
 [wij] verlangen,request
 [wij] verliezen,lose
-[wij] verliezen,lose
 [wij] verlossen,free
 [wij] verlossen,liberate
 [wij] verlossen,loose
@@ -3217,7 +3174,6 @@ Other,English
 [wij] verzenden,post
 [wij] verzenden,send
 [wij] vinden,discover
-[wij] vinden,find
 [wij] vinden,find
 [wij] vinden,regain
 [wij] vliegen,fly
@@ -3442,7 +3398,6 @@ ander,another
 ander,other
 ander,some other
 anders,different
-anders,different
 anders,dissimilar
 anders,unlike
 antwoorden,answer
@@ -3455,7 +3410,6 @@ arm,pathetic
 arm,piteous
 arm,pitiable
 arm,pitiful
-arm,poor
 arm,poor
 arm,wretched
 atmosfeer,air
@@ -3541,11 +3495,9 @@ bereiken,accomplish
 bereiken,achieve
 bereiken,arrive at
 bereiken,attain
-bereiken,attain
 bereiken,gain
 bereiken,hit
 bereiken,make
-bereiken,reach
 bereiken,reach
 berooid,poor
 beschikbaar,available
@@ -3628,7 +3580,6 @@ bijvoegen,add
 bijzonder,especial
 bijzonder,especially
 bijzonder,exceptional
-bijzonder,particular
 bijzonder,particular
 bijzonder,particularly
 bijzonder,peculiarly
@@ -3834,7 +3785,6 @@ duidelijk,patently
 duidelijk,plain
 duidelijk,plainly
 duizend,1000
-duizend,1000
 duizend,G
 duizend,K
 duizend,M
@@ -3843,13 +3793,10 @@ duizend,grand
 duizend,k
 duizend,m
 duizend,one thousand
-duizend,one thousand
 duizend,thou
-duizend,thousand
 duizend,thousand
 duizend,yard
 dun,sparse
-dun,thin
 dun,thin
 duwen,force
 duwen,push
@@ -3871,7 +3818,6 @@ echter,yet
 ecologie,bionomics
 ecologie,ecology
 ecologie,environmental science
-economisch,economic
 economisch,economic
 economisch,economical
 een,a
@@ -3899,7 +3845,6 @@ eerbiedigen,observe
 eerbiedigen,respect
 eerst,first
 eerste,1st
-eerste,first
 eerste,first
 eerste,first of all
 eerste,first off
@@ -4079,7 +4024,6 @@ gevecht,scrap
 geven,give
 gewelddadig,violent
 gewoon,common
-gewoon,common
 gewoon,usual
 gewoonlijk,commonly
 gewoonlijk,normally
@@ -4089,7 +4033,6 @@ gewoonlijk,usually
 gezet,fat
 gezette,fat
 gezond,good for you
-gezond,healthy
 gezond,healthy
 gezond,salubrious
 gezonde,healthy
@@ -4112,7 +4055,6 @@ glimlach,grinning
 glimlach,smile
 glimlach,smiling
 glimlachen,smile
-goed,good
 goed,good
 goed,well
 goed doen,benefit
@@ -4215,7 +4157,6 @@ het eens zijn,concur
 het eens zijn,hold
 het spijt me,sorry
 hetzelfde,same
-hier,here
 hier,here
 hier,hither
 hij,he
@@ -4396,7 +4337,6 @@ kwetsen,wound
 laag,low
 laat,belatedly
 laat,late
-laat,late
 laat,tardily
 laatste,last
 lachen,express joy
@@ -4434,7 +4374,6 @@ leren,acquire
 leren,instruct
 leren,larn
 leren,learn
-leren,learn
 leren,teach
 leven,be
 leven,live
@@ -4471,7 +4410,6 @@ manier,agency
 manier,means
 manier,way
 mannelijk,male
-mannelijk,male
 mannelijk,manful
 mannelijk,manlike
 mannelijk,manly
@@ -4480,14 +4418,12 @@ markering,mark
 markering,marker
 markering,marking
 meer,more
-meer,more
 meer,more than
 meer,to a greater extent
 meerderheid,bulk
 meerderheid,majority
 mei,May
 menselijk,human
-met,with
 met,with
 metalen,metal
 metalen,metallic
@@ -4525,7 +4461,6 @@ misschien,perchance
 misschien,perhaps
 misschien,possibly
 missen,miss
-missen,miss
 mist,fog
 mode,style
 mode,trend
@@ -4550,13 +4485,11 @@ momenteel,at present
 momenteel,now
 mooi,beautiful
 morgen,tomorrow
-morgen,tomorrow
 na,behind
 naaien,run up
 naaien,sew
 naaien,sew together
 naaien,stitch
-naar,at
 naar,at
 naast,beside
 nat,wet
@@ -4601,11 +4534,9 @@ nodig hebben,need
 noemen,advert
 noemen,bring up
 noemen,call
-noemen,call
 noemen,call up
 noemen,cite
 noemen,mention
-noemen,name
 noemen,name
 noemen,phone
 noemen,refer
@@ -4684,8 +4615,6 @@ ons,our
 ons,us
 ontdekken,detect
 ontdekken,discover
-ontdekken,discover
-ontdekken,find
 ontdekken,find
 ontdekken,notice
 ontdekken,observe
@@ -4735,7 +4664,6 @@ ook,besides
 ook,likewise
 ook,too
 oorzaak,cause
-op,on
 op,on
 op de post doen,mail
 op de post doen,post
@@ -4845,7 +4773,6 @@ peer,pear
 persoonlijk,personal
 perzik,peach
 plaats,place
-plaats,place
 plaats,seat
 plaats,spot
 plaats,topographic point
@@ -4892,12 +4819,10 @@ precies,precisely
 proberen,assay
 proberen,attempt
 proberen,essay
-proberen,essay
 proberen,examine
 proberen,prove
 proberen,seek
 proberen,test
-proberen,try
 proberen,try
 proberen,try out
 productie,production
@@ -4927,7 +4852,6 @@ rapporteren,report
 reactie,reaction
 recht,direct
 recht,directly
-recht,straight
 recht,straight
 rechte,straight
 rechts,right
@@ -4981,7 +4905,6 @@ rood,scarlet
 roze,pink
 roze,pinkish
 ruiken,smell
-ruiken,smell
 rust,ease
 rust,relaxation
 rust,repose
@@ -5026,7 +4949,6 @@ schoonmaken,make clean
 schop,boot
 schop,kick
 schop,kicking
-schreeuwen,call
 schreeuwen,call
 schreeuwen,call up
 schreeuwen,cry
@@ -5156,12 +5078,9 @@ stil,still
 stilte,quiet
 stilte,silence
 stinken,smell
-stinken,smell
 stom,stupid
 stomme,stupid
 stoppen,halt
-stoppen,halt
-stoppen,stop
 stoppen,stop
 storm,storm
 storm,violent storm
@@ -5193,7 +5112,6 @@ tegenovergesteld,opposite
 tegenwoordig,current
 tegenwoordig,nowadays
 tegenwoordig,present
-tegenwoordig,present
 teken,mark
 teken,marker
 teken,marking
@@ -5215,7 +5133,6 @@ ten slotte,last
 ten slotte,lastly
 terugkomst,homecoming
 terugkomst,return
-teweegbrengen,cause
 teweegbrengen,cause
 teweegbrengen,get
 teweegbrengen,have
@@ -5339,11 +5256,9 @@ val,tumble
 vallen,fall
 vals,fake
 vals,false
-vals,false
 vals,faux
 vals,imitation
 vals,simulated
-van,from
 van,from
 van,of
 van,off
@@ -5354,7 +5269,6 @@ van plan zijn,think
 vanavond,this evening
 vanavond,this night
 vanavond,tonight
-vandaag,today
 vandaag,today
 vannacht,this evening
 vannacht,this night
@@ -5378,7 +5292,6 @@ veertig,twoscore
 veertig,xl
 veilig,safe
 velen,many
-ver,far
 ver,far
 veranderen,alter
 veranderen,change
@@ -5433,7 +5346,6 @@ verlangen,bespeak
 verlangen,call for
 verlangen,quest
 verlangen,request
-verliezen,lose
 verliezen,lose
 verlossen,free
 verlossen,liberate
@@ -5604,7 +5516,6 @@ vreemd,strange
 vriendelijk,friendly
 vrij,free
 vroeg,early
-vroeg,early
 vroeg,early on
 vroegere,erstwhile
 vroegere,former
@@ -5627,7 +5538,6 @@ waarom,why
 waarschijnlijk,belike
 waarschijnlijk,in all likelihood
 waarschijnlijk,in all probability
-waarschijnlijk,likely
 waarschijnlijk,likely
 waarschijnlijk,probable
 waarschijnlijk,probably
@@ -5677,7 +5587,6 @@ weinig,few
 welbewust,conscious
 welbewust,witting
 welke,which
-welke,which
 wellicht,maybe
 wellicht,mayhap
 wellicht,peradventure
@@ -5726,7 +5635,6 @@ zeker,certain
 zeker,certainly
 zeker,for certain
 zeker,for sure
-zeker,sure
 zeker,sure
 zeker,sure as shooting
 zeker,sure enough

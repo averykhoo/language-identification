@@ -7,12 +7,10 @@ Other,English
 1 Lúnasa,August 1
 1 Samhain,November 1
 100,100
-100,100
 11 Meán Fómhair,September 11
 11 Samhain,November 11
 12 Deireadh Fómhair,October 12
 12 Feabhra,February 12
-13,13
 13,13
 14 Aibreán,April 14
 14 Feabhra,February 14
@@ -86,7 +84,6 @@ Other,English
 68,68
 69,69
 7,7
-7,7
 70,70
 71,71
 72,72
@@ -140,7 +137,6 @@ Aigéad aicéiteach,Acetic acid
 Ailceimic,Alchemy
 Ailfrid Mór,Alfred the Great
 Ailtireacht,Architecture
-Ailtireacht,Architecture
 Aimitis,Amethyst
 Aimpéar,Ampere
 Aimsir,Weather
@@ -151,7 +147,6 @@ Airgeadra,Currency
 Airméinis,Armenian language
 Al Capone,Al Capone
 Al Gore,Al Gore
-Alabama,Alabama
 Alabama,Alabama
 Alan Turing,Alan Turing
 Alasca,Alaska
@@ -185,8 +180,6 @@ An Afraic,Africa
 An Aigéine,Oceania
 An Ailgéir,Algeria
 An Airgintín,Argentina
-An Airgintín,Argentina
-An Airméin,Armenia
 An Airméin,Armenia
 An Aithin,Athens
 An Albáin,Albania
@@ -205,13 +198,10 @@ An Bheilg,Belgium
 An Bheilís,Belize
 An Bhoisnia-Heirseagaivéin,Bosnia and Herzegovina
 An Bholaiv,Bolivia
-An Bholaiv,Bolivia
 An Bhotsuáin,Botswana
-An Bhrasaíl,Brazil
 An Bhrasaíl,Brazil
 An Bhratasláiv,Bratislava
 An Bhreatain,Great Britain
-An Bhreatain Bheag,Wales
 An Bhreatain Bheag,Wales
 An Bhriotáin,Bretagne
 An Bhruiséil,Brussels
@@ -229,9 +219,7 @@ An Chambóid,Cambodia
 An Chasacstáin,Kazakhstan
 An Chatalóin,Catalonia
 An Chipir,Cyprus
-An Chipir,Cyprus
 An Chirgeastáin,Kyrgyzstan
-An Cholóim,Colombia
 An Cholóim,Colombia
 An Cholóim Bhriotanach,British Columbia
 An Chorr,Grus
@@ -255,7 +243,6 @@ An Damaisc,Damascus
 An Danmhairg,Denmark
 An Danóib,Danube
 An Dara Cogadh Domhanda,World War II
-An Dara Cogadh Domhanda,World War II
 An Dealbhóir,Sculptor
 An Deilf,Delphinus
 An Domhan,Earth
@@ -264,13 +251,10 @@ An Eala,Cygnus
 An Easpáinneoil,Hispaniola
 An Eilvéis,Switzerland
 An Eoraip,Europe
-An Eoraip,Europe
 An Eoráise,Eurasia
 An Faolchú,Lupus
 An Fhionlainn,Finland
-An Fhionlainn,Finland
 An Fhoirnéis,Fornax
-An Fhrainc,France
 An Fhrainc,France
 An Féinics,Phoenix
 An Gabhar,Capricornus
@@ -279,8 +263,6 @@ An Ghailís,Galicia
 An Ghaimbia,The Gambia
 An Ghealach,Moon
 An Ghearmáin,Germany
-An Ghearmáin,Germany
-An Ghraonlainn,Greenland
 An Ghraonlainn,Greenland
 An Ghrian,Sun
 An Ghréig,Greece
@@ -293,7 +275,6 @@ An Iaráin,Iran
 An India,India
 An Indinéis,Indonesia
 An Iodáil,Italy
-An Iodáil,Italy
 An Iordáin,Jordan
 An Iorua,Norway
 An Laitvia,Latvia
@@ -302,7 +283,6 @@ An Leon,Leo
 An Libia,Libya
 An Libéir,Liberia
 An Lincse,Lynx
-An Liobáin,Lebanon
 An Liobáin,Lebanon
 An Liotuáin,Lithuania
 An Lir,Lyra
@@ -316,7 +296,6 @@ An Mhalaeisia,Malaysia
 An Mheá,Libra
 An Mheánmhuir,Mediterranean Sea
 An Mholdóiv,Moldova
-An Mhongóil,Mongolia
 An Mhongóil,Mongolia
 An Mhuir Bhailt,Baltic Sea
 An Mhuir Mharbh,Dead Sea
@@ -339,8 +318,6 @@ An Phalaistín,Palestine
 An Phléimeann,Flanders
 An Phoblacht Dhoiminiceach,Dominican Republic
 An Pholainn,Poland
-An Pholainn,Poland
-An Phortaingéil,Portugal
 An Phortaingéil,Portugal
 An Phrúis,Prussia
 An Phéacóg,Pavo
@@ -357,7 +334,6 @@ An Ríocht Aontaithe,United Kingdom
 An Róimh,Rome
 An Rómáin,Romania
 An Rúis,Russia
-An Rúis,Russia
 An Sahára,Sahara
 An Saighdeoir,Sagittarius
 An Scairp,Scorpius
@@ -366,7 +342,6 @@ An Siséal,Caelum
 An Soitheach Naofa,Holy Grail
 An Spealadh Mór,Great Depression
 An Spiorad Naomh,Holy Spirit
-An Spáinn,Spain
 An Spáinn,Spain
 An Tansáin,Tanzania
 An Tasmáin,Tasmania
@@ -390,7 +365,6 @@ An tAigéan Atlantach,Atlantic Ocean
 An tAigéan Ciúin,Pacific Ocean
 An tAigéan Indiach,Indian Ocean
 An tAontas Eorpach,European Union
-An tAontas Eorpach,European Union
 An tAontas Sóivéadach,Soviet Union
 An tAra,Auriga
 An tIasc Eitilte,Volans
@@ -403,14 +377,12 @@ An tSaighead,Sagitta
 An tSairdín,Sardinia
 An tSalvadóir,El Salvador
 An tSeapáin,Japan
-An tSeapáin,Japan
 An tSeineagáil,Senegal
 An tSeirbia,Serbia
 An tSeisnia,Chechnya
 An tSeoirsia,Georgia
 An tSicil,Sicily
 An tSile,Chile
-An tSiombáib,Zimbabwe
 An tSiombáib,Zimbabwe
 An tSiria,Syria
 An tSlóivéin,Slovenia
@@ -422,7 +394,6 @@ An tSúdáin,Sudan
 An tUisceadóir,Aquarius
 An Áise,Asia
 An Éigipt,Egypt
-An Íoslainn,Iceland
 An Íoslainn,Iceland
 An Ísiltír,Netherlands
 An Úcráin,Ukraine
@@ -451,7 +422,6 @@ Aontas na nÉimíríochtaí Arabacha,United Arab Emirates
 Apaisigh,Apache
 Araibis,Arabic language
 Arastotail,Aristotle
-Arizona,Arizona
 Arizona,Arizona
 Arkansas,Arkansas
 Arsanaic,Arsenic
@@ -500,7 +470,6 @@ Bill Gates,Bill Gates
 Biosmat,Bismuth
 "Birmingham, Alabama",Birmingham
 Bitheolaíocht,Biology
-Bitheolaíocht,Biology
 Blag,Blog
 Blaise Pascal,Blaise Pascal
 Bliain,Year
@@ -544,7 +513,6 @@ Búcairist,Bucharest
 Búdachas,Buddhism
 Búdaipeist,Budapest
 C,C
-C,C
 C. S. Lewis,C. S. Lewis
 COBOL,COBOL
 Cabúl,Kabul
@@ -560,7 +528,6 @@ Caiseoipé,Cassiopeia
 Caitheamh aimsire,Hobby
 Calabria,Calabria
 Calcúta,Kolkata
-California,California
 California,California
 Caligula,Caligula
 Callisto,Callisto
@@ -590,14 +557,11 @@ Cathair Ho Chi Minh,Ho Chi Minh City
 Cathair Pheadair,Saint Petersburg
 Cathair na Vatacáine,Vatican City
 Ceanada,Canada
-Ceanada,Canada
 Cecil Rhodes,Cecil Rhodes
 Ceiféas,Cepheus
 Ceilvin,Kelvin
 Ceimic,Chemistry
-Ceimic,Chemistry
 Central Intelligence Agency,Central Intelligence Agency
-Ceol,Music
 Ceol,Music
 Ceoldráma,Opera
 Ceoltóir,Musician
@@ -665,12 +629,10 @@ Cruthaíochtachas,Creationism
 Críoch Lochlann,Scandinavia
 Críoch an Tuaiscirt,Northern Territory
 Críostaíocht,Christianity
-Críostaíocht,Christianity
 Cuarc,Quark
 Cuimhne randamrochtana,Random access memory
 Cultúr,Culture
 Cumann na gCarad,Religious Society of Friends
-Cumannachas,Communism
 Cumannachas,Communism
 Curitiba,Curitiba
 Cuáit,Kuwait
@@ -750,7 +712,6 @@ Ealaín,Art
 Eanáir,January
 Earcail,Heracles
 Earcail,Hercules
-Earcail,Hercules
 Eas Niagara,Niagara Falls
 Eaxodus,Exodus
 Edgar Rice Burroughs,Edgar Rice Burroughs
@@ -766,11 +727,9 @@ Emily Dickinson,Emily Dickinson
 Eocarót,Eukaryote
 Eoin Cailvín,John Calvin
 Eolaíocht,Science
-Eolaíocht,Science
 Eolaíocht an domhain,Earth science
 Eris,Eris
 Ernest Hemingway,Ernest Hemingway
-Esperanto,Esperanto
 Esperanto,Esperanto
 Ethernet,Ethernet
 Euro,Euro
@@ -790,7 +749,6 @@ Ficheall,Chess
 Fidel Castro,Fidel Castro
 Fidsí,Fiji
 Filíocht,Poetry
-Fisic,Physics
 Fisic,Physics
 Florida,Florida
 Flórans,Florence
@@ -839,7 +797,6 @@ Gearmáiniam,Germanium
 Gearmáinis,German language
 Geineasas,Genesis
 Genova,Genoa
-Geolaíocht,Geology
 Geolaíocht,Geology
 George Berkeley,George Berkeley
 George Bernard Shaw,George Bernard Shaw
@@ -929,7 +886,6 @@ Idaho,Idaho
 Idirdhealáin,Disambiguation
 Idirlíon,Internet
 Ido,Ido
-Illinois,Illinois
 Illinois,Illinois
 Ilmheáin,Multimedia
 Immanuel Kant,Immanuel Kant
@@ -1030,7 +986,6 @@ Liospóin,Lisbon
 Lipidí,Lipid
 Litiam,Lithium
 Litríocht,Literature
-Litríocht,Literature
 Livias,Livy
 Liúibleána,Ljubljana
 Loch Tanganyika,Lake Tanganyika
@@ -1038,14 +993,12 @@ Lombardia,Lombardy
 Londain,London
 Los Angeles,Los Angeles
 Louisiana,Louisiana
-Louisiana,Louisiana
 Louvre,Louvre
 Luaidhe,Lead
 Luainíocht,Precession
 Luan,Monday
 Luasghéarú,Acceleration
 Luciano Pavarotti,Luciano Pavarotti
-Lucsamburg,Luxembourg
 Lucsamburg,Luxembourg
 Ludwig van Beethoven,Ludwig van Beethoven
 Luimneach,Limerick
@@ -1100,22 +1053,17 @@ Matamaitic fheidhmeach,Applied mathematics
 Max Planck,Max Planck
 Mearbhia,Fast food
 Mearcair,Mercury
-Mearcair,Mercury
 Meath radaighníomhach,Radioactive decay
 Meice,Mecca
 Meicsiceo,Mexico
-Meicsiceo,Mexico
 Meiriceá Laidineach,Latin America
 Meiriceá Theas,South America
-Meiriceá Theas,South America
-Meiriceá Thuaidh,North America
 Meiriceá Thuaidh,North America
 Meitheamh,June
 Meitéareolaíocht,Meteorology
 Mel Gibson,Mel Gibson
 Meán Fómhair,September
 Mianra,Mineral
-Michigan,Michigan
 Michigan,Michigan
 Mick Jagger,Mick Jagger
 Micreathonnán,Microwave oven
@@ -1124,7 +1072,6 @@ Miguel de Cervantes,Miguel de Cervantes
 Milano,Milan
 Millard Fillmore,Millard Fillmore
 "Minneapolis, Minnesota",Minneapolis
-Minnesota,Minnesota
 Minnesota,Minnesota
 Minsc,Minsk
 Miotaseolaíocht,Mythology
@@ -1193,7 +1140,6 @@ Neodrón,Neutron
 Neodrónréalta,Neutron star
 Neon,Neon
 Nevada,Nevada
-Nevada,Nevada
 Neville Chamberlain,Neville Chamberlain
 New Hampshire,New Hampshire
 New Jersey,New Jersey
@@ -1208,7 +1154,6 @@ Nix,Nix
 Noam Chomsky,Noam Chomsky
 Nollaig,December
 Norfolk,Norfolk
-Nua-Eabhrac,New York
 Nua-Eabhrac,New York
 Nua-Eabhrac,New York City
 Nua-Ghuine Phapua,Papua New Guinea
@@ -1292,7 +1237,6 @@ Poblacht na hÉireann,Republic of Ireland
 Poblacht Éimin,Yemen
 Podchraolachán,Podcast
 Polaitíocht,Politics
-Polaitíocht,Politics
 Polóiniam,Polonium
 Potaisiam,Potassium
 Protastúnachas,Protestantism
@@ -1329,7 +1273,6 @@ Richard Wagner,Richard Wagner
 Ringo Starr,Ringo Starr
 Rinn Verde,Cape Verde
 Rio de Janeiro,Rio de Janeiro
-Rio de Janeiro,Rio de Janeiro
 Riyadh,Riyadh
 Roald Amundsen,Roald Amundsen
 Robert Anson Heinlein,Robert A. Heinlein
@@ -1348,7 +1291,6 @@ Réabhlóid na Feabhra,February Revolution
 Réabhlóid na Fraince,French Revolution
 Réabhlóid na Rúise 1917,Russian Revolution
 Réalteolaí,Astronomer
-Réalteolaíocht,Astronomy
 Réalteolaíocht,Astronomy
 Réaltra,Galaxy
 Réaltra Andraiméide,Andromeda Galaxy
@@ -1432,12 +1374,10 @@ Srí Lanca,Sri Lanka
 St. Louis,St. Louis
 Staidreamh,Statistics
 Stair,History
-Stair,History
 Stephen Hawking,Stephen Hawking
 Sting,Sting
 Stráice Gaza,Gaza Strip
 Stumpa,Stub
-Stáit Aontaithe Mheiriceá,United States
 Stáit Aontaithe Mheiriceá,United States
 Stáit Chónaidhme na Micrinéise,Federated States of Micronesia
 Stán,Tin
@@ -1445,7 +1385,6 @@ Stócólm,Stockholm
 Sulfar,Sulfur
 Suranam,Suriname
 Sydney,Sydney
-Síceolaíocht,Psychology
 Síceolaíocht,Psychology
 Síciatracht,Psychiatry
 Sócraitéas,Socrates
@@ -1469,7 +1408,6 @@ Teanga,Language
 Teanga,Tongue
 Teanga chomharthaíochta,Sign language
 Teangeolaíocht,Linguistics
-Teangeolaíocht,Linguistics
 Tegucigalpa,Tegucigalpa
 Tehran,Tehran
 Teileachumarsáid,Telecommunication
@@ -1477,7 +1415,6 @@ Teilifís,Television
 Tennessee,Tennessee
 Teomólongma,Mount Everest
 Tethys,Tethys
-Texas,Texas
 Texas,Texas
 Theodore Roosevelt,Theodore Roosevelt
 Thomas Edison,Thomas Edison
@@ -1510,7 +1447,6 @@ Tábla peiriadach,Periodic table
 Téite,Theta
 Tír,State
 Tíreolaíocht,Geography
-Tíreolaíocht,Geography
 Tó,Tau
 Tóga,Togo
 Tóra,Torah
@@ -1533,7 +1469,6 @@ Urdais,Urdu
 Urochordata,Tunicate
 Utah,Utah
 Utrecht,Utrecht
-Utrecht,Utrecht
 Vaileite,Valletta
 Vancouver,Vancouver
 Vanuatú,Vanuatu
@@ -1555,11 +1490,9 @@ Vlaidímír Léinín,Vladimir Lenin
 Voltaire,Voltaire
 Vársá,Warsaw
 Véineas,Venus
-Véineas,Venus
 Vín,Vienna
 Víreas,Virus
 Víreas ríomhaireachta,Computer virus
-Vítneam,Vietnam
 Vítneam,Vietnam
 W. B. Yeats,William Butler Yeats
 Walt Disney,Walt Disney

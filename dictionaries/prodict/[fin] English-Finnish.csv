@@ -22,7 +22,6 @@ should,-isi
 would,-isi
 either,-kaan
 neither,-kaan
-neither,-kaan
 fancier,-kasvattaja
 raiser,-kasvattaja
 also,-kin
@@ -35,7 +34,6 @@ how long,-ko
 if,-ko
 whether,-ko
 may,-koon
-so,-kseen
 so,-kseen
 co,-kumppani
 co-,-kumppani
@@ -91,7 +89,6 @@ on,-ssa
 per,-ssa
 upon,-ssa
 within,-ssa
-within,-ssa
 about,-sta
 from,-sta
 off,-sta
@@ -102,14 +99,12 @@ woman,-tar
 ware,-tavara
 proof,-tiivis
 without,-tta
-without,-tta
 -less,-tön
 free,-tön
 non,-tön
 non-,-tön
 un,-tön
 un-,-tön
-without,-tön
 without,-tön
 intensive,-valtainen
 linear,-viivainen
@@ -258,7 +253,6 @@ nonprofit,aatteellisen
 eve,aatto
 vigil,aatto
 open,aava
-open,aava
 opens,aava
 apparition,aave
 ghost,aave
@@ -269,7 +263,6 @@ wraith,aave
 phantom,aave-
 cadaverous,aavemainen
 eerie,aavemainen
-ghastly,aavemainen
 ghastly,aavemainen
 ghostly,aavemainen
 phantasmal,aavemainen
@@ -690,7 +683,6 @@ dates,aika
 day,aika
 days,aika
 enough,aika
-enough,aika
 era,aika
 hours,aika
 kind of,aika
@@ -771,7 +763,6 @@ antecedent,aikaisempi
 anterior,aikaisempi
 earlier,aikaisempi
 past,aikaisempi
-past,aikaisempi
 previous,aikaisempi
 prior,aikaisempi
 betimes,aikaisin
@@ -813,7 +804,6 @@ nice,aikamoinen
 pretty,aikamoinen
 quite a,aikamoinen
 quite some,aikamoinen
-some,aikamoinen
 some,aikamoinen
 quite,aikamoinen saavutus
 tense,aikamuoto
@@ -885,14 +875,10 @@ purposes,aikomus
 thought,aikomus
 thoughts,aikomus
 adult,aikuinen
-adult,aikuinen
 adults,aikuinen
 grown-up,aikuinen
-grown-up,aikuinen
-adult,aikuis-
 adult,aikuis-
 adults,aikuis-
-adult,aikuisten
 adult,aikuisten
 adults,aikuisten
 keep shifting,ailahdella
@@ -908,7 +894,6 @@ evermore,aina
 as far as,aina jhk asti
 as far as,aina jnnk asti
 as often as,aina kun
-whenever,aina kun
 whenever,aina kun
 every now and then,aina silloin tällöin
 everlastingly,aina vain
@@ -989,12 +974,10 @@ lone,ainoa
 one,ainoa
 one and only,ainoa
 one-off,ainoa
-one-off,ainoa
 one-shot,ainoa
 only,ainoa
 sole,ainoa
 one-night stand,ainoa konsertti
-one-off,ainoa laatuaan
 one-off,ainoa laatuaan
 one-shot,ainoa laatuaan
 unique,ainoa laatuaan
@@ -1014,7 +997,6 @@ uniquely,ainoastaan
 one and only,ainokainen
 only,ainut
 single,ainut
-one-off,ainutkertainen
 one-off,ainutkertainen
 one-shot,ainutkertainen
 remarkable,ainutlaatuinen
@@ -1420,7 +1402,6 @@ empty-headed,ajattelematon
 featherbrained,ajattelematon
 giddy,ajattelematon
 harum-scarum,ajattelematon
-harum-scarum,ajattelematon
 improvident,ajattelematon
 inconsiderate,ajattelematon
 indiscreet,ajattelematon
@@ -1431,7 +1412,6 @@ thoughtless,ajattelematon
 unthinking,ajattelematon
 without a second thought,ajattelematta jtk sen enempää
 without giving a second thought,ajattelematta jtk sen enempää
-harum-scarum,ajattelemattomasti
 harum-scarum,ajattelemattomasti
 in a rash moment,ajattelemattomuuttaan
 consideration,ajatteleminen
@@ -1681,8 +1661,6 @@ trades,ala
 confine,ala jnk
 bottom,ala-
 lour,ala-
-lour,ala-
-lower,ala-
 lower,ala-
 nether,ala-
 sub-,ala-
@@ -1765,15 +1743,10 @@ sole,alapinta
 underneath,alapinta
 underside,alapinta
 below,alapuolella
-below,alapuolella
-beneath,alapuolella
 beneath,alapuolella
 under,alapuolella
 underneath,alapuolella
-underneath,alapuolella
 below,alapuolelle
-below,alapuolelle
-underneath,alapuolelle
 underneath,alapuolelle
 back,alapuoli
 underneath,alapuoli
@@ -1834,14 +1807,10 @@ ale,ale
 sale,ale
 hereinafter,alempana
 lour,alempana
-lour,alempana
-lower,alempana
 lower,alempana
 inferior,alempi
 junior,alempi
 lour,alempi
-lour,alempi
-lower,alempi
 lower,alempi
 nether,alempi
 subordinate,alempi
@@ -1950,7 +1919,6 @@ algebra,algebra
 algeria,algeria
 algorithm,algoritmi
 algorithms,algoritmit
-beneath,alhaalla
 beneath,alhaalla
 down,alhaalla
 under,alhaalla
@@ -2254,12 +2222,8 @@ progenitor,alkuunpanija
 initiation,alkuunpano
 elemental,alkuvoimainen
 below,alla
-below,alla
-beneath,alla
 beneath,alla
 under,alla
-under,alla
-underneath,alla
 underneath,alla
 below,alla oleva
 underlying,alla oleva
@@ -2270,13 +2234,9 @@ bowl,allas
 tub,allas
 vat,allas
 below,alle
-below,alle
-beneath,alle
 beneath,alle
 short of,alle
 under,alle
-under,alle
-underneath,alle
 underneath,alle
 allegoric,allegorinen
 allegorical,allegorinen
@@ -2567,7 +2527,6 @@ moose,amerikanhirvi
 america,amerikka
 americas,amerikka
 american,amerikkalainen
-american,amerikkalainen
 americans,amerikkalainen
 amethystine,ametistinvärinen
 amphetamine,amfetamiini
@@ -2829,7 +2788,6 @@ anglo-saxon,anglosaksi
 saxon,anglosaksi
 anglo-saxon,anglosaksin kieli
 anglo-saxon,anglosaksinen
-saxon,anglosaksinen
 saxon,anglosaksinen
 angola,angola
 extremely,ani
@@ -3560,7 +3518,6 @@ monkey,apina
 simian,apina
 apish,apinamainen
 simian,apinamainen
-simian,apinamainen
 simian,apinan
 ape,apinoida
 mimic,apinoida
@@ -4023,7 +3980,6 @@ grades,arvoaste
 rank,arvoaste
 dignitary,arvohenkilö
 worthy,arvohenkilö
-worth,arvoinen
 worth,arvoinen
 honorable,arvoisa
 honourable,arvoisa
@@ -5248,7 +5204,6 @@ austin,austin
 australia,australia
 aussie,australialainen
 australian,australialainen
-australian,australialainen
 authentication,autentikointi
 authentic,autenttinen
 canon,autenttiset teokset
@@ -5903,7 +5858,6 @@ bradley,bradley
 brandon,brandon
 brazil,brasilia
 brazilian,brasilialainen
-brazilian,brasilialainen
 brunswick,braunschweig
 brian,brian
 bridge,bridge
@@ -5950,7 +5904,6 @@ bucolic,bukolinen
 avenue,bulevardi
 boulevard,bulevardi
 bulgaria,bulgaria
-bulgarian,bulgarialainen
 bulgarian,bulgarialainen
 bulgarian,bulgarian kieli
 bull,bulla
@@ -6161,7 +6114,6 @@ lady,daami
 dakota,dakota
 dallas,dallas
 damask,damasti
-damask,damasti
 dan,dan
 dana,dana
 daniel,daniel
@@ -6197,9 +6149,7 @@ deflation,deflaatio
 degeneracy,degeneraatio
 degenerate,degeneroitua
 degenerate,degeneroitunut
-degenerate,degeneroitunut
 dean,dekaani
-decadent,dekadentti
 decadent,dekadentti
 decadent,dekadenttinen
 detective story,dekkari
@@ -6471,7 +6421,6 @@ anterior,edellinen
 foregoing,edellinen
 former,edellinen
 last,edellinen
-last,edellinen
 preceding,edellinen
 previous,edellinen
 given,edellyttäen että
@@ -6525,7 +6474,6 @@ on,edellä
 onward,edellä
 antecedent,edellä käyvä
 antecedent,edellä käyvä seikka
-above,edellä mainittu
 above,edellä mainittu
 above-mentioned,edellä mainittu
 aforementioned,edellä mainittu
@@ -6787,7 +6735,6 @@ egoistic,egoistinen
 egoistical,egoistinen
 egypt,egypti
 egyptian,egyptiläinen
-egyptian,egyptiläinen
 egyptian,egyptin kieli
 eh,eh
 wilfully,ehdoin tahdoin
@@ -7017,12 +6964,9 @@ not overly,ei kovinkaan
 not too,ei kovinkaan
 not very,ei kovinkaan
 no,ei kukaan
-no,ei kukaan
-no one,ei kukaan
 no one,ei kukaan
 nobody,ei kukaan
 none,ei kukaan
-neither,ei kumpikaan
 neither,ei kumpikaan
 no,ei lainkaan
 not anywhere near,ei läheskään
@@ -7031,23 +6975,16 @@ not nearly,ei läheskään
 nowhere near,ei läheskään
 nowhere,ei mihinkään
 no,ei mikään
-no,ei mikään
-nothing,ei mikään
 nothing,ei mikään
 ne'er,ei milloinkaan
 never,ei milloinkaan
 homely,ei minkään näköinen
 nowhere,ei missään
 naught,ei mitään
-naught,ei mitään
-no,ei mitään
 no,ei mitään
 none,ei mitään
 nothing,ei mitään
-nothing,ei mitään
 nought,ei mitään
-nought,ei mitään
-zilch,ei mitään
 zilch,ei mitään
 zip,ei mitään
 snub,ei ole huomaavinaan
@@ -7099,32 +7036,24 @@ little,ei vähääkään
 not remotely,ei vähääkään
 nil,ei yhtään
 no,ei yhtään
-no,ei yhtään
-no,ei yhtään
 no-better,ei yhtään
-none,ei yhtään
 none,ei yhtään
 none at all,ei yhtään
 not a bit,ei yhtään
 zilch,ei yhtään
-zilch,ei yhtään
 zip,ei yhtään
-no,ei yksikään
 no,ei yksikään
 none,ei yksikään
 not a single,ei yksikään
 non,ei-
 non-,ei-
 gentile,ei-juutalainen
-gentile,ei-juutalainen
 nonwhite,ei-valkoinen
 nay,ei-ääni
 no,ei-ääni
 and not,eikä
 neither,eikä
-neither,eikä
 or,eikä
-neither,eikä myöskään
 neither,eikä myöskään
 nor,eikä myöskään
 as opposed to,eikä suinkaan
@@ -7158,13 +7087,11 @@ in ecstasies,ekstaasissa
 extract,ekstrakti
 extremist,ekstremisti
 extrovert,ekstrovertti
-extrovert,ekstrovertti
 aberration,eksyminen
 error,eksymys
 errors,eksymys
 deviation,eksymä
 lost,eksynyt
-stray,eksynyt
 stray,eksynyt
 delusive,eksyttävä
 misguide,eksyttää
@@ -7725,8 +7652,6 @@ the many,enemmistö
 generality,enemmistö jstk
 more,enemmälti
 more,enemmän
-more,enemmän
-beyond,enemmän kuin
 beyond,enemmän kuin
 in excess of,enemmän kuin
 over,enemmän kuin
@@ -7774,8 +7699,6 @@ mainly,enimmäkseen
 mostly,enimmäkseen
 predominantly,enimmäkseen
 most,enimmät
-most,enimmät
-most,enin
 most,enin
 best,eniten
 most,eniten
@@ -7879,7 +7802,6 @@ before,ennemmin kuin
 ante-,ennen
 anterior to,ennen
 at one time,ennen
-before,ennen
 before,ennen
 earlier,ennen
 formerly,ennen
@@ -8025,8 +7947,6 @@ of the first water,ensiluokkainen
 prime,ensiluokkainen
 superior,ensiluokkainen
 first,ensimmäinen
-first,ensimmäinen
-first,ensimmäinen
 foremost,ensimmäinen
 initial,ensimmäinen
 king,ensimmäinen
@@ -8059,11 +7979,9 @@ ent,ent
 bode,enteillä
 foreshadow,enteillä
 bygone,entinen
-bygone,entinen
 erstwhile,entinen
 ex,entinen
 ex-,entinen
-former,entinen
 former,entinen
 late,entinen
 old,entinen
@@ -8097,7 +8015,6 @@ supposing,entä jos
 any longer,enää
 any more,enää
 anymore,enää
-more,enää
 more,enää
 any more,enää lisää
 eos,eos
@@ -8273,7 +8190,6 @@ labored,epäluonteva
 laboured,epäluonteva
 false,epäluotettava
 fly-by-night,epäluotettava
-fly-by-night,epäluotettava
 insecure,epäluotettava
 shifty,epäluotettava
 unreliable,epäluotettava
@@ -8360,7 +8276,6 @@ unjustified,epäoikeutettu
 unwarranted,epäoikeutettu
 extraneous,epäolennainen
 immaterial,epäolennainen
-inessential,epäolennainen
 inessential,epäolennainen
 irrelevant,epäolennainen
 bad luck,epäonni
@@ -8649,7 +8564,6 @@ inadvisable,epäviisas
 injudicious,epäviisas
 unwise,epäviisas
 informal,epävirallinen
-off-the-record,epävirallinen
 off-the-record,epävirallinen
 unofficial,epävirallinen
 understanding,epävirallinen kihlaus
@@ -9042,7 +8956,6 @@ emission,eritys
 emissions,eritys
 excretion,eritys
 secretion,eritys
-dissenter,eriuskoinen
 dissenter,eriuskoinen
 separatist,eriuskoinen
 dissent,eriuskoisuus
@@ -9741,7 +9654,6 @@ dago,espanjalainen
 hispanic,espanjalainen
 spaniard,espanjalainen
 spanish,espanjalainen
-spanish,espanjalainen
 spanish,espanjalaiset
 espn,espn
 essay,essee
@@ -10204,7 +10116,6 @@ euros,euro
 european union,euroopan unioni
 europe,eurooppa
 european,eurooppalainen
-european,eurooppalainen
 ev,ev
 evacuation,evakuointi
 eval,eval
@@ -10475,7 +10386,6 @@ fred,fred
 frederick,frederick
 freebsd,freebsd
 freelance,freelance
-freelance,freelance
 freeware,freeware
 frequencies,frekvenssi
 frequency,frekvenssi
@@ -10484,7 +10394,6 @@ frigid,frigidi
 frigidity,frigiditeetti
 frieze,friisi
 frisian,friisi
-frisian,friisiläinen
 frisian,friisiläinen
 frisian,friisin kieli
 terry,frotee
@@ -11562,7 +11471,6 @@ please!,haluta
 want,haluta
 wants,haluta
 will,haluta
-will,haluta
 wish,haluta
 wishing,haluta
 insist,haluta ehdottomasti
@@ -12001,11 +11909,9 @@ disillusionment,harhakuvitelmien menetys
 miss,harhalyönti
 aberration,harhamuunnos
 heretic,harhaoppinen
-heretic,harhaoppinen
 heretical,harhaoppinen
 heterodox,harhaoppinen
 errant,harhateille joutunut
-gentile,harhauskoinen
 gentile,harhauskoinen
 bluff,harhauttaa
 feint,harhauttaa
@@ -12225,8 +12131,6 @@ harlequin,harlekiini
 harley,harley
 drab,harmaa
 gray,harmaa
-gray,harmaa
-grey,harmaa
 grey,harmaa
 grizzled,harmaa
 gray,harmaa hevonen
@@ -12377,8 +12281,6 @@ harvard,harvard
 sparse,harvassa
 thin on the ground,harvassa
 few,harvat
-few,harvat
-fewer,harvemmat
 fewer,harvemmat
 spacing,harvennus
 decimate,harventaa
@@ -12616,7 +12518,6 @@ sit up,havahtua
 sit up and take notice,havahtua
 wake,havahtua
 hawaii,havaiji
-hawaiian,havaijilainen
 hawaiian,havaijilainen
 hawaiian,havaijin kieli
 observe,havainnoida
@@ -13637,11 +13538,8 @@ dog,heppu
 guy,heppu
 joker,heppu
 hebrew,heprea
-hebrew,heprea
 hebraic,heprealainen
 hebrew,heprealainen
-hebrew,heprealainen
-israelite,heprealainen
 israelite,heprealainen
 trickle,herahtaa
 junket,herajuusto
@@ -13958,10 +13856,8 @@ springs,herätä henkiin
 finery,hetaleet
 frippery,hetaleet
 straight,hetero
-straight,hetero
 heterogeneous,heterogeeninen
 heterosexual,heteroseksuaali
-heterosexual,heteroseksuaalinen
 heterosexual,heteroseksuaalinen
 straight,heteroseksuaalinen
 at once,heti
@@ -14114,7 +14010,6 @@ delay,hidastella
 delays,hidastella
 draggle,hidastella
 slow,hidastempoinen
-slow-motion,hidastettu
 slow-motion,hidastettu
 moderator,hidastin
 moderators,hidastin
@@ -14656,7 +14551,6 @@ towline,hinausvaijeri
 towrope,hinausvaijeri
 hindu,hindu
 hindu,hindulainen
-hindu,hindulainen
 bin,hinkalo
 rub,hinkata
 scrape,hinkata
@@ -14834,7 +14728,6 @@ moose,hirvi
 deer,hirvieläin
 enormity,hirvittävyys
 fearful,hirvittävä
-ghastly,hirvittävä
 ghastly,hirvittävä
 gruesome,hirvittävä
 horrible,hirvittävä
@@ -15213,7 +15106,6 @@ plays,holkkuma
 holland,hollanti
 netherlands,hollanti
 dutch,hollantilainen
-dutch,hollantilainen
 dutchman,hollantilainen
 dutch,hollantilaiset
 dutch cap,hollantilaispäähine
@@ -15262,7 +15154,6 @@ faggot,homo
 fagot,homo
 fairy,homo
 gay,homo
-gay,homo
 gays,homo
 homo,homo
 pansy,homo
@@ -15279,7 +15170,6 @@ gays,homoseksuaali
 homosexual,homoseksuaali
 camp,homoseksuaalinen
 gay,homoseksuaalinen
-homosexual,homoseksuaalinen
 homosexual,homoseksuaalinen
 slut,homssantuu
 sluts,homssantuu
@@ -15824,7 +15714,6 @@ crackbrained,hullu
 cracked,hullu
 crackers,hullu
 crackpot,hullu
-crackpot,hullu
 crazed,hullu
 crazy,hullu
 cuckoo,hullu
@@ -15832,7 +15721,6 @@ daft,hullu
 fool,hullu
 insane,hullu
 loco,hullu
-loony,hullu
 loony,hullu
 lunatic,hullu
 mad,hullu
@@ -15843,7 +15731,6 @@ moonstruck,hullu
 nut,hullu
 nuts,hullu
 off one's nut,hullu
-psycho,hullu
 psycho,hullu
 round the bend,hullu
 schizo,hullu
@@ -16107,7 +15994,6 @@ despite,huolimatta
 in defiance of,huolimatta
 in spite of,huolimatta
 in the face of,huolimatta
-notwithstanding,huolimatta
 notwithstanding,huolimatta
 with,huolimatta
 negligently,huolimattomasti
@@ -17204,17 +17090,12 @@ fine,hyvä
 finest,hyvä
 glad,hyvä
 good,hyvä
-good,hyvä
 goody,hyvä
 kind,hyvä
 nice,hyvä
 o.k.,hyvä
-o.k.,hyvä
-okay,hyvä
 okay,hyvä
 okey,hyvä
-okey,hyvä
-okeydokey,hyvä
 okeydokey,hyvä
 plum,hyvä
 plummy,hyvä
@@ -17948,7 +17829,6 @@ back of an axe,hämärä
 cloudy,hämärä
 crepuscular,hämärä
 dark,hämärä
-dark,hämärä
 dim,hämärä
 distant,hämärä
 dusk,hämärä
@@ -18344,7 +18224,6 @@ goof,hölmö
 goofy,hölmö
 half-wit,hölmö
 imbecile,hölmö
-imbecile,hölmö
 mug,hölmö
 nit,hölmö
 nitwit,hölmö
@@ -18736,7 +18615,6 @@ old as the hills,ikivanha
 antiquity,ikivanhuus
 evergreen,ikivihanta
 evergreen,ikivihreä
-evergreen,ikivihreä
 standard,ikivihreä
 standards,ikivihreä
 evergreen,ikivihreä iskelmä
@@ -19082,7 +18960,6 @@ exclusive of,ilman jtk
 minus,ilman jtk
 with,ilman jtk
 without,ilman jtk
-without,ilman jtk
 straight up,ilman jäitä
 on the nod,ilman keskustelua
 all right,ilman muuta
@@ -19129,7 +19006,6 @@ antiaircraft,ilmatorjunta-
 ack-ack,ilmatorjuntatuli
 flak,ilmatorjuntatuli
 ack-ack,ilmatorjuntatykki
-inflatable,ilmatäytteinen
 inflatable,ilmatäytteinen
 demonstration,ilmaus
 expression,ilmaus
@@ -19500,7 +19376,6 @@ flattery,imartelu
 oil,imartelu
 sweet talk,imartelu
 imbecile,imbesilli
-imbecile,imbesilli
 sweetener,imelle
 chocolate-box,imelä
 corny,imelä
@@ -19597,7 +19472,6 @@ jam,improvisoida
 ad lib,improvisoiden
 ad-lib,improvisoitu
 impromptu,improvisoitu
-impromptu,improvisoitu
 impetus,impulssi
 impulse,impulssi
 momentum,impulssi
@@ -19635,7 +19509,6 @@ indication,indikaatio
 indicative,indikatiivi
 individualistic,individualistinen
 indonesia,indonesia
-indonesian,indonesialainen
 indonesian,indonesialainen
 induction,induktio
 induce,indusoida
@@ -19873,12 +19746,10 @@ india,intia
 amerind,intiaani
 amerindian,intiaani
 indian,intiaani
-indian,intiaani
 indians,intiaani
 native american,intiaani
 red indian,intiaani
 brave,intiaanisoturi
-indian,intialainen
 indian,intialainen
 indians,intialainen
 intimate,intiimi
@@ -19936,7 +19807,6 @@ beg,inua
 invasion,invaasio
 outbreak,invaasio
 invalid,invalidi
-invalid,invalidi
 disabilities,invaliditeetti
 disability,invaliditeetti
 disablement,invaliditeetti
@@ -19961,8 +19831,6 @@ ira,ira
 provisional,ira'n väliaikainen siipi
 iraq,irak
 iraki,irakilainen
-iraki,irakilainen
-iraqi,irakilainen
 iraqi,irakilainen
 iran,iran
 irc,irc
@@ -20250,8 +20118,6 @@ islam,islamilainen maailma
 islam,islaminusko
 mohammedanism,islaminusko
 moslem,islaminuskoinen
-moslem,islaminuskoinen
-muslim,islaminuskoinen
 muslim,islaminuskoinen
 mussulman,islaminuskoinen
 iceland,islanti
@@ -20297,8 +20163,6 @@ talk big,isotella
 isp,isp
 israel,israel
 israeli,israelilainen
-israeli,israelilainen
-israelite,israelilainen
 israelite,israelilainen
 issn,issn
 ist,ist
@@ -20436,7 +20300,6 @@ italy,italia
 italian,italiaano
 wop,italiaano
 dago,italialainen
-italian,italialainen
 italian,italialainen
 italian,italian kieli
 italiano,italiano
@@ -20706,7 +20569,6 @@ ja,ja
 plus,ja
 together with,ja
 yet,ja kuitenkin
-plus,ja lisäksi
 plus,ja lisäksi
 and all that,ja muuta sellaista
 and all the rest,ja muuta sellaista
@@ -21154,8 +21016,6 @@ processing,jalostus
 refinement,jalostus
 high-born,jalosukuinen
 honorable,jalosukuinen
-honorable,jalosukuinen
-honourable,jalosukuinen
 honourable,jalosukuinen
 well-born,jalosukuinen
 nobly born,jalosyntyinen
@@ -21207,7 +21067,6 @@ divisions,jaotus
 spacing,jaotus
 japanese,japani-
 jap,japanilainen
-japanese,japanilainen
 japanese,japanilainen
 japanese,japanin kieli
 japan,japaninlakka
@@ -21782,7 +21641,6 @@ one and all,joka ikinen
 nightly,joka ilta
 admissible,joka kelpaa oikeudessa
 whenever,joka kerta kun
-whenever,joka kerta kun
 popular,joka kukkarolle sopiva
 at every turn,joka käänteessä
 everywhere,joka paikassa
@@ -21810,7 +21668,6 @@ for what it's worth,joka tapauksessa
 in any case,joka tapauksessa
 in any event,joka tapauksessa
 notwithstanding,joka tapauksessa
-notwithstanding,joka tapauksessa
 willy-nilly,joka tapauksessa
 at every turn,joka tilanteessa
 alternate,joka toinen
@@ -21827,7 +21684,6 @@ anybody,jokainen
 anyone,jokainen
 every,jokainen
 everybody,jokainen
-everyone,jokainen
 everyone,jokainen
 everyone of them,jokainen
 whoever,jokainen joka
@@ -21862,7 +21718,6 @@ river basin,jokialue
 any,jokin
 one,jokin
 some,jokin
-some,jokin
 some or other,jokin
 something,jokin
 something or other,jokin
@@ -21883,7 +21738,6 @@ any,joku
 anybody,joku
 anyone,joku
 some,joku
-some,joku
 some or another,joku
 somebody,joku
 someone,joku
@@ -21899,7 +21753,6 @@ someway,jollakin tavalla
 unless,jollei
 in which case,jolloin
 that,jolloin
-when,jolloin
 when,jolloin
 whippersnapper,jolppi
 reasonable,joltinen
@@ -21919,8 +21772,6 @@ a little,jonkin verran
 a little bit,jonkin verran
 rather,jonkin verran
 some,jonkin verran
-some,jonkin verran
-some,jonkin verran
 somewhat,jonkin verran
 a sprinkle of,jonkin verran jtk
 a sprinkling of,jonkin verran jtk
@@ -21931,7 +21782,6 @@ a sort of,jonkinlainen
 certain,jonkinlainen
 some semblance of,jonkinlainen
 something like,jonkinlainen
-where,jonne
 where,jonne
 whither,jonne
 somewhere,jonnekin
@@ -21986,7 +21836,6 @@ if,jos
 suppose,jos
 supposing,jos
 when,jos
-when,jos
 at that,jos niikseen tulee
 jose,jose
 joseph,joseph
@@ -21999,7 +21848,6 @@ some day,joskus
 sometime,joskus
 sometime or other,joskus
 sometimes,joskus
-where,jossa
 where,jossa
 wherein,jossa
 with,jossa on
@@ -22038,7 +21886,6 @@ kinda,jotenkin
 somehow,jotenkin
 someway,jotenkin
 after a fashion,jotenkuten
-so-so,jotenkuten
 so-so,jotenkuten
 that,jotka
 who,jotka
@@ -22614,7 +22461,6 @@ divinity,jumala
 god,jumala
 divine,jumalainen
 olympian,jumalainen
-olympian,jumalainen
 deification,jumalaksi korottaminen
 divine,jumalallinen
 divinity,jumalallisuus
@@ -22883,7 +22729,6 @@ boozer,juoppo
 drinker,juoppo
 drunk,juoppo
 drunkard,juoppo
-inebriate,juoppo
 inebriate,juoppo
 lush,juoppo
 soak,juoppo
@@ -23364,8 +23209,6 @@ transfer,jäljentää
 transferred,jäljentää
 transfers,jäljentää
 after,jäljessä
-after,jäljessä
-behind,jäljessä
 behind,jäljessä
 behindhand,jäljessä
 spoor,jäljet
@@ -23412,7 +23255,6 @@ track,jäljittää
 tracks,jäljittää
 trail,jäljittää
 trails,jäljittää
-after,jälkeen
 after,jälkeen
 behind,jälkeen
 beyond,jälkeen
@@ -24851,7 +24693,6 @@ skirmish,kahakka
 skirmish,kahakoida
 eight,kahdeksainen
 eight,kahdeksan
-eight,kahdeksan
 eighth note,kahdeksasosanuotti
 quaver,kahdeksasosanuotti
 eight,kahdeksikko
@@ -24881,7 +24722,6 @@ reduplicate,kahdentaa
 replicate,kahdentua
 bilateral,kahdenvälinen
 twice,kahdesti
-crackpot,kaheli
 crackpot,kaheli
 nut,kaheli
 nutcase,kaheli
@@ -25071,10 +24911,7 @@ every,kaikki mahdollinen
 everything under the sun,kaikki mahdollinen
 soup,kaikki mahdollinen
 what,kaikki mikä
-what,kaikki mikä
 whatever,kaikki mikä
-whatever,kaikki mikä
-whatsoever,kaikki mikä
 whatsoever,kaikki mikä
 appurtenance,kaikki mikä kuuluu jhk
 one's all,kaikki mitä jklla on
@@ -25105,7 +24942,6 @@ here there and everywhere,kaikkialla
 universally,kaikkialla
 over,kaikkialla jssk
 round,kaikkialla jssk
-round,kaikkialla jssk
 all over the world,kaikkialla maailmassa
 the world over,kaikkialla maailmassa
 worldwide,kaikkialla maailmassa
@@ -25113,7 +24949,6 @@ all over the country,kaikkialla maassa
 all through the country,kaikkialla maassa
 nationwide,kaikkialla maassa
 throughout the country,kaikkialla maassa
-round,kaikkialle
 round,kaikkialle
 pervasive,kaikkialle leviävä
 penetrating,kaikkialle tunkeutuva
@@ -25442,7 +25277,6 @@ double-barreled,kaksiosainen
 double-barrelled,kaksiosainen
 duplex,kaksiosainen
 two-piece,kaksiosainen
-two-piece,kaksiosainen
 twofold,kaksiosainen
 double-barreled,kaksipiippuinen
 double-barrelled,kaksipiippuinen
@@ -25538,7 +25372,6 @@ fisheries,kalavesi
 fishery,kalavesi
 gourd,kalebassi
 caledonian,kaledonialainen
-caledonian,kaledonialainen
 galley,kaleeri
 kaleidoscopic,kaleidoskooppinen
 almanac,kalenteri
@@ -25604,7 +25437,6 @@ old fogy,kalkkis
 on the square,kalkkis
 square,kalkkis
 straight,kalkkis
-straight,kalkkis
 stuffy,kalkkiutunut
 whitewash,kalkkiväri
 gobbler,kalkkuna
@@ -25615,7 +25447,6 @@ dearest,kallein
 askew,kallellaan
 at a tilt,kallellaan
 inclined,kallellaan
-slantwise,kallelleen
 slantwise,kallelleen
 expensiveness,kalleus
 valuable,kalleus
@@ -25695,7 +25526,6 @@ ashen,kalmankalpea
 cadaverous,kalmankalpea
 deadly pale,kalmankalpea
 deathly pale,kalmankalpea
-ghastly,kalmankalpea
 ghastly,kalmankalpea
 ghastly pale,kalmankalpea
 livid,kalmankalpea
@@ -25827,7 +25657,6 @@ awful,kamala
 chronic,kamala
 dreadful,kamala
 ghastly,kamala
-ghastly,kamala
 grim,kamala
 horrible,kamala
 infernal,kamala
@@ -25944,7 +25773,6 @@ hen,kana
 silly person,kana
 squabble,kana
 canada,kanada
-canadian,kanadalainen
 canadian,kanadalainen
 canuck,kanadalainen
 batteries,kanahäkit
@@ -26164,8 +25992,6 @@ lidless,kanneton
 uncovered,kanneton
 portable,kannettava
 laptop,kannettava tietokone
-laptop,kannettava tietokone
-laptop computer,kannettava tietokone
 laptop computer,kannettava tietokone
 laptops,kannettava tietokone
 handheld,kannettavat
@@ -26526,14 +26352,11 @@ revolt,kapina
 rising,kapina
 uprising,kapina
 rebel,kapina-
-rebel,kapina-
 insurrection,kapinaan nousu
 disaffection,kapinahenki
 insurgent,kapinallinen
-insurgent,kapinallinen
 mutineer,kapinallinen
 mutinous,kapinallinen
-rebel,kapinallinen
 rebel,kapinallinen
 rebellious,kapinallinen
 seditious,kapinallinen
@@ -26552,7 +26375,6 @@ rebellion,kapinointi
 rebelliousness,kapinointi
 revolt,kapinointi
 mutineer,kapinoitsija
-rebel,kapinoitsija
 rebel,kapinoitsija
 rebellious,kapinoiva
 capitalize,kapitalisoida
@@ -26645,7 +26467,6 @@ trains,karavaani
 carbonize,karbonoida
 cardinal,kardinaali
 conclave,kardinaalien kokous
-purple,kardinaalin arvo
 purple,kardinaalin arvo
 breath,kare
 ripple,kare
@@ -26837,8 +26658,6 @@ arm,karmi
 frame,karmi
 frames,karmi
 carmine,karmiininpunainen
-carmine,karmiininpunainen
-crimson,karmiininpunainen
 crimson,karmiininpunainen
 carnival,karnevaali
 carnival,karnevaalit
@@ -27090,7 +26909,6 @@ chestnut,kastanja
 auburn,kastanjanruskea
 chestnut,kastanjanruskea
 maroon,kastanjanruskea
-maroon,kastanjanruskea
 chestnut,kastanjapuu
 douse,kastella
 dowse,kastella
@@ -27278,7 +27096,6 @@ run-up,kasvu
 upswing,kasvu
 breeding ground,kasvualusta
 seedbed,kasvualusta
-adolescent,kasvuikäinen
 adolescent,kasvuikäinen
 fruitful,kasvuisa
 soil,kasvumaa
@@ -27671,13 +27488,11 @@ far-reaching,kauaskantoinen
 sweeping,kauaskantoinen
 farther,kauemmaksi
 beyond,kauemmaksi kuin
-beyond,kauemmaksi kuin
 farther,kauemmas
 further,kauemmas
 longer,kauemmin
 any longer,kauempaa
 from farther off,kauempaa
-beyond,kauempana
 beyond,kauempana
 farther,kauempana
 further,kauempana
@@ -28741,7 +28556,6 @@ swim,kellua
 tread water,kellua pystyasennossa
 float,kelluke
 inflatable,kelluke
-inflatable,kelluke
 outrigger,kelluke
 pontoon,kelluke
 pad,kelluslehti
@@ -28958,7 +28772,6 @@ pottery,keramiikka
 pottery,keramiikkapaja
 potter,keramiikko
 heretic,kerettiläinen
-heretic,kerettiläinen
 heretical,kerettiläinen
 club,kerho
 societies,kerho
@@ -29011,7 +28824,6 @@ enough,kerrakseen
 for once,kerrakseen
 at once,kerralla
 without stopping,kerralla
-once,kerran
 once,kerran
 weekly,kerran viikossa
 for once,kerrankin
@@ -29070,7 +28882,6 @@ block,kerrostalo
 block of flats,kerrostalo
 blocks,kerrostalo
 high-rise,kerrostalo
-high-rise,kerrostalo
 multi-storey building,kerrostalo
 stratification,kerrosteisuus
 bed,kerrostuma
@@ -29112,7 +28923,6 @@ quite,kerta kaikkiaan
 simply,kerta kaikkiaan
 utterly,kerta kaikkiaan
 wholly,kerta kaikkiaan
-one-off,kerta-
 one-off,kerta-
 one-shot,kerta-
 repetition,kertaaminen
@@ -29339,8 +29149,6 @@ surrounded,keskellä
 among,kesken
 amongst,kesken
 between,kesken
-between,kesken
-betwixt,kesken
 betwixt,kesken
 inter-,kesken
 midst,kesken
@@ -29408,8 +29216,6 @@ intermediate,keskiasteen
 secondary,keskiasteen
 median,keskijana
 downtown,keskikaupungilla
-downtown,keskikaupungilla
-downtown,keskikaupungille
 downtown,keskikaupungille
 downtown,keskikaupunki
 center,keskikohta
@@ -29499,12 +29305,9 @@ concentration,keskittäminen
 concentrations,keskittäminen
 centralism,keskittämispolitiikka
 center,keskittää
-center,keskittää
 centered,keskittää
 centers,keskittää
-centers,keskittää
 centralize,keskittää
-centre,keskittää
 centre,keskittää
 centres,keskittää
 concentrate,keskittää
@@ -29560,7 +29363,6 @@ downtown,keskusta
 downtown area,keskusta
 centrist,keskustalainen
 middle-of-the-road,keskustalainen
-downtown,keskustassa
 downtown,keskustassa
 conversationalist,keskustelija
 debater,keskustelija
@@ -30678,7 +30480,6 @@ rut,kiima-aika
 rutting season,kiima-aika
 horny,kiimainen
 chinaman,kiinalainen
-chinese,kiinalainen
 chinese,kiinalainen
 chinese,kiinan kieli
 chow,kiinanpystykorva
@@ -31844,7 +31645,6 @@ glorification,kirkastus
 bright,kirkasvaloinen
 cardinal,kirkkaanpunainen
 vermilion,kirkkaanpunainen
-vermilion,kirkkaanpunainen
 bright,kirkkaasti
 vividly,kirkkaasti
 luminous,kirkkaasti valaistu
@@ -31916,17 +31716,13 @@ blasted,kirottu
 blessed,kirottu
 blinking,kirottu
 bloody,kirottu
-bloody,kirottu
 blooming,kirottu
 confounded,kirottu
 cursed,kirottu
 damn,kirottu
-damn,kirottu
 damnable,kirottu
 damned,kirottu
 darn,kirottu
-darn,kirottu
-doggone,kirottu
 doggone,kirottu
 under a curse,kirottu
 wretched,kirottu
@@ -32834,8 +32630,6 @@ upon,kohti
 locus,kohtio
 pole,kohtio
 perpendicular,kohtisuora
-perpendicular,kohtisuora
-plumb,kohtisuora
 plumb,kohtisuora
 upright,kohtisuora
 vertical,kohtisuora
@@ -33153,7 +32947,6 @@ entire,kokonainen
 full,kokonainen
 integral,kokonainen
 whole,kokonainen
-whole,kokonainen
 aggregate,kokonais-
 all-in,kokonais-
 all-inclusive,kokonais-
@@ -33378,7 +33171,6 @@ racks,kolmio
 triangle,kolmio
 triangular,kolmion muotoinen
 three-part,kolmiosainen
-three-piece,kolmiosainen
 three-piece,kolmiosainen
 tripartite,kolmiosainen
 triple,kolmiosainen
@@ -33988,7 +33780,6 @@ coral,koralli
 coral,korallinpunainen
 korea,korea
 korean,korealainen
-korean,korealainen
 korean,korean kieli
 artless,koreilematon
 modest,koreilematon
@@ -34499,7 +34290,6 @@ inasmuch as,koska
 seeing,koska
 since,koska
 when,koska
-when,koska
 ever,koskaan
 affect,koskea
 affects,koskea
@@ -34940,7 +34730,6 @@ at a great lick,kovaa vauhtia
 like the clappers,kovaa vauhtia
 knockabout,kovaan käyttöön tarkoitettu
 hardcover,kovakantinen
-hardcover,kovakantinen
 hardback,kovakantinen kirja
 hardcover,kovakantinen kirja
 hard-handed,kovakourainen
@@ -35029,7 +34818,6 @@ badly,kovin
 intensely,kovin
 jolly,kovin
 so,kovin
-so,kovin
 too,kovin
 very,kovin
 keen,kovin innostunut
@@ -35058,7 +34846,6 @@ cream,kreemi
 greece,kreikka
 greek,kreikka
 grecian,kreikkalainen
-greek,kreikkalainen
 greek,kreikkalainen
 greek,kreikkan kieli
 count,kreivi
@@ -35102,9 +34889,7 @@ christian faith,kristinusko
 christian religion,kristinusko
 christianity,kristinusko
 christian,kristitty
-christian,kristitty
 christians,kristitty
-gentile,kristitty
 gentile,kristitty
 agony,kristuksen kärsimys
 christ,kristus
@@ -35227,8 +35012,6 @@ wells,kuilu
 as,kuin
 but,kuin
 like,kuin
-like,kuin
-than,kuin
 than,kuin
 like a shot,kuin ammuttu
 like a cat on hot bricks,kuin kissa pistoksissa
@@ -35268,7 +35051,6 @@ anyway,kuitenkin
 at that,kuitenkin
 however,kuitenkin
 nonetheless,kuitenkin
-still,kuitenkin
 still,kuitenkin
 though,kuitenkin
 acknowledgement,kuittaus
@@ -36110,7 +35892,6 @@ toll,kumista
 pump,kumitossut
 sneakers,kumitossut
 inflatable,kumivene
-inflatable,kumivene
 rubber dinghy,kumivene
 odd,kumma
 screwy,kumma
@@ -36268,11 +36049,9 @@ as,kun
 since,kun
 when,kun
 when,kun kerran
-when,kun kerran
 whereas,kun sitä vastoin
 in turn,kun taas
 on the contrary,kun taas
-where,kun taas
 where,kun taas
 whereas,kun taas
 while,kun taas
@@ -36322,7 +36101,6 @@ communal,kunnan-
 municipal,kunnan-
 municipality,kunnanhallitus
 till,kunnes
-till,kunnes
 until,kunnes
 until further notice,kunnes toisin ilmoitetaan
 canopy,kunnia
@@ -36337,8 +36115,6 @@ libelous,kunniaa loukkaava
 creditable,kunniakas
 glorious,kunniakas
 honorable,kunniakas
-honorable,kunniakas
-honourable,kunniakas
 honourable,kunniakas
 diploma,kunniakirja
 salute,kunnialaukaus
@@ -36370,7 +36146,6 @@ hoary,kunnianarvoisa
 honorable,kunnianarvoisa
 honourable,kunnianarvoisa
 respectable,kunnianarvoisa
-reverend,kunnianarvoisa
 reverend,kunnianarvoisa
 worshipful,kunnianarvoisa
 worthy,kunnianarvoisa
@@ -36619,7 +36394,6 @@ reprieve,kuolemantuomion peruutus
 agony,kuolemantuska
 deathless,kuolematon
 immortal,kuolematon
-immortal,kuolematon
 undying,kuolematon
 amortise,kuolettaa
 amortize,kuolettaa
@@ -36640,7 +36414,6 @@ anesthetic,kuoletusaine
 dying,kuoleva
 moribund,kuoleva
 parting,kuoleva
-mortal,kuolevainen
 mortal,kuolevainen
 mortality,kuolevaisuus
 to death,kuoliaaksi
@@ -36673,7 +36446,6 @@ dead,kuolleet
 death rate,kuolleisuus
 mortality,kuolleisuus
 dead,kuollut
-deceased,kuollut
 deceased,kuollut
 defunct,kuollut
 lifeless,kuollut
@@ -37124,7 +36896,6 @@ weft,kuteet
 -wise,kuten
 after the fashion of,kuten
 as,kuten
-as,kuten
 like,kuten
 as,kuten esimerkiksi
 such as,kuten esimerkiksi
@@ -37260,8 +37031,6 @@ moon,kuu
 satellite,kuu
 cuba,kuuba
 sixth,kuudes
-sixth,kuudes
-sixth,kuudesosa
 sixth,kuudesosa
 lunatic,kuuhullu
 lunacy,kuuhulluus
@@ -37539,7 +37308,6 @@ showers,kuuro
 deaf,kuurot
 fir,kuusi
 six,kuusi
-six,kuusi
 spruce,kuusi
 deal,kuusilankku
 deals,kuusilankku
@@ -37656,7 +37424,6 @@ picture tube,kuvaputki
 television tube,kuvaputki
 tube,kuvaputki
 tubes,kuvaputki
-off-screen,kuvaruudun ulkopuolella
 off-screen,kuvaruudun ulkopuolella
 cathode ray tube,kuvaruutu
 screen,kuvaruutu
@@ -37900,8 +37667,6 @@ lean-to,kylkirakennus
 bacon,kylkisilava
 giveaway,kylkiäinen
 enough,kylliksi
-enough,kylliksi
-enough,kyllin
 enough,kyllin
 fullness,kyllyys
 fulness,kyllyys
@@ -37961,7 +37726,6 @@ arctic,kylmä
 bloodless,kylmä
 chill,kylmä
 chilly,kylmä
-cold,kylmä
 cold,kylmä
 cool,kylmä
 dead,kylmä
@@ -38032,7 +37796,6 @@ village,kylä
 villages,kylä
 decimal,kymmen-
 denary,kymmen-
-ten,kymmenen
 ten,kymmenen
 dozens,kymmeniä
 dozens of,kymmeniä
@@ -39628,7 +39391,6 @@ walks,käytävä
 walkway,käytävä
 press into service,käytää paremman puutteessa
 pro rata,käytön mukaan
-pro rata,käytön mukaan
 address,käytös
 air,käytös
 bearing,käytös
@@ -40764,7 +40526,6 @@ naval,laivasto-
 armament,laivasto-osasto
 naval task force,laivasto-osasto
 navy,laivastonsininen
-navy blue,laivastonsininen
 navy blue,laivastonsininen
 arrival,laivat
 shipping,laivat
@@ -42591,9 +42352,7 @@ les,les
 dike,lesbo
 dyke,lesbo
 lesbian,lesbo
-lesbian,lesbo
 lesbians,lesbo
-lesbian,lesbolainen
 lesbian,lesbolainen
 lesbians,lesbolainen
 leslie,leslie
@@ -42958,7 +42717,6 @@ stain,liata
 sully,liata
 tarnish,liata
 lebanon,libanon
-liberal,liberaali
 liberal,liberaali
 liberal,liberaalinen
 liberalism,liberalismi
@@ -44184,7 +43942,6 @@ and what's more,lisäksi
 as well,lisäksi
 at that,lisäksi
 besides,lisäksi
-besides,lisäksi
 beyond,lisäksi
 by the same token,lisäksi
 further,lisäksi
@@ -44345,7 +44102,6 @@ tags,lisäys
 tailpiece,lisäys
 another,lisää
 extra,lisää
-more,lisää
 more,lisää
 aggrandizement,lisääminen
 alloy,lisääminen
@@ -44544,7 +44300,6 @@ comfort,lohdutus
 consolation,lohdutus
 solace,lohdutus
 sop,lohdutus
-salmon,lohenpunainen
 salmon,lohenpunainen
 dovetail,lohenpyrstö
 dovetail,lohenpyrstöliitos
@@ -45301,7 +45056,6 @@ clatter,loukkuttaa
 jaw,loukkuttaa
 southwest,lounaaseen
 southwestward,lounaaseen
-southwest,lounainen
 southwest,lounainen
 southwesterly,lounainen
 southwestern,lounainen
@@ -46238,7 +45992,6 @@ push,luottaa liiaksi jhk
 relying,luottaen
 confidential,luottamuksellinen
 heart-to-heart,luottamuksellinen
-heart-to-heart,luottamuksellinen
 hush-hush,luottamuksellinen
 private,luottamuksellinen
 heart-to-heart,luottamuksellinen keskustelu
@@ -46840,20 +46593,16 @@ close-set,lähekkäin olevat
 close,lähelle
 close to home,lähelle
 near,lähelle
-near,lähelle
 at close range,lähellä
 at hand,lähellä
 at short range,lähellä
-by,lähellä
 by,lähellä
 close,lähellä
 close by,lähellä
 handy,lähellä
 in the vicinity of,lähellä
 near,lähellä
-near,lähellä
 nearby,lähellä
-nigh,lähellä
 nigh,lähellä
 within easy reach of,lähellä
 close to,lähellä jtk
@@ -46861,11 +46610,9 @@ near,lähellä jtk
 near to,lähellä jtk
 next door,lähellä jtk
 nigh,lähellä jtk
-nigh,lähellä jtk
 on the verge of,lähellä jtk
 central,lähellä kaupungin keskustaa
 central,lähellä keskustaa
-in-shore,lähellä rantaa
 in-shore,lähellä rantaa
 at close quarters,lähellä toisiaan
 close together,lähellä toisiaan
@@ -47478,10 +47225,8 @@ west,länsi-
 westerly,länsi-
 western,länsi-
 occidental,länsimaalainen
-occidental,länsimaalainen
 westerner,länsimaalainen
 occident,länsimaat
-occidental,länsimainen
 occidental,länsimainen
 western,länsimainen
 westerly,länsituuli
@@ -47494,8 +47239,6 @@ westerly,läntinen
 western,läntinen
 westward,läntinen
 through,läpi
-through,läpi
-thru,läpi
 thru,läpi
 throughout,läpi koko
 nightlong,läpi yön
@@ -47626,8 +47369,6 @@ pin,lävistää neulalla
 bayonet,lävistää pistimellä
 gore,lävistää sarvellaan
 through,lävitse
-through,lävitse
-thru,lävitse
 thru,lävitse
 blow,läähättää
 blowing,läähättää
@@ -47922,7 +47663,6 @@ provincial,maakunta-
 painting,maalaaminen
 paintings,maalaaminen
 countryman,maalainen
-hick,maalainen
 hick,maalainen
 peasant,maalainen
 provincial,maalainen
@@ -49003,7 +48743,6 @@ collected,maltillinen
 level-headed,maltillinen
 middle-of-the-road,maltillinen
 moderate,maltillinen
-moderate,maltillinen
 patient,maltillinen
 restrained,maltillinen
 soft,maltillinen
@@ -49269,7 +49008,6 @@ tummy,masu
 deep,matala
 deeper,matala
 low,matala
-low,matala
 low-pitched,matala
 lows,matala
 shallow,matala
@@ -49287,7 +49025,6 @@ low,matalalle
 low-minded,matalamielinen
 mean,matalamielinen
 lour,matalampi
-lower,matalampi
 lower,matalampi
 depression,matalapaine
 low,matalapaine
@@ -49400,7 +49137,6 @@ under way,matkalla
 voyager,matkamies
 wayfarer,matkamies
 for,matkan
-within,matkan päässä jstk
 within,matkan päässä jstk
 courier,matkaopas
 guide,matkaopas
@@ -49675,7 +49411,6 @@ broker,meklari
 brokers,meklari
 mexico,meksiko
 mexican,meksikolainen
-mexican,meksikolainen
 mel,mel
 paddle,mela
 melancholic,melankolikko
@@ -49693,7 +49428,6 @@ just about,melkein
 most,melkein
 much,melkein
 near,melkein
-near,melkein
 nearly,melkein
 next door,melkein
 next to,melkein
@@ -49703,11 +49437,9 @@ delicate,melkein huomaamaton
 gift,melkein ilmainen
 giveaway,melkein ilmainen
 most,melkein kaikki
-most,melkein kaikki
 as good as,melkein kuin
 rather,melkeinpä
 comparative,melko
-enough,melko
 enough,melko
 fairly,melko
 much,melko
@@ -50229,7 +49961,6 @@ off,merelle
 outward,merelle päin
 seaward,merelle päin
 outward bound,merelle päin suuntaava
-afloat,merellä
 afloat,merellä
 at sea,merellä
 off,merellä
@@ -51077,10 +50808,7 @@ polling,mielipidetutkimus
 polls,mielipidetutkimus
 public opinion poll,mielipidetutkimus
 loony,mielipuoli
-loony,mielipuoli
 lunatic,mielipuoli
-lunatic,mielipuoli
-madman,mielipuoli
 madman,mielipuoli
 lunatic,mielisairas
 bucked,mielissään
@@ -51274,7 +51002,6 @@ agonize,miettiä päänsä puhki
 beat one's brains out,miettiä päänsä puhki
 rack one's brains,miettiä päänsä puhki
 where,mihin
-where,mihin
 any time,mihin aikaan hyvänsä
 at any time,mihin aikaan hyvänsä
 desperate,mihin tahansa valmis
@@ -51289,7 +51016,6 @@ mines,miina
 mine,miinoittaa
 mines,miinoittaa
 less,miinus
-minus,miinus
 minus,miinus
 minus,miinusmerkki
 minus sign,miinusmerkki
@@ -51311,23 +51037,15 @@ mix,miksata
 mixing,miksata
 mixer,mikseri
 why,miksi
-why,miksi
-why!,miksi
 why!,miksi
 mixture,mikstuura
 that,mikä
 what,mikä
-what,mikä
 which,mikä
 whatever,mikä ihmeessä
-whatever,mikä ihmeessä
-whatsoever,mikä ihmeessä
 whatsoever,mikä ihmeessä
 whichever,mikä ihmeessä
-whichever,mikä ihmeessä
 whatever,mikä kumma
-whatever,mikä kumma
-whatsoever,mikä kumma
 whatsoever,mikä kumma
 appurtenance,mikä kuuluu jhk
 something or other,mikä lie
@@ -51336,10 +51054,7 @@ any,mikä tahansa
 any one,mikä tahansa
 anything,mikä tahansa
 whatever,mikä tahansa
-whatever,mikä tahansa
 whatsoever,mikä tahansa
-whatsoever,mikä tahansa
-whichever,mikä tahansa
 whichever,mikä tahansa
 according as,mikäli
 as far as,mikäli
@@ -51370,7 +51085,6 @@ militant,militantti
 billion,miljardi
 milliard,miljardi
 million,miljoona
-million,miljoona
 millions,miljoonia
 ambience,miljöö
 milieu,miljöö
@@ -51378,14 +51092,12 @@ setting,miljöö
 settings,miljöö
 anytime,milloin
 when,milloin
-when,milloin
 now ... now,milloin ... milloin
 variously,milloin ... milloin
 any day,milloin tahansa
 any old time,milloin tahansa
 any time,milloin tahansa
 at any time,milloin tahansa
-whenever,milloin tahansa
 whenever,milloin tahansa
 ever,milloinkaan
 in any way,millään tavalla
@@ -51437,10 +51149,8 @@ departmental,ministeriön-
 ministerial,ministeriön-
 undisturbed,minkään häiritsemättä
 where,minne
-where,minne
 whither,minne
 whereabouts,minne päin
-wherever,minne tahansa
 wherever,minne tahansa
 minneapolis,minneapolis
 minnesota,minnesota
@@ -51473,12 +51183,9 @@ beauty contest,missikisat
 mississippi,mississippi
 missouri,missouri
 where,missä
-where,missä
 whereabouts,missä
 wherein,missä
 wherever,missä hyvänsä
-wherever,missä hyvänsä
-wherever,missä ihmeessä
 wherever,missä ihmeessä
 anyplace,missä tahansa
 anywhere,missä tahansa
@@ -51523,7 +51230,6 @@ by any means,mitenkään
 in any way,mitenkään
 possibly,mitenkään
 that,mitkä
-what,mitkä
 what,mitkä
 any,mitkään
 measure,mitoittaa
@@ -51612,10 +51318,7 @@ bespoke,mittojen mukaan tehty
 tailor-made,mittojen mukaan tehty
 most,mitä
 what,mitä
-what,mitä
 whatever,mitä hyvänsä
-whatever,mitä hyvänsä
-whatsoever,mitä hyvänsä
 whatsoever,mitä hyvänsä
 as far as,mitä jhk tulee
 concerning,mitä jhk tulee
@@ -51638,8 +51341,6 @@ in regard to,mitä tulee jhk
 in respect of,mitä tulee jhk
 with respect to,mitä tulee jhk
 why,mitä varten
-why,mitä varten
-why!,mitä varten
 why!,mitä varten
 nobody,mitättömyys
 nullity,mitättömyys
@@ -51766,7 +51467,6 @@ molecule,molekyyli
 molecules,molekyyli
 molecular,molekyyli-
 both,molemmat
-both,molemmat
 two,molemmat
 mutual,molemminpuolinen
 reciprocal,molemminpuolinen
@@ -51807,7 +51507,6 @@ plenty,monet
 lingo,mongerrus
 mongolia,mongolia
 many,moni
-many,moni
 multi,moni-
 multi-,moni-
 multiple,moni-
@@ -51816,7 +51515,6 @@ empire,monialayhtymä
 conglomerate,monialayritys
 monica,monica
 transformer,monihahmolelu
-high-rise,monikerroksinen
 high-rise,monikerroksinen
 multi-storey,monikerroksinen
 plurality,monikollisuus
@@ -51897,8 +51595,6 @@ polyphonic,moniäänisiä
 catfish,monni
 rookie,monni
 mono,mono
-mono,mono
-mono,monofoninen
 mono,monofoninen
 monopoly,monopoli
 monopolize,monopolisoida
@@ -51985,10 +51681,8 @@ wedding,morsius-
 matron of honor,morsiusrouva
 mortar,mortteli
 mosaic,mosaiikki
-mosaic,mosaiikki
 patchwork,mosaiikki
 inlaid,mosaiikki-
-mosaic,mosaiikki-
 mosaic,mosaiikki-
 tessellated,mosaiikki-
 mosaic,mosaiikkitauti
@@ -52063,10 +51757,7 @@ mtv,mtv
 mu,mu
 along with,muassa
 mohammedan,muhamettilainen
-mohammedan,muhamettilainen
 moslem,muhamettilainen
-moslem,muhamettilainen
-muslim,muhamettilainen
 muslim,muhamettilainen
 mussulman,muhamettilainen
 mohammedanism,muhamettilaisuus
@@ -52942,11 +52633,8 @@ nutmeg,muskotti
 nutmeg,muskottipuu
 nutmeg,muskottipähkinä
 moslem,muslimi
-moslem,muslimi
-muslim,muslimi
 muslim,muslimi
 muslims,muslimit
-black,musta
 black,musta
 blacks,musta
 ebony,musta
@@ -53068,7 +52756,6 @@ curl one's lips,mutristaa suutaan
 pucker one's lips,mutristaa suutaan
 pout,mutristus
 but,mutta
-but,mutta
 only,mutta
 yet,mutta
 yet,mutta kuitenkin
@@ -53078,21 +52765,16 @@ female screw,mutteri
 nut,mutteri
 else,muu
 other,muu
-other,muu
 sundry,muu
 to the contrary,muu
 alternative,muu mahdollisuus
 alternatives,muu mahdollisuus
 such,muu sellainen
-such,muu sellainen
-such,muu sellainen
 suchlike,muu sellainen
 elsewhere,muualla
 absentee,muualla asuva
 nonresident,muualla asuva
-nonresident,muualla asuva
 carpetbagger,muualla asuva vaaliehdokas
-nonresident,muualla vakinaisesti asuva
 nonresident,muualla vakinaisesti asuva
 elsewhere,muualle
 nec,muualle luokittelemattomat
@@ -53155,11 +52837,9 @@ musicians,muusikko
 failing that,muussa tapauksessa
 otherwise,muussa tapauksessa
 other,muut
-other,muut
 others,muut
 sundries,muut
 the rest,muut
-other,muut ihmiset
 other,muut ihmiset
 but,muuta kuin
 one or two,muutama
@@ -53359,7 +53039,6 @@ lens,mykiö
 lenses,mykiö
 dumb,mykkä
 inarticulate,mykkä
-mute,mykkä
 mute,mykkä
 silent,mykkä
 wordless,mykkä
@@ -54845,7 +54524,6 @@ square,neliöidä
 square meter,neliömetri
 square,neliön muotoinen
 four,neljä
-four,neljä
 forty,neljäkymmentä
 foursome,neljän hengen ryhmä
 quarter,neljännes
@@ -54860,7 +54538,6 @@ quarterly,neljännesvuosittain maksettava
 quarterly,neljännesvuosittain tapahtuva
 fourth,neljäs
 quarter,neljäsosa
-four,nelonen
 four,nelonen
 nelson,nelson
 conk,nenä
@@ -54963,7 +54640,6 @@ indifferent,neutraali
 neutral,neutraali
 neutralize,neutraloida
 neutralization,neutraloituminen
-neuter,neutri
 neuter,neutri
 neuter,neutrisukuinen
 advice,neuvo
@@ -55135,9 +54811,6 @@ thereabouts,niillä main
 and,niin
 as,niin
 so,niin
-so,niin
-such,niin
-such,niin
 such,niin
 that,niin
 that's how,niin
@@ -55151,10 +54824,7 @@ anyway,niin ja näin
 so-so,niin ja näin
 as long as,niin kauan kuin
 so,niin kovasti
-so,niin kovasti
 as,niin kuin
-as,niin kuin
-like,niin kuin
 like,niin kuin
 same as,niin kuin
 as per normal,niin kuin aina
@@ -55165,7 +54835,6 @@ self-styled,niin kutsuttu
 so-called,niin kutsuttu
 supposed,niin kutsuttu
 consequently,niin muodoin
-so,niin paljon
 so,niin paljon
 that much,niin paljon
 as it were,niin sanoakseni
@@ -55446,12 +55115,8 @@ oh well!,no jaa!
 now,no mutta
 now,no niin
 o.k.,no niin
-o.k.,no niin
-okay,no niin
 okay,no niin
 okey,no niin
-okey,no niin
-okeydokey,no niin
 okeydokey,no niin
 so,no niin
 oh!,no!
@@ -55465,7 +55130,6 @@ circa,noin
 like that,noin
 round,noin
 round about,noin
-so,noin
 so,noin
 some,noin
 something like,noin
@@ -55578,7 +55242,6 @@ nil,nolla
 nothing,nolla
 nought,nolla
 zero,nolla
-zero,nolla
 zip,nolla
 neutral,nolla-
 null,nolla-
@@ -55664,7 +55327,6 @@ norfolk,norfolk
 loose-jointed,norja
 norway,norja
 supple,norja
-norwegian,norjalainen
 norwegian,norjalainen
 norwegian,norjan
 norwegian,norjan kieli
@@ -56297,8 +55959,6 @@ them,nuo
 those,nuo
 those ones,nuo
 yon,nuo
-yon,nuo
-yonder,nuo
 yonder,nuo
 chimney sweep,nuohooja
 chimney sweeper,nuohooja
@@ -56346,9 +56006,7 @@ rejuvenate,nuorentaa
 young people,nuoret
 youth,nuoret
 adolescent,nuori
-adolescent,nuori
 junior,nuori
-juvenile,nuori
 juvenile,nuori
 young,nuori
 younger,nuori
@@ -56370,7 +56028,6 @@ baby,nuorin
 young people,nuoriso
 youth,nuoriso
 juvenile,nuoriso-
-delinquent,nuorisorikollinen
 delinquent,nuorisorikollinen
 juvenile delinquent,nuorisorikollinen
 supple,nuortea
@@ -56761,7 +56418,6 @@ hereabouts,näillä tienoin
 in these parts,näillä tienoin
 as follows,näin
 like this,näin
-so,näin
 so,näin
 that's how,näin
 this,näin
@@ -57445,8 +57101,6 @@ thin out,ohentua
 attenuate,oheta
 at the end,ohi
 by,ohi
-by,ohi
-past,ohi
 past,ohi
 wide open,ohi jstk
 miss,ohiheitto
@@ -57725,8 +57379,6 @@ the rights and wrongs of,oikea laita
 form,oikea menettelytapa
 forms,oikea menettelytapa
 offside,oikea puoli
-offside,oikea puoli
-offside,oikea puoli
 starboard,oikea puoli
 low-down,oikea totuus
 duly,oikeaan aikaan
@@ -57803,7 +57455,6 @@ right-wing,oikeisto-
 right,oikeistolainen
 right-wing,oikeistolainen
 right-winger,oikeistolainen
-rightist,oikeistolainen
 rightist,oikeistolainen
 judicial,oikeudellinen
 judiciary,oikeudellinen
@@ -58178,7 +57829,6 @@ in any event,oli miten oli
 olive,oliivi
 olive,oliivi-
 olive,oliivin-
-olive,oliivinvihreä
 olive,oliivinvihreä
 olive,oliivipuu
 occupant,olija
@@ -59425,10 +59075,8 @@ olympic games,olympialaiset
 olympics,olympialaiset
 olympics,olympian kisat
 olympian,olympolainen
-olympian,olympolainen
 olympus,olympus
 om,om
-own,oma
 own,oma
 personal,oma
 private,oma
@@ -59441,7 +59089,6 @@ vocation,oma ala
 preserve,oma alue
 self-contained,oma erillinen
 discretion,oma harkinta
-number one,oma itse
 number one,oma itse
 person,oma itse
 persons,oma itse
@@ -59481,7 +59128,6 @@ self-importance,omahyväisyys
 vainglory,omahyväisyys
 relation,omainen
 relational,omainen
-relative,omainen
 relative,omainen
 relatives,omainen
 folks,omaiset
@@ -60103,7 +59749,6 @@ thorn,ora
 oracle,oraakkeli
 oral,oraalinen
 orange,oranssi
-orange,oranssi
 orange,oranssinvärinen
 haw,orapihlaja
 hawthorn,orapihlaja
@@ -60185,13 +59830,11 @@ ornamentation,ornamentiikka
 ornament,ornamentti
 bereaved,orpo
 orphan,orpo
-orphan,orpo
 perch,orsi
 roost,orsi
 orthography,ortografia
 pansy,orvokki
 viola,orvokki
-violet,orvokki
 violet,orvokki
 os,os
 allotment,osa
@@ -61305,12 +60948,10 @@ awkward,paha
 bad,paha
 baleful,paha
 evil,paha
-evil,paha
 foul,paha
 grievous,paha
 harm,paha
 heavy,paha
-ill,paha
 ill,paha
 malignant,paha
 mischief,paha
@@ -61975,7 +61616,6 @@ barring,paitsi
 besides,paitsi
 beyond,paitsi
 but,paitsi
-but,paitsi
 except,paitsi
 excepting,paitsi
 excluding,paitsi
@@ -62388,7 +62028,6 @@ cold,paleleva
 freeze,palelluttaa
 freeze,paleltua
 palestine,palestiina
-palestinian,palestiinalainen
 palestinian,palestiinalainen
 palette knife,palettiveitsi
 filament,palho
@@ -63600,7 +63239,6 @@ parakeet,papukaija
 parrot,papukaija
 dapple,papurikko
 dapple-grey,papurikko
-dapple-grey,papurikko
 par,par
 parade,paraati
 parade,paraatikenttä
@@ -63618,7 +63256,6 @@ scream,parahdus
 cry,parahtaa
 just now,paraikaa
 hut,parakki
-parallel,paralleeli
 parallel,paralleeli
 parallel,paralleelinen
 paralysis,paralysia
@@ -63720,7 +63357,6 @@ best,paras
 choice,paras
 good,paras
 king,paras
-number one,paras
 number one,paras
 optimal,paras
 pick,paras
@@ -64050,8 +63686,6 @@ spades,pata
 stew,pata
 casserole,pataruoka
 die-hard,patavanhoillinen
-die-hard,patavanhoillinen
-ultraconservative,patavanhoillinen
 ultraconservative,patavanhoillinen
 pate,patee
 patent,patentoida
@@ -64234,7 +63868,6 @@ squashy,pehmeä
 subdued,pehmeä
 fluff,pehmeä karva
 fudge,pehmeä kermakaramelli
-soft-cover,pehmeäkantinen
 soft-cover,pehmeäkantinen
 soft-cover,pehmeäkantinen kirja
 soft-boiled,pehmeäksi keitetty
@@ -65017,7 +64650,6 @@ perry,perry
 arse,perse
 ass,perse
 sucks,perseestä
-persian,persialainen
 persian,persialainen
 persian,persian kieli
 fond of,perso
@@ -66229,7 +65861,6 @@ county,piirikunta
 district,piirikunta
 districts,piirikunta
 within,piirissä
-within,piirissä
 within the compass of,piirissä
 within the scope of,piirissä
 sphere,piirit
@@ -66526,12 +66157,9 @@ mats,pikkumatto
 tin god,pikkunapoleon
 gimmicky,pikkunäppärä
 petit bourgeois,pikkuporvari
-petit bourgeois,pikkuporvari
-petit bourgeois,pikkuporvarillinen
 petit bourgeois,pikkuporvarillinen
 suburban,pikkuporvarillinen
 suburbia,pikkuporvarillisuus
-petit bourgeois,pikkuporvaristo
 petit bourgeois,pikkuporvaristo
 piglet,pikkupossu
 appetizer,pikkupurtavat
@@ -66547,7 +66175,6 @@ itty-bitty,pikkuriikkinen
 teeny,pikkuriikkinen
 teeny-weeny,pikkuriikkinen
 fiddler,pikkurikollinen
-lilliputian,pikkuruinen
 lilliputian,pikkuruinen
 minute,pikkuruinen
 pint-size,pikkuruinen
@@ -66847,7 +66474,6 @@ murk,pimeys
 shades,pimeys
 benighted,pimeä
 dark,pimeä
-dark,pimeä
 gloomy,pimeä
 murky,pimeä
 unlit,pimeä
@@ -66890,7 +66516,6 @@ spurt,pinkaista
 scurry,pinkaisu
 pile,pinkka
 sheaf,pinkka
-pink,pinkki
 pink,pinkki
 cram,pinko
 crammer,pinko
@@ -68058,7 +67683,6 @@ plunge,plumpsahtaa
 plunge,plumpsaus
 and,plus
 plus,plus
-plus,plus
 plus,plus-
 plus,plusmerkki
 plus sign,plusmerkki
@@ -68152,7 +67776,6 @@ under the skin,pohjimmiltaan
 arctic,pohjoinen
 boreal,pohjoinen
 nordic,pohjoinen
-north,pohjoinen
 north,pohjoinen
 northerly,pohjoinen
 northern,pohjoinen
@@ -68285,7 +67908,6 @@ kinky,poikkeava
 nonconformist,poikkeava
 weird,poikkeava
 deviant,poikkeava henkilö
-deviant,poikkeava henkilö
 abnormality,poikkeavuus
 deviance,poikkeavuus
 deviation,poikkeavuus
@@ -68306,15 +67928,10 @@ anomaly,poikkeus
 exception,poikkeus
 exceptions,poikkeus
 across,poikki
-across,poikki
 athwart,poikki
 dead tired,poikki
 in two,poikki
 off,poikki
-off,poikki
-off,poikki
-over,poikki
-over,poikki
 over,poikki
 washed-out,poikki
 whacked,poikki
@@ -68385,7 +68002,6 @@ dismissal,pois päästäminen
 exclusion,pois sulkeminen
 extraction,pois vetäminen
 withdrawal,pois vetäminen
-off,pois yltä
 off,pois yltä
 leaving,poislähtö
 departed,poismenneet
@@ -68859,9 +68475,7 @@ pontoon,ponttoni
 pool,pool
 polo,poolo
 pop,pop
-pop,pop
 pop,pop-
-pop,popmusiikki
 pop,popmusiikki
 trick,poppakonstti
 swinger,poppari
@@ -68934,9 +68548,7 @@ bungler,poropeukalo
 butterfingers,poropeukalo
 bourgeois,poroporvari
 philistine,poroporvari
-philistine,poroporvari
 bourgeois,poroporvarillinen
-philistine,poroporvarillinen
 philistine,poroporvarillinen
 echelon,porras
 stair,porras
@@ -68980,7 +68592,6 @@ stairway,portaat
 steps,portaat
 staircase,portaikko
 downstairs,portaita alas
-downstairs,portaita alas
 porter,portieeri
 concierge,portinvartija
 gatekeeper,portinvartija
@@ -69005,7 +68616,6 @@ wicket,portti
 gateway,porttikäytävä
 portugal,portugali
 portuguese,portugali
-portuguese,portugalilainen
 portuguese,portugalilainen
 portuguese,portugalin kieli
 port,portviini
@@ -69431,7 +69041,6 @@ psych,psykologia
 psychology,psykologia
 psychological,psykologinen
 psycho,psykopaatti
-psycho,psykopaatti
 psychopath,psykopaatti
 mind,psyyke
 minds,psyyke
@@ -69492,8 +69101,6 @@ puff,puffata
 puff,puffi
 tootle,puhallella
 inflatable,puhallettava
-inflatable,puhallettava
-inflatable,puhallettava esine
 inflatable,puhallettava esine
 blower,puhallin
 fan,puhallin
@@ -69551,16 +69158,10 @@ pure,puhdasmuotoinen
 clean-cut,puhdaspiirteinen
 pure,puhdasrotuinen
 pureblood,puhdasrotuinen
-pureblood,puhdasrotuinen
-pureblooded,puhdasrotuinen
 pureblooded,puhdasrotuinen
 purebred,puhdasrotuinen
-purebred,puhdasrotuinen
-thoroughbred,puhdasrotuinen
 thoroughbred,puhdasrotuinen
 pureblood,puhdasverinen
-pureblood,puhdasverinen
-pureblooded,puhdasverinen
 pureblooded,puhdasverinen
 clarify,puhdistaa
 clean,puhdistaa
@@ -69932,7 +69533,6 @@ framework,puitteet
 setting,puitteet
 settings,puitteet
 within,puitteissa
-within,puitteissa
 within the scope of,puitteissa
 creep,pujahtaa
 slide,pujahtaa
@@ -70097,7 +69697,6 @@ porky,pullea
 pudgy,pullea
 puffy,pullea
 roly-poly,pullea
-roly-poly,pullea
 rotund,pullea
 stumpy,pullea
 tubby,pullea
@@ -70141,7 +69740,6 @@ bottle,pullottaa
 bottles,pullottaa
 chubby,pullukka
 fatty,pullukka
-roly-poly,pullukka
 roly-poly,pullukka
 tub,pullukka
 tubby,pullukka
@@ -70216,15 +69814,11 @@ red,puna
 redness,puna
 red-hot,punahehkuinen
 red,punainen
-red,punainen
 ruddy,punainen
 thread,punainen lanka
 threads,punainen lanka
 pink,punainen takki
-pink,punainen takki
 maroon,punaisenruskea
-maroon,punaisenruskea
-puce,punaisenruskea
 puce,punaisenruskea
 redness,punaisuus
 blowzy,punakka
@@ -70239,7 +69833,6 @@ redhead,punapää
 robin,punarinta
 robin,punarintarastas
 bay,punaruskea
-russet,punaruskea
 russet,punaruskea
 blush,punastua
 change color,punastua
@@ -70348,7 +69941,6 @@ aspect,puoli
 aspects,puoli
 facet,puoli
 half,puoli
-half,puoli
 part,puoli
 point,puoli
 side,puoli
@@ -70395,9 +69987,7 @@ spouse,puoliso
 wife,puoliso
 wives,puoliso
 halfway,puolitiessä
-halfway,puolitiessä
 midway,puolitiessä
-halfway,puolitiessä oleva
 halfway,puolitiessä oleva
 bisect,puolittaa
 halve,puolittaa
@@ -70743,16 +70333,10 @@ rivulet,puro
 stream,puro
 streams,puro
 magenta,purppura
-magenta,purppura
-purple,purppura
 purple,purppura
 crimson,purppuranpunainen
-crimson,purppuranpunainen
-magenta,purppuranpunainen
 magenta,purppuranpunainen
 purple,purppuranpunainen
-purple,purppuranpunainen
-purple,purppuraviitta
 purple,purppuraviitta
 potpourri,purpuri
 bite,purra
@@ -71973,7 +71557,6 @@ inverse,päinvastainen
 inverted,päinvastainen
 opposite,päinvastainen
 reverse,päinvastainen
-reverse,päinvastainen
 reversed,päinvastainen
 to the contrary,päinvastainen
 reverse,päinvastainen tapaus
@@ -72251,7 +71834,6 @@ headgear,päähine
 headpiece,päähine
 kerchief,päähuivi
 off,päähän
-off,päähän
 on,päähän
 short of,päähän jstk
 contrivance,päähänpisto
@@ -72291,7 +71873,6 @@ sanctuary,pääkuori
 upside down,päälaellaan
 crown,päälaki
 main,päälinja
-on,päälle
 on,päälle
 on to,päälle
 onto,päälle
@@ -72388,7 +71969,6 @@ recovered,päällystää uudestaan
 resurface,päällystää uudestaan
 complement,päällystö ja miehistö
 atop,päällä
-on,päällä
 on,päällä
 over,päällä
 over the top,päällä
@@ -72746,7 +72326,6 @@ fast,päästö
 fasting,päästö
 effluent,päästöt
 graduate,päästötodistuksen saanut
-graduate,päästötodistuksen saanut
 graduates,päästötodistuksen saanut
 access,pääsy
 accession,pääsy
@@ -72927,7 +72506,6 @@ decision,päätäntävalta
 decisions,päätäntävalta
 conclusion,päätäntö
 conclusions,päätäntö
-helter-skelter,päätäpahkaa
 helter-skelter,päätäpahkaa
 headfirst,päätäpahkainen
 headlong,päätäpahkainen
@@ -73341,7 +72919,6 @@ stronger,raavas
 rachel,rachel
 etch,radeerata
 radical,radikaali
-radical,radikaali
 radically,radikaalisti
 radio,radio
 radio set,radio
@@ -73527,8 +73104,6 @@ infirmity,raihnaisuus
 broken-down,raihnas
 infirm,raihnas
 invalid,raihnas
-invalid,raihnas
-invalid,raihnas henkilö
 invalid,raihnas henkilö
 drag,raijata
 lug,raijata
@@ -73847,8 +73422,6 @@ hurricane,rajumyrsky
 fury,rajuus
 vehemence,rajuus
 beloved,rakas
-beloved,rakas
-darling,rakas
 darling,rakas
 dear,rakas
 dearest,rakas
@@ -73856,7 +73429,6 @@ love,rakas
 loved,rakas
 loves,rakas
 my dearest,rakas
-precious,rakas
 precious,rakas
 special,rakas
 dear,rakas ystävä
@@ -73868,7 +73440,6 @@ lover,rakastaja
 lovers,rakastaja
 mistress,rakastajatar
 beloved,rakastama
-beloved,rakastama
 affectionate,rakastava
 fond,rakastava
 loving,rakastava
@@ -73879,7 +73450,6 @@ endearing,rakastettava
 lovable,rakastettava
 loveable,rakastettava
 amiability,rakastettavuus
-beloved,rakastettu
 beloved,rakastettu
 cherished,rakastettu
 love,rakastettu
@@ -74210,7 +73780,6 @@ sleet,ranta
 strand,ranta
 waterfront,ranta
 waterside,ranta
-in-shore,ranta-
 in-shore,ranta-
 littoral,ranta-
 onshore,ranta-
@@ -74742,7 +74311,6 @@ appeasement,rauhoittaminen
 pacification,rauhoittaminen
 reassuring,rauhoittava
 restful,rauhoittava
-sedative,rauhoittava
 sedative,rauhoittava
 tranquilizer,rauhoittava
 sedative,rauhoittava lääke
@@ -75978,8 +75546,6 @@ criminality,rikoksellisuus
 felon,rikoksentekijä
 perpetrator,rikoksentekijä
 criminal,rikollinen
-criminal,rikollinen
-delinquent,rikollinen
 delinquent,rikollinen
 guilty,rikollinen
 nefarious,rikollinen
@@ -76222,8 +75788,6 @@ choppy sea,ristiaallokko
 riptide,ristiaallokko
 across,ristiin
 crisscross,ristiin rastiin
-crisscross,ristiin rastiin
-crisscross,ristiin rastiin kulkeva
 crisscross,ristiin rastiin kulkeva
 crucify,ristiinnaulita
 crucifix,ristiinnaulitun kuva
@@ -76244,7 +75808,6 @@ grill,ristikkoikkuna
 grille,ristikkoikkuna
 truss,ristikkopalkki
 across,ristikkäin
-crisscross,ristikkäin
 crisscross,ristikkäin
 cross,ristikkäinen
 cross-examine,ristikuulustella
@@ -76584,8 +76147,6 @@ romany,romaani
 fiction,romaanikirjallisuus
 latin,romaaninen
 romanesque,romaaninen
-romanesque,romaaninen
-romanesque,romaaninen tyyli
 romanesque,romaaninen tyyli
 breakdown,romahdus
 collapse,romahdus
@@ -76668,14 +76229,11 @@ roles,rooli
 rome,rooma
 latin,roomalainen
 roman,roomalainen
-roman,roomalainen
 roman,rooman-
 rose,roosa
 roses,roosa
 patter,ropina
 pit-a-pat,ropina
-pit-a-pat,ropina
-pitter-patter,ropina
 pitter-patter,ropina
 spatter,ropina
 patter,ropista
@@ -76863,8 +76421,6 @@ ru,ru
 rwanda,ruanda
 rwandan,ruandan
 ruby,rubiini
-ruby,rubiini
-ruby,rubiininpunainen
 ruby,rubiininpunainen
 rugby,rugby
 rugger,rugby
@@ -77406,8 +76962,6 @@ the plague,rutto
 grid,ruudukko
 checked,ruudullinen
 checkered,ruudullinen
-checkered,ruudullinen
-chequered,ruudullinen
 chequered,ruudullinen
 in plaid,ruudullinen
 check,ruudullinen kangas
@@ -78877,8 +78431,6 @@ recipients,saaja
 pending,saakka
 since,saakka
 till,saakka
-till,saakka
-until,saakka
 until,saakka
 rapacious,saaliinhimoinen
 ravening,saaliinhimoinen
@@ -79251,7 +78803,6 @@ fabulous,sadunhohteinen
 safari,safari
 sapphire,safiiri
 sapphire,safiirinsininen
-sapphire,safiirinsininen
 sagem,sagem
 saw,saha
 sawmill,saha
@@ -79297,7 +78848,6 @@ diseased,sairas
 disordered,sairas
 ghoulish,sairas
 ill,sairas
-invalid,sairas
 invalid,sairas
 morbid,sairas
 on one's back,sairas
@@ -79354,7 +78904,6 @@ hair-splitting,saivarteleva
 nitpicking,saivarteleva
 pedant,saivartelija
 nitpicking,saivartelu
-nitpicking,saivartelu
 quibble,saivartelu
 antler,sakara
 cusp,sakara
@@ -79400,9 +78949,7 @@ tag,sakottaa
 tagged,sakottaa
 tags,sakottaa
 german,saksa
-german,saksa
 germany,saksa
-german,saksalainen
 german,saksalainen
 teutonic,saksalainen
 elder,saksanheisi
@@ -79417,7 +78964,6 @@ saxon,saksi
 cut,saksia
 cuts,saksia
 wing,saksia
-saxon,saksilainen
 saxon,saksilainen
 saxon,saksin kieli
 backstairs,sala-
@@ -79552,7 +79098,6 @@ inscrutable,salaperäinen
 mysterious,salaperäinen
 mystic,salaperäinen
 occult,salaperäinen
-occult,salaperäinen
 secret,salaperäinen
 weird,salaperäinen
 mystery,salaperäisyys
@@ -79656,11 +79201,8 @@ idem,sama
 identic,sama
 identical,sama
 like,sama
-like,sama
 likes,sama
 one,sama
-same,sama
-same,sama
 same,sama
 very,sama
 equal,sama kuin
@@ -79724,8 +79266,6 @@ similarity,samankaltaisuus
 coincident,samanlainen
 identic,samanlainen
 identical,samanlainen
-same,samanlainen
-same,samanlainen
 same,samanlainen
 similar,samanlainen
 equable,samanlaisena pysyvä
@@ -79881,7 +79421,6 @@ literal,sanasanainen
 tilt,sanasota
 war of words,sanasota
 verbatim,sanasta sanaan
-verbatim,sanasta sanaan
 word by word,sanasta sanaan
 word for word,sanasta sanaan
 record,sanastaa
@@ -79894,7 +79433,6 @@ wit,sanataituri
 word by word,sanatarkasti
 word for word,sanatarkasti
 verbal,sanatarkka
-verbatim,sanatarkka
 verbatim,sanatarkka
 word-for-word,sanatarkka
 dumbfounded,sanaton
@@ -80038,7 +79576,6 @@ says,sanominen
 for the record,sanon sen aivan julkisesti
 just for the record,sanon sen aivan julkisesti
 so-and-so,sanonko mikä
-so-and-so,sanonko mikä
 dictum,sanonta
 phrase,sanonta
 phrases,sanonta
@@ -80158,7 +79695,6 @@ horny,sarvimainen
 sas,sas
 saskatchewan,saskatchewan
 quickly,sassiin
-hundred,sata
 hundred,sata
 hundreds,sata
 hail,sataa
@@ -80312,7 +79848,6 @@ hurt,satuttaa
 sting,satuttaa
 satyr,satyyri
 saudi,saudiarabialainen
-saudi,saudiarabialainen
 smoke,sauhut
 join,sauma
 joins,sauma
@@ -80411,22 +79946,16 @@ such a thing,se
 that,se
 this,se
 so-and-so,se ja se
-so-and-so,se ja se
-such,se ja se
-such,se ja se
 such,se ja se
 such and such,se ja se
 what-d'you-call-him,se ja se
 he who,se joka
 one,se joka
 whichever,se joka
-whichever,se joka
 whoever,se joka
 whosoever,se joka
 due,se joka jklle kuuluu
 what,se mikä
-what,se mikä
-whichever,se mikä
 whichever,se mikä
 right,se mikä on oikein
 rights,se mikä on oikein
@@ -80548,8 +80077,6 @@ seven,seitsemän
 high as a kite,seitsemännessä taivaassa
 on cloud nine,seitsemännessä taivaassa
 seventh,seitsemäs
-seventh,seitsemäs
-seventh,seitsemäsosa
 seventh,seitsemäsosa
 cobweb,seitti
 web,seitti
@@ -80608,7 +80135,6 @@ rumpled,sekaisin
 screwed-up,sekaisin
 spaced out,sekaisin
 tangled,sekaisin
-topsy-turvy,sekaisin
 topsy-turvy,sekaisin
 tumbled,sekaisin
 unsettled,sekaisin
@@ -80953,7 +80479,6 @@ whacking,selkäsauna
 whipping,selkäsauna
 backing,selkätuki
 like,sellainen
-like,sellainen
 of that description,sellainen
 of that ilk,sellainen
 such,sellainen
@@ -81239,8 +80764,6 @@ accordingly,sen mukaisesti
 correspondingly,sen mukaisesti
 all the better,sen parempi
 no-better,sen parempi
-such,sen sellainen
-such,sen sellainen
 such,sen sellainen
 instead,sen sijaan
 on that score,sen suhteen
@@ -81687,7 +81210,6 @@ linkage,sidos
 stakeholders,sidosryhmät
 bound,sidottu
 blindfold,sidotuin silmin
-blindfold,sidotuin silmin
 sie,sie
 bearable,siedettävä
 livable,siedettävä
@@ -81696,10 +81218,7 @@ supportable,siedettävä
 tolerable,siedettävä
 there,siellä
 where,siellä missä
-where,siellä missä
 wherever,siellä missä
-wherever,siellä missä
-about,siellä täällä
 about,siellä täällä
 around,siellä täällä
 every here and there,siellä täällä
@@ -81900,7 +81419,6 @@ there,siinä asiassa
 thereupon,siinä asiassa
 nip and tuck,siinä ja siinä
 there,siinä kohden
-where,siinä missä
 where,siinä missä
 that adds up,siinä on järkeä
 on the spot,siinä paikassa
@@ -82236,7 +81754,6 @@ for all that,siitä huolimatta
 nevertheless,siitä huolimatta
 nonetheless,siitä huolimatta
 notwithstanding,siitä huolimatta
-notwithstanding,siitä huolimatta
 the fact remains that,siitä huolimatta
 though,siitä huolimatta
 although,siitä huolimatta että
@@ -82537,7 +82054,6 @@ by then,silloin
 then,silloin
 at a time when,silloin kun
 when,silloin kun
-when,silloin kun
 at odd moments,silloin tällöin
 at odd times,silloin tällöin
 betweentimes,silloin tällöin
@@ -82693,7 +82209,6 @@ even so,silti
 nevertheless,silti
 nonetheless,silti
 still,silti
-still,silti
 though,silti
 yet,silti
 in case,siltä varalta että
@@ -82777,8 +82292,6 @@ thereto,sinne
 thither,sinne
 there and back,sinne ja takaisin
 wherever,sinne mihin
-wherever,sinne mihin
-where,sinne minne
 where,sinne minne
 about,sinne tänne
 around,sinne tänne
@@ -82894,8 +82407,6 @@ innermost,sisimmäinen
 inside,sisimmältään
 inwardly,sisimmässään
 underneath,sisimmässään
-underneath,sisimmässään
-within,sisimmässään
 within,sisimmässään
 core,sisin
 inmost,sisin
@@ -82983,7 +82494,6 @@ in,sisälle
 indoors,sisälle
 inside,sisälle
 within,sisälle
-within,sisälle
 meaty,sisällyksekäs
 blank,sisällyksetön
 hollow,sisällyksetön
@@ -83007,8 +82517,6 @@ subsume,sisällyttää jhk
 in,sisällä
 indoors,sisällä
 inside,sisällä
-inside,sisällä
-within,sisällä
 within,sisällä
 in,sisällä oleva
 pregnant,sisällökäs
@@ -83069,10 +82577,7 @@ inmost,sisäpiirin
 inside,sisäpiirin
 insider,sisäpiirin jäsen
 inside,sisäpuolella
-inside,sisäpuolella
 within,sisäpuolella
-within,sisäpuolella
-inside,sisäpuolelle
 inside,sisäpuolelle
 inside,sisäpuoli
 inner tube,sisärengas
@@ -83085,8 +82590,6 @@ seaway,sisävesireitti
 innings,sisävuoro
 in,sisään
 inside,sisään
-inside,sisään
-within,sisään
 within,sisään
 penetration,sisään tunkeutuminen
 retraction,sisään vetäminen
@@ -83155,7 +82658,6 @@ sturdy,sitkeä
 tenacious,sitkeä
 tough,sitkeä
 tough!,sitkeä
-die-hard,sitkeä henkilö
 die-hard,sitkeä henkilö
 sticker,sitkeä ihminen
 stickers,sitkeä ihminen
@@ -83250,7 +82752,6 @@ past,sitten
 since,sitten
 then,sitten
 after,sitten kun
-when,sitten kun
 when,sitten kun
 after all,sittenkin
 on second thought,sittenkin
@@ -83484,7 +82985,6 @@ sketch,sketsi
 schism,skisma
 sketch,skitsi
 schizo,skitso
-schizo,skitso
 schizophrenic,skitsofreenikko
 schizophrenic,skitsofreeninen
 sclerosis,skleroosi
@@ -83492,7 +82992,6 @@ scholastic,skolastinen
 drink to health,skoolata jkn kanssa
 scots,skotlannin murre
 scotland,skotlanti
-caledonian,skotlantilainen
 caledonian,skotlantilainen
 scots,skotlantilainen
 scotsman,skotlantilainen
@@ -83845,7 +83344,6 @@ pretty,soma
 soma,soma
 somali,somali
 somalia,somalia
-somali,somalialainen
 somali,somalialainen
 pebbles,somerikko
 gravel,somero
@@ -84690,7 +84188,6 @@ std,std
 ste,ste
 stephanie,stephanie
 stephen,stephen
-stereo,stereo
 stereo,stereo
 stereo,stereolaitteet
 music center,stereot
@@ -85845,7 +85342,6 @@ off the top of one's head,suoralta kädeltä
 offhand,suoralta kädeltä
 on sight,suoralta kädeltä
 pat,suoralta kädeltä
-pat,suoralta kädeltä
 point-blank,suoralta kädeltä
 live,suorana lähetyksenä
 lank,suorana riippuva
@@ -86432,7 +85928,6 @@ outlet,suu
 outlets,suu
 trap,suu
 open-mouthed,suu auki
-open-mouthed,suu auki
 oral,suu-
 kiss,suudella
 kissing,suudella
@@ -86534,7 +86029,6 @@ enormity,suunnattomuus
 immensity,suunnattomuus
 monstrosity,suunnattomuus
 intent,suunnattu
-about,suunnilleen
 about,suunnilleen
 approximately,suunnilleen
 around,suunnilleen
@@ -86891,7 +86385,6 @@ in large quantities,suurin määrin
 quantities of,suurin määrin
 generality,suurin osa
 most,suurin osa
-most,suurin osa
 bulk,suurin osa jstk
 great mass of,suurin osa jstk
 the best part of,suurin osa jstk
@@ -87019,7 +86512,6 @@ broad,suvaitseva
 broad-minded,suvaitseva
 broader,suvaitseva
 latitudinarian,suvaitseva
-latitudinarian,suvaitseva
 tolerant,suvaitseva
 latitudinarian,suvaitseva henkilö
 permissive,suvaitsevainen
@@ -87047,7 +86539,6 @@ suzuki,suzuki
 sv,sv
 switzerland,sveitsi
 swiss,sveitsiläinen
-swiss,sveitsiläinen
 swiss,sveitsinjuusto
 go with a swing,svengata
 swing,svengata
@@ -87073,7 +86564,6 @@ heart and soul,sydämensä pohjasta
 pacemaker,sydämentahdistin
 heartthrob,sydämentykytys
 palpitation,sydämentykytys
-within,sydämessään
 within,sydämessään
 hard as nails,sydämetön
 have a heart of stone,sydämetön
@@ -87350,7 +86840,6 @@ paternity,syntyperä
 pedigree,syntyperä
 stock,syntyperä
 indigenous,syntyperäinen
-native,syntyperäinen
 native,syntyperäinen
 native,syntyperäinen kansalainen
 birth control,syntyvyyden säännöstely
@@ -87654,7 +87143,6 @@ responsible,syyntakeinen
 responsibilities,syyntakeisuus
 responsibility,syyntakeisuus
 pick nits,syynätä
-nitpicking,syynääminen
 nitpicking,syynääminen
 causality,syyperäisuus
 responsible,syypää
@@ -88451,8 +87939,6 @@ shammy leather,säämiskä
 wash leather,säämiskä
 camel,säämiskänväri
 fawn,säämiskänväri
-fawn,säämiskänväri
-fawn,säämiskänvärinen
 fawn,säämiskänvärinen
 regulate,säännellä
 regulated,säännellä
@@ -88666,8 +88152,6 @@ weights,taakka
 after,taakse
 astern of,taakse
 behind,taakse
-behind,taakse
-round,taakse
 round,taakse
 aback,taaksepäin
 back,taaksepäin
@@ -88697,7 +88181,6 @@ waddle,taapertaa
 again,taas
 in turn,taas
 once again,taas
-round,taas
 round,taas
 whereas,taas
 yet again,taas kerran
@@ -88730,7 +88213,6 @@ pill,tabletti
 pills,tabletti
 tablet,tabletti
 tablets,tabletti
-taboo,tabu
 taboo,tabu
 unmentionable,tabu
 tab,tabulaattori
@@ -88890,7 +88372,6 @@ have,tahtoa
 having,tahtoa
 want,tahtoa
 wants,tahtoa
-will,tahtoa
 will,tahtoa
 louse,tai
 or,tai
@@ -89382,23 +88863,17 @@ at the bottom of,takana
 at the rear of,takana
 back,takana
 behind,takana
-behind,takana
-beyond,takana
 beyond,takana
 in back of,takana
 in the rearward,takana
 past,takana
 rearward,takana
 round,takana
-round,takana
 rearward,takana oleva
 underlying,takana oleva
 back,takanaan
 upstage,takanäyttämölle
-upstage,takanäyttämölle
 upstage,takanäyttämöllä
-upstage,takanäyttämöllä
-upstage,takanäyttämön
 upstage,takanäyttämön
 back,takaosa
 rear,takaosa
@@ -89410,7 +88885,6 @@ in back of,takaosassa
 rump,takapaisti
 rump steak,takapaisti
 backward,takapajuinen
-behindhand,takapajulla
 behindhand,takapajulla
 back,takaperin
 backward,takaperin
@@ -90584,7 +90058,6 @@ energy,tarmokkuus
 live wire,tarmonpesä
 powerhouse,tarmonpesä
 enough,tarpeeksi
-enough,tarpeeksi
 plenty,tarpeeksi
 necessary,tarpeellinen
 needful,tarpeellinen
@@ -90833,7 +90306,6 @@ balance,tasauttaa
 commonwealth,tasavalta
 republic,tasavalta
 republican,tasavaltainen
-republican,tasavaltalainen
 republican,tasavaltalainen
 republicans,tasavaltalainen
 republican,tasavaltalaismielinen
@@ -92625,7 +92097,6 @@ tgp,tgp
 th,th
 thailand,thaimaa
 thai,thaimaalainen
-thai,thaimaalainen
 thats,thats
 the,the
 the beatles,the beatles
@@ -92893,7 +92364,6 @@ given,tietty
 particular,tietty
 set,tietty
 some,tietty
-some,tietty
 specific,tietty
 reservation,tietty epäilys
 reservations,tietty epäilys
@@ -92967,7 +92437,6 @@ massed,tiheä
 thickset,tiheä
 cramped,tiheä ja pieni
 massed,tiheäkasvuinen
-thick,tiheässä
 thick,tiheässä
 densely,tiheään
 thick,tiheään
@@ -94021,8 +93490,6 @@ else,toinen
 farther,toinen
 one,toinen
 other,toinen
-other,toinen
-second,toinen
 second,toinen
 seconds,toinen annos
 fellowman,toinen ihminen
@@ -94065,11 +93532,9 @@ again,toisaalta
 in turn,toisaalta
 secondly,toisaalta
 inessential,toisarvoinen
-inessential,toisarvoinen
 peripheral,toisarvoinen
 secondary,toisarvoinen
 subordinate,toisarvoinen
-inessential,toisarvoinen asia
 inessential,toisarvoinen asia
 second,toiseksi
 secondly,toiseksi
@@ -94081,10 +93546,7 @@ second-largest,toiseksi suurin
 second,toiseksi tärkein
 second,toiseksi vanhin
 across,toisella puolella
-across,toisella puolella
 beyond,toisella puolella
-beyond,toisella puolella
-over,toisella puolella
 over,toisella puolella
 trans,toisella puolen
 trans-,toisella puolen
@@ -94098,8 +93560,6 @@ second,toisena
 twice over,toisenkin kerran
 altered,toisenlainen
 other,toiset
-other,toiset
-some,toiset
 some,toiset
 the rest,toiset
 complementary,toisiaan täydentävät
@@ -94119,12 +93579,9 @@ to wit,toisin sanoen
 at times,toisinaan
 sometimes,toisinaan
 dissentient,toisinajatteleva
-dissentient,toisinajatteleva
-dissident,toisinajatteleva
 dissident,toisinajatteleva
 heterodox,toisinajatteleva
 dissenter,toisinajattelija
-dissident,toisinajattelija
 dissident,toisinajattelija
 nonconformist,toisinajattelija
 repeat,toisinto
@@ -94765,8 +94222,6 @@ tranny,tranny
 transexual,transexual
 transexuales,transexuales
 transit,transit
-transit,transit
-transit,transito
 transit,transito
 transcribe,transkriboida
 transcription,transkriptio
@@ -94846,7 +94301,6 @@ zed,tset
 zee,tset
 czech,tshekin kieli
 czech,tshekki
-czech,tshekkiläinen
 czech,tshekkiläinen
 tsunami,tsunami
 tt,tt
@@ -95905,7 +95359,6 @@ swarthy,tummaihoinen
 wog,tummaihoinen
 navy,tummansininen
 navy blue,tummansininen
-navy blue,tummansininen
 dusky,tummasävyinen
 darken,tummentaa
 tarnish,tummentaa
@@ -96299,7 +95752,6 @@ uncharted,tuntematon
 unfamiliar,tuntematon
 unidentified,tuntematon
 unknown,tuntematon
-unknown,tuntematon
 unknown,tuntematon henkilö
 quantities,tuntematon tekijä
 quantity,tuntematon tekijä
@@ -96383,8 +95835,6 @@ telling,tuntuva
 that,tuo
 that one,tuo
 yon,tuo
-yon,tuo
-yonder,tuo
 yonder,tuo
 bring,tuoda
 bring back,tuoda
@@ -96539,15 +95989,11 @@ seats,tuoli
 over there,tuolla
 there,tuolla
 yon,tuolla
-yon,tuolla
-yonder,tuolla
 yonder,tuolla
 over there,tuolla noin
 beyond,tuolla puolen
-beyond,tuolla puolen
 past,tuolla puolen
 that kind of,tuollainen
-beyond,tuolle puolen
 beyond,tuolle puolen
 beak,tuomari
 judge,tuomari
@@ -96835,7 +96281,6 @@ smoking,tupakointi
 smoking,tupakointi-
 stuff,tupata
 chockablock,tupaten täynnä
-chockablock,tupaten täynnä
 full to overflowing,tupaten täynnä
 jammed,tupaten täynnä
 packed,tupaten täynnä
@@ -96946,9 +96391,7 @@ fell,turkki
 fur,turkki
 fur coat,turkki
 turkish,turkki
-turkish,turkki
 turk,turkkilainen
-turkish,turkkilainen
 turkish,turkkilainen
 accident,turma
 accidents,turma
@@ -97387,7 +96830,6 @@ spears,tuulastaa
 wind-swept,tuulen pieksämä
 upwind,tuulen puolella
 windward,tuulen yläpuolella
-windward,tuulen yläpuolella
 air,tuulenhenki
 breeze,tuulenhenki
 upwind,tuulenpuoleinen
@@ -97536,7 +96978,6 @@ blank,tyhjä
 clean,tyhjä
 clear,tyhjä
 dead,tyhjä
-down,tyhjä
 down,tyhjä
 empty,tyhjä
 flat,tyhjä
@@ -97728,8 +97169,6 @@ drums,tynnyri
 hogshead,tynnyri
 wood,tynnyri
 draft,tynnyri-
-draft,tynnyri-
-draught,tynnyri-
 draught,tynnyri-
 cooper,tynnyrintekijä
 barrel,tynnyröidä
@@ -97909,7 +97348,6 @@ subsidiary,tytäryhtiö
 baggage,tytön heilakka
 jade,tytönletukka
 airless,tyven
-calm,tyven
 calm,tyven
 lull,tyven
 butt,tyvetä
@@ -98147,7 +97585,6 @@ discontented,tyytymätön
 disgruntled,tyytymätön
 displeased,tyytymätön
 dissatisfied,tyytymätön
-malcontent,tyytymätön
 malcontent,tyytymätön
 unhappy,tyytymätön
 unsatisfied,tyytymätön
@@ -98627,7 +98064,6 @@ heretofore,tähän mennessä
 yet,tähän mennessä
 thus far,tähän saakka
 until now,tähän saakka
-until now,tähän saakka
 up to now,tähän saakka
 nit,täin muna
 lousy,täinen
@@ -98704,7 +98140,6 @@ narrow,täpärä
 near,täpärä
 touch-and-go,täpärä
 chockablock,täpötäynnä
-chockablock,täpötäynnä
 full up,täpötäynnä
 cram-full of,täpötäynnä jtk
 crowded,täpötäynnä jtk
@@ -98750,7 +98185,6 @@ leading,tärkein
 main,tärkein
 major,tärkein
 master,tärkein
-number one,tärkein
 number one,tärkein
 paramount,tärkein
 premier,tärkein
@@ -98916,7 +98350,6 @@ integral,täydellinen
 out-and-out,täydellinen
 perfect,täydellinen
 plenary,täydellinen
-plenary,täydellinen
 resounding,täydellinen
 sublime,täydellinen
 textbook,täydellinen
@@ -99015,7 +98448,6 @@ full-blown,täysi
 packed,täysi
 perfect,täysi
 plenary,täysi
-plenary,täysi
 rank,täysi
 roaring,täysi
 round,täysi
@@ -99031,14 +98463,12 @@ a dead loss,täysi nolla
 nobody,täysi nolla
 nonentity,täysi nolla
 zilch,täysi nolla
-zilch,täysi nolla
 fiasco,täysi pannukakku
 write-off,täysi romu
 insanity,täysi typeryys
 handful,täysi työ jssk
 up to one's neck in,täysi työ jssk
 up to the eyes in,täysi työ jssk
-adult,täysi-ikäinen
 adult,täysi-ikäinen
 adults,täysi-ikäinen
 major,täysi-ikäinen
@@ -99065,11 +98495,9 @@ reasonable,täysijärkinen
 sane,täysijärkinen
 sensible,täysijärkinen
 adult,täysikasvuinen
-adult,täysikasvuinen
 adults,täysikasvuinen
 full-grown,täysikasvuinen
 grown,täysikasvuinen
-grown-up,täysikasvuinen
 grown-up,täysikasvuinen
 complete,täysilukuinen
 entire,täysilukuinen
@@ -99152,11 +98580,9 @@ session,täysistunto
 sessions,täysistunto
 paid-up,täysivaltainen
 plenipotentiary,täysivaltainen
-plenipotentiary,täysivaltainen
 ambassador,täysivaltainen ministeri
 minister plenipotentiary,täysivaltainen ministeri
 full-blooded,täysiverinen
-thoroughbred,täysiverinen
 thoroughbred,täysiverinen
 whole-wheat,täysjyvä-
 wholemeal,täysjyvä-
@@ -99822,7 +99248,6 @@ bivouac,ulkoleiri
 alien,ulkomaalainen
 foreigner,ulkomaalainen
 nonresident,ulkomaalainen
-nonresident,ulkomaalainen
 alien,ulkomaan-
 external,ulkomaan-
 foreign,ulkomaan-
@@ -99899,15 +99324,12 @@ field,ulkopelaajat
 fields,ulkopelaajat
 doorstep,ulkoporras
 beyond,ulkopuolella
-beyond,ulkopuolella
 clear of,ulkopuolella
 on location outside,ulkopuolella
-out,ulkopuolella
 out,ulkopuolella
 out front,ulkopuolella
 outside,ulkopuolella
 outside of,ulkopuolella
-without,ulkopuolella
 without,ulkopuolella
 extra-,ulkopuolella oleva
 outside,ulkopuolelle
@@ -99963,7 +99385,6 @@ walkout,ulosmarssi
 egress,ulosmeno
 outbound,ulosmeno-
 outward,ulospäin
-extrovert,ulospäin suuntautunut
 extrovert,ulospäin suuntautunut
 outgoing,ulospäin suuntautunut
 outward,ulospäin suuntautuva
@@ -100151,7 +99572,6 @@ uniform,univormu
 unix,unix
 hungarian,unkari
 hungary,unkari
-hungarian,unkarilainen
 hungarian,unkarilainen
 hungarian,unkarin kieli
 forgotten,unohdettu
@@ -100387,19 +99807,16 @@ usc,usc
 usd,usd
 usda,usda
 many,usea
-many,usea
 several,usea
 seniority,useammat virkavuodet
 a number of,useat
 divers,useat
-many,useat
 many,useat
 numbers of,useat
 numerous,useat
 plenty,useat
 several,useat
 various,useat
-most,useimmat
 most,useimmat
 for the most part,useimmiten
 more often than not,useimmiten
@@ -100549,7 +99966,6 @@ sold,uskotella
 disloyal,uskoton
 faithless,uskoton
 false,uskoton
-infidel,uskoton
 infidel,uskoton
 unbeliever,uskoton
 unfaithful,uskoton
@@ -100956,7 +100372,6 @@ light,vaalea
 pale,vaalea
 white meat,vaalea liha
 fair,vaaleahiuksinen
-pink,vaaleanpunainen
 pink,vaaleanpunainen
 biscuit,vaaleanruskea
 lights,vaaleat
@@ -101424,7 +100839,6 @@ restoration,vahvistaminen
 bracing,vahvistava
 corroborative,vahvistava
 restorative,vahvistava
-restorative,vahvistava
 tonic,vahvistava
 tonic,vahvistava lääke
 backing,vahviste
@@ -101772,7 +101186,6 @@ even though,vaikka
 if,vaikka
 though,vaikka
 when,vaikka
-when,vaikka
 while,vaikka
 whilst,vaikka
 ever,vaikka kuinka
@@ -101914,7 +101327,6 @@ bare of,vailla jtk
 devoid of,vailla jtk
 empty of,vailla jtk
 void of,vailla jtk
-without,vailla jtk
 without,vailla jtk
 irrelevant,vailla merkitystä
 footloose,vailla siteitä
@@ -102299,7 +101711,6 @@ native,vakinainen asukas
 regular,vakinainen työntekijä
 tenure,vakinainen virka
 regularize,vakinaistaa
-constant,vakio
 constant,vakio
 uniform,vakio
 invariable,vakio-
@@ -102748,7 +102159,6 @@ haven,valkama
 fire,valkea
 fires,valkea
 white,valkea
-white,valkea
 cushion,valkki
 white,valko
 belarus,valko-venäjä
@@ -102757,10 +102167,8 @@ byelorussia,valko-venäjä
 incandescent,valkohehkuinen
 white-hot,valkohehkuinen
 caucasian,valkoihoinen
-caucasian,valkoihoinen
 caucasoid,valkoihoinen
 white,valkoihoinen
-white,valkoinen
 white,valkoinen
 man,valkoinen mies
 hock,valkoinen reininviini
@@ -102772,7 +102180,6 @@ screen,valkokangas
 screens,valkokangas
 silver screen,valkokangas
 the screen,valkokangas
-off-screen,valkokankaan ulkopuolella
 off-screen,valkokankaan ulkopuolella
 white,valkopyykki
 whites,valkopyykki
@@ -102790,7 +102197,6 @@ coup d'etat,vallankaappaus
 putsch,vallankaappaus
 takeover,vallankaappaus
 iconoclastic,vallankumouksellinen
-revolutionary,vallankumouksellinen
 revolutionary,vallankumouksellinen
 revolution,vallankumous
 revolutionary,vallankumous-
@@ -103027,7 +102433,6 @@ producer,valmistaja
 producers,valmistaja
 offhand,valmistamaton
 unprepared,valmistamaton
-impromptu,valmistamatta
 impromptu,valmistamatta
 preparation,valmistaminen
 synthesis,valmistaminen
@@ -103495,7 +102900,6 @@ trauma,vamma
 disabled,vammainen
 handicapped,vammainen
 invalid,vammainen
-invalid,vammainen
 disabled,vammaiset
 handicapped,vammaiset
 disabilities,vammaisuus
@@ -103612,7 +103016,6 @@ elder,vanhempi
 major,vanhempi
 parent,vanhempi
 senior,vanhempi
-senior,vanhempi
 seniors,vanhempi
 elder,vanhempi henkilö
 consultant,vanhempi lääkäri
@@ -103652,7 +103055,6 @@ expires,vanheta
 grow old,vanheta
 stale,vanheta
 doyen,vanhin
-earliest,vanhin
 earliest,vanhin
 elder,vanhin
 eldest,vanhin
@@ -103791,7 +103193,6 @@ liberated,vapaa
 loose,vapaa
 neutral,vapaa
 off,vapaa
-off,vapaa
 off-duty,vapaa
 permissive,vapaa
 quit of,vapaa
@@ -103823,7 +103224,6 @@ social,vapaa-ajan
 recreation,vapaa-ajan toiminta
 optional,vapaaehtoinen
 voluntary,vapaaehtoinen
-volunteer,vapaaehtoinen
 volunteer,vapaaehtoinen
 volunteers,vapaaehtoinen
 voluntary,vapaaehtois-
@@ -103868,7 +103268,6 @@ without restraint,vapaasti
 without stint,vapaasti
 ex,vapaasti jssk
 convertible,vapaasti vaihdettava
-off,vapaata
 off,vapaata
 redemption,vapahdus
 redeem,vapahtaa
@@ -104030,7 +103429,6 @@ spare tire,vararengas
 spare tyre,vararengas
 spare wheel,vararengas
 bankruptcy,vararikko
-bankrupt,vararikkoinen
 bankrupt,vararikkoinen
 thief,varas
 abstract,varastaa
@@ -104718,9 +104116,7 @@ left-wing,vasemmistolainen
 left-winger,vasemmistolainen
 leftie,vasemmistolainen
 leftist,vasemmistolainen
-leftist,vasemmistolainen
 lefty,vasemmistolainen
-pink,vasemmistolainen
 pink,vasemmistolainen
 red,vasemmistolainen
 left,vasen
@@ -104802,7 +104198,6 @@ receiver,vastaanottaja
 receivers,vastaanottaja
 recipient,vastaanottaja
 recipients,vastaanottaja
-collect,vastaanottajan maksettava
 collect,vastaanottajan maksettava
 impervious,vastaanottamaton
 insensitive,vastaanottamaton
@@ -104954,7 +104349,6 @@ opposing,vastapäinen
 opposite,vastapäinen
 across from,vastapäätä
 opposite,vastapäätä
-opposite,vastapäätä
 opposite,vastapäätä oleva
 backlash,vastareaktio
 opposition,vastarinta
@@ -105039,7 +104433,6 @@ unanswerable,vastausta vailla
 counter-effect,vastavaikutus
 reaction,vastavaikutus
 reactions,vastavaikutus
-elect,vastavalittu
 elect,vastavalittu
 fresh from,vastavalmistunut
 reciprocal,vastavuoroinen
@@ -105340,10 +104733,8 @@ under,veden alle
 underwater,veden alle
 afloat,veden vallassa
 afloat,veden varassa
-afloat,veden varassa
 submarine,vedenalainen
 submerged,vedenalainen
-submersible,vedenalainen
 submersible,vedenalainen
 sunken,vedenalainen
 undersea,vedenalainen
@@ -105652,7 +105043,6 @@ russia,venäjä
 russian,venäjän
 russian,venäjän-
 russian,venäläinen
-russian,venäläinen
 pull,venäyttää
 pulled,venäyttää
 pulling,venäyttää
@@ -105725,7 +105115,6 @@ carnage,verilöyly
 massacre,verilöyly
 slaughter,verilöyly
 blood-stained,verinen
-bloody,verinen
 bloody,verinen
 gory,verinen
 internecine,verinen
@@ -106346,7 +105735,6 @@ troubleshooting,vianmääritys
 clean,viaton
 ingenuous,viaton
 innocent,viaton
-innocent,viaton
 lamblike,viaton
 vibes,vibra
 vibes,vibrafoni
@@ -106555,8 +105943,6 @@ as yet,vielä
 at that,vielä
 even,vielä
 more,vielä
-more,vielä
-still,vielä
 still,vielä
 too,vielä
 yet,vielä
@@ -106574,7 +105960,6 @@ for the moment,vielä toistaiseksi
 another,vielä yksi
 even,vieläkin
 even now,vieläkin
-still,vieläkin
 still,vieläkin
 yet,vieläkin
 even now,vieläkään
@@ -106652,7 +106037,6 @@ register,vieraskirja
 visitors' book,vieraskirja
 alien,vierasmaalainen
 nonresident,vieraspaikkakuntalainen
-nonresident,vieraspaikkakuntalainen
 against,viereen
 beside,viereen
 adjacent to,viereinen
@@ -106672,11 +106056,9 @@ at side,vieressä
 beside,vieressä
 beside the mark,vieressä
 by,vieressä
-by,vieressä
 by side,vieressä
 next door,vieressä
 next to,vieressä
-off,vieressä
 off,vieressä
 next,vieressä oleva
 neighbor,vieressä olija
@@ -106727,7 +106109,6 @@ spring,vieteri
 springs,vieteri
 vietnam,vietnam
 vietnamese,vietnam
-vietnamese,vietnamilainen
 vietnamese,vietnamilainen
 seduction,vietteleminen
 come-hither,viettelevä
@@ -106999,10 +106380,7 @@ jungle,viidakko
 bush telegraph,viidakkopuhelin
 grapevine,viidakkopuhelin
 fifth,viidennes
-fifth,viidennes
 fifth,viides
-fifth,viides
-fifth,viidesosa
 fifth,viidesosa
 entertainment,viihde
 popular,viihde-
@@ -107126,7 +106504,6 @@ recent,viimeaikainen
 at last,viimein
 bottom,viimeinen
 final,viimeinen
-last,viimeinen
 last,viimeinen
 last-ditch,viimeinen
 rearmost,viimeinen
@@ -107273,7 +106650,6 @@ wise guy,viisastelija
 wiseacre,viisastelija
 sagacity,viisaus
 wisdom,viisaus
-five,viisi
 five,viisi
 fifty,viisikymmentä
 nickel,viisisenttinen
@@ -108225,7 +107601,6 @@ tarry,vitkastella
 delay,vitkastelu
 delays,vitkastelu
 five,vitonen
-five,vitonen
 fiver,vitonen
 showcase,vitriini
 rod,vitsa
@@ -109018,7 +108393,6 @@ make light of,väheksyä jtk
 sneer at,väheksyä jtk
 minority,vähemmistö
 fewer,vähemmän
-fewer,vähemmän
 less,vähemmän
 lesser,vähemmän
 under,vähemmän kuin
@@ -109126,7 +108500,6 @@ taper,vähetä
 wane,vähetä
 minimum,vähimmäis-
 minimum,vähimmäismäärä
-least,vähin
 least,vähin
 least,vähin määrä
 on the quiet,vähin äänin
@@ -109474,8 +108847,6 @@ semifinal,välierä
 staging post,välietappi
 interjection,välihuomautus
 between,väliin
-between,väliin
-betwixt,väliin
 betwixt,väliin
 in between,väliin
 interposition,väliintulo
@@ -109517,9 +108888,7 @@ vicarious,välillinen
 by proxy,välillisesti
 indirectly,välillisesti
 between,välillä
-between,välillä
 betweentimes,välillä
-betwixt,välillä
 betwixt,välillä
 in between times,välillä
 inter-,välillä
@@ -109629,8 +108998,6 @@ screen,väliseinä
 screens,väliseinä
 interlude,välisoitto
 between,välissä
-between,välissä
-betwixt,välissä
 betwixt,välissä
 in between,välissä
 intermediary,välissä oleva
@@ -110144,7 +109511,6 @@ incorrectly,väärin
 mistakenly,väärin
 off the mark,väärin
 out,väärin
-out,väärin
 the wrong way round,väärin
 up the pole,väärin
 wrong,väärin
@@ -110249,13 +109615,11 @@ out,väärässä
 the wrong way round,väärässä
 wrong,väärässä
 infidel,vääräuskoinen
-infidel,vääräuskoinen
 infidelity,vääräuskoisuus
 wa,wa
 wagner,wagner
 wal,wal
 wales,wales
-cymric,walesilainen
 cymric,walesilainen
 welsh,walesilainen
 welshman,walesilainen
@@ -110391,8 +109755,6 @@ nuke,ydinvoima
 nuclear power station,ydinvoimala
 nuke,ydinvoimala
 nine,yhdeksikkö
-nine,yhdeksikkö
-nine,yhdeksän
 nine,yhdeksän
 at any one time,yhdellä kertaa
 at one go,yhdellä kertaa
@@ -110435,8 +109797,6 @@ rolled into one,yhdessä
 together,yhdessä
 along with,yhdessä jkn kanssa
 between,yhdessä jkn kanssa
-between,yhdessä jkn kanssa
-betwixt,yhdessä jkn kanssa
 betwixt,yhdessä jkn kanssa
 in company with,yhdessä jkn kanssa
 in concert,yhdessä jkn kanssa
@@ -110729,7 +110089,6 @@ antisocial,yhteiskunnanvastainen
 societies,yhteiskunta
 society,yhteiskunta
 social,yhteiskunta-
-social,yhteiskunta-
 social life,yhteiskuntaelämä
 order,yhteiskuntajärjestelmä
 social system,yhteiskuntajärjestelmä
@@ -110974,7 +110333,6 @@ congruous,yhtäpitävä
 identic,yhtäpitävä
 identical,yhtäpitävä
 any,yhtään
-any,yhtään
 anything,yhtään
 ever,yhä
 still,yhä
@@ -110984,7 +110342,6 @@ ace,ykkönen
 bottom gear,ykkönen
 king,ykkönen
 low gear,ykkönen
-one,ykkönen
 one,ykkönen
 ones,ykkönen
 unit,ykkönen
@@ -110996,8 +110353,6 @@ in a flash,yks kaks
 in no time,yks kaks
 oneness,ykseys
 unity,ykseys
-one,yksi
-one,yksi
 one,yksi
 ones,yksi
 this,yksi
@@ -111157,7 +110512,6 @@ single,yksittäinen
 individual,yksittäis-
 isolated,yksittäis-
 one-off,yksittäis-
-one-off,yksittäis-
 one-shot,yksittäis-
 personal,yksityinen
 private,yksityinen
@@ -111171,7 +110525,6 @@ look-out,yksityisasia
 one's own affair,yksityisasia
 privacy,yksityiselämä
 in private,yksityiselämässä
-off-screen,yksityiselämässä
 off-screen,yksityiselämässä
 privately,yksityisesti
 dick,yksityisetsivä
@@ -111452,14 +110805,9 @@ nobility,ylhäisö
 high,ylhäälle
 high,ylhäällä
 up,ylhäällä
-up,ylhäällä
 aloft,ylhäällä mastossa
 across,yli
-across,yli
 beyond,yli
-beyond,yli
-over,yli
-over,yli
 over,yli
 past,yli
 upward of,yli
@@ -111467,7 +110815,6 @@ over,yli laidan
 overboard,yli laidan
 slop,yli vuotanut olut
 overflow,yli vuotava vesi
-chief,yli-
 chief,yli-
 excess,yli-
 general,yli-
@@ -111506,7 +110853,6 @@ supercharge,ylikuormittaa
 load down,ylikuormittaa jllak
 load down with,ylikuormittaa jllak
 crossing,ylikäytävä
-occult,yliluonnollinen
 occult,yliluonnollinen
 preternatural,yliluonnollinen
 psychic,yliluonnollinen
@@ -111550,7 +110896,6 @@ excess,ylimäärä
 accessory,ylimääräinen
 adjunct,ylimääräinen
 extra,ylimääräinen
-extra,ylimääräinen
 extraordinary,ylimääräinen
 extras,ylimääräinen
 loose,ylimääräinen
@@ -111558,7 +110903,6 @@ odd,ylimääräinen
 odd man out,ylimääräinen
 odd one out,ylimääräinen
 redundant,ylimääräinen
-spare,ylimääräinen
 spare,ylimääräinen
 superfluous,ylimääräinen
 supernumerary,ylimääräinen
@@ -111859,12 +111203,9 @@ hill,ylänne
 bodice,yläosa
 top,yläosa
 topless,yläosaton
-topless,yläosaton
-topless,yläosattomissa
 topless,yläosattomissa
 a notch above,yläpuolella
 above,yläpuolella
-beyond,yläpuolella
 beyond,yläpuolella
 over,yläpuolella
 overhead,yläpuolella
@@ -111885,18 +111226,14 @@ tables,ylätasanko
 header,ylätunniste
 headers,ylätunniste
 up,ylös
-up,ylös
 up-and-down,ylös alas kulkeva
 aloft,ylös ilmaan
 up,ylös jtk
-up,ylös jtk
-topsy-turvy,ylösalaisin
 topsy-turvy,ylösalaisin
 upside down,ylösalaisin
 upside-down,ylösalaisin
 inverted,ylösalaisin käännetty
 upturned,ylösalaisin käännetty
-up,ylöspäin
 up,ylöspäin
 uphill,ylöspäin
 upward,ylöspäin
@@ -112004,27 +111341,17 @@ circles,ympyröidä
 ring,ympyröidä
 rings,ympyröidä
 about,ympäri
-about,ympäri
 around,ympäri
 over,ympäri
-over,ympäri
-round,ympäri
 round,ympäri
 about,ympäri mitaten
 about,ympäriinsä
-about,ympäriinsä
-round,ympäriinsä
 round,ympäriinsä
 about,ympärille
-about,ympärille
-round,ympärille
 round,ympärille
 about,ympärilleen
 about,ympärillä
-about,ympärillä
 around,ympärillä
-around,ympärillä
-round,ympärillä
 round,ympärillä
 ambience,ympäristö
 district,ympäristö
@@ -112093,7 +111420,6 @@ bud,ympätä
 engraft,ympätä
 yn,yn
 and,ynnä
-plus,ynnä
 plus,ynnä
 et cetera,ynnä muuta
 etc.,ynnä muuta
@@ -112901,7 +112227,6 @@ oil well,öljynporausreikä
 derrick,öljynporaustorni
 oil rig,öljynporaustorni
 rig,öljynporaustorni
-olive,öljypuu
 olive,öljypuu
 drum,öljytynnyri
 drums,öljytynnyri

@@ -516,7 +516,6 @@ segments,bahagian
 bottom,bahagian bawah
 rear,bahagian belakang
 inside,bahagian dalam
-inside,bahagian dalam
 front,bahagian depan
 exterior,bahagian luar
 outside,bahagian luar
@@ -777,7 +776,6 @@ studied,belajar
 studies,belajar
 study,belajar
 studying,belajar
-back,belakang
 back,belakang
 rear,belakang
 reverse,belakang
@@ -1188,7 +1186,6 @@ democratic,bersifat demokrasi
 protective,bersifat melindungi
 clean,bersih
 defensive,bersikap mempertahankan diri
-alternate,bersilih ganti
 alternate,bersilih ganti
 systematic,bersistem
 ski,berski
@@ -1696,7 +1693,6 @@ ce,ce
 bit,cebisan
 bits,cebisan
 liquid,cecair
-liquid,cecair
 injured,cedera
 check,cek
 checks,cek
@@ -2099,7 +2095,6 @@ devel,devel
 devon,devon
 hall,dewan
 adult,dewasa
-adult,dewasa
 adults,dewasa
 df,df
 dg,dg
@@ -2111,20 +2106,14 @@ on,di atas
 over,di atas
 upon,di atas
 below,di bawah
-below,di bawah
-beneath,di bawah
 beneath,di bawah
 under,di bawah
 underneath,di bawah
-underneath,di bawah
 behind,di belakang
-behind,di belakang
-inside,di dalam
 inside,di dalam
 ahead,di hadapan
 amongst,di kalangan
 outdoors,di luar
-outside,di luar
 outside,di luar
 abroad,di luar negeri
 where,di mana
@@ -3108,7 +3097,6 @@ lost,hilang
 missing,hilang
 hilton,hilton
 hindu,hindu
-hindu,hindu
 till,hingga
 hypothesis,hipotesis
 hypothetical,hipotetikal
@@ -3315,8 +3303,6 @@ ing,ing
 curious,ingin tahu
 inquisitive,ingin tahu
 these,ini
-these,ini
-this,ini
 this,ini
 valve,injap
 valves,injap
@@ -3402,7 +3388,6 @@ italic,italic
 italy,italy
 duck,itik
 that,itu
-those,itu
 those,itu
 itunes,itunes
 ix,ix
@@ -3498,7 +3483,6 @@ falling,jatuh
 falls,jatuh
 fell,jatuh
 distant,jauh
-far,jauh
 far,jauh
 deep,jauh ke bawah
 away,jauhnya
@@ -4386,7 +4370,6 @@ fright,ketakutan
 strictly,ketat
 tight,ketat
 laugh,ketawa
-laugh,ketawa
 laughing,ketawa
 laughter,ketawa
 suspense,ketegangan
@@ -4774,7 +4757,6 @@ lanka,lanka
 floor,lantai
 flooring,lantai
 floors,lantai
-loud,lantang
 loud,lantang
 pirate,lanun
 pirates,lanun
@@ -5238,7 +5220,6 @@ stable,mantap
 steady,mantap
 cape,mantel
 spell,mantera
-human,manusia
 human,manusia
 humans,manusia
 mankind,manusia
@@ -7024,7 +7005,6 @@ causing,menyebabkan
 render,menyebabkan
 whip,menyebat
 whipped,menyebat
-mention,menyebut
 mention,menyebut
 pronounce,menyebut
 pronounced,menyebut
@@ -8927,7 +8907,6 @@ circulation,peredaran
 designer,pereka bentuk
 designers,pereka bentuk
 female,perempuan
-female,perempuan
 females,perempuan
 feminine,perempuan
 american,perempuan amerika
@@ -9327,7 +9306,6 @@ pl,pl
 placenta,plasenta
 plasma,plasma
 plastic,plastik
-plastic,plastik
 plastics,plastik
 platform,platform
 platforms,platform
@@ -9431,7 +9409,6 @@ pro,pro
 pros,pro
 probe,probe
 proc,proc
-professional,profesional
 professional,profesional
 professionals,profesional
 professor,profesor
@@ -9561,7 +9538,6 @@ radios,radio
 rugby,ragbi
 yeast,ragi
 secret,rahsia
-secret,rahsia
 secrets,rahsia
 king,raja
 kings,raja-raja
@@ -9679,7 +9655,6 @@ teens,remaja
 remix,remix
 spice,rempah
 inferior,rendah
-low,rendah
 low,rendah
 lowest,rendah
 lows,rendah
@@ -10015,7 +9990,6 @@ causes,sebab
 reason,sebab
 reasons,sebab
 as,sebagai
-as,sebagai
 instead,sebagai ganti
 forth,sebagainya
 part,sebahagian
@@ -10032,7 +10006,6 @@ inner,sebelah dalam
 beyond,sebelah sana
 northern,sebelah utara
 eleven,sebelas
-before,sebelum
 before,sebelum
 by,sebelum
 before this,sebelum ini
@@ -10069,7 +10042,6 @@ briefly,secara ringkas
 annually,secara tahunan
 soonest,secepat
 conscious,sedar
-average,sederhana
 average,sederhana
 medium,sederhana
 mild,sederhana
@@ -10273,7 +10245,6 @@ corresponding,sepadan
 equivalent,sepadan
 banners,sepanduk
 throughout,sepanjang
-half,separuh
 half,separuh
 semi,separuh
 pair,sepasang
@@ -11252,9 +11223,7 @@ aversion,tidak suka
 not like,tidak suka
 asleep,tidur
 sleep,tidur
-sleep,tidur
 sleeping,tidur
-sleeps,tidur
 sleeps,tidur
 tiffany,tiffany
 three,tiga
@@ -11889,7 +11858,6 @@ yemen,yaman
 its,yang
 that,yang
 the,yang
-which,yang
 which,yang
 whom,yang
 yang,yang
