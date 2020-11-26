@@ -197,39 +197,39 @@ Calavria,Calabria
 Campania,Campania
 Canadà,Canada
 Caso,Cheese
-Categoria:Africa,Africa
-Categoria:Architettura,Architecture
-Categoria:Arte,Arts
-Categoria:Asia,Asia
-Categoria:Astronumia,Astronomy
-Categoria:Berlino,Berlin
-Categoria:Cinema,Film
-Categoria:Crestianesemo,Christianity
-Categoria:Cultura,Culture
-Categoria:Danza,Dance
-Categoria:Disambigua,Disambiguation
-Categoria:Franza,France
-Categoria:Físeca,Physics
-Categoria:Giugrafia,Geography
-Categoria:Journe 'e l'anno,Days
-Categoria:Litteratura,Literature
-Categoria:Matemàteca,Mathematics
-Categoria:Múseca,Music
-Categoria:Natale,Christmas
-Categoria:Nfurmatica,Computer science
-Categoria:Puliteca,Politics
-Categoria:Pulonnia,Poland
-Categoria:Religgione,Religion
-Categoria:Romma,Rome
-Categoria:Sguizzera,Switzerland
-Categoria:Solanaceae,Solanaceae
-Categoria:Storia,History
+Africa,Africa
+Architettura,Architecture
+Arte,Arts
+Asia,Asia
+Astronumia,Astronomy
+Berlino,Berlin
+Cinema,Film
+Crestianesemo,Christianity
+Cultura,Culture
+Danza,Dance
+Disambigua,Disambiguation
+Franza,France
+Físeca,Physics
+Giugrafia,Geography
+Journe 'e l'anno,Days
+Litteratura,Literature
+Matemàteca,Mathematics
+Múseca,Music
+Natale,Christmas
+Nfurmatica,Computer science
+Puliteca,Politics
+Pulonnia,Poland
+Religgione,Religion
+Romma,Rome
+Sguizzera,Switzerland
+Solanaceae,Solanaceae
+Storia,History
 Ceramica,Ceramic
 Cerasa,Cherry
 Chianeta,Planet
 Ciardino,Garden
 Cicero,Chickpea
-Cinquànta,50 (number)
+Cinquànta,50
 Cità d''o Vaticano,Vatican City
 Computer,Computer
 Copenaghen,Copenhagen
@@ -240,17 +240,17 @@ Cugliandra,Acorn
 Curitiba,Curitiba
 Custantenobbule,Constantinople
 Danemarca,Denmark
-Ddoje,2 (number)
+Ddoje,2
 Dezziunario,Dictionary
 Dicembre,December
-Dicennòve,19 (number)
-Dicessètte,17 (number)
-Diciòtte,18 (number)
-Diece,10 (number)
+Dicennòve,19
+Dicessètte,17
+Diciòtte,18
+Diece,10
 Diente,Tooth
 Dipromazzia,Diplomacy
 Dummeneca,Sunday
-Dùrece,12 (number)
+Dùrece,12
 Elenco 'e contranomme,Pseudonym
 Emilia-Rumagna,Emilia-Romagna
 Enrico Caruso,Enrico Caruso
@@ -334,10 +334,10 @@ Màrzo,March
 Naggitto,Egypt
 Napule,Naples
 Nova York,New York City
-Nove,9 (number)
+Nove,9
 Nuvembre,November
 "Organizzazione d''e Nazzione Aunite pe ll'Aducazione, 'a Scienza e 'a Cultura",UNESCO
-Otto,8 (number)
+Otto,8
 Ottovre,October
 Padova,Padua
 Palermo,Palermo
@@ -359,16 +359,16 @@ Pummarola,Tomato
 Purcellamma,Porcelain
 Purtuallo,Portugal
 Pùglia,Apulia
-Quaranta,40 (number)
-Quarantacìnche,45 (number)
-Quarantadòje,42 (number)
-Quarantanòve,49 (number)
-Quarantasèie,46 (number)
-Quarantatrè,43 (number)
-Quarantùno,41 (number)
-Quattuòrdece,14 (number)
+Quaranta,40
+Quarantacìnche,45
+Quarantadòje,42
+Quarantanòve,49
+Quarantasèie,46
+Quarantatrè,43
+Quarantùno,41
+Quattuòrdece,14
 Quetzalcoatl,Quetzalcoatl
-Quìnnece,15 (number)
+Quìnnece,15
 Ravenna,Ravenna
 Reggione,Region
 Religgione,Religion
@@ -380,10 +380,10 @@ Scarrafone,Cockroach
 Sciorenza,Florence
 Sciummo,River
 Scultura,Sculpture
-Seie,6 (number)
+Seie,6
 Senegal,Senegal
 Serbia,Serbia
-Sette,7 (number)
+Sette,7
 Settembre,September
 Sguezia,Sweden
 Sguizzera,Switzerland
@@ -397,22 +397,22 @@ Spassatiempe,Hobby
 Sport,Sport
 State Aunite d'Amereca,United States
 Storiografia,Historiography
-Sìrece,16 (number)
+Sìrece,16
 Tennessee,Tennessee
 Terra,Earth
 Tiatro,Theatre
 Tivoli,Tivoli
-Trenta,30 (number)
-Trentacìnche,35 (number)
-Trentanòve,39 (number)
-Trentaquàtte,34 (number)
-Trentaròie,32 (number)
-Trentasèie,36 (number)
-Trentasètte,37 (number)
-Trentatrè,33 (number)
+Trenta,30
+Trentacìnche,35
+Trentanòve,39
+Trentaquàtte,34
+Trentaròie,32
+Trentasèie,36
+Trentasètte,37
+Trentatrè,33
 Trento,Trento
-Trentòtte,38 (number)
-Trentùne,31 (number)
+Trentòtte,38
+Trentùne,31
 Turchía,Turkey
 Turino,Turin
 Ucchiarone,Telescope
@@ -421,8 +421,8 @@ Ulanna,Netherlands
 Umbria,Umbria
 Ungaria,Hungary
 Univerzità,University
-Unnece,11 (number)
-Uno,1 (number)
+Unnece,11
+Uno,1
 Varsavia,Warsaw
 Vasenicola,Basil
 Veneto,Veneto
@@ -431,16 +431,16 @@ Verona,Verona
 Vesuvio,Mount Vesuvius
 Viernarì,Friday
 Vilnius,Vilnius
-Vinte,20 (number)
-Vinticìnche,25 (number)
-Vintinòve,29 (number)
-Vintiquàtte,24 (number)
-Vintiròie,22 (number)
-Vintisèie,26 (number)
-Vintisètte,27 (number)
-Vintitrè,23 (number)
-Vintòtte,28 (number)
-Vintùne,21 (number)
+Vinte,20
+Vinticìnche,25
+Vintinòve,29
+Vintiquàtte,24
+Vintiròie,22
+Vintisèie,26
+Vintisètte,27
+Vintitrè,23
+Vintòtte,28
+Vintùne,21
 Vittorio De Sica,Vittorio De Sica
 Vrito,Glass
 Wiesbaden,Wiesbaden

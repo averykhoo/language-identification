@@ -1,6 +1,6 @@
 Other,English
 1,1
-1 (číslo),1 (number)
+1,1
 1. konstantinopolský koncil,First Council of Constantinople
 1. květen,May 1
 1. leden,January 1
@@ -9,9 +9,9 @@ Other,English
 1. srpen,August 1
 1. červenec,July 1
 10,10
-10 (číslo),10 (number)
+10,10
 100,100
-100 (číslo),100 (number)
+100,100
 1000,1000
 101,101
 105,105
@@ -40,7 +40,7 @@ Other,English
 150,150
 155,155
 16,16
-16 (číslo),16 (number)
+16,16
 160,160
 165,165
 17,17
@@ -56,7 +56,7 @@ Other,English
 19. leden,January 19
 190,190
 2,2
-2 (číslo),2 (number)
+2,2
 2. březen,March 2
 2. listopad,November 2
 2. vatikánský koncil,Second Vatican Council
@@ -71,7 +71,7 @@ Other,English
 23,23
 23. červen,June 23
 24,24
-24 (seriál),24 (TV series)
+24,24
 24. květen,May 24
 24. červen,June 24
 24. říjen,October 24
@@ -85,7 +85,7 @@ Other,English
 29. únor,February 29
 29. červen,June 29
 3,3
-3 (číslo),3 (number)
+3,3
 3. červen,June 3
 30,30
 300,300
@@ -100,13 +100,13 @@ Other,English
 38,38
 39,39
 4,4
-4 (číslo),4 (number)
+4,4
 4. červenec,July 4
 40,40
 400,400
 41,41
 42,42
-42 (číslo),42 (number)
+42,42
 43,43
 44,44
 45,45
@@ -115,7 +115,7 @@ Other,English
 48,48
 49,49
 5,5
-5 (číslo),5 (number)
+5,5
 5. listopad,November 5
 50,50
 500,500
@@ -129,7 +129,7 @@ Other,English
 58,58
 59,59
 6,6
-6 (číslo),6 (number)
+6,6
 6. leden,January 6
 6. srpen,August 6
 60,60
@@ -143,7 +143,7 @@ Other,English
 68,68
 69,69
 7,7
-7 (číslo),7 (number)
+7,7
 70,70
 71,71
 72,72
@@ -155,7 +155,7 @@ Other,English
 78,78
 79,79
 8,8
-8 (číslo),8 (number)
+8,8
 8. prosinec,December 8
 80,80
 81,81
@@ -168,7 +168,7 @@ Other,English
 88,88
 89,89
 9,9
-9 (číslo),9 (number)
+9,9
 90,90
 91,91
 92,92
@@ -187,20 +187,20 @@ ALGOL,ALGOL
 ASCII,American Standard Code for Information Interchange
 ATP,ATP
 AU,Au
-AZ Alkmaar,AZ (football club)
+AZ Alkmaar,AZ
 Aara,Aar
-Abakus (kalkulátor),Abacus
+Abakus,Abacus
 Abcházie,Abkhazia
 Abeceda,Alphabet
 Abel Tasman,Abel Tasman
 Abelova grupa,Abelian group
-Aberdeen (Skotsko),Aberdeen
+Aberdeen,Aberdeen
 Abidjan,Abidjan
 Abolicionismus,Abolitionism
 Abraham Lincoln,Abraham Lincoln
-Abrahám (biblická postava),Abraham
+Abrahám,Abraham
 Absint,Absinthe
-Absolutismus,Absolutism (European history)
+Absolutismus,Absolutism
 Absolutní hodnota,Absolute value
 Absolutní hvězdná velikost,Absolute magnitude
 Absolutní nula,Absolute zero
@@ -208,7 +208,7 @@ Absolutně černé těleso,Black body
 Abstrakce,Abstraction
 Abuja,Abuja
 Abú Dhabí,Abu Dhabi
-Abú Dhabí,Abu Dhabi (emirate)
+Abú Dhabí,Abu Dhabi
 Acapulco,Acapulco
 Accra,Accra
 Acetaldehyd,Acetaldehyde
@@ -218,8 +218,8 @@ Achilles,Achilles
 Achnaton,Akhenaten
 Achát,Agate
 Aconcagua,Aconcagua
-Acre (stát),Acre (state)
-Ada,Ada (programming language)
+Acre,Acre
+Ada,Ada
 Adam Smith,Adam Smith
 Adana,Adana
 Addis Abeba,Addis Ababa
@@ -258,20 +258,20 @@ Agorafobie,Agoraphobia
 Agrese,Aggression
 Agrigento,Agrigento
 Aikido,Aikido
-Ain (departement),Ain
+Ain,Ain
 Aineiás,Aeneas
 Aiolos,Aeolus
 Airbus,Airbus
 Aischylos,Aeschylus
-Aiás,Ajax (mythology)
+Aiás,Ajax
 Ajax,Ajax
 Akaba,Aqaba
 Akabský záliv,Gulf of Aqaba
-Akcie,Share (finance)
+Akcie,Share
 Akira Kurosawa,Akira Kurosawa
 Akko,Acre
 Akné,Acne vulgaris
-Akord,Chord (music)
+Akord,Chord
 Akordeon,Accordion
 Akr,Acre
 Akropolis,Acropolis
@@ -292,7 +292,7 @@ Alan Shepard,Alan Shepard
 Alan Turing,Alan Turing
 Alanin,Alanine
 Alban Berg,Alban Berg
-Albany (New York),Albany
+Albany,Albany
 Albatrosovití,Albatross
 Albedo,Albedo
 Albert Abraham Michelson,Albert Abraham Michelson
@@ -304,7 +304,7 @@ Alberta,Alberta
 Albigenští,Catharism
 Albinismus,Albinism
 Albit,Albite
-Albuquerque (Nové Mexiko),Albuquerque
+Albuquerque,Albuquerque
 Albánie,Albania
 Alchymie,Alchemy
 Aldebaran,Aldebaran
@@ -357,7 +357,7 @@ Alotropie,Allotropy
 Alpy,Alps
 Alsasko,Alsace
 Altair,Altair
-Altaj (pohoří),Altay Mountains
+Altaj,Altay Mountains
 Altruismus,Altruism
 Alvar Aalto,Alvar Aalto
 Alzheimerova choroba,Alzheimer's disease
@@ -420,7 +420,7 @@ Andrew Johnson,Andrew Johnson
 Andrew Lloyd Webber,Andrew Lloyd Webber
 Android,Android
 Andromeda,Andromeda
-Andromeda (mytologie),Andromeda (mythology)
+Andromeda,Andromeda
 Andy,Andes
 Andy Warhol,Andy Warhol
 Anděl,Angel
@@ -477,8 +477,8 @@ Antonymum,Antonym
 Antropologie,Anthropology
 Antroposofie,Anthroposophy
 Antverpy,Antwerp
-Antverpy (provincie),Antwerp (province)
-Anténa,Antenna (radio)
+Antverpy,Antwerp
+Anténa,Antenna
 Anup,Anubis
 Anální sex,Anal sex
 Aorta,Aorta
@@ -489,14 +489,14 @@ Apeninský poloostrov,Italian Peninsula
 Apia,Apia
 Aplikovaná matematika,Applied mathematics
 Apokryf,Apocrypha
-Apollo,Apollo (disambiguation)
+Apollo,Apollo
 Apollón,Apollo
 Apoptóza,Apoptosis
 Appalačské pohoří,Appalachian Mountains
 Apríl,April Fools' Day
-Apsida (architektura),Apse
+Apsida,Apse
 Apulie,Apulia
-Ar (jednotka plochy),Are
+Ar,Are
 Arabové,Arab
 Arabské moře,Arabian Sea
 Arabské písmo,Arabic alphabet
@@ -522,13 +522,13 @@ Architektura,Architecture
 Archiv,Archive
 Archosauři,Archosaur
 Arcibiskup,Archbishop
-Ardennes (departement),Ardennes (department)
+Ardennes,Ardennes
 Ardenny,Ardennes
 Areios,Arius
 Arekovité,Arecaceae
 Areny,Aromatic hydrocarbon
 Argentina,Argentina
-Argentinské tango,Tango (dance)
+Argentinské tango,Tango
 Argon,Argon
 Ariadna,Ariadne
 Aristarchos ze Samu,Aristarchus of Samos
@@ -574,7 +574,7 @@ Astana,Astana
 Astat,Astatine
 Astenosféra,Asthenosphere
 Asteroid,Asteroid
-Astigmatismus (medicína),Astigmatism (eye)
+Astigmatismus,Astigmatism
 Astma,Asthma
 Astrachaň,Astrakhan
 Astrobiologie,Astrobiology
@@ -586,7 +586,7 @@ Astronomická jednotka,Astronomical unit
 Astronomie,Astronomy
 Asuán,Aswan
 Asymptota,Asymptote
-Asynchronous JavaScript and XML,Ajax (programming)
+Asynchronous JavaScript and XML,Ajax
 Asynchronous Transfer Mode,Asynchronous Transfer Mode
 Asýrie,Assyria
 Atacama,Atacama Desert
@@ -597,13 +597,13 @@ Athény,Athens
 Atlanta,Atlanta
 Atlantida,Atlantis
 Atlantský oceán,Atlantic Ocean
-Atlas,Atlas (disambiguation)
-Atlas (měsíc),Atlas (moon)
-Atlas (pohoří),Atlas Mountains
-Atletika,Athletics (track and field)
-Atlás (mytologie),Atlas (mythology)
+Atlas,Atlas
+Atlas,Atlas
+Atlas,Atlas Mountains
+Atletika,Athletics
+Atlás,Atlas
 Atmosféra,Atmosphere
-Atmosféra (jednotka),Atmosphere (unit)
+Atmosféra,Atmosphere
 Atmosférický tlak,Atmospheric pressure
 Atol,Atoll
 Atom,Atom
@@ -634,7 +634,7 @@ Autor,Author
 Autorita,Authority
 Autorské právo,Copyright
 Autotrofie,Autotroph
-Auvergne,Auvergne (region)
+Auvergne,Auvergne
 Avantgarda,Avant-garde
 Ave Maria,Hail Mary
 Averroes,Averroes
@@ -686,16 +686,16 @@ Banjul,Banjul
 Banka,Bank
 Bankovka,Banknote
 Banán,Banana
-Banán,Musa (genus)
+Banán,Musa
 Banánová republika,Banana republic
 Baobab,Adansonia
 Baptisté,Baptist
-Bar (jednotka),Bar (unit)
+Bar,Bar
 Barbados,Barbados
 Barbar,Barbarian
 Barbra Streisand,Barbra Streisand
 Barcelona,Barcelona
-Barel,Barrel (unit)
+Barel,Barrel
 Barentsovo moře,Barents Sea
 Bari,Bari
 Baroko,Baroque
@@ -716,8 +716,8 @@ Basová kytara,Bass guitar
 Basra,Basra
 Bastila,Bastille
 Bath,Bath
-Batman (komiks),Batman
-Bauhaus (výtvarná škola),Bauhaus
+Batman,Batman
+Bauhaus,Bauhaus
 Bauxit,Bauxite
 Bavlna,Cotton
 Bavorsko,Bavaria
@@ -799,7 +799,7 @@ Bipolární afektivní porucha,Bipolar disorder
 Bisexualita,Bisexuality
 Biskajský záliv,Bay of Biscay
 Biskup,Bishop
-Bismarck,Bismarck (disambiguation)
+Bismarck,Bismarck
 Bismut,Bismuth
 Bissau,Bissau
 Bit,Bit
@@ -808,7 +808,7 @@ Bithýnie,Bithynia
 Bitva na Sommě,Battle of the Somme
 Bitva o Británii,Battle of Britain
 Bitva u Hastingsu,Battle of Hastings
-Bitva u Lepanta (1571),Battle of Lepanto (1571)
+Bitva u Lepanta,Battle of Lepanto
 Bitva u Marathonu,Battle of Marathon
 Bitva u Midway,Battle of Midway
 Bitva u Slavkova,Battle of Austerlitz
@@ -825,7 +825,7 @@ Blahovičník,Eucalyptus
 Blaise Pascal,Blaise Pascal
 Blanokřídlí,Hymenoptera
 Blechy,Flea
-Blender,Blender (software)
+Blender,Blender
 Blesk,Lightning
 Blitzkrieg,Blitzkrieg
 Bloemfontein,Bloemfontein
@@ -837,7 +837,7 @@ Bob Marley,Bob Marley
 Bobovité,Fabaceae
 Bobr,Beaver
 Bobule,Berry
-Bod,Point (geometry)
+Bod,Point
 Bodamské jezero,Lake Constance
 Bohrium,Bohrium
 Boise,Boise
@@ -850,8 +850,8 @@ Bombaj,Mumbai
 Bombardér,Bomber
 Bonn,Bonn
 Bonsaj,Bonsai
-Booleova algebra,Boolean algebra (structure)
-Bor (prvek),Boron
+Booleova algebra,Boolean algebra
+Bor,Boron
 Bordeaux,Bordeaux
 Boris Fjodorovič Godunov,Boris Godunov
 Boris Leonidovič Pasternak,Boris Pasternak
@@ -869,7 +869,7 @@ Botnický záliv,Gulf of Bothnia
 Botswana,Botswana
 Bourec morušový,Bombyx mori
 Bouvetův ostrov,Bouvet Island
-Bouře (meteorologie),Storm
+Bouře,Storm
 Bowling,Bowling
 Box,Boxing
 Boyleův-Mariottův zákon,Boyle's law
@@ -891,13 +891,13 @@ Brazílie,Brazil
 Bremerhaven,Bremerhaven
 Brescia,Brescia
 Brest,Brest
-Brest (Bělorusko),Brest
-Brest (Francie),Brest
+Brest,Brest
+Brest,Brest
 Bretaň,Bretagne
 Bridgetown,Bridgetown
 Bridž,Contract bridge
 Brighton,Brighton
-Brigáda (jednotka),Brigade
+Brigáda,Brigade
 Brindisi,Brindisi
 Brisbane,Brisbane
 Bristol,Bristol
@@ -906,7 +906,7 @@ Britské Panenské ostrovy,British Virgin Islands
 Britské impérium,British Empire
 Britské ostrovy,British Isles
 Brno,Brno
-Broadway,Broadway (New York City)
+Broadway,Broadway
 Brodiví,Ciconiiformes
 Brokolice,Broccoli
 Brom,Bromine
@@ -948,7 +948,7 @@ Burkina Faso,Burkina Faso
 Bursa,Bursa
 Burza,Stock exchange
 Buster Keaton,Buster Keaton
-Buňka,Cell (biology)
+Buňka,Cell
 Bydhošť,Bydgoszcz
 Byrokracie,Bureaucracy
 Byte,Byte
@@ -968,23 +968,23 @@ Břišní tanec,Belly dance
 Bříza,Birch
 Bůh,God
 C,C
-C (programovací jazyk),C (programming language)
-CD,CD (disambiguation)
-CHAOS,CHAOS (Linux distribution)
+C,C
+CD,CD
+CHAOS,CHAOS
 CISC,Complex instruction set computer
 CN Tower,CN Tower
 COBOL,COBOL
 Cache,Cache
 Calais,Calais
 Caligula,Caligula
-Callisto (měsíc),Callisto (moon)
-Calvados (departement),Calvados
+Callisto,Callisto
+Calvados,Calvados
 Calvin Coolidge,Calvin Coolidge
 Cambridge,Cambridge
-Camembert,Camembert (cheese)
+Camembert,Camembert
 Canberra,Canberra
 Cannes,Cannes
-Canon,Canon (company)
+Canon,Canon
 Canopus,Canopus
 Canterbury,Canterbury
 Car,Tsar
@@ -1021,8 +1021,8 @@ Centrální mocnosti,Central Powers
 Centrální nervová soustava,Central nervous system
 Cer,Cerium
 Ceres,Ceres
-Ceres (mytologie),Ceres (mythology)
-Ceres (trpasličí planeta),Ceres (dwarf planet)
+Ceres,Ceres
+Ceres,Ceres
 Cesium,Caesium
 Cestovní pas,Passport
 Cestovní ruch,Tourism
@@ -1034,7 +1034,7 @@ Chalífát,Caliphate
 Chammurapi,Hammurabi
 Champagne-Ardenne,Champagne-Ardenne
 Chanuka,Hanukkah
-Chaos (mytologie),Chaos (mythology)
+Chaos,Chaos
 Charkov,Kharkiv
 Charleroi,Charleroi
 Charles Baudelaire,Charles Baudelaire
@@ -1049,10 +1049,10 @@ Charles de Gaulle,Charles de Gaulle
 Charlie Chaplin,Charlie Chaplin
 Charlie Parker,Charlie Parker
 Charlotte,Charlotte
-Charon (měsíc),Charon (moon)
+Charon,Charon
 Chartres,Chartres
 Chartúm,Khartoum
-Charón,Charon (mythology)
+Charón,Charon
 Che Guevara,Che Guevara
 Che-pej,Hebei
 Cheirón,Chiron
@@ -1070,10 +1070,10 @@ Cherub,Cherub
 Chester A. Arthur,Chester A. Arthur
 Cheyenne,Cheyenne
 Chicago,Chicago
-Chihuahua (stát),Chihuahua
+Chihuahua,Chihuahua
 Chile,Chile
-Chimborazo,Chimborazo (volcano)
-Chiméra (mytologie),Chimera (mythology)
+Chimborazo,Chimborazo
+Chiméra,Chimera
 Chios,Chios
 Chirurgie,Surgery
 Chirurgie,Surgeon
@@ -1126,17 +1126,17 @@ Claudio Monteverdi,Claudio Monteverdi
 Claudius,Claudius
 Claudius Galén,Galen
 Clement Attlee,Clement Attlee
-Cleveland (Ohio),Cleveland
+Cleveland,Cleveland
 Clive Staples Lewis,C. S. Lewis
 Coccinellidae,Coccinellidae
 Colin Powell,Colin Powell
 Colorado,Colorado
-Colorado (přítok Kalifornského zálivu),Colorado River
+Colorado,Colorado River
 Columbia,Columbia
-Columbia (řeka),Columbia River
+Columbia,Columbia River
 Columbia University,Columbia University
 Columbus,Columbus
-Columbus (Ohio),Columbus
+Columbus,Columbus
 Commonwealth,Commonwealth of Nations
 Computer aided design,Computer-aided design
 Conakry,Conakry
@@ -1144,7 +1144,7 @@ Connecticut,Connecticut
 Constantinus I.,Constantine I
 Coordinated Universal Time,Coordinated Universal Time
 Coriolisova síla,Coriolis effect
-Cork,Cork (city)
+Cork,Cork
 Cornell University,Cornell University
 Cornwall,Cornwall
 Cotonou,Cotonou
@@ -1199,10 +1199,10 @@ Dante Alighieri,Dante Alighieri
 Daněk evropský,Fallow Deer
 Dar es Salaam,Dar es Salaam
 Dardanely,Dardanelles
-Darjeeling (město),Darjeeling
+Darjeeling,Darjeeling
 Darmstadtium,Darmstadtium
 Darwin,Darwin
-Darwin (Austrálie),Darwin
+Darwin,Darwin
 Data,Data
 Data mining,Data mining
 Databáze,Database
@@ -1210,7 +1210,7 @@ Dativ,Dative case
 Datová hranice,International Date Line
 Daugavpils,Daugavpils
 Dauhá,Doha
-David (král Izraele),David
+David,David
 David Herbert Lawrence,D. H. Lawrence
 David Hilbert,David Hilbert
 David Hume,David Hume
@@ -1226,7 +1226,7 @@ Deco,Deco
 Dedukce,Deductive reasoning
 Definice,Definition
 Deflace,Deflation
-Deimos (měsíc),Deimos (moon)
+Deimos,Deimos
 Deismus,Deism
 Deklinace,Declination
 Dekonstrukce,Deconstruction
@@ -1239,13 +1239,13 @@ Demence,Dementia
 Demografie,Demography
 Demokracie,Democracy
 Demokratická republika Kongo,Democratic Republic of the Congo
-Demokratická strana (USA),Democratic Party (United States)
+Demokratická strana,Democratic Party
 Den,Day
 Den matek,Mother's Day
 Dengue,Dengue fever
 Denis Diderot,Denis Diderot
 Denver,Denver
-Deprese (psychologie),Clinical depression
+Deprese,Clinical depression
 Derivace,Derivative
 Dermatologie,Dermatology
 Des Moines,Des Moines
@@ -1261,8 +1261,8 @@ Determinismus,Determinism
 Detroit,Detroit
 Deuterium,Deuterium
 Deuteronomium,Deuteronomy
-Devon (geologie),Devonian
-Devon (hrabství),Devon
+Devon,Devonian
+Devon,Devon
 Deweyův desetinný systém,Dewey Decimal Classification
 Deštník,Umbrella
 Dharma,Dharma
@@ -1306,10 +1306,10 @@ Diskžokej,Disc jockey
 Displej z tekutých krystalů,Liquid crystal display
 Divadlo,Theatre
 Divergence,Divergence
-Divize (vojenství),Division (military)
+Divize,Division
 Dizzy Gillespie,Dizzy Gillespie
 Dlouhokřídlí,Charadriiformes
-Dluhopis,Bond (finance)
+Dluhopis,Bond
 Dmitrij Dmitrijevič Šostakovič,Dmitri Shostakovich
 Dmitrij Ivanovič Mendělejev,Dmitri Mendeleev
 Dna,Gout
@@ -1325,7 +1325,7 @@ Dodekanés,Dodecanese
 Dodoma,Dodoma
 Dogma,Dogma
 Dolar,Dollar
-Dolly (ovce),Dolly (sheep)
+Dolly,Dolly
 Dolmen,Dolmen
 Dolnoněmčina,Low German
 Dolní Normandie,Basse-Normandie
@@ -1336,8 +1336,8 @@ Domestikace,Domestication
 Dominika,Dominica
 Dominikánská republika,Dominican Republic
 Domitianus,Domitian
-Doména (biologie),Domain (biology)
-Don,Don River (Russia)
+Doména,Domain
+Don,Don River
 Donatello,Donatello
 Donatien Alphonse François de Sade,Marquis de Sade
 Donato Bramante,Donato Bramante
@@ -1352,23 +1352,23 @@ Dostih,Horse racing
 Douala,Douala
 Douglas MacArthur,Douglas MacArthur
 Downův syndrom,Down syndrome
-Dr. House,House (TV series)
+Dr. House,House
 Drahokam,Gemstone
 Drak,Dragon
 Drama,Drama
 Draslík,Potassium
 Dravci,Falconiformes
 Dronte mauricijský,Dodo
-Druh (biologie),Species
+Druh,Species
 Druhá křížová výprava,Second Crusade
 Druhá odmocnina,Square root
 Druhá světová válka,World War II
 Druhý termodynamický zákon,Second law of thermodynamics
 Druid,Druid
 Družstvo,Cooperative
-Drákula (kniha),Dracula
+Drákula,Dracula
 Drážďany,Dresden
-Dualismus (filosofie),Dualism
+Dualismus,Dualism
 Dub,Oak
 Dub letní,Pedunculate Oak
 Dubaj,Dubai
@@ -1380,7 +1380,7 @@ Duch,Ghost
 Duch svatý,Holy Spirit
 Duchovenstvo,Clergy
 Duha,Rainbow
-Duhovka (oko),Iris (anatomy)
+Duhovka,Iris
 Duke Ellington,Duke Ellington
 Duke University,Duke University
 Dunaj,Danube
@@ -1401,7 +1401,7 @@ Dvojhláska,Diphthong
 Dvojhvězda,Binary star
 Dvouděložné,Dicotyledon
 Dwight D. Eisenhower,Dwight D. Eisenhower
-Dynamika,Dynamics (physics)
+Dynamika,Dynamics
 Dynamit,Dynamite
 Dynastie,Dynasty
 Dynastie Jüan,Yuan Dynasty
@@ -1412,8 +1412,8 @@ Dynastie Čching,Qing Dynasty
 Dyslexie,Dyslexia
 Dysprosium,Dysprosium
 Dálný východ,Far East
-Dáma (hra),Draughts
-Dáma (šachy),Queen (chess)
+Dáma,Draughts
+Dáma,Queen
 Dánsko,Denmark
 Dánská koruna,Danish krone
 Dárfúr,Darfur
@@ -1429,7 +1429,7 @@ Dórský řád,Doric order
 Dýchací soustava,Respiratory system
 Dýka,Dagger
 Dějiny umění,Art history
-Dělení,Division (mathematics)
+Dělení,Division
 Děloha,Uterus
 Dělostřelectvo,Artillery
 Dřevo,Wood
@@ -1442,13 +1442,13 @@ Džidda,Jeddah
 Džihád,Jihad
 Džinismus,Jainism
 Džiu-džitsu,Jujutsu
-Džíbútí,Djibouti (city)
+Džíbútí,Djibouti
 E,E
 E-mail,E-mail
 Ebola,Ebola
 Ebro,Ebro
-Echidna,Echidna (mythology)
-Eclipse (vývojové prostředí),Eclipse (software)
+Echidna,Echidna
+Eclipse,Eclipse
 Edgar Allan Poe,Edgar Allan Poe
 Edgar Degas,Edgar Degas
 Edgar Rice Burroughs,Edgar Rice Burroughs
@@ -1541,7 +1541,7 @@ Encyklopedie,Encyclopedia
 Endemit,Endemism
 Endokrinologie,Endocrinology
 Energie,Energy
-Energie,Energy (society)
+Energie,Energy
 Enki,Enki
 Enrico Caruso,Enrico Caruso
 Enrico Fermi,Enrico Fermi
@@ -1550,17 +1550,17 @@ Entomologie,Entomology
 Entropie,Entropy
 Enzym,Enzyme
 Eocén,Eocene
-Eon,Eon (geology)
+Eon,Eon
 Epicentrum,Epicenter
 Epidemie,Epidemic
 Epidemiologie,Epidemiology
-Epifanie,Epiphany (Christian)
+Epifanie,Epiphany
 Epigrafika,Epigraphy
 Epiktétos,Epictetus
 Epikúros,Epicurus
 Epilepsie,Epilepsy
-Epimétheus,Epimetheus (mythology)
-Epirus,Epirus (periphery)
+Epimétheus,Epimetheus
+Epirus,Epirus
 Epitelová tkáň,Epithelium
 Epos,Epic poetry
 Erasmus Rotterdamský,Desiderius Erasmus
@@ -1574,8 +1574,8 @@ Erektilní dysfunkce,Erectile dysfunction
 Erijské jezero,Lake Erie
 Erik Axel Karlfeldt,Erik Axel Karlfeldt
 Erik Satie,Erik Satie
-Eris,Eris (mythology)
-Eris (plutoid),Eris (dwarf planet)
+Eris,Eris
+Eris,Eris
 Ernest Hemingway,Ernest Hemingway
 Ernest Rutherford,Ernest Rutherford
 Ernst Theodor Wilhelm Hoffmann,E. T. A. Hoffmann
@@ -1583,7 +1583,7 @@ Ernst Werner von Siemens,Ernst Werner von Siemens
 Erotika,Erotica
 Eroze,Erosion
 Erwin Rommel,Erwin Rommel
-Erós,Eros (mythology)
+Erós,Eros
 Eschatologie,Eschatology
 Escherichia coli,Escherichia coli
 Esej,Essay
@@ -1616,15 +1616,15 @@ Eugene O'Neill,Eugene O'Neill
 Eukaryota,Eukaryote
 Eukleidés,Euclid
 Euklidovská geometrie,Euclidean geometry
-Eulerovo číslo,E (mathematical constant)
+Eulerovo číslo,E
 Eunuch,Eunuch
 Eurasie,Eurasia
 Euro,Euro
-Europa (měsíc),Europa (moon)
+Europa,Europa
 Europium,Europium
 Eurotunel,Channel Tunnel
 Eurípidés,Euripides
-Európa,Europa (mythology)
+Európa,Europa
 Eusebios z Kaisareie,Eusebius of Caesarea
 Euskadi Ta Askatasuna,ETA
 Eutanazie,Euthanasia
@@ -1638,7 +1638,7 @@ Evropa,Europe
 Evropská centrální banka,European Central Bank
 Evropská unie,European Union
 Evropské společenství,European Community
-Excentricita dráhy,Eccentricity (mathematics)
+Excentricita dráhy,Eccentricity
 Existencialismus,Existentialism
 Exkomunikace,Excommunication
 Exodus,Exodus
@@ -1649,7 +1649,7 @@ Ezop,Aesop
 Ezra Pound,Ezra Pound
 F,F
 FBI,Federal Bureau of Investigation
-FIAT (automobil),Fiat
+FIAT,Fiat
 Fado,Fado
 Fagot,Bassoon
 Fair use,Fair use
@@ -1670,7 +1670,7 @@ Fašismus,Fascism
 Federace,Federation
 Federativní státy Mikronésie,Federated States of Micronesia
 Federico Fellini,Federico Fellini
-Fedora,Fedora (Linux distribution)
+Fedora,Fedora
 Felix Mendelssohn-Bartholdy,Felix Mendelssohn
 Feminismus,Feminism
 Feng-šuej,Feng shui
@@ -1707,7 +1707,7 @@ Filologie,Philology
 Filosofie,Philosophy
 Finsko,Finland
 Finský záliv,Gulf of Finland
-Firewall,Firewall (networking)
+Firewall,Firewall
 Firmware,Firmware
 Fjodor Michajlovič Dostojevskij,Fyodor Dostoevsky
 Fjord,Fjord
@@ -1734,7 +1734,7 @@ Fosfor,Phosphorus
 Fosfát,Phosphate
 Fosilní palivo,Fossil fuel
 Fosílie,Fossil
-Fotbal,Football (soccer)
+Fotbal,Football
 Fotoaparát,Camera
 Fotografie,Photography
 Foton,Photon
@@ -1760,7 +1760,7 @@ Francouzská Polynésie,French Polynesia
 Francouzský frank,French franc
 Frank Lloyd Wright,Frank Lloyd Wright
 Frank Sinatra,Frank Sinatra
-Frankfurt,Frankfurt (disambiguation)
+Frankfurt,Frankfurt
 Frankfurt nad Mohanem,Frankfurt
 Franklin Pierce,Franklin Pierce
 Frans Hals,Frans Hals
@@ -1793,15 +1793,15 @@ Fukuoka,Fukuoka
 Funafuti,Funafuti
 Fundamentalismus,Fundamentalism
 Funk,Funk
-Funkce (matematika),Function (mathematics)
-Futurismus,Futurism (art)
+Funkce,Function
+Futurismus,Futurism
 Fuzzy logika,Fuzzy logic
 Fyzika,Physics
 Fyzika částic,Particle physics
 Fyzikální chemie,Physical chemistry
 Fyziologie,Physiology
 Fénicie,Phoenicia
-Fénix,Phoenix (mythology)
+Fénix,Phoenix
 Fétus,Fetus
 G,G
 GATT,General Agreement on Tariffs and Trade
@@ -1812,14 +1812,14 @@ Gaborone,Gaborone
 Gabriel Lippmann,Gabriel Lippmann
 Gadolinium,Gadolinium
 Gaetano Donizetti,Gaetano Donizetti
-Gaia,Gaia (mythology)
+Gaia,Gaia
 Gaius Valerius Catullus,Catullus
 Galatie,Galatia
 Galaxie,Galaxy
 Galaxie Mléčná dráha,Milky Way
 Galaxie v Andromedě,Andromeda Galaxy
 Galenit,Galena
-Galicie,Galicia (Spain)
+Galicie,Galicia
 Galie,Gaul
 Galilea,Galilee
 Galileo Galilei,Galileo Galilei
@@ -1830,7 +1830,7 @@ Galéra,Galley
 Gambie,The Gambia
 Gamál Násir,Gamal Abdel Nasser
 Ganga,Ganges
-Ganymed (měsíc),Ganymede (moon)
+Ganymed,Ganymede
 Ganymédés,Ganymede
 Ganéša,Ganesha
 Gap,Gap
@@ -1884,7 +1884,7 @@ Georges Bizet,Georges Bizet
 Georges Braque,Georges Braque
 Georges Clemenceau,Georges Clemenceau
 Georgetown,Georgetown
-Georgie,Georgia (U.S. state)
+Georgie,Georgia
 Gepard štíhlý,Cheetah
 Gerald Ford,Gerald Ford
 Gerard Kuiper,Gerard Kuiper
@@ -1903,7 +1903,7 @@ Giorgio Vasari,Giorgio Vasari
 Giotto di Bondone,Giotto di Bondone
 Giovanni Boccaccio,Giovanni Boccaccio
 Girolamo Savonarola,Girolamo Savonarola
-Gironde (departement),Gironde
+Gironde,Gironde
 Giuseppe Garibaldi,Giuseppe Garibaldi
 Giuseppe Verdi,Giuseppe Verdi
 Gladiátor,Gladiator
@@ -1922,8 +1922,8 @@ Glykogen,Glycogen
 Glykolýza,Glycolysis
 Gnosticismus,Gnosticism
 Gnozeologie,Epistemology
-Go,Go (board game)
-Goa (stát),Goa
+Go,Go
+Goa,Goa
 Gobi,Gobi Desert
 Golanské výšiny,Golan Heights
 Golda Meirová,Golda Meir
@@ -1950,27 +1950,27 @@ Graham Greene,Graham Greene
 Gramotnost,Literacy
 Granada,Granada
 Grand Canyon,Grand Canyon
-Grand Slam (tenis),Grand Slam (tennis)
-Granát (minerál),Garnet
-Granát (zbraň),Hand grenade
+Grand Slam,Grand Slam
+Granát,Garnet
+Granát,Hand grenade
 Granátové jablko,Pomegranate
 Grapefruit,Grapefruit
 Gravitace,Gravitation
 Gravitační konstanta,Gravitational constant
 Graviton,Graviton
-Gray,Gray (unit)
+Gray,Gray
 Greenpeace,Greenpeace
 Gregor Mendel,Gregor Mendel
 Gregoriánský kalendář,Gregorian calendar
 Grenoble,Grenoble
 Grover Cleveland,Grover Cleveland
 Groznyj,Grozny
-Grupa,Group (mathematics)
-Gruzie,Georgia (country)
+Grupa,Group
+Gruzie,Georgia
 Gryf,Griffin
 Grónsko,Greenland
 Grónské moře,Greenland Sea
-Guadalajara (Mexiko),Guadalajara
+Guadalajara,Guadalajara
 Guadeloupe,Guadeloupe
 Guam,Guam
 Guanin,Guanine
@@ -2013,7 +2013,7 @@ Haiku,Haiku
 Haiti,Haiti
 Hajdarábád,Hyderabad
 Halapartna,Halberd
-Halič,Galicia (Central Europe)
+Halič,Galicia
 Halle,Halle
 Halloween,Halloween
 Halogen,Halogen
@@ -2056,9 +2056,9 @@ Heinrich Schliemann,Heinrich Schliemann
 Hekaté,Hecate
 Hektar,Hectare
 Hektór,Hector
-Hel,Hel (being)
+Hel,Hel
 Helen Kellerová,Helen Keller
-Helena (mytologie),Helen
+Helena,Helen
 Helium,Helium
 Helsinky,Helsinki
 Hematit,Hematite
@@ -2070,7 +2070,7 @@ Henri Becquerel,Henri Becquerel
 Henri Bergson,Henri Bergson
 Henri Matisse,Henri Matisse
 Henrik Ibsen,Henrik Ibsen
-Henry,Henry (unit)
+Henry,Henry
 Henry Cavendish,Henry Cavendish
 Henry David Thoreau,Henry David Thoreau
 Henry Ford,Henry Ford
@@ -2125,7 +2125,7 @@ Historie,History
 Historiografie,Historiography
 Hizballáh,Hezbollah
 Hlad,Hunger
-Hlava (člověk),Head
+Hlava,Head
 Hlava státu,Head of state
 Hlavní město,Capital
 Hlavní pás,Asteroid belt
@@ -2182,7 +2182,7 @@ Horečka,Fever
 Horizont,Horizon
 Hormon,Hormone
 Hormuzský průliv,Strait of Hormuz
-Hornina,Rock (geology)
+Hornina,Rock
 Horní Normandie,Haute-Normandie
 Horoskop,Horoscope
 Horské kolo,Mountain bike
@@ -2191,7 +2191,7 @@ Houbovci,Sponge
 Houby,Fungus
 Housle,Violin
 Houston,Houston
-Howard Carter,Howard Carter (archaeologist)
+Howard Carter,Howard Carter
 Hořejší jezero,Lake Superior
 Hoření,Combustion
 Hořčík,Magnesium
@@ -2201,7 +2201,7 @@ Hrabáč,Aardvark
 Hrací karta,Playing card
 Hrací kostka,Dice
 Hrad,Castle
-Hranol,Prism (geometry)
+Hranol,Prism
 Hračka,Toy
 Hrdina,Hero
 Hroch obojživelný,Hippopotamus
@@ -2211,14 +2211,14 @@ Hrudní kost,Sternum
 Hruška,Pear
 Hruškovec přelahodný,Avocado
 Hrách setý,Pea
-Hráz (stavba),Dam
+Hráz,Dam
 Hubbleova konstanta,Hubble's law
 Hudba,Music
 Hudební album,Album
 Hudební nástroj,Musical instrument
 Hudební skladatel,Composer
 Hudebník,Musician
-Hudson (řeka),Hudson River
+Hudson,Hudson River
 Hudsonův záliv,Hudson Bay
 Hugenoti,Huguenot
 Hugo Grotius,Hugo Grotius
@@ -2243,9 +2243,9 @@ Hyenovití,Hyena
 Hymna USA,The Star-Spangled Banner
 HyperText Markup Language,HTML
 Hyperbola,Hyperbola
-Hyperbola (literatura),Hyperbole
-Hyperion (mytologie),Hyperion (mythology)
-Hyperion (měsíc),Hyperion (moon)
+Hyperbola,Hyperbole
+Hyperion,Hyperion
+Hyperion,Hyperion
 Hypertenze,Hypertension
 Hypertext,Hypertext
 Hypertext Transfer Protocol,Hypertext Transfer Protocol
@@ -2255,7 +2255,7 @@ Hypofýza,Pituitary gland
 Hypothalamus,Hypothalamus
 Hypotéza,Hypothesis
 Hádés,Hades
-Hébé,Hebe (mythology)
+Hébé,Hebe
 Hédonismus,Hedonism
 Héfaistos,Hephaestus
 Hélios,Helios
@@ -2266,15 +2266,15 @@ Héraklés,Heracles
 Hérodotos,Herodotus
 Hésiodos,Hesiod
 Hřbitov,Cemetery
-Hřebík,Nail (fastener)
+Hřebík,Nail
 Hřebíček,Clove
 Hřib smrkový,Boletus edulis
 Hřích,Sin
 I,I
 IPod,IPod
 Ian Fleming,Ian Fleming
-Iapetos,Iapetus (mythology)
-Iapetus (měsíc),Iapetus (moon)
+Iapetos,Iapetus
+Iapetus,Iapetus
 Ichtyologie,Ichthyology
 Idaho,Idaho
 Idealismus,Idealism
@@ -2284,7 +2284,7 @@ Ido,Ido
 Iglú,Igloo
 Ignác z Loyoly,Ignatius of Loyola
 Igor Fjodorovič Stravinskij,Igor Stravinsky
-Iguaçu (vodopády),Iguazu Falls
+Iguaçu,Iguazu Falls
 Ikona,Icon
 Ilias,Iliad
 Illinois,Illinois
@@ -2308,7 +2308,7 @@ Indium,Indium
 Indonésie,Indonesia
 Indočína,Indochina
 Indra,Indra
-Indukce (logika),Inductive reasoning
+Indukce,Inductive reasoning
 Indukčnost,Inductance
 Indus,Indus River
 Inertní plyn,Noble gas
@@ -2317,7 +2317,7 @@ Infinitiv,Infinitive
 Inflace,Inflation
 Informace,Information
 Informatika,Information technology
-Informatika (počítačová věda),Computer science
+Informatika,Computer science
 Infrastruktura,Infrastructure
 Infračervené záření,Infrared
 Ingmar Bergman,Ingmar Bergman
@@ -2334,15 +2334,15 @@ Interlingua,Interlingua
 Internet,Internet
 Internetová doména,Domain name
 Internetový vyhledávač,Search engine
-Interpret (software),Interpreter (computing)
+Interpret,Interpreter
 Interpunkční znaménko,Punctuation
 Interrupce,Abortion
-Interval (hudba),Interval (music)
+Interval,Interval
 Intranet,Intranet
 Inzulín,Insulin
 Inženýr,Engineer
 Inženýrství,Engineering
-Io (měsíc),Io (moon)
+Io,Io
 Ion,Ion
 Ionosféra,Ionosphere
 Iontová vazba,Ionic bond
@@ -2351,11 +2351,11 @@ Iracionální číslo,Irrational number
 Iredentismus,Irredentism
 Irenej z Lyonu,Irenaeus
 Iridium,Iridium
-Iris (bohyně),Iris (mythology)
+Iris,Iris
 Iron Maiden,Iron Maiden
 Ironie,Irony
 Irsko,Republic of Ireland
-Irsko (ostrov),Ireland
+Irsko,Ireland
 Irská republikánská armáda,Irish Republican Army
 Irské moře,Irish Sea
 Irtyš,Irtysh River
@@ -2438,18 +2438,18 @@ Jane Greyová,Lady Jane Grey
 Jang-c'-ťiang,Yangtze River
 Janis Joplin,Janis Joplin
 Janičár,Janissary
-Janov (Itálie),Genoa
+Janov,Genoa
 Jantar,Amber
-Janus,Janus (mythology)
-Janus (měsíc),Janus (moon)
+Janus,Janus
+Janus,Janus
 Japonsko,Japan
 Japonské moře,Sea of Japan
-Jaro,Spring (season)
-Java,Java (programming language)
-Java (rozcestník),Java (disambiguation)
+Jaro,Spring
+Java,Java
+Java,Java
 Javor,Maple
-Jazyk (lingvistika),Language
-Jazyk (orgán),Tongue
+Jazyk,Language
+Jazyk,Tongue
 Jazz,Jazz
 Jean Auguste Dominique Ingres,Jean Auguste Dominique Ingres
 Jean Cocteau,Jean Cocteau
@@ -2467,7 +2467,7 @@ Jednoděložné,Monocotyledon
 Jednorožec,Unicorn
 Jednotková matice,Identity matrix
 Jefferson Davis,Jefferson Davis
-Jehlan,Pyramid (geometry)
+Jehlan,Pyramid
 Jelen lesní,Red Deer
 Jelenovití,Deer
 Jemen,Yemen
@@ -2483,7 +2483,7 @@ Jersey,Jersey
 Jeruzalém,Jerusalem
 Jeskyně,Cave
 Jestřáb lesní,Goshawk
-Jezdec (šachy),Knight (chess)
+Jezdec,Knight
 Jezdectvo,Cavalry
 Jezero,Lake
 Jezevec lesní,Eurasian Badger
@@ -2506,7 +2506,7 @@ Jižní Austrálie,South Australia
 Jižní Dakota,South Dakota
 Jižní Karolína,South Carolina
 Jižní Korea,South Korea
-Jižní ostrov (Nový Zéland),South Island
+Jižní ostrov,South Island
 Jižní polokoule,Southern Hemisphere
 Jižní pól,South Pole
 Jmenný rod,Grammatical gender
@@ -2567,10 +2567,10 @@ Julianus Apostata,Julian the Apostate
 Julius Caesar,Julius Caesar
 Juliánský kalendář,Julian calendar
 Juneau,Juneau
-Juno (mytologie),Juno (mythology)
-Jupiter,Jupiter (disambiguation)
-Jupiter (mytologie),Jupiter (mythology)
-Jupiter (planeta),Jupiter
+Juno,Juno
+Jupiter,Jupiter
+Jupiter,Jupiter
+Jupiter,Jupiter
 Jura,Jurassic
 Jurij Gagarin,Yuri Gagarin
 Justinián I.,Justinian I
@@ -2612,7 +2612,7 @@ Kaligrafie,Calligraphy
 Kalkata,Kolkata
 Kalkulačka,Calculator
 Kalliopé,Calliope
-Kallistó,Callisto (mythology)
+Kallistó,Callisto
 Kalorie,Calorie
 Kalous ušatý,Long-eared Owl
 Kalvinismus,Calvinism
@@ -2634,15 +2634,15 @@ Kandahár,Kandahar
 Kandela,Candela
 Kanibalismus,Cannibalism
 Kansas,Kansas
-Kansas City (Missouri),Kansas City
-Kanton (Čína),Guangzhou
+Kansas City,Kansas City
+Kanton,Guangzhou
 Kantáta,Cantata
 Kanárské ostrovy,Canary Islands
 Kanón,Cannon
 Kapalina,Liquid
 Kapitalismus,Capitalism
-Kapitál,Capital (economics)
-Kapitál (kniha),Das Kapital
+Kapitál,Capital
+Kapitál,Das Kapital
 Kappadokie,Cappadocia
 Kapraďorosty,Fern
 Kapské Město,Cape Town
@@ -2658,7 +2658,7 @@ Karboxylové kyseliny,Carboxylic acid
 Karburátor,Carburetor
 Karcinom prsu,Breast cancer
 Kardamovník obecný,Cardamom
-Kardinál,Cardinal (Catholicism)
+Kardinál,Cardinal
 Karel II. Holý,Charles the Bald
 Karel Veliký,Charlemagne
 Karen Blixenová,Karen Blixen
@@ -2671,7 +2671,7 @@ Karl Jaspers,Karl Jaspers
 Karl Marx,Karl Marx
 Karl Raimund Popper,Karl Popper
 Karlovci,Carolingian dynasty
-Karma (buddhismus),Karma
+Karma,Karma
 Karneval,Carnival
 Karnátaka,Karnataka
 Karpaty,Carpathian Mountains
@@ -2681,632 +2681,632 @@ Kartágo,Carthage
 Kartézská soustava souřadnic,Cartesian coordinate system
 Kartézský součin,Cartesian product
 Karákoram,Karakoram
-Karát,Carat (mass)
-Karát,Carat (purity)
+Karát,Carat
+Karát,Carat
 Karáčí,Karachi
 Kasino,Casino
 Kaspické moře,Caspian Sea
 Kassandra,Cassandra
-Kastilie,Castile (historical region)
+Kastilie,Castile
 Kastovní systém,Caste
 Katalyzátor,Catalysis
 Katalánsko,Catalonia
 Katar,Qatar
 Katedrála,Cathedral
-Kategorie:1728,1728
-Kategorie:70. léta 20. století,1970s
-Kategorie:Abcházie,Abkhazia
-Kategorie:Afghánistán,Afghanistan
-Kategorie:Afrika,Africa
-Kategorie:Akustika,Acoustics
-Kategorie:Alberta,Alberta
-Kategorie:Albánie,Albania
-Kategorie:Alchymie,Alchemy
-Kategorie:Algebra,Algebra
-Kategorie:Aljaška,Alaska
-Kategorie:Alpy,Alps
-Kategorie:Alternativní medicína,Alternative medicine
-Kategorie:Alžírsko,Algeria
-Kategorie:Americký fotbal,American football
-Kategorie:Anarchismus,Anarchism
-Kategorie:Anatomie,Anatomy
-Kategorie:Andorra,Andorra
-Kategorie:Anglie,England
-Kategorie:Angličané,English people
-Kategorie:Angličtina,English language
-Kategorie:Angola,Angola
-Kategorie:Anime,Anime
-Kategorie:Anorganická chemie,Inorganic chemistry
-Kategorie:Antarktida,Antarctica
-Kategorie:Antigua a Barbuda,Antigua and Barbuda
-Kategorie:Antisemitismus,Antisemitism
-Kategorie:Antropologie,Anthropology
-Kategorie:Archeologie,Archaeology
-Kategorie:Architektura,Architecture
-Kategorie:Argentina,Argentina
-Kategorie:Aritmetika,Arithmetic
-Kategorie:Arizona,Arizona
-Kategorie:Arkansas,Arkansas
-Kategorie:Arménie,Armenia
-Kategorie:Aruba,Aruba
-Kategorie:Asie,Asia
-Kategorie:Astrofyzika,Astrophysics
-Kategorie:Astrologie,Astrology
-Kategorie:Astronomie,Astronomy
-Kategorie:Asýrie,Assyria
-Kategorie:Ateismus,Atheism
-Kategorie:Atlantský oceán,Atlantic Ocean
-Kategorie:Atletika,Athletics
-Kategorie:Austrálie,Australia
-Kategorie:Austrálie a Oceánie,Oceania
-Kategorie:Bahamy,Bahamas
-Kategorie:Bahrajn,Bahrain
-Kategorie:Bakterie,Bacteria
-Kategorie:Balet,Ballet
-Kategorie:Bangladéš,Bangladesh
-Kategorie:Banky,Banks
-Kategorie:Barbados,Barbados
-Kategorie:Barcelona,Barcelona
-Kategorie:Baseball,Baseball
-Kategorie:Basketbal,Basketball
-Kategorie:Bavorsko,Bavaria
-Kategorie:Belgie,Belgium
-Kategorie:Belize,Belize
-Kategorie:Benin,Benin
-Kategorie:Berlín,Berlin
-Kategorie:Bermudy,Bermuda
-Kategorie:Bezpečnost,Security
-Kategorie:Bhútán,Bhutan
-Kategorie:Bible,Bible
-Kategorie:Biochemie,Biochemistry
-Kategorie:Biologie,Biology
-Kategorie:Biotechnologie,Biotechnology
-Kategorie:Blanokřídlí,Hymenoptera
-Kategorie:Blízký východ,Middle East
-Kategorie:Bolívie,Bolivia
-Kategorie:Bosna a Hercegovina,Bosnia and Herzegovina
-Kategorie:Botanika,Botany
-Kategorie:Botswana,Botswana
-Kategorie:Box,Boxing
-Kategorie:Boxeři,Boxers
-Kategorie:Brazílie,Brazil
-Kategorie:Britové,British people
-Kategorie:Brunej,Brunei
-Kategorie:Buddhismus,Buddhism
-Kategorie:Bukovité,Fagaceae
-Kategorie:Bulharsko,Bulgaria
-Kategorie:Burkina Faso,Burkina Faso
-Kategorie:Burundi,Burundi
-Kategorie:Byzantská říše,Byzantine Empire
-Kategorie:Bělorusko,Belarus
-Kategorie:Chemie,Chemistry
-Kategorie:Chile,Chile
-Kategorie:Chirurgie,Surgery
-Kategorie:Chorvatsko,Croatia
-Kategorie:Chronologie,Chronology
-Kategorie:Colorado,Colorado
-Kategorie:Cyklistika,Cycling
-Kategorie:Daně,Taxation
-Kategorie:Delaware,Delaware
-Kategorie:Demografie,Demography
-Kategorie:Demokratická republika Kongo,Democratic Republic of the Congo
-Kategorie:Design,Design
-Kategorie:Diplomacie,Diplomacy
-Kategorie:Divadlo,Theatre
-Kategorie:Dominika,Dominica
-Kategorie:Dominikánská republika,Dominican Republic
-Kategorie:Doprava,Transportation
-Kategorie:Dorozumívání,Communication
-Kategorie:Druhá světová válka,World War II
-Kategorie:Durynsko,Thuringia
-Kategorie:Dánsko,Denmark
-Kategorie:Dělostřelectvo,Artillery
-Kategorie:Džibutsko,Djibouti
-Kategorie:Egypt,Egypt
-Kategorie:Ekologie,Ecology
-Kategorie:Ekonomie,Economics
-Kategorie:Ekvádor,Ecuador
-Kategorie:Elektrochemie,Electrochemistry
-Kategorie:Elektromagnetismus,Electromagnetism
-Kategorie:Elektronika,Electronics
-Kategorie:Elektrotechnika,Electrical engineering
-Kategorie:Elektřina,Electricity
-Kategorie:Emoce,Emotion
-Kategorie:Endokrinologie,Endocrinology
-Kategorie:Energie,Energy
-Kategorie:Entomologie,Entomology
-Kategorie:Eritrea,Eritrea
-Kategorie:Esperanto,Esperanto
-Kategorie:Estonsko,Estonia
-Kategorie:Etika,Ethics
-Kategorie:Etiopie,Ethiopia
-Kategorie:Etnologie,Ethnology
-Kategorie:Evropa,Europe
-Kategorie:Evropská unie,European Union
-Kategorie:Faerské ostrovy,Faroe Islands
-Kategorie:Farmakologie,Pharmacology
-Kategorie:Fašismus,Fascism
-Kategorie:Federativní státy Mikronésie,Federated States of Micronesia
-Kategorie:Feminismus,Feminism
-Kategorie:Fidži,Fiji
-Kategorie:Filatelie,Philately
-Kategorie:Filipíny,Philippines
-Kategorie:Film,Film
-Kategorie:Filologie,Philology
-Kategorie:Filosofie,Philosophy
-Kategorie:Finsko,Finland
-Kategorie:Florida,Florida
-Kategorie:Folklór,Folklore
-Kategorie:Fonetika,Phonetics
-Kategorie:Fotbal,Football (soccer)
-Kategorie:Fotbalisté,Football (soccer) players
-Kategorie:Fotbalové kluby,Football (soccer) clubs
-Kategorie:Fotbalové stadiony,Football (soccer) venues
-Kategorie:Fotbaloví trenéři,Football (soccer) managers
-Kategorie:Fotografie,Photography
-Kategorie:Francie,France
-Kategorie:Francouzi,French people
-Kategorie:Francouzská Polynésie,French Polynesia
-Kategorie:Frankfurt nad Mohanem,Frankfurt
-Kategorie:Fyzika,Physics
-Kategorie:Fyzika částic,Particle physics
-Kategorie:Fyzikální chemie,Physical chemistry
-Kategorie:Fyziologie,Physiology
-Kategorie:Gabon,Gabon
-Kategorie:Gambie,The Gambia
-Kategorie:Genealogie,Genealogy
-Kategorie:Genetika,Genetics
-Kategorie:Genocidy,Genocide
-Kategorie:Geodézie,Geodesy
-Kategorie:Geofyzika,Geophysics
-Kategorie:Geografie,Geography
-Kategorie:Geologie,Geology
-Kategorie:Geometrie,Geometry
-Kategorie:Geomorfologie,Geomorphology
-Kategorie:Georgie,Georgia (U.S. state)
-Kategorie:Ghana,Ghana
-Kategorie:Gibraltar,Gibraltar
-Kategorie:Golf,Golf
-Kategorie:Goniometrie,Trigonometry
-Kategorie:Google,Google
-Kategorie:Gramatika,Grammar
-Kategorie:Grenada,Grenada
-Kategorie:Gruzie,Georgia (country)
-Kategorie:Grónsko,Greenland
-Kategorie:Guatemala,Guatemala
-Kategorie:Guinea,Guinea
-Kategorie:Guinea-Bissau,Guinea-Bissau
-Kategorie:Guyana,Guyana
-Kategorie:Haiti,Haiti
-Kategorie:Hamburk,Hamburg
-Kategorie:Hardware,Computer hardware
-Kategorie:Havaj,Hawaii
-Kategorie:Heavy metal,Heavy metal
-Kategorie:Hematologie,Hematology
-Kategorie:Heraldika,Heraldry
-Kategorie:Hesensko,Hesse
-Kategorie:Hinduismus,Hinduism
-Kategorie:Histologie,Histology
-Kategorie:Historie,History
-Kategorie:Hlavní strana,Fundamental
-Kategorie:Honduras,Honduras
-Kategorie:Hongkong,Hong Kong
-Kategorie:Houby,Fungi
-Kategorie:Hrabaví,Galliformes
-Kategorie:Hudba,Music
-Kategorie:Humanitní a společenské vědy,Humanities
-Kategorie:Humor,Humor
-Kategorie:Hvězdnicovité,Asteraceae
-Kategorie:Hydrologie,Hydrology
-Kategorie:Hygiena,Hygiene
-Kategorie:Idaho,Idaho
-Kategorie:Illinois,Illinois
-Kategorie:Imunologie,Immunology
-Kategorie:Indiana,Indiana
-Kategorie:Indický oceán,Indian Ocean
-Kategorie:Indie,India
-Kategorie:Indonésie,Indonesia
-Kategorie:Informatika,Computer science
-Kategorie:Internet,Internet
-Kategorie:Inženýrství,Engineering
-Kategorie:Iowa,Iowa
-Kategorie:Irové,Irish people
-Kategorie:Irsko,Republic of Ireland
-Kategorie:Irsko,Ireland
-Kategorie:Irák,Iraq
-Kategorie:Island,Iceland
-Kategorie:Islám,Islam
-Kategorie:Istanbul,Istanbul
-Kategorie:Itálie,Italy
-Kategorie:Izrael,Israel
-Kategorie:Jaderná fyzika,Nuclear physics
-Kategorie:Jamajka,Jamaica
-Kategorie:Japonsko,Japan
-Kategorie:Jazz,Jazz
-Kategorie:Jemen,Yemen
-Kategorie:Jeruzalém,Jerusalem
-Kategorie:Jihoafrická republika,South Africa
-Kategorie:Jižní Amerika,South America
-Kategorie:Jižní Dakota,South Dakota
-Kategorie:Jižní Korea,South Korea
-Kategorie:Jordánsko,Jordan
-Kategorie:Judaismus,Judaism
-Kategorie:Jugoslávie,Yugoslavia
-Kategorie:Jupiter,Jupiter
-Kategorie:Kalifornie,California
-Kategorie:Kambodža,Cambodia
-Kategorie:Kamerun,Cameroon
-Kategorie:Kanada,Canada
-Kategorie:Kansas,Kansas
-Kategorie:Kanárské ostrovy,Canary Islands
-Kategorie:Kapverdy,Cape Verde
-Kategorie:Karibské moře,Caribbean
-Kategorie:Kartografie,Cartography
-Kategorie:Katalánsko,Catalonia
-Kategorie:Katar,Qatar
-Kategorie:Kavkaz,Caucasus
-Kategorie:Kazachstán,Kazakhstan
-Kategorie:Kentucky,Kentucky
-Kategorie:Keňa,Kenya
-Kategorie:Kiribati,Kiribati
-Kategorie:Klimatologie,Climatology
-Kategorie:Kolumbie,Colombia
-Kategorie:Komory,Comoros
-Kategorie:Komunismus,Communism
-Kategorie:Korea,Korea
-Kategorie:Kosmologie,Cosmology
-Kategorie:Kosovo,Kosovo
-Kategorie:Kostarika,Costa Rica
-Kategorie:Kosterní soustava,Skeletal system
-Kategorie:Kryptografie,Cryptography
-Kategorie:Krystalografie,Crystallography
-Kategorie:Kuba,Cuba
-Kategorie:Kultura,Culture
-Kategorie:Kuvajt,Kuwait
-Kategorie:Kypr,Cyprus
-Kategorie:Kyrgyzstán,Kyrgyzstan
-Kategorie:Káva,Coffee
-Kategorie:Křesťanství,Christianity
-Kategorie:Laos,Laos
-Kategorie:Lední hokej,Ice hockey
-Kategorie:Lesotho,Lesotho
-Kategorie:Letadla,Aircraft
-Kategorie:Letectví,Aviation
-Kategorie:Libanon,Lebanon
-Kategorie:Liberalismus,Liberalism
-Kategorie:Libye,Libya
-Kategorie:Libérie,Liberia
-Kategorie:Lichtenštejnsko,Liechtenstein
-Kategorie:Lidé,People
-Kategorie:Lineární algebra,Linear algebra
-Kategorie:Lingvistika,Linguistics
-Kategorie:Linux,Linux
-Kategorie:Literatura,Literature
-Kategorie:Litva,Lithuania
-Kategorie:Logika,Logic
-Kategorie:Londýn,London
-Kategorie:Lotyšsko,Latvia
-Kategorie:Louisiana,Louisiana
-Kategorie:Lucembursko,Luxembourg
-Kategorie:Lékařství,Medicine
-Kategorie:Madagaskar,Madagascar
-Kategorie:Magnetismus,Magnetism
-Kategorie:Makroekonomie,Macroeconomics
-Kategorie:Malajsie,Malaysia
-Kategorie:Malawi,Malawi
-Kategorie:Maledivy,Maldives
-Kategorie:Mali,Mali
-Kategorie:Malta,Malta
-Kategorie:Malířství,Painting
-Kategorie:Marketing,Marketing
-Kategorie:Maroko,Morocco
-Kategorie:Mars,Mars
-Kategorie:Marshallovy ostrovy,Marshall Islands
-Kategorie:Marxismus,Marxism
-Kategorie:Maryland,Maryland
-Kategorie:Massachusetts,Massachusetts
-Kategorie:Matematická logika,Mathematical logic
-Kategorie:Matematika,Mathematics
-Kategorie:Mauricius,Mauritius
-Kategorie:Mauritánie,Mauritania
-Kategorie:Maďarsko,Hungary
-Kategorie:Mechanika,Mechanics
-Kategorie:Metafyzika,Metaphysics
-Kategorie:Metalurgie,Metallurgy
-Kategorie:Meteorologie,Meteorology
-Kategorie:Metro,Rapid transit
-Kategorie:Mexiko,Mexico
-Kategorie:Mezinárodní právo,International law
-Kategorie:Mezopotámie,Mesopotamia
-Kategorie:Michigan,Michigan
-Kategorie:Mikrobiologie,Microbiology
-Kategorie:Mikroekonomie,Microeconomics
-Kategorie:Mineralogie,Mineralogy
-Kategorie:Minnesota,Minnesota
-Kategorie:Mississippi,Mississippi
-Kategorie:Missouri,Missouri
-Kategorie:Moldavsko,Moldova
-Kategorie:Molekulární biologie,Molecular biology
-Kategorie:Monako,Monaco
-Kategorie:Monarchie,Monarchy
-Kategorie:Mongolsko,Mongolia
-Kategorie:Montana,Montana
-Kategorie:Mosambik,Mozambique
-Kategorie:Moskva,Moscow
-Kategorie:Mosty,Bridges
-Kategorie:Myanmar,Burma
-Kategorie:Myanmar,Myanmar
-Kategorie:Mykologie,Mycology
-Kategorie:Mytologie,Mythology
-Kategorie:Móda,Fashion
-Kategorie:Měkkozobí,Columbiformes
-Kategorie:Měny,Currency
-Kategorie:Měření,Measurement
-Kategorie:NATO,NATO
-Kategorie:Nacionalismus,Nationalism
-Kategorie:Nacismus,Nazism
-Kategorie:Namibie,Namibia
-Kategorie:Nauru,Nauru
-Kategorie:Navigace,Navigation
-Kategorie:Nebeská mechanika,Celestial mechanics
-Kategorie:Nebraska,Nebraska
-Kategorie:Nepál,Nepal
-Kategorie:Nervová soustava,Nervous system
-Kategorie:Neurologie,Neurology
-Kategorie:Nevada,Nevada
-Kategorie:New Hampshire,New Hampshire
-Kategorie:New Jersey,New Jersey
-Kategorie:New York,New York City
-Kategorie:New York (stát),New York
-Kategorie:Niger,Niger
-Kategorie:Nigérie,Nigeria
-Kategorie:Nikaragua,Nicaragua
-Kategorie:Nizozemci,Dutch people
-Kategorie:Nizozemsko,Netherlands
-Kategorie:Nižší dvouděložné,Magnoliopsida
-Kategorie:Nobelova cena,Nobel Prize
-Kategorie:Norsko,Norway
-Kategorie:Nové Mexiko,New Mexico
-Kategorie:Nový Zéland,New Zealand
-Kategorie:Numizmatika,Numismatics
-Kategorie:Náboženství,Religion
-Kategorie:Nábytek,Furniture
-Kategorie:Německo,Germany
-Kategorie:Němčina,German language
-Kategorie:OSN,United Nations
-Kategorie:Obchod,Commerce
-Kategorie:Oběhová soustava,Cardiovascular system
-Kategorie:Oceánografie,Oceanography
-Kategorie:Oděvy,Clothing
-Kategorie:Ohio,Ohio
-Kategorie:Oklahoma,Oklahoma
-Kategorie:Olympijské hry,Olympics
-Kategorie:Omán,Oman
-Kategorie:Onkologie,Oncology
-Kategorie:Ontario,Ontario
-Kategorie:Optika,Optics
-Kategorie:Oregon,Oregon
-Kategorie:Organická chemie,Organic chemistry
-Kategorie:Ornitologie,Ornithology
-Kategorie:Osmanská říše,Ottoman Empire
-Kategorie:Ostrov Man,Isle of Man
-Kategorie:Ovoce,Fruit
-Kategorie:Palau,Palau
-Kategorie:Paleontologie,Paleontology
-Kategorie:Palestina,Palestine
-Kategorie:Panama,Panama
-Kategorie:Papua-Nová Guinea,Papua New Guinea
-Kategorie:Paraguay,Paraguay
-Kategorie:Paříž,Paris
-Kategorie:Pedagogika,Pedagogy
-Kategorie:Pensylvánie,Pennsylvania
-Kategorie:Peru,Peru
-Kategorie:Petrohrad,Saint Petersburg
-Kategorie:Pivo,Beer
-Kategorie:Plavání,Swimming
-Kategorie:Podnikatelé,Businesspeople
-Kategorie:Poezie,Poetry
-Kategorie:Policie,Law enforcement
-Kategorie:Politika,Politics
-Kategorie:Politologie,Political science
-Kategorie:Polsko,Poland
-Kategorie:Portoriko,Puerto Rico
-Kategorie:Portugalsko,Portugal
-Kategorie:Pouště,Deserts
-Kategorie:Počítače,Computing
-Kategorie:Počítačová grafika,Computer graphics
-Kategorie:Praha,Prague
-Kategorie:Pravděpodobnost,Probability theory
-Kategorie:Pravěk,Prehistory
-Kategorie:Primáti,Primates
-Kategorie:Program Apollo,Apollo program
-Kategorie:Programování,Computer programming
-Kategorie:Protisté,Protista
-Kategorie:První světová válka,World War I
-Kategorie:Právo,Law
-Kategorie:Průlivy,Straits
-Kategorie:Průmysl,Industry
-Kategorie:Pseudověda,Pseudoscience
-Kategorie:Psychiatrie,Psychiatry
-Kategorie:Psychologie,Psychology
-Kategorie:Punk,Punk
-Kategorie:Pákistán,Pakistan
-Kategorie:Pěvci,Passeriformes
-Kategorie:Příroda,Nature
-Kategorie:Québec (provincie),Quebec
-Kategorie:Rakousko,Austria
-Kategorie:Rasismus,Racism
-Kategorie:Renesance,Renaissance
-Kategorie:Republika Kongo,Republic of the Congo
-Kategorie:Rock,Rock music
-Kategorie:Rodina,Family
-Kategorie:Rovníková Guinea,Equatorial Guinea
-Kategorie:Rozcestníky,Disambiguation
-Kategorie:Rozhlas,Radio
-Kategorie:Rumunsko,Romania
-Kategorie:Rusko,Russia
-Kategorie:Rwanda,Rwanda
-Kategorie:Rybářství,Fishing
-Kategorie:Rétorika,Rhetoric
-Kategorie:Salvador,El Salvador
-Kategorie:Samoa,Samoa
-Kategorie:San Marino,San Marino
-Kategorie:Sasko,Saxony
-Kategorie:Saturn,Saturn
-Kategorie:Saúdská Arábie,Saudi Arabia
-Kategorie:Science fiction,Science fiction
-Kategorie:Seismologie,Seismology
-Kategorie:Senegal,Senegal
-Kategorie:Severní Amerika,North America
-Kategorie:Severní Dakota,North Dakota
-Kategorie:Severní Karolína,North Carolina
-Kategorie:Severní Korea,North Korea
-Kategorie:Severská mytologie,Norse mythology
-Kategorie:Sexualita,Sexuality
-Kategorie:Seychely,Seychelles
-Kategorie:Sicílie,Sicily
-Kategorie:Sierra Leone,Sierra Leone
-Kategorie:Singapur,Singapore
-Kategorie:Skandinávie,Scandinavia
-Kategorie:Skotsko,Scotland
-Kategorie:Slovensko,Slovakia
-Kategorie:Slovinsko,Slovenia
-Kategorie:Slunce,Sun
-Kategorie:Sluneční soustava,Solar System
-Kategorie:Smrt,Death
-Kategorie:Sochařství,Sculpture
-Kategorie:Socialismus,Socialism
-Kategorie:Sociologie,Sociology
-Kategorie:Software,Software
-Kategorie:Somálsko,Somalia
-Kategorie:Sovětský svaz,Soviet Union
-Kategorie:Spojené arabské emiráty,United Arab Emirates
-Kategorie:Spojené království,United Kingdom
-Kategorie:Spojené státy americké,United States
-Kategorie:Společnost,Society
-Kategorie:Srbsko,Serbia
-Kategorie:Srbsko a Černá Hora,Serbia and Montenegro
-Kategorie:Starověk,Ancient history
-Kategorie:Statistika,Statistics
-Kategorie:Stomatologie,Dentistry
-Kategorie:Strojírenství,Mechanical engineering
-Kategorie:Studená válka,Cold War
-Kategorie:Střední Amerika,Central America
-Kategorie:Středoafrická republika,Central African Republic
-Kategorie:Středověk,Middle Ages
-Kategorie:Středozemní moře,Mediterranean
-Kategorie:Surinam,Suriname
-Kategorie:Svatá Lucie,Saint Lucia
-Kategorie:Svatá říše římská,Holy Roman Empire
-Kategorie:Svatý Kryštof a Nevis,Saint Kitts and Nevis
-Kategorie:Svatý Vincenc a Grenadiny,Saint Vincent and the Grenadines
-Kategorie:Svazijsko,Swaziland
-Kategorie:Sémantika,Semantics
-Kategorie:Súdán,Sudan
-Kategorie:Sýrie,Syria
-Kategorie:Tanec,Dance
-Kategorie:Tanzanie,Tanzania
-Kategorie:Tchaj-wan,Taiwan
-Kategorie:Technologie,Technology
-Kategorie:Televize,Television
-Kategorie:Tenis,Tennis
-Kategorie:Tennessee,Tennessee
-Kategorie:Teologie,Theology
-Kategorie:Teorie množin,Set theory
-Kategorie:Termodynamika,Thermodynamics
-Kategorie:Terorismus,Terrorism
-Kategorie:Texas,Texas
-Kategorie:Thajsko,Thailand
-Kategorie:Tibet,Tibet
-Kategorie:Tichý oceán,Pacific Ocean
-Kategorie:Togo,Togo
-Kategorie:Tonga,Tonga
-Kategorie:Topologie,Topology
-Kategorie:Trestní právo,Criminal law
-Kategorie:Trinidad a Tobago,Trinidad and Tobago
-Kategorie:Trávicí soustava,Digestive system
-Kategorie:Tunisko,Tunisia
-Kategorie:Turecko,Turkey
-Kategorie:Turistika,Tourism
-Kategorie:Turkmenistán,Turkmenistan
-Kategorie:Tuvalu,Tuvalu
-Kategorie:Typografie,Typography
-Kategorie:Tádžikistán,Tajikistan
-Kategorie:Uganda,Uganda
-Kategorie:Ukrajina,Ukraine
-Kategorie:Umělá inteligence,Artificial intelligence
-Kategorie:Umění,Arts
-Kategorie:Unix,Unix
-Kategorie:Uran,Uranus
-Kategorie:Uruguay,Uruguay
-Kategorie:Utah,Utah
-Kategorie:Uzbekistán,Uzbekistan
-Kategorie:Vanuatu,Vanuatu
-Kategorie:Vatikán,Vatican City
-Kategorie:Velká francouzská revoluce,French Revolution
-Kategorie:Venezuela,Venezuela
-Kategorie:Vermont,Vermont
-Kategorie:Vietnam,Vietnam
-Kategorie:Virginie,Virginia
-Kategorie:Voda,Water
-Kategorie:Vojenství,Military
-Kategorie:Volejbal,Volleyball
-Kategorie:Vrubozobí,Anseriformes
-Kategorie:Vulkanologie,Volcanology
-Kategorie:Vzdělávání,Education
-Kategorie:Válka,War
-Kategorie:Válka ve Vietnamu,Vietnam War
-Kategorie:Vánoce,Christmas
-Kategorie:Vážná hudba,Classical music
-Kategorie:Vídeň,Vienna
-Kategorie:Víno,Wine
-Kategorie:Východní Timor,East Timor
-Kategorie:Výživa,Nutrition
-Kategorie:Včelařství,Beekeeping
-Kategorie:Věda,Science
-Kategorie:Wales,Wales
-Kategorie:Washington,Washington
-Kategorie:Wisconsin,Wisconsin
-Kategorie:World Wide Web,World Wide Web
-Kategorie:Wyoming,Wyoming
-Kategorie:Zambie,Zambia
-Kategorie:Zdraví,Health
-Kategorie:Země,Earth
-Kategorie:Zemědělství,Agriculture
-Kategorie:Zimbabwe,Zimbabwe
-Kategorie:Zimní olympijské hry,Winter Olympic Games
-Kategorie:Zoologie,Zoology
-Kategorie:Zábava a volný čas,Entertainment
-Kategorie:Západní Sahara,Western Sahara
-Kategorie:Západní Virginie,West Virginia
-Kategorie:Ázerbájdžán,Azerbaijan
-Kategorie:Írán,Iran
-Kategorie:Účetnictví,Accountancy
-Kategorie:Čad,Chad
-Kategorie:Čaj,Tea
-Kategorie:Čas,Time
-Kategorie:Černá Hora,Montenegro
-Kategorie:Česko,Czech Republic
-Kategorie:Československo,Czechoslovakia
-Kategorie:Čečensko,Chechnya
-Kategorie:Čína,China
-Kategorie:Čísla,Numbers
-Kategorie:Řecko,Greece
-Kategorie:Řecká mytologie,Greek mythology
-Kategorie:Řím,Rome
-Kategorie:Římská mytologie,Roman mythology
-Kategorie:Šachy,Chess
-Kategorie:Šalamounovy ostrovy,Solomon Islands
-Kategorie:Šlechtici,Nobility
-Kategorie:Španělsko,Spain
-Kategorie:Španělé,Spanish people
-Kategorie:Šrí Lanka,Sri Lanka
-Kategorie:Švédsko,Sweden
-Kategorie:Švýcarsko,Switzerland
-Kategorie:Švýcaři,Swiss people
-Kategorie:Život,Life
-Kategorie:Životní prostředí,Environment
-Kategorie:Žurnalistika,Journalism
+1728,1728
+70. léta 20. století,1970s
+Abcházie,Abkhazia
+Afghánistán,Afghanistan
+Afrika,Africa
+Akustika,Acoustics
+Alberta,Alberta
+Albánie,Albania
+Alchymie,Alchemy
+Algebra,Algebra
+Aljaška,Alaska
+Alpy,Alps
+Alternativní medicína,Alternative medicine
+Alžírsko,Algeria
+Americký fotbal,American football
+Anarchismus,Anarchism
+Anatomie,Anatomy
+Andorra,Andorra
+Anglie,England
+Angličané,English people
+Angličtina,English language
+Angola,Angola
+Anime,Anime
+Anorganická chemie,Inorganic chemistry
+Antarktida,Antarctica
+Antigua a Barbuda,Antigua and Barbuda
+Antisemitismus,Antisemitism
+Antropologie,Anthropology
+Archeologie,Archaeology
+Architektura,Architecture
+Argentina,Argentina
+Aritmetika,Arithmetic
+Arizona,Arizona
+Arkansas,Arkansas
+Arménie,Armenia
+Aruba,Aruba
+Asie,Asia
+Astrofyzika,Astrophysics
+Astrologie,Astrology
+Astronomie,Astronomy
+Asýrie,Assyria
+Ateismus,Atheism
+Atlantský oceán,Atlantic Ocean
+Atletika,Athletics
+Austrálie,Australia
+Austrálie a Oceánie,Oceania
+Bahamy,Bahamas
+Bahrajn,Bahrain
+Bakterie,Bacteria
+Balet,Ballet
+Bangladéš,Bangladesh
+Banky,Banks
+Barbados,Barbados
+Barcelona,Barcelona
+Baseball,Baseball
+Basketbal,Basketball
+Bavorsko,Bavaria
+Belgie,Belgium
+Belize,Belize
+Benin,Benin
+Berlín,Berlin
+Bermudy,Bermuda
+Bezpečnost,Security
+Bhútán,Bhutan
+Bible,Bible
+Biochemie,Biochemistry
+Biologie,Biology
+Biotechnologie,Biotechnology
+Blanokřídlí,Hymenoptera
+Blízký východ,Middle East
+Bolívie,Bolivia
+Bosna a Hercegovina,Bosnia and Herzegovina
+Botanika,Botany
+Botswana,Botswana
+Box,Boxing
+Boxeři,Boxers
+Brazílie,Brazil
+Britové,British people
+Brunej,Brunei
+Buddhismus,Buddhism
+Bukovité,Fagaceae
+Bulharsko,Bulgaria
+Burkina Faso,Burkina Faso
+Burundi,Burundi
+Byzantská říše,Byzantine Empire
+Bělorusko,Belarus
+Chemie,Chemistry
+Chile,Chile
+Chirurgie,Surgery
+Chorvatsko,Croatia
+Chronologie,Chronology
+Colorado,Colorado
+Cyklistika,Cycling
+Daně,Taxation
+Delaware,Delaware
+Demografie,Demography
+Demokratická republika Kongo,Democratic Republic of the Congo
+Design,Design
+Diplomacie,Diplomacy
+Divadlo,Theatre
+Dominika,Dominica
+Dominikánská republika,Dominican Republic
+Doprava,Transportation
+Dorozumívání,Communication
+Druhá světová válka,World War II
+Durynsko,Thuringia
+Dánsko,Denmark
+Dělostřelectvo,Artillery
+Džibutsko,Djibouti
+Egypt,Egypt
+Ekologie,Ecology
+Ekonomie,Economics
+Ekvádor,Ecuador
+Elektrochemie,Electrochemistry
+Elektromagnetismus,Electromagnetism
+Elektronika,Electronics
+Elektrotechnika,Electrical engineering
+Elektřina,Electricity
+Emoce,Emotion
+Endokrinologie,Endocrinology
+Energie,Energy
+Entomologie,Entomology
+Eritrea,Eritrea
+Esperanto,Esperanto
+Estonsko,Estonia
+Etika,Ethics
+Etiopie,Ethiopia
+Etnologie,Ethnology
+Evropa,Europe
+Evropská unie,European Union
+Faerské ostrovy,Faroe Islands
+Farmakologie,Pharmacology
+Fašismus,Fascism
+Federativní státy Mikronésie,Federated States of Micronesia
+Feminismus,Feminism
+Fidži,Fiji
+Filatelie,Philately
+Filipíny,Philippines
+Film,Film
+Filologie,Philology
+Filosofie,Philosophy
+Finsko,Finland
+Florida,Florida
+Folklór,Folklore
+Fonetika,Phonetics
+Fotbal,Football
+Fotbalisté,Football  players
+Fotbalové kluby,Football  clubs
+Fotbalové stadiony,Football  venues
+Fotbaloví trenéři,Football  managers
+Fotografie,Photography
+Francie,France
+Francouzi,French people
+Francouzská Polynésie,French Polynesia
+Frankfurt nad Mohanem,Frankfurt
+Fyzika,Physics
+Fyzika částic,Particle physics
+Fyzikální chemie,Physical chemistry
+Fyziologie,Physiology
+Gabon,Gabon
+Gambie,The Gambia
+Genealogie,Genealogy
+Genetika,Genetics
+Genocidy,Genocide
+Geodézie,Geodesy
+Geofyzika,Geophysics
+Geografie,Geography
+Geologie,Geology
+Geometrie,Geometry
+Geomorfologie,Geomorphology
+Georgie,Georgia
+Ghana,Ghana
+Gibraltar,Gibraltar
+Golf,Golf
+Goniometrie,Trigonometry
+Google,Google
+Gramatika,Grammar
+Grenada,Grenada
+Gruzie,Georgia
+Grónsko,Greenland
+Guatemala,Guatemala
+Guinea,Guinea
+Guinea-Bissau,Guinea-Bissau
+Guyana,Guyana
+Haiti,Haiti
+Hamburk,Hamburg
+Hardware,Computer hardware
+Havaj,Hawaii
+Heavy metal,Heavy metal
+Hematologie,Hematology
+Heraldika,Heraldry
+Hesensko,Hesse
+Hinduismus,Hinduism
+Histologie,Histology
+Historie,History
+Hlavní strana,Fundamental
+Honduras,Honduras
+Hongkong,Hong Kong
+Houby,Fungi
+Hrabaví,Galliformes
+Hudba,Music
+Humanitní a společenské vědy,Humanities
+Humor,Humor
+Hvězdnicovité,Asteraceae
+Hydrologie,Hydrology
+Hygiena,Hygiene
+Idaho,Idaho
+Illinois,Illinois
+Imunologie,Immunology
+Indiana,Indiana
+Indický oceán,Indian Ocean
+Indie,India
+Indonésie,Indonesia
+Informatika,Computer science
+Internet,Internet
+Inženýrství,Engineering
+Iowa,Iowa
+Irové,Irish people
+Irsko,Republic of Ireland
+Irsko,Ireland
+Irák,Iraq
+Island,Iceland
+Islám,Islam
+Istanbul,Istanbul
+Itálie,Italy
+Izrael,Israel
+Jaderná fyzika,Nuclear physics
+Jamajka,Jamaica
+Japonsko,Japan
+Jazz,Jazz
+Jemen,Yemen
+Jeruzalém,Jerusalem
+Jihoafrická republika,South Africa
+Jižní Amerika,South America
+Jižní Dakota,South Dakota
+Jižní Korea,South Korea
+Jordánsko,Jordan
+Judaismus,Judaism
+Jugoslávie,Yugoslavia
+Jupiter,Jupiter
+Kalifornie,California
+Kambodža,Cambodia
+Kamerun,Cameroon
+Kanada,Canada
+Kansas,Kansas
+Kanárské ostrovy,Canary Islands
+Kapverdy,Cape Verde
+Karibské moře,Caribbean
+Kartografie,Cartography
+Katalánsko,Catalonia
+Katar,Qatar
+Kavkaz,Caucasus
+Kazachstán,Kazakhstan
+Kentucky,Kentucky
+Keňa,Kenya
+Kiribati,Kiribati
+Klimatologie,Climatology
+Kolumbie,Colombia
+Komory,Comoros
+Komunismus,Communism
+Korea,Korea
+Kosmologie,Cosmology
+Kosovo,Kosovo
+Kostarika,Costa Rica
+Kosterní soustava,Skeletal system
+Kryptografie,Cryptography
+Krystalografie,Crystallography
+Kuba,Cuba
+Kultura,Culture
+Kuvajt,Kuwait
+Kypr,Cyprus
+Kyrgyzstán,Kyrgyzstan
+Káva,Coffee
+Křesťanství,Christianity
+Laos,Laos
+Lední hokej,Ice hockey
+Lesotho,Lesotho
+Letadla,Aircraft
+Letectví,Aviation
+Libanon,Lebanon
+Liberalismus,Liberalism
+Libye,Libya
+Libérie,Liberia
+Lichtenštejnsko,Liechtenstein
+Lidé,People
+Lineární algebra,Linear algebra
+Lingvistika,Linguistics
+Linux,Linux
+Literatura,Literature
+Litva,Lithuania
+Logika,Logic
+Londýn,London
+Lotyšsko,Latvia
+Louisiana,Louisiana
+Lucembursko,Luxembourg
+Lékařství,Medicine
+Madagaskar,Madagascar
+Magnetismus,Magnetism
+Makroekonomie,Macroeconomics
+Malajsie,Malaysia
+Malawi,Malawi
+Maledivy,Maldives
+Mali,Mali
+Malta,Malta
+Malířství,Painting
+Marketing,Marketing
+Maroko,Morocco
+Mars,Mars
+Marshallovy ostrovy,Marshall Islands
+Marxismus,Marxism
+Maryland,Maryland
+Massachusetts,Massachusetts
+Matematická logika,Mathematical logic
+Matematika,Mathematics
+Mauricius,Mauritius
+Mauritánie,Mauritania
+Maďarsko,Hungary
+Mechanika,Mechanics
+Metafyzika,Metaphysics
+Metalurgie,Metallurgy
+Meteorologie,Meteorology
+Metro,Rapid transit
+Mexiko,Mexico
+Mezinárodní právo,International law
+Mezopotámie,Mesopotamia
+Michigan,Michigan
+Mikrobiologie,Microbiology
+Mikroekonomie,Microeconomics
+Mineralogie,Mineralogy
+Minnesota,Minnesota
+Mississippi,Mississippi
+Missouri,Missouri
+Moldavsko,Moldova
+Molekulární biologie,Molecular biology
+Monako,Monaco
+Monarchie,Monarchy
+Mongolsko,Mongolia
+Montana,Montana
+Mosambik,Mozambique
+Moskva,Moscow
+Mosty,Bridges
+Myanmar,Burma
+Myanmar,Myanmar
+Mykologie,Mycology
+Mytologie,Mythology
+Móda,Fashion
+Měkkozobí,Columbiformes
+Měny,Currency
+Měření,Measurement
+NATO,NATO
+Nacionalismus,Nationalism
+Nacismus,Nazism
+Namibie,Namibia
+Nauru,Nauru
+Navigace,Navigation
+Nebeská mechanika,Celestial mechanics
+Nebraska,Nebraska
+Nepál,Nepal
+Nervová soustava,Nervous system
+Neurologie,Neurology
+Nevada,Nevada
+New Hampshire,New Hampshire
+New Jersey,New Jersey
+New York,New York City
+New York,New York
+Niger,Niger
+Nigérie,Nigeria
+Nikaragua,Nicaragua
+Nizozemci,Dutch people
+Nizozemsko,Netherlands
+Nižší dvouděložné,Magnoliopsida
+Nobelova cena,Nobel Prize
+Norsko,Norway
+Nové Mexiko,New Mexico
+Nový Zéland,New Zealand
+Numizmatika,Numismatics
+Náboženství,Religion
+Nábytek,Furniture
+Německo,Germany
+Němčina,German language
+OSN,United Nations
+Obchod,Commerce
+Oběhová soustava,Cardiovascular system
+Oceánografie,Oceanography
+Oděvy,Clothing
+Ohio,Ohio
+Oklahoma,Oklahoma
+Olympijské hry,Olympics
+Omán,Oman
+Onkologie,Oncology
+Ontario,Ontario
+Optika,Optics
+Oregon,Oregon
+Organická chemie,Organic chemistry
+Ornitologie,Ornithology
+Osmanská říše,Ottoman Empire
+Ostrov Man,Isle of Man
+Ovoce,Fruit
+Palau,Palau
+Paleontologie,Paleontology
+Palestina,Palestine
+Panama,Panama
+Papua-Nová Guinea,Papua New Guinea
+Paraguay,Paraguay
+Paříž,Paris
+Pedagogika,Pedagogy
+Pensylvánie,Pennsylvania
+Peru,Peru
+Petrohrad,Saint Petersburg
+Pivo,Beer
+Plavání,Swimming
+Podnikatelé,Businesspeople
+Poezie,Poetry
+Policie,Law enforcement
+Politika,Politics
+Politologie,Political science
+Polsko,Poland
+Portoriko,Puerto Rico
+Portugalsko,Portugal
+Pouště,Deserts
+Počítače,Computing
+Počítačová grafika,Computer graphics
+Praha,Prague
+Pravděpodobnost,Probability theory
+Pravěk,Prehistory
+Primáti,Primates
+Program Apollo,Apollo program
+Programování,Computer programming
+Protisté,Protista
+První světová válka,World War I
+Právo,Law
+Průlivy,Straits
+Průmysl,Industry
+Pseudověda,Pseudoscience
+Psychiatrie,Psychiatry
+Psychologie,Psychology
+Punk,Punk
+Pákistán,Pakistan
+Pěvci,Passeriformes
+Příroda,Nature
+Québec,Quebec
+Rakousko,Austria
+Rasismus,Racism
+Renesance,Renaissance
+Republika Kongo,Republic of the Congo
+Rock,Rock music
+Rodina,Family
+Rovníková Guinea,Equatorial Guinea
+Rozcestníky,Disambiguation
+Rozhlas,Radio
+Rumunsko,Romania
+Rusko,Russia
+Rwanda,Rwanda
+Rybářství,Fishing
+Rétorika,Rhetoric
+Salvador,El Salvador
+Samoa,Samoa
+San Marino,San Marino
+Sasko,Saxony
+Saturn,Saturn
+Saúdská Arábie,Saudi Arabia
+Science fiction,Science fiction
+Seismologie,Seismology
+Senegal,Senegal
+Severní Amerika,North America
+Severní Dakota,North Dakota
+Severní Karolína,North Carolina
+Severní Korea,North Korea
+Severská mytologie,Norse mythology
+Sexualita,Sexuality
+Seychely,Seychelles
+Sicílie,Sicily
+Sierra Leone,Sierra Leone
+Singapur,Singapore
+Skandinávie,Scandinavia
+Skotsko,Scotland
+Slovensko,Slovakia
+Slovinsko,Slovenia
+Slunce,Sun
+Sluneční soustava,Solar System
+Smrt,Death
+Sochařství,Sculpture
+Socialismus,Socialism
+Sociologie,Sociology
+Software,Software
+Somálsko,Somalia
+Sovětský svaz,Soviet Union
+Spojené arabské emiráty,United Arab Emirates
+Spojené království,United Kingdom
+Spojené státy americké,United States
+Společnost,Society
+Srbsko,Serbia
+Srbsko a Černá Hora,Serbia and Montenegro
+Starověk,Ancient history
+Statistika,Statistics
+Stomatologie,Dentistry
+Strojírenství,Mechanical engineering
+Studená válka,Cold War
+Střední Amerika,Central America
+Středoafrická republika,Central African Republic
+Středověk,Middle Ages
+Středozemní moře,Mediterranean
+Surinam,Suriname
+Svatá Lucie,Saint Lucia
+Svatá říše římská,Holy Roman Empire
+Svatý Kryštof a Nevis,Saint Kitts and Nevis
+Svatý Vincenc a Grenadiny,Saint Vincent and the Grenadines
+Svazijsko,Swaziland
+Sémantika,Semantics
+Súdán,Sudan
+Sýrie,Syria
+Tanec,Dance
+Tanzanie,Tanzania
+Tchaj-wan,Taiwan
+Technologie,Technology
+Televize,Television
+Tenis,Tennis
+Tennessee,Tennessee
+Teologie,Theology
+Teorie množin,Set theory
+Termodynamika,Thermodynamics
+Terorismus,Terrorism
+Texas,Texas
+Thajsko,Thailand
+Tibet,Tibet
+Tichý oceán,Pacific Ocean
+Togo,Togo
+Tonga,Tonga
+Topologie,Topology
+Trestní právo,Criminal law
+Trinidad a Tobago,Trinidad and Tobago
+Trávicí soustava,Digestive system
+Tunisko,Tunisia
+Turecko,Turkey
+Turistika,Tourism
+Turkmenistán,Turkmenistan
+Tuvalu,Tuvalu
+Typografie,Typography
+Tádžikistán,Tajikistan
+Uganda,Uganda
+Ukrajina,Ukraine
+Umělá inteligence,Artificial intelligence
+Umění,Arts
+Unix,Unix
+Uran,Uranus
+Uruguay,Uruguay
+Utah,Utah
+Uzbekistán,Uzbekistan
+Vanuatu,Vanuatu
+Vatikán,Vatican City
+Velká francouzská revoluce,French Revolution
+Venezuela,Venezuela
+Vermont,Vermont
+Vietnam,Vietnam
+Virginie,Virginia
+Voda,Water
+Vojenství,Military
+Volejbal,Volleyball
+Vrubozobí,Anseriformes
+Vulkanologie,Volcanology
+Vzdělávání,Education
+Válka,War
+Válka ve Vietnamu,Vietnam War
+Vánoce,Christmas
+Vážná hudba,Classical music
+Vídeň,Vienna
+Víno,Wine
+Východní Timor,East Timor
+Výživa,Nutrition
+Včelařství,Beekeeping
+Věda,Science
+Wales,Wales
+Washington,Washington
+Wisconsin,Wisconsin
+World Wide Web,World Wide Web
+Wyoming,Wyoming
+Zambie,Zambia
+Zdraví,Health
+Země,Earth
+Zemědělství,Agriculture
+Zimbabwe,Zimbabwe
+Zimní olympijské hry,Winter Olympic Games
+Zoologie,Zoology
+Zábava a volný čas,Entertainment
+Západní Sahara,Western Sahara
+Západní Virginie,West Virginia
+Ázerbájdžán,Azerbaijan
+Írán,Iran
+Účetnictví,Accountancy
+Čad,Chad
+Čaj,Tea
+Čas,Time
+Černá Hora,Montenegro
+Česko,Czech Republic
+Československo,Czechoslovakia
+Čečensko,Chechnya
+Čína,China
+Čísla,Numbers
+Řecko,Greece
+Řecká mytologie,Greek mythology
+Řím,Rome
+Římská mytologie,Roman mythology
+Šachy,Chess
+Šalamounovy ostrovy,Solomon Islands
+Šlechtici,Nobility
+Španělsko,Spain
+Španělé,Spanish people
+Šrí Lanka,Sri Lanka
+Švédsko,Sweden
+Švýcarsko,Switzerland
+Švýcaři,Swiss people
+Život,Life
+Životní prostředí,Environment
+Žurnalistika,Journalism
 Kateřina Aragonská,Catherine of Aragon
 Kateřina Parrová,Catherine Parr
 Katharine Hepburn,Katharine Hepburn
@@ -3333,7 +3333,7 @@ Kentucky,Kentucky
 Keporkak,Humpback Whale
 Keramika,Ceramic
 Kerberos,Cerberus
-Kernel,Kernel (computer science)
+Kernel,Kernel
 Ketony,Ketone
 Kečup,Ketchup
 Kečuánština,Quechua
@@ -3364,19 +3364,19 @@ Klasická mechanika,Classical mechanics
 Klaudios Ptolemaios,Ptolemy
 Klavír,Piano
 Kleió,Clio
-Kleopatra,Cleopatra (disambiguation)
+Kleopatra,Cleopatra
 Klient-server,Client-server
 Klimatologie,Climatology
 Klitoris,Clitoris
 Klokanovití,Kangaroo
 Klonování,Cloning
-Klopný obvod,Flip-flop (electronics)
+Klopný obvod,Flip-flop
 Kloub,Joint
 Kluzák,Glider
 Klávesový nástroj,Keyboard instrument
 Klášter,Monastery
-Klíč (hudba),Clef
-Kmen (biologie),Phylum
+Klíč,Clef
+Kmen,Phylum
 Kmenová buňka,Stem cell
 Kmitání,Oscillation
 Kneset,Knesset
@@ -3387,7 +3387,7 @@ Kniha Kazatel,Ecclesiastes
 Kniha Rút,Book of Ruth
 Kniha Soudců,Book of Judges
 Kniha žalmů,Psalms
-Knihovna (instituce),Library
+Knihovna,Library
 Knihtisk,Printing
 Knut Hamsun,Knut Hamsun
 Knóssos,Knossos
@@ -3401,9 +3401,9 @@ Kognitivní věda,Cognitive science
 Kojot prériový,Coyote
 Kokain,Cocaine
 Kokosovník ořechoplodý,Coconut
-Kokosové ostrovy,Cocos (Keeling) Islands
-Kola (nápoj),Cola
-Kola (poloostrov),Kola Peninsula
+Kokosové ostrovy,Cocos  Islands
+Kola,Cola
+Kola,Kola Peninsula
 Kolagen,Collagen
 Kolchida,Colchis
 Koleno,Knee
@@ -3427,7 +3427,7 @@ Komplexní číslo,Complex number
 Kompozitní materiál,Composite material
 Komunismus,Communism
 Komár,Mosquito
-Koncentrace (chemie),Concentration
+Koncentrace,Concentration
 Koncentrační tábor,Internment
 Kondenzátor,Capacitor
 Kondom,Condom
@@ -3437,7 +3437,7 @@ Konflikt,Conflict
 Konfucianismus,Confucianism
 Konfucius,Confucius
 Kongo,Congo
-Kongo (řeka),Congo River
+Kongo,Congo River
 Kongres Spojených států amerických,United States Congress
 Konqueror,Konqueror
 Konrad Adenauer,Konrad Adenauer
@@ -3450,7 +3450,7 @@ Kontinentální šelf,Continental shelf
 Kontrabas,Double bass
 Kontrapunkt,Counterpoint
 Konzervatismus,Conservatism
-Konzul (antický Řím),Consul
+Konzul,Consul
 Kopí,Spear
 Korea,Korea
 Korejská válka,Korean War
@@ -3474,10 +3474,10 @@ Kosovo,Kosovo
 Kosočtverec,Rhombus
 Kost,Bone
 Kostarika,Costa Rica
-Kostel,Church (building)
+Kostel,Church
 Kosticovci,Baleen whale
 Kostní dřeň,Bone marrow
-Kotva (lodní),Anchor
+Kotva,Anchor
 Koule,Sphere
 Kov,Metal
 Kovalentní vazba,Covalent bond
@@ -3485,7 +3485,7 @@ Kovová vazba,Metallic bond
 Kočka divoká,Wildcat
 Kočka domácí,Cat
 Kočkovití,Felidae
-Koňak,Cognac (drink)
+Koňak,Cognac
 Koňovití,Equidae
 Koňská síla,Horsepower
 Kořen,Root
@@ -3508,11 +3508,11 @@ Krkavcovití,Corvidae
 Krokodýl nilský,Nile crocodile
 Krokodýli,Crocodilia
 Kronos,Cronus
-Kroupy (meteorologie),Hail
+Kroupy,Hail
 Kroutící moment,Torque
 Kroužkovci,Annelid
 Kružnice,Circle
-Kružítko,Compass (drafting)
+Kružítko,Compass
 Krychle,Cube
 Krym,Crimea
 Krymská válka,Crimean War
@@ -3522,7 +3522,7 @@ Krystal,Crystal
 Krystalografie,Crystallography
 Krytosemenné,Flowering plant
 Kryštof Kolumbus,Christopher Columbus
-Král (šachy),King (chess)
+Král,King
 Král Artuš,King Arthur
 Král Lear,King Lear
 Krátkokřídlí,Gruiformes
@@ -3539,11 +3539,11 @@ Kuiperův pás,Kuiper belt
 Kukačky,Cuculiformes
 Kukuřice,Maize
 Kulomet,Machine gun
-Kultura (sociologie),Culture
+Kultura,Culture
 Kulturistika,Bodybuilding
 Kulturní revoluce,Cultural Revolution
 Kumquat,Kumquat
-Kung-fu,Kung fu (term)
+Kung-fu,Kung fu
 Kuomintang,Kuomintang
 Kupole,Dome
 Kur domácí,Chicken
@@ -3554,9 +3554,9 @@ Kursk,Kursk
 Kurt Vonnegut,Kurt Vonnegut
 Kurt Waldheim,Kurt Waldheim
 Kuvajt,Kuwait
-Kuvajt (město),Kuwait City
+Kuvajt,Kuwait City
 Kuše,Crossbow
-Kužel,Cone (geometry)
+Kužel,Cone
 Kuželosečka,Conic section
 Kvadratická rovnice,Quadratic equation
 Kvakeři,Religious Society of Friends
@@ -3566,8 +3566,8 @@ Kvark,Quark
 Kvasar,Quasar
 Kvasinky,Yeast
 Kvaternion,Quaternion
-Kvašení,Fermentation (biochemistry)
-Kvašení,Fermentation (food)
+Kvašení,Fermentation
+Kvašení,Fermentation
 Květ,Flower
 Květen,May
 Květná neděle,Palm Sunday
@@ -3617,18 +3617,18 @@ Křivka,Curve
 Křižník,Cruiser
 Křída,Cretaceous
 Kříž,Cross
-Křížení (biologie),Hybrid
+Křížení,Hybrid
 Kůň,Horse
 Kůže,Skin
 L,L
-LAMP,LAMP (software bundle)
+LAMP,LAMP
 LED,Light-emitting diode
 La Paz,La Paz
 La Spezia,La Spezia
 LaTeX,LaTeX
 Labe,Elbe
 Laboratoř,Laboratory
-Labouristická strana,Labour Party (UK)
+Labouristická strana,Labour Party
 Labradorský retrívr,Labrador Retriever
 Labuť,Swan
 Labuť velká,Mute Swan
@@ -3642,7 +3642,7 @@ Lamanšský průliv,English Channel
 Languedoc-Roussillon,Languedoc-Roussillon
 Lanthan,Lanthanum
 Lanthanoidy,Lanthanide
-Lanýž,Tuber (genus)
+Lanýž,Tuber
 Laos,Laos
 Larva,Larva
 Las Vegas,Las Vegas
@@ -3673,7 +3673,7 @@ Leicester,Leicester
 Leiden,Leiden
 Leknínovité,Nymphaeaceae
 Lena,Lena River
-Leon I.,Leo I (emperor)
+Leon I.,Leo I
 Leonard Bernstein,Leonard Bernstein
 Leonardo da Vinci,Leonardo da Vinci
 Leonhard Euler,Leonhard Euler
@@ -3708,7 +3708,7 @@ Lhasa,Lhasa
 Lhotse,Lhotse
 Libanon,Lebanon
 Liberalismus,Liberalism
-Libra (hmotnost),Pound (mass)
+Libra,Pound
 Libra šterlinků,Pound sterling
 Libreto,Libretto
 Libreville,Libreville
@@ -3727,9 +3727,9 @@ Lilith,Lilith
 Lille,Lille
 Lilongwe,Lilongwe
 Lima,Lima
-Limita,Limit (mathematics)
+Limita,Limit
 Limnologie,Limnology
-Limousin,Limousin (region)
+Limousin,Limousin
 Lincoln,Lincoln
 Linec,Linz
 Lineární algebra,Linear algebra
@@ -3743,7 +3743,7 @@ Lipnicovité,Poaceae
 Lipsko,Leipzig
 Lisabon,Lisbon
 Lise Meitner,Lise Meitner
-Lisp,Lisp (programming language)
+Lisp,Lisp
 List,Leaf
 List Galatským,Epistle to the Galatians
 List Římanům,Epistle to the Romans
@@ -3759,8 +3759,8 @@ Livius,Livy
 Livonsko,Livonia
 Liči,Lychee
 Lišejník,Lichen
-Liška (říše živočichů),Fox
-Liška obecná (šelma),Red Fox
+Liška,Fox
+Liška obecná,Red Fox
 Liška polární,Arctic fox
 Local Area Network,Local area network
 Loch Ness,Loch Ness
@@ -3772,7 +3772,7 @@ Logika,Logic
 Logistika,Logistics
 Logo,Logo
 Loira,Loire River
-Loire (departement),Loire
+Loire,Loire
 Loki,Loki
 Lokomotiva,Locomotive
 Lolita,Lolita
@@ -3785,8 +3785,8 @@ Lopatka,Scapula
 Lope de Vega,Lope de Vega
 Los Angeles,Los Angeles
 Los evropský,Moose
-Lot (departement),Lot (department)
-Lotrinsko,Lorraine (region)
+Lot,Lot
+Lotrinsko,Lorraine
 Lotyšsko,Latvia
 Louis Aragon,Louis Aragon
 Louis Armstrong,Louis Armstrong
@@ -3801,7 +3801,7 @@ Loď,Ship
 Luanda,Luanda
 Lublaň,Ljubljana
 Lublin,Lublin
-Lucemburk,Luxembourg (city)
+Lucemburk,Luxembourg
 Lucembursko,Luxembourg
 Lucern,Lucerne
 Luciano Pavarotti,Luciano Pavarotti
@@ -3816,8 +3816,8 @@ Ludwig van Beethoven,Ludwig van Beethoven
 Luftwaffe,Luftwaffe
 Luigi Galvani,Luigi Galvani
 Luigi Pirandello,Luigi Pirandello
-Luk,Bow (weapon)
-Lumen,Lumen (unit)
+Luk,Bow
+Lumen,Lumen
 Luminiscence,Luminescence
 Lund,Lund
 Lupa,Magnifying glass
@@ -3825,13 +3825,13 @@ Lusaka,Lusaka
 Lusitánie,Lusitania
 Lutecium,Lutetium
 Luteránství,Lutheranism
-Lux (světlo),Lux
+Lux,Lux
 Luxor,Luxor
 Luzon,Luzon
 Lučavka královská,Aqua regia
 Luňák hnědý,Black Kite
 Lymfatická soustava,Lymphatic system
-Lynx,Lynx (web browser)
+Lynx,Lynx
 Lyon,Lyon
 Lysin,Lysine
 Lyzozom,Lysosome
@@ -3840,33 +3840,33 @@ Láhaur,Lahore
 Láhev,Bottle
 Láska,Love
 Láva,Lava
-Léda,Leda (mythology)
+Léda,Leda
 Lékařství,Medicine
 Lékořice lysá,Liquorice
 Léto,Summer
 Létó,Leto
 Léčivo,Medication
-Lípa (rod),Tilia
+Lípa,Tilia
 Lýdie,Lydia
 M,M
 MESSENGER,MESSENGER
 MRNA,Messenger RNA
 MS-DOS,MS-DOS
 Macao,Macau
-Macbeth (drama),Macbeth
+Macbeth,Macbeth
 Machovo číslo,Mach number
 Machu Picchu,Machu Picchu
 Macintosh,Macintosh
 Madagaskar,Madagascar
-Madeira (souostroví),Madeira
+Madeira,Madeira
 Madison,Madison
-Madonna,Madonna (entertainer)
+Madonna,Madonna
 Madrid,Madrid
-Madrid (společenství),Madrid (autonomous community)
+Madrid,Madrid
 Mafie,Mafia
 Magalhãesův průliv,Strait of Magellan
 Maghreb,Maghreb
-Magie (esoterismus),Magic (paranormal)
+Magie,Magic
 Maginotova linie,Maginot Line
 Magma,Magma
 Magmatická hornina,Igneous rock
@@ -3886,12 +3886,12 @@ Major,Major
 Maják,Lighthouse
 Makalu,Makalu
 Makedonie,Macedonia
-Makedonie (řecká),Macedonia (Greece)
+Makedonie,Macedonia
 Makroekonomie,Macroeconomics
 Malachit,Malachite
 Malajsie,Malaysia
 Malajský poloostrov,Malay Peninsula
-Malawi (jezero),Lake Malawi
+Malawi,Lake Malawi
 Maledivy,Maldives
 Mali,Mali
 Mallorca,Majorca
@@ -3942,14 +3942,14 @@ Marduk,Marduk
 Margaret Meadová,Margaret Mead
 Margaret Mitchell,Margaret Mitchell
 Margaret Thatcherová,Margaret Thatcher
-Maria,Mary (mother of Jesus)
+Maria,Mary
 Maria Callas,Maria Callas
 Maria Curie-Skłodowska,Marie Curie
 Mariany,Mariana Islands
 Marie Antoinetta,Marie Antoinette
 Marie Magdalena,Mary Magdalene
 Mariehamn,Mariehamn
-Marihuana,Cannabis (drug)
+Marihuana,Cannabis
 Marilyn Monroe,Marilyn Monroe
 Mario Vargas Llosa,Mario Vargas Llosa
 Mark Twain,Mark Twain
@@ -3958,8 +3958,8 @@ Marlene Dietrich,Marlene Dietrich
 Marmarské moře,Sea of Marmara
 Maroko,Morocco
 Marrákeš,Marrakech
-Mars,Mars (disambiguation)
-Mars (mytologie),Mars (mythology)
+Mars,Mars
+Mars,Mars
 Marseille,Marseille
 Marshallovy ostrovy,Marshall Islands
 Marshallův plán,Marshall Plan
@@ -3993,7 +3993,7 @@ Matematika,Mathematics
 Materialismus,Materialism
 Mateřská škola,Kindergarten
 Mateřský jazyk,First language
-Matice,Matrix (mathematics)
+Matice,Matrix
 Matka,Mother
 Matka Tereza,Mother Teresa
 Matterhorn,Matterhorn
@@ -4008,12 +4008,12 @@ Max Ernst,Max Ernst
 Max Planck,Max Planck
 Max Weber,Max Weber
 Maxwellovy rovnice,Maxwell's equations
-Mayenne (departement),Mayenne
+Mayenne,Mayenne
 Maďarsko,Hungary
 Mašhad,Mashhad
 Mbabane,Mbabane
 Mccarthysmus,McCarthyism
-Mechanický pohyb,Motion (physics)
+Mechanický pohyb,Motion
 Mechanika,Mechanics
 Mechanika tekutin,Fluid mechanics
 Mechy,Moss
@@ -4053,7 +4053,7 @@ Mentální anorexie,Anorexia nervosa
 Meritokracie,Meritocracy
 Merkantilismus,Mercantilism
 Merkur,Mercury
-Merkur (planeta),Mercury (planet)
+Merkur,Mercury
 Merovejci,Merovingian
 Meruňka obecná,Apricot
 Meryl Streep,Meryl Streep
@@ -4075,13 +4075,13 @@ Meteoroid,Meteoroid
 Meteorologie,Meteorology
 Methanol,Methanol
 Methionin,Methionine
-Metis (měsíc),Metis (moon)
+Metis,Metis
 Metonymie,Metonymy
 Metr,Metre
 Metr krychlový,Cubic metre
 Metr čtvereční,Square metre
 Metrický prostor,Metric space
-Meuse (departement),Meuse
+Meuse,Meuse
 Mexický záliv,Gulf of Mexico
 Mexiko,Mexico
 Mezikontinentální balistická raketa,Intercontinental ballistic missile
@@ -4100,7 +4100,7 @@ Mezozoikum,Mesozoic
 Meč,Sword
 Mešita,Mosque
 Miami,Miami
-Michael (archanděl),Michael (archangel)
+Michael,Michael
 Michael Faraday,Michael Faraday
 Michail Alexandrovič Bakunin,Mikhail Bakunin
 Michail Ivanovič Glinka,Mikhail Glinka
@@ -4131,21 +4131,21 @@ Milán,Milan
 Minaret,Minaret
 Mindanao,Mindanao
 Mineralogie,Mineralogy
-Minerva (mytologie),Minerva
+Minerva,Minerva
 Minerál,Mineral
 Minerální voda,Mineral water
 Minimalismus,Minimalism
-Ministr,Minister (government)
+Ministr,Minister
 Minneapolis,Minneapolis
 Minnesota,Minnesota
-Minomet,Mortar (weapon)
+Minomet,Mortar
 Minsk,Minsk
 Minuta,Minute
 Miocén,Miocene
 Mion,Muon
-Mississippi (řeka),Mississippi River
+Mississippi,Mississippi River
 Missouri,Missouri
-Missouri (řeka),Missouri River
+Missouri,Missouri River
 Mistr Eckhart,Meister Eckhart
 Mitochondrie,Mitochondrion
 Miřík celer,Celery
@@ -4174,7 +4174,7 @@ Mohamed,Muhammad
 Mohan,Main
 Moiry,Moirae
 Mojžíš,Moses
-Mol (jednotka),Mole (unit)
+Mol,Mole
 Moldavsko,Moldova
 Molekula,Molecule
 Molekulární biologie,Molecular biology
@@ -4189,10 +4189,10 @@ Monako,Monaco
 Mongolsko,Mongolia
 Monika Selešová,Monica Seles
 Monismus,Monism
-Monitor (obrazovka),Computer display
+Monitor,Computer display
 Monomer,Monomer
 Monopol,Monopoly
-Monopoly,Monopoly (game)
+Monopoly,Monopoly
 Monosacharidy,Monosaccharide
 Monoteismus,Monotheism
 Monroeova doktrína,Monroe Doctrine
@@ -4202,7 +4202,7 @@ Montana,Montana
 Monte Carlo,Monte Carlo
 Montevideo,Montevideo
 Montreal,Montreal
-Montserrat (ostrov),Montserrat
+Montserrat,Montserrat
 Monzun,Monsoon
 Mor,Bubonic plague
 Morava,Moravia
@@ -4299,7 +4299,7 @@ Město,Town
 Měsíc,Moon
 Měď,Copper
 Měření,Measurement
-Mše,Mass (liturgy)
+Mše,Mass
 N,N
 NASDAQ,NASDAQ
 NSA,National Security Agency
@@ -4316,16 +4316,16 @@ Nairobi,Nairobi
 Nakloněná rovina,Inclined plane
 Namib,Namib Desert
 Namibie,Namibia
-Namur,Namur (city)
+Namur,Namur
 Nancy,Nancy
 Nanga Parbat,Nanga Parbat
 Nanking,Nanjing
 Nanotechnologie,Nanotechnology
 Nantes,Nantes
 Napalm,Napalm
-Narkissos,Narcissus (mythology)
+Narkissos,Narcissus
 Nashville,Nashville
-Nassau (Bahamy),Nassau
+Nassau,Nassau
 Nathaniel Hawthorne,Nathaniel Hawthorne
 Nationalsozialistische Deutsche Arbeiterpartei,Nazi Party
 Naturismus,Naturism
@@ -4342,7 +4342,7 @@ Neckar,Neckar
 Neděle,Sunday
 Nefertiti,Nefertiti
 Negevská poušť,Negev
-Nehet,Nail (anatomy)
+Nehet,Nail
 Neil Armstrong,Neil Armstrong
 Nejsvětější Trojice,Trinity
 Nejvyšší soud Spojených států amerických,Supreme Court of the United States
@@ -4350,18 +4350,18 @@ Největší společný dělitel,Greatest common divisor
 Nekonečno,Infinity
 Nekov,Nonmetal
 Nelson Mandela,Nelson Mandela
-Nemesis (mytologie),Nemesis (mythology)
+Nemesis,Nemesis
 Nemoc,Disease
 Nemocnice,Hospital
 Neodym,Neodymium
 Neolit,Neolithic
 Neologismus,Neologism
 Neon,Neon
-Neptun (planeta),Neptune
+Neptun,Neptune
 Neptunium,Neptunium
 Nepál,Nepal
 Nero,Nero
-Nerovnost (matematika),Inequality
+Nerovnost,Inequality
 Nerva,Nerva
 Nervová soustava,Nervous system
 Nestoriánství,Nestorianism
@@ -4379,11 +4379,11 @@ New Hampshire,New Hampshire
 New Jersey,New Jersey
 New Orleans,New Orleans
 New York,New York City
-New York (rozcestník),New York (disambiguation)
-New York (stát),New York
+New York,New York
+New York,New York
 New York Stock Exchange,New York Stock Exchange
 Newark,Newark
-Newfoundland,Newfoundland (island)
+Newfoundland,Newfoundland
 Newfoundland a Labrador,Newfoundland and Labrador
 Newport,Newport
 Newton,Newton
@@ -4398,7 +4398,7 @@ Nicolas Poussin,Nicolas Poussin
 Niels Bohr,Niels Bohr
 Niels Henrik Abel,Niels Henrik Abel
 Niger,Niger
-Niger (řeka),Niger River
+Niger,Niger River
 Nigérie,Nigeria
 Nihilismus,Nihilism
 Nijmegen,Nijmegen
@@ -4412,9 +4412,9 @@ Nil,Nile
 Nindža,Ninja
 Ninive,Nineveh
 Niob,Niobium
-Nirvána (buddhismus),Nirvana
+Nirvána,Nirvana
 Nitroglycerin,Nitroglycerin
-Nix (měsíc),Nix (moon)
+Nix,Nix
 Nizozemsko,Netherlands
 Nizozemské Antily,Netherlands Antilles
 Njörd,Njord
@@ -4424,8 +4424,8 @@ Nobelova cena,Nobel Prize
 Noc,Night
 Noe,Noah
 Nominativ,Nominative case
-Norfolk (anglické hrabství),Norfolk
-Norfolk (ostrov),Norfolk Island
+Norfolk,Norfolk
+Norfolk,Norfolk Island
 Norimberk,Nuremberg
 Norman Mailer,Norman Mailer
 Normandie,Normandy
@@ -4460,13 +4460,13 @@ Nukleon,Nucleon
 Nukleonové číslo,Mass number
 Nukleotid,Nucleotide
 Nukleová kyselina,Nucleic acid
-Nula,0 (number)
+Nula,0
 Numeri,Book of Numbers
 Numidie,Numidia
 Numizmatika,Numismatics
 Nunavut,Nunavut
 Nymfy,Nymph
-Nyx,Nyx (mythology)
+Nyx,Nyx
 N'Djamena,N'Djamena
 Náboženství,Religion
 Nábytek,Furniture
@@ -4481,11 +4481,11 @@ Násilí,Violence
 Násobení,Multiplication
 Nástroj,Tool
 Nářečí,Dialect
-Níké,Nike (mythology)
+Níké,Nike
 Německo,Germany
 Německá demokratická republika,East Germany
 Německá marka,German mark
-Německý boxer,Boxer (dog)
+Německý boxer,Boxer
 Německý ovčák,German Shepherd Dog
 Němčina,German language
 Něva,Neva River
@@ -4535,7 +4535,7 @@ Odysseus,Odysseus
 Odčítání,Subtraction
 Oděsa,Odessa
 Oděv,Clothing
-Ofsajd,Offside (football)
+Ofsajd,Offside
 Oheň,Fire
 Ohio,Ohio
 Ohm,Ohm
@@ -4548,9 +4548,9 @@ Oklahoma,Oklahoma
 Oklahoma City,Oklahoma City
 Okno,Window
 Oko,Eye
-Okruh (algebra),Ring (mathematics)
+Okruh,Ring
 Oktoberfest,Oktoberfest
-Oktáva (hudba),Octave
+Oktáva,Octave
 Okurka setá,Cucumber
 Olej,Oil
 Olejomalba,Oil painting
@@ -4565,42 +4565,42 @@ Oltář,Altar
 Olymp,Mount Olympus
 Olympie,Olympia
 Olympijské hry,Olympic Games
-Olše (strom),Alder
+Olše,Alder
 Omaha,Omaha
 Omsk,Omsk
 Omán,Oman
 Ománský záliv,Gulf of Oman
 Omáčka,Sauce
 Onomastika,Onomastics
-Ontario (jezero),Lake Ontario
-Ontario (provincie),Ontario
+Ontario,Lake Ontario
+Ontario,Ontario
 Ontologie,Ontology
 Oněžské jezero,Lake Onega
 Oortův oblak,Oort cloud
 Opat,Abbot
 Opel,Opel
 Opera,Opera
-Opera (prohlížeč),Opera (Internet suite)
+Opera,Opera
 Operační systém,Operating system
 Opereta,Operetta
 Opium,Opium
 Oplodnění,Fertilisation
 Optické vlákno,Optical fiber
-Optický hranol,Prism (optics)
+Optický hranol,Prism
 Optický klam,Optical illusion
 Optika,Optics
-Optimalizace,Optimization (mathematics)
+Optimalizace,Optimization
 Opylení,Pollination
 Opál,Opal
 Orangutan,Orangutan
-Oranžová,Orange (colour)
+Oranžová,Orange
 Oratorium,Oratorio
 Orchestr,Orchestra
 Ordovik,Ordovician
 Oregon,Oregon
 Orel,Eagle
 Orel skalní,Golden Eagle
-Orestés,Orestes (mythology)
+Orestés,Orestes
 Orfeus,Orpheus
 Organická chemie,Organic chemistry
 Organická sloučenina,Organic compound
@@ -4611,7 +4611,7 @@ Organizace pro výživu a zemědělství,Food and Agriculture Organization
 Organizace spojených národů,United Nations
 Organizace zemí vyvážejících ropu,OPEC
 Orgasmus,Orgasm
-Orgán,Organ (anatomy)
+Orgán,Organ
 Origami,Origami
 Orinoco,Orinoco
 Orlando,Orlando
@@ -4635,7 +4635,7 @@ Ostrov prince Edwarda,Prince Edward Island
 Ostružiník maliník,Rubus idaeus
 Ota I. Veliký,Otto I
 Otazník,Question mark
-Othello (drama),Othello
+Othello,Othello
 Otho,Otho
 Otrokářství,Slavery
 Ottawa,Ottawa
@@ -4662,7 +4662,7 @@ Oxytocin,Oxytocin
 Ozubené kolo,Gear
 Ozón,Ozone
 Oáza,Oasis
-Oříšek (plod),Nut (fruit)
+Oříšek,Nut
 P,P
 PAL,PAL
 Pablo Neruda,Pablo Neruda
@@ -4686,8 +4686,8 @@ Palladium,Palladium
 Palmýra,Palmyra
 Palná zbraň,Firearm
 Pamír,Pamir Mountains
-Paměť (psychologie),Memory
-Pan (mytologie),Pan (mythology)
+Paměť,Memory
+Pan,Pan
 Panama,Panama
 Panamská šíje,Isthmus of Panama
 Panamský průplav,Panama Canal
@@ -4709,7 +4709,7 @@ Papežský stát,Papal States
 Papoušci,Parrot
 Papua-Nová Guinea,Papua New Guinea
 Papyrus,Papyrus
-Parabola (matematika),Parabola
+Parabola,Parabola
 Paracelsus,Paracelsus
 Paradigma,Paradigm
 Paradox,Paradox
@@ -4721,7 +4721,7 @@ Paramaribo,Paramaribo
 Paranoia,Paranoia
 Parazitismus,Parasitism
 Parfém,Perfume
-Paris (mytologie),Paris (mythology)
+Paris,Paris
 Parkinsonova nemoc,Parkinson's disease
 Parlament,Parliament
 Parmenidés,Parmenides
@@ -4730,16 +4730,16 @@ Parodie,Parody
 Parsek,Parsec
 Parthenón,Parthenon
 Parthská říše,Parthia
-Parti socialiste,Socialist Party (France)
+Parti socialiste,Socialist Party
 Paryby,Chondrichthyes
-Pascal,Pascal (unit)
-Pascal (programovací jazyk),Pascal (programming language)
-Pascal (rozcestník),Pascal
+Pascal,Pascal
+Pascal,Pascal
+Pascal,Pascal
 Pasterizace,Pasteurization
 Patagonie,Patagonia
 Patent,Patent
 Patologie,Pathology
-Patriarchát (územní členění církve),Patriarch
+Patriarchát,Patriarch
 Patrick White,Patrick White
 Patriotismus,Patriotism
 Paul Gauguin,Paul Gauguin
@@ -4755,7 +4755,7 @@ Pavouci,Spider
 Pavoukovci,Arachnid
 Pays de la Loire,Pays de la Loire
 Pazourek,Flint
-Paňdžáb (indický stát),Punjab (India)
+Paňdžáb,Punjab
 Paříž,Paris
 Pažní kost,Humerus
 Pchjongjang,Pyongyang
@@ -4767,7 +4767,7 @@ Peking,Beijing
 Peklo,Hell
 Peloponés,Peloponnese
 Peloponéská válka,Peloponnesian War
-Pelyněk,Artemisia (plant)
+Pelyněk,Artemisia
 Pelyněk estragon,Tarragon
 Pelyněk pravý,Artemisia absinthium
 Penicilín,Penicillin
@@ -4785,7 +4785,7 @@ Periklés,Pericles
 Periodická tabulka,Periodic table
 Perla,Pearl
 Perm,Permian
-Perm (město),Perm
+Perm,Perm
 Permafrost,Permafrost
 Permutace,Permutation
 Peroxid vodíku,Hydrogen peroxide
@@ -4803,28 +4803,28 @@ Pesach,Passover
 Pesticid,Pesticide
 Peter Paul Rubens,Peter Paul Rubens
 Peter Sellers,Peter Sellers
-Petr (apoštol),Saint Peter
+Petr,Saint Peter
 Petrohrad,Saint Petersburg
 Petrolej,Kerosene
 Petrologie,Petrology
 Petrović Njegoš,Nicholas
 Petržel,Parsley
 Pevninská šíje,Isthmus
-Pevnost (stavba),Fortification
+Pevnost,Fortification
 Pevná látka,Solid
 Pevná látka,Solid state
 Peří,Feather
 "Philip, vévoda z Edinburghu",Prince Philip
 Philipp Eduard Anton von Lenard,Philipp Lenard
 Phnompenh,Phnom Penh
-Phobos (měsíc),Phobos (moon)
+Phobos,Phobos
 Phoenix,Phoenix
-Phoenix (Arizona),Phoenix
-Phoenix (sonda),Phoenix (spacecraft)
-Pidgin,Pidgin (software)
+Phoenix,Phoenix
+Phoenix,Phoenix
+Pidgin,Pidgin
 Pidžin,Pidgin
 Piemont,Piedmont
-Pierre (USA),Pierre
+Pierre,Pierre
 Pierre Abélard,Peter Abelard
 Pierre Curie,Pierre Curie
 Pierre de Fermat,Pierre de Fermat
@@ -4835,7 +4835,7 @@ Pikardie,Picardie
 Pilát Pontský,Pontius Pilate
 Pinatubo,Mount Pinatubo
 Pindaros,Pindar
-Ping (počítačová síť),Ping
+Ping,Ping
 Pipin III. Krátký,Pepin the Short
 Pirát,Piracy
 Pisa,Pisa
@@ -4857,12 +4857,12 @@ Platón,Plato
 Plavání,Swimming
 Playboy,Playboy
 Plazi,Reptile
-Plazma (fyzika),Plasma (physics)
+Plazma,Plasma
 Plazmid,Plasmid
 Pleistocén,Pleistocene
 Plejtvák myšok,Fin Whale
 Plejtvák obrovský,Blue Whale
-Plejády,Pleiades (star cluster)
+Plejády,Pleiades
 Pleven,Pleven
 Plinius mladší,Pliny the Younger
 Plinius starší,Pliny the Elder
@@ -4873,8 +4873,8 @@ Plovdiv,Plovdiv
 Ploštěnci,Flatworm
 Pluk,Regiment
 Plukovník,Colonel
-Pluto,Pluto (disambiguation)
-Pluto (plutoid),Pluto
+Pluto,Pluto
+Pluto,Pluto
 Plutonium,Plutonium
 Plymouth,Plymouth
 Plyn,Gas
@@ -4909,7 +4909,7 @@ Poitou-Charentes,Poitou-Charentes
 Pojivová tkáň,Connective tissue
 Poker,Poker
 Pokus,Experiment
-Poledník,Meridian (geography)
+Poledník,Meridian
 Polibek,Kiss
 Policie,Police
 Politická strana,Political party
@@ -4931,9 +4931,9 @@ Polynésie,Polynesia
 Polyteismus,Polytheism
 Polyvinylchlorid,Polyvinyl chloride
 Polárka,Polaris
-Polární záře,Aurora (astronomy)
+Polární záře,Aurora
 Polévka,Soup
-Pomeranč,Orange (fruit)
+Pomeranč,Orange
 Pompeius,Pompey
 Pompeje,Pompeii
 Pondělí,Monday
@@ -4957,14 +4957,14 @@ Portoriko,Puerto Rico
 Portrét,Portrait
 Portsmouth,Portsmouth
 Portugalsko,Portugal
-Portál:Astronomie,Astronomy
-Portál:Biologie,Biology
-Portál:Chemie,Chemistry
-Portál:Fyzika,Physics
-Portál:Geografie,Geography
-Portál:Historie,History
-Portál:Literatura,Literature
-Portál:Matematika,Mathematics
+Astronomie,Astronomy
+Biologie,Biology
+Chemie,Chemistry
+Fyzika,Physics
+Geografie,Geography
+Historie,History
+Literatura,Literature
+Matematika,Mathematics
 Poručík,Lieutenant
 Poseidón,Poseidon
 Postel,Bed
@@ -4972,7 +4972,7 @@ Postmoderna,Postmodernism
 Postní doba,Lent
 Postupim,Potsdam
 Potenciální energie,Potential energy
-Potopa světa,Deluge (mythology)
+Potopa světa,Deluge
 Potravina,Food
 Potravní řetězec,Food chain
 Potápka roháč,Great Crested Grebe
@@ -4989,8 +4989,8 @@ Pozoun,Trombone
 Počasí,Weather
 Počítač,Computer
 Počítačová hra,Video game
-Počítačová klávesnice,Keyboard (computing)
-Počítačová myš,Mouse (computing)
+Počítačová klávesnice,Keyboard
+Počítačová myš,Mouse
 Počítačová síť,Computer network
 Počítačová tomografie,Computed tomography
 Počítačový program,Computer program
@@ -5001,7 +5001,7 @@ Poštovní známka,Postage stamp
 Praetor,Praetor
 Praha,Prague
 Praia,Praia
-Prapor (jednotka),Battalion
+Prapor,Battalion
 Prase divoké,Boar
 Praseodym,Praseodymium
 Pravda,Truth
@@ -5032,7 +5032,7 @@ Progressive rock,Progressive rock
 Projekt,Project
 Projekt Manhattan,Manhattan Project
 Prokaryota,Prokaryote
-Prolog (programovací jazyk),Prolog
+Prolog,Prolog
 Promethium,Promethium
 Promykovití,Mongoose
 Prométheus,Prometheus
@@ -5070,8 +5070,8 @@ Próza,Prose
 Průjem,Diarrhea
 Průliv,Strait
 Průmysl,Industry
-Průměr (geometrie),Diameter
-Průnik,Intersection (set theory)
+Průměr,Diameter
+Průnik,Intersection
 Průplav,Canal
 Průsmyk,Mountain pass
 Psací stroj,Typewriter
@@ -5109,8 +5109,8 @@ Pyrenejský poloostrov,Iberian Peninsula
 Pyrit,Pyrite
 Pyrrhovo vítězství,Pyrrhic victory
 Pythagoras,Pythagoras
-Python,Python (programming language)
-Pád (řeka),Po River
+Python,Python
+Pád,Po River
 Páka,Lever
 Pákistán,Pakistan
 Páli,Pali
@@ -5119,13 +5119,13 @@ Párek,Sausage
 Pásmo Gazy,Gaza Strip
 Pátek,Friday
 Páteř,Vertebral column
-Písek (materiál),Sand
+Písek,Sand
 Písečná duna,Dune
 Píseň,Song
 Píseň písní,Song of Solomon
-Pískavice (koření),Fenugreek
+Pískavice,Fenugreek
 Pískovec,Sandstone
-Písmeno,Letter (alphabet)
+Písmeno,Letter
 Píst,Piston
 Pólo,Polo
 Pěchota,Infantry
@@ -5133,7 +5133,7 @@ Pěnkava obecná,Chaffinch
 Pětiúhelník,Pentagon
 Pěvci,Passerine
 Pěvecký sbor,Choir
-Pěšec,Pawn (chess)
+Pěšec,Pawn
 Předseda vlády,Prime minister
 Předstojná žláza,Prostate
 Překladač,Compiler
@@ -5144,7 +5144,7 @@ Přirozené číslo,Natural number
 Přídatné látky,Food additive
 Přídavné jméno,Adjective
 Příjmení,Family name
-Přímka,Line (mathematics)
+Přímka,Line
 Příroda,Nature
 Přírodní vědy,Natural science
 Příslovce,Adverb
@@ -5153,7 +5153,7 @@ Přítok,Tributary
 Přívoz,Ferry
 Pšenice,Wheat
 Pštros dvouprstý,Ostrich
-Půda (pedologie),Soil
+Půda,Soil
 Půlnoční slunce,Midnight sun
 Q,Q
 Quaestor,Quaestor
@@ -5163,9 +5163,9 @@ Quentin Tarantino,Quentin Tarantino
 Quintus Horatius Flaccus,Horace
 Quito,Quito
 Québec,Quebec City
-Québec (provincie),Quebec
+Québec,Quebec
 R,R
-RAF,RAF (disambiguation)
+RAF,RAF
 RAID,RAID
 RAM,Random access memory
 RISC,Reduced instruction set computer
@@ -5185,7 +5185,7 @@ Radioteleskop,Radio telescope
 Radium,Radium
 Radián,Radian
 Radon,Radon
-Rafael (archanděl),Raphael (archangel)
+Rafael,Raphael
 Rafael Santi,Raphael
 Ragby,Rugby football
 Rainer Maria Rilke,Rainer Maria Rilke
@@ -5203,7 +5203,7 @@ Rattus,Rat
 Ravenna,Ravenna
 Ray Bradbury,Ray Bradbury
 Rašelina,Peat
-Re (bůh),Ra
+Re,Ra
 Reaktivní motor,Jet engine
 Recese,Recession
 Recyklace,Recycling
@@ -5211,12 +5211,12 @@ Referendum,Referendum
 Reformace,Protestant Reformation
 Regent,Regent
 Reggae,Reggae
-Regina (Saskatchewan),Regina
+Regina,Regina
 Region,Region
 Reklama,Advertising
 Rektascenze,Right ascension
 Rekurze,Recursion
-Relace (matematika),Relation (mathematics)
+Relace,Relation
 Relativní atomová hmotnost,Atomic mass
 Reliktní záření,Cosmic microwave background radiation
 Rembrandt van Rijn,Rembrandt
@@ -5226,14 +5226,14 @@ Rentgenové záření,X-ray
 Reproduktor,Loudspeaker
 Republika,Republic
 Republika Kongo,Republic of the Congo
-Republikánská strana (USA),Republican Party (United States)
+Republikánská strana,Republican Party
 Requiem,Requiem
 Revoluce,Revolution
 Revolver,Revolver
 Rezistor,Resistor
 Reálné číslo,Real number
-Rhea (měsíc),Rhea (moon)
-Rheia,Rhea (mythology)
+Rhea,Rhea
+Rheia,Rhea
 Rhenium,Rhenium
 Rhode Island,Rhode Island
 Rhodium,Rhodium
@@ -5246,13 +5246,13 @@ Richard Feynman,Richard Feynman
 Richard Nixon,Richard Nixon
 Richard Strauss,Richard Strauss
 Richard Wagner,Richard Wagner
-Richard Wright,Richard Wright (musician)
+Richard Wright,Richard Wright
 Richmond,Richmond
 Riga,Riga
 Rigel,Rigel
 Rijád,Riyadh
 Ringo Starr,Ringo Starr
-Rio Grande (Mexický záliv),Rio Grande
+Rio Grande,Rio Grande
 Rio de Janeiro,Rio de Janeiro
 Rižský záliv,Gulf of Riga
 Roald Amundsen,Roald Amundsen
@@ -5275,7 +5275,7 @@ Robin Hood,Robin Hood
 Robot,Robot
 Rock,Rock music
 Rock and roll,Rock and roll
-Rod (biologie),Genus
+Rod,Genus
 Roentgenium,Roentgenium
 Roger Bacon,Roger Bacon
 Rohovec,Chert
@@ -5295,7 +5295,7 @@ Rostliny,Plant
 Rostock,Rostock
 Rotterdam,Rotterdam
 Router,Router
-Rovina,Plane (mathematics)
+Rovina,Plane
 Rovnice,Equation
 Rovnoběžník,Parallelogram
 Rovnodennost,Equinox
@@ -5305,7 +5305,7 @@ Royal Air Force,Royal Air Force
 Rozmarýna lékařská,Rosemary
 Rozmnožování,Reproduction
 Rozpouštědlo,Solvent
-Rozptyl (statistika),Variance
+Rozptyl,Variance
 Rozsivky,Diatom
 Roztroušená skleróza,Multiple sclerosis
 Rozvaha,Balance sheet
@@ -5313,11 +5313,11 @@ Rozvod,Divorce
 Roční období,Season
 Roš ha-šana,Rosh Hashanah
 Rošáda,Castling
-Rtuť,Mercury (element)
+Rtuť,Mercury
 Rubidium,Rubidium
 Rubikon,Rubicon
 Rubl,Ruble
-Ruby,Ruby (programming language)
+Ruby,Ruby
 Rubín,Ruby
 Rudolf Diesel,Rudolf Diesel
 Rudolf Hess,Rudolf Hess
@@ -5327,10 +5327,10 @@ Rudyard Kipling,Rudyard Kipling
 Rudé moře,Red Sea
 Rudí Khmerové,Khmer Rouge
 Rudý posuv,Redshift
-Rudý posuv,Redshift (disambiguation)
+Rudý posuv,Redshift
 Ruka,Hand
 Rukopis,Manuscript
-Rula (hornina),Gneiss
+Rula,Gneiss
 Rulík zlomocný,Deadly nightshade
 Rumunsko,Romania
 Rupert Murdoch,Rupert Murdoch
@@ -5345,8 +5345,8 @@ Rybolov,Fishing
 Ryby,Osteichthyes
 Rychlost,Velocity
 Rychlost světla,Speed of light
-Rytmus (hudba),Rhythm
-Rytíř (titul),Knight
+Rytmus,Rhythm
+Rytíř,Knight
 Rámájana,Ramayana
 Rávalpindí,Rawalpindi
 Ráže,Caliber
@@ -5361,25 +5361,25 @@ Růžovité,Rosaceae
 Růžová,Pink
 S,S
 SARS,Severe acute respiratory syndrome
-SOS (tísňový signál),SOS
+SOS,SOS
 Sacharidy,Carbohydrate
 Sacharóza,Sucrose
-Sacramento (Kalifornie),Sacramento
+Sacramento,Sacramento
 Saddám Husajn,Saddam Hussein
-Safari (webový prohlížeč),Safari (web browser)
+Safari,Safari
 Safír,Sapphire
 Sahara,Sahara
 Sake,Sake
 Saladin,Saladin
-Salcbursko,Salzburg (state)
-Salem (Oregon),Salem
+Salcbursko,Salzburg
+Salem,Salem
 Salerno,Salerno
 Salman Rushdie,Salman Rushdie
 Salt Lake City,Salt Lake City
 Salto Ángel,Angel Falls
 Salvador,El Salvador
 Salzburg,Salzburg
-Salát (islám),Salah
+Salát,Salah
 Samara,Samara
 Samarium,Samarium
 Samarkand,Samarkand
@@ -5391,12 +5391,12 @@ Samuel F. B. Morse,Samuel F. B. Morse
 Samuel Taylor Coleridge,Samuel Taylor Coleridge
 Samuraj,Samurai
 San Antonio,San Antonio
-San Diego (Kalifornie),San Diego
+San Diego,San Diego
 San Francisco,San Francisco
-San José (Kalifornie),San Jose
-San Juan (Portoriko),San Juan
+San José,San Jose
+San Juan,San Juan
 San Marino,San Marino
-San Marino (město),San Marino
+San Marino,San Marino
 San Salvador,San Salvador
 Sandro Botticelli,Sandro Botticelli
 Sanskrt,Sanskrit
@@ -5404,7 +5404,7 @@ Santa Claus,Santa Claus
 Santa Fé,Santa Fe
 Santiago de Chile,Santiago
 Santo Domingo,Santo Domingo
-Santos,Santos (Săo Paulo)
+Santos,Santos
 Sapfó,Sappho
 Sapporo,Sapporo
 Sarah Bernhardt,Sarah Bernhardt
@@ -5419,17 +5419,17 @@ Sasko,Saxony
 Satan,Satan
 Satanismus,Satanism
 Satira,Satire
-Saturn,Saturn (disambiguation)
-Saturn (planeta),Saturn
+Saturn,Saturn
+Saturn,Saturn
 Satyr,Satyr
 Saul Bellow,Saul Bellow
 Savana,Savanna
 Savci,Mammal
 Saxofon,Saxophone
 Saúdská Arábie,Saudi Arabia
-Sběrnice,Bus (computing)
+Sběrnice,Bus
 Scanner,Image scanner
-Scheme,Scheme (programming language)
+Scheme,Scheme
 Schizofrenie,Schizophrenia
 Scholastika,Scholasticism
 Schutzstaffel,Schutzstaffel
@@ -5468,7 +5468,7 @@ Sergej Michajlovič Ejzenštejn,Sergei Eisenstein
 Sergej Rachmaninov,Sergei Rachmaninoff
 Serin,Serine
 Serotonin,Serotonin
-Server,Server (computing)
+Server,Server
 Setrvačnost,Inertia
 Sevastopol,Sevastopol
 Sever,North
@@ -5482,7 +5482,7 @@ Severní Korea,North Korea
 Severní Mariany,Northern Mariana Islands
 Severní ledový oceán,Arctic Ocean
 Severní moře,North Sea
-Severní ostrov (Nový Zéland),North Island
+Severní ostrov,North Island
 Severní polokoule,Northern Hemisphere
 Severní polární kruh,Arctic Circle
 Severní pól,North Pole
@@ -5495,7 +5495,7 @@ Sexismus,Sexism
 Sextant,Sextant
 Sexuálně přenosná nemoc,Sexually transmitted disease
 Seychely,Seychelles
-Seznam písem (podle skupin),Writing system
+Seznam písem,Writing system
 Sfinx,Sphinx
 Shareware,Shareware
 Sheffield,Sheffield
@@ -5505,7 +5505,7 @@ Sibiř,Siberia
 Sibiřský husky,Siberian Husky
 Sicílie,Sicily
 Sidra,Cider
-Siemens (jednotka),Siemens (unit)
+Siemens,Siemens
 Sierra Leone,Sierra Leone
 Sigma,Sigma
 Sigmund Freud,Sigmund Freud
@@ -5520,10 +5520,10 @@ Silur,Silurian
 Simone de Beauvoirová,Simone de Beauvoir
 Simple Object Access Protocol,SOAP
 Sin-ťiang,Xinjiang
-Sinaj (poloostrov),Sinai Peninsula
+Sinaj,Sinai Peninsula
 Sinclair Lewis,Sinclair Lewis
 Singapur,Singapore
-Singl,Single (music)
+Singl,Single
 Sinice,Cyanobacteria
 Sionismus,Zionism
 Siracusa,Syracuse
@@ -5532,7 +5532,7 @@ Sisyfos,Sisyphus
 Sitcom,Situation comedy
 Sixtinská kaple,Sistine Chapel
 Sjednocená arabská republika,United Arab Republic
-Sjednocení,Union (set theory)
+Sjednocení,Union
 Sjælland,Zealand
 Skagerrak,Skagerrak
 Skalnaté hory,Rocky Mountains
@@ -5553,16 +5553,16 @@ Skopje,Skopje
 Skotsko,Scotland
 Skotská gaelština,Scottish Gaelic
 Skořice,Cinnamon
-Skupenství,Phase (matter)
+Skupenství,Phase
 Skupina,Group
-Skupina (periodická tabulka),Group (periodic table)
+Skupina,Group
 Skupina Světové banky,World Bank
 Skutky apoštolů,Acts of the Apostles
 Skylab,Skylab
 Slabika,Syllable
 Slabá interakce,Weak interaction
 Slapové jevy,Tide
-Slash,Slash (musician)
+Slash,Slash
 Slavík obecný,Nightingale
 Slayer,Slayer
 Slepota,Blindness
@@ -5578,7 +5578,7 @@ Slovensko,Slovakia
 Sloveso,Verb
 Slovinsko,Slovenia
 Slovník,Dictionary
-Slovo (lingvistika),Word
+Slovo,Word
 Složené číslo,Composite number
 Slunce,Sun
 Slunečnice roční,Sunflower
@@ -5614,13 +5614,13 @@ Sofoklés,Sophocles
 Softball,Softball
 Software,Computer software
 Sokol stěhovavý,Peregrine Falcon
-Soli,Salt (chemistry)
+Soli,Salt
 Solidarita,Solidarity
 Soluň,Thessaloniki
 Solón,Solon
 Somerset,Somerset
 Somálsko,Somalia
-Sonda Galileo,Galileo (spacecraft)
+Sonda Galileo,Galileo
 Sonet,Sonnet
 Sonáta,Sonata
 Sopka,Volcano
@@ -5631,38 +5631,38 @@ Souborový systém,File system
 Soud,Court
 Souhláska,Consonant
 Souhvězdí,Constellation
-Souhvězdí Andromedy,Andromeda (constellation)
-Souhvězdí Berana,Aries (constellation)
-Souhvězdí Blíženců,Gemini (constellation)
-Souhvězdí Býka,Taurus (constellation)
-Souhvězdí Cefea,Cepheus (constellation)
+Souhvězdí Andromedy,Andromeda
+Souhvězdí Berana,Aries
+Souhvězdí Blíženců,Gemini
+Souhvězdí Býka,Taurus
+Souhvězdí Cefea,Cepheus
 Souhvězdí Chameleona,Chamaeleon
 Souhvězdí Dalekohledu,Telescopium
 Souhvězdí Delfína,Delphinus
-Souhvězdí Draka,Draco (constellation)
-Souhvězdí Eridana,Eridanus (constellation)
-Souhvězdí Fénixe,Phoenix (constellation)
+Souhvězdí Draka,Draco
+Souhvězdí Eridana,Eridanus
+Souhvězdí Fénixe,Phoenix
 Souhvězdí Hada,Serpens
 Souhvězdí Hadonoše,Ophiuchus
-Souhvězdí Havrana,Corvus (constellation)
-Souhvězdí Herkula,Hercules (constellation)
-Souhvězdí Holubice,Columba (constellation)
-Souhvězdí Hydry,Hydra (constellation)
-Souhvězdí Indiána,Indus (constellation)
-Souhvězdí Jeřába,Grus (constellation)
+Souhvězdí Havrana,Corvus
+Souhvězdí Herkula,Hercules
+Souhvězdí Holubice,Columba
+Souhvězdí Hydry,Hydra
+Souhvězdí Indiána,Indus
+Souhvězdí Jeřába,Grus
 Souhvězdí Ještěrky,Lacerta
 Souhvězdí Jižního kříže,Crux
 Souhvězdí Jižního trojúhelníku,Triangulum Australe
-Souhvězdí Kasiopeji,Cassiopeia (constellation)
+Souhvězdí Kasiopeji,Cassiopeia
 Souhvězdí Kentaura,Centaurus
 Souhvězdí Kompasu,Pyxis
 Souhvězdí Kozoroha,Capricornus
 Souhvězdí Kružítka,Circinus
-Souhvězdí Labutě,Cygnus (constellation)
+Souhvězdí Labutě,Cygnus
 Souhvězdí Lištičky,Vulpecula
 Souhvězdí Lodní zádě,Puppis
-Souhvězdí Lodního kýlu,Carina (constellation)
-Souhvězdí Lva,Leo (constellation)
+Souhvězdí Lodního kýlu,Carina
+Souhvězdí Lva,Leo
 Souhvězdí Lyry,Lyra
 Souhvězdí Létající ryby,Volans
 Souhvězdí Malého medvěda,Ursa Minor
@@ -5673,39 +5673,39 @@ Souhvězdí Mečouna,Dorado
 Souhvězdí Mikroskopu,Microscopium
 Souhvězdí Mouchy,Musca
 Souhvězdí Oktantu,Octans
-Souhvězdí Oltáře,Ara (constellation)
-Souhvězdí Orionu,Orion (constellation)
-Souhvězdí Orla,Aquila (constellation)
-Souhvězdí Panny,Virgo (constellation)
+Souhvězdí Oltáře,Ara
+Souhvězdí Orionu,Orion
+Souhvězdí Orla,Aquila
+Souhvězdí Panny,Virgo
 Souhvězdí Pece,Fornax
-Souhvězdí Pegase,Pegasus (constellation)
-Souhvězdí Persea,Perseus (constellation)
-Souhvězdí Plachet,Vela (constellation)
-Souhvězdí Poháru,Crater (constellation)
-Souhvězdí Pravítka,Norma (constellation)
-Souhvězdí Páva,Pavo (constellation)
+Souhvězdí Pegase,Pegasus
+Souhvězdí Persea,Perseus
+Souhvězdí Plachet,Vela
+Souhvězdí Poháru,Crater
+Souhvězdí Pravítka,Norma
+Souhvězdí Páva,Pavo
 Souhvězdí Rajky,Apus
-Souhvězdí Raka,Cancer (constellation)
-Souhvězdí Ryb,Pisces (constellation)
+Souhvězdí Raka,Cancer
+Souhvězdí Ryb,Pisces
 Souhvězdí Rydla,Caelum
-Souhvězdí Rysa,Lynx (constellation)
+Souhvězdí Rysa,Lynx
 Souhvězdí Severní koruny,Corona Borealis
-Souhvězdí Sochaře,Sculptor (constellation)
-Souhvězdí Střelce,Sagittarius (constellation)
+Souhvězdí Sochaře,Sculptor
+Souhvězdí Střelce,Sagittarius
 Souhvězdí Sítě,Reticulum
-Souhvězdí Tabulové hory,Mensa (constellation)
+Souhvězdí Tabulové hory,Mensa
 Souhvězdí Trojúhelníku,Triangulum
 Souhvězdí Tukana,Tucana
-Souhvězdí Vah,Libra (constellation)
+Souhvězdí Vah,Libra
 Souhvězdí Velké medvědice,Ursa Major
 Souhvězdí Velkého psa,Canis Major
 Souhvězdí Velryby,Cetus
 Souhvězdí Vlasů Bereniky,Coma Berenices
-Souhvězdí Vlka,Lupus (constellation)
-Souhvězdí Vodnáře,Aquarius (constellation)
-Souhvězdí Vozky,Auriga (constellation)
+Souhvězdí Vlka,Lupus
+Souhvězdí Vodnáře,Aquarius
+Souhvězdí Vozky,Auriga
 Souhvězdí Vývěvy,Antlia
-Souhvězdí Zajíce,Lepus (constellation)
+Souhvězdí Zajíce,Lepus
 Souhvězdí Štíra,Scorpius
 Souhvězdí Šípu,Sagitta
 Soul,Seoul
@@ -5719,28 +5719,28 @@ Sovy,Owl
 Sovětský svaz,Soviet Union
 Space Shuttle,Space Shuttle
 Spalničky,Measles
-Spam,Spam (electronic)
+Spam,Spam
 Sparta,Sparta
 Speciální teorie relativity,Special relativity
 Spektroskopie,Spectroscopy
 Speleologie,Speleology
 Spencer Tracy,Spencer Tracy
 Spermie,Spermatozoon
-Spin,Spin (physics)
+Spin,Spin
 Spirální galaxie,Spiral galaxy
 Split,Split
 Spojené arabské emiráty,United Arab Emirates
 Spojené království,United Kingdom
 Spojené státy americké,United States
 Společenství nezávislých států,Commonwealth of Independent States
-Společnost (podnikání),Society
+Společnost,Society
 Společnost národů,League of Nations
 Sport,Sport
-Spotřeba,Consumption (economics)
+Spotřeba,Consumption
 Spréva,Spree
 Spyware,Spyware
 Spánek,Sleep
-Squash,Squash (sport)
+Squash,Squash
 Srbsko,Serbia
 Srbsko a Černá Hora,Serbia and Montenegro
 Srdce,Heart
@@ -5748,7 +5748,7 @@ Srnec obecný,Roe Deer
 Srostloprstí,Coraciiformes
 Srp a kladivo,Hammer and sickle
 Srpen,August
-Srážky,Precipitation (meteorology)
+Srážky,Precipitation
 St. Louis,St. Louis
 Stadion,Stadium
 Stalin,Joseph Stalin
@@ -5786,14 +5786,14 @@ Stolní tenis,Table tennis
 Stomatologie,Dentistry
 Stonehenge,Stonehenge
 Stonožkovci,Myriapoda
-Stopa (jednotka délky),Foot (unit of length)
+Stopa,Foot
 Stopkovýtrusné houby,Basidiomycota
 Strach,Fear
 Straka obecná,European Magpie
 Strategie,Strategy
 Stratigrafie,Stratigraphy
 Stratosféra,Stratosphere
-Stres,Stress (medicine)
+Stres,Stress
 Stroj,Machine
 Strojový kód,Machine code
 Strojový překlad,Machine translation
@@ -5804,10 +5804,10 @@ Strunatci,Chordate
 Student,Student
 Studená válka,Cold War
 Stupeň,Degree
-Stupeň (úhel),Degree (angle)
+Stupeň,Degree
 Stupeň Celsia,Celsius
 Stupeň Fahrenheita,Fahrenheit
-Stupnice (hudba),Musical scale
+Stupnice,Musical scale
 Sturmabteilung,Sturmabteilung
 Stuttgart,Stuttgart
 Styx,Styx
@@ -5823,21 +5823,21 @@ Středník,Semicolon
 Středoafrická republika,Central African Republic
 Středověk,Middle Ages
 Středozemní moře,Mediterranean Sea
-Střelec (šachy),Bishop (chess)
+Střelec,Bishop
 Střelný prach,Gunpowder
 Střevo,Intestine
 Stříbro,Silver
 Střídavý proud,Alternating current
-Stůl,Table (furniture)
+Stůl,Table
 Subkultura,Subculture
-Sublimace,Sublimation (chemistry)
+Sublimace,Sublimation
 Subsaharská Afrika,Sub-Saharan Africa
-Subversion,Subversion (software)
+Subversion,Subversion
 Sucho,Drought
 Sucre,Sucre
 Sudokopytníci,Even-toed ungulate
 Sudoku,Sudoku
-Sudá a lichá čísla,Parity (mathematics)
+Sudá a lichá čísla,Parity
 Suezský průplav,Suez Canal
 Sufix,Suffix
 Suharto,Suharto
@@ -5856,7 +5856,7 @@ Surikata,Meerkat
 Surinam,Suriname
 Surrealismus,Surrealism
 Susan Sontagová,Susan Sontag
-Sutech,Set (mythology)
+Sutech,Set
 Suva,Suva
 Suverenita,Sovereignty
 Suši,Sushi
@@ -5866,9 +5866,9 @@ Svatá Lucie,Saint Lucia
 Svatá říše římská,Holy Roman Empire
 Svatý,Saint
 Svatý Jeroným,Jerome
-Svatý Jiří (světec),Saint George
+Svatý Jiří,Saint George
 Svatý Kryštof a Nevis,Saint Kitts and Nevis
-Svatý Martin (ostrov),Saint Martin
+Svatý Martin,Saint Martin
 Svatý Mikuláš,Saint Nicholas
 Svatý Ondřej,Saint Andrew
 Svatý Patrik,Saint Patrick
@@ -5876,11 +5876,11 @@ Svatý Vincenc a Grenadiny,Saint Vincent and the Grenadines
 Svatý grál,Holy Grail
 Svazijsko,Swaziland
 Svitky od Mrtvého moře,Dead Sea scrolls
-Svoboda,Freedom (philosophy)
+Svoboda,Freedom
 Svoboda projevu,Freedom of speech
-Svobodné hanzovní město Brémy,Bremen (state)
+Svobodné hanzovní město Brémy,Bremen
 Svobodné zednářství,Freemasonry
-Svobodný stát (provincie),Free State
+Svobodný stát,Free State
 Svátek,Holiday
 Svátost,Sacrament
 Svátost smíření,Confession
@@ -5893,7 +5893,7 @@ Světlo,Light
 Světová meteorologická organizace,World Meteorological Organization
 Světová obchodní organizace,World Trade Organization
 Světová válka,World war
-Světová výstava,Expo (exhibition)
+Světová výstava,Expo
 Světová zdravotnická organizace,World Health Organization
 Sydney,Sydney
 Syfilis,Syphilis
@@ -5907,7 +5907,7 @@ Synestezie,Synesthesia
 Synonymum,Synonym
 Syntax,Syntax
 Syntezátor,Synthesizer
-Systematika (biologie),Systematics
+Systematika,Systematics
 Systém,System
 Systém řízení báze dat,Database management system
 S'-čchuan,Sichuan
@@ -5922,7 +5922,7 @@ Sója,Soybean
 Sókratés,Socrates
 Súdán,Sudan
 Súra,Sura
-Sýkorovití,Tit (bird)
+Sýkorovití,Tit
 Sýr,Cheese
 Sýrie,Syria
 Sýček obecný,Little Owl
@@ -5946,7 +5946,7 @@ Tampa,Tampa
 Tampere,Tampere
 Tanach,Tanakh
 Tanec,Dance
-Tanganika (jezero),Lake Tanganyika
+Tanganika,Lake Tanganyika
 Tanger,Tangier
 Tank,Tank
 Tantal,Tantalum
@@ -5966,7 +5966,7 @@ Taškent,Tashkent
 Tbilisi,Tbilisi
 Tchaj-pej,Taipei
 Tchaj-wan,Republic of China
-Tchaj-wan (ostrov),Taiwan
+Tchaj-wan,Taiwan
 Tchaj-ťi,Tai chi chuan
 Tchien-ťin,Tianjin
 Technecium,Technetium
@@ -6000,7 +6000,7 @@ Teorie,Theory
 Teorie grup,Group theory
 Teorie her,Game theory
 Teorie množin,Set theory
-Teorie míry,Measure (mathematics)
+Teorie míry,Measure
 Teorie pravděpodobnosti,Probability theory
 Teorie relativity,Theory of relativity
 Teorie relativity,Principle of relativity
@@ -6020,10 +6020,10 @@ Terorismus,Terrorism
 Teroristické útoky 11. září 2001,September 11
 Terpsichoré,Terpsichore
 Tertullianus,Tertullian
-Tesla,Tesla (unit)
+Tesla,Tesla
 Testosteron,Testosterone
 Tetanus,Tetanus
-Tethys (měsíc),Tethys (moon)
+Tethys,Tethys
 Tetrahydrocannabinol,Tetrahydrocannabinol
 Texas,Texas
 Textil,Textile
@@ -6033,7 +6033,7 @@ Thaleia,Thalia
 Thallium,Thallium
 Thalés z Milétu,Thales
 Thanatos,Thanatos
-Thebe (měsíc),Thebe (moon)
+Thebe,Thebe
 Theia,Theia
 Themis,Themis
 Themistoklés,Themistocles
@@ -6054,7 +6054,7 @@ Thomas More,Thomas More
 Thomas Paine,Thomas Paine
 Thomas Robert Malthus,Thomas Malthus
 Thomas Stearns Eliot,T. S. Eliot
-Thomas Young,Thomas Young (scientist)
+Thomas Young,Thomas Young
 Thorium,Thorium
 Thovt,Thoth
 Thrákie,Thrace
@@ -6069,29 +6069,29 @@ Tibera,Tiber
 Tiberius,Tiberius
 Tibet,Tibet
 Tichý oceán,Pacific Ocean
-Ticino (kanton),Ticino
+Ticino,Ticino
 Tigris,Tigris
 Timbuktu,Timbuktu
-Time,Time (magazine)
+Time,Time
 Tirana,Tirana
 Tis červený,Taxus baccata
 Tisíciletí,Millennium
-Titan,Titan (disambiguation)
-Titan (měsíc),Titan (moon)
-Titan (prvek),Titanium
-Titania (měsíc),Titania (moon)
+Titan,Titan
+Titan,Titan
+Titan,Titanium
+Titania,Titania
 Titus,Titus
 Titus Lucretius Carus,Lucretius
-Titáni,Titan (mythology)
+Titáni,Titan
 Tizian,Titian
-Tkáň,Tissue (biology)
+Tkáň,Tissue
 Tlak,Pressure
 Tlak krve,Blood pressure
 Tofu,Tofu
 Togo,Togo
 Tokio,Tokyo
 Tokoferol,Tocopherol
-Toledo (Španělsko),Toledo
+Toledo,Toledo
 Toluen,Toluene
 Tom Hanks,Tom Hanks
 Tom a Jerry,Tom and Jerry
@@ -6145,14 +6145,14 @@ Trinitrotoluen,Trinitrotoluene
 Tripolis,Tripoli
 Triskelion,Triskelion
 Tritium,Tritium
-Triton (měsíc),Triton (moon)
+Triton,Triton
 Trockismus,Trotskyism
 Trojská válka,Trojan War
 Trojský kůň,Trojan Horse
-Trojský kůň (program),Trojan horse (computing)
+Trojský kůň,Trojan horse
 Trojúhelník,Triangle
 Trolejbus,Trolleybus
-Troll (severská mytologie),Troll
+Troll,Troll
 Trondheim,Trondheim
 Tropický podnebný pás,Tropics
 Troposféra,Troposphere
@@ -6186,7 +6186,7 @@ Tux,Tux
 Tučňáci,Penguin
 Tučňák císařský,Emperor Penguin
 Tužka,Pencil
-Tvarosloví,Morphology (linguistics)
+Tvarosloví,Morphology
 Tvrdost kovů,Hardness
 Tvář,Face
 Tycho Brahe,Tycho Brahe
@@ -6194,18 +6194,18 @@ Tygr džunglový,Tiger
 Typografie,Typography
 Tyrannosaurus,Tyrannosaurus
 Tyrhénské moře,Tyrrhenian Sea
-Tyrolsko,Tyrol (state)
+Tyrolsko,Tyrol
 Tádž Mahal,Taj Mahal
 Tádžikistán,Tajikistan
 Tálibán,Taliban
 Tání,Melting
-Téthys,Tethys (mythology)
+Téthys,Tethys
 Tóra,Torah
 Týden,Week
 Týfón,Typhon
 Týros,Tyre
 Těhotenství,Pregnancy
-Těleso (algebra),Field (mathematics)
+Těleso,Field
 Těsnopis,Shorthand
 Těžební průmysl,Mining
 Těžiště,Center of mass
@@ -6216,8 +6216,8 @@ Třetí říše,Nazi Germany
 Třešně,Cherry
 Třicetiletá válka,Thirty Years' War
 Třída,Class
-Třída (biologie),Class (biology)
-Třída (programování),Class (computer science)
+Třída,Class
+Třída,Class
 U,U
 UFO,Unidentified flying object
 UNESCO,UNESCO
@@ -6256,13 +6256,13 @@ Ununtrium,Ununtrium
 Upanišady,Upanishad
 Uppsala,Uppsala
 Uprchlík,Refugee
-Upír (nemrtvý),Vampire
+Upír,Vampire
 Ur,Ur
 Uracil,Uracil
 Ural,Ural Mountains
-Uran (planeta),Uranus
-Uran (prvek),Uranium
-Uranos,Uranus (mythology)
+Uran,Uranus
+Uran,Uranium
+Uranos,Uranus
 Urdština,Urdu
 Uruguay,Uruguay
 Urísa,Orissa
@@ -6271,11 +6271,11 @@ Usměrňovač,Rectifier
 Usáma bin Ládin,Osama bin Laden
 Utah,Utah
 Utilitarismus,Utilitarianism
-Utrecht,Utrecht (city)
-Utrecht (provincie),Utrecht (province)
+Utrecht,Utrecht
+Utrecht,Utrecht
 Uttarpradéš,Uttar Pradesh
 Uzbekistán,Uzbekistan
-Uzel (jednotka),Knot (speed)
+Uzel,Knot
 Učení,Learning
 Učitel,Teacher
 Učitel církve,Doctor of the Church
@@ -6288,7 +6288,7 @@ Vakcína,Vaccine
 Vakovlk,Thylacine
 Vakuola,Vacuole
 Vakuum,Vacuum
-Valence (město),Valence
+Valence,Valence
 Valencia,Valencia
 Valentina Těreškovová,Valentina Tereshkova
 Valhalla,Valhalla
@@ -6296,12 +6296,12 @@ Valkýra,Valkyrie
 Valletta,Valletta
 Vanad,Vanadium
 Vancouver,Vancouver
-Vancouver (ostrov),Vancouver Island
+Vancouver,Vancouver Island
 Vandalismus,Vandalism
 Vanové,Vanir
 Vanuatu,Vanuatu
 Varan komodský,Komodo dragon
-Varhany,Organ (music)
+Varhany,Organ
 Varle,Testicle
 Varna,Varna
 Varšava,Warsaw
@@ -6311,15 +6311,15 @@ Vavřín ušlechtilý,Bay Laurel
 Vačnatci,Marsupial
 Vega,Vega
 Vegetariánství,Vegetarianism
-Vejce,Egg (biology)
+Vejce,Egg
 Vejcovod,Fallopian tube
-Vektor,Vector (spatial)
+Vektor,Vector
 Vektorový součin,Cross product
 Velbloud,Camel
 Velbloud dvouhrbý,Bactrian Camel
 Velbloud jednohrbý,Dromedary
 Velikonoce,Easter
-Velká Británie (ostrov),Great Britain
+Velká Británie,Great Britain
 Velká francouzská revoluce,French Revolution
 Velká hospodářská krize,Great Depression
 Velká jezera,Great Lakes
@@ -6333,21 +6333,21 @@ Velký třesk,Big Bang
 Velociraptor,Velociraptor
 Velryba,Whale
 Venezuela,Venezuela
-Venuše,Venus (disambiguation)
-Venuše (mytologie),Venus (mythology)
-Venuše (planeta),Venus
+Venuše,Venus
+Venuše,Venus
+Venuše,Venus
 Vermont,Vermont
 Verona,Verona
 Versailles,Palace of Versailles
-Versailles (město),Versailles
+Versailles,Versailles
 Versailleská smlouva,Treaty of Versailles
 Veset,Thebes
-Veslování,Rowing (sport)
+Veslování,Rowing
 Vesmír,Universe
 Vesmírná stanice,Space station
 Vesnice,Village
 Vespasianus,Vespasian
-Vesta (mytologie),Vesta (mythology)
+Vesta,Vesta
 Vestfálský mír,Peace of Westphalia
 Vesuv,Mount Vesuvius
 Veto,Veto
@@ -6358,9 +6358,9 @@ Viceprezident Spojených států amerických,Vice President of the United States
 Vichy,Vichy
 Victor Hugo,Victor Hugo
 Victoria,Victoria
-Victoria (Britská Kolumbie),Victoria
-Victoria (Seychely),Victoria
-Victoria (australský stát),Victoria (Australia)
+Victoria,Victoria
+Victoria,Victoria
+Victoria,Victoria
 Video,Video
 Vidlička,Fork
 Vientiane,Vientiane
@@ -6441,7 +6441,7 @@ Vrhcáby,Backgammon
 Vrtulník,Helicopter
 Vrubozobí,Anseriformes
 Vstavačovité,Orchidaceae
-Vulcanus (mytologie),Vulcan (mythology)
+Vulcanus,Vulcan
 Vulgata,Vulgate
 Vulgární latina,Vulgar Latin
 Vulkanologie,Volcanology
@@ -6458,7 +6458,7 @@ Vznášedlo,Hovercraft
 Vznětový motor,Diesel engine
 Vzpírání,Weightlifting
 Váha,Weight
-Válec,Cylinder (geometry)
+Válec,Cylinder
 Válečné loďstvo,Navy
 Válečné zločiny,War crime
 Válečný zajatec,Prisoner of war
@@ -6485,7 +6485,7 @@ Východní Afrika,East Africa
 Východní Timor,East Timor
 Východočínské moře,East China Sea
 Výkal,Feces
-Výkon,Power (physics)
+Výkon,Power
 Výmar,Weimar
 Výmarská republika,Weimar Republic
 Výpustka,Ellipsis
@@ -6500,30 +6500,30 @@ Větrná energie,Wind power
 Větrný mlýn,Windmill
 Věznice,Prison
 Věž,Tower
-Věž (šachy),Rook (chess)
+Věž,Rook
 W,W
 WYSIWYG,WYSIWYG
 Wahhábismus,Wahhabism
-Wake (ostrov),Wake Island
+Wake,Wake Island
 Wales,Wales
 Walt Disney,Walt Disney
 Walt Whitman,Walt Whitman
 Walter Gropius,Walter Gropius
 Walter Scott,Walter Scott
-Washington,Washington (disambiguation)
-Washington (stát),Washington
+Washington,Washington
+Washington,Washington
 "Washington, D.C.",Washington
 Watt,Watt
 Watthodina,Watt-hour
-Weber (jednotka),Weber (unit)
+Weber,Weber
 Webová kamera,Webcam
 Webový prohlížeč,Web browser
 Website,Website
-Wellington (Nový Zéland),Wellington
+Wellington,Wellington
 Wernher von Braun,Wernher von Braun
 Westminsterské opatství,Westminster Abbey
 Whisky,Whisky
-Whitehorse (Yukon),Whitehorse
+Whitehorse,Whitehorse
 Wicca,Wicca
 Wide Area Network,Wide area network
 Wiesbaden,Wiesbaden
@@ -6599,17 +6599,17 @@ Zelenina,Vegetable
 Zelená,Green
 Zelený čtvrtek,Maundy Thursday
 Zemní plyn,Natural gas
-Zemská kůra,Crust (geology)
-Zemský plášť,Mantle (geology)
+Zemská kůra,Crust
+Zemský plášť,Mantle
 Země,Earth
 Zemědělství,Agriculture
 Zeměpisná šířka,Latitude
 Zemětřesení,Earthquake
 Zen,Zen
 Zenit,Zenith
-Zenon,Zeno (emperor)
+Zenon,Zeno
 Zeus,Zeus
-Zeus,Zeus (disambiguation)
+Zeus,Zeus
 Zikkurat,Ziggurat
 Zima,Winter
 Zimbabwe,Zimbabwe
@@ -6622,11 +6622,11 @@ Zkratka,Abbreviation
 Zlato,Gold
 Zlatá horda,Golden Horde
 Zlatý retrívr,Golden Retriever
-Zlom,Fault (geology)
-Zlomek,Fraction (mathematics)
+Zlom,Fault
+Zlomek,Fraction
 Zločin,Crime
 Zmrzlina,Ice cream
-Znak (heraldika),Coat of arms
+Znak,Coat of arms
 Znakový jazyk,Sign language
 Značkovací jazyk,Markup language
 Znečištění,Pollution
@@ -6644,7 +6644,7 @@ Zrychlení,Acceleration
 Zub,Tooth
 Zubní kartáček,Toothbrush
 Zubní kaz,Dental caries
-Zvon,Bell (instrument)
+Zvon,Bell
 Zvracení,Vomiting
 Zvuk,Sound
 Zvěrokruh,Zodiac
@@ -6665,13 +6665,13 @@ Západní břeh Jordánu,West Bank
 Západořímská říše,Western Roman Empire
 Zápal plic,Pneumonia
 Zápalky,Match
-Zásaditost,Base (chemistry)
+Zásaditost,Base
 Závislost,Drug addiction
 Závislost,Addiction
 Závorky,Bracket
-Závěť,Will (law)
+Závěť,Will
 Zázrak,Miracle
-Zázvor (koření),Ginger
+Zázvor,Ginger
 Záření gama,Gamma ray
 Září,September
 Záškrt,Diphtheria
@@ -6684,23 +6684,23 @@ odbory,Trade union
 Ándhrapradéš,Andhra Pradesh
 Áres,Ares
 Árie,Aria
-Árón (prorok),Aaron
+Árón,Aaron
 Árónovité,Araceae
 Ásgard,Asgard
-Ásám (indický stát),Assam
+Ásám,Assam
 Átreus,Atreus
 Ázerbájdžán,Azerbaijan
 Århus,Aarhus
 Élektra,Electra
 Éós,Eos
 Írán,Iran
-Íó,Io (mythology)
+Íó,Io
 Óda,Ode
 Ódin,Odin
 Ókeanovny,Oceanid
 Órigenés,Origen
 Ósaka,Osaka
-Údolí (geomorfologie),Valley
+Údolí,Valley
 Úhel,Angle
 Úhlová rychlost,Angular velocity
 Úniková rychlost,Escape velocity
@@ -6710,7 +6710,7 @@ odbory,Trade union
 Úrania,Urania
 Úrodný půlměsíc,Fertile Crescent
 Úrok,Interest
-Ústava,Constitution (political)
+Ústava,Constitution
 Ústava Spojených států amerických,United States Constitution
 Úterý,Tuesday
 Účetnictví,Accountancy
@@ -6718,14 +6718,14 @@ odbory,Trade union
 Čadské jezero,Lake Chad
 Čaj,Tea
 Čankajšek,Chiang Kai-shek
-Čarodějky (seriál),Charmed
+Čarodějky,Charmed
 Čas,Time
 Časopis,Magazine
 Časové pásmo,Time zone
 Čchung-čching,Chongqing
 Čechy,Bohemia
 Čedič,Basalt
-Čeleď (biologie),Family (biology)
+Čeleď,Family
 Čeljabinsk,Chelyabinsk
 Černobyl,Chernobyl
 Černá,Black
@@ -6739,7 +6739,7 @@ odbory,Trade union
 Červená,Red
 Červená krvinka,Red blood cell
 Červený obr,Red giant
-Červený trpaslík (hvězda),Red dwarf
+Červený trpaslík,Red dwarf
 Červí díra,Wormhole
 Česko,Czech Republic
 Československo,Czechoslovakia
@@ -6748,11 +6748,11 @@ odbory,Trade union
 Čirok,Sorghum
 Členovci,Arthropod
 Člověk,Human
-Člověk,Homo (genus)
+Člověk,Homo
 Člun,Boat
 Čokoláda,Chocolate
-Čočka (optika),Lens (optics)
-Čtverec,Square (geometry)
+Čočka,Lens
+Čtverec,Square
 Čtvrtek,Thursday
 Čtvrtohory,Quaternary
 Čtvrtá křížová výprava,Fourth Crusade
@@ -6761,13 +6761,13 @@ odbory,Trade union
 Čtyřúhelník,Quadrilateral
 Čáp,Stork
 Čáp černý,Black Stork
-Čárka (interpunkce),Comma (punctuation)
+Čárka,Comma
 Čína,China
 Čínská lidová republika,People's Republic of China
 Číslo,Number
 Číslo pí,Pi
 Ďábel medvědovitý,Tasmanian Devil
-Řada (matematika),Series (mathematics)
+Řada,Series
 Řadicí algoritmus,Sorting algorithm
 Řasy,Algae
 Řecko,Greece
@@ -6777,7 +6777,7 @@ odbory,Trade union
 Řeka,River
 Řeka svatého Vavřince,Saint Lawrence River
 Řitní otvor,Anus
-Řád (biologie),Order (biology)
+Řád,Order
 Řád bratří kazatelů,Dominican Order
 Řád menších bratří,Franciscan
 Řád svatého Benedikta,Order of Saint Benedict
@@ -6788,17 +6788,17 @@ odbory,Trade union
 Římská mytologie,Roman mythology
 Římské právo,Roman law
 Římský kalendář,Roman calendar
-Říše (biologie),Kingdom (biology)
-Šablona:Bot,Bot
-Šablona:Doplňte zdroj,Fact
-Šablona:Pahýl,Stub
+Říše,Kingdom
+Bot,Bot
+Doplňte zdroj,Fact
+Pahýl,Stub
 Šachové zahájení,Chess opening
-Šachový velmistr,Grandmaster (chess)
+Šachový velmistr,Grandmaster
 Šachy,Chess
 Šafrán setý,Saffron
 Šalamounovy ostrovy,Solomon Islands
 Šalomoun,Solomon
-Šampaňské víno,Champagne (wine)
+Šampaňské víno,Champagne
 Šanghaj,Shanghai
 Šaría,Sharia
 Šedá,Grey

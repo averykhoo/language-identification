@@ -1,7 +1,7 @@
 Other,English
 1,1
-1 (число),1 (number)
-1 Церера,Ceres (dwarf planet)
+1,1
+1 Церера,Ceres
 1 август,August 1
 1 май,May 1
 1 ноември,November 1
@@ -65,7 +65,7 @@ Other,English
 23,23
 23 юни,June 23
 24,24
-24 (сериал),24 (TV series)
+24,24
 24 май,May 24
 24 октомври,October 24
 24 юни,June 24
@@ -98,7 +98,7 @@ Other,English
 400,400
 41,41
 42,42
-42 (число),42 (number)
+42,42
 43,43
 44,44
 45,45
@@ -106,9 +106,9 @@ Other,English
 47,47
 48,48
 49,49
-49 (число),49 (number)
+49,49
 5,5
-5 (число),5 (number)
+5,5
 5 ноември,November 5
 50,50
 500,500
@@ -170,16 +170,16 @@ Other,English
 99,99
 A,A
 ABC,ABC
-AJAX,Ajax (programming)
+AJAX,Ajax
 ALGOL,ALGOL
 ASCII,American Standard Code for Information Interchange
-Ada,Ada (programming language)
+Ada,Ada
 BASIC,BASIC
 Bash,Bash
 Bryopsida,Moss
 C,C
-C (език за програмиране),C (programming language)
-CHAOS,CHAOS (Linux distribution)
+C,C
+CHAOS,CHAOS
 COBOL,COBOL
 Caryophyllales,Caryophyllales
 DOS,DOS
@@ -200,20 +200,20 @@ HTML,HTML
 HTTP,Hypertext Transfer Protocol
 IPod,IPod
 Internet Explorer,Internet Explorer
-Java,Java (programming language)
+Java,Java
 Konqueror,Konqueror
 LCD,Liquid crystal display
-Lisp,Lisp (programming language)
+Lisp,Lisp
 M,M
 MIME,MIME
 MS-DOS,MS-DOS
 PDA,Personal digital assistant
-Pidgin,Pidgin (software)
-Python,Python (programming language)
-Ruby,Ruby (programming language)
+Pidgin,Pidgin
+Python,Python
+Ruby,Ruby
 SGML,Standard Generalized Markup Language
 SOS,SOS
-Scheme,Scheme (programming language)
+Scheme,Scheme
 Slayer,Slayer
 Sturmabteilung,Sturmabteilung
 TCP,Transmission Control Protocol
@@ -221,11 +221,11 @@ The GIMP,GIMP
 WYSIWYG,WYSIWYG
 World Wide Web,World Wide Web
 bulgarian,english
-А,A (Cyrillic)
+А,A
 А капела,A cappella
-АЗ Алкмаар,AZ (football club)
+АЗ Алкмаар,AZ
 АТП,ATP
-Аарон (Библия),Aaron
+Аарон,Aaron
 Аахен,Aachen
 Абадан,Abadan
 Абел Тасман,Abel Tasman
@@ -233,13 +233,13 @@ bulgarian,english
 Аборт,Abortion
 Абревиатура,Abbreviation
 Абсент,Absinthe
-Абсолютизъм,Absolutism (European history)
+Абсолютизъм,Absolutism
 Абсолютна звездна величина,Absolute magnitude
 Абсолютна нула,Absolute zero
 Абсолютна стойност,Absolute value
 Абсолютно черно тяло,Black body
 Абу Даби,Abu Dhabi
-Абу Даби,Abu Dhabi (emirate)
+Абу Даби,Abu Dhabi
 Абуджа,Abuja
 Абхазия,Abkhazia
 Абърдийн,Aberdeen
@@ -268,8 +268,8 @@ bulgarian,english
 Агата Кристи,Agatha Christie
 Агностицизъм,Agnosticism
 Агорафобия,Agoraphobia
-Агра (град Индия),Agra
-Агресия (психология),Aggression
+Агра,Agra
+Агресия,Aggression
 Агридженто,Agrigento
 Ад,Hell
 Адам,Adam
@@ -286,7 +286,7 @@ bulgarian,english
 Адолф Хитлер,Adolf Hitler
 Адонис,Adonis
 Адреналин,Epinephrine
-Адриан (император),Hadrian
+Адриан,Hadrian
 Адрианов вал,Hadrian's Wall
 Адриатическо море,Adriatic Sea
 Адрон,Hadron
@@ -313,20 +313,20 @@ bulgarian,english
 Айседора Дънкан,Isadora Duncan
 Айфелова кула,Eiffel Tower
 Акаба,Aqaba
-Академично гребане,Rowing (sport)
+Академично гребане,Rowing
 Акапулко,Acapulco
 Акация,Acacia
 Аквамарин,Aquamarine
 Аквариум,Aquarium
 Акведукт,Aqueduct
-Аквитания (регион),Aquitaine
+Аквитания,Aquitaine
 Акира Куросава,Akira Kurosawa
 Акне,Acne vulgaris
 Аконкагуа,Aconcagua
-Акорд,Chord (music)
+Акорд,Chord
 Акра,Accra
-Акра (Израел),Acre
-Акри,Acre (state)
+Акра,Acre
+Акри,Acre
 Акропол,Acropolis
 Аксиома,Axiom
 Аксон,Axon
@@ -371,7 +371,7 @@ bulgarian,english
 Алергия,Allergy
 Алеутски острови,Aleutian Islands
 Алжир,Algeria
-Алжир (град),Algiers
+Алжир,Algiers
 Али ибн Абу Талиб,Ali
 Алитерация,Alliteration
 Алкалоид,Alkaloid
@@ -392,7 +392,7 @@ bulgarian,english
 Алтернативна медицина,Alternative medicine
 Алтруизъм,Altruism
 Алуминий,Aluminium
-Алфа (буква),Alpha (letter)
+Алфа,Alpha
 Алфа Центавър,Alpha Centauri
 Алфред Велики,Alfred the Great
 Алфред Нобел,Alfred Nobel
@@ -403,7 +403,7 @@ bulgarian,english
 Алън Тюринг,Alan Turing
 Алън Шепърд,Alan Shepard
 Аляска,Alaska
-Амазонка (река),Amazon River
+Амазонка,Amazon River
 Аман,Amman
 Амелия Ерхарт,Amelia Earhart
 Америго Веспучи,Amerigo Vespucci
@@ -434,7 +434,7 @@ bulgarian,english
 Анален секс,Anal sex
 Аналитична геометрия,Analytic geometry
 Ананас,Pineapple
-Анаполис (Мериленд),Annapolis
+Анаполис,Annapolis
 Анапурна,Annapurna
 Анархизъм,Anarchism
 Анасон,Anise
@@ -459,8 +459,8 @@ bulgarian,english
 Андрей Тарковски,Andrei Tarkovsky
 Андроид,Android
 Андромеда,Andromeda
-Андромеда (галактика),Andromeda Galaxy
-Андромеда (съзвездие),Andromeda (constellation)
+Андромеда,Andromeda Galaxy
+Андромеда,Andromeda
 Андрю Джаксън,Andrew Jackson
 Андрю Джонсън,Andrew Johnson
 Андрю Лойд Уебър,Andrew Lloyd Webber
@@ -484,8 +484,8 @@ bulgarian,english
 Антарес,Antares
 Антарктида,Antarctica
 Антверпен,Antwerp
-Антверпен (провинция),Antwerp (province)
-Антена,Antenna (radio)
+Антверпен,Antwerp
+Антена,Antenna
 Антибиотик,Antibiotic
 Антиген,Antigen
 Антигона,Antigone
@@ -523,7 +523,7 @@ bulgarian,english
 Аполон,Apollo
 Апоптоза,Apoptosis
 Април,April
-Апсида (архитектура),Apse
+Апсида,Apse
 Ар,Are
 Ар деко,Art Deco
 Ар нуво,Art Nouveau
@@ -536,7 +536,7 @@ bulgarian,english
 Арагон,Aragon
 Аралско море,Aral Sea
 Арам Хачатурян,Aram Khachaturian
-Арарат (връх),Mount Ararat
+Арарат,Mount Ararat
 Арафурско море,Arafura Sea
 Арбалет,Crossbow
 Аргон,Argon
@@ -558,7 +558,7 @@ bulgarian,english
 Аритметична прогресия,Arithmetic progression
 Ария,Aria
 Арка,Arch
-Аркадия (ном),Arcadia
+Аркадия,Arcadia
 Арканджело Корели,Arcangelo Corelli
 Арканзас,Arkansas
 Аркебуз,Arquebus
@@ -608,7 +608,7 @@ bulgarian,english
 Астеносфера,Asthenosphere
 Астероид,Asteroid
 Астероиден пояс,Asteroid belt
-Астигматизъм,Astigmatism (eye)
+Астигматизъм,Astigmatism
 Астма,Asthma
 Астрахан,Astrakhan
 Астробиология,Astrobiology
@@ -620,21 +620,21 @@ bulgarian,english
 Астрофизика,Astrophysics
 Асуан,Aswan
 Асфалт,Asphalt
-Атакама (пустиня),Atacama Desert
+Атакама,Atacama Desert
 Атентат,Assassination
 Атентати от 11 септември 2001 г.,September 11
 Атика,Attica
 Атила,Attila the Hun
 Атина,Athens
-Атина (митология),Athena
+Атина,Athena
 Атланта,Atlanta
 Атлантида,Atlantis
 Атлантически океан,Atlantic Ocean
-Атлас,Atlas (disambiguation)
-Атлас (митология),Atlas (mythology)
-Атлас (спътник),Atlas (moon)
+Атлас,Atlas
+Атлас,Atlas
+Атлас,Atlas
 Атласки планини,Atlas Mountains
-Атмосфера (единица),Atmosphere (unit)
+Атмосфера,Atmosphere
 Атмосферно налягане,Atmospheric pressure
 Атол,Atoll
 Атом,Atom
@@ -643,7 +643,7 @@ bulgarian,english
 Атомна енергия,Nuclear power
 Атомна маса,Atomic mass
 Атон,Mount Athos
-Атон (бог),Aten
+Атон,Aten
 Атрей,Atreus
 Атропин,Atropine
 Аугуст Стриндберг,August Strindberg
@@ -664,7 +664,7 @@ bulgarian,english
 Ацетилсалицилова киселина,Aspirin
 Ацтеки,Aztec
 Аякс,Ajax
-Аякс Теламонид,Ajax (mythology)
+Аякс Теламонид,Ajax
 Аятолах,Ayatollah
 Бавария,Bavaria
 Багдад,Baghdad
@@ -696,7 +696,7 @@ bulgarian,english
 Бамако,Bamako
 Бамбук,Bamboo
 Банан,Banana
-Банан,Musa (genus)
+Банан,Musa
 Бананова република,Banana republic
 Бангалор,Bangalore
 Банги,Bangui
@@ -706,12 +706,12 @@ bulgarian,english
 Банкнота,Banknote
 Банкок,Bangkok
 Баптизъм,Baptist
-Бар (единица),Bar (unit)
+Бар,Bar
 Барабан,Drum
 Баранкиля,Barranquilla
 Барбадос,Barbados
 Барбара Стрейзънд,Barbra Streisand
-Барел,Barrel (unit)
+Барел,Barrel
 Баренцово море,Barents Sea
 Бари,Bari
 Барий,Barium
@@ -726,10 +726,10 @@ bulgarian,english
 Басня,Fable
 Басра,Basra
 Бастер,Basseterre
-Бастет,Bast (mythology)
+Бастет,Bast
 Бастилия,Bastille
 Батальон,Battalion
-Батерия,Battery (electricity)
+Батерия,Battery
 Батман,Batman
 Батън Руж,Baton Rouge
 Бафиново море,Baffin Bay
@@ -791,7 +791,7 @@ bulgarian,english
 Бигъл,Beagle
 Бидгошч,Bydgoszcz
 Бизон,American Bison
-Бик (съзвездие),Taurus (constellation)
+Бик,Taurus
 Бикини,Bikini
 Бил Гейтс,Bill Gates
 Бил Клинтън,Bill Clinton
@@ -808,20 +808,20 @@ bulgarian,english
 Биохимия,Biochemistry
 Биполярно разстройство,Bipolar disorder
 Бира,Beer
-Бирмингам (Алабама),Birmingham
+Бирмингам,Birmingham
 Бисау,Bissau
 Бисексуалност,Bisexuality
 Бискайски залив,Bay of Biscay
-Бисмарк (Северна Дакота),Bismarck
-Бисмарк (пояснение),Bismarck (disambiguation)
+Бисмарк,Bismarck
+Бисмарк,Bismarck
 Бисмут,Bismuth
-Бит (информатика),Bit
-Битие (Библия),Genesis
+Бит,Bit
+Битие,Genesis
 Битка за Британия,Battle of Britain
 Битка при Аустерлиц,Battle of Austerlitz
 Битка при Ватерлоо,Battle of Waterloo
 Битка при Вердюн,Battle of Verdun
-Битка при Лепанто,Battle of Lepanto (1571)
+Битка при Лепанто,Battle of Lepanto
 Битка при Мидуей,Battle of Midway
 Битка при Сома,Battle of the Somme
 Битка при Термопилите,Battle of Thermopylae
@@ -833,7 +833,7 @@ bulgarian,english
 Благовещение,Annunciation
 Благороден газ,Noble gas
 Блез Паскал,Blaise Pascal
-Близнаци (съзвездие),Gemini (constellation)
+Близнаци,Gemini
 Близък Изток,Middle East
 Блог,Blog
 Блумфонтейн,Bloemfontein
@@ -844,17 +844,17 @@ bulgarian,english
 Бобри,Beaver
 Бобслей,Bobsleigh
 Бог,God
-Богородица,Mary (mother of Jesus)
-Богоявление,Epiphany (Christian)
+Богородица,Mary
+Богоявление,Epiphany
 Боденско езеро,Lake Constance
 Бодлоперки,Perciformes
 Боеций,Anicius Manlius Severinus Boethius
 Бозайници,Mammal
 Бозон,Boson
-Бойзи (Айдахо),Boise
+Бойзи,Boise
 Боклук,Waste
-Бокс (спорт),Boxing
-Боксер,Boxer (dog)
+Бокс,Boxing
+Боксер,Boxer
 Боксит,Bauxite
 Болест,Disease
 Болест на Алцхаймер,Alzheimer's disease
@@ -864,10 +864,10 @@ bulgarian,english
 Болоня,Bologna
 Болцано,Bolzano
 Бомбардировач,Bomber
-Бон (Германия),Bonn
+Бон,Bonn
 Бонсай,Bonsai
 Бор,Pine
-Бор (елемент),Boron
+Бор,Boron
 Бордо,Bordeaux
 Борис Годунов,Boris Godunov
 Борис Пастернак,Boris Pasternak
@@ -889,23 +889,23 @@ bulgarian,english
 Брадва,Axe
 Бразавил,Brazzaville
 Бразилия,Brazil
-Брайтън (Англия),Brighton
+Брайтън,Brighton
 Брак,Marriage
 Брам Стокър,Bram Stoker
-Бранденбург (провинция),Brandenburg
+Бранденбург,Brandenburg
 Братислава,Bratislava
 Брауново движение,Brownian motion
 Брауншвайг,Braunschweig
 Брахма,Brahma
 Бреза,Birch
 Бремен,Bremen
-Бремен (провинция),Bremen (state)
+Бремен,Bremen
 Бременност,Pregnancy
 Бремерхафен,Bremerhaven
 Брест,Brest
-Брест (Беларус),Brest
-Брест (Франция),Brest
-Бретан (регион),Bretagne
+Брест,Brest
+Брест,Brest
+Бретан,Bretagne
 Бреша,Brescia
 Бригада,Brigade
 Бридж,Contract bridge
@@ -918,7 +918,7 @@ bulgarian,english
 Британски Вирджински острови,British Virgin Islands
 Британски острови,British Isles
 Британско кралско научно дружество,Royal Society
-Бродуей,Broadway (New York City)
+Бродуей,Broadway
 Бром,Bromine
 Броненосци,Armadillo
 Бронз,Bronze
@@ -940,11 +940,11 @@ bulgarian,english
 Буенос Айрес,Buenos Aires
 Бужумбура,Bujumbura
 Бук,Beech
-Буква,Letter (alphabet)
+Буква,Letter
 Букурещ,Bucharest
-Булева алгебра,Boolean algebra (structure)
+Булева алгебра,Boolean algebra
 Бумеранг,Boomerang
-Бургундия (регион),Bourgogne
+Бургундия,Bourgogne
 Буркина Фасо,Burkina Faso
 Бурса,Bursa
 Буря,Storm
@@ -969,7 +969,7 @@ bulgarian,english
 Бяла мечка,Polar bear
 Бяла нощ,Midnight sun
 Бяло джудже,White dwarf
-Бяло море (Русия),White Sea
+Бяло море,White Sea
 Вавилон,Babylon
 Вавилония,Babylonia
 Вавилонска кула,Tower of Babel
@@ -978,12 +978,12 @@ bulgarian,english
 Ваймарска република,Weimar Republic
 Вакуола,Vacuole
 Вакуум,Vacuum
-Валдхорна,Horn (instrument)
-Валеж,Precipitation (meteorology)
+Валдхорна,Horn
+Валеж,Precipitation
 Валенсия,Valencia
-Валенсия (пояснение),Valencia
+Валенсия,Valencia
 Валентина Терешкова,Valentina Tereshkova
-Валентност,Valence (chemistry)
+Валентност,Valence
 Валета,Valletta
 Валкирии,Valkyrie
 Валута,Currency
@@ -992,7 +992,7 @@ bulgarian,english
 Ванадий,Vanadium
 Вандализъм,Vandalism
 Ванкувър,Vancouver
-Ванкувър (остров),Vancouver Island
+Ванкувър,Vancouver Island
 Вануату,Vanuatu
 Варвари,Barbarian
 Варицела,Chickenpox
@@ -1000,32 +1000,32 @@ bulgarian,english
 Варовик,Limestone
 Варшава,Warsaw
 Василий Кандински,Wassily Kandinsky
-Василиск (митология),Basilisk
+Василиск,Basilisk
 Васкуларни растения,Vascular plant
 Ват,Watt
 Ватикан,Vatican City
-Вашингтон,Washington (disambiguation)
-Вашингтон (Окръг Колумбия),Washington
-Вашингтон (щат),Washington
+Вашингтон,Washington
+Вашингтон,Washington
+Вашингтон,Washington
 Вдигане на тежести,Weightlifting
-Вебер (единица),Weber (unit)
+Вебер,Weber
 Вега,Vega
 Вегетарианство,Vegetarianism
 Везер,Weser River
-Везни (съзвездие),Libra (constellation)
+Везни,Libra
 Везувий,Mount Vesuvius
 Век,Century
-Вектор,Vector (spatial)
+Вектор,Vector
 Велизарий,Belisarius
 Велика китайска стена,Great Wall of China
 Велика харта на свободите,Magna Carta
 Великден,Easter
-Великобритания (остров),Great Britain
+Великобритания,Great Britain
 Велосипед,Bicycle
 Вена,Vein
-Венера (митология),Venus (mythology)
-Венера (планета),Venus
-Венера (пояснение),Venus (disambiguation)
+Венера,Venus
+Венера,Venus
+Венера,Venus
 Венето,Veneto
 Венеция,Venice
 Венецуела,Venezuela
@@ -1038,14 +1038,14 @@ bulgarian,english
 Версайски дворец,Palace of Versailles
 Версайски договор,Treaty of Versailles
 Веспасиан,Vespasian
-Веста,Vesta (mythology)
+Веста,Vesta
 Вестфалски мирен договор,Peace of Westphalia
 Вето,Veto
 Вечен двигател,Perpetual motion
 Вечна замръзналост,Permafrost
 Взрив,Explosion
 Вивиан Лий,Vivien Leigh
-Вид (биология),Species
+Вид,Species
 Видеоигра,Video game
 Виена,Vienna
 Виентян,Vientiane
@@ -1053,12 +1053,12 @@ bulgarian,english
 Виетнамска война,Vietnam War
 Викинги,Viking
 Виктор Юго,Victor Hugo
-Виктория (Британска Колумбия),Victoria
-Виктория (Сейшелски острови),Victoria
-Виктория (водопад),Victoria Falls
-Виктория (езеро),Lake Victoria
-Виктория (пояснителна страница),Victoria
-Виктория (щат),Victoria (Australia)
+Виктория,Victoria
+Виктория,Victoria
+Виктория,Victoria Falls
+Виктория,Lake Victoria
+Виктория,Victoria
+Виктория,Victoria
 Вили Бранд,Willy Brandt
 Вилнюс,Vilnius
 Вилфредо Парето,Vilfredo Pareto
@@ -1089,7 +1089,7 @@ bulgarian,english
 Вицепрезидент на Съединените американски щати,Vice President of the United States
 Виши,Vichy
 Вишну,Vishnu
-Вкус (осезание),Taste
+Вкус,Taste
 Влагалище,Vagina
 Владивосток,Vladivostok
 Владимир Ленин,Vladimir Lenin
@@ -1099,11 +1099,11 @@ bulgarian,english
 Влечуги,Reptile
 Вода,Water
 Водка,Vodka
-Водна змия (съзвездие),Hydrus
+Водна змия,Hydrus
 Водна топка,Water polo
 Водни гъби,Sponge
 Водни рози,Nymphaeaceae
-Водолей (съзвездие),Aquarius (constellation)
+Водолей,Aquarius
 Водопад,Waterfall
 Водорасли,Algae
 Водород,Hydrogen
@@ -1115,7 +1115,7 @@ bulgarian,english
 Военновъздушни сили на Съединените американски щати,United States Air Force
 Военноморски сили на Съединените американски щати,United States Navy
 Война,War
-Война в Персийския залив (1990-1991),Gulf War
+Война в Персийския залив,Gulf War
 Война за испанското наследство,War of the Spanish Succession
 Война на розите,Wars of the Roses
 Война от Йом Кипур,Yom Kippur War
@@ -1146,17 +1146,17 @@ bulgarian,english
 Вуду,Voodoo
 Вулва,Vulva
 Вулкан,Volcano
-Вулкан (митология),Vulcan (mythology)
+Вулкан,Vulcan
 Вулканология,Volcanology
 Въглеводород,Hydrocarbon
 Въглерод,Carbon
 Въглероден диоксид,Carbon dioxide
 Въглехидрат,Carbohydrate
-Възел (скорост),Knot (speed)
+Възел,Knot
 Възпаление,Inflammation
 Възприятие,Perception
 Вълк,Gray Wolf
-Вълк (съзвездие),Lupus (constellation)
+Вълк,Lupus
 Вълна,Wave
 Въпросителен знак,Question mark
 Върба,Willow
@@ -1168,7 +1168,7 @@ bulgarian,english
 Габон,Gabon
 Габороне,Gaborone
 Габриел Липман,Gabriel Lippmann
-Гаврил (архангел),Gabriel
+Гаврил,Gabriel
 Гадолиний,Gadolinium
 Гаетано Доницети,Gaetano Donizetti
 Газ,Gas
@@ -1177,28 +1177,28 @@ bulgarian,english
 Гай Фокс,Guy Fawkes
 Галактика,Galaxy
 Галий,Gallium
-Галилео (космически апарат),Galileo (spacecraft)
+Галилео,Galileo
 Галилео Галилей,Galileo Galilei
-Галисия,Galicia (Spain)
-Галиция,Galicia (Central Europe)
+Галисия,Galicia
+Галиция,Galicia
 Галия,Gaul
 Галон,Gallon
-Гама (буква),Gamma
+Гама,Gamma
 Гама-лъчи,Gamma ray
 Гамал Абдел Насър,Gamal Abdel Nasser
 Гамбия,The Gambia
 Гана,Ghana
 Ганг,Ganges
 Ганеша,Ganesha
-Ганимед (митология),Ganymede
-Ганимед (спътник),Ganymede (moon)
+Ганимед,Ganymede
+Ганимед,Ganymede
 Гансу,Gansu
 Гап,Gap
-Гарван (съзвездие),Corvus (constellation)
+Гарван,Corvus
 Гаргойл,Gargoyle
 Гарона,Garonne
 Гваделупа,Guadeloupe
-Гватемала (град),Guatemala City
+Гватемала,Guatemala City
 Гвинейски залив,Gulf of Guinea
 Гвинея,Guinea
 Гвинея-Бисау,Guinea-Bissau
@@ -1236,7 +1236,7 @@ bulgarian,english
 Герой,Hero
 Гестапо,Gestapo
 Гето,Ghetto
-Гея (митология),Gaia (mythology)
+Гея,Gaia
 Ги дьо Мопасан,Guy de Maupassant
 Гибралтар,Gibraltar
 Гибралтарски проток,Strait of Gibraltar
@@ -1268,7 +1268,7 @@ bulgarian,english
 Глюкагон,Glucagon
 Глюкоза,Glucose
 Гностицизъм,Gnosticism
-Го,Go (board game)
+Го,Go
 Гоа,Goa
 Гоби,Gobi Desert
 Година,Year
@@ -1281,11 +1281,11 @@ bulgarian,english
 Голф,Golf
 Голям бариерен риф,Great Barrier Reef
 Голям гмурец,Great Crested Grebe
-Голям шлем (тенис),Grand Slam (tennis)
+Голям шлем,Grand Slam
 Голям ястреб,Goshawk
-Голяма мечка (съзвездие),Ursa Major
+Голяма мечка,Ursa Major
 Голяма панда,Giant Panda
-Голямо куче (съзвездие),Canis Major
+Голямо куче,Canis Major
 Гомел,Gomel
 Гоминдан,Kuomintang
 Гонкур,Prix Goncourt
@@ -1304,7 +1304,7 @@ bulgarian,english
 Градина,Garden
 Градинарство,Gardening
 Градус,Degree
-Градус (ъгъл),Degree (angle)
+Градус,Degree
 Градушка,Hail
 Гражданска война,Civil war
 Гражданска война в Испания,Spanish Civil War
@@ -1316,13 +1316,13 @@ bulgarian,english
 Гранат,Garnet
 Граната,Hand grenade
 Гранит,Granite
-Граница (математика),Limit (mathematics)
+Граница,Limit
 Графит,Graphite
 Графити,Graffiti
 Графичен дизайн,Graphic design
 Грац,Graz
 Грегор Мендел,Gregor Mendel
-Грей (единица),Gray (unit)
+Грей,Gray
 Грейпфрут,Grapefruit
 Грейс Кели,Grace Kelly
 Гренландия,Greenland
@@ -1338,13 +1338,13 @@ bulgarian,english
 Гробище,Cemetery
 Грозде,Grape
 Грозни,Grozny
-Гросмайстор,Grandmaster (chess)
+Гросмайстор,Grandmaster
 Гроувър Кливланд,Grover Cleveland
-Грузия,Georgia (country)
+Грузия,Georgia
 Група,Group
-Група (алгебра),Group (mathematics)
+Група,Group
 Група 1А на периодичната система,Alkali metal
-Група на периодичната система,Group (periodic table)
+Група на периодичната система,Group
 Гръбначен стълб,Vertebral column
 Гръбначни,Vertebrate
 Гръцка азбука,Greek alphabet
@@ -1361,7 +1361,7 @@ bulgarian,english
 Густав Климт,Gustav Klimt
 Густав Лудвиг Херц,Gustav Ludwig Hertz
 Густав Малер,Gustav Mahler
-Гущер (съзвездие),Lacerta
+Гущер,Lacerta
 Гъби,Fungus
 Гъби,Mushroom
 Гъвкав магнитен диск,Floppy disk
@@ -1375,7 +1375,7 @@ bulgarian,english
 Гьотеборг,Gothenburg
 Гюстав Курбе,Gustave Courbet
 Гюстав Флобер,Gustave Flaubert
-Д-р Хаус,House (TV series)
+Д-р Хаус,House
 ДДТ,DDT
 ДНК,DNA
 Давид Хилберт,David Hilbert
@@ -1388,7 +1388,7 @@ bulgarian,english
 Далечен Изток,Far East
 Далия,Dahlia
 Далмация,Dalmatia
-Дама (шахмат),Queen (chess)
+Дама,Queen
 Дамаск,Damascus
 Даниел Бернули,Daniel Bernoulli
 Даниел Дефо,Daniel Defoe
@@ -1406,22 +1406,22 @@ bulgarian,english
 Дафне,Daphne
 Даяна Спенсър,Diana
 Двигател,Engine
-Движение,Motion (physics)
+Движение,Motion
 Двойна звезда,Binary star
 Двугърба камила,Bactrian Camel
 Двусемеделни,Dicotyledon
 Двуутробни,Marsupial
 Де Мойн,Des Moines
 Де факто,De facto
-Дебют (шахмат),Chess opening
-Дева (съзвездие),Virgo (constellation)
+Дебют,Chess opening
+Дева,Virgo
 Дедукция,Deductive reasoning
 Дезмънд Туту,Desmond Tutu
 Дейвид Ливингстън,David Livingstone
 Дейвид Уорк Грифит,D. W. Griffith
 Дейвид Хърбърт Лорънс,D. H. Lawrence
 Дейвид Хюм,David Hume
-Деймос (спътник),Deimos (moon)
+Деймос,Deimos
 Декартова координатна система,Cartesian coordinate system
 Декартово произведение,Cartesian product
 Декември,December
@@ -1429,18 +1429,18 @@ bulgarian,english
 Деко,Deco
 Деконструкция,Deconstruction
 Делауеър,Delaware
-Деление,Division (mathematics)
-Делта,Delta (letter)
-Делта (пояснение),Delta
+Деление,Division
+Делта,Delta
+Делта,Delta
 Делфи,Delphi
-Делфин (съзвездие),Delphinus
+Делфин,Delphinus
 Делфинови,Dolphin
 Делфт,Delft
 Делхи,Delhi
 Деменция,Dementia
 Деметра,Demeter
 Демография,Demography
-Демократическа партия (САЩ),Democratic Party (United States)
+Демократическа партия,Democratic Party
 Демократична република Конго,Democratic Republic of the Congo
 Демокрация,Democracy
 Демокрит,Democritus
@@ -1448,9 +1448,9 @@ bulgarian,english
 Демостен,Demosthenes
 Ден,Day
 Ден на благодарността,Thanksgiving
-Ден на благодарността,Thanksgiving (United States)
-Ден на благодарността,Thanksgiving (Canada)
-Ден на благодарността,Thanksgiving (disambiguation)
+Ден на благодарността,Thanksgiving
+Ден на благодарността,Thanksgiving
+Ден на благодарността,Thanksgiving
 Ден на майката,Mother's Day
 Денвър,Denver
 Денга,Dengue fever
@@ -1468,8 +1468,8 @@ bulgarian,english
 Детска градина,Kindergarten
 Деутерий,Deuterium
 Децибел,Decibel
-Деций Траян,Decius (emperor)
-Джава,Java (disambiguation)
+Деций Траян,Decius
+Джава,Java
 Джавахарлал Неру,Jawaharlal Nehru
 Джаз,Jazz
 Джак Изкормвача,Jack the Ripper
@@ -1477,7 +1477,7 @@ bulgarian,english
 Джак Лемън,Jack Lemmon
 Джакарта,Jakarta
 Джакомо Пучини,Giacomo Puccini
-Джаксън (Мисисипи),Jackson
+Джаксън,Jackson
 Джаксънвил,Jacksonville
 Джамия,Mosque
 Джаму и Кашмир,Jammu and Kashmir
@@ -1507,11 +1507,11 @@ bulgarian,english
 Джеферсън Дейвис,Jefferson Davis
 Джеферсън Сити,Jefferson City
 Джефри Чосър,Geoffrey Chaucer
-Джибути (град),Djibouti (city)
-Джида (град),Jeddah
+Джибути,Djibouti
+Джида,Jeddah
 Джими Картър,Jimmy Carter
 Джими Хендрикс,Jimi Hendrix
-Джин (дух),Genie
+Джин,Genie
 Джинджифил,Ginger
 Джироламо Савонарола,Girolamo Savonarola
 Джовани Бокачо,Giovanni Boccaccio
@@ -1548,9 +1548,9 @@ bulgarian,english
 Джордж Стивънсън,George Stephenson
 Джордж Уокър Буш,George W. Bush
 Джордж Харисън,George Harrison
-Джорджия,Georgia (U.S. state)
+Джорджия,Georgia
 Джорджо Вазари,Giorgio Vasari
-Джорджтаун (Гвиана),Georgetown
+Джорджтаун,Georgetown
 Джото,Giotto di Bondone
 Джоузеф Конрад,Joseph Conrad
 Джоузеф Маккарти,Joseph McCarthy
@@ -1568,11 +1568,11 @@ bulgarian,english
 Диалектически материализъм,Dialectical materialism
 Диамант,Diamond
 Диаметър,Diameter
-Диана (богиня),Diana (mythology)
+Диана,Diana
 Дива коза,Chamois
 Дива котка,Wildcat
-Дивергенция (математика),Divergence
-Дивизия,Division (military)
+Дивергенция,Divergence
+Дивизия,Division
 Диджей,Disc jockey
 Диего Ривера,Diego Rivera
 Дижон,Dijon
@@ -1582,7 +1582,7 @@ bulgarian,english
 Дизи Гилеспи,Dizzy Gillespie
 Диктатура,Dictatorship
 Димитрий Менделеев,Dmitri Mendeleev
-Динамика,Dynamics (physics)
+Динамика,Dynamics
 Динамит,Dynamite
 Династия,Dynasty
 Динозаври,Dinosaur
@@ -1598,7 +1598,7 @@ bulgarian,english
 Диференциално уравнение,Differential equation
 Дифракция,Diffraction
 Дифтерия,Diphtheria
-Длето (съзвездие),Caelum
+Длето,Caelum
 Дмитрий Шостакович,Dmitri Shostakovich
 Днепропетровск,Dnipropetrovsk
 Днепър,Dnieper River
@@ -1609,7 +1609,7 @@ bulgarian,english
 Додома,Dodoma
 Доктрина Труман,Truman Doctrine
 Документ,Document
-Доли (овца),Dolly (sheep)
+Доли,Dolly
 Долина,Valley
 Долмен,Dolmen
 Долна Калифорния,Baja California
@@ -1626,7 +1626,7 @@ bulgarian,english
 Доминика,Dominica
 Доминиканска република,Dominican Republic
 Домициан,Domitian
-Дон,Don River (Russia)
+Дон,Don River
 Дон Кихот,Don Quixote
 Доналд Дък,Donald Duck
 Донасиен Алфонс Франсоа дьо Сад,Marquis de Sade
@@ -1638,28 +1638,28 @@ bulgarian,english
 Дорийски стил,Doric order
 Дорис Лесинг,Doris Lessing
 Дортмунд,Dortmund
-Доувър (Делауеър),Dover
+Доувър,Dover
 Доха,Doha
 Дракон,Dragon
-Дракон (съзвездие),Draco (constellation)
+Дракон,Draco
 Дракула,Dracula
-Драма (литература),Drama
+Драма,Drama
 Древна Македония,Macedon
 Древногръцка митология,Greek mythology
 Дрезден,Dresden
-Дроб (математика),Fraction (mathematics)
+Дроб,Fraction
 Друид,Druid
 Дръмбой,Jew's harp
 Дуайт Айзенхауер,Dwight D. Eisenhower
 Дуала,Douala
-Дуализъм (религия),Dualism
-Дуализъм (философия),Dualism (philosophy of mind)
+Дуализъм,Dualism
+Дуализъм,Dualism
 Дубай,Dubai
 Дубний,Dubnium
 Дубровник,Dubrovnik
 Дума,Word
 Дунав,Danube
-Дух (призрак),Ghost
+Дух,Ghost
 Духовенство,Clergy
 Душа,Soul
 Душанбе,Dushanbe
@@ -1667,7 +1667,7 @@ bulgarian,english
 Дъб,Oak
 Дъблин,Dublin
 Дъвка,Chewing gum
-Дъга (оптична),Rainbow
+Дъга,Rainbow
 Дъглас Макартър,Douglas MacArthur
 Дължина на вълната,Wavelength
 Дън Сяопин,Deng Xiaoping
@@ -1698,8 +1698,8 @@ bulgarian,english
 Еврипид,Euripides
 Евро,Euro
 Европа,Europe
-Европа (митология),Europa (mythology)
-Европа (спътник),Europa (moon)
+Европа,Europa
+Европа,Europa
 Европейска общност,European Community
 Европейска централна банка,European Central Bank
 Европейски съюз,European Union
@@ -1707,7 +1707,7 @@ bulgarian,english
 Евтаназия,Euthanasia
 Евтерпа,Euterpe
 Евфемизъм,Euphemism
-Егейска Македония,Macedonia (Greece)
+Егейска Македония,Macedonia
 Егейско море,Aegean Sea
 Египет,Egypt
 Египтология,Egyptology
@@ -1729,8 +1729,8 @@ bulgarian,english
 Едуард Бухнер,Eduard Buchner
 Едуин Хъбъл,Edwin Hubble
 Езеро,Lake
-Език (биология),Tongue
-Език (лингвистика),Language
+Език,Tongue
+Език,Language
 Език за програмиране,Programming language
 Езикознание,Linguistics
 Езичество,Paganism
@@ -1749,13 +1749,13 @@ bulgarian,english
 Експеримент,Experiment
 Експресионизъм,Expressionism
 Ексхибиционизъм,Exhibitionism
-Ексцентрицитет (орбита),Eccentricity (mathematics)
+Ексцентрицитет,Eccentricity
 Ектор Берлиоз,Hector Berlioz
 Ел Греко,El Greco
 Ел Пасо,El Paso
 Ела,Fir
 Ела Фицджералд,Ella Fitzgerald
-Елба (река),Elbe
+Елба,Elbe
 Елвис Пресли,Elvis Presley
 Елегия,Elegy
 Електра,Electra
@@ -1804,7 +1804,7 @@ bulgarian,english
 Енеида,Aeneid
 Еней,Aeneas
 Енергия,Energy
-Енергия,Energy (society)
+Енергия,Energy
 Ензим,Enzyme
 Енисей,Yenisei River
 Еничарски корпус,Janissary
@@ -1817,13 +1817,13 @@ bulgarian,english
 Ентропия,Entropy
 Енциклопедия,Encyclopedia
 Еол,Aeolus
-Еон (геология),Eon (geology)
+Еон,Eon
 Еос,Eos
 Епиграфика,Epigraphy
 Епикур,Epicurus
 Епилепсия,Epilepsy
-Епиметей,Epimetheus (mythology)
-Епир,Epirus (periphery)
+Епиметей,Epimetheus
+Епир,Epirus
 Епископ,Bishop
 Епистемология,Epistemology
 Епителна тъкан,Epithelium
@@ -1839,19 +1839,19 @@ bulgarian,english
 Ерекция,Erection
 Ерес,Heresy
 Ери,Lake Erie
-Ерида,Eris (mythology)
-Ерида (планета-джудже),Eris (dwarf planet)
-Еридан (съзвездие),Eridanus (constellation)
+Ерида,Eris
+Ерида,Eris
+Еридан,Eridanus
 Ерик Аксел Карлфелт,Erik Axel Karlfeldt
 Еритроцит,Red blood cell
 Ернст Теодор Амадеус Хофман,E. T. A. Hoffmann
 Ерозия на почвата,Erosion
-Ерос,Eros (mythology)
+Ерос,Eros
 Еротика,Erotica
 Есе,Essay
 Есекс,Essex
-Есен (град),Essen
-Есен (сезон),Autumn
+Есен,Essen
+Есен,Autumn
 Еснаф,Guild
 Есперанто,Esperanto
 Еспоо,Espoo
@@ -1861,21 +1861,21 @@ bulgarian,english
 Естетика,Aesthetics
 Естроген,Estrogen
 Есхил,Aeschylus
-Ета (буква),Eta (letter)
+Ета,Eta
 Етанол,Ethanol
 Етернет,Ethernet
 Етика,Ethics
 Етилен,Ethylene
 Етимология,Etymology
 Етиопия,Ethiopia
-Етна (вулкан),Mount Etna
+Етна,Mount Etna
 Етническа група,Ethnic group
 Етнография,Ethnography
 Етология,Ethology
 Еукариоти,Eukaryote
 Ефес,Ephesus
 Ефрат,Euphrates
-Ехидна (митология),Echidna (mythology)
+Ехидна,Echidna
 Ехидни,Echidna
 Ехнатон,Akhenaten
 Ечемик,Barley
@@ -1899,16 +1899,16 @@ bulgarian,english
 Женева,Geneva
 Женевско езеро,Lake Geneva
 Женско биле,Liquorice
-Жерав (съзвездие),Grus (constellation)
-Жеравови,Crane (bird)
+Жерав,Grus
+Жеравови,Crane
 Жеравоподобни,Gruiformes
-Жертвеник (съзвездие),Ara (constellation)
-Живак,Mercury (element)
-Живописец (съзвездие),Pictor
+Жертвеник,Ara
+Живак,Mercury
+Живописец,Pictor
 Живот,Life
 Животни,Animal
 Жираф,Giraffe
-Жиронд (департамент),Gironde
+Жиронд,Gironde
 Житни,Poaceae
 Жлеза,Gland
 Жорж Бизе,Georges Bizet
@@ -1924,7 +1924,7 @@ bulgarian,english
 Жюл Верн,Jules Verne
 Забулена сова,Barn Owl
 Загреб,Zagreb
-Заек (съзвездие),Lepus (constellation)
+Заек,Lepus
 Зайцеподобни,Lagomorpha
 Закари Тейлър,Zachary Taylor
 Закон за запазване на енергията,Conservation of energy
@@ -1933,7 +1933,7 @@ bulgarian,english
 Закон на Хъбъл,Hubble's law
 Законодателна власт,Legislature
 Залцбург,Salzburg
-Залцбург (провинция),Salzburg (state)
+Залцбург,Salzburg
 Замбези,Zambezi
 Замбия,Zambia
 Замърсяване,Pollution
@@ -1949,20 +1949,20 @@ bulgarian,english
 Западна Сахара,Western Sahara
 Зар,Dice
 Застраховане,Insurance
-Затвор (институция),Prison
+Затвор,Prison
 Затлъстяване,Obesity
 Затъмнение,Eclipse
 Захар,Sugar
 Захароза,Sucrose
 Зачеване,Fertilisation
-Защитна стена,Firewall (networking)
+Защитна стена,Firewall
 Звателен падеж,Vocative case
 Звезда,Star
 Звук,Sound
 Здраве,Health
 Зебра,Zebra
 Зевс,Zeus
-Зевс,Zeus (disambiguation)
+Зевс,Zeus
 Зелен цвят,Green
 Зелена мухоморка,Amanita phalloides
 Зеленоглава патица,Mallard
@@ -1970,15 +1970,15 @@ bulgarian,english
 Земеделие,Agriculture
 Земеподобна планета,Terrestrial planet
 Земетресение,Earthquake
-Земна кора,Crust (geology)
-Земна мантия,Mantle (geology)
+Земна кора,Crust
+Земна мантия,Mantle
 Земни пчели,Bumblebee
 Земноводни,Amphibian
 Земя,Earth
 Зен-будизъм,Zen
 Зенит,Zenith
 Зеница,Pupil
-Зенон (Византийска империя),Zeno (emperor)
+Зенон,Zeno
 Зенон от Елея,Zeno of Elea
 Зенон от Китион,Zeno of Citium
 Зета,Zeta
@@ -1988,12 +1988,12 @@ bulgarian,english
 Зимбабве,Zimbabwe
 Зимни олимпийски игри,Winter Olympic Games
 Златна орда,Golden Horde
-Златна рибка (съзвездие),Dorado
+Златна рибка,Dorado
 Злато,Gold
-Змиеносец (съзвездие),Ophiuchus
+Змиеносец,Ophiuchus
 Змии,Snake
 Змиоркообразни,Eel
-Змия (съзвездие),Serpens
+Змия,Serpens
 Знаме,Flag
 Зодиак,Zodiac
 Зомби,Zombie
@@ -2014,7 +2014,7 @@ bulgarian,english
 Игра,Game
 Игра с карти,Card game
 Играчка,Toy
-Игуасу (водопад),Iguazu Falls
+Игуасу,Iguazu Falls
 Идеален газ,Ideal gas
 Идеализъм,Idealism
 Идеология,Ideology
@@ -2034,7 +2034,7 @@ bulgarian,english
 Изпарение,Evaporation
 Изправен човек,Homo erectus
 Изпражнения,Feces
-Изпълнителна власт,Executive (government)
+Изпълнителна власт,Executive
 Израел,Israel
 Изток,East
 Източен Тимор,East Timor
@@ -2043,12 +2043,12 @@ bulgarian,english
 Източноправославна църква,Eastern Orthodox Church
 Изтребител,Fighter aircraft
 Изумруд,Emerald
-Изход (Библия),Exodus
+Изход,Exodus
 Изходен код,Source code
 Икона,Icon
 Иконоборство,Iconoclasm
-Икономика (наука),Economics
-Икономика (наука),Economy
+Икономика,Economics
+Икономика,Economy
 Илиада,Iliad
 Илинойс,Illinois
 Имам,Imam
@@ -2058,7 +2058,7 @@ bulgarian,english
 Империализъм,Imperialism
 Империя,Empire
 Импресионизъм,Impressionism
-Импулс (механика),Momentum
+Импулс,Momentum
 Имунна система,Immune system
 Имунология,Immunology
 Ингмар Бергман,Ingmar Bergman
@@ -2085,7 +2085,7 @@ bulgarian,english
 Интегрална схема,Integrated circuit
 Интелект,Intelligence
 Интернет,Internet
-Интернет трол,Troll (Internet)
+Интернет трол,Troll
 Интранет,Intranet
 Инфаркт на миокарда,Myocardial infarction
 Инфлация,Inflation
@@ -2104,9 +2104,9 @@ bulgarian,english
 Ирационално число,Irrational number
 Иредентизъм,Irredentism
 Ирейжър,Erasure
-Ирида,Iris (mythology)
+Ирида,Iris
 Ириней Лионски,Irenaeus
-Ирландия (остров),Ireland
+Ирландия,Ireland
 Ирландска републиканска армия,Irish Republican Army
 Ирландско море,Irish Sea
 Ирония,Irony
@@ -2127,16 +2127,16 @@ bulgarian,english
 Италия,Italy
 Итало Калвино,Italo Calvino
 Йеилски университет,Yale University
-Йелоустоун (национален парк),Yellowstone National Park
+Йелоустоун,Yellowstone National Park
 Йемен,Yemen
-Йена (град),Jena
+Йена,Jena
 Йерихон,Jericho
 Йероним,Jerome
 Йеронимус Бош,Hieronymus Bosch
 Йерусалим,Jerusalem
 Йети,Yeti
-Йо (митология),Io (mythology)
-Йо (спътник),Io (moon)
+Йо,Io
+Йо,Io
 Йо-йо,Yo-yo
 Йоан Златоуст,John Chrysostom
 Йоан Кръстител,John the Baptist
@@ -2153,9 +2153,9 @@ bulgarian,english
 Йонийско море,Ionian Sea
 Йонна химична връзка,Ionic bond
 Йоносфера,Ionosphere
-Йордан (река),Jordan River
+Йордан,Jordan River
 Йордания,Jordan
-Йосемити (национален парк),Yosemite National Park
+Йосемити,Yosemite National Park
 Йосиф Сталин,Joseph Stalin
 Йосиф Флавий,Josephus
 Йота,Iota
@@ -2178,7 +2178,7 @@ bulgarian,english
 Кавказ,Caucasus Mountains
 Кадъм,Cadmus
 Казабланка,Casablanca
-Казан (Русия),Kazan
+Казан,Kazan
 Казахстан,Kazakhstan
 Казимир Малевич,Kazimir Malevich
 Казино,Casino
@@ -2191,7 +2191,7 @@ bulgarian,english
 Калабрия,Calabria
 Калай,Tin
 Калахари,Kalahari Desert
-Калвадос (департамент),Calvados
+Калвадос,Calvados
 Калвин Кулидж,Calvin Coolidge
 Калвинизъм,Calvinism
 Калдера,Caldera
@@ -2201,9 +2201,9 @@ bulgarian,english
 Калиев нитрат,Potassium nitrate
 Калий,Potassium
 Калиопа,Calliope
-Калипсо,Calypso (mythology)
-Калисто (митология),Callisto (mythology)
-Калисто (спътник),Callisto (moon)
+Калипсо,Calypso
+Калисто,Callisto
+Калисто,Callisto
 Калифорния,California
 Калкулатор,Calculator
 Калкута,Kolkata
@@ -2211,9 +2211,9 @@ bulgarian,english
 Калциев карбонат,Calcium carbonate
 Калций,Calcium
 Калцит,Calcite
-Камамбер,Camembert (cheese)
+Камамбер,Camembert
 Камара на представителите на САЩ,United States House of Representatives
-Камбана,Bell (instrument)
+Камбана,Bell
 Камбоджа,Cambodia
 Каменна ера,Stone Age
 Каменни въглища,Coal
@@ -2223,9 +2223,9 @@ bulgarian,english
 Кампала,Kampala
 Кампания,Campania
 Камчатка,Kamchatka Peninsula
-Кан (Южна Франция),Cannes
-Кан (титла),Khan
-Канаверал (нос),Cape Canaveral
+Кан,Cannes
+Кан,Khan
+Канаверал,Cape Canaveral
 Канада,Canada
 Канадски долар,Canadian dollar
 Канал,Canal
@@ -2235,29 +2235,29 @@ bulgarian,english
 Кандела,Candela
 Канела,Cinnamon
 Канзас,Kansas
-Канзас Сити (Мисури),Kansas City
+Канзас Сити,Kansas City
 Канибализъм,Cannibalism
 Кантата,Cantata
-Кантонски език,Cantonese (linguistics)
+Кантонски език,Cantonese
 Кану,Canoe
-Капа (буква),Kappa
+Капа,Kappa
 Кападокия,Cappadocia
-Капитал,Capital (economics)
+Капитал,Capital
 Капитализъм,Capitalism
 Каракал,Caracal
 Каракас,Caracas
 Каракорум,Karakoram
-Карамфил (подправка),Clove
+Карамфил,Clove
 Карантина,Quarantine
-Карат (маса),Carat (mass)
-Карат (тегловна единица),Carat (purity)
+Карат,Carat
+Карат,Carat
 Карате,Karate
 Карачи,Karachi
 Карбамид,Urea
 Карбоксилна киселина,Carboxylic acid
 Карбуратор,Carburetor
 Кардамон,Cardamom
-Кардинал,Cardinal (Catholicism)
+Кардинал,Cardinal
 Кардиф,Cardiff
 Карибски острови,Caribbean
 Карибско море,Caribbean Sea
@@ -2288,591 +2288,591 @@ bulgarian,english
 Картофови,Solanaceae
 Карфиол,Cauliflower
 Касандра,Cassandra
-Касиопея (съзвездие),Cassiopeia (constellation)
+Касиопея,Cassiopeia
 Каспийско море,Caspian Sea
 Каста,Caste
-Кастилия (историческа област),Castile (historical region)
+Кастилия,Castile
 Кастрийс,Castries
 Катализа,Catalysis
 Каталония,Catalonia
 Катар,Qatar
 Катарство,Catharism
 Катафракт,Cataphract
-Категория:Абхазия,Abkhazia
-Категория:Авиация,Aviation
-Категория:Австралия,Australia
-Категория:Австрия,Austria
-Категория:Азербайджан,Azerbaijan
-Категория:Азия,Asia
-Категория:Айдахо,Idaho
-Категория:Айова,Iowa
-Категория:Акустика,Acoustics
-Категория:Алабама,Alabama
-Категория:Албания,Albania
-Категория:Алгебра,Algebra
-Категория:Алжир,Algeria
-Категория:Алпи,Alps
-Категория:Алтернативна медицина,Alternative medicine
-Категория:Алхимия,Alchemy
-Категория:Аляска,Alaska
-Категория:Американски футбол,American football
-Категория:Амстердам,Amsterdam
-Категория:Анархизъм,Anarchism
-Категория:Анатомия,Anatomy
-Категория:Англичани,English people
-Категория:Англия,England
-Категория:Ангола,Angola
-Категория:Андора,Andorra
-Категория:Аниме,Anime
-Категория:Антарктида,Antarctica
-Категория:Антигуа и Барбуда,Antigua and Barbuda
-Категория:Антисемитизъм,Antisemitism
-Категория:Античност,Ancient history
-Категория:Антропология,Anthropology
-Категория:Аржентина,Argentina
-Категория:Аризона,Arizona
-Категория:Аристокрация,Nobility
-Категория:Арканзас,Arkansas
-Категория:Армения,Armenia
-Категория:Артилерия,Artillery
-Категория:Аруба,Aruba
-Категория:Археология,Archaeology
-Категория:Архитектура,Architecture
-Категория:Астрология,Astrology
-Категория:Астрономия,Astronomy
-Категория:Астрофизика,Astrophysics
-Категория:Атлантически океан,Atlantic Ocean
-Категория:Атомна физика,Atomic physics
-Категория:Афганистан,Afghanistan
-Категория:Африка,Africa
-Категория:Бавария,Bavaria
-Категория:Бактерии,Bacteria
-Категория:Балет,Ballet
-Категория:Бангладеш,Bangladesh
-Категория:Банки,Banks
-Категория:Барбадос,Barbados
-Категория:Барселона,Barcelona
-Категория:Баскетбол,Basketball
-Категория:Бахамски острови,Bahamas
-Категория:Бахрейн,Bahrain
-Категория:Бейзбол,Baseball
-Категория:Беларус,Belarus
-Категория:Белгия,Belgium
-Категория:Белиз,Belize
-Категория:Бенин,Benin
-Категория:Берлин,Berlin
-Категория:Бермудски острови,Bermuda
-Категория:Библия,Bible
-Категория:Бизнесмени,Businesspeople
-Категория:Биология,Biology
-Категория:Биохимия,Biochemistry
-Категория:Бира,Beer
-Категория:Близък Изток,Middle East
-Категория:Бокс,Boxing
-Категория:Боксьори,Boxers
-Категория:Боливия,Bolivia
-Категория:Босна и Херцеговина,Bosnia and Herzegovina
-Категория:Ботаника,Botany
-Категория:Ботсвана,Botswana
-Категория:Бразилия,Brazil
-Категория:Британци,British people
-Категория:Бруней,Brunei
-Категория:Будизъм,Buddhism
-Категория:Букови,Fagaceae
-Категория:Буркина Фасо,Burkina Faso
-Категория:Бурунди,Burundi
-Категория:Бутан,Bhutan
-Категория:България,Bulgaria
-Категория:Вануату,Vanuatu
-Категория:Ватикан,Vatican City
-Категория:Вашингтон (щат),Washington
-Категория:Венецуела,Venezuela
-Категория:Виена,Vienna
-Категория:Виетнам,Vietnam
-Категория:Виетнамска война,Vietnam War
-Категория:Византийска империя,Byzantine Empire
-Категория:Вирджиния,Virginia
-Категория:Вода,Water
-Категория:Военно дело,Military
-Категория:Война,War
-Категория:Волейбол,Volleyball
-Категория:Врабчоподобни,Passeriformes
-Категория:Време,Time
-Категория:Втора световна война,World War II
-Категория:Вулканология,Volcanology
-Категория:Върмонт,Vermont
-Категория:ГНУ/Линукс,Linux
-Категория:Габон,Gabon
-Категория:Гамбия,The Gambia
-Категория:Гана,Ghana
-Категория:Гватемала,Guatemala
-Категория:Гвиана,Guyana
-Категория:Гвинея,Guinea
-Категория:Гвинея-Бисау,Guinea-Bissau
-Категория:Генеалогия,Genealogy
-Категория:Генетика,Genetics
-Категория:Геноцид,Genocide
-Категория:География,Geography
-Категория:Геодезия,Geodesy
-Категория:Геология,Geology
-Категория:Геометрия,Geometry
-Категория:Геоморфология,Geomorphology
-Категория:Геофизика,Geophysics
-Категория:Германия,Germany
-Категория:Гибралтар,Gibraltar
-Категория:Годишни дни,Days
-Категория:Голф,Golf
-Категория:Граматика,Grammar
-Категория:Графичен дизайн,Graphic design
-Категория:Гренада,Grenada
-Категория:Гренландия,Greenland
-Категория:Грузия,Georgia (country)
-Категория:Гъби,Fungi
-Категория:Гълъбоподобни,Columbiformes
-Категория:Гърция,Greece
-Категория:Гъскоподобни,Anseriformes
-Категория:Дания,Denmark
-Категория:Данъчно облагане,Taxation
-Категория:Делауеър,Delaware
-Категория:Демография,Demography
-Категория:Демократична република Конго,Democratic Republic of the Congo
-Категория:Джаз,Jazz
-Категория:Джибути,Djibouti
-Категория:Джорджия,Georgia (U.S. state)
-Категория:Дизайн,Design
-Категория:Дипломация,Diplomacy
-Категория:Доминика,Dominica
-Категория:Древногръцка митология,Greek mythology
-Категория:Европа,Europe
-Категория:Европейски съюз,European Union
-Категория:Египет,Egypt
-Категория:Еквадор,Ecuador
-Категория:Екваториална Гвинея,Equatorial Guinea
-Категория:Екология,Ecology
-Категория:Електричество,Electricity
-Категория:Електромагнетизъм,Electromagnetism
-Категория:Електроника,Electronics
-Категория:Електротехника,Electrical engineering
-Категория:Електрохимия,Electrochemistry
-Категория:Емоционалност,Emotion
-Категория:Ендокринология,Endocrinology
-Категория:Енергия,Energy
-Категория:Ентомология,Entomology
-Категория:Еритрея,Eritrea
-Категория:Естония,Estonia
-Категория:Етика,Ethics
-Категория:Етиопия,Ethiopia
-Категория:Живопис,Painting
-Категория:Журналистика,Journalism
-Категория:Забавление,Entertainment
-Категория:Замбия,Zambia
-Категория:Западна Вирджиния,West Virginia
-Категория:Западна Сахара,Western Sahara
-Категория:Здраве,Health
-Категория:Земеделие,Agriculture
-Категория:Земя,Earth
-Категория:Зимбабве,Zimbabwe
-Категория:Зимни олимпийски игри,Winter Olympic Games
-Категория:Зоология,Zoology
-Категория:Изкуство,Arts
-Категория:Измерване,Measurement
-Категория:Израел,Israel
-Категория:Източен Тимор,East Timor
-Категория:Икономика,Economics
-Категория:Илинойс,Illinois
-Категория:Имунология,Immunology
-Категория:Индиана,Indiana
-Категория:Индия,India
-Категория:Индонезия,Indonesia
-Категория:Индуизъм,Hinduism
-Категория:Инженерство,Engineering
-Категория:Интернет,Internet
-Категория:Информатика,Computer science
-Категория:Ирак,Iraq
-Категория:Иран,Iran
-Категория:Ирландия,Republic of Ireland
-Категория:Ирландия,Ireland
-Категория:Ирландци,Irish people
-Категория:Исландия,Iceland
-Категория:Ислям,Islam
-Категория:Испания,Spain
-Категория:Испанци,Spanish people
-Категория:Истанбул,Istanbul
-Категория:История,History
-Категория:История на изкуството,Art history
-Категория:Италия,Italy
-Категория:Йемен,Yemen
-Категория:Йерусалим,Jerusalem
-Категория:Йордания,Jordan
-Категория:Кабо Верде,Cape Verde
-Категория:Казахстан,Kazakhstan
-Категория:Калифорния,California
-Категория:Камбоджа,Cambodia
-Категория:Камерун,Cameroon
-Категория:Канада,Canada
-Категория:Канзас,Kansas
-Категория:Кардиология,Cardiology
-Категория:Кариби,Caribbean
-Категория:Картография,Cartography
-Категория:Картофови,Solanaceae
-Категория:Каталония,Catalonia
-Категория:Катар,Qatar
-Категория:Кафе,Coffee
-Категория:Квантова механика,Quantum mechanics
-Категория:Квебек,Quebec
-Категория:Кения,Kenya
-Категория:Кентъки,Kentucky
-Категория:Кипър,Cyprus
-Категория:Киргизстан,Kyrgyzstan
-Категория:Кирибати,Kiribati
-Категория:Китай,China
-Категория:Класическа музика,Classical music
-Категория:Климат,Climate
-Категория:Климатология,Climatology
-Категория:Кокошоподобни,Galliformes
-Категория:Колоездене,Cycling
-Категория:Колорадо,Colorado
-Категория:Колумбия,Colombia
-Категория:Коморски острови,Comoros
-Категория:Компютърен хардуер,Computer hardware
-Категория:Компютърни науки,Computing
-Категория:Комунизъм,Communism
-Категория:Комуникация,Communication
-Категория:Корея,Korea
-Категория:Космология,Cosmology
-Категория:Косово,Kosovo
-Категория:Коста Рика,Costa Rica
-Категория:Криптография,Cryptography
-Категория:Кристалография,Crystallography
-Категория:Куба,Cuba
-Категория:Кувейт,Kuwait
-Категория:Култура,Culture
-Категория:Кънектикът,Connecticut
-Категория:Кюрдистан,Kurdistan
-Категория:Лаос,Laos
-Категория:Латвия,Latvia
-Категория:Лека атлетика,Athletics
-Категория:Лесото,Lesotho
-Категория:Либерализъм,Liberalism
-Категория:Либерия,Liberia
-Категория:Либия,Libya
-Категория:Ливан,Lebanon
-Категория:Лингвистика,Linguistics
-Категория:Литва,Lithuania
-Категория:Литература,Literature
-Категория:Лихтенщайн,Liechtenstein
-Категория:Логика,Logic
-Категория:Лондон,London
-Категория:Луизиана,Louisiana
-Категория:Лъженауки,Pseudoscience
-Категория:Люксембург,Luxembourg
-Категория:Мавритания,Mauritania
-Категория:Мавриций,Mauritius
-Категория:Мадагаскар,Madagascar
-Категория:Макроикономика,Macroeconomics
-Категория:Малави,Malawi
-Категория:Малайзия,Malaysia
-Категория:Малдиви,Maldives
-Категория:Мали,Mali
-Категория:Малта,Malta
-Категория:Маркетинг,Marketing
-Категория:Мароко,Morocco
-Категория:Марс,Mars
-Категория:Маршалови острови,Marshall Islands
-Категория:Масачузетс,Massachusetts
-Категория:Математика,Mathematics
-Категория:Математическа логика,Mathematical logic
-Категория:Машинно инженерство,Mechanical engineering
-Категория:Медицина,Medicine
-Категория:Международно право,International law
-Категория:Мейн,Maine
-Категория:Мексико,Mexico
-Категория:Мериленд,Maryland
-Категория:Месопотамия,Mesopotamia
-Категория:Металургия,Metallurgy
-Категория:Метеорология,Meteorology
-Категория:Метро,Rapid transit
-Категория:Метъл,Heavy metal
-Категория:Мианмар,Burma
-Категория:Мианмар,Myanmar
-Категория:Микробиология,Microbiology
-Категория:Микроикономика,Microeconomics
-Категория:Минесота,Minnesota
-Категория:Мисисипи,Mississippi
-Категория:Мисури,Missouri
-Категория:Митология,Mythology
-Категория:Мичиган,Michigan
-Категория:Мода,Fashion
-Категория:Мозамбик,Mozambique
-Категория:Молдова,Moldova
-Категория:Монако,Monaco
-Категория:Монархия,Monarchy
-Категория:Монголия,Mongolia
-Категория:Монтана (щат),Montana
-Категория:Москва,Moscow
-Категория:Мостове,Bridges
-Категория:Музика,Music
-Категория:НАТО,NATO
-Категория:Навигация,Navigation
-Категория:Наказателно право,Criminal law
-Категория:Намибия,Namibia
-Категория:Наука,Science
-Категория:Науру,Nauru
-Категория:Научна фантастика,Science fiction
-Категория:Нацизъм,Nazism
-Категория:Национализъм,Nationalism
-Категория:Нацистка Германия,Nazi Germany
-Категория:Начална категория,Fundamental
-Категория:Небесна механика,Celestial mechanics
-Категория:Небраска,Nebraska
-Категория:Невада,Nevada
-Категория:Неврология,Neurology
-Категория:Непал,Nepal
-Категория:Нервна система,Nervous system
-Категория:Нигер,Niger
-Категория:Нигерия,Nigeria
-Категория:Никарагуа,Nicaragua
-Категория:Нобелова награда,Nobel Prize
-Категория:Нова Зеландия,New Zealand
-Категория:Норвегия,Norway
-Категория:Нумизматика,Numismatics
-Категория:Ню Джърси,New Jersey
-Категория:Ню Йорк,New York City
-Категория:Ню Йорк (щат),New York
-Категория:Ню Мексико,New Mexico
-Категория:Ню Хампшир,New Hampshire
-Категория:ООН,United Nations
-Категория:Обединени арабски емирства,United Arab Emirates
-Категория:Обединено кралство,United Kingdom
-Категория:Обзавеждане,Furniture
-Категория:Облекло,Clothing
-Категория:Образование,Education
-Категория:Общество,Society
-Категория:Океания,Oceania
-Категория:Океанография,Oceanography
-Категория:Оклахома,Oklahoma
-Категория:Околна среда,Environment
-Категория:Олимпийски игри,Olympics
-Категория:Оман,Oman
-Категория:Онкология,Oncology
-Категория:Оптика,Optics
-Категория:Органична химия,Organic chemistry
-Категория:Орегон,Oregon
-Категория:Орнитология,Ornithology
-Категория:Османска империя,Ottoman Empire
-Категория:Охайо,Ohio
-Категория:Пакистан,Pakistan
-Категория:Палау,Palau
-Категория:Палестина,Palestine
-Категория:Панама,Panama
-Категория:Папуа Нова Гвинея,Papua New Guinea
-Категория:Парагвай,Paraguay
-Категория:Париж,Paris
-Категория:Парични единици,Currency
-Категория:Педагогика,Pedagogy
-Категория:Пенсилвания,Pennsylvania
-Категория:Перу,Peru
-Категория:Плодове,Fruit
-Категория:Плуване,Swimming
-Категория:Поезия,Poetry
-Категория:Политика,Politics
-Категория:Политология,Political science
-Категория:Полша,Poland
-Категория:Португалия,Portugal
-Категория:Пояснителни страници,Disambiguation
-Категория:Право,Law
-Категория:Прага,Prague
-Категория:Прилепи,Bats
-Категория:Примати,Primates
-Категория:Природа,Nature
-Категория:Програма Аполо,Apollo program
-Категория:Промишленост,Industry
-Категория:Протоци,Straits
-Категория:Психология,Psychology
-Категория:Пуерто Рико,Puerto Rico
-Категория:Пустини,Deserts
-Категория:Пчеларство,Beekeeping
-Категория:Пънк,Punk
-Категория:Първа световна война,World War I
-Категория:Радио,Radio
-Категория:Расизъм,Racism
-Категория:Религия,Religion
-Категория:Ренесанс,Renaissance
-Категория:Република Конго,Republic of the Congo
-Категория:Република Южна Африка,South Africa
-Категория:Реторика,Rhetoric
-Категория:Риби,Fish
-Категория:Риболов,Fishing
-Категория:Рим,Rome
-Категория:Римска митология,Roman mythology
-Категория:Род Айлънд,Rhode Island
-Категория:Рок,Rock music
-Категория:Руанда,Rwanda
-Категория:Румъния,Romania
-Категория:Русия,Russia
-Категория:САЩ,United States
-Категория:Саксония,Saxony
-Категория:Салвадор,El Salvador
-Категория:Самоа,Samoa
-Категория:Самолети,Aircraft
-Категория:Сан Марино,San Marino
-Категория:Санкт Петербург,Saint Petersburg
-Категория:Сатурн,Saturn
-Категория:Саудитска Арабия,Saudi Arabia
-Категория:Свазиленд,Swaziland
-Категория:Свещена Римска империя,Holy Roman Empire
-Категория:Северна Америка,North America
-Категория:Северна Дакота,North Dakota
-Категория:Северна Ирландия,Northern Ireland
-Категория:Северна Каролина,North Carolina
-Категория:Северна Корея,North Korea
-Категория:Сеизмология,Seismology
-Категория:Сейнт Лусия,Saint Lucia
-Категория:Сейшелски острови,Seychelles
-Категория:Сексуалност,Sexuality
-Категория:Семантика,Semantics
-Категория:Сенегал,Senegal
-Категория:Сигурност,Security
-Категория:Сингапур,Singapore
-Категория:Сирия,Syria
-Категория:Скандинавска митология,Norse mythology
-Категория:Скулптура,Sculpture
-Категория:Словакия,Slovakia
-Категория:Словения,Slovenia
-Категория:Слънце,Sun
-Категория:Слънчева система,Solar System
-Категория:Смърт,Death
-Категория:Соломонови острови,Solomon Islands
-Категория:Сомалия,Somalia
-Категория:Софтуер,Software
-Категория:Социализъм,Socialism
-Категория:Социология,Sociology
-Категория:Средиземно море,Mediterranean
-Категория:Средновековие,Middle Ages
-Категория:Статистика,Statistics
-Категория:Стоматология,Dentistry
-Категория:Студена война,Cold War
-Категория:Судан,Sudan
-Категория:Суринам,Suriname
-Категория:Счетоводство,Accountancy
-Категория:Съветски съюз,Soviet Union
-Категория:Сърбия,Serbia
-Категория:Сърбия и Черна гора,Serbia and Montenegro
-Категория:Сърдечно-съдова система,Cardiovascular system
-Категория:Таджикистан,Tajikistan
-Категория:Тайван,Taiwan
-Категория:Тайланд,Thailand
-Категория:Танзания,Tanzania
-Категория:Танц,Dance
-Категория:Театър,Theatre
-Категория:Телевизия,Television
-Категория:Тенеси,Tennessee
-Категория:Тенис,Tennis
-Категория:Теология,Theology
-Категория:Теория на вероятностите,Probability theory
-Категория:Теория на множествата,Set theory
-Категория:Термодинамика,Thermodynamics
-Категория:Тероризъм,Terrorism
-Категория:Технология,Technology
-Категория:Тибет,Tibet
-Категория:Тихи океан,Pacific Ocean
-Категория:Того,Togo
-Категория:Тонга,Tonga
-Категория:Топология,Topology
-Категория:Транспорт,Transportation
-Категория:Треньори по футбол,Football (soccer) managers
-Категория:Тригонометрия,Trigonometry
-Категория:Тринидад и Тобаго,Trinidad and Tobago
-Категория:Тувалу,Tuvalu
-Категория:Тунис,Tunisia
-Категория:Туризъм,Tourism
-Категория:Туркменистан,Turkmenistan
-Категория:Турция,Turkey
-Категория:Търговия,Commerce
-Категория:Тюрингия,Thuringia
-Категория:Уайоминг,Wyoming
-Категория:Уганда,Uganda
-Категория:Уелс,Wales
-Категория:Узбекистан,Uzbekistan
-Категория:Уисконсин,Wisconsin
-Категория:Украйна,Ukraine
-Категория:Унгария,Hungary
-Категория:Уран,Uranus
-Категория:Уругвай,Uruguay
-Категория:Фармакология,Pharmacology
-Категория:Фарьорски острови,Faroe Islands
-Категория:Фашизъм,Fascism
-Категория:Феминизъм,Feminism
-Категория:Фиджи,Fiji
-Категория:Физика,Physics
-Категория:Физика на елементарните частици,Particle physics
-Категория:Физиология,Physiology
-Категория:Филателия,Philately
-Категория:Филипини,Philippines
-Категория:Филми,Film
-Категория:Филология,Philology
-Категория:Философия,Philosophy
-Категория:Финанси,Finance
-Категория:Финландия,Finland
-Категория:Флорида,Florida
-Категория:Фолклор,Folklore
-Категория:Фотография,Photography
-Категория:Франция,France
-Категория:Французи,French people
-Категория:Футбол,Football (soccer)
-Категория:Футбол по страна,Football (soccer) by country
-Категория:Футболисти,Football (soccer) players
-Категория:Футболни отбори,Football (soccer) clubs
-Категория:Футболни стадиони,Football (soccer) venues
-Категория:Хаваи,Hawaii
-Категория:Хаити,Haiti
-Категория:Хамбург,Hamburg
-Категория:Хематология,Hematology
-Категория:Хералдика,Heraldry
-Категория:Хесен,Hesse
-Категория:Хигиена,Hygiene
-Категория:Хидрология,Hydrology
-Категория:Химия,Chemistry
-Категория:Хистология,Histology
-Категория:Хокей на лед,Ice hockey
-Категория:Холандия,Netherlands
-Категория:Холандци,Dutch people
-Категория:Хондурас,Honduras
-Категория:Хонконг,Hong Kong
-Категория:Хора,People
-Категория:Хранене,Nutrition
-Категория:Храносмилателна система,Digestive system
-Категория:Християнство,Christianity
-Категория:Хронология,Chronology
-Категория:Художествена литература,Fiction
-Категория:Хуманитарни науки,Humanities
-Категория:Хумор,Humor
-Категория:Хърватия,Croatia
-Категория:Ципокрили,Hymenoptera
-Категория:Чад,Chad
-Категория:Черна гора,Montenegro
-Категория:Чехия,Czech Republic
-Категория:Чехословакия,Czechoslovakia
-Категория:Чечения,Chechnya
-Категория:Чили,Chile
-Категория:Числа,Numbers
-Категория:Шахмат,Chess
-Категория:Швейцария,Switzerland
-Категория:Швейцарци,Swiss people
-Категория:Швеция,Sweden
-Категория:Шотландия,Scotland
-Категория:Шри Ланка,Sri Lanka
-Категория:Югославия,Yugoslavia
-Категория:Юдаизъм,Judaism
-Категория:Южна Америка,South America
-Категория:Южна Дакота,South Dakota
-Категория:Южна Каролина,South Carolina
-Категория:Южна Корея,South Korea
-Категория:Юпитер,Jupiter
-Категория:Юта,Utah
-Категория:Ядрена физика,Nuclear physics
-Категория:Ямайка,Jamaica
-Категория:Япония,Japan
+Абхазия,Abkhazia
+Авиация,Aviation
+Австралия,Australia
+Австрия,Austria
+Азербайджан,Azerbaijan
+Азия,Asia
+Айдахо,Idaho
+Айова,Iowa
+Акустика,Acoustics
+Алабама,Alabama
+Албания,Albania
+Алгебра,Algebra
+Алжир,Algeria
+Алпи,Alps
+Алтернативна медицина,Alternative medicine
+Алхимия,Alchemy
+Аляска,Alaska
+Американски футбол,American football
+Амстердам,Amsterdam
+Анархизъм,Anarchism
+Анатомия,Anatomy
+Англичани,English people
+Англия,England
+Ангола,Angola
+Андора,Andorra
+Аниме,Anime
+Антарктида,Antarctica
+Антигуа и Барбуда,Antigua and Barbuda
+Антисемитизъм,Antisemitism
+Античност,Ancient history
+Антропология,Anthropology
+Аржентина,Argentina
+Аризона,Arizona
+Аристокрация,Nobility
+Арканзас,Arkansas
+Армения,Armenia
+Артилерия,Artillery
+Аруба,Aruba
+Археология,Archaeology
+Архитектура,Architecture
+Астрология,Astrology
+Астрономия,Astronomy
+Астрофизика,Astrophysics
+Атлантически океан,Atlantic Ocean
+Атомна физика,Atomic physics
+Афганистан,Afghanistan
+Африка,Africa
+Бавария,Bavaria
+Бактерии,Bacteria
+Балет,Ballet
+Бангладеш,Bangladesh
+Банки,Banks
+Барбадос,Barbados
+Барселона,Barcelona
+Баскетбол,Basketball
+Бахамски острови,Bahamas
+Бахрейн,Bahrain
+Бейзбол,Baseball
+Беларус,Belarus
+Белгия,Belgium
+Белиз,Belize
+Бенин,Benin
+Берлин,Berlin
+Бермудски острови,Bermuda
+Библия,Bible
+Бизнесмени,Businesspeople
+Биология,Biology
+Биохимия,Biochemistry
+Бира,Beer
+Близък Изток,Middle East
+Бокс,Boxing
+Боксьори,Boxers
+Боливия,Bolivia
+Босна и Херцеговина,Bosnia and Herzegovina
+Ботаника,Botany
+Ботсвана,Botswana
+Бразилия,Brazil
+Британци,British people
+Бруней,Brunei
+Будизъм,Buddhism
+Букови,Fagaceae
+Буркина Фасо,Burkina Faso
+Бурунди,Burundi
+Бутан,Bhutan
+България,Bulgaria
+Вануату,Vanuatu
+Ватикан,Vatican City
+Вашингтон,Washington
+Венецуела,Venezuela
+Виена,Vienna
+Виетнам,Vietnam
+Виетнамска война,Vietnam War
+Византийска империя,Byzantine Empire
+Вирджиния,Virginia
+Вода,Water
+Военно дело,Military
+Война,War
+Волейбол,Volleyball
+Врабчоподобни,Passeriformes
+Време,Time
+Втора световна война,World War II
+Вулканология,Volcanology
+Върмонт,Vermont
+ГНУ/Линукс,Linux
+Габон,Gabon
+Гамбия,The Gambia
+Гана,Ghana
+Гватемала,Guatemala
+Гвиана,Guyana
+Гвинея,Guinea
+Гвинея-Бисау,Guinea-Bissau
+Генеалогия,Genealogy
+Генетика,Genetics
+Геноцид,Genocide
+География,Geography
+Геодезия,Geodesy
+Геология,Geology
+Геометрия,Geometry
+Геоморфология,Geomorphology
+Геофизика,Geophysics
+Германия,Germany
+Гибралтар,Gibraltar
+Годишни дни,Days
+Голф,Golf
+Граматика,Grammar
+Графичен дизайн,Graphic design
+Гренада,Grenada
+Гренландия,Greenland
+Грузия,Georgia
+Гъби,Fungi
+Гълъбоподобни,Columbiformes
+Гърция,Greece
+Гъскоподобни,Anseriformes
+Дания,Denmark
+Данъчно облагане,Taxation
+Делауеър,Delaware
+Демография,Demography
+Демократична република Конго,Democratic Republic of the Congo
+Джаз,Jazz
+Джибути,Djibouti
+Джорджия,Georgia
+Дизайн,Design
+Дипломация,Diplomacy
+Доминика,Dominica
+Древногръцка митология,Greek mythology
+Европа,Europe
+Европейски съюз,European Union
+Египет,Egypt
+Еквадор,Ecuador
+Екваториална Гвинея,Equatorial Guinea
+Екология,Ecology
+Електричество,Electricity
+Електромагнетизъм,Electromagnetism
+Електроника,Electronics
+Електротехника,Electrical engineering
+Електрохимия,Electrochemistry
+Емоционалност,Emotion
+Ендокринология,Endocrinology
+Енергия,Energy
+Ентомология,Entomology
+Еритрея,Eritrea
+Естония,Estonia
+Етика,Ethics
+Етиопия,Ethiopia
+Живопис,Painting
+Журналистика,Journalism
+Забавление,Entertainment
+Замбия,Zambia
+Западна Вирджиния,West Virginia
+Западна Сахара,Western Sahara
+Здраве,Health
+Земеделие,Agriculture
+Земя,Earth
+Зимбабве,Zimbabwe
+Зимни олимпийски игри,Winter Olympic Games
+Зоология,Zoology
+Изкуство,Arts
+Измерване,Measurement
+Израел,Israel
+Източен Тимор,East Timor
+Икономика,Economics
+Илинойс,Illinois
+Имунология,Immunology
+Индиана,Indiana
+Индия,India
+Индонезия,Indonesia
+Индуизъм,Hinduism
+Инженерство,Engineering
+Интернет,Internet
+Информатика,Computer science
+Ирак,Iraq
+Иран,Iran
+Ирландия,Republic of Ireland
+Ирландия,Ireland
+Ирландци,Irish people
+Исландия,Iceland
+Ислям,Islam
+Испания,Spain
+Испанци,Spanish people
+Истанбул,Istanbul
+История,History
+История на изкуството,Art history
+Италия,Italy
+Йемен,Yemen
+Йерусалим,Jerusalem
+Йордания,Jordan
+Кабо Верде,Cape Verde
+Казахстан,Kazakhstan
+Калифорния,California
+Камбоджа,Cambodia
+Камерун,Cameroon
+Канада,Canada
+Канзас,Kansas
+Кардиология,Cardiology
+Кариби,Caribbean
+Картография,Cartography
+Картофови,Solanaceae
+Каталония,Catalonia
+Катар,Qatar
+Кафе,Coffee
+Квантова механика,Quantum mechanics
+Квебек,Quebec
+Кения,Kenya
+Кентъки,Kentucky
+Кипър,Cyprus
+Киргизстан,Kyrgyzstan
+Кирибати,Kiribati
+Китай,China
+Класическа музика,Classical music
+Климат,Climate
+Климатология,Climatology
+Кокошоподобни,Galliformes
+Колоездене,Cycling
+Колорадо,Colorado
+Колумбия,Colombia
+Коморски острови,Comoros
+Компютърен хардуер,Computer hardware
+Компютърни науки,Computing
+Комунизъм,Communism
+Комуникация,Communication
+Корея,Korea
+Космология,Cosmology
+Косово,Kosovo
+Коста Рика,Costa Rica
+Криптография,Cryptography
+Кристалография,Crystallography
+Куба,Cuba
+Кувейт,Kuwait
+Култура,Culture
+Кънектикът,Connecticut
+Кюрдистан,Kurdistan
+Лаос,Laos
+Латвия,Latvia
+Лека атлетика,Athletics
+Лесото,Lesotho
+Либерализъм,Liberalism
+Либерия,Liberia
+Либия,Libya
+Ливан,Lebanon
+Лингвистика,Linguistics
+Литва,Lithuania
+Литература,Literature
+Лихтенщайн,Liechtenstein
+Логика,Logic
+Лондон,London
+Луизиана,Louisiana
+Лъженауки,Pseudoscience
+Люксембург,Luxembourg
+Мавритания,Mauritania
+Мавриций,Mauritius
+Мадагаскар,Madagascar
+Макроикономика,Macroeconomics
+Малави,Malawi
+Малайзия,Malaysia
+Малдиви,Maldives
+Мали,Mali
+Малта,Malta
+Маркетинг,Marketing
+Мароко,Morocco
+Марс,Mars
+Маршалови острови,Marshall Islands
+Масачузетс,Massachusetts
+Математика,Mathematics
+Математическа логика,Mathematical logic
+Машинно инженерство,Mechanical engineering
+Медицина,Medicine
+Международно право,International law
+Мейн,Maine
+Мексико,Mexico
+Мериленд,Maryland
+Месопотамия,Mesopotamia
+Металургия,Metallurgy
+Метеорология,Meteorology
+Метро,Rapid transit
+Метъл,Heavy metal
+Мианмар,Burma
+Мианмар,Myanmar
+Микробиология,Microbiology
+Микроикономика,Microeconomics
+Минесота,Minnesota
+Мисисипи,Mississippi
+Мисури,Missouri
+Митология,Mythology
+Мичиган,Michigan
+Мода,Fashion
+Мозамбик,Mozambique
+Молдова,Moldova
+Монако,Monaco
+Монархия,Monarchy
+Монголия,Mongolia
+Монтана,Montana
+Москва,Moscow
+Мостове,Bridges
+Музика,Music
+НАТО,NATO
+Навигация,Navigation
+Наказателно право,Criminal law
+Намибия,Namibia
+Наука,Science
+Науру,Nauru
+Научна фантастика,Science fiction
+Нацизъм,Nazism
+Национализъм,Nationalism
+Нацистка Германия,Nazi Germany
+Начална категория,Fundamental
+Небесна механика,Celestial mechanics
+Небраска,Nebraska
+Невада,Nevada
+Неврология,Neurology
+Непал,Nepal
+Нервна система,Nervous system
+Нигер,Niger
+Нигерия,Nigeria
+Никарагуа,Nicaragua
+Нобелова награда,Nobel Prize
+Нова Зеландия,New Zealand
+Норвегия,Norway
+Нумизматика,Numismatics
+Ню Джърси,New Jersey
+Ню Йорк,New York City
+Ню Йорк,New York
+Ню Мексико,New Mexico
+Ню Хампшир,New Hampshire
+ООН,United Nations
+Обединени арабски емирства,United Arab Emirates
+Обединено кралство,United Kingdom
+Обзавеждане,Furniture
+Облекло,Clothing
+Образование,Education
+Общество,Society
+Океания,Oceania
+Океанография,Oceanography
+Оклахома,Oklahoma
+Околна среда,Environment
+Олимпийски игри,Olympics
+Оман,Oman
+Онкология,Oncology
+Оптика,Optics
+Органична химия,Organic chemistry
+Орегон,Oregon
+Орнитология,Ornithology
+Османска империя,Ottoman Empire
+Охайо,Ohio
+Пакистан,Pakistan
+Палау,Palau
+Палестина,Palestine
+Панама,Panama
+Папуа Нова Гвинея,Papua New Guinea
+Парагвай,Paraguay
+Париж,Paris
+Парични единици,Currency
+Педагогика,Pedagogy
+Пенсилвания,Pennsylvania
+Перу,Peru
+Плодове,Fruit
+Плуване,Swimming
+Поезия,Poetry
+Политика,Politics
+Политология,Political science
+Полша,Poland
+Португалия,Portugal
+Пояснителни страници,Disambiguation
+Право,Law
+Прага,Prague
+Прилепи,Bats
+Примати,Primates
+Природа,Nature
+Програма Аполо,Apollo program
+Промишленост,Industry
+Протоци,Straits
+Психология,Psychology
+Пуерто Рико,Puerto Rico
+Пустини,Deserts
+Пчеларство,Beekeeping
+Пънк,Punk
+Първа световна война,World War I
+Радио,Radio
+Расизъм,Racism
+Религия,Religion
+Ренесанс,Renaissance
+Република Конго,Republic of the Congo
+Република Южна Африка,South Africa
+Реторика,Rhetoric
+Риби,Fish
+Риболов,Fishing
+Рим,Rome
+Римска митология,Roman mythology
+Род Айлънд,Rhode Island
+Рок,Rock music
+Руанда,Rwanda
+Румъния,Romania
+Русия,Russia
+САЩ,United States
+Саксония,Saxony
+Салвадор,El Salvador
+Самоа,Samoa
+Самолети,Aircraft
+Сан Марино,San Marino
+Санкт Петербург,Saint Petersburg
+Сатурн,Saturn
+Саудитска Арабия,Saudi Arabia
+Свазиленд,Swaziland
+Свещена Римска империя,Holy Roman Empire
+Северна Америка,North America
+Северна Дакота,North Dakota
+Северна Ирландия,Northern Ireland
+Северна Каролина,North Carolina
+Северна Корея,North Korea
+Сеизмология,Seismology
+Сейнт Лусия,Saint Lucia
+Сейшелски острови,Seychelles
+Сексуалност,Sexuality
+Семантика,Semantics
+Сенегал,Senegal
+Сигурност,Security
+Сингапур,Singapore
+Сирия,Syria
+Скандинавска митология,Norse mythology
+Скулптура,Sculpture
+Словакия,Slovakia
+Словения,Slovenia
+Слънце,Sun
+Слънчева система,Solar System
+Смърт,Death
+Соломонови острови,Solomon Islands
+Сомалия,Somalia
+Софтуер,Software
+Социализъм,Socialism
+Социология,Sociology
+Средиземно море,Mediterranean
+Средновековие,Middle Ages
+Статистика,Statistics
+Стоматология,Dentistry
+Студена война,Cold War
+Судан,Sudan
+Суринам,Suriname
+Счетоводство,Accountancy
+Съветски съюз,Soviet Union
+Сърбия,Serbia
+Сърбия и Черна гора,Serbia and Montenegro
+Сърдечно-съдова система,Cardiovascular system
+Таджикистан,Tajikistan
+Тайван,Taiwan
+Тайланд,Thailand
+Танзания,Tanzania
+Танц,Dance
+Театър,Theatre
+Телевизия,Television
+Тенеси,Tennessee
+Тенис,Tennis
+Теология,Theology
+Теория на вероятностите,Probability theory
+Теория на множествата,Set theory
+Термодинамика,Thermodynamics
+Тероризъм,Terrorism
+Технология,Technology
+Тибет,Tibet
+Тихи океан,Pacific Ocean
+Того,Togo
+Тонга,Tonga
+Топология,Topology
+Транспорт,Transportation
+Треньори по футбол,Football  managers
+Тригонометрия,Trigonometry
+Тринидад и Тобаго,Trinidad and Tobago
+Тувалу,Tuvalu
+Тунис,Tunisia
+Туризъм,Tourism
+Туркменистан,Turkmenistan
+Турция,Turkey
+Търговия,Commerce
+Тюрингия,Thuringia
+Уайоминг,Wyoming
+Уганда,Uganda
+Уелс,Wales
+Узбекистан,Uzbekistan
+Уисконсин,Wisconsin
+Украйна,Ukraine
+Унгария,Hungary
+Уран,Uranus
+Уругвай,Uruguay
+Фармакология,Pharmacology
+Фарьорски острови,Faroe Islands
+Фашизъм,Fascism
+Феминизъм,Feminism
+Фиджи,Fiji
+Физика,Physics
+Физика на елементарните частици,Particle physics
+Физиология,Physiology
+Филателия,Philately
+Филипини,Philippines
+Филми,Film
+Филология,Philology
+Философия,Philosophy
+Финанси,Finance
+Финландия,Finland
+Флорида,Florida
+Фолклор,Folklore
+Фотография,Photography
+Франция,France
+Французи,French people
+Футбол,Football
+Футбол по страна,Football  by country
+Футболисти,Football  players
+Футболни отбори,Football  clubs
+Футболни стадиони,Football  venues
+Хаваи,Hawaii
+Хаити,Haiti
+Хамбург,Hamburg
+Хематология,Hematology
+Хералдика,Heraldry
+Хесен,Hesse
+Хигиена,Hygiene
+Хидрология,Hydrology
+Химия,Chemistry
+Хистология,Histology
+Хокей на лед,Ice hockey
+Холандия,Netherlands
+Холандци,Dutch people
+Хондурас,Honduras
+Хонконг,Hong Kong
+Хора,People
+Хранене,Nutrition
+Храносмилателна система,Digestive system
+Християнство,Christianity
+Хронология,Chronology
+Художествена литература,Fiction
+Хуманитарни науки,Humanities
+Хумор,Humor
+Хърватия,Croatia
+Ципокрили,Hymenoptera
+Чад,Chad
+Черна гора,Montenegro
+Чехия,Czech Republic
+Чехословакия,Czechoslovakia
+Чечения,Chechnya
+Чили,Chile
+Числа,Numbers
+Шахмат,Chess
+Швейцария,Switzerland
+Швейцарци,Swiss people
+Швеция,Sweden
+Шотландия,Scotland
+Шри Ланка,Sri Lanka
+Югославия,Yugoslavia
+Юдаизъм,Judaism
+Южна Америка,South America
+Южна Дакота,South Dakota
+Южна Каролина,South Carolina
+Южна Корея,South Korea
+Юпитер,Jupiter
+Юта,Utah
+Ядрена физика,Nuclear physics
+Ямайка,Jamaica
+Япония,Japan
 Катедрала,Cathedral
 Катерина Арагонска,Catherine of Aragon
 Катерици,Squirrel
@@ -2890,7 +2890,7 @@ bulgarian,english
 Кафява мечка,Brown Bear
 Кашалот,Sperm Whale
 Каяк,Kayak
-Квадрат,Square (geometry)
+Квадрат,Square
 Квадратен метър,Square metre
 Квадратно уравнение,Quadratic equation
 Квазар,Quasar
@@ -2901,12 +2901,12 @@ bulgarian,english
 Кварц,Quartz
 Кватернион,Quaternion
 Квебек,Quebec
-Квебек (град),Quebec City
+Квебек,Quebec City
 Квестор,Quaestor
 Кедър,Cedar
 Кеймбридж,Cambridge
-Кеймбридж (Масачузетс),Cambridge
-Кеймбридж (пояснение),Cambridge (disambiguation)
+Кеймбридж,Cambridge
+Кеймбридж,Cambridge
 Кейптаун,Cape Town
 Келвин,Kelvin
 Кемниц,Chemnitz
@@ -2935,20 +2935,20 @@ bulgarian,english
 Километър,Kilometre
 Километър в час,Kilometres per hour
 Кингстаун,Kingstown
-Кингстън (Ямайка),Kingston
+Кингстън,Kingston
 Киншаса,Kinshasa
 Киото,Kyoto
 Кипарисови,Cupressaceae
-Кир II (Персия),Cyrus the Great
+Кир II,Cyrus the Great
 Киргизстан,Kyrgyzstan
 Кирибати,Kiribati
 Кирилица,Cyrillic alphabet
-Кирка (митология),Circe
+Кирка,Circe
 Киркук,Kirkuk
 Киселина,Acid
 Кисело мляко,Yoghurt
 Кислород,Oxygen
-Кит (биология),Whale
+Кит,Whale
 Китайска народна република,People's Republic of China
 Китара,Guitar
 Кито,Quito
@@ -2964,8 +2964,8 @@ bulgarian,english
 Класическа механика,Classical mechanics
 Класическа музика,Classical music
 Клаудио Монтеверди,Claudio Monteverdi
-Клеопатра,Cleopatra (disambiguation)
-Клетка,Cell (biology)
+Клеопатра,Cleopatra
+Клетка,Cell
 Клетъчна мембрана,Cell membrane
 Клетъчни органели,Organelle
 Клетъчно ядро,Cell nucleus
@@ -2993,17 +2993,17 @@ bulgarian,english
 Ковънтри,Coventry
 Когнитивна психология,Cognitive psychology
 Кожа,Skin
-Козирог (съзвездие),Capricornus
+Козирог,Capricornus
 Койот,Coyote
 Кокаин,Cocaine
 Кокичеви,Amaryllidaceae
 Кокосова палма,Coconut
-Кокосови острови,Cocos (Keeling) Islands
+Кокосови острови,Cocos  Islands
 Кокошоподобни,Galliformes
 Коктейл,Cocktail
 Коктейл Молотов,Molotov cocktail
 Колаген,Collagen
-Колар (съзвездие),Auriga (constellation)
+Колар,Auriga
 Коледна елха,Christmas tree
 Колибриподобни,Hummingbird
 Колизей,Colosseum
@@ -3012,9 +3012,9 @@ bulgarian,english
 Колорадо,Colorado
 Колумбийски университет,Columbia University
 Колумбия,Colombia
-Колумбия (Южна Каролина),Columbia
-Колумбия (пояснение),Columbia
-Колумбия (река),Columbia River
+Колумбия,Columbia
+Колумбия,Columbia
+Колумбия,Columbia River
 Колумбус,Columbus
 Колхида,Colchis
 Кома,Coma
@@ -3025,7 +3025,7 @@ bulgarian,english
 Коморски острови,Comoros
 Компактдиск,Compact Disc
 Компас,Compass
-Компас (съзвездие),Pyxis
+Компас,Pyxis
 Компилатор,Compiler
 Комплексно число,Complex number
 Композитор,Composer
@@ -3034,24 +3034,24 @@ bulgarian,english
 Компютърен превод,Machine translation
 Компютърен хардуер,Computer hardware
 Компютърна архитектура,Computer architecture
-Компютърна клавиатура,Keyboard (computing)
+Компютърна клавиатура,Keyboard
 Компютърна лингвистика,Computational linguistics
 Компютърна мрежа,Computer network
 Комунизъм,Communism
 Комуникации,Communication
 Кон,Horse
-Кон (шахмат),Knight (chess)
+Кон,Knight
 Конакри,Conakry
 Конвекция,Convection
 Конго,Congo
-Конго (река),Congo River
+Конго,Congo River
 Конгрес на САЩ,United States Congress
 Кондензатор,Capacitor
 Коне,Equidae
 Конен спорт,Horse racing
 Конично сечение,Conic section
 Конкистадор,Conquistador
-Конкорд (Ню Хампшир),Concord
+Конкорд,Concord
 Коноп,Cannabis
 Конрад Аденауер,Konrad Adenauer
 Консенсус,Consensus
@@ -3059,7 +3059,7 @@ bulgarian,english
 Конска сила,Horsepower
 Константин I Велики,Constantine I
 Константинопол,Constantinople
-Конституция,Constitution (political)
+Конституция,Constitution
 Конституция на САЩ,United States Constitution
 Консул,Consul
 Контактна леща,Contact lens
@@ -3067,16 +3067,16 @@ bulgarian,english
 Континентален дрейф,Continental drift
 Континентален шелф,Continental shelf
 Контрабас,Double bass
-Конус,Cone (geometry)
+Конус,Cone
 Конфедерация,Confederation
 Конфликт,Conflict
 Конфуцианство,Confucianism
 Конфуций,Confucius
 Концентрационен лагер,Internment
 Концентрация,Concentration
-Концерт (музикална форма),Concerto
-Конюнкция,Intersection (set theory)
-Коняк,Cognac (drink)
+Концерт,Concerto
+Конюнкция,Intersection
+Коняк,Cognac
 Кооперация,Cooperative
 Координата,Coordinate system
 Координирано универсално време,Coordinated Universal Time
@@ -3096,7 +3096,7 @@ bulgarian,english
 Корея,Korea
 Кориандър,Coriander
 Кориолисова сила,Coriolis effect
-Корк (град),Cork (city)
+Корк,Cork
 Корнуол,Cornwall
 Корозия,Corrosion
 Корсика,Corsica
@@ -3120,7 +3120,7 @@ bulgarian,english
 Котка,Cat
 Коткови,Felidae
 Котону,Cotonou
-Котопакси (вулкан),Cotopaxi
+Котопакси,Cotopaxi
 Кофеин,Caffeine
 Краве масло,Butter
 Кракатау,Krakatoa
@@ -3130,7 +3130,7 @@ bulgarian,english
 Креационизъм,Creationism
 Креда,Cretaceous
 Кремови,Liliaceae
-Кремона (град),Cremona
+Кремона,Cremona
 Кремъл,Kremlin
 Крепост,Fortification
 Крива,Curve
@@ -3171,7 +3171,7 @@ bulgarian,english
 Кубилай хан,Kublai Khan
 Кубичен метър,Cubic metre
 Кувейт,Kuwait
-Кувейт (град),Kuwait City
+Кувейт,Kuwait City
 Куентин Тарантино,Quentin Tarantino
 Куинс,Queens
 Куинсланд,Queensland
@@ -3203,7 +3203,7 @@ bulgarian,english
 ЛСД,Lysergic acid diethylamide
 Ла Манш,English Channel
 Ла Пас,La Paz
-Ла Плата (град),La Plata
+Ла Плата,La Plata
 Лаборатория,Laboratory
 Лава,Lava
 Лавина,Avalanche
@@ -3230,22 +3230,22 @@ bulgarian,english
 Латински език,Latin
 Лахор,Lahore
 Лацио,Lazio
-Лебед (съзвездие),Cygnus (constellation)
+Лебед,Cygnus
 Лебеди,Swan
 Лев Троцки,Leon Trotsky
 Левиатан,Leviathan
-Левит (Библия),Leviticus
+Левит,Leviticus
 Левичар,Left-handed
 Левкоцит,White blood cell
 Легенда,Legend
 Легион,Roman legion
 Лед,Ice
-Леда (митология),Leda (mythology)
+Леда,Leda
 Ледник,Glacier
 Ледникова епоха,Ice age
-Лейбъристка партия,Labour Party (UK)
+Лейбъристка партия,Labour Party
 Лейтенант,Lieutenant
-Лека атлетика,Athletics (track and field)
+Лека атлетика,Athletics
 Лекар,Physician
 Лексикология,Lexicology
 Лена,Lena River
@@ -3260,10 +3260,10 @@ bulgarian,english
 Лестър,Leicester
 Летателен апарат,Aircraft
 Летище,Airport
-Лето (богиня),Leto
-Летяща риба (съзвездие),Volans
+Лето,Leto
+Летяща риба,Volans
 Леща,Lentil
-Леща (оптика),Lens (optics)
+Леща,Lens
 Либерализъм,Liberalism
 Либерия,Liberia
 Либия,Libya
@@ -3287,14 +3287,14 @@ bulgarian,english
 Лимонена киселина,Citric acid
 Лингва франка,Lingua franca
 Линия „Мажино“,Maginot Line
-Линкълн (Небраска),Lincoln
+Линкълн,Lincoln
 Линкълншър,Lincolnshire
 Линукс,Linux
 Линц,Linz
 Лион,Lyon
 Липа,Tilia
 Липид,Lipid
-Лира (съзвездие),Lyra
+Лира,Lyra
 Лисабон,Lisbon
 Лисица,Red Fox
 Лисица,Fox
@@ -3327,13 +3327,13 @@ bulgarian,english
 Лондон,London
 Лос Анджелис,Los Angeles
 Лост,Lever
-Лотарингия (регион),Lorraine (region)
+Лотарингия,Lorraine
 Луанда,Luanda
 Лувър,Louvre
 Лудвиг Болцман,Ludwig Boltzmann
 Лудвиг Витгенщайн,Ludwig Wittgenstein
 Лудвиг ван Бетховен,Ludwig van Beethoven
-Луи II (Франция),Louis the Stammerer
+Луи II,Louis the Stammerer
 Луи Арагон,Louis Aragon
 Луи Брайл,Louis Braille
 Луи Пастьор,Louis Pasteur
@@ -3346,7 +3346,7 @@ bulgarian,english
 Лукреция Борджия,Lucrezia Borgia
 Лукс,Lux
 Луксор,Luxor
-Лумен,Lumen (unit)
+Лумен,Lumen
 Луна,Moon
 Лунно затъмнение,Lunar eclipse
 Лусака,Lusaka
@@ -3357,17 +3357,17 @@ bulgarian,english
 Лучано Павароти,Luciano Pavarotti
 Лхаса,Lhasa
 Лъв,Lion
-Лъв (съзвездие),Leo (constellation)
-Лъв I (император),Leo I (emperor)
+Лъв,Leo
+Лъв I,Leo I
 Лъженаука,Pseudoscience
-Лък,Bow (weapon)
+Лък,Bow
 Льо Корбюзие,Le Corbusier
 Люблин,Lublin
 Любляна,Ljubljana
 Любов,Love
 Людовик Благочестиви,Louis the Pious
 Люксембург,Luxembourg
-Люксембург (град),Luxembourg (city)
+Люксембург,Luxembourg
 Люспести,Squamata
 Лютикови,Ranunculaceae
 Лютня,Lute
@@ -3382,8 +3382,8 @@ bulgarian,english
 Магаре,Donkey
 Магданоз,Parsley
 Магеланов проток,Strait of Magellan
-Магия,Magic (paranormal)
-Магма (геология),Magma
+Магия,Magic
+Магма,Magma
 Магнезий,Magnesium
 Магнетизъм,Magnetism
 Магнит,Magnet
@@ -3391,11 +3391,11 @@ bulgarian,english
 Магреб,Maghreb
 Мадагаскар,Madagascar
 Мадейра,Madeira
-Маджента (цвят),Magenta
-Мадона (певица),Madonna (entertainer)
+Маджента,Magenta
+Мадона,Madonna
 Мадрас,Chennai
 Мадрид,Madrid
-Мадрид (автономна област),Madrid (autonomous community)
+Мадрид,Madrid
 Мажор,Major scale
 Мазол,Wart
 Май,May
@@ -3427,19 +3427,19 @@ bulgarian,english
 Мали,Mali
 Малина,Rubus idaeus
 Малина,Raspberry
-Малка мечка (съзвездие),Ursa Minor
+Малка мечка,Ursa Minor
 Малки Антили,Lesser Antilles
 Малта,Malta
 Малтийски език,Maltese language
 Малтоза,Maltose
 Мамут,Mammoth
-Ман (остров),Isle of Man
+Ман,Isle of Man
 Манагуа,Managua
 Манама,Manama
 Манастир,Monastery
 Манган,Manganese
 Манго,Mango
-Мандарин,Mandarin (linguistics)
+Мандарин,Mandarin
 Мандарина,Mandarin orange
 Манджурия,Manchuria
 Маниеризъм,Mannerism
@@ -3450,7 +3450,7 @@ bulgarian,english
 Мантра,Mantra
 Манхайм,Mannheim
 Манхатън,Manhattan
-Манхатън (проект),Manhattan Project
+Манхатън,Manhattan Project
 Манчестър,Manchester
 Мао Дзъдун,Mao Zedong
 Маоизъм,Maoism
@@ -3463,7 +3463,7 @@ bulgarian,english
 Мариански острови,Mariana Islands
 Мариехамн,Mariehamn
 Марио Варгас Льоса,Mario Vargas Llosa
-Марихуана,Cannabis (drug)
+Марихуана,Cannabis
 Мария Калас,Maria Callas
 Мария Кюри,Marie Curie
 Мария-Антоанета,Marie Antoinette
@@ -3479,8 +3479,8 @@ bulgarian,english
 Марко Поло,Marco Polo
 Марксизъм,Marxism
 Мароко,Morocco
-Марс (бог),Mars (mythology)
-Марс (пояснение),Mars (disambiguation)
+Марс,Mars
+Марс,Mars
 Марсел Дюшан,Marcel Duchamp
 Марсел Марсо,Marcel Marceau
 Марсел Пруст,Marcel Proust
@@ -3495,13 +3495,13 @@ bulgarian,english
 Мартиника,Martinique
 Маршалови острови,Marshall Islands
 Маршрутизатор,Router
-Маса (величина),Mass
+Маса,Mass
 Масачузетс,Massachusetts
 Масачузетски технологичен институт,Massachusetts Institute of Technology
 Масеру,Maseru
 Маскат,Muscat
 Маслина,Olive
-Масло,Oil (disambiguation)
+Масло,Oil
 Масонство,Freemasonry
 Мастурбация,Masturbation
 Мата Хари,Mata Hari
@@ -3509,12 +3509,12 @@ bulgarian,english
 Математическа логика,Mathematical logic
 Математически анализ,Calculus
 Материализъм,Materialism
-Материя (физика),Matter
+Материя,Matter
 Матерхорн,Matterhorn
 Матка,Uterus
 Маточина,Lemon balm
 Маточна тръба,Fallopian tube
-Матрица (математика),Matrix (mathematics)
+Матрица,Matrix
 Мауна Лоа,Mauna Loa
 Мафия,Mafia
 Махало,Pendulum
@@ -3531,14 +3531,14 @@ bulgarian,english
 Маями,Miami
 Мбабане,Mbabane
 Мебел,Furniture
-Мед (елемент),Copper
+Мед,Copper
 Медея,Medea
-Медиана (статистика),Median
+Медиана,Median
 Медина,Medina
 Медисън,Madison
 Медицина,Medicine
 Медичи,Medici
-Медуза (митология),Medusa
+Медуза,Medusa
 Междуконтинентална балистична ракета,Intercontinental ballistic missile
 Междуметие,Interjection
 Международен валутен фонд,International Monetary Fund
@@ -3555,31 +3555,31 @@ bulgarian,english
 Мекотели,Mollusca
 Мексикански залив,Gulf of Mexico
 Мексико,Mexico
-Мексико (град),Mexico City
+Мексико,Mexico City
 Мел Гибсън,Mel Gibson
 Меланезия,Melanesia
 Мелодия,Melody
 Мелпомена,Melpomene
 Мемфис,Memphis
-Мемфис (Тенеси),Memphis
+Мемфис,Memphis
 Менахем Бегин,Menachem Begin
 Менелай,Menelaus
 Менструация,Menstruation
 Мента,Mentha
 Мери Шели,Mary Shelley
-Меридиан (география),Meridian (geography)
+Меридиан,Meridian
 Мерил Стрийп,Meryl Streep
 Мериленд,Maryland
 Мерилин Монро,Marilyn Monroe
 Меритокрация,Meritocracy
 Меркантилизъм,Mercantilism
 Меркурий,Mercury
-Меркурий (митология),Mercury (mythology)
-Меркурий (планета),Mercury (planet)
+Меркурий,Mercury
+Меркурий,Mercury
 Меровинги,Merovingian
-Меса (музика),Mass (liturgy)
+Меса,Mass
 Месец,Month
-Месина (град Италия),Messina
+Месина,Messina
 Месинг,Brass
 Месински пролив,Strait of Messina
 Месия,Messiah
@@ -3602,7 +3602,7 @@ bulgarian,english
 Метеорит,Meteorite
 Метеорно тяло,Meteoroid
 Метеорология,Meteorology
-Метис (спътник),Metis (moon)
+Метис,Metis
 Методизъм,Methodism
 Метонимия,Metonymy
 Метрично пространство,Metric space
@@ -3628,10 +3628,10 @@ bulgarian,english
 Микровълнова фурна,Microwave oven
 Микроикономика,Microeconomics
 Микронезия,Micronesia
-Микронезия (държава),Federated States of Micronesia
+Микронезия,Federated States of Micronesia
 Микропроцесор,Microprocessor
 Микроскоп,Microscope
-Микроскоп (съзвездие),Microscopium
+Микроскоп,Microscopium
 Микрофон,Microphone
 Милано,Milan
 Милиметър,Millimetre
@@ -3648,7 +3648,7 @@ bulgarian,english
 Минералогия,Mineralogy
 Минерва,Minerva
 Минесота,Minnesota
-Министър,Minister (government)
+Министър,Minister
 Министър-председател,Prime minister
 Минно дело,Mining
 Миноги,Lamprey
@@ -3662,17 +3662,17 @@ bulgarian,english
 Мисисипи,Mississippi River
 Мистицизъм,Mysticism
 Мисури,Missouri River
-Мисури (щат),Missouri
+Мисури,Missouri
 Мит,Myth
 Митология,Mythology
 Митохондрия,Mitochondrion
-Михаил (архангел),Michael (archangel)
+Михаил,Michael
 Михаил Бакунин,Mikhail Bakunin
 Михаил Горбачов,Mikhail Gorbachev
 Мичиган,Michigan
-Мичиган (езеро),Lake Michigan
+Мичиган,Lake Michigan
 Мишел Ней,Michel Ney
-Мишка (хардуер),Mouse (computing)
+Мишка,Mouse
 Мишна,Mishnah
 Млечен път,Milky Way
 Млечна киселина,Lactic acid
@@ -3692,11 +3692,11 @@ bulgarian,english
 Модернизъм,Modernism
 Модест Мусоргски,Modest Mussorgsky
 Модул на еластичност,Young's modulus
-Модулация (техника),Modulation
+Модулация,Modulation
 Мозамбик,Mozambique
 Мойри,Moirae
 Мойсей,Moses
-Мол,Mole (unit)
+Мол,Mole
 Молдова,Moldova
 Молекула,Molecule
 Молекулярна биология,Molecular biology
@@ -3716,14 +3716,14 @@ bulgarian,english
 Мононатриев глутамат,Monosodium glutamate
 Монопол,Monopoly
 Монотеизъм,Monotheism
-Монпелие (Вермонт),Montpelier
+Монпелие,Montpelier
 Монреал,Montreal
 Монс,Mons
 Монсерат,Montserrat
-Монтана (щат),Montana
-Монтгомъри (Алабама),Montgomery
+Монтана,Montana
+Монтгомъри,Montgomery
 Монтевидео,Montevideo
-Монтерей (Мексико),Monterrey
+Монтерей,Monterrey
 Моравия,Moravia
 Море,Sea
 Море Лаптеви,Laptev Sea
@@ -3737,7 +3737,7 @@ bulgarian,english
 Морфема,Morpheme
 Морфин,Morphine
 Морфология,Morphology
-Морфология (езикознание),Morphology (linguistics)
+Морфология,Morphology
 Мосад,Mossad
 Москва,Moscow
 Мост,Bridge
@@ -3746,18 +3746,18 @@ bulgarian,english
 Мотоциклет,Motorcycle
 Мохамед,Muhammad
 Моше Даян,Moshe Dayan
-Мощност (физика),Power (physics)
+Мощност,Power
 Мравки,Ant
 Мравчена киселина,Formic acid
 Мрамор,Marble
 Мраморно море,Sea of Marmara
-Мрежичка (съзвездие),Reticulum
+Мрежичка,Reticulum
 Мрежови топологии,Network topology
 Музей,Museum
 Музи,Muse
 Музика,Music
 Музикален инструмент,Musical instrument
-Музикален интервал,Interval (music)
+Музикален интервал,Interval
 Музикант,Musician
 Мумбай,Mumbai
 Мурманск,Murmansk
@@ -3765,7 +3765,7 @@ bulgarian,english
 Мускул,Muscle
 Мусон,Monsoon
 Мутация,Mutation
-Муха (съзвездие),Musca
+Муха,Musca
 Мъгла,Fog
 Мъглявина,Nebula
 Мълния,Lightning
@@ -3793,7 +3793,7 @@ bulgarian,english
 Налягане,Pressure
 Намиб,Namib Desert
 Намибия,Namibia
-Намюр,Namur (city)
+Намюр,Namur
 Нанга Парбат,Nanga Parbat
 Нанкин,Nanjing
 Нанотехнология,Nanotechnology
@@ -3804,7 +3804,7 @@ bulgarian,english
 Наргиле,Hookah
 Наречие,Adverb
 Народно творчество,Folklore
-Нарцис,Narcissus (mythology)
+Нарцис,Narcissus
 Насау,Nassau
 Насекоми,Insect
 Насекомоядни,Insectivora
@@ -3848,7 +3848,7 @@ bulgarian,english
 Неделя,Sunday
 Неймеген,Nijmegen
 Нелсън Мандела,Nelson Mandela
-Немезида,Nemesis (mythology)
+Немезида,Nemesis
 Немейски лъв,Nemean Lion
 Неметал,Nonmetal
 Немска овчарка,German Shepherd Dog
@@ -3859,12 +3859,12 @@ bulgarian,english
 Неоплатонизъм,Neoplatonism
 Неорганична химия,Inorganic chemistry
 Непал,Nepal
-Неперово число,E (mathematical constant)
-Нептун (планета),Neptune
+Неперово число,E
+Нептун,Neptune
 Непълнозъби,Xenarthra
 Нерва,Nerva
 Нервна система,Nervous system
-Нереида (спътник),Nereid (moon)
+Нереида,Nereid
 Нерон,Nero
 Неси,Loch Ness Monster
 Несторианство,Nestorianism
@@ -3875,14 +3875,14 @@ bulgarian,english
 Нефертити,Nefertiti
 Нефт,Petroleum
 Нефтида,Nephthys
-Ниагара (водопад),Niagara Falls
+Ниагара,Niagara Falls
 Ниамей,Niamey
 Нигер,Niger
-Нигер (река),Niger River
+Нигер,Niger River
 Нигерия,Nigeria
 Нийл Армстронг,Neil Armstrong
 Никарагуа,Nicaragua
-Нике,Nike (mythology)
+Нике,Nike
 Никел,Nickel
 Никита Хрушчов,Nikita Khrushchev
 Никозия,Nicosia
@@ -3891,8 +3891,8 @@ bulgarian,english
 Николай Коперник,Nicolaus Copernicus
 Николай Мирликийски,Saint Nicholas
 Никотин,Nicotine
-Никта,Nyx (mythology)
-Никта (спътник),Nix (moon)
+Никта,Nyx
+Никта,Nix
 Нил,Nile
 Нилс Абел,Niels Henrik Abel
 Нилс Бор,Niels Bohr
@@ -3926,8 +3926,8 @@ bulgarian,english
 Нордически език,Old Norse
 Норман Мейлър,Norman Mailer
 Нормандия,Normandy
-Норфолк (остров),Norfolk Island
-Нос (анатомия),Nose
+Норфолк,Norfolk Island
+Нос,Nose
 Нос Хорн,Cape Horn
 Носорози,Rhinoceros
 Нострадамус,Nostradamus
@@ -3935,17 +3935,17 @@ bulgarian,english
 Нуакшот,Nouakchott
 Нуклеинова киселина,Nucleic acid
 Нуклеотид,Nucleotide
-Нула,0 (number)
+Нула,0
 Нумидия,Numidia
 Нумизматика,Numismatics
 Нунавут,Nunavut
 Ньорд,Njord
-Ню,Nu (letter)
+Ню,Nu
 Ню Брунсуик,New Brunswick
 Ню Джърси,New Jersey
 Ню Йорк,New York City
-Ню Йорк (пояснение),New York (disambiguation)
-Ню Йорк (щат),New York
+Ню Йорк,New York
+Ню Йорк,New York
 Ню Мексико,New Mexico
 Ню Орлийнс,New Orleans
 Ню Хампшир,New Hampshire
@@ -3957,7 +3957,7 @@ bulgarian,english
 Нюфаундленд и Лабрадор,Newfoundland and Labrador
 Ням лебед,Mute Swan
 Оазис,Oasis
-Оахака (щат),Oaxaca
+Оахака,Oaxaca
 Оаху,Oahu
 Об,Ob River
 Обединена арабска република,United Arab Republic
@@ -3975,7 +3975,7 @@ bulgarian,english
 Обиколка на Франция,Tour de France
 Облак,Cloud
 Облак на Оорт,Oort cloud
-Облигация,Bond (finance)
+Облигация,Bond
 Обработка на естествен език,Natural language processing
 Образование,Education
 Обрязване,Circumcision
@@ -3985,12 +3985,12 @@ bulgarian,english
 Общество,Society
 Общество на Исус,Society of Jesus
 Общество на народите,League of Nations
-Община (България),Municipality
+Община,Municipality
 Общност на нациите,Commonwealth of Nations
 Общност на независимите държави,Commonwealth of Independent States
 Общо споразумение за митата и търговията,General Agreement on Tariffs and Trade
-Овен (съзвездие),Aries (constellation)
-Оверн,Auvergne (region)
+Овен,Aries
+Оверн,Auvergne
 Овес,Avena
 Овидий,Ovid
 Огледало,Mirror
@@ -4010,7 +4010,7 @@ bulgarian,english
 Озон,Ozone
 Озонов слой,Ozone layer
 Окапи,Okapi
-Океан (митология),Oceanus
+Океан,Oceanus
 Океаниди,Oceanid
 Океания,Oceania
 Океанография,Oceanography
@@ -4038,7 +4038,7 @@ bulgarian,english
 Олигопол,Oligopoly
 Олимп,Mount Olympus
 Олимпийски игри,Olympic Games
-Олимпия (Вашингтон),Olympia
+Олимпия,Olympia
 Олово,Lead
 Олтар,Altar
 Ом,Ohm
@@ -4058,7 +4058,7 @@ bulgarian,english
 Опашка,Tail
 Опел,Opel
 Опера,Opera
-Опера (браузър),Opera (Internet suite)
+Опера,Opera
 Операционна система,Operating system
 Оперета,Operetta
 Опрашване,Pollination
@@ -4066,12 +4066,12 @@ bulgarian,english
 Оптично влакно,Optical fiber
 Орален секс,Oral sex
 Орангутани,Orangutan
-Оранжев цвят,Orange (colour)
+Оранжев цвят,Orange
 Оратория,Oratorio
 Орбита,Orbit
 Оргазъм,Orgasm
-Орган (анатомия),Organ (anatomy)
-Орган (музика),Organ (music)
+Орган,Organ
+Орган,Organ
 Организация,Organization
 Организация за освобождение на Палестина,Palestine Liberation Organization
 Организация на американските държави,Organization of American States
@@ -4083,15 +4083,15 @@ bulgarian,english
 Органично съединение,Organic compound
 Орегон,Oregon
 Орел,Eagle
-Орел (съзвездие),Aquila (constellation)
+Орел,Aquila
 Орел рибар,Osprey
-Орест,Orestes (mythology)
+Орест,Orestes
 Орех,Walnut
 Оригами,Origami
 Ориген,Origen
 Ориз,Rice
 Ориноко,Orinoco
-Орион (съзвездие),Orion (constellation)
+Орион,Orion
 Ориса,Orissa
 Оркестър,Orchestra
 Орландо,Orlando
@@ -4113,18 +4113,18 @@ bulgarian,english
 Остин,Austin
 Острава,Ostrava
 Остров,Island
-Остров Принц Едуард (провинция),Prince Edward Island
+Остров Принц Едуард,Prince Edward Island
 Отава,Ottawa
 Отвертка,Screwdriver
 Откровение на Йоан,Book of Revelation
 Ото Хан,Otto Hahn
 Ото фон Бисмарк,Otto von Bismarck
 Отон,Otho
-Отон I (Свещена Римска империя),Otto I
+Отон I,Otto I
 Отрова,Poison
 Отче наш,Lord's Prayer
-Оукланд (Калифорния),Oakland
-Офицер (шахмат),Bishop (chess)
+Оукланд,Oakland
+Офицер,Bishop
 Офорт,Etching
 Охайо,Ohio
 Охотско море,Sea of Okhotsk
@@ -4133,7 +4133,7 @@ bulgarian,english
 Очила,Glasses
 Пабло Неруда,Pablo Neruda
 Пабло Пикасо,Pablo Picasso
-Павел (апостол),Paul the Apostle
+Павел,Paul the Apostle
 Павиан,Baboon
 Падуа,Padua
 Пакистан,Pakistan
@@ -4152,16 +4152,16 @@ bulgarian,english
 Памет с произволен достъп,Random access memory
 Памир,Pamir Mountains
 Памук,Cotton
-Пан,Pan (mythology)
+Пан,Pan
 Панама,Panama
-Панама (град),Panama City
+Панама,Panama City
 Панамски канал,Panama Canal
 Панамски провлак,Isthmus of Panama
 Пангея,Pangaea
 Пандемия,Pandemic
-Пандора (митология),Pandora
+Пандора,Pandora
 Панкреас,Pancreas
-Пантеон (Рим),Pantheon
+Пантеон,Pantheon
 Папа,Pope
 Папагалоподобни,Parrot
 Папирус,Papyrus
@@ -4183,7 +4183,7 @@ bulgarian,english
 Парвати,Parvati
 Пари,Money
 Париж,Paris
-Парис,Paris (mythology)
+Парис,Paris
 Парламент,Parliament
 Парменид,Parmenides
 Парников ефект,Greenhouse effect
@@ -4192,8 +4192,8 @@ bulgarian,english
 Партенон,Parthenon
 Партия,Political party
 Партско царство,Parthia
-Паскал (единица),Pascal (unit)
-Паскал (език за програмиране),Pascal (programming language)
+Паскал,Pascal
+Паскал,Pascal
 Пастьоризация,Pasteurization
 Патагония,Patagonia
 Патент,Patent
@@ -4212,11 +4212,11 @@ bulgarian,english
 Паякообразни,Arachnid
 Паяци,Spider
 Пегас,Pegasus
-Пегас (съзвездие),Pegasus (constellation)
+Пегас,Pegasus
 Педагогика,Pedagogy
 Педофилия,Pedophilia
 Пекин,Beijing
-Пелин,Artemisia (plant)
+Пелин,Artemisia
 Пелопонес,Peloponnese
 Пелопонески войни,Peloponnesian War
 Пенелопа,Penelope
@@ -4228,19 +4228,19 @@ bulgarian,english
 Пепси,Pepsi
 Перална машина,Washing machine
 Пергамент,Parchment
-Пергел,Compass (drafting)
-Пергел (съзвездие),Circinus
+Пергел,Compass
+Пергел,Circinus
 Перестройка,Perestroika
 Перикъл,Pericles
-Период на периодичната система,Period (periodic table)
+Период на периодичната система,Period
 Период на полуразпад,Half-life
 Периодична система на елементите,Periodic table
 Перла,Pearl
 Перм,Perm
 Пермутация,Permutation
 Перо,Feather
-Персей (митология),Perseus
-Персей (съзвездие),Perseus (constellation)
+Персей,Perseus
+Персей,Perseus
 Персеполис,Persepolis
 Персефона,Persephone
 Персийска империя,Persian Empire
@@ -4251,20 +4251,20 @@ bulgarian,english
 Петдесетница,Pentecost
 Петер Паул Рубенс,Peter Paul Rubens
 Петък,Friday
-Петър (апостол),Saint Peter
+Петър,Saint Peter
 Пехота,Infantry
-Пешка,Pawn (chess)
+Пешка,Pawn
 Пещера,Cave
 Пи,Pi
-Пи (буква),Pi (letter)
+Пи,Pi
 Пиано,Piano
 Пиемонт,Piedmont
-Пиер (Южна Дакота),Pierre
+Пиер,Pierre
 Пиер Абелар,Peter Abelard
 Пиер Кюри,Pierre Curie
 Пиер дьо Ферма,Pierre de Fermat
 Пиза,Pisa
-Пикардия (регион),Picardie
+Пикардия,Picardie
 Пиксел,Pixel
 Пилзен,Pilsen
 Пинатубо,Mount Pinatubo
@@ -4277,7 +4277,7 @@ bulgarian,english
 Пиренейски полуостров,Iberian Peninsula
 Пиренови,Ericaceae
 Пирова победа,Pyrrhic victory
-Пирон,Nail (fastener)
+Пирон,Nail
 Писател,Writer
 Писменост,Writing system
 Пистолет,Handgun
@@ -4289,7 +4289,7 @@ bulgarian,english
 Плаваемост,Buoyancy
 Плагиатство,Plagiarism
 Плаж,Beach
-Плазма,Plasma (physics)
+Плазма,Plasma
 Плазмид,Plasmid
 План Маршал,Marshall Plan
 Планета,Planet
@@ -4299,12 +4299,12 @@ bulgarian,english
 Планктон,Plankton
 Пластмаса,Plastic
 Платина,Platinum
-Платно (ветроходство),Sail
+Платно,Sail
 Платон,Plato
 Плевен,Pleven
 Плейбой,Playboy
 Плесен,Mold
-Плеяди (звезден куп),Pleiades (star cluster)
+Плеяди,Pleiades
 Плимут,Plymouth
 Плиний Млади,Pliny the Younger
 Плиний Стари,Pliny the Elder
@@ -4316,8 +4316,8 @@ bulgarian,english
 Площ,Area
 Плуване,Swimming
 Плутарх,Plutarch
-Плутон,Pluto (disambiguation)
-Плутон (планета-джудже),Pluto
+Плутон,Pluto
+Плутон,Pluto
 Плутоний,Plutonium
 Плътност,Density
 Плъх,Rat
@@ -4358,12 +4358,12 @@ bulgarian,english
 Полуостров,Peninsula
 Полупроводник,Semiconductor
 Полша,Poland
-Полярна звезда (Малка мечка),Polaris
+Полярна звезда,Polaris
 Полярна лисица,Arctic fox
-Полярно сияние,Aurora (astronomy)
+Полярно сияние,Aurora
 Помело,Pomelo
-Помпа (ръчна),Pump
-Помпа (съзвездие),Antlia
+Помпа,Pump
+Помпа,Antlia
 Помпей,Pompeii
 Помпей Велики,Pompey
 Понеделник,Monday
@@ -4374,37 +4374,37 @@ bulgarian,english
 Порт Морсби,Port Moresby
 Порт о Пренс,Port-au-Prince
 Порт ъф Спейн,Port of Spain
-Портал:Астрономия,Astronomy
-Портал:Биографии,Biography
-Портал:Биология,Biology
-Портал:География,Geography
-Портал:История,History
-Портал:Литература,Literature
-Портал:Математика,Mathematics
-Портал:Физика,Physics
-Портал:Филми,Film
-Портал:Философия,Philosophy
-Портал:Химия,Chemistry
+Астрономия,Astronomy
+Биографии,Biography
+Биология,Biology
+География,Geography
+История,History
+Литература,Literature
+Математика,Mathematics
+Физика,Physics
+Филми,Film
+Философия,Philosophy
+Химия,Chemistry
 Портланд,Portland
-Порто (град),Porto
+Порто,Porto
 Портрет,Portrait
 Портсмут,Portsmouth
 Португалия,Portugal
 Порцелан,Porcelain
-Посевна врана,Rook (bird)
+Посевна врана,Rook
 Посейдон,Poseidon
 Послание към римляните,Epistle to the Romans
 Посланик,Ambassador
 Постмодернизъм,Postmodernism
 Постоянен ток,Direct current
-Потоп,Deluge (mythology)
-Потребление,Consumption (economics)
+Потоп,Deluge
+Потребление,Consumption
 Потсдам,Potsdam
 Почва,Soil
 Пощенска марка,Postage stamp
 Пощенски код,Postal code
 Пояс на Кайпер,Kuiper belt
-Права линия,Line (mathematics)
+Права линия,Line
 Правителство,Government
 Право,Law
 Правопис,Orthography
@@ -4423,7 +4423,7 @@ bulgarian,english
 Прешлен,Vertebra
 Прешленести червеи,Annelid
 Приам,Priam
-Призма,Prism (geometry)
+Призма,Prism
 Приказка,Fairy tale
 Прилагателно име,Adjective
 Прилепи,Bat
@@ -4447,7 +4447,7 @@ bulgarian,english
 Проказа,Leprosy
 Прокариоти,Prokaryote
 Проксима Кентавър,Proxima Centauri
-Пролет,Spring (season)
+Пролет,Spring
 Пролог,Prolog
 Променлив ток,Alternating current
 Прометей,Prometheus
@@ -4470,7 +4470,7 @@ bulgarian,english
 Прусия,Prussia
 Псалтир,Psalms
 Псевдоним,Pseudonym
-Пси,Psi (letter)
+Пси,Psi
 Психиатрия,Psychiatry
 Психоанализа,Psychoanalysis
 Психоза,Psychosis
@@ -4482,7 +4482,7 @@ bulgarian,english
 Птолемеи,Ptolemaic dynasty
 Пубертет,Puberty
 Пуерто Рико,Puerto Rico
-Пула (град в Хърватия),Pula
+Пула,Pula
 Пулия,Apulia
 Пума,Cougar
 Пунктуация,Punctuation
@@ -4499,7 +4499,7 @@ bulgarian,english
 Първороден грях,Original sin
 Пърл Харбър,Pearl Harbor
 Пърси Шели,Percy Bysshe Shelley
-Пърт (Западна Австралия),Perth
+Пърт,Perth
 Път,Road
 Път на коприната,Silk Road
 Пясък,Sand
@@ -4511,7 +4511,7 @@ bulgarian,english
 Равалпинди,Rawalpindi
 Равена,Ravenna
 Равин,Rabbi
-Равнина (математика),Plane (mathematics)
+Равнина,Plane
 Равноденствие,Equinox
 Радиан,Radian
 Радий,Radium
@@ -4522,14 +4522,14 @@ bulgarian,english
 Радиус,Radius
 Радон,Radon
 Развод,Divorce
-Разлом,Fault (geology)
+Разлом,Fault
 Размножаване,Reproduction
 Разпети петък,Good Friday
 Разстояние,Distance
 Рай,Heaven
 Райнер Мария Рилке,Rainer Maria Rilke
-Рак (болест),Cancer
-Рак (съзвездие),Cancer (constellation)
+Рак,Cancer
+Рак,Cancer
 Рак на белия дроб,Lung cancer
 Рак на гърдата,Breast cancer
 Ракета,Rocket
@@ -4562,7 +4562,7 @@ bulgarian,english
 Ректасцензия,Right ascension
 Рекурсия,Recursion
 Релативизъм,Relativism
-Релация,Relation (mathematics)
+Релация,Relation
 Религия,Religion
 Реликтово излъчване,Cosmic microwave background radiation
 Рембранд ван Рейн,Rembrandt
@@ -4574,7 +4574,7 @@ bulgarian,english
 Република Кипър,Cyprus
 Република Китай,Republic of China
 Република Конго,Republic of the Congo
-Републиканска партия,Republican Party (United States)
+Републиканска партия,Republican Party
 Ресифе,Recife
 Ресторант,Restaurant
 Реторика,Rhetoric
@@ -4582,10 +4582,10 @@ bulgarian,english
 Реформация,Protestant Reformation
 Рецесия,Recession
 Речник,Dictionary
-Рея (митология),Rhea (mythology)
-Рея (спътник),Rhea (moon)
+Рея,Rhea
+Рея,Rhea
 Риби,Fish
-Риби (съзвездие),Pisces (constellation)
+Риби,Pisces
 Рибозома,Ribosome
 Риболов,Fishing
 Рига,Riga
@@ -4602,17 +4602,17 @@ bulgarian,english
 Ринго Стар,Ringo Starr
 Рио Гранде,Rio Grande
 Рио де Жанейро,Rio de Janeiro
-Рио де Жанейро (щат),Rio de Janeiro (state)
+Рио де Жанейро,Rio de Janeiro
 Ритъм енд блус,Rhythm and blues
 Рихард Вагнер,Richard Wagner
 Рихард Щраус,Richard Strauss
 Рицар,Knight
 Ричард Никсън,Richard Nixon
-Ричард Райт,Richard Wright (musician)
+Ричард Райт,Richard Wright
 Ричард Файнман,Richard Feynman
-Ричмънд (Вирджиния),Richmond
+Ричмънд,Richmond
 Рияд,Riyadh
-Ро,Rho (letter)
+Ро,Rho
 Роберт Кох,Robert Koch
 Роберт Шуман,Robert Schumann
 Робин Худ,Robin Hood
@@ -4628,7 +4628,7 @@ bulgarian,english
 Робърт Хайнлайн,Robert A. Heinlein
 Робърт Хук,Robert Hooke
 Робърт де Ниро,Robert De Niro
-Рог,Horn (anatomy)
+Рог,Horn
 Род Айлънд,Rhode Island
 Роджър Бейкън,Roger Bacon
 Родителен падеж,Genitive case
@@ -4644,16 +4644,16 @@ bulgarian,english
 Рокада,Castling
 Рокендрол,Rock and roll
 Рококо,Rococo
-Роли (Северна Каролина),Raleigh
+Роли,Raleigh
 Роман,Novel
 Романтизъм,Romanticism
 Романш,Romansh
 Ромб,Rhombus
 Роналд Рейгън,Ronald Reagan
-Рос (море),Ross Sea
+Рос,Ross Sea
 Росарио,Rosario
 Росток,Rostock
-Рота,Company (military unit)
+Рота,Company
 Ротердам,Rotterdam
 Рош Хашана,Rosh Hashanah
 Руал Амундсен,Roald Amundsen
@@ -4681,11 +4681,11 @@ bulgarian,english
 Саксофон,Saxophone
 Салах ад Дин,Saladin
 Салвадор,El Salvador
-Салвадор (Бразилия),Salvador
-Салем (Орегон),Salem
-Салерно (град),Salerno
+Салвадор,Salvador
+Салем,Salem
+Салерно,Salerno
 Салман Рушди,Salman Rushdie
-Самара (Русия),Samara
+Самара,Samara
 Самарканд,Samarkand
 Самоа,Samoa
 Самсара,Samsara
@@ -4696,17 +4696,17 @@ bulgarian,english
 Сан Антонио,San Antonio
 Сан Диего,San Diego
 Сан Марино,San Marino
-Сан Марино (Сан Марино),San Marino
+Сан Марино,San Marino
 Сан Салвадор,San Salvador
 Сан Франциско,San Francisco
-Сан Хосе (Калифорния),San Jose
+Сан Хосе,San Jose
 Сан Хуан,San Juan
 Сандро Ботичели,Sandro Botticelli
 Санкт Петербург,Saint Petersburg
 Санскрит,Sanskrit
-Санта Фе (Ню Мексико),Santa Fe
+Санта Фе,Santa Fe
 Санто Доминго,Santo Domingo
-Сантуш,Santos (Săo Paulo)
+Сантуш,Santos
 Сантяго,Santiago
 Сантяго де Куба,Santiago de Cuba
 Сантяго де Чиле,Santiago
@@ -4719,35 +4719,35 @@ bulgarian,english
 Сардина,Sardine
 Сардиния,Sardinia
 Саркофаг,Sarcophagus
-Саскачеван (провинция),Saskatchewan
+Саскачеван,Saskatchewan
 Сатана,Satan
 Сатанизъм,Satanism
 Сатира,Satire
-Сатурн,Saturn (disambiguation)
-Сатурн (митология),Saturn (mythology)
-Сатурн (планета),Saturn
+Сатурн,Saturn
+Сатурн,Saturn
+Сатурн,Saturn
 Саудитска Арабия,Saudi Arabia
-Сафари (браузър),Safari (web browser)
+Сафари,Safari
 Сафо,Sappho
 Сахара,Sahara
 Свазиленд,Swaziland
 Свастика,Swastika
-Света София (Константинопол),Hagia Sophia
+Света София,Hagia Sophia
 Света Троица,Trinity
 Светец,Saint
 Свети Валентин,Valentine's Day
 Свети Дух,Holy Spirit
 Свети Илия,Elijah
-Свети Лаврентий (река),Saint Lawrence River
+Свети Лаврентий,Saint Lawrence River
 Светкавична война,Blitzkrieg
 Светлина,Light
 Светлинна година,Light-year
 Световен океан,Ocean
-Световен търговски център (Ню Йорк),World Trade Center
+Световен търговски център,World Trade Center
 Световна банка,World Bank
 Световна здравна организация,World Health Organization
 Световна търговска организация,World Trade Organization
-Световно изложение,Expo (exhibition)
+Световно изложение,Expo
 Светодиод,Light-emitting diode
 Свещ,Candle
 Свещен Граал,Holy Grail
@@ -4776,7 +4776,7 @@ bulgarian,english
 Северно полукълбо,Northern Hemisphere
 Северозападни територии,Northwest Territories
 Севиля,Seville
-Сеговия (град),Segovia
+Сеговия,Segovia
 Седемгодишна война,Seven Years' War
 Седиментна скала,Sedimentary rock
 Седмица,Week
@@ -4785,7 +4785,7 @@ bulgarian,english
 Сейнт Китс и Невис,Saint Kitts and Nevis
 Сейнт Луис,St. Louis
 Сейнт Лусия,Saint Lucia
-Сейнт Пол (Минесота),Saint Paul
+Сейнт Пол,Saint Paul
 Сейшели,Seychelles
 Секс,Sexual intercourse
 Секстант,Sextant
@@ -4811,7 +4811,7 @@ bulgarian,english
 Сергей Рахманинов,Sergei Rachmaninoff
 Серен диоксид,Sulfur dioxide
 Серотонин,Serotonin
-Сет (бог),Set (mythology)
+Сет,Set
 Сеул,Seoul
 Си Ен Тауър,CN Tower
 Сиатъл,Seattle
@@ -4832,7 +4832,7 @@ bulgarian,english
 Силиций,Silicon
 Силно ядрено взаимодействие,Strong interaction
 Симбиоза,Symbiosis
-Сименс,Siemens (unit)
+Сименс,Siemens
 Симон дьо Бовоар,Simone de Beauvoir
 Симптом,Symptom
 Симфония,Symphony
@@ -4840,12 +4840,12 @@ bulgarian,english
 Син цвят,Blue
 Синагога,Synagogue
 Сингапур,Singapore
-Сингъл,Single (music)
+Сингъл,Single
 Синдзян-уйгурски автономен регион,Xinjiang
 Синдром на придобитата имунна недостатъчност,AIDS
 Синклер Луис,Sinclair Lewis
 Синоним,Synonym
-Синт Мартен (Холандски Антили),Saint Martin
+Синт Мартен,Saint Martin
 Синтаксис,Syntax
 Синтезатор,Synthesizer
 Синьо-зелена плесен,Cyanobacteria
@@ -4861,7 +4861,7 @@ bulgarian,english
 Сиърс Тауър,Sears Tower
 Скагерак,Skagerrak
 Скайлаб,Skylab
-Скала,Rock (geology)
+Скала,Rock
 Скала на Бофорт,Beaufort scale
 Скален орел,Golden Eagle
 Скалисти планини,Rocky Mountains
@@ -4877,16 +4877,16 @@ bulgarian,english
 Скопие,Skopje
 Скорост,Velocity
 Скорост на светлината,Speed of light
-Скорпион (съзвездие),Scorpius
+Скорпион,Scorpius
 Скорпиони,Scorpion
 Скрабъл,Scrabble
 Скротум,Scrotum
 Скулптура,Sculpture
-Скуош,Squash (sport)
+Скуош,Squash
 Скъпоценен камък,Gemstone
 Слабо ядрено взаимодействие,Weak interaction
 Сладолед,Ice cream
-Слаш,Slash (musician)
+Слаш,Slash
 Слезка,Spleen
 Слезови,Malvaceae
 Слива,Plum
@@ -4920,11 +4920,11 @@ bulgarian,english
 Сокол скитник,Peregrine Falcon
 Соколи,Falcon
 Сократ,Socrates
-Сол,Salt (chemistry)
+Сол,Salt
 Сол Белоу,Saul Bellow
 Солна киселина,Hydrochloric acid
 Соломон,Solomon
-Соломонови острови (държава),Solomon Islands
+Соломонови острови,Solomon Islands
 Солт Лейк Сити,Salt Lake City
 Солун,Thessaloniki
 Сомалия,Somalia
@@ -4944,7 +4944,7 @@ bulgarian,english
 Социолингвистика,Sociolinguistics
 Социология,Sociology
 Соя,Soybean
-Спам,Spam (electronic)
+Спам,Spam
 Спанак,Spinach
 Спарта,Sparta
 Спектроскопия,Spectroscopy
@@ -4952,13 +4952,13 @@ bulgarian,english
 Сперма,Semen
 Сперматозоид,Spermatozoon
 Специя,La Spezia
-Спин (физика),Spin (physics)
+Спин,Spin
 Спирална галактика,Spiral galaxy
 Списание,Magazine
 Сплав,Alloy
 Сплит,Split
 Спорт,Sport
-Спрингфийлд (Илинойс),Springfield
+Спрингфийлд,Springfield
 Сребриста чайка,Herring Gull
 Сребро,Silver
 Средиземно море,Mediterranean Sea
@@ -4999,8 +4999,8 @@ bulgarian,english
 Стоунхендж,Stonehenge
 Страсбург,Strasbourg
 Страх,Fear
-Стрелец (съзвездие),Sagittarius (constellation)
-Стрес,Stress (medicine)
+Стрелец,Sagittarius
+Стрес,Stress
 Стронций,Strontium
 Струг,Lathe
 Структурализъм,Structuralism
@@ -5008,7 +5008,7 @@ bulgarian,english
 Стъкло,Glass
 Стъклопис,Stained glass
 Субкултура,Subculture
-Сублимация,Sublimation (chemistry)
+Сублимация,Sublimation
 Сува,Suva
 Суверенитет,Sovereignty
 Судан,Sudan
@@ -5048,7 +5048,7 @@ bulgarian,english
 Съпротивление,Resistor
 Сърбия,Serbia
 Сърбия и Черна гора,Serbia and Montenegro
-Сървър,Server (computing)
+Сървър,Server
 Съри,Surrey
 Сърна,Roe Deer
 Сърп и чук,Hammer and sickle
@@ -5070,12 +5070,12 @@ bulgarian,english
 Тайван,Taiwan
 Тайдзи цюан,Tai chi chuan
 Тайланд,Thailand
-Тайм,Time (magazine)
+Тайм,Time
 Тайпей,Taipei
 Такси,Taxicab
 Таксон,Taxon
 Таксономия,Taxonomy
-Талахаси (Флорида),Tallahassee
+Талахаси,Tallahassee
 Талес,Thales
 Талибани,Taliban
 Талин,Tallinn
@@ -5089,12 +5089,12 @@ bulgarian,english
 Танатос,Thanatos
 Танах,Tanakh
 Танганика,Lake Tanganyika
-Танго,Tango (dance)
+Танго,Tango
 Танжер,Tangier
 Танзания,Tanzania
 Танк,Tank
-Тантал (митология),Tantalus
-Тантал (химичен елемент),Tantalum
+Тантал,Tantalus
+Тантал,Tantalum
 Танц,Dance
 Тапири,Tapir
 Тарос,Tarragon
@@ -5104,7 +5104,7 @@ bulgarian,english
 Тасмания,Tasmania
 Тасманово море,Tasman Sea
 Татуировка,Tattoo
-Тахо (река),Tagus
+Тахо,Tagus
 Тацит,Tacitus
 Ташкент,Tashkent
 Тбилиси,Tbilisi
@@ -5161,10 +5161,10 @@ bulgarian,english
 Терпсихора,Terpsichore
 Тертулиан,Tertullian
 Тесалия,Thessaly
-Тесла (единица),Tesla (unit)
+Тесла,Tesla
 Тестис,Testicle
-Тетида,Tethys (mythology)
-Тетида (спътник),Tethys (moon)
+Тетида,Tethys
+Тетида,Tethys
 Тетраедър,Tetrahedron
 Тетрахидроканабинол,Tetrahydrocannabinol
 Техеран,Tehran
@@ -5176,12 +5176,12 @@ bulgarian,english
 Тиберий,Tiberius
 Тибет,Tibet
 Тибър,Tiber
-Тива (Беотия),Thebes
-Тива (спътник),Thebe (moon)
+Тива,Thebes
+Тива,Thebe
 Тиволи,Tivoli
 Тигри за освобождение на Тамил Еелам,Liberation Tigers of Tamil Eelam
 Тигър,Tiger
-Тигър (река),Tigris
+Тигър,Tigris
 Тиендзин,Tianjin
 Тиквови,Cucurbitaceae
 Тимбукту,Timbuktu
@@ -5192,22 +5192,22 @@ bulgarian,english
 Тирана,Tirana
 Тиранозавър,Tyrannosaurus
 Тиренско море,Tyrrhenian Sea
-Тирол,Tyrol (state)
+Тирол,Tyrol
 Тит,Titus
 Тит Ливий,Livy
-Титан,Titan (disambiguation)
-Титан (елемент),Titanium
-Титан (спътник),Titan (moon)
-Титани,Titan (mythology)
-Титания (спътник),Titania (moon)
+Титан,Titan
+Титан,Titanium
+Титан,Titan
+Титани,Titan
+Титания,Titania
 Тифон,Typhon
 Тихи океан,Pacific Ocean
 Тихо Брахе,Tycho Brahe
 Тициан,Titian
-Тичино (кантон),Ticino
+Тичино,Ticino
 Того,Togo
 Тойота Мотър Корпорейшън,Toyota
-Токантинс (щат),Tocantins (state)
+Токантинс,Tocantins
 Токио,Tokyo
 Токсикология,Toxicology
 Толедо,Toledo
@@ -5216,30 +5216,30 @@ bulgarian,english
 Тома Аквински,Thomas Aquinas
 Томас Джеферсън,Thomas Jefferson
 Томас Едисън,Thomas Edison
-Томас Йънг,Thomas Young (scientist)
+Томас Йънг,Thomas Young
 Томас Лорънс,T. E. Lawrence
 Томас Малтус,Thomas Malthus
 Томас Ман,Thomas Mann
 Томас Мор,Thomas More
 Томас Стърнз Елиът,T. S. Eliot
 Томас Хобс,Thomas Hobbes
-Тон (единица),Tonne
-Тон (единица),Ton
+Тон,Tonne
+Тон,Ton
 Тонга,Tonga
 Тони Блеър,Tony Blair
 Тони Морисън,Toni Morrison
-Топ (оръдие),Cannon
-Топ (шахмат),Rook (chess)
+Топ,Cannon
+Топ,Rook
 Топаз,Topaz
 Топене,Melting
-Топика (Канзас),Topeka
+Топика,Topeka
 Топка,Ball
 Топлина,Heat
 Топлинен двигател,Heat engine
 Топола,Poplar
 Топология,Topology
-Тор (геометрия),Torus
-Тор (митология),Thor
+Тор,Torus
+Тор,Thor
 Торий,Thorium
 Торино,Turin
 Торнадо,Tornado
@@ -5248,7 +5248,7 @@ bulgarian,english
 Тот,Thoth
 Тоталитаризъм,Totalitarianism
 Тофу,Tofu
-Точка (геометрия),Point (geometry)
+Точка,Point
 Трагедия,Tragedy
 Традиция,Tradition
 Тракия,Thrace
@@ -5262,12 +5262,12 @@ bulgarian,english
 Трапец,Trapezoid
 Траян,Trajan
 Трентски събор,Council of Trent
-Трентън (Ню Джърси),Trenton
-Треска (болест),Fever
+Трентън,Trenton
+Треска,Fever
 Трети кръстоносен поход,Third Crusade
 Трети свят,Third World
 Триас,Triassic
-Тригер (електроника),Flip-flop (electronics)
+Тригер,Flip-flop
 Тригонометрична функция,Trigonometric function
 Тригонометрия,Trigonometry
 Тридесетгодишна война,Thirty Years' War
@@ -5278,11 +5278,11 @@ bulgarian,english
 Триполи,Tripoli
 Трир,Trier
 Трискелион,Triskelion
-Тритон (митология),Triton (mythology)
-Тритон (спътник),Triton (moon)
+Тритон,Triton
+Тритон,Triton
 Трицератопс,Triceratops
 Триъгълник,Triangle
-Триъгълник (съзвездие),Triangulum
+Триъгълник,Triangulum
 Трол,Troll
 Тролейбус,Trolleybus
 Тромбон,Trombone
@@ -5295,8 +5295,8 @@ bulgarian,english
 Троя,Troy
 Троянска война,Trojan War
 Троянски кон,Trojan Horse
-Троянски кон (компютри),Trojan horse (computing)
-Трюфел,Tuber (genus)
+Троянски кон,Trojan horse
+Трюфел,Tuber
 Туареги,Tuareg
 Туберкулоза,Tuberculosis
 Тувалу,Tuvalu
@@ -5309,14 +5309,14 @@ bulgarian,english
 Тунел,Tunnel
 Тунел под Ла Манш,Channel Tunnel
 Тунис,Tunisia
-Тунис (град),Tunis
-Тур (град),Tours
+Тунис,Tunis
+Тур,Tours
 Турбина,Turbine
 Туризъм,Tourism
 Туркменистан,Turkmenistan
 Турция,Turkey
 Тухла,Brick
-Тъкан (биология),Tissue (biology)
+Тъкан,Tissue
 Тъмна материя,Dark matter
 Търговия,Trade
 Търсачка,Search engine
@@ -5325,7 +5325,7 @@ bulgarian,english
 Тютюн,Tobacco
 УНИЦЕФ,United Nations Children's Fund
 Уайоминг,Wyoming
-Уайтхорс (Юкон),Whitehorse
+Уайтхорс,Whitehorse
 Уганда,Uganda
 Ударен музикален инструмент,Percussion instrument
 Уди Алън,Woody Allen
@@ -5374,10 +5374,10 @@ bulgarian,english
 Упсала,Uppsala
 Ур,Ur
 Уравнения на Максуел,Maxwell's equations
-Урал (планина),Ural Mountains
-Уран (елемент),Uranium
-Уран (митология),Uranus (mythology)
-Уран (планета),Uranus
+Урал,Ural Mountains
+Уран,Uranium
+Уран,Uranus
+Уран,Uranus
 Урания,Urania
 Урацил,Uracil
 Урду,Urdu
@@ -5387,7 +5387,7 @@ bulgarian,english
 Устна хармоника,Harmonica
 Утар Прадеш,Uttar Pradesh
 Утопия,Utopia
-Утрехт,Utrecht (city)
+Утрехт,Utrecht
 Уфа,Ufa
 Ухан,Wuhan
 Ухо,Ear
@@ -5409,7 +5409,7 @@ bulgarian,english
 Фатах,Fatah
 Фашизъм,Fascism
 Февруари,February
-Февруарска революция (1917),February Revolution
+Февруарска революция,February Revolution
 Федерален резерв,Federal Reserve System
 Федерална република Германия,West Germany
 Федерално бюро за разследване,Federal Bureau of Investigation
@@ -5417,25 +5417,25 @@ bulgarian,english
 Федерико Фелини,Federico Fellini
 Феликс Менделсон Бартолди,Felix Mendelssohn
 Феминизъм,Feminism
-Феникс,Phoenix (mythology)
-Феникс (съзвездие),Phoenix (constellation)
+Феникс,Phoenix
+Феникс,Phoenix
 Фенилаланин,Phenylalanine
 Фенол,Phenol
 Фенотип,Phenotype
 Фентъзи,Fantasy
 Феодализъм,Feudalism
 Ферара,Ferrara
-Фердинанд II (Свещена Римска империя),Ferdinand II
+Фердинанд II,Ferdinand II
 Фердинанд дьо Сосюр,Ferdinand de Saussure
 Ференц Лист,Franz Liszt
 Ферибот,Ferry
-Ферментация,Fermentation (biochemistry)
-Ферментация,Fermentation (food)
+Ферментация,Fermentation
+Ферментация,Fermentation
 Фермион,Fermion
 Фернандо Магелан,Ferdinand Magellan
 Фехтовка,Fencing
 Фея,Fairy
-Фи,Phi (letter)
+Фи,Phi
 Фигурно пързаляне,Figure skating
 Фидел Кастро,Fidel Castro
 Фиджи,Fiji
@@ -5445,7 +5445,7 @@ bulgarian,english
 Физиология,Physiology
 Филаделфия,Philadelphia
 Филателия,Philately
-Филип II (Македония),Philip II of Macedon
+Филип II,Philip II of Macedon
 Филип II Испански,Philip II of Spain
 Филип Ленард,Philipp Lenard
 "Филип, херцог на Единбург",Prince Philip
@@ -5457,13 +5457,13 @@ bulgarian,english
 Философски камък,Philosopher's stone
 Финикия,Phoenicia
 Финикова палма,Date Palm
-Финикс (Аризона),Phoenix
-Финикс (космически апарат),Phoenix (spacecraft)
+Финикс,Phoenix
+Финикс,Phoenix
 Финландия,Finland
 Фински залив,Gulf of Finland
 Фиорд,Fjord
 Флавий Василиск,Basiliscus
-Фламандски език,Flemish (linguistics)
+Фламандски език,Flemish
 Фламенко,Flamenco
 Флатуленция,Flatulence
 Флаш-памет,Flash memory
@@ -5473,7 +5473,7 @@ bulgarian,english
 Флуид,Fluid
 Флуорит,Fluorite
 Фобия,Phobia
-Фобос (спътник),Phobos (moon)
+Фобос,Phobos
 Фовизъм,Fauvism
 Фолиева киселина,Folic acid
 Фолкландски острови,Falkland Islands
@@ -5496,16 +5496,16 @@ bulgarian,english
 Фрактал,Fractal
 Франк Синатра,Frank Sinatra
 Франклин Пиърс,Franklin Pierce
-Франкфурт,Frankfurt (disambiguation)
+Франкфурт,Frankfurt
 Франкфурт на Майн,Frankfurt
-Франкфурт на Одер,Frankfurt (Oder)
+Франкфурт на Одер,Frankfurt
 Франс Халс,Frans Hals
 Франсис Крик,Francis Crick
 Франсис Скот Фицджералд,F. Scott Fitzgerald
 Франсис Форд Копола,Francis Ford Coppola
 Франсиско Гоя,Francisco Goya
 Франсиско Франко,Francisco Franco
-Франц II (Свещена Римска империя),Francis II
+Франц II,Francis II
 Франц Кафка,Franz Kafka
 Франц Шуберт,Franz Schubert
 Франциск от Асизи,Francis of Assisi
@@ -5519,7 +5519,7 @@ bulgarian,english
 Френска революция,French Revolution
 Френски франк,French franc
 Френско-пруска война,Franco-Prussian War
-Фресно (град),Fresno
+Фресно,Fresno
 Фридрих I Барбароса,Frederick I
 Фридрих Енгелс,Friedrich Engels
 Фрийтаун,Freetown
@@ -5527,15 +5527,15 @@ bulgarian,english
 Фриули-Венеция Джулия,Friuli-Venezia Giulia
 Фриц Хабер,Fritz Haber
 Фруктоза,Fructose
-Фуга (музика),Fugue
+Фуга,Fugue
 Фуджи,Mount Fuji
 Фукуока,Fukuoka
 Фундаментализъм,Fundamentalism
-Функция,Function (mathematics)
-Фунт (единица),Pound (mass)
-Фут,Foot (unit of length)
-Футбол,Football (soccer)
-Футуризъм,Futurism (art)
+Функция,Function
+Фунт,Pound
+Фут,Foot
+Футбол,Football
+Футуризъм,Futurism
 Фън шуй,Feng shui
 Фънк музика,Funk
 Фъстък,Peanut
@@ -5556,7 +5556,7 @@ bulgarian,english
 Хайнрих Химлер,Heinrich Himmler
 Хайнрих Шлиман,Heinrich Schliemann
 Хайфа,Haifa
-Хале (Германия),Halle
+Хале,Halle
 Халеб,Aleppo
 Халоген,Halogen
 Хамас,Hamas
@@ -5572,25 +5572,25 @@ bulgarian,english
 Ханс Бете,Hans Bethe
 Ханс Кристиан Андерсен,Hans Christian Andersen
 Ханука,Hanukkah
-Хаос,Chaos (mythology)
+Хаос,Chaos
 Харакири,Seppuku
 Хараре,Harare
 Хари Худини,Harry Houdini
 Хариет Бичър Стоу,Harriet Beecher Stowe
 Харисбърг,Harrisburg
 Харков,Kharkiv
-Харлем (Ню Йорк),Harlem
+Харлем,Harlem
 Харолд Пинтър,Harold Pinter
-Харон (митология),Charon (mythology)
-Харон (планета-джудже),Charon (moon)
-Харпия (митология),Harpy
+Харон,Charon
+Харон,Charon
+Харпия,Harpy
 Хартум,Khartoum
-Хартфорд (Кънектикът),Hartford
+Хартфорд,Hartford
 Хартфордшър,Hertfordshire
-Хауърд Картър,Howard Carter (archaeologist)
+Хауърд Картър,Howard Carter
 Хвойна,Juniper
 Хвощ,Equisetum
-Хеба,Hebe (mythology)
+Хеба,Hebe
 Хезиод,Hesiod
 Хеката,Hecate
 Хектар,Hectare
@@ -5606,7 +5606,7 @@ bulgarian,english
 Хемоглобин,Hemoglobin
 Хемороиди,Hemorrhoid
 Хемофилия,Haemophilia
-Хенри (единица),Henry (unit)
+Хенри,Henry
 Хенри Дейвид Торо,Henry David Thoreau
 Хенри Джеймс,Henry James
 Хенри Кисинджър,Henry Kissinger
@@ -5618,7 +5618,7 @@ bulgarian,english
 Хераклит,Heraclitus
 Хералдика,Heraldry
 Херат,Herat
-Херкулес (съзвездие),Hercules (constellation)
+Херкулес,Hercules
 Херман Мелвил,Herman Melville
 Херман Хесе,Hermann Hesse
 Херман фон Хелмхолц,Hermann von Helmholtz
@@ -5628,23 +5628,23 @@ bulgarian,english
 Хероин,Heroin
 Херон,Hero of Alexandria
 Херувим,Cherub
-Херц (единица),Hertz
+Херц,Hertz
 Херцог,Duke
 Хесен,Hesse
 Хеспериди,Hesperides
 Хестия,Hestia
 Хефест,Hephaestus
-Хи,Chi (letter)
+Хи,Chi
 Хибернация,Hibernation
-Хибрид (биология),Hybrid
-Хидра (съзвездие),Hydra (constellation)
+Хибрид,Hybrid
+Хидра,Hydra
 Хидролиза,Hydrolysis
 Хидрология,Hydrology
 Хидросфера,Hydrosphere
 Хизбула,Hezbollah
 Хималаи,Himalayas
 Химен,Hymen
-Химера,Chimera (mythology)
+Химера,Chimera
 Химикалка,Ballpoint pen
 Химиотерапия,Chemotherapy
 Химичен елемент,Chemical element
@@ -5656,9 +5656,9 @@ bulgarian,english
 Хиндукуш,Hindu Kush
 Хиос,Chios
 Хипербола,Hyperbola
-Хипербола (литература),Hyperbole
-Хиперион (митология),Hyperion (mythology)
-Хиперион (спътник),Hyperion (moon)
+Хипербола,Hyperbole
+Хиперион,Hyperion
+Хиперион,Hyperion
 Хипи,Hippie
 Хипнос,Hypnos
 Хипократ,Hippocrates
@@ -5702,7 +5702,7 @@ bulgarian,english
 Хонконг,Hong Kong
 Хонолулу,Honolulu
 Хор,Choir
-Хор (бог),Horus
+Хор,Horus
 Хораций,Horace
 Хорацио Нелсън,Horatio Nelson
 Хордови,Chordate
@@ -5737,21 +5737,21 @@ bulgarian,english
 Хунан,Hunan
 Хуту,Hutu
 Хъбей,Hebei
-Хъдсън (река),Hudson River
+Хъдсън,Hudson River
 Хъмфри Богарт,Humphrey Bogart
 Хърбърт Уелс,H. G. Wells
 Хърбърт Хувър,Herbert Hoover
 Хърватия,Croatia
-Хюрън (езеро),Lake Huron
+Хюрън,Lake Huron
 Хюстън,Houston
 Цар,Tsar
-Цар (шахмат),King (chess)
+Цар,King
 Царевица,Maize
 Царска вода,Aqua regia
 Цвете,Flower
 Цветна слепота,Color blindness
 Цветница,Palm Sunday
-Цвят (оптика),Color
+Цвят,Color
 Цезий,Caesium
 Целибат,Celibacy
 Целина,Celery
@@ -5759,7 +5759,7 @@ bulgarian,english
 Целулоза,Cellulose
 Цена,Price
 Ценозой,Cenozoic
-Центавър (съзвездие),Centaurus
+Центавър,Centaurus
 Централен процесор,Central processing unit
 Централна Америка,Central America
 Централна Африка,Central Africa
@@ -5769,8 +5769,8 @@ bulgarian,english
 Централноафриканска република,Central African Republic
 Центриола,Centriole
 Цербер,Cerberus
-Церера (митология),Ceres (mythology)
-Цефей (съзвездие),Cepheus (constellation)
+Церера,Ceres
+Цефей,Cepheus
 Цианид,Cyanide
 Цивилизация,Civilization
 Цигулка,Violin
@@ -5778,7 +5778,7 @@ bulgarian,english
 Циклоп,Cyclops
 Цикъл на Кребс,Citric acid cycle
 Цимент,Cement
-Цин (17-20 век),Qing Dynasty
+Цин,Qing Dynasty
 Цинк,Zinc
 Цинобър,Cinnabar
 Ционизъм,Zionism
@@ -5790,28 +5790,28 @@ bulgarian,english
 Цифрова фотография,Digital photography
 Цицерон,Cicero
 Цунами,Tsunami
-Църква (институция),Church
-Църква (сграда),Church (building)
+Църква,Church
+Църква,Church
 Цяло число,Integer
 Чавка,Jackdaw
 Чад,Chad
-Чад (езеро),Lake Chad
+Чад,Lake Chad
 Чай,Tea
 Чан Кайшъ,Chiang Kai-shek
 Чаплови,Heron
-Чарлз (принц на Уелс),Charles
+Чарлз,Charles
 Чарлз Дарвин,Charles Darwin
 Чарлз Дикенс,Charles Dickens
 Чарлз Линдберг,Charles Lindbergh
 Чарлз Уилсън,Charles Thomson Rees Wilson
 Чарли Чаплин,Charlie Chaplin
 Чарлс Пърс,Charles Peirce
-Чарлстън (Западна Вирджиния),Charleston
+Чарлстън,Charleston
 Чародейките,Charmed
 Час,Hour
 Часова зона,Time zone
 Часовник,Clock
-Чаша (съзвездие),Crater (constellation)
+Чаша,Crater
 Че Гевара,Che Guevara
 Чек,Cheque
 Челябинск,Chelyabinsk
@@ -5824,7 +5824,7 @@ bulgarian,english
 Червено джудже,Red dwarf
 Червено море,Red Sea
 Червено отместване,Redshift
-Червено отместване,Redshift (disambiguation)
+Червено отместване,Redshift
 Черен пипер,Black pepper
 Черен щъркел,Black Stork
 Череп,Skull
@@ -5844,21 +5844,21 @@ bulgarian,english
 Четвърти кръстоносен поход,Fourth Crusade
 Четвъртък,Thursday
 Четириъгълник,Quadrilateral
-Четни и нечетни числа,Parity (mathematics)
+Четни и нечетни числа,Parity
 Чехия,Czech Republic
 Чехословакия,Czechoslovakia
 Чеченска република,Chechnya
 Чикаго,Chicago
 Чили,Chile
-Чимборасо,Chimborazo (volcano)
-Числа (Библия),Book of Numbers
+Чимборасо,Chimborazo
+Числа,Book of Numbers
 Числа на Фибоначи,Fibonacci number
 Число,Number
 Число на Мах,Mach number
 Чиуауа,Chihuahua
 Чифтокопитни,Even-toed ungulate
 Членестоноги,Arthropod
-Човек (род),Homo (genus)
+Човек,Homo
 Човекоподобни,Hominidae
 Чугун,Cast iron
 Чужди думи,Loanword
@@ -5867,20 +5867,20 @@ bulgarian,english
 Чунцин,Chongqing
 Чък Бери,Chuck Berry
 Шeриат,Sharia
-Шаблон:Мъниче,Stub
-Шаблон:Основна,Main
-Шаблон:Посочи източник,Fact
+Мъниче,Stub
+Основна,Main
+Посочи източник,Fact
 Шаманизъм,Shamanism
-Шампанско вино,Champagne (wine)
+Шампанско вино,Champagne
 Шанхай,Shanghai
-Шарл I (Франция),Charles the Bald
+Шарл I,Charles the Bald
 Шарл Бодлер,Charles Baudelaire
 Шарл Фурие,Charles Fourier
 Шарл дьо Гол,Charles de Gaulle
 Шарлероа,Charleroi
 Шарлът,Charlotte
 Шафран,Saffron
-Шах (титла),Shah
+Шах,Shah
 Шахмат,Chess
 Шварцвалд,Black Forest
 Шведска крона,Swedish krona
@@ -5916,10 +5916,10 @@ bulgarian,english
 Щраус,Ostrich
 Щраусоподобни,Ratite
 Щука,Northern pike
-Щурци,Cricket (insect)
+Щурци,Cricket
 Щутгарт,Stuttgart
 Щъркелоподобни,Ciconiiformes
-Ъгломер (съзвездие),Norma (constellation)
+Ъгломер,Norma
 Ъгъл,Angle
 Ълстър,Ulster
 Ърнест Ръдърфорд,Ernest Rutherford
@@ -5931,7 +5931,7 @@ bulgarian,english
 Юдаизъм,Judaism
 Юджийн О'Нийл,Eugene O'Neill
 Южен Виетнам,South Vietnam
-Южен кръст (съзвездие),Crux
+Южен кръст,Crux
 Южен полюс,South Pole
 Южен славей,Nightingale
 Южна Австралия,South Australia
@@ -5940,7 +5940,7 @@ bulgarian,english
 Южна Каролина,South Carolina
 Южна Корея,South Korea
 Южнокитайско море,South China Sea
-Юкон (територия),Yukon
+Юкон,Yukon
 Юли,July
 Юлиан Апостат,Julian the Apostate
 Юлиански календар,Julian calendar
@@ -5949,11 +5949,11 @@ bulgarian,english
 Юнан,Yunnan
 Юни,June
 Юникс,Unix
-Юнона,Juno (mythology)
+Юнона,Juno
 Юношество,Adolescence
-Юпитер (бог),Jupiter (mythology)
-Юпитер (планета),Jupiter
-Юра (период),Jurassic
+Юпитер,Jupiter
+Юпитер,Jupiter
+Юра,Jurassic
 Юрий Гагарин,Yuri Gagarin
 Юстиниан I,Justinian I
 Юта,Utah
@@ -5969,7 +5969,7 @@ bulgarian,english
 Язовец,Eurasian Badger
 Язовирна стена,Dam
 Язон,Jason
-Яйце,Egg (biology)
+Яйце,Egg
 Яйцеклетка,Ovum
 Яйчник,Ovary
 Як,Yak
@@ -5984,10 +5984,10 @@ bulgarian,english
 Янгон,Yangon
 Яндзъ,Yangtze River
 Януари,January
-Янус,Janus (mythology)
-Янус (спътник),Janus (moon)
-Япет (митология),Iapetus (mythology)
-Япет (спътник),Iapetus (moon)
+Янус,Janus
+Янус,Janus
+Япет,Iapetus
+Япет,Iapetus
 Япония,Japan
 Японско море,Sea of Japan
 Ярд,Yard
@@ -5995,4 +5995,4 @@ bulgarian,english
 Ястребови,Accipitridae
 Яхве,Jehovah
 Яхве,Yahweh
-горско стопанство (икономика),Forestry
+горско стопанство,Forestry

@@ -1,36 +1,36 @@
 Other,English
-0 (число),0 (number)
+0,0
 1,1
-1 (число),1 (number)
+1,1
 1 липня,July 1
 1 листопада,November 1
 1 серпня,August 1
 1 січня,January 1
 1 травня,May 1
 10,10
-10 (число),10 (number)
+10,10
 100,100
 1000,1000
 101,101
 105,105
 11,11
-11 (число),11 (number)
+11,11
 11 вересня,September 11
 11 листопада,November 11
 110,110
 115,115
 12,12
-12 (число),12 (number)
+12,12
 12 жовтня,October 12
 12 лютого,February 12
 120,120
 125,125
 13,13
-13 (число),13 (number)
+13,13
 130,130
 135,135
 14,14
-14 (число),14 (number)
+14,14
 14 квітня,April 14
 14 лютого,February 14
 14 червня,June 14
@@ -38,17 +38,17 @@ Other,English
 144,144
 145,145
 15,15
-15 (число),15 (number)
+15,15
 15 серпня,August 15
 150,150
 1530-ті,1530s
 155,155
 16,16
-16 (число),16 (number)
+16,16
 160,160
 165,165
 17,17
-17 (число),17 (number)
+17,17
 17 березня,March 17
 17 вересня,September 17
 170,170
@@ -83,7 +83,7 @@ Other,English
 1980-ті,1980s
 1990-ті,1990s
 2,2
-2 (число),2 (number)
+2,2
 2 березня,March 2
 2 листопада,November 2
 2 лютого,February 2
@@ -97,7 +97,7 @@ Other,English
 23,23
 23 червня,June 23
 24,24
-24 (телесеріал),24 (TV series)
+24,24
 24 жовтня,October 24
 24 травня,May 24
 24 червня,June 24
@@ -111,7 +111,7 @@ Other,English
 29 лютого,February 29
 29 червня,June 29
 3,3
-3 (число),3 (number)
+3,3
 3 червня,June 3
 30,30
 300,300
@@ -126,7 +126,7 @@ Other,English
 38,38
 39,39
 4,4
-4 (число),4 (number)
+4,4
 4 липня,July 4
 40,40
 400,400
@@ -140,7 +140,7 @@ Other,English
 48,48
 49,49
 5,5
-5 (число),5 (number)
+5,5
 5 листопада,November 5
 50,50
 500,500
@@ -154,7 +154,7 @@ Other,English
 58,58
 59,59
 6,6
-6 (число),6 (number)
+6,6
 6 серпня,August 6
 6 січня,January 6
 60,60
@@ -168,7 +168,7 @@ Other,English
 68,68
 69,69
 7,7
-7 (число),7 (number)
+7,7
 70,70
 71,71
 72,72
@@ -180,7 +180,7 @@ Other,English
 78,78
 79,79
 8,8
-8 (число),8 (number)
+8,8
 8 грудня,December 8
 80,80
 81,81
@@ -193,7 +193,7 @@ Other,English
 88,88
 89,89
 9,9
-9 (число),9 (number)
+9,9
 90,90
 91,91
 92,92
@@ -204,93 +204,93 @@ Other,English
 97,97
 98,98
 99,99
-A (латиниця),A
-AJAX,Ajax (programming)
+A,A
+AJAX,Ajax
 ASCII,American Standard Code for Information Interchange
-Ada,Ada (programming language)
+Ada,Ada
 Anno Domini,Anno Domini
 Argumentum ad Hominem,Ad hominem
-B (латиниця),B
+B,B
 BASIC,BASIC
 Bayer AG,Bayer
-Blender,Blender (software)
-C (латиниця),C
+Blender,Blender
+C,C
 CISC,Complex instruction set computer
 COBOL,COBOL
-Canon,Canon (company)
-D (латиниця),D
+Canon,Canon
+D,D
 DOS,DOS
 DSL,Digital subscriber line
 DVD,DVD
 Dire Straits,Dire Straits
-E (латиниця),E
-Eclipse,Eclipse (software)
+E,E
+Eclipse,Eclipse
 Erasure,Erasure
 Ethernet,Ethernet
 Evanescence,Evanescence
-F (латиниця),F
+F,F
 FTP,File Transfer Protocol
-Fedora Core,Fedora (Linux distribution)
+Fedora Core,Fedora
 Fiat,Fiat
 Fortran,Fortran
-G (латиниця),G
+G,G
 GIMP,GIMP
 GMT,Greenwich Mean Time
 GNOME,GNOME
 GNU,GNU
 GPS,Global Positioning System
 Google,Google
-H (латиниця),H
+H,H
 HTML,HTML
 HTTP,Hypertext Transfer Protocol
-I (латиниця),I
+I,I
 IPod,IPod
 Internet Explorer,Internet Explorer
 Iron Maiden,Iron Maiden
-J (латиниця),J
-Java,Java (programming language)
-K (латиниця),K
+J,J
+Java,Java
+K,K
 Konqueror,Konqueror
-L (латиниця),L
-LISP,Lisp (programming language)
+L,L
+LISP,Lisp
 LaTeX,LaTeX
 Laissez-faire,Laissez-faire
-Lynx (браузер),Lynx (web browser)
-M (латиниця),M
+Lynx,Lynx
+M,M
 MIDI,Musical Instrument Digital Interface
 MIME,MIME
 Macintosh,Macintosh
-N (латиниця),N
-O (латиниця),O
-Opera,Opera (Internet suite)
-P (латиниця),P
+N,N
+O,O
+Opera,Opera
+P,P
 PH,PH
-Pascal,Pascal (programming language)
+Pascal,Pascal
 Ping,Ping
-Python,Python (programming language)
-Q (латиниця),Q
-R (латиниця),R
+Python,Python
+Q,Q
+R,R
 RISC,Reduced instruction set computer
-Ruby,Ruby (programming language)
-S (латиниця),S
+Ruby,Ruby
+S,S
 SGML,Standard Generalized Markup Language
 SOAP,SOAP
 SOS,SOS
-Safari,Safari (web browser)
-Scheme,Scheme (programming language)
+Safari,Safari
+Scheme,Scheme
 Shareware,Shareware
-Subversion,Subversion (software)
-T (латиниця),T
+Subversion,Subversion
+T,T
 Toyota Motor Corporation,Toyota
 Tux,Tux
-U (латиниця),U
+U,U
 UNIX,Unix
-V (латиниця),V
-W (латиниця),W
+V,V
+W,W
 WYSIWYG,WYSIWYG
-X (латиниця),X
-Y (латиниця),Y
-Z (латиниця),Z
+X,X
+Y,Y
+Z,Z
 ukrainian,english
 Євангеліє,Gospel
 Євангеліє від Луки,Gospel of Luke
@@ -299,7 +299,7 @@ ukrainian,english
 Єврейський календар,Hebrew calendar
 Євро,Euro
 Європа,Europe
-Європа (міфологія),Europa (mythology)
+Європа,Europa
 Європейський Союз,European Union
 Європейський центральний банк,European Central Bank
 Європейські спільноти,European Community
@@ -313,16 +313,16 @@ ukrainian,english
 Єлена,Helen
 Єллоустонський національний парк,Yellowstone National Park
 Ємен,Yemen
-Ємність (електрика),Capacitance
+Ємність,Capacitance
 Єнотові,Procyonidae
-Єнісей (річка),Yenisei River
+Єнісей,Yenisei River
 Єпархія,Diocese
 Єпископ,Bishop
 Єреван,Yerevan
 Єресь,Heresy
 Єрихон,Jericho
 Єрусалим,Jerusalem
-Єхидна (міфологія),Echidna (mythology)
+Єхидна,Echidna
 Єхиднові,Echidna
 Ібсен Генрік,Henrik Ibsen
 Іван Хреститель,John the Baptist
@@ -332,14 +332,14 @@ ukrainian,english
 Ідеалізм,Idealism
 Ідеологія,Ideology
 Ідо,Ido
-Ізмаїл (міфологія),Ishmael
+Ізмаїл,Ishmael
 Ізомери,Isomer
 Ізотоп,Isotope
 Ізраїль,Israel
 Ікона,Icon
 Іконоборство,Iconoclasm
 Ікра,Caviar
-Ілля (пророк),Elijah
+Ілля,Elijah
 Іллінойс,Illinois
 Іллірія,Illyria
 Ільмень,Lake Ilmen
@@ -364,7 +364,7 @@ ukrainian,english
 Індуїзм,Hinduism
 Індіана,Indiana
 Індіанаполіс,Indianapolis
-Індіанець (сузір'я),Indus (constellation)
+Індіанець,Indus
 Індій,Indium
 Індійський океан,Indian Ocean
 Індія,India
@@ -382,7 +382,7 @@ ukrainian,english
 Інтелектуальна власність,Intellectual property
 Інтерлінгва,Interlingua
 Інтернет,Internet
-Інтерпретатор,Interpreter (computing)
+Інтерпретатор,Interpreter
 Інтерференція,Interference
 Інтранет,Intranet
 Інфекційні захворювання,Infectious disease
@@ -393,25 +393,25 @@ ukrainian,english
 Інфрачервоне випромінювання,Infrared
 Інфінітив,Infinitive
 Інцест,Incest
-Іо (міфологія),Io (mythology)
-Іо (супутник),Io (moon)
+Іо,Io
+Іо,Io
 Іоан Золотоустий,John Chrysostom
 Іонний зв'язок,Ionic bond
 Іоносфера,Ionosphere
 Іонічне море,Ionian Sea
 Іото,Iwo Jima
-Іпсилон (літера),Upsilon
+Іпсилон,Upsilon
 Ірак,Iraq
 Іран,Iran
 Ірано-іракська війна,Iran-Iraq War
 Іредентизм,Irredentism
 Іреней Ліонський,Irenaeus
-Ірида,Iris (mythology)
+Ірида,Iris
 Іридій,Iridium
 Ірландська республіканська армія,Irish Republican Army
 Ірландське море,Irish Sea
 Ірландія,Republic of Ireland
-Ірландія (острів),Ireland
+Ірландія,Ireland
 Іронія,Irony
 Ірраціональні числа,Irrational number
 Іртиш,Irtysh River
@@ -438,7 +438,7 @@ ukrainian,english
 А капела,A cappella
 АЛГОЛ,ALGOL
 Аалто Алвар Гуґо,Alvar Aalto
-Аарон (Біблія),Aaron
+Аарон,Aaron
 Аахен,Aachen
 Абадан,Abadan
 Абак,Abacus
@@ -460,7 +460,7 @@ ukrainian,english
 Абстрактний експресіонізм,Abstract expressionism
 Абстракція,Abstraction
 Абу-Дабі,Abu Dhabi
-Абу-Дабі,Abu Dhabi (emirate)
+Абу-Дабі,Abu Dhabi
 Абуджа,Abuja
 Абхазія,Abkhazia
 Абіджан,Abidjan
@@ -495,7 +495,7 @@ ukrainian,english
 Авіценна,Avicenna
 Агамемнон,Agamemnon
 Агар-агар,Agar
-Агат (мінерал),Agate
+Агат,Agate
 Агностицизм,Agnosticism
 Агора,Agora
 Агорафобія,Agoraphobia
@@ -520,7 +520,7 @@ ukrainian,english
 Адопція,Adoption
 Адреналін,Epinephrine
 Адрон,Hadron
-Адріан (римський імператор),Hadrian
+Адріан,Hadrian
 Адріатичне море,Adriatic Sea
 Адсорбція,Adsorption
 Адіабатичний процес,Adiabatic process
@@ -528,7 +528,7 @@ ukrainian,english
 Аеродинаміка,Aerodynamics
 Аерозолі,Aerosol
 Аеропорт,Airport
-Аз,A (Cyrillic)
+Аз,A
 Азартні ігри,Gambling
 Азбест,Asbestos
 Азбука Морзе,Morse code
@@ -548,22 +548,22 @@ ukrainian,english
 Айова,Iowa
 Айсберг,Iceberg
 Айстрові,Asteraceae
-Акаба (затока),Gulf of Aqaba
-Акаба (порт),Aqaba
+Акаба,Gulf of Aqaba
+Акаба,Aqaba
 Акапулько,Acapulco
 Акація,Acacia
 Аквамарин,Aquamarine
 Акваріум,Aquarium
 Акведук,Aqueduct
 Аквітанія,Aquitaine
-Акко (місто),Acre
+Акко,Acre
 Аккра,Accra
 Аконкаґуа,Aconcagua
-Акорд,Chord (music)
+Акорд,Chord
 Акордеон,Accordion
 Акр,Acre
 Акрополь,Acropolis
-Акрі,Acre (state)
+Акрі,Acre
 Аксіома,Axiom
 Актиноїди,Actinide
 Актиній,Actinium
@@ -571,8 +571,8 @@ ukrainian,english
 Акули,Shark
 Акупунктура,Acupuncture
 Акустика,Acoustics
-Акція,Share (finance)
-Алабама (штат),Alabama
+Акція,Share
+Алабама,Alabama
 Алан Шепард,Alan Shepard
 Аланін,Alanine
 Албанія,Albania
@@ -581,14 +581,14 @@ ukrainian,english
 Алгоритми сортування,Sorting algorithm
 Алебарда,Halberd
 Алегорія,Allegory
-Александр Дюма (батько),Alexandre Dumas
+Александр Дюма,Alexandre Dumas
 Александр Македонський,Alexander the Great
 Александрія,Alexandria
 Алельні гени,Allele
 Алергія,Allergy
 Алеутські острови,Aleutian Islands
 Алжир,Algeria
-Алжир (місто),Algiers
+Алжир,Algiers
 Алкалоїди,Alkaloid
 Алкани,Alkane
 Алкени,Alkene
@@ -599,7 +599,7 @@ ukrainian,english
 Алмати,Almaty
 Алое,Aloe
 Алотропія,Allotropy
-Алтай (гори),Altay Mountains
+Алтай,Altay Mountains
 Алфавіт,Alphabet
 Алхімія,Alchemy
 Аль-Каїда,Al-Qaeda
@@ -615,11 +615,11 @@ ukrainian,english
 Альдегіди,Aldehyde
 Альманах,Almanac
 Альпи,Alps
-Альт (музичний інструмент),Viola
+Альт,Viola
 Альтаїр,Altair
 Альтернативна медицина,Alternative medicine
 Альтруїзм,Altruism
-Альфа (літера),Alpha (letter)
+Альфа,Alpha
 Альфа Центавра,Alpha Centauri
 Альфа-частинки,Alpha particle
 Альфред I,Alfred the Great
@@ -628,7 +628,7 @@ ukrainian,english
 Аляска,Alaska
 Алі ібн Абі Таліб,Ali
 Алітерація,Alliteration
-Амазонка (річка),Amazon River
+Амазонка,Amazon River
 Аматерасу Омікамі,Amaterasu
 Амвросій Медіоланський,Ambrose
 Амедео Авогадро,Amedeo Avogadro
@@ -646,7 +646,7 @@ ukrainian,english
 Амплітуда,Amplitude
 Амстердам,Amsterdam
 Амундсен Руал,Roald Amundsen
-Амур (річка),Amur
+Амур,Amur
 Амфетамін,Amphetamine
 Амфора,Amphora
 Амфітеатр,Amphitheatre
@@ -658,7 +658,7 @@ ukrainian,english
 Аміші,Amish
 Анабаптисти,Anabaptist
 Анаграма,Anagram
-Анаеробне дихання,Fermentation (biochemistry)
+Анаеробне дихання,Fermentation
 Анаксагор,Anaxagoras
 Анаксімандр,Anaximander
 Анальний секс,Anal sex
@@ -685,8 +685,8 @@ ukrainian,english
 Анди,Andes
 Андорра,Andorra
 Андромеда,Andromeda
-Андромеда (міфологія),Andromeda (mythology)
-Андромеда (сузір'я),Andromeda (constellation)
+Андромеда,Andromeda
+Андромеда,Andromeda
 Андроїд,Android
 Андрій Первозванний,Saint Andrew
 Андхра-Прадеш,Andhra Pradesh
@@ -704,8 +704,8 @@ ukrainian,english
 Антарес,Antares
 Антарктида,Antarctica
 Антверпен,Antwerp
-Антверпен (провінція),Antwerp (province)
-Антена,Antenna (radio)
+Антверпен,Antwerp
+Антена,Antenna
 Антибіотик,Antibiotic
 Антиген,Antigen
 Антигуа і Барбуда,Antigua and Barbuda
@@ -719,14 +719,14 @@ ukrainian,english
 Антициклон,Anticyclone
 Антоній Марк,Mark Antony
 Антоніми,Antonym
-Антофаґаста (місто),Antofagasta
+Антофаґаста,Antofagasta
 Антропологія,Anthropology
 Антропософія,Anthroposophy
 Антуан Анрі Беккерель,Henri Becquerel
 Антігона,Antigone
 Анубіс,Anubis
 Анус,Anus
-Анхель (водоспад),Angel Falls
+Анхель,Angel Falls
 Анілін,Aniline
 Анімація,Animation
 Аніме,Anime
@@ -737,13 +737,13 @@ ukrainian,english
 Апаратне забезпечення,Computer hardware
 Апатит,Apatite
 Апачі,Apache
-Апельсин,Orange (fruit)
+Апельсин,Orange
 Апендицит,Appendicitis
 Апеннінський півострів,Italian Peninsula
 Апокаліпсис,Book of Revelation
 Апокрифи,Apocrypha
 Аполлон,Apollo
-Аполлон (значення),Apollo (disambiguation)
+Аполлон,Apollo
 Апоптоз,Apoptosis
 Аппалачі,Appalachian Mountains
 Апулія,Apulia
@@ -763,7 +763,7 @@ ukrainian,english
 Аргентина,Argentina
 Аргон,Argon
 Арденни,Ardennes
-Арденни (департамент),Ardennes (department)
+Арденни,Ardennes
 Арденнська операція,Battle of the Bulge
 Ареал,Habitat
 Арендт Ганна,Hannah Arendt
@@ -797,7 +797,7 @@ ukrainian,english
 Аруба,Aruba
 Арфа,Harp
 Архангел,Archangel
-Архангел Михаїл,Michael (archangel)
+Архангел Михаїл,Michael
 Архейський еон,Archean
 Археологія,Archaeology
 Археоптерикс,Archaeopteryx
@@ -826,7 +826,7 @@ ukrainian,english
 Астат,Astatine
 Астеносфера,Asthenosphere
 Астероїд,Asteroid
-Астигматизм,Astigmatism (eye)
+Астигматизм,Astigmatism
 Астма,Asthma
 Астрахань,Astrakhan
 Астрологія,Astrology
@@ -839,17 +839,17 @@ ukrainian,english
 Асуан,Aswan
 Асфальт,Asphalt
 Атакама,Atacama Desert
-Атлант (міфологія),Atlas (mythology)
-Атланта (Джорджія),Atlanta
+Атлант,Atlas
+Атланта,Atlanta
 Атлантида,Atlantis
 Атлантичний океан,Atlantic Ocean
-Атлас,Atlas (disambiguation)
-Атлас (супутник),Atlas (moon)
+Атлас,Atlas
+Атлас,Atlas
 Атлаські гори,Atlas Mountains
 Атлі Клемент Ричард,Clement Attlee
-Атмосфера (одиниця),Atmosphere (unit)
+Атмосфера,Atmosphere
 Атмосферний тиск,Atmospheric pressure
-Атмосферні опади,Precipitation (meteorology)
+Атмосферні опади,Precipitation
 Атол,Atoll
 Атом,Atom
 Атомна енергія,Nuclear power
@@ -883,7 +883,7 @@ ukrainian,english
 Ацтеки,Aztec
 Ашшурбаніпал,Ashurbanipal
 Аякс,Ajax
-Аякс Теламонід,Ajax (mythology)
+Аякс Теламонід,Ajax
 Аятола,Ayatollah
 Аїд,Hades
 Бабки,Odonata
@@ -924,11 +924,11 @@ ukrainian,english
 Балтимор,Baltimore
 Балтійське море,Baltic Sea
 Бальдр,Baldr
-Балі (острів),Bali
+Балі,Bali
 Бамако,Bamako
 Бамбук,Bamboo
 Банан,Banana
-Банан,Musa (genus)
+Банан,Musa
 Бананова республіка,Banana republic
 Бангалор,Bangalore
 Бангкок,Bangkok
@@ -940,11 +940,11 @@ ukrainian,english
 Банкомат,Automated teller machine
 Баобаб,Adansonia
 Баптизм,Baptist
-Бар (одиниця),Bar (unit)
+Бар,Bar
 Барабан,Drum
 Барбадос,Barbados
 Бардін Джон,John Bardeen
-Барель,Barrel (unit)
+Барель,Barrel
 Баренцове море,Barents Sea
 Барибал,American Black Bear
 Бароко,Baroque
@@ -1028,7 +1028,7 @@ ukrainian,english
 Бернстайн Леонард,Leonard Bernstein
 Берроуз Едгар Райс,Edgar Rice Burroughs
 Беррі Чак,Chuck Berry
-Бета (літера),Beta (letter)
+Бета,Beta
 Бетельгейзе,Betelgeuse
 Бетмен,Batman
 Бетон,Concrete
@@ -1042,9 +1042,9 @@ ukrainian,english
 Блакитний колір,Cyan
 Блейк Вільям,William Blake
 Блер Тоні,Tony Blair
-Близнята (сузір'я),Gemini (constellation)
+Близнята,Gemini
 Блискавка,Lightning
-Блок (механіка),Pulley
+Блок,Pulley
 Блохи,Flea
 Блоґ,Blog
 Блювання,Vomiting
@@ -1106,15 +1106,15 @@ ukrainian,english
 Браун Єва Анна Паула,Eva Braun
 Брауншвейг,Braunschweig
 Брахма,Brahma
-Брахмапутра (річка),Brahmaputra River
+Брахмапутра,Brahmaputra River
 Бредбері Рей Дуґлас,Ray Bradbury
 Брежнєв Леонід Ілліч,Leonid Brezhnev
 Брем Стокер,Bram Stoker
 Бремен,Bremen
-Бремен (земля),Bremen (state)
+Бремен,Bremen
 Бренді,Brandy
 Брест,Brest
-Брест (Франція),Brest
+Брест,Brest
 Бретань,Bretagne
 Брехт Бертольт,Bertolt Brecht
 Брешіа,Brescia
@@ -1128,8 +1128,8 @@ ukrainian,english
 Британські острови,British Isles
 Бритва Оккама,Occam's razor
 Брно,Brno
-Бродвей,Broadway (New York City)
-Бродіння,Fermentation (food)
+Бродвей,Broadway
+Бродіння,Fermentation
 Бром,Bromine
 Броненосці,Armadillo
 Бронза,Bronze
@@ -1155,17 +1155,17 @@ ukrainian,english
 Бужумбура,Bujumbura
 Бук,Beech
 Букоцвіті,Fagales
-Булева алгебра,Boolean algebra (structure)
+Булева алгебра,Boolean algebra
 Буль Джордж,George Boole
 Бургундія,Bourgogne
 Буржуазія,Bourgeoisie
 Бурий ведмідь,Brown Bear
 Буркіна-Фасо,Burkina Faso
-Бурса (місто),Bursa
-Бурштин (смола),Amber
+Бурса,Bursa
+Бурштин,Amber
 Буря,Storm
 Бутан,Bhutan
-Бутан (сполука),Butane
+Бутан,Butane
 Бухарест,Bucharest
 Бухгалтерський облік,Accountancy
 Буш Джордж Вокер,George W. Bush
@@ -1209,7 +1209,7 @@ ukrainian,english
 Біофізика,Biophysics
 Біохімія,Biochemistry
 Біржа,Stock exchange
-Бірмінгем (Алабама),Birmingham
+Бірмінгем,Birmingham
 Бісау,Bissau
 Біскайська затока,Bay of Biscay
 Бісмут,Bismuth
@@ -1221,7 +1221,7 @@ ukrainian,english
 В'яз,Elm
 В'язкість,Viscosity
 В'єтнам,Vietnam
-ВІЛ (вірус),HIV
+ВІЛ,HIV
 Ваал,Baal
 Вавилон,Babylon
 Вавилонська вежа,Tower of Babel
@@ -1229,7 +1229,7 @@ ukrainian,english
 Вага,Weight
 Вагітність,Pregnancy
 Вадуц,Vaduz
-Важкий метал (музика),Heavy metal music
+Важкий метал,Heavy metal music
 Важіль,Lever
 Вазарі Джорджо,Giorgio Vasari
 Вайомінг,Wyoming
@@ -1238,10 +1238,10 @@ ukrainian,english
 Вакуум,Vacuum
 Вакцина,Vaccine
 Валенсія,Valencia
-Валентність,Valence (chemistry)
+Валентність,Valence
 Валетта,Valletta
 Валовий внутрішній продукт,Gross domestic product
-Валторна,Horn (instrument)
+Валторна,Horn
 Валькирія,Valkyrie
 Валюта,Currency
 Валютний курс,Exchange rate
@@ -1249,12 +1249,12 @@ ukrainian,english
 Ван Гог Вінсент,Vincent van Gogh
 Ванадій,Vanadium
 Ванкувер,Vancouver
-Ванкувер (острів),Vancouver Island
+Ванкувер,Vancouver Island
 Вантажний автомобіль,Truck
 Вануату,Vanuatu
 Вапняк,Limestone
 Варвари,Barbarian
-Варна (місто),Varna
+Варна,Varna
 Варшава,Warsaw
 Варґас Льоса Маріо,Mario Vargas Llosa
 Васильки справжні,Basil
@@ -1264,27 +1264,27 @@ ukrainian,english
 Ватикан,Vatican City
 Ватт Джеймс,James Watt
 Ваххабізм,Wahhabism
-Вашингтон,Washington (disambiguation)
-Вашингтон (округ Колумбія),Washington
-Вашингтон (штат),Washington
+Вашингтон,Washington
+Вашингтон,Washington
+Вашингтон,Washington
 Вашингтон Джордж,George Washington
 Ваґнер Ріхард,Richard Wagner
 Веб-сторінка,Web page
-Вебер (одиниця),Weber (unit)
+Вебер,Weber
 Вебер Карл Марія,Carl Maria von Weber
 Вебер Макс,Max Weber
 Вега,Vega
 Вегетаріанство,Vegetarianism
 Вежа,Tower
 Везувій,Mount Vesuvius
-Вейк (острів),Wake Island
+Вейк,Wake Island
 Веймар,Weimar
 Веймарська республіка,Weimar Republic
 Вейн Джон,John Wayne
-Вектор,Vector (spatial)
+Вектор,Vector
 Векторний добуток,Cross product
 Велика Британія,United Kingdom
-Велика Ведмедиця (сузір'я),Ursa Major
+Велика Ведмедиця,Ursa Major
 Велика депресія,Great Depression
 Велика панда,Giant Panda
 Велика пірникоза,Great Crested Grebe
@@ -1292,22 +1292,22 @@ ukrainian,english
 Велика хартія вольностей,Magna Carta
 Великдень,Easter
 Великий Каньйон,Grand Canyon
-Великий Пес (сузір'я),Canis Major
+Великий Пес,Canis Major
 Великий бар'єрний риф,Great Barrier Reef
 Великий вибух,Big Bang
 Великий китайський мур,Great Wall of China
 Великий шовковий шлях,Silk Road
-Великий шолом,Grand Slam (tennis)
-Великобританія (острів),Great Britain
+Великий шолом,Grand Slam
+Великобританія,Great Britain
 Великі Антильські острови,Greater Antilles
 Великі Озера,Great Lakes
 Веллінгтон,Wellington
 Веллінгтон Артур,Arthur Wellesley
 Велосипед,Bicycle
-Вена (анатомія),Vein
-Венера,Venus (disambiguation)
-Венера (міфологія),Venus (mythology)
-Венера (планета),Venus
+Вена,Vein
+Венера,Venus
+Венера,Venus
+Венера,Venus
 Венеричні захворювання,Sexually transmitted disease
 Венесуела,Venezuela
 Венето,Veneto
@@ -1329,19 +1329,19 @@ ukrainian,english
 Верхня Нормандія,Haute-Normandie
 Верховний Суд США,Supreme Court of the United States
 Веселка,Rainbow
-Весна,Spring (season)
+Весна,Spring
 Веспуччі Амеріго,Amerigo Vespucci
-Веста,Vesta (mythology)
+Веста,Vesta
 Вестмінстерське абатство,Westminster Abbey
 Вестфальський мир 1648,Peace of Westphalia
 Вето,Veto
 Вибори,Election
 Вибух,Explosion
 Вигук,Interjection
-Вид (біологія),Species
+Вид,Species
 Виделка,Fork
 Визначник,Determinant
-Виконавча влада,Executive (government)
+Виконавча влада,Executive
 Вимірювання,Measurement
 Винахід,Invention
 Вино,Wine
@@ -1353,7 +1353,7 @@ ukrainian,english
 Вищі раки,Malacostraca
 Владивосток,Vladivostok
 Внутрішня Монголія,Inner Mongolia
-Вовк (сузір'я),Lupus (constellation)
+Вовк,Lupus
 Вовк звичайний,Gray Wolf
 Вовкулак,Werewolf
 Вогнепальна зброя,Firearm
@@ -1363,16 +1363,16 @@ ukrainian,english
 Водень,Hydrogen
 Водневий зв'язок,Hydrogen bond
 Водозбірний басейн,Drainage basin
-Водолій (сузір'я),Aquarius (constellation)
+Водолій,Aquarius
 Водорості,Algae
 Водоспад,Waterfall
 Водоспад Іґуасу,Iguazu Falls
-Водохреща,Epiphany (Christian)
+Водохреща,Epiphany
 Волга,Volga River
 Волгоград,Volgograd
 Волейбол,Volleyball
 Вологість,Humidity
-Волосся Вероніки (сузір'я),Coma Berenices
+Волосся Вероніки,Coma Berenices
 Волстонкрафт Мері,Mary Wollstonecraft
 Вольт,Volt
 Вольтер,Voltaire
@@ -1380,13 +1380,13 @@ ukrainian,english
 Воннеґут Курт,Kurt Vonnegut
 Воргол Енді,Andy Warhol
 Вордсворт Вільям,William Wordsworth
-Ворон (сузір'я),Corvus (constellation)
+Ворон,Corvus
 Вселенські собори,Ecumenical council
 Всесвіт,Universe
 Всесвітня організація охорони здоров'я,World Health Organization
 Всесвітня павутина,World Wide Web
 Всесвітній координований час,Coordinated Universal Time
-Всесвітній потоп,Deluge (mythology)
+Всесвітній потоп,Deluge
 Всесвітній торговий центр,World Trade Center
 Вуглеводи,Carbohydrate
 Вуглеводні,Hydrocarbon
@@ -1395,7 +1395,7 @@ ukrainian,english
 Вугроподібні,Eel
 Вудро Вільсон,Woodrow Wilson
 Вуді Аллен,Woody Allen
-Вузол (одиниця швидкості),Knot (speed)
+Вузол,Knot
 Вулкан,Volcano
 Вулканологія,Volcanology
 Вулканічна гірська порода,Igneous rock
@@ -1404,14 +1404,14 @@ ukrainian,english
 Вівальді Антоніо,Antonio Vivaldi
 Вівтар,Altar
 Вівторок,Tuesday
-Вівця Доллі,Dolly (sheep)
+Вівця Доллі,Dolly
 Відень,Vienna
 Відео,Video
 Відсоток,Percentage
 Відходи,Waste
-Візничий (сузір'я),Auriga (constellation)
+Візничий,Auriga
 Війна,War
-Війна в Перській затоці (1990),Gulf War
+Війна в Перській затоці,Gulf War
 Війна за іспанську спадщину,War of the Spanish Succession
 Війна у В'єтнамі,Vietnam War
 Військово-Повітряні Сили,Air force
@@ -1421,21 +1421,21 @@ ukrainian,english
 Вікка,Wicca
 Вікно,Window
 Вікторія,Victoria
-Вікторія (Британська Колумбія),Victoria
-Вікторія (Сейшельські Острови),Victoria
-Вікторія (водоспад),Victoria Falls
-Вікторія (озеро),Lake Victoria
-Вікторія (штат),Victoria (Australia)
+Вікторія,Victoria
+Вікторія,Victoria
+Вікторія,Victoria Falls
+Вікторія,Lake Victoria
+Вікторія,Victoria
 Вікінги,Viking
 Віллі Брандт,Willy Brandt
 Вільгельм I Гогенцоллерн,William I
 Вільгельм II Гогенцоллерн,William II
-Вільна держава (ПАР),Free State
+Вільна держава,Free State
 Вільнюс,Vilnius
 Вільха,Alder
 Вільям Оккам,William of Ockham
 Віндгук,Windhoek
-Вінніпег (місто),Winnipeg
+Вінніпег,Winnipeg
 Віолончель,Cello
 Віргінські острови,Virgin Islands
 Вірджинія,Virginia
@@ -1456,7 +1456,7 @@ ukrainian,english
 Вітаміни,Vitamin
 Вітгенштейн Людвиг,Ludwig Wittgenstein
 Вітраж,Stained glass
-Вітрила (сузір'я),Vela (constellation)
+Вітрила,Vela
 Вітрило,Sail
 Вітроенергетика,Wind power
 Вітряк,Windmill
@@ -1470,7 +1470,7 @@ ukrainian,english
 Габон,Gabon
 Габороне,Gaborone
 Гавана,Havana
-Гаваї (штат),Hawaii
+Гаваї,Hawaii
 Гавр,Le Havre
 Гавриїл,Gabriel
 Гагарін Юрій Олексійович,Yuri Gagarin
@@ -1489,17 +1489,17 @@ ukrainian,english
 Гален Клавдій,Galen
 Галеніт,Galena
 Галера,Galley
-Галичина,Galicia (Central Europe)
-Галка (птах),Jackdaw
+Галичина,Galicia
+Галка,Jackdaw
 Галлія,Gaul
 Галогени,Halogen
 Галій,Gallium
 Галілей Галілео,Galileo Galilei
 Галілея,Galilee
-Галісія,Galicia (Spain)
+Галісія,Galicia
 Гамбург,Hamburg
 Гамбія,The Gambia
-Гамма (літера),Gamma
+Гамма,Gamma
 Гамма-промені,Gamma ray
 Гамсун Кнут,Knut Hamsun
 Гамілтон Александер,Alexander Hamilton
@@ -1520,22 +1520,22 @@ ukrainian,english
 Гарпії,Harpy
 Гаррі Гудіні,Harry Houdini
 Гаррісон Джордж,George Harrison
-Гарфілд (персонаж),Garfield
+Гарфілд,Garfield
 Гарфілд Джеймс,James A. Garfield
 Гарібальді Джузеппе,Giuseppe Garibaldi
 Гасій,Hassium
 Гафній,Hafnium
 Гаїті,Haiti
-Гаїті (острів),Hispaniola
-Гвадалахара (Мексика),Guadalajara
+Гаїті,Hispaniola
+Гвадалахара,Guadalajara
 Гваделупа,Guadeloupe
-Гватемала (місто),Guatemala City
+Гватемала,Guatemala City
 Гвинт,Screw
-Гвоздика (пряність),Clove
+Гвоздика,Clove
 Гвінейська затока,Gulf of Guinea
 Гвінея,Guinea
 Гвінея-Бісау,Guinea-Bissau
-Геба,Hebe (mythology)
+Геба,Hebe
 Гебрейська абетка,Hebrew alphabet
 Гедонізм,Hedonism
 Гей-Люссак Жозеф-Луї,Joseph Louis Gay-Lussac
@@ -1564,11 +1564,11 @@ ukrainian,english
 Геном,Genome
 Генотип,Genotype
 Геноцид,Genocide
-Генрі,Henry (unit)
+Генрі,Henry
 Генуя,Genoa
 Географія,Geography
 Геодезія,Geodesy
-Геологічний розлом,Fault (geology)
+Геологічний розлом,Fault
 Геологія,Geology
 Геометрична прогресія,Geometric progression
 Геометрія,Geometry
@@ -1584,11 +1584,11 @@ ukrainian,english
 Геракліт,Heraclitus
 Геральдика,Heraldry
 Герб,Coat of arms
-Геркулес (сузір'я),Hercules (constellation)
+Геркулес,Hercules
 Германій,Germanium
 Гермафродит,Hermaphrodite
 Герменевтика,Hermeneutics
-Гермес (міфологія),Hermes
+Гермес,Hermes
 Гернсі,Guernsey
 Геродот,Herodotus
 Герон Александрійський,Hero of Alexandria
@@ -1609,7 +1609,7 @@ ukrainian,english
 Гетеротрофи,Heterotroph
 Гетто,Ghetto
 Гефест,Hephaestus
-Гея,Gaia (mythology)
+Гея,Gaia
 Геґель Ґеорґ Вільгельм Фрідріх,Georg Wilhelm Friedrich Hegel
 Глава держави,Head of state
 Глазго,Glasgow
@@ -1625,14 +1625,14 @@ ukrainian,english
 Гліцерин,Glycerol
 Гліцин,Glycine
 Гнейс,Gneiss
-Го (гра),Go (board game)
+Го,Go
 Гоа,Goa
 Гобарт,Hobart
 Гоббс Томас,Thomas Hobbes
 Гобой,Oboe
 Гобі,Gobi Desert
 Гобіти,Hobbit
-Говард Картер,Howard Carter (archaeologist)
+Говард Картер,Howard Carter
 Година,Hour
 Годинник,Clock
 Годунов Борис,Boris Godunov
@@ -1649,7 +1649,7 @@ ukrainian,english
 Голосний звук,Vowel
 Голоцен,Holocene
 Голсуорсі Джон,John Galsworthy
-Голуб (сузір'я),Columba (constellation)
+Голуб,Columba
 Голубові,Columbidae
 Гольмій,Holmium
 Гольф,Golf
@@ -1661,7 +1661,7 @@ ukrainian,english
 Гондурас,Honduras
 Гонконг,Hong Kong
 Гонолулу,Honolulu
-Гор (міфологія),Horus
+Гор,Horus
 Гора,Mountain
 Горацій,Horace
 Горбачов Михайло Сергійович,Mikhail Gorbachev
@@ -1673,8 +1673,8 @@ ukrainian,english
 Горючі корисні копалини,Fossil fuel
 Горілка,Vodka
 Горіння,Combustion
-Горіх,Nut (fruit)
-Горіх (дерево),Walnut
+Горіх,Nut
+Горіх,Walnut
 Гострий інфаркт міокарда,Myocardial infarction
 Готель,Hotel
 Гофман Дастін,Dustin Hoffman
@@ -1684,23 +1684,23 @@ ukrainian,english
 Гравітація,Gravitation
 Гравітон,Graviton
 Град,Hail
-Градус (геометрія),Degree (angle)
-Градус (значення),Degree
+Градус,Degree
+Градус,Degree
 Градус Цельсія,Celsius
 Градієнт,Gradient
-Грак,Rook (bird)
+Грак,Rook
 Грам,Gram
 Граматика,Grammar
 Граната,Hand grenade
 Гранати,Garnet
-Границя,Limit (mathematics)
+Границя,Limit
 Граніт,Granite
 Граф Штеффі,Steffi Graf
 Графіт,Graphite
 Графіті,Graffiti
 Графічний інтерфейс користувача,Graphical user interface
 Грац,Graz
-Грей,Gray (unit)
+Грей,Gray
 Гренландське море,Greenland Sea
 Гренобль,Grenoble
 Грецька абетка,Greek alphabet
@@ -1716,13 +1716,13 @@ ukrainian,english
 Громадянська війна,Civil war
 Громадянська війна в Іспанії,Spanish Civil War
 Громадянська війна в США,American Civil War
-Гросмейстер (шахи),Grandmaster (chess)
+Гросмейстер,Grandmaster
 Гроші,Money
 Грудень,December
 Груди,Breast
 Грудина,Sternum
-Грузія,Georgia (country)
-Група (математика),Group (mathematics)
+Грузія,Georgia
+Група,Group
 Групи крові,Blood type
 Гріг Едвард,Edvard Grieg
 Грінвіч,Greenwich
@@ -1737,13 +1737,13 @@ ukrainian,english
 Гуго Гроций,Hugo Grotius
 Гуго Капет,Hugh Capet
 Гугол,Googol
-Гудзон (річка),Hudson River
+Гудзон,Hudson River
 Гудзонова затока,Hudson Bay
 Гульєльмо Марконі,Guglielmo Marconi
 Гуманізм,Humanism
 Гумор,Humour
 Гумус,Humus
-Гунфу,Kung fu (term)
+Гунфу,Kung fu
 Гупі,Guppy
 Гусеподібні,Anseriformes
 Гуссерль Едмунд Густав Альбрехт,Edmund Husserl
@@ -1757,7 +1757,7 @@ ukrainian,english
 Гібралтарська протока,Strait of Gibraltar
 Гібрид,Hybrid
 Гігабайт,Gigabyte
-Гідра (сузір'я),Hydra (constellation)
+Гідра,Hydra
 Гідроелектростанція,Hydroelectricity
 Гідроксид,Hydroxide
 Гідроксид натрію,Sodium hydroxide
@@ -1780,17 +1780,17 @@ ukrainian,english
 Гінсберг Аллен,Allen Ginsberg
 Гіпербола,Hyperbole
 Гіпертекст,Hypertext
-Гіперіон (міфологія),Hyperion (mythology)
-Гіперіон (супутник),Hyperion (moon)
+Гіперіон,Hyperion
+Гіперіон,Hyperion
 Гіпнос,Hypnos
-Гіпотеза (наука),Hypothesis
+Гіпотеза,Hypothesis
 Гіпофіз,Pituitary gland
 Гіппарх,Hipparchus
 Гіппократ,Hippocrates
 Гірнича справа,Mining
 Гіроскоп,Gyroscope
 Гіротеодоліт,Theodolite
-Гірська порода,Rock (geology)
+Гірська порода,Rock
 Гістидин,Histidine
 Гістологія,Histology
 Гістони,Histone
@@ -1816,7 +1816,7 @@ ukrainian,english
 Данія,Denmark
 Даосизм,Taoism
 Дар-ес-Салам,Dar es Salaam
-Дарвін (місто),Darwin
+Дарвін,Darwin
 Дарданели,Dardanelles
 Дармштадтій,Darmstadtium
 Даугавпілс,Daugavpils
@@ -1831,13 +1831,13 @@ ukrainian,english
 Де-Мойн,Des Moines
 Де-факто,De facto
 Дебют,Chess opening
-Девон (графство),Devon
+Девон,Devon
 Девонський період,Devonian
 Девіз,Motto
 Дедал,Daedalus
 Дедукція,Deductive reasoning
 Дезоксирибонуклеїнова кислота,DNA
-Деймос (супутник),Deimos (moon)
+Деймос,Deimos
 Дейтерій,Deuterium
 Декартова система координат,Cartesian coordinate system
 Декартів добуток множин,Cartesian product
@@ -1845,15 +1845,15 @@ ukrainian,english
 Делавер,Delaware
 Делфт,Delft
 Дельта,Delta
-Дельта (літера),Delta (letter)
+Дельта,Delta
 Дельфи,Delphi
-Дельфін (сузір'я),Delphinus
+Дельфін,Delphinus
 Дельфінові,Dolphin
 Демагогія,Demagogy
 Деметра,Demeter
 Демографія,Demography
 Демократична Республіка Конго,Democratic Republic of the Congo
-Демократична партія США,Democratic Party (United States)
+Демократична партія США,Democratic Party
 Демократія,Democracy
 Демокріт,Democritus
 Демон,Demon
@@ -1865,7 +1865,7 @@ ukrainian,english
 День святого Валентина,Valentine's Day
 День святої Трійці,Pentecost
 День сміху,April Fools' Day
-Депресія (медицина),Clinical depression
+Депресія,Clinical depression
 Деревина,Wood
 Дерево,Tree
 Деревій звичайний,Achillea millefolium
@@ -1878,7 +1878,7 @@ ukrainian,english
 Десять заповідей,Ten Commandments
 Детермінізм,Determinism
 Детройт,Detroit
-Дефляція (економіка),Deflation
+Дефляція,Deflation
 Дефо Даніель,Daniel Defoe
 Деїзм,Deism
 Деґа Едґар,Edgar Degas
@@ -1894,10 +1894,10 @@ ukrainian,english
 Джек-Різник,Jack the Ripper
 Джексон Ендрю,Andrew Jackson
 Дженнер Едворд,Edward Jenner
-Джерсі (острів),Jersey
+Джерсі,Jersey
 Джефферсон Девіс,Jefferson Davis
 Джефферсон Томас,Thomas Jefferson
-Джибуті (місто),Djibouti (city)
+Джибуті,Djibouti
 Джидда,Jeddah
 Джимі Хендрікс,Jimi Hendrix
 Джироламо Савонарола,Girolamo Savonarola
@@ -1911,24 +1911,24 @@ ukrainian,english
 Джордано Бруно,Giordano Bruno
 Джордж Берклі,George Berkeley
 Джордж Орвелл,George Orwell
-Джорджія,Georgia (U.S. state)
+Джорджія,Georgia
 Джоуль,Joule
 Джоуль Джеймс Прескотт,James Prescott Joule
 Джуно,Juneau
-Дзвін,Bell (instrument)
+Дзвін,Bell
 Дзен,Zen
 Дзеркало,Mirror
-Дзета (літера),Zeta
+Дзета,Zeta
 Дзьоб,Beak
 Дзюдо,Judo
 Дивергенція,Divergence
-Дивізія,Division (military)
+Дивізія,Division
 Дизайн,Design
 Дизельне паливо,Diesel
 Дизельний двигун,Diesel engine
 Дикий кабан,Boar
 Диктатура,Dictatorship
-Динаміка,Dynamics (physics)
+Динаміка,Dynamics
 Динаміт,Dynamite
 Династія,Dynasty
 Династія Мін,Ming Dynasty
@@ -1976,13 +1976,13 @@ ukrainian,english
 Долина,Valley
 Доломіт,Dolomite
 Дольмен,Dolmen
-Домен (біологія),Domain (biology)
+Домен,Domain
 Домен Ядерні,Eukaryote
 Доменне ім'я,Domain name
 Домініка,Dominica
 Домініканська Республіка,Dominican Republic
-Домініканці (орден),Dominican Order
-Дон,Don River (Russia)
+Домініканці,Dominican Order
+Дон,Don River
 Дон Кіхот,Don Quixote
 Дональд Дак,Donald Duck
 Донателло,Donatello
@@ -1995,13 +1995,13 @@ ukrainian,english
 Дофамін,Dopamine
 Дощ,Rain
 Драйвер,Device driver
-Дракон (сузір'я),Draco (constellation)
-Драма (рід),Drama
+Дракон,Draco
+Драма,Drama
 Дрезден,Dresden
 Дрейк Френсіс,Francis Drake
 Дримба,Jew's harp
 Дрифтова теорія,Continental drift
-Дроби,Fraction (mathematics)
+Дроби,Fraction
 Друга космічна швидкість,Escape velocity
 Друга світова війна,World War II
 Другий Ватиканський собор,Second Vatican Council
@@ -2036,10 +2036,10 @@ ukrainian,english
 Діалектика,Dialectic
 Діалектичний матеріалізм,Dialectical materialism
 Діаметр,Diameter
-Діана,Diana (mythology)
+Діана,Diana
 Діарея,Diarrhea
 Діаспора,Diaspora
-Діва (сузір'я),Virgo (constellation)
+Діва,Virgo
 Дівоча пліва,Hymen
 Дідро Дені,Denis Diderot
 Дізель Рудольф,Rudolf Diesel
@@ -2057,7 +2057,7 @@ ukrainian,english
 ЕТА,ETA
 Ебро,Ebro
 Евклід,Euclid
-Еволюція (біологія),Evolution
+Еволюція,Evolution
 Евріпід,Euripides
 Евтаназія,Euthanasia
 Евтерпа,Euterpe
@@ -2066,7 +2066,7 @@ ukrainian,english
 Едгар Аллан По,Edgar Allan Poe
 Единбург,Edinburgh
 Едмонтон,Edmonton
-Едо (місто),Edo
+Едо,Edo
 Едіп,Oedipus
 Едісон Томас Алва,Thomas Edison
 Ейлер Леонард,Leonhard Euler
@@ -2088,7 +2088,7 @@ ukrainian,english
 Експеримент,Experiment
 Експонента,Exponential function
 Експресіонізм,Expressionism
-Ексцентриситет,Eccentricity (mathematics)
+Ексцентриситет,Eccentricity
 Елам,Elam
 Елвіс Преслі,Elvis Presley
 Елегія,Elegy
@@ -2137,20 +2137,20 @@ ukrainian,english
 Ендрю Ллойд Веббер,Andrew Lloyd Webber
 Еней,Aeneas
 Енергія,Energy
-Енергія,Energy (society)
+Енергія,Energy
 Енеїда,Aeneid
 Ентальпія,Enthalpy
 Ентомологія,Entomology
 Енциклопедія,Encyclopedia
 Еол,Aeolus
-Еон,Eon (geology)
+Еон,Eon
 Еос,Eos
 Еоценова епоха,Eocene
-Епсилон (літера),Epsilon
+Епсилон,Epsilon
 Епідеміологія,Epidemiology
 Епідемія,Epidemic
 Епікур,Epicurus
-Епіметей (міфологія),Epimetheus (mythology)
+Епіметей,Epimetheus
 Епістемологія,Epistemology
 Епітелій,Epithelium
 Епіцентр,Epicenter
@@ -2162,14 +2162,14 @@ ukrainian,english
 Ергарт Амелія,Amelia Earhart
 Ереб,Erebus
 Ерекція,Erection
-Ерида (карликова планета),Eris (dwarf planet)
-Ерида (міфологія),Eris (mythology)
+Ерида,Eris
+Ерида,Eris
 Еритроцити,Red blood cell
 Ернесто Че Гевара,Che Guevara
 Ерозія,Erosion
-Ерос,Eros (mythology)
+Ерос,Eros
 Ері,Lake Erie
-Ерідан (сузір'я),Eridanus (constellation)
+Ерідан,Eridanus
 Есе,Essay
 Ескадрений міноносець,Destroyer
 Есперанто,Esperanto
@@ -2178,7 +2178,7 @@ ukrainian,english
 Естетика,Aesthetics
 Есхатологія,Eschatology
 Есхіл,Aeschylus
-Ета (літера),Eta (letter)
+Ета,Eta
 Етан,Ethane
 Етанол,Ethanol
 Етика,Ethics
@@ -2189,8 +2189,8 @@ ukrainian,english
 Етнос,Ethnic group
 Етологія,Ethology
 Ефект Доплера,Doppler effect
-Ефект метелика (математика),Butterfly effect
-Ефес (місто),Ephesus
+Ефект метелика,Butterfly effect
+Ефес,Ephesus
 Ефіопія,Ethiopia
 Ефірні олії,Essential oil
 Жад,Jade
@@ -2198,8 +2198,8 @@ ukrainian,english
 Жанна д'Арк,Joan of Arc
 Женева,Geneva
 Женевське озеро,Lake Geneva
-Жертовник (сузір'я),Ara (constellation)
-Живописець (сузір'я),Pictor
+Жертовник,Ara
+Живописець,Pictor
 Жирафа,Giraffe
 Жирафові,Giraffidae
 Жирні кислоти,Fatty acid
@@ -2211,11 +2211,11 @@ ukrainian,english
 Жовтень,October
 Жовтецеві,Ranunculaceae
 Жовтий колір,Yellow
-Жовтневий переворот 1917,Russian Revolution (1917)
+Жовтневий переворот 1917,Russian Revolution
 Жовч,Bile
 Жуйка,Chewing gum
 Жуль Верн,Jules Verne
-Журавель (сузір'я),Grus (constellation)
+Журавель,Grus
 Журавлеподібні,Gruiformes
 Журнал,Magazine
 Журналіст,Journalist
@@ -2224,7 +2224,7 @@ ukrainian,english
 Забруднення,Pollution
 Загальна теорія відносності,General relativity
 Загреб,Zagreb
-Задача оптимізації,Optimization (mathematics)
+Задача оптимізації,Optimization
 Займенник,Pronoun
 Закарі Тейлор,Zachary Taylor
 Закон Авогадро,Avogadro's law
@@ -2245,7 +2245,7 @@ ukrainian,english
 Залізо,Iron
 Замбезі,Zambezi
 Замбія,Zambia
-Замок (споруда),Castle
+Замок,Castle
 Запилення,Pollination
 Запліднення,Fertilisation
 Запозичення,Loanword
@@ -2258,7 +2258,7 @@ ukrainian,english
 Західна Сахара,Western Sahara
 Західний Бенгал,West Bengal
 Західний берег ріки Йордан,West Bank
-Заєць (сузір'я),Lepus (constellation)
+Заєць,Lepus
 Зброя,Weapon
 Звалище,Landfill
 Зварювання,Welding
@@ -2269,12 +2269,12 @@ ukrainian,english
 Здоров'я,Health
 Зебра,Zebra
 Зевс,Zeus
-Зевс,Zeus (disambiguation)
-Зеландія (острів),Zealand
+Зевс,Zeus
+Зеландія,Zealand
 Зелений колір,Green
 Землетрус,Earthquake
 Земля,Earth
-Земна кора,Crust (geology)
+Земна кора,Crust
 Земноводні,Amphibian
 Зенон Елейський,Zeno of Elea
 Зенон із Кітіона,Zeno of Citium
@@ -2284,8 +2284,8 @@ ukrainian,english
 Змій,Dragon
 Зміна клімату,Climate change
 Змінний струм,Alternating current
-Змія (сузір'я),Serpens
-Змієносець (сузір'я),Ophiuchus
+Змія,Serpens
+Змієносець,Ophiuchus
 Змії,Snake
 Знак оклику,Exclamation mark
 Знання,Knowledge
@@ -2294,9 +2294,9 @@ ukrainian,english
 Зодіак,Zodiac
 Зозулеподібні,Cuculiformes
 Золота Орда,Golden Horde
-Золота Риба (сузір'я),Dorado
+Золота Риба,Dorado
 Золото,Gold
-Золоті Ворота (міст),Golden Gate Bridge
+Золоті Ворота,Golden Gate Bridge
 Зоологія,Zoology
 Зоопарк,Zoo
 Зороастризм,Zoroastrianism
@@ -2315,7 +2315,7 @@ ukrainian,english
 Йорданія,Jordan
 Йорк,York
 Йосип Флавій,Josephus
-Йота (літера),Iota
+Йота,Iota
 Кааба,Kaaba
 Кабаре,Cabaret
 Кабо-Верде,Cape Verde
@@ -2331,7 +2331,7 @@ ukrainian,english
 Казан Еліа,Elia Kazan
 Казань,Kazan
 Казахстан,Kazakhstan
-Казино (гральний дім),Casino
+Казино,Casino
 Казка,Fairy tale
 Казус беллі,Casus belli
 Кайманові острови,Cayman Islands
@@ -2348,7 +2348,7 @@ ukrainian,english
 Каллас Марія,Maria Callas
 Калліопа,Calliope
 Калорія,Calorie
-Кальвадос (департамент),Calvados
+Кальвадос,Calvados
 Кальвіністська церква,Calvinism
 Кальдера,Caldera
 Калькулятор,Calculator
@@ -2359,12 +2359,12 @@ ukrainian,english
 Калігула,Caligula
 Калій,Potassium
 Калійна селітра,Potassium nitrate
-Каліпсо (міфологія),Calypso (mythology)
+Каліпсо,Calypso
 Каліфорній,Californium
 Каліфорнія,California
 Кам'яне вугілля,Coal
 Кам'яновугільний період,Carboniferous
-Камамбер,Camembert (cheese)
+Камамбер,Camembert
 Камбоджа,Cambodia
 Камбрія,Cumbria
 Камерун,Cameroon
@@ -2372,11 +2372,11 @@ ukrainian,english
 Кампанія,Campania
 Камчатський півострів,Kamchatka Peninsula
 Камю Альбер,Albert Camus
-Камікадзе (пілот),Kamikaze
+Камікадзе,Kamikaze
 Кам’яна доба,Stone Age
-Канаверал (мис),Cape Canaveral
+Канаверал,Cape Canaveral
 Канада,Canada
-Канал (гідротехніка),Canal
+Канал,Canal
 Канапка,Sandwich
 Канарські острови,Canary Islands
 Канберра,Canberra
@@ -2388,19 +2388,19 @@ ukrainian,english
 Кантата,Cantata
 Канут Великий,Canute the Great
 Канібалізм,Cannibalism
-Каппа (літера),Kappa
+Каппа,Kappa
 Каппадокія,Cappadocia
-Капітал,Capital (economics)
+Капітал,Capital
 Капіталізм,Capitalism
 Каракас,Caracas
-Карат,Carat (purity)
+Карат,Carat
 Карате,Karate
 Карачі,Karachi
 Карбонат кальцію,Calcium carbonate
 Карбонатна кислота,Carbonic acid
 Карбонові кислоти,Carboxylic acid
 Кардамон,Cardamom
-Кардинал,Cardinal (Catholicism)
+Кардинал,Cardinal
 Кардіологія,Cardiology
 Кардіфф,Cardiff
 Карибське море,Caribbean Sea
@@ -2413,7 +2413,7 @@ ukrainian,english
 Каррі,Curry
 Карсон Рейчел,Rachel Carson
 Карське море,Kara Sea
-Карта (зображення),Map
+Карта,Map
 Картер Джиммі,Jimmy Carter
 Картографія,Cartography
 Картопля,Potato
@@ -2423,513 +2423,513 @@ ukrainian,english
 Касабланка,Casablanca
 Касатка,Orca
 Каспійське море,Caspian Sea
-Кассіопея (сузір'я),Cassiopeia (constellation)
+Кассіопея,Cassiopeia
 Каста,Caste
-Кастилія,Castile (historical region)
+Кастилія,Castile
 Каталонія,Catalonia
 Каталізатор,Catalysis
 Катар,Qatar
 Катаракта,Cataract
 Катафрактарії,Cataphract
-Категорія:1750-ті,1750s
-Категорія:1760-ті,1760s
-Категорія:1770-ті,1770s
-Категорія:1780-ті,1780s
-Категорія:1790-ті,1790s
-Категорія:1820-ті,1820s
-Категорія:1830-ті,1830s
-Категорія:1840-ві,1840s
-Категорія:1860-ті,1860s
-Категорія:1870-ті,1870s
-Категорія:1880-ті,1880s
-Категорія:1890-ті,1890s
-Категорія:1900-ті,1900s
-Категорія:1920-ті,1920s
-Категорія:1930-ті,1930s
-Категорія:1940-ві,1940s
-Категорія:1950-ті,1950s
-Категорія:1960-ті,1960s
-Категорія:1970-ті,1970s
-Категорія:1980-ті,1980s
-Категорія:1990-ті,1990s
-Категорія:Google,Google
-Категорія:Європа,Europe
-Категорія:Європейський Союз,European Union
-Категорія:Єгипет,Egypt
-Категорія:Ємен,Yemen
-Категорія:Ізраїль,Israel
-Категорія:Імунологія,Immunology
-Категорія:Індонезія,Indonesia
-Категорія:Індуїзм,Hinduism
-Категорія:Індійський океан,Indian Ocean
-Категорія:Індія,India
-Категорія:Інтернет,Internet
-Категорія:Інформатика,Computer science
-Категорія:Інформатика,Computing
-Категорія:Ірак,Iraq
-Категорія:Іран,Iran
-Категорія:Ірландія,Republic of Ireland
-Категорія:Іслам,Islam
-Категорія:Ісландія,Iceland
-Категорія:Іспанія,Spain
-Категорія:Історія,History
-Категорія:Італія,Italy
-Категорія:Абхазія,Abkhazia
-Категорія:Австралія,Australia
-Категорія:Австрія,Austria
-Категорія:Авіація,Aviation
-Категорія:Азербайджан,Azerbaijan
-Категорія:Азія,Asia
-Категорія:Айстрові,Asteraceae
-Категорія:Акустика,Acoustics
-Категорія:Алабама,Alabama
-Категорія:Албанія,Albania
-Категорія:Алгебра,Algebra
-Категорія:Алжир,Algeria
-Категорія:Альберта,Alberta
-Категорія:Альпи,Alps
-Категорія:Альтернативна медицина,Alternative medicine
-Категорія:Аляска,Alaska
-Категорія:Американський футбол,American football
-Категорія:Амстердам,Amsterdam
-Категорія:Анархізм,Anarchism
-Категорія:Анатомія,Anatomy
-Категорія:Англія,England
-Категорія:Ангола,Angola
-Категорія:Андорра,Andorra
-Категорія:Антарктика,Antarctica
-Категорія:Антропологія,Anthropology
-Категорія:Аніме,Anime
-Категорія:Апаратне забезпечення,Computer hardware
-Категорія:Аргентина,Argentina
-Категорія:Аризона,Arizona
-Категорія:Артилерія,Artillery
-Категорія:Археологія,Archaeology
-Категорія:Архітектура,Architecture
-Категорія:Ассирія,Assyria
-Категорія:Астрологія,Astrology
-Категорія:Астрономія,Astronomy
-Категорія:Астрофізика,Astrophysics
-Категорія:Атеїзм,Atheism
-Категорія:Атлантичний океан,Atlantic Ocean
-Категорія:Атомна фізика,Atomic physics
-Категорія:Афганістан,Afghanistan
-Категорія:Африка,Africa
-Категорія:Баварія,Bavaria
-Категорія:Багатозначні терміни,Disambiguation
-Категорія:Бактерії,Bacteria
-Категорія:Балет,Ballet
-Категорія:Бангладеш,Bangladesh
-Категорія:Банківська справа,Banks
-Категорія:Барбадос,Barbados
-Категорія:Барселона,Barcelona
-Категорія:Бахрейн,Bahrain
-Категорія:Бджільництво,Beekeeping
-Категорія:Безпека,Security
-Категорія:Бельгія,Belgium
-Категорія:Беліз,Belize
-Категорія:Берлін,Berlin
-Категорія:Богослов'я,Theology
-Категорія:Бокс,Boxing
-Категорія:Боксери,Boxers
-Категорія:Болгарія,Bulgaria
-Категорія:Болівія,Bolivia
-Категорія:Боснія і Герцеґовина,Bosnia and Herzegovina
-Категорія:Ботаніка,Botany
-Категорія:Ботсвана,Botswana
-Категорія:Бразилія,Brazil
-Категорія:Бруней,Brunei
-Категорія:Буддизм,Buddhism
-Категорія:Букові,Fagaceae
-Категорія:Буркіна-Фасо,Burkina Faso
-Категорія:Бурунді,Burundi
-Категорія:Бутан,Bhutan
-Категорія:Бухгалтерський облік і аудит,Accountancy
-Категорія:Біблія,Bible
-Категорія:Білорусь,Belarus
-Категорія:Біологія,Biology
-Категорія:Біотехнології,Biotechnology
-Категорія:Біохімія,Biochemistry
-Категорія:В'єтнам,Vietnam
-Категорія:Важкий метал,Heavy metal
-Категорія:Валюти,Currency
-Категорія:Ватикан,Vatican City
-Категорія:Великобританія,United Kingdom
-Категорія:Венесуела,Venezuela
-Категорія:Вина,Wine
-Категорія:Вода,Water
-Категорія:Вулканологія,Volcanology
-Категорія:Відень,Vienna
-Категорія:Відродження,Renaissance
-Категорія:Візантійська імперія,Byzantine Empire
-Категорія:Військова справа,Military
-Категорія:Вірменія,Armenia
-Категорія:Габон,Gabon
-Категорія:Гаваї,Hawaii
-Категорія:Галузі економіки,Industry
-Категорія:Гана,Ghana
-Категорія:Гватемала,Guatemala
-Категорія:Гвінея,Guinea
-Категорія:Генеалогія,Genealogy
-Категорія:Генетика,Genetics
-Категорія:Географія,Geography
-Категорія:Геодезія,Geodesy
-Категорія:Геологія,Geology
-Категорія:Геометрія,Geometry
-Категорія:Геоморфологія,Geomorphology
-Категорія:Геофізика,Geophysics
-Категорія:Геральдика,Heraldry
-Категорія:Головна,Fundamental
-Категорія:Голубоподібні,Columbiformes
-Категорія:Гондурас,Honduras
-Категорія:Горобцеподібні,Passeriformes
-Категорія:Граматика,Grammar
-Категорія:Грецька абетка,Greek alphabet
-Категорія:Греція,Greece
-Категорія:Гриби,Fungi
-Категорія:Грузія,Georgia (country)
-Категорія:Гуманітарні науки,Humanities
-Категорія:Гумор,Humor
-Категорія:Гібралтар,Gibraltar
-Категорія:Гігієна,Hygiene
-Категорія:Гідрологія,Hydrology
-Категорія:Гістологія,Histology
-Категорія:Давньогрецька міфологія,Greek mythology
-Категорія:Данія,Denmark
-Категорія:Дата,Days
-Категорія:Демографія,Demography
-Категорія:Демократична Республіка Конго,Democratic Republic of the Congo
-Категорія:Джаз,Jazz
-Категорія:Джибуті,Djibouti
-Категорія:Дизайн,Design
-Категорія:Дипломатика,Diplomacy
-Категорія:Друга світова війна,World War II
-Категорія:Еквадор,Ecuador
-Категорія:Екваторіальна Гвінея,Equatorial Guinea
-Категорія:Екологія,Ecology
-Категорія:Економіка,Economics
-Категорія:Електромагнетизм,Electromagnetism
-Категорія:Електроніка,Electronics
-Категорія:Електротехніка,Electrical engineering
-Категорія:Електрохімія,Electrochemistry
-Категорія:Ендокринологія,Endocrinology
-Категорія:Енергія,Energy
-Категорія:Ентомологія,Entomology
-Категорія:Есперанто,Esperanto
-Категорія:Естонія,Estonia
-Категорія:Етика,Ethics
-Категорія:Етнологія,Ethnology
-Категорія:Ефіопія,Ethiopia
-Категорія:Живопис,Painting
-Категорія:Життя,Life
-Категорія:Журналістика,Journalism
-Категорія:Замбія,Zambia
-Категорія:Здоров'я,Health
-Категорія:Земля,Earth
-Категорія:Зоологія,Zoology
-Категорія:Зімбабве,Zimbabwe
-Категорія:Йорданія,Jordan
-Категорія:Кава,Coffee
-Категорія:Кавказ,Caucasus
-Категорія:Казахстан,Kazakhstan
-Категорія:Каліфорнія,California
-Категорія:Камбоджа,Cambodia
-Категорія:Камерун,Cameroon
-Категорія:Канада,Canada
-Категорія:Кардіологія,Cardiology
-Категорія:Картографія,Cartography
-Категорія:Каталонія,Catalonia
-Категорія:Квантова фізика,Quantum mechanics
-Категорія:Квебек,Quebec
-Категорія:Кенія,Kenya
-Категорія:Киргизстан,Kyrgyzstan
-Категорія:Китай,China
-Категорія:Класична музика,Classical music
-Категорія:Клімат,Climate
-Категорія:Кліматологія,Climatology
-Категорія:Колумбія,Colombia
-Категорія:Комп'ютерна графіка,Computer graphics
-Категорія:Комунізм,Communism
-Категорія:Комунікації,Communication
-Категорія:Корея,Korea
-Категорія:Космологія,Cosmology
-Категорія:Косово,Kosovo
-Категорія:Коста-Рика,Costa Rica
-Категорія:Кримінальне право,Criminal law
-Категорія:Криптографія,Cryptography
-Категорія:Кристалографія,Crystallography
-Категорія:Куба,Cuba
-Категорія:Кувейт,Kuwait
-Категорія:Культура,Culture
-Категорія:Куроподібні,Galliformes
-Категорія:Кіно,Film
-Категорія:Кіпр,Cyprus
-Категорія:Лаос,Laos
-Категорія:Латвія,Latvia
-Категорія:Легка атлетика,Athletics
-Категорія:Литва,Lithuania
-Категорія:Логіка,Logic
-Категорія:Лондон,London
-Категорія:Люксембург,Luxembourg
-Категорія:Ліван,Lebanon
-Категорія:Лінукс,Linux
-Категорія:Лінійна алгебра,Linear algebra
-Категорія:Літаки,Aircraft
-Категорія:Література,Literature
-Категорія:Ліхтенштейн,Liechtenstein
-Категорія:М'янма,Burma
-Категорія:М'янма,Myanmar
-Категорія:Мавританія,Mauritania
-Категорія:Магнетизм,Magnetism
-Категорія:Мадагаскар,Madagascar
-Категорія:Макроекономіка,Macroeconomics
-Категорія:Малаві,Malawi
-Категорія:Малайзія,Malaysia
-Категорія:Мальта,Malta
-Категорія:Малі,Mali
-Категорія:Маркетинг,Marketing
-Категорія:Марксизм,Marxism
-Категорія:Марокко,Morocco
-Категорія:Марс,Mars
-Категорія:Математика,Mathematics
-Категорія:Математична логіка,Mathematical logic
-Категорія:Медицина,Medicine
-Категорія:Мексика,Mexico
-Категорія:Мен (острів),Isle of Man
-Категорія:Месопотамія,Mesopotamia
-Категорія:Металургія,Metallurgy
-Категорія:Метафізика,Metaphysics
-Категорія:Метеорологія,Meteorology
-Категорія:Метро,Rapid transit
-Категорія:Метрологія,Measurement
-Категорія:Механіка,Mechanics
-Категорія:Мистецтво,Arts
-Категорія:Мовознавство,Linguistics
-Категорія:Мода,Fashion
-Категорія:Мозамбік,Mozambique
-Категорія:Молдова,Moldova
-Категорія:Молекулярна біологія,Molecular biology
-Категорія:Монако,Monaco
-Категорія:Монголія,Mongolia
-Категорія:Москва,Moscow
-Категорія:Мости,Bridges
-Категорія:Музика,Music
-Категорія:Міжнародне право,International law
-Категорія:Мікологія,Mycology
-Категорія:Мікробіологія,Microbiology
-Категорія:Мікроекономіка,Microeconomics
-Категорія:Мінералогія,Mineralogy
-Категорія:Міфологія,Mythology
-Категорія:НАТО,NATO
-Категорія:Навігація,Navigation
-Категорія:Найпростіші,Protista
-Категорія:Намібія,Namibia
-Категорія:Наука,Science
-Категорія:Наукова фантастика,Science fiction
-Категорія:Науру,Nauru
-Категорія:Нацизм,Nazism
-Категорія:Нацистська Німеччина,Nazi Germany
-Категорія:Націоналізм,Nationalism
-Категорія:Небесна механіка,Celestial mechanics
-Категорія:Неорганічна хімія,Inorganic chemistry
-Категорія:Нервова система,Nervous system
-Категорія:Нобелівські премії,Nobel Prize
-Категорія:Нова Зеландія,New Zealand
-Категорія:Норвегія,Norway
-Категорія:Нумізматика,Numismatics
-Категорія:Нью-Йорк,New York City
-Категорія:Нігерія,Nigeria
-Категорія:Нідерланди,Netherlands
-Категорія:Нікарагуа,Nicaragua
-Категорія:Німеччина,Germany
-Категорія:ООН,United Nations
-Категорія:Об'єднані Арабські Емірати,United Arab Emirates
-Категорія:Одяг,Clothing
-Категорія:Океанографія,Oceanography
-Категорія:Океанія,Oceania
-Категорія:Око,Eye
-Категорія:Олімпійські ігри,Olympics
-Категорія:Оман,Oman
-Категорія:Онкологія,Oncology
-Категорія:Оподаткування,Taxation
-Категорія:Оптика,Optics
-Категорія:Органічна хімія,Organic chemistry
-Категорія:Орнітологія,Ornithology
-Категорія:Освіта,Education
-Категорія:Охорона природи,Environment
-Категорія:Пакистан,Pakistan
-Категорія:Палеонтологія,Paleontology
-Категорія:Палестина,Palestine
-Категорія:Панама,Panama
-Категорія:Панк,Punk
-Категорія:Парагвай,Paraguay
-Категорія:Париж,Paris
-Категорія:Пасльонові,Solanaceae
-Категорія:Педагогіка,Pedagogy
-Категорія:Перетинчастокрилі,Hymenoptera
-Категорія:Персоналії,People
-Категорія:Персоналії:Ірландія,Irish people
-Категорія:Персоналії:Іспанія,Spanish people
-Категорія:Персоналії:Англія,English people
-Категорія:Персоналії:Великобританія,British people
-Категорія:Персоналії:Нідерланди,Dutch people
-Категорія:Персоналії:Франція,French people
-Категорія:Персоналії:Швейцарія,Swiss people
-Категорія:Перу,Peru
-Категорія:Перша світова війна,World War I
-Категорія:Пиво,Beer
-Категорія:Плавання,Swimming
-Категорія:Поезія,Poetry
-Категорія:Польща,Poland
-Категорія:Політика,Politics
-Категорія:Політологія,Political science
-Категорія:Португалія,Portugal
-Категорія:Право,Law
-Категорія:Прага,Prague
-Категорія:Примати,Primates
-Категорія:Природа,Nature
-Категорія:Програмне забезпечення,Software
-Категорія:Програмування,Computer programming
-Категорія:Протоки,Straits
-Категорія:Псевдонаука,Pseudoscience
-Категорія:Психологія,Psychology
-Категорія:Пустелі,Deserts
-Категорія:Південна Америка,South America
-Категорія:Південно-Африканська Республіка,South Africa
-Категорія:Північна Ірландія,Northern Ireland
-Категорія:Північна Америка,North America
-Категорія:Північна Кароліна,North Carolina
-Категорія:Підприємці,Businesspeople
-Категорія:Радіо,Radio
-Категорія:Расизм,Racism
-Категорія:Релігія,Religion
-Категорія:Республіка Конго,Republic of the Congo
-Категорія:Риби,Fish
-Категорія:Рим,Rome
-Категорія:Римська міфологія,Roman mythology
-Категорія:Риторика,Rhetoric
-Категорія:Розваги,Entertainment
-Категорія:Рок-музика,Rock music
-Категорія:Роки,Years
-Категорія:Росія,Russia
-Категорія:Румунія,Romania
-Категорія:СРСР,Soviet Union
-Категорія:США,United States
-Категорія:Сальвадор,El Salvador
-Категорія:Сан-Марино,San Marino
-Категорія:Санкт-Петербург,Saint Petersburg
-Категорія:Саудівська Аравія,Saudi Arabia
-Категорія:Сейсмологія,Seismology
-Категорія:Семантика,Semantics
-Категорія:Сербія,Serbia
-Категорія:Середні віки,Middle Ages
-Категорія:Серцево-судинна система,Cardiovascular system
-Категорія:Сирія,Syria
-Категорія:Скандинавська міфологія,Norse mythology
-Категорія:Скандинавія,Scandinavia
-Категорія:Скелетна система,Skeletal system
-Категорія:Скульптура,Sculpture
-Категорія:Словаччина,Slovakia
-Категорія:Словенія,Slovenia
-Категорія:Смерть,Death
-Категорія:Сонце,Sun
-Категорія:Сонячна система,Solar System
-Категорія:Соціалізм,Socialism
-Категорія:Соціологія,Sociology
-Категорія:Стамбул,Istanbul
-Категорія:Стародавній світ,Ancient history
-Категорія:Статистика,Statistics
-Категорія:Стоматологія,Dentistry
-Категорія:Судан,Sudan
-Категорія:Суринам,Suriname
-Категорія:Суспільство,Society
-Категорія:Сьєрра-Леоне,Sierra Leone
-Категорія:Сільське господарство,Agriculture
-Категорія:Сінгапур,Singapore
-Категорія:Таджикистан,Tajikistan
-Категорія:Тайвань,Taiwan
-Категорія:Танзанія,Tanzania
-Категорія:Танці,Dance
-Категорія:Театр,Theatre
-Категорія:Телебачення,Television
-Категорія:Теніс,Tennis
-Категорія:Теорія відносності,Relativity
-Категорія:Теорія ймовірностей,Probability theory
-Категорія:Теорія множин,Set theory
-Категорія:Термодинаміка,Thermodynamics
-Категорія:Тероризм,Terrorism
-Категорія:Технології,Technology
-Категорія:Типографія,Typography
-Категорія:Тихий океан,Pacific Ocean
-Категорія:Того,Togo
-Категорія:Топологія,Topology
-Категорія:Торгівля,Commerce
-Категорія:Травна система,Digestive system
-Категорія:Транспорт,Transportation
-Категорія:Тригонометрія,Trigonometry
-Категорія:Туніс,Tunisia
-Категорія:Туреччина,Turkey
-Категорія:Туризм,Tourism
-Категорія:Туркменістан,Turkmenistan
-Категорія:Тюрингія,Thuringia
-Категорія:Угорщина,Hungary
-Категорія:Уельс,Wales
-Категорія:Узбекистан,Uzbekistan
-Категорія:Україна,Ukraine
-Категорія:Уругвай,Uruguay
-Категорія:Фарерські острови,Faroe Islands
-Категорія:Фашизм,Fascism
-Категорія:Фемінізм,Feminism
-Категорія:Флорида,Florida
-Категорія:Фотографія,Photography
-Категорія:Французька революція,French Revolution
-Категорія:Франція,France
-Категорія:Фрукти,Fruit
-Категорія:Футбол,Football (soccer)
-Категорія:Футбол за країною,Football (soccer) by country
-Категорія:Футбольні клуби за країною,Football (soccer) clubs
-Категорія:Футбольні стадіони,Football (soccer) venues
-Категорія:Футбольні тренери,Football (soccer) managers
-Категорія:Фіджі,Fiji
-Категорія:Фізика,Physics
-Категорія:Фізика елементарних частинок,Particle physics
-Категорія:Фізична хімія,Physical chemistry
-Категорія:Фізіологія,Physiology
-Категорія:Філателія,Philately
-Категорія:Філософія,Philosophy
-Категорія:Філіппіни,Philippines
-Категорія:Фінанси,Finance
-Категорія:Фінляндія,Finland
-Категорія:Холодна війна,Cold War
-Категорія:Хорватія,Croatia
-Категорія:Християнство,Christianity
-Категорія:Хронологія,Chronology
-Категорія:Хімія,Chemistry
-Категорія:Хірургія,Surgery
-Категорія:ЦАР,Central African Republic
-Категорія:Чад,Chad
-Категорія:Чай,Tea
-Категорія:Час,Time
-Категорія:Чехословаччина,Czechoslovakia
-Категорія:Чехія,Czech Republic
-Категорія:Чечня,Chechnya
-Категорія:Чилі,Chile
-Категорія:Числа,Numbers
-Категорія:Чорногорія,Montenegro
-Категорія:Шахи,Chess
-Категорія:Швейцарія,Switzerland
-Категорія:Швеція,Sweden
-Категорія:Шотландія,Scotland
-Категорія:Шрі-Ланка,Sri Lanka
-Категорія:Штучний інтелект,Artificial intelligence
-Категорія:Югославія,Yugoslavia
-Категорія:Юдаїзм,Judaism
-Категорія:Юнікс,Unix
-Категорія:Юпітер,Jupiter
-Категорія:Ядерна фізика,Nuclear physics
-Категорія:Ямайка,Jamaica
-Категорія:Японія,Japan
-Категорія:Ґренландія,Greenland
+1750-ті,1750s
+1760-ті,1760s
+1770-ті,1770s
+1780-ті,1780s
+1790-ті,1790s
+1820-ті,1820s
+1830-ті,1830s
+1840-ві,1840s
+1860-ті,1860s
+1870-ті,1870s
+1880-ті,1880s
+1890-ті,1890s
+1900-ті,1900s
+1920-ті,1920s
+1930-ті,1930s
+1940-ві,1940s
+1950-ті,1950s
+1960-ті,1960s
+1970-ті,1970s
+1980-ті,1980s
+1990-ті,1990s
+Google,Google
+Європа,Europe
+Європейський Союз,European Union
+Єгипет,Egypt
+Ємен,Yemen
+Ізраїль,Israel
+Імунологія,Immunology
+Індонезія,Indonesia
+Індуїзм,Hinduism
+Індійський океан,Indian Ocean
+Індія,India
+Інтернет,Internet
+Інформатика,Computer science
+Інформатика,Computing
+Ірак,Iraq
+Іран,Iran
+Ірландія,Republic of Ireland
+Іслам,Islam
+Ісландія,Iceland
+Іспанія,Spain
+Історія,History
+Італія,Italy
+Абхазія,Abkhazia
+Австралія,Australia
+Австрія,Austria
+Авіація,Aviation
+Азербайджан,Azerbaijan
+Азія,Asia
+Айстрові,Asteraceae
+Акустика,Acoustics
+Алабама,Alabama
+Албанія,Albania
+Алгебра,Algebra
+Алжир,Algeria
+Альберта,Alberta
+Альпи,Alps
+Альтернативна медицина,Alternative medicine
+Аляска,Alaska
+Американський футбол,American football
+Амстердам,Amsterdam
+Анархізм,Anarchism
+Анатомія,Anatomy
+Англія,England
+Ангола,Angola
+Андорра,Andorra
+Антарктика,Antarctica
+Антропологія,Anthropology
+Аніме,Anime
+Апаратне забезпечення,Computer hardware
+Аргентина,Argentina
+Аризона,Arizona
+Артилерія,Artillery
+Археологія,Archaeology
+Архітектура,Architecture
+Ассирія,Assyria
+Астрологія,Astrology
+Астрономія,Astronomy
+Астрофізика,Astrophysics
+Атеїзм,Atheism
+Атлантичний океан,Atlantic Ocean
+Атомна фізика,Atomic physics
+Афганістан,Afghanistan
+Африка,Africa
+Баварія,Bavaria
+Багатозначні терміни,Disambiguation
+Бактерії,Bacteria
+Балет,Ballet
+Бангладеш,Bangladesh
+Банківська справа,Banks
+Барбадос,Barbados
+Барселона,Barcelona
+Бахрейн,Bahrain
+Бджільництво,Beekeeping
+Безпека,Security
+Бельгія,Belgium
+Беліз,Belize
+Берлін,Berlin
+Богослов'я,Theology
+Бокс,Boxing
+Боксери,Boxers
+Болгарія,Bulgaria
+Болівія,Bolivia
+Боснія і Герцеґовина,Bosnia and Herzegovina
+Ботаніка,Botany
+Ботсвана,Botswana
+Бразилія,Brazil
+Бруней,Brunei
+Буддизм,Buddhism
+Букові,Fagaceae
+Буркіна-Фасо,Burkina Faso
+Бурунді,Burundi
+Бутан,Bhutan
+Бухгалтерський облік і аудит,Accountancy
+Біблія,Bible
+Білорусь,Belarus
+Біологія,Biology
+Біотехнології,Biotechnology
+Біохімія,Biochemistry
+В'єтнам,Vietnam
+Важкий метал,Heavy metal
+Валюти,Currency
+Ватикан,Vatican City
+Великобританія,United Kingdom
+Венесуела,Venezuela
+Вина,Wine
+Вода,Water
+Вулканологія,Volcanology
+Відень,Vienna
+Відродження,Renaissance
+Візантійська імперія,Byzantine Empire
+Військова справа,Military
+Вірменія,Armenia
+Габон,Gabon
+Гаваї,Hawaii
+Галузі економіки,Industry
+Гана,Ghana
+Гватемала,Guatemala
+Гвінея,Guinea
+Генеалогія,Genealogy
+Генетика,Genetics
+Географія,Geography
+Геодезія,Geodesy
+Геологія,Geology
+Геометрія,Geometry
+Геоморфологія,Geomorphology
+Геофізика,Geophysics
+Геральдика,Heraldry
+Головна,Fundamental
+Голубоподібні,Columbiformes
+Гондурас,Honduras
+Горобцеподібні,Passeriformes
+Граматика,Grammar
+Грецька абетка,Greek alphabet
+Греція,Greece
+Гриби,Fungi
+Грузія,Georgia
+Гуманітарні науки,Humanities
+Гумор,Humor
+Гібралтар,Gibraltar
+Гігієна,Hygiene
+Гідрологія,Hydrology
+Гістологія,Histology
+Давньогрецька міфологія,Greek mythology
+Данія,Denmark
+Дата,Days
+Демографія,Demography
+Демократична Республіка Конго,Democratic Republic of the Congo
+Джаз,Jazz
+Джибуті,Djibouti
+Дизайн,Design
+Дипломатика,Diplomacy
+Друга світова війна,World War II
+Еквадор,Ecuador
+Екваторіальна Гвінея,Equatorial Guinea
+Екологія,Ecology
+Економіка,Economics
+Електромагнетизм,Electromagnetism
+Електроніка,Electronics
+Електротехніка,Electrical engineering
+Електрохімія,Electrochemistry
+Ендокринологія,Endocrinology
+Енергія,Energy
+Ентомологія,Entomology
+Есперанто,Esperanto
+Естонія,Estonia
+Етика,Ethics
+Етнологія,Ethnology
+Ефіопія,Ethiopia
+Живопис,Painting
+Життя,Life
+Журналістика,Journalism
+Замбія,Zambia
+Здоров'я,Health
+Земля,Earth
+Зоологія,Zoology
+Зімбабве,Zimbabwe
+Йорданія,Jordan
+Кава,Coffee
+Кавказ,Caucasus
+Казахстан,Kazakhstan
+Каліфорнія,California
+Камбоджа,Cambodia
+Камерун,Cameroon
+Канада,Canada
+Кардіологія,Cardiology
+Картографія,Cartography
+Каталонія,Catalonia
+Квантова фізика,Quantum mechanics
+Квебек,Quebec
+Кенія,Kenya
+Киргизстан,Kyrgyzstan
+Китай,China
+Класична музика,Classical music
+Клімат,Climate
+Кліматологія,Climatology
+Колумбія,Colombia
+Комп'ютерна графіка,Computer graphics
+Комунізм,Communism
+Комунікації,Communication
+Корея,Korea
+Космологія,Cosmology
+Косово,Kosovo
+Коста-Рика,Costa Rica
+Кримінальне право,Criminal law
+Криптографія,Cryptography
+Кристалографія,Crystallography
+Куба,Cuba
+Кувейт,Kuwait
+Культура,Culture
+Куроподібні,Galliformes
+Кіно,Film
+Кіпр,Cyprus
+Лаос,Laos
+Латвія,Latvia
+Легка атлетика,Athletics
+Литва,Lithuania
+Логіка,Logic
+Лондон,London
+Люксембург,Luxembourg
+Ліван,Lebanon
+Лінукс,Linux
+Лінійна алгебра,Linear algebra
+Літаки,Aircraft
+Література,Literature
+Ліхтенштейн,Liechtenstein
+М'янма,Burma
+М'янма,Myanmar
+Мавританія,Mauritania
+Магнетизм,Magnetism
+Мадагаскар,Madagascar
+Макроекономіка,Macroeconomics
+Малаві,Malawi
+Малайзія,Malaysia
+Мальта,Malta
+Малі,Mali
+Маркетинг,Marketing
+Марксизм,Marxism
+Марокко,Morocco
+Марс,Mars
+Математика,Mathematics
+Математична логіка,Mathematical logic
+Медицина,Medicine
+Мексика,Mexico
+Мен,Isle of Man
+Месопотамія,Mesopotamia
+Металургія,Metallurgy
+Метафізика,Metaphysics
+Метеорологія,Meteorology
+Метро,Rapid transit
+Метрологія,Measurement
+Механіка,Mechanics
+Мистецтво,Arts
+Мовознавство,Linguistics
+Мода,Fashion
+Мозамбік,Mozambique
+Молдова,Moldova
+Молекулярна біологія,Molecular biology
+Монако,Monaco
+Монголія,Mongolia
+Москва,Moscow
+Мости,Bridges
+Музика,Music
+Міжнародне право,International law
+Мікологія,Mycology
+Мікробіологія,Microbiology
+Мікроекономіка,Microeconomics
+Мінералогія,Mineralogy
+Міфологія,Mythology
+НАТО,NATO
+Навігація,Navigation
+Найпростіші,Protista
+Намібія,Namibia
+Наука,Science
+Наукова фантастика,Science fiction
+Науру,Nauru
+Нацизм,Nazism
+Нацистська Німеччина,Nazi Germany
+Націоналізм,Nationalism
+Небесна механіка,Celestial mechanics
+Неорганічна хімія,Inorganic chemistry
+Нервова система,Nervous system
+Нобелівські премії,Nobel Prize
+Нова Зеландія,New Zealand
+Норвегія,Norway
+Нумізматика,Numismatics
+Нью-Йорк,New York City
+Нігерія,Nigeria
+Нідерланди,Netherlands
+Нікарагуа,Nicaragua
+Німеччина,Germany
+ООН,United Nations
+Об'єднані Арабські Емірати,United Arab Emirates
+Одяг,Clothing
+Океанографія,Oceanography
+Океанія,Oceania
+Око,Eye
+Олімпійські ігри,Olympics
+Оман,Oman
+Онкологія,Oncology
+Оподаткування,Taxation
+Оптика,Optics
+Органічна хімія,Organic chemistry
+Орнітологія,Ornithology
+Освіта,Education
+Охорона природи,Environment
+Пакистан,Pakistan
+Палеонтологія,Paleontology
+Палестина,Palestine
+Панама,Panama
+Панк,Punk
+Парагвай,Paraguay
+Париж,Paris
+Пасльонові,Solanaceae
+Педагогіка,Pedagogy
+Перетинчастокрилі,Hymenoptera
+Персоналії,People
+Ірландія,Irish people
+Іспанія,Spanish people
+Англія,English people
+Великобританія,British people
+Нідерланди,Dutch people
+Франція,French people
+Швейцарія,Swiss people
+Перу,Peru
+Перша світова війна,World War I
+Пиво,Beer
+Плавання,Swimming
+Поезія,Poetry
+Польща,Poland
+Політика,Politics
+Політологія,Political science
+Португалія,Portugal
+Право,Law
+Прага,Prague
+Примати,Primates
+Природа,Nature
+Програмне забезпечення,Software
+Програмування,Computer programming
+Протоки,Straits
+Псевдонаука,Pseudoscience
+Психологія,Psychology
+Пустелі,Deserts
+Південна Америка,South America
+Південно-Африканська Республіка,South Africa
+Північна Ірландія,Northern Ireland
+Північна Америка,North America
+Північна Кароліна,North Carolina
+Підприємці,Businesspeople
+Радіо,Radio
+Расизм,Racism
+Релігія,Religion
+Республіка Конго,Republic of the Congo
+Риби,Fish
+Рим,Rome
+Римська міфологія,Roman mythology
+Риторика,Rhetoric
+Розваги,Entertainment
+Рок-музика,Rock music
+Роки,Years
+Росія,Russia
+Румунія,Romania
+СРСР,Soviet Union
+США,United States
+Сальвадор,El Salvador
+Сан-Марино,San Marino
+Санкт-Петербург,Saint Petersburg
+Саудівська Аравія,Saudi Arabia
+Сейсмологія,Seismology
+Семантика,Semantics
+Сербія,Serbia
+Середні віки,Middle Ages
+Серцево-судинна система,Cardiovascular system
+Сирія,Syria
+Скандинавська міфологія,Norse mythology
+Скандинавія,Scandinavia
+Скелетна система,Skeletal system
+Скульптура,Sculpture
+Словаччина,Slovakia
+Словенія,Slovenia
+Смерть,Death
+Сонце,Sun
+Сонячна система,Solar System
+Соціалізм,Socialism
+Соціологія,Sociology
+Стамбул,Istanbul
+Стародавній світ,Ancient history
+Статистика,Statistics
+Стоматологія,Dentistry
+Судан,Sudan
+Суринам,Suriname
+Суспільство,Society
+Сьєрра-Леоне,Sierra Leone
+Сільське господарство,Agriculture
+Сінгапур,Singapore
+Таджикистан,Tajikistan
+Тайвань,Taiwan
+Танзанія,Tanzania
+Танці,Dance
+Театр,Theatre
+Телебачення,Television
+Теніс,Tennis
+Теорія відносності,Relativity
+Теорія ймовірностей,Probability theory
+Теорія множин,Set theory
+Термодинаміка,Thermodynamics
+Тероризм,Terrorism
+Технології,Technology
+Типографія,Typography
+Тихий океан,Pacific Ocean
+Того,Togo
+Топологія,Topology
+Торгівля,Commerce
+Травна система,Digestive system
+Транспорт,Transportation
+Тригонометрія,Trigonometry
+Туніс,Tunisia
+Туреччина,Turkey
+Туризм,Tourism
+Туркменістан,Turkmenistan
+Тюрингія,Thuringia
+Угорщина,Hungary
+Уельс,Wales
+Узбекистан,Uzbekistan
+Україна,Ukraine
+Уругвай,Uruguay
+Фарерські острови,Faroe Islands
+Фашизм,Fascism
+Фемінізм,Feminism
+Флорида,Florida
+Фотографія,Photography
+Французька революція,French Revolution
+Франція,France
+Фрукти,Fruit
+Футбол,Football
+Футбол за країною,Football  by country
+Футбольні клуби за країною,Football  clubs
+Футбольні стадіони,Football  venues
+Футбольні тренери,Football  managers
+Фіджі,Fiji
+Фізика,Physics
+Фізика елементарних частинок,Particle physics
+Фізична хімія,Physical chemistry
+Фізіологія,Physiology
+Філателія,Philately
+Філософія,Philosophy
+Філіппіни,Philippines
+Фінанси,Finance
+Фінляндія,Finland
+Холодна війна,Cold War
+Хорватія,Croatia
+Християнство,Christianity
+Хронологія,Chronology
+Хімія,Chemistry
+Хірургія,Surgery
+ЦАР,Central African Republic
+Чад,Chad
+Чай,Tea
+Час,Time
+Чехословаччина,Czechoslovakia
+Чехія,Czech Republic
+Чечня,Chechnya
+Чилі,Chile
+Числа,Numbers
+Чорногорія,Montenegro
+Шахи,Chess
+Швейцарія,Switzerland
+Швеція,Sweden
+Шотландія,Scotland
+Шрі-Ланка,Sri Lanka
+Штучний інтелект,Artificial intelligence
+Югославія,Yugoslavia
+Юдаїзм,Judaism
+Юнікс,Unix
+Юпітер,Jupiter
+Ядерна фізика,Nuclear physics
+Ямайка,Jamaica
+Японія,Japan
+Ґренландія,Greenland
 Катерина Арагонська,Catherine of Aragon
 Катманду,Kathmandu
 Катовіце,Katowice
@@ -2945,7 +2945,7 @@ ukrainian,english
 Кашалот,Sperm Whale
 Каштан,Chestnut
 Каїр,Cairo
-Квадрат,Square (geometry)
+Квадрат,Square
 Квадратне рівняння,Quadratic equation
 Квадратний метр,Square metre
 Квазари,Quasar
@@ -2954,8 +2954,8 @@ ukrainian,english
 Кварк,Quark
 Кварц,Quartz
 Кватерніони,Quaternion
-Квебек (місто),Quebec City
-Квебек (провінція),Quebec
+Квебек,Quebec City
+Квебек,Quebec
 Квінз,Queens
 Квінсленд,Queensland
 Квітень,April
@@ -2964,10 +2964,10 @@ ukrainian,english
 Кейнс Джон Мейнард,John Maynard Keynes
 Кейптаун,Cape Town
 Келлер Гелен Адамс,Helen Keller
-Кельвін (одиниця),Kelvin
+Кельвін,Kelvin
 Кельн,Cologne
 Кембридж,Cambridge
-Кембридж (значення),Cambridge (disambiguation)
+Кембридж,Cambridge
 Кембрійський період,Cambrian
 Кенгурові,Kangaroo
 Кент,Kent
@@ -2976,7 +2976,7 @@ ukrainian,english
 Кенія,Kenya
 Кеплер Йоганнес Фрідріх,Johannes Kepler
 Кераміка,Ceramic
-Керера,Ceres (mythology)
+Керера,Ceres
 Кечуа,Quechua
 Кеш,Cache
 Кеш'ю,Cashew
@@ -2987,8 +2987,8 @@ ukrainian,english
 Кислота,Acid
 Кислотні дощі,Acid rain
 Кисть,Hand
-Кит (сузір'я),Cetus
-Китай (цивілізація),China
+Кит,Cetus
+Китай,China
 Китайська Народна Республіка,People's Republic of China
 Китоподібні,Cetacea
 Китоподібні,Whale
@@ -2998,13 +2998,13 @@ ukrainian,english
 Київ,Kiev
 Клавдій Птолемей,Ptolemy
 Клавесин,Harpsichord
-Клавіатура,Keyboard (computing)
+Клавіатура,Keyboard
 Клавішні музичні інструменти,Keyboard instrument
 Клайв Стейплз Льюїс,C. S. Lewis
 Кларнет,Clarinet
 Клас,Class
-Клас (біологія),Class (biology)
-Клас (програмування),Class (computer science)
+Клас,Class
+Клас,Class
 Клас Сцифоїдні,Jellyfish
 Класицизм,Classicism
 Класична механіка,Classical mechanics
@@ -3013,13 +3013,13 @@ ukrainian,english
 Клен,Maple
 Клеє Пауль,Paul Klee
 Кличний відмінок,Vocative case
-Ключ (музика),Clef
+Ключ,Clef
 Ключиця,Clavicle
 Клівленд,Cleveland
 Клімат,Climate
 Клінтон Білл,Bill Clinton
 Кліо,Clio
-Клітина,Cell (biology)
+Клітина,Cell
 Клітинна стінка,Cell wall
 Клітинне ядро,Cell nucleus
 Клітор,Clitoris
@@ -3036,14 +3036,14 @@ ukrainian,english
 Когнітивна психологія,Cognitive psychology
 Кодеїн,Codeine
 Коефіцієнт інтелекту,Intelligence quotient
-Козеріг (сузір'я),Capricornus
+Козеріг,Capricornus
 Койот,Coyote
 Кокаїн,Cocaine
 Кокосова пальма,Coconut
 Коктейль,Cocktail
 Коктейль Молотова,Molotov cocktail
 Кокто Жан,Jean Cocteau
-Кола (напій),Cola
+Кола,Cola
 Колаген,Collagen
 Колаж,Collage
 Колесо,Wheel
@@ -3052,22 +3052,22 @@ ukrainian,english
 Коло,Circle
 Колода карт,Playing card
 Коломбо,Colombo
-Колонія (політика),Colony
+Колонія,Colony
 Колорадо,Colorado
-Колорадо (річка),Colorado River
+Колорадо,Colorado River
 Колос Родоський,Colossus of Rhodes
 Колоїди,Colloid
 Колрідж Семюел Тейлор,Samuel Taylor Coleridge
 Колумб Христофор,Christopher Columbus
-Колумбус (Огайо),Columbus
+Колумбус,Columbus
 Колумбійський університет,Columbia University
 Колумбія,Colombia
-Колумбія (значення),Columbia
+Колумбія,Columbia
 Кольський півострів,Kola Peninsula
 Колібрі,Hummingbird
 Колізей,Colosseum
 Колір,Color
-Кома (розділовий знак),Comma (punctuation)
+Кома,Comma
 Комарі,Mosquito
 Комахи,Insect
 Комедія,Comedy
@@ -3094,16 +3094,16 @@ ukrainian,english
 Конан-Дойл Артур,Arthur Conan Doyle
 Конвекційний потік,Convection
 Конго,Congo
-Конго (річка),Congo River
+Конго,Congo River
 Конгрес США,United States Congress
 Конкуренція,Competition
 Конкістадор,Conquistador
 Коннектикут,Connecticut
-Коноплі (рослина),Cannabis
+Коноплі,Cannabis
 Консенсус,Consensus
 Консерватизм,Conservatism
 Константинополь,Constantinople
-Конституція,Constitution (political)
+Конституція,Constitution
 Конституція США,United States Constitution
 Констянтин Великий,Constantine I
 Конт Оґюст,Auguste Comte
@@ -3111,13 +3111,13 @@ ukrainian,english
 Контрабас,Double bass
 Контрапункт,Counterpoint
 Контрацептиви,Birth control
-Конус,Cone (geometry)
+Конус,Cone
 Конфедеративні Штати Америки,Confederate States of America
 Конфедерація,Confederation
 Конфуціанство,Confucianism
 Конфуцій,Confucius
 Концтабір,Internment
-Коньяк,Cognac (drink)
+Коньяк,Cognac
 Конюшина,Clover
 Кооператив,Cooperative
 Копенгаген,Copenhagen
@@ -3129,12 +3129,12 @@ ukrainian,english
 Корейська війна,Korean War
 Корея,Korea
 Коричневий колір,Brown
-Корк,Cork (city)
-Корма (сузір'я),Puppis
+Корк,Cork
+Корма,Puppis
 Корнуол,Cornwall
 Корова,Cattle
 Корозія,Corrosion
-Король (шахова фігура),King (chess)
+Король,King
 Король Артур,King Arthur
 Короткозорість,Myopia
 Корсика,Corsica
@@ -3142,7 +3142,7 @@ ukrainian,english
 Коріандр,Coriander
 Корінф,Corinth
 Корінь,Root
-Косинець (сузір'я),Norma (constellation)
+Косинець,Norma
 Космологія,Cosmology
 Космічна біологія,Astrobiology
 Косово,Kosovo
@@ -3192,7 +3192,7 @@ ukrainian,english
 Ксенофобія,Xenophobia
 Ксенофонт,Xenophon
 Ксилофон,Xylophone
-Ксі (літера),Xi
+Ксі,Xi
 Ку-Клукс-Клан,Ku Klux Klan
 Куала-Лумпур,Kuala Lumpur
 Куб,Cube
@@ -3203,11 +3203,11 @@ ukrainian,english
 Кук Джеймс,James Cook
 Кукурудза,Maize
 Кулемет,Machine gun
-Кулон (одиниця СІ),Coulomb
+Кулон,Coulomb
 Кулькова ручка,Ballpoint pen
 Культура,Culture
 Культуризм,Bodybuilding
-Культурна революція (Китай),Cultural Revolution
+Культурна революція,Cultural Revolution
 Кулінарія,Cooking
 Куницеві,Mustelidae
 Куньлунь,Kunlun Mountains
@@ -3235,13 +3235,13 @@ ukrainian,english
 Кіклопи,Cyclops
 Кілограм,Kilogram
 Кілометр,Kilometre
-Кіль (сузір'я),Carina (constellation)
-Кільце (алгебра),Ring (mathematics)
+Кіль,Carina
+Кільце,Ring
 Кільчасті черви,Annelid
 Кіліманджаро,Mount Kilimanjaro
 Кімоно,Kimono
 Кінгстаун,Kingstown
-Кінгстон (Ямайка),Kingston
+Кінгстон,Kingston
 Кінематика,Kinematics
 Кінетична енергія,Kinetic energy
 Кіннота,Cavalry
@@ -3278,7 +3278,7 @@ ukrainian,english
 Лазер,Laser
 Лайнус Полінг,Linus Pauling
 Лактоза,Lactose
-Лама (тварина),Llama
+Лама,Llama
 Лангедок — Руссільон,Languedoc-Roussillon
 Ланкашир,Lancashire
 Лантан,Lanthanum
@@ -3295,16 +3295,16 @@ ukrainian,english
 Лаціо,Lazio
 Ле Корбюз'є,Le Corbusier
 Лебеді,Swan
-Лебідь (сузір'я),Cygnus (constellation)
+Лебідь,Cygnus
 Лебідь-шипун,Mute Swan
 Лев,Lion
-Лев (сузір'я),Leo (constellation)
+Лев,Leo
 Левант,Levant
-Левит (книга),Leviticus
+Левит,Leviticus
 Левіафан,Leviathan
 Легенда,Legend
 Легені,Lung
-Легка атлетика,Athletics (track and field)
+Легка атлетика,Athletics
 Легіон,Roman legion
 Леді Джейн Грей,Lady Jane Grey
 Лейден,Leiden
@@ -3315,7 +3315,7 @@ ukrainian,english
 Лексикологія,Lexicology
 Лелека,Stork
 Лелекоподібні,Ciconiiformes
-Лена (річка),Lena River
+Лена,Lena River
 Леннон Джон,John Lennon
 Ленін Володимир Ілліч,Vladimir Lenin
 Леонардо да Вінчі,Leonardo da Vinci
@@ -3325,19 +3325,19 @@ ukrainian,english
 Лесото,Lesotho
 Лессінґ Доріс,Doris Lessing
 Лето,Leto
-Летюча Риба (сузір'я),Volans
+Летюча Риба,Volans
 Лимон,Lemon
 Лимонна кислота,Citric acid
 Липень,July
 Лисиця звичайна,Red Fox
-Лисичка (сузір'я),Vulpecula
+Лисичка,Vulpecula
 Листок,Leaf
 Листопад,November
 Литва,Lithuania
 Лихоманка,Fever
 Личинка,Larva
 Лишайники,Lichen
-Ло (департамент),Lot (department)
+Ло,Lot
 Логарифм,Logarithm
 Логіка,Logic
 Логістика,Logistics
@@ -3361,10 +3361,10 @@ ukrainian,english
 Лоуренсій,Lawrencium
 Лох-Несс,Loch Ness
 Луанда,Luanda
-Луара (департамент),Loire
+Луара,Loire
 Лувр,Louvre
 Лужні метали,Alkali metal
-Лук,Bow (weapon)
+Лук,Bow
 Лукас Джордж,George Lucas
 Лукрецій,Lucretius
 Луксор,Luxor
@@ -3386,8 +3386,8 @@ ukrainian,english
 Людина уміла,Homo habilis
 Люкс,Lux
 Люксембург,Luxembourg
-Люксембург (місто),Luxembourg (city)
-Люмен,Lumen (unit)
+Люксембург,Luxembourg
+Люмен,Lumen
 Люмінесценція,Luminescence
 Лютер Мартін,Martin Luther
 Лютеранство,Lutheranism
@@ -3396,7 +3396,7 @@ ukrainian,english
 Лютнева революція 1917,February Revolution
 Лютня,Lute
 Люфтваффе,Luftwaffe
-Лямбда (літера),Lambda
+Лямбда,Lambda
 Лібералізм,Liberalism
 Ліберія,Liberia
 Лібревіль,Libreville
@@ -3422,9 +3422,9 @@ ukrainian,english
 Ліліт,Lilith
 Ліма,Lima
 Лімнологія,Limnology
-Лімузен,Limousin (region)
+Лімузен,Limousin
 Лінгва франка,Lingua franca
-Лінза,Lens (optics)
+Лінза,Lens
 Лінней Карл,Carolus Linnaeus
 Лінукс,Linux
 Лінц,Linz
@@ -3432,12 +3432,12 @@ ukrainian,english
 Лінійне рівняння,Linear equation
 Ліон,Lyon
 Ліпіди,Lipid
-Ліра (сузір'я),Lyra
+Ліра,Lyra
 Ліс,Forest
 Лісабон,Lisbon
 Ліст Ференц,Franz Liszt
 Літак,Aircraft
-Літера,Letter (alphabet)
+Літера,Letter
 Література,Literature
 Літо,Summer
 Літосфера,Lithosphere
@@ -3460,31 +3460,31 @@ ukrainian,english
 Магній,Magnesium
 Магніт,Magnet
 Магнітне поле,Magnetic field
-Магія,Magic (paranormal)
+Магія,Magic
 Мадагаскар,Madagascar
 Мадейра,Madeira
-Мадонна,Madonna (entertainer)
+Мадонна,Madonna
 Мадрид,Madrid
 Мажор,Major scale
 Майлз Девіс,Miles Davis
 Майонез,Mayonnaise
 Майор,Major
 Майстер Екгарт,Meister Eckhart
-Мак-Кінлі (гора),Mount McKinley
-Македонія (Греція),Macedonia (Greece)
-Македонія (значення),Macedonia
+Мак-Кінлі,Mount McKinley
+Македонія,Macedonia
+Македонія,Macedonia
 Маккартизм,McCarthyism
 Макроекономіка,Macroeconomics
 Макс Ернст,Max Ernst
 Максвелл Джеймс Клерк,James Clerk Maxwell
-Мала Ведмедиця (сузір'я),Ursa Minor
+Мала Ведмедиця,Ursa Minor
 Малабо,Malabo
 Малайзія,Malaysia
 Малакка,Malay Peninsula
 Малахіт,Malachite
 Малевич Казимир Северинович,Kazimir Malevich
 Малер Густав,Gustav Mahler
-Малий Пес (сузір'я),Canis Minor
+Малий Пес,Canis Minor
 Малина,Rubus idaeus
 Малина,Raspberry
 Мальвові,Malvaceae
@@ -3497,24 +3497,24 @@ ukrainian,english
 Мамут,Mammoth
 Манагуа,Managua
 Манама,Manama
-Манган (елемент),Manganese
+Манган,Manganese
 Мангеттен,Manhattan
 Манго,Mango
 Мангровий ліс,Mangrove
 Мандела Нельсон,Nelson Mandela
 Манн Томас,Thomas Mann
 Мантра,Mantra
-Мантія Землі,Mantle (geology)
+Мантія Землі,Mantle
 Манхеттенський проект,Manhattan Project
 Манчестер,Manchester
 Маньчжурія,Manchuria
 Маніла,Manila
-Манітоба (провінція),Manitoba
+Манітоба,Manitoba
 Мао Цзедун,Mao Zedong
 Мапуту,Maputo
 Марафонський біг,Marathon
 Мардук,Marduk
-Марихуана,Cannabis (drug)
+Марихуана,Cannabis
 Марк Аврелій,Marcus Aurelius
 Марк Твен,Mark Twain
 Марке,Marche
@@ -3528,8 +3528,8 @@ ukrainian,english
 Мармур,Marble
 Мармурове море,Sea of Marmara
 Марокко,Morocco
-Марс,Mars (disambiguation)
-Марс (міфологія),Mars (mythology)
+Марс,Mars
+Марс,Mars
 Марсель,Marseille
 Мартиніка,Martinique
 Мартін Лютер Кінг,Martin Luther King
@@ -3558,7 +3558,7 @@ ukrainian,english
 Мати,Mother
 Мати Тереза,Mother Teresa
 Матка,Uterus
-Матриця (математика),Matrix (mathematics)
+Матриця,Matrix
 Матрична рибонуклеїнова кислота,Messenger RNA
 Матісс Анрі,Henri Matisse
 Мауна-Кеа,Mauna Kea
@@ -3576,15 +3576,15 @@ ukrainian,english
 Маяк,Lighthouse
 Маямі,Miami
 Маятник,Pendulum
-Маятник Фуко (фізика),Foucault pendulum
-Маєнн (департамент),Mayenne
+Маятник Фуко,Foucault pendulum
+Маєнн,Mayenne
 Меблі,Furniture
 Мегабайт,Megabyte
 Мед,Honey
-Мед (напій),Mead
+Мед,Mead
 Медея,Medea
 Медицина,Medicine
-Медуза (міфологія),Medusa
+Медуза,Medusa
 Медісон Джеймс,James Madison
 Межиріччя,Mesopotamia
 Мез,Meuse
@@ -3606,9 +3606,9 @@ ukrainian,english
 Мелодія,Melody
 Мельпомена,Melpomene
 Мем,Meme
-Мемфіс (Теннессі),Memphis
-Мен (острів),Isle of Man
-Мен (штат),Maine
+Мемфіс,Memphis
+Мен,Isle of Man
+Мен,Maine
 Мендель Ґреґор Йоганн,Gregor Mendel
 Мендельсон Фелікс,Felix Mendelssohn
 Менделєвій,Mendelevium
@@ -3617,12 +3617,12 @@ ukrainian,english
 Менелай,Menelaus
 Менструальний цикл,Menstrual cycle
 Мердок Руперт,Rupert Murdoch
-Меридіан,Meridian (geography)
+Меридіан,Meridian
 Меритократія,Meritocracy
 Меркантилізм,Mercantilism
 Меркурій,Mercury
-Меркурій (міфологія),Mercury (mythology)
-Меркурій (планета),Mercury (planet)
+Меркурій,Mercury
+Меркурій,Mercury
 Меровінги,Merovingian
 Мертве море,Dead Sea
 Меріленд,Maryland
@@ -3658,7 +3658,7 @@ ukrainian,english
 Мистецтво,Art
 Миш'як,Arsenic
 Миша,Mouse
-Миша комп'ютерна,Mouse (computing)
+Миша комп'ютерна,Mouse
 Многочлен,Polynomial
 Множина,Set
 Множина Мандельброта,Mandelbrot set
@@ -3670,16 +3670,16 @@ ukrainian,english
 Мовні регресії,Aphasia
 Мовознавство,Linguistics
 Могадішо,Mogadishu
-Мода (культура),Fashion
+Мода,Fashion
 Модем,Modem
 Модернізм,Modernism
 Модрина,Larch
 Модуль Юнга,Young's modulus
-Модуляція (фізика),Modulation
+Модуляція,Modulation
 Моем Вільям Сомерсет,W. Somerset Maugham
 Мозамбік,Mozambique
 Мозаїка,Mosaic
-Мозель (департамент),Moselle
+Мозель,Moselle
 Мозковий штурм,Brainstorming
 Мойри,Moirae
 Мойсей,Moses
@@ -3688,7 +3688,7 @@ ukrainian,english
 Молекулярна біологія,Molecular biology
 Молитва,Prayer
 Молоко,Milk
-Моль (одиниця),Mole (unit)
+Моль,Mole
 Молюски,Mollusca
 Молібден,Molybdenum
 Молізе,Molise
@@ -3703,18 +3703,18 @@ ukrainian,english
 Мономер,Monomer
 Монооксид вуглецю,Carbon monoxide
 Монополія,Monopoly
-Монополія (гра),Monopoly (game)
+Монополія,Monopoly
 Монотеїзм,Monotheism
 Монреаль,Montreal
 Монро Джеймс,James Monroe
 Монро Мерилін,Marilyn Monroe
 Монровія,Monrovia
-Монтана (штат),Montana
+Монтана,Montana
 Монте-Карло,Monte Carlo
 Монтеверді Клаудіо,Claudio Monteverdi
 Монтевідео,Montevideo
 Монтеррей,Monterrey
-Монтпілієр (Вермонт),Montpelier
+Монтпілієр,Montpelier
 Монтсеррат,Montserrat
 Монізм,Monism
 Монітор,Computer display
@@ -3734,7 +3734,7 @@ ukrainian,english
 Морські зірки,Starfish
 Морфема,Morpheme
 Морфологія,Morphology
-Морфологія (лінгвістика),Morphology (linguistics)
+Морфологія,Morphology
 Москва,Moscow
 Мотоцикл,Motorcycle
 Мохи,Moss
@@ -3746,8 +3746,8 @@ ukrainian,english
 Музикант,Musician
 Музичний альбом,Album
 Музичний інструмент,Musical instrument
-Музичний інтервал,Interval (music)
-Мул (тварина),Mule
+Музичний інтервал,Interval
+Мул,Mule
 Мультимедіа,Multimedia
 Мумбаї,Mumbai
 Муніципалітет,Municipality
@@ -3759,14 +3759,14 @@ ukrainian,english
 Муссоліні Беніто,Benito Mussolini
 Мусульманський календар,Islamic calendar
 Мутація,Mutation
-Муха (сузір'я),Musca
+Муха,Musca
 Мухамед Алі,Muhammad Ali
 Мухаммед,Muhammad
 Мухомор зелений,Amanita phalloides
 Мухомор червоний,Amanita muscaria
 Мученик,Martyr
 Мушкет,Musket
-Мю (літера),Mu (letter)
+Мю,Mu
 Мюнхен,Munich
 Мюон,Muon
 Мігель де Сервантес,Miguel de Cervantes
@@ -3785,7 +3785,7 @@ ukrainian,english
 Мікронезія,Micronesia
 Мікроорганізми,Microorganism
 Мікропроцесор,Microprocessor
-Мікроскоп (сузір'я),Microscopium
+Мікроскоп,Microscopium
 Мікроскопічний,Microscope
 Мікросхема,Integrated circuit
 Мікрофон,Microphone
@@ -3797,37 +3797,37 @@ ukrainian,english
 Мільйон,Million
 Міліметр,Millimetre
 Мінарет,Minaret
-Мінданао (острів),Mindanao
+Мінданао,Mindanao
 Мінерали,Mineral
 Мінералогія,Mineralogy
 Мінеральні води,Mineral water
 Мінковський Герман,Hermann Minkowski
 Міннесота,Minnesota
 Мінойська культура,Minoan civilization
-Міномет,Mortar (weapon)
-Мінор (музика),Minor scale
+Міномет,Mortar
+Мінор,Minor scale
 Мінос,Minos
 Мінотавр,Minotaur
 Мінськ,Minsk
 Мінімалізм,Minimalism
-Міністр,Minister (government)
+Міністр,Minister
 Міоцен,Miocene
-Міссурі (річка),Missouri River
-Міссурі (штат),Missouri
-Міссісіпі (річка),Mississippi River
-Міст (споруда),Bridge
+Міссурі,Missouri River
+Міссурі,Missouri
+Міссісіпі,Mississippi River
+Міст,Bridge
 Містицизм,Mysticism
 Місто,Town
 Місто-держава,City-state
 Міський голова,Mayor
-Місяць (календарний),Month
-Місяць (супутник),Moon
+Місяць,Month
+Місяць,Moon
 Місячні затемнення,Lunar eclipse
 Мітохондрія,Mitochondrion
 Міф,Myth
 Міфологія,Mythology
-Мічиган (озеро),Lake Michigan
-Мічиган (штат),Michigan
+Мічиган,Lake Michigan
+Мічиган,Michigan
 НАТО,NATO
 Набоков Володимир Володимирович,Vladimir Nabokov
 Навратілова Мартіна,Martina Navratilova
@@ -3857,7 +3857,7 @@ ukrainian,english
 Наркоманія,Drug addiction
 Народна музика,Folk music
 Насер Гамаль Абдель,Gamal Abdel Nasser
-Насос (сузір'я),Antlia
+Насос,Antlia
 Настільна гра,Board game
 Настільний теніс,Table tennis
 Насіння,Seed
@@ -3898,7 +3898,7 @@ ukrainian,english
 Нейтронна зоря,Neutron star
 Нельсон Гораціо,Horatio Nelson
 Немейський лев,Nemean Lion
-Немесіда,Nemesis (mythology)
+Немесіда,Nemesis
 Неметали,Nonmetal
 Неодим,Neodymium
 Неологізм,Neologism
@@ -3910,7 +3910,7 @@ ukrainian,english
 Непал,Nepal
 Непер Джон,John Napier
 Неповнозубі,Xenarthra
-Нептун (планета),Neptune
+Нептун,Neptune
 Нептуній,Neptunium
 Нервова система,Nervous system
 Нерон,Nero
@@ -3959,34 +3959,34 @@ ukrainian,english
 Нью-Делі,New Delhi
 Нью-Джерсі,New Jersey
 Нью-Йорк,New York City
-Нью-Йорк (значення),New York (disambiguation)
-Нью-Йорк (штат),New York
+Нью-Йорк,New York
+Нью-Йорк,New York
 Нью-Йоркська фондова біржа,New York Stock Exchange
 Нью-Мексико,New Mexico
-Ньюарк (Нью-Джерсі),Newark
+Ньюарк,Newark
 Ньютон,Newton
 Ньютон Ісаак,Isaac Newton
-Ньюфаундленд,Newfoundland (island)
+Ньюфаундленд,Newfoundland
 Ньюфаундленд і Лабрадор,Newfoundland and Labrador
 Ньяса,Lake Malawi
-Ню (літера),Nu (letter)
+Ню,Nu
 Нюрнберг,Nuremberg
 Ніагарський водоспад,Niagara Falls
 Ніамей,Niamey
 Ніацин,Niacin
 Нігер,Niger
-Нігер (річка),Niger River
+Нігер,Niger River
 Нігерія,Nigeria
-Нігті,Nail (anatomy)
+Нігті,Nail
 Нідерланди,Netherlands
 Нідерландські Антильські острови,Netherlands Antilles
 Ніж,Knife
 Нікарагуа,Nicaragua
-Ніке,Nike (mythology)
+Ніке,Nike
 Нікейський символ віри,Nicene Creed
 Нікель,Nickel
 Нікосія,Nicosia
-Нікс,Nyx (mythology)
+Нікс,Nyx
 Ніл,Nile
 Нільський крокодил,Nile crocodile
 Німецька Демократична Республіка,East Germany
@@ -4004,27 +4004,27 @@ ukrainian,english
 Ніч,Night
 ОПЕК,OPEC
 Оазис,Oasis
-Оахака (штат),Oaxaca
+Оахака,Oaxaca
 Оаху,Oahu
 Об,Ob River
 Об'єднана Арабська Республіка,United Arab Republic
-Об'єднання множин,Union (set theory)
+Об'єднання множин,Union
 Об'єднані Арабські Емірати,United Arab Emirates
 Об'єм,Volume
 Обеліск,Obelisk
-Облігація,Bond (finance)
+Облігація,Bond
 Обмін речовин,Metabolism
 Обробка природної мови,Natural language processing
 Обрізання,Circumcision
 Обсерваторія,Observatory
 Обсидіан,Obsidian
 Об’єктно-орієнтоване програмування,Object-oriented programming
-Овен (сузір'я),Aries (constellation)
-Овернь,Auvergne (region)
+Овен,Aries
+Овернь,Auvergne
 Овес,Oat
 Овес,Avena
 Овоч,Vegetable
-Огайо (штат),Ohio
+Огайо,Ohio
 Огірок звичайний,Cucumber
 Ода,Ode
 Одеса,Odessa
@@ -4039,34 +4039,34 @@ ukrainian,english
 Одіссея,Odyssey
 Ожиріння,Obesity
 Озеро,Lake
-Озеро Верхнє (Великі озера),Lake Superior
-Озеро Гурон (Великі озера),Lake Huron
+Озеро Верхнє,Lake Superior
+Озеро Гурон,Lake Huron
 Означення,Definition
 Озон,Ozone
 Озоносфера,Ozone layer
 Окапі,Okapi
 Океан,Ocean
-Океан (міфологія),Oceanus
+Океан,Oceanus
 Океанологія,Oceanography
 Океаніди,Oceanid
 Океанія,Oceania
 Оклахома,Oklahoma
-Окленд (Каліфорнія),Oakland
+Окленд,Oakland
 Око,Eye
 Оксид,Oxide
 Оксид алюмінію,Aluminium oxide
 Оксид кальцію,Calcium oxide
 Окситоцин,Oxytocin
-Оксфорд (місто),Oxford
+Оксфорд,Oxford
 Оксюморон,Oxymoron
 Октава,Octave
 Октавіан Авґуст,Augustus
-Октант (сузір'я),Octans
+Октант,Octans
 Октоберфест,Oktoberfest
 Окуляри для корекції вад зору,Glasses
-Олбані (Нью-Йорк),Albany
+Олбані,Albany
 Олександр,Alexander
-Олександр VI (папа римський),Pope Alexander VI
+Олександр VI,Pope Alexander VI
 Оленеві,Deer
 Олень благородний,Red Deer
 Олово,Tin
@@ -4081,15 +4081,15 @@ ukrainian,english
 Ом,Ohm
 Оман,Oman
 Оманська затока,Gulf of Oman
-Омега (літера),Omega
+Омега,Omega
 Омоніми,Homonym
 Омськ,Omsk
-Омікрон (літера),Omicron
+Омікрон,Omicron
 Онезьке озеро,Lake Onega
 Оно Йоко,Yoko Ono
 Ономастика,Onomastics
-Онтаріо (озеро),Lake Ontario
-Онтаріо (провінція),Ontario
+Онтаріо,Lake Ontario
+Онтаріо,Ontario
 Онтологія,Ontology
 Опал,Opal
 Опера,Opera
@@ -4103,9 +4103,9 @@ ukrainian,english
 Ораторія,Oratorio
 Орбіта,Orbit
 Оргазм,Orgasm
-Орган (музика),Organ (music)
+Орган,Organ
 Органела,Organelle
-Органи,Organ (anatomy)
+Органи,Organ
 Організація,Organization
 Організація Американських Держав,Organization of American States
 Організація Об'єднаних Націй,United Nations
@@ -4115,8 +4115,8 @@ ukrainian,english
 Органічні сполуки,Organic compound
 Ордовицький період,Ordovician
 Орегон,Oregon
-Орел (сузір'я),Aquila (constellation)
-Орест,Orestes (mythology)
+Орел,Aquila
+Орест,Orestes
 Ориген,Origen
 Оркестр,Orchestra
 Орландо,Orlando
@@ -4126,26 +4126,26 @@ ukrainian,english
 Орфей,Orpheus
 Орхідні,Orchidaceae
 Оріноко,Orinoco
-Оріон (сузір'я),Orion (constellation)
+Оріон,Orion
 Орісса,Orissa
 Оріґамі,Origami
 Осадова гірська порода,Sedimentary rock
 Осака,Osaka
 Осама бен Ладен,Osama bin Laden
 Освіта,Education
-Оскар (премія),Academy Award
+Оскар,Academy Award
 Осло,Oslo
 Осман І Газі,Osman I
 Османська імперія,Ottoman Empire
 Осмій,Osmium
-Основа (хімія),Base (chemistry)
+Основа,Base
 Основні рівняння електродинаміки,Maxwell's equations
 Остеопороз,Osteoporosis
 Острава,Ostrava
 Острів,Island
 Острів Норфолк,Norfolk Island
 Острів Принца Едварда,Prince Edward Island
-Остін (Техас),Austin
+Остін,Austin
 Остін Джейн,Jane Austen
 Осінь,Autumn
 Осіріс,Osiris
@@ -4163,8 +4163,8 @@ ukrainian,english
 П'ємонт,Piedmont
 Пабло Пікассо,Pablo Picasso
 Паваротті Лучано,Luciano Pavarotti
-Павич (сузір'я),Pavo (constellation)
-Павло (апостол),Paul the Apostle
+Павич,Pavo
+Павло,Paul the Apostle
 Павлов Іван Петрович,Ivan Pavlov
 Павуки,Spider
 Павукоподібні,Arachnid
@@ -4185,15 +4185,15 @@ ukrainian,english
 Паліндром,Palindrome
 Пам'ять,Memory
 Памір,Pamir Mountains
-Пан (міфологія),Pan (mythology)
+Пан,Pan
 Панама,Panama
-Панама (місто),Panama City
+Панама,Panama City
 Панамський канал,Panama Canal
 Панамський перешийок,Isthmus of Panama
 Пангея,Pangaea
-Пандора (міфологія),Pandora
+Пандора,Pandora
 Панк-рок,Punk rock
-Пантеон (Рим),Pantheon
+Пантеон,Pantheon
 Пантеїзм,Pantheism
 Папа Римський,Pope
 Папороть,Fern
@@ -4223,7 +4223,7 @@ ukrainian,english
 Парсек,Parsec
 Парфенон,Parthenon
 Парфія,Parthia
-Паскаль (одиниця СІ),Pascal (unit)
+Паскаль,Pascal
 Паскаль Блез,Blaise Pascal
 Пасльонові,Solanaceae
 Паспорт,Passport
@@ -4232,13 +4232,13 @@ ukrainian,english
 Патент,Patent
 Патологія,Pathology
 Патри,Patras
-Патріарх (християнство),Patriarch
+Патріарх,Patriarch
 Пауль фон Гінденбург,Paul von Hindenburg
 Паулі Вольфганг Ернст,Wolfgang Pauli
 Паунд Езра Луміс,Ezra Pound
 Пацифізм,Pacifism
 Пегас,Pegasus
-Пегас (сузір'я),Pegasus (constellation)
+Пегас,Pegasus
 Педагог,Teacher
 Педагогіка,Pedagogy
 Пейн Томас,Thomas Paine
@@ -4258,7 +4258,7 @@ ukrainian,english
 Передміхурова залоза,Prostate
 Перепис населення,Census
 Перестановка,Permutation
-Перетин множин,Intersection (set theory)
+Перетин множин,Intersection
 Перешийок,Isthmus
 Перикл,Pericles
 Перл-Харбор,Pearl Harbor
@@ -4266,7 +4266,7 @@ ukrainian,english
 Пермський період,Permian
 Пернамбуку,Pernambuco
 Персей,Perseus
-Персей (сузір'я),Perseus (constellation)
+Персей,Perseus
 Персефона,Persephone
 Персик,Peach
 Персонаж,Fictional character
@@ -4280,7 +4280,7 @@ ukrainian,english
 Періодична система елементів,Periodic table
 Пестициди,Pesticide
 Петрарка Франческо,Petrarch
-Петро (апостол),Saint Peter
+Петро,Saint Peter
 Петрушка,Parsley
 Печери,Cave
 Пеі-де-ла-Луар,Pays de la Loire
@@ -4289,7 +4289,7 @@ ukrainian,english
 Письменник,Writer
 Плавлення,Melting
 Плагіат,Plagiarism
-Плазма (агрегатний стан),Plasma (physics)
+Плазма,Plasma
 Плазма крові,Blood plasma
 Плазміда,Plasmid
 Плазуни,Reptile
@@ -4305,18 +4305,18 @@ ukrainian,english
 Плевен,Pleven
 Плейстоцен,Pleistocene
 Плечова кістка,Humerus
-Плеяди (зоряне скупчення),Pleiades (star cluster)
+Плеяди,Pleiades
 Пловдив,Plovdiv
 Плоскі черви,Flatworm
 Плотін,Plotinus
 Площа,Area
-Площина,Plane (mathematics)
+Площина,Plane
 Плутарх,Plutarch
-Плутон (карликова планета),Pluto
+Плутон,Pluto
 Плутоній,Plutonium
 Пльзень,Pilsen
 Плід,Fruit
-Плід (анатомія),Fetus
+Плід,Fetus
 Пліній Старший,Pliny the Elder
 Пліоцен,Pliocene
 Пліснява,Mold
@@ -4339,19 +4339,19 @@ ukrainian,english
 Покривники,Tunicate
 Покритонасінні,Flowering plant
 Пол Маккартні,Paul McCartney
-Поле,Field (mathematics)
+Поле,Field
 Полекс,Thumb
 Полин,Artemisia absinthium
 Полк,Regiment
 Поло,Polo
-Положення поза грою у футболі,Offside (football)
+Положення поза грою у футболі,Offside
 Полон,Prisoner of war
 Полоній,Polonium
 Поль Верлен,Paul Verlaine
 Польща,Poland
 Полювання,Hunting
 Полярна зірка,Polaris
-Полярне сяйво,Aurora (astronomy)
+Полярне сяйво,Aurora
 Полярний день,Midnight sun
 Полігімнія,Polyhymnia
 Поліетилен,Polyethylene
@@ -4364,9 +4364,9 @@ ukrainian,english
 Політична партія,Political party
 Політологія,Political science
 Поліхлорвініл,Polyvinyl chloride
-Помаранчевий колір,Orange (colour)
-Помело (дерево),Pomelo
-Помпа (техніка),Pump
+Помаранчевий колір,Orange
+Помело,Pomelo
+Помпа,Pump
 Помідор,Tomato
 Понеділок,Monday
 Поп-музика,Pop music
@@ -4379,31 +4379,31 @@ ukrainian,english
 Порт-Морсбі,Port Moresby
 Порт-о-Пренс,Port-au-Prince
 Порт-оф-Спейн,Port of Spain
-Портал:Історія,History
-Портал:Астрономія,Astronomy
-Портал:Біографії,Biography
-Портал:Біологія,Biology
-Портал:Географія,Geography
-Портал:Кінематограф,Film
-Портал:Математика,Mathematics
-Портал:Філософія,Philosophy
-Портал:Хімія,Chemistry
+Історія,History
+Астрономія,Astronomy
+Біографії,Biography
+Біологія,Biology
+Географія,Geography
+Кінематограф,Film
+Математика,Mathematics
+Філософія,Philosophy
+Хімія,Chemistry
 Портленд,Portland
-Портленд (Орегон),Portland
+Портленд,Portland
 Порту,Porto
 Португалія,Portugal
 Порцеляна,Porcelain
 Поршень,Piston
 Посейдон,Poseidon
 Послання до Римлян,Epistle to the Romans
-Послідовність (математика),Sequence
+Послідовність,Sequence
 Послідовність Фібоначчі,Fibonacci number
 Постмодернізм,Postmodernism
 Постійний запам'ятовуючий пристрій,Read-only memory
 Постійний струм,Direct current
 Потенційна енергія,Potential energy
 Потсдам,Potsdam
-Потужність,Power (physics)
+Потужність,Power
 Похила площина,Inclined plane
 Похідна,Derivative
 Поцілунок,Kiss
@@ -4450,8 +4450,8 @@ ukrainian,english
 Проза,Prose
 Проказа,Leprosy
 Прокаріоти,Prokaryote
-Пролог (мова програмування),Prolog
-Прометей (міфологія),Prometheus
+Пролог,Prolog
+Прометей,Prometheus
 Прометій,Promethium
 Промислова революція,Industrial Revolution
 Промисловість,Industry
@@ -4482,7 +4482,7 @@ ukrainian,english
 Психологія,Psychology
 Психіатрія,Psychiatry
 Психічні захворювання,Mental disorder
-Псі (літера),Psi (letter)
+Псі,Psi
 Пта,Ptah
 Птахи,Bird
 Пташине перо,Feather
@@ -4502,15 +4502,15 @@ ukrainian,english
 Пушкін Олександр Сергійович,Alexander Pushkin
 Пхеньян,Pyongyang
 Пшениця,Wheat
-Пі (літера),Pi (letter)
+Пі,Pi
 Південна Австралія,South Australia
 Південна Америка,South America
-Південна Гідра (сузір'я),Hydrus
+Південна Гідра,Hydrus
 Південна Дакота,South Dakota
 Південна Кароліна,South Carolina
 Південна Корея,South Korea
-Південний Трикутник (сузір'я),Triangulum Australe
-Південний Хрест (сузір'я),Crux
+Південний Трикутник,Triangulum Australe
+Південний Хрест,Crux
 Південний острів Нової Зеландії,South Island
 Південний полюс,South Pole
 Південно-Китайське море,South China Sea
@@ -4524,9 +4524,9 @@ ukrainian,english
 Північна Дакота,North Dakota
 Північна Кароліна,North Carolina
 Північна Корея,North Korea
-Північна Корона (сузір'я),Corona Borealis
+Північна Корона,Corona Borealis
 Північна півкуля,Northern Hemisphere
-Північна територія (Австралія),Northern Territory
+Північна територія,Northern Territory
 Північне море,North Sea
 Північний Йоркшир,North Yorkshire
 Північний Льодовитий океан,Arctic Ocean
@@ -4550,7 +4550,7 @@ ukrainian,english
 Піндар,Pindar
 Пінтер Гарольд,Harold Pinter
 Піраміда,Pyramid
-Піраміда (геометрія),Pyramid (geometry)
+Піраміда,Pyramid
 Піратство,Piracy
 Піренейський півострів,Iberian Peninsula
 Піренеї,Pyrenees
@@ -4562,13 +4562,13 @@ ukrainian,english
 Пісок,Sand
 Піст,Fasting
 Пістоль,Handgun
-Піттсбург (Пенсильванія),Pittsburgh
+Піттсбург,Pittsburgh
 Піфагор,Pythagoras
 Піхва,Vagina
 Піхота,Infantry
 Піца,Pizza
-Піч (сузір'я),Fornax
-Пішак (шахова одиниця),Pawn (chess)
+Піч,Fornax
+Пішак,Pawn
 РНК,RNA
 Ра,Ra
 Рабат,Rabat
@@ -4584,10 +4584,10 @@ ukrainian,english
 Радіовуглецеве датування,Radiocarbon dating
 Радіус,Radius
 Рай,Heaven
-Райдужна оболонка,Iris (anatomy)
-Райський Птах (сузір'я),Apus
-Рак (сузір'я),Cancer (constellation)
-Рак (хвороба),Cancer
+Райдужна оболонка,Iris
+Райський Птах,Apus
+Рак,Cancer
+Рак,Cancer
 Ракоподібні,Crustacean
 Ралі,Raleigh
 Рама,Rama
@@ -4600,7 +4600,7 @@ ukrainian,english
 Раскін Джон,John Ruskin
 Рассел Бертран,Bertrand Russell
 Рафаель Санті,Raphael
-Рафаїл,Raphael (archangel)
+Рафаїл,Raphael
 Рахманінов Сергій Васильович,Sergei Rachmaninoff
 Раціональні числа,Rational number
 Реактивний двигун,Jet engine
@@ -4631,18 +4631,18 @@ ukrainian,english
 Республіка,Republic
 Республіка Китай,Republic of China
 Республіка Конго,Republic of the Congo
-Республіканська партія США,Republican Party (United States)
+Республіканська партія США,Republican Party
 Ресторан,Restaurant
 Ретороманська мова,Romansh
 Референдум,Referendum
 Реформація,Protestant Reformation
-Рея (міфологія),Rhea (mythology)
-Рея (супутник),Rhea (moon)
+Рея,Rhea
+Рея,Rhea
 Реінкарнація,Reincarnation
 Реґі,Reggae
 Рибальство,Fishing
 Риби,Fish
-Риби (сузір'я),Pisces (constellation)
+Риби,Pisces
 Рибосома,Ribosome
 Рибофлавін,Riboflavin
 Рига,Riga
@@ -4653,18 +4653,18 @@ ukrainian,english
 Римська імперія,Roman Empire
 Римське право,Roman law
 Рис,Rice
-Рись (сузір'я),Lynx (constellation)
+Рись,Lynx
 Ритм-енд-блюз,Rhythm and blues
 Риторика,Rhetoric
 Рицар,Knight
-Ро (літера),Rho (letter)
+Ро,Rho
 Роберт Кох,Robert Koch
 Роберт Оппенгеймер,Robert Oppenheimer
 Робот,Robot
 Робін Гуд,Robin Hood
 Робітнича партія Курдистану,Kurdistan Workers Party
 Род-Айленд,Rhode Island
-Родина (біологія),Family (biology)
+Родина,Family
 Родина Ведмежі,Bear
 Родовий відмінок,Genitive case
 Родос,Rhodes
@@ -4681,7 +4681,7 @@ ukrainian,english
 Рок-н-рол,Rock and roll
 Рококо,Rococo
 Рокіровка,Castling
-Роман (жанр),Novel
+Роман,Novel
 Романтизм,Romanticism
 Ромб,Rhombus
 Роммель Ервін,Erwin Rommel
@@ -4692,10 +4692,10 @@ ukrainian,english
 Російська православна церква,Russian Orthodox Church
 Російсько-японська війна,Russo-Japanese War
 Росія,Russia
-Рота (армія),Company (military unit)
+Рота,Company
 Роттердам,Rotterdam
 Рош Гашана,Rosh Hashanah
-Ртуть,Mercury (element)
+Ртуть,Mercury
 Руанда,Rwanda
 Рубенс Пітер Пауль,Peter Paul Rubens
 Рубідій,Rubidium
@@ -4707,36 +4707,36 @@ ukrainian,english
 Русалки,Mermaid
 Руссо Жан-Жак,Jean-Jacques Rousseau
 Рутеній,Ruthenium
-Рух,Motion (physics)
+Рух,Motion
 Рушді Салман,Salman Rushdie
-Ряд (біологія),Order (biology)
-Ряд (математика),Series (mathematics)
+Ряд,Order
+Ряд,Series
 Ряд Фур'є,Fourier series
 Ряд Хижі,Carnivora
 Рівнодення,Equinox
 Рівняння,Equation
-Рігель (зірка),Rigel
-Рід (біологія),Genus
-Рід (мовознавство),Grammatical gender
+Рігель,Rigel
+Рід,Genus
+Рід,Grammatical gender
 Рід Кедр,Cedar
 Рідина,Liquid
 Рідкокристалічний дисплей,Liquid crystal display
 Різдво,Christmas
-Різець (сузір'я),Caelum
+Різець,Caelum
 Рік,Year
 Ріка,River
 Рікардо Давид,David Ricardo
 Рільке Райнер Марія,Rainer Maria Rilke
 Ріман Бернгард,Bernhard Riemann
-Ріо-Гранде (річка у США),Rio Grande
+Ріо-Гранде,Rio Grande
 Ріо-де-Жанейро,Rio de Janeiro
-Ріо-де-Жанейро (штат),Rio de Janeiro (state)
+Ріо-де-Жанейро,Rio de Janeiro
 Ріпак,Rapeseed
 Річард Ніксон,Richard Nixon
 Річард Філіпс Фейнман,Richard Feynman
 Річка Святого Лаврентія,Saint Lawrence River
 Рішельє Арман Жан дю Плессі,Cardinal Richelieu
-С (мова програмування),C (programming language)
+С,C
 СНІД,AIDS
 СС,Schutzstaffel
 Савана,Savanna
@@ -4745,16 +4745,16 @@ ukrainian,english
 Сади Семираміди в Вавілоні,Hanging Gardens of Babylon
 Сайт,Website
 Саке,Sake
-Сакраменто (Каліфорнія),Sacramento
+Сакраменто,Sacramento
 Саксонія,Saxony
 Саксофон,Saxophone
 Саламандра,Salamander
 Салах ад-Дін,Saladin
-Салвадор (Бразилія),Salvador
+Салвадор,Salvador
 Салоніки,Thessaloniki
 Сальвадор,El Salvador
 Салят,Salah
-Самара (місто),Samara
+Самара,Samara
 Самарій,Samarium
 Самоа,Samoa
 Самодержець,Monarchy
@@ -4762,12 +4762,12 @@ ukrainian,english
 Самурай,Samurai
 Сан Хуан,San Juan
 Сан-Антоніо,San Antonio
-Сан-Дієго (Каліфорнія),San Diego
+Сан-Дієго,San Diego
 Сан-Марино,San Marino
-Сан-Марино (місто),San Marino
+Сан-Марино,San Marino
 Сан-Сальвадор,San Salvador
 Сан-Франциско,San Francisco
-Сан-Хосе (Каліфорнія),San Jose
+Сан-Хосе,San Jose
 Санкт-Петербург,Saint Petersburg
 Санскрит,Sanskrit
 Санта Клаус,Santa Claus
@@ -4789,9 +4789,9 @@ ukrainian,english
 Сатана,Satan
 Сатира,Satire
 Сатири,Satyr
-Сатурн,Saturn (disambiguation)
-Сатурн (міфологія),Saturn (mythology)
-Сатурн (планета),Saturn
+Сатурн,Saturn
+Сатурн,Saturn
+Сатурн,Saturn
 Саті Ерік,Erik Satie
 Саудівська Аравія,Saudi Arabia
 Сахара,Sahara
@@ -4800,7 +4800,7 @@ ukrainian,english
 Свальбард,Svalbard
 Свастика,Swastika
 Свинець,Lead
-Свобода,Freedom (philosophy)
+Свобода,Freedom
 Свобода слова,Freedom of speech
 Святий Вечір,Christmas Eve
 Святий Георгій,Saint George
@@ -4812,7 +4812,7 @@ ukrainian,english
 Священна Римська імперія,Holy Roman Empire
 Свідки Єгови,Jehovah's Witnesses
 Світ,World
-Світло (фізика),Light
+Світло,Light
 Світловий рік,Light-year
 Світлодіод,Light-emitting diode
 Світова війна,World war
@@ -4845,14 +4845,14 @@ ukrainian,english
 Сенегал,Senegal
 Сент-Вінсент і Гренадини,Saint Vincent and the Grenadines
 Сент-Кіттс і Невіс,Saint Kitts and Nevis
-Сент-Луїс (Міссурі),St. Louis
+Сент-Луїс,St. Louis
 Сент-Люсія,Saint Lucia
-Сент-Пол (Міннесота),Saint Paul
+Сент-Пол,Saint Paul
 Септуаґінта,Septuagint
 Сепуку,Seppuku
 Сербія,Serbia
 Сербія і Чорногорія,Serbia and Montenegro
-Сервер,Server (computing)
+Сервер,Server
 Середа,Wednesday
 Середземне море,Mediterranean Sea
 Середньовіччя,Middle Ages
@@ -4861,12 +4861,12 @@ ukrainian,english
 Серотонін,Serotonin
 Серпень,August
 Серце,Heart
-Сет (міфологія),Set (mythology)
+Сет,Set
 Сеул,Seoul
 Сибір,Siberia
 Сибірка,Anthrax
 Сигарети,Cigarette
-Сигма (літера),Sigma
+Сигма,Sigma
 Сидр,Cider
 Сидячий Бик,Sitting Bull
 Сикстинська капела,Sistine Chapel
@@ -4880,9 +4880,9 @@ ukrainian,english
 Симфонія,Symphony
 Синагога,Synagogue
 Синайський півострів,Sinai Peninsula
-Сингл,Single (music)
+Сингл,Single
 Синдром Дауна,Down syndrome
-Синиця,Tit (bird)
+Синиця,Tit
 Синонім,Synonym
 Синтаксис,Syntax
 Синтезатор,Synthesizer
@@ -4892,7 +4892,7 @@ ukrainian,english
 Сип білоголовий,Griffon Vulture
 Сир,Cheese
 Сирени,Siren
-Сирени (тварини),Sirenia
+Сирени,Sirenia
 Сирія,Syria
 Система,System
 Система автоматизованого проектування,Computer-aided design
@@ -4913,16 +4913,16 @@ ukrainian,english
 Скельниця,Chamois
 Скелясті гори,Rocky Mountains
 Скептицизм,Skepticism
-Склад (мовознавство),Syllable
+Склад,Syllable
 Складні ефіри,Ester
 Скло,Glass
 Скоп'є,Skopje
-Скорпіон (сузір'я),Scorpius
+Скорпіон,Scorpius
 Скорпіони,Scorpion
 Скотт Вальтер,Walter Scott
 Скотт Роберт Фолкон,Robert Falcon Scott
 Скрипка,Violin
-Скульптор (сузір'я),Sculptor (constellation)
+Скульптор,Sculptor
 Скульптура,Sculpture
 Скінхеди,Skinhead
 Слабка взаємодія,Weak interaction
@@ -4934,7 +4934,7 @@ ukrainian,english
 Слово,Word
 Слонова кістка,Ivory
 Слонові,Elephant
-Служба,Mass (liturgy)
+Служба,Mass
 Слюда,Mica
 Сліпота,Blindness
 Смайл,Emoticon
@@ -4957,14 +4957,14 @@ ukrainian,english
 Сократ,Socrates
 Сокіл,Falcon
 Солженіцин Александр Ісайович,Aleksandr Solzhenitsyn
-Соломон (цар),Solomon
+Соломон,Solomon
 Соломонові Острови,Solomon Islands
 Солон,Solon
 Солт-Лейк-Сіті,Salt Lake City
-Солідарність (профспілка),Solidarity
+Солідарність,Solidarity
 Сомалі,Somalia
-Сомма (департамент),Somme
-Сон (значення),Sleep
+Сомма,Somme
+Сон,Sleep
 Соната,Sonata
 Сонет,Sonnet
 Сонечка,Coccinellidae
@@ -4985,7 +4985,7 @@ ukrainian,english
 Соснові,Pinaceae
 Софокл,Sophocles
 Софтбол,Softball
-Софійський собор (Константинополь),Hagia Sophia
+Софійський собор,Hagia Sophia
 Софісти,Sophism
 Софія,Sofia
 Соціалізм,Socialism
@@ -4994,8 +4994,8 @@ ukrainian,english
 Сочевиця,Lentil
 Союз Радянських Соціалістичних Республік,Soviet Union
 Соя,Soybean
-Спадковий договір,Will (law)
-Спам,Spam (electronic)
+Спадковий договір,Will
+Спам,Spam
 Спарта,Sparta
 Спектроскопія,Spectroscopy
 Спелеологія,Speleology
@@ -5011,9 +5011,9 @@ ukrainian,english
 Сполучені Штати Америки,United States
 Сполучна тканина,Connective tissue
 Спорт,Sport
-Спрінгфілд (Іллінойс),Springfield
+Спрінгфілд,Springfield
 Співдружність Незалежних Держав,Commonwealth of Independent States
-Спін,Spin (physics)
+Спін,Spin
 Спіральна галактика,Spiral galaxy
 Срібло,Silver
 Ссавці,Mammal
@@ -5039,15 +5039,15 @@ ukrainian,english
 Степ,Steppe
 Стерадіан,Steradian
 Стефенсон Джордж,George Stephenson
-Стибій (хімічний елемент),Antimony
+Стибій,Antimony
 Стовбурові клітини,Stem cell
 Стокгольм,Stockholm
 Столиця,Capital
-Столова Гора (сузір'я),Mensa (constellation)
+Столова Гора,Mensa
 Столітня війна,Hundred Years' War
 Століття,Century
 Стоматологія,Dentistry
-Стопа (анатомія),Foot
+Стопа,Foot
 Стоунхендж,Stonehenge
 Стравохід,Esophagus
 Стравінський Ігор Федорович,Igor Stravinsky
@@ -5062,16 +5062,16 @@ ukrainian,english
 Стрейзанд Барбра,Barbra Streisand
 Стронцій,Strontium
 Структури даних,Data structure
-Стріла (сузір'я),Sagitta
-Стрілець (сузір'я),Sagittarius (constellation)
+Стріла,Sagitta
+Стрілець,Sagittarius
 Стрічковий хробак,Cestoda
 Студент,Student
 Стівен Спілберг,Steven Spielberg
 Стівенсон Роберт Люїс,Robert Louis Stevenson
-Стікс (міфологія),Styx
+Стікс,Styx
 Стілець,Chair
 Стінґ,Sting
-Сублімація (фізика),Sublimation (chemistry)
+Сублімація,Sublimation
 Субота,Saturday
 Сува,Suva
 Суверенітет,Sovereignty
@@ -5115,10 +5115,10 @@ ukrainian,english
 Сіккім,Sikkim
 Сікоку,Shikoku
 Сілезія,Silesia
-Сіль (хімія),Salt (chemistry)
-Сіль (хімія),Salt
+Сіль,Salt
+Сіль,Salt
 Сільське господарство,Agriculture
-Сіменс,Siemens (unit)
+Сіменс,Siemens
 Сімона де Бовуар,Simone de Beauvoir
 Сінатра Френк,Frank Sinatra
 Сінгапур,Singapore
@@ -5131,7 +5131,7 @@ ukrainian,english
 Сірники,Match
 Сіріус,Sirius
 Сісіф,Sisyphus
-Сітка (сузір'я),Reticulum
+Сітка,Reticulum
 Сітківка,Retina
 Січень,January
 Табмен Гаррієт,Harriet Tubman
@@ -5142,7 +5142,7 @@ ukrainian,english
 Таджикистан,Tajikistan
 Тайбей,Taipei
 Тайвань,Taiwan
-Тайм (журнал),Time (magazine)
+Тайм,Time
 Тайсон Майк,Mike Tyson
 Таксон,Taxon
 Таксономія,Taxonomy
@@ -5155,14 +5155,14 @@ ukrainian,english
 Танатос,Thanatos
 Танах,Tanakh
 Танганьїка,Lake Tanganyika
-Танго,Tango (dance)
+Танго,Tango
 Танець,Dance
 Танець живота,Belly dance
 Танжер,Tangier
 Танзанія,Tanzania
-Танк (військова справа),Tank
-Тантал (міф),Tantalus
-Тантал (хімічний елемент),Tantalum
+Танк,Tank
+Тантал,Tantalus
+Тантал,Tantalum
 Тапірові,Tapir
 Тарантіно Квентін,Quentin Tarantino
 Таргани,Cockroach
@@ -5172,7 +5172,7 @@ ukrainian,english
 Тасманове море,Tasman Sea
 Тасманія,Tasmania
 Татуювання,Tattoo
-Тау (літера),Tau
+Тау,Tau
 Ташкент,Tashkent
 Таїланд,Thailand
 Таїнство,Sacrament
@@ -5193,9 +5193,9 @@ ukrainian,english
 Телекомунікації,Telecommunication
 Телепатія,Telepathy
 Телескоп,Telescope
-Телескоп (сузір'я),Telescopium
+Телескоп,Telescopium
 Телефон,Telephone
-Телець (сузір'я),Taurus (constellation)
+Телець,Taurus
 Телур,Tellurium
 Тель-Авів,Tel Aviv
 Темза,River Thames
@@ -5203,7 +5203,7 @@ ukrainian,english
 Температура,Temperature
 Температура кипіння,Boiling point
 Температура плавлення,Melting point
-Теннессі (штат),Tennessee
+Теннессі,Tennessee
 Тенор,Tenor
 Тенцинґ Норгей,Tenzing Norgay
 Теніс,Tennis
@@ -5215,17 +5215,17 @@ ukrainian,english
 Теорія груп,Group theory
 Теорія ймовірностей,Probability theory
 Теорія множин,Set theory
-Теорія міри,Measure (mathematics)
+Теорія міри,Measure
 Теорія ігор,Game theory
 Теорія інформації,Information theory
 Теофраст Парацельс,Paracelsus
 Тепловий двигун,Heat engine
 Тербій,Terbium
-Терези (сузір'я),Libra (constellation)
+Терези,Libra
 Терешкова Валентина Володимирівна,Valentina Tereshkova
 Термодинаміка,Thermodynamics
 Термодинамічна ентропія,Entropy
-Термодинамічна фаза,Phase (matter)
+Термодинамічна фаза,Phase
 Термометр,Thermometer
 Тероризм,Terrorism
 Терористичний акт 11 вересня 2001 року,September 11
@@ -5233,21 +5233,21 @@ ukrainian,english
 Тертуліан,Tertullian
 Тертя,Friction
 Тесей,Theseus
-Тесла,Tesla (unit)
+Тесла,Tesla
 Тесла Нікола,Nikola Tesla
-Тета (літера),Theta
+Тета,Theta
 Тетрагідроканнабінол,Tetrahydrocannabinol
 Тетраедр,Tetrahedron
 Тетчер Маргарет,Margaret Thatcher
-Тетія,Tethys (mythology)
-Тефія (супутник),Tethys (moon)
+Тетія,Tethys
+Тефія,Tethys
 Техас,Texas
 Технецій,Technetium
 Техно,Techno
 Технологія,Technology
 Тиверій,Tiberius
 Тигр,Tiger
-Тигр (річка),Tigris
+Тигр,Tigris
 Тиждень,Week
 Тимур,Timur
 Тимін,Thymine
@@ -5257,22 +5257,22 @@ ukrainian,english
 Тиск,Pressure
 Тисячоліття,Millennium
 Тит Флавій,Titus
-Титан,Titan (disambiguation)
-Титан (супутник),Titan (moon)
-Титан (хімічний елемент),Titanium
-Титани,Titan (mythology)
-Титанік,Titanic (disambiguation)
+Титан,Titan
+Титан,Titan
+Титан,Titanium
+Титани,Titan
+Титанік,Titanic
 Тихий океан,Pacific Ocean
 Тихоходи,Tardigrade
-Тканина (біологія),Tissue (biology)
+Тканина,Tissue
 Товариство Ісуса,Society of Jesus
 Товарний знак,Trademark
 Того,Togo
-Токантінс (штат),Tocantins (state)
+Токантінс,Tocantins
 Токарна група верстатів,Lathe
 Токоферол,Tocopherol
 Токіо,Tokyo
-Томас Янг,Thomas Young (scientist)
+Томас Янг,Thomas Young
 Тонга,Tonga
 Тонкий кишечник,Small intestine
 Тонконогові,Poaceae
@@ -5283,7 +5283,7 @@ ukrainian,english
 Тополя,Poplar
 Топіка,Topeka
 Тор,Thor
-Тор (геометрія),Torus
+Тор,Torus
 Торгівля,Trade
 Торо Генрі Девід,Henry David Thoreau
 Торонто,Toronto
@@ -5297,11 +5297,11 @@ ukrainian,english
 Тот,Thoth
 Тоталітаризм,Totalitarianism
 Тофу,Tofu
-Точка,Point (geometry)
+Точка,Point
 Точка роси,Dew point
 Травень,May
 Травлення,Digestion
-Травлення (металообробка),Etching
+Травлення,Etching
 Травна система,Gastrointestinal tract
 Трагедія,Tragedy
 Традиція,Tradition
@@ -5316,22 +5316,22 @@ ukrainian,english
 Трентон,Trenton
 Третій Рейх,Nazi Germany
 Третій світ,Third World
-Тригер,Flip-flop (electronics)
+Тригер,Flip-flop
 Тригонометричні функції,Trigonometric function
 Тригонометрія,Trigonometry
 Тридцятирічна війна 1618—1648,Thirty Years' War
 Трикутник,Triangle
-Трикутник (сузір'я),Triangulum
+Трикутник,Triangulum
 Тринідад і Тобаго,Trinidad and Tobago
 Тринітротолуол,Trinitrotoluene
 Триптофан,Tryptophan
-Тритон (міфологія),Triton (mythology)
-Тритон (супутник),Triton (moon)
+Тритон,Triton
+Тритон,Triton
 Тритій,Tritium
 Трицератопс,Triceratops
 Тролейбус,Trolleybus
 Троль,Troll
-Тролінг,Troll (Internet)
+Тролінг,Troll
 Тромбон,Trombone
 Тромбоцити,Platelet
 Тронхейм,Trondheim
@@ -5341,25 +5341,25 @@ ukrainian,english
 Троянда,Rose
 Троянська війна,Trojan War
 Троянський кінь,Trojan Horse
-Труба (музика),Trumpet
-Трюфель,Tuber (genus)
+Труба,Trumpet
+Трюфель,Tuber
 Тріасовий період,Triassic
-Трійця (християнство),Trinity
+Трійця,Trinity
 Тріполі,Tripoli
 Туба,Tuba
 Туберкульоз,Tuberculosis
 Тувалу,Tuvalu
-Тукан (сузір'я),Tucana
+Тукан,Tucana
 Тулуза,Toulouse
 Тулій,Thulium
 Туман,Fog
 Тундра,Tundra
 Тунель,Tunnel
 Туніс,Tunisia
-Туніс (місто),Tunis
-Тур (місто),Tours
+Туніс,Tunis
+Тур,Tours
 Тур де Франс,Tour de France
-Тура (шахова фігура),Rook (chess)
+Тура,Rook
 Тургенєв Іван Сергійович,Ivan Turgenev
 Туреччина,Turkey
 Туризм,Tourism
@@ -5403,9 +5403,9 @@ ukrainian,english
 Уппсала,Uppsala
 Ур,Ur
 Урал,Ural Mountains
-Уран (міфологія),Uranus (mythology)
-Уран (планета),Uranus
-Уран (хімічний елемент),Uranium
+Уран,Uranus
+Уран,Uranus
+Уран,Uranium
 Уранія,Urania
 Урацил,Uracil
 Урду,Urdu
@@ -5413,7 +5413,7 @@ ukrainian,english
 Уряд,Government
 Утилітаризм,Utilitarianism
 Утопія,Utopia
-Утрехт,Utrecht (city)
+Утрехт,Utrecht
 Уфа,Ufa
 Фабрика,Factory
 Фагот,Bassoon
@@ -5430,7 +5430,7 @@ ukrainian,english
 Фармакологія,Pharmacology
 Фаст-фуд,Fast food
 Фашизм,Fascism
-Фаєрвол,Firewall (networking)
+Фаєрвол,Firewall
 Федеральне бюро розслідувань США,Federal Bureau of Investigation
 Федеративна держава,Federation
 Федеративні Штати Мікронезії,Federated States of Micronesia
@@ -5440,12 +5440,12 @@ ukrainian,english
 Фемістокл,Themistocles
 Фенол,Phenol
 Фенотип,Phenotype
-Фенрір (міфологія),Fenrir
+Фенрір,Fenrir
 Фентезі,Fantasy
 Фенхель,Fennel
-Фенікс,Phoenix (mythology)
-Фенікс (космічний апарат),Phoenix (spacecraft)
-Фенікс (сузір'я),Phoenix (constellation)
+Фенікс,Phoenix
+Фенікс,Phoenix
+Фенікс,Phoenix
 Фенілаланін,Phenylalanine
 Феодалізм,Feudalism
 Феодосій Великий,Theodosius I
@@ -5468,7 +5468,7 @@ ukrainian,english
 Флоренція,Florence
 Флорида,Florida
 Флюорит,Fluorite
-Фобос (супутник),Phobos (moon)
+Фобос,Phobos
 Фобії,Phobia
 Фовізм,Fauvism
 Фолклендські острови,Falkland Islands
@@ -5494,7 +5494,7 @@ ukrainian,english
 Франклін Бенджамін,Benjamin Franklin
 Франкфурт-на-Майні,Frankfurt
 Франсиско Пісарро,Francisco Pizarro
-Франц ІІ (імператор Священної Римської імперії),Francis II
+Франц ІІ,Francis II
 Франциск Ассізький,Francis of Assisi
 Францисканці,Franciscan
 Франциско Франко,Francisco Franco
@@ -5514,25 +5514,25 @@ ukrainian,english
 Фруктоза,Fructose
 Фрідман Мілтон,Milton Friedman
 Фрідріх I Барбаросса,Frederick I
-Фрідріх II (імператор Священної Римської імперії),Frederick II
+Фрідріх II,Frederick II
 Фрітаун,Freetown
 Фрітьйоф Нансен,Fridtjof Nansen
 Фріулі-Венеція-Джулія,Friuli-Venezia Giulia
 Фуга,Fugue
-Фудзі (гора),Mount Fuji
+Фудзі,Mount Fuji
 Фукідід,Thucydides
 Фукінг,Fucking
 Фуллер Річард Бакмінстер,Buckminster Fuller
 Фундаментальна частинка,Elementary particle
 Фундаментальні взаємодії,Fundamental interaction
-Функція (математика),Function (mathematics)
+Функція,Function
 Фунт стерлінгів,Pound sterling
 Фунікулер,Funicular
 Фур'є Шарль Франсуа Марі,Charles Fourier
-Фут,Foot (unit of length)
-Футбол,Football (soccer)
-Футуризм,Futurism (art)
-Фі (літера),Phi (letter)
+Фут,Foot
+Футбол,Football
+Футуризм,Futurism
+Фі,Phi
 Фігурне катання,Figure skating
 Фідель Кастро,Fidel Castro
 Фіджі,Fiji
@@ -5544,7 +5544,7 @@ ukrainian,english
 Філателія,Philately
 Філологія,Philology
 Філософія,Philosophy
-Філіп II (король Іспанії),Philip II of Spain
+Філіп II,Philip II of Spain
 Філіппіни,Philippines
 Філіппінське море,Philippine Sea
 Фінанси,Finance
@@ -5560,7 +5560,7 @@ ukrainian,english
 Хабаровськ,Khabarovsk
 Хаббл Едвін Пауелл,Edwin Hubble
 Хадис,Hadith
-Хайдарабад (місто в Індії),Hyderabad
+Хайдарабад,Hyderabad
 Хайку,Haiku
 Хайнлайн Роберт,Robert A. Heinlein
 Хайфа,Haifa
@@ -5569,16 +5569,16 @@ ukrainian,english
 Халеб,Aleppo
 Халцедон,Chalcedony
 Хамас,Hamas
-Хамелеон (сузір'я),Chamaeleon
+Хамелеон,Chamaeleon
 Хамурапі,Hammurabi
-Хан (титул),Khan
+Хан,Khan
 Ханой,Hanoi
 Ханука,Hanukkah
-Хаос (міфологія),Chaos (mythology)
+Хаос,Chaos
 Хараре,Harare
 Харків,Kharkiv
-Харон (міфологія),Charon (mythology)
-Харон (супутник),Charon (moon)
+Харон,Charon
+Харон,Charon
 Хартум,Khartoum
 Харчовий ланцюжок,Food chain
 Харчові добавки,Food additive
@@ -5593,11 +5593,11 @@ ukrainian,english
 Хвіст,Tail
 Хейзе Пауль,Paul Johann Ludwig von Heyse
 Хелловін,Halloween
-Хель,Hel (being)
+Хель,Hel
 Хемінгуей Ернест Міллер,Ernest Hemingway
 Херес-де-ла-Фронтера,Jerez de la Frontera
 Херувим,Cherub
-Химера,Chimera (mythology)
+Химера,Chimera
 Хлодвіг,Clovis I
 Хлор,Chlorine
 Хлорид натрію,Sodium chloride
@@ -5616,7 +5616,7 @@ ukrainian,english
 Холера,Cholera
 Холестерин,Cholesterol
 Холодна війна,Cold War
-Хор (колектив),Choir
+Хор,Choir
 Хорватія,Croatia
 Хордові,Chordate
 Храм Артеміди,Temple of Artemis
@@ -5635,7 +5635,7 @@ ukrainian,english
 Хуанхе,Yellow River
 Хубілай,Kublai Khan
 Художник,Artist
-Хі (літера),Chi (letter)
+Хі,Chi
 Хізбалла,Hezbollah
 Хіміотерапія,Chemotherapy
 Хімічна зброя,Chemical warfare
@@ -5654,39 +5654,39 @@ ukrainian,english
 Цар,Tsar
 Царська вода,Aqua regia
 Цвинтар,Cemetery
-Цвях,Nail (fastener)
+Цвях,Nail
 Цегла,Brick
 Цезій,Caesium
 Цельсій Андерс,Anders Celsius
 Целюлоза,Cellulose
 Целібат,Celibacy
-Цемент (будівельний матеріал),Cement
-Центавр (сузір'я),Centaurus
-Центр (регіон Франції),Centre
+Цемент,Cement
+Центавр,Centaurus
+Центр,Centre
 Центр інерції,Center of mass
 Центральна Америка,Central America
 Центральна Африка,Central Africa
 Центральна нервова система,Central nervous system
 Центральне розвідувальне управління,Central Intelligence Agency
 Центральний банк,Central bank
-Центральний парк (Нью-Йорк),Central Park
+Центральний парк,Central Park
 Центральний процесор,Central processing unit
 Центрально-Африканська Республіка,Central African Republic
 Центральні держави,Central Powers
 Цербер,Cerberus
-Церера (карликова планета),Ceres (dwarf planet)
+Церера,Ceres
 Церій,Cerium
-Цефей (сузір'я),Cepheus (constellation)
+Цефей,Cepheus
 Цех,Guild
 Цивілізація,Civilization
-Цивілізація (гра),Civilization (computer game)
+Цивілізація,Civilization
 Цикл трикарбонових кислот,Citric acid cycle
-Циклон (атмосферний вихор),Cyclone
-Циліндр,Cylinder (geometry)
+Циклон,Cyclone
+Циліндр,Cylinder
 Цинк,Zinc
 Цирконій,Zirconium
-Циркуль,Compass (drafting)
-Циркуль (сузір'я),Circinus
+Циркуль,Compass
+Циркуль,Circinus
 Цитозин,Cytosine
 Цитоплазма,Cytoplasm
 Цитрус,Citrus
@@ -5700,7 +5700,7 @@ ukrainian,english
 Ціцерон,Cicero
 Чавун,Cast iron
 Чад,Chad
-Чад (озеро),Lake Chad
+Чад,Lake Chad
 Чай,Tea
 Чапля,Heron
 Чаплін Чарлі,Charlie Chaplin
@@ -5710,8 +5710,8 @@ ukrainian,english
 Часник,Garlic
 Часовий пояс,Time zone
 Частота,Frequency
-Чаша (сузір'я),Crater (constellation)
-Чек (цінний папір),Cheque
+Чаша,Crater
+Чек,Cheque
 Челябінськ,Chelyabinsk
 Чемберлен Артур Невіл,Neville Chamberlain
 Ченнаї,Chennai
@@ -5720,7 +5720,7 @@ ukrainian,english
 Черви,Worm
 Червоне море,Red Sea
 Червоний зсув,Redshift
-Червоний зсув,Redshift (disambiguation)
+Червоний зсув,Redshift
 Червоний колір,Red
 Червоні кхмери,Khmer Rouge
 Черевоногі,Gastropoda
@@ -5739,9 +5739,9 @@ ukrainian,english
 Чикаго,Chicago
 Чиказький університет,University of Chicago
 Чилі,Chile
-Числа (книга),Book of Numbers
+Числа,Book of Numbers
 Число,Number
-Число e,E (mathematical constant)
+Число e,E
 Число Маха,Mach number
 Число пі,Pi
 Членистоногі,Arthropod
@@ -5761,15 +5761,15 @@ ukrainian,english
 Чума,Bubonic plague
 Чумацький Шлях,Milky Way
 Чунцін,Chongqing
-Чімборасо,Chimborazo (volcano)
-Шаблон:Fact,Fact
-Шаблон:Доробити,Stub
+Чімборасо,Chimborazo
+Fact,Fact
+Доробити,Stub
 Шагал Марк,Marc Chagall
 Шаманізм,Shamanism
-Шампанське,Champagne (wine)
+Шампанське,Champagne
 Шампань — Арденни,Champagne-Ardenne
 Шанхай,Shanghai
-Шарлот (Північна Кароліна),Charlotte
+Шарлот,Charlotte
 Шарль де Голль,Charles de Gaulle
 Шаріат,Sharia
 Шахада,Shahadah
@@ -5788,7 +5788,7 @@ ukrainian,english
 Шерлок Холмс,Sherlock Holmes
 Шива,Shiva
 Шизофренія,Schizophrenia
-Шина (ел.),Bus (computing)
+Шина,Bus
 Широта,Latitude
 Шкала Бофорта,Beaufort scale
 Школа,School
@@ -5803,7 +5803,7 @@ ukrainian,english
 Шоколад,Chocolate
 Шопенгауер Артур,Arthur Schopenhauer
 Шостакович Дмитро Дмитрович,Dmitri Shostakovich
-Шотландська (гельська) мова,Scottish Gaelic
+Шотландська  мова,Scottish Gaelic
 Шотландія,Scotland
 Шоу Бернард,George Bernard Shaw
 Шпигунські програмні продукти,Spyware
@@ -5831,28 +5831,28 @@ ukrainian,english
 Юдея,Judea
 Юдеї,Jew
 Юкава Хідекі,Hideki Yukawa
-Юкон (територія),Yukon
+Юкон,Yukon
 Юліанський календар,Julian calendar
-Юнона (міфологія),Juno (mythology)
+Юнона,Juno
 Юнґ Карл Ґустав,Carl Jung
-Юпітер,Jupiter (disambiguation)
-Юпітер (міфологія),Jupiter (mythology)
-Юпітер (планета),Jupiter
+Юпітер,Jupiter
+Юпітер,Jupiter
+Юпітер,Jupiter
 Юрський період,Jurassic
 Юстиніан I,Justinian I
 Юта,Utah
 Ютландія,Jutland
 Яблуня,Apple
-Ява (острів),Java
+Ява,Java
 Ягода,Berry
 Ягуар,Jaguar
 Ядерна зброя,Nuclear weapon
 Ядерна фізика,Nuclear physics
 Ядерний синтез,Nuclear fusion
-Ядро (комп'ютерні науки),Kernel (computer science)
+Ядро,Kernel
 Язик,Tongue
 Язичництво,Paganism
-Яйце,Egg (biology)
+Яйце,Egg
 Яйцеклітина,Ovum
 Якудза,Yakuza
 Яків син Ісаака,Jacob
@@ -5864,11 +5864,11 @@ ukrainian,english
 Ямайка,Jamaica
 Ян Гус,Jan Hus
 Яничари,Janissary
-Янус (міфологія),Janus (mythology)
-Янус (супутник),Janus (moon)
+Янус,Janus
+Янус,Janus
 Янцзи,Yangtze River
-Япет (міфологія),Iapetus (mythology)
-Япет (супутник),Iapetus (moon)
+Япет,Iapetus
+Япет,Iapetus
 Японське море,Sea of Japan
 Японія,Japan
 Ярд,Yard
@@ -5878,7 +5878,7 @@ ukrainian,english
 Яструбові,Accipitridae
 Ясір Арафат,Yasser Arafat
 Ячмінь,Barley
-Ящірка (сузір'я),Lacerta
+Ящірка,Lacerta
 Ящірки,Lizard
 Яєчник,Ovary
 полковник,Colonel

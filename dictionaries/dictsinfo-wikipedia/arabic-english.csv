@@ -1,36 +1,36 @@
 Other,English
-0 (عدد),0 (number)
+0,0
 1,1
-1 (عدد),1 (number)
+1,1
 1 أغسطس,August 1
 1 مايو,May 1
 1 نوفمبر,November 1
 1 يناير,January 1
 1 يوليو,July 1
 10,10
-10 (عدد),10 (number)
+10,10
 100,100
 1000,1000
 101,101
 105,105
 11,11
-11 (عدد),11 (number)
+11,11
 11 سبتمبر,September 11
 11 نوفمبر,November 11
 110,110
 115,115
 12,12
-12 (عدد),12 (number)
+12,12
 12 أكتوبر,October 12
 12 فبراير,February 12
 120,120
 125,125
 13,13
-13 (عدد),13 (number)
+13,13
 130,130
 135,135
 14,14
-14 (عدد),14 (number)
+14,14
 14 أبريل,April 14
 14 فبراير,February 14
 14 يونيو,June 14
@@ -38,89 +38,89 @@ Other,English
 144,144
 145,145
 15,15
-15 (عدد),15 (number)
+15,15
 15 أغسطس,August 15
 150,150
 155,155
 16,16
-16 (عدد),16 (number)
+16,16
 160,160
 165,165
 17,17
-17 (عدد),17 (number)
+17,17
 17 سبتمبر,September 17
 17 مارس,March 17
 170,170
 1728,1728
 175,175
 18,18
-18 (عدد),18 (number)
+18,18
 180,180
 19,19
-19 (عدد),19 (number)
+19,19
 19 مارس,March 19
 19 يناير,January 19
 190,190
 2,2
-2 (عدد),2 (number)
+2,2
 2 فبراير,February 2
 2 مارس,March 2
 2 نوفمبر,November 2
 20,20
-20 (عدد),20 (number)
+20,20
 20 يناير,January 20
 200,200
 21,21
-21 (عدد),21 (number)
+21,21
 21 يونيو,June 21
 22,22
-22 (عدد),22 (number)
+22,22
 22 فبراير,February 22
 23,23
-23 (عدد),23 (number)
+23,23
 23 يونيو,June 23
 24,24
-24 (عدد),24 (number)
-24 (مسلسل أمريكي),24 (TV series)
+24,24
+24,24
 24 أكتوبر,October 24
 24 مايو,May 24
 24 يونيو,June 24
 25,25
-25 (عدد),25 (number)
+25,25
 25 مارس,March 25
 26,26
-26 (عدد),26 (number)
+26,26
 27,27
-27 (عدد),27 (number)
+27,27
 28,28
-28 (عدد),28 (number)
+28,28
 29,29
-29 (عدد),29 (number)
+29,29
 29 سبتمبر,September 29
 29 فبراير,February 29
 29 يونيو,June 29
 3,3
-3 (عدد),3 (number)
+3,3
 3 يونيو,June 3
 30,30
-30 (عدد),30 (number)
+30,30
 300,300
 31,31
-31 (عدد),31 (number)
+31,31
 31 ديسمبر,December 31
 32,32
-32 (عدد),32 (number)
+32,32
 33,33
-33 (عدد),33 (number)
+33,33
 34,34
-34 (عدد),34 (number)
+34,34
 35,35
 36,36
 37,37
 38,38
 39,39
 4,4
-4 (عدد),4 (number)
+4,4
 4 يوليو,July 4
 40,40
 400,400
@@ -134,7 +134,7 @@ Other,English
 48,48
 49,49
 5,5
-5 (عدد),5 (number)
+5,5
 5 نوفمبر,November 5
 50,50
 500,500
@@ -148,7 +148,7 @@ Other,English
 58,58
 59,59
 6,6
-6 (عدد),6 (number)
+6,6
 6 أغسطس,August 6
 6 يناير,January 6
 60,60
@@ -162,7 +162,7 @@ Other,English
 68,68
 69,69
 7,7
-7 (عدد),7 (number)
+7,7
 70,70
 71,71
 72,72
@@ -174,7 +174,7 @@ Other,English
 78,78
 79,79
 8,8
-8 (عدد),8 (number)
+8,8
 8 ديسمبر,December 8
 80,80
 81,81
@@ -187,7 +187,7 @@ Other,English
 88,88
 89,89
 9,9
-9 (عدد),9 (number)
+9,9
 90,90
 91,91
 92,92
@@ -201,7 +201,7 @@ Other,English
 A,A
 B,B
 C,C
-CD,CD (disambiguation)
+CD,CD
 D,D
 E,E
 F,F
@@ -248,7 +248,7 @@ arabic,english
 آزتك,Aztec
 آسكي,American Standard Code for Information Interchange
 آسيا,Asia
-آشور (مملكة),Assyria
+آشور,Assyria
 آشوربانيبال,Ashurbanipal
 آغار,Agar
 آكلات الحشرات,Insectivora
@@ -275,7 +275,7 @@ arabic,english
 آيسلندا الشمالية,North Island
 آين راند,Ayn Rand
 آيوا,Iowa
-أباتشي (قبيلة),Apache
+أباتشي,Apache
 أباكوس,Abacus
 أبجدية,Alphabet
 أبجدية إغريقية,Greek alphabet
@@ -291,29 +291,29 @@ arabic,english
 أبسالا,Uppsala
 أبقراط,Hippocrates
 أبكتاتوس,Epictetus
-أبهر (شريان),Aorta
+أبهر,Aorta
 أبو الهول,Sphinx
 أبو قردان,Cattle Egret
 أبوجا,Abuja
 أبوكريفا,Apocrypha
-أبولو,Apollo (disambiguation)
-أبولو (إله إغريقي),Apollo
+أبولو,Apollo
+أبولو,Apollo
 أبولو رودس,Colossus of Rhodes
 أبيجان,Abidjan
 أتلانتا، جورجيا,Atlanta
-أتيكا (إقليم),Attica
+أتيكا,Attica
 أتيلا الهوني,Attila the Hun
 أثاث,Furniture
 أثر الفراشة,Butterfly effect
 أثينا,Athens
 أجاثا كريستي,Agatha Christie
-أجاكس,Ajax (programming)
-أجاكس (ميثولوجيا),Ajax (mythology)
+أجاكس,Ajax
+أجاكس,Ajax
 أجاممنون,Agamemnon
 أجورا,Agora
 أحاديات المسلك,Monotreme
 أحجار كريمة,Gemstone
-أحد (يوم),Sunday
+أحد,Sunday
 أحداث 11 سبتمبر 2001,September 11
 أحمد سوكارنو,Sukarno
 أحمر,Red
@@ -321,7 +321,7 @@ arabic,english
 أخطبوط,Octopus
 أخلاق,Ethics
 أخلاقيات,Morality
-أدا,Ada (programming language)
+أدا,Ada
 أدب,Literature
 أدرنة,Edirne
 أدرينالين,Epinephrine
@@ -342,13 +342,13 @@ arabic,english
 أرثوذوكسية شرقية,Eastern Orthodox Church
 أرخبيل,Archipelago
 أرخميدس,Archimedes
-أرز (شجرة),Cedar
-أرز (نبات),Rice
+أرز,Cedar
+أرز,Rice
 أرستقراطية,Aristocracy
 أرسطو,Aristotle
 أرض,Earth
 أرض النار,Tierra del Fuego
-أرغون (عنصر),Argon
+أرغون,Argon
 أركاديا,Arcadia
 أركانجلو كوريلي,Arcangelo Corelli
 أركتيك,Arctic
@@ -380,7 +380,7 @@ arabic,english
 أسد,Lion
 أسرة مينج,Ming Dynasty
 أسطرلاب,Astrolabe
-أسطوانة (هندسة رياضية),Cylinder (geometry)
+أسطوانة,Cylinder
 أسطورة,Myth
 أسقف,Bishop
 أسقليبيوس,Asclepius
@@ -400,21 +400,21 @@ arabic,english
 أشعة مقطعية,Computed tomography
 أشكال الشبوطيات,Cypriniformes
 أشنيات,Algae
-أصفهان (مدينة),Esfahan
+أصفهان,Esfahan
 أصولية,Fundamentalism
 أضنة,Adana
-أطلس,Atlas (mythology)
+أطلس,Atlas
 أطلنتس,Atlantis
 أطوم,Dugong
 أعداد حقيقية,Real number
 أعداد غير منطقة,Irrational number
-أعداد فردية وزوجية,Parity (mathematics)
+أعداد فردية وزوجية,Parity
 أعسر,Left-handed
 أغريجنتو,Agrigento
 أغسطس,August
 أغسطس قيصر,Augustus
 أغنية,Song
-أغنية فردية,Single (music)
+أغنية فردية,Single
 أفروديت,Aphrodite
 أفريقيا,Africa
 أفسس,Ephesus
@@ -427,7 +427,7 @@ arabic,english
 أكتينيوم,Actinium
 أكرا,Accra
 أكروبوليس,Acropolis
-أكري,Acre (state)
+أكري,Acre
 أكسجين,Oxygen
 أكسفورد,Oxford
 أكسيد,Oxide
@@ -457,15 +457,15 @@ arabic,english
 ألعاب أولمبية,Olympic Games
 ألعاب أولمبية شتوية,Winter Olympic Games
 ألعاب فيديو,Video game
-ألعاب قوى,Athletics (track and field)
-ألفا (حرف إغريقي),Alpha (letter)
+ألعاب قوى,Athletics
+ألفا,Alpha
 ألفار آلتو,Alvar Aalto
 ألفريد نوبل,Alfred Nobel
 ألفريد هتشكوك,Alfred Hitchcock
 ألفية,Millennium
 ألكان,Alkane
 ألكاين,Alkyne
-ألكسندر السادس (بابا),Pope Alexander VI
+ألكسندر السادس,Pope Alexander VI
 ألكسندر بوشكين,Alexander Pushkin
 ألكسندر دوما,Alexandre Dumas
 ألكسندر سولجنيتسين,Aleksandr Solzhenitsyn
@@ -484,7 +484,7 @@ arabic,english
 أليك جينيز,Alec Guinness
 أم,Mother
 أماتيراسو,Amaterasu
-أمازون (نهر),Amazon River
+أمازون,Amazon River
 أمبير,Ampere
 أمرسون,Ralph Waldo Emerson
 أمريكا الجنوبية,South America
@@ -510,7 +510,7 @@ arabic,english
 أناناس,Pineapple
 أنتاركتيكا,Antarctica
 أنتاناناريفو,Antananarivo
-أنتفيرب (مقاطعة),Antwerp (province)
+أنتفيرب,Antwerp
 أنتولوجيا,Ontology
 أنتوني هوبكنز,Anthony Hopkins
 أنتويرب,Antwerp
@@ -545,9 +545,9 @@ arabic,english
 أنون كواديوم,Ununquadium
 أنون هيكسيوم,Ununhexium
 أهل السنة والجماعة,Sunni Islam
-أوبرا (حزمة برامج إنترنت),Opera (Internet suite)
-أوبرا (موسيقى),Opera
-أوبسيلون (حرف إغريقي),Upsilon
+أوبرا,Opera
+أوبرا,Opera
+أوبسيلون,Upsilon
 أوبك,OPEC
 أوبل,Opel
 أوتارانتشال,Uttar Pradesh
@@ -558,18 +558,18 @@ arabic,english
 أوجست رودان,Auguste Rodin
 أوجين أونيل,Eugene O'Neill
 أودن,Odin
-أوديسا (أوكرانيا),Odessa
+أوديسا,Odessa
 أوديسة,Odyssey
 أور,Ur
 أوراتوريو,Oratorio
 أوراسيا,Eurasia
 أورانوس,Uranus
-أورانوس (ميثولوجيا),Uranus (mythology)
+أورانوس,Uranus
 أورانيا,Urania
 أوركسترا,Orchestra
 أورلاندو، فلوريدا,Orlando
 أوروبا,Europe
-أوروبا (قمر),Europa (moon)
+أوروبا,Europa
 أوروبا الشمالية,Northern Europe
 أوروجواي,Uruguay
 أوريجانوس,Origen
@@ -609,13 +609,13 @@ arabic,english
 أوليس,Odysseus
 أوليفر ستون,Oliver Stone
 أوليفر كرومويل,Oliver Cromwell
-أوليمبيا (مدينة),Olympia
+أوليمبيا,Olympia
 أوم,Ohm
 أوماها، نبراسكا,Omaha
 أومبريا,Umbria
 أومسك,Omsk
-أوميغا (حرف إغريقي),Omega
-أوميكرون (حرف إغريقي),Omicron
+أوميغا,Omega
+أوميكرون,Omicron
 أونتاريو,Ontario
 أوهايو,Ohio
 أيداهو,Idaho
@@ -634,9 +634,9 @@ arabic,english
 إبادة جماعية,Genocide
 إبر صينية,Acupuncture
 إبراهيم,Abraham
-إبسيلون (حرف إغريقي),Epsilon
+إبسيلون,Epsilon
 إبهام,Thumb
-إبيروس (إقليم),Epirus (periphery)
+إبيروس,Epirus
 إتريوم,Yttrium
 إتيربيوم,Ytterbium
 إثمد,Antimony
@@ -671,8 +671,8 @@ arabic,english
 إرنستو تشي جيفارا,Che Guevara
 إرهاب,Terrorism
 إريديوم,Iridium
-إريس,Eris (dwarf planet)
-إريس (ميثولوجيا),Eris (mythology)
+إريس,Eris
+إريس,Eris
 إزدواجية الميول الجنسية,Bisexuality
 إس أو إس,SOS
 إساك سنجر,Isaac Bashevis Singer
@@ -691,7 +691,7 @@ arabic,english
 إسكتلندا,Scotland
 إسكس,Essex
 إسكندنافيا,Scandinavia
-إسكواش,Squash (sport)
+إسكواش,Squash
 إسلام,Islam
 إسلام أباد,Islamabad
 إسماعيل,Ishmael
@@ -711,7 +711,7 @@ arabic,english
 إقريطش,Crete
 إقطاعية,Feudalism
 إقليدس,Euclid
-إكليبس,Eclipse (software)
+إكليبس,Eclipse
 إكوادور,Ecuador
 إل باسو، تكساس,El Paso
 إل غريكو,El Greco
@@ -727,7 +727,7 @@ arabic,english
 إليانور روزفلت,Eleanor Roosevelt
 إليزابيث تايلور,Elizabeth Taylor
 إلينوي,Illinois
-إمارة أبوظبي,Abu Dhabi (emirate)
+إمارة أبوظبي,Abu Dhabi
 إمارة دبي,Dubai
 إمام,Imam
 إمبراطور,Emperor
@@ -744,7 +744,7 @@ arabic,english
 إنترلينغوا,Interlingua
 إنترنت,Internet
 إنترنت إكسبلورر,Internet Explorer
-إنتروبية (تحريك حراري),Entropy
+إنتروبية,Entropy
 إنجلترا,England
 إنجيل لوقا,Gospel of Luke
 إنحراف معياري,Standard deviation
@@ -765,7 +765,7 @@ arabic,english
 إنغمار برغمان,Ingmar Bergman
 إنكشارية,Janissary
 إوز عراقي,Swan
-إي (ثابت رياضي),E (mathematical constant)
+إي,E
 إيان فليمنج,Ian Fleming
 إيبولا,Ebola
 إيتا,ETA
@@ -779,7 +779,7 @@ arabic,english
 إيران,Iran
 إيرباص,Airbus
 إيرفن رومل,Erwin Rommel
-إيروس,Eros (mythology)
+إيروس,Eros
 إيزيس,Isis
 إيسوروكو ياماموتو,Isoroku Yamamoto
 إيطاليا,Italy
@@ -798,10 +798,10 @@ arabic,english
 اباتيت,Apatite
 ابن رشد,Averroes
 ابن سينا,Avicenna
-ابن عرس (فصيلة),Mustelidae
+ابن عرس,Mustelidae
 ابيضاض الدم,Leukemia
 ابيغرافيا,Epigraphy
-اتا (حرف إغريقي),Eta (letter)
+اتا,Eta
 اتحاد الدول المستقلة,Commonwealth of Independent States
 اتحاد دول جنوب شرق آسيا,Association of Southeast Asian Nations
 اتصال,Communication
@@ -828,7 +828,7 @@ arabic,english
 استنساخ,Cloning
 اسم,Noun
 اشتراكية,Socialism
-اشتقاق (رياضيات),Derivative
+اشتقاق,Derivative
 اصطفاء طبيعي,Natural selection
 اغتصاب,Rape
 اغتيال,Assassination
@@ -847,7 +847,7 @@ arabic,english
 الأقصر,Luxor
 الأم تريزا,Mother Teresa
 الأمم المتحدة,United Nations
-الأمير إدوارد (جزيرة),Prince Edward Island
+الأمير إدوارد,Prince Edward Island
 الأمير تشارلز,Charles
 الأمير فيليب,Prince Philip
 الأنجليكانية,Church of England
@@ -876,7 +876,7 @@ arabic,english
 البرتغال,Portugal
 البرنامج الثابت,Firmware
 البصرة,Basra
-البطولات الكبرى لكرة المضرب,Grand Slam (tennis)
+البطولات الكبرى لكرة المضرب,Grand Slam
 البلقان,Balkans
 البندقية,Venice
 البوسنة والهرسك,Bosnia and Herzegovina
@@ -890,15 +890,15 @@ arabic,english
 التيبر,Tiber
 الثالوث الأقدس,Trinity
 الثورة الفرنسية,French Revolution
-الجاثي (كوكبة),Hercules (constellation)
+الجاثي,Hercules
 الجبل الأسود,Montenegro
 الجزائر,Algeria
-الجزائر (مدينة),Algiers
+الجزائر,Algiers
 الجزر العذراء,Virgin Islands
 الجزر العذراء الأمريكية,United States Virgin Islands
 الجزر العذراء البريطانية,British Virgin Islands
 الجزيرة الأيرلندية,Ireland
-الجليل (فلسطين),Galilee
+الجليل,Galilee
 الجمرة الخبيثة,Anthrax
 الجمعة,Friday
 الجمهورية العربية المتحدة,United Arab Republic
@@ -908,20 +908,20 @@ arabic,english
 الحرب البيلوبونيسية,Peloponnesian War
 الحرب الروسية-اليابانية,Russo-Japanese War
 الحروب النابليونية,Napoleonic Wars
-الحزب الاشتراكي (فرنسا),Socialist Party (France)
-الحزب الجمهوري (أمريكا),Republican Party (United States)
-الحزب الديموقراطي (أمريكا),Democratic Party (United States)
+الحزب الاشتراكي,Socialist Party
+الحزب الجمهوري,Republican Party
+الحزب الديموقراطي,Democratic Party
 الحزب النازي,Nazi Party
 الحملة الصليبية الأولى,First Crusade
 الخرطوم,Khartoum
 الخليج العربي,Persian Gulf
 الخمير الحمر,Khmer Rouge
-الخوف (قمر),Phobos (moon)
+الخوف,Phobos
 الدار البيضاء,Casablanca
 الدالاي لاما,Dalai Lama
 الدانمارك,Denmark
 الدبران,Aldebaran
-الدجاجة (كوكبة),Cygnus (constellation)
+الدجاجة,Cygnus
 الدردنيل,Dardanelles
 الدوحة,Doha
 الذرة البيضاء,Sorghum
@@ -953,7 +953,7 @@ arabic,english
 الصلاة الربيّة,Lord's Prayer
 الصوم الكبير,Lent
 الصومال,Somalia
-الصين (منطقة),China
+الصين,China
 الضفة الغربية,West Bank
 الطاقة الحركية,Kinetic energy
 الطّيف الكهرومغناطيسي,Electromagnetic spectrum
@@ -961,7 +961,7 @@ arabic,english
 العالم الجديد,New World
 العراق,Iraq
 العقبة,Aqaba
-العقيق (حجر),Opal
+العقيق,Opal
 العلاقات العامة,Public relations
 العلم ذو النجوم المتلألئة,The Star-Spangled Banner
 الغابة السوداء,Black Forest
@@ -971,17 +971,17 @@ arabic,english
 الفاتيكان,Vatican City
 الفرات,Euphrates
 الفلبين,Philippines
-القاعدة (منظمة),Al-Qaeda
+القاعدة,Al-Qaeda
 القانون الروماني,Roman law
 القاهرة,Cairo
 القدس,Jerusalem
-القرم (شبه جزيرة),Crimea
+القرم,Crimea
 القسطنطينية,Constantinople
 القناة الإنجليزية,English Channel
 القنطوري الألفا,Alpha Centauri
 القنفذ,Hedgehog
 القوقاز,Caucasus Mountains
-القيثارة (كوكبة),Lyra
+القيثارة,Lyra
 الكاريبي,Caribbean
 الكاميرون,Cameroon
 الكتاب المقدس,Bible
@@ -993,7 +993,7 @@ arabic,english
 الكونغرس الأمريكي,United States Congress
 الكويت,Kuwait
 الله,God
-الله (إسلام),Allah
+الله,Allah
 الماشيح,Messiah
 المجتمع الملكي,Royal Society
 المجر,Hungary
@@ -1003,8 +1003,8 @@ arabic,english
 المد والجزر,Tide
 المدينة المحرمة,Forbidden City
 المدينة المنورة,Medina
-المرأة المسلسلة (كوكبة),Andromeda (constellation)
-المرأة المسلسلة (مجرة),Andromeda Galaxy
+المرأة المسلسلة,Andromeda
+المرأة المسلسلة,Andromeda Galaxy
 المسحورات,Charmed
 المسيح الدجال,Antichrist
 المطلع المستقيم,Right ascension
@@ -1027,7 +1027,7 @@ arabic,english
 النرويج,Norway
 النسر الواقع,Vega
 النظير,Nadir
-النعجة دولي,Dolly (sheep)
+النعجة دولي,Dolly
 النمسا,Austria
 النهر الأصفر,Yellow River
 النيجر,Niger
@@ -1051,13 +1051,13 @@ arabic,english
 انطباعية,Impressionism
 انفجار,Explosion
 انقراض,Extinction
-انكسار (فيزياء),Refraction
+انكسار,Refraction
 انهيار جليدي,Avalanche
 ايكهارت,Meister Eckhart
-ايوتا (حرف إغريقي),Iota
+ايوتا,Iota
 باب,Door
 بابا نويل,Santa Claus
-بابل (مدينة),Babylon
+بابل,Babylon
 بابلو نيرودا,Pablo Neruda
 بابوا غينيا الجديدة,Papua New Guinea
 بابون,Baboon
@@ -1071,7 +1071,7 @@ arabic,english
 بادوفا,Padua
 باذنجان,Eggplant
 باذنجانية,Solanaceae
-بار,Bar (unit)
+بار,Bar
 بارادايم,Paradigm
 باراسيكولوجيا,Parapsychology
 باراشوت,Parachute
@@ -1094,11 +1094,11 @@ arabic,english
 بازلت,Basalt
 بازيليكاتا,Basilicata
 باسكال,Pascal
-باسكال (برمجة),Pascal (programming language)
+باسكال,Pascal
 باش,Bash
 باغانية,Paganism
 بافاريا,Bavaria
-بافين (جزيرة),Baffin Island
+بافين,Baffin Island
 باكستان,Pakistan
 باكو,Baku
 بالاديوم,Palladium
@@ -1117,10 +1117,10 @@ arabic,english
 بانك,Punk rock
 بانكوك,Bangkok
 باوهاوس,Bauhaus
-باي (حرف إغريقي),Pi (letter)
-باي (رياضيات),Pi
+باي,Pi
+باي,Pi
 بايت,Byte
-بايثون,Python (programming language)
+بايثون,Python
 ببر,Tiger
 ببغاء,Parrot
 ببليوجرافيا,Bibliography
@@ -1147,7 +1147,7 @@ arabic,english
 بحر مرمرة,Sea of Marmara
 بحر ميت,Dead Sea
 بحرية أمريكية,United States Navy
-بحيرات عظمى (أمريكا الشمالية),Great Lakes
+بحيرات عظمى,Great Lakes
 بحيرة,Lake
 بحيرة بايكال,Lake Baikal
 بحيرة تشاد الكبرى,Lake Chad
@@ -1160,7 +1160,7 @@ arabic,english
 بخار,Steam
 بختنصر,Nebuchadrezzar II
 بدائيات النوى,Prokaryote
-بدجن,Pidgin (software)
+بدجن,Pidgin
 بدو,Bedouin
 بديهية,Axiom
 بذرة,Seed
@@ -1180,20 +1180,20 @@ arabic,english
 برايا,Praia
 برايتون,Brighton
 بربادوس,Barbados
-برتقال,Orange (fruit)
+برتقال,Orange
 برتولت بريشت,Bertolt Brecht
-برج (عمارة),Tower
+برج,Tower
 برج إيفل,Eiffel Tower
 برج الجدي,Capricornus
-برج الرامي (فلك),Sagittarius (constellation)
+برج الرامي,Sagittarius
 برج العقرب,Scorpius
 برج بابل,Tower of Babel
 برج بيزا المائل,Leaning Tower of Pisa
 برج سيرز,Sears Tower
 برجن,Bergen
 برجوازية,Bourgeoisie
-برد (هطول),Hail
-برزخ (جغرافيا),Isthmus
+برد,Hail
+برزخ,Isthmus
 برسيم,Clover
 برشلونة,Barcelona
 برغوث,Flea
@@ -1210,7 +1210,7 @@ arabic,english
 برمجة شيئية,Object-oriented programming
 برمجيات,Computer software
 برمنغهام، ألاباما,Birmingham
-برميل (نفط),Barrel (unit)
+برميل,Barrel
 برن,Berne
 برنامج أبولو,Apollo program
 برنامج جنو لمعالجة الصور,GIMP
@@ -1224,7 +1224,7 @@ arabic,english
 بروتون,Proton
 بروتين,Protein
 بروج,Bruges
-برودواي,Broadway (New York City)
+برودواي,Broadway
 بروس لي,Bruce Lee
 بروستاتا,Prostate
 بروسترويكا,Perestroika
@@ -1242,25 +1242,25 @@ arabic,english
 بريتوريا,Pretoria
 بريد إلكتروني,E-mail
 بريد عادي,Mail
-بريد مزعج,Spam (electronic)
+بريد مزعج,Spam
 بريدج تاون,Bridgetown
 بريزبين,Brisbane
 بريستول,Bristol
 بريشا,Brescia
-بريطانيا (فرنسا),Bretagne
+بريطانيا,Bretagne
 بريطانيا العظمى,Great Britain
 بريكشير,Berkshire
 برينديزي,Brindisi
 بريون,Prion
 بزموت,Bismuth
-بساي (حرف إغريقي),Psi (letter)
+بساي,Psi
 بسمارك، داكوتا الشمالية,Bismarck
 بشكيك,Bishkek
 بصريات,Optics
 بصل,Onion
 بصمة الأصبع,Fingerprint
 بط,Duck
-بطارية كهربائية,Battery (electricity)
+بطارية كهربائية,Battery
 بطاطا حلوة,Sweet potato
 بطاطس,Potato
 بطالة,Unemployment
@@ -1291,14 +1291,14 @@ arabic,english
 بلاتين,Platinum
 بلاد الرافدين,Mesopotamia
 بلاد الشام,Levant
-بلازما (فيزياء),Plasma (physics)
+بلازما,Plasma
 بلازما الدم,Blood plasma
 بلازميد,Plasmid
 بلانكتون,Plankton
 بلاي بوي,Playboy
 بلبل,Nightingale
 بلجيكا,Belgium
-بلد (مصطلح),Country
+بلد,Country
 بلدة,Town
 بلدية,Municipality
 بلشفية,Bolshevik
@@ -1322,7 +1322,7 @@ arabic,english
 بنجامين فرانكلين,Benjamin Franklin
 بنجامين هاريسون,Benjamin Harrison
 بندول,Pendulum
-بنزين (وقود),Gasoline
+بنزين,Gasoline
 بنسلين,Penicillin
 بنسيلفانيا,Pennsylvania
 بنغازي,Benghazi
@@ -1340,26 +1340,26 @@ arabic,english
 بنيوية,Structuralism
 بو,Po River
 بوابة منطقية,Logic gate
-بوابة:أدب,Literature
-بوابة:أعلام,Biography
-بوابة:الفلسفة,Philosophy
-بوابة:تاريخ,History
-بوابة:جغرافيا,Geography
-بوابة:رياضيات,Mathematics
-بوابة:سينما,Film
-بوابة:علم الأحياء,Biology
-بوابة:علم الفلك,Astronomy
-بوابة:فيزياء,Physics
-بوابة:كيمياء,Chemistry
+أدب,Literature
+أعلام,Biography
+الفلسفة,Philosophy
+تاريخ,History
+جغرافيا,Geography
+رياضيات,Mathematics
+سينما,Film
+علم الأحياء,Biology
+علم الفلك,Astronomy
+فيزياء,Physics
+كيمياء,Chemistry
 بواتييه,Poitiers
 بواسير,Hemorrhoid
-بوب (نوع موسيقي),Pop music
+بوب,Pop music
 بوب ديلان,Bob Dylan
 بوب مارلي,Bob Marley
 بوبي فيشر,Bobby Fischer
 بوتاسيوم,Potassium
 بوتان,Bhutan
-بوتان (كيمياء),Butane
+بوتان,Butane
 بوتسدام,Potsdam
 بوتيتشيلي,Sandro Botticelli
 بوجمبورا,Bujumbura
@@ -1374,7 +1374,7 @@ arabic,english
 بورتو,Porto
 بورتو ريكو,Puerto Rico
 بوردو,Bordeaux
-بورصة (مدينة),Bursa
+بورصة,Bursa
 بورصة نازداك,NASDAQ
 بورصة نيويورك,New York Stock Exchange
 بورغونيا,Bourgogne
@@ -1402,7 +1402,7 @@ arabic,english
 بولندا,Poland
 بولنيسيا,Polynesia
 بولو,Polo
-بولونيا (مدينة),Bologna
+بولونيا,Bologna
 بولونيوم,Polonium
 بولي إثيلين,Polyethylene
 بولي فينيل كلوريد,Polyvinyl chloride
@@ -1414,7 +1414,7 @@ arabic,english
 بوليهيمنيا,Polyhymnia
 بوليوود,Bollywood
 بومبي,Pompeii
-بومبي (قائد روماني),Pompey
+بومبي,Pompey
 بومة,Owl
 بون,Bonn
 بونساي,Bonsai
@@ -1430,14 +1430,14 @@ arabic,english
 بيبين القصير,Pepin the Short
 بيت ديفيس,Bette Davis
 بيت لحم,Bethlehem
-بيتا (حرف إغريقي),Beta (letter)
+بيتا,Beta
 بيتر بول روبنز,Peter Paul Rubens
 بيتر زيمن,Pieter Zeeman
 بيتزا,Pizza
 بيتسبرغ، بنسيلفانيا,Pittsburgh
 بيج بن,Clock Tower
 بيجاسوس,Pegasus
-بيرة (مشروب كحولي),Beer
+بيرة,Beer
 بيرتراند راسل,Bertrand Russell
 بيرث,Perth
 بيرسيفون,Persephone
@@ -1452,7 +1452,7 @@ arabic,english
 بيسبول,Baseball
 بيسيات,Piciformes
 بيسيك,BASIC
-بيضة (أحياء),Egg (biology)
+بيضة,Egg
 بيفرلي هيلز، كاليفورنيا,Beverly Hills
 بيكاسو,Pablo Picasso
 بيكربونات صوديوم,Sodium bicarbonate
@@ -1486,12 +1486,12 @@ arabic,english
 تاميل نادو,Tamil Nadu
 تانتالوم,Tantalum
 تاهيتي,Tahiti
-تاو (حرف إغريقي),Tau
+تاو,Tau
 تايبيه,Taipei
-تايتان (قمر),Titan (moon)
+تايتان,Titan
 تايكواندو,Taekwondo
 تايلاند,Thailand
-تايم (مجلة),Time (magazine)
+تايم,Time
 تايوان,Taiwan
 تباين,Variance
 تبت,Tibet
@@ -1526,7 +1526,7 @@ arabic,english
 تركيا,Turkey
 ترنتون، نيوجيرزي,Trenton
 تروبوسفير,Troposphere
-تريتون,Triton (mythology)
+تريتون,Triton
 تريتيوم,Tritium
 تريسراتبس,Triceratops
 تريغفي لي,Trygve Lie
@@ -1535,10 +1535,10 @@ arabic,english
 ترينيداد وتوباغو,Trinidad and Tobago
 تزيح,Parallax
 تسارع,Acceleration
-تسامي,Sublimation (chemistry)
+تسامي,Sublimation
 تستوستيرون,Testosterone
-تسلا,Tesla (unit)
-تسلل,Offside (football)
+تسلا,Tesla
+تسلل,Offside
 تسونامي,Tsunami
 تسويق,Marketing
 تشاد,Chad
@@ -1560,461 +1560,461 @@ arabic,english
 تشيناي,Chennai
 تصلب الأنسجة المتعدد,Multiple sclerosis
 تصنيف ديوي العشري,Dewey Decimal Classification
-تصنيف:100,100
-تصنيف:1000,1000
-تصنيف:12,12
-تصنيف:14,14
-تصنيف:16,16
-تصنيف:17,17
-تصنيف:1728,1728
-تصنيف:500,500
-تصنيف:آسيا,Asia
-تصنيف:آيسلندا,Iceland
-تصنيف:أبجدية إغريقية,Greek alphabet
-تصنيف:أثاث,Furniture
-تصنيف:أخلاق,Ethics
-تصنيف:أدب,Literature
-تصنيف:أذربيجان,Azerbaijan
-تصنيف:أرجنتين,Argentina
-تصنيف:أرض,Earth
-تصنيف:أرمينيا,Armenia
-تصنيف:أريزونا,Arizona
-تصنيف:أستراليا,Australia
-تصنيف:أسكتلندا,Scotland
-تصنيف:أسماك,Fish
-تصنيف:أعداد,Numbers
-تصنيف:أفريقيا,Africa
-تصنيف:أفغانستان,Afghanistan
-تصنيف:ألبانيا,Albania
-تصنيف:ألعاب أولمبية,Olympics
-تصنيف:ألعاب أولمبية شتوية,Winter Olympic Games
-تصنيف:ألعاب قوى,Athletics
-تصنيف:ألمانيا,Germany
-تصنيف:أمريكا الجنوبية,South America
-تصنيف:أمريكا الشمالية,North America
-تصنيف:أمن,Security
-تصنيف:أنتاركتيكا,Antarctica
-تصنيف:أنتيغا وباربودا,Antigua and Barbuda
-تصنيف:أندية كرة قدم,Football (soccer) clubs
-تصنيف:أنغولا,Angola
-تصنيف:أنمي,Anime
-تصنيف:أوروبا,Europe
-تصنيف:أوروجواي,Uruguay
-تصنيف:أوزبكستان,Uzbekistan
-تصنيف:أوغندا,Uganda
-تصنيف:أوقيانوسيا,Oceania
-تصنيف:أوكرانيا,Ukraine
-تصنيف:أونتاريو,Ontario
-تصنيف:أيرلنديون,Irish people
-تصنيف:إبادة جماعية,Genocide
-تصنيف:إثيوبيا,Ethiopia
-تصنيف:إحصاء,Statistics
-تصنيف:إذاعات,Radio
-تصنيف:إرهاب,Terrorism
-تصنيف:إريتريا,Eritrea
-تصنيف:إسبانيا,Spain
-تصنيف:إسبانيون,Spanish people
-تصنيف:إسبرانتو,Esperanto
-تصنيف:إستونيا,Estonia
-تصنيف:إسرائيل,Israel
-تصنيف:إسلام,Islam
-تصنيف:إكوادور,Ecuador
-تصنيف:إلسلفادور,El Salvador
-تصنيف:إلكترونيات,Electronics
-تصنيف:إلهيات,Theology
-تصنيف:إنترنت,Internet
-تصنيف:إندونيسيا,Indonesia
-تصنيف:إنسانيات,Humanities
-تصنيف:إوز,Anseriformes
-تصنيف:إيران,Iran
-تصنيف:إيطاليا,Italy
-تصنيف:اتحاد أوروبي,European Union
-تصنيف:اتحاد سوفييتي,Soviet Union
-تصنيف:اتصالات,Communication
-تصنيف:احتمالات و إحصاء,Probability theory
-تصنيف:اشتراكية,Socialism
-تصنيف:اقتصاد,Economics
-تصنيف:اقتصاد جزئي,Microeconomics
-تصنيف:اقتصاد كلي,Macroeconomics
-تصنيف:الأردن,Jordan
-تصنيف:الأمم المتحدة,United Nations
-تصنيف:الإمارات العربية المتحدة,United Arab Emirates
-تصنيف:الباهاماس,Bahamas
-تصنيف:البحر الأبيض المتوسط,Mediterranean
-تصنيف:البحرين,Bahrain
-تصنيف:البرتغال,Portugal
-تصنيف:البوسنة والهرسك,Bosnia and Herzegovina
-تصنيف:التبت,Tibet
-تصنيف:التشيك,Czech Republic
-تصنيف:التصنيف الرئيسي,Fundamental
-تصنيف:الجزائر,Algeria
-تصنيف:الحرب الباردة,Cold War
-تصنيف:السعودية,Saudi Arabia
-تصنيف:السنغال,Senegal
-تصنيف:السودان,Sudan
-تصنيف:السويد,Sweden
-تصنيف:الصين,China
-تصنيف:العراق,Iraq
-تصنيف:الفاتيكان,Vatican City
-تصنيف:القدس,Jerusalem
-تصنيف:القوقاز,Caucasus
-تصنيف:الكتاب المقدس,Bible
-تصنيف:الكويت,Kuwait
-تصنيف:المجر,Hungary
-تصنيف:المغرب,Morocco
-تصنيف:المملكة المتحدة,United Kingdom
-تصنيف:النرويج,Norway
-تصنيف:الهند,India
-تصنيف:الولايات المتحدة الأمريكية,United States
-تصنيف:اليابان,Japan
-تصنيف:اليمن,Yemen
-تصنيف:اليونان,Greece
-تصنيف:بابوا غينيا الجديدة,Papua New Guinea
-تصنيف:باراغواي,Paraguay
-تصنيف:باريس,Paris
-تصنيف:باكستان,Pakistan
-تصنيف:بالاو,Palau
-تصنيف:بانك,Punk
-تصنيف:برازيل,Brazil
-تصنيف:براغ,Prague
-تصنيف:برشلونة,Barcelona
-تصنيف:برلين,Berlin
-تصنيف:برمجة,Software
-تصنيف:برمجة,Computer programming
-تصنيف:بصريات,Optics
-تصنيف:بكتيريا,Bacteria
-تصنيف:بلاد الغال,Wales
-تصنيف:بلجيكا,Belgium
-تصنيف:بلغاريا,Bulgaria
-تصنيف:بنغلاديش,Bangladesh
-تصنيف:بنما,Panama
-تصنيف:بنين,Benin
-تصنيف:بوتسوانا,Botswana
-تصنيف:بوذية,Buddhism
-تصنيف:بوركينا فاسو,Burkina Faso
-تصنيف:بوروندي,Burundi
-تصنيف:بولندا,Poland
-تصنيف:بوليفيا,Bolivia
-تصنيف:بيئة,Environment
-تصنيف:بيرو,Peru
-تصنيف:تاريخ,History
-تصنيف:تايلند,Thailand
-تصنيف:تايوان,Taiwan
-تصنيف:تجارة,Commerce
-تصنيف:تحريك حراري,Thermodynamics
-تصنيف:تراجم,People
-تصنيف:تربية,Pedagogy
-تصنيف:ترفيه,Entertainment
-تصنيف:تركمانستان,Turkmenistan
-تصنيف:تركيا,Turkey
-تصنيف:تسويق,Marketing
-تصنيف:تشاد,Chad
-تصنيف:تشريح,Anatomy
-تصنيف:تشيلي,Chile
-تصنيف:تصميم,Design
-تصنيف:تصوير,Photography
-تصنيف:تعليم,Education
-تصنيف:تقانة حيوية,Biotechnology
-تصنيف:تقنية,Technology
-تصنيف:تكساس,Texas
-تصنيف:تلفاز,Television
-تصنيف:تنجيم,Astrology
-تصنيف:تنزانيا,Tanzania
-تصنيف:توغو,Togo
-تصنيف:تونس,Tunisia
-تصنيف:ثقافة,Culture
-تصنيف:جائزة نوبل,Nobel Prize
-تصنيف:جامايكا,Jamaica
-تصنيف:جبر,Algebra
-تصنيف:جبر خطي,Linear algebra
-تصنيف:جراحة,Surgery
-تصنيف:جزر القمر,Comoros
-تصنيف:جسور,Bridges
-تصنيف:جعة,Beer
-تصنيف:جغرافيا,Geography
-تصنيف:جمهورية الدومنيكان,Dominican Republic
-تصنيف:جمهورية الكونغو,Republic of the Congo
-تصنيف:جمهورية الكونغو الديمقراطية,Democratic Republic of the Congo
-تصنيف:جنسوية,Sexuality
-تصنيف:جنوب أفريقيا,South Africa
-تصنيف:جهاز عصبي,Nervous system
-تصنيف:جوجل,Google
-تصنيف:جورجيا,Georgia (country)
-تصنيف:جيبوتي,Djibouti
-تصنيف:جيوديسيا,Geodesy
-تصنيف:جيولوجيا,Geology
-تصنيف:جيولوجيا فيزيائية,Geophysics
-تصنيف:جيومرفولجيا,Geomorphology
-تصنيف:حاسوبية,Computing
-تصنيف:حرب,War
-تصنيف:حرب عالمية أولى,World War I
-تصنيف:حرب عالمية ثانية,World War II
-تصنيف:حساب,Arithmetic
-تصنيف:حضارة ما بين النهرين,Mesopotamia
-تصنيف:حوسبة,Computer science
-تصنيف:حياة,Life
-تصنيف:خيال,Fiction
-تصنيف:دانمارك,Denmark
-تصنيف:دول الكاريبي,Caribbean
-تصنيف:دولة عثمانية,Ottoman Empire
-تصنيف:دومينيكا,Dominica
-تصنيف:ديانات,Religion
-تصنيف:ذكاء اصطناعي,Artificial intelligence
-تصنيف:رجال أعمال,Businesspeople
-تصنيف:رسم,Painting
-تصنيف:رسوميات الحاسوب,Computer graphics
-تصنيف:رقص,Dance
-تصنيف:رواندا,Rwanda
-تصنيف:روسيا,Russia
-تصنيف:روك,Rock music
-تصنيف:روما,Rome
-تصنيف:رومانيا,Romania
-تصنيف:رياضيات,Mathematics
-تصنيف:زامبيا,Zambia
-تصنيف:زراعة,Agriculture
-تصنيف:زمبابوي,Zimbabwe
-تصنيف:زمن,Time
-تصنيف:زي,Fashion
-تصنيف:ساموا,Samoa
-تصنيف:سان مارينو,San Marino
-تصنيف:سانت فنسينت والجرينادينز,Saint Vincent and the Grenadines
-تصنيف:سانت كيتس ونيفيس,Saint Kitts and Nevis
-تصنيف:سباحة,Swimming
-تصنيف:سريلانكا,Sri Lanka
-تصنيف:سلوفاكيا,Slovakia
-تصنيف:سلوفينيا,Slovenia
-تصنيف:سنغافورة,Singapore
-تصنيف:سنوات,Years
-تصنيف:سوريا,Syria
-تصنيف:سورينام,Suriname
-تصنيف:سويسرا,Switzerland
-تصنيف:سويسريون,Swiss people
-تصنيف:سياحة,Tourism
-تصنيف:سياسة,Politics
-تصنيف:سينما,Film
-تصنيف:سييرا ليون,Sierra Leone
-تصنيف:شاي,Tea
-تصنيف:شرطة,Law enforcement
-تصنيف:شرق أوسط,Middle East
-تصنيف:شطرنج,Chess
-تصنيف:شعر,Poetry
-تصنيف:شمس,Sun
-تصنيف:شيشان,Chechnya
-تصنيف:شيوعية,Communism
-تصنيف:صحاري,Deserts
-تصنيف:صحافة,Journalism
-تصنيف:صحة,Health
-تصنيف:صحراء غربية,Western Sahara
-تصنيف:صربيا والجبل الأسود,Serbia and Montenegro
-تصنيف:صفحات توضيح,Disambiguation
-تصنيف:صومال,Somalia
-تصنيف:ضرائب,Taxation
-تصنيف:طاقة,Energy
-تصنيف:طب,Medicine
-تصنيف:طب بديل,Alternative medicine
-تصنيف:طبيعة,Nature
-تصنيف:طلائعيات,Protista
-تصنيف:طوبولوجيا,Topology
-تصنيف:طيران,Aviation
-تصنيف:ظل الليل,Solanaceae
-تصنيف:عائلة,Family
-تصنيف:عاطفة,Emotion
-تصنيف:عتاد الحاسوب,Computer hardware
-تصنيف:عسكرية,Military
-تصنيف:عصر النهضة,Renaissance
-تصنيف:عصور وسطى,Middle Ages
-تصنيف:عقد 1750,1750s
-تصنيف:عقد 1760,1760s
-تصنيف:عقد 1770,1770s
-تصنيف:عقد 1780,1780s
-تصنيف:عقد 1790,1790s
-تصنيف:عقد 1820,1820s
-تصنيف:عقد 1830,1830s
-تصنيف:عقد 1840,1840s
-تصنيف:عقد 1860,1860s
-تصنيف:عقد 1870,1870s
-تصنيف:عقد 1880,1880s
-تصنيف:عقد 1890,1890s
-تصنيف:عقد 1900,1900s
-تصنيف:عقد 1920,1920s
-تصنيف:عقد 1930,1930s
-تصنيف:عقد 1940,1940s
-تصنيف:عقد 1950,1950s
-تصنيف:عقد 1960,1960s
-تصنيف:عقد 1970,1970s
-تصنيف:عقد 1980,1980s
-تصنيف:عقد 1990,1990s
-تصنيف:علم إحاثة,Paleontology
-تصنيف:علم الآثار,Archaeology
-تصنيف:علم الأحياء,Biology
-تصنيف:علم الأحياء الجزيئي,Molecular biology
-تصنيف:علم الأرصاد الجوية,Meteorology
-تصنيف:علم الأعراق,Ethnology
-تصنيف:علم الأعصاب,Neurology
-تصنيف:علم الإنسان,Anthropology
-تصنيف:علم الاجتماع,Sociology
-تصنيف:علم البلورات,Crystallography
-تصنيف:علم البيئة,Ecology
-تصنيف:علم الحيوان,Zoology
-تصنيف:علم الدم,Hematology
-تصنيف:علم الفلزات,Metallurgy
-تصنيف:علم القلب,Cardiology
-تصنيف:علم الكون,Cosmology
-تصنيف:علم المعادن,Mineralogy
-تصنيف:علم المناعة,Immunology
-تصنيف:علم المياه,Hydrology
-تصنيف:علم النبات,Botany
-تصنيف:علم النفس,Psychology
-تصنيف:علم الوراثة,Genetics
-تصنيف:علوم,Science
-تصنيف:علوم زائفة,Pseudoscience
-تصنيف:علوم سياسية,Political science
-تصنيف:عمارة,Architecture
-تصنيف:عملات,Currency
-تصنيف:عين,Eye
-تصنيف:عُمان,Oman
-تصنيف:غامبيا,The Gambia
-تصنيف:غانا,Ghana
-تصنيف:غواتيمالا,Guatemala
-تصنيف:غولف,Golf
-تصنيف:غويانا,Guyana
-تصنيف:غينيا,Guinea
-تصنيف:غينيا الاستوائية,Equatorial Guinea
-تصنيف:فاشية,Fascism
-تصنيف:فاكهة,Fruit
-تصنيف:فرانكفورت,Frankfurt
-تصنيف:فرنسا,France
-تصنيف:فرنسيون,French people
-تصنيف:فلبين,Philippines
-تصنيف:فلسطين,Palestine
-تصنيف:فلسفة,Philosophy
-تصنيف:فلك,Astronomy
-تصنيف:فلكلور,Folklore
-تصنيف:فن,Arts
-تصنيف:فنزويلا,Venezuela
-تصنيف:فنلندا,Finland
-تصنيف:فيتنام,Vietnam
-تصنيف:فيجي,Fiji
-تصنيف:فيزياء,Physics
-تصنيف:فيزياء الجسيمات,Particle physics
-تصنيف:فيزياء ذرية,Atomic physics
-تصنيف:فيزياء فلكية,Astrophysics
-تصنيف:فيزياء نووية,Nuclear physics
-تصنيف:فيلولوجيا,Philology
-تصنيف:قانون,Law
-تصنيف:قبرص,Cyprus
-تصنيف:قرغيزستان,Kyrgyzstan
-تصنيف:قطر,Qatar
-تصنيف:قومية,Nationalism
-تصنيف:قياسات,Measurement
-تصنيف:كازاخستان,Kazakhstan
-تصنيف:كاليفورنيا,California
-تصنيف:كاميرون,Cameroon
-تصنيف:كرة سلة,Basketball
-تصنيف:كرة قدم,Football (soccer)
-تصنيف:كرة قدم أمريكية,American football
-تصنيف:كرة قدم حسب البلد,Football (soccer) by country
-تصنيف:كرة مضرب,Tennis
-تصنيف:كردستان,Kurdistan
-تصنيف:كرواتيا,Croatia
-تصنيف:كرونولوجيا,Chronology
-تصنيف:كمبوديا,Cambodia
-تصنيف:كندا,Canada
-تصنيف:كهرباء,Electricity
-تصنيف:كهرومغناطيسية,Electromagnetism
-تصنيف:كوبا,Cuba
-تصنيف:كوريا,Korea
-تصنيف:كوريا الجنوبية,South Korea
-تصنيف:كوريا الشمالية,North Korea
-تصنيف:كوستاريكا,Costa Rica
-تصنيف:كوسوفو,Kosovo
-تصنيف:كولومبيا,Colombia
-تصنيف:كيريباس,Kiribati
-تصنيف:كيمياء,Chemistry
-تصنيف:كيمياء حيوية,Biochemistry
-تصنيف:كيمياء عضوية,Organic chemistry
-تصنيف:كيمياء فيزيائية,Physical chemistry
-تصنيف:كيمياء كهربائية,Electrochemistry
-تصنيف:كيمياء لاعضوية,Inorganic chemistry
-تصنيف:كينيا,Kenya
-تصنيف:لاتفيا,Latvia
-تصنيف:لاسلطوية,Anarchism
-تصنيف:لاعبو كرة قدم,Football (soccer) players
-تصنيف:لاوس,Laos
-تصنيف:لبنان,Lebanon
-تصنيف:لتوانيا,Lithuania
-تصنيف:لسانيات,Linguistics
-تصنيف:لندن,London
-تصنيف:لوكسمبورغ,Luxembourg
-تصنيف:ليبرالية,Liberalism
-تصنيف:ليبيا,Libya
-تصنيف:ليبيريا,Liberia
-تصنيف:ليسوتو,Lesotho
-تصنيف:لينكس,Linux
-تصنيف:ما قبل التاريخ,Prehistory
-تصنيف:ماركسية,Marxism
-تصنيف:مالديف,Maldives
-تصنيف:مالطا,Malta
-تصنيف:مالي,Mali
-تصنيف:مالية,Finance
-تصنيف:ماليزيا,Malaysia
-تصنيف:مثلثات,Trigonometry
-تصنيف:مجتمع,Society
-تصنيف:محاسبة,Accountancy
-تصنيف:محيط أطلسي,Atlantic Ocean
-تصنيف:مدربو كرة قدم,Football (soccer) managers
-تصنيف:مسرح,Theatre
-تصنيف:مسيحية,Christianity
-تصنيف:مصر,Egypt
-تصنيف:مضائق,Straits
-تصنيف:مكسيك,Mexico
-تصنيف:ملابس,Clothing
-تصنيف:ملاحة,Navigation
-تصنيف:ملاوي,Malawi
-تصنيف:منطق,Logic
-تصنيف:منطق رياضي,Mathematical logic
-تصنيف:منغوليا,Mongolia
-تصنيف:موت,Death
-تصنيف:موريتانيا,Mauritania
-تصنيف:موريشيوس,Mauritius
-تصنيف:موزمبيق,Mozambique
-تصنيف:موسكو,Moscow
-تصنيف:موسيقى,Music
-تصنيف:موسيقى الجاز,Jazz
-تصنيف:موسيقى كلاسيكية,Classical music
-تصنيف:مولدافيا,Moldova
-تصنيف:موناكو,Monaco
-تصنيف:مياه,Water
-تصنيف:ميتافيزيقيا,Metaphysics
-تصنيف:ميثولوجيا,Mythology
-تصنيف:ميكانيكا سماوية,Celestial mechanics
-تصنيف:نازية,Nazism
-تصنيف:ناميبيا,Namibia
-تصنيف:نحت,Sculpture
-تصنيف:نسبية,Relativity
-تصنيف:نظام شمسي,Solar System
-تصنيف:نظرية الكم,Quantum mechanics
-تصنيف:نقل,Transportation
-تصنيف:نمسا,Austria
-تصنيف:نيجر,Niger
-تصنيف:نيجيريا,Nigeria
-تصنيف:نيوزيلندا,New Zealand
-تصنيف:نيويورك,New York
-تصنيف:هامبورغ,Hamburg
-تصنيف:هاواي,Hawaii
-تصنيف:هايتى,Haiti
-تصنيف:هندسة تطبيقية,Engineering
-تصنيف:هندسة رياضية,Geometry
-تصنيف:هندسة ميكانيكية,Mechanical engineering
-تصنيف:هندوراس,Honduras
-تصنيف:هندوسية,Hinduism
-تصنيف:هوكي الجليد,Ice hockey
-تصنيف:هولندا,Netherlands
-تصنيف:هونغ كونغ,Hong Kong
-تصنيف:وب,World Wide Web
-تصنيف:يهودية,Judaism
-تصنيف:يوغوسلافيا,Yugoslavia
-تصنيف:يونكس,Unix
+100,100
+1000,1000
+12,12
+14,14
+16,16
+17,17
+1728,1728
+500,500
+آسيا,Asia
+آيسلندا,Iceland
+أبجدية إغريقية,Greek alphabet
+أثاث,Furniture
+أخلاق,Ethics
+أدب,Literature
+أذربيجان,Azerbaijan
+أرجنتين,Argentina
+أرض,Earth
+أرمينيا,Armenia
+أريزونا,Arizona
+أستراليا,Australia
+أسكتلندا,Scotland
+أسماك,Fish
+أعداد,Numbers
+أفريقيا,Africa
+أفغانستان,Afghanistan
+ألبانيا,Albania
+ألعاب أولمبية,Olympics
+ألعاب أولمبية شتوية,Winter Olympic Games
+ألعاب قوى,Athletics
+ألمانيا,Germany
+أمريكا الجنوبية,South America
+أمريكا الشمالية,North America
+أمن,Security
+أنتاركتيكا,Antarctica
+أنتيغا وباربودا,Antigua and Barbuda
+أندية كرة قدم,Football  clubs
+أنغولا,Angola
+أنمي,Anime
+أوروبا,Europe
+أوروجواي,Uruguay
+أوزبكستان,Uzbekistan
+أوغندا,Uganda
+أوقيانوسيا,Oceania
+أوكرانيا,Ukraine
+أونتاريو,Ontario
+أيرلنديون,Irish people
+إبادة جماعية,Genocide
+إثيوبيا,Ethiopia
+إحصاء,Statistics
+إذاعات,Radio
+إرهاب,Terrorism
+إريتريا,Eritrea
+إسبانيا,Spain
+إسبانيون,Spanish people
+إسبرانتو,Esperanto
+إستونيا,Estonia
+إسرائيل,Israel
+إسلام,Islam
+إكوادور,Ecuador
+إلسلفادور,El Salvador
+إلكترونيات,Electronics
+إلهيات,Theology
+إنترنت,Internet
+إندونيسيا,Indonesia
+إنسانيات,Humanities
+إوز,Anseriformes
+إيران,Iran
+إيطاليا,Italy
+اتحاد أوروبي,European Union
+اتحاد سوفييتي,Soviet Union
+اتصالات,Communication
+احتمالات و إحصاء,Probability theory
+اشتراكية,Socialism
+اقتصاد,Economics
+اقتصاد جزئي,Microeconomics
+اقتصاد كلي,Macroeconomics
+الأردن,Jordan
+الأمم المتحدة,United Nations
+الإمارات العربية المتحدة,United Arab Emirates
+الباهاماس,Bahamas
+البحر الأبيض المتوسط,Mediterranean
+البحرين,Bahrain
+البرتغال,Portugal
+البوسنة والهرسك,Bosnia and Herzegovina
+التبت,Tibet
+التشيك,Czech Republic
+التصنيف الرئيسي,Fundamental
+الجزائر,Algeria
+الحرب الباردة,Cold War
+السعودية,Saudi Arabia
+السنغال,Senegal
+السودان,Sudan
+السويد,Sweden
+الصين,China
+العراق,Iraq
+الفاتيكان,Vatican City
+القدس,Jerusalem
+القوقاز,Caucasus
+الكتاب المقدس,Bible
+الكويت,Kuwait
+المجر,Hungary
+المغرب,Morocco
+المملكة المتحدة,United Kingdom
+النرويج,Norway
+الهند,India
+الولايات المتحدة الأمريكية,United States
+اليابان,Japan
+اليمن,Yemen
+اليونان,Greece
+بابوا غينيا الجديدة,Papua New Guinea
+باراغواي,Paraguay
+باريس,Paris
+باكستان,Pakistan
+بالاو,Palau
+بانك,Punk
+برازيل,Brazil
+براغ,Prague
+برشلونة,Barcelona
+برلين,Berlin
+برمجة,Software
+برمجة,Computer programming
+بصريات,Optics
+بكتيريا,Bacteria
+بلاد الغال,Wales
+بلجيكا,Belgium
+بلغاريا,Bulgaria
+بنغلاديش,Bangladesh
+بنما,Panama
+بنين,Benin
+بوتسوانا,Botswana
+بوذية,Buddhism
+بوركينا فاسو,Burkina Faso
+بوروندي,Burundi
+بولندا,Poland
+بوليفيا,Bolivia
+بيئة,Environment
+بيرو,Peru
+تاريخ,History
+تايلند,Thailand
+تايوان,Taiwan
+تجارة,Commerce
+تحريك حراري,Thermodynamics
+تراجم,People
+تربية,Pedagogy
+ترفيه,Entertainment
+تركمانستان,Turkmenistan
+تركيا,Turkey
+تسويق,Marketing
+تشاد,Chad
+تشريح,Anatomy
+تشيلي,Chile
+تصميم,Design
+تصوير,Photography
+تعليم,Education
+تقانة حيوية,Biotechnology
+تقنية,Technology
+تكساس,Texas
+تلفاز,Television
+تنجيم,Astrology
+تنزانيا,Tanzania
+توغو,Togo
+تونس,Tunisia
+ثقافة,Culture
+جائزة نوبل,Nobel Prize
+جامايكا,Jamaica
+جبر,Algebra
+جبر خطي,Linear algebra
+جراحة,Surgery
+جزر القمر,Comoros
+جسور,Bridges
+جعة,Beer
+جغرافيا,Geography
+جمهورية الدومنيكان,Dominican Republic
+جمهورية الكونغو,Republic of the Congo
+جمهورية الكونغو الديمقراطية,Democratic Republic of the Congo
+جنسوية,Sexuality
+جنوب أفريقيا,South Africa
+جهاز عصبي,Nervous system
+جوجل,Google
+جورجيا,Georgia
+جيبوتي,Djibouti
+جيوديسيا,Geodesy
+جيولوجيا,Geology
+جيولوجيا فيزيائية,Geophysics
+جيومرفولجيا,Geomorphology
+حاسوبية,Computing
+حرب,War
+حرب عالمية أولى,World War I
+حرب عالمية ثانية,World War II
+حساب,Arithmetic
+حضارة ما بين النهرين,Mesopotamia
+حوسبة,Computer science
+حياة,Life
+خيال,Fiction
+دانمارك,Denmark
+دول الكاريبي,Caribbean
+دولة عثمانية,Ottoman Empire
+دومينيكا,Dominica
+ديانات,Religion
+ذكاء اصطناعي,Artificial intelligence
+رجال أعمال,Businesspeople
+رسم,Painting
+رسوميات الحاسوب,Computer graphics
+رقص,Dance
+رواندا,Rwanda
+روسيا,Russia
+روك,Rock music
+روما,Rome
+رومانيا,Romania
+رياضيات,Mathematics
+زامبيا,Zambia
+زراعة,Agriculture
+زمبابوي,Zimbabwe
+زمن,Time
+زي,Fashion
+ساموا,Samoa
+سان مارينو,San Marino
+سانت فنسينت والجرينادينز,Saint Vincent and the Grenadines
+سانت كيتس ونيفيس,Saint Kitts and Nevis
+سباحة,Swimming
+سريلانكا,Sri Lanka
+سلوفاكيا,Slovakia
+سلوفينيا,Slovenia
+سنغافورة,Singapore
+سنوات,Years
+سوريا,Syria
+سورينام,Suriname
+سويسرا,Switzerland
+سويسريون,Swiss people
+سياحة,Tourism
+سياسة,Politics
+سينما,Film
+سييرا ليون,Sierra Leone
+شاي,Tea
+شرطة,Law enforcement
+شرق أوسط,Middle East
+شطرنج,Chess
+شعر,Poetry
+شمس,Sun
+شيشان,Chechnya
+شيوعية,Communism
+صحاري,Deserts
+صحافة,Journalism
+صحة,Health
+صحراء غربية,Western Sahara
+صربيا والجبل الأسود,Serbia and Montenegro
+صفحات توضيح,Disambiguation
+صومال,Somalia
+ضرائب,Taxation
+طاقة,Energy
+طب,Medicine
+طب بديل,Alternative medicine
+طبيعة,Nature
+طلائعيات,Protista
+طوبولوجيا,Topology
+طيران,Aviation
+ظل الليل,Solanaceae
+عائلة,Family
+عاطفة,Emotion
+عتاد الحاسوب,Computer hardware
+عسكرية,Military
+عصر النهضة,Renaissance
+عصور وسطى,Middle Ages
+عقد 1750,1750s
+عقد 1760,1760s
+عقد 1770,1770s
+عقد 1780,1780s
+عقد 1790,1790s
+عقد 1820,1820s
+عقد 1830,1830s
+عقد 1840,1840s
+عقد 1860,1860s
+عقد 1870,1870s
+عقد 1880,1880s
+عقد 1890,1890s
+عقد 1900,1900s
+عقد 1920,1920s
+عقد 1930,1930s
+عقد 1940,1940s
+عقد 1950,1950s
+عقد 1960,1960s
+عقد 1970,1970s
+عقد 1980,1980s
+عقد 1990,1990s
+علم إحاثة,Paleontology
+علم الآثار,Archaeology
+علم الأحياء,Biology
+علم الأحياء الجزيئي,Molecular biology
+علم الأرصاد الجوية,Meteorology
+علم الأعراق,Ethnology
+علم الأعصاب,Neurology
+علم الإنسان,Anthropology
+علم الاجتماع,Sociology
+علم البلورات,Crystallography
+علم البيئة,Ecology
+علم الحيوان,Zoology
+علم الدم,Hematology
+علم الفلزات,Metallurgy
+علم القلب,Cardiology
+علم الكون,Cosmology
+علم المعادن,Mineralogy
+علم المناعة,Immunology
+علم المياه,Hydrology
+علم النبات,Botany
+علم النفس,Psychology
+علم الوراثة,Genetics
+علوم,Science
+علوم زائفة,Pseudoscience
+علوم سياسية,Political science
+عمارة,Architecture
+عملات,Currency
+عين,Eye
+عُمان,Oman
+غامبيا,The Gambia
+غانا,Ghana
+غواتيمالا,Guatemala
+غولف,Golf
+غويانا,Guyana
+غينيا,Guinea
+غينيا الاستوائية,Equatorial Guinea
+فاشية,Fascism
+فاكهة,Fruit
+فرانكفورت,Frankfurt
+فرنسا,France
+فرنسيون,French people
+فلبين,Philippines
+فلسطين,Palestine
+فلسفة,Philosophy
+فلك,Astronomy
+فلكلور,Folklore
+فن,Arts
+فنزويلا,Venezuela
+فنلندا,Finland
+فيتنام,Vietnam
+فيجي,Fiji
+فيزياء,Physics
+فيزياء الجسيمات,Particle physics
+فيزياء ذرية,Atomic physics
+فيزياء فلكية,Astrophysics
+فيزياء نووية,Nuclear physics
+فيلولوجيا,Philology
+قانون,Law
+قبرص,Cyprus
+قرغيزستان,Kyrgyzstan
+قطر,Qatar
+قومية,Nationalism
+قياسات,Measurement
+كازاخستان,Kazakhstan
+كاليفورنيا,California
+كاميرون,Cameroon
+كرة سلة,Basketball
+كرة قدم,Football
+كرة قدم أمريكية,American football
+كرة قدم حسب البلد,Football  by country
+كرة مضرب,Tennis
+كردستان,Kurdistan
+كرواتيا,Croatia
+كرونولوجيا,Chronology
+كمبوديا,Cambodia
+كندا,Canada
+كهرباء,Electricity
+كهرومغناطيسية,Electromagnetism
+كوبا,Cuba
+كوريا,Korea
+كوريا الجنوبية,South Korea
+كوريا الشمالية,North Korea
+كوستاريكا,Costa Rica
+كوسوفو,Kosovo
+كولومبيا,Colombia
+كيريباس,Kiribati
+كيمياء,Chemistry
+كيمياء حيوية,Biochemistry
+كيمياء عضوية,Organic chemistry
+كيمياء فيزيائية,Physical chemistry
+كيمياء كهربائية,Electrochemistry
+كيمياء لاعضوية,Inorganic chemistry
+كينيا,Kenya
+لاتفيا,Latvia
+لاسلطوية,Anarchism
+لاعبو كرة قدم,Football  players
+لاوس,Laos
+لبنان,Lebanon
+لتوانيا,Lithuania
+لسانيات,Linguistics
+لندن,London
+لوكسمبورغ,Luxembourg
+ليبرالية,Liberalism
+ليبيا,Libya
+ليبيريا,Liberia
+ليسوتو,Lesotho
+لينكس,Linux
+ما قبل التاريخ,Prehistory
+ماركسية,Marxism
+مالديف,Maldives
+مالطا,Malta
+مالي,Mali
+مالية,Finance
+ماليزيا,Malaysia
+مثلثات,Trigonometry
+مجتمع,Society
+محاسبة,Accountancy
+محيط أطلسي,Atlantic Ocean
+مدربو كرة قدم,Football  managers
+مسرح,Theatre
+مسيحية,Christianity
+مصر,Egypt
+مضائق,Straits
+مكسيك,Mexico
+ملابس,Clothing
+ملاحة,Navigation
+ملاوي,Malawi
+منطق,Logic
+منطق رياضي,Mathematical logic
+منغوليا,Mongolia
+موت,Death
+موريتانيا,Mauritania
+موريشيوس,Mauritius
+موزمبيق,Mozambique
+موسكو,Moscow
+موسيقى,Music
+موسيقى الجاز,Jazz
+موسيقى كلاسيكية,Classical music
+مولدافيا,Moldova
+موناكو,Monaco
+مياه,Water
+ميتافيزيقيا,Metaphysics
+ميثولوجيا,Mythology
+ميكانيكا سماوية,Celestial mechanics
+نازية,Nazism
+ناميبيا,Namibia
+نحت,Sculpture
+نسبية,Relativity
+نظام شمسي,Solar System
+نظرية الكم,Quantum mechanics
+نقل,Transportation
+نمسا,Austria
+نيجر,Niger
+نيجيريا,Nigeria
+نيوزيلندا,New Zealand
+نيويورك,New York
+هامبورغ,Hamburg
+هاواي,Hawaii
+هايتى,Haiti
+هندسة تطبيقية,Engineering
+هندسة رياضية,Geometry
+هندسة ميكانيكية,Mechanical engineering
+هندوراس,Honduras
+هندوسية,Hinduism
+هوكي الجليد,Ice hockey
+هولندا,Netherlands
+هونغ كونغ,Hong Kong
+وب,World Wide Web
+يهودية,Judaism
+يوغوسلافيا,Yugoslavia
+يونكس,Unix
 تصوير,Photography
 تصوير جصي,Fresco
 تصوير رقمي,Digital photography
@@ -2038,7 +2038,7 @@ arabic,english
 تفاعل كيميائي,Chemical reaction
 تفسيرية,Hermeneutics
 تفكيكية,Deconstruction
-تقاطع (جبر),Intersection (set theory)
+تقاطع,Intersection
 تقانة حيوية,Biotechnology
 تقانة نانوية,Nanotechnology
 تقبيل,Kiss
@@ -2050,7 +2050,7 @@ arabic,english
 تقويم يهودي,Hebrew calendar
 تقويم يولياني,Julian calendar
 تكاثر,Reproduction
-تكافؤ,Valence (chemistry)
+تكافؤ,Valence
 تكامل,Integral
 تكتونيات الصفائح,Plate tectonics
 تكس,Tux
@@ -2087,10 +2087,10 @@ arabic,english
 توابل,Spice
 توبيكا، كانزاس,Topeka
 توتر سطحي,Surface tension
-توتر نفسي,Stress (medicine)
+توتر نفسي,Stress
 توحد,Autism
 توحيدية,Monotheism
-تور (مدينة),Tours
+تور,Tours
 توراة,Torah
 تورنغن,Thuringia
 تورونتو,Toronto
@@ -2102,7 +2102,7 @@ arabic,english
 توفالو,Tuvalu
 توقيت عالمي منسق,Coordinated Universal Time
 توقيت غرينيتش,Greenwich Mean Time
-توكانتينس,Tocantins (state)
+توكانتينس,Tocantins
 تولوز,Toulouse
 تولوين,Toluene
 توم هانكس,Tom Hanks
@@ -2115,14 +2115,14 @@ arabic,english
 توماس مان,Thomas Mann
 توماس مور,Thomas More
 توماس هاردي,Thomas Hardy
-توماس يونج,Thomas Young (scientist)
+توماس يونج,Thomas Young
 تونجا,Tonga
 تونس,Tunisia
-تونس (مدينة),Tunis
+تونس,Tunis
 توني بلير,Tony Blair
 توني موريسون,Toni Morrison
 تويوتا,Toyota
-تي إن تي (مادة كيميائية),Trinitrotoluene
+تي إن تي,Trinitrotoluene
 تي.سي.بي,Transmission Control Protocol
 تيار كهربائي,Electric current
 تيار متردد,Alternating current
@@ -2158,7 +2158,7 @@ arabic,english
 ثايمين,Thymine
 ثدي,Breast
 ثدييات,Mammal
-ثريا (عنقود نجمي),Pleiades (star cluster)
+ثريا,Pleiades
 ثعبان,Snake
 ثعلب,Fox
 ثعلب أحمر,Red Fox
@@ -2173,14 +2173,14 @@ arabic,english
 ثنائي أكسيد كربون,Carbon dioxide
 ثنائيات الفلقة,Dicotyledon
 ثورة,Revolution
-ثورة 1917 الروسية,Russian Revolution (1917)
+ثورة 1917 الروسية,Russian Revolution
 ثورة بلشفية,October Revolution
 ثورة صناعية,Industrial Revolution
 ثوريوم,Thorium
 ثوكيديدس,Thucydides
 ثوليوم,Thulium
 ثوم,Garlic
-ثيتا (حرف إغريقي),Theta
+ثيتا,Theta
 ثيسيوس,Theseus
 ثيفا,Thebes
 ثيودور روزفلت,Theodore Roosevelt
@@ -2190,7 +2190,7 @@ arabic,english
 جائزة نوبل,Nobel Prize
 جابورون,Gaborone
 جات,General Agreement on Tariffs and Trade
-جافا,Java (programming language)
+جافا,Java
 جاك السفاح,Jack the Ripper
 جاك دريدا,Jacques Derrida
 جاك كارتييه,Jacques Cartier
@@ -2210,13 +2210,13 @@ arabic,english
 جامو وكشمير,Jammu and Kashmir
 جان جاك روسو,Jean-Jacques Rousseau
 جان دارك,Joan of Arc
-جانيميد,Ganymede (moon)
+جانيميد,Ganymede
 جاوة,Java
 جاي فوكس,Guy Fawkes
 جاين أوستن,Jane Austen
 جاين سيمور,Jane Seymour
 جاينية,Jainism
-جبار (ميثولوجيا),Titan (mythology)
+جبار,Titan
 جبال أطلس,Atlas Mountains
 جبال الأبلاش,Appalachian Mountains
 جبال الأورال,Ural Mountains
@@ -2232,7 +2232,7 @@ arabic,english
 جبل إتنا,Mount Etna
 جبل إفرست,Mount Everest
 جبل راشمور,Mount Rushmore
-جبل طارق (منطقة حكم ذاتي),Gibraltar
+جبل طارق,Gibraltar
 جبل فوجي,Mount Fuji
 جبل كي 2,K2
 جبل كيليمانجارو,Mount Kilimanjaro
@@ -2241,21 +2241,21 @@ arabic,english
 جحيم,Hell
 جداء ديكارتي,Cartesian product
 جدار خلوي,Cell wall
-جدار ناري,Firewall (networking)
+جدار ناري,Firewall
 جداول ممتدة,Spreadsheet
 جدة,Jeddah
 جدري الماء,Chickenpox
 جدول توزيع الملف,File Allocation Table
 جدول دوري,Periodic table
-جذام (مرض),Leprosy
-جذر (نبات),Root
+جذام,Leprosy
+جذر,Root
 جذر تربيعي,Square root
 جراحة,Surgery
 جرار,Tractor
 جرافيتي,Graffiti
 جرام,Gram
 جرانيت,Granite
-جراي (وحدة),Gray (unit)
+جراي,Gray
 جرمانيوم,Germanium
 جروفر كليفلاند,Grover Cleveland
 جريتا جاربو,Greta Garbo
@@ -2272,7 +2272,7 @@ arabic,english
 جزر جوادلوب,Guadeloupe
 جزر سليمان,Solomon Islands
 جزر فوكلاند,Falkland Islands
-جزر كوكس,Cocos (Keeling) Islands
+جزر كوكس,Cocos  Islands
 جزر ماديرا,Madeira
 جزر مارشال,Marshall Islands
 جزر ماريانا الشمالية,Northern Mariana Islands
@@ -2309,7 +2309,7 @@ arabic,english
 جمعة الآلام,Good Friday
 جمل,Camel
 جمل عربي,Dromedary
-جمهورية (سياسة),Republic
+جمهورية,Republic
 جمهورية أفريقيا الوسطى,Central African Republic
 جمهورية أيرلندا,Republic of Ireland
 جمهورية الدومنيكان,Dominican Republic
@@ -2322,9 +2322,9 @@ arabic,english
 جن,Genie
 جنة,Heaven
 جنة عدن,Garden of Eden
-جندي شطرنج,Pawn (chess)
+جندي شطرنج,Pawn
 جنس,Sex
-جنس (تصنيف),Genus
+جنس,Genus
 جنس شرجي,Anal sex
 جنس فموي,Oral sex
 جنكو,Ginkgo
@@ -2377,8 +2377,8 @@ arabic,english
 جورج هاريسون,George Harrison
 جورج واشنطن,George Washington
 جورجو فازاري,Giorgio Vasari
-جورجيا,Georgia (country)
-جورجيا (ولاية أمريكية),Georgia (U.S. state)
+جورجيا,Georgia
+جورجيا,Georgia
 جوردانو برونو,Giordano Bruno
 جوزة الطيب,Nutmeg
 جوزيبي غاريبالدي,Giuseppe Garibaldi
@@ -2424,7 +2424,7 @@ arabic,english
 جيجابايت,Gigabyte
 جيرالد فورد,Gerald Ford
 جيرانيمو,Geronimo
-جيرزي (جزيرة),Jersey
+جيرزي,Jersey
 جيرنزي,Guernsey
 جيروسكوب,Gyroscope
 جيروم,Jerome
@@ -2492,19 +2492,19 @@ arabic,english
 حرب عالمية ثانية,World War II
 حرب فيتنام,Vietnam War
 حرب كورية,Korean War
-حرف,Letter (alphabet)
-حركة (فيزياء),Motion (physics)
+حرف,Letter
+حركة,Motion
 حركة براونية,Brownian motion
 حركة حماس,Hamas
 حركة فتح,Fatah
 حروب البلقان,Balkan Wars
-حرية,Freedom (philosophy)
+حرية,Freedom
 حرية التعبير,Freedom of speech
 حرير,Silk
 حريق,Fire
 حزازيات,Moss
 حزام كويبر,Kuiper belt
-حزب العمال البريطاني,Labour Party (UK)
+حزب العمال البريطاني,Labour Party
 حزب العمال الكردستاني,Kurdistan Workers Party
 حزب الله,Hezbollah
 حزب سياسي,Political party
@@ -2517,7 +2517,7 @@ arabic,english
 حصار طروادة,Trojan War
 حصالبان,Rosemary
 حصان,Horse
-حصان شطرنج,Knight (chess)
+حصان شطرنج,Knight
 حصان طروادة,Trojan Horse
 حصبة,Measles
 حضارة,Civilization
@@ -2527,7 +2527,7 @@ arabic,english
 حقبة الباليوزوي,Paleozoic
 حقبة السينوزوي,Cenozoic
 حقبة وسطى,Mesozoic
-حقل (رياضيات),Field (mathematics)
+حقل,Field
 حقل كهربائي,Electric field
 حقل مغناطيسي,Magnetic field
 حقوق النسخ,Copyright
@@ -2536,14 +2536,14 @@ arabic,english
 حكومة,Government
 حلب,Aleppo
 حلف شمال الأطلسي,NATO
-حلقة (رياضيات),Ring (mathematics)
+حلقة,Ring
 حلم,Dream
 حليب,Milk
 حمار,Donkey
 حمار وحشي,Zebra
-حمام (طير),Columbidae
+حمام,Columbidae
 حماميات,Columbiformes
-حمص (نبات),Chickpea
+حمص,Chickpea
 حمض,Acid
 حمض أميني,Amino acid
 حمض خليك,Acetic acid
@@ -2581,7 +2581,7 @@ arabic,english
 حوت قاتل,Orca
 حور,Poplar
 حورس,Horus
-حورية (ميثولوجيا إغريقية),Nymph
+حورية,Nymph
 حورية البحر,Mermaid
 حياة,Life
 حيتانيات,Cetacea
@@ -2592,7 +2592,7 @@ arabic,english
 حيوان الميركات,Meerkat
 حيوانات منوية,Spermatozoon
 خاباروفسك,Khabarovsk
-خادم (معلوماتية),Server (computing)
+خادم,Server
 خارصين,Zinc
 خاركوف,Kharkiv
 خان,Khan
@@ -2625,7 +2625,7 @@ arabic,english
 خلايا شمسية,Solar cell
 خلد الماء,Platypus
 خلفة ذهنية,Anorexia nervosa
-خلية,Cell (biology)
+خلية,Cell
 خلية بيضاء,White blood cell
 خلية تفكير,Think tank
 خلية جذعية,Stem cell
@@ -2664,7 +2664,7 @@ arabic,english
 دائرة عرض,Latitude
 داجيروتيب,Daguerreotype
 دادا,Dada
-دار السلام (تنزانيا),Dar es Salaam
+دار السلام,Dar es Salaam
 دار فور,Darfur
 دارما,Dharma
 دارمشتاتيوم,Darmstadtium
@@ -2674,10 +2674,10 @@ arabic,english
 داكوتا الجنوبية,South Dakota
 داكوتا الشمالية,North Dakota
 دالاس، تكساس,Dallas
-دالة رياضية,Function (mathematics)
-دالتون(رياضيات),Rhombus
+دالة رياضية,Function
+دالتون,Rhombus
 دالماسيا,Dalmatia
-داليا (زهرة),Dahlia
+داليا,Dahlia
 دانتي أليغييري,Dante Alighieri
 دانوب,Danube
 دانييل أورتيغا,Daniel Ortega
@@ -2696,15 +2696,15 @@ arabic,english
 دراجة بخارية,Motorcycle
 دراجة هوائية,Bicycle
 دراسات سكانية,Demography
-دراكولا (رواية),Dracula
+دراكولا,Dracula
 دراما,Drama
 درب التبانة,Milky Way
-درجة (زاوية),Degree (angle)
+درجة,Degree
 درجة الحرارة,Temperature
 درع,Armour
 درن,Tuberculosis
 دريسدن,Dresden
-دستور,Constitution (political)
+دستور,Constitution
 دستور الولايات المتحدة الامريكية,United States Constitution
 دستين هوفمان,Dustin Hoffman
 دعابة,Humour
@@ -2713,7 +2713,7 @@ arabic,english
 دقيقة,Minute
 دكا,Dhaka
 دلالية,Semantics
-دلتا (حرف إغريقي),Delta (letter)
+دلتا,Delta
 دلفين,Dolphin
 دلهي,Delhi
 دم,Blood
@@ -2728,7 +2728,7 @@ arabic,english
 دودو,Dodo
 دودوما,Dodoma
 دوديكانيسيا,Dodecanese
-دورة جدول دوري,Period (periodic table)
+دورة جدول دوري,Period
 دورة حمض الستريك,Citric acid cycle
 دورة شهرية,Menstrual cycle
 دورة كربون,Carbon cycle
@@ -2772,7 +2772,7 @@ arabic,english
 ديفيد هيلبرت,David Hilbert
 ديكتاتورية,Dictatorship
 ديكو,Deco
-ديكيوس,Decius (emperor)
+ديكيوس,Decius
 ديل,Dell
 ديلاوير,Delaware
 ديماغوجيا,Demagogy
@@ -2787,27 +2787,27 @@ arabic,english
 ذئب البراري,Coyote
 ذئب رمادي,Gray Wolf
 ذات الرئة,Pneumonia
-ذاكرة (بيولوجيا),Memory
+ذاكرة,Memory
 ذاكرة افتراضية,Virtual memory
 ذاكرة القراءة فقط,Read-only memory
 ذاكرة الوصول العشوائي,Random access memory
 ذاكرة وميضية,Flash memory
 ذرة,Atom
-ذرة (نبات),Maize
+ذرة,Maize
 ذكاء اصطناعي,Artificial intelligence
 ذهان,Psychosis
 ذهب,Gold
 رأس,Head
 رأس الرجاء الصالح,Cape of Good Hope
-رأس المال,Capital (economics)
-رأس المال (كتاب),Das Kapital
+رأس المال,Capital
+رأس المال,Das Kapital
 رأسمالية,Capitalism
 رؤيا يوحنا,Book of Revelation
 رئة,Lung
-رئيس الملائكة ميخائيل,Michael (archangel)
+رئيس الملائكة ميخائيل,Michael
 رئيس الوزراء,Prime minister
 رئيسيات,Primate
-رائد (رتبة عسكرية),Major
+رائد,Major
 رائد فضاء,Astronaut
 رابطة أيونية,Ionic bond
 رابطة اللبلاب,Ivy League
@@ -2832,9 +2832,9 @@ arabic,english
 رباعي الأضلاع,Quadrilateral
 ربو,Asthma
 ربوبية,Deism
-ربيع,Spring (season)
+ربيع,Spring
 رتب عسكرية,Military rank
-رتبة (تصنيف),Order (biology)
+رتبة,Order
 رجبي,Rugby football
 رحم,Uterus
 رخام,Marble
@@ -2857,7 +2857,7 @@ arabic,english
 رقم ماخ,Mach number
 ركبة,Knee
 ركوب الدراجات,Cycling
-رمادي (لون),Grey
+رمادي,Grey
 رمان,Pomegranate
 رمبرانت,Rembrandt
 رمح,Spear
@@ -2867,11 +2867,11 @@ arabic,english
 رهاب,Phobia
 رهاب اجتماعي,Agoraphobia
 رهاب المثلية,Homophobia
-رو (حرف إغريقي),Rho (letter)
+رو,Rho
 روألد أمندسن,Roald Amundsen
 رواقية,Stoicism
 رواندا,Rwanda
-رواية (أدب),Novel
+رواية,Novel
 روبرت دي نيرو,Robert De Niro
 روبرت شومان,Robert Schumann
 روبرت كوخ,Robert Koch
@@ -2879,7 +2879,7 @@ arabic,english
 روبرت مردوخ,Rupert Murdoch
 روبرت هوك,Robert Hooke
 روبوت,Robot
-روبي (لغة برمجة),Ruby (programming language)
+روبي,Ruby
 روبيان,Shrimp
 روبيديوم,Rubidium
 روبيكوني,Rubicon
@@ -2907,11 +2907,11 @@ arabic,english
 رومانيا,Romania
 رونالد ريغان,Ronald Reagan
 رونتجينيوم,Roentgenium
-ريا,Rhea (mythology)
+ريا,Rhea
 رياح شمسية,Solar wind
 رياضة,Sport
 رياضيات,Mathematics
-رياضيات الاستمثال,Optimization (mathematics)
+رياضيات الاستمثال,Optimization
 رياضيات تطبيقية,Applied mathematics
 ريبوسوم,Ribosome
 ريتشارد شتراوس,Richard Strauss
@@ -2930,14 +2930,14 @@ arabic,english
 رينيوم,Rhenium
 ريو دي جانيرو,Rio de Janeiro
 زؤان,Rye
-زئبق,Mercury (element)
+زئبق,Mercury
 زامبيا,Zambia
-زاوية(هندسة),Angle
+زاوية,Angle
 زبدة,Butter
 زبرجد,Topaz
 زجاج,Glass
 زجاج معشق,Stained glass
-زجاجة حارقة (مولوتوف),Molotov cocktail
+زجاجة حارقة,Molotov cocktail
 زحل,Saturn
 زخم الحركة,Momentum
 زرادشت,Zoroaster
@@ -2953,7 +2953,7 @@ arabic,english
 زكاري تايلور,Zachary Taylor
 زكام,Common cold
 زلزال,Earthquake
-زمرة (رياضيات),Group (mathematics)
+زمرة,Group
 زمرة رباعية,Quaternion
 زمرد,Emerald
 زمن,Time
@@ -2962,24 +2962,24 @@ arabic,english
 زنجبار,Zanzibar
 زنجبيل,Ginger
 زهرة,Flower
-زهرة (توضيح),Venus (disambiguation)
+زهرة,Venus
 زهري,Syphilis
 زواج,Marriage
 زواحف,Reptile
 زوبعة,Cyclone
-زولو (جنس),Zulu
+زولو,Zulu
 زيت,Oil
 زيت زيتون,Olive oil
-زيتا (حرف إغريقي),Zeta
+زيتا,Zeta
 زيتون,Olive
 زيزفون,Tilia
 زيمبابوي,Zimbabwe
 زينون,Xenon
-زينون (إمبراطور),Zeno (emperor)
+زينون,Zeno
 زينون الرواقي,Zeno of Citium
 زينون من إيليا,Zeno of Elea
 زيوس,Zeus
-زيوس,Zeus (disambiguation)
+زيوس,Zeus
 سائل,Liquid
 سائل منوي,Semen
 سابورو,Sapporo
@@ -2988,8 +2988,8 @@ arabic,english
 سارة برنار,Sarah Bernhardt
 ساري,Sari
 ساسكاتشوان,Saskatchewan
-ساعة (آلة),Clock
-ساعة (وحدة),Hour
+ساعة,Clock
+ساعة,Hour
 سافانا,Savanna
 سافونارولا,Girolamo Savonarola
 ساكرامنتو، كاليفورنيا,Sacramento
@@ -2999,8 +2999,8 @@ arabic,english
 ساكي,Sake
 سالت ليك سيتي، يوتا,Salt Lake City
 سالزبورغ,Salzburg
-سالزبورغ (ولاية),Salzburg (state)
-سالفادو (باهيا),Salvador
+سالزبورغ,Salzburg
+سالفادو,Salvador
 سالونيك,Thessaloniki
 ساليرنو,Salerno
 ساماريوم,Samarium
@@ -3024,7 +3024,7 @@ arabic,english
 سانتا فيه، نيومكسيكو,Santa Fe
 سانتياغو,Santiago
 سايلم، أوريغون,Salem
-سب فيرجن,Subversion (software)
+سب فيرجن,Subversion
 سباحة,Swimming
 سباق الخيل,Horse racing
 سباق سيارات,Auto racing
@@ -3033,12 +3033,12 @@ arabic,english
 سببية,Causality
 سبت,Saturday
 سبتمبر,September
-سبج (حجر كريم),Obsidian
+سبج,Obsidian
 سبرانية,Cybernetics
 سبرينج فيلد، إلينوي,Springfield
 سبليت,Split
 سبيكة,Alloy
-ست,Set (mythology)
+ست,Set
 ستالينية,Stalinism
 ستانلي كوبريك,Stanley Kubrick
 ستراتوسفير,Stratosphere
@@ -3056,7 +3056,7 @@ arabic,english
 سحاب,Cloud
 سحابة أورط,Oort cloud
 سحاق,Lesbian
-سحر,Magic (paranormal)
+سحر,Magic
 سحلب,Orchidaceae
 سحلية,Lizard
 سد,Dam
@@ -3069,7 +3069,7 @@ arabic,english
 سرطان الثدي,Breast cancer
 سرطان الرئة,Lung cancer
 سرعة,Speed
-سرعة (ميكانيكا),Velocity
+سرعة,Velocity
 سرعة الضوء,Speed of light
 سرقة فكرية,Plagiarism
 سرقسطة,Zaragoza
@@ -3081,7 +3081,7 @@ arabic,english
 سعادة,Happiness
 سعة,Capacitance
 سعرة حرارية,Calorie
-سفاري (متصفح),Safari (web browser)
+سفاري,Safari
 سفالبارد,Svalbard
 سفر أستير,Book of Esther
 سفر أعمال الرسل,Acts of the Apostles
@@ -3126,7 +3126,7 @@ arabic,english
 سلسلة جبلية,Mountain range
 سلطان,Sultan
 سلطة,Authority
-سلطة تنفيذية,Executive (government)
+سلطة تنفيذية,Executive
 سلطة وطنية فلسطينية,Palestinian National Authority
 سلم موسيقي,Note
 سلمان رشدي,Salman Rushdie
@@ -3137,7 +3137,7 @@ arabic,english
 سليمان,Solomon
 سليولوز,Cellulose
 سماد,Fertilizer
-سمارة (روسيا),Samara
+سمارة,Samara
 سماميات,Apodiformes
 سمت الرأس,Zenith
 سمرقند,Samarkand
@@ -3157,7 +3157,7 @@ arabic,english
 سنوريات,Felidae
 سنونو,Swallow
 سهم,Arrow
-سهم تجاري,Share (finance)
+سهم تجاري,Share
 سهيل,Canopus
 سواب,SOAP
 سوازيلند,Swaziland
@@ -3170,7 +3170,7 @@ arabic,english
 سوريا,Syria
 سورينام,Suriname
 سوشي,Sushi
-سوط (أحياء),Flagellum
+سوط,Flagellum
 سوفا,Suva
 سوفتبول,Softball
 سوفوكليس,Sophocles
@@ -3187,7 +3187,7 @@ arabic,english
 سونيت,Sonnet
 سوهارتو,Suharto
 سويسرا,Switzerland
-سي (لغة برمجة),C (programming language)
+سي,C
 سي. إس. لويس,C. S. Lewis
 سياتل، واشنطن,Seattle
 سياحة,Tourism
@@ -3208,7 +3208,7 @@ arabic,english
 سيرة شخصية ذاتية,Autobiography
 سيرك,Circus
 سيروتونين,Serotonin
-سيريس (كوكب قزم),Ceres (dwarf planet)
+سيريس,Ceres
 سيرين,Serine
 سيريوم,Cerium
 سيزار بورجيا,Cesare Borgia
@@ -3218,7 +3218,7 @@ arabic,english
 سيشوان,Sichuan
 سيشيل,Seychelles
 سيغريد أوندست,Sigrid Undset
-سيغما (حرف إغريقي),Sigma
+سيغما,Sigma
 سيغموند فرويد,Sigmund Freud
 سيف,Sword
 سيكيم,Sikkim
@@ -3239,7 +3239,7 @@ arabic,english
 شاشة,Computer display
 شاشة الكرستال السائل,Liquid crystal display
 شامانية,Shamanism
-شامبانيا,Champagne (wine)
+شامبانيا,Champagne
 شانغهاي,Shanghai
 شاه,Shah
 شاي,Tea
@@ -3272,25 +3272,25 @@ arabic,english
 شرق ساسكس,East Sussex
 شركة طيران,Airline
 شرلوك هولمز,Sherlock Holmes
-شرن,Charon (moon)
+شرن,Charon
 شريان,Artery
 شريش,Jerez de la Frontera
 شريعة إسلامية,Sharia
 شطرنج,Chess
 شطيرة,Sandwich
 شعاب مرجانية,Coral reef
-شعار (رمز),Logo
+شعار,Logo
 شعار الدولة,Motto
 شعب حلقي,Atoll
-شعبة (تصنيف),Phylum
+شعبة,Phylum
 شعبة البذريات,Spermatophyte
-شعر (أدب),Poetry
-شعر (تشريح),Hair
+شعر,Poetry
+شعر,Hair
 شعوبية سياسية,Populism
 شعير,Barley
 شفرة جينية,Genetic code
 شفعيات الأصابع,Even-toed ungulate
-شفق قطبي,Aurora (astronomy)
+شفق قطبي,Aurora
 شفيلد,Sheffield
 شقوبية,Segovia
 شك,Skepticism
@@ -3307,7 +3307,7 @@ arabic,english
 شمس,Sun
 شمع,Wax
 شمعة,Candle
-شمعة (وحدة قياس),Candela
+شمعة,Candela
 شنتو,Shinto
 شنق,Hanging
 شهادتان,Shahadah
@@ -3323,7 +3323,7 @@ arabic,english
 شومر,Fennel
 شيانج كاي شيك,Chiang Kai-shek
 شيبيات,Lichen
-شيح,Artemisia (plant)
+شيح,Artemisia
 شيشان,Chechnya
 شيشة,Hookah
 شيشرون,Cicero
@@ -3348,7 +3348,7 @@ arabic,english
 صحراء كالهاري,Kalahari Desert
 صحراء كبرى,Sahara
 صحفي,Journalist
-صخر (جيولوجيا),Rock (geology)
+صخر,Rock
 صخر رسوبي,Sedimentary rock
 صخور متحولة,Metamorphic rock
 صخور نارية,Igneous rock
@@ -3370,12 +3370,12 @@ arabic,english
 صقلية,Sicily
 صكوك الغفران,Indulgence
 صلاة,Prayer
-صلاة (إسلام),Salah
+صلاة,Salah
 صلاح الدين الأيوبي,Saladin
 صلادة,Hardness
 صلب,Solid
 صلب,Solid state
-صلب (سبيكة),Steel
+صلب,Steel
 صلب المسيح,Crucifixion
 صلب غير قابل للصدأ,Stainless steel
 صلصة,Sauce
@@ -3391,7 +3391,7 @@ arabic,english
 صوت,Sound
 صوت فوق سمعي,Ultrasound
 صوديوم,Sodium
-صور (لبنان),Tyre
+صور,Tyre
 صوفيا,Sofia
 صوفية,Sufism
 صوم,Fasting
@@ -3404,7 +3404,7 @@ arabic,english
 ضباب,Fog
 ضبع,Hyena
 ضحك,Laughter
-ضد (مناعة),Antibody
+ضد,Antibody
 ضرب,Multiplication
 ضرطة,Flatulence
 ضريبة,Tax
@@ -3418,13 +3418,13 @@ arabic,english
 طائرة شراعية,Glider
 طائرة ورقية,Kite
 طائفة,Sect
-طائفة (تصنيف),Class (biology)
+طائفة,Class
 طابع بريد,Postage stamp
 طاجيكستان,Tajikistan
 طاحونة هوائية,Windmill
 طاعون,Bubonic plague
 طاقة,Energy
-طاقة,Energy (society)
+طاقة,Energy
 طاقة ريحية,Wind power
 طاقة شمسية,Solar energy
 طاقة كهرمائية,Hydroelectricity
@@ -3448,7 +3448,7 @@ arabic,english
 طبلة,Drum
 طبيعة,Nature
 طحال,Spleen
-طرابلس (ليبيا),Tripoli
+طرابلس,Tripoli
 طرح,Subtraction
 طرخوم,Tarragon
 طروادة,Troy
@@ -3470,16 +3470,16 @@ arabic,english
 طهران,Tehran
 طوارق,Tuareg
 طوبولوجيا,Topology
-طور (مادة),Phase (matter)
+طور,Phase
 طوربيد,Torpedo
 طوكيو,Tokyo
 طول,Length
 طول الموجة,Wavelength
 طولون، فرنسا,Toulon
-طيبة (مصر),Thebes
+طيبة,Thebes
 طيران,Aviation
 طين,Clay
-ظفر (تشريح),Nail (anatomy)
+ظفر,Nail
 عائلة الشبوطيات,Cyprinid
 عاج,Ivory
 عادة سرية,Masturbation
@@ -3506,14 +3506,14 @@ arabic,english
 عدد مركب,Composite number
 عدس,Lentil
 عدسات لاصقة,Contact lens
-عدسة (بصريات),Lens (optics)
+عدسة,Lens
 عدسة مكبرة,Magnifying glass
 عدم المساواة,Inequality
 عدمية,Nihilism
 عدن,Aden
 عرب,Arab
-عرض (طب),Symptom
-عرق (علم الإنسان),Ethnic group
+عرض,Symptom
+عرق,Ethnic group
 عرقسوس,Liquorice
 عزرا باوند,Ezra Pound
 عزم الدوران,Torque
@@ -3538,10 +3538,10 @@ arabic,english
 عصفور دوري,House Sparrow
 عصور وسطى,Middle Ages
 عضلة,Muscle
-عضو (تشريح),Organ (anatomy)
+عضو,Organ
 عضو جنسي,Sex organ
 عضية,Organelle
-عطارد,Mercury (planet)
+عطارد,Mercury
 عطالة,Inertia
 عطر,Perfume
 عطيل,Othello
@@ -3552,7 +3552,7 @@ arabic,english
 عفج,Duodenum
 عقاب,Eagle
 عقاب ذهبي,Golden Eagle
-عقد (قانون),Contract
+عقد,Contract
 عقد 1530,1530s
 عقد 1750,1750s
 عقد 1760,1760s
@@ -3576,18 +3576,18 @@ arabic,english
 عقد 1970,1970s
 عقد 1980,1980s
 عقد 1990,1990s
-عقدة (وحدة سرعة),Knot (speed)
+عقدة,Knot
 عقرب,Scorpion
 عقيق,Agate
 عكا,Acre
 علامات الترقيم,Punctuation
 علامة,Symbol
-علامة الاستفهام (علامة ترقيم),Question mark
-علامة التعجب (علامة ترقيم),Exclamation mark
+علامة الاستفهام,Question mark
+علامة التعجب,Exclamation mark
 علامة تجارية,Trademark
 علك,Chewing gum
 علم,Science
-علم (راية),Flag
+علم,Flag
 علم الآثار,Archaeology
 علم الأحياء,Biology
 علم الأحياء الجزيئي,Molecular biology
@@ -3605,7 +3605,7 @@ arabic,english
 علم البراكين,Volcanology
 علم البلورات,Crystallography
 علم البيئة,Ecology
-علم التحريك,Dynamics (physics)
+علم التحريك,Dynamics
 علم التصنيف,Taxonomy
 علم التعمية,Cryptography
 علم التنجيم,Astrology
@@ -3640,8 +3640,8 @@ arabic,english
 علي بن أبي طالب,Ali
 عمارة,Architecture
 عمارة قوطية,Gothic architecture
-عمان (سلطنة),Oman
-عمان (مدينة),Amman
+عمان,Oman
+عمان,Amman
 عمدة,Mayor
 عمر النصف,Half-life
 عملاق أحمر,Red giant
@@ -3658,7 +3658,7 @@ arabic,english
 عنصرية جنسية,Sexism
 عنف,Violence
 عنفة,Turbine
-عنقاء,Phoenix (mythology)
+عنقاء,Phoenix
 عنكبوت,Spider
 عنكبيات,Arachnid
 عنوان إنترنت,Uniform Resource Locator
@@ -3670,9 +3670,9 @@ arabic,english
 عيد الأم,Mother's Day
 عيد الحب,Valentine's Day
 عيد الشكر,Thanksgiving
-عيد الشكر,Thanksgiving (United States)
-عيد الشكر,Thanksgiving (Canada)
-عيد الشكر,Thanksgiving (disambiguation)
+عيد الشكر,Thanksgiving
+عيد الشكر,Thanksgiving
+عيد الشكر,Thanksgiving
 عيد الفصح اليهودي,Passover
 عيد القيامة,Easter
 عيد الميلاد,Christmas
@@ -3688,11 +3688,11 @@ arabic,english
 غاز نبيل,Noble gas
 غاليليو غاليلي,Galileo Galilei
 غاليوم,Gallium
-غاما (حرف إغريقي),Gamma
+غاما,Gamma
 غامبيا,The Gambia
 غانا,Ghana
 غانيشا,Ganesha
-غايا,Gaia (mythology)
+غايا,Gaia
 غايتانو دونيزيتي,Gaetano Donizetti
 غبريال ليبمان,Gabriel Lippmann
 غدة,Gland
@@ -3722,9 +3722,9 @@ arabic,english
 غلوسترشير,Gloucestershire
 غلوون,Gluon
 غنوصية,Gnosticism
-غو,Go (board game)
+غو,Go
 غوا,Goa
-غوادالاخارا (المكسيك),Guadalajara
+غوادالاخارا,Guadalajara
 غواصة,Submarine
 غوام,Guam
 غواياكيل,Guayaquil
@@ -3744,7 +3744,7 @@ arabic,english
 غينيا بيساو,Guinea-Bissau
 غيورغ فيليب تيليمان,Georg Philipp Telemann
 فأر,Mouse
-فأرة,Mouse (computing)
+فأرة,Mouse
 فأس,Axe
 فئات الدم,Blood type
 فادو,Fado
@@ -3752,14 +3752,14 @@ arabic,english
 فارنا,Varna
 فاشية,Fascism
 فاكس,Fax
-فالق,Fault (geology)
+فالق,Fault
 فالنتينا تريشكوفا,Valentina Tereshkova
 فالنسيا,Valencia
 فاليتا,Valletta
 فاناديوم,Vanadium
 فانكوفر,Vancouver
 فانواتو,Vanuatu
-فاي (حرف إغريقي),Phi (letter)
+فاي,Phi
 فايكنج,Viking
 فايمار,Weimar
 فبراير,February
@@ -3794,8 +3794,8 @@ arabic,english
 فرشاة أسنان,Toothbrush
 فرضية,Hypothesis
 فرط ضغط الدم,Hypertension
-فرعون (لقب),Pharaoh
-فرقة (وحدة عسكرية),Division (military)
+فرعون,Pharaoh
+فرقة,Division
 فركتوز,Fructose
 فرميوم,Fermium
 فرميون,Fermion
@@ -3816,14 +3816,14 @@ arabic,english
 فريديناند دي سوسير,Ferdinand de Saussure
 فريزلند,Friesland
 فريسنو، كاليفورنيا,Fresno
-فريق أول (رتبة عسكرية),General Officer
+فريق أول,General Officer
 فريولي فينيتسيا جوليا,Friuli-Venezia Giulia
 فسبازيان,Vespasian
-فستا,Vesta (mythology)
+فستا,Vesta
 فسيفساء,Mosaic
 فصام,Schizophrenia
 فصول السنة,Season
-فصيلة (تصنيف),Family (biology)
+فصيلة,Family
 فضاء كوني,Universe
 فضاء هلبرت,Hilbert space
 فضة,Silver
@@ -3831,7 +3831,7 @@ arabic,english
 فضيلة,Virtue
 فطر,Fungus
 فطر,Mushroom
-فظ (حيوان),Walrus
+فظ,Walrus
 فعل,Verb
 فقاريات,Vertebrate
 فقاريات رباعية الأطراف,Tetrapod
@@ -3863,7 +3863,7 @@ arabic,english
 فهد,Cheetah
 فواكه,Fruit
 فوتون,Photon
-فودكا (مشروب كحولي),Vodka
+فودكا,Vodka
 فودو,Voodoo
 فورت وورث، تكساس,Fort Worth
 فورتران,Fortran
@@ -3897,7 +3897,7 @@ arabic,english
 فيجي,Fiji
 فيدرالية,Federation
 فيدل كاسترو,Fidel Castro
-فيدورا كور,Fedora (Linux distribution)
+فيدورا كور,Fedora
 فيديو,Video
 فيرارا,Ferrara
 فيرجيل,Virgil
@@ -3924,9 +3924,9 @@ arabic,english
 فيضان,Flood
 فيفيان لي,Vivien Leigh
 فيكتور هوجو,Victor Hugo
-فيكتوريا (سيشيل),Victoria
+فيكتوريا,Victoria
 فيل,Elephant
-فيل (شطرنج),Bishop (chess)
+فيل,Bishop
 فيلادلفيا، بنسيلفانيا,Philadelphia
 فيلكس مندلسون,Felix Mendelssohn
 فيلم,Film
@@ -3943,8 +3943,8 @@ arabic,english
 فينسنت فان غوخ,Vincent van Gogh
 فينسنج,Fencing
 فينشينسو بيليني,Vincenzo Bellini
-فينكس (مسبار فضائي),Phoenix (spacecraft)
-فينوس ( أسطورة ),Venus (mythology)
+فينكس,Phoenix
+فينوس,Venus
 فينيتو,Veneto
 فينيقيون,Phoenicia
 فينيكس، أريزونا,Phoenix
@@ -3956,9 +3956,9 @@ arabic,english
 قازان,Kazan
 قاسم مشترك أكبر,Greatest common divisor
 قاعدة بيانات,Database
-قالب:بذرة,Stub
-قالب:بوت,Bot
-قالب:حقيقة,Fact
+بذرة,Stub
+بوت,Bot
+حقيقة,Fact
 قاموس,Dictionary
 قانون,Law
 قانون أوم,Ohm's law
@@ -3969,9 +3969,9 @@ arabic,english
 قبرص,Cyprus
 قتل رحيم,Euthanasia
 قدر مطلق,Absolute magnitude
-قدم (وحدة قياس),Foot (unit of length)
+قدم,Foot
 قدموس الملك الفينيقي,Cadmus
-قذف (أحياء),Ejaculation
+قذف,Ejaculation
 قرد,Ape
 قردة عليا,Hominidae
 قرش,Shark
@@ -3984,16 +3984,16 @@ arabic,english
 قرغيزستان,Kyrgyzstan
 قرفة,Cinnamon
 قرموط,Catfish
-قرن (زمن),Century
+قرن,Century
 قرن إفريقي,Horn of Africa
 قرنفل,Clove
 قرنيات,Fabaceae
 قرنية,Cornea
 قرية,Village
-قزحية,Iris (anatomy)
+قزحية,Iris
 قزم أحمر,Red dwarf
 قسطنطين الأول,Constantine I
-قشرة أرضية,Crust (geology)
+قشرة أرضية,Crust
 قشريات,Crustacean
 قشريات الجناح,Lepidoptera
 قصدير,Tin
@@ -4015,13 +4015,13 @@ arabic,english
 قطقاطيات,Charadriiformes
 قطن,Cotton
 قفز طويل,Long jump
-قلاب,Flip-flop (electronics)
+قلاب,Flip-flop
 قلب,Heart
 قلعة,Castle
-قلعة (شطرنج),Rook (chess)
+قلعة,Rook
 قلم حبر جاف,Ballpoint pen
 قلم رصاص,Pencil
-قلوي,Base (chemistry)
+قلوي,Base
 قلويد,Alkaloid
 قمار,Gambling
 قمامة,Waste
@@ -4050,10 +4050,10 @@ arabic,english
 قوة,Force
 قوس,Arch
 قوس قزح,Rainbow
-قوسان (علامة ترقيم),Bracket
+قوسان,Bracket
 قومية,Nationalism
 قيء,Vomiting
-قيراط (وحدة كتلة),Carat (mass)
+قيراط,Carat
 قيمة متوقعة,Expected value
 قيمة مطلقة,Absolute value
 كابول,Kabul
@@ -4072,7 +4072,7 @@ arabic,english
 كارافادجو,Caravaggio
 كاراكورام,Karakoram
 كارديف,Cardiff
-كاردينال,Cardinal (Catholicism)
+كاردينال,Cardinal
 كارسون سيتي، نيفادا,Carson City
 كارل أورف,Carl Orff
 كارل بوبر,Karl Popper
@@ -4088,7 +4088,7 @@ arabic,english
 كارولينجيون,Carolingian dynasty
 كاريكاتير,Caricature
 كازاخستان,Kazakhstan
-كاستيا (منطقة تاريخية),Castile (historical region)
+كاستيا,Castile
 كاشو,Cashew
 كافايين,Caffeine
 كالابريا,Calabria
@@ -4096,22 +4096,22 @@ arabic,english
 كالسيوم,Calcium
 كالفين كوليدج,Calvin Coolidge
 كالفينية,Calvinism
-كاليبسو,Calypso (mythology)
+كاليبسو,Calypso
 كاليجولا,Caligula
 كاليدونيا الجديدة,New Caledonia
 كاليفورنيا,California
 كاليفورنيوم,Californium
 كاليوبي,Calliope
 كامبانيا,Campania
-كامبريدج,Cambridge (disambiguation)
-كامبريدج (إنجلترا),Cambridge
+كامبريدج,Cambridge
+كامبريدج,Cambridge
 كامبريدج، ماساتشوستس,Cambridge
 كاميرا,Camera
 كاميرا رقمية,Digital camera
 كاميرا ويب,Webcam
 كاميكازي,Kamikaze
-كاميمبرت,Camembert (cheese)
-كان (مدينة),Cannes
+كاميمبرت,Camembert
+كان,Cannes
 كانبرا,Canberra
 كانتاتا,Cantata
 كانتربيري,Canterbury
@@ -4119,8 +4119,8 @@ arabic,english
 كانزاس,Kansas
 كانزاس سيتي، ميزوري,Kansas City
 كاوناس,Kaunas
-كاي (حرف إغريقي),Chi (letter)
-كبا (حرف إغريقي),Kappa
+كاي,Chi
+كبا,Kappa
 كبادوكيا,Cappadocia
 كبريت,Sulfur
 كتاب,Book
@@ -4132,7 +4132,7 @@ arabic,english
 كتلة,Mass
 كتلة حيوية,Biomass
 كتلة ذرية,Atomic mass
-كتيبة (وحدة عسكرية),Battalion
+كتيبة,Battalion
 كثافة,Density
 كحول,Alcohol
 كذب,Lie
@@ -4143,7 +4143,7 @@ arabic,english
 كربونات كالسيوم,Calcium carbonate
 كرة,Sphere
 كرة السلة,Basketball
-كرة القدم,Football (soccer)
+كرة القدم,Football
 كرة الماء,Water polo
 كرة المضرب,Tennis
 كرة طائرة,Volleyball
@@ -4169,23 +4169,23 @@ arabic,english
 كريمونا,Cremona
 كزبرة,Coriander
 كزينوفانيس,Xenophanes
-كسر,Fraction (mathematics)
+كسر,Fraction
 كسوف الشمس,Eclipse
 كسوف الشمس,Solar eclipse
 كشافة,Scouting
-كشي (حرف إغريقي),Xi
+كشي,Xi
 كعك,Cake
 كلارك غيبل,Clark Gable
 كلارينيت,Clarinet
 كلاسيكية,Classicism
 كلاوديو مونتيفيردي,Claudio Monteverdi
 كلاوديوس بطليموس,Ptolemy
-كلب (حيوان),Dog
+كلب,Dog
 كلبيات,Canidae
 كلفة شمسية,Sunspot
 كلفن,Kelvin
 كلكتا,Kolkata
-كلمة (لغة),Word
+كلمة,Word
 كلود شانون,Claude Shannon
 كلود مونيه,Claude Monet
 كلوديوس,Claudius
@@ -4234,7 +4234,7 @@ arabic,english
 كورسك,Kursk
 كورسيكا,Corsica
 كورش الكبير,Cyrus the Great
-كورك,Cork (city)
+كورك,Cork
 كورنث,Corinth
 كورنوال,Cornwall
 كوريا,Korea
@@ -4262,7 +4262,7 @@ arabic,english
 كولومبوس,Columbus
 كولومبوس، أوهايو,Columbus
 كولومبيا,Colombia
-كولومبيا (توضيح),Columbia
+كولومبيا,Columbia
 كولومبيا البريطانية,British Columbia
 كولومبيا، كارولاينا الجنوبية,Columbia
 كولونيا,Cologne
@@ -4273,7 +4273,7 @@ arabic,english
 كونترباص,Double bass
 كونراد أديناور,Konrad Adenauer
 كونشرتو,Concerto
-كونغ فو,Kung fu (term)
+كونغ فو,Kung fu
 كونفشيوسية,Confucianism
 كونفوشيوس,Confucius
 كونكورد، نيوهامبشر,Concord
@@ -4307,14 +4307,14 @@ arabic,english
 كينيا,Kenya
 كيه جي بي,KGB
 كيوتو,Kyoto
-كيوي (طائر),Kiwi
+كيوي,Kiwi
 كييف,Kiev
 لؤلؤ,Pearl
 لا سبيتسيا,La Spezia
 لا فلز,Nonmetal
-لا مركزية (رياضيات),Eccentricity (mathematics)
+لا مركزية,Eccentricity
 لاأدرية,Agnosticism
-لابؤرية,Astigmatism (eye)
+لابؤرية,Astigmatism
 لاباز,La Paz
 لابلاتا,La Plata
 لاتخ,LaTeX
@@ -4333,8 +4333,8 @@ arabic,english
 لاكشمي,Lakshmi
 لاكويلا,L'Aquila
 لاما,Llama
-لامب (حزمة برمجيات),LAMP (software bundle)
-لامدا (حرف إغريقي),Lambda
+لامب,LAMP
+لامدا,Lambda
 لانثانوم,Lanthanum
 لانثانيدات,Lanthanide
 لانسنغ، ميشيغان,Lansing
@@ -4380,32 +4380,32 @@ arabic,english
 لقلق,Stork
 لقلقيات,Ciconiiformes
 لندن,London
-لنكس,Lynx (web browser)
+لنكس,Lynx
 لهجة,Dialect
 لو كوربوزييه,Le Corbusier
 لو هافر,Le Havre
-لواء (وحدة عسكرية),Brigade
+لواء,Brigade
 لوار,Loire River
 لواندا,Luanda
 لوتشانو بافاروتي,Luciano Pavarotti
 لوتيتيوم,Lutetium
 لوثرية,Lutheranism
 لوجستية,Logistics
-لوحة مفاتيح الحاسوب,Keyboard (computing)
+لوحة مفاتيح الحاسوب,Keyboard
 لودفيج فان بيتهوفن,Ludwig van Beethoven
 لودفيج فيتجينشتاين,Ludwig Wittgenstein
 لودفيش ميس فان دي رو,Ludwig Mies van der Rohe
 لورنسيوم,Lawrencium
-لورين,Lorraine (region)
+لورين,Lorraine
 لوز,Almond
 لوزان,Lausanne
 لوزون,Luzon
 لوس أنجلوس، كاليفورنيا,Los Angeles
 لوساكا,Lusaka
-لوسيفر (مصطلح),Lucifer
+لوسيفر,Lucifer
 لوغاريتم,Logarithm
 لوكسمبورغ,Luxembourg
-لوكسمبورغ (مدينة),Luxembourg (city)
+لوكسمبورغ,Luxembourg
 لوكي,Loki
 لومبارديا,Lombardy
 لون,Color
@@ -4426,7 +4426,7 @@ arabic,english
 ليبيا,Libya
 ليبيدات,Lipid
 ليبيريا,Liberia
-ليتشي (فاكهة),Lychee
+ليتشي,Lychee
 ليتو,Leto
 ليثيوم,Lithium
 ليختنشتاين,Liechtenstein
@@ -4434,26 +4434,26 @@ arabic,english
 ليدن,Leiden
 ليدي جين غراي,Lady Jane Grey
 ليزر,Laser
-ليسب,Lisp (programming language)
+ليسب,Lisp
 ليستر,Leicester
 ليسوتو,Lesotho
 ليسين,Lysine
 ليغوريا,Liguria
 ليفربول,Liverpool
 ليل,Night
-ليل (مدينة),Lille
+ليل,Lille
 ليلونغوي,Lilongwe
 ليليث,Lilith
 ليما,Lima
 ليمون,Lemon
 لينكس,Linux
 لينكولنشير,Lincolnshire
-لينكون (توضيح),Lincoln
+لينكون,Lincoln
 لينكون، نبراسكا,Lincoln
 لينوس باولنغ,Linus Pauling
-ليو الأول,Leo I (emperor)
+ليو الأول,Leo I
 ليوبليانا,Ljubljana
-ليون (فرنسا),Lyon
+ليون,Lyon
 ليون تروتسكي,Leon Trotsky
 ليونارد برنستاين,Leonard Bernstein
 ليوناردو دا فينشي,Leonardo da Vinci
@@ -4476,7 +4476,7 @@ arabic,english
 مادة مركبة,Composite material
 مادة مضادة,Antimatter
 مادة مظلمة,Dark matter
-مادونا,Madonna (entertainer)
+مادونا,Madonna
 مادية,Materialism
 مادية جدلية,Dialectical materialism
 ماديسون، ويسكنسن,Madison
@@ -4528,7 +4528,7 @@ arabic,english
 مالي,Mali
 ماليزيا,Malaysia
 ماموث,Mammoth
-مان (جزيرة),Isle of Man
+مان,Isle of Man
 ماناغوا,Managua
 مانتوفا,Mantua
 مانجو,Mango
@@ -4548,7 +4548,7 @@ arabic,english
 مايكرونيزيا,Micronesia
 مايكل آنجلو,Michelangelo
 مايكل فاراداي,Michael Faraday
-ماين (نهر),Main
+ماين,Main
 مايو,May
 مايوركا,Majorca
 مبابان,Mbabane
@@ -4563,12 +4563,12 @@ arabic,english
 مبيض,Ovary
 متتالية,Sequence
 متتالية فيبوناتشي,Fibonacci number
-متجهة,Vector (spatial)
+متجهة,Vector
 متحف,Museum
 متحف اللوفر,Louvre
 متر,Metre
 متر مربع,Square metre
-متسلسلة,Series (mathematics)
+متسلسلة,Series
 متسلسلة فورييه,Fourier series
 متصفح ويب,Web browser
 متعدد الحدود,Polynomial
@@ -4584,7 +4584,7 @@ arabic,english
 مثلجات,Ice cream
 مثلية,Homosexuality
 مثنوية,Dualism
-مثنوية (فلسفة العقل),Dualism (philosophy of mind)
+مثنوية,Dualism
 مجال انترنت,Domain name
 مجتمع,Society
 مجرة,Galaxy
@@ -4599,10 +4599,10 @@ arabic,english
 مجمع مسكوني,Ecumenical council
 مجمع نيقية,First Council of Nicaea
 مجموعة,Group
-مجموعة (رياضيات),Set
+مجموعة,Set
 مجموعة الفلدسبار,Feldspar
 مجموعة تعليمات بنية الحاسب,Reduced instruction set computer
-مجموعة جدول دوري,Group (periodic table)
+مجموعة جدول دوري,Group
 مجموعة جزئية,Subset
 مجموعة ماندلبروت,Mandelbrot set
 مجهر,Microscope
@@ -4621,15 +4621,15 @@ arabic,english
 محلول,Solution
 محمد بن عبد الله,Muhammad
 محمد حسني مبارك,Hosni Mubarak
-محمد علي (ملاكم),Muhammad Ali
+محمد علي,Muhammad Ali
 محور ثقل,Center of mass
 محوّل,Transformer
-محيط (جغرافيا),Ocean
+محيط,Ocean
 محيط أطلسي,Atlantic Ocean
 محيط هندي,Indian Ocean
 مختبر,Laboratory
 مخرطة,Lathe
-مخروط,Cone (geometry)
+مخروط,Cone
 مخطط قلب كهربائي,Electrocardiogram
 مخططات الأبراج,Horoscope
 مخطوط,Manuscript
@@ -4640,9 +4640,9 @@ arabic,english
 مدرسة,School
 مدرسة تجريدية,Abstract art
 مدرسة تكعيبية,Cubism
-مدرسية (فلسفة),Scholasticism
+مدرسية,Scholasticism
 مدريد,Madrid
-مدغشقر (دولة),Madagascar
+مدغشقر,Madagascar
 مدونة,Blog
 مدينة أبوظبي,Abu Dhabi
 مدينة الجيزة,Giza
@@ -4661,10 +4661,10 @@ arabic,english
 مرارة,Gallbladder
 مراكش,Marrakech
 مراهقة,Adolescence
-مربع,Square (geometry)
+مربع,Square
 مرتزق,Mercenary
 مرحلة الرشد,Adult
-مردكوش (نبات),Oregano
+مردكوش,Oregano
 مرسال الحمض النووي الريبي,Messenger RNA
 مرسيليا,Marseille
 مرض,Disease
@@ -4677,7 +4677,7 @@ arabic,english
 مرو,Quartz
 مروحية,Helicopter
 مريء,Esophagus
-مريم العذراء,Mary (mother of Jesus)
+مريم العذراء,Mary
 مريم المجدلية,Mary Magdalene
 مزاد,Auction
 مزمور,Psalms
@@ -4685,19 +4685,19 @@ arabic,english
 مساحة,Area
 مسافات موسيقية,Octave
 مسافة,Distance
-مسبحة (عقد),Rosary
+مسبحة,Rosary
 مستجمع مائي,Drainage basin
 مستحث,Inductor
 مستحثات,Fossil
 مستذئب,Werewolf
 مستشفى,Hospital
 مستعر أعظم,Supernova
-مستوي,Plane (mathematics)
+مستوي,Plane
 مسجد,Mosque
 مسدس,Handgun
 مسرح,Theatre
 مسلة,Obelisk
-مسمار,Nail (fastener)
+مسمار,Nail
 مسيحية,Christianity
 مسير,Router
 مشاة,Infantry
@@ -4713,9 +4713,9 @@ arabic,english
 مصدح,Microphone
 مصر,Egypt
 مصرف,Bank
-مصرف (برمجة),Compiler
+مصرف,Compiler
 مصعد,Elevator
-مصفوفة,Matrix (mathematics)
+مصفوفة,Matrix
 مصنع,Factory
 مضاد التأكسد,Antioxidant
 مضاد حيوي,Antibiotic
@@ -4755,7 +4755,7 @@ arabic,english
 معركة بريطانيا,Battle of Britain
 معركة ترموبيل,Battle of Thermopylae
 معركة طرف الغار,Battle of Trafalgar
-معركة ليبانتو,Battle of Lepanto (1571)
+معركة ليبانتو,Battle of Lepanto
 معركة ميدواي,Battle of Midway
 معركة واترلو,Battle of Waterloo
 معسكر اعتقال,Internment
@@ -4770,14 +4770,14 @@ arabic,english
 مغناطيسية,Magnetism
 مغنيزيوم,Magnesium
 مفتاح موسيقي,Clef
-مفرغة الهواء (كوكبة),Antlia
-مفسر (برمجة),Interpreter (computing)
+مفرغة الهواء,Antlia
+مفسر,Interpreter
 مفصل,Joint
 مفصليات الأرجل,Arthropod
 مقاتلة,Fighter aircraft
-مقاطعة أوترخت,Utrecht (province)
+مقاطعة أوترخت,Utrecht
 مقاومة كهربائية,Electrical resistance
-مقاومة كهربائية (ثنائي أقطاب),Resistor
+مقاومة كهربائية,Resistor
 مقبرة,Cemetery
 مقحل,Transistor
 مقديشيو,Mogadishu
@@ -4787,14 +4787,14 @@ arabic,english
 مقصلة,Guillotine
 مقياس التيار الكهربائي,Ammeter
 مقياس حرارة,Thermometer
-مكان (فيزياء),Space
+مكان,Space
 مكبث,Macbeth
 مكبر الصوت,Loudspeaker
 مكة المكرمة,Mecca
 مكتب التحقيقات الفيدرالي,Federal Bureau of Investigation
 مكتبة,Library
 مكثف,Capacitor
-مكسرات,Nut (fruit)
+مكسرات,Nut
 مكسيميانوس,Maximian
 مكعب,Cube
 ملابس,Clothing
@@ -4802,11 +4802,11 @@ arabic,english
 ملاريا,Malaria
 ملاك,Angel
 ملاكمة,Boxing
-ملح (كيمياء),Salt (chemistry)
+ملح,Salt
 ملح الطعام,Salt
 ملحن,Composer
 ملديف,Maldives
-ملك شطرنج,King (chess)
+ملك شطرنج,King
 ملكية,Monarchy
 ملكية عامة,Public domain
 ملكية فكرية,Intellectual property
@@ -4815,8 +4815,8 @@ arabic,english
 ممباي,Mumbai
 ممثل,Actor
 ممر جبلي,Mountain pass
-ممفيس (مصر),Memphis
-مملكة (تصنيف),Kingdom (biology)
+ممفيس,Memphis
+مملكة,Kingdom
 مملكة تدمر,Palmyra
 مناحيم بيجِن,Menachem Begin
 مناخ,Climate
@@ -4826,7 +4826,7 @@ arabic,english
 مندليفيوم,Mendelevium
 مندناو,Mindanao
 منزل,House
-منشور (هندسة),Prism (geometry)
+منشور,Prism
 منشوريا,Manchuria
 منطق,Logic
 منطق رياضي,Mathematical logic
@@ -4835,10 +4835,10 @@ arabic,english
 منطقة أندلسيا ذاتية الحكم,Andalusia
 منطقة جزر البليار ذاتية الحكم,Balearic Islands
 منطقة جزر الكناري ذاتية الحكم,Canary Islands
-منطقة جليقية ذاتية الحكم,Galicia (Spain)
+منطقة جليقية ذاتية الحكم,Galicia
 منطقة زمنية,Time zone
 منطقة شيكوكو,Shikoku
-منطقة مدريد ذاتية الحكم,Madrid (autonomous community)
+منطقة مدريد ذاتية الحكم,Madrid
 منظمة,Organization
 منظمة الأغذية والزراعة,Food and Agriculture Organization
 منظمة البلدان الأمريكية,Organization of American States
@@ -4855,7 +4855,7 @@ arabic,english
 مهاتما غاندي,Mahatma Gandhi
 مهبل,Vagina
 مهندس معماري,Architect
-مو (حرف إغريقي),Mu (letter)
+مو,Mu
 موت,Death
 موت أسود,Black Death
 موتيت,Motet
@@ -4865,12 +4865,12 @@ arabic,english
 مودم,Modem
 مورافيا,Moravia
 مورثة,Gene
-مورفولوجيا (لسانيات),Morphology (linguistics)
+مورفولوجيا,Morphology
 مورفين,Morphine
 موريتانيا,Mauritania
 موريشيوس,Mauritius
 موز,Banana
-موز,Musa (genus)
+موز,Musa
 موزمبيق,Mozambique
 موساد,Mossad
 موسكو,Moscow
@@ -4889,7 +4889,7 @@ arabic,english
 موضة,Fashion
 موقع ويب,Web page
 موقع ويب,Website
-مول,Mole (unit)
+مول,Mole
 مولدافيا,Moldova
 موليبدنوم,Molybdenum
 موليزي,Molise
@@ -4904,7 +4904,7 @@ arabic,english
 مونتغومري، ألاباما,Montgomery
 مونتيفيديو,Montevideo
 مونروفيا,Monrovia
-مونوبولي (لعبة),Monopoly (game)
+مونوبولي,Monopoly
 مونومر,Monomer
 مونيكا سيليش,Monica Seles
 ميامي، فلوريدا,Miami
@@ -4923,7 +4923,7 @@ arabic,english
 ميديشي,Medici
 ميروفنجيون,Merovingian
 ميريل ستريب,Meryl Streep
-ميزانية (محاسبة),Balance sheet
+ميزانية,Balance sheet
 ميزوري,Missouri
 ميزوسفير,Mesosphere
 ميزون,Meson
@@ -4935,7 +4935,7 @@ arabic,english
 ميكانيكا الموائع,Fluid mechanics
 ميكانيكا كلاسيكية,Classical mechanics
 ميكروب,Microorganism
-ميكي ماوس (شخصية كارتونية),Mickey Mouse
+ميكي ماوس,Mickey Mouse
 ميل غيبسون,Mel Gibson
 ميلارد فيلمور,Millard Fillmore
 ميلانو,Milan
@@ -4963,7 +4963,7 @@ arabic,english
 نار الاغريق,Greek fire
 ناشفيل، تينيسي,Nashville
 ناطحة سحاب,Skyscraper
-ناعور (مرض),Haemophilia
+ناعور,Haemophilia
 ناغازاكي,Nagasaki
 ناغويا,Nagoya
 نافذة,Window
@@ -5007,7 +5007,7 @@ arabic,english
 نسبوية,Relativism
 نسطورية,Nestorianism
 نسيان,Amnesia
-نسيج حيوي,Tissue (biology)
+نسيج حيوي,Tissue
 نسيج ضام,Connective tissue
 نشا,Starch
 نشاط إشعاعي,Radioactive decay
@@ -5015,7 +5015,7 @@ arabic,english
 نصف الكرة الأرضية الشمالي,Northern Hemisphere
 نصف قطر,Radius
 نضناض,Echidna
-نطاق (تصنيف),Domain (biology)
+نطاق,Domain
 نظائر عناصر كيميائية,Isotope
 نظارة,Glasses
 نظام,System
@@ -5041,7 +5041,7 @@ arabic,english
 نظرية التطور,Evolution
 نظرية الخلق,Creationism
 نظرية الزمر,Group theory
-نظرية القياس,Measure (mathematics)
+نظرية القياس,Measure
 نظرية المجموعات,Set theory
 نظرية المعرفة,Epistemology
 نظرية المعلومات,Information theory
@@ -5060,7 +5060,7 @@ arabic,english
 نفق المانش,Channel Tunnel
 نقب,Negev
 نقرس,Gout
-نقطة (هندسة),Point (geometry)
+نقطة,Point
 نقطة انصهار,Melting point
 نقطة غليان,Boiling point
 نقي,Bone marrow
@@ -5071,7 +5071,7 @@ arabic,english
 نمل,Ant
 نمل أبيض,Termite
 نمور التاميل,Liberation Tigers of Tamil Eelam
-نهاية رياضية,Limit (mathematics)
+نهاية رياضية,Limit
 نهر,River
 نهر الأردن,Jordan River
 نهر السند,Indus River
@@ -5084,19 +5084,19 @@ arabic,english
 نهر مسيسيبي,Mississippi River
 نهر ميزوري,Missouri River
 نهر نيفا,Neva River
-نو (حرف إغريقي),Nu (letter)
-نواة (خلية),Cell nucleus
-نواة (نظم تشغيل),Kernel (computer science)
+نو,Nu
+نواة,Cell nucleus
+نواة,Kernel
 نواكشوط,Nouakchott
 نوبليوم,Nobelium
 نوح,Noah
 نورس,Gull
 نورفولك,Norfolk
-نورفولك (جزيرة),Norfolk Island
+نورفولك,Norfolk Island
 نورمندي,Normandy
 نورنبيرغ,Nuremberg
 نوستراداموس,Nostradamus
-نوع (تصنيف),Species
+نوع,Species
 نوفا سكوشيا,Nova Scotia
 نوفمبر,November
 نوفوسيبيرسك,Novosibirsk
@@ -5119,7 +5119,7 @@ arabic,english
 نيس,Nice
 نيفادا,Nevada
 نيكاراجوا,Nicaragua
-نيكس,Nix (moon)
+نيكس,Nix
 نيكل,Nickel
 نيكوتين,Nicotine
 نيكولا بوسان,Nicolas Poussin
@@ -5136,20 +5136,20 @@ arabic,english
 نيوبورت,Newport
 نيوبيوم,Niobium
 نيوترون,Neutron
-نيوتن (وحدة),Newton
+نيوتن,Newton
 نيوجيرزي,New Jersey
 نيودلهي,New Delhi
 نيوديميوم,Neodymium
 نيوزيلندا,New Zealand
 نيوساوث ويلز,New South Wales
-نيوفاوندلاند,Newfoundland (island)
+نيوفاوندلاند,Newfoundland
 نيوكليوتايد,Nucleotide
 نيومكسيكو,New Mexico
 نيون,Neon
 نيوهامبشر,New Hampshire
-نيويورك,New York (disambiguation)
-نيويورك (مدينة),New York City
-نيويورك (ولاية),New York
+نيويورك,New York
+نيويورك,New York City
+نيويورك,New York
 هاتف,Telephone
 هاتف نقال,Mobile phone
 هادرون,Hadron
@@ -5173,9 +5173,9 @@ arabic,english
 هانوفر,Hanover
 هانوي,Hanoi
 هاواي,Hawaii
-هاوس,House (TV series)
-هاون,Mortar (weapon)
-هايبريون,Hyperion (moon)
+هاوس,House
+هاون,Mortar
+هايبريون,Hyperion
 هايتي,Haiti
 هايكو,Haiku
 هاينريش رودولف هيرتس,Heinrich Hertz
@@ -5201,7 +5201,7 @@ arabic,english
 هضبة الجولان,Golan Heights
 هضم,Digestion
 هضميد,Peptide
-هطول,Precipitation (meteorology)
+هطول,Precipitation
 هكتار,Hectare
 هكتور',Hector
 هلسنكي,Helsinki
@@ -5218,7 +5218,7 @@ arabic,english
 هندوراس,Honduras
 هندوسية,Hinduism
 هندوكوش,Hindu Kush
-هنري (وحدة),Henry (unit)
+هنري,Henry
 هنري برجسون,Henri Bergson
 هنري برسل,Henry Purcell
 هنري بيكريل,Henri Becquerel
@@ -5230,8 +5230,8 @@ arabic,english
 هنري ماتيس,Henri Matisse
 هنريك إبسن,Henrik Ibsen
 هو تشي منه,Ho Chi Minh
-هوائي,Antenna (radio)
-هوارد كارتر,Howard Carter (archaeologist)
+هوائي,Antenna
+هوارد كارتر,Howard Carter
 هواية,Hobby
 هوبارت,Hobart
 هوراس,Horace
@@ -5241,7 +5241,7 @@ arabic,english
 هولميوم,Holmium
 هولندا,Netherlands
 هوليوود، كاليفورنيا,Hollywood
-هومو (جنس),Homo (genus)
+هومو,Homo
 هوميروس,Homer
 هونغ كونغ,Hong Kong
 هونولولو، هاواي,Honolulu
@@ -5274,7 +5274,7 @@ arabic,english
 هيمالايا,Himalayas
 هينريك هيملر,Heinrich Himmler
 هيوستن، تكساس,Houston
-هيولى (خلية),Cytoplasm
+هيولى,Cytoplasm
 واجهة مستخدم رسومية,Graphical user interface
 واحة,Oasis
 واحدية,Monism
@@ -5288,7 +5288,7 @@ arabic,english
 واقي,Condom
 والت ديزني,Walt Disney
 والت ويتمان,Walt Whitman
-وايت (جزيرة),Isle of Wight
+وايت,Isle of Wight
 وايت هورس ، يوكون,Whitehorse
 وايومنغ,Wyoming
 وباء,Epidemic
@@ -5309,13 +5309,13 @@ arabic,english
 ورقة نباتية,Leaf
 وريد,Vein
 وزن,Weight
-وزير,Minister (government)
+وزير,Minister
 وسائط متعددة,Multimedia
 وسط أفريقيا,Central Africa
 وسيط حسابي,Median
 وشم,Tattoo
 وصايا عشر,Ten Commandments
-وصية,Will (law)
+وصية,Will
 وطاء,Hypothalamus
 وقود أحفوري,Fossil fuel
 وكالة الأمن القومي,National Security Agency
@@ -5325,7 +5325,7 @@ arabic,english
 ولاية باجا كاليفورنيا,Baja California
 ولاية بريمن,Bremen
 ولاية شيواوا,Chihuahua
-ولاية فيكتوريا,Victoria (Australia)
+ولاية فيكتوريا,Victoria
 وليام جيمس,William James
 وليام شوكلي,William Shockley
 وليام هنري هاريسون,William Henry Harrison
@@ -5338,7 +5338,7 @@ arabic,english
 وودرو ويلسون,Woodrow Wilson
 وودي آلن,Woody Allen
 ووهان,Wuhan
-ويبر (وحدة),Weber (unit)
+ويبر,Weber
 ويزي-ويغ,WYSIWYG
 ويسكنسن,Wisconsin
 ويسكي,Whisky
@@ -5402,7 +5402,7 @@ arabic,english
 يوم,Day
 يوم كذبة أبريل,April Fools' Day
 يوم كيبور,Yom Kippur
-يونان (الصين),Yunnan
+يونان,Yunnan
 يونسيف,United Nations Children's Fund
 يونكس,Unix
 يونيكورن,Unicorn

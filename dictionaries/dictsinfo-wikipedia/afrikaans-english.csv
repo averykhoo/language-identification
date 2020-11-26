@@ -164,8 +164,8 @@ Other,English
 99,99
 A,A
 ABC,ABC
-AJAX,Ajax (programming)
-Aandeel,Share (finance)
+AJAX,Ajax
+Aandeel,Share
 Aar,Vein
 Aardbewing,Earthquake
 Aarde,Earth
@@ -178,7 +178,7 @@ Abidjan,Abidjan
 Abkasië,Abkhazia
 Absolute nul,Absolute zero
 Accra,Accra
-Acre (staat),Acre (state)
+Acre,Acre
 Adolf Hitler,Adolf Hitler
 Afgeleide,Derivative
 Afghanistan,Afghanistan
@@ -209,7 +209,7 @@ Alexander Graham Bell,Alexander Graham Bell
 Alexander Hamilton,Alexander Hamilton
 Alexander die Grote,Alexander the Great
 Alexandrië,Alexandria
-Alfa,Alpha (letter)
+Alfa,Alpha
 Alfabet,Alphabet
 Alfadeeltjie,Alpha particle
 Alfred North Whitehead,Alfred North Whitehead
@@ -249,7 +249,7 @@ Ankara,Ankara
 Anorganiese chemie,Inorganic chemistry
 Anseriformes,Anseriformes
 Antarktika,Antarctica
-Antenne,Antenna (radio)
+Antenne,Antenna
 Antibiotikum,Antibiotic
 Antigene,Antigen
 Antimoon,Antimony
@@ -293,17 +293,17 @@ Athene,Athens
 Atlanta,Atlanta
 Atlantiese Oseaan,Atlantic Ocean
 Atlasgebergte,Atlas Mountains
-Atletiek,Athletics (track and field)
+Atletiek,Athletics
 Atoom,Atom
 Atoomgetal,Atomic number
 Atoommassa,Atomic mass
 Au,Au
 Augustus,August
 Aurora,Aurora
-Aurora (astronomie),Aurora (astronomy)
+Aurora,Aurora
 Australasië,Australasia
 Australië,Australia
-Auvergne,Auvergne (region)
+Auvergne,Auvergne
 Avignon,Avignon
 Ayn Rand,Ayn Rand
 Azerbeidjan,Azerbaijan
@@ -319,16 +319,16 @@ Bamako,Bamako
 Bangkok,Bangkok
 Bangladesj,Bangladesh
 Banjul,Banjul
-Bar,Bar (unit)
+Bar,Bar
 Barbados,Barbados
 Barium,Barium
-Basis,Base (chemistry)
+Basis,Base
 Baskitaar,Bass guitar
 Bastille,Bastille
 Bauhaus,Bauhaus
 Bed,Bed
-Bedryfstelsel (inligtingstegnologie),Operating system
-Bedryfstelselkern,Kernel (computer science)
+Bedryfstelsel,Operating system
+Bedryfstelselkern,Kernel
 Been,Bone
 Beer,Bear
 Beiere,Bavaria
@@ -352,7 +352,7 @@ Bern,Berne
 Bertrand Russell,Bertrand Russell
 Besoedeling,Pollution
 Bevolking,Population
-Beweging,Motion (physics)
+Beweging,Motion
 Bhoetan,Bhutan
 Bill Gates,Bill Gates
 Biochemie,Biochemistry
@@ -368,7 +368,7 @@ Blaise Pascal,Blaise Pascal
 Bloed,Blood
 Bloedplasma,Blood plasma
 Bloemfontein,Bloemfontein
-Blou (kleur),Blue
+Blou,Blue
 Bob Dylan,Bob Dylan
 Bob Marley,Bob Marley
 Bobbejaan,Baboon
@@ -385,9 +385,9 @@ Bolsjewis,Bolshevik
 Bolzano,Bolzano
 Bonn,Bonn
 Bonsai,Bonsai
-Boog (boukunde),Arch
+Boog,Arch
 Boom,Tree
-Boor (element),Boron
+Boor,Boron
 Bordeaux,Bordeaux
 Boris Godoenof,Boris Godunov
 Borskanker,Breast cancer
@@ -404,7 +404,7 @@ Bratislava,Bratislava
 Braunschweig,Braunschweig
 Breedtegraad,Latitude
 Brein,Brain
-Bremen (stad),Bremen
+Bremen,Bremen
 Bremerhaven,Bremerhaven
 Brest,Brest
 Bretagne,Bretagne
@@ -423,7 +423,7 @@ Bruin,Brown
 Brussel,Brussels
 Bruto binnelandse produk,Gross domestic product
 Buenos Aires,Buenos Aires
-Buffalo (New York),Buffalo
+Buffalo,Buffalo
 Bujumbura,Bujumbura
 Bulgarye,Bulgaria
 Burkina Faso,Burkina Faso
@@ -431,11 +431,11 @@ Bybel,Bible
 Bydgoszcz,Bydgoszcz
 Byvoeglike naamwoord,Adjective
 C,C
-C (programmeertaal),C (programming language)
+C,C
 COBOL,COBOL
-Calvados (département),Calvados
+Calvados,Calvados
 Calvinisme,Calvinism
-Camembert,Camembert (cheese)
+Camembert,Camembert
 Canberra,Canberra
 Cannes,Cannes
 Caracas,Caracas
@@ -446,9 +446,9 @@ Castries,Castries
 Liechtenstein,Liechtenstein
 Cecil John Rhodes,Cecil Rhodes
 Celsius,Celsius
-Ceres (dubbelsinnig),Ceres
-Ceres (dwergplaneet),Ceres (dwarf planet)
-Ceres (godin),Ceres (mythology)
+Ceres,Ceres
+Ceres,Ceres
+Ceres,Ceres
 Champagne-Ardenne,Champagne-Ardenne
 Charles Darwin,Charles Darwin
 Charles de Gaulle,Charles de Gaulle
@@ -478,10 +478,10 @@ Cornwall,Cornwall
 Costa Rica,Costa Rica
 Crux,Crux
 Curitiba,Curitiba
-Cygnus,Cygnus (constellation)
+Cygnus,Cygnus
 Cyrilliese alfabet,Cyrillic alphabet
 D,D
-DOS (bedryfstelsel),DOS
+DOS,DOS
 DVD,DVD
 Dag,Day
 Dakar,Dakar
@@ -521,7 +521,7 @@ Dmitri Sjostakovitsj,Dmitri Shostakovich
 Dmitry Mendeleev,Dmitri Mendeleev
 Dodoma,Dodoma
 Dolfyn,Dolphin
-Domein (biologie),Domain (biology)
+Domein,Domain
 Dominikaanse Republiek,Dominican Republic
 Donderdag,Thursday
 Doodstraf,Capital punishment
@@ -532,7 +532,7 @@ Driehoeksmeting,Trigonometry
 Dromedaris,Dromedary
 Druk,Pressure
 Druïdisme,Druid
-Drywing,Power (physics)
+Drywing,Power
 Dublin,Dublin
 Dugong,Dugong
 Duif,Columbidae
@@ -558,7 +558,7 @@ Eend,Duck
 Eerste Wêreldoorlog,World War I
 Eeue,Century
 Egipte,Egypt
-Eier,Egg (biology)
+Eier,Egg
 Eiffel-toring,Eiffel Tower
 Eiland,Island
 Eindhoven,Eindhoven
@@ -567,7 +567,7 @@ Ekologie,Ecology
 Ekonomie,Economics
 Ekonomie,Economy
 Ekostelsel,Ecosystem
-Eksentrisiteit (wiskunde),Eccentricity (mathematics)
+Eksentrisiteit,Eccentricity
 Eksistensialisme,Existentialism
 Ekwatoriaal-Guinee,Equatorial Guinea
 El Salvador,El Salvador
@@ -585,9 +585,9 @@ Els,Alder
 Elsas,Alsace
 Elvis Presley,Elvis Presley
 Empire State-gebou,Empire State Building
-Endemies (ekologie),Endemism
+Endemies,Endemism
 Energie,Energy
-Energie,Energy (society)
+Energie,Energy
 Engeland,England
 Engels,English language
 Ensiklopedie,Encyclopedia
@@ -595,7 +595,7 @@ Epidemie,Epidemic
 Epistemologie,Epistemology
 Epiteelweefsel,Epithelium
 Erdvark,Aardvark
-Eris (dwergplaneet),Eris (dwarf planet)
+Eris,Eris
 Ernest Hemingway,Ernest Hemingway
 Ernstige akute respiratoriese sindroom,Severe acute respiratory syndrome
 Esperanto,Esperanto
@@ -620,7 +620,7 @@ F,F
 Farao,Pharaoh
 Februarie,February
 Februarie-rewolusie,February Revolution
-Fedora,Fedora (Linux distribution)
+Fedora,Fedora
 Feminisme,Feminism
 Feodalisme,Feudalism
 Ferdinand Magellaan,Ferdinand Magellan
@@ -646,7 +646,7 @@ Fotosintese,Photosynthesis
 Francis Crick,Francis Crick
 Francisco Goya,Francisco Goya
 Frank Lloyd Wright,Frank Lloyd Wright
-Frankfurt (Oder),Frankfurt (Oder)
+Frankfurt,Frankfurt
 Frankfurt am Main,Frankfurt
 Frankryk,France
 Frans-Duitse Oorlog,Franco-Prussian War
@@ -655,7 +655,7 @@ Fred Astaire,Fred Astaire
 Frederick Sanger,Frederick Sanger
 Frekwensie,Frequency
 Friesland,Friesland
-Funksie (wiskunde),Function (mathematics)
+Funksie,Function
 G,G
 GNOME,GNOME
 GNU,GNU
@@ -666,7 +666,7 @@ Gallië,Gaul
 Gambië,The Gambia
 Gammastraal,Gamma ray
 Ganesha,Ganesha
-Ganymedes,Ganymede (moon)
+Ganymedes,Ganymede
 Gas,Gas
 Gasreus,Gas giant
 Gay,Gay
@@ -690,8 +690,8 @@ Geografie,Geography
 Geologie,Geology
 Geomorfologie,Geomorphology
 George W. Bush,George W. Bush
-Georgia,Georgia (U.S. state)
-Georgië,Georgia (country)
+Georgia,Georgia
+Georgië,Georgia
 Germanium,Germanium
 Gesag,Authority
 Geskiedenis,History
@@ -710,7 +710,7 @@ Gluon,Gluon
 Gnostisisme,Gnosticism
 God,God
 Goelag,Gulag
-Golf (fisika),Wave
+Golf,Wave
 Golf van Biskaje,Bay of Biscay
 Golgi-apparaat,Golgi apparatus
 Gotiese argitektuur,Gothic architecture
@@ -729,7 +729,7 @@ Griep,Influenza
 Groen,Green
 Groenland,Greenland
 Groente,Vegetable
-Groep (wiskunde),Group (mathematics)
+Groep,Group
 Grondboontjie,Peanut
 Groot Antille,Greater Antilles
 Groot Beer,Ursa Major
@@ -788,10 +788,10 @@ Hipofise,Pituitary gland
 Hirosjima,Hiroshima
 Histologie,Histology
 Hobo,Oboe
-Hoek (meetkunde),Angle
+Hoek,Angle
 Homeopatie,Homeopathy
 Homerus,Homer
-Homo,Homo (genus)
+Homo,Homo
 Homoniem,Homonym
 Homoseksualiteit,Homosexuality
 Hond,Dog
@@ -807,7 +807,7 @@ Hudsonbaai,Hudson Bay
 Hugenoot,Huguenot
 I,I
 IPod,IPod
-Iapetus,Iapetus (moon)
+Iapetus,Iapetus
 Idaho,Idaho
 Ido,Ido
 Ierland,Ireland
@@ -853,8 +853,8 @@ Jamaika,Jamaica
 James Joyce,James Joyce
 Januarie,January
 Japan,Japan
-Java,Java (disambiguation)
-Java (eiland),Java
+Java,Java
+Java,Java
 Jean-Paul Sartre,Jean-Paul Sartre
 Jeddah,Jeddah
 Jehovasgetuies,Jehovah's Witnesses
@@ -885,7 +885,7 @@ Jules Verne,Jules Verne
 Julie,July
 Julius Caesar,Julius Caesar
 Junie,June
-Jupiter (planeet),Jupiter
+Jupiter,Jupiter
 Jutland,Jutland
 K,K
 Kaaimanseilande,Cayman Islands
@@ -916,376 +916,376 @@ Karl Popper,Karl Popper
 Kartografie,Cartography
 Kasakstan,Kazakhstan
 Kasteel,Castle
-Kastilië,Castile (historical region)
+Kastilië,Castile
 Kat,Cat
 Katalonië,Catalonia
 Katar,Qatar
 Katarakte,Cataract
 Katedraal,Cathedral
-Kategorie:Adel,Nobility
-Kategorie:Afghanistan,Afghanistan
-Kategorie:Afrika,Africa
-Kategorie:Akoestiek,Acoustics
-Kategorie:Alaska,Alaska
-Kategorie:Albanië,Albania
-Kategorie:Alberta,Alberta
-Kategorie:Alchemie,Alchemy
-Kategorie:Algerië,Algeria
-Kategorie:Alles,Fundamental
-Kategorie:Alpe,Alps
-Kategorie:Alternatiewe medikasie,Alternative medicine
-Kategorie:Amsterdam,Amsterdam
-Kategorie:Anatomie,Anatomy
-Kategorie:Andorra,Andorra
-Kategorie:Angola,Angola
-Kategorie:Antarktika,Antarctica
-Kategorie:Antropologie,Anthropology
-Kategorie:Argentinië,Argentina
-Kategorie:Argeologie,Archaeology
-Kategorie:Argitektuur,Architecture
-Kategorie:Armenië,Armenia
-Kategorie:Aruba,Aruba
-Kategorie:Asië,Asia
-Kategorie:Astrofisika,Astrophysics
-Kategorie:Australië,Australia
-Kategorie:Bangladesj,Bangladesh
-Kategorie:Barbados,Barbados
-Kategorie:Beiere,Bavaria
-Kategorie:België,Belgium
-Kategorie:Belize,Belize
-Kategorie:Bemarking,Marketing
-Kategorie:Benin,Benin
-Kategorie:Berlyn,Berlin
-Kategorie:Bier,Beer
-Kategorie:Biochemie,Biochemistry
-Kategorie:Biologie,Biology
-Kategorie:Boeddhisme,Buddhism
-Kategorie:Boks,Boxing
-Kategorie:Boksers,Boxers
-Kategorie:Bolivia,Bolivia
-Kategorie:Bosnië-Herzegowina,Bosnia and Herzegovina
-Kategorie:Botswana,Botswana
-Kategorie:Brasilië,Brazil
-Kategorie:Broenei,Brunei
-Kategorie:Brûe,Bridges
-Kategorie:Bulgarye,Bulgaria
-Kategorie:Burkina Faso,Burkina Faso
-Kategorie:Burundi,Burundi
-Kategorie:Bybel,Bible
-Kategorie:Chemie,Chemistry
-Kategorie:Chili,Chile
-Kategorie:Christendom,Christianity
-Kategorie:Ciprus,Cyprus
-Kategorie:Colorado,Colorado
-Kategorie:Comore-eilande,Comoros
-Kategorie:Costa Rica,Costa Rica
-Kategorie:Dans,Dance
-Kategorie:Datum,Days
-Kategorie:Demokratiese Republiek van die Kongo,Democratic Republic of the Congo
-Kategorie:Denemarke,Denmark
-Kategorie:Djiboeti,Djibouti
-Kategorie:Dubbelsinnig,Disambiguation
-Kategorie:Duitsland,Germany
-Kategorie:Eerste Wêreldoorlog,World War I
-Kategorie:Egipte,Egypt
-Kategorie:Ekonomie,Economics
-Kategorie:Ekwatoriaal-Guinee,Equatorial Guinea
-Kategorie:El Salvador,El Salvador
-Kategorie:Elektrisiteit,Electricity
-Kategorie:Elektromagnetisme,Electromagnetism
-Kategorie:Elektronika,Electronics
-Kategorie:Energie,Energy
-Kategorie:Engeland,England
-Kategorie:Entrepreneurs,Businesspeople
-Kategorie:Eritrea,Eritrea
-Kategorie:Estland,Estonia
-Kategorie:Ethiopië,Ethiopia
-Kategorie:Europa,Europe
-Kategorie:Feminisme,Feminism
-Kategorie:Fietsry,Cycling
-Kategorie:Filippyne,Philippines
-Kategorie:Film,Film
-Kategorie:Filosofie,Philosophy
-Kategorie:Finland,Finland
-Kategorie:Fisika,Physics
-Kategorie:Fisiologie,Physiology
-Kategorie:Florida,Florida
-Kategorie:Fotografie,Photography
-Kategorie:Frankfurt,Frankfurt
-Kategorie:Frankryk,France
-Kategorie:Franse Rewolusie,French Revolution
-Kategorie:Gaboen,Gabon
-Kategorie:Gambië,The Gambia
-Kategorie:Geesteswetenskappe,Humanities
-Kategorie:Geldeenhede,Currency
-Kategorie:Genealogie,Genealogy
-Kategorie:Geneeskunde,Medicine
-Kategorie:Genetika,Genetics
-Kategorie:Geofisika,Geophysics
-Kategorie:Geografie,Geography
-Kategorie:Geologie,Geology
-Kategorie:Georgia,Georgia (U.S. state)
-Kategorie:Geskiedenis,History
-Kategorie:Gesondheid,Health
-Kategorie:Getalle,Numbers
-Kategorie:Ghana,Ghana
-Kategorie:Gholf,Golf
-Kategorie:Grafiese ontwerp,Graphic design
-Kategorie:Griekeland,Greece
-Kategorie:Griekse alfabet,Greek alphabet
-Kategorie:Griekse mitologie,Greek mythology
-Kategorie:Groenland,Greenland
-Kategorie:Guatemala,Guatemala
-Kategorie:Guinea,Guinea
-Kategorie:Guinea-Bissau,Guinea-Bissau
-Kategorie:Hamburg,Hamburg
-Kategorie:Hardeware,Computer hardware
-Kategorie:Hawaiï,Hawaii
-Kategorie:Hessen,Hesse
-Kategorie:Hindoeïsme,Hinduism
-Kategorie:Honduras,Honduras
-Kategorie:Hongarye,Hungary
-Kategorie:Ierland,Ireland
-Kategorie:Ierse Republiek,Republic of Ireland
-Kategorie:Illinois,Illinois
-Kategorie:Indië,India
-Kategorie:Indonesië,Indonesia
-Kategorie:Ingenieurswese,Engineering
-Kategorie:Internet,Internet
-Kategorie:Irak,Iraq
-Kategorie:Iran,Iran
-Kategorie:Islam,Islam
-Kategorie:Israel,Israel
-Kategorie:Italië,Italy
-Kategorie:Jaarbladsye,Years
-Kategorie:Jamaika,Jamaica
-Kategorie:Japan,Japan
-Kategorie:Joernalistiek,Journalism
-Kategorie:Jordanië,Jordan
-Kategorie:Judaïsme,Judaism
-Kategorie:Kalifornië,California
-Kategorie:Kambodja,Cambodia
-Kategorie:Kameroen,Cameroon
-Kategorie:Kanada,Canada
-Kategorie:Kansas,Kansas
-Kategorie:Kartografie,Cartography
-Kategorie:Katar,Qatar
-Kategorie:Kenia,Kenya
-Kategorie:Kernfisika,Nuclear physics
-Kategorie:Kersfees,Christmas
-Kategorie:Kiribati,Kiribati
-Kategorie:Klassieke musiek,Classical music
-Kategorie:Kleding,Clothing
-Kategorie:Koffie,Coffee
-Kategorie:Kolombië,Colombia
-Kategorie:Kommunikasie,Communication
-Kategorie:Korea,Korea
-Kategorie:Kosmologie,Cosmology
-Kategorie:Kosovo,Kosovo
-Kategorie:Kriptografie,Cryptography
-Kategorie:Kristallografie,Crystallography
-Kategorie:Kroasië,Croatia
-Kategorie:Krygskunde,Military
-Kategorie:Kuba,Cuba
-Kategorie:Kultuur,Culture
-Kategorie:Kuns,Arts
-Kategorie:Kwantummeganika,Quantum mechanics
-Kategorie:Landbou,Agriculture
-Kategorie:Laos,Laos
-Kategorie:Lesotho,Lesotho
-Kategorie:Letland,Latvia
-Kategorie:Letterkunde,Literature
-Kategorie:Libanon,Lebanon
-Kategorie:Liberië,Liberia
-Kategorie:Libië,Libya
-Kategorie:Litaue,Lithuania
-Kategorie:Logika,Logic
-Kategorie:Londen,London
-Kategorie:Louisiana,Louisiana
-Kategorie:Lugvaart,Aviation
-Kategorie:Luxemburg,Luxembourg
-Kategorie:Madagaskar,Madagascar
-Kategorie:Malawi,Malawi
-Kategorie:Maleisië,Malaysia
-Kategorie:Mali,Mali
-Kategorie:Malta,Malta
-Kategorie:Marokko,Morocco
-Kategorie:Massachusetts,Massachusetts
-Kategorie:Mauritanië,Mauritania
-Kategorie:Mauritius,Mauritius
-Kategorie:Meetkunde,Geometry
-Kategorie:Meganika,Mechanics
-Kategorie:Meksiko,Mexico
-Kategorie:Mense,People
-Kategorie:Meteorologie,Meteorology
-Kategorie:Meubels,Furniture
-Kategorie:Mianmar,Burma
-Kategorie:Michigan,Michigan
-Kategorie:Middeleeue,Middle Ages
-Kategorie:Middellandse See,Mediterranean
-Kategorie:Mikrobiologie,Microbiology
-Kategorie:Milieubeskerming,Environment
-Kategorie:Mineralogie,Mineralogy
-Kategorie:Minnesota,Minnesota
-Kategorie:Missouri,Missouri
-Kategorie:Mitologie,Mythology
-Kategorie:Mode,Fashion
-Kategorie:Moldawië,Moldova
-Kategorie:Monaco,Monaco
-Kategorie:Mongolië,Mongolia
-Kategorie:Mosambiek,Mozambique
-Kategorie:Moskou,Moscow
-Kategorie:Musiek,Music
-Kategorie:Namibië,Namibia
-Kategorie:Nasionaal-Sosialisme,Nazism
-Kategorie:Natuur,Nature
-Kategorie:Navigasie,Navigation
-Kategorie:Nederland,Netherlands
-Kategorie:Nepal,Nepal
-Kategorie:Nevada,Nevada
-Kategorie:New Hampshire,New Hampshire
-Kategorie:New York,New York
-Kategorie:Nicaragua,Nicaragua
-Kategorie:Nieu-Seeland,New Zealand
-Kategorie:Niger,Niger
-Kategorie:Nigerië,Nigeria
-Kategorie:Nobelprys,Nobel Prize
-Kategorie:Noord-Amerika,North America
-Kategorie:Noord-Carolina,North Carolina
-Kategorie:Noord-Ierland,Northern Ireland
-Kategorie:Noord-Korea,North Korea
-Kategorie:Noorweë,Norway
-Kategorie:Oekraïne,Ukraine
-Kategorie:Oesbekistan,Uzbekistan
-Kategorie:Onderwys,Education
-Kategorie:Ontario,Ontario
-Kategorie:Ontwerp,Design
-Kategorie:Oostenryk,Austria
-Kategorie:Optika,Optics
-Kategorie:Opvoedkunde,Pedagogy
-Kategorie:Oseanië,Oceania
-Kategorie:Ottomaanse Ryk,Ottoman Empire
-Kategorie:Panama,Panama
-Kategorie:Paraguay,Paraguay
-Kategorie:Parys,Paris
-Kategorie:Pennsilvanië,Pennsylvania
-Kategorie:Peru,Peru
-Kategorie:Plantkunde,Botany
-Kategorie:Pole,Poland
-Kategorie:Politiek,Politics
-Kategorie:Portugal,Portugal
-Kategorie:Poësie,Poetry
-Kategorie:Psigiatrie,Psychiatry
-Kategorie:Puerto Rico,Puerto Rico
-Kategorie:Quebec,Quebec
-Kategorie:Radio,Radio
-Kategorie:Regte,Law
-Kategorie:Rekenaarwetenskap,Computer science
-Kategorie:Rekenaarwetenskap,Computing
-Kategorie:Rekeningkunde,Accountancy
-Kategorie:Religie,Religion
-Kategorie:Renaissance,Renaissance
-Kategorie:Republiek van die Kongo,Republic of the Congo
-Kategorie:Rome,Rome
-Kategorie:Romeinse mitologie,Roman mythology
-Kategorie:Rusland,Russia
-Kategorie:Rwanda,Rwanda
-Kategorie:Sagteware,Software
-Kategorie:Saint Lucia,Saint Lucia
-Kategorie:Sakse,Saxony
-Kategorie:Samelewing,Society
-Kategorie:San Marino,San Marino
-Kategorie:Saoedi-Arabië,Saudi Arabia
-Kategorie:Seestrate,Straits
-Kategorie:Seismologie,Seismology
-Kategorie:Seksualiteit,Sexuality
-Kategorie:Sekuriteit,Security
-Kategorie:Senegal,Senegal
-Kategorie:Sentraal-Afrikaanse Republiek,Central African Republic
-Kategorie:Senuweestelsel,Nervous system
-Kategorie:Serwië,Serbia
-Kategorie:Sielkunde,Psychology
-Kategorie:Sierra Leone,Sierra Leone
-Kategorie:Sint Petersburg,Saint Petersburg
-Kategorie:Sirië,Syria
-Kategorie:Sjina,China
-Kategorie:Sjirurgie,Surgery
-Kategorie:Skaak,Chess
-Kategorie:Skotland,Scotland
-Kategorie:Skynwetenskappe,Pseudoscience
-Kategorie:Slowakye,Slovakia
-Kategorie:Slowenië,Slovenia
-Kategorie:Soedan,Sudan
-Kategorie:Sokker,Football (soccer)
-Kategorie:Sokkerklubs,Football (soccer) clubs
-Kategorie:Sokkerspelers,Football (soccer) players
-Kategorie:Sokkerstadions,Football (soccer) venues
-Kategorie:Somalië,Somalia
-Kategorie:Sosiologie,Sociology
-Kategorie:Sowjetunie,Soviet Union
-Kategorie:Spanje,Spain
-Kategorie:Statistiek,Statistics
-Kategorie:Sterrekunde,Astronomy
-Kategorie:Stille Oseaan,Pacific Ocean
-Kategorie:Suid-Afrika,South Africa
-Kategorie:Suid-Amerika,South America
-Kategorie:Suid-Carolina,South Carolina
-Kategorie:Suid-Korea,South Korea
-Kategorie:Suriname,Suriname
-Kategorie:Swaziland,Swaziland
-Kategorie:Swede,Sweden
-Kategorie:Swem,Swimming
-Kategorie:Switserland,Switzerland
-Kategorie:Taalkunde,Linguistics
-Kategorie:Tadjikistan,Tajikistan
-Kategorie:Tanzanië,Tanzania
-Kategorie:Tee,Tea
-Kategorie:Tegnologie,Technology
-Kategorie:Televisie,Television
-Kategorie:Tennis,Tennis
-Kategorie:Teologie,Theology
-Kategorie:Termodinamika,Thermodynamics
-Kategorie:Terrorisme,Terrorism
-Kategorie:Texas,Texas
-Kategorie:Thailand,Thailand
-Kategorie:Thuringen,Thuringia
-Kategorie:Tipografie,Typography
-Kategorie:Togo,Togo
-Kategorie:Trigonometrie,Trigonometry
-Kategorie:Tsjaad,Chad
-Kategorie:Tsjeggië,Czech Republic
-Kategorie:Tunisië,Tunisia
-Kategorie:Turkye,Turkey
-Kategorie:Tweede Wêreldoorlog,World War II
-Kategorie:Tyd,Time
-Kategorie:Uganda,Uganda
-Kategorie:Uruguay,Uruguay
-Kategorie:Vanuatu,Vanuatu
-Kategorie:Vatikaanstad,Vatican City
-Kategorie:Venezuela,Venezuela
-Kategorie:Verenigde Arabiese Emirate,United Arab Emirates
-Kategorie:Verenigde Koninkryk,United Kingdom
-Kategorie:Verenigde Nasies,United Nations
-Kategorie:Verenigde State van Amerika,United States
-Kategorie:Vermaak,Entertainment
-Kategorie:Vermont,Vermont
-Kategorie:Vervoer,Transportation
-Kategorie:Visse,Fish
-Kategorie:Viëtnam,Vietnam
-Kategorie:Viëtnamoorlog,Vietnam War
-Kategorie:Waarskynlikheidsleer,Probability theory
-Kategorie:Wallis,Wales
-Kategorie:Water,Water
-Kategorie:Wes-Sahara,Western Sahara
-Kategorie:Wetenskap,Science
-Kategorie:Wisconsin,Wisconsin
-Kategorie:Wiskunde,Mathematics
-Kategorie:Wit-Rusland,Belarus
-Kategorie:Woestyne,Deserts
-Kategorie:Wyn,Wine
-Kategorie:Ysland,Iceland
-Kategorie:Zambië,Zambia
-Kategorie:Zimbabwe,Zimbabwe
+Adel,Nobility
+Afghanistan,Afghanistan
+Afrika,Africa
+Akoestiek,Acoustics
+Alaska,Alaska
+Albanië,Albania
+Alberta,Alberta
+Alchemie,Alchemy
+Algerië,Algeria
+Alles,Fundamental
+Alpe,Alps
+Alternatiewe medikasie,Alternative medicine
+Amsterdam,Amsterdam
+Anatomie,Anatomy
+Andorra,Andorra
+Angola,Angola
+Antarktika,Antarctica
+Antropologie,Anthropology
+Argentinië,Argentina
+Argeologie,Archaeology
+Argitektuur,Architecture
+Armenië,Armenia
+Aruba,Aruba
+Asië,Asia
+Astrofisika,Astrophysics
+Australië,Australia
+Bangladesj,Bangladesh
+Barbados,Barbados
+Beiere,Bavaria
+België,Belgium
+Belize,Belize
+Bemarking,Marketing
+Benin,Benin
+Berlyn,Berlin
+Bier,Beer
+Biochemie,Biochemistry
+Biologie,Biology
+Boeddhisme,Buddhism
+Boks,Boxing
+Boksers,Boxers
+Bolivia,Bolivia
+Bosnië-Herzegowina,Bosnia and Herzegovina
+Botswana,Botswana
+Brasilië,Brazil
+Broenei,Brunei
+Brûe,Bridges
+Bulgarye,Bulgaria
+Burkina Faso,Burkina Faso
+Burundi,Burundi
+Bybel,Bible
+Chemie,Chemistry
+Chili,Chile
+Christendom,Christianity
+Ciprus,Cyprus
+Colorado,Colorado
+Comore-eilande,Comoros
+Costa Rica,Costa Rica
+Dans,Dance
+Datum,Days
+Demokratiese Republiek van die Kongo,Democratic Republic of the Congo
+Denemarke,Denmark
+Djiboeti,Djibouti
+Dubbelsinnig,Disambiguation
+Duitsland,Germany
+Eerste Wêreldoorlog,World War I
+Egipte,Egypt
+Ekonomie,Economics
+Ekwatoriaal-Guinee,Equatorial Guinea
+El Salvador,El Salvador
+Elektrisiteit,Electricity
+Elektromagnetisme,Electromagnetism
+Elektronika,Electronics
+Energie,Energy
+Engeland,England
+Entrepreneurs,Businesspeople
+Eritrea,Eritrea
+Estland,Estonia
+Ethiopië,Ethiopia
+Europa,Europe
+Feminisme,Feminism
+Fietsry,Cycling
+Filippyne,Philippines
+Film,Film
+Filosofie,Philosophy
+Finland,Finland
+Fisika,Physics
+Fisiologie,Physiology
+Florida,Florida
+Fotografie,Photography
+Frankfurt,Frankfurt
+Frankryk,France
+Franse Rewolusie,French Revolution
+Gaboen,Gabon
+Gambië,The Gambia
+Geesteswetenskappe,Humanities
+Geldeenhede,Currency
+Genealogie,Genealogy
+Geneeskunde,Medicine
+Genetika,Genetics
+Geofisika,Geophysics
+Geografie,Geography
+Geologie,Geology
+Georgia,Georgia
+Geskiedenis,History
+Gesondheid,Health
+Getalle,Numbers
+Ghana,Ghana
+Gholf,Golf
+Grafiese ontwerp,Graphic design
+Griekeland,Greece
+Griekse alfabet,Greek alphabet
+Griekse mitologie,Greek mythology
+Groenland,Greenland
+Guatemala,Guatemala
+Guinea,Guinea
+Guinea-Bissau,Guinea-Bissau
+Hamburg,Hamburg
+Hardeware,Computer hardware
+Hawaiï,Hawaii
+Hessen,Hesse
+Hindoeïsme,Hinduism
+Honduras,Honduras
+Hongarye,Hungary
+Ierland,Ireland
+Ierse Republiek,Republic of Ireland
+Illinois,Illinois
+Indië,India
+Indonesië,Indonesia
+Ingenieurswese,Engineering
+Internet,Internet
+Irak,Iraq
+Iran,Iran
+Islam,Islam
+Israel,Israel
+Italië,Italy
+Jaarbladsye,Years
+Jamaika,Jamaica
+Japan,Japan
+Joernalistiek,Journalism
+Jordanië,Jordan
+Judaïsme,Judaism
+Kalifornië,California
+Kambodja,Cambodia
+Kameroen,Cameroon
+Kanada,Canada
+Kansas,Kansas
+Kartografie,Cartography
+Katar,Qatar
+Kenia,Kenya
+Kernfisika,Nuclear physics
+Kersfees,Christmas
+Kiribati,Kiribati
+Klassieke musiek,Classical music
+Kleding,Clothing
+Koffie,Coffee
+Kolombië,Colombia
+Kommunikasie,Communication
+Korea,Korea
+Kosmologie,Cosmology
+Kosovo,Kosovo
+Kriptografie,Cryptography
+Kristallografie,Crystallography
+Kroasië,Croatia
+Krygskunde,Military
+Kuba,Cuba
+Kultuur,Culture
+Kuns,Arts
+Kwantummeganika,Quantum mechanics
+Landbou,Agriculture
+Laos,Laos
+Lesotho,Lesotho
+Letland,Latvia
+Letterkunde,Literature
+Libanon,Lebanon
+Liberië,Liberia
+Libië,Libya
+Litaue,Lithuania
+Logika,Logic
+Londen,London
+Louisiana,Louisiana
+Lugvaart,Aviation
+Luxemburg,Luxembourg
+Madagaskar,Madagascar
+Malawi,Malawi
+Maleisië,Malaysia
+Mali,Mali
+Malta,Malta
+Marokko,Morocco
+Massachusetts,Massachusetts
+Mauritanië,Mauritania
+Mauritius,Mauritius
+Meetkunde,Geometry
+Meganika,Mechanics
+Meksiko,Mexico
+Mense,People
+Meteorologie,Meteorology
+Meubels,Furniture
+Mianmar,Burma
+Michigan,Michigan
+Middeleeue,Middle Ages
+Middellandse See,Mediterranean
+Mikrobiologie,Microbiology
+Milieubeskerming,Environment
+Mineralogie,Mineralogy
+Minnesota,Minnesota
+Missouri,Missouri
+Mitologie,Mythology
+Mode,Fashion
+Moldawië,Moldova
+Monaco,Monaco
+Mongolië,Mongolia
+Mosambiek,Mozambique
+Moskou,Moscow
+Musiek,Music
+Namibië,Namibia
+Nasionaal-Sosialisme,Nazism
+Natuur,Nature
+Navigasie,Navigation
+Nederland,Netherlands
+Nepal,Nepal
+Nevada,Nevada
+New Hampshire,New Hampshire
+New York,New York
+Nicaragua,Nicaragua
+Nieu-Seeland,New Zealand
+Niger,Niger
+Nigerië,Nigeria
+Nobelprys,Nobel Prize
+Noord-Amerika,North America
+Noord-Carolina,North Carolina
+Noord-Ierland,Northern Ireland
+Noord-Korea,North Korea
+Noorweë,Norway
+Oekraïne,Ukraine
+Oesbekistan,Uzbekistan
+Onderwys,Education
+Ontario,Ontario
+Ontwerp,Design
+Oostenryk,Austria
+Optika,Optics
+Opvoedkunde,Pedagogy
+Oseanië,Oceania
+Ottomaanse Ryk,Ottoman Empire
+Panama,Panama
+Paraguay,Paraguay
+Parys,Paris
+Pennsilvanië,Pennsylvania
+Peru,Peru
+Plantkunde,Botany
+Pole,Poland
+Politiek,Politics
+Portugal,Portugal
+Poësie,Poetry
+Psigiatrie,Psychiatry
+Puerto Rico,Puerto Rico
+Quebec,Quebec
+Radio,Radio
+Regte,Law
+Rekenaarwetenskap,Computer science
+Rekenaarwetenskap,Computing
+Rekeningkunde,Accountancy
+Religie,Religion
+Renaissance,Renaissance
+Republiek van die Kongo,Republic of the Congo
+Rome,Rome
+Romeinse mitologie,Roman mythology
+Rusland,Russia
+Rwanda,Rwanda
+Sagteware,Software
+Saint Lucia,Saint Lucia
+Sakse,Saxony
+Samelewing,Society
+San Marino,San Marino
+Saoedi-Arabië,Saudi Arabia
+Seestrate,Straits
+Seismologie,Seismology
+Seksualiteit,Sexuality
+Sekuriteit,Security
+Senegal,Senegal
+Sentraal-Afrikaanse Republiek,Central African Republic
+Senuweestelsel,Nervous system
+Serwië,Serbia
+Sielkunde,Psychology
+Sierra Leone,Sierra Leone
+Sint Petersburg,Saint Petersburg
+Sirië,Syria
+Sjina,China
+Sjirurgie,Surgery
+Skaak,Chess
+Skotland,Scotland
+Skynwetenskappe,Pseudoscience
+Slowakye,Slovakia
+Slowenië,Slovenia
+Soedan,Sudan
+Sokker,Football
+Sokkerklubs,Football  clubs
+Sokkerspelers,Football  players
+Sokkerstadions,Football  venues
+Somalië,Somalia
+Sosiologie,Sociology
+Sowjetunie,Soviet Union
+Spanje,Spain
+Statistiek,Statistics
+Sterrekunde,Astronomy
+Stille Oseaan,Pacific Ocean
+Suid-Afrika,South Africa
+Suid-Amerika,South America
+Suid-Carolina,South Carolina
+Suid-Korea,South Korea
+Suriname,Suriname
+Swaziland,Swaziland
+Swede,Sweden
+Swem,Swimming
+Switserland,Switzerland
+Taalkunde,Linguistics
+Tadjikistan,Tajikistan
+Tanzanië,Tanzania
+Tee,Tea
+Tegnologie,Technology
+Televisie,Television
+Tennis,Tennis
+Teologie,Theology
+Termodinamika,Thermodynamics
+Terrorisme,Terrorism
+Texas,Texas
+Thailand,Thailand
+Thuringen,Thuringia
+Tipografie,Typography
+Togo,Togo
+Trigonometrie,Trigonometry
+Tsjaad,Chad
+Tsjeggië,Czech Republic
+Tunisië,Tunisia
+Turkye,Turkey
+Tweede Wêreldoorlog,World War II
+Tyd,Time
+Uganda,Uganda
+Uruguay,Uruguay
+Vanuatu,Vanuatu
+Vatikaanstad,Vatican City
+Venezuela,Venezuela
+Verenigde Arabiese Emirate,United Arab Emirates
+Verenigde Koninkryk,United Kingdom
+Verenigde Nasies,United Nations
+Verenigde State van Amerika,United States
+Vermaak,Entertainment
+Vermont,Vermont
+Vervoer,Transportation
+Visse,Fish
+Viëtnam,Vietnam
+Viëtnamoorlog,Vietnam War
+Waarskynlikheidsleer,Probability theory
+Wallis,Wales
+Water,Water
+Wes-Sahara,Western Sahara
+Wetenskap,Science
+Wisconsin,Wisconsin
+Wiskunde,Mathematics
+Wit-Rusland,Belarus
+Woestyne,Deserts
+Wyn,Wine
+Ysland,Iceland
+Zambië,Zambia
+Zimbabwe,Zimbabwe
 Kathaar,Catharism
 Kathmandu,Kathmandu
 Katowice,Katowice
@@ -1294,7 +1294,7 @@ Keiser,Emperor
 Kelvin,Kelvin
 Kenia,Kenya
 Kentucky,Kentucky
-Kerk (gebou),Church (building)
+Kerk,Church
 Kernwapen,Nuclear weapon
 Kersfees,Christmas
 Keulen,Cologne
@@ -1308,8 +1308,8 @@ Kiribati,Kiribati
 Kitaar,Guitar
 Kiëv,Kiev
 Klank,Sound
-Klas (biologie),Class (biology)
-Klasse,Class (computer science)
+Klas,Class
+Klasse,Class
 Kleur,Color
 Klimaat,Climate
 Kliniese depressie,Clinical depression
@@ -1326,7 +1326,7 @@ Kommunisme,Communism
 Komplekse getal,Complex number
 Komponis,Composer
 Konfusius,Confucius
-Koninkryk (biologie),Kingdom (biology)
+Koninkryk,Kingdom
 Konsentrasiekamp,Internment
 Kontinent,Continent
 Kontrabas,Double bass
@@ -1345,7 +1345,7 @@ Kosmiese bestraling,Cosmic ray
 Kovalente binding,Covalent bond
 Koördinaatstelsel,Coordinate system
 Kraai,Crow
-Kraanvoël,Crane (bird)
+Kraanvoël,Crane
 Krag,Force
 Kremetart,Adansonia
 Krieket,Cricket
@@ -1363,7 +1363,7 @@ Kuifkopdobbertjie,Great Crested Grebe
 Kuslyn,Coast
 KwaZoeloe-Natal,KwaZulu-Natal
 Kwaternioon,Quaternion
-Kwik,Mercury (element)
+Kwik,Mercury
 L,L
 LSD,Lysergic acid diethylamide
 La Paz,La Paz
@@ -1417,7 +1417,7 @@ Litium,Lithium
 Ljoebljana,Ljubljana
 Logiese hek,Logic gate
 Logika,Logic
-Loire (rivier),Loire River
+Loire,Loire River
 Londen,London
 Long,Lung
 Lood,Lead
@@ -1433,7 +1433,7 @@ Luiperd,Leopard
 Lusaka,Lusaka
 Lutetium,Lutetium
 Luxemburg,Luxembourg
-Luxemburg (stad),Luxembourg (city)
+Luxemburg,Luxembourg
 Lyon,Lyon
 M,M
 MIV,HIV
@@ -1449,7 +1449,7 @@ Madagaskar,Madagascar
 Madeiraeilande,Madeira
 Madison,Madison
 Madrid,Madrid
-Magenta (kleur),Magenta
+Magenta,Magenta
 Magma,Magma
 Magna Carta,Magna Carta
 Magnesium,Magnesium
@@ -1464,7 +1464,7 @@ Maleisië,Malaysia
 Mali,Mali
 Malta,Malta
 Maltees,Maltese language
-Man (eiland),Isle of Man
+Man,Isle of Man
 Mangaan,Manganese
 Manitoba,Manitoba
 Maputo,Maputo
@@ -1475,7 +1475,7 @@ Maria Magdalena,Mary Magdalene
 Marie Curie,Marie Curie
 Marlene Dietrich,Marlene Dietrich
 Marokko,Morocco
-Mars,Mars (disambiguation)
+Mars,Mars
 Marseille,Marseille
 Martin Luther King Jr.,Martin Luther King
 Maryland,Maryland
@@ -1500,8 +1500,8 @@ Melk,Milk
 Melkweg,Milky Way
 Meningitis,Meningitis
 Mens,Human
-Mensa (sterrebeeld),Mensa (constellation)
-Mercurius,Mercury (planet)
+Mensa,Mensa
+Mercurius,Mercury
 Metaal,Metal
 Metafisika,Metaphysics
 Metamfetamien,Methamphetamine
@@ -1544,14 +1544,14 @@ Molotow-kelkie,Molotov cocktail
 Monaco,Monaco
 Monargie,Monarchy
 Mongolië,Mongolia
-Monopoly,Monopoly (game)
+Monopoly,Monopoly
 Mons,Mons
 Montana,Montana
 Montenegro,Montenegro
 Montevideo,Montevideo
 Montpelier,Montpelier
 Montreal,Montreal
-Morfologie (taalkunde),Morphology (linguistics)
+Morfologie,Morphology
 Morsekode,Morse code
 Mos,Moss
 Mosambiek,Mozambique
@@ -1561,7 +1561,7 @@ Motorsport,Auto racing
 Motorvoertuig,Automobile
 Mount Saint Helens,Mount St. Helens
 Muis,Mouse
-Muis (rekenaar),Mouse (computing)
+Muis,Mouse
 Museum,Museum
 Musical Instrument Digital Interface,Musical Instrument Digital Interface
 Musiek,Music
@@ -1596,16 +1596,16 @@ Nelson Mandela,Nelson Mandela
 Neologisme,Neologism
 Neon,Neon
 Nepal,Nepal
-Neptunus (planeet),Neptune
+Neptunus,Neptune
 Neutron,Neutron
 Nevada,Nevada
 New Hampshire,New Hampshire
 New Jersey,New Jersey
 New Orleans,New Orleans
-New York (dubbelsinnig),New York (disambiguation)
+New York,New York
 New York Staat,New York
 New York Stad,New York City
-Newfoundland,Newfoundland (island)
+Newfoundland,Newfoundland
 Newton,Newton
 Nicaragua,Nicaragua
 Nice,Nice
@@ -1618,7 +1618,7 @@ Nieu-Mexiko,New Mexico
 Nieu-Seeland,New Zealand
 Niger,Niger
 Nigerië,Nigeria
-Nike,Nike (mythology)
+Nike,Nike
 Nikkel,Nickel
 Nikola Tesla,Nikola Tesla
 Niobium,Niobium
@@ -1653,7 +1653,7 @@ Oklahoma,Oklahoma
 Oksidasietoestand,Oxidation state
 Oktober,October
 Oktoberfest,Oktoberfest
-Olie,Oil (disambiguation)
+Olie,Oil
 Olifant,Elephant
 Oligopolie,Oligopoly
 Olimpiese Spele,Olympic Games
@@ -1672,11 +1672,11 @@ Oossee,Baltic Sea
 Oostenryk,Austria
 Oostenryk-Hongarye,Austria-Hungary
 Opera,Opera
-Opera (webblaaier),Opera (Internet suite)
+Opera,Opera
 Oppervlak,Area
 Opvoedkunde,Pedagogy
 Orale seks,Oral sex
-Orde (biologie),Order (biology)
+Orde,Order
 Oregon,Oregon
 Organiese chemie,Organic chemistry
 Orgasme,Orgasm
@@ -1723,16 +1723,16 @@ Patent,Patent
 Pearl Harbor,Pearl Harbor
 Pennsilvanië,Pennsylvania
 Perciformes,Perciformes
-Periode (periodieke tabel),Period (periodic table)
+Periode,Period
 Periodieke tabel,Periodic table
-Periodieke tabel groep,Group (periodic table)
+Periodieke tabel groep,Group
 Perth,Perth
 Peru,Peru
 Petrol,Gasoline
 Petrus,Saint Peter
 Philadelphia,Philadelphia
 Phnom Penh,Phnom Penh
-Phobos (maan),Phobos (moon)
+Phobos,Phobos
 Pi,Pi
 Pikardië,Picardie
 Pikkewyn,Penguin
@@ -1742,9 +1742,9 @@ Pittsburgh,Pittsburgh
 Pizza,Pizza
 Planeet,Planet
 Plant,Plant
-Plasma (fisika),Plasma (physics)
+Plasma,Plasma
 Plato,Plato
-Pluto (dwergplaneet),Pluto
+Pluto,Pluto
 Pogrom,Pogrom
 Poker,Poker
 Pole,Poland
@@ -1778,7 +1778,7 @@ Psigiatrie,Psychiatry
 Psigoterapie,Psychotherapy
 Publieke domein,Public domain
 Puerto Rico,Puerto Rico
-Punt (meetkunde),Point (geometry)
+Punt,Point
 Q,Q
 Quebec,Quebec
 Quebecstad,Quebec City
@@ -1796,7 +1796,7 @@ Reg,Law
 Regsgeleerde,Lawyer
 Reims,Reims
 Rekenaar,Computer
-Rekenaarbus,Bus (computing)
+Rekenaarbus,Bus
 Rekenaargesteunde ontwerp,Computer-aided design
 Rekenaarhardeware,Computer hardware
 Rekenaarprogram,Computer program
@@ -1813,16 +1813,16 @@ Republiek van die Kongo,Republic of the Congo
 Resistor,Resistor
 Rewolwer,Revolver
 Reënboog,Rainbow
-Rhea,Rhea (moon)
+Rhea,Rhea
 Rhode Island,Rhode Island
 Riga,Riga
 Rio de Janeiro,Rio de Janeiro
-Rio de Janeiro (deelstaat),Rio de Janeiro (state)
+Rio de Janeiro,Rio de Janeiro
 Robert A. Heinlein,Robert A. Heinlein
 Robert Boyle,Robert Boyle
 Robert Koch,Robert Koch
 Rodium,Rhodium
-Roek,Rook (bird)
+Roek,Rook
 Roemenië,Romania
 Romansch,Romansh
 Romantiek,Romanticism
@@ -1831,7 +1831,7 @@ Romeinse Republiek,Roman Republic
 Romeinse Ryk,Roman Empire
 Romeinse mitologie,Roman mythology
 Ronald Reagan,Ronald Reagan
-Rooi (kleur),Red
+Rooi,Red
 Rooibloedsel,Red blood cell
 Rooikat,Caracal
 Rooms-Katolieke Kerk,Roman Catholic Church
@@ -1848,7 +1848,7 @@ Rugby,Rugby football
 Ruimtetuig,Spacecraft
 Ruimtevaarder,Astronaut
 Rusland,Russia
-Russiese Rewolusie (1917),Russian Revolution (1917)
+Russiese Rewolusie,Russian Revolution
 Rutenium,Ruthenium
 Rwanda,Rwanda
 Ryn,Rhine
@@ -1864,11 +1864,11 @@ Samuel Morse,Samuel F. B. Morse
 San Diego,San Diego
 San Francisco,San Francisco
 San Marino,San Marino
-San Marino (stad),San Marino
+San Marino,San Marino
 San Salvador,San Salvador
 Sanskrit,Sanskrit
 Santiago de Chile,Santiago
-Santos,Santos (Săo Paulo)
+Santos,Santos
 Saoedi-Arabië,Saudi Arabia
 Sapporo,Sapporo
 Sarajevo,Sarajevo
@@ -1922,9 +1922,9 @@ Sint Petersburg,Saint Petersburg
 Sint-Laurensrivier,Saint Lawrence River
 Sirië,Syria
 Sirkonium,Zirconium
-Sjabloon:Bot,Bot
-Sjabloon:Feit,Fact
-Sjabloon:Saadjie,Stub
+Bot,Bot
+Feit,Fact
+Saadjie,Stub
 Sjanghai,Shanghai
 Sjintoïsme,Shinto
 Sjogoen,Shogun
@@ -1947,7 +1947,7 @@ Slag van Thermopylae,Battle of Thermopylae
 Slag van Verdun,Battle of Verdun
 Slag van die Somme,Battle of the Somme
 Slawerny,Slavery
-Sleutelbord,Keyboard (computing)
+Sleutelbord,Keyboard
 Slowakye,Slovakia
 Slowenië,Slovenia
 Sluipmoord,Assassination
@@ -1956,7 +1956,7 @@ Sneeu,Snow
 Soedan,Sudan
 Soefisme,Sufism
 Sofia,Sofia
-Sokker,Football (soccer)
+Sokker,Football
 Sokrates,Socrates
 Solidarność,Solidarity
 Somalië,Somalia
@@ -2041,7 +2041,7 @@ Taal,Language
 Taalkundige geslag,Grammatical gender
 Taalwetenskappe,Linguistics
 Tadjikistan,Tajikistan
-Tafel,Table (furniture)
+Tafel,Table
 Taipei,Taipei
 Tallinn,Tallinn
 Tantaal,Tantalum
@@ -2058,7 +2058,7 @@ Tennis,Tennis
 Tenzing Norgay,Tenzing Norgay
 Termodinamika,Thermodynamics
 Testosteroon,Testosterone
-Tethys,Tethys (moon)
+Tethys,Tethys
 Texas,Texas
 Thailand,Thailand
 Theodor Mommsen,Theodor Mommsen
@@ -2072,8 +2072,8 @@ Tin,Tin
 Tirana,Tirana
 Tirreense See,Tyrrhenian Sea
 Titaan,Titanium
-Titan (maan),Titan (moon)
-Titanic (dubbelsinnig),Titanic (disambiguation)
+Titan,Titan
+Titanic,Titanic
 Titus Flavius Vespasianus I,Vespasian
 Togo,Togo
 Tokio,Tokyo
@@ -2107,12 +2107,12 @@ Universiteit,University
 Unix,Unix
 Ununquadium,Ununquadium
 Uppsala,Uppsala
-Uranus (planeet),Uranus
+Uranus,Uranus
 Urine,Urine
 Uruguay,Uruguay
 Utah,Utah
-Utrecht (provinsie),Utrecht (province)
-"Utrecht, Nederland",Utrecht (city)
+Utrecht,Utrecht
+"Utrecht, Nederland",Utrecht
 V,V
 Vaatplant,Vascular plant
 Vaduz,Vaduz
@@ -2120,7 +2120,7 @@ Vagina,Vagina
 Vakuumbuis,Vacuum tube
 Valencia,Valencia
 "Valencia, Spanje",Valencia
-Valensie,Valence (chemistry)
+Valensie,Valence
 Valhalla,Valhalla
 Valletta,Valletta
 Valskerm,Parachute
@@ -2136,7 +2136,7 @@ Veereier,Cattle Egret
 Vel,Skin
 Venesië,Venice
 Venezuela,Venezuela
-Venus (planeet),Venus
+Venus,Venus
 Verbranding,Combustion
 Verdamping,Evaporation
 Verdrag van Versailles,Treaty of Versailles
@@ -2149,7 +2149,7 @@ Vermont,Vermont
 Versailles,Versailles
 Versnelling,Acceleration
 Vertalerkonstruksie,Compiler
-Vierkant,Square (geometry)
+Vierkant,Square
 Vigs,AIDS
 Vilnius,Vilnius
 Vincent van Gogh,Vincent van Gogh
@@ -2157,10 +2157,10 @@ Virginië,Virginia
 Virus,Virus
 Vis,Fish
 Viëtnam,Vietnam
-Vlaams (taalkunde),Flemish (linguistics)
+Vlaams,Flemish
 Vlaandere,Flanders
 Vlag,Flag
-Vlak,Plane (mathematics)
+Vlak,Plane
 Vleis,Meat
 Vliegdekskip,Aircraft carrier
 Vliegtuig,Aircraft
@@ -2179,7 +2179,7 @@ Voël,Bird
 Vrede,Peace
 Vrou,Woman
 Vrydag,Friday
-Vrye Hansestad Bremen,Bremen (state)
+Vrye Hansestad Bremen,Bremen
 Vryheidsbeeld,Statue of Liberty
 Vrymesselary,Freemasonry
 Vrystaat,Free State
@@ -2194,8 +2194,8 @@ Walt Disney,Walt Disney
 Walt Whitman,Walt Whitman
 Walter Gropius,Walter Gropius
 Warskou,Warsaw
-Washington,Washington (disambiguation)
-Washington (deelstaat),Washington
+Washington,Washington
+Washington,Washington
 "Washington, D.C.",Washington
 Waterstof,Hydrogen
 Waterstofbinding,Hydrogen bond

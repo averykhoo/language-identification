@@ -1,64 +1,64 @@
 Other,English
-0 (נומער),0 (number)
-1 (נומער),1 (number)
+0,0
+1,1
 1 אין אפריל,April Fools' Day
-10 (נומער),10 (number)
-100 (נומער),100 (number)
-1000 (נומער),1000 (number)
-11 (נומער),11 (number)
-12 (נומער),12 (number)
-13 (נומער),13 (number)
-14 (נומער),14 (number)
-15 (נומער),15 (number)
-16 (נומער),16 (number)
-17 (נומער),17 (number)
-18 (נומער),18 (number)
-19 (נומער),19 (number)
+10,10
+100,100
+1000,1000
+11,11
+12,12
+13,13
+14,14
+15,15
+16,16
+17,17
+18,18
+19,19
 19 יאנואר,January 19
 1920ער,1920s
 1930ער,1930s
 1940ער,1940s
-2 (נומער),2 (number)
+2,2
 20 יאנואר,January 20
-21 (נומער),21 (number)
-22 (נומער),22 (number)
-23 (נומער),23 (number)
-24 (נומער),24 (number)
-25 (נומער),25 (number)
-26 (נומער),26 (number)
-27 (נומער),27 (number)
-28 (נומער),28 (number)
-29 (נומער),29 (number)
-3 (נומער),3 (number)
-30 (נומער),30 (number)
-31 (נומער),31 (number)
-32 (נומער),32 (number)
-33 (נומער),33 (number)
-34 (נומער),34 (number)
-35 (נומער),35 (number)
-36 (נומער),36 (number)
-37 (נומער),37 (number)
-38 (נומער),38 (number)
-39 (נומער),39 (number)
-4 (נומער),4 (number)
-40 (נומער),40 (number)
-41 (נומער),41 (number)
-42 (נומער),42 (number)
-43 (נומער),43 (number)
-45 (נומער),45 (number)
-46 (נומער),46 (number)
-49 (נומער),49 (number)
-5 (נומער),5 (number)
-50 (נומער),50 (number)
-6 (נומער),6 (number)
-60 (נומער),60 (number)
-7 (נומער),7 (number)
-8 (נומער),8 (number)
-80 (נומער),80 (number)
-9 (נומער),9 (number)
+21,21
+22,22
+23,23
+24,24
+25,25
+26,26
+27,27
+28,28
+29,29
+3,3
+30,30
+31,31
+32,32
+33,33
+34,34
+35,35
+36,36
+37,37
+38,38
+39,39
+4,4
+40,40
+41,41
+42,42
+43,43
+45,45
+46,46
+49,49
+5,5
+50,50
+6,6
+60,60
+7,7
+8,8
+80,80
+9,9
 9/11,September 11
 C,C
-C (פראגראם שפראך),C (programming language)
+C,C
 FBI,Federal Bureau of Investigation
 GNU,GNU
 GPS,Global Positioning System
@@ -105,9 +105,9 @@ yiddish,english
 אוקלידוס,Euclid
 אוקריינא,Ukraine
 אוראנוס,Uranus
-אוראנוס (אפגאט),Uranus (mythology)
+אוראנוס,Uranus
 אורוגוויי,Uruguay
-אות,Letter (alphabet)
+אות,Letter
 אזיע,Asia
 אזערביידזשאן,Azerbaijan
 אזערע,Lake
@@ -162,7 +162,7 @@ yiddish,english
 איראן,Iran
 איראק,Iraq
 אירלאנד,Republic of Ireland
-אירלאנד (אינזל),Ireland
+אירלאנד,Ireland
 אישית,Marriage
 אל-קאידא,Al-Qaeda
 אלאבאמא,Alabama
@@ -179,7 +179,7 @@ yiddish,english
 אלמאטיע,Almaty
 אלעקסאנדער דער גרויסער,Alexander the Great
 אלף בית,Hebrew alphabet
-אלפא,Alpha (letter)
+אלפא,Alpha
 אלפן,Alps
 אלפרעד דרייפוס,Alfred Dreyfus
 אלפרעד היטשקאק,Alfred Hitchcock
@@ -188,9 +188,9 @@ yiddish,english
 אלקאהאל,Alcohol
 אלקאהאליזם,Alcoholism
 אלקאהאלישע געטראנקען,Alcoholic beverage
-אמאזאנאס (טייך),Amazon River
+אמאזאנאס,Amazon River
 אמאן,Oman
-אמאן (יארדן),Amman
+אמאן,Amman
 אמיש,Amish
 אמסטערדאם,Amsterdam
 אמעריקאנער וואלוטע,United States dollar
@@ -230,7 +230,7 @@ yiddish,english
 אקסיאם,Axiom
 אקעאן,Ocean
 אקעאנוס,Oceanus
-אקציע (פינאנץ),Share (finance)
+אקציע,Share
 אקצענט,Dialect
 אראבישע ליגע,Arab League
 אראבער,Arab
@@ -288,7 +288,7 @@ yiddish,english
 ביאגראפיע,Biography
 ביאכעמיע,Biochemistry
 ביאלאגיע,Biology
-ביאלאגישע טישו,Tissue (biology)
+ביאלאגישע טישו,Tissue
 ביבליאגראפיע,Bibliography
 ביבליאטעק,Library
 ביג בענג,Big Bang
@@ -337,7 +337,7 @@ yiddish,english
 בראוזער,Web browser
 בראזיל,Brazil
 בראטיסלאווא,Bratislava
-בראכטייל,Fraction (mathematics)
+בראכטייל,Fraction
 בראנזע,Bronze
 ברויט,Bread
 ברוקלין,Brooklyn
@@ -358,7 +358,7 @@ yiddish,english
 גאט,God
 גאלד,Gold
 גאלילעא גאליליי,Galileo Galilei
-גאליציע,Galicia (Central Europe)
+גאליציע,Galicia
 גאלף,Golf
 גאלף פון אקאבא,Gulf of Aqaba
 גאמאל אבדול נאסער,Gamal Abdel Nasser
@@ -374,7 +374,7 @@ yiddish,english
 גלאז,Glass
 גלגול,Reincarnation
 גלות,Diaspora
-גליד,Organ (anatomy)
+גליד,Organ
 גלייכונג,Equation
 גלעטשער,Glacier
 גלענד,Gland
@@ -400,12 +400,12 @@ yiddish,english
 גערשטן,Barley
 געשטאפא,Gestapo
 גראב,Obesity
-גראד,Degree (angle)
+גראד,Degree
 גראוויטאציע,Gravitation
-גראם (מאס),Gram
+גראם,Gram
 גראמאטיק,Grammar
 גראמען,Rhyme
-גרוזיע,Georgia (country)
+גרוזיע,Georgia
 גרויסבריטאניע,Great Britain
 גריכישע מיטאלאגיע,Greek mythology
 גריכישער אלפאבעט,Greek alphabet
@@ -419,7 +419,7 @@ yiddish,english
 דאם,Dam
 דאמיניקאנישע רעפובליק,Dominican Republic
 דאנערשטיק,Thursday
-דאקטער (מעדיצין),Physician
+דאקטער,Physician
 דארדאנעלן,Dardanelles
 דארפור,Darfur
 דובלין,Dublin
@@ -430,7 +430,7 @@ yiddish,english
 דזשאן טעילאר,John Tyler
 דזשארדזש וואקער בוש,George W. Bush
 דזשארזש וואשינגטאן,George Washington
-דזשארזשיע (שטאט),Georgia (U.S. state)
+דזשארזשיע,Georgia
 דזשעראלד פארד,Gerald Ford
 די סטאר ספענגלד בענער,The Star-Spangled Banner
 די ען איי,DNA
@@ -440,7 +440,7 @@ yiddish,english
 דיינעסאר,Dinosaur
 דיכטונג,Poetry
 דימענסיע,Dimension
-דינאמיק,Dynamics (physics)
+דינאמיק,Dynamics
 דינסטיק,Tuesday
 דיסקרימינאציע,Discrimination
 דיעביטיס,Diabetes mellitus
@@ -450,7 +450,7 @@ yiddish,english
 דעלפין,Dolphin
 דעמאגראפיע,Demography
 דעמאקראטיע,Democracy
-דעמאקראטישע פארטיי,Democratic Party (United States)
+דעמאקראטישע פארטיי,Democratic Party
 דען האג,The Hague
 דענמארק,Denmark
 דעפיניציע,Definition
@@ -576,7 +576,7 @@ yiddish,english
 ווענעזועלע,Venezuela
 ווענעציע,Venice
 וועסט ווירדזשיניע,West Virginia
-וועקטאר,Vector (spatial)
+וועקטאר,Vector
 ווערטייברעיטס,Vertebrate
 ווערטערבוך,Dictionary
 ווערמאנט,Vermont
@@ -584,7 +584,7 @@ yiddish,english
 וושט,Esophagus
 זאאלאגיע,Zoology
 זאכארי טעילאר,Zachary Taylor
-זאלץ,Salt (chemistry)
+זאלץ,Salt
 זאלצבורג,Salzburg
 זגאל,Species
 זויערשטאף,Oxygen
@@ -639,7 +639,7 @@ yiddish,english
 טאמעס עדיסאן,Thomas Edison
 טאן,Tonne
 טאן,Ton
-טאנגא,Tango (dance)
+טאנגא,Tango
 טאני בלער,Tony Blair
 טאנץ,Dance
 טאנק,Tank
@@ -665,7 +665,7 @@ yiddish,english
 טייך,River
 טיילאנד,Thailand
 טיירויד,Thyroid
-טיש,Table (furniture)
+טיש,Table
 טעאודער רוזעוועלט,Theodore Roosevelt
 טעאטער,Theatre
 טעאלאגיע,Theology
@@ -684,7 +684,7 @@ yiddish,english
 טראגעדיע,Tragedy
 טראדיציע,Tradition
 טראכטן,Thought
-טראל (אינטערנעט),Troll (Internet)
+טראל,Troll
 טראמוויי,Tram
 טראנזיסטאר,Transistor
 טראפעז,Trapezoid
@@ -804,7 +804,7 @@ yiddish,english
 מאטעמאטיק,Mathematics
 מאטריאל,Matter
 מאי,May
-מאכט,Power (physics)
+מאכט,Power
 מאלדאוויע,Moldova
 מאלעקול,Molecule
 מאמאל,Mammal
@@ -823,7 +823,7 @@ yiddish,english
 מאפיא,Mafia
 מאפע,Map
 מאקבעט,Macbeth
-מאראנץ,Orange (fruit)
+מאראנץ,Orange
 מאראקא,Morocco
 מארגארעט טאטשער,Margaret Thatcher
 מארטין וואן ביורען,Martin Van Buren
@@ -835,12 +835,12 @@ yiddish,english
 מארקס די ברידער,Marx Brothers
 מארקסיזם,Marxism
 מארקעטינג,Marketing
-מבול וואסער,Deluge (mythology)
+מבול וואסער,Deluge
 מגילת אסתר,Book of Esther
 מגילת רות,Book of Ruth
 מגן דוד,Star of David
 מדבר,Desert
-מדריגה (מאטעמאטיק),Exponentiation
+מדריגה,Exponentiation
 מוזיק,Music
 מוזיקאלאגיע,Musicology
 מוזיקער,Musician
@@ -850,7 +850,7 @@ yiddish,english
 מוטאציע,Mutation
 מוטער,Mother
 מויז,Mouse
-מויז (קאמפיוטער),Mouse (computing)
+מויז,Mouse
 מוכמאד כוסעיני מובאראק,Hosni Mubarak
 מוסקל,Muscle
 מוסר,Morality
@@ -869,7 +869,7 @@ yiddish,english
 מילארד פילמאר,Millard Fillmore
 מיליאן,Million
 מילך,Milk
-מין (ביאלאגיע),Genus
+מין,Genus
 מינוט,Minute
 מינכן,Munich
 מינסק,Minsk
@@ -882,7 +882,7 @@ yiddish,english
 מיקראפאן,Microphone
 מישיגן,Michigan
 מנחם בעגין,Menachem Begin
-מעדאנע,Madonna (entertainer)
+מעדאנע,Madonna
 מעדיצין,Medication
 מעהל,Flour
 מעהרען,Moravia
@@ -904,15 +904,15 @@ yiddish,english
 מערב ברעג,West Bank
 מערי מעגדעלין,Mary Magdalene
 מערץ,March
-מערקור,Mercury (planet)
+מערקור,Mercury
 מצרים,Egypt
 משה רבינו,Moses
 משיח,Messiah
 משל,Fable
 משניות,Mishnah
 נאבעל־פריז,Nobel Prize
-נאגל (אנאטאמיע),Nail (anatomy)
-נאגל (בויען),Nail (fastener)
+נאגל,Nail
+נאגל,Nail
 נאוועמבער,November
 נאז,Nose
 נאטור,Nature
@@ -965,7 +965,7 @@ yiddish,english
 סאמאליע,Somalia
 סאסנע,Pine
 סאסקאטשעווען,Saskatchewan
-סאפארי,Safari (web browser)
+סאפארי,Safari
 "סאפיע, בולגאריע",Sofia
 סאציאלאגיע,Sociology
 סאציאליזם,Socialism
@@ -991,7 +991,7 @@ yiddish,english
 סינגאפור,Singapore
 סיסטעם,System
 סיריע,Syria
-סכום (מאטעמאטיק),Set
+סכום,Set
 סכומען טעאריע,Set theory
 סלאוואקיי,Slovakia
 סלאוועניע,Slovenia
@@ -1003,7 +1003,7 @@ yiddish,english
 ספיידער,Spider
 ספינקס,Sphinx
 ספעיס שאטעל,Space Shuttle
-ספעם,Spam (electronic)
+ספעם,Spam
 ספעציעלע טעאריע פון רעלאטיוויטעט,Special relativity
 ספר,Book
 ספר בראשית,Genesis
@@ -1039,7 +1039,7 @@ yiddish,english
 ענדרו זשעקסאן,Andrew Jackson
 ענזיים,Enzyme
 ענערגיע,Energy
-ענערגיע,Energy (society)
+ענערגיע,Energy
 ענציקלאפעדיע,Encyclopedia
 עס.עס.,Schutzstaffel
 עסטעטיק,Aesthetics
@@ -1075,7 +1075,7 @@ yiddish,english
 פאליציי,Police
 פאלמע,Arecaceae
 פאלעסטינע,Palestine
-פאלק (נאציאן),Nation
+פאלק,Nation
 פאן,Flag
 פאנגוס,Fungus
 פאנדעמענטאליזם,Fundamentalism
@@ -1096,7 +1096,7 @@ yiddish,english
 פארגעוואלדיגונג,Rape
 פארדייאונג,Digestion
 פארדייאונג סיסטעם,Gastrointestinal tract
-פארטאל:ליטעראטור,Literature
+ליטעראטור,Literature
 פארטוגאל,Portugal
 פאריז,Paris
 פארינקס,Pharynx
@@ -1106,12 +1106,12 @@ yiddish,english
 פארענהייט,Fahrenheit
 פאשיזם,Fascism
 פובליק רילעישאנס,Public relations
-פוטבאל,Football (soccer)
+פוטבאל,Football
 פויבסט,Pope
 פויגל,Bird
 פוילן,Poland
-פונט,Pound (mass)
-פונקציע,Function (mathematics)
+פונט,Pound
+פונקציע,Function
 פוס,Foot
 פוס מיליטער,Infantry
 פי.על.או.,Palestine Liberation Organization
@@ -1156,12 +1156,12 @@ yiddish,english
 פעריאדישע טאבעלע,Periodic table
 פראג,Prague
 פראגע צייכן,Question mark
-פראזע (ליטעראטור),Prose
+פראזע,Prose
 פראטין,Protein
 פראנז שובערט,Franz Schubert
 פראנצויזישע רעוואלוציע,French Revolution
 פראנקפורט,Frankfurt
-פראנקפורט אן דער אדער,Frankfurt (Oder)
+פראנקפורט אן דער אדער,Frankfurt
 פראנקרייך,France
 פראפעסאר,Professor
 פראצענט,Percentage
@@ -1169,11 +1169,11 @@ yiddish,english
 פרוי,Woman
 פרוכט,Fruit
 פרידן,Peace
-פריי,Freedom (philosophy)
+פריי,Freedom
 פרייהייט פון ווארט,Freedom of speech
 פרייטיק,Friday
 פרייליכקייט,Happiness
-פרילינג,Spring (season)
+פרילינג,Spring
 פרימצאל,Prime number
 פרעה,Pharaoh
 פרעזידענט,President
@@ -1183,7 +1183,7 @@ yiddish,english
 צאל,Number
 צואה,Feces
 צוגעבן,Addition
-צוואנציק,20 (number)
+צוואנציק,20
 צוויבל,Onion
 צווייטער וועלט קריג,World War II
 צוזאמענגעזעצטע צאל,Composite number
@@ -1198,209 +1198,209 @@ yiddish,english
 ציין,Tooth
 צימערינג,Cinnamon
 צין,Tin
-צעל,Cell (biology)
+צעל,Cell
 צענזוס,Census
 צפון,North
 צפון ים,North Sea
-קאַטעגאָריע:1920ער,1920s
-קאַטעגאָריע:1930ער,1930s
-קאַטעגאָריע:1990ער,1990s
-קאַטעגאָריע:USA,United States
-קאַטעגאָריע:אהאיא,Ohio
-קאַטעגאָריע:אוויאציע,Aviation
-קאַטעגאָריע:אוזבעקיסטאן,Uzbekistan
-קאַטעגאָריע:אויג,Eye
-קאַטעגאָריע:אויסטראליע,Australia
-קאַטעגאָריע:אוקריינע,Ukraine
-קאַטעגאָריע:אזיע,Asia
-קאַטעגאָריע:אידישקייט,Judaism
-קאַטעגאָריע:איטאליע,Italy
-קאַטעגאָריע:אייראפע,Europe
-קאַטעגאָריע:אייראפעישער פארבאנד,European Union
-קאַטעגאָריע:אינדוסטריע,Industry
-קאַטעגאָריע:אינדיע,India
-קאַטעגאָריע:אינזשעניריע,Engineering
-קאַטעגאָריע:אינטערנעט,Internet
-קאַטעגאָריע:איסלאם,Islam
-קאַטעגאָריע:איסלאנד,Iceland
-קאַטעגאָריע:איראן,Iran
-קאַטעגאָריע:איראק,Iraq
-קאַטעגאָריע:אירלאנד,Republic of Ireland
-קאַטעגאָריע:אירלאנד,Ireland
-קאַטעגאָריע:אלגעברע,Algebra
-קאַטעגאָריע:אלטערנאטיווע מעדיצין,Alternative medicine
-קאַטעגאָריע:אנאטאמיע,Anatomy
-קאַטעגאָריע:אנארכיזם,Anarchism
-קאַטעגאָריע:אנדארא,Andorra
-קאַטעגאָריע:אנטיסעמיטיזם,Antisemitism
-קאַטעגאָריע:אסטראנאמיע,Astronomy
-קאַטעגאָריע:אפגאניסטאן,Afghanistan
-קאַטעגאָריע:אפטיק,Optics
-קאַטעגאָריע:אפריקע,Africa
-קאַטעגאָריע:ארגענטינע,Argentina
-קאַטעגאָריע:ארכיטעקטור,Architecture
-קאַטעגאָריע:ארכעאלאגיע,Archaeology
-קאַטעגאָריע:ארמעניע,Armenia
-קאַטעגאָריע:באדייטן,Disambiguation
-קאַטעגאָריע:באהאמאס,Bahamas
-קאַטעגאָריע:באטאניק,Botany
-קאַטעגאָריע:בולגאריע,Bulgaria
-קאַטעגאָריע:ביאלאגיע,Biology
-קאַטעגאָריע:בעלארוס,Belarus
-קאַטעגאָריע:בעלגיע,Belgium
-קאַטעגאָריע:בענק,Banks
-קאַטעגאָריע:בראזיל,Brazil
-קאַטעגאָריע:בריטאניע,United Kingdom
-קאַטעגאָריע:בריקן,Bridges
-קאַטעגאָריע:גאבאן,Gabon
-קאַטעגאָריע:גוגעל,Google
-קאַטעגאָריע:גייסט וויסנשאפט,Humanities
-קאַטעגאָריע:געאגראפיע,Geography
-קאַטעגאָריע:געאלאגיע,Geology
-קאַטעגאָריע:געאמעטריע,Geometry
-קאַטעגאָריע:געזונטהייט,Health
-קאַטעגאָריע:געזעלשאפט,Society
-קאַטעגאָריע:געזעץ,Law
-קאַטעגאָריע:געלט,Currency
-קאַטעגאָריע:געפילן,Emotion
-קאַטעגאָריע:גראמאטיק,Grammar
-קאַטעגאָריע:גריכישע מיטאלאגיע,Greek mythology
-קאַטעגאָריע:גריכנלאנד,Greece
-קאַטעגאָריע:דורכגאסן,Straits
-קאַטעגאָריע:דייטשלאנד,Germany
-קאַטעגאָריע:דיכטונג,Poetry
-קאַטעגאָריע:דעמאגראפיע,Demography
-קאַטעגאָריע:דענמארק,Denmark
-קאַטעגאָריע:דרום אמעריקע,South America
-קאַטעגאָריע:דרום אפריקע,South Africa
-קאַטעגאָריע:הארטווארג,Computer hardware
-קאַטעגאָריע:הויפט קאטעגאריעס,Fundamental
-קאַטעגאָריע:הומאר,Humor
-קאַטעגאָריע:היסטאריע,History
-קאַטעגאָריע:וואטיקאן,Vatican City
-קאַטעגאָריע:וואסער,Water
-קאַטעגאָריע:וואשינגטאן,Washington
-קאַטעגאָריע:וויסנשאפט,Science
-קאַטעגאָריע:זאאלאגיע,Zoology
-קאַטעגאָריע:זיכערהייט,Security
-קאַטעגאָריע:זשורנאליזם,Journalism
-קאַטעגאָריע:חינוך,Education
-קאַטעגאָריע:טאנץ,Dance
-קאַטעגאָריע:טויט,Death
-קאַטעגאָריע:טוריזם,Tourism
-קאַטעגאָריע:טורקמעניסטאן,Turkmenistan
-קאַטעגאָריע:טעאטער,Theatre
-קאַטעגאָריע:טעאלאגיע,Theology
-קאַטעגאָריע:טעכנעלאגיע,Technology
-קאַטעגאָריע:טעלעוויזיע,Television
-קאַטעגאָריע:טעראר,Terrorism
-קאַטעגאָריע:טערקיי,Turkey
-קאַטעגאָריע:טראנספארטאציע,Transportation
-קאַטעגאָריע:טשילע,Chile
-קאַטעגאָריע:טשעכיי,Czech Republic
-קאַטעגאָריע:יארן,Years
-קאַטעגאָריע:ירושלים,Jerusalem
-קאַטעגאָריע:ישראל,Israel
-קאַטעגאָריע:כעמיע,Chemistry
-קאַטעגאָריע:לאגיק,Logic
-קאַטעגאָריע:לאנדאן,London
-קאַטעגאָריע:לאנדווירטשאפט,Agriculture
-קאַטעגאָריע:לבנון,Lebanon
-קאַטעגאָריע:לוקסעמבורג,Luxembourg
-קאַטעגאָריע:ליטעראטור,Literature
-קאַטעגאָריע:לינגוויסטיק,Linguistics
-קאַטעגאָריע:לעבן,Life
-קאַטעגאָריע:מאדע,Fashion
-קאַטעגאָריע:מאטעמאטיק,Mathematics
-קאַטעגאָריע:מאלדאוויע,Moldova
-קאַטעגאָריע:מאראקא,Morocco
-קאַטעגאָריע:מדבריות,Deserts
-קאַטעגאָריע:מוזיק,Music
-קאַטעגאָריע:מידות,Ethics
-קאַטעגאָריע:מיטאלאגיע,Mythology
-קאַטעגאָריע:מיטל מזרח,Middle East
-קאַטעגאָריע:מיליטער,Military
-קאַטעגאָריע:מלחמות,War
-קאַטעגאָריע:מעבל,Furniture
-קאַטעגאָריע:מעדעצין,Medicine
-קאַטעגאָריע:מעטעאראלאגיע,Meteorology
-קאַטעגאָריע:משפחה,Family
-קאַטעגאָריע:נאבעל פריז,Nobel Prize
-קאַטעגאָריע:נאוויגאציע,Navigation
-קאַטעגאָריע:נאטור,Nature
-קאַטעגאָריע:נאציאנאליזם,Nationalism
-קאַטעגאָריע:נומערן,Numbers
-קאַטעגאָריע:ניו זילאנד,New Zealand
-קאַטעגאָריע:ניו זשערסי,New Jersey
-קאַטעגאָריע:ניו יארק,New York
-קאַטעגאָריע:סאלאר סיסטעם,Solar System
-קאַטעגאָריע:סאפטוועיר,Software
-קאַטעגאָריע:סאציאלאגיע,Sociology
-קאַטעגאָריע:סאציאליזם,Socialism
-קאַטעגאָריע:סטאטיסטיק,Statistics
-קאַטעגאָריע:סינגאפור,Singapore
-קאַטעגאָריע:סלאוואקיי,Slovakia
-קאַטעגאָריע:סלאוועניע,Slovenia
-קאַטעגאָריע:סערביע,Serbia
-קאַטעגאָריע:עגיפטן,Egypt
-קאַטעגאָריע:עטיאפיע,Ethiopia
-קאַטעגאָריע:עלעקטראניק,Electronics
-קאַטעגאָריע:עלעקטריק,Electricity
-קאַטעגאָריע:ענגלאנד,England
-קאַטעגאָריע:ענטאמאלאגיע,Entomology
-קאַטעגאָריע:עסטרייך,Austria
-קאַטעגאָריע:עקאנאמיקס,Economics
-קאַטעגאָריע:ערד,Earth
-קאַטעגאָריע:ערשטע וועלט מלחמה,World War I
-קאַטעגאָריע:פאליטיק,Politics
-קאַטעגאָריע:פאליטישער וויסנשאפט,Political science
-קאַטעגאָריע:פאלעסטינע,Palestine
-קאַטעגאָריע:פאנגי,Fungi
-קאַטעגאָריע:פאנעטיק,Phonetics
-קאַטעגאָריע:פאקיסטאן,Pakistan
-קאַטעגאָריע:פארדייאונג סיסטעם,Digestive system
-קאַטעגאָריע:פארוויילונג,Entertainment
-קאַטעגאָריע:פאריז,Paris
-קאַטעגאָריע:פוילן,Poland
-קאַטעגאָריע:פוסבאל,Football (soccer)
-קאַטעגאָריע:פוסבאלערס,Football (soccer) players
-קאַטעגאָריע:פיזיאלאגיע,Physiology
-קאַטעגאָריע:פיזיק,Physics
-קאַטעגאָריע:פילאזאפיע,Philosophy
-קאַטעגאָריע:פילם,Film
-קאַטעגאָריע:פינאנץ,Finance
-קאַטעגאָריע:פיש,Fish
-קאַטעגאָריע:פסיכאלאגיע,Psychology
-קאַטעגאָריע:פערזענלעכקייטן,People
-קאַטעגאָריע:פראנקרייך,France
-קאַטעגאָריע:פרוכט,Fruit
-קאַטעגאָריע:צווייטער וועלט קריג,World War II
-קאַטעגאָריע:צייט,Time
-קאַטעגאָריע:קאזאקסטאן,Kazakhstan
-קאַטעגאָריע:קאמוניקאציע,Communication
-קאַטעגאָריע:קאמערון,Cameroon
-קאַטעגאָריע:קאמפיוטער פראגראמירונג,Computer programming
-קאַטעגאָריע:קאנאדע,Canada
-קאַטעגאָריע:קאנעטיקעט,Connecticut
-קאַטעגאָריע:קאסמאלאגיע,Cosmology
-קאַטעגאָריע:קובא,Cuba
-קאַטעגאָריע:קולטור,Culture
-קאַטעגאָריע:קונסט,Arts
-קאַטעגאָריע:קלאסישע מוזיק,Classical music
-קאַטעגאָריע:קליידונג,Clothing
-קאַטעגאָריע:קלימאטאלאגיע,Climatology
-קאַטעגאָריע:קראאטיע,Croatia
-קאַטעגאָריע:קריסטנטום,Christianity
-קאַטעגאָריע:ראדיאו,Radio
-קאַטעגאָריע:ראק,Rock music
-קאַטעגאָריע:רוים,Rome
-קאַטעגאָריע:רוימישע מיטאלאגיע,Roman mythology
-קאַטעגאָריע:רומעניע,Romania
-קאַטעגאָריע:רוסלאנד,Russia
-קאַטעגאָריע:ריינקייט,Hygiene
-קאַטעגאָריע:רעליגיע,Religion
-קאַטעגאָריע:שוועדן,Sweden
-קאַטעגאָריע:װענעזועלע,Venezuela
+1920ער,1920s
+1930ער,1930s
+1990ער,1990s
+USA,United States
+אהאיא,Ohio
+אוויאציע,Aviation
+אוזבעקיסטאן,Uzbekistan
+אויג,Eye
+אויסטראליע,Australia
+אוקריינע,Ukraine
+אזיע,Asia
+אידישקייט,Judaism
+איטאליע,Italy
+אייראפע,Europe
+אייראפעישער פארבאנד,European Union
+אינדוסטריע,Industry
+אינדיע,India
+אינזשעניריע,Engineering
+אינטערנעט,Internet
+איסלאם,Islam
+איסלאנד,Iceland
+איראן,Iran
+איראק,Iraq
+אירלאנד,Republic of Ireland
+אירלאנד,Ireland
+אלגעברע,Algebra
+אלטערנאטיווע מעדיצין,Alternative medicine
+אנאטאמיע,Anatomy
+אנארכיזם,Anarchism
+אנדארא,Andorra
+אנטיסעמיטיזם,Antisemitism
+אסטראנאמיע,Astronomy
+אפגאניסטאן,Afghanistan
+אפטיק,Optics
+אפריקע,Africa
+ארגענטינע,Argentina
+ארכיטעקטור,Architecture
+ארכעאלאגיע,Archaeology
+ארמעניע,Armenia
+באדייטן,Disambiguation
+באהאמאס,Bahamas
+באטאניק,Botany
+בולגאריע,Bulgaria
+ביאלאגיע,Biology
+בעלארוס,Belarus
+בעלגיע,Belgium
+בענק,Banks
+בראזיל,Brazil
+בריטאניע,United Kingdom
+בריקן,Bridges
+גאבאן,Gabon
+גוגעל,Google
+גייסט וויסנשאפט,Humanities
+געאגראפיע,Geography
+געאלאגיע,Geology
+געאמעטריע,Geometry
+געזונטהייט,Health
+געזעלשאפט,Society
+געזעץ,Law
+געלט,Currency
+געפילן,Emotion
+גראמאטיק,Grammar
+גריכישע מיטאלאגיע,Greek mythology
+גריכנלאנד,Greece
+דורכגאסן,Straits
+דייטשלאנד,Germany
+דיכטונג,Poetry
+דעמאגראפיע,Demography
+דענמארק,Denmark
+דרום אמעריקע,South America
+דרום אפריקע,South Africa
+הארטווארג,Computer hardware
+הויפט קאטעגאריעס,Fundamental
+הומאר,Humor
+היסטאריע,History
+וואטיקאן,Vatican City
+וואסער,Water
+וואשינגטאן,Washington
+וויסנשאפט,Science
+זאאלאגיע,Zoology
+זיכערהייט,Security
+זשורנאליזם,Journalism
+חינוך,Education
+טאנץ,Dance
+טויט,Death
+טוריזם,Tourism
+טורקמעניסטאן,Turkmenistan
+טעאטער,Theatre
+טעאלאגיע,Theology
+טעכנעלאגיע,Technology
+טעלעוויזיע,Television
+טעראר,Terrorism
+טערקיי,Turkey
+טראנספארטאציע,Transportation
+טשילע,Chile
+טשעכיי,Czech Republic
+יארן,Years
+ירושלים,Jerusalem
+ישראל,Israel
+כעמיע,Chemistry
+לאגיק,Logic
+לאנדאן,London
+לאנדווירטשאפט,Agriculture
+לבנון,Lebanon
+לוקסעמבורג,Luxembourg
+ליטעראטור,Literature
+לינגוויסטיק,Linguistics
+לעבן,Life
+מאדע,Fashion
+מאטעמאטיק,Mathematics
+מאלדאוויע,Moldova
+מאראקא,Morocco
+מדבריות,Deserts
+מוזיק,Music
+מידות,Ethics
+מיטאלאגיע,Mythology
+מיטל מזרח,Middle East
+מיליטער,Military
+מלחמות,War
+מעבל,Furniture
+מעדעצין,Medicine
+מעטעאראלאגיע,Meteorology
+משפחה,Family
+נאבעל פריז,Nobel Prize
+נאוויגאציע,Navigation
+נאטור,Nature
+נאציאנאליזם,Nationalism
+נומערן,Numbers
+ניו זילאנד,New Zealand
+ניו זשערסי,New Jersey
+ניו יארק,New York
+סאלאר סיסטעם,Solar System
+סאפטוועיר,Software
+סאציאלאגיע,Sociology
+סאציאליזם,Socialism
+סטאטיסטיק,Statistics
+סינגאפור,Singapore
+סלאוואקיי,Slovakia
+סלאוועניע,Slovenia
+סערביע,Serbia
+עגיפטן,Egypt
+עטיאפיע,Ethiopia
+עלעקטראניק,Electronics
+עלעקטריק,Electricity
+ענגלאנד,England
+ענטאמאלאגיע,Entomology
+עסטרייך,Austria
+עקאנאמיקס,Economics
+ערד,Earth
+ערשטע וועלט מלחמה,World War I
+פאליטיק,Politics
+פאליטישער וויסנשאפט,Political science
+פאלעסטינע,Palestine
+פאנגי,Fungi
+פאנעטיק,Phonetics
+פאקיסטאן,Pakistan
+פארדייאונג סיסטעם,Digestive system
+פארוויילונג,Entertainment
+פאריז,Paris
+פוילן,Poland
+פוסבאל,Football
+פוסבאלערס,Football  players
+פיזיאלאגיע,Physiology
+פיזיק,Physics
+פילאזאפיע,Philosophy
+פילם,Film
+פינאנץ,Finance
+פיש,Fish
+פסיכאלאגיע,Psychology
+פערזענלעכקייטן,People
+פראנקרייך,France
+פרוכט,Fruit
+צווייטער וועלט קריג,World War II
+צייט,Time
+קאזאקסטאן,Kazakhstan
+קאמוניקאציע,Communication
+קאמערון,Cameroon
+קאמפיוטער פראגראמירונג,Computer programming
+קאנאדע,Canada
+קאנעטיקעט,Connecticut
+קאסמאלאגיע,Cosmology
+קובא,Cuba
+קולטור,Culture
+קונסט,Arts
+קלאסישע מוזיק,Classical music
+קליידונג,Clothing
+קלימאטאלאגיע,Climatology
+קראאטיע,Croatia
+קריסטנטום,Christianity
+ראדיאו,Radio
+ראק,Rock music
+רוים,Rome
+רוימישע מיטאלאגיע,Roman mythology
+רומעניע,Romania
+רוסלאנד,Russia
+ריינקייט,Hygiene
+רעליגיע,Religion
+שוועדן,Sweden
+װענעזועלע,Venezuela
 קאווע,Coffee
 קאזאקסטאן,Kazakhstan
 קאטאליציזם,Catholicism
@@ -1418,7 +1418,7 @@ yiddish,english
 קאמוניקאציע,Communication
 קאמעדיע,Comedy
 קאמעט,Comet
-קאמעמבערט,Camembert (cheese)
+קאמעמבערט,Camembert
 קאמערא,Camera
 קאמערון,Cameroon
 קאמפאזיטאר,Composer
@@ -1435,7 +1435,7 @@ yiddish,english
 קאנדאקטער,Conducting
 קאנטינענט,Continent
 קאניבאליזם,Cannibalism
-קאנסטיטוציע,Constitution (political)
+קאנסטיטוציע,Constitution
 קאנסענסוס,Consensus
 קאנסערוואטיזם,Conservatism
 קאנעטיקעט,Connecticut
@@ -1465,7 +1465,7 @@ yiddish,english
 קו קלוקס קלען,Ku Klux Klan
 קובא,Cuba
 קוהלת,Ecclesiastes
-קוואדראט,Square (geometry)
+קוואדראט,Square
 קוואדראט ווארצל,Square root
 קוואדראטישע גלייכונג,Quadratic equation
 קוויבעק,Quebec
@@ -1488,9 +1488,9 @@ yiddish,english
 קיעוו,Kiev
 קירגיזסטאן,Kyrgyzstan
 קישקע,Pancreas
-קלאוויאטור,Keyboard (computing)
+קלאוויאטור,Keyboard
 קלאסישע מוזיק,Classical music
-קלויסטער,Church (building)
+קלויסטער,Church
 קליוולאנד,Cleveland
 קליידונג,Clothing
 קלימאטאלאגיע,Climatology
@@ -1537,7 +1537,7 @@ yiddish,english
 ריגע,Riga
 ריטשארד ניקסאן,Richard Nixon
 רייז,Rice
-ריין (טייך),Rhine
+ריין,Rhine
 ריכארד וואגנער,Richard Wagner
 ריפראדאקציע,Reproduction
 "רמב""ם",Maimonides
@@ -1552,9 +1552,9 @@ yiddish,english
 רעסטוראנט,Restaurant
 רעסעסיע,Recession
 רעפובליק,Republic
-רעפובליקאנער פארטיי,Republican Party (United States)
+רעפובליקאנער פארטיי,Republican Party
 רעפערענדום,Referendum
-שאך (שפיל),Chess
+שאך,Chess
 שאקאלאד,Chocolate
 שארק,Shark
 שוואנגערן,Pregnancy
@@ -1574,12 +1574,12 @@ yiddish,english
 שטוטגארט,Stuttgart
 שטול,Chair
 שטח,Area
-שטיין,Rock (geology)
+שטיין,Rock
 שטיין עפאכע,Stone Age
 שטימע קעסטל,Larynx
 שטערן,Star
 שטראסבורג,Strasbourg
-שטריך,Line (mathematics)
+שטריך,Line
 שיספולווער,Gunpowder
 שיף,Ship
 שיר השירים,Song of Solomon

@@ -1,8 +1,8 @@
 Other,English
-1,1 (number)
-10,10 (number)
-100,100 (number)
-1000,1000 (number)
+1,1
+10,10
+100,100
+1000,1000
 1000000,Million
 1000年,1000
 100年,100
@@ -13,7 +13,7 @@ Other,English
 10月,October
 10月12日,October 12
 10月24日,October 24
-11,11 (number)
+11,11
 110年,110
 115年,115
 11年,11
@@ -22,32 +22,32 @@ Other,English
 11月1日,November 1
 11月2日,November 2
 11月5日,November 5
-12,12 (number)
+12,12
 120年,120
 125年,125
 12年,12
 12月,December
 12月31日,December 31
 12月8日,December 8
-13,13 (number)
+13,13
 130年,130
 135年,135
 13年,13
-14,14 (number)
+14,14
 140年,140
 144年,144
 145年,145
 14年,14
-15,15 (number)
+15,15
 150年,150
 1530年代,1530s
 155年,155
 15年,15
-16,16 (number)
+16,16
 160年,160
 165年,165
 16年,16
-17,17 (number)
+17,17
 170年,170
 1728年,1728
 1750年代,1750s
@@ -57,7 +57,7 @@ Other,English
 1780年代,1780s
 1790年代,1790s
 17年,17
-18,18 (number)
+18,18
 180年,180
 1820年代,1820s
 1830年代,1830s
@@ -68,7 +68,7 @@ Other,English
 1880年代,1880s
 1890年代,1890s
 18年,18
-19,19 (number)
+19,19
 1900年代,1900s
 190年,190
 1920年代,1920s
@@ -86,28 +86,28 @@ Other,English
 1月1日,January 1
 1月20日,January 20
 1月6日,January 6
-2,2 (number)
-20,20 (number)
+2,2
+20,20
 200年,200
 20年,20
-21,21 (number)
+21,21
 21年,21
-22,22 (number)
+22,22
 22年,22
-23,23 (number)
+23,23
 23年,23
-24,24 (number)
-24 -TWENTY FOUR-,24 (TV series)
+24,24
+24 -TWENTY FOUR-,24
 24年,24
-25,25 (number)
+25,25
 25年,25
-26,26 (number)
+26,26
 26年,26
-27,27 (number)
+27,27
 27年,27
-28,28 (number)
+28,28
 28年,28
-29,29 (number)
+29,29
 29年,29
 2年,2
 2月,February
@@ -116,28 +116,28 @@ Other,English
 2月22日,February 22
 2月29日,February 29
 2月2日,February 2
-2月革命 (1917年),February Revolution
-3,3 (number)
-30,30 (number)
+2月革命,February Revolution
+3,3
+30,30
 300年,300
 30年,30
-31,31 (number)
+31,31
 31年,31
-32,32 (number)
+32,32
 32年,32
-33,33 (number)
+33,33
 33年,33
-34,34 (number)
+34,34
 34年,34
-35,35 (number)
+35,35
 35年,35
-36,36 (number)
+36,36
 36年,36
-37,37 (number)
+37,37
 37年,37
-38,38 (number)
+38,38
 38年,38
-39,39 (number)
+39,39
 39年,39
 3年,3
 3月,March
@@ -145,30 +145,30 @@ Other,English
 3月19日,March 19
 3月25日,March 25
 3月2日,March 2
-4,4 (number)
-40,40 (number)
+4,4
+40,40
 400年,400
 40年,40
-41,41 (number)
+41,41
 41年,41
-42,42 (number)
+42,42
 42年,42
-43,43 (number)
+43,43
 43年,43
 44年,44
-45,45 (number)
+45,45
 45年,45
-46,46 (number)
+46,46
 46年,46
 47年,47
 48年,48
-49,49 (number)
+49,49
 49年,49
 4年,4
 4月,April
 4月14日,April 14
-5,5 (number)
-50,50 (number)
+5,5
+50,50
 500年,500
 50年,50
 51年,51
@@ -184,8 +184,8 @@ Other,English
 5月,May
 5月1日,May 1
 5月24日,May 24
-6,6 (number)
-60,60 (number)
+6,6
+60,60
 60年,60
 61年,61
 62年,62
@@ -204,7 +204,7 @@ Other,English
 6月24日,June 24
 6月29日,June 29
 6月3日,June 3
-7,7 (number)
+7,7
 70年,70
 71年,71
 72年,72
@@ -219,8 +219,8 @@ Other,English
 7月,July
 7月1日,July 1
 7月4日,July 4
-8,8 (number)
-80,80 (number)
+8,8
+80,80
 80年,80
 81年,81
 82年,82
@@ -236,7 +236,7 @@ Other,English
 8月15日,August 15
 8月1日,August 1
 8月6日,August 6
-9,9 (number)
+9,9
 90年,90
 91年,91
 92年,92
@@ -258,18 +258,18 @@ ALGOL,ALGOL
 ASCII,American Standard Code for Information Interchange
 ATP,ATP
 AU,Au
-AZアルクマール,AZ (football club)
-Ada,Ada (programming language)
-Ajax,Ajax (programming)
+AZアルクマール,AZ
+Ada,Ada
+Ajax,Ajax
 Asynchronous Transfer Mode,Asynchronous Transfer Mode
 B,B
 BASIC,BASIC
 Bash,Bash
-Blender,Blender (software)
+Blender,Blender
 C,C
 CAD,Computer-aided design
-CD (曖昧さ回避),CD (disambiguation)
-CHAOS,CHAOS (Linux distribution)
+CD,CD
+CHAOS,CHAOS
 CISC,Complex instruction set computer
 CNタワー,CN Tower
 COBOL,COBOL
@@ -423,7 +423,7 @@ World Wide Web,World Wide Web
 グアテマラ,Guatemala
 グラフィックデザイン,Graphic design
 グリーンランド,Greenland
-グルジア,Georgia (country)
+グルジア,Georgia
 グレナダ,Grenada
 ケニア,Kenya
 ケベック州,Quebec
@@ -443,11 +443,11 @@ World Wide Web,World Wide Web
 サウジアラビア,Saudi Arabia
 サウスカロライナ州,South Carolina
 サウスダコタ州,South Dakota
-サッカー,Football (soccer)
-サッカークラブ,Football (soccer) clubs
-サッカー指導者,Football (soccer) managers
-サッカー競技場,Football (soccer) venues
-サッカー選手,Football (soccer) players
+サッカー,Football
+サッカークラブ,Football  clubs
+サッカー指導者,Football  managers
+サッカー競技場,Football  venues
+サッカー選手,Football  players
 サモア,Samoa
 サル目,Primates
 サンクトペテルブルク,Saint Petersburg
@@ -462,7 +462,7 @@ World Wide Web,World Wide Web
 ジブラルタル,Gibraltar
 ジャズ,Jazz
 ジャマイカ,Jamaica
-ジョージア州,Georgia (U.S. state)
+ジョージア州,Georgia
 ジンバブエ,Zimbabwe
 スイス,Switzerland
 スイスの人物,Swiss people
@@ -727,7 +727,7 @@ World Wide Web,World Wide Web
 古代史,Ancient history
 古生物学,Paleontology
 台湾,Taiwan
-各国のサッカー,Football (soccer) by country
+各国のサッカー,Football  by country
 君主制,Monarchy
 哲学,Philosophy
 商業,Commerce
@@ -921,21 +921,21 @@ World Wide Web,World Wide Web
 魚類,Fish
 鳥類学,Ornithology
 C・S・ルイス,C. S. Lewis
-C言語,C (programming language)
+C言語,C
 D,D
 DDT,DDT
-DOS (OS),DOS
+DOS,DOS
 DVD,DVD
-Dr.HOUSE,House (TV series)
+Dr.HOUSE,House
 D・H・ローレンス,D. H. Lawrence
 D・W・グリフィス,D. W. Griffith
 E,E
 E.T.A.ホフマン,E. T. A. Hoffmann
-ETA (民族組織),ETA
-Eclipse (統合開発環境),Eclipse (software)
+ETA,ETA
+Eclipse,Eclipse
 F,F
 FORTRAN,Fortran
-Fedora Core,Fedora (Linux distribution)
+Fedora Core,Fedora
 File Allocation Table,File Allocation Table
 File Transfer Protocol,File Transfer Protocol
 F・スコット・フィッツジェラルド,F. Scott Fitzgerald
@@ -951,20 +951,20 @@ I,I
 IPod,IPod
 Internet Explorer,Internet Explorer
 J,J
-Java,Java (programming language)
-Java (曖昧さ回避),Java (disambiguation)
+Java,Java
+Java,Java
 J・D・サリンジャー,J. D. Salinger
 K,K
 K2,K2
 Konqueror,Konqueror
 L,L
-LAMP,LAMP (software bundle)
-LISP,Lisp (programming language)
-LSD (薬物),Lysergic acid diethylamide
+LAMP,LAMP
+LISP,Lisp
+LSD,Lysergic acid diethylamide
 LaTeX,LaTeX
 Linux,Linux
 Local Area Network,Local area network
-Lynx (ウェブブラウザ),Lynx (web browser)
+Lynx,Lynx
 M,M
 MIDI,Musical Instrument Digital Interface
 MS-DOS,MS-DOS
@@ -974,44 +974,44 @@ M理論,M-theory
 N,N
 NASDAQ,NASDAQ
 O,O
-Opera,Opera (Internet suite)
+Opera,Opera
 P,P
 PAL,PAL
 PLAYBOY,Playboy
-Pascal,Pascal (programming language)
-Pidgin,Pidgin (software)
+Pascal,Pascal
+Pidgin,Pidgin
 Ping,Ping
-Portal:化学,Chemistry
-Portal:哲学,Philosophy
-Portal:地理学,Geography
-Portal:天文学,Astronomy
-Portal:数学,Mathematics
-Portal:文学,Literature
-Portal:映画,Film
-Portal:歴史,History
-Portal:物理学,Physics
-Portal:生物学,Biology
+化学,Chemistry
+哲学,Philosophy
+地理学,Geography
+天文学,Astronomy
+数学,Mathematics
+文学,Literature
+映画,Film
+歴史,History
+物理学,Physics
+生物学,Biology
 Prolog,Prolog
-Python,Python (programming language)
+Python,Python
 Q,Q
 R,R
 RAID,RAID
 RISC,Reduced instruction set computer
 Random Access Memory,Random access memory
 Read Only Memory,Read-only memory
-Ruby,Ruby (programming language)
+Ruby,Ruby
 S,S
-SOAP (プロトコル),SOAP
+SOAP,SOAP
 SOS,SOS
-Safari,Safari (web browser)
-Scheme,Scheme (programming language)
+Safari,Safari
+Scheme,Scheme
 Standard Generalized Markup Language,Standard Generalized Markup Language
-Subversion,Subversion (software)
+Subversion,Subversion
 T,T
-Template:Bot,Bot
-Template:Main,Main
-Template:Stub,Stub
-Template:要出典,Fact
+Bot,Bot
+Main,Main
+Stub,Stub
+要出典,Fact
 Transmission Control Protocol,Transmission Control Protocol
 T・S・エリオット,T. S. Eliot
 U,U
@@ -1029,54 +1029,54 @@ X線,X-ray
 Y,Y
 Z,Z
 japanese,english
-Α,Alpha (letter)
-Β,Beta (letter)
+Α,Alpha
+Β,Beta
 Γ,Gamma
-Δ,Delta (letter)
+Δ,Delta
 Ε,Epsilon
 Ζ,Zeta
-Η,Eta (letter)
+Η,Eta
 Θ,Theta
 Ι,Iota
 Κ,Kappa
 Λ,Lambda
-Μ,Mu (letter)
-Ν,Nu (letter)
+Μ,Mu
+Ν,Nu
 Ξ,Xi
 Ο,Omicron
-Π,Pi (letter)
-Ρ,Rho (letter)
+Π,Pi
+Ρ,Rho
 Σ,Sigma
 Τ,Tau
 Υ,Upsilon
-Φ,Phi (letter)
-Χ,Chi (letter)
-Ψ,Psi (letter)
+Φ,Phi
+Χ,Chi
+Ψ,Psi
 Ω,Omega
-А,A (Cyrillic)
-いて座,Sagittarius (constellation)
+А,A
+いて座,Sagittarius
 いるか座,Delphinus
-うお座,Pisces (constellation)
-うさぎ座,Lepus (constellation)
+うお座,Pisces
+うさぎ座,Lepus
 うつ病,Clinical depression
-うみへび座,Hydra (constellation)
+うみへび座,Hydra
 う蝕,Dental caries
-おうし座,Taurus (constellation)
+おうし座,Taurus
 おおいぬ座,Canis Major
-おおかみ座,Lupus (constellation)
+おおかみ座,Lupus
 おおぐま座,Ursa Major
-おとめ座,Virgo (constellation)
-おひつじ座,Aries (constellation)
+おとめ座,Virgo
+おひつじ座,Aries
 かじき座,Dorado
-かに座,Cancer (constellation)
+かに座,Cancer
 かに星雲,Crab Nebula
 かみのけ座,Coma Berenices
-からす座,Corvus (constellation)
+からす座,Corvus
 かんむり座,Corona Borealis
 がか座,Pictor
 きょしちょう座,Tucana
-ぎょしゃ座,Auriga (constellation)
-くじゃく座,Pavo (constellation)
+ぎょしゃ座,Auriga
+くじゃく座,Pavo
 くじら座,Cetus
 くちばし,Beak
 けんびきょう座,Microscopium
@@ -1084,48 +1084,48 @@ japanese,english
 こぎつね座,Vulpecula
 こぐま座,Ursa Minor
 こと座,Lyra
-さいだん座,Ara (constellation)
+さいだん座,Ara
 さそり座,Scorpius
 さんかく座,Triangulum
-しし座,Leo (constellation)
+しし座,Leo
 じゃんけん,Rock
-じょうぎ座,Norma (constellation)
+じょうぎ座,Norma
 そろばん,Abacus
 ちょうこくぐ座,Caelum
-ちょうこくしつ座,Sculptor (constellation)
-つる座,Grus (constellation)
+ちょうこくしつ座,Sculptor
+つる座,Grus
 てこ,Lever
 てんかん,Epilepsy
-てんびん座,Libra (constellation)
+てんびん座,Libra
 とかげ座,Lacerta
 とびうお座,Volans
 とも座,Puppis
 ねじ,Screw
 はえ座,Musca
-はくちょう座,Cygnus (constellation)
+はくちょう座,Cygnus
 はさみ,Scissors
 はちぶんぎ座,Octans
-はと座,Columba (constellation)
+はと座,Columba
 ふうちょう座,Apus
-ふたご座,Gemini (constellation)
+ふたご座,Gemini
 へびつかい座,Ophiuchus
 へび座,Serpens
-ほうおう座,Phoenix (constellation)
-ほ座,Vela (constellation)
+ほうおう座,Phoenix
+ほ座,Vela
 ぼうえんきょう座,Telescopium
-みずがめ座,Aquarius (constellation)
+みずがめ座,Aquarius
 みずへび座,Hydrus
 みなみじゅうじ座,Crux
 みなみのさんかく座,Triangulum Australe
 やぎ座,Capricornus
-やまねこ座,Lynx (constellation)
+やまねこ座,Lynx
 や座,Sagitta
 らしんばん座,Pyxis
-りゅうこつ座,Carina (constellation)
-りゅう座,Draco (constellation)
+りゅうこつ座,Carina
+りゅう座,Draco
 ろうそく,Candle
 ろ座,Fornax
-わし座,Aquila (constellation)
+わし座,Aquila
 アイアン・メイデン,Iron Maiden
 アイアース,Ajax
 アイオロス,Aeolus
@@ -1169,7 +1169,7 @@ japanese,english
 アクチニウム,Actinium
 アクチノイド,Actinide
 アクラ,Accra
-アクレ州,Acre (state)
+アクレ州,Acre
 アクロポリス,Acropolis
 アグリジェント,Agrigento
 アケロン川,Acheron
@@ -1224,9 +1224,9 @@ japanese,english
 アデン,Aden
 アデン湾,Gulf of Aden
 アトス山,Mount Athos
-アトラス,Atlas (mythology)
-アトラス (曖昧さ回避),Atlas (disambiguation)
-アトラス (衛星),Atlas (moon)
+アトラス,Atlas
+アトラス,Atlas
+アトラス,Atlas
 アトラス山脈,Atlas Mountains
 アトランタ,Atlanta
 アトランティス,Atlantis
@@ -1245,7 +1245,7 @@ japanese,english
 アナトール・フランス,Anatole France
 アナハイム,Anaheim
 アナバプテスト,Anabaptist
-アナポリス (メリーランド州),Annapolis
+アナポリス,Annapolis
 アナルセックス,Anal sex
 アニス,Anise
 アニミズム,Animism
@@ -1268,7 +1268,7 @@ japanese,english
 アブサン,Absinthe
 アブジャ,Abuja
 アブダビ,Abu Dhabi
-アブダビ,Abu Dhabi (emirate)
+アブダビ,Abu Dhabi
 アブハジア,Abkhazia
 アブラナ,Rapeseed
 アブラナ科,Brassicaceae
@@ -1277,11 +1277,11 @@ japanese,english
 アプロディーテー,Aphrodite
 アヘン,Opium
 アベル・タスマン,Abel Tasman
-アホウドリ亜科 (Sibley),Albatross
+アホウドリ亜科,Albatross
 アボカド,Avocado
 アボガドロの法則,Avogadro's law
 アポトーシス,Apoptosis
-アポロ,Apollo (disambiguation)
+アポロ,Apollo
 アポローン,Apollo
 アポロ計画,Apollo program
 アマサギ,Cattle Egret
@@ -1364,7 +1364,7 @@ japanese,english
 アルケン,Alkene
 アルコール,Alcohol
 アルコール依存症,Alcoholism
-アルゴス (地名),Argos
+アルゴス,Argos
 アルゴリズム,Algorithm
 アルゴン,Argon
 アルザス地域圏,Alsace
@@ -1381,7 +1381,7 @@ japanese,english
 アルデバラン,Aldebaran
 アルデヒド,Aldehyde
 アルデンヌ,Ardennes
-アルデンヌ県,Ardennes (department)
+アルデンヌ県,Ardennes
 アルトゥル・ショーペンハウアー,Arthur Schopenhauer
 アルトゥーロ・トスカニーニ,Arturo Toscanini
 アルノルト・シェーンベルク,Arnold Schoenberg
@@ -1411,7 +1411,7 @@ japanese,english
 アルベール・カミュ,Albert Camus
 アルマジロ,Armadillo
 アルマトイ,Almaty
-アルミニウス (ゲルマン人),Arminius
+アルミニウス,Arminius
 アルミニウム,Aluminium
 アルメニア,Armenia
 アルメニア語,Armenian language
@@ -1423,7 +1423,7 @@ japanese,english
 アレクサンダー,Alexander
 アレクサンダー・ハミルトン,Alexander Hamilton
 アレクサンダー・フレミング,Alexander Fleming
-アレクサンデル6世 (ローマ教皇),Pope Alexander VI
+アレクサンデル6世,Pope Alexander VI
 アレクサンドリア,Alexandria
 アレクサンドリアのヘロン,Hero of Alexandria
 アレクサンドル・ソルジェニーツィン,Aleksandr Solzhenitsyn
@@ -1457,13 +1457,13 @@ japanese,english
 アンチモン,Antimony
 アンティグア・バーブーダ,Antigua and Barbuda
 アンティゴネー,Antigone
-アンテナ,Antenna (radio)
+アンテナ,Antenna
 アンディ・ウォーホル,Andy Warhol
 アンデス山脈,Andes
 アンデルス・セルシウス,Anders Celsius
 アンデレ,Saint Andrew
 アントウェルペン,Antwerp
-アントウェルペン州,Antwerp (province)
+アントウェルペン州,Antwerp
 アントニオ・ストラディバリ,Antonio Stradivari
 アントニオ・ヴィヴァルディ,Antonio Vivaldi
 アントファガスタ,Antofagasta
@@ -1478,9 +1478,9 @@ japanese,english
 アンドレイ・サハロフ,Andrei Sakharov
 アンドレイ・タルコフスキー,Andrei Tarkovsky
 アンドレーア・パッラーディオ,Andrea Palladio
-アンドロメダ,Andromeda (mythology)
-アンドロメダ (曖昧さ回避),Andromeda
-アンドロメダ座,Andromeda (constellation)
+アンドロメダ,Andromeda
+アンドロメダ,Andromeda
+アンドロメダ座,Andromeda
 アンドロメダ銀河,Andromeda Galaxy
 アンナプルナ,Annapurna
 アンフィテアトルム,Amphitheatre
@@ -1523,19 +1523,19 @@ japanese,english
 アール・ヌーヴォー,Art Nouveau
 アーレ川,Aar
 アーンドラ・プラデーシュ州,Andhra Pradesh
-イアペトゥス (衛星),Iapetus (moon)
+イアペトゥス,Iapetus
 イアン・フレミング,Ian Fleming
 イェニチェリ,Janissary
 イェーナ,Jena
 イェール大学,Yale University
-イエスの母マリア,Mary (mother of Jesus)
+イエスの母マリア,Mary
 イエスズメ,House Sparrow
 イエス・キリスト,Jesus
 イエズス会,Society of Jesus
 イエティ,Yeti
 イエメン,Yemen
 イエローストーン国立公園,Yellowstone National Park
-イオ (衛星),Io (moon)
+イオ,Io
 イオニア,Ionia
 イオニア海,Ionian Sea
 イオン,Ion
@@ -1581,7 +1581,7 @@ japanese,english
 イノシシ,Boar
 イノベーション,Innovation
 イノンド,Dill
-イピロス,Epirus (periphery)
+イピロス,Epirus
 イブプロフェン,Ibuprofen
 イブン＝スィーナー,Avicenna
 イブン＝ルシュド,Averroes
@@ -1613,7 +1613,7 @@ japanese,english
 インジウム,Indium
 インスブルック,Innsbruck
 インスリン,Insulin
-インタプリタ,Interpreter (computing)
+インタプリタ,Interpreter
 インターネット,Internet
 インターリングア,Interlingua
 インダクタンス,Inductance
@@ -1621,7 +1621,7 @@ japanese,english
 インチ,Inch
 インディアナポリス,Indianapolis
 インディアナ州,Indiana
-インディアン座,Indus (constellation)
+インディアン座,Indus
 インディラ・ガンディー,Indira Gandhi
 イントラネット,Intranet
 インド,India
@@ -1633,13 +1633,13 @@ japanese,english
 インフルエンザ,Influenza
 インフレーション,Inflation
 イーアソーン,Jason
-イーアペトス,Iapetus (mythology)
-イーオー,Io (mythology)
+イーアペトス,Iapetus
+イーオー,Io
 イーゴリ・ストラヴィンスキー,Igor Stravinsky
 イーサネット,Ethernet
 イースト・サセックス,East Sussex
 イーリアス,Iliad
-イーリス,Iris (mythology)
+イーリス,Iris
 ウィスコンシン州,Wisconsin
 ウィッカ,Wicca
 ウィニペグ,Winnipeg
@@ -1663,13 +1663,13 @@ japanese,english
 ウイスキー,Whisky
 ウイリアム・ハーベー,William Harvey
 ウイルス,Virus
-ウゥルカーヌス,Vulcan (mythology)
-ウェスタ,Vesta (mythology)
+ウゥルカーヌス,Vulcan
+ウェスタ,Vesta
 ウェストバージニア州,West Virginia
 ウェストミンスター寺院,Westminster Abbey
 ウェスト・サセックス,West Sussex
 ウェスパシアヌス,Vespasian
-ウェヌス,Venus (mythology)
+ウェヌス,Venus
 ウェブサイト,Website
 ウェブブラウザ,Web browser
 ウェブページ,Web page
@@ -1677,7 +1677,7 @@ japanese,english
 ウェリントン公アーサー・ウェルズリー,Arthur Wellesley
 ウェルギリウス,Virgil
 ウェーク島,Wake Island
-ウェーバ,Weber (unit)
+ウェーバ,Weber
 ウェールズ,Wales
 ウォッカ,Vodka
 ウォルター・スコット,Walter Scott
@@ -1724,8 +1724,8 @@ japanese,english
 ウンウンペンチウム,Ununpentium
 ウンブリア州,Umbria
 ウーラニアー,Urania
-ウーラノス,Uranus (mythology)
-ウ科 (Sibley),Cormorant
+ウーラノス,Uranus
+ウ科,Cormorant
 エアバス,Airbus
 エイブラハム・リンカーン,Abraham Lincoln
 エイプリルフール,April Fools' Day
@@ -1734,9 +1734,9 @@ japanese,english
 エウセビオス,Eusebius of Caesarea
 エウテルペー,Euterpe
 エウリピデス,Euripides
-エウロパ (衛星),Europa (moon)
-エウロペ,Europa (mythology)
-エキドナ,Echidna (mythology)
+エウロパ,Europa
+エウロペ,Europa
+エキドナ,Echidna
 エクアドル,Ecuador
 エクスカリバー,Excalibur
 エクトル・ベルリオーズ,Hector Berlioz
@@ -1749,7 +1749,7 @@ japanese,english
 エスファハーン,Esfahan
 エスプレッソ,Espresso
 エスペラント,Esperanto
-エスポー (都市),Espoo
+エスポー,Espoo
 エズラ・パウンド,Ezra Pound
 エセックス,Essex
 エタノール,Ethanol
@@ -1783,10 +1783,10 @@ japanese,english
 エニセイ川,Yenisei River
 エネルギー,Energy
 エネルギー保存の法則,Conservation of energy
-エネルギー資源,Energy (society)
+エネルギー資源,Energy
 エピクテトス,Epictetus
 エピクロス,Epicurus
-エピメーテウス,Epimetheus (mythology)
+エピメーテウス,Epimetheus
 エフェソス,Ephesus
 エフェソス公会議,Council of Ephesus
 エブロ川,Ebro
@@ -1810,9 +1810,9 @@ japanese,english
 エリク・アクセル・カールフェルト,Erik Axel Karlfeldt
 エリコ,Jericho
 エリザベス・テイラー,Elizabeth Taylor
-エリス,Eris (mythology)
-エリス (準惑星),Eris (dwarf planet)
-エリダヌス座,Eridanus (constellation)
+エリス,Eris
+エリス,Eris
+エリダヌス座,Eridanus
 エリック・サティ,Erik Satie
 エリヤ,Elijah
 エリー湖,Lake Erie
@@ -1826,7 +1826,7 @@ japanese,english
 エルヴィン・ロンメル,Erwin Rommel
 エル・グレコ,El Greco
 エル・シド,El Cid
-エル・パソ (テキサス州),El Paso
+エル・パソ,El Paso
 エレクトリックギター,Electric guitar
 エレクトリックベース,Bass guitar
 エレジー,Elegy
@@ -1836,8 +1836,8 @@ japanese,english
 エレボス,Erebus
 エレメント,Element
 エロティカ,Erotica
-エロース,Eros (mythology)
-エンキ (メソポタミア神話),Enki
+エロース,Eros
+エンキ,Enki
 エンジェルフォール,Angel Falls
 エンジン,Engine
 エンタルピー,Enthalpy
@@ -1855,7 +1855,7 @@ japanese,english
 エーオース,Eos
 エーカー,Acre
 エーゲ海,Aegean Sea
-エーテル (化学),Ether
+エーテル,Ether
 エーレクトラー,Electra
 オアシス,Oasis
 オアハカ州,Oaxaca
@@ -1881,17 +1881,17 @@ japanese,english
 オスミウム,Osmium
 オスロ,Oslo
 オセアニア,Oceania
-オセロ (シェイクスピア),Othello
+オセロ,Othello
 オゾン,Ozone
 オゾン層,Ozone layer
 オタワ,Ottawa
 オッカムのウィリアム,William of Ockham
 オッカムの剃刀,Occam's razor
 オックスフォード,Oxford
-オットー1世 (神聖ローマ皇帝),Otto I
+オットー1世,Otto I
 オットー・ハーン,Otto Hahn
 オットー・フォン・ビスマルク,Otto von Bismarck
-オデッサ (オデッサ州),Odessa
+オデッサ,Odessa
 オデュッセイア,Odyssey
 オデュッセウス,Odysseus
 オト,Otho
@@ -1902,7 +1902,7 @@ japanese,english
 オパール,Opal
 オビエド,Oviedo
 オビ川,Ob River
-オフサイド (サッカー),Offside (football)
+オフサイド,Offside
 オブジェクト指向プログラミング,Object-oriented programming
 オベリスク,Obelisk
 オペラ,Opera
@@ -1918,36 +1918,36 @@ japanese,english
 オランウータン,Orangutan
 オランダ,Netherlands
 オランダ領アンティル,Netherlands Antilles
-オリオン座,Orion (constellation)
+オリオン座,Orion
 オリゲネス,Origen
 オリッサ州,Orissa
 オリノコ川,Orinoco
 オリバー・クロムウェル,Oliver Cromwell
 オリバー・ストーン,Oliver Stone
-オリンピア (ギリシャ),Olympia
-オリンピア (ワシントン州),Olympia
+オリンピア,Olympia
+オリンピア,Olympia
 オリンポス山,Mount Olympus
 オリーブ,Olive
 オリーブ・オイル,Olive oil
-オルガン,Organ (music)
+オルガン,Organ
 オルダス・ハクスリー,Aldous Huxley
 オルドビス紀,Ordovician
 オルフェウス,Orpheus
 オレガノ,Oregano
 オレゴン州,Oregon
-オレステース,Orestes (mythology)
-オレンジ,Orange (fruit)
-オレンジ色,Orange (colour)
+オレステース,Orestes
+オレンジ,Orange
+オレンジ色,Orange
 オンス,Ounce
 オンタリオ州,Ontario
 オンタリオ湖,Lake Ontario
-オーガスタ (メイン州),Augusta
+オーガスタ,Augusta
 オーガズム,Orgasm
 オーギュスト・コント,Auguste Comte
 オーギュスト・ロダン,Auguste Rodin
 オーク,Oak
-オークランド (カリフォルニア州),Oakland
-オークランド (ニュージーランド),Auckland
+オークランド,Oakland
+オークランド,Auckland
 オーケアニス,Oceanid
 オーケアノス,Oceanus
 オーケストラ,Orchestra
@@ -1963,29 +1963,29 @@ japanese,english
 オートバイ,Motorcycle
 オート・ノルマンディー地域圏,Haute-Normandie
 オーフス,Aarhus
-オープニング (チェス),Chess opening
+オープニング,Chess opening
 オーボエ,Oboe
 オーム,Ohm
 オームの法則,Ohm's law
 オーラルセックス,Oral sex
 オーランド,Orlando
 オールトの雲,Oort cloud
-オールバニ (ニューヨーク州),Albany
+オールバニ,Albany
 オールボー,Aalborg
-オーロラ,Aurora (astronomy)
-オーロラ (曖昧さ回避),Aurora
-オーヴェルニュ地域圏,Auvergne (region)
+オーロラ,Aurora
+オーロラ,Aurora
+オーヴェルニュ地域圏,Auvergne
 カ,Mosquito
 カアバ,Kaaba
 カイエンヌ,Cayenne
 カイコ,Bombyx mori
 カイサリアのバシレイオス,Basil of Caesarea
 カイツブリ目,Grebe
-カイロ (エジプト),Cairo
+カイロ,Cairo
 カウナス,Kaunas
 カエデ,Maple
 カエル,Frog
-カオス,Chaos (mythology)
+カオス,Chaos
 カカオ,Cacao
 カクテル,Cocktail
 カゲロウ,Mayfly
@@ -1993,11 +1993,11 @@ japanese,english
 カサブランカ,Casablanca
 カザフスタン,Kazakhstan
 カザン,Kazan
-カシオペヤ座,Cassiopeia (constellation)
+カシオペヤ座,Cassiopeia
 カシューナッツ,Cashew
 カジノ,Casino
 カジミール・マレーヴィチ,Kazimir Malevich
-カスティーリャ,Castile (historical region)
+カスティーリャ,Castile
 カストリーズ,Castries
 カスピ海,Caspian Sea
 カソード,Cathode
@@ -2029,7 +2029,7 @@ japanese,english
 カフェイン,Caffeine
 カフカース,Caucasus
 カフカース山脈,Caucasus Mountains
-カマンベールチーズ,Camembert (cheese)
+カマンベールチーズ,Camembert
 カムチャツカ半島,Kamchatka Peninsula
 カメ,Turtle
 カメラ,Camera
@@ -2037,9 +2037,9 @@ japanese,english
 カメレオン座,Chamaeleon
 カモノハシ,Platypus
 カモノハシ目,Monotreme
-カモメ族 (Sibley),Gull
+カモメ族,Gull
 カモ目,Anseriformes
-カモ科 (Sibley),Anatidae
+カモ科,Anatidae
 カヤック,Kayak
 カヤツリグサ科,Cyperaceae
 カラオケ,Karaoke
@@ -2049,8 +2049,8 @@ japanese,english
 カラスムギ属,Avena
 カラス科,Corvidae
 カラチ,Karachi
-カラット,Carat (mass)
-カラット,Carat (purity)
+カラット,Carat
+カラット,Carat
 カラハリ砂漠,Kalahari Desert
 カラブリア州,Calabria
 カラマツ,Larch
@@ -2059,14 +2059,14 @@ japanese,english
 カリオペー,Calliope
 カリグラ,Caligula
 カリグラフィー,Calligraphy
-カリスト (衛星),Callisto (moon)
-カリストー,Callisto (mythology)
+カリスト,Callisto
+カリストー,Callisto
 カリフ,Caliph
 カリフォルニア州,California
 カリフラワー,Cauliflower
 カリブ海,Caribbean Sea
 カリホルニウム,Californium
-カリュプソー,Calypso (mythology)
+カリュプソー,Calypso
 カルケドン公会議,Council of Chalcedon
 カルシウム,Calcium
 カルタゴ,Carthage
@@ -2082,13 +2082,13 @@ japanese,english
 カルヴァン主義,Calvinism
 カレン・ブリクセン,Karen Blixen
 カレー,Curry
-カレー (フランス),Calais
+カレー,Calais
 カロリング朝,Carolingian dynasty
 カロリー,Calorie
-カロン (衛星),Charon (moon)
-カローン,Charon (mythology)
+カロン,Charon
+カローン,Charon
 カンガルー,Kangaroo
-カンザスシティ (ミズーリ州),Kansas City
+カンザスシティ,Kansas City
 カンザス州,Kansas
 カンタベリー,Canterbury
 カンタータ,Cantata
@@ -2098,17 +2098,17 @@ japanese,english
 カンヌ,Cannes
 カンパニア州,Campania
 カンパラ,Kampala
-カンブリア (イングランド),Cumbria
+カンブリア,Cumbria
 カンブリア紀,Cambrian
 カンボジア,Cambodia
 カンムリカイツブリ,Great Crested Grebe
 カンラン石,Olivine
 カースト,Caste
-カーソンシティ (ネバダ州),Carson City
+カーソンシティ,Carson City
 カーディフ,Cardiff
 カート・ヴォネガット,Kurt Vonnegut
 カードゲーム,Card game
-カーネル,Kernel (computer science)
+カーネル,Kernel
 カーブル,Kabul
 カーボベルデ,Cape Verde
 カーリング,Curling
@@ -2123,7 +2123,7 @@ japanese,english
 カール・ヤスパース,Karl Jaspers
 カール・ルイス,Carl Lewis
 カール大帝,Charlemagne
-ガイア,Gaia (mythology)
+ガイア,Gaia
 ガイウス・ウァレリウス・カトゥルス,Catullus
 ガイウス・プリニウス・カエキリウス・セクンドゥス,Pliny the Younger
 ガイウス・プリニウス・セクンドゥス,Pliny the Elder
@@ -2134,7 +2134,7 @@ japanese,english
 ガザ地区,Gaza Strip
 ガソリン,Gasoline
 ガドリニウム,Gadolinium
-ガニメデ (衛星),Ganymede (moon)
+ガニメデ,Ganymede
 ガニュメーデース,Ganymede
 ガネーシャ,Ganesha
 ガブリエル,Gabriel
@@ -2146,10 +2146,10 @@ japanese,english
 ガラテヤの信徒への手紙,Epistle to the Galatians
 ガリア,Gaul
 ガリウム,Gallium
-ガリシア州,Galicia (Spain)
-ガリツィア,Galicia (Central Europe)
+ガリシア州,Galicia
+ガリツィア,Galicia
 ガリラヤ,Galilee
-ガリレオ (探査機),Galileo (spacecraft)
+ガリレオ,Galileo
 ガリレオ・ガリレイ,Galileo Galilei
 ガレノス,Galen
 ガレー船,Galley
@@ -2177,18 +2177,18 @@ japanese,english
 キノコ,Mushroom
 キブツ,Kibbutz
 キプロス,Cyprus
-キマイラ,Chimera (mythology)
+キマイラ,Chimera
 キャサリン・オブ・アラゴン,Catherine of Aragon
 キャサリン・パー,Catherine Parr
 キャサリン・ヘプバーン,Katharine Hepburn
 キャスリング,Castling
-キャッシュ (コンピュータシステム),Cache
+キャッシュ,Cache
 キャバレー,Cabaret
 キャビア,Caviar
 キャブレター,Carburetor
 キャラクター,Fictional character
 キャンベラ,Canberra
-キヤノン,Canon (company)
+キヤノン,Canon
 キュウリ,Cucumber
 キュクロープス,Cyclops
 キュビスム,Cubism
@@ -2210,19 +2210,19 @@ japanese,english
 キロメートル毎時,Kilometres per hour
 キロワット時,Watt-hour
 キンカン,Kumquat
-キング (チェス),King (chess)
+キング,King
 キングスタウン,Kingstown
-キングストン (ジャマイカ),Kingston
+キングストン,Kingston
 キンシャサ,Kinshasa
 キンポウゲ科,Ranunculaceae
-キーウィ (鳥),Kiwi
-キーボード (コンピュータ),Keyboard (computing)
+キーウィ,Kiwi
+キーボード,Keyboard
 ギガバイト,Gigabyte
 ギター,Guitar
 ギニア,Guinea
 ギニアビサウ,Guinea-Bissau
 ギニア湾,Gulf of Guinea
-ギャップ (フランス),Gap
+ギャップ,Gap
 ギャンジャ,Ganja
 ギャンブル,Gambling
 ギュスターヴ・クールベ,Gustave Courbet
@@ -2241,11 +2241,11 @@ japanese,english
 ギ酸,Formic acid
 クァエストル,Quaestor
 クアラルンプール,Kuala Lumpur
-クイーン (チェス),Queen (chess)
+クイーン,Queen
 クイーンズランド州,Queensland
 クイーンズ区,Queens
 クウェート,Kuwait
-クウェート (市),Kuwait City
+クウェート,Kuwait City
 クエンティン・タランティーノ,Quentin Tarantino
 クエン酸,Citric acid
 クエン酸回路,Citric acid cycle
@@ -2258,7 +2258,7 @@ japanese,english
 クスコ,Cusco
 クセノパネス,Xenophanes
 クセノポン,Xenophon
-クヌーズ1世 (デンマーク王),Canute the Great
+クヌーズ1世,Canute the Great
 クヌート・ハムスン,Knut Hamsun
 クネセト,Knesset
 クノッソス,Knossos
@@ -2278,7 +2278,7 @@ japanese,english
 クラゲ,Jellyfish
 クラシック音楽,Classical music
 クラス,Class
-クラス (コンピュータ),Class (computer science)
+クラス,Class
 クラリネット,Clarinet
 クラーク・ゲーブル,Clark Gable
 クラ川,Kura River
@@ -2296,14 +2296,14 @@ japanese,english
 クリプトン,Krypton
 クリミア戦争,Crimean War
 クリミア自治共和国,Crimea
-クリーブランド (オハイオ州),Cleveland
+クリーブランド,Cleveland
 クルスク,Kursk
 クルディスタン,Kurdistan
 クルディスタン労働者党,Kurdistan Workers Party
 クルト・ヴァルトハイム,Kurt Waldheim
 クルミ,Walnut
 クレイオー,Clio
-クレオパトラ (曖昧さ回避),Cleopatra (disambiguation)
+クレオパトラ,Cleopatra
 クレタ島,Crete
 クレタ文明,Minoan civilization
 クレメント・アトリー,Clement Attlee
@@ -2331,7 +2331,7 @@ japanese,english
 クーロン,Coulomb
 クーロンの法則,Coulomb's law
 クー・クラックス・クラン,Ku Klux Klan
-グアダラハラ (メキシコ),Guadalajara
+グアダラハラ,Guadalajara
 グアテマラシティ,Guatemala City
 グアドループ,Guadeloupe
 グアニン,Guanine
@@ -2354,8 +2354,8 @@ japanese,english
 グラフィカルユーザインタフェース,Graphical user interface
 グラフィックデザイン,Graphic design
 グラム,Gram
-グランドスラム (テニス),Grand Slam (tennis)
-グランドマスター,Grandmaster (chess)
+グランドスラム,Grand Slam
+グランドマスター,Grandmaster
 グランド・キャニオン,Grand Canyon
 グラーツ,Graz
 グリエルモ・マルコーニ,Guglielmo Marconi
@@ -2366,12 +2366,12 @@ japanese,english
 グリニッジ子午線,Prime Meridian
 グリニッジ標準時,Greenwich Mean Time
 グリフォン,Griffin
-グリーンピース (NGO),Greenpeace
+グリーンピース,Greenpeace
 グリーンランド,Greenland
 グリーンランド海,Greenland Sea
 グルカゴン,Glucagon
 グルコース,Glucose
-グルジア,Georgia (country)
+グルジア,Georgia
 グルタミン酸,Glutamic acid
 グルタミン酸ナトリウム,Monosodium glutamate
 グルノーブル,Grenoble
@@ -2379,7 +2379,7 @@ japanese,english
 グループ,Group
 グレアム・グリーン,Graham Greene
 グレアム・ベル,Alexander Graham Bell
-グレイ (単位),Gray (unit)
+グレイ,Gray
 グレゴリオ暦,Gregorian calendar
 グレゴール・ヨハン・メンデル,Gregor Mendel
 グレタ・ガルボ,Greta Garbo
@@ -2402,24 +2402,24 @@ japanese,english
 ケツァルコアトル,Quetzalcoatl
 ケトン,Ketone
 ケニア,Kenya
-ケフェウス座,Cepheus (constellation)
-ケベック (ケベック州),Quebec City
+ケフェウス座,Cepheus
+ケベック,Quebec City
 ケベック州,Quebec
 ケムニッツ,Chemnitz
 ケルビン,Kelvin
 ケルベロス,Cerberus
 ケルン,Cologne
-ケレス (準惑星),Ceres (dwarf planet)
-ケレース,Ceres (mythology)
+ケレス,Ceres
+ケレース,Ceres
 ケロシン,Kerosene
 ケンタウルス座,Centaurus
 ケンタウルス座アルファ星,Alpha Centauri
 ケンタウロス,Centaur
 ケンタッキー州,Kentucky
-ケント (イングランド),Kent
+ケント,Kent
 ケンブリッジ,Cambridge
-ケンブリッジ (マサチューセッツ州),Cambridge
-ケンブリッジ (曖昧さ回避),Cambridge (disambiguation)
+ケンブリッジ,Cambridge
+ケンブリッジ,Cambridge
 ケーキ,Cake
 ケーブルカー,Funicular
 ケープカナベラル,Cape Canaveral
@@ -2445,21 +2445,21 @@ japanese,english
 コウノトリ目,Ciconiiformes
 コウノトリ科,Stork
 コウモリ,Bat
-コオロギ,Cricket (insect)
+コオロギ,Cricket
 コカイン,Cocaine
 コキンメフクロウ,Little Owl
-ココス (キーリング) 諸島,Cocos (Keeling) Islands
+ココス  諸島,Cocos  Islands
 ココナッツ,Coconut
 コショウ,Black pepper
 コスタリカ,Costa Rica
 コソボ,Kosovo
-コップ座,Crater (constellation)
+コップ座,Crater
 コデイン,Codeine
 コトヌー,Cotonou
 コトパクシ山,Cotopaxi
 コドン,Genetic code
 コナクリ,Conakry
-コニャック,Cognac (drink)
+コニャック,Cognac
 コネチカット州,Connecticut
 コハク,Amber
 コバルト,Cobalt
@@ -2490,17 +2490,17 @@ japanese,english
 コロッセオ,Colosseum
 コロラド川,Colorado River
 コロラド州,Colorado
-コロンバス (オハイオ州),Columbus
+コロンバス,Columbus
 コロンビア,Colombia
-コロンビア (サウスカロライナ州),Columbia
-コロンビア (曖昧さ回避),Columbia
+コロンビア,Columbia
+コロンビア,Columbia
 コロンビア大学,Columbia University
 コロンビア川,Columbia River
 コロンブス,Columbus
 コロンボ,Colombo
 コンキスタドール,Conquistador
 コンクリート,Concrete
-コンコード (ニューハンプシャー州),Concord
+コンコード,Concord
 コンゴ,Congo
 コンゴ共和国,Republic of the Congo
 コンゴ川,Congo River
@@ -2514,7 +2514,7 @@ japanese,english
 コンドーム,Condom
 コンパイラ,Compiler
 コンパクトディスク,Compact Disc
-コンパス,Compass (drafting)
+コンパス,Compass
 コンパス座,Circinus
 コンピュータ,Computer
 コンピュータウイルス,Computer virus
@@ -2522,15 +2522,15 @@ japanese,english
 コンピュータネットワーク,Computer network
 コンピュータ・アーキテクチャ,Computer architecture
 コンピュータ断層撮影,Computed tomography
-コンマ,Comma (punctuation)
+コンマ,Comma
 コンメディア・デッラルテ,Commedia dell'arte
 コンラート・アデナウアー,Konrad Adenauer
 コヴェントリー,Coventry
-コーク (アイルランド),Cork (city)
+コーク,Cork
 コーネル大学,Cornell University
 コーヒー,Coffee
 コーヒーノキ,Coffea
-コーラ (飲料),Cola
+コーラ,Cola
 コーラングレ,Cor anglais
 コーンウォール,Cornwall
 ゴア州,Goa
@@ -2566,7 +2566,7 @@ japanese,english
 サウスダコタ州,South Dakota
 サギ科,Heron
 サクソフォーン,Saxophone
-サクラメント (カリフォルニア州),Sacramento
+サクラメント,Sacramento
 サクランボ,Cherry
 サクラ属,Prunus
 サケ類,Salmonidae
@@ -2574,8 +2574,8 @@ japanese,english
 サソリ,Scorpion
 サタニズム,Satanism
 サタン,Satan
-サターン,Saturn (disambiguation)
-サッカー,Football (soccer)
+サターン,Saturn
+サッカー,Football
 サッダーム・フセイン,Saddam Hussein
 サッポー,Sappho
 サツマイモ,Sweet potato
@@ -2605,7 +2605,7 @@ japanese,english
 サラ・ベルナール,Sarah Bernhardt
 サラーフッディーン,Saladin
 サリン,Sarin
-サリー (イングランド),Surrey
+サリー,Surrey
 サルコファガス,Sarcophagus
 サルデーニャ,Sardinia
 サルマン・ラシュディ,Salman Rushdie
@@ -2619,25 +2619,25 @@ japanese,english
 サンサルバドル,San Salvador
 サンスクリット,Sanskrit
 サンタクロース,Santa Claus
-サンタフェ (ニューメキシコ州),Santa Fe
+サンタフェ,Santa Fe
 サンティアゴ,Santiago
-サンティアゴ (チリ),Santiago
+サンティアゴ,Santiago
 サンティアーゴ・デ・クーバ,Santiago de Cuba
 サンディエゴ,San Diego
-サントス市,Santos (Săo Paulo)
+サントス市,Santos
 サントドミンゴ,Santo Domingo
 サントル地域圏,Centre
 サンドイッチ,Sandwich
 サンドロ・ボッティチェッリ,Sandro Botticelli
-サンノゼ (カリフォルニア州),San Jose
-サンフアン (プエルトリコ),San Juan
+サンノゼ,San Jose
+サンフアン,San Juan
 サンフランシスコ,San Francisco
 サンマリノ,San Marino
 サンマリノ市,San Marino
 サーカス,Circus
-サートゥルヌス,Saturn (mythology)
-サーバ,Server (computing)
-サーリー (イラン),Sari
+サートゥルヌス,Saturn
+サーバ,Server
+サーリー,Sari
 ザカリー・テイラー,Zachary Taylor
 ザクセン州,Saxony
 ザクロ,Pomegranate
@@ -2645,12 +2645,12 @@ japanese,english
 ザトウクジラ,Humpback Whale
 ザラスシュトラ,Zoroaster
 ザルツブルク,Salzburg
-ザルツブルク州,Salzburg (state)
+ザルツブルク州,Salzburg
 ザンジバル,Zanzibar
 ザンビア,Zambia
 ザンベジ川,Zambezi
 シアトル,Seattle
-シアン (色),Cyan
+シアン,Cyan
 シアン化水素,Hydrogen cyanide
 シアン化物,Cyanide
 シアーズ・タワー,Sears Tower
@@ -2665,7 +2665,7 @@ japanese,english
 シカゴ大学,University of Chicago
 シク教,Sikhism
 シグリ・ウンセット,Sigrid Undset
-シジュウカラ科,Tit (bird)
+シジュウカラ科,Tit
 システィーナ礼拝堂,Sistine Chapel
 システム,System
 シソ科,Lamiaceae
@@ -2684,23 +2684,23 @@ japanese,english
 シベリアン・ハスキー,Siberian Husky
 シマウマ,Zebra
 シモーヌ・ド・ボーヴォワール,Simone de Beauvoir
-シャイアン (ワイオミング州),Cheyenne
+シャイアン,Cheyenne
 シャチ,Orca
 シャハーダ,Shahadah
 シャモア,Chamois
 シャリーア,Sharia
 シャルトル,Chartres
-シャルル2世 (西フランク王),Charles the Bald
+シャルル2世,Charles the Bald
 シャルルロワ,Charleroi
 シャルル・ド・ゴール,Charles de Gaulle
 シャルル・フーリエ,Charles Fourier
 シャルル・ボードレール,Charles Baudelaire
-シャンパン,Champagne (wine)
+シャンパン,Champagne
 シャンパーニュ＝アルデンヌ地域圏,Champagne-Ardenne
 シャー,Shah
 シャーマニズム,Shamanism
 シャーロック・ホームズ,Sherlock Holmes
-シャーロット (ノースカロライナ州),Charlotte
+シャーロット,Charlotte
 シュテファン・ツヴァイク,Stefan Zweig
 シュテフィ・グラフ,Steffi Graf
 シュトゥットガルト,Stuttgart
@@ -2725,13 +2725,13 @@ japanese,english
 シンガポール,Singapore
 シンクタンク,Think tank
 シンクレア・ルイス,Sinclair Lewis
-シングル,Single (music)
+シングル,Single
 シンジケート,Syndicate
 シンセサイザー,Synthesizer
 シンデレラ,Cinderella
 シンボル,Symbol
 シヴァ,Shiva
-シヴィライゼーション,Civilization (computer game)
+シヴィライゼーション,Civilization
 シーシュポス,Sisyphus
 シードル,Cider
 シーボーギウム,Seaborgium
@@ -2740,7 +2740,7 @@ japanese,english
 ジェットエンジン,Jet engine
 ジェノサイド,Genocide
 ジェノヴァ,Genoa
-ジェファーソンシティ (ミズーリ州),Jefferson City
+ジェファーソンシティ,Jefferson City
 ジェファーソン・デイヴィス,Jefferson Davis
 ジェフリー・チョーサー,Geoffrey Chaucer
 ジェラルド・R・フォード,Gerald Ford
@@ -2768,7 +2768,7 @@ japanese,english
 ジッダ,Jeddah
 ジハード,Jihad
 ジフテリア,Diphtheria
-ジブチ市,Djibouti (city)
+ジブチ市,Djibouti
 ジブラルタル,Gibraltar
 ジブラルタル海峡,Strait of Gibraltar
 ジミ・ヘンドリックス,Jimi Hendrix
@@ -2779,7 +2779,7 @@ japanese,english
 ジャカルタ,Jakarta
 ジャガイモ,Potato
 ジャガー,Jaguar
-ジャクソン (ミシシッピ州),Jackson
+ジャクソン,Jackson
 ジャクソンビル,Jacksonville
 ジャクソン・ポロック,Jackson Pollock
 ジャコモ・プッチーニ,Giacomo Puccini
@@ -2815,8 +2815,8 @@ japanese,english
 ジュゼッペ・ヴェルディ,Giuseppe Verdi
 ジュディ・ガーランド,Judy Garland
 ジュネーヴ,Geneva
-ジュノー (アラスカ州),Juneau
-ジュピター,Jupiter (disambiguation)
+ジュノー,Juneau
+ジュピター,Jupiter
 ジュラ紀,Jurassic
 ジュール,Joule
 ジュール・ヴェルヌ,Jules Verne
@@ -2861,8 +2861,8 @@ japanese,english
 ジョン・レノン,John Lennon
 ジョン・ロック,John Locke
 ジョヴァンニ・ボッカッチョ,Giovanni Boccaccio
-ジョージア州,Georgia (U.S. state)
-ジョージタウン (ガイアナ),Georgetown
+ジョージア州,Georgia
+ジョージタウン,Georgetown
 ジョージ・C・マーシャル,George Marshall
 ジョージ・W・ブッシュ,George W. Bush
 ジョージ・オーウェル,George Orwell
@@ -2880,10 +2880,10 @@ japanese,english
 ジルコニウム,Zirconium
 ジロラモ・サヴォナローラ,Girolamo Savonarola
 ジロンド県,Gironde
-ジン (アラブ),Genie
+ジン,Genie
 ジンバブエ,Zimbabwe
 ジークムント・フロイト,Sigmund Freud
-ジーメンス,Siemens (unit)
+ジーメンス,Siemens
 スイカ,Watermelon
 スイス,Switzerland
 スイス・フラン,Swiss franc
@@ -2893,14 +2893,14 @@ japanese,english
 スエズ運河,Suez Canal
 スカイラブ計画,Skylab
 スカゲラク海峡,Skagerrak
-スカッシュ (スポーツ),Squash (sport)
+スカッシュ,Squash
 スカルノ,Sukarno
 スカンジウム,Scandium
 スカンディナヴィア,Scandinavia
 スカンディナヴィア半島,Scandinavian Peninsula
 スキンヘッド,Skinhead
 スクラブル,Scrabble
-スクレ (ボリビア),Sucre
+スクレ,Sucre
 スクロース,Sucrose
 スケートボード,Skateboard
 スコットランド,Scotland
@@ -2918,11 +2918,11 @@ japanese,english
 スタヴァンゲル,Stavanger
 スターフルーツ,Carambola
 スターリニズム,Stalinism
-スティング (ミュージシャン),Sting
+スティング,Sting
 スティーヴン・スピルバーグ,Steven Spielberg
 スティーヴン・ホーキング,Stephen Hawking
 ステゴサウルス,Stegosaurus
-ステップ (地形),Steppe
+ステップ,Steppe
 ステュクス,Styx
 ステラジアン,Steradian
 ステロイド,Steroid
@@ -2931,7 +2931,7 @@ japanese,english
 ストア派,Stoicism
 ストックホルム,Stockholm
 ストラスブール,Strasbourg
-ストレス (生体),Stress (medicine)
+ストレス,Stress
 ストロンチウム,Strontium
 ストーンヘンジ,Stonehenge
 スヌーカー,Snooker
@@ -2940,13 +2940,13 @@ japanese,english
 スパイ,Espionage
 スパイウェア,Spyware
 スパゲッティ,Spaghetti
-スパム (メール),Spam (electronic)
+スパム,Spam
 スパルタ,Sparta
-スピン角運動量,Spin (physics)
+スピン角運動量,Spin
 スピーカー,Loudspeaker
 スフィンクス,Sphinx
 スプリト,Split
-スプリングフィールド (イリノイ州),Springfield
+スプリングフィールド,Springfield
 スヘルデ川,Scheldt
 スペイン,Spain
 スペイン内戦,Spanish Civil War
@@ -2960,7 +2960,7 @@ japanese,english
 スモモ亜属,Plum
 スモレンスク,Smolensk
 スラウェシ島,Sulawesi
-スラッシュ (ミュージシャン),Slash (musician)
+スラッシュ,Slash
 スリナム,Suriname
 スリランカ,Sri Lanka
 スルターン,Sultan
@@ -2976,20 +2976,20 @@ japanese,english
 スーパーマン,Superman
 スーフィズム,Sufism
 スープ,Soup
-スーラ (クルアーン),Sura
+スーラ,Sura
 ズアオアトリ,Chaffinch
 ズールー人,Zulu
 セイウチ,Walrus
-セイヨウショウロ,Tuber (genus)
+セイヨウショウロ,Tuber
 セイヨウノコギリソウ,Achillea millefolium
-セイラム (オレゴン州),Salem
+セイラム,Salem
 セイレーン,Siren
 セオドア・ルーズベルト,Theodore Roosevelt
 セグロカモメ,Herring Gull
 セゴビア,Segovia
 セシウム,Caesium
 セシル・ローズ,Cecil Rhodes
-セト,Set (mythology)
+セト,Set
 セネガル,Senegal
 セビリア,Seville
 セミコロン,Semicolon
@@ -3013,7 +3013,7 @@ japanese,english
 センチメートル,Centimetre
 セントクリストファー・ネイビス,Saint Kitts and Nevis
 セントビンセント・グレナディーン,Saint Vincent and the Grenadines
-セントポール (ミネソタ州),Saint Paul
+セントポール,Saint Paul
 セントラル・パーク,Central Park
 セントルイス,St. Louis
 セントルシア,Saint Lucia
@@ -3024,17 +3024,17 @@ japanese,english
 セーシェル,Seychelles
 セーヌ川,Seine
 ゼウス,Zeus
-ゼウス,Zeus (disambiguation)
-ゼノン (エレア派),Zeno of Elea
-ゼノン (ストア派),Zeno of Citium
-ゼノン (東ローマ皇帝),Zeno (emperor)
+ゼウス,Zeus
+ゼノン,Zeno of Elea
+ゼノン,Zeno of Citium
+ゼノン,Zeno
 ソウル特別市,Seoul
 ソクラテス,Socrates
 ソナタ,Sonata
 ソネット,Sonnet
 ソバ,Buckwheat
 ソビエト連邦,Soviet Union
-ソフィア (ブルガリア),Sofia
+ソフィア,Sofia
 ソフィア・ローレン,Sophia Loren
 ソフトウェア,Computer software
 ソフトボール,Softball
@@ -3047,7 +3047,7 @@ japanese,english
 ソロン,Solon
 ソンムの戦い,Battle of the Somme
 ソンム県,Somme
-ソース (調味料),Sauce
+ソース,Sauce
 ソースコード,Source code
 ソーセージ,Sausage
 ソート,Sorting algorithm
@@ -3056,17 +3056,17 @@ japanese,english
 ゾウ,Elephant
 ゾロアスター教,Zoroastrianism
 ゾンビ,Zombie
-タイタニック,Titanic (disambiguation)
-タイタン,Titan (disambiguation)
-タイタン (衛星),Titan (moon)
+タイタニック,Titanic
+タイタン,Titan
+タイタン,Titan
 タイプライター,Typewriter
 タイポグラフィ,Typography
-タイム (植物),Thyme
-タイム (雑誌),Time (magazine)
+タイム,Thyme
+タイム,Time
 タイランド湾,Gulf of Thailand
 タイ王国,Thailand
 タカ目,Falconiformes
-タカ科 (Sibley),Accipitridae
+タカ科,Accipitridae
 タキトゥス,Tacitus
 タクシー,Taxicab
 タクソン,Taxon
@@ -3101,7 +3101,7 @@ japanese,english
 タレス,Thales
 タンガニーカ湖,Lake Tanganyika
 タングステン,Tungsten
-タンゴ,Tango (dance)
+タンゴ,Tango
 タンザニア,Tanzania
 タンジェ,Tangier
 タンタル,Tantalum
@@ -3113,13 +3113,13 @@ japanese,english
 タービン,Turbine
 ターリバーン,Taliban
 ダイアクリティカルマーク,Diacritic
-ダイアナ (プリンセス・オブ・ウェールズ),Diana
+ダイアナ,Diana
 ダイアー・ストレイツ,Dire Straits
 ダイオード,Diode
 ダイズ,Soybean
 ダイダロス,Daedalus
 ダイナマイト,Dynamite
-ダイモス (衛星),Deimos (moon)
+ダイモス,Deimos
 ダイヤモンド,Diamond
 ダウガフピルス,Daugavpils
 ダウラギリ,Dhaulagiri
@@ -3155,7 +3155,7 @@ japanese,english
 ダンス,Dance
 ダンテ・アリギエーリ,Dante Alighieri
 ダーウィン,Darwin
-ダーウィン (オーストラリア),Darwin
+ダーウィン,Darwin
 ダージリン,Darjeeling
 ダーダネルス海峡,Dardanelles
 ダーバン,Durban
@@ -3174,7 +3174,7 @@ japanese,english
 チェ・ゲバラ,Che Guevara
 チェーザレ・ボルジア,Cesare Borgia
 チグリス川,Tigris
-チタニア,Titania (moon)
+チタニア,Titania
 チタン,Titanium
 チドリ目,Charadriiformes
 チベット,Tibet
@@ -3184,8 +3184,8 @@ japanese,english
 チャド湖,Lake Chad
 チャームド,Charmed
 チャーリー・パーカー,Charlie Parker
-チャールストン (ウェストバージニア州),Charleston
-チャールズ (プリンス・オブ・ウェールズ),Charles
+チャールストン,Charleston
+チャールズ,Charles
 チャールズ・ウィルソン,Charles Thomson Rees Wilson
 チャールズ・サンダース・パース,Charles Peirce
 チャールズ・ダーウィン,Charles Darwin
@@ -3204,10 +3204,10 @@ japanese,english
 チョコレート,Chocolate
 チョルノーブィリ,Chernobyl
 チリ,Chile
-チロル州,Tyrol (state)
+チロル州,Tyrol
 チワワ州,Chihuahua
 チンパンジー属,Chimpanzee
-チンボラソ,Chimborazo (volcano)
+チンボラソ,Chimborazo
 チーズ,Cheese
 チーター,Cheetah
 ツァーリ,Tsar
@@ -3215,10 +3215,10 @@ japanese,english
 ツツジ目,Ericales
 ツツジ科,Ericaceae
 ツバメ,Barn Swallow
-ツバメ科 (Sibley),Swallow
+ツバメ科,Swallow
 ツバル,Tuvalu
 ツリウム,Thulium
-ツル,Crane (bird)
+ツル,Crane
 ツル目,Gruiformes
 ツンドラ,Tundra
 ツーソン,Tucson
@@ -3237,7 +3237,7 @@ japanese,english
 ティルス,Tyre
 ティレニア海,Tyrrhenian Sea
 ティヴォリ,Tivoli
-ティーターン,Titan (mythology)
+ティーターン,Titan
 テイアー,Theia
 テオドシウス1世,Theodosius I
 テオドール・モムゼン,Theodor Mommsen
@@ -3249,11 +3249,11 @@ japanese,english
 テグシガルパ,Tegucigalpa
 テコンドー,Taekwondo
 テストステロン,Testosterone
-テスラ,Tesla (unit)
+テスラ,Tesla
 テッサリア,Thessaly
 テッサロニキ,Thessaloniki
 テティス,Thetis
-テティス (衛星),Tethys (moon)
+テティス,Tethys
 テトラヒドロカンナビノール,Tetrahydrocannabinol
 テナガザル,Gibbon
 テニス,Tennis
@@ -3281,14 +3281,14 @@ japanese,english
 テントウムシ,Coccinellidae
 テヴェレ川,Tiber
 テーセウス,Theseus
-テーテュース,Tethys (mythology)
+テーテュース,Tethys
 テーバイ,Thebes
-テーブル (家具),Table (furniture)
-テーブルさん座,Mensa (constellation)
+テーブル,Table
+テーブルさん座,Mensa
 テーベ,Thebes
-テーベ (衛星),Thebe (moon)
+テーベ,Thebe
 ディアスポラ,Diaspora
-ディアナ,Diana (mythology)
+ディアナ,Diana
 ディエゴ・リベラ,Diego Rivera
 ディオクレティアヌス,Diocletian
 ディオニューソス,Dionysus
@@ -3297,7 +3297,7 @@ japanese,english
 ディスクジョッキー,Disc jockey
 ディスクール,Discourse
 ディストピア,Dystopia
-ディスプレイ (コンピュータ),Computer display
+ディスプレイ,Computer display
 ディスレクシア,Dyslexia
 ディプロドクス,Diplodocus
 ディンゴ,Dingo
@@ -3306,7 +3306,7 @@ japanese,english
 デイヴィッド・ヒューム,David Hume
 デイヴィッド・リヴィングストン,David Livingstone
 デオキシリボ核酸,DNA
-デキウス,Decius (emperor)
+デキウス,Decius
 デコ・ソウザ,Deco
 デザイン,Design
 デシベル,Decibel
@@ -3358,7 +3358,7 @@ japanese,english
 トウモロコシ,Maize
 トウ小平,Deng Xiaoping
 トカゲ,Lizard
-トカンティンス州,Tocantins (state)
+トカンティンス州,Tocantins
 トクサ植物門,Equisetum
 トスカーナ州,Tuscany
 トナカイ,Reindeer
@@ -3367,12 +3367,12 @@ japanese,english
 トパーズ,Topaz
 トビ,Black Kite
 トビリシ,Tbilisi
-トピカ (カンザス州),Topeka
+トピカ,Topeka
 トマス・アクィナス,Thomas Aquinas
 トマス・ペイン,Thomas Paine
 トマス・ホッブズ,Thomas Hobbes
 トマス・モア,Thomas More
-トマス・ヤング,Thomas Young (scientist)
+トマス・ヤング,Thomas Young
 トマス・ロバート・マルサス,Thomas Malthus
 トマト,Tomato
 トムとジェリー,Tom and Jerry
@@ -3393,15 +3393,15 @@ japanese,english
 トリエント公会議,Council of Trent
 トリグブ・リー,Trygve Lie
 トリケラトプス,Triceratops
-トリトン (衛星),Triton (moon)
+トリトン,Triton
 トリニダード・トバゴ,Trinidad and Tobago
 トリニダード島,Trinidad
 トリニトロトルエン,Trinitrotoluene
 トリノ,Turin
 トリプトファン,Tryptophan
-トリポリ (リビア),Tripoli
+トリポリ,Tripoli
 トリーア,Trier
-トリートーン,Triton (mythology)
+トリートーン,Triton
 トルエン,Toluene
 トルク,Torque
 トルクメニスタン,Turkmenistan
@@ -3409,8 +3409,8 @@ japanese,english
 トルーマン・ドクトリン,Truman Doctrine
 トレド,Toledo
 トレント,Trento
-トレントン (ニュージャージー州),Trenton
-トロイの木馬 (コンピュータ),Trojan horse (computing)
+トレントン,Trenton
+トロイの木馬,Trojan horse
 トロイアの木馬,Trojan Horse
 トロイア戦争,Trojan War
 トロツキズム,Trotskyism
@@ -3464,13 +3464,13 @@ japanese,english
 ドミニク・アングル,Jean Auguste Dominique Ingres
 ドミニコ会,Dominican Order
 ドミートリイ・ショスタコーヴィチ,Dmitri Shostakovich
-ドメイン (分類学),Domain (biology)
-ドライバー (工具),Screwdriver
+ドメイン,Domain
+ドライバー,Screwdriver
 ドラキュラ,Dracula
 ドラゴン,Dragon
 ドラマ,Drama
 ドリス・レッシング,Doris Lessing
-ドリー (羊),Dolly (sheep)
+ドリー,Dolly
 ドル,Dollar
 ドルイド,Druid
 ドルトムント,Dortmund
@@ -3479,11 +3479,11 @@ japanese,english
 ドワイト・D・アイゼンハワー,Dwight D. Eisenhower
 ドングリ,Acorn
 ドン・キホーテ,Don Quixote
-ドン川,Don River (Russia)
+ドン川,Don River
 ドードー,Dodo
 ドーハ,Doha
-ドーバー (イギリス),Dover
-ドーバー (デラウェア州),Dover
+ドーバー,Dover
+ドーバー,Dover
 ドーパミン,Dopamine
 ドーベルマン,Doberman Pinscher
 ドーム,Dome
@@ -3493,7 +3493,7 @@ japanese,english
 ナイアシン,Niacin
 ナイキ,Nike
 ナイジェリア,Nigeria
-ナイト (チェス),Knight (chess)
+ナイト,Knight
 ナイフ,Knife
 ナイメーヘン,Nijmegen
 ナイルワニ,Nile crocodile
@@ -3525,9 +3525,9 @@ japanese,english
 ナミビア,Namibia
 ナミブ砂漠,Namib Desert
 ナミヘビ科,Colubrid
-ナミュール,Namur (city)
+ナミュール,Namur
 ナメクジウオ,Lancelet
-ナルキッソス,Narcissus (mythology)
+ナルキッソス,Narcissus
 ナワトル語,Nahuatl
 ナンガ・パルバット,Nanga Parbat
 ナンシー,Nancy
@@ -3539,8 +3539,8 @@ japanese,english
 ニガヨモギ,Artemisia absinthium
 ニキビ,Acne vulgaris
 ニキータ・フルシチョフ,Nikita Khrushchev
-ニクス (衛星),Nix (moon)
-ニケ,Nike (mythology)
+ニクス,Nix
+ニケ,Nike
 ニコシア,Nicosia
 ニコチン,Nicotine
 ニコラウス・コペルニクス,Nicolaus Copernicus
@@ -3552,11 +3552,11 @@ japanese,english
 ニッケル,Nickel
 ニッチ,Ecological niche
 ニトログリセリン,Nitroglycerin
-ニネヴェ (メソポタミア),Nineveh
+ニネヴェ,Nineveh
 ニヒリズム,Nihilism
-ニュクス,Nyx (mythology)
+ニュクス,Nyx
 ニュルンベルク,Nuremberg
-ニューアーク (ニュージャージー州),Newark
+ニューアーク,Newark
 ニューイングランド,New England
 ニューオーリンズ,New Orleans
 ニューカレドニア,New Caledonia
@@ -3569,12 +3569,12 @@ japanese,english
 ニュートン,Newton
 ニューハンプシャー州,New Hampshire
 ニューファンドランド・ラブラドール州,Newfoundland and Labrador
-ニューファンドランド島,Newfoundland (island)
+ニューファンドランド島,Newfoundland
 ニューブランズウィック州,New Brunswick
 ニューポート,Newport
 ニューメキシコ州,New Mexico
 ニューヨーク,New York City
-ニューヨーク (曖昧さ回避),New York (disambiguation)
+ニューヨーク,New York
 ニューヨーク州,New York
 ニューヨーク証券取引所,New York Stock Exchange
 ニョルズ,Njord
@@ -3594,7 +3594,7 @@ japanese,english
 ヌミディア,Numidia
 ヌーディズム,Naturism
 ネアンデルタール人,Neanderthal
-ネイピア数,E (mathematical constant)
+ネイピア数,E
 ネオジム,Neodymium
 ネオプラトニズム,Neoplatonism
 ネオン,Neon
@@ -3617,16 +3617,16 @@ japanese,english
 ネブラスカ州,Nebraska
 ネプツニウム,Neptunium
 ネメアの獅子,Nemean Lion
-ネメシス,Nemesis (mythology)
+ネメシス,Nemesis
 ネルウァ,Nerva
 ネルソン・マンデラ,Nelson Mandela
-ネレイド (衛星),Nereid (moon)
+ネレイド,Nereid
 ネロ,Nero
 ネヴァ川,Neva River
 ネヴィル・チェンバレン,Neville Chamberlain
-ノア (聖書),Noah
+ノア,Noah
 ノストラダムス,Nostradamus
-ノット,Knot (speed)
+ノット,Knot
 ノバスコシア州,Nova Scotia
 ノミ,Flea
 ノルウェー,Norway
@@ -3695,7 +3695,7 @@ japanese,english
 ハリウッド,Hollywood
 ハリエット・タブマン,Harriet Tubman
 ハリエット・ビーチャー・ストウ,Harriet Beecher Stowe
-ハリスバーグ (ペンシルバニア州),Harrisburg
+ハリスバーグ,Harrisburg
 ハリネズミ,Hedgehog
 ハリモグラ,Echidna
 ハリー・フーディーニ,Harry Houdini
@@ -3708,7 +3708,7 @@ japanese,english
 ハロウィン,Halloween
 ハロルド・ピンター,Harold Pinter
 ハワイ州,Hawaii
-ハワード・カーター,Howard Carter (archaeologist)
+ハワード・カーター,Howard Carter
 ハンガリー,Hungary
 ハンザ同盟,Hanseatic League
 ハンス・クリスチャン・アンデルセン,Hans Christian Andersen
@@ -3725,7 +3725,7 @@ japanese,english
 ハンムラビ,Hammurabi
 ハーグ,The Hague
 ハーデース,Hades
-ハートフォード (コネチカット州),Hartford
+ハートフォード,Hartford
 ハートフォードシャー,Hertfordshire
 ハードウェア,Computer hardware
 ハーバート・ジョージ・ウェルズ,H. G. Wells
@@ -3734,7 +3734,7 @@ japanese,english
 ハープ,Harp
 ハーマン・メルヴィル,Herman Melville
 ハーモニカ,Harmonica
-ハーレム (ニューヨーク市),Harlem
+ハーレム,Harlem
 ハーン,Khan
 バアル,Baal
 バイエルン州,Bavaria
@@ -3742,7 +3742,7 @@ japanese,english
 バイオテクノロジー,Biotechnology
 バイオマス,Biomass
 バイカル湖,Lake Baikal
-バイト (情報),Byte
+バイト,Byte
 バイヨンヌ,Bayonne
 バウハウス,Bauhaus
 バオバブ,Adansonia
@@ -3755,12 +3755,12 @@ japanese,english
 バジリカータ州,Basilicata
 バジリコ,Basil
 バジリスク,Basilisk
-バス (コンピュータ),Bus (computing)
-バス (交通機関),Bus
+バス,Bus
+バス,Bus
 バスケットボール,Basketball
 バスター・キートン,Buster Keaton
 バスティーユ牢獄,Bastille
-バステト,Bast (mythology)
+バステト,Bast
 バスラ,Basra
 バス・ノルマンディー地域圏,Basse-Normandie
 バセテール,Basseterre
@@ -3771,14 +3771,14 @@ japanese,english
 バックギャモン,Backgammon
 バックミンスター・フラー,Buckminster Fuller
 バットマン,Batman
-バッファロー (ニューヨーク州),Buffalo
+バッファロー,Buffalo
 バディ・ホリー,Buddy Holly
 バトル・オブ・ブリテン,Battle of Britain
 バトンルージュ,Baton Rouge
 バドミントン,Badminton
 バナジウム,Vanadium
 バナナ,Banana
-バナナ,Musa (genus)
+バナナ,Musa
 バナナ共和国,Banana republic
 バヌアツ,Vanuatu
 バハ・カリフォルニア州,Baja California
@@ -3812,16 +3812,16 @@ japanese,english
 バレアレス諸島,Balearic Islands
 バレエ,Ballet
 バレッタ,Valletta
-バレル,Barrel (unit)
+バレル,Barrel
 バレンシア,Valencia
-バレンシア (スペイン),Valencia
+バレンシア,Valencia
 バレンタインデー,Valentine's Day
 バレンツ海,Barents Sea
 バレーボール,Volleyball
 バロック,Baroque
 バンガロール,Bangalore
 バンギ,Bangui
-バンクーバー (ブリティッシュコロンビア州),Vancouver
+バンクーバー,Vancouver
 バンクーバー島,Vancouver Island
 バングラデシュ,Bangladesh
 バンコク,Bangkok
@@ -3829,15 +3829,15 @@ japanese,english
 バークシャー,Berkshire
 バークリウム,Berkelium
 バージニア州,Virginia
-バース (イギリス),Bath
+バース,Bath
 バーゼル,Basel
 バーチャルリアリティ,Virtual reality
 バートランド・ラッセル,Bertrand Russell
 バーブラ・ストライサンド,Barbra Streisand
-バーミングハム (アラバマ州),Birmingham
+バーミングハム,Birmingham
 バーモント州,Vermont
 バーリ,Bari
-バール (単位),Bar (unit)
+バール,Bar
 バーレーン,Bahrain
 パイナップル,Pineapple
 パウリの排他原理,Pauli exclusion principle
@@ -3846,8 +3846,8 @@ japanese,english
 パウル・フォン・ヒンデンブルク,Paul von Hindenburg
 パウロ,Paul the Apostle
 パキスタン,Pakistan
-パスカル,Pascal (unit)
-パスカル (曖昧さ回避),Pascal
+パスカル,Pascal
+パスカル,Pascal
 パスチャライゼーション,Pasteurization
 パスポート,Passport
 パスワード,Password
@@ -3878,7 +3878,7 @@ japanese,english
 パラドックス,Paradox
 パラマリボ,Paramaribo
 パリ,Paris
-パリス,Paris (mythology)
+パリス,Paris
 パリ大学,Sorbonne
 パルサー,Pulsar
 パルティア,Parthia
@@ -3893,18 +3893,18 @@ japanese,english
 パン,Bread
 パンク・ロック,Punk rock
 パンゲア大陸,Pangaea
-パンジャーブ州 (インド),Punjab (India)
-パンテオン (ローマ),Pantheon
+パンジャーブ州,Punjab
+パンテオン,Pantheon
 パンデミック,Pandemic
 パンドーラー,Pandora
 パーキンソン病,Parkinson's disease
 パーシー・ビッシュ・シェリー,Percy Bysshe Shelley
-パース (西オーストラリア州),Perth
+パース,Perth
 パーセク,Parsec
 パーセント,Percentage
 パーリ語,Pali
 パールヴァティー,Parvati
-パーン (ギリシア神話),Pan (mythology)
+パーン,Pan
 ヒエロニムス,Jerome
 ヒエロニムス・ボス,Hieronymus Bosch
 ヒガンバナ科,Amaryllidaceae
@@ -3922,18 +3922,18 @@ japanese,english
 ヒトデ,Starfish
 ヒト上科,Ape
 ヒト免疫不全ウイルス,HIV
-ヒト属,Homo (genus)
+ヒト属,Homo
 ヒト科,Hominidae
 ヒノキ科,Cupressaceae
 ヒヒ,Baboon
-ヒペリオン (衛星),Hyperion (moon)
+ヒペリオン,Hyperion
 ヒポクラテス,Hippocrates
 ヒポクラテスの誓い,Hippocratic Oath
 ヒマラヤスギ属,Cedar
 ヒマラヤ山脈,Himalayas
 ヒマワリ,Sunflower
 ヒュプノス,Hypnos
-ヒュペリーオーン,Hyperion (mythology)
+ヒュペリーオーン,Hyperion
 ヒューストン,Houston
 ヒューマニズム,Humanism
 ヒューロン湖,Lake Huron
@@ -3946,17 +3946,17 @@ japanese,english
 ヒーロー,Hero
 ヒ素,Arsenic
 ビオチン,Biotin
-ビキニ (水着),Bikini
-ビクトリア (ブリティッシュコロンビア州),Victoria
-ビクトリア州,Victoria (Australia)
+ビキニ,Bikini
+ビクトリア,Victoria
+ビクトリア州,Victoria
 ビサウ,Bissau
 ビシュケク,Bishkek
-ビショップ,Bishop (chess)
+ビショップ,Bishop
 ビジネス,Business
 ビスケー湾,Bay of Biscay
 ビスマス,Bismuth
-ビスマルク,Bismarck (disambiguation)
-ビスマーク (ノースダコタ州),Bismarck
+ビスマルク,Bismarck
+ビスマーク,Bismarck
 ビタミン,Vitamin
 ビタミンA,Vitamin A
 ビタミンA,Retinol
@@ -3982,7 +3982,7 @@ japanese,english
 ビーグル,Beagle
 ビーバー,Beaver
 ビール,Beer
-ピア (サウスダコタ州),Pierre
+ピア,Pierre
 ピアノ,Piano
 ピエト・モンドリアン,Piet Mondrian
 ピエモンテ州,Piedmont
@@ -4009,8 +4009,8 @@ japanese,english
 ピーター・セラーズ,Peter Sellers
 ピーター・ゼーマン,Pieter Zeeman
 ピーテル・パウル・ルーベンス,Peter Paul Rubens
-ファイアーウォール,Firewall (networking)
-ファイル (コンピュータ),Computer file
+ファイアーウォール,Firewall
+ファイル,Computer file
 ファイルシステム,File system
 ファクシミリ,Fax
 ファゴット,Bassoon
@@ -4034,7 +4034,7 @@ japanese,english
 フィボナッチ数,Fibonacci number
 フィヨルド,Fjord
 フィラデルフィア,Philadelphia
-フィリップ (エディンバラ公),Prince Philip
+フィリップ,Prince Philip
 フィリップ・レーナルト,Philipp Lenard
 フィリッポ・ブルネレスキ,Filippo Brunelleschi
 フィリピン,Philippines
@@ -4043,17 +4043,17 @@ japanese,english
 フィンセント・ファン・ゴッホ,Vincent van Gogh
 フィンランド,Finland
 フィンランド湾,Gulf of Finland
-フィート,Foot (unit of length)
+フィート,Foot
 フィードバック,Feedback
 フィールドホッケー,Field hockey
 フェアユース,Fair use
 フェアリー,Fairy
 フェデリコ・フェリーニ,Federico Fellini
 フェニキア,Phoenicia
-フェニックス,Phoenix (mythology)
-フェニックス (アリゾナ州),Phoenix
-フェニックス (探査機),Phoenix (spacecraft)
-フェニックス (曖昧さ回避),Phoenix
+フェニックス,Phoenix
+フェニックス,Phoenix
+フェニックス,Phoenix
+フェニックス,Phoenix
 フェニルアラニン,Phenylalanine
 フェニルケトン尿症,Phenylketonuria
 フェヌグリーク,Fenugreek
@@ -4061,9 +4061,9 @@ japanese,english
 フェミニズム,Feminism
 フェラーラ,Ferrara
 フェリックス・メンデルスゾーン,Felix Mendelssohn
-フェリペ2世 (スペイン王),Philip II of Spain
+フェリペ2世,Philip II of Spain
 フェリー,Ferry
-フェルディナント2世 (神聖ローマ皇帝),Ferdinand II
+フェルディナント2世,Ferdinand II
 フェルディナンド・マゼラン,Ferdinand Magellan
 フェルディナン・ド・ソシュール,Ferdinand de Saussure
 フェルミウム,Fermium
@@ -4071,8 +4071,8 @@ japanese,english
 フェンシング,Fencing
 フェンネル,Fennel
 フェンリル,Fenrir
-フォボス (衛星),Phobos (moon)
-フォーク (食器),Fork
+フォボス,Phobos
+フォーク,Fork
 フォークソング,Folk music
 フォークランド諸島,Falkland Islands
 フォートワース,Fort Worth
@@ -4081,20 +4081,20 @@ japanese,english
 フクロオオカミ,Thylacine
 フクロネズミ目,Marsupial
 フタコブラクダ,Bactrian Camel
-フッキング (オーストリア),Fucking
+フッキング,Fucking
 フツ,Hutu
 フナフティ島,Funafuti
 フョードル・ドストエフスキー,Fyodor Dostoevsky
 フラウィウス・ヨセフス,Josephus
 フラクタル,Fractal
 フラッシュメモリ,Flash memory
-フラマン語,Flemish (linguistics)
+フラマン語,Flemish
 フラミンゴ,Flamingo
 フラメンコ,Flamenco
-フランクフォート (ケンタッキー州),Frankfort
-フランクフルト (曖昧さ回避),Frankfurt (disambiguation)
+フランクフォート,Frankfort
+フランクフルト,Frankfurt
 フランクフルト・アム・マイン,Frankfurt
-フランクフルト・アン・デア・オーダー,Frankfurt (Oder)
+フランクフルト・アン・デア・オーダー,Frankfurt
 フランクリン・ピアース,Franklin Pierce
 フランク・シナトラ,Frank Sinatra
 フランク・ロイド・ライト,Frank Lloyd Wright
@@ -4107,13 +4107,13 @@ japanese,english
 フランシス・ドレーク,Francis Drake
 フランシス・フォード・コッポラ,Francis Ford Coppola
 フランシス・プーランク,Francis Poulenc
-フランシス・ベーコン (哲学者),Francis Bacon
+フランシス・ベーコン,Francis Bacon
 フランス,France
 フランス・ハルス,Frans Hals
 フランス・フラン,French franc
 フランス革命,French Revolution
 フランス領ポリネシア,French Polynesia
-フランツ2世 (神聖ローマ皇帝),Francis II
+フランツ2世,Francis II
 フランツ・カフカ,Franz Kafka
 フランツ・シューベルト,Franz Schubert
 フランツ・ヨーゼフ・ハイドン,Joseph Haydn
@@ -4124,13 +4124,13 @@ japanese,english
 フリチョフ・ナンセン,Fridtjof Nansen
 フリッグ,Frigg
 フリッツ・ハーバー,Fritz Haber
-フリップフロップ,Flip-flop (electronics)
+フリップフロップ,Flip-flop
 フリーウェア,Freeware
 フリーステイト州,Free State
 フリースラント州,Friesland
 フリータウン,Freetown
-フリードリヒ1世 (神聖ローマ皇帝),Frederick I
-フリードリヒ2世 (神聖ローマ皇帝),Frederick II
+フリードリヒ1世,Frederick I
+フリードリヒ2世,Frederick II
 フリードリヒ・エンゲルス,Friedrich Engels
 フリーメイソン,Freemasonry
 フルクトース,Fructose
@@ -4199,21 +4199,21 @@ japanese,english
 ブレインストーミング,Brainstorming
 ブレシア,Brescia
 ブレスト,Brest
-ブレスト (フランス),Brest
-ブレスト (ベラルーシ),Brest
+ブレスト,Brest
+ブレスト,Brest
 ブレーズ・パスカル,Blaise Pascal
 ブレーマーハーフェン,Bremerhaven
 ブレーメン,Bremen
-ブレーメン州,Bremen (state)
+ブレーメン州,Bremen
 ブログ,Blog
 ブロッコリー,Broccoli
-ブロードウェイ (ニューヨーク),Broadway (New York City)
+ブロードウェイ,Broadway
 ブンタン,Pomelo
 ブータン,Bhutan
 ブードゥー教,Voodoo
 ブーベ島,Bouvet Island
 ブーメラン,Boomerang
-ブール代数,Boolean algebra (structure)
+ブール代数,Boolean algebra
 プエルトリコ,Puerto Rico
 プタハ,Ptah
 プッリャ州,Apulia
@@ -4222,14 +4222,14 @@ japanese,english
 プライア,Praia
 プラエトル,Praetor
 プラスミド,Plasmid
-プラズマ,Plasma (physics)
+プラズマ,Plasma
 プラセオジム,Praseodymium
 プラトン,Plato
 プラハ,Prague
 プランクトン,Plankton
 プリアモス,Priam
 プリオン,Prion
-プリズム,Prism (optics)
+プリズム,Prism
 プリマス,Plymouth
 プリンスエドワードアイランド州,Prince Edward Island
 プリンストン大学,Princeton University
@@ -4237,17 +4237,17 @@ japanese,english
 プルゼニ,Pilsen
 プルタルコス,Plutarch
 プルトニウム,Plutonium
-プルート (曖昧さ回避),Pluto (disambiguation)
-プレアデス星団,Pleiades (star cluster)
+プルート,Pluto
+プレアデス星団,Pleiades
 プレトリア,Pretoria
 プレヴェン,Pleven
 プレートテクトニクス,Plate tectonics
 プロイセン,Prussia
 プロキシマ・ケンタウリ,Proxima Centauri
 プログラマ,Programmer
-プログラミング (コンピュータ),Computer programming
+プログラミング,Computer programming
 プログラミング言語,Programming language
-プログラム (コンピュータ),Computer program
+プログラム,Computer program
 プログレッシブ・ロック,Progressive rock
 プロジェクト,Project
 プロティノス,Plotinus
@@ -4256,11 +4256,11 @@ japanese,english
 プロトコル,Protocol
 プロパガンダ,Propaganda
 プロパン,Propane
-プロビデンス (ロードアイランド州),Providence
+プロビデンス,Providence
 プロメチウム,Promethium
 プロメーテウス,Prometheus
 プロヴディフ,Plovdiv
-プーラ (クロアチア),Pula
+プーラ,Pula
 ヘイムダル,Heimdall
 ヘカテー,Hecate
 ヘクタール,Hectare
@@ -4278,8 +4278,8 @@ japanese,english
 ヘラート,Herat
 ヘリウム,Helium
 ヘリコプター,Helicopter
-ヘル,Hel (being)
-ヘルクレス座,Hercules (constellation)
+ヘル,Hel
+ヘルクレス座,Hercules
 ヘルシンキ,Helsinki
 ヘルツ,Hertz
 ヘルベルト・マルクーゼ,Herbert Marcuse
@@ -4289,7 +4289,7 @@ japanese,english
 ヘルムート・シュミット,Helmut Schmidt
 ヘルメース,Hermes
 ヘレス・デ・ラ・フロンテーラ,Jerez de la Frontera
-ヘレナ (モンタナ州),Helena
+ヘレナ,Helena
 ヘレネー,Helen
 ヘレン・ケラー,Helen Keller
 ヘロイン,Heroin
@@ -4297,7 +4297,7 @@ japanese,english
 ヘロドトス,Herodotus
 ヘント,Ghent
 ヘンリック・イプセン,Henrik Ibsen
-ヘンリー,Henry (unit)
+ヘンリー,Henry
 ヘンリー・キッシンジャー,Henry Kissinger
 ヘンリー・キャヴェンディッシュ,Henry Cavendish
 ヘンリー・ジェイムズ,Henry James
@@ -4311,7 +4311,7 @@ japanese,english
 ヘーシオドス,Hesiod
 ヘースティングスの戦い,Battle of Hastings
 ヘーパイストス,Hephaestus
-ヘーベー,Hebe (mythology)
+ヘーベー,Hebe
 ヘーラクレース,Heracles
 ヘーラー,Hera
 ヘーリオス,Helios
@@ -4367,7 +4367,7 @@ japanese,english
 ベーリング海峡,Bering Strait
 ペイガニズム,Paganism
 ペイ・ド・ラ・ロワール地域圏,Pays de la Loire
-ペガスス座,Pegasus (constellation)
+ペガスス座,Pegasus
 ペスト,Bubonic plague
 ペスト#14世紀の大流行,Black Death
 ペトラルカ,Petrarch
@@ -4380,7 +4380,7 @@ japanese,english
 ペルシア,Persian Empire
 ペルシア湾,Persian Gulf
 ペルセウス,Perseus
-ペルセウス座,Perseus (constellation)
+ペルセウス座,Perseus
 ペルセポネー,Persephone
 ペルセポリス,Persepolis
 ペルナンブーコ州,Pernambuco
@@ -4422,12 +4422,12 @@ japanese,english
 ホルムアルデヒド,Formaldehyde
 ホルムズ海峡,Strait of Hormuz
 ホルモン,Hormone
-ホルン,Horn (instrument)
+ホルン,Horn
 ホレーショ・ネルソン,Horatio Nelson
 ホログラフィー,Holography
 ホロスコープ,Horoscope
 ホワイトハウス,White House
-ホワイトホース (ユーコン準州),Whitehorse
+ホワイトホース,Whitehorse
 ホンジュラス,Honduras
 ホーチミン市,Ho Chi Minh City
 ホーン岬,Cape Horn
@@ -4436,7 +4436,7 @@ japanese,english
 ボイルの法則,Boyle's law
 ボウリング,Bowling
 ボエティウス,Anicius Manlius Severinus Boethius
-ボクサー (犬),Boxer (dog)
+ボクサー,Boxer
 ボクシング,Boxing
 ボストン,Boston
 ボストン茶会事件,Boston Tea Party
@@ -4461,7 +4461,7 @@ japanese,english
 ボリビア,Bolivia
 ボルチモア,Baltimore
 ボルツァーノ,Bolzano
-ボルト (単位),Volt
+ボルト,Volt
 ボルドー,Bordeaux
 ボルネオ島,Borneo
 ボローニャ,Bologna
@@ -4470,7 +4470,7 @@ japanese,english
 ボーキサイト,Bauxite
 ボース粒子,Boson
 ボーデン湖,Lake Constance
-ボート,Rowing (sport)
+ボート,Rowing
 ボードゲーム,Board game
 ボーリウム,Bohrium
 ボール,Ball
@@ -4484,7 +4484,7 @@ japanese,english
 ポツダム,Potsdam
 ポピュリズム,Populism
 ポプラ,Poplar
-ポラリス (恒星),Polaris
+ポラリス,Polaris
 ポリエチレン,Polyethylene
 ポリネシア,Polynesia
 ポリュムニアー,Polyhymnia
@@ -4498,24 +4498,24 @@ japanese,english
 ポワチエ,Poitiers
 ポワトゥー＝シャラント地域圏,Poitou-Charentes
 ポンティウス・ピラトゥス,Pontius Pilate
-ポンド (質量),Pound (mass)
+ポンド,Pound
 ポンプ,Pump
 ポンプ座,Antlia
 ポンペイ,Pompeii
 ポーカー,Poker
-ポーツマス (イングランド),Portsmouth
+ポーツマス,Portsmouth
 ポートオブスペイン,Port of Spain
 ポートビラ,Port Vila
 ポートモレスビー,Port Moresby
 ポートランド,Portland
-ポートランド (オレゴン州),Portland
+ポートランド,Portland
 ポートルイス,Port Louis
 ポーランド,Poland
 ポール・ゴーギャン,Paul Gauguin
 ポール・ニューマン,Paul Newman
 ポール・マッカートニー,Paul McCartney
 ポール・ヴェルレーヌ,Paul Verlaine
-ポーン,Pawn (chess)
+ポーン,Pawn
 ポー川,Po River
 マイアミ,Miami
 マイエンヌ県,Mayenne
@@ -4529,7 +4529,7 @@ japanese,english
 マイル,Mile
 マイルス・デイヴィス,Miles Davis
 マイン川,Main
-マウス (コンピュータ),Mouse (computing)
+マウス,Mouse
 マウナ・ケア山,Mauna Kea
 マウナ・ロア山,Mauna Loa
 マウンテンバイク,Mountain bike
@@ -4538,15 +4538,15 @@ japanese,english
 マガモ,Mallard
 マクシミアヌス,Maximian
 マクスウェルの方程式,Maxwell's equations
-マクベス (シェイクスピア),Macbeth
+マクベス,Macbeth
 マクロ経済学,Macroeconomics
 マグダラのマリア,Mary Magdalene
 マグナ・カルタ,Magna Carta
 マグネシウム,Magnesium
 マグマ,Magma
 マグリブ,Maghreb
-マケドニア (ギリシャ),Macedonia (Greece)
-マケドニア (曖昧さ回避),Macedonia
+マケドニア,Macedonia
+マケドニア,Macedonia
 マケドニア王国,Macedon
 マサチューセッツ州,Massachusetts
 マサチューセッツ工科大学,Massachusetts Institute of Technology
@@ -4578,8 +4578,8 @@ japanese,english
 マディーナ,Medina
 マデイラ諸島,Madeira
 マドリード,Madrid
-マドリード州,Madrid (autonomous community)
-マドンナ (歌手),Madonna (entertainer)
+マドリード州,Madrid
+マドンナ,Madonna
 マナグア,Managua
 マナティー,Manatee
 マナーマ,Manama
@@ -4622,7 +4622,7 @@ japanese,english
 マルケ州,Marche
 マルコムX,Malcolm X
 マルコ・ポーロ,Marco Polo
-マルス (ローマ神話),Mars (mythology)
+マルス,Mars
 マルセイユ,Marseille
 マルセル・デュシャン,Marcel Duchamp
 マルセル・プルースト,Marcel Proust
@@ -4653,7 +4653,7 @@ japanese,english
 マンチェスター,Manchester
 マンデルブロ集合,Mandelbrot set
 マントラ,Mantra
-マントル,Mantle (geology)
+マントル,Mantle
 マントヴァ,Mantua
 マンハイム,Mannheim
 マンハッタン,Manhattan
@@ -4670,13 +4670,13 @@ japanese,english
 マーシャル・プラン,Marshall Plan
 マーシャル諸島,Marshall Islands
 マース川,Meuse River
-マーズ,Mars (disambiguation)
+マーズ,Mars
 マーティン・スコセッシ,Martin Scorsese
 マーティン・ルーサー・キング・ジュニア,Martin Luther King
 マーティン・ヴァン・ビューレン,Martin Van Buren
 マーフィーの法則,Murphy's law
 ミイラ,Mummy
-ミカエル,Michael (archangel)
+ミカエル,Michael
 ミクロネシア,Micronesia
 ミクロネシア連邦,Federated States of Micronesia
 ミクロ経済学,Microeconomics
@@ -4684,7 +4684,7 @@ japanese,english
 ミケランジェロ・メリージ,Caravaggio
 ミケーネ,Mycenae
 ミゲル・デ・セルバンテス,Miguel de Cervantes
-ミサ,Mass (liturgy)
+ミサ,Mass
 ミサゴ,Osprey
 ミシェル・ネイ,Michel Ney
 ミシガン州,Michigan
@@ -4707,7 +4707,7 @@ japanese,english
 ミハイル・ゴルバチョフ,Mikhail Gorbachev
 ミハイル・バクーニン,Mikhail Bakunin
 ミャンマー,Burma
-ミヤマガラス,Rook (bird)
+ミヤマガラス,Rook
 ミュンヘン,Munich
 ミュー粒子,Muon
 ミラのニコラオス,Saint Nicholas
@@ -4757,8 +4757,8 @@ japanese,english
 メッカ,Mecca
 メッシーナ,Messina
 メッシーナ海峡,Strait of Messina
-メッセンジャー (探査機),MESSENGER
-メティス (衛星),Metis (moon)
+メッセンジャー,MESSENGER
+メティス,Metis
 メディチ家,Medici
 メドゥーサ,Medusa
 メナヘム・ベギン,Menachem Begin
@@ -4767,14 +4767,14 @@ japanese,english
 メラネシア,Melanesia
 メリル・ストリープ,Meryl Streep
 メリーランド州,Maryland
-メルクリウス,Mercury (mythology)
+メルクリウス,Mercury
 メルポメネー,Melpomene
 メル・ギブソン,Mel Gibson
 メロディ,Melody
 メロヴィング朝,Merovingian
 メンデレビウム,Mendelevium
-メンフィス (エジプト),Memphis
-メンフィス (テネシー州),Memphis
+メンフィス,Memphis
+メンフィス,Memphis
 メンフクロウ,Barn Owl
 メーデイア,Medea
 メートル,Metre
@@ -4793,7 +4793,7 @@ japanese,english
 モデム,Modem
 モナコ,Monaco
 モニカ・セレシュ,Monica Seles
-モノポリー,Monopoly (game)
+モノポリー,Monopoly
 モノマー,Monomer
 モハメド・アリ,Muhammad Ali
 モミ属,Fir
@@ -4802,14 +4802,14 @@ japanese,english
 モリフクロウ,Tawny Owl
 モリブデン,Molybdenum
 モリーゼ州,Molise
-モル,Mole (unit)
+モル,Mole
 モルディブ,Maldives
 モルドバ,Moldova
 モルヒネ,Morphine
 モルモン書,Book of Mormon
 モロコシ属,Sorghum
 モロッコ,Morocco
-モンゴメリー (アラバマ州),Montgomery
+モンゴメリー,Montgomery
 モンゴル国,Mongolia
 モンス,Mons
 モンスーン,Monsoon
@@ -4819,7 +4819,7 @@ japanese,english
 モンテビデオ,Montevideo
 モンテレー,Monterrey
 モントセラト,Montserrat
-モントピリア (バーモント州),Montpelier
+モントピリア,Montpelier
 モントリオール,Montreal
 モンバサ,Mombasa
 モンブラン,Mont Blanc
@@ -4839,18 +4839,18 @@ japanese,english
 ヤギ,Goat
 ヤク,Yak
 ヤクザ,Yakuza
-ヤコブ (ゼベダイの子),James
-ヤコブ (旧約聖書),Jacob
+ヤコブ,James
+ヤコブ,Jacob
 ヤシ,Arecaceae
 ヤスデ,Millipede
 ヤツガシラ,Hoopoe
 ヤツメウナギ,Lamprey
 ヤナギ,Willow
-ヤヌス (衛星),Janus (moon)
+ヤヌス,Janus
 ヤハウェ,Jehovah
 ヤハウェ,Yahweh
 ヤマドリタケ,Boletus edulis
-ヤマネコ (種),Wildcat
+ヤマネコ,Wildcat
 ヤルタ,Yalta
 ヤルタ会談,Yalta Conference
 ヤング率,Young's modulus
@@ -4859,7 +4859,7 @@ japanese,english
 ヤン・フス,Jan Hus
 ヤーセル・アラファート,Yasser Arafat
 ヤード,Yard
-ヤーヌス,Janus (mythology)
+ヤーヌス,Janus
 ユウロピウム,Europium
 ユグドラシル,Yggdrasil
 ユグノー,Huguenot
@@ -4870,8 +4870,8 @@ japanese,english
 ユダヤ教,Judaism
 ユダヤ暦,Hebrew calendar
 ユトランド半島,Jutland
-ユトレヒト,Utrecht (city)
-ユトレヒト州,Utrecht (province)
+ユトレヒト,Utrecht
+ユトレヒト州,Utrecht
 ユニコーン,Unicorn
 ユリアヌス,Julian the Apostate
 ユリウス暦,Julian calendar
@@ -4884,8 +4884,8 @@ japanese,english
 ユーゴスラビア,Yugoslavia
 ユージン・オニール,Eugene O'Neill
 ユートピア,Utopia
-ユーノー,Juno (mythology)
-ユーピテル,Jupiter (mythology)
+ユーノー,Juno
+ユーピテル,Jupiter
 ユーフラテス川,Euphrates
 ユーモア,Humour
 ユーラシア大陸,Eurasia
@@ -4909,12 +4909,12 @@ japanese,english
 ヨハン・ベルヌーイ,Johann Bernoulli
 ヨハン・ヴォルフガング・フォン・ゲーテ,Johann Wolfgang von Goethe
 ヨム・キプル,Yom Kippur
-ヨモギ属,Artemisia (plant)
+ヨモギ属,Artemisia
 ヨルダン,Jordan
 ヨルダン川,Jordan River
 ヨルダン川西岸地区,West Bank
 ヨーガ,Yoga
-ヨーク (イングランド),York
+ヨーク,York
 ヨーグルト,Yoghurt
 ヨーゼフ・ゲッベルス,Joseph Goebbels
 ヨーゼフ・シュンペーター,Joseph Schumpeter
@@ -4966,19 +4966,19 @@ japanese,english
 ラパス,La Paz
 ラビ,Rabbi
 ラビンドラナート・タゴール,Rabindranath Tagore
-ラファエル,Raphael (archangel)
+ラファエル,Raphael
 ラファエロ・サンティ,Raphael
 ラブラドール・レトリバー,Labrador Retriever
 ラプテフ海,Laptev Sea
-ラプラタ (アルゼンチン),La Plata
+ラプラタ,La Plata
 ラホール,Lahore
 ラマダーン,Ramadan
 ラムセス2世,Ramesses II
 ラルフ・ワルド・エマーソン,Ralph Waldo Emerson
 ランカシャー,Lancashire
 ラングドック＝ルシヨン地域圏,Languedoc-Roussillon
-ランシング (ミシガン州),Lansing
-ランス (マルヌ県),Reims
+ランシング,Lansing
+ランス,Reims
 ランタノイド,Lanthanide
 ランタン,Lanthanum
 ラン科,Orchidaceae
@@ -4989,7 +4989,7 @@ japanese,english
 ラーマーヤナ,Ramayana
 ラーワルピンディー,Rawalpindi
 リア王,King Lear
-リオデジャネイロ州,Rio de Janeiro (state)
+リオデジャネイロ州,Rio de Janeiro
 リオデジャネイロ市,Rio de Janeiro
 リオ・グランデ川,Rio Grande
 リガ,Riga
@@ -5012,8 +5012,8 @@ japanese,english
 リチウム,Lithium
 リチャード・P・ファインマン,Richard Feynman
 リチャード・ニクソン,Richard Nixon
-リチャード・ライト (音楽家),Richard Wright (musician)
-リッチモンド (バージニア州),Richmond
+リチャード・ライト,Richard Wright
+リッチモンド,Richmond
 リットル,Litre
 リディア,Lydia
 リトアニア,Lithuania
@@ -5022,14 +5022,14 @@ japanese,english
 リヒャルト・シュトラウス,Richard Strauss
 リヒャルト・ワーグナー,Richard Wagner
 リビア,Libya
-リブレット (音楽),Libretto
+リブレット,Libretto
 リベリア,Liberia
 リボソーム,Ribosome
 リボフラビン,Riboflavin
 リボ核酸,RNA
 リマ,Lima
 リムリック,Limerick
-リムーザン地域圏,Limousin (region)
+リムーザン地域圏,Limousin
 リャマ,Llama
 リヤド,Riyadh
 リュブリャナ,Ljubljana
@@ -5040,7 +5040,7 @@ japanese,english
 リン,Phosphorus
 リンカンシャー,Lincolnshire
 リンカーン,Lincoln
-リンカーン (ネブラスカ州),Lincoln
+リンカーン,Lincoln
 リングワ・フランカ,Lingua franca
 リンゴ,Apple
 リンゴ・スター,Ringo Starr
@@ -5052,12 +5052,12 @@ japanese,english
 リヴォニア,Livonia
 リーズ,Leeds
 リーゼ・マイトナー,Lise Meitner
-リーダー (記号),Ellipsis
+リーダー,Ellipsis
 リーブルヴィル,Libreville
-リール (フランス),Lille
+リール,Lille
 リー・ハーヴェイ・オズワルド,Lee Harvey Oswald
 ルアンダ,Luanda
-ルイ2世 (西フランク王),Louis the Stammerer
+ルイ2世,Louis the Stammerer
 ルイジアナ州,Louisiana
 ルイジ・ピランデルロ,Luigi Pirandello
 ルイス・キャロル,Lewis Carroll
@@ -5070,7 +5070,7 @@ japanese,english
 ルカによる福音書,Gospel of Luke
 ルクス,Lux
 ルクセンブルク,Luxembourg
-ルクセンブルク (都市),Luxembourg (city)
+ルクセンブルク,Luxembourg
 ルクソール,Luxor
 ルクレツィア・ボルジア,Lucrezia Borgia
 ルクレティウス,Lucretius
@@ -5097,24 +5097,24 @@ japanese,english
 ルンド,Lund
 ル・アーヴル,Le Havre
 ル・コルビュジエ,Le Corbusier
-ルーク,Rook (chess)
+ルーク,Rook
 ルーズベルト,Roosevelt
 ルーター,Router
 ルーテル教会,Lutheranism
 ルートヴィッヒ・ボルツマン,Ludwig Boltzmann
-ルートヴィヒ1世 (フランク王),Louis the Pious
+ルートヴィヒ1世,Louis the Pious
 ルートヴィヒ・ウィトゲンシュタイン,Ludwig Wittgenstein
 ルートヴィヒ・ヴァン・ベートーヴェン,Ludwig van Beethoven
 ルーブル,Ruble
 ルーマニア,Romania
-ルーメン,Lumen (unit)
+ルーメン,Lumen
 ルーヴル美術館,Louvre
-レア (衛星),Rhea (moon)
-レアー,Rhea (mythology)
+レア,Rhea
+レアー,Rhea
 レイシ,Lychee
 レイチェル・カーソン,Rachel Carson
 レイ・ブラッドベリ,Ray Bradbury
-レオ1世 (東ローマ皇帝),Leo I (emperor)
+レオ1世,Leo I
 レオナルド・ダ・ヴィンチ,Leonardo da Vinci
 レオニード・ブレジネフ,Leonid Brezhnev
 レオンハルト・オイラー,Leonhard Euler
@@ -5135,21 +5135,21 @@ japanese,english
 レニウム,Rhenium
 レバノン,Lebanon
 レバント,Levant
-レパントの海戦,Battle of Lepanto (1571)
+レパントの海戦,Battle of Lepanto
 レビ記,Leviticus
 レフ・トロツキー,Leon Trotsky
-レプトン (素粒子),Lepton
+レプトン,Lepton
 レマン湖,Lake Geneva
 レモン,Lemon
 レモンバーム,Lemon balm
-レンズ,Lens (optics)
+レンズ,Lens
 レンズマメ,Lentil
 レントゲニウム,Roentgenium
 レンブラント・ファン・レイン,Rembrandt
 レヴィアタン,Leviathan
 レーザー,Laser
 レーダー,Radar
-レーダー (ギリシア神話),Leda (mythology)
+レーダー,Leda
 レートー,Leto
 ロアール・アムンセン,Roald Amundsen
 ロキ,Loki
@@ -5162,7 +5162,7 @@ japanese,english
 ロシア,Russia
 ロシア正教会,Russian Orthodox Church
 ロシア革命,October Revolution
-ロシア革命,Russian Revolution (1917)
+ロシア革命,Russian Revolution
 ロジウム,Rhodium
 ロジャー・ベーコン,Roger Bacon
 ロストック,Rostock
@@ -5170,10 +5170,10 @@ japanese,english
 ロゼッタ・ストーン,Rosetta Stone
 ロゾー,Roseau
 ロッキー山脈,Rocky Mountains
-ロック (音楽),Rock music
+ロック,Rock music
 ロックンロール,Rock and roll
 ロッテルダム,Rotterdam
-ロット県,Lot (department)
+ロット県,Lot
 ロナルド・レーガン,Ronald Reagan
 ロバ,Donkey
 ロバート・A・ハインライン,Robert A. Heinlein
@@ -5196,11 +5196,11 @@ japanese,english
 ロマンシュ語,Romansh
 ロマン主義,Romanticism
 ロリータ,Lolita
-ロレーヌ地域圏,Lorraine (region)
+ロレーヌ地域圏,Lorraine
 ロワール川,Loire River
 ロワール県,Loire
 ロングアイランド,Long Island
-ロングビーチ (カリフォルニア州),Long Beach
+ロングビーチ,Long Beach
 ロンドン,London
 ロンドン塔,Tower of London
 ロンバルディア州,Lombardy
@@ -5220,14 +5220,14 @@ japanese,english
 ローマ神話,Roman mythology
 ローマ軍団,Roman legion
 ローラシア大陸,Laurasia
-ローリー (ノースカロライナ州),Raleigh
+ローリー,Raleigh
 ローレンシウム,Lawrencium
 ワイオミング州,Wyoming
 ワイト島,Isle of Wight
 ワイン,Wine
 ワクチン,Vaccine
 ワシリー・カンディンスキー,Wassily Kandinsky
-ワシントン,Washington (disambiguation)
+ワシントン,Washington
 ワシントンD.C.,Washington
 ワシントン州,Washington
 ワット,Watt
@@ -5239,7 +5239,7 @@ japanese,english
 ワーテルローの戦い,Battle of Waterloo
 ワードプロセッサ,Word processor
 ワームホール,Wormhole
-ワールドトレードセンター (ニューヨーク),World Trade Center
+ワールドトレードセンター,World Trade Center
 ンジャメナ,N'Djamena
 ヴァイオリン,Violin
 ヴァイキング,Viking
@@ -5247,18 +5247,18 @@ japanese,english
 ヴァイマル共和政,Weimar Republic
 ヴァランス,Valence
 ヴァルター・グロピウス,Walter Gropius
-ヴァルナ (ブルガリア),Varna
+ヴァルナ,Varna
 ヴァルハラ,Valhalla
 ヴァンダリズム,Vandalism
 ヴァン神族,Vanir
 ヴァージニア・ウルフ,Virginia Woolf
 ヴァージン諸島,Virgin Islands
-ヴァール県,Var (department)
+ヴァール県,Var
 ヴィエンチャン,Vientiane
 ヴィエンヌ県,Vienne
 ヴィオラ,Viola
 ヴィクトリア,Victoria
-ヴィクトリア (セーシェル),Victoria
+ヴィクトリア,Victoria
 ヴィクトリアの滝,Victoria Falls
 ヴィクトリア湖,Lake Victoria
 ヴィクトル・ユーゴー,Victor Hugo
@@ -5269,13 +5269,13 @@ japanese,english
 ヴィトゥス・ベーリング,Vitus Bering
 ヴィリー・ブラント,Willy Brandt
 ヴィルフレド・パレート,Vilfredo Pareto
-ヴィルヘルム1世 (ドイツ皇帝),William I
-ヴィルヘルム2世 (ドイツ皇帝),William II
+ヴィルヘルム1世,William I
+ヴィルヘルム2世,William II
 ヴィルヘルム・オストヴァルト,Wilhelm Ostwald
 ヴィンチェンツォ・ベッリーニ,Vincenzo Bellini
 ヴィヴィアン・リー,Vivien Leigh
 ヴィースバーデン,Wiesbaden
-ヴィーナス (曖昧さ回避),Venus (disambiguation)
+ヴィーナス,Venus
 ヴェストファーレン条約,Peace of Westphalia
 ヴェスヴィオ,Mount Vesuvius
 ヴェネツィア,Venice
@@ -5341,7 +5341,7 @@ japanese,english
 中世,Middle Ages
 中国,China
 中国国民党,Kuomintang
-中国官話,Mandarin (linguistics)
+中国官話,Mandarin
 中央アフリカ,Central African Republic
 中央アメリカ,Central America
 中央値,Median
@@ -5360,20 +5360,20 @@ japanese,english
 中部アフリカ,Central Africa
 中間圏,Mesosphere
 中間子,Meson
-中隊,Company (military unit)
+中隊,Company
 主の祈り,Lord's Prayer
 主格,Nominative case
 主権,Sovereignty
 主竜類,Archosaur
 乗法,Multiplication
-乱視,Astigmatism (eye)
+乱視,Astigmatism
 乳,Milk
 乳房,Breast
 乳癌,Breast cancer
 乳酸,Lactic acid
 乾癬,Psoriasis
 二元論,Dualism
-二元論,Dualism (philosophy of mind)
+二元論,Dualism
 二枚貝,Bivalvia
 二次方程式,Quadratic equation
 二糖,Disaccharide
@@ -5404,7 +5404,7 @@ japanese,english
 仁川広域市,Incheon
 仏教,Buddhism
 仏陀,Buddha
-仕事率,Power (physics)
+仕事率,Power
 代名詞,Pronoun
 代数学,Algebra
 代数的数,Algebraic number
@@ -5425,7 +5425,7 @@ japanese,english
 低ザクセン語,Low German
 低木,Shrub
 住民投票,Referendum
-体 (数学),Field (mathematics)
+体,Field
 体操,Gymnastics
 体積,Volume
 作家,Author
@@ -5451,14 +5451,14 @@ japanese,english
 傘,Umbrella
 催眠,Hypnosis
 傭兵,Mercenary
-債券,Bond (finance)
+債券,Bond
 儒教,Confucianism
-元 (王朝),Yuan Dynasty
+元,Yuan Dynasty
 元型,Archetype
 元日,New Year
 元素,Chemical element
-元素の周期,Period (periodic table)
-元素の族,Group (periodic table)
+元素の周期,Period
+元素の族,Group
 元老院,Senate
 元首,Head of state
 先カンブリア時代,Precambrian
@@ -5480,11 +5480,11 @@ japanese,english
 公害,Pollution
 公文書館,Archive
 公爵,Duke
-公現祭,Epiphany (Christian)
+公現祭,Epiphany
 公理,Axiom
 六分儀,Sextant
 六角形,Hexagon
-共和党 (アメリカ),Republican Party (United States)
+共和党,Republican Party
 共和制,Republic
 共和政ローマ,Roman Republic
 共感,Empathy
@@ -5496,10 +5496,10 @@ japanese,english
 内分泌器,Endocrine system
 内分泌学,Endocrinology
 内戦,Civil war
-円 (数学),Circle
+円,Circle
 円周率,Pi
-円柱 (数学),Cylinder (geometry)
-円錐,Cone (geometry)
+円柱,Cylinder
+円錐,Cone
 円錐曲線,Conic section
 再帰,Recursion
 写本,Manuscript
@@ -5522,14 +5522,14 @@ japanese,english
 分子,Molecule
 分子生物学,Molecular biology
 分散,Variance
-分数,Fraction (mathematics)
+分数,Fraction
 分点,Equinox
 分類学,Taxonomy
 切り裂きジャック,Jack the Ripper
 切手,Postage stamp
 切腹,Seppuku
 刑務所,Prison
-列 (数学),Sequence
+列,Sequence
 列島,Archipelago
 列車,Train
 利子,Interest
@@ -5547,15 +5547,15 @@ japanese,english
 力,Force
 力学,Mechanics
 功利主義,Utilitarianism
-功夫,Kung fu (term)
+功夫,Kung fu
 加水分解,Hydrolysis
 加法,Addition
 加速度,Acceleration
-労働党 (イギリス),Labour Party (UK)
+労働党,Labour Party
 労働組合,Trade union
 勃起,Erection
 勃起不全,Erectile dysfunction
-動力学,Dynamics (physics)
+動力学,Dynamics
 動物,Animal
 動物園,Zoo
 動物学,Zoology
@@ -5584,7 +5584,7 @@ japanese,english
 北半球,Northern Hemisphere
 北回帰線,Tropic of Cancer
 北大西洋条約機構,NATO
-北島 (ニュージーランド),North Island
+北島,North Island
 北極,Arctic
 北極圏,Arctic Circle
 北極星,North Star
@@ -5616,7 +5616,7 @@ japanese,english
 南北戦争,American Civil War
 南半球,Southern Hemisphere
 南回帰線,Tropic of Capricorn
-南島 (ニュージーランド),South Island
+南島,South Island
 南極大陸,Antarctica
 南極点,South Pole
 単位元,Identity element
@@ -5627,11 +5627,11 @@ japanese,english
 占星術,Astrology
 印刷,Printing
 印象派,Impressionism
-卵,Egg (biology)
+卵,Egg
 卵子,Ovum
 卵巣,Ovary
 原子,Atom
-原子価,Valence (chemistry)
+原子価,Valence
 原子力,Nuclear power
 原子時計,Atomic clock
 原子核物理学,Nuclear physics
@@ -5696,8 +5696,8 @@ japanese,english
 呼格,Vocative case
 和声,Harmony
 和服,Kimono
-和集合,Union (set theory)
-和音,Chord (music)
+和集合,Union
+和音,Chord
 咽頭,Pharynx
 哲学,Philosophy
 哺乳類,Mammal
@@ -5711,7 +5711,7 @@ japanese,english
 喜望峰,Cape of Good Hope
 嘔吐,Vomiting
 嘘,Lie
-器官,Organ (anatomy)
+器官,Organ
 噴水,Fountain
 嚢胞性線維症,Cystic fibrosis
 四元数,Quaternion
@@ -5723,7 +5723,7 @@ japanese,english
 回折,Diffraction
 回文,Palindrome
 因果,Causality
-囲碁,Go (board game)
+囲碁,Go
 図書館,Library
 図書館情報学,Library science
 固体,Solid
@@ -5739,7 +5739,7 @@ japanese,english
 国立公園,National park
 国際労働機関,International Labour Organization
 国際単位系,International System of Units
-国際博覧会,Expo (exhibition)
+国際博覧会,Expo
 国際原子力機関,International Atomic Energy Agency
 国際司法裁判所,International Court of Justice
 国際日付変更線,International Date Line
@@ -5756,7 +5756,7 @@ japanese,english
 土星,Saturn
 土曜日,Saturday
 圧力,Pressure
-在籍者 (学習者),Student
+在籍者,Student
 地中海,Mediterranean Sea
 地図,Map
 地図学,Cartography
@@ -5765,8 +5765,8 @@ japanese,english
 地平線,Horizon
 地形学,Geomorphology
 地政学,Geopolitics
-地殻,Crust (geology)
-地獄 (キリスト教),Hell
+地殻,Crust
+地獄,Hell
 地球,Earth
 地球化学,Geochemistry
 地球型惑星,Terrestrial planet
@@ -5788,10 +5788,10 @@ japanese,english
 報道,Journalism
 場の量子論,Quantum field theory
 塔,Tower
-塩,Salt (chemistry)
+塩,Salt
 塩,Salt
 塩化ナトリウム,Sodium chloride
-塩基,Base (chemistry)
+塩基,Base
 塩素,Chlorine
 塩酸,Hydrochloric acid
 墓地,Cemetery
@@ -5814,7 +5814,7 @@ japanese,english
 多項式,Polynomial
 夜,Night
 夢,Dream
-大アイアース,Ajax (mythology)
+大アイアース,Ajax
 大アンティル諸島,Greater Antilles
 大キュロス,Cyrus the Great
 大スキピオ,Scipio Africanus
@@ -5829,13 +5829,13 @@ japanese,english
 大学,University
 大気圏,Atmosphere
 大洋,Ocean
-大洪水,Deluge (mythology)
+大洪水,Deluge
 大理石,Marble
 大砲,Artillery
 大統領,President
 大聖堂,Cathedral
 大腸菌,Escherichia coli
-大臣,Minister (government)
+大臣,Minister
 大西洋,Atlantic Ocean
 大阪市,Osaka
 大陸,Continent
@@ -5844,7 +5844,7 @@ japanese,english
 大陸間弾道ミサイル,Intercontinental ballistic missile
 大隊,Battalion
 大韓民国,South Korea
-大麻,Cannabis (drug)
+大麻,Cannabis
 天の赤道,Celestial equator
 天体力学,Celestial mechanics
 天体物理学,Astrophysics
@@ -5873,7 +5873,7 @@ japanese,english
 失明,Blindness
 失業,Unemployment
 失語症,Aphasia
-奇数,Parity (mathematics)
+奇数,Parity
 奇跡,Miracle
 奉仕,Altruism
 契約,Contract
@@ -5889,7 +5889,7 @@ japanese,english
 婉曲法,Euphemism
 婦人科学,Gynaecology
 子供,Child
-子午線,Meridian (geography)
+子午線,Meridian
 子宮,Uterus
 子音,Consonant
 孔子,Confucius
@@ -5964,13 +5964,13 @@ japanese,english
 屈折,Refraction
 屈折率,Refractive index
 屋根,Roof
-属 (分類学),Genus
+属,Genus
 属格,Genitive case
 層序学,Stratigraphy
 山,Mountain
 山本五十六,Isoroku Yamamoto
 山脈,Mountain range
-岩石,Rock (geology)
+岩石,Rock
 岩石学,Petrology
 峠,Mountain pass
 島,Island
@@ -5990,32 +5990,32 @@ japanese,english
 帆,Sail
 帝国,Empire
 帝国主義,Imperialism
-師団,Division (military)
+師団,Division
 帰納,Inductive reasoning
-干渉 (物理学),Interference
+干渉,Interference
 平和,Peace
 平和主義,Pacifism
 平壌,Pyongyang
 平方メートル,Square metre
 平方根,Square root
 平行四辺形,Parallelogram
-平面,Plane (mathematics)
+平面,Plane
 年,Year
 幸福,Happiness
 幹細胞,Stem cell
 幻覚,Hallucination
 幼稚園,Kindergarten
 幼虫,Larva
-幾何ベクトル,Vector (spatial)
+幾何ベクトル,Vector
 幾何学,Geometry
 広告,Advertising
 広場恐怖症,Agoraphobia
 広島市,Hiroshima
 広州市,Guangzhou
 広東省,Guangdong
-広東語,Cantonese (linguistics)
+広東語,Cantonese
 度,Degree
-度 (角度),Degree (angle)
+度,Degree
 座標,Coordinate system
 庭園,Garden
 廃棄物,Waste
@@ -6024,7 +6024,7 @@ japanese,english
 建築物,Building
 弁証法,Dialectic
 弁護士,Lawyer
-弓 (武器),Bow (weapon)
+弓,Bow
 弥勒菩薩,Maitreya
 弦理論,String theory
 弱い相互作用,Weak interaction
@@ -6036,7 +6036,7 @@ japanese,english
 形容詞,Adjective
 形態学,Morphology
 形態素,Morpheme
-形態論,Morphology (linguistics)
+形態論,Morphology
 形而上学,Metaphysics
 彫刻,Sculpture
 征夷大将軍,Shogun
@@ -6064,7 +6064,7 @@ japanese,english
 思春期,Puberty
 思考,Thought
 急性灰白髄炎,Poliomyelitis
-性 (文法),Grammatical gender
+性,Grammatical gender
 性別,Sex
 性差別,Sexism
 性的倒錯,Paraphilia
@@ -6092,12 +6092,12 @@ japanese,english
 感情,Emotion
 感染症,Infectious disease
 感謝祭,Thanksgiving
-感謝祭,Thanksgiving (United States)
-感謝祭,Thanksgiving (Canada)
-感謝祭,Thanksgiving (disambiguation)
+感謝祭,Thanksgiving
+感謝祭,Thanksgiving
+感謝祭,Thanksgiving
 慣性,Inertia
 憎悪,Hatred
-憲法,Constitution (political)
+憲法,Constitution
 懐疑主義,Skepticism
 成層圏,Stratosphere
 戦争,War
@@ -6130,11 +6130,11 @@ japanese,english
 拳銃,Handgun
 拷問,Torture
 指,Finger
-指揮 (音楽),Conducting
+指揮,Conducting
 指数関数,Exponential function
 指紋,Fingerprint
 振り子,Pendulum
-振動 (物理現象),Oscillation
+振動,Oscillation
 振動運動#.E3.83.95.E3.83.83.E3.82.AF.E3.81.AE.E6.B3.95.E5.89.87,Hooke's law
 振幅,Amplitude
 捕虜,Prisoner of war
@@ -6163,7 +6163,7 @@ japanese,english
 政治家,Politician
 教会,Church
 教会博士,Doctor of the Church
-教会堂,Church (building)
+教会堂,Church
 教区,Diocese
 教員,Teacher
 教授,Professor
@@ -6190,7 +6190,7 @@ japanese,english
 料理,Cooking
 斜面,Inclined plane
 斧,Axe
-断層,Fault (geology)
+断層,Fault
 断熱過程,Adiabatic process
 断食,Fasting
 新世界,New World
@@ -6221,19 +6221,19 @@ japanese,english
 旱魃,Drought
 昆虫学,Entomology
 昆虫類,Insect
-昇華 (化学),Sublimation (chemistry)
+昇華,Sublimation
 明,Ming Dynasty
 昏睡,Coma
 星座,Constellation
-星条旗 (国歌),The Star-Spangled Banner
+星条旗,The Star-Spangled Banner
 星雲,Nebula
 映画,Film
 映画監督,Film director
-春,Spring (season)
+春,Spring
 昭和天皇,Hirohito
 時計,Clock
 時間,Time
-時間 (単位),Hour
+時間,Hour
 普仏戦争,Franco-Prussian War
 景気後退,Recession
 智天使,Cherub
@@ -6250,9 +6250,9 @@ japanese,english
 曼荼羅,Mandala
 最大公約数,Greatest common divisor
 最終処分場,Landfill
-最適化問題,Optimization (mathematics)
+最適化問題,Optimization
 月,Moon
-月 (暦),Month
+月,Month
 月曜日,Monday
 月経,Menstruation
 月経,Menstrual cycle
@@ -6262,7 +6262,7 @@ japanese,english
 有機化学,Organic chemistry
 有櫛動物,Ctenophore
 有理数,Rational number
-有鱗目 (爬虫類),Squamata
+有鱗目,Squamata
 望遠鏡,Telescope
 朝鮮,Korea
 朝鮮戦争,Korean War
@@ -6276,7 +6276,7 @@ japanese,english
 木管楽器,Woodwind instrument
 木綿,Cotton
 未来,Future
-未来派,Futurism (art)
+未来派,Futurism
 未確認飛行物体,Unidentified flying object
 本,Book
 札幌市,Sapporo
@@ -6292,13 +6292,13 @@ japanese,english
 東南アジア諸国連合,Association of Southeast Asian Nations
 林業,Forestry
 果実,Fruit
-枢機卿,Cardinal (Catholicism)
+枢機卿,Cardinal
 柑橘類,Citrus
 染色体,Chromosome
 柔術,Jujutsu
 柔道,Judo
 柘榴石,Garnet
-株式,Share (finance)
+株式,Share
 株式会社,Corporation
 核兵器,Nuclear weapon
 核分裂反応,Nuclear fission
@@ -6321,7 +6321,7 @@ japanese,english
 楕円,Ellipse
 業,Karma
 極東,Far East
-極限,Limit (mathematics)
+極限,Limit
 楽器,Musical instrument
 構造主義,Structuralism
 槌,Hammer
@@ -6346,7 +6346,7 @@ japanese,english
 正六面体,Cube
 正十二面体,Dodecahedron
 正教会,Eastern Orthodox Church
-正方形,Square (geometry)
+正方形,Square
 正書法,Orthography
 正規分布,Normal distribution
 武器,Weapon
@@ -6372,11 +6372,11 @@ japanese,english
 毒,Poison
 毒,Toxicity
 毒性学,Toxicology
-毛 (動物),Hair
+毛,Hair
 毛沢東,Mao Zedong
 毛沢東思想,Maoism
 民主主義,Democracy
-民主党 (アメリカ),Democratic Party (United States)
+民主党,Democratic Party
 民数記,Book of Numbers
 民族,Ethnic group
 民族統一主義,Irredentism
@@ -6397,7 +6397,7 @@ japanese,english
 水圏,Hydrosphere
 水文学,Hydrology
 水族館,Aquarium
-水星,Mercury (planet)
+水星,Mercury
 水曜日,Wednesday
 水泳,Swimming
 水球,Water polo
@@ -6407,7 +6407,7 @@ japanese,english
 水素結合,Hydrogen bond
 水酸化ナトリウム,Sodium hydroxide
 水酸化物,Hydroxide
-水銀,Mercury (element)
+水銀,Mercury
 氷,Ice
 氷山,Iceberg
 氷河,Glacier
@@ -6420,10 +6420,10 @@ japanese,english
 河北省,Hebei
 沸点,Boiling point
 油,Oil
-油,Oil (disambiguation)
+油,Oil
 油彩,Oil painting
-法 (仏教),Dharma
-法 (法学),Law
+法,Dharma
+法,Law
 法輪功,Falun Gong
 波動,Wave
 波長,Wavelength
@@ -6456,7 +6456,7 @@ japanese,english
 涅槃,Nirvana
 消化,Digestion
 消化器,Gastrointestinal tract
-消費,Consumption (economics)
+消費,Consumption
 消防士,Firefighter
 液体,Liquid
 液晶ディスプレイ,Liquid crystal display
@@ -6472,7 +6472,7 @@ japanese,english
 温度計,Thermometer
 測地学,Geodesy
 測定,Measurement
-測度論,Measure (mathematics)
+測度論,Measure
 港湾,Port
 湖南省,Hunan
 湖沼,Lake
@@ -6539,7 +6539,7 @@ japanese,english
 爆弾,Bomb
 爆撃機,Bomber
 爆発,Explosion
-爪,Nail (anatomy)
+爪,Nail
 爬虫類,Reptile
 片麻岩,Gneiss
 物流,Logistics
@@ -6573,7 +6573,7 @@ japanese,english
 理想気体,Ideal gas
 理神論,Deism
 理論,Theory
-環 (数学),Ring (mathematics)
+環,Ring
 環境,Environment
 環形動物,Annelid
 環礁,Atoll
@@ -6606,7 +6606,7 @@ japanese,english
 甲虫類,Beetle
 申命記,Deuteronomy
 男爵,Baron
-界 (生物学),Kingdom (biology)
+界,Kingdom
 畜産,Animal husbandry
 略語,Abbreviation
 異性体,Isomer
@@ -6629,7 +6629,7 @@ japanese,english
 発明,Invention
 発熱,Fever
 発達心理学,Developmental psychology
-発酵,Fermentation (biochemistry)
+発酵,Fermentation
 発電所,Power station
 白亜紀,Cretaceous
 白内障,Cataract
@@ -6648,12 +6648,12 @@ japanese,english
 盆栽,Bonsai
 盗作,Plagiarism
 目,Eye
-目 (分類学),Order (biology)
+目,Order
 直交座標系,Cartesian coordinate system
 直流,Direct current
 直積集合,Cartesian product
-直線,Line (mathematics)
-相,Phase (matter)
+直線,Line
+相,Phase
 相対主義,Relativism
 相対性原理,Principle of relativity
 相対性理論,Theory of relativity
@@ -6702,7 +6702,7 @@ japanese,english
 硝酸カリウム,Potassium nitrate
 硫酸,Sulfuric acid
 硫黄,Sulfur
-硫黄島 (東京都),Iwo Jima
+硫黄島,Iwo Jima
 硬さ,Hardness
 硬貨,Coin
 硬骨魚綱,Osteichthyes
@@ -6715,7 +6715,7 @@ japanese,english
 磔,Crucifixion
 社会,Society
 社会主義,Socialism
-社会党 (フランス),Socialist Party (France)
+社会党,Socialist Party
 社会学,Sociology
 社会心理学,Social psychology
 社会言語学,Sociolinguistics
@@ -6741,7 +6741,7 @@ japanese,english
 福岡市,Fukuoka
 福音書,Gospel
 秋,Autumn
-科 (分類学),Family (biology)
+科,Family
 科学,Science
 科学的方法,Scientific method
 科学者,Scientist
@@ -6749,13 +6749,13 @@ japanese,english
 秘跡,Sacrament
 租税,Tax
 秦,Qin Dynasty
-種 (分類学),Species
+種,Species
 種子,Seed
 種子植物,Spermatophyte
-種実類,Nut (fruit)
+種実類,Nut
 穀物,Cereal
 積分法,Integral
-積集合,Intersection (set theory)
+積集合,Intersection
 積雲,Cumulus cloud
 空手道,Karate
 空気力学,Aerodynamics
@@ -6821,14 +6821,14 @@ japanese,english
 紋章学,Heraldry
 紙巻きタバコ,Cigarette
 紙幣,Banknote
-級数,Series (mathematics)
+級数,Series
 紛争,Conflict
 素数,Prime number
 素粒子物理学,Particle physics
 紫外線,Ultraviolet
 紫禁城,Forbidden City
-累代,Eon (geology)
-細胞,Cell (biology)
+累代,Eon
+細胞,Cell
 細胞壁,Cell wall
 細胞小器官,Organelle
 細胞核,Cell nucleus
@@ -6836,8 +6836,8 @@ japanese,english
 細胞質,Cytoplasm
 細胞骨格,Cytoskeleton
 終末論,Eschatology
-組織 (生物学),Tissue (biology)
-組織 (社会科学),Organization
+組織,Tissue
+組織,Organization
 組織学,Histology
 経営管理論,Management
 経済,Economy
@@ -6860,7 +6860,7 @@ japanese,english
 絹,Silk
 継電器,Relay
 維管束植物,Vascular plant
-綱 (分類学),Class (biology)
+綱,Class
 網膜,Retina
 総主教,Patriarch
 緑,Green
@@ -6875,7 +6875,7 @@ japanese,english
 美学,Aesthetics
 美術史,Art history
 美術家,Artist
-群 (数学),Group (mathematics)
+群,Group
 羽根,Feather
 翻字,Transliteration
 翼竜,Pterosaur
@@ -6941,8 +6941,8 @@ japanese,english
 自然科学,Natural science
 自然言語処理,Natural language processing
 自然選択説,Natural selection
-自由,Freedom (philosophy)
-自由の女神像 (ニューヨーク),Statue of Liberty
+自由,Freedom
+自由の女神像,Statue of Liberty
 自由主義,Liberalism
 自由意志,Free will
 自転車,Bicycle
@@ -6969,7 +6969,7 @@ japanese,english
 英語,English language
 茶,Tea
 茶色,Brown
-荒らし,Troll (Internet)
+荒らし,Troll
 菌類,Fungus
 菩薩,Bodhisattva
 華氏,Fahrenheit
@@ -6995,7 +6995,7 @@ japanese,english
 虫,Worm
 虫垂炎,Appendicitis
 虹,Rainbow
-虹彩,Iris (anatomy)
+虹彩,Iris
 蛍石,Fluorite
 蜂蜜,Honey
 蜂蜜酒,Mead
@@ -7010,10 +7010,10 @@ japanese,english
 血液学,Hematology
 血漿,Blood plasma
 血管,Blood vessel
-行列,Matrix (mathematics)
+行列,Matrix
 行列式,Determinant
 行動主義心理学,Behaviorism
-行政,Executive (government)
+行政,Executive
 衣類,Clothing
 表現の自由,Freedom of speech
 表現主義,Expressionism
@@ -7038,16 +7038,16 @@ japanese,english
 要塞,Fortification
 視床下部,Hypothalamus
 親指,Thumb
-親衛隊 (ナチス),Schutzstaffel
+親衛隊,Schutzstaffel
 観光,Tourism
 観念論,Idealism
-角,Horn (anatomy)
+角,Horn
 角度,Angle
-角柱,Prism (geometry)
+角柱,Prism
 角膜,Cornea
 角速度,Angular velocity
 角運動量,Angular momentum
-角錐,Pyramid (geometry)
+角錐,Pyramid
 解剖学,Anatomy
 解析幾何学,Analytic geometry
 解糖系,Glycolysis
@@ -7091,7 +7091,7 @@ japanese,english
 貴族制,Aristocracy
 貸借対照表,Balance sheet
 貿易,Trade
-資本,Capital (economics)
+資本,Capital
 資本主義,Capitalism
 資本論,Das Kapital
 賛美歌,Hymn
@@ -7102,7 +7102,7 @@ japanese,english
 赤,Red
 赤外線,Infrared
 赤方偏移,Redshift
-赤方偏移,Redshift (disambiguation)
+赤方偏移,Redshift
 赤経,Right ascension
 赤緯,Declination
 赤色巨星,Red giant
@@ -7124,13 +7124,13 @@ japanese,english
 距離空間,Metric space
 路面電車,Tram
 車輪,Wheel
-軌道 (力学),Orbit
+軌道,Orbit
 軍隊における階級呼称一覧,Military rank
 軟体動物,Mollusca
 軟甲綱,Malacostraca
 軟骨魚綱,Chondrichthyes
 転生,Reincarnation
-転移 (医学),Metastasis
+転移,Metastasis
 軽油,Diesel
 輔祭,Deacon
 輪廻,Samsara
@@ -7144,7 +7144,7 @@ japanese,english
 近代オリンピック,Olympic Games
 近視,Myopia
 近親相姦,Incest
-迫撃砲,Mortar (weapon)
+迫撃砲,Mortar
 通信,Communication
 通貨,Currency
 速さ,Speed
@@ -7158,7 +7158,7 @@ japanese,english
 週,Week
 進化,Evolution
 遊牧民,Nomad
-運動 (物理学),Motion (physics)
+運動,Motion
 運動エネルギー,Kinetic energy
 運動学,Kinematics
 運動量,Momentum
@@ -7174,7 +7174,7 @@ japanese,english
 遺伝子型,Genotype
 遺伝子工学,Genetic engineering
 遺伝学,Genetics
-遺言,Will (law)
+遺言,Will
 避妊,Birth control
 部分集合,Subset
 郵便,Mail
@@ -7194,7 +7194,7 @@ japanese,english
 酸化防止剤,Antioxidant
 酸性雨,Acid rain
 酸素,Oxygen
-醗酵,Fermentation (food)
+醗酵,Fermentation
 釈迦,Gautama Buddha
 重さ,Weight
 重力子,Graviton
@@ -7218,7 +7218,7 @@ japanese,english
 金曜日,Friday
 金石学,Epigraphy
 金融,Finance
-釘,Nail (fastener)
+釘,Nail
 釣り,Fishing
 鉄,Iron
 鉄のカーテン,Iron Curtain
@@ -7246,29 +7246,29 @@ japanese,english
 鎖骨,Clavicle
 鎧,Armour
 鏡,Mirror
-鐘,Bell (instrument)
+鐘,Bell
 長さ,Length
 長崎市,Nagasaki
 長方形,Rectangle
 長江,Yangtze River
 長石,Feldspar
 長音階,Major scale
-門 (分類学),Phylum
+門,Phylum
 閏年,Leap year
 間欠泉,Geyser
-関数 (数学),Function (mathematics)
+関数,Function
 関税および貿易に関する一般協定,General Agreement on Tariffs and Trade
 関節,Joint
 関節炎,Arthritis
-降水,Precipitation (meteorology)
-除法,Division (mathematics)
+降水,Precipitation
+除法,Division
 陰嚢,Scrotum
 陰核,Clitoris
 陶磁器,Porcelain
-陸上競技,Athletics (track and field)
+陸上競技,Athletics
 陸水学,Limnology
 陸軍,Army
-陸軍士官学校 (アメリカ合衆国),United States Military Academy
+陸軍士官学校,United States Military Academy
 陽子,Proton
 陽電子,Positron
 階乗,Factorial
@@ -7282,7 +7282,7 @@ japanese,english
 雑種,Hybrid
 雑誌,Magazine
 離婚,Divorce
-離心率,Eccentricity (mathematics)
+離心率,Eccentricity
 難民,Refugee
 雨,Rain
 雪,Snow
@@ -7310,7 +7310,7 @@ japanese,english
 電気抵抗,Electrical resistance
 電気通信,Telecommunication
 電気陰性度,Electronegativity
-電池,Battery (electricity)
+電池,Battery
 電波望遠鏡,Radio telescope
 電流,Electric current
 電流計,Ammeter
@@ -7343,7 +7343,7 @@ japanese,english
 音楽,Music
 音楽学,Musicology
 音楽家,Musician
-音程,Interval (music)
+音程,Interval
 音符,Note
 音節,Syllable
 音素,Phoneme
@@ -7374,7 +7374,7 @@ japanese,english
 風車,Windmill
 風速計,Anemometer
 風邪,Common cold
-食 (天文),Eclipse
+食,Eclipse
 食品,Food
 食品添加物,Food additive
 食物連鎖,Food chain
@@ -7398,7 +7398,7 @@ japanese,english
 髄膜炎,Meningitis
 高血圧,Hypertension
 魔方陣,Magic square
-魔術,Magic (paranormal)
+魔術,Magic
 魚雷,Torpedo
 魚類,Fish
 魚類学,Ichthyology

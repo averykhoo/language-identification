@@ -1,44 +1,44 @@
 Other,English
-0 (szám),0 (number)
+0,0
 1,1
-1 (szám),1 (number)
+1,1
 10,10
-10 (szám),10 (number)
+10,10
 100,100
-100 (szám),100 (number)
+100,100
 1000,1000
-1000 (szám),1000 (number)
+1000,1000
 101,101
 105,105
 11,11
-11 (szám),11 (number)
+11,11
 110,110
 115,115
 12,12
-12 (szám),12 (number)
+12,12
 120,120
 125,125
 13,13
-13 (szám),13 (number)
+13,13
 130,130
 135,135
-136199 Erisz,Eris (dwarf planet)
+136199 Erisz,Eris
 14,14
-14 (szám),14 (number)
+14,14
 140,140
 144,144
 145,145
 15,15
-15 (szám),15 (number)
+15,15
 150,150
 1530-as évek,1530s
 155,155
 16,16
-16 (szám),16 (number)
+16,16
 160,160
 165,165
 17,17
-17 (szám),17 (number)
+17,17
 170,170
 1728,1728
 175,175
@@ -48,7 +48,7 @@ Other,English
 1780-as évek,1780s
 1790-es évek,1790s
 18,18
-18 (szám),18 (number)
+18,18
 180,180
 1820-as évek,1820s
 1830-as évek,1830s
@@ -59,10 +59,10 @@ Other,English
 1880-as évek,1880s
 1890-es évek,1890s
 19,19
-19 (szám),19 (number)
+19,19
 190,190
 1900-as évek,1900s
-1917-es oroszországi forradalmak,Russian Revolution (1917)
+1917-es oroszországi forradalmak,Russian Revolution
 1920-as évek,1920s
 1930-as évek,1930s
 1940-es évek,1940s
@@ -72,77 +72,77 @@ Other,English
 1980-as évek,1980s
 1990-es évek,1990s
 2,2
-2 (szám),2 (number)
+2,2
 20,20
-20 (szám),20 (number)
+20,20
 200,200
 2001. szeptember 11-i terrortámadás,September 11
 21,21
-21 (szám),21 (number)
+21,21
 22,22
-22 (szám),22 (number)
+22,22
 23,23
-23 (szám),23 (number)
+23,23
 24,24
-24 (szám),24 (number)
-24 (televíziós sorozat),24 (TV series)
+24,24
+24,24
 25,25
-25 (szám),25 (number)
+25,25
 26,26
-26 (szám),26 (number)
+26,26
 27,27
-27 (szám),27 (number)
+27,27
 28,28
-28 (szám),28 (number)
+28,28
 29,29
-29 (szám),29 (number)
+29,29
 3,3
-3 (szám),3 (number)
+3,3
 30,30
-30 (szám),30 (number)
+30,30
 300,300
 31,31
-31 (szám),31 (number)
+31,31
 32,32
-32 (szám),32 (number)
+32,32
 33,33
-33 (szám),33 (number)
+33,33
 34,34
-34 (szám),34 (number)
+34,34
 35,35
-35 (szám),35 (number)
+35,35
 36,36
-36 (szám),36 (number)
+36,36
 37,37
-37 (szám),37 (number)
+37,37
 38,38
-38 (szám),38 (number)
+38,38
 39,39
-39 (szám),39 (number)
+39,39
 4,4
-4 (szám),4 (number)
+4,4
 40,40
-40 (szám),40 (number)
+40,40
 400,400
 41,41
-41 (szám),41 (number)
+41,41
 42,42
-42 (szám),42 (number)
+42,42
 43,43
-43 (szám),43 (number)
+43,43
 44,44
 45,45
-45 (szám),45 (number)
+45,45
 46,46
-46 (szám),46 (number)
+46,46
 47,47
 48,48
 49,49
-49 (szám),49 (number)
+49,49
 5,5
-5 (szám),5 (number)
+5,5
 50,50
-50 (szám),50 (number)
+50,50
 500,500
 51,51
 52,52
@@ -154,9 +154,9 @@ Other,English
 58,58
 59,59
 6,6
-6 (szám),6 (number)
+6,6
 60,60
-60 (szám),60 (number)
+60,60
 61,61
 62,62
 63,63
@@ -167,7 +167,7 @@ Other,English
 68,68
 69,69
 7,7
-7 (szám),7 (number)
+7,7
 70,70
 71,71
 72,72
@@ -179,9 +179,9 @@ Other,English
 78,78
 79,79
 8,8
-8 (szám),8 (number)
+8,8
 80,80
-80 (szám),80 (number)
+80,80
 81,81
 82,82
 83,83
@@ -192,7 +192,7 @@ Other,English
 88,88
 89,89
 9,9
-9 (szám),9 (number)
+9,9
 90,90
 91,91
 92,92
@@ -211,7 +211,7 @@ AIDS,AIDS
 ALGOL,ALGOL
 ASCII,American Standard Code for Information Interchange
 ATP,ATP
-AZ Alkmaar,AZ (football club)
+AZ Alkmaar,AZ
 Aachen,Aachen
 Aalborg,Aalborg
 Aare,Aar
@@ -240,7 +240,7 @@ Aceton,Acetone
 Achát,Agate
 Aconcagua,Aconcagua
 Acél,Steel
-Ada (programozási nyelv),Ada (programming language)
+Ada,Ada
 Adam Smith,Adam Smith
 Adana,Adana
 Adat,Data
@@ -279,7 +279,7 @@ Agyalapi mirigy,Pituitary gland
 Agyhártyagyulladás,Meningitis
 Agytröszt,Think tank
 Agyvérzés,Stroke
-Aiasz (Telamón fia),Ajax (mythology)
+Aiasz,Ajax
 Aikidó,Aikido
 Aineiasz,Aeneas
 Aiolosz,Aeolus
@@ -287,14 +287,14 @@ Airbus,Airbus
 Aiszkhülosz,Aeschylus
 Aiszóposz,Aesop
 Ajatollah,Ayatollah
-Ajax,Ajax (programming)
-Ajax (egyértelműsítő lap),Ajax
+Ajax,Ajax
+Ajax,Ajax
 Akabai-öböl,Gulf of Aqaba
 Akasztás,Hanging
 Akherón,Acheron
 Akhilleusz,Achilles
-Akkord,Chord (music)
-Aknavető,Mortar (weapon)
+Akkord,Chord
+Aknavető,Mortar
 Aktínium,Actinium
 Akácia,Acacia
 Al Capone,Al Capone
@@ -315,7 +315,7 @@ Albert Camus,Albert Camus
 Albert Einstein,Albert Einstein
 Albert Schweitzer,Albert Schweitzer
 Albert Speer,Albert Speer
-Alberta (tartomány),Alberta
+Alberta,Alberta
 Albinizmus,Albinism
 Albit,Albite
 Albuquerque,Albuquerque
@@ -332,7 +332,7 @@ Alexander Graham Bell,Alexander Graham Bell
 Alexander Pope,Alexander Pope
 Alexandria,Alexandria
 Alexis de Tocqueville,Alexis de Tocqueville
-Alfa,Alpha (letter)
+Alfa,Alpha
 Alfa Centauri,Alpha Centauri
 Alfred Bernhard Nobel,Alfred Nobel
 Alfred Dreyfus,Alfred Dreyfus
@@ -350,7 +350,7 @@ Ali kalifa,Ali
 Alkaloidok,Alkaloid
 Alkinek,Alkyne
 Alkoholok,Alcohol
-Alkotmány,Constitution (political)
+Alkotmány,Constitution
 Alkálifém,Alkali metal
 Alkánok,Alkane
 Alkének,Alkene
@@ -423,8 +423,8 @@ Andrew Jackson,Andrew Jackson
 Andrew Johnson,Andrew Johnson
 Andrew Lloyd Webber,Andrew Lloyd Webber
 Androméda,Andromeda
-Androméda (csillagkép),Andromeda (constellation)
-Androméda (keresztnév),Andromeda (mythology)
+Androméda,Andromeda
+Androméda,Andromeda
 Androméda-galaxis,Andromeda Galaxy
 Andy Warhol,Andy Warhol
 Angara,Angara River
@@ -443,11 +443,11 @@ Anime,Anime
 Animizmus,Animism
 Ankara,Ankara
 Annapurna,Annapurna
-Antalya (város),Antalya
+Antalya,Antalya
 Antananarivo,Antananarivo
 Antares,Antares
 Antarktisz,Antarctica
-Antenna,Antenna (radio)
+Antenna,Antenna
 Anthony Hopkins,Anthony Hopkins
 Antianyag,Antimatter
 Antibiotikum,Antibiotic
@@ -467,7 +467,7 @@ Antonio Vivaldi,Antonio Vivaldi
 Antropológia,Anthropology
 Antropozófia,Anthroposophy
 Antwerpen,Antwerp
-Antwerpen (tartomány),Antwerp (province)
+Antwerpen,Antwerp
 Anubisz,Anubis
 Anyag,Matter
 Anyanyelv,First language
@@ -553,11 +553,11 @@ Aszexualitás,Asexuality
 Aszklépiosz,Asclepius
 Aszmara,Asmara
 Aszpartám,Aspartame
-Asztal,Table (furniture)
+Asztal,Table
 Asztalitenisz,Table tennis
 Asztana,Astana
 Asztenoszféra,Asthenosphere
-Asztigmatizmus,Astigmatism (eye)
+Asztigmatizmus,Astigmatism
 Asztma,Asthma
 Asztrahány,Astrakhan
 Asztrobiológia,Astrobiology
@@ -573,11 +573,11 @@ Athéné,Athena
 Atlanta,Atlanta
 Atlanti-óceán,Atlantic Ocean
 Atlantisz,Atlantis
-Atlasz,Atlas (mythology)
-Atlasz (egyértelműsítő lap),Atlas (disambiguation)
-Atlasz (hegység),Atlas Mountains
-Atlétika,Athletics (track and field)
-Atmoszféra (mértékegység),Atmosphere (unit)
+Atlasz,Atlas
+Atlasz,Atlas
+Atlasz,Atlas Mountains
+Atlétika,Athletics
+Atmoszféra,Atmosphere
 Atoll,Atoll
 Atom,Atom
 Atomenergia,Nuclear power
@@ -587,10 +587,10 @@ Atomóra,Atomic clock
 Aton,Aten
 Atropin,Atropine
 Attika,Attica
-Attila (hun uralkodó),Attila the Hun
+Attila,Attila the Hun
 Au,Au
 August Strindberg,August Strindberg
-Augusta (Maine),Augusta
+Augusta,Augusta
 Auguste Comte,Auguste Comte
 Auguste Rodin,Auguste Rodin
 Augustus,Augustus
@@ -610,7 +610,7 @@ Autizmus,Autism
 Autotrófia,Autotroph
 Autó,Automobile
 Autóbusz,Bus
-Auvergne,Auvergne (region)
+Auvergne,Auvergne
 Avantgárd,Avant-garde
 Avatár,Avatar
 Averroës,Averroes
@@ -673,7 +673,7 @@ Bankjegy,Banknote
 Banán,Banana
 Banánköztársaság,Banana republic
 Baptizmus,Baptist
-Bar (mértékegység),Bar (unit)
+Bar,Bar
 Barbados,Barbados
 Barbárok,Barbarian
 Barcelona,Barcelona
@@ -746,19 +746,19 @@ Betelgeuse,Betelgeuse
 Betlehem,Bethlehem
 Beton,Concrete
 Bette Davis,Bette Davis
-Betű,Letter (alphabet)
+Betű,Letter
 Beverly Hills,Beverly Hills
 Bhután,Bhutan
 Biblia,Bible
 Bibliográfia,Bibliography
 Big Ben,Clock Tower
 Bihár,Bihar
-Bika csillagkép,Taurus (constellation)
-Bikini (fürdőruha),Bikini
+Bika csillagkép,Taurus
+Bikini,Bikini
 Bill Clinton,Bill Clinton
 Bill Gates,Bill Gates
 Billentyűs hangszerek,Keyboard instrument
-Billentyűzet,Keyboard (computing)
+Billentyűzet,Keyboard
 Biodiverzitás,Biodiversity
 Biofizika,Biophysics
 Biogeográfia,Biogeography
@@ -775,8 +775,8 @@ Bipoláris zavar,Bipolar disorder
 Birodalom,Empire
 Birtokos eset,Genitive case
 Biskek,Bishkek
-Bismarck,Bismarck (disambiguation)
-Bismarck (Észak-Dakota),Bismarck
+Bismarck,Bismarck
+Bismarck,Bismarck
 Bissau,Bissau
 Bissau-Guinea,Guinea-Bissau
 Biszexualitás,Bisexuality
@@ -785,7 +785,7 @@ Bithünia,Bithynia
 Bizmut,Bismuth
 Biztosítás,Insurance
 Blaise Pascal,Blaise Pascal
-Blender (program),Blender (software)
+Blender,Blender
 Blitzkrieg,Blitzkrieg
 Bloemfontein,Bloemfontein
 Blog,Blog
@@ -797,7 +797,7 @@ Boethius,Anicius Manlius Severinus Boethius
 Bogarak,Beetle
 Boglárkafélék,Ranunculaceae
 Bohémia,Bohemia
-Boise (Idaho),Boise
+Boise,Boise
 Boleyn Anna,Anne Boleyn
 Bolhák,Flea
 Bollywood,Bollywood
@@ -805,13 +805,13 @@ Bologna,Bologna
 Bolsevik hatalomátvétel Szentpétervárott,October Revolution
 Boltív,Arch
 Bolygó,Planet
-Bolzano (város),Bolzano
+Bolzano,Bolzano
 Bolívia,Bolivia
 Bomba,Bomb
 Bombázó,Bomber
 Bonn,Bonn
 Bonszai,Bonsai
-Boole-algebra,Boolean algebra (structure)
+Boole-algebra,Boolean algebra
 Bor,Wine
 Bordeaux,Bordeaux
 Bordásmedúzák,Ctenophore
@@ -819,7 +819,7 @@ Borisz Godunov,Boris Godunov
 Borisz Leonyidovics Paszternak,Boris Pasternak
 Borium,Bohrium
 Borneó,Borneo
-Borostyán (ásvány),Amber
+Borostyán,Amber
 Borz,Eurasian Badger
 Boston,Boston
 Bostoni teadélután,Boston Tea Party
@@ -829,7 +829,7 @@ Botanika,Botany
 Botswana,Botswana
 Botteni-öböl,Gulf of Bothnia
 Bouvet-sziget,Bouvet Island
-Boxer,Boxer (dog)
+Boxer,Boxer
 Boyle–Mariotte-törvény,Boyle's law
 Bozon,Boson
 Braga,Braga
@@ -867,8 +867,8 @@ Brugge,Bruges
 Brunei,Brunei
 Bruttó hazai termék,Gross domestic product
 Brácsa,Viola
-Bréma (tartomány),Bremen (state)
-Bréma (város),Bremen
+Bréma,Bremen
+Bréma,Bremen
 Bróm,Bromine
 Brüsszel,Brussels
 Buckminster Fuller,Buckminster Fuller
@@ -886,7 +886,7 @@ Burgonyafélék,Solanaceae
 Burgundia,Bourgogne
 Burka,Burqa
 Burkina Faso,Burkina Faso
-Bursa (város),Bursa
+Bursa,Bursa
 Buster Keaton,Buster Keaton
 Bután,Butane
 Bydgoszcz,Bydgoszcz
@@ -897,17 +897,17 @@ Bányászat,Mining
 Bárium,Barium
 Bárányhimlő,Chickenpox
 Báró,Baron
-Bástya (sakk),Rook (chess)
-Básztet,Bast (mythology)
+Bástya,Rook
+Básztet,Bast
 Bázel,Basel
-Bázis,Base (chemistry)
+Bázis,Base
 Bécs,Vienna
 Béke,Peace
 Békák,Frog
 Bérmálás,Confirmation
-Béta,Beta (letter)
+Béta,Beta
 Béta-bomlás,Beta decay
-Bíboros,Cardinal (Catholicism)
+Bíboros,Cardinal
 Bíróság,Court
 Bór,Boron
 Bölcsek köve,Philosopher's stone
@@ -922,7 +922,7 @@ Bőr,Skin
 Bűbájos boszorkák,Charmed
 Bűn,Sin
 C,C
-C (programozási nyelv),C (programming language)
+C,C
 C-kulcsok,Clef
 C. S. Lewis,C. S. Lewis
 CAD,Computer-aided design
@@ -937,8 +937,8 @@ Caligula,Caligula
 Calvin Coolidge,Calvin Coolidge
 Cambridge,Cambridge
 "Cambridge, Massachusetts",Cambridge
-Camembert,Camembert (cheese)
-Campana,Bell (instrument)
+Camembert,Camembert
+Campana,Bell
 Campania,Campania
 Canberra,Canberra
 Cannes,Cannes
@@ -965,9 +965,9 @@ Centiméter,Centimetre
 Central Intelligence Agency,Central Intelligence Agency
 Central Park,Central Park
 Centre,Centre
-Cepheus csillagkép,Cepheus (constellation)
-Ceres,Ceres (mythology)
-Ceres (törpebolygó),Ceres (dwarf planet)
+Cepheus csillagkép,Cepheus
+Ceres,Ceres
+Ceres,Ceres
 Cesare Borgia,Cesare Borgia
 Cet csillagkép,Cetus
 Cetek,Cetacea
@@ -981,15 +981,15 @@ Charles Fourier,Charles Fourier
 Charles Thomson Rees Wilson,Charles Thomson Rees Wilson
 Charles de Gaulle,Charles de Gaulle
 Charlie Parker,Charlie Parker
-Charon (hold),Charon (moon)
+Charon,Charon
 Che Guevara,Che Guevara
 Chemnitz,Chemnitz
 Chester A. Arthur,Chester A. Arthur
-Cheyenne (Wyoming),Cheyenne
+Cheyenne,Cheyenne
 Chicago,Chicago
 Chicagói Egyetem,University of Chicago
 Chile,Chile
-Chimborazo,Chimborazo (volcano)
+Chimborazo,Chimborazo
 Chongqing,Chongqing
 Christiaan Huygens,Christiaan Huygens
 Christian Dior,Christian Dior
@@ -997,7 +997,7 @@ Christopher Marlowe,Christopher Marlowe
 Chuck Berry,Chuck Berry
 Cianobaktériumok,Cyanobacteria
 Ciklon,Cyclone
-Cinegefélék,Tit (bird)
+Cinegefélék,Tit
 Cink,Zinc
 Cinnabarit,Cinnabar
 Cionizmus,Zionism
@@ -1041,10 +1041,10 @@ Coulomb,Coulomb
 Coulomb-törvény,Coulomb's law
 Country,Country music
 Csalogány,Nightingale
-Család (rendszertan),Family (biology)
+Család,Family
 Csalánozók,Cnidaria
 Csang Kaj-sek,Chiang Kai-shek
-Csapadék,Precipitation (meteorology)
+Csapadék,Precipitation
 Csatahajó,Battleship
 Csatorna-alagút,Channel Tunnel
 Csavar,Screw
@@ -1059,7 +1059,7 @@ Cseresznye,Cherry
 Cserje,Shrub
 Cserkészet,Scouting
 Csernobil,Chernobyl
-Csiga (gép),Pulley
+Csiga,Pulley
 Csigák,Gastropoda
 Csikló,Clitoris
 Csikóhalak,Seahorse
@@ -1073,11 +1073,11 @@ Csimpánz,Chimpanzee
 Csing-dinasztia,Qing Dynasty
 Csoda,Miracle
 Csokoládé,Chocolate
-Csomó (mértékegység),Knot (speed)
+Csomó,Knot
 Csont,Bone
 Csontos halak,Osteichthyes
-Csoport,Group (mathematics)
-Csoport (egyértelműsítő lap),Group
+Csoport,Group
+Csoport,Group
 Csoportelmélet,Group theory
 Csuka,Northern pike
 Csád,Chad
@@ -1085,7 +1085,7 @@ Csád-tó,Lake Chad
 Császár,Emperor
 Császárpingvin,Emperor Penguin
 Csók,Kiss
-Csóka (madár),Jackdaw
+Csóka,Jackdaw
 Csótányok,Cockroach
 Csütörtök,Thursday
 Csőr,Beak
@@ -1097,7 +1097,7 @@ Curling,Curling
 Curry,Curry
 Cuzco,Cusco
 Cyberpunk,Cyberpunk
-Cygnus (madárnem),Swan
+Cygnus,Swan
 Cápák,Shark
 Cár,Tsar
 Céh,Guild
@@ -1128,11 +1128,11 @@ Dar es-Salaam,Dar es Salaam
 Dardanellák,Dardanelles
 Dardzsiling,Darjeeling
 Darmstadtium,Darmstadtium
-Daru csillagkép,Grus (constellation)
+Daru csillagkép,Grus
 Darualakúak,Gruiformes
-Darufélék,Crane (bird)
+Darufélék,Crane
 Darwin,Darwin
-Darwin (Ausztrália),Darwin
+Darwin,Darwin
 Darázsölyv,Honey Buzzard
 Daugavpils,Daugavpils
 David Hilbert,David Hilbert
@@ -1149,7 +1149,7 @@ Deco,Deco
 Dedukció,Deductive reasoning
 Definíció,Definition
 Defláció,Deflation
-Deimosz (hold),Deimos (moon)
+Deimosz,Deimos
 Deizmus,Deism
 Dekonstrukció,Deconstruction
 Delaware,Delaware
@@ -1157,16 +1157,16 @@ Delfin csillagkép,Delphinus
 Delhi,Delhi
 Dell,Dell
 Delphoi,Delphi
-Delta,Delta (letter)
+Delta,Delta
 Demagógia,Demagogy
 Demográfia,Demography
-Demokrata Párt,Democratic Party (United States)
+Demokrata Párt,Democratic Party
 Demokrácia,Democracy
 Denevérek,Bat
 Deng Xiaoping,Deng Xiaoping
 Dengue-láz,Dengue fever
 Denis Diderot,Denis Diderot
-Denver (Colorado),Denver
+Denver,Denver
 Depresszió,Clinical depression
 Descartes-szorzat,Cartesian product
 Desztilláció,Distillation
@@ -1175,7 +1175,7 @@ Determináns,Determinant
 Detroit,Detroit
 Deutérium,Deuterium
 Deviza,Exchange rate
-Devon (időszak),Devonian
+Devon,Devonian
 Dewey-féle tizedes osztályozás,Dewey Decimal Classification
 Dezoxiribonukleinsav,DNA
 Diadalív,Triumphal arch
@@ -1207,7 +1207,7 @@ Diszlexia,Dyslexia
 Diszprózium,Dysprosium
 Disztópia,Dystopia
 Divat,Fashion
-Divergencia (vektoranalízis),Divergence
+Divergencia,Divergence
 Dizzy Gillespie,Dizzy Gillespie
 Diána walesi hercegné,Diana
 Dió,Walnut
@@ -1224,15 +1224,15 @@ Dodoma,Dodoma
 Dogma,Dogma
 Doha,Doha
 Dohány,Tobacco
-Doktor House,House (TV series)
+Doktor House,House
 Dokumentumszerkesztő,Word processor
 Dolomit,Dolomite
 Dominikai Köztársaság,Dominican Republic
 Dominikai Közösség,Dominica
 Domitianus,Domitian
 Domonkos-rend,Dominican Order
-Domén (rendszertan),Domain (biology)
-Don,Don River (Russia)
+Domén,Domain
+Don,Don River
 Don Quijote,Don Quixote
 Donald kacsa,Donald Duck
 Donyeck,Donetsk
@@ -1243,15 +1243,15 @@ Doris Lessing,Doris Lessing
 Doromb,Jew's harp
 Dortmund,Dortmund
 Douglas MacArthur,Douglas MacArthur
-Dover (Delaware),Dover
+Dover,Dover
 Down-szindróma,Down syndrome
 Drakula,Dracula
 Drezda,Dresden
 Druida,Druid
 Drágakő,Gemstone
 Dráma,Drama
-Dualizmus (filozófia),Dualism
-Dualizmus (filozófia),Dualism (philosophy of mind)
+Dualizmus,Dualism
+Dualizmus,Dualism
 Dubaj,Dubai
 Dublin,Dublin
 Dubnium,Dubnium
@@ -1273,7 +1273,7 @@ Dzsihád,Jihad
 Dzsinn,Genie
 Dzsúdó,Judo
 Dzéta,Zeta
-Dália (virág),Dahlia
+Dália,Dahlia
 Dámajáték,Draughts
 Dán korona,Danish krone
 Dánia,Denmark
@@ -1303,7 +1303,7 @@ Ebola,Ebola
 Ebro,Ebro
 Ecetsav,Acetic acid
 Eckhart mester,Meister Eckhart
-Eclipse,Eclipse (software)
+Eclipse,Eclipse
 Ecuador,Ecuador
 Edgar Allan Poe,Edgar Allan Poe
 Edgar Degas,Edgar Degas
@@ -1318,7 +1318,7 @@ Edvard Grieg,Edvard Grieg
 Edvard Munch,Edvard Munch
 Edward Jenner,Edward Jenner
 Edwin Hubble,Edwin Hubble
-Egyenes,Line (mathematics)
+Egyenes,Line
 Egyenirányító,Rectifier
 Egyenlet,Equation
 Egyenlítő,Equator
@@ -1331,7 +1331,7 @@ Egyesült Nemzetek Szervezete,United Nations
 Egyetem,University
 Egyetemes gázállandó,Gas constant
 Egyezményes koordinált világidő,Coordinated Universal Time
-Egyház,Church (building)
+Egyház,Church
 Egyházmegye,Diocese
 Egyiptom,Egypt
 Egyiptomi font,Egyptian pound
@@ -1341,7 +1341,7 @@ Egyszarvú,Unicorn
 Egyszikűek,Monocotyledon
 Egységmátrix,Identity matrix
 Egzisztencializmus,Existentialism
-Egér (számítástechnika),Mouse (computing)
+Egér,Mouse
 Egész számok,Integer
 Egészség,Health
 Egészségügyi Világszervezet,World Health Organization
@@ -1349,7 +1349,7 @@ Ehnaton,Akhenaten
 Eiffel-torony,Eiffel Tower
 Eindhoven,Eindhoven
 Einsteinium,Einsteinium
-Ekhidna,Echidna (mythology)
+Ekhidna,Echidna
 Ekliptika,Ecliptic
 El Greco,El Greco
 Elba,Elbe
@@ -1379,8 +1379,8 @@ Elizabeth Taylor,Elizabeth Taylor
 Ella Fitzgerald,Ella Fitzgerald
 Ellenanyag,Antibody
 Ellenpont,Counterpoint
-Ellenállás (elektronika),Resistor
-Ellipszis (görbe),Ellipse
+Ellenállás,Resistor
+Ellipszis,Ellipse
 Elmosódott halmazok logikája,Fuzzy logic
 Elnök,President
 Első nikaiai zsinat,First Council of Nicaea
@@ -1391,7 +1391,7 @@ Elám,Elam
 Elégia,Elegy
 Előgerinchúrosok,Tunicate
 Ember,Human
-Ember,Homo (genus)
+Ember,Homo
 Emberszabású majmok,Ape
 Emelő,Lever
 Emilia–Romagna,Emilia-Romagna
@@ -1410,7 +1410,7 @@ Enciklopédia,Encyclopedia
 Endemikus faj,Endemism
 Endokrinológia,Endocrinology
 Energia,Energy
-Energia,Energy (society)
+Energia,Energy
 Enki,Enki
 Enrico Caruso,Enrico Caruso
 Enrico Fermi,Enrico Fermi
@@ -1419,7 +1419,7 @@ Entomológia,Entomology
 Entrópia,Entropy
 Enzim,Enzyme
 Eocén,Eocene
-Eon,Eon (geology)
+Eon,Eon
 Epe,Bile
 Epehólyag,Gallbladder
 Eperfa,Mulberry
@@ -1431,7 +1431,7 @@ Epika,Epic poetry
 Epiktétosz,Epictetus
 Epikurosz,Epicurus
 Epilepszia,Epilepsy
-Epimétheusz,Epimetheus (mythology)
+Epimétheusz,Epimetheus
 Epszilon,Epsilon
 Erasure,Erasure
 Eratoszthenész Pentatlosz,Eratosthenes
@@ -1445,11 +1445,11 @@ Erdő,Forest
 Erebosz,Erebus
 Erekció,Erection
 Eretnek,Heresy
-Eridánusz csillagkép,Eridanus (constellation)
+Eridánusz csillagkép,Eridanus
 Erik Satie,Erik Satie
 Erikavirágúak,Ericales
-Erisz,Eris (mythology)
-Erjedés,Fermentation (biochemistry)
+Erisz,Eris
+Erjedés,Fermentation
 Ernest Hemingway,Ernest Hemingway
 Ernest Rutherford,Ernest Rutherford
 Ernst Werner von Siemens,Ernst Werner von Siemens
@@ -1457,7 +1457,7 @@ Ernyősök,Apiaceae
 Erszényes ördög,Tasmanian Devil
 Erszényesek,Marsupial
 Erwin Rommel,Erwin Rommel
-Erósz,Eros (mythology)
+Erósz,Eros
 Erő,Force
 Erődrendszer,Fortification
 Erőmű,Power station
@@ -1473,7 +1473,7 @@ Esztétika,Aesthetics
 Eső,Rain
 Etanol,Ethanol
 Ethernet,Ethernet
-Etika (filozófia),Ethics
+Etika,Ethics
 Etilén,Ethylene
 Etimológia,Etymology
 Etiópia,Ethiopia
@@ -1487,13 +1487,13 @@ Eufrátesz,Euphrates
 Eugene O’Neill,Eugene O'Neill
 Eukarióták,Eukaryote
 Euklidész,Euclid
-Euler-féle szám,E (mathematical constant)
+Euler-féle szám,E
 Euripidész,Euripides
-Europé (hold),Europa (moon)
+Europé,Europa
 Eurázsia,Eurasia
 Euró,Euro
 Európa,Europe
-Európa (mitológia),Europa (mythology)
+Európa,Europa
 Európai Központi Bank,European Central Bank
 Európai Közösség,European Community
 Európai Unió,European Union
@@ -1506,7 +1506,7 @@ Eva Braun,Eva Braun
 Evangelista Torricelli,Evangelista Torricelli
 Evangélikus egyház,Lutheranism
 Evangélium,Gospel
-Evezés,Rowing (sport)
+Evezés,Rowing
 Evolúció,Evolution
 Excalibur,Excalibur
 Exponenciális függvény,Exponential function
@@ -1519,7 +1519,7 @@ F,F
 F. Scott Fitzgerald,F. Scott Fitzgerald
 FORTRAN programozási nyelv,Fortran
 Fa,Tree
-Fa (anyag),Wood
+Fa,Wood
 Fabula,Fable
 Fado,Fado
 Fafúvós hangszerek,Woodwind instrument
@@ -1530,13 +1530,13 @@ Fahéjfa,Cinnamon
 Faj,Species
 Faktoriális,Factorial
 Fakókeselyű,Griffon Vulture
-Falco (madárnem),Falcon
+Falco,Falcon
 Falkland-szigetek,Falkland Islands
 Falu,Village
 Fanerozoikum,Phanerozoic
 Fantasy,Fantasy
 Farkas,Gray Wolf
-Farkas csillagkép,Lupus (constellation)
+Farkas csillagkép,Lupus
 Farkos kétéltűek,Salamander
 Fasizmus,Fascism
 Fauvizmus,Fauvism
@@ -1550,7 +1550,7 @@ Fecskefélék,Swallow
 Federal Bureau of Investigation,Federal Bureau of Investigation
 Federal Reserve System,Federal Reserve System
 Federico Fellini,Federico Fellini
-Fedora Core,Fedora (Linux distribution)
+Fedora Core,Fedora
 Fegyver,Weapon
 Fehér Ház,White House
 Fehér törpe,White dwarf
@@ -1594,7 +1594,7 @@ Fermium,Fermium
 Ferrara,Ferrara
 Festő csillagkép,Pictor
 Feudalizmus,Feudalism
-Fi,Phi (letter)
+Fi,Phi
 Fiat,Fiat
 Fibonacci-számok,Fibonacci number
 Fidel Castro,Fidel Castro
@@ -1616,7 +1616,7 @@ Flamenco,Flamenco
 Flamingófélék,Flamingo
 Flandria,Flanders
 Flash memória,Flash memory
-Flip-flop (elektronika),Flip-flop (electronics)
+Flip-flop,Flip-flop
 Florence Nightingale,Florence Nightingale
 Florida,Florida
 Fluorit,Fluorite
@@ -1624,9 +1624,9 @@ Fog,Tooth
 Fogaskerék,Gear
 Fogkefe,Toothbrush
 Fogszuvasodás,Dental caries
-Fogyasztás,Consumption (economics)
+Fogyasztás,Consumption
 Fogászat,Dentistry
-Fok#Sz.C3.B6g,Degree (angle)
+Fok#Sz.C3.B6g,Degree
 Fok#Szög,Degree
 Fokhagyma,Garlic
 Fokváros,Cape Town
@@ -1634,14 +1634,14 @@ Folyadék,Liquid
 Folyó,River
 Fonetika,Phonetics
 Fonológia,Phonology
-Font (súlymérték),Pound (mass)
+Font,Pound
 Font sterling,Pound sterling
 Fonéma,Phoneme
 Fordítóprogram,Compiler
 Formaldehid,Formaldehyde
 Formatervezés,Design
 Forradalom,Revolution
-Forrás (átalakulás),Boiling point
+Forrás,Boiling point
 Forráskód,Source code
 Fosszilis tüzelőanyag,Fossil fuel
 Foszfor,Phosphorus
@@ -1667,7 +1667,7 @@ Francisco Pizarro,Francisco Pizarro
 Francium,Francium
 Frank Lloyd Wright,Frank Lloyd Wright
 Frank Sinatra,Frank Sinatra
-Frankfurt (Oder),Frankfurt (Oder)
+Frankfurt,Frankfurt
 Frankfurt am Main,Frankfurt
 Franklin Pierce,Franklin Pierce
 Frans Hals,Frans Hals
@@ -1690,8 +1690,8 @@ Fucking,Fucking
 Fudzsi,Mount Fuji
 Funafuti,Funafuti
 Fundamentalizmus,Fundamentalism
-Futurizmus,Futurism (art)
-Futó (sakk),Bishop (chess)
+Futurizmus,Futurism
+Futó,Bishop
 Fájlrendszer,File system
 Fáraó,Pharaoh
 Félfémek,Metalloid
@@ -1710,8 +1710,8 @@ Föderáció,Federation
 Föld,Earth
 Földgáz,Natural gas
 Földimalac,Aardvark
-Földkéreg,Crust (geology)
-Földköpeny,Mantle (geology)
+Földkéreg,Crust
+Földköpeny,Mantle
 Földközi-tenger,Mediterranean Sea
 Földpátok,Feldspar
 Földrajztudomány,Geography
@@ -1721,7 +1721,7 @@ Fúga,Fugue
 Fúvós hangszerek,Wind instrument
 Független Államok Közössége,Commonwealth of Independent States
 Függetlenség,Independence
-Függvény (matematika),Function (mathematics)
+Függvény,Function
 Függőség,Drug addiction
 Függőség,Addiction
 Fül,Ear
@@ -1730,9 +1730,9 @@ Fülöp edinburgh-i herceg,Prince Philip
 Fülöp-szigetek,Philippines
 Füsti fecske,Barn Swallow
 Főemlősök,Primate
-Főnix,Phoenix (mythology)
-Főnix (egyértelműsítő lap),Phoenix
-Főnix csillagkép,Phoenix (constellation)
+Főnix,Phoenix
+Főnix,Phoenix
+Főnix csillagkép,Phoenix
 Főnév,Noun
 Főváros,Capital
 Fűszer,Spice
@@ -1746,22 +1746,22 @@ Gabon,Gabon
 Gaborone,Gaborone
 Gadolínium,Gadolinium
 Gaetano Donizetti,Gaetano Donizetti
-Gaia,Gaia (mythology)
-Galamb csillagkép,Columba (constellation)
+Gaia,Gaia
+Galamb csillagkép,Columba
 Galambalakúak,Columbiformes
 Galambfélék,Columbidae
 Galandférgek,Cestoda
 Galatia,Galatia
 Galaxis,Galaxy
 Galenit,Galena
-Galicia,Galicia (Spain)
-Galileo,Galileo (spacecraft)
+Galicia,Galicia
+Galileo,Galileo
 Galileo Galilei,Galileo Galilei
 Gallia,Gaul
 Gallium,Gallium
 Gallon,Gallon
 Galénosz,Galen
-Galícia,Galicia (Central Europe)
+Galícia,Galicia
 Gamal Abdel Nasszer,Gamal Abdel Nasser
 Gambia,The Gambia
 Gamma,Gamma
@@ -1769,12 +1769,12 @@ Gamma-sugárzás,Gamma ray
 Gangesz,Ganges
 Gansu,Gansu
 Ganümédész,Ganymede
-Ganümédész (hold),Ganymede (moon)
+Ganümédész,Ganymede
 Garfield,Garfield
 Garonne,Garonne
 Geb,Geb
 Gejzír,Geyser
-Genealógia (történelem),Genealogy
+Genealógia,Genealogy
 Genetika,Genetics
 Genf,Geneva
 Genfi-tó,Lake Geneva
@@ -1808,7 +1808,7 @@ Georges Bizet,Georges Bizet
 Georges Braque,Georges Braque
 Georges Clemenceau,Georges Clemenceau
 Georges Simenon,Georges Simenon
-Georgia,Georgia (U.S. state)
+Georgia,Georgia
 Gepárd,Cheetah
 Gerald Ford,Gerald Ford
 Gergely-naptár,Gregorian calendar
@@ -1855,7 +1855,7 @@ Glükóz,Glucose
 Gnaeus Pompeius Magnus,Pompey
 Gneisz,Gneiss
 Gnoszticizmus,Gnosticism
-Go,Go (board game)
+Go,Go
 Goa,Goa
 Golda Meir,Golda Meir
 Golden Gate híd,Golden Gate Bridge
@@ -1881,7 +1881,7 @@ Graham Greene,Graham Greene
 Gramm,Gram
 Granada,Granada
 Grand Canyon,Grand Canyon
-Grand Slam (tenisz),Grand Slam (tennis)
+Grand Slam,Grand Slam
 Graviton,Graviton
 Gravitáció,Gravitation
 Gravitációs állandó,Gravitational constant
@@ -1896,7 +1896,7 @@ Gránit,Granite
 Grépfrút,Grapefruit
 Grönland,Greenland
 Grönlandi-tenger,Greenland Sea
-Grúzia,Georgia (country)
+Grúzia,Georgia
 Guadalajara,Guadalajara
 Guadeloupe,Guadeloupe
 Guam,Guam
@@ -1938,7 +1938,7 @@ Gyömbér,Ginger
 Gyöngybagoly,Barn Owl
 Gyümölcs,Fruit
 Gyűlölet,Hatred
-Gyűrű (matematika),Ring (mathematics)
+Gyűrű,Ring
 Gyűrűsférgek,Annelid
 Gábor Dénes,Dennis Gabor
 Gábor arkangyal,Gabriel
@@ -1955,7 +1955,7 @@ Góbi-sivatag,Gobi Desert
 Gólyaalakúak,Ciconiiformes
 Gólyafélék,Stork
 Gömb,Sphere
-Görbe (matematika),Curve
+Görbe,Curve
 Görög mitológia,Greek mythology
 Görög ábécé,Greek alphabet
 Görögdinnye,Watermelon
@@ -1990,7 +1990,7 @@ Hajdina,Buckwheat
 Hajlékonylemez,Floppy disk
 Hajó,Ship
 Hajófar csillagkép,Puppis
-Hajógerinc csillagkép,Carina (constellation)
+Hajógerinc csillagkép,Carina
 Hal,Fish
 Halle an der Saale,Halle
 Halloween,Halloween
@@ -2008,7 +2008,7 @@ Hamupipőke,Cinderella
 Han-dinasztia,Han Dynasty
 Hang,Sound
 Hangafélék,Ericaceae
-Hangköz,Interval (music)
+Hangköz,Interval
 Hangsor,Musical scale
 Hangszer,Musical instrument
 Hangszóró,Loudspeaker
@@ -2036,26 +2036,26 @@ Harmadik világ,Third World
 Harmatpont,Dew point
 Harmincéves háború,Thirty Years' War
 Harmonika,Accordion
-Harmónia (zene),Harmony
+Harmónia,Harmony
 Harold Pinter,Harold Pinter
 Harriet Beecher Stowe,Harriet Beecher Stowe
 Harriet Tubman,Harriet Tubman
 Harry Houdini,Harry Houdini
 Harsona,Trombone
-Hartford (Connecticut),Hartford
+Hartford,Hartford
 Hasfelmetsző Jack,Jack the Ripper
 Hasmenés,Diarrhea
 Hasnyálmirigy,Pancreas
 Hasszium,Hassium
 Haszonelvűség,Utilitarianism
-Hasáb,Prism (geometry)
+Hasáb,Prism
 Hatnapos háború,Six-Day War
 Hatszög,Hexagon
-Hattyú csillagkép,Cygnus (constellation)
+Hattyú csillagkép,Cygnus
 Hatvány,Exponentiation
 Határozatlansági reláció,Uncertainty principle
 Határozószó,Adverb
-Határérték,Limit (mathematics)
+Határérték,Limit
 Havanna,Havana
 Hawaii,Hawaii
 Hazafiság,Patriotism
@@ -2071,7 +2071,7 @@ Hegy,Mountain
 Heinrich Himmler,Heinrich Himmler
 Heinrich Schliemann,Heinrich Schliemann
 Hekaté,Hecate
-Hektor (mitológiai alak),Hector
+Hektor,Hector
 Hektár,Hectare
 Helen Keller,Helen Keller
 Helené,Helen
@@ -2082,7 +2082,7 @@ Helyi hálózat,Local area network
 Hematit,Hematite
 Hemofília,Haemophilia
 Hemoglobin,Hemoglobin
-Henger,Cylinder (geometry)
+Henger,Cylinder
 Henri Bergson,Henri Bergson
 Henri Matisse,Henri Matisse
 Henrik Ibsen,Henrik Ibsen
@@ -2097,7 +2097,7 @@ Hepatitis,Hepatitis
 Heraldika,Heraldry
 Herbert Hoover,Herbert Hoover
 Herceg,Duke
-Herkules csillagkép,Hercules (constellation)
+Herkules csillagkép,Hercules
 Herman Melville,Herman Melville
 Hermann Hesse,Hermann Hesse
 Hermann Minkowski,Hermann Minkowski
@@ -2115,17 +2115,17 @@ Hidrogén,Hydrogen
 Hidrogén-cianid,Hydrogen cyanide
 Hidrológia,Hydrology
 Hieronymus Bosch,Hieronymus Bosch
-Higany,Mercury (element)
+Higany,Mercury
 Hilbert-tér,Hilbert space
 Himalája,Himalayas
 Himnusz,Hymn
-Hindu csillagkép,Indus (constellation)
+Hindu csillagkép,Indus
 Hinduizmus,Hinduism
 Hiperbola,Hyperbola
 Hiperszöveg,Hypertext
 Hipnózis,Hypnosis
 Hipotalamusz,Hypothalamus
-Hipparkhosz (csillagász),Hipparchus
+Hipparkhosz,Hipparchus
 Hippi,Hippie
 Hippokratész,Hippocrates
 Hirohito,Hirohito
@@ -2134,7 +2134,7 @@ Hisztidin,Histidine
 Hiszton,Histone
 Hitvalló Eduárd angol király,Edward the Confessor
 Hiénafélék,Hyena
-Hiúz csillagkép,Lynx (constellation)
+Hiúz csillagkép,Lynx
 Ho Si Minh,Ho Chi Minh
 Ho Si Minh-város,Ho Chi Minh City
 Hobart,Hobart
@@ -2146,7 +2146,7 @@ Holdfogyatkozás,Lunar eclipse
 Holland Antillák,Netherlands Antilles
 Hollandia,Netherlands
 Hollywood,Hollywood
-Holló csillagkép,Corvus (constellation)
+Holló csillagkép,Corvus
 Holmium,Holmium
 Holocén,Holocene
 Holográfia,Holography
@@ -2170,7 +2170,7 @@ Honiara,Honiara
 Honolulu,Honolulu
 Hooke-törvény,Hooke's law
 Horatio Nelson,Horatio Nelson
-Hordó (mértékegység),Barrel (unit)
+Hordó,Barrel
 Horizont,Horizon
 Hormon,Hormone
 Horoszkóp,Horoscope
@@ -2179,7 +2179,7 @@ Hossz,Length
 Hosszúszárnyú bálna,Humpback Whale
 Hoszni Mubarak,Hosni Mubarak
 Houston,Houston
-Howard Carter,Howard Carter (archaeologist)
+Howard Carter,Howard Carter
 Hubble-törvény,Hubble's law
 Hufu,Khufu
 Hugenották,Huguenot
@@ -2192,14 +2192,14 @@ Humor,Humour
 Humphrey Bogart,Humphrey Bogart
 Hunan,Hunan
 Husz János,Jan Hus
-Hydra csillagkép,Hydra (constellation)
-Hyperion (hold),Hyperion (moon)
+Hydra csillagkép,Hydra
+Hyperion,Hyperion
 Háború,War
 Hága,The Hague
 Hálaadás,Thanksgiving
-Hálaadás (Thanksgiving),Thanksgiving (United States)
-Hálaadás (Thanksgiving),Thanksgiving (Canada)
-Hálaadás (Thanksgiving),Thanksgiving (disambiguation)
+Hálaadás,Thanksgiving
+Hálaadás,Thanksgiving
+Hálaadás,Thanksgiving
 Háló csillagkép,Reticulum
 Hálózati topológia,Network topology
 Hárem,Harem
@@ -2217,7 +2217,7 @@ Házikecske,Goat
 Háziszamár,Donkey
 Házityúk,Chicken
 Héber írás,Hebrew alphabet
-Hébé (mitológia),Hebe (mythology)
+Hébé,Hebe
 Héja,Goshawk
 Héliosz,Helios
 Hélium,Helium
@@ -2228,7 +2228,7 @@ Héraklész,Heracles
 Hérodotosz,Herodotus
 Hérón,Hero of Alexandria
 Hésziodosz,Hesiod
-Hét (naptár),Week
+Hét,Week
 Hétfő,Monday
 Hétéves háború,Seven Years' War
 Híd,Bridge
@@ -2240,9 +2240,9 @@ Hús,Meat
 Húsevő növények,Carnivorous plant
 Húsvét,Easter
 Hüllők,Reptile
-Hüperión,Hyperion (mythology)
+Hüperión,Hyperion
 Hüpnosz,Hypnos
-Hüvelyk (mértékegység),Inch
+Hüvelyk,Inch
 Hőerőgép,Heat engine
 Hőmérséklet,Temperature
 Hőmérő,Thermometer
@@ -2255,7 +2255,7 @@ I. Justinianus bizánci császár,Justinian I
 I. Kanut dán király,Canute the Great
 I. Klodvig,Clovis I
 I. Lajos francia király,Louis the Pious
-I. Leó bizánci császár,Leo I (emperor)
+I. Leó bizánci császár,Leo I
 I. Oszmán,Osman I
 I. Ottó német-római császár,Otto I
 I. Szeleukosz Nikatór,Seleucus I Nicator
@@ -2275,7 +2275,7 @@ III. Alexandrosz makedón király,Alexander the Great
 IPod,IPod
 IQ,Intelligence quotient
 Ian Fleming,Ian Fleming
-Iapetus (hold),Iapetus (moon)
+Iapetus,Iapetus
 Iaszón,Jason
 Ibuprofén,Ibuprofen
 Ibériai-félsziget,Iberian Peninsula
@@ -2295,7 +2295,7 @@ Ifjabb Plinius,Pliny the Younger
 Igazság,Truth
 Ige,Verb
 Igor Stravinsky,Igor Stravinsky
-Ikrek csillagkép,Gemini (constellation)
+Ikrek csillagkép,Gemini
 Iliász,Iliad
 Illinois,Illinois
 Illyria,Illyria
@@ -2317,7 +2317,7 @@ Indira Gandhi,Indira Gandhi
 Indium,Indium
 Indokína,Indochina
 Indonézia,Indonesia
-Indra (keresztnév),Indra
+Indra,Indra
 Indulatszó,Interjection
 Indus,Indus River
 Influenza,Influenza
@@ -2339,7 +2339,7 @@ Interlingva nyelv,Interlingua
 Internet,Internet
 Intranet,Intranet
 Inzulin,Insulin
-Io,Io (moon)
+Io,Io
 Ion,Ion
 Iowa,Iowa
 Ipar,Industry
@@ -2371,7 +2371,7 @@ Izom,Muscle
 Izomer,Isomer
 Izotóp,Isotope
 Izrael,Israel
-Ió,Io (mythology)
+Ió,Io
 Ióta,Iota
 J,J
 Jack Kerouac,Jack Kerouac
@@ -2408,7 +2408,7 @@ Jane Grey,Lady Jane Grey
 Jangce,Yangtze River
 Janicsár,Janissary
 Janis Joplin,Janis Joplin
-Janus,Janus (mythology)
+Janus,Janus
 Január,January
 Január 1,January 1
 Január 19,January 19
@@ -2417,8 +2417,8 @@ Január 6,January 6
 Japán,Japan
 Japán-tenger,Sea of Japan
 Jasszer Arafat,Yasser Arafat
-Java,Java (disambiguation)
-Java (programozási nyelv),Java (programming language)
+Java,Java
+Java,Java
 Jean Calvin,John Calvin
 Jean Cocteau,Jean Cocteau
 Jean Piaget,Jean Piaget
@@ -2496,17 +2496,17 @@ Jules Verne,Jules Verne
 Julianus Apostata,Julian the Apostate
 Julián naptár,Julian calendar
 Juneau,Juneau
-Juno,Juno (mythology)
+Juno,Juno
 Jupiter,Jupiter
-Jura (időszak),Jurassic
+Jura,Jurassic
 Jurij Alekszejevics Gagarin,Yuri Gagarin
 Jylland,Jutland
 Jáde,Jade
 Jákób,Jacob
 Járványtan,Epidemiology
-Játék (pszichológia),Game
+Játék,Game
 Játékelmélet,Game theory
-Jáva (sziget),Java
+Jáva,Java
 Jávorszarvas,Moose
 Jégkorong,Ice hockey
 Jéna,Jena
@@ -2553,10 +2553,10 @@ Kalifornia,California
 Kalifornium,Californium
 Kalkuttai Teréz anya,Mother Teresa
 Kalligráfia,Calligraphy
-Kalliopé (múzsa),Calliope
-Kallisztó,Callisto (mythology)
-Kallisztó (hold),Callisto (moon)
-Kalüpszó,Calypso (mythology)
+Kalliopé,Calliope
+Kallisztó,Callisto
+Kallisztó,Callisto
+Kalüpszó,Calypso
 Kamat,Interest
 Kambodzsa,Cambodia
 Kambrium,Cambrian
@@ -2573,7 +2573,7 @@ Kantáta,Cantata
 Kanyaró,Measles
 Kanári-szigetek,Canary Islands
 Kapitalizmus,Capitalism
-Kapor (növény),Dill
+Kapor,Dill
 Kappa,Kappa
 Kappadókia,Cappadocia
 Karacsi,Karachi
@@ -2598,478 +2598,478 @@ Karthágó,Carthage
 Kartúm,Khartoum
 Karácsony,Christmas
 Karácsonyfa,Christmas tree
-Karát,Carat (mass)
-Karát,Carat (purity)
+Karát,Carat
+Karát,Carat
 Kasszandra,Cassandra
-Kassziopeia csillagkép,Cassiopeia (constellation)
+Kassziopeia csillagkép,Cassiopeia
 Kaszpi-tenger,Caspian Sea
-Kasztília,Castile (historical region)
+Kasztília,Castile
 Katalónia,Catalonia
 Kataphrakta,Cataphract
 Katar,Qatar
 Katarok,Catharism
-Kategória:1890-es évek,1890s
-Kategória:1900-as évek,1900s
-Kategória:1920-as évek,1920s
-Kategória:1930-as évek,1930s
-Kategória:1940-es évek,1940s
-Kategória:1950-es évek,1950s
-Kategória:1960-as évek,1960s
-Kategória:1970-es évek,1970s
-Kategória:1980-as évek,1980s
-Kategória:1990-es évek,1990s
-Kategória:Abházia,Abkhazia
-Kategória:Afganisztán,Afghanistan
-Kategória:Afrika,Africa
-Kategória:Akusztika,Acoustics
-Kategória:Alabama,Alabama
-Kategória:Alaszka,Alaska
-Kategória:Albánia,Albania
-Kategória:Algebra,Algebra
-Kategória:Algéria,Algeria
-Kategória:Alkímia,Alchemy
-Kategória:Amerikai futball,American football
-Kategória:Anarchizmus,Anarchism
-Kategória:Anatómia,Anatomy
-Kategória:Andorra,Andorra
-Kategória:Anglia,England
-Kategória:Angol nyelv,English language
-Kategória:Angola,Angola
-Kategória:Angolok,English people
-Kategória:Anime,Anime
-Kategória:Antarktisz,Antarctica
-Kategória:Apollo-program,Apollo program
-Kategória:Arab Emírségek,United Arab Emirates
-Kategória:Argentína,Argentina
-Kategória:Arizona,Arizona
-Kategória:Arkansas,Arkansas
-Kategória:Aruba,Aruba
-Kategória:Asztrofizika,Astrophysics
-Kategória:Asztrológia,Astrology
-Kategória:Ateizmus,Atheism
-Kategória:Atlétika,Athletics
-Kategória:Ausztria,Austria
-Kategória:Ausztrália és Óceánia,Oceania
-Kategória:Azerbajdzsán,Azerbaijan
-Kategória:Bahama-szigetek,Bahamas
-Kategória:Bajorország,Bavaria
-Kategória:Barcelona,Barcelona
-Kategória:Baseball,Baseball
-Kategória:Belgium,Belgium
-Kategória:Belize,Belize
-Kategória:Benin,Benin
-Kategória:Berlin,Berlin
-Kategória:Bhután,Bhutan
-Kategória:Biblia,Bible
-Kategória:Biokémia,Biochemistry
-Kategória:Biológia,Biology
-Kategória:Bissau-Guinea,Guinea-Bissau
-Kategória:Bizánci Birodalom,Byzantine Empire
-Kategória:Bolívia,Bolivia
-Kategória:Bor,Wine
-Kategória:Bosznia-Hercegovina,Bosnia and Herzegovina
-Kategória:Botanika,Botany
-Kategória:Botswana,Botswana
-Kategória:Brazília,Brazil
-Kategória:Britek,British people
-Kategória:Brunei,Brunei
-Kategória:Buddhizmus,Buddhism
-Kategória:Bulgária,Bulgaria
-Kategória:Burgonyafélék,Solanaceae
-Kategória:Burkina Faso,Burkina Faso
-Kategória:Burundi,Burundi
-Kategória:Bécs,Vienna
-Kategória:Bútorok,Furniture
-Kategória:Büntetés-végrehajtás,Law enforcement
-Kategória:Chile,Chile
-Kategória:Ciprus,Cyprus
-Kategória:Colorado,Colorado
-Kategória:Comore-szigetek,Comoros
-Kategória:Connecticut,Connecticut
-Kategória:Costa Rica,Costa Rica
-Kategória:Csehország,Czech Republic
-Kategória:Csehszlovákia,Czechoslovakia
-Kategória:Csillagászat,Astronomy
-Kategória:Csád,Chad
-Kategória:Delaware,Delaware
-Kategória:Denevérek,Bats
-Kategória:Diplomácia,Diplomacy
-Kategória:Dominikai Köztársaság,Dominican Republic
-Kategória:Dominikai Közösség,Dominica
-Kategória:Dzsessz,Jazz
-Kategória:Dzsibuti,Djibouti
-Kategória:Dánia,Denmark
-Kategória:Dél-Amerika,South America
-Kategória:Dél-Dakota,South Dakota
-Kategória:Dél-Korea,South Korea
-Kategória:Dél-afrikai Köztársaság,South Africa
-Kategória:ENSZ,United Nations
-Kategória:Ecuador,Ecuador
-Kategória:Egyenlítői-Guinea,Equatorial Guinea
-Kategória:Egyesült Királyság,United Kingdom
-Kategória:Egyiptom,Egypt
-Kategória:Egyértelműsítő lapok,Disambiguation
-Kategória:Elektronika,Electronics
-Kategória:Emésztőrendszer,Digestive system
-Kategória:Endokrinológia,Endocrinology
-Kategória:Eritrea,Eritrea
-Kategória:Eszperantó,Esperanto
-Kategória:Etiópia,Ethiopia
-Kategória:Európa,Europe
-Kategória:Európai Unió,European Union
-Kategória:Fasizmus,Fascism
-Kategória:Fehéroroszország,Belarus
-Kategória:Feröer,Faroe Islands
-Kategória:Filmművészet,Film
-Kategória:Filozófia,Philosophy
-Kategória:Finnország,Finland
-Kategória:Fizika,Physics
-Kategória:Fizikai kémia,Physical chemistry
-Kategória:Florida,Florida
-Kategória:Fogászat,Dentistry
-Kategória:Fonetika,Phonetics
-Kategória:Fotográfia,Photography
-Kategória:Franciaország,France
-Kategória:Franciák,French people
-Kategória:Frankfurt am Main,Frankfurt
-Kategória:Földközi-tenger,Mediterranean
-Kategória:Földrajz,Geography
-Kategória:Fülöp-szigetek,Philippines
-Kategória:Főemlősök,Primates
-Kategória:Gabon,Gabon
-Kategória:Galambalakúak,Columbiformes
-Kategória:Gambia,The Gambia
-Kategória:Genealógia,Genealogy
-Kategória:Genetika,Genetics
-Kategória:Geológia,Geology
-Kategória:Geometria,Geometry
-Kategória:Ghána,Ghana
-Kategória:Gibraltár,Gibraltar
-Kategória:Golf,Golf
-Kategória:Gombák,Fungi
-Kategória:Google,Google
-Kategória:Grönland,Greenland
-Kategória:Grúzia,Georgia (country)
-Kategória:Guatemala,Guatemala
-Kategória:Guinea,Guinea
-Kategória:Guyana,Guyana
-Kategória:Görög mitológia,Greek mythology
-Kategória:Görögország,Greece
-Kategória:Haiti,Haiti
-Kategória:Halak,Fish
-Kategória:Halmazelmélet,Set theory
-Kategória:Halál,Death
-Kategória:Hardver,Computer hardware
-Kategória:Harmadik Birodalom,Nazi Germany
-Kategória:Hawaii,Hawaii
-Kategória:Heavy metal,Heavy metal
-Kategória:Heraldika,Heraldry
-Kategória:Hessen,Hesse
-Kategória:Hidak,Bridges
-Kategória:Hidegháború,Cold War
-Kategória:Hidrológia,Hydrology
-Kategória:Hinduizmus,Hinduism
-Kategória:Hollandia,Netherlands
-Kategória:Hollandok,Dutch people
-Kategória:Honduras,Honduras
-Kategória:Hongkong,Hong Kong
-Kategória:Horvátország,Croatia
-Kategória:Humor,Humor
-Kategória:Háborúk,War
-Kategória:Hártyásszárnyúak,Hymenoptera
-Kategória:I. világháború,World War I
-Kategória:II. világháború,World War II
-Kategória:Idaho,Idaho
-Kategória:Idegrendszer,Nervous system
-Kategória:Idő,Time
-Kategória:Időtartományok,Chronology
-Kategória:Illinois,Illinois
-Kategória:Immunológia,Immunology
-Kategória:India,India
-Kategória:Internet,Internet
-Kategória:Irak,Iraq
-Kategória:Irodalom,Literature
-Kategória:Irán,Iran
-Kategória:Iszlám,Islam
-Kategória:Isztambul,Istanbul
-Kategória:Izland,Iceland
-Kategória:Izrael,Israel
-Kategória:Jamaica,Jamaica
-Kategória:Japán,Japan
-Kategória:Jemen,Yemen
-Kategória:Jog,Law
-Kategória:Jordánia,Jordan
-Kategória:Judaizmus,Judaism
-Kategória:Jugoszlávia,Yugoslavia
-Kategória:Jupiter,Jupiter
-Kategória:Jégkorong,Ice hockey
-Kategória:Kalifornia,California
-Kategória:Kambodzsa,Cambodia
-Kategória:Kamerun,Cameroon
-Kategória:Kanada,Canada
-Kategória:Kategóriák,Fundamental
-Kategória:Kazahsztán,Kazakhstan
-Kategória:Kenya,Kenya
-Kategória:Kereskedelem,Commerce
-Kategória:Kereszténység,Christianity
-Kategória:Kiribati,Kiribati
-Kategória:Klimatológia,Climatology
-Kategória:Kohászat,Metallurgy
-Kategória:Kolumbia,Colombia
-Kategória:Kommunikáció,Communication
-Kategória:Kommunizmus,Communism
-Kategória:Kongó,Republic of the Congo
-Kategória:Kongói Demokratikus Köztársaság,Democratic Republic of the Congo
-Kategória:Korea,Korea
-Kategória:Koszovó,Kosovo
-Kategória:Kosárlabda,Basketball
-Kategória:Kozmológia,Cosmology
-Kategória:Kriminológia,Criminology
-Kategória:Kriptográfia,Cryptography
-Kategória:Kuba,Cuba
-Kategória:Kultúra,Culture
-Kategória:Kurdisztán,Kurdistan
-Kategória:Kuvait,Kuwait
-Kategória:Kávék,Coffee
-Kategória:Kémia,Chemistry
-Kategória:Kína,China
-Kategória:Költészet,Poetry
-Kategória:Közgazdaságtan,Economics
-Kategória:Közlekedés,Transportation
-Kategória:Közép-Amerika,Central America
-Kategória:Közép-afrikai Köztársaság,Central African Republic
-Kategória:Labdarúgás,Football (soccer)
-Kategória:Labdarúgó-stadionok,Football (soccer) venues
-Kategória:Labdarúgócsapatok,Football (soccer) clubs
-Kategória:Labdarúgóedzők,Football (soccer) managers
-Kategória:Labdarúgók,Football (soccer) players
-Kategória:Laosz,Laos
-Kategória:Lengyelország,Poland
-Kategória:Lesotho,Lesotho
-Kategória:Lettország,Latvia
-Kategória:Libanon,Lebanon
-Kategória:Libéria,Liberia
-Kategória:Liechtenstein,Liechtenstein
-Kategória:Lineáris algebra,Linear algebra
-Kategória:Linux,Linux
-Kategória:Litvánia,Lithuania
-Kategória:Logika,Logic
-Kategória:London,London
-Kategória:Luxemburg,Luxembourg
-Kategória:Líbia,Libya
-Kategória:Lúdalakúak,Anseriformes
-Kategória:Madagaszkár,Madagascar
-Kategória:Magfizika,Nuclear physics
-Kategória:Magyarország,Hungary
-Kategória:Makroökonómia,Macroeconomics
-Kategória:Malawi,Malawi
-Kategória:Maldív-szigetek,Maldives
-Kategória:Mali,Mali
-Kategória:Marketing,Marketing
-Kategória:Marokkó,Morocco
-Kategória:Massachusetts,Massachusetts
-Kategória:Matematika,Mathematics
-Kategória:Matematikai logika,Mathematical logic
-Kategória:Mauritius,Mauritius
-Kategória:Mauritánia,Mauritania
-Kategória:Mesterséges intelligencia,Artificial intelligence
-Kategória:Metafizika,Metaphysics
-Kategória:Meteorológia,Meteorology
-Kategória:Mexikó,Mexico
-Kategória:Mezőgazdaság,Agriculture
-Kategória:Mianmar,Burma
-Kategória:Mianmar,Myanmar
-Kategória:Mikronéziai Szövetségi Államok,Federated States of Micronesia
-Kategória:Mikroökonómia,Microeconomics
-Kategória:Minnesota,Minnesota
-Kategória:Mitológia,Mythology
-Kategória:Moldova,Moldova
-Kategória:Molekuláris biológia,Molecular biology
-Kategória:Monaco,Monaco
-Kategória:Mongólia,Mongolia
-Kategória:Montenegró,Montenegro
-Kategória:Moszkva,Moscow
-Kategória:Mozambik,Mozambique
-Kategória:Málta,Malta
-Kategória:Művészet,Arts
-Kategória:Művészettörténet,Art history
-Kategória:Namíbia,Namibia
-Kategória:Naprendszer,Solar System
-Kategória:Nauru,Nauru
-Kategória:Nemzetközi jog,International law
-Kategória:Neurológia,Neurology
-Kategória:Nevada,Nevada
-Kategória:New Jersey,New Jersey
-Kategória:New York,New York City
-Kategória:Nicaragua,Nicaragua
-Kategória:Niger,Niger
-Kategória:Nigéria,Nigeria
-Kategória:Nobel-díj,Nobel Prize
-Kategória:Norvégia,Norway
-Kategória:Nyelvészet,Linguistics
-Kategória:Nyugat-Szahara,Western Sahara
-Kategória:Német nyelv,German language
-Kategória:Németország,Germany
-Kategória:Népirtások,Genocide
-Kategória:Oktatás,Education
-Kategória:Olaszország,Italy
-Kategória:Olimpia,Olympics
-Kategória:Omán,Oman
-Kategória:Onkológia,Oncology
-Kategória:Oroszország,Russia
-Kategória:Orvostudomány,Medicine
-Kategória:Pakisztán,Pakistan
-Kategória:Palau,Palau
-Kategória:Palesztina,Palestine
-Kategória:Panama,Panama
-Kategória:Paraguay,Paraguay
-Kategória:Pennsylvania,Pennsylvania
-Kategória:Peru,Peru
-Kategória:Politika,Politics
-Kategória:Politikatudomány,Political science
-Kategória:Portugália,Portugal
-Kategória:Protiszták,Protista
-Kategória:Prága,Prague
-Kategória:Pszichológia,Psychology
-Kategória:Puerto Rico,Puerto Rico
-Kategória:Punk,Punk
-Kategória:Pápua Új-Guinea,Papua New Guinea
-Kategória:Párizs,Paris
-Kategória:Pénzügy,Finance
-Kategória:Relativitáselmélet,Relativity
-Kategória:Reneszánsz,Renaissance
-Kategória:Retorika,Rhetoric
-Kategória:Rock,Rock music
-Kategória:Románia,Romania
-Kategória:Ruanda,Rwanda
-Kategória:Ruházat,Clothing
-Kategória:Rádió,Radio
-Kategória:Régészet,Archaeology
-Kategória:Részecskefizika,Particle physics
-Kategória:Római mitológia,Roman mythology
-Kategória:Röplabda,Volleyball
-Kategória:Saint Kitts és Nevis,Saint Kitts and Nevis
-Kategória:Saint Vincent,Saint Vincent and the Grenadines
-Kategória:Sakk,Chess
-Kategória:Salvador,El Salvador
-Kategória:San Marino,San Marino
-Kategória:Science fiction,Science fiction
-Kategória:Sebészet,Surgery
-Kategória:Seychelle-szigetek,Seychelles
-Kategória:Sierra Leone,Sierra Leone
-Kategória:Sivatagok,Deserts
-Kategória:Skandináv mitológia,Norse mythology
-Kategória:Skandinávia,Scandinavia
-Kategória:Spanyolok,Spanish people
-Kategória:Spanyolország,Spain
-Kategória:Srí Lanka,Sri Lanka
-Kategória:Statisztika,Statistics
-Kategória:Suriname,Suriname
-Kategória:Svájc,Switzerland
-Kategória:Svájciak,Swiss people
-Kategória:Svédország,Sweden
-Kategória:Szamoa,Samoa
-Kategória:Szaturnusz,Saturn
-Kategória:Szemantika,Semantics
-Kategória:Személyek,People
-Kategória:Szenegál,Senegal
-Kategória:Szerbia,Serbia
-Kategória:Szerbia és Montenegró,Serbia and Montenegro
-Kategória:Szerves kémia,Organic chemistry
-Kategória:Szervetlen kémia,Inorganic chemistry
-Kategória:Szexualitás,Sexuality
-Kategória:Szicília,Sicily
-Kategória:Szingapúr,Singapore
-Kategória:Szlovákia,Slovakia
-Kategória:Szlovénia,Slovenia
-Kategória:Szobrászat,Sculpture
-Kategória:Szociológia,Sociology
-Kategória:Szoftverek,Software
-Kategória:Szomália,Somalia
-Kategória:Szovjetunió,Soviet Union
-Kategória:Szudán,Sudan
-Kategória:Szváziföld,Swaziland
-Kategória:Számok,Numbers
-Kategória:Számítógép-programozás,Computer programming
-Kategória:Számítógép-tudomány,Computer science
-Kategória:Szászország,Saxony
-Kategória:Színházművészet,Theatre
-Kategória:Sörök,Beer
-Kategória:Tajvan,Taiwan
-Kategória:Tanzánia,Tanzania
-Kategória:Tea,Tea
-Kategória:Technika,Technology
-Kategória:Televízió,Television
-Kategória:Tengerszorosok,Straits
-Kategória:Tenisz,Tennis
-Kategória:Tennessee,Tennessee
-Kategória:Teológia,Theology
-Kategória:Természet,Nature
-Kategória:Természetgyógyászat,Alternative medicine
-Kategória:Terrorizmus,Terrorism
-Kategória:Texas,Texas
-Kategória:Thaiföld,Thailand
-Kategória:Tibet,Tibet
-Kategória:Tipográfia,Typography
-Kategória:Togo,Togo
-Kategória:Topológia,Topology
-Kategória:Trinidad és Tobago,Trinidad and Tobago
-Kategória:Tudomány,Science
-Kategória:Tunézia,Tunisia
-Kategória:Turizmus,Tourism
-Kategória:Tuvalu,Tuvalu
-Kategória:Tyúkalakúak,Galliformes
-Kategória:Tádzsikisztán,Tajikistan
-Kategória:Tánc,Dance
-Kategória:Társadalom,Society
-Kategória:Téli olimpiai játékok,Winter Olympic Games
-Kategória:Térképészet,Cartography
-Kategória:Történelem,History
-Kategória:Törökország,Turkey
-Kategória:Türingia,Thuringia
-Kategória:USA,United States
-Kategória:Uganda,Uganda
-Kategória:Ukrajna,Ukraine
-Kategória:Unix,Unix
-Kategória:Uruguay,Uruguay
-Kategória:Utah,Utah
-Kategória:Vallás,Religion
-Kategória:Vanuatu,Vanuatu
-Kategória:Vatikán,Vatican City
-Kategória:Venezuela,Venezuela
-Kategória:Verébalakúak,Passeriformes
-Kategória:Vietnam,Vietnam
-Kategória:Vietnami háború,Vietnam War
-Kategória:Víz,Water
-Kategória:Wales,Wales
-Kategória:Washington állam,Washington
-Kategória:Wyoming,Wyoming
-Kategória:Zambia,Zambia
-Kategória:Zene,Music
-Kategória:Zimbabwe,Zimbabwe
-Kategória:Zoológia,Zoology
-Kategória:Zöld-foki-szigetek,Cape Verde
-Kategória:Áltudományok,Pseudoscience
-Kategória:Ásványtan,Mineralogy
-Kategória:Ázsia,Asia
-Kategória:Égi mechanika,Celestial mechanics
-Kategória:Élettan,Physiology
-Kategória:Építészet,Architecture
-Kategória:Észak-Korea,North Korea
-Kategória:Észak-Írország,Northern Ireland
-Kategória:Észtország,Estonia
-Kategória:Évek,Years
-Kategória:Írek,Irish people
-Kategória:Írország,Republic of Ireland
-Kategória:Ókor,Ancient history
-Kategória:Ökölvívás,Boxing
-Kategória:Ökölvívók,Boxers
-Kategória:Örményország,Armenia
-Kategória:Újságírás,Journalism
-Kategória:Úszás,Swimming
-Kategória:Üzbegisztán,Uzbekistan
-Kategória:Üzletemberek,Businesspeople
-Kategória:Őslénytan,Paleontology
+1890-es évek,1890s
+1900-as évek,1900s
+1920-as évek,1920s
+1930-as évek,1930s
+1940-es évek,1940s
+1950-es évek,1950s
+1960-as évek,1960s
+1970-es évek,1970s
+1980-as évek,1980s
+1990-es évek,1990s
+Abházia,Abkhazia
+Afganisztán,Afghanistan
+Afrika,Africa
+Akusztika,Acoustics
+Alabama,Alabama
+Alaszka,Alaska
+Albánia,Albania
+Algebra,Algebra
+Algéria,Algeria
+Alkímia,Alchemy
+Amerikai futball,American football
+Anarchizmus,Anarchism
+Anatómia,Anatomy
+Andorra,Andorra
+Anglia,England
+Angol nyelv,English language
+Angola,Angola
+Angolok,English people
+Anime,Anime
+Antarktisz,Antarctica
+Apollo-program,Apollo program
+Arab Emírségek,United Arab Emirates
+Argentína,Argentina
+Arizona,Arizona
+Arkansas,Arkansas
+Aruba,Aruba
+Asztrofizika,Astrophysics
+Asztrológia,Astrology
+Ateizmus,Atheism
+Atlétika,Athletics
+Ausztria,Austria
+Ausztrália és Óceánia,Oceania
+Azerbajdzsán,Azerbaijan
+Bahama-szigetek,Bahamas
+Bajorország,Bavaria
+Barcelona,Barcelona
+Baseball,Baseball
+Belgium,Belgium
+Belize,Belize
+Benin,Benin
+Berlin,Berlin
+Bhután,Bhutan
+Biblia,Bible
+Biokémia,Biochemistry
+Biológia,Biology
+Bissau-Guinea,Guinea-Bissau
+Bizánci Birodalom,Byzantine Empire
+Bolívia,Bolivia
+Bor,Wine
+Bosznia-Hercegovina,Bosnia and Herzegovina
+Botanika,Botany
+Botswana,Botswana
+Brazília,Brazil
+Britek,British people
+Brunei,Brunei
+Buddhizmus,Buddhism
+Bulgária,Bulgaria
+Burgonyafélék,Solanaceae
+Burkina Faso,Burkina Faso
+Burundi,Burundi
+Bécs,Vienna
+Bútorok,Furniture
+Büntetés-végrehajtás,Law enforcement
+Chile,Chile
+Ciprus,Cyprus
+Colorado,Colorado
+Comore-szigetek,Comoros
+Connecticut,Connecticut
+Costa Rica,Costa Rica
+Csehország,Czech Republic
+Csehszlovákia,Czechoslovakia
+Csillagászat,Astronomy
+Csád,Chad
+Delaware,Delaware
+Denevérek,Bats
+Diplomácia,Diplomacy
+Dominikai Köztársaság,Dominican Republic
+Dominikai Közösség,Dominica
+Dzsessz,Jazz
+Dzsibuti,Djibouti
+Dánia,Denmark
+Dél-Amerika,South America
+Dél-Dakota,South Dakota
+Dél-Korea,South Korea
+Dél-afrikai Köztársaság,South Africa
+ENSZ,United Nations
+Ecuador,Ecuador
+Egyenlítői-Guinea,Equatorial Guinea
+Egyesült Királyság,United Kingdom
+Egyiptom,Egypt
+Egyértelműsítő lapok,Disambiguation
+Elektronika,Electronics
+Emésztőrendszer,Digestive system
+Endokrinológia,Endocrinology
+Eritrea,Eritrea
+Eszperantó,Esperanto
+Etiópia,Ethiopia
+Európa,Europe
+Európai Unió,European Union
+Fasizmus,Fascism
+Fehéroroszország,Belarus
+Feröer,Faroe Islands
+Filmművészet,Film
+Filozófia,Philosophy
+Finnország,Finland
+Fizika,Physics
+Fizikai kémia,Physical chemistry
+Florida,Florida
+Fogászat,Dentistry
+Fonetika,Phonetics
+Fotográfia,Photography
+Franciaország,France
+Franciák,French people
+Frankfurt am Main,Frankfurt
+Földközi-tenger,Mediterranean
+Földrajz,Geography
+Fülöp-szigetek,Philippines
+Főemlősök,Primates
+Gabon,Gabon
+Galambalakúak,Columbiformes
+Gambia,The Gambia
+Genealógia,Genealogy
+Genetika,Genetics
+Geológia,Geology
+Geometria,Geometry
+Ghána,Ghana
+Gibraltár,Gibraltar
+Golf,Golf
+Gombák,Fungi
+Google,Google
+Grönland,Greenland
+Grúzia,Georgia
+Guatemala,Guatemala
+Guinea,Guinea
+Guyana,Guyana
+Görög mitológia,Greek mythology
+Görögország,Greece
+Haiti,Haiti
+Halak,Fish
+Halmazelmélet,Set theory
+Halál,Death
+Hardver,Computer hardware
+Harmadik Birodalom,Nazi Germany
+Hawaii,Hawaii
+Heavy metal,Heavy metal
+Heraldika,Heraldry
+Hessen,Hesse
+Hidak,Bridges
+Hidegháború,Cold War
+Hidrológia,Hydrology
+Hinduizmus,Hinduism
+Hollandia,Netherlands
+Hollandok,Dutch people
+Honduras,Honduras
+Hongkong,Hong Kong
+Horvátország,Croatia
+Humor,Humor
+Háborúk,War
+Hártyásszárnyúak,Hymenoptera
+I. világháború,World War I
+II. világháború,World War II
+Idaho,Idaho
+Idegrendszer,Nervous system
+Idő,Time
+Időtartományok,Chronology
+Illinois,Illinois
+Immunológia,Immunology
+India,India
+Internet,Internet
+Irak,Iraq
+Irodalom,Literature
+Irán,Iran
+Iszlám,Islam
+Isztambul,Istanbul
+Izland,Iceland
+Izrael,Israel
+Jamaica,Jamaica
+Japán,Japan
+Jemen,Yemen
+Jog,Law
+Jordánia,Jordan
+Judaizmus,Judaism
+Jugoszlávia,Yugoslavia
+Jupiter,Jupiter
+Jégkorong,Ice hockey
+Kalifornia,California
+Kambodzsa,Cambodia
+Kamerun,Cameroon
+Kanada,Canada
+Kategóriák,Fundamental
+Kazahsztán,Kazakhstan
+Kenya,Kenya
+Kereskedelem,Commerce
+Kereszténység,Christianity
+Kiribati,Kiribati
+Klimatológia,Climatology
+Kohászat,Metallurgy
+Kolumbia,Colombia
+Kommunikáció,Communication
+Kommunizmus,Communism
+Kongó,Republic of the Congo
+Kongói Demokratikus Köztársaság,Democratic Republic of the Congo
+Korea,Korea
+Koszovó,Kosovo
+Kosárlabda,Basketball
+Kozmológia,Cosmology
+Kriminológia,Criminology
+Kriptográfia,Cryptography
+Kuba,Cuba
+Kultúra,Culture
+Kurdisztán,Kurdistan
+Kuvait,Kuwait
+Kávék,Coffee
+Kémia,Chemistry
+Kína,China
+Költészet,Poetry
+Közgazdaságtan,Economics
+Közlekedés,Transportation
+Közép-Amerika,Central America
+Közép-afrikai Köztársaság,Central African Republic
+Labdarúgás,Football
+Labdarúgó-stadionok,Football  venues
+Labdarúgócsapatok,Football  clubs
+Labdarúgóedzők,Football  managers
+Labdarúgók,Football  players
+Laosz,Laos
+Lengyelország,Poland
+Lesotho,Lesotho
+Lettország,Latvia
+Libanon,Lebanon
+Libéria,Liberia
+Liechtenstein,Liechtenstein
+Lineáris algebra,Linear algebra
+Linux,Linux
+Litvánia,Lithuania
+Logika,Logic
+London,London
+Luxemburg,Luxembourg
+Líbia,Libya
+Lúdalakúak,Anseriformes
+Madagaszkár,Madagascar
+Magfizika,Nuclear physics
+Magyarország,Hungary
+Makroökonómia,Macroeconomics
+Malawi,Malawi
+Maldív-szigetek,Maldives
+Mali,Mali
+Marketing,Marketing
+Marokkó,Morocco
+Massachusetts,Massachusetts
+Matematika,Mathematics
+Matematikai logika,Mathematical logic
+Mauritius,Mauritius
+Mauritánia,Mauritania
+Mesterséges intelligencia,Artificial intelligence
+Metafizika,Metaphysics
+Meteorológia,Meteorology
+Mexikó,Mexico
+Mezőgazdaság,Agriculture
+Mianmar,Burma
+Mianmar,Myanmar
+Mikronéziai Szövetségi Államok,Federated States of Micronesia
+Mikroökonómia,Microeconomics
+Minnesota,Minnesota
+Mitológia,Mythology
+Moldova,Moldova
+Molekuláris biológia,Molecular biology
+Monaco,Monaco
+Mongólia,Mongolia
+Montenegró,Montenegro
+Moszkva,Moscow
+Mozambik,Mozambique
+Málta,Malta
+Művészet,Arts
+Művészettörténet,Art history
+Namíbia,Namibia
+Naprendszer,Solar System
+Nauru,Nauru
+Nemzetközi jog,International law
+Neurológia,Neurology
+Nevada,Nevada
+New Jersey,New Jersey
+New York,New York City
+Nicaragua,Nicaragua
+Niger,Niger
+Nigéria,Nigeria
+Nobel-díj,Nobel Prize
+Norvégia,Norway
+Nyelvészet,Linguistics
+Nyugat-Szahara,Western Sahara
+Német nyelv,German language
+Németország,Germany
+Népirtások,Genocide
+Oktatás,Education
+Olaszország,Italy
+Olimpia,Olympics
+Omán,Oman
+Onkológia,Oncology
+Oroszország,Russia
+Orvostudomány,Medicine
+Pakisztán,Pakistan
+Palau,Palau
+Palesztina,Palestine
+Panama,Panama
+Paraguay,Paraguay
+Pennsylvania,Pennsylvania
+Peru,Peru
+Politika,Politics
+Politikatudomány,Political science
+Portugália,Portugal
+Protiszták,Protista
+Prága,Prague
+Pszichológia,Psychology
+Puerto Rico,Puerto Rico
+Punk,Punk
+Pápua Új-Guinea,Papua New Guinea
+Párizs,Paris
+Pénzügy,Finance
+Relativitáselmélet,Relativity
+Reneszánsz,Renaissance
+Retorika,Rhetoric
+Rock,Rock music
+Románia,Romania
+Ruanda,Rwanda
+Ruházat,Clothing
+Rádió,Radio
+Régészet,Archaeology
+Részecskefizika,Particle physics
+Római mitológia,Roman mythology
+Röplabda,Volleyball
+Saint Kitts és Nevis,Saint Kitts and Nevis
+Saint Vincent,Saint Vincent and the Grenadines
+Sakk,Chess
+Salvador,El Salvador
+San Marino,San Marino
+Science fiction,Science fiction
+Sebészet,Surgery
+Seychelle-szigetek,Seychelles
+Sierra Leone,Sierra Leone
+Sivatagok,Deserts
+Skandináv mitológia,Norse mythology
+Skandinávia,Scandinavia
+Spanyolok,Spanish people
+Spanyolország,Spain
+Srí Lanka,Sri Lanka
+Statisztika,Statistics
+Suriname,Suriname
+Svájc,Switzerland
+Svájciak,Swiss people
+Svédország,Sweden
+Szamoa,Samoa
+Szaturnusz,Saturn
+Szemantika,Semantics
+Személyek,People
+Szenegál,Senegal
+Szerbia,Serbia
+Szerbia és Montenegró,Serbia and Montenegro
+Szerves kémia,Organic chemistry
+Szervetlen kémia,Inorganic chemistry
+Szexualitás,Sexuality
+Szicília,Sicily
+Szingapúr,Singapore
+Szlovákia,Slovakia
+Szlovénia,Slovenia
+Szobrászat,Sculpture
+Szociológia,Sociology
+Szoftverek,Software
+Szomália,Somalia
+Szovjetunió,Soviet Union
+Szudán,Sudan
+Szváziföld,Swaziland
+Számok,Numbers
+Számítógép-programozás,Computer programming
+Számítógép-tudomány,Computer science
+Szászország,Saxony
+Színházművészet,Theatre
+Sörök,Beer
+Tajvan,Taiwan
+Tanzánia,Tanzania
+Tea,Tea
+Technika,Technology
+Televízió,Television
+Tengerszorosok,Straits
+Tenisz,Tennis
+Tennessee,Tennessee
+Teológia,Theology
+Természet,Nature
+Természetgyógyászat,Alternative medicine
+Terrorizmus,Terrorism
+Texas,Texas
+Thaiföld,Thailand
+Tibet,Tibet
+Tipográfia,Typography
+Togo,Togo
+Topológia,Topology
+Trinidad és Tobago,Trinidad and Tobago
+Tudomány,Science
+Tunézia,Tunisia
+Turizmus,Tourism
+Tuvalu,Tuvalu
+Tyúkalakúak,Galliformes
+Tádzsikisztán,Tajikistan
+Tánc,Dance
+Társadalom,Society
+Téli olimpiai játékok,Winter Olympic Games
+Térképészet,Cartography
+Történelem,History
+Törökország,Turkey
+Türingia,Thuringia
+USA,United States
+Uganda,Uganda
+Ukrajna,Ukraine
+Unix,Unix
+Uruguay,Uruguay
+Utah,Utah
+Vallás,Religion
+Vanuatu,Vanuatu
+Vatikán,Vatican City
+Venezuela,Venezuela
+Verébalakúak,Passeriformes
+Vietnam,Vietnam
+Vietnami háború,Vietnam War
+Víz,Water
+Wales,Wales
+Washington állam,Washington
+Wyoming,Wyoming
+Zambia,Zambia
+Zene,Music
+Zimbabwe,Zimbabwe
+Zoológia,Zoology
+Zöld-foki-szigetek,Cape Verde
+Áltudományok,Pseudoscience
+Ásványtan,Mineralogy
+Ázsia,Asia
+Égi mechanika,Celestial mechanics
+Élettan,Physiology
+Építészet,Architecture
+Észak-Korea,North Korea
+Észak-Írország,Northern Ireland
+Észtország,Estonia
+Évek,Years
+Írek,Irish people
+Írország,Republic of Ireland
+Ókor,Ancient history
+Ökölvívás,Boxing
+Ökölvívók,Boxers
+Örményország,Armenia
+Újságírás,Journalism
+Úszás,Swimming
+Üzbegisztán,Uzbekistan
+Üzletemberek,Businesspeople
+Őslénytan,Paleontology
 Katharine Hepburn,Katharine Hepburn
 Katicabogarak,Coccinellidae
 Katmandu,Kathmandu
@@ -3110,11 +3110,11 @@ Kerékpár,Bicycle
 Keton,Ketone
 Kettőscsillag,Binary star
 Kettőshangzó,Diphthong
-Khaosz,Chaos (mythology)
-Kharón,Charon (mythology)
+Khaosz,Chaos
+Kharón,Charon
 Kheirón,Chiron
-Khi,Chi (letter)
-Khimaira,Chimera (mythology)
+Khi,Chi
+Khimaira,Chimera
 Kibernetika,Cybernetics
 Kibuc,Kibbutz
 Kigali,Kigali
@@ -3138,8 +3138,8 @@ Kis Pippin,Pepin the Short
 Kis Róka csillagkép,Vulpecula
 Kisagy,Cerebellum
 Kisbolygó,Asteroid
-Kislemez,Single (music)
-Kiszolgáló,Server (computing)
+Kislemez,Single
+Kiszolgáló,Server
 Kitalált szereplő,Fictional character
 Kitin,Chitin
 Kitioni Zénón,Zeno of Citium
@@ -3187,12 +3187,12 @@ Kompozit anyagok,Composite material
 Komputertomográfia,Computed tomography
 Komédia,Comedy
 Koncentráció,Concentration
-Kondenzátor (elektronika),Capacitor
+Kondenzátor,Capacitor
 Konfliktus,Conflict
 Konfucianizmus,Confucianism
 Konfucius,Confucius
 Kongó,Congo
-Kongó (folyó),Congo River
+Kongó,Congo River
 Kongói Demokratikus Köztársaság,Democratic Republic of the Congo
 Kongói Köztársaság,Republic of the Congo
 Konkvisztádor,Conquistador
@@ -3211,11 +3211,11 @@ Koppenhága,Copenhagen
 Koreai háború,Korean War
 Koriander,Coriander
 Korinthosz,Corinth
-Kormány (állami szerv),Government
+Kormány,Government
 Korund,Corundum
 Korvett,Corvette
 Korzika,Corsica
-Kos csillagkép,Aries (constellation)
+Kos csillagkép,Aries
 Kosborfélék,Orchidaceae
 Koszovó,Kosovo
 Kosárlabda,Basketball
@@ -3236,7 +3236,7 @@ Kromatin,Chromatin
 Kromatográfia,Chromatography
 Kromoszóma,Chromosome
 Kréta,Crete
-Kréta (időszak),Cretaceous
+Kréta,Cretaceous
 Krím,Crimea
 Krími háború,Crimean War
 Króm,Chromium
@@ -3297,7 +3297,7 @@ Kína,People's Republic of China
 Kínai nagy fal,Great Wall of China
 Kísértet,Ghost
 Kóbe,Kobe
-Kókusz (Keeling)-szigetek,Cocos (Keeling) Islands
+Kókusz -szigetek,Cocos  Islands
 Köbméter,Cubic metre
 Köd,Fog
 Köln,Cologne
@@ -3309,9 +3309,9 @@ Kör,Circle
 Környezetszennyezés,Pollution
 Körte,Pear
 Körző csillagkép,Circinus
-Köröm,Nail (anatomy)
+Köröm,Nail
 Körülmetélés,Circumcision
-Kötvény,Bond (finance)
+Kötvény,Bond
 Közeg,Fluid
 Közel-Kelet,Middle East
 Közgazdaságtan,Economics
@@ -3326,24 +3326,24 @@ Középkor,Middle Ages
 Közönséges barázdásbálna,Fin Whale
 Közönséges cickafark,Achillea millefolium
 Közösülés,Sexual intercourse
-Kúp,Cone (geometry)
+Kúp,Cone
 Kúpszelet,Conic section
 Küklopszok,Cyclops
 Kükládok,Cyclades
-Kürt (hangszer),Horn (instrument)
+Kürt,Horn
 Kő-papír-olló,Rock
 Kőolaj,Petroleum
-Kőzet,Rock (geology)
+Kőzet,Rock
 Kőzettan,Petrology
 Kűrium,Curium
 L,L
-LAMP (szoftvercsomag),LAMP (software bundle)
+LAMP,LAMP
 LEGO,Lego
 LSD,Lysergic acid diethylamide
 La Manche,English Channel
 La Paz,La Paz
 LaTeX,LaTeX
-Labdarúgás,Football (soccer)
+Labdarúgás,Football
 Labdarúgókapus,Goalkeeper
 Labrador retriever,Labrador Retriever
 Ladoga-tó,Lake Ladoga
@@ -3381,7 +3381,7 @@ Lengyelország,Poland
 Leonardo da Vinci,Leonardo da Vinci
 Leonhard Euler,Leonhard Euler
 Leonyid Iljics Brezsnyev,Leonid Brezhnev
-Lepantói csata,Battle of Lepanto (1571)
+Lepantói csata,Battle of Lepanto
 Lepkék,Lepidoptera
 Lepra,Leprosy
 Lepton,Lepton
@@ -3390,7 +3390,7 @@ Leszbikusság,Lesbian
 Lettország,Latvia
 Leukémia,Leukemia
 Lev Davidovics Trockij,Leon Trotsky
-Levél (növény),Leaf
+Levél,Leaf
 Lewis Carroll,Lewis Carroll
 Lhásza,Lhasa
 Libanon,Lebanon
@@ -3405,13 +3405,13 @@ Lilealakúak,Charadriiformes
 Lille,Lille
 Lilongwe,Lilongwe
 Lima,Lima
-Limousin,Limousin (region)
+Limousin,Limousin
 Lineáris algebra,Linear algebra
 Linux,Linux
 Linz,Linz
 Lipcse,Leipzig
 Lise Meitner,Lise Meitner
-Lisp,Lisp (programming language)
+Lisp,Lisp
 Lisszabon,Lisbon
 Liszt,Flour
 Liszt Ferenc,Franz Liszt
@@ -3439,7 +3439,7 @@ London,London
 Londoni Tower,Tower of London
 Lope de Vega,Lope de Vega
 Los Angeles,Los Angeles
-Lotaringia,Lorraine (region)
+Lotaringia,Lorraine
 Louis Armstrong,Louis Armstrong
 Louis Pasteur,Louis Pasteur
 Louisiana,Louisiana
@@ -3457,22 +3457,22 @@ Ludwig Wittgenstein,Ludwig Wittgenstein
 Ludwig van Beethoven,Ludwig van Beethoven
 Luigi Pirandello,Luigi Pirandello
 Lukács evangéliuma,Gospel of Luke
-Lumen,Lumen (unit)
+Lumen,Lumen
 Lund,Lund
 Lusaka,Lusaka
-Lusitania (római provincia),Lusitania
+Lusitania,Lusitania
 Lutécium,Lutetium
-Luxembourg,Luxembourg (city)
+Luxembourg,Luxembourg
 Luxemburg,Luxembourg
 Luxor,Luxor
 Luzern,Lucerne
 Lyon,Lyon
-Láb (mértékegység),Foot (unit of length)
+Láb,Foot
 Láma,Llama
 Lárva,Larva
 Láva,Lava
 Láz,Fever
-Léda (mitológia),Leda (mythology)
+Léda,Leda
 Légi közlekedés,Aviation
 Légitársaság,Airline
 Légió,Roman legion
@@ -3483,7 +3483,7 @@ Légyölő galóca,Amanita muscaria
 Légzőrendszer,Respiratory system
 Lélek,Soul
 Lélekvándorlás,Reincarnation
-Léna (folyó),Lena River
+Léna,Lena River
 Lénárd Fülöp,Philipp Lenard
 Lépfene,Anthrax
 Létó,Leto
@@ -3513,9 +3513,9 @@ Macskafélék,Felidae
 Madagaszkár,Madagascar
 Madarak,Bird
 Madeira,Madeira
-Madonna (énekesnő),Madonna (entertainer)
+Madonna,Madonna
 Madrid,Madrid
-Madrid tartomány,Madrid (autonomous community)
+Madrid tartomány,Madrid
 Maffia,Mafia
 Mag,Seed
 Magas vérnyomás,Hypertension
@@ -3556,13 +3556,13 @@ Man,Isle of Man
 Managua,Managua
 Manchester,Manchester
 Mandala,Mandala
-Mandarin nyelv,Mandarin (linguistics)
+Mandarin nyelv,Mandarin
 Mandelbrot-halmaz,Mandelbrot set
 Mandula,Almond
 Mangán,Manganese
 Manhattan,Manhattan
 Manhattan-terv,Manhattan Project
-Manierizmus (művészet),Mannerism
+Manierizmus,Mannerism
 Manila,Manila
 Manipur,Manipur
 Mannheim,Mannheim
@@ -3599,7 +3599,7 @@ Marketing,Marketing
 Marlene Dietrich,Marlene Dietrich
 Marokkó,Morocco
 Marrákes,Marrakech
-Mars (egyértelműsítő lap),Mars (disambiguation)
+Mars,Mars
 Marseille,Marseille
 Marshall-szigetek,Marshall Islands
 Marshall-terv,Marshall Plan
@@ -3658,14 +3658,14 @@ Mellékvese,Adrenal gland
 Melpomené,Melpomene
 Memphisz,Memphis
 Mendelévium,Mendelevium
-Menelaosz (mitológia),Menelaus
+Menelaosz,Menelaus
 Menyétfélék,Mustelidae
 Merkantilizmus,Mercantilism
-Merkúr,Mercury (planet)
+Merkúr,Mercury
 Merovingok,Merovingian
 Meryl Streep,Meryl Streep
 Mese,Fairy tale
-Messier 45,Pleiades (star cluster)
+Messier 45,Pleiades
 Messina,Messina
 Messinai-szoros,Strait of Messina
 Messiás,Messiah
@@ -3687,7 +3687,7 @@ Meteorraj,Meteor shower
 Metionin,Methionine
 Metonímia,Metonymy
 Metrikus tér,Metric space
-Metszet (halmazelmélet),Intersection (set theory)
+Metszet,Intersection
 Mexikó,Mexico
 Mexikói-öböl,Gulf of Mexico
 Mexikóváros,Mexico City
@@ -3733,7 +3733,7 @@ Minaret,Minaret
 Minerva,Minerva
 Ming-dinasztia,Ming Dynasty
 Minimal art,Minimalism
-Miniszter,Minister (government)
+Miniszter,Minister
 Miniszterelnök,Prime minister
 Minneapolis,Minneapolis
 Minnesota,Minnesota
@@ -3743,7 +3743,7 @@ Minószi civilizáció,Minoan civilization
 Minótaurosz,Minotaur
 Miocén,Miocene
 Misna,Mishnah
-Mississippi (folyó),Mississippi River
+Mississippi,Mississippi River
 Missouri,Missouri
 Mitokondrium,Mitochondrion
 Mitológia,Mythology
@@ -3769,7 +3769,7 @@ Mongólia,Mongolia
 Mongúzfélék,Mongoose
 Monitor,Computer display
 Monizmus,Monism
-Monopoly,Monopoly (game)
+Monopoly,Monopoly
 Monopólium,Monopoly
 Monrovia,Monrovia
 Mons,Mons
@@ -3778,12 +3778,12 @@ Montana,Montana
 Monte Carlo,Monte Carlo
 Montenegró,Montenegro
 Montevideo,Montevideo
-Montgomery (Alabama),Montgomery
-Montpelier (Vermont),Montpelier
+Montgomery,Montgomery
+Montpelier,Montpelier
 Montreal,Montreal
 Montserrat,Montserrat
 Morfin,Morphine
-Morfológia (nyelvtan),Morphology (linguistics)
+Morfológia,Morphology
 Morféma,Morpheme
 Morus Tamás,Thomas More
 Morvaország,Moravia
@@ -3803,7 +3803,7 @@ Mozgási energia,Kinetic energy
 Multimédia,Multimedia
 Mumbai,Mumbai
 Munkanélküliség,Unemployment
-Munkáspárt (Egyesült Királyság),Labour Party (UK)
+Munkáspárt,Labour Party
 Murmanszk,Murmansk
 Murray Gell-Mann,Murray Gell-Mann
 Muskéta,Musket
@@ -3834,24 +3834,24 @@ Második vatikáni zsinat,Second Vatican Council
 Második világháború,World War II
 Másodperc,Second
 Mássalhangzó,Consonant
-Mátrix (matematika),Matrix (mathematics)
+Mátrix,Matrix
 Médeia,Medea
-Méh (szerv),Uterus
+Méh,Uterus
 Méhek,Bee
 Méreg,Poison
 Mérföld,Mile
-Mérleg (számvitel),Balance sheet
+Mérleg,Balance sheet
 Mérnöki tudomány,Engineering
 Mértani sorozat,Geometric progression
-Mérték (matematika),Measure (mathematics)
+Mérték,Measure
 Mérés,Measurement
-Mészkő (kőzet),Limestone
+Mészkő,Limestone
 Méter,Metre
-Métisz (hold),Metis (moon)
+Métisz,Metis
 Méz,Honey
 Mítosz,Myth
 Mókusfélék,Sciuridae
-Mól,Mole (unit)
+Mól,Mole
 Móse Dajan,Moshe Dayan
 Mózes,Moses
 Mózes első könyve,Genesis
@@ -3890,14 +3890,14 @@ Nagygép,Mainframe computer
 Nagylemez,Album
 Nagypéntek,Good Friday
 Nairobi,Nairobi
-Namur,Namur (city)
+Namur,Namur
 Namíbia,Namibia
 Nancy,Nancy
 Nanga Parbat,Nanga Parbat
 Nanjing,Nanjing
 Nanotechnológia,Nanotechnology
 Nap,Sun
-Nap (időegység),Day
+Nap,Day
 Napelem,Solar cell
 Napenergia,Solar energy
 Napfogyatkozás,Eclipse
@@ -3910,10 +3910,10 @@ Napszél,Solar wind
 Naptár,Calendar
 Napéjegyenlőség,Equinox
 Napóleoni háborúk,Napoleonic Wars
-Narancs,Orange (fruit)
-Narkisszosz,Narcissus (mythology)
+Narancs,Orange
+Narkisszosz,Narcissus
 Nashville,Nashville
-Nassau (Bahama-szigetek),Nassau
+Nassau,Nassau
 Nathaniel Hawthorne,Nathaniel Hawthorne
 Naturizmus,Naturism
 Nauru,Nauru
@@ -3925,10 +3925,10 @@ Negyedkor,Quaternary
 Nehézvíz,Heavy water
 Neil Armstrong,Neil Armstrong
 Nelson Mandela,Nelson Mandela
-Nem (nyelvészet),Grammatical gender
+Nem,Grammatical gender
 Nemeai oroszlán,Nemean Lion
 Nemesgáz,Noble gas
-Nemeszisz,Nemesis (mythology)
+Nemeszisz,Nemesis
 Nemfémek,Nonmetal
 Nemzet,Nation
 Nemzeti himnusz,National anthem
@@ -3939,7 +3939,7 @@ Nemzetközi Munkaügyi Szervezet,International Labour Organization
 Nemzetközi Valutaalap,International Monetary Fund
 Nemzetközi szerződés,Treaty
 Nemzetközösség,Commonwealth of Nations
-Nemzetség (rendszertan),Genus
+Nemzetség,Genus
 Neodímium,Neodymium
 Neolitikum,Neolithic
 Neologizmus,Neologism
@@ -3949,7 +3949,7 @@ Nepthüsz,Nephthys
 Neptunusz,Neptune
 Neptúnium,Neptunium
 Nepál,Nepal
-Nereida (hold),Nereid (moon)
+Nereida,Nereid
 Nero,Nero
 Nerva,Nerva
 Neumann János,John von Neumann
@@ -3964,11 +3964,11 @@ New Hampshire,New Hampshire
 New Jersey,New Jersey
 New Orleans,New Orleans
 New York,New York City
-New York (egyértelműsítő lap),New York (disambiguation)
-New York (állam),New York
+New York,New York
+New York,New York
 New York Stock Exchange,New York Stock Exchange
 Newport,Newport
-Newton (mértékegység),Newton
+Newton,Newton
 Niacin,Niacin
 Niagara-vízesés,Niagara Falls
 Niamey,Niamey
@@ -3979,7 +3979,7 @@ Nicosia,Nicosia
 Niels Bohr,Niels Bohr
 Niels Henrik Abel,Niels Henrik Abel
 Niger,Niger
-Niger (folyó),Niger River
+Niger,Niger River
 Nigéria,Nigeria
 Nihilizmus,Nihilism
 "Nike, Inc.",Nike
@@ -3987,11 +3987,11 @@ Nikkel,Nickel
 Nikola Tesla,Nikola Tesla
 Nikolausz Kopernikusz,Nicolaus Copernicus
 Nikotin,Nicotine
-Niké,Nike (mythology)
+Niké,Nike
 Nimfák,Nymph
 Ninive,Nineveh
 Nitrogén,Nitrogen
-Nix (hold),Nix (moon)
+Nix,Nix
 Nizza,Nice
 Nióbium,Niobium
 Noam Chomsky,Noam Chomsky
@@ -4023,12 +4023,12 @@ Numidia,Numidia
 Numizmatika,Numismatics
 Nyaktiló,Guillotine
 Nyelv,Language
-Nyelv (testrész),Tongue
+Nyelv,Tongue
 Nyelvtan,Grammar
 Nyelvészet,Linguistics
 Nyestkutya,Raccoon Dog
 Nyikita Szergejevics Hruscsov,Nikita Khrushchev
-Nyilas csillagkép,Sagittarius (constellation)
+Nyilas csillagkép,Sagittarius
 Nyitvatermők,Gymnosperm
 Nyolcas számrendszer,Octal
 Nyomaték,Torque
@@ -4047,7 +4047,7 @@ Nyári lúd,Greylag Goose
 Nyíl,Arrow
 Nyílvessző csillagkép,Sagitta
 Nyírfa,Birch
-Nyúl csillagkép,Lepus (constellation)
+Nyúl csillagkép,Lepus
 Nyúlalakúak,Lagomorpha
 Nápoly,Naples
 Nátrium,Sodium
@@ -4056,7 +4056,7 @@ Nátrium-hidroxid,Sodium hydroxide
 Nátrium-klorid,Sodium chloride
 Négylábúak,Tetrapod
 Négyszög,Quadrilateral
-Négyzet,Square (geometry)
+Négyzet,Square
 Négyzetméter,Square metre
 Német Demokratikus Köztársaság,East Germany
 Német juhászkutya,German Shepherd Dog
@@ -4079,7 +4079,7 @@ Növények,Plant
 Nürnberg,Nuremberg
 Nő,Woman
 Nőgyógyászat,Gynaecology
-Nű,Nu (letter)
+Nű,Nu
 N’Djamena,N'Djamena
 O,O
 OPEC,OPEC
@@ -4108,7 +4108,7 @@ Oktáv,Octave
 Október,October
 Október 12,October 12
 Október 24,October 24
-Olaj,Oil (disambiguation)
+Olaj,Oil
 Olajfesték,Oil painting
 Olaszország,Italy
 Oldat,Solution
@@ -4119,9 +4119,9 @@ Oliver Cromwell,Oliver Cromwell
 Oliver Stone,Oliver Stone
 Olivin,Olivine
 Olló,Scissors
-Oltár csillagkép,Ara (constellation)
+Oltár csillagkép,Ara
 Olvadáspont,Melting point
-Olympia (Washington),Olympia
+Olympia,Olympia
 Olívaolaj,Olive oil
 Olümposz,Mount Olympus
 Omikron,Omicron
@@ -4130,22 +4130,22 @@ Omán,Oman
 Ontológia,Ontology
 Oort-felhő,Oort cloud
 Opel,Opel
-Opera (színmű),Opera
-Opera (webböngésző),Opera (Internet suite)
+Opera,Opera
+Opera,Opera
 Operett,Operetta
 Operációs rendszer,Operating system
 Optika,Optics
-Optikai lencse,Lens (optics)
+Optikai lencse,Lens
 Optikai szál,Optical fiber
 Opál,Opal
 Orangután,Orangutan
 Oratórium,Oratorio
 Ordovícium,Ordovician
 Oregon,Oregon
-Oresztész,Orestes (mythology)
+Oresztész,Orestes
 Orgazmus,Orgasm
-Orgona (hangszer),Organ (music)
-Orion csillagkép,Orion (constellation)
+Orgona,Organ
+Orion csillagkép,Orion
 Orisza,Orissa
 Orosz Ortodox Egyház,Russian Orthodox Church
 Oroszlán,Lion
@@ -4165,7 +4165,7 @@ Ostrava,Ostrava
 Oszama bin Laden,Osama bin Laden
 Oszmán Birodalom,Ottoman Empire
 Osztrák–Magyar Monarchia,Austria-Hungary
-Osztály (rendszertan),Class (biology)
+Osztály,Class
 Othello,Othello
 Otho,Otho
 Ottawa,Ottawa
@@ -4208,7 +4208,7 @@ Paprika,Capsicum
 Papírsárkány,Kite
 Parabola,Parabola
 Paracelsus,Paracelsus
-Paradicsom (növény),Tomato
+Paradicsom,Tomato
 Paradicsommadár csillagkép,Apus
 Paradigma,Paradigm
 Paradoxon,Paradox
@@ -4224,8 +4224,8 @@ Parszek,Parsec
 Parthenón,Parthenon
 Parthusok,Parthia
 Pascal,Pascal
-Pascal (mértékegység),Pascal (unit)
-Pascal (programozási nyelv),Pascal (programming language)
+Pascal,Pascal
+Pascal,Pascal
 Pasztörizálás,Pasteurization
 Patkóbél,Duodenum
 Patológia,Pathology
@@ -4238,7 +4238,7 @@ Paul Verlaine,Paul Verlaine
 Paul von Hindenburg,Paul von Hindenburg
 Pauli-elv,Pauli exclusion principle
 Pedofília,Pedophilia
-Pegazus csillagkép,Pegasus (constellation)
+Pegazus csillagkép,Pegasus
 Peking,Beijing
 Peloponnészosz,Peloponnese
 Peloponészoszi háború,Peloponnesian War
@@ -4251,15 +4251,15 @@ Peresztrojka,Perestroika
 Pergamen,Parchment
 Periklész,Pericles
 Periódusos rendszer,Periodic table
-Periódusos rendszerbeli periódus,Period (periodic table)
+Periódusos rendszerbeli periódus,Period
 Perm,Perm
-Perm (időszak),Permian
+Perm,Permian
 Permafroszt,Permafrost
 Permutáció,Permutation
 Perszephoné,Persephone
 Perszepolisz,Persepolis
-Perszeusz (mitológia),Perseus
-Perszeusz csillagkép,Perseus (constellation)
+Perszeusz,Perseus
+Perszeusz csillagkép,Perseus
 Perth,Perth
 Peru,Peru
 Perzsa Birodalom,Persian Empire
@@ -4268,27 +4268,27 @@ Pestis,Bubonic plague
 Peter Paul Rubens,Peter Paul Rubens
 Petrezselyem,Parsley
 Petrović Njegoš,Nicholas
-Pezsgő,Champagne (wine)
+Pezsgő,Champagne
 Phenjan,Pyongyang
 Philadelphia,Philadelphia
 Phnompen,Phnom Penh
-Phobosz (hold),Phobos (moon)
+Phobosz,Phobos
 Phoenix,Phoenix
-Phoenix űrszonda,Phoenix (spacecraft)
-Pi (betű),Pi (letter)
-Pi (szám),Pi
+Phoenix űrszonda,Phoenix
+Pi,Pi
+Pi,Pi
 Piac,Market
-Pidgin (program),Pidgin (software)
+Pidgin,Pidgin
 Pidzsin nyelvek,Pidgin
 Piemont,Piedmont
-Pierre (Dél-Dakota),Pierre
+Pierre,Pierre
 Pierre de Fermat,Pierre de Fermat
 Piet Mondrian,Piet Mondrian
 Pieter Zeeman,Pieter Zeeman
 Pikkelyes hüllők,Squamata
 Pikkelysömör,Psoriasis
 Pikárdia,Picardie
-Pillangóhatás (elmélet),Butterfly effect
+Pillangóhatás,Butterfly effect
 Pindarosz,Pindar
 Ping,Ping
 Pingvinfélék,Penguin
@@ -4304,7 +4304,7 @@ Plankton,Plankton
 Platina,Platinum
 Platón,Plato
 Playboy,Playboy
-Plazma,Plasma (physics)
+Plazma,Plasma
 Pleisztocén,Pleistocene
 Pliocén,Pliocene
 Plovdiv,Plovdiv
@@ -4313,7 +4313,7 @@ Plutónium,Plutonium
 Plzeň,Pilsen
 Plágium,Plagiarism
 Plútó,Pluto
-Plútó (egyértelműsítő lap),Pluto (disambiguation)
+Plútó,Pluto
 Podcasting,Podcast
 Pogrom,Pogrom
 Pogányság,Paganism
@@ -4335,7 +4335,7 @@ Polónium,Polonium
 Polühümnia,Polyhymnia
 Pompeii,Pompeii
 Poncius Pilátus,Pontius Pilate
-Pont (geometria),Point (geometry)
+Pont,Point
 Pontosvessző,Semicolon
 Pontyalakúak,Cypriniformes
 Pontyfélék,Cyprinid
@@ -4353,15 +4353,15 @@ Port of Spain,Port of Spain
 Port-au-Prince,Port-au-Prince
 Porto,Porto
 Portugália,Portugal
-Portál:Biológia,Biology
-Portál:Csillagászat,Astronomy
-Portál:Filmművészet,Film
-Portál:Filozófia,Philosophy
-Portál:Fizika,Physics
-Portál:Földrajz,Geography
-Portál:Kémia,Chemistry
-Portál:Matematika,Mathematics
-Portál:Történelem,History
+Biológia,Biology
+Csillagászat,Astronomy
+Filmművészet,Film
+Filozófia,Philosophy
+Fizika,Physics
+Földrajz,Geography
+Kémia,Chemistry
+Matematika,Mathematics
+Történelem,History
 Poszeidón,Poseidon
 Potenciális energia,Potential energy
 Potsdam,Potsdam
@@ -4377,7 +4377,7 @@ Priamosz,Priam
 Prince Edward-sziget,Prince Edward Island
 Princeton Egyetem,Princeton University
 Prion,Prion
-Prizma,Prism (optics)
+Prizma,Prism
 Programozási nyelv,Programming language
 Progresszív rock,Progressive rock
 Projekt,Project
@@ -4401,7 +4401,7 @@ Prérifarkas,Coyote
 Prímszámok,Prime number
 Próféta,Prophet
 Próza,Prose
-Pszi,Psi (letter)
+Pszi,Psi
 Pszichiátria,Psychiatry
 Pszichoanalízis,Psychoanalysis
 Pszichológia,Psychology
@@ -4419,21 +4419,21 @@ Pulitzer József,Joseph Pulitzer
 Pulzár,Pulsar
 Puma,Cougar
 Punk,Punk rock
-Python (programozási nyelv),Python (programming language)
+Python,Python
 Pál apostol,Paul the Apostle
 Pál első levele a korinthusiakhoz,First Epistle to the Corinthians
 Pál levele a rómaiakhoz,Epistle to the Romans
-Pálya (csillagászat),Orbit
-Pán,Pan (mythology)
+Pálya,Orbit
+Pán,Pan
 Páncél,Armour
-Pápa (egyházfő),Pope
+Pápa,Pope
 Pápua Új-Guinea,Papua New Guinea
 Párizs,Paris
-Páros és páratlan számok,Parity (mathematics)
+Páros és páratlan számok,Parity
 Párosujjú patások,Even-toed ungulate
 Pásztorgém,Cattle Egret
 Pátriárka,Patriarch
-Páva csillagkép,Pavo (constellation)
+Páva csillagkép,Pavo
 Pávián,Baboon
 Pázsitfűfélék,Poaceae
 Pégaszosz,Pegasus
@@ -4460,9 +4460,9 @@ Quetzalcóatl,Quetzalcoatl
 Quintus Horatius Flaccus,Horace
 Quito,Quito
 Québec,Quebec
-Québec (város),Quebec City
+Québec,Quebec City
 R,R
-RAF,RAF (disambiguation)
+RAF,RAF
 RAID,RAID
 RISC,Reduced instruction set computer
 ROM,Read-only memory
@@ -4476,7 +4476,7 @@ Radioaktivitás,Radioactive decay
 Radiokarbon kormeghatározás,Radiocarbon dating
 Radon,Radon
 Radzerfordium,Rutherfordium
-Rafael arkangyal,Raphael (archangel)
+Rafael arkangyal,Raphael
 Raffaello Sanzio,Raphael
 Ragadozók,Carnivora
 Rainer Maria Rilke,Rainer Maria Rilke
@@ -4489,7 +4489,7 @@ Ray Bradbury,Ray Bradbury
 Recife,Recife
 Reformáció,Protestant Reformation
 Reggae,Reggae
-Regina (Kanada),Regina
+Regina,Regina
 Regény,Novel
 Reims,Reims
 Reklám,Advertising
@@ -4497,26 +4497,26 @@ Rektaszcenzió,Right ascension
 Relativitáselmélet,Theory of relativity
 Relativitáselmélet,Principle of relativity
 Relativizmus,Relativism
-Reláció,Relation (mathematics)
+Reláció,Relation
 Relé,Relay
 Rembrandt,Rembrandt
-Rend (rendszertan),Order (biology)
-Rendezés (programozás),Sorting algorithm
+Rend,Order
+Rendezés,Sorting algorithm
 Rendfokozat,Military rank
 Rendszer,System
-Rendszermag,Kernel (computer science)
+Rendszermag,Kernel
 Rendszertan,Taxonomy
 Rendőrség,Police
 Reneszánsz,Renaissance
 Repce,Rapeseed
-Republikánus Párt (USA),Republican Party (United States)
+Republikánus Párt,Republican Party
 Repülőgép,Aircraft
 Repülőgép-hordozó,Aircraft carrier
 Repülőhal csillagkép,Volans
 Repülőtér,Airport
 Retorika,Rhetoric
-Rhea (hold),Rhea (moon)
-Rheia,Rhea (mythology)
+Rhea,Rhea
+Rheia,Rhea
 Rhode Island,Rhode Island
 Rhythm and blues,Rhythm and blues
 Riboflavin,Riboflavin
@@ -4525,7 +4525,7 @@ Richard Feynman,Richard Feynman
 Richard Nixon,Richard Nixon
 Richard Strauss,Richard Strauss
 Richard Wagner,Richard Wagner
-Richard Wright,Richard Wright (musician)
+Richard Wright,Richard Wright
 Richelieu bíboros,Cardinal Richelieu
 Riemann-integrálás,Integral
 Riga,Riga
@@ -4553,7 +4553,7 @@ Robin Hood,Robin Hood
 Robot,Robot
 Rock,Rock music
 Rock and roll,Rock and roll
-Rodosz (sziget),Rhodes
+Rodosz,Rhodes
 Rodoszi Kolosszus,Colossus of Rhodes
 Rodrigo Díaz de Vivar,El Cid
 Roentgenium,Roentgenium
@@ -4582,8 +4582,8 @@ Rozmár,Walrus
 Rozs,Rye
 Ruanda,Rwanda
 Rubel,Ruble
-Rubicon (folyó),Rubicon
-Ruby,Ruby (programming language)
+Rubicon,Rubicon
+Ruby,Ruby
 Rubídium,Rubidium
 Rudolf Diesel,Rudolf Diesel
 Rudolf Heß,Rudolf Hess
@@ -4596,7 +4596,7 @@ Ruténium,Ruthenium
 Rádium,Radium
 Rádiólokátor,Radar
 Rágcsálók,Rodent
-Rák (betegség),Cancer
+Rák,Cancer
 Rák-köd,Crab Nebula
 Rákok,Crustacean
 Ráktérítő,Tropic of Cancer
@@ -4611,12 +4611,12 @@ Répafenyő,Pine
 Részecskefizika,Particle physics
 Részes eset,Dative case
 Részhalmaz,Subset
-Részvény,Share (finance)
+Részvény,Share
 Rétegtan,Stratigraphy
 Réz,Copper
 Rézkarc,Etching
 Rím,Rhyme
-Ró,Rho (letter)
+Ró,Rho
 Ródium,Rhodium
 Rókák,Fox
 Róma,Rome
@@ -4637,24 +4637,24 @@ S,S
 SI mértékegységrendszer,International System of Units
 SOAP,SOAP
 SOS,SOS
-Sablon:Bot,Bot
-Sablon:Csonk,Stub
+Bot,Bot
+Csonk,Stub
 Sacramento,Sacramento
-Safari (webböngésző),Safari (web browser)
+Safari,Safari
 Saint Kitts és Nevis,Saint Kitts and Nevis
 Saint Lucia,Saint Lucia
 Saint Vincent és a Grenadine-szigetek,Saint Vincent and the Grenadines
 Sajt,Cheese
 Sakk,Chess
 Sakkmegnyitás,Chess opening
-Salamon (Biblia),Solomon
+Salamon,Solomon
 Salamon-szigetek,Solomon Islands
 Salerno,Salerno
 Salman Rushdie,Salman Rushdie
 Salt Lake City,Salt Lake City
 Salvador,El Salvador
 Salzburg,Salzburg
-Salzburg (tartomány),Salzburg (state)
+Salzburg,Salzburg
 Salétromsav,Nitric acid
 Samanizmus,Shamanism
 Samuel Beckett,Samuel Beckett
@@ -4663,7 +4663,7 @@ Samuel Taylor Coleridge,Samuel Taylor Coleridge
 San Diego,San Diego
 San Francisco,San Francisco
 San Marino,San Marino
-San Marino (város),San Marino
+San Marino,San Marino
 San Salvador,San Salvador
 Sandro Botticelli,Sandro Botticelli
 Sanghaj,Shanghai
@@ -4673,18 +4673,18 @@ Santiago de Cuba,Santiago de Cuba
 Santo Domingo,Santo Domingo
 Sarah Bernhardt,Sarah Bernhardt
 Sarkcsillag,Polaris
-Sarki fény,Aurora (astronomy)
+Sarki fény,Aurora
 Sarló és kalapács,Hammer and sickle
 Sarlósfecske-alakúak,Apodiformes
 Saría,Sharia
 Sas,Eagle
-Sas csillagkép,Aquila (constellation)
-Saturn,Saturn (disambiguation)
+Sas csillagkép,Aquila
+Saturn,Saturn
 Saul Bellow,Saul Bellow
 Sav,Acid
 Savas eső,Acid rain
 Scheldt folyó,Scheldt
-Scheme,Scheme (programming language)
+Scheme,Scheme
 Schutzstaffel,Schutzstaffel
 Sci-fi,Science fiction
 Sclerosis multiplex,Multiple sclerosis
@@ -4694,7 +4694,7 @@ Sebesség,Velocity
 Sebészet,Surgery
 Sebészet,Surgeon
 Segovia,Segovia
-Sejt,Cell (biology)
+Sejt,Cell
 Sejtfal,Cell wall
 Sejtmag,Cell nucleus
 Sejtszervecske,Organelle
@@ -4703,7 +4703,7 @@ Selyemlepke,Bombyx mori
 Selyemút,Silk Road
 Septuaginta,Septuagint
 Sergey Rachmaninov,Sergei Rachmaninoff
-Serleg csillagkép,Crater (constellation)
+Serleg csillagkép,Crater
 Sevilla,Seville
 Seychelle-szigetek,Seychelles
 Shareware,Shareware
@@ -4734,29 +4734,29 @@ Skorpiók,Scorpion
 Skylab-program,Skylab
 Skócia,Scotland
 Skót nyelv,Scottish Gaelic
-Slash,Slash (musician)
+Slash,Slash
 Slayer,Slayer
 Softball,Softball
 Sokszög,Polygon
 Sophia Loren,Sophia Loren
-Sorozat (matematika),Sequence
+Sorozat,Sequence
 Sovinizmus,Chauvinism
 Spagetti,Spaghetti
-Spam,Spam (electronic)
+Spam,Spam
 Spanyol polgárháború,Spanish Civil War
 Spanyol örökösödési háború,War of the Spanish Succession
 Spanyolország,Spain
 Speciális relativitáselmélet,Special relativity
 Spencer Tracy,Spencer Tracy
 Spenót,Spinach
-Spin,Spin (physics)
+Spin,Spin
 Spirálgalaxis,Spiral galaxy
 Spitzbergák,Svalbard
 Split,Split
 Sport,Sport
 Spyware,Spyware
 Spárta,Sparta
-Squash,Squash (sport)
+Squash,Squash
 Srí Lanka,Sri Lanka
 Standard Generalized Markup Language,Standard Generalized Markup Language
 Stanford Egyetem,Stanford University
@@ -4774,14 +4774,14 @@ Stonehenge,Stonehenge
 Strand,Beach
 Strasbourg,Strasbourg
 Stratégia,Strategy
-Stressz (pszichikai),Stress (medicine)
+Stressz,Stress
 Stroncium,Strontium
 Strucc,Ostrich
 Struccalakúak,Ratite
 Strukturalizmus,Structuralism
 Sturmabteilung,Sturmabteilung
 Stuttgart,Stuttgart
-Subversion,Subversion (software)
+Subversion,Subversion
 Sucre történelmi óvárosa,Sucre
 Suharto,Suharto
 Sumer,Sumer
@@ -4798,7 +4798,7 @@ Sylvia Plath,Sylvia Plath
 Szabad akarat,Free will
 Szabadalom,Patent
 Szabadkőművesség,Freemasonry
-Szabadság-szobor (New York),Statue of Liberty
+Szabadság-szobor,Statue of Liberty
 Szaddám Huszein,Saddam Hussein
 Szahara,Sahara
 Szajna,Seine
@@ -4817,12 +4817,12 @@ Szanszkrit nyelv,Sanskrit
 Szapphó,Sappho
 Szarajevó,Sarajevo
 Szaratov,Saratov
-Szardínia (Olaszország),Sardinia
-Szardínia (hal),Sardine
+Szardínia,Sardinia
+Szardínia,Sardine
 Szarka,European Magpie
 Szarkofág,Sarcophagus
 Szaruhártya,Cornea
-Szarv,Horn (anatomy)
+Szarv,Horn
 Szarvas,Deer
 Szarvasmarha,Cattle
 Szaturnusz,Saturn
@@ -4835,7 +4835,7 @@ Szecesszió,Art Nouveau
 Szecsuán,Sichuan
 Szegfűszeg,Clove
 Szegfűvirágúak,Caryophyllales
-Szekeres csillagkép,Auriga (constellation)
+Szekeres csillagkép,Auriga
 Szekta,Sect
 Szeles Mónika,Monica Seles
 Szellem,Thought
@@ -4851,21 +4851,21 @@ Szendvics,Sandwich
 Szenegál,Senegal
 Szent,Saint
 Szent Ambrus,Ambrose
-Szent András (apostol),Saint Andrew
+Szent András,Saint Andrew
 Szent Bálint,Valentine's Day
 Szent Grál,Holy Grail
 Szent György,Saint George
 Szent Ireneus,Irenaeus
 Szent Jeromos,Jerome
 Szent Lőrinc-folyó,Saint Lawrence River
-Szent Mihály,Michael (archangel)
+Szent Mihály,Michael
 Szent Miklós,Saint Nicholas
 Szent Patrik,Saint Patrick
 Szent Péter,Saint Peter
 Szent Ágoston,Augustine of Hippo
 Szentháromság,Trinity
 Szentlélek,Holy Spirit
-Szentmise,Mass (liturgy)
+Szentmise,Mass
 Szentpétervár,Saint Petersburg
 Szentség,Sacrament
 Szeppuku,Seppuku
@@ -4882,7 +4882,7 @@ Szergej Mihajlovics Eisenstein,Sergei Eisenstein
 Szerin,Serine
 Szerotonin,Serotonin
 Szerszám,Tool
-Szerv (biológia),Organ (anatomy)
+Szerv,Organ
 Szerves kémia,Organic chemistry
 Szervetlen kémia,Inorganic chemistry
 Szerződés,Contract
@@ -4901,7 +4901,7 @@ Szikhizmus,Sikhism
 Szikkim,Sikkim
 Sziklás-hegység,Rocky Mountains
 Szilur,Silurian
-Szilárd (halmazállapot),Solid state
+Szilárd,Solid state
 Szilárd halmazállapot,Solid
 Sziláscetek,Baleen whale
 Szilézia,Silesia
@@ -4930,7 +4930,7 @@ Szlovénia,Slovenia
 Szmog,Smog
 Szmolenszk,Smolensk
 Sznúker,Snooker
-Szobrász csillagkép,Sculptor (constellation)
+Szobrász csillagkép,Sculptor
 Szobrászat,Sculpture
 Szocializmus,Socialism
 Szociolingvisztika,Sociolinguistics
@@ -4983,7 +4983,7 @@ Számítógépes vírus,Computer virus
 Szárazfölditeknős-félék,Tortoise
 Szári,Sari
 Szászország,Saxony
-Század,Company (military unit)
+Század,Company
 Százalék,Percentage
 Százéves háború,Hundred Years' War
 Szék,Chair
@@ -4994,7 +4994,7 @@ Szén-dioxid,Carbon dioxide
 Szén-monoxid,Carbon monoxide
 Szénhidrát,Carbohydrate
 Szénsav,Carbonic acid
-Széth,Set (mythology)
+Széth,Set
 Szíborgium,Seaborgium
 Szín,Color
 Színház,Theatre
@@ -5004,7 +5004,7 @@ Szíria,Syria
 Szíriusz,Sirius
 Szív,Heart
 Szívinfarktus,Myocardial infarction
-Szó (nyelvészet),Word
+Szó,Word
 Szófia,Sofia
 Szójabab,Soybean
 Szókratész,Socrates
@@ -5013,7 +5013,7 @@ Szórás,Standard deviation
 Szótag,Syllable
 Szótár,Dictionary
 Szög,Angle
-Szögmérő csillagkép,Norma (constellation)
+Szögmérő csillagkép,Norma
 Szökési sebesség,Escape velocity
 Szökőév,Leap year
 Szöul,Seoul
@@ -5023,17 +5023,17 @@ Szúdoku,Sudoku
 Szúra,Sura
 Szürkehályog,Cataract
 Szürrealizmus,Surrealism
-Szűz Mária,Mary (mother of Jesus)
-Szűz csillagkép,Virgo (constellation)
+Szűz Mária,Mary
+Szűz csillagkép,Virgo
 Sárga,Yellow
 Sárga-folyó,Yellow River
 Sárga-tenger,Yellow Sea
 Sárgarépa,Carrot
 Sárkány,Dragon
-Sárkány csillagkép,Draco (constellation)
+Sárkány csillagkép,Draco
 Sátán,Satan
 Sátánizmus,Satanism
-Sík (geometria),Plane (mathematics)
+Sík,Plane
 Sínai-félsziget,Sinai Peninsula
 Sógi,Shogi
 Sógun,Shogun
@@ -5068,7 +5068,7 @@ Tampere,Tampere
 Tanakh,Tanakh
 Tang-dinasztia,Tang Dynasty
 Tanganyika-tó,Lake Tanganyika
-Tangó,Tango (dance)
+Tangó,Tango
 Tantál,Tantalum
 Tanzánia,Tanzania
 Taoizmus,Taoism
@@ -5078,7 +5078,7 @@ Tartu,Tartu
 Taskent,Tashkent
 Tasmánia,Tasmania
 Tau,Tau
-Tavasz,Spring (season)
+Tavasz,Spring
 Tbiliszi,Tbilisi
 Tea,Tea
 Techno,Techno
@@ -5090,12 +5090,12 @@ Teherán,Tehran
 Tej,Milk
 Tejsav,Lactic acid
 Tejútrendszer,Milky Way
-Tekercs (elektronika),Inductor
+Tekercs,Inductor
 Teknősök,Turtle
 Tel-Aviv,Tel Aviv
 Telefon,Telephone
 Televízió,Television
-Teljesítmény,Power (physics)
+Teljesítmény,Power
 Teller Ede,Edward Teller
 Tellúr,Tellurium
 Temető,Cemetery
@@ -5133,10 +5133,10 @@ Terpszikhoré,Terpsichore
 Terror,Terrorism
 Tertullianus,Tertullian
 Terület,Area
-Tesla,Tesla (unit)
-Test (algebra),Field (mathematics)
+Tesla,Tesla
+Test,Field
 Testépítés,Bodybuilding
-Tethys (hold),Tethys (moon)
+Tethys,Tethys
 Tetoválás,Tattoo
 Tetrahidrokannabinol,Tetrahydrocannabinol
 Tetszőleges hozzáférésű memória,Random access memory
@@ -5147,7 +5147,7 @@ Thaiföld,Thailand
 Thaleia,Thalia
 Thalész,Thales
 Thanatosz,Thanatos
-Theia (mitológia),Theia
+Theia,Theia
 Themisztoklész,Themistocles
 Theodore Roosevelt,Theodore Roosevelt
 Thermopülai csata,Battle of Thermopylae
@@ -5160,13 +5160,13 @@ Thomas Jefferson,Thomas Jefferson
 Thomas Malthus,Thomas Malthus
 Thomas Mann,Thomas Mann
 Thomas Paine,Thomas Paine
-Thomas Young,Thomas Young (scientist)
+Thomas Young,Thomas Young
 Thor,Thor
 Thrakia,Thrace
 Thuküdidész,Thucydides
 Théba,Thebes
 Thébai,Thebes
-Thébé (hold),Thebe (moon)
+Thébé,Thebe
 Théraváda buddhizmus,Theravada
 Thészeusz,Theseus
 Théta,Theta
@@ -5175,25 +5175,25 @@ Tianjin,Tianjin
 Tiberius,Tiberius
 Tibet,Tibet
 Tigris,Tiger
-Time magazin,Time (magazine)
+Time magazin,Time
 Timin,Thymine
 Timur Lenk,Timur
 Tipográfia,Typography
 Tirana,Tirana
 Tirrén-tenger,Tyrrhenian Sea
 Tiszafa,Taxus baccata
-Titanic (egyértelműsítő lap),Titanic (disambiguation)
+Titanic,Titanic
 Titus,Titus
 Titus Livius,Livy
-Titán,Titan (disambiguation)
-Titán (elem),Titanium
-Titán (hold),Titan (moon)
-Titán (mitológia),Titan (mythology)
+Titán,Titan
+Titán,Titanium
+Titán,Titan
+Titán,Titan
 Tivoli,Tivoli
 Tizenhatos számrendszer,Hexadecimal
 Tiziano Vecellio,Titian
 Togo,Togo
-Tojás (biológia),Egg (biology)
+Tojás,Egg
 Tokió,Tokyo
 Toldalék,Affix
 Toll,Feather
@@ -5232,8 +5232,8 @@ Trilógia,Trilogy
 Trinidad és Tobago,Trinidad and Tobago
 Trinitrotoluol,Trinitrotoluene
 Tripoli,Tripoli
-Triton (hold),Triton (moon)
-Tritón,Triton (mythology)
+Triton,Triton
+Tritón,Triton
 Triász,Triassic
 Trockizmus,Trotskyism
 Trolibusz,Trolleybus
@@ -5246,10 +5246,10 @@ Trícium,Tritium
 Trója,Troy
 Trójai faló,Trojan Horse
 Trójai háború,Trojan War
-Trójai program,Trojan horse (computing)
+Trójai program,Trojan horse
 Trópusok,Tropics
 Tuaregek,Tuareg
-Tuba (hangszer),Tuba
+Tuba,Tuba
 Tuberkulózis,Tuberculosis
 Tudomány,Science
 Tudományos módszer,Scientific method
@@ -5265,7 +5265,7 @@ Tux,Tux
 Tycho Brahe,Tycho Brahe
 Tyrannosaurus,Tyrannosaurus
 Tyúkalakúak,Galliformes
-Táblahegy csillagkép,Mensa (constellation)
+Táblahegy csillagkép,Mensa
 Táblázatkezelő program,Spreadsheet
 Tádzs Mahal,Taj Mahal
 Tádzsikisztán,Tajikistan
@@ -5286,7 +5286,7 @@ Tér,Space
 Térfogat,Volume
 Térkép,Map
 Térképészet,Cartography
-Téthüsz,Tethys (mythology)
+Téthüsz,Tethys
 Tízes számrendszer,Decimal
 Tízparancsolat,Ten Commandments
 Tó,Lake
@@ -5298,8 +5298,8 @@ Tömeg,Mass
 Tömegszám,Mass number
 Történelem,History
 Történettudomány,Historiography
-Törzs (rendszertan),Phylum
-Törés (geológia),Fault (geology)
+Törzs,Phylum
+Törés,Fault
 Törésmutató,Refractive index
 Törökország,Turkey
 Túlium,Thulium
@@ -5314,11 +5314,11 @@ Türingia,Thuringia
 Türkmenisztán,Turkmenistan
 Tüskésbőrűek,Echinoderm
 Tüzérség,Artillery
-Tőke,Capital (economics)
+Tőke,Capital
 Tőkés réce,Mallard
 Tőzeg,Peat
 Tűz,Fire
-Tűzfal (számítástechnika),Firewall (networking)
+Tűzfal,Firewall
 Tűzfegyver,Firearm
 Tűzföld,Tierra del Fuego
 U,U
@@ -5337,7 +5337,7 @@ Ulánbátor,Ulan Bator
 Umbria,Umbria
 Underground,Subculture
 Unix,Unix
-Unió (halmazelmélet),Union (set theory)
+Unió,Union
 Ununbium,Ununbium
 Ununhexium,Ununhexium
 Ununpentium,Ununpentium
@@ -5347,15 +5347,15 @@ Upanisadok,Upanishad
 Uppsala,Uppsala
 Ur,Ur
 Uracil,Uracil
-Uranosz,Uranus (mythology)
+Uranosz,Uranus
 Urdu nyelv,Urdu
 Uruguay,Uruguay
-Urál (hegység),Ural Mountains
+Urál,Ural Mountains
 Urán,Uranium
 Uránia,Urania
 Uránusz,Uranus
 Utah,Utah
-Utrecht,Utrecht (city)
+Utrecht,Utrecht
 Utópia,Utopia
 V,V
 VI. Sándor pápa,Pope Alexander VI
@@ -5367,7 +5367,7 @@ Vaj,Butter
 Vakság,Blindness
 Valence,Valence
 Valencia,Valencia
-Valencia (Spanyolország),Valencia
+Valencia,Valencia
 Valentyina Vlagyimirovna Tyereskova,Valentina Tereshkova
 Valhalla,Valhalla
 Valkűr,Valkyrie
@@ -5392,14 +5392,14 @@ Vegetarianizmus,Vegetarianism
 Vegyi fegyver,Chemical warfare
 Vegyképlet,Chemical formula
 Vegyület,Chemical compound
-Vektor,Vector (spatial)
+Vektor,Vector
 Vektoriális szorzat,Cross product
 Velence,Venice
 Velociraptor,Velociraptor
 Vendégízületesek,Xenarthra
 Veneto,Veneto
 Venezuela,Venezuela
-Venus,Venus (mythology)
+Venus,Venus
 Verduni csata,Battle of Verdun
 Vergilius,Virgil
 Vermont,Vermont
@@ -5409,9 +5409,9 @@ Versenymű,Concerto
 Verébalakúak,Passerine
 Vese,Kidney
 Vespasianus,Vespasian
-Vessző,Comma (punctuation)
-Vesta,Vesta (mythology)
-Vetési varjú,Rook (bird)
+Vessző,Comma
+Vesta,Vesta
+Vetési varjú,Rook
 Vezetéknév,Family name
 Vezúv,Mount Vesuvius
 Viasz,Wax
@@ -5422,7 +5422,7 @@ Vietnam,Vietnam
 Vietnami Köztársaság,South Vietnam
 Vietnami háború,Vietnam War
 Vikingek,Viking
-Viktória-tó (Afrika),Lake Victoria
+Viktória-tó,Lake Victoria
 Villamos,Tram
 Villamos műszerek,Ammeter
 Villám,Lightning
@@ -5446,7 +5446,7 @@ Visnu,Vishnu
 Viszkozitás,Viscosity
 Visztula,Vistula
 Vitamin,Vitamin
-Vitorla csillagkép,Vela (constellation)
+Vitorla csillagkép,Vela
 Vitorlázó repülőgép,Glider
 Vittorio De Sica,Vittorio De Sica
 Vitus Bering,Vitus Bering
@@ -5477,7 +5477,7 @@ Várható érték,Expected value
 Várna,Varna
 Város,Town
 Véglények,Protist
-Végrendelet,Will (law)
+Végrendelet,Will
 Végtelen,Infinity
 Vékonybél,Small intestine
 Véna,Vein
@@ -5491,7 +5491,7 @@ Vírus,Virus
 Vívás,Fencing
 Víz,Water
 Vízilabda,Water polo
-Vízkereszt,Epiphany (Christian)
+Vízkereszt,Epiphany
 Vöcsökfélék,Grebe
 Vörös,Red
 Vörös Hadsereg Frakció,Red Army Faction
@@ -5501,7 +5501,7 @@ Vörös törpe,Red dwarf
 Vörös óriás,Red giant
 Vörös-tenger,Red Sea
 Vöröseltolódás,Redshift
-Vöröseltolódás,Redshift (disambiguation)
+Vöröseltolódás,Redshift
 Vörösfenyő,Larch
 Vöröshagyma,Onion
 Vörösmoszatok,Red algae
@@ -5514,12 +5514,12 @@ Walt Disney,Walt Disney
 Walt Whitman,Walt Whitman
 Walter Gropius,Walter Gropius
 Walter Scott,Walter Scott
-Washington,Washington (disambiguation)
-Washington (állam),Washington
+Washington,Washington
+Washington,Washington
 "Washington, D.C.",Washington
 Watergate-botrány,Watergate scandal
 Waterlooi csata,Battle of Waterloo
-Watt (mértékegység),Watt
+Watt,Watt
 Webböngésző,Web browser
 Webcím,Uniform Resource Locator
 Weblap,Web page
@@ -5580,7 +5580,7 @@ Zeneszerző,Composer
 Zenit,Zenith
 Zerge,Chamois
 Zeusz,Zeus
-Zeusz,Zeus (disambiguation)
+Zeusz,Zeus
 Zikkurat,Ziggurat
 Zimbabwe,Zimbabwe
 Zombi,Zombie
@@ -5602,7 +5602,7 @@ Zárvatermők,Flowering plant
 Zárójel,Bracket
 Zászló,Flag
 Zászlóalj,Battalion
-Zénón bizánci császár,Zeno (emperor)
+Zénón bizánci császár,Zeno
 Zöld,Green
 Zöld-foki Köztársaság,Cape Verde
 Zöldborsó,Pea
@@ -5614,7 +5614,7 @@ mém,Meme
 trigonometrikus függvények,Trigonometric function
 tőzsde,Stock exchange
 védjegy,Trademark
-Ábrahám (ősatya),Abraham
+Ábrahám,Abraham
 Ábádán,Abadan
 Ábécé,Alphabet
 Ágy,Bed
@@ -5635,7 +5635,7 @@ védjegy,Trademark
 Április,April
 Április 14,April 14
 Április bolondja,April Fools' Day
-Ár (gazdaság),Price
+Ár,Price
 Árapály,Tide
 Árvacsalánfélék,Lamiaceae
 Árverés,Auction
@@ -5644,7 +5644,7 @@ védjegy,Trademark
 Ásványtan,Mineralogy
 Ásványvíz,Mineral water
 Áttét,Metastasis
-Átírás (nyelvészet),Transliteration
+Átírás,Transliteration
 Ázsia,Asia
 Ázsiai tapír,Malayan Tapir
 Ázsiai vadkutya,Dhole
@@ -5666,7 +5666,7 @@ védjegy,Trademark
 Építészet,Architecture
 Épület,Building
 Érsek,Archbishop
-Értelmező,Interpreter (computing)
+Értelmező,Interpreter
 Érvelési hiba,Fallacy
 Észak,North
 Észak-Afrika,North Africa
@@ -5682,16 +5682,16 @@ védjegy,Trademark
 Északi-sark,North Pole
 Északi-sarkkör,Arctic Circle
 Északi-tenger,North Sea
-Éta,Eta (letter)
-Éter (kémia),Ether
+Éta,Eta
+Éter,Ether
 Év,Year
 Évszak,Season
 Évszázad,Century
 Éósz,Eos
-Íj,Bow (weapon)
+Íj,Bow
 Ír-sziget,Ireland
 Ír-tenger,Irish Sea
-Írisz (mitológia),Iris (mythology)
+Írisz,Iris
 Írország,Republic of Ireland
 Író,Author
 Író,Writer
@@ -5709,8 +5709,8 @@ védjegy,Trademark
 Ómega,Omega
 Ón,Tin
 Ópium,Opium
-Óra (eszköz),Clock
-Óra (időegység),Hour
+Óra,Clock
+Óra,Hour
 Órigenész,Origen
 Óriásbolygó,Gas giant
 Óriáspanda,Giant Panda
@@ -5734,12 +5734,12 @@ védjegy,Trademark
 Öszvér,Mule
 Ötszög,Pentagon
 Övesállatok,Armadillo
-Özönvíz (mitológia),Deluge (mythology)
+Özönvíz,Deluge
 Új-Dél-Wales,New South Wales
 Új-Kaledónia,New Caledonia
 Új-Mexikó,New Mexico
 Új-Zéland,New Zealand
-Újfundland,Newfoundland (island)
+Újfundland,Newfoundland
 Újrahasznosítás,Recycling
 Újszövetség,New Testament
 Újvilág,New World

@@ -1,7 +1,7 @@
 Other,English
-0 (број),0 (number)
+0,0
 1,1
-1 (број),1 (number)
+1,1
 1. август,August 1
 1. мај,May 1
 1. новембар,November 1
@@ -62,7 +62,7 @@ Other,English
 1980е,1980s
 1990е,1990s
 2,2
-2 (број),2 (number)
+2,2
 2. март,March 2
 2. новембар,November 2
 2. фебруар,February 2
@@ -74,7 +74,7 @@ Other,English
 22,22
 22. фебруар,February 22
 23,23
-23 (број),23 (number)
+23,23
 23. јун,June 23
 24,24
 24. мај,May 24
@@ -90,7 +90,7 @@ Other,English
 29. фебруар,February 29
 29. јун,June 29
 3,3
-3 (број),3 (number)
+3,3
 3. јун,June 3
 30,30
 300,300
@@ -105,7 +105,7 @@ Other,English
 38,38
 39,39
 4,4
-4 (број),4 (number)
+4,4
 4. јул,July 4
 40,40
 400,400
@@ -119,7 +119,7 @@ Other,English
 48,48
 49,49
 5,5
-5 (број),5 (number)
+5,5
 5. новембар,November 5
 50,50
 500,500
@@ -133,7 +133,7 @@ Other,English
 58,58
 59,59
 6,6
-6 (број),6 (number)
+6,6
 6. август,August 6
 6. јануар,January 6
 60,60
@@ -147,7 +147,7 @@ Other,English
 68,68
 69,69
 7,7
-7 (број),7 (number)
+7,7
 70,70
 71,71
 72,72
@@ -159,7 +159,7 @@ Other,English
 78,78
 79,79
 8,8
-8 (број),8 (number)
+8,8
 8. децембар,December 8
 80,80
 81,81
@@ -172,7 +172,7 @@ Other,English
 88,88
 89,89
 9,9
-9 (број),9 (number)
+9,9
 90,90
 91,91
 92,92
@@ -183,10 +183,10 @@ Other,English
 97,97
 98,98
 99,99
-A (слово латинице),A
+A,A
 ASCII,American Standard Code for Information Interchange
 Ad hominem,Ad hominem
-Ada (програмски језик),Ada (programming language)
+Ada,Ada
 Afroamerikanci,African American
 Alat,Tool
 Aleutska ostrva,Aleutian Islands
@@ -195,21 +195,21 @@ Ananas comosus,Pineapple
 Anatol Frans,Anatole France
 Araceae,Araceae
 Atentat,Assassination
-Atlas (mesec),Atlas (moon)
+Atlas,Atlas
 August Strindberg,August Strindberg
 Autorsko pravo,Copyright
-B (слово латинице),B
+B,B
 Beli patuljak,White dwarf
 Bernhard Riman,Bernhard Riemann
 Bluz,Blues
-C (програмски језик),C (programming language)
-C (слово латинице),C
+C,C
+C,C
 Crveni div,Red giant
 Cyperaceae,Cyperaceae
-D (слово латинице),D
-DOS (оперативни систем),DOS
+D,D
+DOS,DOS
 DVD,DVD
-Del (kompanija),Dell
+Del,Dell
 Delfin,Dolphin
 Dinamit,Dynamite
 Diplomatija,Diplomacy
@@ -218,25 +218,25 @@ Drombulje,Jew's harp
 Dvojne i višestruke zvezde,Binary star
 Džejms Nejsmit,James Naismith
 Džon Stjuart Mil,John Stuart Mill
-E (слово латинице),E
+E,E
 Edgar Dega,Edgar Degas
 Efekat staklene bašte,Greenhouse effect
 Egzistencijalizam,Existentialism
 Erasure,Erasure
 Estar,Ester
-F (слово латинице),F
+F,F
 FTP,File Transfer Protocol
 Fabaceae,Fabaceae
 Federalni istražni biro,Federal Bureau of Investigation
-Fedora Core,Fedora (Linux distribution)
+Fedora Core,Fedora
 Folna kiselina,Folic acid
 Frederikton,Fredericton
-G (слово латинице),G
-Galicija (provincija),Galicia (Central Europe)
+G,G
+Galicija,Galicia
 Globalni pozicioni sistem,Global Positioning System
 Gorive ćelije,Fuel cell
 Grafiti,Graffiti
-H (слово латинице),H
+H,H
 HTML,HTML
 HTTP,Hypertext Transfer Protocol
 Hablov zakon,Hubble's law
@@ -247,14 +247,14 @@ Hibernacija,Hibernation
 Hipici,Hippie
 Hokej na ledu,Ice hockey
 Hugo Grocije,Hugo Grotius
-I (слово латинице),I
+I,I
 Ideologija,Ideology
 Indokina,Indochina
 Intranet,Intranet
-J (слово латинице),J
-Jezgro operativnog sistema,Kernel (computer science)
+J,J
+Jezgro operativnog sistema,Kernel
 Joga,Yoga
-K (слово латинице),K
+K,K
 Kaligrafija,Calligraphy
 Karl Jaspers,Karl Jaspers
 Keops,Khufu
@@ -263,17 +263,17 @@ Klod Elvud Šenon,Claude Shannon
 Komodo zmaj,Komodo dragon
 Konjica,Cavalry
 Kralj Artur,King Arthur
-Kralj Lir (drama),King Lear
+Kralj Lir,King Lear
 Krava,Cattle
 Kreacionizam,Creationism
 Kukuvija,Barn Owl
-L (слово латинице),L
+L,L
 Lepidoptera,Lepidoptera
 Liliaceae,Liliaceae
 Limun,Lemon
-Lisp,Lisp (programming language)
+Lisp,Lisp
 Loki,Loki
-M (слово латинице),M
+M,M
 MESSENGER,MESSENGER
 MIME,MIME
 MS-DOS,MS-DOS
@@ -287,19 +287,19 @@ Milimetar,Millimetre
 Moravska,Moravia
 Mrežne topologije,Network topology
 Multipla skleroza,Multiple sclerosis
-Musa,Musa (genus)
-N (слово латинице),N
+Musa,Musa
+N,N
 Nuklearna fisija,Nuclear fission
 Nuklearna fuzija,Nuclear fusion
 Nymphaeaceae,Nymphaeaceae
-O (слово латинице),O
+O,O
 OPEK,OPEC
 Obrada prirodnih jezika,Natural language processing
 Ogledalo,Mirror
 Opnokrilci,Hymenoptera
 Orah,Walnut
 Ovas,Oat
-P (слово латинице),P
+P,P
 PH вредност,PH
 Palme,Arecaceae
 Parodija,Parody
@@ -309,8 +309,8 @@ Pindar,Pindar
 Plaža,Beach
 Potkultura,Subculture
 Progresivni rok,Progressive rock
-Q (слово латинице),Q
-R (слово латинице),R
+Q,Q
+R,R
 RAM,Random access memory
 RISC,Reduced instruction set computer
 ROM,Read-only memory
@@ -321,23 +321,23 @@ Ritam i bluz,Rhythm and blues
 Robert Redford,Robert Redford
 Rosaceae,Rosaceae
 Rosales,Rosales
-S (слово латинице),S
-SVN,Subversion (software)
-Safari (brauzer),Safari (web browser)
+S,S
+SVN,Subversion
+Safari,Safari
 Sajberpank,Cyberpunk
 Sake,Sake
 Salman Rušdi,Salman Rushdie
 Sarkofag,Sarcophagus
 Sciuridae,Sciuridae
-Server,Server (computing)
+Server,Server
 Simfonija,Symphony
 Skinhedsi,Skinhead
-Skvoš,Squash (sport)
+Skvoš,Squash
 Specijalna teorija relativnosti,Special relativity
 Squamata,Squamata
 Supernova,Supernova
 Suverenost,Sovereignty
-T (слово латинице),T
+T,T
 Tardigrada,Tardigrade
 Tavla,Backgammon
 Tehno,Techno
@@ -348,7 +348,7 @@ The Star-Spangled Banner,The Star-Spangled Banner
 Tipografija,Typography
 Tomas Mor,Thomas More
 Tuks,Tux
-U (слово латинице),U
+U,U
 UTC,Coordinated Universal Time
 Vegetarijanstvo,Vegetarianism
 Vika,Wicca
@@ -380,8 +380,8 @@ serbian,english
 Ђумбир,Ginger
 Јабука,Apple
 Јава,Java
-Јава (вишезначна одредница),Java (disambiguation)
-Јава (програмски језик),Java (programming language)
+Јава,Java
+Јава,Java
 Јавно власништво,Public domain
 Јавор,Maple
 Јагуар,Jaguar
@@ -398,14 +398,14 @@ serbian,english
 Јан ван Ајк,Jan van Eyck
 Јангцекјанг,Yangtze River
 Јануар,January
-Јанус,Janus (mythology)
+Јанус,Janus
 Јапан,Japan
 Јапанско море,Sea of Japan
-Јапет (митологија),Iapetus (mythology)
+Јапет,Iapetus
 Јард,Yard
 Јасер Арафат,Yasser Arafat
 Јасон,Jason
-Јаје,Egg (biology)
+Јаје,Egg
 Јајна ћелија,Ovum
 Јајници,Ovary
 Јајоводи,Fallopian tube
@@ -494,13 +494,13 @@ serbian,english
 Јулијан Отпадник,Julian the Apostate
 Јулијански календар,Julian calendar
 Јун,June
-Јупитер (вишезначна одредница),Jupiter (disambiguation)
-Јупитер (митологија),Jupiter (mythology)
-Јупитер (планета),Jupiter
+Јупитер,Jupiter
+Јупитер,Jupiter
+Јупитер,Jupiter
 Јура,Jurassic
 Јуриј Гагарин,Yuri Gagarin
 Јустинијан I,Justinian I
-Јута (држава),Utah
+Јута,Utah
 Љубав,Love
 Љубљана,Ljubljana
 Љутићи,Ranunculaceae
@@ -509,16 +509,16 @@ serbian,english
 Њу Делхи,New Delhi
 Њу Орлеанс,New Orleans
 Њу Хемпшир,New Hampshire
-Њуарк (Њу Џерси),Newark
-Њукта,Nyx (mythology)
-Њутн (јединица),Newton
-Њуфаундленд,Newfoundland (island)
+Њуарк,Newark
+Њукта,Nyx
+Њутн,Newton
+Њуфаундленд,Newfoundland
 Њуфаундленд и Лабрадор,Newfoundland and Labrador
 Њујорк,New York City
-Њујорк (вишезначна одредница),New York (disambiguation)
-Њујорк (држава),New York
+Њујорк,New York
+Њујорк,New York
 Ћезаре Борџија,Cesare Borgia
-Ћелија (биологија),Cell (biology)
+Ћелија,Cell
 Ћелијска мембрана,Cell membrane
 Ћелијски зид,Cell wall
 Ћилибар,Amber
@@ -551,11 +551,11 @@ serbian,english
 Џејн Остин,Jane Austen
 Џејн Симор,Jane Seymour
 Џејн Фонда,Jane Fonda
-Џибути (град),Djibouti (city)
+Џибути,Djibouti
 Џида,Jeddah
 Џими Картер,Jimmy Carter
 Џими Хендрикс,Jimi Hendrix
-Џин (ислам),Genie
+Џин,Genie
 Џиновска панда,Giant Panda
 Џихад,Jihad
 Џијуџицу,Jujutsu
@@ -583,22 +583,22 @@ serbian,english
 Џорџ Вашингтон,George Washington
 Џорџ Гершвин,George Gershwin
 Џорџ Лукас,George Lucas
-Џорџ Маршал (генерал),George Marshall
+Џорџ Маршал,George Marshall
 Џорџ Орвел,George Orwell
 Џорџ Паџет Томсон,George Paget Thomson
 Џорџ Стивенсон,George Stephenson
 Џорџ Харисон,George Harrison
-Џорџија,Georgia (U.S. state)
+Џорџија,Georgia
 Џорџтаун,Georgetown
 Џојстик,Joystick
 Џуди Гарланд,Judy Garland
 Џудо,Judo
 Џул,Joule
-А (ћириличко),A (Cyrillic)
+А,A
 АСЕАН,Association of Southeast Asian Nations
 АТП,ATP
 Абадан,Abadan
-Абакус (рачунање),Abacus
+Абакус,Abacus
 Абел Тасман,Abel Tasman
 Абелар,Peter Abelard
 Абелова група,Abelian group
@@ -629,7 +629,7 @@ serbian,english
 Агора,Agora
 Агорафобија,Agoraphobia
 Агра,Agra
-Агресија (људско понашање),Aggression
+Агресија,Aggression
 Адам Смит,Adam Smith
 Адана,Adana
 Адвокат,Lawyer
@@ -667,9 +667,9 @@ serbian,english
 Акира Куросава,Akira Kurosawa
 Акне,Acne vulgaris
 Аконкагва,Aconcagua
-Акорд,Chord (music)
+Акорд,Chord
 Акра,Accra
-Акри,Acre (state)
+Акри,Acre
 Акропољ,Acropolis
 Аксиома,Axiom
 Актинијум,Actinium
@@ -677,7 +677,7 @@ serbian,english
 Акузатив,Accusative case
 Акустика,Acoustics
 Акхенатон,Akhenaten
-Акција,Share (finance)
+Акција,Share
 Ал Гор,Al Gore
 Ал Капоне,Al Capone
 Ал-Каида,Al-Qaeda
@@ -715,7 +715,7 @@ serbian,english
 Алел,Allele
 Алергија,Allergy
 Алжир,Algeria
-Алжир (град),Algiers
+Алжир,Algiers
 Алзас,Alsace
 Алија,Ali
 Алкални метали,Alkali metal
@@ -731,12 +731,12 @@ serbian,english
 Алоје,Aloe
 Алпи,Alps
 Алстер,Ulster
-Алтај (планина),Altay Mountains
+Алтај,Altay Mountains
 Алтернативна медицина,Alternative medicine
 Алтруизам,Altruism
 Алуминијум,Aluminium
 Алуминијум оксид,Aluminium oxide
-Алфа,Alpha (letter)
+Алфа,Alpha
 Алфа Кентаури,Alpha Centauri
 Алфабет,Alphabet
 Алфред Драјфус,Alfred Dreyfus
@@ -794,7 +794,7 @@ serbian,english
 Андреј Тарковски,Andrei Tarkovsky
 Андроид,Android
 Андромеда,Andromeda
-Андромеда (галаксија),Andromeda Galaxy
+Андромеда,Andromeda Galaxy
 Анемија,Anemia
 Анестезиологија,Anesthesia
 Анимација,Animation
@@ -809,7 +809,7 @@ serbian,english
 Анталија,Antalya
 Антарктик,Antarctica
 Антверпен,Antwerp
-Антена,Antenna (radio)
+Антена,Antenna
 Антибиотик,Antibiotic
 Антигва и Барбуда,Antigua and Barbuda
 Антиген,Antigen
@@ -839,7 +839,7 @@ serbian,english
 Април,April
 Апсида,Apse
 Апсинт,Absinthe
-Апсолутизам,Absolutism (European history)
+Апсолутизам,Absolutism
 Апсолутна вредност,Absolute value
 Апсолутна звездана величина,Absolute magnitude
 Апсолутна нула,Absolute zero
@@ -847,7 +847,7 @@ serbian,english
 Апстрактни експресионизам,Abstract expressionism
 Апстракција,Abstraction
 Апулија,Apulia
-Ар (јединица),Are
+Ар,Are
 Арабијско полуострво,Arabian Peninsula
 Арагон,Aragon
 Аралско језеро,Aral Sea
@@ -861,7 +861,7 @@ serbian,english
 Арахнида,Arachnid
 Аргентина,Argentina
 Аргон,Argon
-Ардени (департман),Ardennes (department)
+Ардени,Ardennes
 Арденска битка,Battle of the Bulge
 Ареал,Habitat
 Ареј,Ares
@@ -875,7 +875,7 @@ serbian,english
 Арије,Arius
 Арканзас,Arkansas
 Аркебуза,Arquebus
-Арл (град),Arles
+Арл,Arles
 Арман Жан ди Плеси де Ришеље,Cardinal Richelieu
 Арнем,Arnhem
 Арнолд Шенберг,Arnold Schoenberg
@@ -928,13 +928,13 @@ serbian,english
 Атакама,Atacama Desert
 Атила,Attila the Hun
 Атина,Athens
-Атина (митологија),Athena
+Атина,Athena
 Атланта,Atlanta
 Атлантида,Atlantis
 Атлантски океан,Atlantic Ocean
-Атлас,Atlas (disambiguation)
-Атлас (митологија),Atlas (mythology)
-Атлетика,Athletics (track and field)
+Атлас,Atlas
+Атлас,Atlas
+Атлетика,Athletics
 Атмосферски притисак,Atmospheric pressure
 Атол,Atoll
 Атом,Atom
@@ -981,7 +981,7 @@ serbian,english
 Бадем,Almond
 Бади Холи,Buddy Holly
 Бадминтон,Badminton
-База (хемија),Base (chemistry)
+База,Base
 База података,Database
 Базалт,Basalt
 Базел,Basel
@@ -995,7 +995,7 @@ serbian,english
 Бактерија,Bacteria
 Баку,Baku
 Балалајка,Balalaika
-Балатон (језеро),Lake Balaton
+Балатон,Lake Balaton
 Балдер,Baldr
 Балеарска острва,Balearic Islands
 Балет,Ballet
@@ -1018,7 +1018,7 @@ serbian,english
 Баранкиља,Barranquilla
 Барбадос,Barbados
 Барбра Страјсенд,Barbra Streisand
-Барел,Barrel (unit)
+Барел,Barrel
 Баренцово море,Barents Sea
 Бари,Bari
 Баријум,Barium
@@ -1030,12 +1030,12 @@ serbian,english
 Басна,Fable
 Бастер,Basseterre
 Бастер Китон,Buster Keaton
-Бат (Сомерсет),Bath
+Бат,Bath
 Батаљон,Battalion
-Батерија,Battery (electricity)
+Батерија,Battery
 Батон Руж,Baton Rouge
 Баухаус,Bauhaus
-Бафало (Њујорк),Buffalo
+Бафало,Buffalo
 Бафинов залив,Baffin Bay
 Бафинова земља,Baffin Island
 Бахреин,Bahrain
@@ -1078,7 +1078,7 @@ serbian,english
 Берингово море,Bering Sea
 Берклијум,Berkelium
 Берлин,Berlin
-Бермингам (Алабама),Birmingham
+Бермингам,Birmingham
 Бермуди,Bermuda
 Бермудски троугао,Bermuda Triangle
 Берн,Berne
@@ -1123,12 +1123,12 @@ serbian,english
 Бисер,Pearl
 Бискајски залив,Bay of Biscay
 Бискупија,Diocese
-Бистабилно коло,Flip-flop (electronics)
-Бит (рачунарство),Bit
+Бистабилно коло,Flip-flop
+Бит,Bit
 Битка за Британију,Battle of Britain
 Битка код Аустерлица,Battle of Austerlitz
 Битка код Ватерлоа,Battle of Waterloo
-Битка код Лепанта,Battle of Lepanto (1571)
+Битка код Лепанта,Battle of Lepanto
 Битка код Мидвеја,Battle of Midway
 Битка код Трафалгара,Battle of Trafalgar
 Битка код Хејстингса,Battle of Hastings
@@ -1137,7 +1137,7 @@ serbian,english
 Бихевиоризам,Behaviorism
 Бицикл,Bicycle
 Бициклизам,Cycling
-Бич (биологија),Flagellum
+Бич,Flagellum
 Бишкек,Bishkek
 Биљке,Plant
 Биљке месождерке,Carnivorous plant
@@ -1150,8 +1150,8 @@ serbian,english
 Боб Дилан,Bob Dylan
 Боб Марли,Bob Marley
 Бог,God
-Богородица,Mary (mother of Jesus)
-Богојављење,Epiphany (Christian)
+Богородица,Mary
+Богојављење,Epiphany
 Боденско језеро,Lake Constance
 Бодисатва,Bodhisattva
 Бодљокошци,Echinoderm
@@ -1166,8 +1166,8 @@ serbian,english
 Болцано,Bolzano
 Бон,Bonn
 Бонсаи,Bonsai
-Бор (биљка),Pine
-Бор (хемијски елемент),Boron
+Бор,Pine
+Бор,Boron
 Бордо,Bordeaux
 Борис Годунов,Boris Godunov
 Борис Пастернак,Boris Pasternak
@@ -1205,11 +1205,11 @@ serbian,english
 Брдски бициклизам,Mountain bike
 Бреза,Birch
 Бремен,Bremen
-Бремен (покрајина),Bremen (state)
+Бремен,Bremen
 Бремерхафен,Bremerhaven
 Бресква,Peach
-Брест (вишезначна одредница),Brest
-Брест (град),Brest
+Брест,Brest
+Брест,Brest
 Бретања,Bretagne
 Бреша,Brescia
 Брза храна,Fast food
@@ -1227,13 +1227,13 @@ serbian,english
 Бриџтаун,Bridgetown
 Брно,Brno
 Брод,Ship
-Бродвеј,Broadway (New York City)
+Бродвеј,Broadway
 Броколи,Broccoli
 Бром,Bromine
 Бронза,Bronze
 Бронзано доба,Bronze Age
 Број,Number
-Број е,E (mathematical constant)
+Број е,E
 Бруклин,Brooklyn
 Бруклински мост,Brooklyn Bridge
 Брунеј,Brunei
@@ -1241,10 +1241,10 @@ serbian,english
 Бруто домаћи производ,Gross domestic product
 Бубамара,Coccinellidae
 Бубашвабе,Cockroach
-Бубањ (музички инструмент),Drum
+Бубањ,Drum
 Бубоједи,Insectivora
 Бубрег,Kidney
-Буве (острво),Bouvet Island
+Буве,Bouvet Island
 Бугарска,Bulgaria
 Буда,Buddha
 Будизам,Buddhism
@@ -1253,13 +1253,13 @@ serbian,english
 Буенос Ајрес,Buenos Aires
 Буква,Beech
 Букурешт,Bucharest
-Булова алгебра,Boolean algebra (structure)
+Булова алгебра,Boolean algebra
 Бумбар,Bumblebee
 Бургоња,Bourgogne
 Буркина Фасо,Burkina Faso
 Бурса,Bursa
 Бутан,Bhutan
-Бутан (једињење),Butane
+Бутан,Butane
 Буџумбура,Bujumbura
 Вавилон,Babylon
 Вавилонска кула,Tower of Babel
@@ -1279,7 +1279,7 @@ serbian,english
 Вандализам,Vandalism
 Ванкувер,Vancouver
 Вануату,Vanuatu
-Вар (департман),Var (department)
+Вар,Var
 Варвари,Barbarian
 Варење,Digestion
 Варна,Varna
@@ -1294,24 +1294,24 @@ serbian,english
 Ватикан,Vatican City
 Ватра,Fire
 Ватрогасац,Firefighter
-Вашингтон,Washington (disambiguation)
-Вашингтон (град),Washington
-Вашингтон (држава),Washington
+Вашингтон,Washington
+Вашингтон,Washington
+Вашингтон,Washington
 Вајарство,Sculpture
 Вајмар,Weimar
 Вајмарска Република,Weimar Republic
 Вајоминг,Wyoming
 Вајтхорс,Whitehorse
-Ваљак (геометрија),Cylinder (geometry)
+Ваљак,Cylinder
 Ваљкасти црви,Nematode
-Вебер (јединица),Weber (unit)
+Вебер,Weber
 Веверица,Squirrel
 Везивно ткиво,Connective tissue
 Везув,Mount Vesuvius
 Век,Century
-Вектор,Vector (spatial)
+Вектор,Vector
 Велебиље,Deadly nightshade
-Велемајстор,Grandmaster (chess)
+Велемајстор,Grandmaster
 Велизар,Belisarius
 Велика Британија,Great Britain
 Велика криза,Great Depression
@@ -1324,9 +1324,9 @@ serbian,english
 Велики четвртак,Maundy Thursday
 Велингтон,Wellington
 Велс,Wales
-Венера,Venus (disambiguation)
-Венера (митологија),Venus (mythology)
-Венера (планета),Venus
+Венера,Venus
+Венера,Venus
+Венера,Venus
 Венето,Veneto
 Венеција,Venice
 Венецуела,Venezuela
@@ -1339,7 +1339,7 @@ serbian,english
 Версај,Versailles
 Версајска палата,Palace of Versailles
 Версајски споразум,Treaty of Versailles
-Веслање,Rowing (sport)
+Веслање,Rowing
 Веспазијан,Vespasian
 Вестфалски мир,Peace of Westphalia
 Вето,Veto
@@ -1351,9 +1351,9 @@ serbian,english
 Викинзи,Viking
 Виктор Иго,Victor Hugo
 Викторија,Victoria
-Викторија (Аустралија),Victoria (Australia)
-Викторија (Сејшели),Victoria
-Викторија (град),Victoria
+Викторија,Victoria
+Викторија,Victoria
+Викторија,Victoria
 Викторијини водопади,Victoria Falls
 Викторијино језеро,Lake Victoria
 Вили Брант,Willy Brandt
@@ -1370,7 +1370,7 @@ serbian,english
 Вилхелм II Немачки,William II
 Вилхелм Хершел,William Herschel
 Виндхук,Windhoek
-Винипег (град),Winnipeg
+Винипег,Winnipeg
 Вино,Wine
 Винсент ван Гог,Vincent van Gogh
 Винстон Черчил,Winston Churchill
@@ -1398,7 +1398,7 @@ serbian,english
 Витус Беринг,Vitus Bering
 Вишну,Vishnu
 Вијак,Screw
-Вијен (департман),Vienne
+Вијен,Vienne
 Вијентијан,Vientiane
 Вијетнам,Vietnam
 Вијетнамски рат,Vietnam War
@@ -1416,7 +1416,7 @@ serbian,english
 Водопад,Waterfall
 Воз,Train
 Вокатив,Vocative case
-Волга (река),Volga River
+Волга,Volga River
 Волгоград,Volgograd
 Волт,Volt
 Волт Витмен,Walt Whitman
@@ -1433,7 +1433,7 @@ serbian,english
 Време полураспада,Half-life
 Временска зона,Time zone
 Врлина,Virtue
-Врста (биологија),Species
+Врста,Species
 Вуди Ален,Woody Allen
 Вудро Вилсон,Woodrow Wilson
 Вуду,Voodoo
@@ -1442,7 +1442,7 @@ serbian,english
 Вулгарни латински,Vulgar Latin
 Вулгата,Vulgate
 Вулкан,Volcano
-Вулкан (митологија),Vulcan (mythology)
+Вулкан,Vulcan
 Вухан,Wuhan
 Вјетрењача,Windmill
 Вјештачка интелигенција,Artificial intelligence
@@ -1452,34 +1452,34 @@ serbian,english
 Гадолинијум,Gadolinium
 Гаетано Доницети,Gaetano Donizetti
 Газа,Gaza
-Гаим,Pidgin (software)
+Гаим,Pidgin
 Галаксија,Galaxy
 Галатија,Galatia
 Галенит,Galena
 Галилео Галилеј,Galileo Galilei
 Галилеја,Galilee
-Галиција,Galicia (Spain)
-Галија (брод),Galley
-Галија (провинција),Gaul
+Галиција,Galicia
+Галија,Galley
+Галија,Gaul
 Галијум,Gallium
 Гама,Gamma
 Гама зрачење,Gamma ray
 Гамал Абдел Насер,Gamal Abdel Nasser
 Гамбија,The Gambia
 Гана,Ghana
-Ганимед (сателит),Ganymede (moon)
+Ганимед,Ganymede
 Гарфилд,Garfield
 Гас,Gas
 Гасовити џин,Gas giant
 Гај Јулије Цезар,Julius Caesar
-Гвадалахара (Мексико),Guadalajara
+Гвадалахара,Guadalajara
 Гваделуп,Guadeloupe
-Гватемала (град),Guatemala City
+Гватемала,Guatemala City
 Гвајакил,Guayaquil
 Гвинеја,Guinea
 Гвинеја Бисао,Guinea-Bissau
 Гвинејски залив,Gulf of Guinea
-Гвожђе (хемијски елемент),Iron
+Гвожђе,Iron
 Гвоздена завеса,Iron Curtain
 Гвоздено доба,Iron Age
 Геб,Geb
@@ -1511,7 +1511,7 @@ serbian,english
 Гетеборг,Gothenburg
 Гето,Ghetto
 Геј,Gay
-Геја,Gaia (mythology)
+Геја,Gaia
 Гејзир,Geyser
 Ги де Мопасан,Guy de Maupassant
 Гибралтар,Gibraltar
@@ -1552,7 +1552,7 @@ serbian,english
 Гнеј Помпеј Велики,Pompey
 Гном,GNOME
 Гностицизам,Gnosticism
-Го,Go (board game)
+Го,Go
 Гоа,Goa
 Гоби,Gobi Desert
 Година,Year
@@ -1573,7 +1573,7 @@ serbian,english
 Гравитациона константа,Gravitational constant
 Гравитација,Gravitation
 Град,Town
-Град (падавина),Hail
+Град,Hail
 Граматика,Grammar
 Гранада,Granada
 Гранит,Granite
@@ -1586,13 +1586,13 @@ serbian,english
 Грб,Coat of arms
 Грегор Мендел,Gregor Mendel
 Грегоријански календар,Gregorian calendar
-Гренд слем,Grand Slam (tennis)
+Гренд слем,Grand Slam
 Гренланд,Greenland
 Гренландско море,Greenland Sea
 Гренобл,Grenoble
 Грета Гарбо,Greta Garbo
 Грех,Sin
-Греј (јединица),Gray (unit)
+Греј,Gray
 Грејпфрут,Grapefruit
 Грејс Кели,Grace Kelly
 Гринпис,Greenpeace
@@ -1601,9 +1601,9 @@ serbian,english
 Гробље,Cemetery
 Грожђе,Grape
 Грозни,Grozny
-Грузија,Georgia (country)
+Грузија,Georgia
 Група,Group
-Група (математика),Group (mathematics)
+Група,Group
 Грчка,Greece
 Грчка ватра,Greek fire
 Грчка митологија,Greek mythology
@@ -1649,7 +1649,7 @@ serbian,english
 Данте Алигијери,Dante Alighieri
 Дар ес Салам,Dar es Salaam
 Дарвин,Darwin
-Дарвин (Северна територија),Darwin
+Дарвин,Darwin
 Дарданели,Dardanelles
 Дарма,Dharma
 Дармштатијум,Darmstadtium
@@ -1667,7 +1667,7 @@ serbian,english
 Девичанска острва,Virgin Islands
 Дедукција,Deductive reasoning
 Деизам,Deism
-Деимос,Deimos (moon)
+Деимос,Deimos
 Декадни систем,Decimal
 Декартов координатни систем,Cartesian coordinate system
 Дела апостолска,Acts of the Apostles
@@ -1680,7 +1680,7 @@ serbian,english
 Демографија,Demography
 Демократија,Democracy
 Демократска Република Конго,Democratic Republic of the Congo
-Демократска странка (САД),Democratic Party (United States)
+Демократска странка,Democratic Party
 Демокрит,Democritus
 Демон,Demon
 Денвер,Denver
@@ -1697,12 +1697,12 @@ serbian,english
 Дефиниција,Definition
 Дефлација,Deflation
 Децембар,December
-Деције Трајан,Decius (emperor)
+Деције Трајан,Decius
 Дечја психоанализа,Developmental psychology
 Дејвид Ливингстон,David Livingstone
 Дејвид Хјум,David Hume
 Дејвис куп,Davis Cup
-Дељење,Division (mathematics)
+Дељење,Division
 Дивља мачка,Wildcat
 Дигитална фотографија,Digital photography
 Дижон,Dijon
@@ -1713,7 +1713,7 @@ serbian,english
 Дикотиледоне биљке,Dicotyledon
 Диктатура,Dictatorship
 Димензија,Dimension
-Динамика (физика),Dynamics (physics)
+Динамика,Dynamics
 Династија Ћинг,Qing Dynasty
 Династија Минг,Ming Dynasty
 Диносауруси,Dinosaur
@@ -1732,18 +1732,18 @@ serbian,english
 Дифузија,Diffusion
 Дијалект,Dialect
 Дијамант,Diamond
-Дијана,Diana (mythology)
+Дијана,Diana
 Дијареја,Diarrhea
 Дијаспора,Diaspora
 Дијего Ривера,Diego Rivera
 Диџеј,Disc jockey
 Дмитриј Дмитријевич Шостакович,Dmitri Shostakovich
 Дмитриј Мендељејев,Dmitri Mendeleev
-Доберман (раса паса),Doberman Pinscher
+Доберман,Doberman Pinscher
 Догма,Dogma
 Додекаедар,Dodecahedron
 Додома,Dodoma
-Доктор Хаус (серија),House (TV series)
+Доктор Хаус,House
 Долмен,Dolmen
 Доломит,Dolomite
 Домаћи врабац,House Sparrow
@@ -1752,7 +1752,7 @@ serbian,english
 Доминиканска Република,Dominican Republic
 Доминикански ред,Dominican Order
 Домицијан,Domitian
-Дон,Don River (Russia)
+Дон,Don River
 Дон Кихот,Don Quixote
 Донатело,Donatello
 Донато Браманте,Donato Bramante
@@ -1784,7 +1784,7 @@ serbian,english
 Друштво,Society
 Друштво народа,League of Nations
 Дуализам,Dualism
-Дуализам,Dualism (philosophy of mind)
+Дуализам,Dualism
 Дубаи,Dubai
 Дубнијум,Dubnium
 Дубровник,Dubrovnik
@@ -1793,7 +1793,7 @@ serbian,english
 Дужина,Length
 Дунав,Danube
 Дур,Major scale
-Духови (празник),Pentecost
+Духови,Pentecost
 Душа,Soul
 Душанбе,Dushanbe
 Дуња,Quince
@@ -1802,16 +1802,16 @@ serbian,english
 ЕТА,ETA
 Ева Браун,Eva Braun
 Евнух,Eunuch
-Еволуција (биологија),Evolution
+Еволуција,Evolution
 Евро,Euro
 Евроазија,Eurasia
 Европа,Europe
-Европа (сателит),Europa (moon)
+Европа,Europa
 Европска тиса,Taxus baccata
 Европска унија,European Union
 Европска централна банка,European Central Bank
 Евхаристија,Eucharist
-Егејска Македонија,Macedonia (Greece)
+Егејска Македонија,Macedonia
 Егејско море,Aegean Sea
 Егзибиционизам,Exhibitionism
 Египат,Egypt
@@ -1841,12 +1841,12 @@ serbian,english
 Економија,Economics
 Економија,Economy
 Екосистем,Ecosystem
-Ексер,Nail (fastener)
+Ексер,Nail
 Експеримент,Experiment
 Експлозија,Explosion
 Експоненцијална функција,Exponential function
 Експресионизам,Expressionism
-Ексцентрицитет,Eccentricity (mathematics)
+Ексцентрицитет,Eccentricity
 Ел Греко,El Greco
 Ел Пасо,El Paso
 Елвис Пресли,Elvis Presley
@@ -1882,7 +1882,7 @@ serbian,english
 Емпиризам,Empiricism
 Емулатор,Emulator
 Емулзија,Emulsion
-Ен (Рона-Алпи),Ain
+Ен,Ain
 Енглези,English people
 Енглеска,England
 Енглески грађански рат,English Civil War
@@ -1895,7 +1895,7 @@ serbian,english
 Ендру Џонсон,Andrew Johnson
 Енеида,Aeneid
 Енергија,Energy
-Енергија,Energy (society)
+Енергија,Energy
 Енеја,Aeneas
 Ензим,Enzyme
 Енкориџ,Anchorage
@@ -1904,7 +1904,7 @@ serbian,english
 Ентропија,Entropy
 Енциклопедија,Encyclopedia
 Еол,Aeolus
-Еон (геологија),Eon (geology)
+Еон,Eon
 Еос,Eos
 Епидемиологија,Epidemiology
 Епидемија,Epidemic
@@ -1923,14 +1923,14 @@ serbian,english
 Ервин Ромел,Erwin Rommel
 Ереб,Erebus
 Ерекција,Erection
-Ерида (митологија),Eris (mythology)
-Ерида (патуљаста планета),Eris (dwarf planet)
+Ерида,Eris
+Ерида,Eris
 Ерик Карлфелт,Erik Axel Karlfeldt
 Ерик Сати,Erik Satie
 Ернест Радерфорд,Ernest Rutherford
 Ернест Хемингвеј,Ernest Hemingway
 Ернст Теодор Вилхелм Хофман,E. T. A. Hoffmann
-Ерос,Eros (mythology)
+Ерос,Eros
 Еротика,Erotica
 Есекс,Essex
 Есен,Essen
@@ -1942,7 +1942,7 @@ serbian,english
 Есхатологија,Eschatology
 Есхил,Aeschylus
 Етан,Ethane
-Етар (хемија),Ether
+Етар,Ether
 Етерично уље,Essential oil
 Етика,Ethics
 Етимологија,Etymology
@@ -1960,7 +1960,7 @@ serbian,english
 Еуфемизам,Euphemism
 Еуфрат,Euphrates
 Ефес,Ephesus
-Ехидна,Echidna (mythology)
+Ехидна,Echidna
 Ешерихија коли,Escherichia coli
 Жаба,Frog
 Жак Дерида,Jacques Derrida
@@ -1979,7 +1979,7 @@ serbian,english
 Жена,Woman
 Женева,Geneva
 Женевско језеро,Lake Geneva
-Жива,Mercury (element)
+Жива,Mercury
 Живот,Life
 Животиње,Animal
 Жил Верн,Jules Verne
@@ -2021,28 +2021,28 @@ serbian,english
 Заратуштра,Zoroaster
 Застава,Flag
 Зачин,Sauce
-Заштитни зид,Firewall (networking)
+Заштитни зид,Firewall
 Заједница независних држава,Commonwealth of Independent States
 Звезда,Star
 Звери,Carnivora
-Звоно,Bell (instrument)
+Звоно,Bell
 Звук,Sound
 Зглавкари,Arthropod
 Зглоб,Joint
 Здравље,Health
 Зебра,Zebra
 Зевс,Zeus
-Зевс,Zeus (disambiguation)
+Зевс,Zeus
 Зелена боја,Green
 Зелена пупавка,Amanita phalloides
 Зеленортска Острва,Cape Verde
 Земља,Earth
-Земљина кора,Crust (geology)
+Земљина кора,Crust
 Земљотрес,Earthquake
 Земљоуз,Isthmus
 Зен,Zen
 Зенит,Zenith
-Зенон (цар),Zeno (emperor)
+Зенон,Zeno
 Зенон из Елеје,Zeno of Elea
 Зигмунд Фројд,Sigmund Freud
 Зигурат,Ziggurat
@@ -2079,11 +2079,11 @@ serbian,english
 Избеглица,Refugee
 Извод,Derivative
 Изворна ћелија,Stem cell
-Извршна власт,Executive (government)
+Извршна власт,Executive
 Изида,Isis
 Измет,Feces
 Измишљени лик,Fictional character
-Изомер (хемијски),Isomer
+Изомер,Isomer
 Изопштење,Excommunication
 Изотоп,Isotope
 Израел,Israel
@@ -2127,15 +2127,15 @@ serbian,english
 Инсулин,Insulin
 Интеграл,Integral
 Интегрисано коло,Integrated circuit
-Интервал (музика),Interval (music)
+Интервал,Interval
 Интерконтинентална балистичка ракета,Intercontinental ballistic missile
 Интерлингва,Interlingua
 Интернет,Internet
 Интернет домен,Domain name
 Интернет експлорер,Internet Explorer
 Интернет претраживач,Search engine
-Интернет трол,Troll (Internet)
-Интерпретатор,Interpreter (computing)
+Интернет трол,Troll
+Интерпретатор,Interpreter
 Интерференција,Interference
 Инфинитив,Infinitive
 Инфлација,Inflation
@@ -2143,8 +2143,8 @@ serbian,english
 Инфрацрвена светлост,Infrared
 Инцест,Incest
 Инч,Inch
-Ио,Io (moon)
-Ио (митологија),Io (mythology)
+Ио,Io
+Ио,Io
 Ирак,Iraq
 Иран,Iran
 Ирационалан број,Irrational number
@@ -2211,9 +2211,9 @@ serbian,english
 Календар,Calendar
 Калигула,Caligula
 Калиопа,Calliope
-Калипсо,Calypso (mythology)
-Калиста,Callisto (mythology)
-Калисто,Callisto (moon)
+Калипсо,Calypso
+Калиста,Callisto
+Калисто,Callisto
 Калиф,Caliph
 Калифорнија,California
 Калифорнијум,Californium
@@ -2233,8 +2233,8 @@ serbian,english
 Камила,Camel
 Кампала,Kampala
 Кампанија,Campania
-Кан (Азурна обала),Cannes
-Кан (титула),Khan
+Кан,Cannes
+Кан,Khan
 Канада,Canada
 Канадски долар,Canadian dollar
 Канарска острва,Canary Islands
@@ -2254,8 +2254,8 @@ serbian,english
 Карате,Karate
 Карачи,Karachi
 Карбоксилна киселина,Carboxylic acid
-Карбон (период),Carboniferous
-Кардинал,Cardinal (Catholicism)
+Карбон,Carboniferous
+Кардинал,Cardinal
 Кардиологија,Cardiology
 Кардиф,Cardiff
 Кариби,Caribbean
@@ -2277,16 +2277,16 @@ serbian,english
 Каролинзи,Carolingian dynasty
 Карпати,Carpathian Mountains
 Карско море,Kara Sea
-Карта (мапа),Map
+Карта,Map
 Картагина,Carthage
 Картахена,Cartagena
 Картографија,Cartography
 Картум,Khartoum
 Карфиол,Cauliflower
-Касандра (митологија),Cassandra
+Касандра,Cassandra
 Каспијско језеро,Caspian Sea
 Каста,Caste
-Кастиља,Castile (historical region)
+Кастиља,Castile
 Кастри,Castries
 Катализатор,Catalysis
 Каталина од Арагона,Catherine of Aragon
@@ -2295,522 +2295,522 @@ serbian,english
 Катаракта,Cataract
 Катари,Catharism
 Катарина Пар,Catherine Parr
-Категорија:1750-е,1750s
-Категорија:1760-е,1760s
-Категорија:1770-е,1770s
-Категорија:1780-е,1780s
-Категорија:1790-е,1790s
-Категорија:1820-е,1820s
-Категорија:1830-е,1830s
-Категорија:1840-е,1840s
-Категорија:1860-е,1860s
-Категорија:1870-е,1870s
-Категорија:1880-е,1880s
-Категорија:1890-е,1890s
-Категорија:1900-е,1900s
-Категорија:1920-е,1920s
-Категорија:1930-е,1930s
-Категорија:1940-е,1940s
-Категорија:1950-е,1950s
-Категорија:1960-е,1960s
-Категорија:1970-е,1970s
-Категорија:1980-е,1980s
-Категорија:1990-е,1990s
-Категорија:Јамајка,Jamaica
-Категорија:Јапан,Japan
-Категорија:Јемен,Yemen
-Категорија:Јерменија,Armenia
-Категорија:Јерусалим,Jerusalem
-Категорија:Јордан,Jordan
-Категорија:Југославија,Yugoslavia
-Категорија:Јудаизам,Judaism
-Категорија:Јужна Америка,South America
-Категорија:Јужна Кореја,South Korea
-Категорија:Јужноафричка Република,South Africa
-Категорија:Јупитер,Jupiter
-Категорија:Људска друштва,Society
-Категорија:Њујорк,New York City
-Категорија:Џез,Jazz
-Категорија:Џибути,Djibouti
-Категорија:Авганистан,Afghanistan
-Категорија:Авиони,Aircraft
-Категорија:Азербејџан,Azerbaijan
-Категорија:Азија,Asia
-Категорија:Акустика,Acoustics
-Категорија:Албанија,Albania
-Категорија:Алгебра,Algebra
-Категорија:Алжир,Algeria
-Категорија:Алпи,Alps
-Категорија:Алтернативна медицина,Alternative medicine
-Категорија:Алхемија,Alchemy
-Категорија:Амерички фудбал,American football
-Категорија:Амстердам,Amsterdam
-Категорија:Анархизам,Anarchism
-Категорија:Анатомија,Anatomy
-Категорија:Ангола,Angola
-Категорија:Андора,Andorra
-Категорија:Аниме,Anime
-Категорија:Антарктик,Antarctica
-Категорија:Антигва и Барбуда,Antigua and Barbuda
-Категорија:Антисемитизам,Antisemitism
-Категорија:Антропологија,Anthropology
-Категорија:Аргентина,Argentina
-Категорија:Аритметика,Arithmetic
-Категорија:Аруба,Aruba
-Категорија:Археологија,Archaeology
-Категорија:Архитектура,Architecture
-Категорија:Асирско царство,Assyria
-Категорија:Астрологија,Astrology
-Категорија:Астрономија,Astronomy
-Категорија:Астрофизика,Astrophysics
-Категорија:Атлетика,Athletics
-Категорија:Атомска физика,Atomic physics
-Категорија:Аустралија,Australia
-Категорија:Аустрија,Austria
-Категорија:Африка,Africa
-Категорија:Аљаска,Alaska
-Категорија:Баварска,Bavaria
-Категорија:Бактерије,Bacteria
-Категорија:Балет,Ballet
-Категорија:Бангладеш,Bangladesh
-Категорија:Банке,Banks
-Категорија:Барбадос,Barbados
-Категорија:Барселона,Barcelona
-Категорија:Бахами,Bahamas
-Категорија:Бахреин,Bahrain
-Категорија:Безбедност,Security
-Категорија:Белгија,Belgium
-Категорија:Белизе,Belize
-Категорија:Белорусија,Belarus
-Категорија:Бенин,Benin
-Категорија:Берлин,Berlin
-Категорија:Бермуди,Bermuda
-Категорија:Беч,Vienna
-Категорија:Библија,Bible
-Категорија:Биографије,People
-Категорија:Биологија,Biology
-Категорија:Биохемија,Biochemistry
-Категорија:Бициклизам,Cycling
-Категорија:Бокс,Boxing
-Категорија:Боксери,Boxers
-Категорија:Боливија,Bolivia
-Категорија:Босна и Херцеговина,Bosnia and Herzegovina
-Категорија:Ботаника,Botany
-Категорија:Боцвана,Botswana
-Категорија:Бразил,Brazil
-Категорија:Бројеви,Numbers
-Категорија:Брунеј,Brunei
-Категорија:Бугарска,Bulgaria
-Категорија:Будизам,Buddhism
-Категорија:Буркина Фасо,Burkina Faso
-Категорија:Бурунди,Burundi
-Категорија:Бутан,Bhutan
-Категорија:Ваздухопловство,Aviation
-Категорија:Ватикан,Vatican City
-Категорија:Вајарство,Sculpture
-Категорија:Велс,Wales
-Категорија:Венецуела,Venezuela
-Категорија:Византијско царство,Byzantine Empire
-Категорија:Вишезначна одредница,Disambiguation
-Категорија:Вијетнам,Vietnam
-Категорија:Вијетнамски рат,Vietnam War
-Категорија:Вода,Water
-Категорија:Војска,Military
-Категорија:Воће,Fruit
-Категорија:Време,Time
-Категорија:Вулканологија,Volcanology
-Категорија:Габон,Gabon
-Категорија:Гамбија,The Gambia
-Категорија:Гана,Ghana
-Категорија:Гватемала,Guatemala
-Категорија:Гвајана,Guyana
-Категорија:Гвинеја,Guinea
-Категорија:Гвинеја Бисао,Guinea-Bissau
-Категорија:Генеалогија,Genealogy
-Категорија:Генетика,Genetics
-Категорија:Геноцид,Genocide
-Категорија:Географија,Geography
-Категорија:Геодезија,Geodesy
-Категорија:Геологија,Geology
-Категорија:Геометрија,Geometry
-Категорија:Геоморфологија,Geomorphology
-Категорија:Геофизика,Geophysics
-Категорија:Гибралтар,Gibraltar
-Категорија:Голф,Golf
-Категорија:Граматика,Grammar
-Категорија:Графички дизајн,Graphic design
-Категорија:Гренада,Grenada
-Категорија:Гренланд,Greenland
-Категорија:Грузија,Georgia (country)
-Категорија:Грчка,Greece
-Категорија:Грчка митологија,Greek mythology
-Категорија:Гугл,Google
-Категорија:Гљиве,Fungi
-Категорија:Дани,Days
-Категорија:Данска,Denmark
-Категорија:Демографија,Demography
-Категорија:Демократска Република Конго,Democratic Republic of the Congo
-Категорија:Дизајн,Design
-Категорија:Дипломатија,Diplomacy
-Категорија:Доминика,Dominica
-Категорија:Доминиканска Република,Dominican Republic
-Категорија:Други светски рат,World War II
-Категорија:Европа,Europe
-Категорија:Европска унија,European Union
-Категорија:Египат,Egypt
-Категорија:Еквадор,Ecuador
-Категорија:Екваторијална Гвинеја,Equatorial Guinea
-Категорија:Екологија,Ecology
-Категорија:Економија,Economics
-Категорија:Електромагнетизам,Electromagnetism
-Категорија:Електроника,Electronics
-Категорија:Електротехника,Electrical engineering
-Категорија:Електрохемија,Electrochemistry
-Категорија:Емоције,Emotion
-Категорија:Енглези,English people
-Категорија:Енглеска,England
-Категорија:Енглески језик,English language
-Категорија:Ендокринологија,Endocrinology
-Категорија:Еритреја,Eritrea
-Категорија:Есперанто,Esperanto
-Категорија:Естонија,Estonia
-Категорија:Етика,Ethics
-Категорија:Етиопија,Ethiopia
-Категорија:Етнологија,Ethnology
-Категорија:Живот,Life
-Категорија:Забава,Entertainment
-Категорија:Замбија,Zambia
-Категорија:Западна Сахара,Western Sahara
-Категорија:Здравље,Health
-Категорија:Зеленортска острва,Cape Verde
-Категорија:Земља,Earth
-Категорија:Зимбабве,Zimbabwe
-Категорија:Зимске олимпијске игре,Winter Olympic Games
-Категорија:Зоологија,Zoology
-Категорија:Израел,Israel
-Категорија:Имунологија,Immunology
-Категорија:Индија,India
-Категорија:Индијски океан,Indian Ocean
-Категорија:Индонезија,Indonesia
-Категорија:Индустрија,Industry
-Категорија:Интернет,Internet
-Категорија:Информатика,Computer science
-Категорија:Информатика,Computing
-Категорија:Ирак,Iraq
-Категорија:Иран,Iran
-Категорија:Ирци,Irish people
-Категорија:Ислам,Islam
-Категорија:Исланд,Iceland
-Категорија:Историја,History
-Категорија:Историја уметности,Art history
-Категорија:Источни Тимор,East Timor
-Категорија:Италија,Italy
-Категорија:Кавказ,Caucasus
-Категорија:Казахстан,Kazakhstan
-Категорија:Калифорнија,California
-Категорија:Камбоџа,Cambodia
-Категорија:Камерун,Cameroon
-Категорија:Канада,Canada
-Категорија:Кардиологија,Cardiology
-Категорија:Кариби,Caribbean
-Категорија:Картографија,Cartography
-Категорија:Каталонија,Catalonia
-Категорија:Катар,Qatar
-Категорија:Кафа,Coffee
-Категорија:Квантна механика,Quantum mechanics
-Категорија:Кенија,Kenya
-Категорија:Кина,China
-Категорија:Кипар,Cyprus
-Категорија:Киргизија,Kyrgyzstan
-Категорија:Класична музика,Classical music
-Категорија:Клима,Climate
-Категорија:Климатологија,Climatology
-Категорија:Колумбија,Colombia
-Категорија:Комори,Comoros
-Категорија:Комунизам,Communism
-Категорија:Комуникације,Communication
-Категорија:Космологија,Cosmology
-Категорија:Косово и Метохија,Kosovo
-Категорија:Костарика,Costa Rica
-Категорија:Кошарка,Basketball
-Категорија:Криптографија,Cryptography
-Категорија:Кристалографија,Crystallography
-Категорија:Куба,Cuba
-Категорија:Кувајт,Kuwait
-Категорија:Култура,Culture
-Категорија:Књижевност,Literature
-Категорија:Лаос,Laos
-Категорија:Лесото,Lesotho
-Категорија:Летонија,Latvia
-Категорија:Либан,Lebanon
-Категорија:Либерија,Liberia
-Категорија:Либија,Libya
-Категорија:Лингвистика,Linguistics
-Категорија:Линеарна алгебра,Linear algebra
-Категорија:Линукс,Linux
-Категорија:Литванија,Lithuania
-Категорија:Лихтенштајн,Liechtenstein
-Категорија:Логика,Logic
-Категорија:Лондон,London
-Категорија:Луксембург,Luxembourg
-Категорија:Магнетизам,Magnetism
-Категорија:Мадагаскар,Madagascar
-Категорија:Макроекономија,Macroeconomics
-Категорија:Малдиви,Maldives
-Категорија:Малезија,Malaysia
-Категорија:Мали,Mali
-Категорија:Малта,Malta
-Категорија:Маркетинг,Marketing
-Категорија:Марксизам,Marxism
-Категорија:Мароко,Morocco
-Категорија:Математика,Mathematics
-Категорија:Математичка логика,Mathematical logic
-Категорија:Мауританија,Mauritania
-Категорија:Маурицијус,Mauritius
-Категорија:Машинство,Mechanical engineering
-Категорија:Мађарска,Hungary
-Категорија:Медицина,Medicine
-Категорија:Мексико,Mexico
-Категорија:Месопотамија,Mesopotamia
-Категорија:Металургија,Metallurgy
-Категорија:Метафизика,Metaphysics
-Категорија:Метеорологија,Meteorology
-Категорија:Метро,Rapid transit
-Категорија:Механика,Mechanics
-Категорија:Међународно право,International law
-Категорија:Микробиологија,Microbiology
-Категорија:Минералогија,Mineralogy
-Категорија:Митологија,Mythology
-Категорија:Мијанмар,Burma
-Категорија:Мијанмар,Myanmar
-Категорија:Мода,Fashion
-Категорија:Мозамбик,Mozambique
-Категорија:Молдавија,Moldova
-Категорија:Молекуларна биологија,Molecular biology
-Категорија:Монако,Monaco
-Категорија:Монголија,Mongolia
-Категорија:Мореузи,Straits
-Категорија:Москва,Moscow
-Категорија:Мостови,Bridges
-Категорија:Музика,Music
-Категорија:НАТО,NATO
-Категорија:Намибија,Namibia
-Категорија:Наука,Science
-Категорија:Науру,Nauru
-Категорија:Научна фантастика,Science fiction
-Категорија:Нацизам,Nazism
-Категорија:Национализам,Nationalism
-Категорија:Нацистичка Немачка,Nazi Germany
-Категорија:Немачка,Germany
-Категорија:Немачки језик,German language
-Категорија:Непал,Nepal
-Категорија:Неурологија,Neurology
-Категорија:Нигер,Niger
-Категорија:Нигерија,Nigeria
-Категорија:Никарагва,Nicaragua
-Категорија:Нобелова награда,Nobel Prize
-Категорија:Новац,Currency
-Категорија:Нови Зеланд,New Zealand
-Категорија:Новинарство,Journalism
-Категорија:Норвешка,Norway
-Категорија:Нордијска митологија,Norse mythology
-Категорија:Нуклеарна физика,Nuclear physics
-Категорија:Нумизматика,Numismatics
-Категорија:Образовање,Education
-Категорија:Одбојка,Volleyball
-Категорија:Одећа,Clothing
-Категорија:Океанија,Oceania
-Категорија:Океанографија,Oceanography
-Категорија:Олимпијске игре,Olympics
-Категорија:Оман,Oman
-Категорија:Онкологија,Oncology
-Категорија:Онтарио,Ontario
-Категорија:Оптика,Optics
-Категорија:Органска хемија,Organic chemistry
-Категорија:Орнитологија,Ornithology
-Категорија:Османско царство,Ottoman Empire
-Категорија:Основне категорије,Fundamental
-Категорија:Острво Ман,Isle of Man
-Категорија:Пакистан,Pakistan
-Категорија:Палау,Palau
-Категорија:Палестина,Palestine
-Категорија:Панама,Panama
-Категорија:Панк,Punk
-Категорија:Папуа Нова Гвинеја,Papua New Guinea
-Категорија:Парагвај,Paraguay
-Категорија:Париз,Paris
-Категорија:Педагогија,Pedagogy
-Категорија:Перу,Peru
-Категорија:Племство,Nobility
-Категорија:Пливање,Swimming
-Категорија:Поезија,Poetry
-Категорија:Политика,Politics
-Категорија:Порторико,Puerto Rico
-Категорија:Португал,Portugal
-Категорија:Пољопривреда,Agriculture
-Категорија:Пољска,Poland
-Категорија:Право,Law
-Категорија:Праг,Prague
-Категорија:Праисторија,Prehistory
-Категорија:Први светски рат,World War I
-Категорија:Примати,Primates
-Категорија:Природа,Nature
-Категорија:Псеудонаука,Pseudoscience
-Категорија:Психијатрија,Psychiatry
-Категорија:Психологија,Psychology
-Категорија:Пустиње,Deserts
-Категорија:Пчеларство,Beekeeping
-Категорија:Радио,Radio
-Категорија:Расизам,Racism
-Категорија:Ратови,War
-Категорија:Релативност,Relativity
-Категорија:Религија,Religion
-Категорија:Ренесанса,Renaissance
-Категорија:Република Ирска,Republic of Ireland
-Категорија:Република Конго,Republic of the Congo
-Категорија:Реторика,Rhetoric
-Категорија:Рибе,Fish
-Категорија:Рим,Rome
-Категорија:Римска митологија,Roman mythology
-Категорија:Рок,Rock music
-Категорија:Руанда,Rwanda
-Категорија:Румунија,Romania
-Категорија:Русија,Russia
-Категорија:Саксонија,Saxony
-Категорија:Самоа,Samoa
-Категорија:Сан Марино,San Marino
-Категорија:Саобраћај,Transportation
-Категорија:Сатурн,Saturn
-Категорија:Саудијска Арабија,Saudi Arabia
-Категорија:Свазиленд,Swaziland
-Категорија:Света Луција,Saint Lucia
-Категорија:Свети Винсент и Гренадини,Saint Vincent and the Grenadines
-Категорија:Свети Китс и Невис,Saint Kitts and Nevis
-Категорија:Свето римско царство,Holy Roman Empire
-Категорија:Северна Америка,North America
-Категорија:Северна Ирска,Northern Ireland
-Категорија:Северна Кореја,North Korea
-Категорија:Сеизмологија,Seismology
-Категорија:Сексуалност,Sexuality
-Категорија:Семантика,Semantics
-Категорија:Сенегал,Senegal
-Категорија:Сејшели,Seychelles
-Категорија:Сингапур,Singapore
-Категорија:Сирија,Syria
-Категорија:Сицилија,Sicily
-Категорија:Сијера Леоне,Sierra Leone
-Категорија:Сликарство,Painting
-Категорија:Словачка,Slovakia
-Категорија:Словенија,Slovenia
-Категорија:Смрт,Death
-Категорија:Совјетски Савез,Soviet Union
-Категорија:Соломонова Острва,Solomon Islands
-Категорија:Сомалија,Somalia
-Категорија:Социологија,Sociology
-Категорија:Социјализам,Socialism
-Категорија:Србија,Serbia
-Категорија:Србија и Црна Гора,Serbia and Montenegro
-Категорија:Средоземно море,Mediterranean
-Категорија:Средњи век,Middle Ages
-Категорија:Сри Ланка,Sri Lanka
-Категорија:Статистика,Statistics
-Категорија:Стоматологија,Dentistry
-Категорија:Судан,Sudan
-Категорија:Сунце,Sun
-Категорија:Сунчев систем,Solar System
-Категорија:Суринам,Suriname
-Категорија:Сједињене Америчке Државе,United States
-Категорија:Танзанија,Tanzania
-Категорија:Тајван,Taiwan
-Категорија:Тајланд,Thailand
-Категорија:Таџикистан,Tajikistan
-Категорија:Телевизија,Television
-Категорија:Тенис,Tennis
-Категорија:Теологија,Theology
-Категорија:Теорија вероватноће,Probability theory
-Категорија:Теорија скупова,Set theory
-Категорија:Термодинамика,Thermodynamics
-Категорија:Тероризам,Terrorism
-Категорија:Технологија,Technology
-Категорија:Типографија,Typography
-Категорија:Тирингија,Thuringia
-Категорија:Того,Togo
-Категорија:Топологија,Topology
-Категорија:Тригонометрија,Trigonometry
-Категорија:Тринидад и Тобаго,Trinidad and Tobago
-Категорија:Тунис,Tunisia
-Категорија:Туризам,Tourism
-Категорија:Туркменистан,Turkmenistan
-Категорија:Турска,Turkey
-Категорија:Уганда,Uganda
-Категорија:Узбекистан,Uzbekistan
-Категорија:Украјина,Ukraine
-Категорија:Уникс,Unix
-Категорија:Уругвај,Uruguay
-Категорија:Уједињене нације,United Nations
-Категорија:Уједињени Арапски Емирати,United Arab Emirates
-Категорија:Уједињено Краљевство,United Kingdom
-Категорија:Фармакологија,Pharmacology
-Категорија:Фарска Острва,Faroe Islands
-Категорија:Феминизам,Feminism
-Категорија:Физика,Physics
-Категорија:Физиологија,Physiology
-Категорија:Физичка хемија,Physical chemistry
-Категорија:Фикција,Fiction
-Категорија:Филателија,Philately
-Категорија:Филипини,Philippines
-Категорија:Филм,Film
-Категорија:Филозофија,Philosophy
-Категорија:Филологија,Philology
-Категорија:Финансије,Finance
-Категорија:Финска,Finland
-Категорија:Фиџи,Fiji
-Категорија:Фонетика,Phonetics
-Категорија:Фотографија,Photography
-Категорија:Французи,French people
-Категорија:Француска,France
-Категорија:Француска Полинезија,French Polynesia
-Категорија:Фудбал,Football (soccer)
-Категорија:Фудбал по државама,Football (soccer) by country
-Категорија:Фудбалери,Football (soccer) players
-Категорија:Фудбалски клубови,Football (soccer) clubs
-Категорија:Фудбалски стадиони,Football (soccer) venues
-Категорија:Фудбалски тренери,Football (soccer) managers
-Категорија:Хаити,Haiti
-Категорија:Хардвер,Computer hardware
-Категорија:Хеви метал,Heavy metal
-Категорија:Хематологија,Hematology
-Категорија:Хемија,Chemistry
-Категорија:Хералдика,Heraldry
-Категорија:Хигијена,Hygiene
-Категорија:Хидрологија,Hydrology
-Категорија:Хиндуизам,Hinduism
-Категорија:Хирургија,Surgery
-Категорија:Хистологија,Histology
-Категорија:Хладни рат,Cold War
-Категорија:Холандија,Netherlands
-Категорија:Холанђани,Dutch people
-Категорија:Хонг Конг,Hong Kong
-Категорија:Хондурас,Honduras
-Категорија:Хрватска,Croatia
-Категорија:Хришћанство,Christianity
-Категорија:Хуманистичке науке,Humanities
-Категорија:Хумор,Humor
-Категорија:Централноафричка Република,Central African Republic
-Категорија:Црна Гора,Montenegro
-Категорија:Чад,Chad
-Категорија:Чајеви,Tea
-Категорија:Чехословачка,Czechoslovakia
-Категорија:Чеченија,Chechnya
-Категорија:Чешка Република,Czech Republic
-Категорија:Чиле,Chile
-Категорија:Шах,Chess
-Категорија:Швајцарска,Switzerland
-Категорија:Швајцарци,Swiss people
-Категорија:Шведска,Sweden
-Категорија:Шкотска,Scotland
-Категорија:Шпанија,Spain
-Категорија:Шпанци,Spanish people
+1750-е,1750s
+1760-е,1760s
+1770-е,1770s
+1780-е,1780s
+1790-е,1790s
+1820-е,1820s
+1830-е,1830s
+1840-е,1840s
+1860-е,1860s
+1870-е,1870s
+1880-е,1880s
+1890-е,1890s
+1900-е,1900s
+1920-е,1920s
+1930-е,1930s
+1940-е,1940s
+1950-е,1950s
+1960-е,1960s
+1970-е,1970s
+1980-е,1980s
+1990-е,1990s
+Јамајка,Jamaica
+Јапан,Japan
+Јемен,Yemen
+Јерменија,Armenia
+Јерусалим,Jerusalem
+Јордан,Jordan
+Југославија,Yugoslavia
+Јудаизам,Judaism
+Јужна Америка,South America
+Јужна Кореја,South Korea
+Јужноафричка Република,South Africa
+Јупитер,Jupiter
+Људска друштва,Society
+Њујорк,New York City
+Џез,Jazz
+Џибути,Djibouti
+Авганистан,Afghanistan
+Авиони,Aircraft
+Азербејџан,Azerbaijan
+Азија,Asia
+Акустика,Acoustics
+Албанија,Albania
+Алгебра,Algebra
+Алжир,Algeria
+Алпи,Alps
+Алтернативна медицина,Alternative medicine
+Алхемија,Alchemy
+Амерички фудбал,American football
+Амстердам,Amsterdam
+Анархизам,Anarchism
+Анатомија,Anatomy
+Ангола,Angola
+Андора,Andorra
+Аниме,Anime
+Антарктик,Antarctica
+Антигва и Барбуда,Antigua and Barbuda
+Антисемитизам,Antisemitism
+Антропологија,Anthropology
+Аргентина,Argentina
+Аритметика,Arithmetic
+Аруба,Aruba
+Археологија,Archaeology
+Архитектура,Architecture
+Асирско царство,Assyria
+Астрологија,Astrology
+Астрономија,Astronomy
+Астрофизика,Astrophysics
+Атлетика,Athletics
+Атомска физика,Atomic physics
+Аустралија,Australia
+Аустрија,Austria
+Африка,Africa
+Аљаска,Alaska
+Баварска,Bavaria
+Бактерије,Bacteria
+Балет,Ballet
+Бангладеш,Bangladesh
+Банке,Banks
+Барбадос,Barbados
+Барселона,Barcelona
+Бахами,Bahamas
+Бахреин,Bahrain
+Безбедност,Security
+Белгија,Belgium
+Белизе,Belize
+Белорусија,Belarus
+Бенин,Benin
+Берлин,Berlin
+Бермуди,Bermuda
+Беч,Vienna
+Библија,Bible
+Биографије,People
+Биологија,Biology
+Биохемија,Biochemistry
+Бициклизам,Cycling
+Бокс,Boxing
+Боксери,Boxers
+Боливија,Bolivia
+Босна и Херцеговина,Bosnia and Herzegovina
+Ботаника,Botany
+Боцвана,Botswana
+Бразил,Brazil
+Бројеви,Numbers
+Брунеј,Brunei
+Бугарска,Bulgaria
+Будизам,Buddhism
+Буркина Фасо,Burkina Faso
+Бурунди,Burundi
+Бутан,Bhutan
+Ваздухопловство,Aviation
+Ватикан,Vatican City
+Вајарство,Sculpture
+Велс,Wales
+Венецуела,Venezuela
+Византијско царство,Byzantine Empire
+Вишезначна одредница,Disambiguation
+Вијетнам,Vietnam
+Вијетнамски рат,Vietnam War
+Вода,Water
+Војска,Military
+Воће,Fruit
+Време,Time
+Вулканологија,Volcanology
+Габон,Gabon
+Гамбија,The Gambia
+Гана,Ghana
+Гватемала,Guatemala
+Гвајана,Guyana
+Гвинеја,Guinea
+Гвинеја Бисао,Guinea-Bissau
+Генеалогија,Genealogy
+Генетика,Genetics
+Геноцид,Genocide
+Географија,Geography
+Геодезија,Geodesy
+Геологија,Geology
+Геометрија,Geometry
+Геоморфологија,Geomorphology
+Геофизика,Geophysics
+Гибралтар,Gibraltar
+Голф,Golf
+Граматика,Grammar
+Графички дизајн,Graphic design
+Гренада,Grenada
+Гренланд,Greenland
+Грузија,Georgia
+Грчка,Greece
+Грчка митологија,Greek mythology
+Гугл,Google
+Гљиве,Fungi
+Дани,Days
+Данска,Denmark
+Демографија,Demography
+Демократска Република Конго,Democratic Republic of the Congo
+Дизајн,Design
+Дипломатија,Diplomacy
+Доминика,Dominica
+Доминиканска Република,Dominican Republic
+Други светски рат,World War II
+Европа,Europe
+Европска унија,European Union
+Египат,Egypt
+Еквадор,Ecuador
+Екваторијална Гвинеја,Equatorial Guinea
+Екологија,Ecology
+Економија,Economics
+Електромагнетизам,Electromagnetism
+Електроника,Electronics
+Електротехника,Electrical engineering
+Електрохемија,Electrochemistry
+Емоције,Emotion
+Енглези,English people
+Енглеска,England
+Енглески језик,English language
+Ендокринологија,Endocrinology
+Еритреја,Eritrea
+Есперанто,Esperanto
+Естонија,Estonia
+Етика,Ethics
+Етиопија,Ethiopia
+Етнологија,Ethnology
+Живот,Life
+Забава,Entertainment
+Замбија,Zambia
+Западна Сахара,Western Sahara
+Здравље,Health
+Зеленортска острва,Cape Verde
+Земља,Earth
+Зимбабве,Zimbabwe
+Зимске олимпијске игре,Winter Olympic Games
+Зоологија,Zoology
+Израел,Israel
+Имунологија,Immunology
+Индија,India
+Индијски океан,Indian Ocean
+Индонезија,Indonesia
+Индустрија,Industry
+Интернет,Internet
+Информатика,Computer science
+Информатика,Computing
+Ирак,Iraq
+Иран,Iran
+Ирци,Irish people
+Ислам,Islam
+Исланд,Iceland
+Историја,History
+Историја уметности,Art history
+Источни Тимор,East Timor
+Италија,Italy
+Кавказ,Caucasus
+Казахстан,Kazakhstan
+Калифорнија,California
+Камбоџа,Cambodia
+Камерун,Cameroon
+Канада,Canada
+Кардиологија,Cardiology
+Кариби,Caribbean
+Картографија,Cartography
+Каталонија,Catalonia
+Катар,Qatar
+Кафа,Coffee
+Квантна механика,Quantum mechanics
+Кенија,Kenya
+Кина,China
+Кипар,Cyprus
+Киргизија,Kyrgyzstan
+Класична музика,Classical music
+Клима,Climate
+Климатологија,Climatology
+Колумбија,Colombia
+Комори,Comoros
+Комунизам,Communism
+Комуникације,Communication
+Космологија,Cosmology
+Косово и Метохија,Kosovo
+Костарика,Costa Rica
+Кошарка,Basketball
+Криптографија,Cryptography
+Кристалографија,Crystallography
+Куба,Cuba
+Кувајт,Kuwait
+Култура,Culture
+Књижевност,Literature
+Лаос,Laos
+Лесото,Lesotho
+Летонија,Latvia
+Либан,Lebanon
+Либерија,Liberia
+Либија,Libya
+Лингвистика,Linguistics
+Линеарна алгебра,Linear algebra
+Линукс,Linux
+Литванија,Lithuania
+Лихтенштајн,Liechtenstein
+Логика,Logic
+Лондон,London
+Луксембург,Luxembourg
+Магнетизам,Magnetism
+Мадагаскар,Madagascar
+Макроекономија,Macroeconomics
+Малдиви,Maldives
+Малезија,Malaysia
+Мали,Mali
+Малта,Malta
+Маркетинг,Marketing
+Марксизам,Marxism
+Мароко,Morocco
+Математика,Mathematics
+Математичка логика,Mathematical logic
+Мауританија,Mauritania
+Маурицијус,Mauritius
+Машинство,Mechanical engineering
+Мађарска,Hungary
+Медицина,Medicine
+Мексико,Mexico
+Месопотамија,Mesopotamia
+Металургија,Metallurgy
+Метафизика,Metaphysics
+Метеорологија,Meteorology
+Метро,Rapid transit
+Механика,Mechanics
+Међународно право,International law
+Микробиологија,Microbiology
+Минералогија,Mineralogy
+Митологија,Mythology
+Мијанмар,Burma
+Мијанмар,Myanmar
+Мода,Fashion
+Мозамбик,Mozambique
+Молдавија,Moldova
+Молекуларна биологија,Molecular biology
+Монако,Monaco
+Монголија,Mongolia
+Мореузи,Straits
+Москва,Moscow
+Мостови,Bridges
+Музика,Music
+НАТО,NATO
+Намибија,Namibia
+Наука,Science
+Науру,Nauru
+Научна фантастика,Science fiction
+Нацизам,Nazism
+Национализам,Nationalism
+Нацистичка Немачка,Nazi Germany
+Немачка,Germany
+Немачки језик,German language
+Непал,Nepal
+Неурологија,Neurology
+Нигер,Niger
+Нигерија,Nigeria
+Никарагва,Nicaragua
+Нобелова награда,Nobel Prize
+Новац,Currency
+Нови Зеланд,New Zealand
+Новинарство,Journalism
+Норвешка,Norway
+Нордијска митологија,Norse mythology
+Нуклеарна физика,Nuclear physics
+Нумизматика,Numismatics
+Образовање,Education
+Одбојка,Volleyball
+Одећа,Clothing
+Океанија,Oceania
+Океанографија,Oceanography
+Олимпијске игре,Olympics
+Оман,Oman
+Онкологија,Oncology
+Онтарио,Ontario
+Оптика,Optics
+Органска хемија,Organic chemistry
+Орнитологија,Ornithology
+Османско царство,Ottoman Empire
+Основне категорије,Fundamental
+Острво Ман,Isle of Man
+Пакистан,Pakistan
+Палау,Palau
+Палестина,Palestine
+Панама,Panama
+Панк,Punk
+Папуа Нова Гвинеја,Papua New Guinea
+Парагвај,Paraguay
+Париз,Paris
+Педагогија,Pedagogy
+Перу,Peru
+Племство,Nobility
+Пливање,Swimming
+Поезија,Poetry
+Политика,Politics
+Порторико,Puerto Rico
+Португал,Portugal
+Пољопривреда,Agriculture
+Пољска,Poland
+Право,Law
+Праг,Prague
+Праисторија,Prehistory
+Први светски рат,World War I
+Примати,Primates
+Природа,Nature
+Псеудонаука,Pseudoscience
+Психијатрија,Psychiatry
+Психологија,Psychology
+Пустиње,Deserts
+Пчеларство,Beekeeping
+Радио,Radio
+Расизам,Racism
+Ратови,War
+Релативност,Relativity
+Религија,Religion
+Ренесанса,Renaissance
+Република Ирска,Republic of Ireland
+Република Конго,Republic of the Congo
+Реторика,Rhetoric
+Рибе,Fish
+Рим,Rome
+Римска митологија,Roman mythology
+Рок,Rock music
+Руанда,Rwanda
+Румунија,Romania
+Русија,Russia
+Саксонија,Saxony
+Самоа,Samoa
+Сан Марино,San Marino
+Саобраћај,Transportation
+Сатурн,Saturn
+Саудијска Арабија,Saudi Arabia
+Свазиленд,Swaziland
+Света Луција,Saint Lucia
+Свети Винсент и Гренадини,Saint Vincent and the Grenadines
+Свети Китс и Невис,Saint Kitts and Nevis
+Свето римско царство,Holy Roman Empire
+Северна Америка,North America
+Северна Ирска,Northern Ireland
+Северна Кореја,North Korea
+Сеизмологија,Seismology
+Сексуалност,Sexuality
+Семантика,Semantics
+Сенегал,Senegal
+Сејшели,Seychelles
+Сингапур,Singapore
+Сирија,Syria
+Сицилија,Sicily
+Сијера Леоне,Sierra Leone
+Сликарство,Painting
+Словачка,Slovakia
+Словенија,Slovenia
+Смрт,Death
+Совјетски Савез,Soviet Union
+Соломонова Острва,Solomon Islands
+Сомалија,Somalia
+Социологија,Sociology
+Социјализам,Socialism
+Србија,Serbia
+Србија и Црна Гора,Serbia and Montenegro
+Средоземно море,Mediterranean
+Средњи век,Middle Ages
+Сри Ланка,Sri Lanka
+Статистика,Statistics
+Стоматологија,Dentistry
+Судан,Sudan
+Сунце,Sun
+Сунчев систем,Solar System
+Суринам,Suriname
+Сједињене Америчке Државе,United States
+Танзанија,Tanzania
+Тајван,Taiwan
+Тајланд,Thailand
+Таџикистан,Tajikistan
+Телевизија,Television
+Тенис,Tennis
+Теологија,Theology
+Теорија вероватноће,Probability theory
+Теорија скупова,Set theory
+Термодинамика,Thermodynamics
+Тероризам,Terrorism
+Технологија,Technology
+Типографија,Typography
+Тирингија,Thuringia
+Того,Togo
+Топологија,Topology
+Тригонометрија,Trigonometry
+Тринидад и Тобаго,Trinidad and Tobago
+Тунис,Tunisia
+Туризам,Tourism
+Туркменистан,Turkmenistan
+Турска,Turkey
+Уганда,Uganda
+Узбекистан,Uzbekistan
+Украјина,Ukraine
+Уникс,Unix
+Уругвај,Uruguay
+Уједињене нације,United Nations
+Уједињени Арапски Емирати,United Arab Emirates
+Уједињено Краљевство,United Kingdom
+Фармакологија,Pharmacology
+Фарска Острва,Faroe Islands
+Феминизам,Feminism
+Физика,Physics
+Физиологија,Physiology
+Физичка хемија,Physical chemistry
+Фикција,Fiction
+Филателија,Philately
+Филипини,Philippines
+Филм,Film
+Филозофија,Philosophy
+Филологија,Philology
+Финансије,Finance
+Финска,Finland
+Фиџи,Fiji
+Фонетика,Phonetics
+Фотографија,Photography
+Французи,French people
+Француска,France
+Француска Полинезија,French Polynesia
+Фудбал,Football
+Фудбал по државама,Football  by country
+Фудбалери,Football  players
+Фудбалски клубови,Football  clubs
+Фудбалски стадиони,Football  venues
+Фудбалски тренери,Football  managers
+Хаити,Haiti
+Хардвер,Computer hardware
+Хеви метал,Heavy metal
+Хематологија,Hematology
+Хемија,Chemistry
+Хералдика,Heraldry
+Хигијена,Hygiene
+Хидрологија,Hydrology
+Хиндуизам,Hinduism
+Хирургија,Surgery
+Хистологија,Histology
+Хладни рат,Cold War
+Холандија,Netherlands
+Холанђани,Dutch people
+Хонг Конг,Hong Kong
+Хондурас,Honduras
+Хрватска,Croatia
+Хришћанство,Christianity
+Хуманистичке науке,Humanities
+Хумор,Humor
+Централноафричка Република,Central African Republic
+Црна Гора,Montenegro
+Чад,Chad
+Чајеви,Tea
+Чехословачка,Czechoslovakia
+Чеченија,Chechnya
+Чешка Република,Czech Republic
+Чиле,Chile
+Шах,Chess
+Швајцарска,Switzerland
+Швајцарци,Swiss people
+Шведска,Sweden
+Шкотска,Scotland
+Шпанија,Spain
+Шпанци,Spanish people
 Катедрала,Cathedral
 Катманду,Kathmandu
 Катовице,Katowice
@@ -2819,11 +2819,11 @@ serbian,english
 Катрин Хепберн,Katharine Hepburn
 Каунас,Kaunas
 Кафа,Coffee
-Кафа (биљка),Coffea
+Кафа,Coffea
 Кајена,Cayenne
 Кајманска острва,Cayman Islands
 Кајсија,Apricot
-Квадрат,Square (geometry)
+Квадрат,Square
 Квадратна једначина,Quadratic equation
 Квадратни корен,Square root
 Квадратни метар,Square metre
@@ -2835,21 +2835,21 @@ serbian,english
 Кварц,Quartz
 Кватернион,Quaternion
 Квебек,Quebec
-Квебек (град),Quebec City
+Квебек,Quebec City
 Квентин Тарантино,Quentin Tarantino
 Квестор,Quaestor
 Квинс,Queens
 Квинсленд,Queensland
 Кедар,Cedar
-Келвин (јединица),Kelvin
+Келвин,Kelvin
 Келн,Cologne
 Кембриџ,Cambridge
-Кембриџ (вишезначна одредница),Cambridge (disambiguation)
+Кембриџ,Cambridge
 Кемниц,Chemnitz
 Кенгур,Kangaroo
 Кенија,Kenya
 Кенозоик,Cenozoic
-Кенон,Canon (company)
+Кенон,Canon
 Кентаки,Kentucky
 Кентаур,Centaur
 Кербер,Cerberus
@@ -2867,8 +2867,8 @@ serbian,english
 Килограм,Kilogram
 Километар,Kilometre
 Кина,People's Republic of China
-Кина (регион),China
-Кингстон (Јамајка),Kingston
+Кина,China
+Кингстон,Kingston
 Кинески зид,Great Wall of China
 Кинетичка енергија,Kinetic energy
 Киншаса,Kinshasa
@@ -2876,7 +2876,7 @@ serbian,english
 Кипар,Cyprus
 Кир Велики,Cyrus the Great
 Киргистан,Kyrgyzstan
-Кирибати (држава),Kiribati
+Кирибати,Kiribati
 Киријум,Curium
 Кирка,Circe
 Киркук,Kirkuk
@@ -2899,7 +2899,7 @@ serbian,english
 Клаудије,Claudius
 Клаудије Птоломеј,Ptolemy
 Клемент Атли,Clement Attlee
-Клеопатра,Cleopatra (disambiguation)
+Клеопатра,Cleopatra
 Клер,Clergy
 Кливланд,Cleveland
 Клима,Climate
@@ -2921,7 +2921,7 @@ serbian,english
 Коефицијент интелигенције,Intelligence quotient
 Коза,Goat
 Кокаин,Cocaine
-Кокосова острва,Cocos (Keeling) Islands
+Кокосова острва,Cocos  Islands
 Кокосова палма,Coconut
 Кокошка,Chicken
 Коктел,Cocktail
@@ -2934,8 +2934,8 @@ serbian,english
 Колката,Kolkata
 Колоид,Colloid
 Коломбо,Colombo
-Колорадо (држава),Colorado
-Колорадо (река),Colorado River
+Колорадо,Colorado
+Колорадо,Colorado River
 Колос са Родоса,Colossus of Rhodes
 Колосеум,Colosseum
 Колумбија,Colombia
@@ -2955,7 +2955,7 @@ serbian,english
 Комуникација,Communication
 Конакри,Conakry
 Конго,Congo
-Конго (река),Congo River
+Конго,Congo River
 Конгрес Сједињених Америчких Држава,United States Congress
 Кондензатор,Capacitor
 Конектикат,Connecticut
@@ -2982,7 +2982,7 @@ serbian,english
 Корен,Root
 Корејски рат,Korean War
 Корзика,Corsica
-Коринт (град),Corinth
+Коринт,Corinth
 Кориолисов ефекат,Coriolis effect
 Корозија,Corrosion
 Корпорација,Corporation
@@ -3005,10 +3005,10 @@ serbian,english
 Кравата,Necktie
 Кракатау,Krakatoa
 Краставац,Cucumber
-Краљ (шах),King (chess)
+Краљ,King
 Краљ Давид,David
 Краљевско друштво,Royal Society
-Краљица (шах),Queen (chess)
+Краљица,Queen
 Крв,Blood
 Крвна плазма,Blood plasma
 Крвне групе,Blood type
@@ -3018,9 +3018,9 @@ serbian,english
 Крвни судови,Blood vessel
 Кребсов циклус,Citric acid cycle
 Кревет,Bed
-Креда (периода),Cretaceous
+Креда,Cretaceous
 Кремљ,Kremlin
-Кретање (физика),Motion (physics)
+Кретање,Motion
 Кречњак,Limestone
 Крива,Curve
 Криви торањ у Пизи,Leaning Tower of Pisa
@@ -3035,7 +3035,7 @@ serbian,english
 Кристијан Диор,Christian Dior
 Кристијан Хајгенс,Christiaan Huygens
 Крит,Crete
-Кришна (божанство),Krishna
+Кришна,Krishna
 Крокодил,Crocodilia
 Кромпир,Potato
 Крон,Cronus
@@ -3055,18 +3055,18 @@ serbian,english
 Кублај-кан,Kublai Khan
 Кубни метар,Cubic metre
 Кувајт,Kuwait
-Кувајт (град),Kuwait City
+Кувајт,Kuwait City
 Кување,Cooking
 Куга,Bubonic plague
 Кукасти крст,Swastika
 Кукуруз,Maize
 Куле,Tower
-Кулон (јединица),Coulomb
+Кулон,Coulomb
 Кулонов закон,Coulomb's law
 Култура,Culture
-Кунг фу,Kung fu (term)
+Кунг фу,Kung fu
 Кунлун,Kunlun Mountains
-Купа (геометрија),Cone (geometry)
+Купа,Cone
 Купола,Dome
 Курдистан,Kurdistan
 Куритиба,Curitiba
@@ -3079,7 +3079,7 @@ serbian,english
 Кју-клукс-клан,Ku Klux Klan
 Кљунари,Monotreme
 Кљунасти делфин,Bottlenose Dolphin
-Кључ (музика),Clef
+Кључ,Clef
 Књига,Book
 Књига проповедникова,Ecclesiastes
 Књижевност,Literature
@@ -3087,11 +3087,11 @@ serbian,english
 ЛСД,Lysergic acid diethylamide
 Ла Паз,La Paz
 Ла Специја,La Spezia
-Лаба (река),Elbe
+Лаба,Elbe
 Лабораторија,Laboratory
 Лабрадор ретривер,Labrador Retriever
 Лав,Lion
-Лав I,Leo I (emperor)
+Лав I,Leo I
 Лав Троцки,Leon Trotsky
 Лава,Lava
 Лагос,Lagos
@@ -3123,12 +3123,12 @@ serbian,english
 Лего,Lego
 Легура,Alloy
 Лед,Ice
-Леда (митологија),Leda (mythology)
+Леда,Leda
 Ледено доба,Ice age
 Ледник,Glacier
 Лезбејка,Lesbian
 Лек,Medication
-Лена (река),Lena River
+Лена,Lena River
 Леонард Ојлер,Leonhard Euler
 Леонардо да Винчи,Leonardo da Vinci
 Леонид Брежњев,Leonid Brezhnev
@@ -3139,7 +3139,7 @@ serbian,english
 Лесе фер,Laissez-faire
 Лесото,Lesotho
 Лето,Summer
-Лето (митологија),Leto
+Лето,Leto
 Летонија,Latvia
 Леукемија,Leukemia
 Ли Харви Освалд,Lee Harvey Oswald
@@ -3152,7 +3152,7 @@ serbian,english
 Ливено гвожђе,Cast iron
 Ливерпул,Liverpool
 Лигурија,Liguria
-Лидија (краљевина),Lydia
+Лидија,Lydia
 Лидс,Leeds
 Лизозом,Lysosome
 Лил,Lille
@@ -3160,16 +3160,16 @@ serbian,english
 Лилонгве,Lilongwe
 Лима,Lima
 Лимнологија,Limnology
-Лимузен,Limousin (region)
+Лимузен,Limousin
 Лимфни систем,Lymphatic system
 Лингва франка,Lingua franca
 Лингвистика,Linguistics
 Линеарна алгебра,Linear algebra
-Линколн (Небраска),Lincoln
+Линколн,Lincoln
 Линукс,Linux
 Линц,Linz
 Лион,Lyon
-Липа (дрво),Tilia
+Липа,Tilia
 Липиди,Lipid
 Лиса Мајтнер,Lise Meitner
 Лисабон,Lisbon
@@ -3181,10 +3181,10 @@ serbian,english
 Литосфера,Lithosphere
 Лихтенштајн,Liechtenstein
 Лишај,Lichen
-Лоара (департман),Loire
+Лоара,Loire
 Лобања,Skull
 Лов,Hunting
-Ловац (шах),Bishop (chess)
+Ловац,Bishop
 Ловор,Bay Laurel
 Логаритам,Logarithm
 Логика,Logic
@@ -3203,11 +3203,11 @@ serbian,english
 Лондон тауер,Tower of London
 Лопатица,Scapula
 Лопе де Вега,Lope de Vega
-Лорена,Lorraine (region)
+Лорена,Lorraine
 Лоренцијум,Lawrencium
 Лос,Moose
 Лос Анђелес,Los Angeles
-Лот (департман),Lot (department)
+Лот,Lot
 Луанда,Luanda
 Лубеница,Watermelon
 Лублин,Lublin
@@ -3225,9 +3225,9 @@ serbian,english
 Лукреције Кар,Lucretius
 Лукс,Lux
 Луксембург,Luxembourg
-Луксембург (град),Luxembourg (city)
+Луксембург,Luxembourg
 Луксор,Luxor
-Лумен,Lumen (unit)
+Лумен,Lumen
 Лунд,Lund
 Лупа,Magnifying glass
 Лусака,Lusaka
@@ -3235,7 +3235,7 @@ serbian,english
 Луфтвафе,Luftwaffe
 Луцерн,Lucerne
 Лучано Павароти,Luciano Pavarotti
-Лучни степен,Degree (angle)
+Лучни степен,Degree
 Луј I Побожни,Louis the Pious
 Луј II,Louis the Stammerer
 Луј Арагон,Louis Aragon
@@ -3245,8 +3245,8 @@ serbian,english
 МИТ,Massachusetts Institute of Technology
 Магарац,Donkey
 Магеланов мореуз,Strait of Magellan
-Магистрала (рачунарство),Bus (computing)
-Магија,Magic (paranormal)
+Магистрала,Bus
+Магија,Magic
 Магла,Fog
 Магма,Magma
 Магматске стене,Igneous rock
@@ -3259,7 +3259,7 @@ serbian,english
 Магреб,Maghreb
 Мадагаскар,Madagascar
 Мадеира,Madeira
-Мадона,Madonna (entertainer)
+Мадона,Madonna
 Мадрид,Madrid
 Мажино линија,Maginot Line
 Маитреја,Maitreya
@@ -3292,20 +3292,20 @@ serbian,english
 Манго,Mango
 Мангрове,Mangrove
 Мандарина,Mandarin orange
-Мандарински језик,Mandarin (linguistics)
+Мандарински језик,Mandarin
 Манила,Manila
 Манипур,Manipur
 Маниризам,Mannerism
 Манитоба,Manitoba
 Манично-депресивна психоза,Bipolar disorder
-Мантл,Mantle (geology)
+Мантл,Mantle
 Мантова,Mantua
 Мантра,Mantra
 Мануел де Фаља,Manuel de Falla
 Манхајм,Mannheim
 Манчестер,Manchester
 Мапуто,Maputo
-Маратон (спорт),Marathon
+Маратон,Marathon
 Маратонска битка,Battle of Marathon
 Маргарет Тачер,Margaret Thatcher
 Мариехамн,Mariehamn
@@ -3325,8 +3325,8 @@ serbian,english
 Марксизам,Marxism
 Марлен Дитрих,Marlene Dietrich
 Мароко,Morocco
-Марс (вишезначна одредница),Mars (disambiguation)
-Марс (митологија),Mars (mythology)
+Марс,Mars
+Марс,Mars
 Марсел Дишан,Marcel Duchamp
 Марсел Пруст,Marcel Proust
 Марсеј,Marseille
@@ -3356,7 +3356,7 @@ serbian,english
 Материја,Matter
 Материјализам,Materialism
 Матичњак,Lemon balm
-Матрица (математика),Matrix (mathematics)
+Матрица,Matrix
 Маунт Рашмор,Mount Rushmore
 Мауританија,Mauritania
 Маурицијус,Mauritius
@@ -3375,7 +3375,7 @@ serbian,english
 Мађарска,Hungary
 Мај,May
 Мајами,Miami
-Мајен (департман),Mayenne
+Мајен,Mayenne
 Мајк Тајсон,Mike Tyson
 Мајка,Mother
 Мајка Тереза,Mother Teresa
@@ -3394,16 +3394,16 @@ serbian,english
 Медитација,Meditation
 Медицина,Medicine
 Медичи,Medici
-Медијана (статистика),Median
-Медуза (митологија),Medusa
+Медијана,Median
+Медуза,Medusa
 Меза,Meuse River
-Меза (департман),Meuse
+Меза,Meuse
 Мезозоик,Mesozoic
 Мезолит,Mesolithic
 Мека,Mecca
 Меконг,Mekong
 Мексико,Mexico
-Мексико (град),Mexico City
+Мексико,Mexico City
 Мексички залив,Gulf of Mexico
 Мекушци,Mollusca
 Мел Гибсон,Mel Gibson
@@ -3417,7 +3417,7 @@ serbian,english
 Менструација,Menstrual cycle
 Ментални поремећај,Mental disorder
 Менхетн,Manhattan
-Мера (математика),Measure (mathematics)
+Мера,Measure
 Мери Вулстонкрафт,Mary Wollstonecraft
 Мерил Стрип,Meryl Streep
 Мериленд,Maryland
@@ -3425,8 +3425,8 @@ serbian,english
 Меритократија,Meritocracy
 Меркантилизам,Mercantilism
 Меркур,Mercury
-Меркур (митологија),Mercury (mythology)
-Меркур (планета),Mercury (planet)
+Меркур,Mercury
+Меркур,Mercury
 Мермер,Marble
 Меровинзи,Merovingian
 Месец,Moon
@@ -3440,7 +3440,7 @@ serbian,english
 Месождери,Carnivore
 Месопотамија,Mesopotamia
 Метадон,Methadone
-Метал (хемија),Metal
+Метал,Metal
 Металоиди,Metalloid
 Металургија,Metallurgy
 Метаморфне стене,Metamorphic rock
@@ -3450,7 +3450,7 @@ serbian,english
 Метеориди,Meteoroid
 Метеорит,Meteorite
 Метионин,Methionine
-Метис,Metis (moon)
+Метис,Metis
 Метрички простор,Metric space
 Механика,Mechanics
 Међународна организација,International organization
@@ -3465,10 +3465,10 @@ serbian,english
 Микена,Mycenae
 Мики Маус,Mickey Mouse
 Микологија,Mycology
-Микро знак,Mu (letter)
+Микро знак,Mu
 Микробиологија,Microbiology
 Микроекономија,Microeconomics
-Микронезија (регија),Micronesia
+Микронезија,Micronesia
 Микропроцесор,Microprocessor
 Микроскоп,Microscope
 Микроталаси,Microwave
@@ -3485,7 +3485,7 @@ serbian,english
 Минерва,Minerva
 Минесота,Minnesota
 Минимализам,Minimalism
-Минос (митологија),Minos
+Минос,Minos
 Минотаур,Minotaur
 Минојска цивилизација,Minoan civilization
 Минск,Minsk
@@ -3495,15 +3495,15 @@ serbian,english
 Мир,Peace
 Мирођија,Dill
 Мистицизам,Mysticism
-Мисури (држава),Missouri
-Мисури (река),Missouri River
+Мисури,Missouri
+Мисури,Missouri River
 Митологија,Mythology
 Митохондрије,Mitochondrion
 Михаил Бакуњин,Mikhail Bakunin
 Михаил Горбачов,Mikhail Gorbachev
 Михаил Иванович Глинка,Mikhail Glinka
-Мичиген (држава),Michigan
-Мичиген (језеро),Lake Michigan
+Мичиген,Michigan
+Мичиген,Lake Michigan
 Мишел Неј,Michel Ney
 Мишићно ткиво,Muscle
 Мишљење,Thought
@@ -3523,9 +3523,9 @@ serbian,english
 Мозак,Brain
 Мозамбик,Mozambique
 Мозгалице,Brainstorming
-Мозел (департман),Moselle
-Мол (музика),Minor scale
-Мол (јединица),Mole (unit)
+Мозел,Moselle
+Мол,Minor scale
+Мол,Mole
 Молдавија,Moldova
 Молекул,Molecule
 Молекуларна биологија,Molecular biology
@@ -3545,7 +3545,7 @@ serbian,english
 Монитор,Computer display
 Монокотиледоне биљке,Monocotyledon
 Монопол,Monopoly
-Монопол (игра),Monopoly (game)
+Монопол,Monopoly
 Моносахарид,Monosaccharide
 Монотеизам,Monotheism
 Монровија,Monrovia
@@ -3570,7 +3570,7 @@ serbian,english
 Морски јежеви,Sea urchin
 Морско прасе,Guinea pig
 Морфијум,Morphine
-Морфологија (лингвистика),Morphology (linguistics)
+Морфологија,Morphology
 Мосад,Mossad
 Москва,Moscow
 Мост,Bridge
@@ -3611,10 +3611,10 @@ serbian,english
 Наелектрисање,Electric charge
 Назарет,Nazareth
 Наизменична струја,Alternating current
-Намаз (молитва),Salah
+Намаз,Salah
 Намиб,Namib Desert
 Намибија,Namibia
-Намир,Namur (city)
+Намир,Namur
 Нана,Mentha
 Нанкинг,Nanjing
 Нанотехнологија,Nanotechnology
@@ -3625,10 +3625,10 @@ serbian,english
 Наполеонски ратови,Napoleonic Wars
 Напуљ,Naples
 Нар,Pomegranate
-Наранџа,Orange (fruit)
-Наранџаста боја,Orange (colour)
+Наранџа,Orange
+Наранџаста боја,Orange
 Наркоманија,Drug addiction
-Нарцис (митологија),Narcissus (mythology)
+Нарцис,Narcissus
 Насау,Nassau
 Насиље,Violence
 Натријум,Sodium
@@ -3646,7 +3646,7 @@ serbian,english
 Национални парк,National park
 Нацистичка Немачка,Nazi Germany
 Највећи заједнички делилац,Greatest common divisor
-Најки (фирма),Nike
+Најки,Nike
 Најроби,Nairobi
 Неандерталац,Neanderthal
 Небеска сфера,Celestial sphere
@@ -3663,7 +3663,7 @@ serbian,english
 Немачка,Germany
 Немачки овчар,German Shepherd Dog
 Немачки језик,German language
-Немеза (митологија),Nemesis (mythology)
+Немеза,Nemesis
 Неметали,Nonmetal
 Немејски лав,Nemean Lion
 Неодијум,Neodymium
@@ -3672,7 +3672,7 @@ serbian,english
 Неоплатонизам,Neoplatonism
 Неорганска хемија,Inorganic chemistry
 Непал,Nepal
-Нептун (планета),Neptune
+Нептун,Neptune
 Нептунијум,Neptunium
 Нерва,Nerva
 Нервни систем,Nervous system
@@ -3689,9 +3689,9 @@ serbian,english
 Нефтис,Nephthys
 Нешвил,Nashville
 Нигер,Niger
-Нигер (река),Niger River
+Нигер,Niger River
 Нигерија,Nigeria
-Ника,Nike (mythology)
+Ника,Nike
 Никарагва,Nicaragua
 Никејски Симбол Вере,Nicene Creed
 Никита Хрушчов,Nikita Khrushchev
@@ -3759,16 +3759,16 @@ serbian,english
 Нунавут,Nunavut
 Нџамена,N'Djamena
 Оаза,Oasis
-Оахака (држава),Oaxaca
-Об (река у Русији),Ob River
-Обвезница,Bond (finance)
+Оахака,Oaxaca
+Об,Ob River
+Обвезница,Bond
 Облак,Cloud
 Облакодер,Skyscraper
 Обоа,Oboe
 Образовање,Education
 Обсидијан,Obsidian
 Објектно оријентисано програмирање,Object-oriented programming
-Оверња,Auvergne (region)
+Оверња,Auvergne
 Овидије,Ovid
 Овиједо,Oviedo
 Огист Конт,Auguste Comte
@@ -3794,14 +3794,14 @@ serbian,english
 Океанографија,Oceanography
 Окланд,Auckland
 Оклахома,Oklahoma
-Оклахома (град),Oklahoma City
+Оклахома,Oklahoma City
 Око,Eye
 Окружење,Environment
 Оксид,Oxide
 Оксидациони број,Oxidation state
 Окситоцин,Oxytocin
 Оксфорд,Oxford
-Октава (музика),Octave
+Октава,Octave
 Октавијан Август,Augustus
 Октални систем,Octal
 Октобар,October
@@ -3813,13 +3813,13 @@ serbian,english
 Оливер Кромвел,Oliver Cromwell
 Олигархија,Oligarchy
 Олимп,Mount Olympus
-Олимпија (Грчка),Olympia
+Олимпија,Olympia
 Олимпијске игре,Olympic Games
 Оловка,Pencil
 Олово,Lead
 Олтарски простор у хришћанској цркви,Altar
 Олуја,Storm
-Ом (јединица),Ohm
+Ом,Ohm
 Оман,Oman
 Омански залив,Gulf of Oman
 Омаха,Omaha
@@ -3829,13 +3829,13 @@ serbian,english
 Опажање,Perception
 Опека,Brick
 Опера,Opera
-Опера (браузер),Opera (Internet suite)
+Опера,Opera
 Оперета,Operetta
 Оплођење,Fertilisation
 Опроштај грехова,Indulgence
 Опсерваторија,Observatory
 Оптика,Optics
-Оптимизација (математика),Optimization (mathematics)
+Оптимизација,Optimization
 Оптички кабл,Optical fiber
 Општа теорија релативности,General relativity
 Орални секс,Oral sex
@@ -3848,9 +3848,9 @@ serbian,english
 Организација међународног цивилног ваздухопловства,International Civil Aviation Organization
 Организације,Organization
 Органска хемија,Organic chemistry
-Оргуље,Organ (music)
+Оргуље,Organ
 Орегон,Oregon
-Орест,Orestes (mythology)
+Орест,Orestes
 Ориген,Origen
 Ориноко,Orinoco
 Ориса,Orissa
@@ -3877,7 +3877,7 @@ serbian,english
 Острво Принца Едварда,Prince Edward Island
 Острво Свети Мартин,Saint Martin
 Отава,Ottawa
-Отело (драма),Othello
+Отело,Othello
 Отисак прста,Fingerprint
 Ото Хан,Otto Hahn
 Ото фон Бизмарк,Otto von Bismarck
@@ -3887,14 +3887,14 @@ serbian,english
 Отпорник,Resistor
 Отров,Poison
 Отров,Toxicity
-Охајо (држава),Ohio
+Охајо,Ohio
 Охотско море,Sea of Okhotsk
 Оче наш,Lord's Prayer
 Очекивана вредност,Expected value
 Пабло Неруда,Pablo Neruda
 Пабло Пикасо,Pablo Picasso
 Паганизам,Paganism
-Падавине,Precipitation (meteorology)
+Падавине,Precipitation
 Падова,Padua
 Пакао,Hell
 Пакистан,Pakistan
@@ -3910,9 +3910,9 @@ serbian,english
 Палмира,Palmyra
 Памук,Cotton
 Памћење,Memory
-Пан,Pan (mythology)
+Пан,Pan
 Панама,Panama
-Панама (град),Panama City
+Панама,Panama City
 Панамски канал,Panama Canal
 Пангеа,Pangaea
 Пандора,Pandora
@@ -3935,18 +3935,18 @@ serbian,english
 Парафилије,Paraphilia
 Парацелзус,Paracelsus
 Париз,Paris
-Парис,Paris (mythology)
+Парис,Paris
 Паркинсонова болест,Parkinson's disease
 Парменид,Parmenides
 Парна машина,Steam engine
-Парни и непарни бројеви,Parity (mathematics)
+Парни и непарни бројеви,Parity
 Парсек,Parsec
 Партенон,Parthenon
 Партијско царство,Parthia
 Парфем,Perfume
 Пас,Dog
-Паскал,Pascal (unit)
-Паскал (програмски језик),Pascal (programming language)
+Паскал,Pascal
+Паскал,Pascal
 Пасош,Passport
 Пастрмке,Salmonidae
 Пасха,Passover
@@ -3972,17 +3972,17 @@ serbian,english
 Пенелопа,Penelope
 Пеницилин,Penicillin
 Пенсилванија,Pennsylvania
-Пенџаб (Индија),Punjab (India)
+Пенџаб,Punjab
 Пепси,Pepsi
 Перајари,Pinniped
 Перестројка,Perestroika
 Перикле,Pericles
-Периода периодног система елемената,Period (periodic table)
+Периода периодног система елемената,Period
 Периодни систем елемената,Periodic table
 Периферија Атика,Attica
-Периферија Епир,Epirus (periphery)
+Периферија Епир,Epirus
 Периферија Тесалија,Thessaly
-Перм (Русија),Perm
+Перм,Perm
 Пермафрост,Permafrost
 Пернамбуко,Pernambuco
 Перпетуум мобиле,Perpetual motion
@@ -4003,7 +4003,7 @@ serbian,english
 Петоугао,Pentagon
 Петровић-Његош,Nicholas
 Петрологија,Petrology
-Пешак (шах),Pawn (chess)
+Пешак,Pawn
 Пешчани сат,Hourglass
 Пешчар,Sandstone
 Пећина,Cave
@@ -4015,7 +4015,7 @@ serbian,english
 Пиксел,Pixel
 Пингвин,Penguin
 Пипин Мали,Pepin the Short
-Пирамида (геометрија),Pyramid (geometry)
+Пирамида,Pyramid
 Пирамиде,Pyramid
 Пиринач,Rice
 Пиринеји,Pyrenees
@@ -4035,7 +4035,7 @@ serbian,english
 Плава боја,Blue
 Плави кит,Blue Whale
 Плави патлиџан,Eggplant
-Плазма (физика),Plasma (physics)
+Плазма,Plasma
 Плазмид,Plasmid
 Планета,Planet
 Планина,Mountain
@@ -4048,7 +4048,7 @@ serbian,english
 Плевен,Pleven
 Племенити гасови,Noble gas
 Плес,Dance
-Плејбој (часопис),Playboy
+Плејбој,Playboy
 Плзењ,Pilsen
 Пливање,Swimming
 Плиније Млађи,Pliny the Younger
@@ -4056,12 +4056,12 @@ serbian,english
 Плод,Fruit
 Плотин,Plotinus
 Плутарх,Plutarch
-Плутон,Pluto (disambiguation)
-Плутон (патуљаста планета),Pluto
+Плутон,Pluto
+Плутон,Pluto
 Плутонијум,Plutonium
 Плућа,Lung
 Пном Пен,Phnom Penh
-По (река),Po River
+По,Po River
 Поату-Шарант,Poitou-Charentes
 Побачај,Abortion
 Повраћање,Vomiting
@@ -4072,13 +4072,13 @@ serbian,english
 Подскуп,Subset
 Поезија,Poetry
 Позитрон,Positron
-Покрајина Мадрид,Madrid (autonomous community)
+Покрајина Мадрид,Madrid
 Пол Њуман,Paul Newman
 Пол Верлен,Paul Verlaine
 Пол Гоген,Paul Gauguin
 Пол Макартни,Paul McCartney
 Поларна лисица,Arctic fox
-Поларна светлост,Aurora (astronomy)
+Поларна светлост,Aurora
 Полигамија,Polygamy
 Полиедар,Polyhedron
 Полимер,Polymer
@@ -4091,7 +4091,7 @@ serbian,english
 Полихимнија,Polyhymnia
 Полиција,Police
 Полне болести,Sexually transmitted disease
-Поло (спорт),Polo
+Поло,Polo
 Полонијум,Polonium
 Полуострво,Peninsula
 Полуострво Камчатка,Kamchatka Peninsula
@@ -4112,16 +4112,16 @@ serbian,english
 Порт Луис,Port Louis
 Порт Морсби,Port Moresby
 Порт о Пренс,Port-au-Prince
-Портал:Film,Film
-Портал:Астрономија,Astronomy
-Портал:Биографија,Biography
-Портал:Биологија,Biology
-Портал:Географија,Geography
-Портал:Историја,History
-Портал:Књижевност,Literature
-Портал:Математика,Mathematics
-Портал:Физика,Physics
-Портал:Хемија,Chemistry
+Film,Film
+Астрономија,Astronomy
+Биографија,Biography
+Биологија,Biology
+Географија,Geography
+Историја,History
+Књижевност,Literature
+Математика,Mathematics
+Физика,Physics
+Хемија,Chemistry
 Портланд,Portland
 Порторико,Puerto Rico
 Портрет,Portrait
@@ -4133,7 +4133,7 @@ serbian,english
 Пост,Fasting
 Постмодернизам,Postmodernism
 Потенцијална енергија,Potential energy
-Потоп,Deluge (mythology)
+Потоп,Deluge
 Потпоручник,Lieutenant
 Потсдам,Potsdam
 Поштанска марка,Postage stamp
@@ -4141,10 +4141,10 @@ serbian,english
 Поштена употреба,Fair use
 Појас Газе,Gaza Strip
 Појас астероида,Asteroid belt
-Поље (математика),Field (mathematics)
+Поље,Field
 Пољопривреда,Agriculture
 Пољска,Poland
-Права (линија),Line (mathematics)
+Права,Line
 Правопис,Orthography
 Православље,Eastern Orthodox Church
 Правоугаоник,Rectangle
@@ -4178,12 +4178,12 @@ serbian,english
 Притисак,Pressure
 Пријам,Priam
 Програмски језик,Programming language
-Програмски језик Пајтон,Python (programming language)
-Програмски језик Руби,Ruby (programming language)
+Програмски језик Пајтон,Python
+Програмски језик Руби,Ruby
 Проза,Prose
 Прозор,Window
 Прокариоте,Prokaryote
-Пролеће,Spring (season)
+Пролеће,Spring
 Прометеј,Prometheus
 Прометијум,Promethium
 Пропаганда,Propaganda
@@ -4200,7 +4200,7 @@ serbian,english
 Процесор,Central processing unit
 Пројекат Аполо,Apollo program
 Пројекат Менхетн,Manhattan Project
-Прстен (математика),Ring (mathematics)
+Прстен,Ring
 Прусија,Prussia
 Псалми,Psalms
 Псеудонаука,Pseudoscience
@@ -4229,12 +4229,12 @@ serbian,english
 Пјонгјанг,Pyongyang
 Пљоснати црви,Flatworm
 Пљувачка,Saliva
-РАФ,RAF (disambiguation)
+РАФ,RAF
 Ра,Ra
 Рабат,Rabat
 Рабин,Rabbi
 Рабиндранат Тагор,Rabindranath Tagore
-Раван,Plane (mathematics)
+Раван,Plane
 Равена,Ravenna
 Рагби,Rugby football
 Радар,Radar
@@ -4247,8 +4247,8 @@ serbian,english
 Радјард Киплинг,Rudyard Kipling
 Разарач,Destroyer
 Развод,Divorce
-Рак (болест),Cancer
-Рак (маглина),Crab Nebula
+Рак,Cancer
+Рак,Crab Nebula
 Ракови,Crustacean
 Рамајана,Ramayana
 Рамзес II,Ramesses II
@@ -4263,7 +4263,7 @@ serbian,english
 Ратна морнарица,Navy
 Ратни заробљеници,Prisoner of war
 Ратни злочини,War crime
-Ратни лук (оружје),Bow (weapon)
+Ратни лук,Bow
 Ратно ваздухопловство,Air force
 Ратови ружа,Wars of the Roses
 Рафаел,Raphael
@@ -4272,25 +4272,25 @@ serbian,english
 Рачунарска игра,Video game
 Рачунарски вирус,Computer virus
 Рачунарски звучник,Loudspeaker
-Рачунарски миш,Mouse (computing)
+Рачунарски миш,Mouse
 Рај,Heaven
 Рајна,Rhine
 Рајнер Марија Рилке,Rainer Maria Rilke
-Реа,Rhea (mythology)
+Реа,Rhea
 Реалан број,Real number
 Реброноше,Ctenophore
 Револвер,Revolver
 Револуција,Revolution
 Реге,Reggae
 Регион Лоара,Pays de la Loire
-Ред (математика),Series (mathematics)
+Ред,Series
 Реинкарнација,Reincarnation
 Река,River
 Река Јордан,Jordan River
 Река Арно,Arno River
 Рекурзија,Recursion
 Релативна атомска маса,Atomic mass
-Релација (математика),Relation (mathematics)
+Релација,Relation
 Религија,Religion
 Рембрант,Rembrandt
 Ремс,Reims
@@ -4303,7 +4303,7 @@ serbian,english
 Република Ирска,Republic of Ireland
 Република Кина,Republic of China
 Република Конго,Republic of the Congo
-Републиканска странка (САД),Republican Party (United States)
+Републиканска странка,Republican Party
 Ресифе,Recife
 Ресторан,Restaurant
 Ретинол,Vitamin A
@@ -4329,11 +4329,11 @@ serbian,english
 Римско царство,Roman Empire
 Ринго Стар,Ringo Starr
 Рио де Жанеиро,Rio de Janeiro
-Рио де Жанеиро (држава),Rio de Janeiro (state)
+Рио де Жанеиро,Rio de Janeiro
 Рихард Вагнер,Richard Wagner
 Рихард Штраус,Richard Strauss
 Ричард Никсон,Richard Nixon
-Ричард Рајт,Richard Wright (musician)
+Ричард Рајт,Richard Wright
 Ричард Филип Фајнман,Richard Feynman
 Ријад,Riyadh
 Риџајна,Regina
@@ -4347,18 +4347,18 @@ serbian,english
 Роберт Фалкон Скот,Robert Falcon Scott
 Роберт Фишер,Bobby Fischer
 Роберт Хук,Robert Hooke
-Роберт Шуман (композитор),Robert Schumann
+Роберт Шуман,Robert Schumann
 Робовласништво,Slavery
 Робот,Robot
 Рог Африке,Horn of Africa
-Род (биологија),Genus
+Род,Genus
 Род Ајленд,Rhode Island
 Рода,Stork
 Родијум,Rhodium
 Родос,Rhodes
 Родриго Дијаз де Вивар,El Cid
 Роза Паркс,Rosa Parks
-Рокада (шах),Castling
+Рокада,Castling
 Рокенрол,Rock and roll
 Рококо,Rococo
 Роман,Novel
@@ -4397,19 +4397,19 @@ serbian,english
 Савез Совјетских Социјалистичких Република,Soviet Union
 Савезне резерве САД,Federal Reserve System
 Садам Хусеин,Saddam Hussein
-Сазвежђе Андромеда,Andromeda (constellation)
-Сазвежђе Еридан,Eridanus (constellation)
-Сазвежђе Орион,Orion (constellation)
-Сазвежђе Рибе,Pisces (constellation)
+Сазвежђе Андромеда,Andromeda
+Сазвежђе Еридан,Eridanus
+Сазвежђе Орион,Orion
+Сазвежђе Рибе,Pisces
 Сакраменто,Sacramento
 Саксонија,Saxony
 Саксофон,Saxophone
 Саладин,Saladin
 Салвадор,El Salvador
-Салвадор (Бразил),Salvador
+Салвадор,Salvador
 Салерно,Salerno
 Салцбург,Salzburg
-Салцбург (покрајина),Salzburg (state)
+Салцбург,Salzburg
 Самара,Samara
 Самаријум,Samarium
 Самарканд,Samarkand
@@ -4421,7 +4421,7 @@ serbian,english
 Сан Антонио,San Antonio
 Сан Дијего,San Diego
 Сан Марино,San Marino
-Сан Марино (град),San Marino
+Сан Марино,San Marino
 Сан Салвадор,San Salvador
 Сан Франциско,San Francisco
 Сан Хозе,San Jose
@@ -4441,12 +4441,12 @@ serbian,english
 Сардинија,Sardinia
 Саскачеван,Saskatchewan
 Сат,Hour
-Сат (предмет),Clock
+Сат,Clock
 Сатанизам,Satanism
 Сатири,Satyr
-Сатурн,Saturn (disambiguation)
-Сатурн (митологија),Saturn (mythology)
-Сатурн (планета),Saturn
+Сатурн,Saturn
+Сатурн,Saturn
+Сатурн,Saturn
 Саудијска Арабија,Saudi Arabia
 Сахара,Sahara
 Сахароза,Sucrose
@@ -4455,7 +4455,7 @@ serbian,english
 Свемир,Universe
 Свемирске летелице,Spacecraft
 Света Гора,Mount Athos
-Света Луција (острво),Saint Lucia
+Света Луција,Saint Lucia
 Света Тројица,Trinity
 Светац,Saint
 Свете тајне,Sacrament
@@ -4487,7 +4487,7 @@ serbian,english
 Северна Каролина,North Carolina
 Северна Кореја,North Korea
 Северна Маријанска острва,Northern Mariana Islands
-Северна територија (Аустралија),Northern Territory
+Северна територија,Northern Territory
 Северни ледени океан,Arctic Ocean
 Северно море,North Sea
 Северно острво,North Island
@@ -4524,7 +4524,7 @@ serbian,english
 Сергеј Рахмањинов,Sergei Rachmaninoff
 Серотонин,Serotonin
 Сесил Роудс,Cecil Rhodes
-Сет (митологија),Set (mythology)
+Сет,Set
 Сеул,Seoul
 Сечуан,Sichuan
 Сејшели,Seychelles
@@ -4546,12 +4546,12 @@ serbian,english
 Силовање,Rape
 Симбиоза,Symbiosis
 Симбол,Symbol
-Сименс (јединица),Siemens (unit)
+Сименс,Siemens
 Симон де Бовоар,Simone de Beauvoir
 Симптом,Symptom
 Синагога,Synagogue
 Сингапур,Singapore
-Сингл (музика),Single (music)
+Сингл,Single
 Синдикат,Syndicate
 Синдикат,Trade union
 Синклер Луис,Sinclair Lewis
@@ -4574,7 +4574,7 @@ serbian,english
 Сијера Леоне,Sierra Leone
 Сијетл,Seattle
 Скагерак,Skagerrak
-Скакач (шах),Knight (chess)
+Скакач,Knight
 Скандинавија,Scandinavia
 Скандијум,Scandium
 Скенер,Image scanner
@@ -4590,12 +4590,12 @@ serbian,english
 Сладолед,Ice cream
 Слезина,Spleen
 Слепи мишеви,Bat
-Слобода,Freedom (philosophy)
+Слобода,Freedom
 Слободна воља,Free will
 Слободно зидарство,Freemasonry
 Словачка,Slovakia
 Словенија,Slovenia
-Слово,Letter (alphabet)
+Слово,Letter
 Смарагд,Emerald
 Смоленск,Smolensk
 Смрт,Death
@@ -4612,7 +4612,7 @@ serbian,english
 Солон,Solon
 Солт Лејк Сити,Salt Lake City
 Солун,Thessaloniki
-Сома (департман),Somme
+Сома,Somme
 Сомалија,Somalia
 Соната,Sonata
 Сонет,Sonnet
@@ -4624,14 +4624,14 @@ serbian,english
 Социологија,Sociology
 Социјализам,Socialism
 Социјална психологија,Social psychology
-Сочиво (биљка),Lentil
-Сочиво (оптика),Lens (optics)
+Сочиво,Lentil
+Сочиво,Lens
 Соја,Soybean
 Спарта,Sparta
 Спајвер,Spyware
 Спектроскопија,Spectroscopy
 Спенсер Трејси,Spencer Tracy
-Спин,Spin (physics)
+Спин,Spin
 Спирална галаксија,Spiral galaxy
 Сплит,Split
 Спорт,Sport
@@ -4660,7 +4660,7 @@ serbian,english
 Статистичка механика,Statistical mechanics
 Стегосаур,Stegosaurus
 Стендал,Stendhal
-Стене,Rock (geology)
+Стене,Rock
 Стенли Кјубрик,Stanley Kubrick
 Стеновите планине,Rocky Mountains
 Стенограф,Shorthand
@@ -4676,7 +4676,7 @@ serbian,english
 Стоматологија,Dentistry
 Стони тенис,Table tennis
 Стоноге,Myriapoda
-Стопа (јединица),Foot (unit of length)
+Стопа,Foot
 Стоунхенџ,Stonehenge
 Сточарство,Animal husbandry
 Стразбур,Strasbourg
@@ -4684,13 +4684,13 @@ serbian,english
 Стратиграфија,Stratigraphy
 Стратосфера,Stratosphere
 Страх,Fear
-Стрес,Stress (medicine)
+Стрес,Stress
 Стронцијум,Strontium
 Струг,Lathe
 Структура података,Data structure
 Студент,Student
 Ступа,Stupa
-Сублимација (физика),Sublimation (chemistry)
+Сублимација,Sublimation
 Субота,Saturday
 Сува,Suva
 Суд,Court
@@ -4731,7 +4731,7 @@ serbian,english
 ТНТ,Trinitrotoluene
 Табу,Taboo
 Таксономија,Taxonomy
-Талас (физика),Wave
+Талас,Wave
 Таласна дужина,Wavelength
 Талес из Милета,Thales
 Талибани,Taliban
@@ -4746,26 +4746,26 @@ serbian,english
 Тампа,Tampa
 Тампере,Tampere
 Тананариво,Antananarivo
-Танго,Tango (dance)
+Танго,Tango
 Танзанија,Tanzania
 Танко црево,Small intestine
 Тантал,Tantalum
-Тантал (митологија),Tantalus
+Тантал,Tantalus
 Таоизам,Taoism
 Тарн,Tarn
 Тарту,Tartu
 Тасманија,Tasmania
 Тасманово море,Tasman Sea
-Тастатура,Keyboard (computing)
+Тастатура,Keyboard
 Тахити,Tahiti
 Тацит,Tacitus
-Тачка (геометрија),Point (geometry)
+Тачка,Point
 Тачка кључања,Boiling point
 Тачка топљења,Melting point
 Ташкент,Tashkent
 Тајланд,Thailand
 Тајландски залив,Gulf of Thailand
-Тајм (магазин),Time (magazine)
+Тајм,Time
 Тајпеј,Taipei
 Таџ Махал,Taj Mahal
 Таџикистан,Tajikistan
@@ -4773,9 +4773,9 @@ serbian,english
 Тврдина,Hardness
 Тврдокрилци,Beetle
 Тврђава,Fortification
-Теба (град у Грчкој),Thebes
-Теба (град у Египту),Thebes
-Теба (сателит),Thebe (moon)
+Теба,Thebes
+Теба,Thebes
+Теба,Thebe
 Тегусигалпа,Tegucigalpa
 Тежина,Weight
 Тезеј,Theseus
@@ -4821,24 +4821,24 @@ serbian,english
 Тероризам,Terrorism
 Терпсихора,Terpsichore
 Тертулијан,Tertullian
-Тесла (јединица),Tesla (unit)
-Тестамент,Will (law)
+Тесла,Tesla
+Тестамент,Will
 Тестис,Testicle
 Тестостерон,Testosterone
 Тетанус,Tetanus
 Тетида,Thetis
-Тетија,Tethys (mythology)
+Тетија,Tethys
 Тетраедар,Tetrahedron
 Техеран,Tehran
 Техницијум,Technetium
 Технологија,Technology
 Тешка вода,Heavy water
-Теја (митологија),Theia
+Теја,Theia
 Тибар,Tiber
 Тиберије,Tiberius
 Тибет,Tibet
 Тигар,Tiger
-Тигар (река),Tigris
+Тигар,Tigris
 Тимбукту,Timbuktu
 Тимин,Thymine
 Тимор,Timor
@@ -4847,25 +4847,25 @@ serbian,english
 Тираносаурус,Tyrannosaurus
 Тиренско море,Tyrrhenian Sea
 Тирингија,Thuringia
-Тирол (покрајина),Tyrol (state)
+Тирол,Tyrol
 Тит,Titus
 Тит Ливије,Livy
-Титан (месец),Titan (moon)
+Титан,Titan
 Титанијум,Titanium
 Тифон,Typhon
 Тихо Брахе,Tycho Brahe
 Тицијан Вечели,Titian
 Тијенђин,Tianjin
-Ткиво,Tissue (biology)
+Ткиво,Tissue
 Того,Togo
-Токантинс,Tocantins (state)
+Токантинс,Tocantins
 Токио,Tokyo
 Токсикологија,Toxicology
 Толедо,Toledo
 Том Хенкс,Tom Hanks
 Том и Џери,Tom and Jerry
 Тома Аквински,Thomas Aquinas
-Томас Јанг,Thomas Young (scientist)
+Томас Јанг,Thomas Young
 Томас Џеферсон,Thomas Jefferson
 Томас Алва Едисон,Thomas Edison
 Томас Ман,Thomas Mann
@@ -4879,11 +4879,11 @@ serbian,english
 Тонга,Tonga
 Тони Блер,Tony Blair
 Тони Морисон,Toni Morrison
-Топ (шах),Rook (chess)
+Топ,Rook
 Топлотни мотор,Heat engine
-Топола (дрво),Poplar
+Топола,Poplar
 Топологија,Topology
-Тор (митологија),Thor
+Тор,Thor
 Тора,Torah
 Торбари,Marsupial
 Торино,Turin
@@ -4903,7 +4903,7 @@ serbian,english
 Трансилванија,Transylvania
 Транссексуализам,Transsexualism
 Трансформатор,Transformer
-Трапез (геометрија),Trapezoid
+Трапез,Trapezoid
 Трајан,Trajan
 Тренто,Trento
 Трећа књига Мојсијева,Leviticus
@@ -4920,7 +4920,7 @@ serbian,english
 Тринидад и Тобаго,Trinidad and Tobago
 Триполи,Tripoli
 Трир,Trier
-Тритон (митологија),Triton (mythology)
+Тритон,Triton
 Трицератопс,Triceratops
 Трицијум,Tritium
 Тријас,Triassic
@@ -4930,9 +4930,9 @@ serbian,english
 Трондхајм,Trondheim
 Тропосфера,Troposphere
 Троугао,Triangle
-Троја (град),Troy
-Тројански коњ (информатика),Trojan horse (computing)
-Тројански коњ (митологија),Trojan Horse
+Троја,Troy
+Тројански коњ,Trojan horse
+Тројански коњ,Trojan Horse
 Тројански рат,Trojan War
 Труба,Trumpet
 Трудноћа,Pregnancy
@@ -4946,7 +4946,7 @@ serbian,english
 Тулуз,Toulouse
 Тунел,Tunnel
 Тунис,Tunisia
-Тунис (град),Tunis
+Тунис,Tunis
 Тур де Франс,Tour de France
 Туризам,Tourism
 Туркменистан,Turkmenistan
@@ -4963,7 +4963,7 @@ serbian,english
 Угљеник,Carbon
 Угљоводоник,Hydrocarbon
 Удараљке,Percussion instrument
-Уживалачка употреба конопље,Cannabis (drug)
+Уживалачка употреба конопље,Cannabis
 Узбекистан,Uzbekistan
 Узвици,Interjection
 Узрочност,Causality
@@ -4988,9 +4988,9 @@ serbian,english
 Упаљач,Lighter
 Упсала,Uppsala
 Ур,Ur
-Урал (планина),Ural Mountains
-Уран (митологија),Uranus (mythology)
-Уран (планета),Uranus
+Урал,Ural Mountains
+Уран,Uranus
+Уран,Uranus
 Уранија,Urania
 Уранијум,Uranium
 Урацил,Uracil
@@ -4998,19 +4998,19 @@ serbian,english
 Уругвај,Uruguay
 Усвојење,Adoption
 Усна хармоника,Harmonica
-Устав,Constitution (political)
+Устав,Constitution
 Устав Сједињених Америчких Држава,United States Constitution
 Утар Прадеш,Uttar Pradesh
 Утилитаризам,Utilitarianism
 Утопија,Utopia
 Уторак,Tuesday
-Утрехт,Utrecht (city)
+Утрехт,Utrecht
 Уфа,Ufa
 Учење,Learning
 Уједињене нације,United Nations
 Уједињени Арапски Емирати,United Arab Emirates
 Уједињено Краљевство,United Kingdom
-ФК АЗ Алкмар,AZ (football club)
+ФК АЗ Алкмар,AZ
 Фагот,Bassoon
 Факс машина,Fax
 Факторијел,Factorial
@@ -5020,7 +5020,7 @@ serbian,english
 Фао,Food and Agriculture Organization
 Фарад,Farad
 Фараон,Pharaoh
-Фаренхајт (јединица),Fahrenheit
+Фаренхајт,Fahrenheit
 Фашизам,Fascism
 Фебруар,February
 Федералне Државе Микронезије,Federated States of Micronesia
@@ -5029,8 +5029,8 @@ serbian,english
 Феминизам,Feminism
 Фенг Шуи,Feng shui
 Феникија,Phoenicia
-Феникс,Phoenix (mythology)
-Феникс (свемирски брод),Phoenix (spacecraft)
+Феникс,Phoenix
+Феникс,Phoenix
 Фенилаланин,Phenylalanine
 Фенилкетонурија,Phenylketonuria
 Феноменологија,Phenomenology
@@ -5038,8 +5038,8 @@ serbian,english
 Ферара,Ferrara
 "Фердинанд II, цар Светог римског царства",Ferdinand II
 Фердинанд де Сосир,Ferdinand de Saussure
-Ферментација,Fermentation (biochemistry)
-Ферментација,Fermentation (food)
+Ферментација,Fermentation
+Ферментација,Fermentation
 Фермијум,Fermium
 Фернандо Магелан,Ferdinand Magellan
 Фетус,Fetus
@@ -5050,7 +5050,7 @@ serbian,english
 Физика,Physics
 Физиологија,Physiology
 Физичка хемија,Physical chemistry
-Филаделфија (САД),Philadelphia
+Филаделфија,Philadelphia
 Филателија,Philately
 Филип II Македонски,Philip II of Macedon
 Филип II од Шпаније,Philip II of Spain
@@ -5067,7 +5067,7 @@ serbian,english
 Фирмвер,Firmware
 Фијат,Fiat
 Фиџи,Fiji
-Фламански језик,Flemish (linguistics)
+Фламански језик,Flemish
 Фламинго,Flamingo
 Фландрија,Flanders
 Флаута,Flute
@@ -5076,7 +5076,7 @@ serbian,english
 Флорида,Florida
 Флуид,Fluid
 Фобија,Phobia
-Фобос,Phobos (moon)
+Фобос,Phobos
 Фовизам,Fauvism
 Фокландска острва,Falkland Islands
 Фонетика,Phonetics
@@ -5093,9 +5093,9 @@ serbian,english
 Фотосинтеза,Photosynthesis
 Фрактал,Fractal
 Фракција црвене армије,Red Army Faction
-Франкфурт,Frankfurt (disambiguation)
+Франкфурт,Frankfurt
 Франкфурт на Мајни,Frankfurt
-Франкфурт на Одри,Frankfurt (Oder)
+Франкфурт на Одри,Frankfurt
 Франс Халс,Frans Hals
 Франсис Бејкон,Francis Bacon
 Франсис Форд Копола,Francis Ford Coppola
@@ -5132,12 +5132,12 @@ serbian,english
 Фритјоф Нансен,Fridtjof Nansen
 Фриц Хабер,Fritz Haber
 Фруктоза,Fructose
-Фудбал,Football (soccer)
-Фукинг (Аустрија),Fucking
+Фудбал,Football
+Фукинг,Fucking
 Фундаментализам,Fundamentalism
-Функција (математика),Function (mathematics)
+Функција,Function
 Фурланија-Јулијска крајина,Friuli-Venezia Giulia
-Футуризам,Futurism (art)
+Футуризам,Futurism
 Фјодор Михајлович Достојевски,Fyodor Dostoevsky
 Фјорд,Fjord
 ХИВ,HIV
@@ -5148,7 +5148,7 @@ serbian,english
 Хад,Hades
 Хадријан,Hadrian
 Хадријанов зид,Hadrian's Wall
-Хадсон (река),Hudson River
+Хадсон,Hudson River
 Хадсонов залив,Hudson Bay
 Хаити,Haiti
 Хаифа,Haifa
@@ -5166,14 +5166,14 @@ serbian,english
 Ханој,Hanoi
 Ханс Кристијан Андерсен,Hans Christian Andersen
 Ханука,Hanukkah
-Хаос,Chaos (mythology)
+Хаос,Chaos
 Хараре,Harare
 Хардвер,Computer hardware
 Харијет Табман,Harriet Tubman
 Харков,Kharkiv
 Харолд Пинтер,Harold Pinter
-Харон,Charon (moon)
-Харон (митологија),Charon (mythology)
+Харон,Charon
+Харон,Charon
 Харфа,Harp
 Хасијум,Hassium
 Хафнијум,Hafnium
@@ -5182,7 +5182,7 @@ serbian,english
 Хајнрих Рудолф Херц,Heinrich Hertz
 Хајнрих Химлер,Heinrich Himmler
 Хајнрих Шлиман,Heinrich Schliemann
-Хеба,Hebe (mythology)
+Хеба,Hebe
 Хебрејско писмо,Hebrew alphabet
 Хебриди,Hebrides
 Хеви метал,Heavy metal music
@@ -5193,7 +5193,7 @@ serbian,english
 Хектар,Hectare
 Хектор,Hector
 Хектор Берлиоз,Hector Berlioz
-Хел,Hel (being)
+Хел,Hel
 Хелебарда,Halberd
 Хелен Келер,Helen Keller
 Хеликоптер,Helicopter
@@ -5210,7 +5210,7 @@ serbian,english
 Хемороиди,Hemorrhoid
 Хемотерапија,Chemotherapy
 Хемофилија,Haemophilia
-Хенри,Henry (unit)
+Хенри,Henry
 Хенри Кевендиш,Henry Cavendish
 Хенри Кисинџер,Henry Kissinger
 Хенри Милер,Henry Miller
@@ -5253,7 +5253,7 @@ serbian,english
 Хидросфера,Hydrosphere
 Хималаји,Himalayas
 Химен,Hymen
-Химера,Chimera (mythology)
+Химера,Chimera
 Химна,National anthem
 Хиндуизам,Hinduism
 Хиндукуш,Hindu Kush
@@ -5307,9 +5307,9 @@ serbian,english
 Хорације,Horace
 Хордати,Chordate
 Хорејшио Нелсон,Horatio Nelson
-Хоризонт (астрономија),Horizon
+Хоризонт,Horizon
 Хормони,Hormone
-Хорна,Horn (instrument)
+Хорна,Horn
 Хороскоп,Horoscope
 Хорхе Луис Борхес,Jorge Luis Borges
 Хотел,Hotel
@@ -5335,19 +5335,19 @@ serbian,english
 Цвет,Flower
 Цезијум,Caesium
 Целер,Celery
-Целзијус (јединица),Celsius
+Целзијус,Celsius
 Целибат,Celibacy
 Целулоза,Cellulose
 Цемент,Cement
 Цена,Price
-Центар (регион),Centre
+Центар,Centre
 Центиметар,Centimetre
 Централна банка,Central bank
 Централни нервни систем,Central nervous system
 Централноафричка Република,Central African Republic
 Центриола,Centriole
 Цео број,Integer
-Церера (патуљаста планета),Ceres (dwarf planet)
+Церера,Ceres
 Церијум,Cerium
 Цивилизација,Civilization
 Цигарета,Cigarette
@@ -5371,7 +5371,7 @@ serbian,english
 Црвене алге,Red algae
 Црвени Кмери,Khmer Rouge
 Црвени помак,Redshift
-Црвени помак,Redshift (disambiguation)
+Црвени помак,Redshift
 Црвено море,Red Sea
 Црвоточина,Wormhole
 Црна Гора,Montenegro
@@ -5393,7 +5393,7 @@ serbian,english
 Чарлс Линдберг,Charles Lindbergh
 Чарлс Сандерс Перс,Charles Peirce
 Чај,Tea
-Чвор (брзина),Knot (speed)
+Чвор,Knot
 Че Гевара,Che Guevara
 Чек,Cheque
 Чекић,Hammer
@@ -5401,7 +5401,7 @@ serbian,english
 Чембало,Harpsichord
 Ченај,Chennai
 Честер А. Артур,Chester A. Arthur
-Чета,Company (military unit)
+Чета,Company
 Четвороугао,Quadrilateral
 Четврта књига Мојсијева,Book of Numbers
 Четвртак,Thursday
@@ -5409,7 +5409,7 @@ serbian,english
 Четврти крсташки рат,Fourth Crusade
 Чехословачка,Czechoslovakia
 Чеченија,Chechnya
-Чешка (Бохемија),Bohemia
+Чешка,Bohemia
 Чешка Република,Czech Republic
 Чељабинск,Chelyabinsk
 Чивава,Chihuahua
@@ -5421,9 +5421,9 @@ serbian,english
 Чудовиште из Лох Неса,Loch Ness Monster
 Чукотско море,Chukchi Sea
 Чунгћинг,Chongqing
-Шаблон:Клица,Stub
-Шаблон:Посебан чланак,Main
-Шаблон:Чињеница,Fact
+Клица,Stub
+Посебан чланак,Main
+Чињеница,Fact
 Шалитра,Potassium nitrate
 Шампања-Ардени,Champagne-Ardenne
 Шангај,Shanghai
@@ -5442,7 +5442,7 @@ serbian,english
 Шведска,Sweden
 Шведска круна,Swedish krona
 Шеријат,Sharia
-Шестар,Compass (drafting)
+Шестар,Compass
 Шестодневни рат,Six-Day War
 Шестоугао,Hexagon
 Шефилд,Sheffield

@@ -1,7 +1,7 @@
 Other,English
-0 (nombor),0 (number)
+0,0
 1,1
-1 Ceres,Ceres (dwarf planet)
+1 Ceres,Ceres
 1 Januari,January 1
 1 Julai,July 1
 1 Mei,May 1
@@ -9,28 +9,28 @@ Other,English
 1 Ogos,August 1
 10,10
 100,100
-100 (nombor),100 (number)
+100,100
 1000,1000
 101,101
 105,105
 11,11
-11 (nombor),11 (number)
+11,11
 11 November,November 11
 11 September,September 11
 110,110
 115,115
 12,12
-12 (nombor),12 (number)
+12,12
 12 Februari,February 12
 12 Oktober,October 12
 120,120
 125,125
 13,13
-13 (nombor),13 (number)
+13,13
 130,130
 135,135
 14,14
-14 (nombor),14 (number)
+14,14
 14 April,April 14
 14 Februari,February 14
 14 Jun,June 14
@@ -38,17 +38,17 @@ Other,English
 144,144
 145,145
 15,15
-15 (nombor),15 (number)
+15,15
 15 Ogos,August 15
 150,150
 1530-an,1530s
 155,155
 16,16
-16 (nombor),16 (number)
+16,16
 160,160
 165,165
 17,17
-17 (nombor),17 (number)
+17,17
 17 Mac,March 17
 17 September,September 17
 170,170
@@ -60,7 +60,7 @@ Other,English
 1780-an,1780s
 1790-an,1790s
 18,18
-18 (nombor),18 (number)
+18,18
 180,180
 1820-an,1820s
 1830-an,1830s
@@ -71,7 +71,7 @@ Other,English
 1880-an,1880s
 1890-an,1890s
 19,19
-19 (nombor),19 (number)
+19,19
 19 Januari,January 19
 19 Mac,March 19
 190,190
@@ -89,85 +89,85 @@ Other,English
 2 Mac,March 2
 2 November,November 2
 20,20
-20 (nombor),20 (number)
+20,20
 20 Januari,January 20
 200,200
 21,21
-21 (nombor),21 (number)
+21,21
 21 Jun,June 21
 22,22
-22 (nombor),22 (number)
+22,22
 22 Februari,February 22
 23,23
-23 (nombor),23 (number)
+23,23
 23 Jun,June 23
 24,24
-24 (nombor),24 (number)
+24,24
 24 Jun,June 24
 24 Mei,May 24
 24 Oktober,October 24
 25,25
-25 (nombor),25 (number)
+25,25
 25 Mac,March 25
 26,26
-26 (nombor),26 (number)
+26,26
 27,27
-27 (nombor),27 (number)
+27,27
 28,28
-28 (nombor),28 (number)
+28,28
 29,29
-29 (nombor),29 (number)
+29,29
 29 Februari,February 29
 29 Jun,June 29
 29 September,September 29
 3,3
 3 Jun,June 3
 30,30
-30 (nombor),30 (number)
+30,30
 300,300
 31,31
-31 (nombor),31 (number)
+31,31
 31 Disember,December 31
 32,32
-32 (nombor),32 (number)
+32,32
 33,33
-33 (nombor),33 (number)
+33,33
 34,34
-34 (nombor),34 (number)
+34,34
 35,35
-35 (nombor),35 (number)
+35,35
 36,36
-36 (nombor),36 (number)
+36,36
 37,37
-37 (nombor),37 (number)
+37,37
 38,38
-38 (nombor),38 (number)
+38,38
 39,39
-39 (nombor),39 (number)
+39,39
 4,4
 4 Julai,July 4
 40,40
-40 (nombor),40 (number)
+40,40
 400,400
 41,41
-41 (nombor),41 (number)
+41,41
 42,42
-42 (nombor),42 (number)
+42,42
 43,43
-43 (nombor),43 (number)
+43,43
 44,44
 45,45
-45 (nombor),45 (number)
+45,45
 46,46
-46 (nombor),46 (number)
+46,46
 47,47
 48,48
 49,49
-49 (nombor),49 (number)
+49,49
 5,5
 5 November,November 5
 50,50
-50 (nombor),50 (number)
+50,50
 500,500
 51,51
 52,52
@@ -182,7 +182,7 @@ Other,English
 6 Januari,January 6
 6 Ogos,August 6
 60,60
-60 (nombor),60 (number)
+60,60
 61,61
 62,62
 63,63
@@ -206,7 +206,7 @@ Other,English
 8,8
 8 Disember,December 8
 80,80
-80 (nombor),80 (number)
+80,80
 81,81
 82,82
 83,83
@@ -278,8 +278,8 @@ Air terjun Victoria,Victoria Falls
 Ais,Ice
 Aiskrim,Ice cream
 Ajal,Death
-Ajax,Ajax (programming)
-Ajax (nyahkekaburan),Ajax
+Ajax,Ajax
+Ajax,Ajax
 Akar,Root
 Akhenaten,Akhenaten
 Aktinida,Actinide
@@ -300,7 +300,7 @@ Albert Einstein,Albert Einstein
 Alergi,Allergy
 Alexander Agung,Alexander the Great
 Alexander Graham Bell,Alexander Graham Bell
-Alfa,Alpha (letter)
+Alfa,Alpha
 Algebra,Algebra
 Algeria,Algeria
 Algiers,Algiers
@@ -361,7 +361,7 @@ Anjing Hutan,Dhole
 Anjing laut,Pinniped
 Annapolis,Annapolis
 Antartika,Antarctica
-Antena,Antenna (radio)
+Antena,Antenna
 Antibiotik,Antibiotic
 Antigua dan Barbuda,Antigua and Barbuda
 Antillen Belanda,Netherlands Antilles
@@ -427,13 +427,13 @@ Atom,Atom
 Auguste Comte,Auguste Comte
 Augustus,Augustus
 Auns,Ounce
-Aurora,Aurora (astronomy)
+Aurora,Aurora
 Australasia,Australasia
 Australia,Australia
 Austria,Austria
 Austria-Hungary,Austria-Hungary
 Autisme,Autism
-Auvergne,Auvergne (region)
+Auvergne,Auvergne
 Avatar,Avatar
 Awan,Cloud
 Awan Kumulus,Cumulus cloud
@@ -449,7 +449,7 @@ BASIC,BASIC
 Babi Hutan,Boar
 Backgammon,Backgammon
 Badam,Almond
-Badan eksekutif,Executive (government)
+Badan eksekutif,Executive
 Badminton,Badminton
 Badwi,Bedouin
 Baghal,Mule
@@ -465,10 +465,10 @@ Bahasa Esperanto,Esperanto
 Bahasa Ido,Ido
 Bahasa Inggeris,English language
 Bahasa Jerman,German language
-Bahasa Kantonis,Cantonese (linguistics)
+Bahasa Kantonis,Cantonese
 Bahasa Latin,Latin
 Bahasa Malta,Maltese language
-Bahasa Mandarin,Mandarin (linguistics)
+Bahasa Mandarin,Mandarin
 Bahasa Urdu,Urdu
 Bahasa isyarat,Sign language
 Bahasa markap,Markup language
@@ -501,7 +501,7 @@ Basra,Basra
 Basse-Normandie,Basse-Normandie
 Batalion,Battalion
 Batman,Batman
-Batu,Rock (geology)
+Batu,Rock
 Batu Rosetta,Rosetta Stone
 Batu bata,Brick
 Batu-Gunting-Kertas,Rock
@@ -509,7 +509,7 @@ Batuan enapan,Sedimentary rock
 Batuan metamorfosis,Metamorphic rock
 Bawang,Onion
 Bawang putih,Garlic
-Bayam (Spinacia),Spinach
+Bayam,Spinach
 Becquerel,Becquerel
 Beijing,Beijing
 Beirut,Beirut
@@ -538,7 +538,7 @@ Beruang kutub,Polar bear
 Berus gigi,Toothbrush
 Besbol,Baseball
 Besi,Iron
-Beta,Beta (letter)
+Beta,Beta
 Bhutan,Bhutan
 Biawak Komodo,Komodo dragon
 Big Ben,Clock Tower
@@ -569,7 +569,7 @@ Blog,Blog
 Blues,Blues
 Bola,Ball
 Bola keranjang,Basketball
-Bola sepak,Football (soccer)
+Bola sepak,Football
 Bola tampar,Volleyball
 Boletus edulis,Boletus edulis
 Bolivia,Bolivia
@@ -603,7 +603,7 @@ Buenos Aires,Buenos Aires
 Bukan logam,Nonmetal
 Bukit Golan,Golan Heights
 Buku,Book
-Bulan (satelit),Moon
+Bulan,Moon
 Bulatan,Circle
 Bulgaria,Bulgaria
 Bulu pelepah,Feather
@@ -629,10 +629,10 @@ Burung Unta,Ostrich
 Burung helang,Eagle
 Burung hud-hud,Hoopoe
 Burung layang-layang,Swallow
-Busur,Bow (weapon)
+Busur,Bow
 Buta,Blindness
 C,C
-C (bahasa pengaturcaraan),C (programming language)
+C,C
 COBOL,COBOL
 Cacar air,Chickenpox
 Cache,Cache
@@ -719,12 +719,12 @@ Dar es Salam,Dar es Salaam
 Darah,Blood
 Darah tinggi,Hypertension
 Darfur,Darfur
-Darjah (sudut),Degree (angle)
+Darjah,Degree
 Darwin,Darwin
 "Darwin, Wilayah Utara",Darwin
 Daun,Leaf
 Daun Saderi,Celery
-Daya (fizik),Force
+Daya,Force
 De facto,De facto
 Deco,Deco
 Definisi,Definition
@@ -732,7 +732,7 @@ Deflasi,Deflation
 Dekad,Decade
 Delaware,Delaware
 Delhi,Delhi
-Delta (huruf),Delta (letter)
+Delta,Delta
 Demam,Fever
 Demam Denggi,Dengue fever
 Demam kuning jaundis,Jaundice
@@ -752,7 +752,7 @@ Diameter,Diameter
 Diarea,Diarrhea
 Difteria,Diphtheria
 Dikotiledon,Dicotyledon
-Dinamik,Dynamics (physics)
+Dinamik,Dynamics
 Dinasti Ming,Ming Dynasty
 Dinasti Qing,Qing Dynasty
 Dinasti Tang,Tang Dynasty
@@ -819,20 +819,20 @@ Ensiklopedia,Encyclopedia
 Entalpi,Enthalpy
 Entomologi,Entomology
 Enzim,Enzyme
-Eon,Eon (geology)
+Eon,Eon
 Epal,Apple
 Epistemologi,Epistemology
 Epitelium,Epithelium
 Epsilon,Epsilon
 Ericales,Ericales
-Eris,Eris (dwarf planet)
+Eris,Eris
 Ernest Hemingway,Ernest Hemingway
 Ernest Rutherford,Ernest Rutherford
 Eropah,Europe
 Erwin Rommel,Erwin Rommel
 Ester,Ester
 Estetik,Aesthetics
-Eta,Eta (letter)
+Eta,Eta
 Etanol,Ethanol
 Etena,Ethylene
 Ethernet,Ethernet
@@ -850,7 +850,7 @@ Fahrenheit,Fahrenheit
 Fail komputer,Computer file
 Falsafah,Philosophy
 Falun Gong,Falun Gong
-Famili (biologi),Family (biology)
+Famili,Family
 Fanerozoik,Phanerozoic
 Faraj,Vagina
 Farmakologi,Pharmacology
@@ -863,7 +863,7 @@ Feng shui,Feng shui
 Ferdinand Magellan,Ferdinand Magellan
 Feri,Ferry
 Feudalisme,Feudalism
-Fi (huruf),Phi (letter)
+Fi,Phi
 Fidel Castro,Fidel Castro
 Fiji,Fiji
 Filateli,Philately
@@ -903,16 +903,16 @@ Gabon,Gabon
 Gaetano Donizetti,Gaetano Donizetti
 Gajah,Elephant
 Galaksi,Galaxy
-Galicia,Galicia (Spain)
+Galicia,Galicia
 Galileo Galilei,Galileo Galilei
 Gama,Gamma
 Gamal Abdel Nasser,Gamal Abdel Nasser
 Gamat,Sea cucumber
 Gambia,The Gambia
 Gangsa,Bronze
-Ganja,Cannabis (drug)
+Ganja,Cannabis
 Gansu,Gansu
-Garam,Salt (chemistry)
+Garam,Salt
 Garfield,Garfield
 Garis Maginot,Maginot Line
 Garisan Tarikh Antarabangsa,International Date Line
@@ -944,8 +944,8 @@ George Orwell,George Orwell
 George W. Bush,George W. Bush
 George Washington,George Washington
 Georges Bizet,Georges Bizet
-Georgia (negara),Georgia (country)
-"Georgia, Amerika Syarikat",Georgia (U.S. state)
+Georgia,Georgia
+"Georgia, Amerika Syarikat",Georgia
 Gerald Ford,Gerald Ford
 Gerard Kuiper,Gerard Kuiper
 Gereja Katolik Rom,Roman Catholic Church
@@ -971,7 +971,7 @@ Globalisasi,Globalization
 Glukagon,Glucagon
 Glukosa,Glucose
 Gnostikisme,Gnosticism
-Go,Go (board game)
+Go,Go
 Goa,Goa
 Golf,Golf
 Gonggok,Millipede
@@ -1038,9 +1038,9 @@ Hari,Day
 Hari April Fool,April Fools' Day
 Hari Ibu,Mother's Day
 Hari Kesyukuran,Thanksgiving
-Hari Kesyukuran,Thanksgiving (United States)
-Hari Kesyukuran,Thanksgiving (Canada)
-Hari Kesyukuran,Thanksgiving (disambiguation)
+Hari Kesyukuran,Thanksgiving
+Hari Kesyukuran,Thanksgiving
+Hari Kesyukuran,Thanksgiving
 Hari Valentine,Valentine's Day
 Hari perayaan,Holiday
 Harimau,Tiger
@@ -1115,10 +1115,10 @@ Huruf Rumi,Latin alphabet
 Huruf Yunani,Greek alphabet
 Hutan,Forest
 "Hyderabad, Andhra Pradesh",Hyderabad
-Hyperion (bulan),Hyperion (moon)
+Hyperion,Hyperion
 I,I
 IPod,IPod
-Iapetus (bulan),Iapetus (moon)
+Iapetus,Iapetus
 Ibu negara,Capital
 Ibuprofen,Ibuprofen
 Iceland,Iceland
@@ -1160,10 +1160,10 @@ Insulin,Insulin
 Insurans,Insurance
 Internet,Internet
 Internet Explorer,Internet Explorer
-Inti (sains komputer),Kernel (computer science)
+Inti,Kernel
 Intranet,Intranet
 Invertebrat,Invertebrate
-Io (bulan),Io (moon)
+Io,Io
 Ion,Ion
 Iota,Iota
 Iowa,Iowa
@@ -1173,7 +1173,7 @@ Ireland,Republic of Ireland
 Ireland Utara,Northern Ireland
 Isaac Asimov,Isaac Asimov
 Isaac Newton,Isaac Newton
-Isfahan (bandar),Esfahan
+Isfahan,Esfahan
 Isi padu,Volume
 Iskandariah,Alexandria
 Islam,Islam
@@ -1212,7 +1212,7 @@ Januari,January
 Jarak,Distance
 Jaringan Sejagat,World Wide Web
 Jasad Golgi,Golgi apparatus
-Java,Java (programming language)
+Java,Java
 Jawa,Java
 Jawaharlal Nehru,Jawaharlal Nehru
 Jeanne d'Arc,Joan of Arc
@@ -1229,7 +1229,7 @@ Jesus Christ,Jesus
 Jihad,Jihad
 Jimmy Carter,Jimmy Carter
 Jin,Genie
-Jingga,Orange (colour)
+Jingga,Orange
 Jintan manis,Anise
 Jirim,Matter
 Jisim,Mass
@@ -1260,13 +1260,13 @@ Kaabah,Kaaba
 Kabul,Kabul
 Kabut,Fog
 Kaca,Glass
-Kacang,Nut (fruit)
+Kacang,Nut
 Kacang Tanah,Peanut
 Kaedah saintifik,Scientific method
 Kafeina,Caffeine
 Kaherah,Cairo
 Kaki,Foot
-Kala jadual berkala,Period (periodic table)
+Kala jadual berkala,Period
 Kaldera,Caldera
 Kalendar Gregory,Gregorian calendar
 Kalium,Potassium
@@ -1285,7 +1285,7 @@ Kandela,Candela
 Kanggaru,Kangaroo
 Kanji,Starch
 Kansas,Kansas
-Kanta,Lens (optics)
+Kanta,Lens
 Kanta pembesar,Magnifying glass
 Kantata,Cantata
 Kapa,Kappa
@@ -1317,334 +1317,334 @@ Kata sifat,Adjective
 Katak,Frog
 Kataphract,Cataphract
 Katarak,Cataract
-Kategori:1760-an,1760s
-Kategori:1860-an,1860s
-Kategori:1880-an,1880s
-Kategori:1900-an,1900s
-Kategori:1920-an,1920s
-Kategori:1930-an,1930s
-Kategori:1940-an,1940s
-Kategori:1950-an,1950s
-Kategori:1960-an,1960s
-Kategori:1970-an,1970s
-Kategori:1980-an,1980s
-Kategori:1990-an,1990s
-Kategori:500,500
-Kategori:Abjad Yunani,Greek alphabet
-Kategori:Afghanistan,Afghanistan
-Kategori:Afrika,Africa
-Kategori:Afrika Selatan,South Africa
-Kategori:Agama,Religion
-Kategori:Agama Buddha,Buddhism
-Kategori:Air,Water
-Kategori:Alam semulajadi,Nature
-Kategori:Albania,Albania
-Kategori:Algebra,Algebra
-Kategori:Algeria,Algeria
-Kategori:Alkimia,Alchemy
-Kategori:Amerika Selatan,South America
-Kategori:Amerika Syarikat,United States
-Kategori:Amerika Tengah,Central America
-Kategori:Amerika Utara,North America
-Kategori:Amiriah Arab Bersatu,United Arab Emirates
-Kategori:Anatomi,Anatomy
-Kategori:Andorra,Andorra
-Kategori:Angola,Angola
-Kategori:Anime,Anime
-Kategori:Antartika,Antarctica
-Kategori:Antigua dan Barbuda,Antigua and Barbuda
-Kategori:Antropologi,Anthropology
-Kategori:Arab Saudi,Saudi Arabia
-Kategori:Argentina,Argentina
-Kategori:Arizona,Arizona
-Kategori:Armenia,Armenia
-Kategori:Asia,Asia
-Kategori:Assyria,Assyria
-Kategori:Astrofizik,Astrophysics
-Kategori:Astrologi,Astrology
-Kategori:Astronomi,Astronomy
-Kategori:Australia,Australia
-Kategori:Austria,Austria
-Kategori:Azerbaijan,Azerbaijan
-Kategori:Bahamas,Bahamas
-Kategori:Bahrain,Bahrain
-Kategori:Bangladesh,Bangladesh
-Kategori:Barbados,Barbados
-Kategori:Belanda,Netherlands
-Kategori:Belarus,Belarus
-Kategori:Belgium,Belgium
-Kategori:Belize,Belize
-Kategori:Benin,Benin
-Kategori:Bhutan,Bhutan
-Kategori:Biologi,Biology
-Kategori:Bola keranjang,Basketball
-Kategori:Bola sepak,Football (soccer)
-Kategori:Bolivia,Bolivia
-Kategori:Bosnia dan Herzegovina,Bosnia and Herzegovina
-Kategori:Botani,Botany
-Kategori:Botswana,Botswana
-Kategori:Brazil,Brazil
-Kategori:Brunei,Brunei
-Kategori:Buah,Fruit
-Kategori:Budaya,Culture
-Kategori:Bulgaria,Bulgaria
-Kategori:Burkina Faso,Burkina Faso
-Kategori:Burundi,Burundi
-Kategori:Cameroon,Cameroon
-Kategori:Chad,Chad
-Kategori:Chile,Chile
-Kategori:Colombia,Colombia
-Kategori:Comoros,Comoros
-Kategori:Costa Rica,Costa Rica
-Kategori:Croatia,Croatia
-Kategori:Cuba,Cuba
-Kategori:Cukai,Taxation
-Kategori:Cyprus,Cyprus
-Kategori:Denmark,Denmark
-Kategori:Djibouti,Djibouti
-Kategori:Dominika,Dominica
-Kategori:Ecuador,Ecuador
-Kategori:Ekonomi,Economics
-Kategori:El Salvador,El Salvador
-Kategori:Elektronik,Electronics
-Kategori:Eritrea,Eritrea
-Kategori:Eropah,Europe
-Kategori:Estonia,Estonia
-Kategori:Fiji,Fiji
-Kategori:Filateli,Philately
-Kategori:Filem,Film
-Kategori:Filipina,Philippines
-Kategori:Finland,Finland
-Kategori:Fizik,Physics
-Kategori:Gabon,Gabon
-Kategori:Gambia,The Gambia
-Kategori:Genetik,Genetics
-Kategori:Geografi,Geography
-Kategori:Geologi,Geology
-Kategori:Geometri,Geometry
-Kategori:Georgia,Georgia (country)
-Kategori:Ghana,Ghana
-Kategori:Golf,Golf
-Kategori:Google,Google
-Kategori:Greece,Greece
-Kategori:Grenada,Grenada
-Kategori:Guatemala,Guatemala
-Kategori:Guinea Khatulistiwa,Equatorial Guinea
-Kategori:Guinea-Bissau,Guinea-Bissau
-Kategori:Guyana,Guyana
-Kategori:Habsyah,Ethiopia
-Kategori:Hadiah Nobel,Nobel Prize
-Kategori:Haiti,Haiti
-Kategori:Hiburan,Entertainment
-Kategori:Hinduisme,Hinduism
-Kategori:Honduras,Honduras
-Kategori:Hong Kong,Hong Kong
-Kategori:Hungary,Hungary
-Kategori:Iceland,Iceland
-Kategori:Ikan,Fish
-Kategori:Iklim,Climate
-Kategori:India,India
-Kategori:Indonesia,Indonesia
-Kategori:Internet,Internet
-Kategori:Iran,Iran
-Kategori:Iraq,Iraq
-Kategori:Ireland,Republic of Ireland
-Kategori:Islam,Islam
-Kategori:Isle of Man,Isle of Man
-Kategori:Israel,Israel
-Kategori:Itali,Italy
-Kategori:Jamaica,Jamaica
-Kategori:Jepun,Japan
-Kategori:Jerman,Germany
-Kategori:Jordan,Jordan
-Kategori:Kanada,Canada
-Kategori:Kazakhstan,Kazakhstan
-Kategori:Kecerdasan buatan,Artificial intelligence
-Kategori:Kelawar,Bats
-Kategori:Kemboja,Cambodia
-Kategori:Kenya,Kenya
-Kategori:Kepulauan Faroe,Faroe Islands
-Kategori:Kepulauan Marshall,Marshall Islands
-Kategori:Kerelatifan,Relativity
-Kategori:Kesatuan Eropah,European Union
-Kategori:Kesihatan,Health
-Kategori:Kesusasteraan,Literature
-Kategori:Kewangan,Finance
-Kategori:Kimia,Chemistry
-Kategori:Kiribati,Kiribati
-Kategori:Komunikasi,Communication
-Kategori:Komunisme,Communism
-Kategori:Kopi,Coffee
-Kategori:Korea,Korea
-Kategori:Korea Selatan,South Korea
-Kategori:Korea Utara,North Korea
-Kategori:Kota Vatican,Vatican City
-Kategori:Kriptografi,Cryptography
-Kategori:Krismas,Christmas
-Kategori:Kristian,Christianity
-Kategori:Kuwait,Kuwait
-Kategori:Kyrgyzstan,Kyrgyzstan
-Kategori:Laos,Laos
-Kategori:Latvia,Latvia
-Kategori:Lautan Hindi,Indian Ocean
-Kategori:Lesotho,Lesotho
-Kategori:Libya,Libya
-Kategori:Liechtenstein,Liechtenstein
-Kategori:Linux,Linux
-Kategori:Lithuania,Lithuania
-Kategori:Lubnan,Lebanon
-Kategori:Luxembourg,Luxembourg
-Kategori:Madagaskar,Madagascar
-Kategori:Magnoliopsida,Magnoliopsida
-Kategori:Malawi,Malawi
-Kategori:Malaysia,Malaysia
-Kategori:Maldives,Maldives
-Kategori:Mali,Mali
-Kategori:Malta,Malta
-Kategori:Masa,Time
-Kategori:Masyarakat,Society
-Kategori:Mata wang,Currency
-Kategori:Matematik,Mathematics
-Kategori:Mauritania,Mauritania
-Kategori:Mauritius,Mauritius
-Kategori:Mesir,Egypt
-Kategori:Meteorologi,Meteorology
-Kategori:Mexico,Mexico
-Kategori:Michigan,Michigan
-Kategori:Mitos,Mythology
-Kategori:Moldova,Moldova
-Kategori:Monaco,Monaco
-Kategori:Mongolia,Mongolia
-Kategori:Montenegro,Montenegro
-Kategori:Muzik,Music
-Kategori:Muzik klasikal,Classical music
-Kategori:Myanmar,Burma
-Kategori:Myanmar,Myanmar
-Kategori:Namibia,Namibia
-Kategori:Nauru,Nauru
-Kategori:Nepal,Nepal
-Kategori:Nevada,Nevada
-Kategori:New Mexico,New Mexico
-Kategori:New Zealand,New Zealand
-Kategori:Nicaragua,Nicaragua
-Kategori:Niger,Niger
-Kategori:Nigeria,Nigeria
-Kategori:Nombor,Numbers
-Kategori:Norway,Norway
-Kategori:Nyahkekaburan,Disambiguation
-Kategori:Oceania,Oceania
-Kategori:Olahraga,Athletics
-Kategori:Oman,Oman
-Kategori:Onkologi,Oncology
-Kategori:Optik,Optics
-Kategori:Pakistan,Pakistan
-Kategori:Palau,Palau
-Kategori:Panama,Panama
-Kategori:Papua New Guinea,Papua New Guinea
-Kategori:Paraguay,Paraguay
-Kategori:Pemain bola sepak,Football (soccer) players
-Kategori:Pemerintahan beraja,Monarchy
-Kategori:Pendidikan,Education
-Kategori:Pengangkutan,Transportation
-Kategori:Pengangkutan Udara,Aviation
-Kategori:Pengaturcaraan,Computer programming
-Kategori:Penghapusan etnik,Genocide
-Kategori:Pengkomputeran,Computing
-Kategori:Peperangan,War
-Kategori:Perakaunan,Accountancy
-Kategori:Perancis,France
-Kategori:Perang Dingin,Cold War
-Kategori:Perang Dunia I,World War I
-Kategori:Perang Dunia II,World War II
-Kategori:Perang Vietnam,Vietnam War
-Kategori:Perdagangan,Commerce
-Kategori:Perisian,Software
-Kategori:Perkakasan komputer,Computer hardware
-Kategori:Persekitaran,Environment
-Kategori:Pertanian,Agriculture
-Kategori:Perubatan,Medicine
-Kategori:Poland,Poland
-Kategori:Polis,Law enforcement
-Kategori:Politik,Politics
-Kategori:Portugal,Portugal
-Kategori:Psikologi,Psychology
-Kategori:Puerto Rico,Puerto Rico
-Kategori:Qatar,Qatar
-Kategori:Radio,Radio
-Kategori:Republik Afrika Tengah,Central African Republic
-Kategori:Republik Congo,Republic of the Congo
-Kategori:Republik Czech,Czech Republic
-Kategori:Republik Demokratik Congo,Democratic Republic of the Congo
-Kategori:Republik Dominika,Dominican Republic
-Kategori:Romania,Romania
-Kategori:Rusia,Russia
-Kategori:Rwanda,Rwanda
-Kategori:Sains,Science
-Kategori:Sains komputer,Computer science
-Kategori:Saint Kitts dan Nevis,Saint Kitts and Nevis
-Kategori:Saint Lucia,Saint Lucia
-Kategori:Saint Vincent dan Grenadines,Saint Vincent and the Grenadines
-Kategori:Samoa,Samoa
-Kategori:San Marino,San Marino
-Kategori:Sejarah,History
-Kategori:Senegal,Senegal
-Kategori:Seni bina,Architecture
-Kategori:Sepanyol,Spain
-Kategori:Serbia,Serbia
-Kategori:Seychelles,Seychelles
-Kategori:Sierra Leone,Sierra Leone
-Kategori:Singapura,Singapore
-Kategori:Sistem Suria,Solar System
-Kategori:Slovakia,Slovakia
-Kategori:Slovenia,Slovenia
-Kategori:Somalia,Somalia
-Kategori:Sosiologi,Sociology
-Kategori:Sri Lanka,Sri Lanka
-Kategori:Statistik,Statistics
-Kategori:Sudan,Sudan
-Kategori:Sukan Olimpik,Olympics
-Kategori:Sukan Olimpik Musim Sejuk,Winter Olympic Games
-Kategori:Suriname,Suriname
-Kategori:Swaziland,Swaziland
-Kategori:Sweden,Sweden
-Kategori:Syria,Syria
-Kategori:Tajikistan,Tajikistan
-Kategori:Tanjung Verde,Cape Verde
-Kategori:Tanzania,Tanzania
-Kategori:Teh,Tea
-Kategori:Televisyen,Television
-Kategori:Tenaga,Energy
-Kategori:Tenis,Tennis
-Kategori:Tennessee,Tennessee
-Kategori:Thailand,Thailand
-Kategori:Tibet,Tibet
-Kategori:Timor Leste,East Timor
-Kategori:Timur Tengah,Middle East
-Kategori:Togo,Togo
-Kategori:Tokoh,People
-Kategori:Tonga,Tonga
-Kategori:Trigonometri,Trigonometry
-Kategori:Trinidad dan Tobago,Trinidad and Tobago
-Kategori:Turki,Turkey
-Kategori:Turki Uthmaniyyah,Ottoman Empire
-Kategori:Turkmenistan,Turkmenistan
-Kategori:Tuvalu,Tuvalu
-Kategori:Uganda,Uganda
-Kategori:Ukraine,Ukraine
-Kategori:Ukuran,Measurement
-Kategori:Undang-undang,Law
-Kategori:Undang-undang antarabangsa,International law
-Kategori:United Kingdom,United Kingdom
-Kategori:Uruguay,Uruguay
-Kategori:Usahawan,Businesspeople
-Kategori:Uzbekistan,Uzbekistan
-Kategori:Vanuatu,Vanuatu
-Kategori:Venezuela,Venezuela
-Kategori:Vietnam,Vietnam
-Kategori:Yugoslavia,Yugoslavia
-Kategori:Zimbabwe,Zimbabwe
-Kategori:Zoologi,Zoology
-Kategori:Zuhal,Saturn
+1760-an,1760s
+1860-an,1860s
+1880-an,1880s
+1900-an,1900s
+1920-an,1920s
+1930-an,1930s
+1940-an,1940s
+1950-an,1950s
+1960-an,1960s
+1970-an,1970s
+1980-an,1980s
+1990-an,1990s
+500,500
+Abjad Yunani,Greek alphabet
+Afghanistan,Afghanistan
+Afrika,Africa
+Afrika Selatan,South Africa
+Agama,Religion
+Agama Buddha,Buddhism
+Air,Water
+Alam semulajadi,Nature
+Albania,Albania
+Algebra,Algebra
+Algeria,Algeria
+Alkimia,Alchemy
+Amerika Selatan,South America
+Amerika Syarikat,United States
+Amerika Tengah,Central America
+Amerika Utara,North America
+Amiriah Arab Bersatu,United Arab Emirates
+Anatomi,Anatomy
+Andorra,Andorra
+Angola,Angola
+Anime,Anime
+Antartika,Antarctica
+Antigua dan Barbuda,Antigua and Barbuda
+Antropologi,Anthropology
+Arab Saudi,Saudi Arabia
+Argentina,Argentina
+Arizona,Arizona
+Armenia,Armenia
+Asia,Asia
+Assyria,Assyria
+Astrofizik,Astrophysics
+Astrologi,Astrology
+Astronomi,Astronomy
+Australia,Australia
+Austria,Austria
+Azerbaijan,Azerbaijan
+Bahamas,Bahamas
+Bahrain,Bahrain
+Bangladesh,Bangladesh
+Barbados,Barbados
+Belanda,Netherlands
+Belarus,Belarus
+Belgium,Belgium
+Belize,Belize
+Benin,Benin
+Bhutan,Bhutan
+Biologi,Biology
+Bola keranjang,Basketball
+Bola sepak,Football
+Bolivia,Bolivia
+Bosnia dan Herzegovina,Bosnia and Herzegovina
+Botani,Botany
+Botswana,Botswana
+Brazil,Brazil
+Brunei,Brunei
+Buah,Fruit
+Budaya,Culture
+Bulgaria,Bulgaria
+Burkina Faso,Burkina Faso
+Burundi,Burundi
+Cameroon,Cameroon
+Chad,Chad
+Chile,Chile
+Colombia,Colombia
+Comoros,Comoros
+Costa Rica,Costa Rica
+Croatia,Croatia
+Cuba,Cuba
+Cukai,Taxation
+Cyprus,Cyprus
+Denmark,Denmark
+Djibouti,Djibouti
+Dominika,Dominica
+Ecuador,Ecuador
+Ekonomi,Economics
+El Salvador,El Salvador
+Elektronik,Electronics
+Eritrea,Eritrea
+Eropah,Europe
+Estonia,Estonia
+Fiji,Fiji
+Filateli,Philately
+Filem,Film
+Filipina,Philippines
+Finland,Finland
+Fizik,Physics
+Gabon,Gabon
+Gambia,The Gambia
+Genetik,Genetics
+Geografi,Geography
+Geologi,Geology
+Geometri,Geometry
+Georgia,Georgia
+Ghana,Ghana
+Golf,Golf
+Google,Google
+Greece,Greece
+Grenada,Grenada
+Guatemala,Guatemala
+Guinea Khatulistiwa,Equatorial Guinea
+Guinea-Bissau,Guinea-Bissau
+Guyana,Guyana
+Habsyah,Ethiopia
+Hadiah Nobel,Nobel Prize
+Haiti,Haiti
+Hiburan,Entertainment
+Hinduisme,Hinduism
+Honduras,Honduras
+Hong Kong,Hong Kong
+Hungary,Hungary
+Iceland,Iceland
+Ikan,Fish
+Iklim,Climate
+India,India
+Indonesia,Indonesia
+Internet,Internet
+Iran,Iran
+Iraq,Iraq
+Ireland,Republic of Ireland
+Islam,Islam
+Isle of Man,Isle of Man
+Israel,Israel
+Itali,Italy
+Jamaica,Jamaica
+Jepun,Japan
+Jerman,Germany
+Jordan,Jordan
+Kanada,Canada
+Kazakhstan,Kazakhstan
+Kecerdasan buatan,Artificial intelligence
+Kelawar,Bats
+Kemboja,Cambodia
+Kenya,Kenya
+Kepulauan Faroe,Faroe Islands
+Kepulauan Marshall,Marshall Islands
+Kerelatifan,Relativity
+Kesatuan Eropah,European Union
+Kesihatan,Health
+Kesusasteraan,Literature
+Kewangan,Finance
+Kimia,Chemistry
+Kiribati,Kiribati
+Komunikasi,Communication
+Komunisme,Communism
+Kopi,Coffee
+Korea,Korea
+Korea Selatan,South Korea
+Korea Utara,North Korea
+Kota Vatican,Vatican City
+Kriptografi,Cryptography
+Krismas,Christmas
+Kristian,Christianity
+Kuwait,Kuwait
+Kyrgyzstan,Kyrgyzstan
+Laos,Laos
+Latvia,Latvia
+Lautan Hindi,Indian Ocean
+Lesotho,Lesotho
+Libya,Libya
+Liechtenstein,Liechtenstein
+Linux,Linux
+Lithuania,Lithuania
+Lubnan,Lebanon
+Luxembourg,Luxembourg
+Madagaskar,Madagascar
+Magnoliopsida,Magnoliopsida
+Malawi,Malawi
+Malaysia,Malaysia
+Maldives,Maldives
+Mali,Mali
+Malta,Malta
+Masa,Time
+Masyarakat,Society
+Mata wang,Currency
+Matematik,Mathematics
+Mauritania,Mauritania
+Mauritius,Mauritius
+Mesir,Egypt
+Meteorologi,Meteorology
+Mexico,Mexico
+Michigan,Michigan
+Mitos,Mythology
+Moldova,Moldova
+Monaco,Monaco
+Mongolia,Mongolia
+Montenegro,Montenegro
+Muzik,Music
+Muzik klasikal,Classical music
+Myanmar,Burma
+Myanmar,Myanmar
+Namibia,Namibia
+Nauru,Nauru
+Nepal,Nepal
+Nevada,Nevada
+New Mexico,New Mexico
+New Zealand,New Zealand
+Nicaragua,Nicaragua
+Niger,Niger
+Nigeria,Nigeria
+Nombor,Numbers
+Norway,Norway
+Nyahkekaburan,Disambiguation
+Oceania,Oceania
+Olahraga,Athletics
+Oman,Oman
+Onkologi,Oncology
+Optik,Optics
+Pakistan,Pakistan
+Palau,Palau
+Panama,Panama
+Papua New Guinea,Papua New Guinea
+Paraguay,Paraguay
+Pemain bola sepak,Football  players
+Pemerintahan beraja,Monarchy
+Pendidikan,Education
+Pengangkutan,Transportation
+Pengangkutan Udara,Aviation
+Pengaturcaraan,Computer programming
+Penghapusan etnik,Genocide
+Pengkomputeran,Computing
+Peperangan,War
+Perakaunan,Accountancy
+Perancis,France
+Perang Dingin,Cold War
+Perang Dunia I,World War I
+Perang Dunia II,World War II
+Perang Vietnam,Vietnam War
+Perdagangan,Commerce
+Perisian,Software
+Perkakasan komputer,Computer hardware
+Persekitaran,Environment
+Pertanian,Agriculture
+Perubatan,Medicine
+Poland,Poland
+Polis,Law enforcement
+Politik,Politics
+Portugal,Portugal
+Psikologi,Psychology
+Puerto Rico,Puerto Rico
+Qatar,Qatar
+Radio,Radio
+Republik Afrika Tengah,Central African Republic
+Republik Congo,Republic of the Congo
+Republik Czech,Czech Republic
+Republik Demokratik Congo,Democratic Republic of the Congo
+Republik Dominika,Dominican Republic
+Romania,Romania
+Rusia,Russia
+Rwanda,Rwanda
+Sains,Science
+Sains komputer,Computer science
+Saint Kitts dan Nevis,Saint Kitts and Nevis
+Saint Lucia,Saint Lucia
+Saint Vincent dan Grenadines,Saint Vincent and the Grenadines
+Samoa,Samoa
+San Marino,San Marino
+Sejarah,History
+Senegal,Senegal
+Seni bina,Architecture
+Sepanyol,Spain
+Serbia,Serbia
+Seychelles,Seychelles
+Sierra Leone,Sierra Leone
+Singapura,Singapore
+Sistem Suria,Solar System
+Slovakia,Slovakia
+Slovenia,Slovenia
+Somalia,Somalia
+Sosiologi,Sociology
+Sri Lanka,Sri Lanka
+Statistik,Statistics
+Sudan,Sudan
+Sukan Olimpik,Olympics
+Sukan Olimpik Musim Sejuk,Winter Olympic Games
+Suriname,Suriname
+Swaziland,Swaziland
+Sweden,Sweden
+Syria,Syria
+Tajikistan,Tajikistan
+Tanjung Verde,Cape Verde
+Tanzania,Tanzania
+Teh,Tea
+Televisyen,Television
+Tenaga,Energy
+Tenis,Tennis
+Tennessee,Tennessee
+Thailand,Thailand
+Tibet,Tibet
+Timor Leste,East Timor
+Timur Tengah,Middle East
+Togo,Togo
+Tokoh,People
+Tonga,Tonga
+Trigonometri,Trigonometry
+Trinidad dan Tobago,Trinidad and Tobago
+Turki,Turkey
+Turki Uthmaniyyah,Ottoman Empire
+Turkmenistan,Turkmenistan
+Tuvalu,Tuvalu
+Uganda,Uganda
+Ukraine,Ukraine
+Ukuran,Measurement
+Undang-undang,Law
+Undang-undang antarabangsa,International law
+United Kingdom,United Kingdom
+Uruguay,Uruguay
+Usahawan,Businesspeople
+Uzbekistan,Uzbekistan
+Vanuatu,Vanuatu
+Venezuela,Venezuela
+Vietnam,Vietnam
+Yugoslavia,Yugoslavia
+Zimbabwe,Zimbabwe
+Zoologi,Zoology
+Zuhal,Saturn
 Kathmandu,Kathmandu
 Katowice,Katowice
 Kawalan kelahiran,Birth control
@@ -1666,7 +1666,7 @@ Kejuruteraan kimia,Chemical engineering
 Kejuruteraan mekanik,Mechanical engineering
 Kelabu,Grey
 Kelajuan cahaya,Speed of light
-Kelas (biologi),Class (biology)
+Kelas,Class
 Kelawar,Bat
 Kelawat,Gibbon
 Kelentit,Clitoris
@@ -1688,7 +1688,7 @@ Kepala,Head
 Kepulauan Baleares,Balearic Islands
 Kepulauan Canary,Canary Islands
 Kepulauan Cayman,Cayman Islands
-Kepulauan Cocos (Keeling),Cocos (Keeling) Islands
+Kepulauan Cocos,Cocos  Islands
 Kepulauan Falkland,Falkland Islands
 Kepulauan Mariana Utara,Northern Mariana Islands
 Kepulauan Marshall,Marshall Islands
@@ -1697,7 +1697,7 @@ Kepulauan Virgin Amerika Syarikat,United States Virgin Islands
 Kepulauan Virgin British,British Virgin Islands
 Keradangan,Inflammation
 Kerajaan,Government
-Kerak bumi,Crust (geology)
+Kerak bumi,Crust
 Kerakyatan,Citizenship
 Kerelatifan khas,Special relativity
 Kereta,Automobile
@@ -1720,7 +1720,7 @@ Khalifah,Caliph
 Khamis,Thursday
 Khatan,Circumcision
 Khatulistiwa,Equator
-Khi,Chi (letter)
+Khi,Chi
 Khilafah,Caliphate
 Khufu,Khufu
 Kilat,Lightning
@@ -1756,7 +1756,7 @@ Komanwel Negara-negara Merdeka,Commonwealth of Independent States
 Komedi,Comedy
 Komet,Comet
 Kompas,Compass
-Kompeni,Company (military unit)
+Kompeni,Company
 Komputer,Computer
 Komputer riba,Laptop
 Komunikasi,Communication
@@ -1787,18 +1787,18 @@ Kuala Lumpur,Kuala Lumpur
 Kuarantin,Quarantine
 Kuark,Quark
 Kuarza,Quartz
-Kuasa (fizik),Power (physics)
+Kuasa,Power
 Kuasa kuda,Horsepower
 Kuasa suria,Solar energy
 Kubah,Dome
 Kucing,Cat
-Kuda Troy (komputer),Trojan horse (computing)
+Kuda Troy,Trojan horse
 Kuda belang,Zebra
 Kuil Artemis,Temple of Artemis
 Kulat,Fungus
 Kulit,Skin
 Kumbang,Beetle
-Kung Fu,Kung fu (term)
+Kung Fu,Kung fu
 Kuning,Yellow
 Kuomintang,Kuomintang
 Kurdistan,Kurdistan
@@ -1809,8 +1809,8 @@ Kutub Selatan,South Pole
 Kuwait,Kuwait
 Kyrgyzstan,Kyrgyzstan
 L,L
-LAMP,LAMP (software bundle)
-LISP,Lisp (programming language)
+LAMP,LAMP
+LISP,Lisp
 La Paz,La Paz
 LaTeX,LaTeX
 Labah-labah,Spider
@@ -1882,7 +1882,7 @@ Lilin,Candle
 Lima,Lima
 Limau mandarin,Mandarin orange
 Limnologi,Limnology
-Limousin,Limousin (region)
+Limousin,Limousin
 Lingkaran Kuiper,Kuiper belt
 Linguistik,Linguistics
 Linguistik pengiraan,Computational linguistics
@@ -1904,7 +1904,7 @@ Lohong hitam,Black hole
 Lompat jauh,Long jump
 London,London
 Lori,Truck
-Lorraine,Lorraine (region)
+Lorraine,Lorraine
 Los Angeles,Los Angeles
 Louis Braille,Louis Braille
 Louis Pasteur,Louis Pasteur
@@ -1912,7 +1912,7 @@ Louisiana,Louisiana
 Lubnan,Lebanon
 Luciano Pavarotti,Luciano Pavarotti
 Ludwig van Beethoven,Ludwig van Beethoven
-Lumen,Lumen (unit)
+Lumen,Lumen
 Lux,Lux
 Luxembourg,Luxembourg
 MRI,Magnetic resonance imaging
@@ -1923,7 +1923,7 @@ Madagaskar,Madagascar
 Madeira,Madeira
 Madinah al-Munawwarah,Medina
 Madrid,Madrid
-Madrid (Komuniti berautonomi),Madrid (autonomous community)
+Madrid,Madrid
 Mafia,Mafia
 Maghribi,Morocco
 Maging,Carnivore
@@ -1941,7 +1941,7 @@ Makkah al-Mukarramah,Mecca
 Maklumat,Information
 Malaikat,Angel
 Malaikat Jibril,Gabriel
-Malaikat Mikail,Michael (archangel)
+Malaikat Mikail,Michael
 Malaria,Malaria
 Malaysia,Malaysia
 Malcolm X,Malcolm X
@@ -1984,7 +1984,7 @@ Mata Hari,Mata Hari
 Mata wang,Currency
 Matahari,Sun
 Matematik,Mathematics
-Matriks (matematik),Matrix (mathematics)
+Matriks,Matrix
 Mauritania,Mauritania
 Mauritius,Mauritius
 Maut Hitam,Black Death
@@ -1992,7 +1992,7 @@ Mayonis,Mayonnaise
 Mazhab Gereja England,Church of England
 Mei,May
 Meiosis,Meiosis
-Meja,Table (furniture)
+Meja,Table
 Mekanik bendalir,Fluid mechanics
 Mekanik klasik,Classical mechanics
 Mekanik kuantum,Quantum mechanics
@@ -2045,7 +2045,7 @@ Minit,Minute
 Minnesota,Minnesota
 Minuman,Drink
 Minyak,Oil
-Minyak (nyahkekaburan),Oil (disambiguation)
+Minyak,Oil
 Miopia,Myopia
 Missouri,Missouri
 Mistisisme,Mysticism
@@ -2054,7 +2054,7 @@ Mitologi Rom,Roman mythology
 Mitos Norse,Norse mythology
 Modem,Modem
 Modenisme,Modernism
-Mol,Mole (unit)
+Mol,Mole
 Moldova,Moldova
 Molekul,Molecule
 Momentum,Momentum
@@ -2064,7 +2064,7 @@ Monarki,Monarchy
 Mongolia,Mongolia
 Monitor,Computer display
 Monokotiledon,Monocotyledon
-Monopoly,Monopoly (game)
+Monopoly,Monopoly
 Monosakarida,Monosaccharide
 Monosodium glutamat,Monosodium glutamate
 Monotheisme,Monotheism
@@ -2081,8 +2081,8 @@ Muhammad Ali,Muhammad Ali
 Mukjizat,Miracle
 Mumbai,Mumbai
 Mus,Mouse
-Musa,Musa (genus)
-Musim bunga,Spring (season)
+Musa,Musa
+Musim bunga,Spring
 Musim panas,Summer
 Musim sejuk,Winter
 Musytari,Jupiter
@@ -2110,8 +2110,8 @@ Natrium Klorida,Sodium chloride
 Nauru,Nauru
 Nebraska,Nebraska
 Nefertiti,Nefertiti
-Negara (geografi),Country
-Negara (politik),State
+Negara,Country
+Negara,State
 Negara-negara Komanwel,Commonwealth of Nations
 Negeri-Negeri Gabungan Amerika,Confederate States of America
 Nelson Mandela,Nelson Mandela
@@ -2145,7 +2145,7 @@ Nombor tabii,Natural number
 Norway,Norway
 Nostradamus,Nostradamus
 November,November
-Nu (huruf),Nu (letter)
+Nu,Nu
 Nukleotida,Nucleotide
 Nukleus,Cell nucleus
 Nyamuk,Mosquito
@@ -2170,9 +2170,9 @@ Orang Inggeris,English people
 Orang halus,Elf
 Orang utan,Orangutan
 Oratorio,Oratorio
-Order,Order (biology)
+Order,Order
 Oregon,Oregon
-Organ (muzik),Organ (music)
+Organ,Organ
 Organel,Organelle
 Origami,Origami
 Orkestra,Orchestra
@@ -2186,7 +2186,7 @@ Otto von Bismarck,Otto von Bismarck
 Ozon,Ozone
 PAL,PAL
 PH,PH
-Pai (huruf),Pi (letter)
+Pai,Pi
 Pakaian,Clothing
 Pakistan,Pakistan
 Palau,Palau
@@ -2214,7 +2214,7 @@ Paten,Patent
 Patologi,Pathology
 Patriotisme,Patriotism
 Patung Raksasa Rhodes,Colossus of Rhodes
-Paus (Katolik),Pope
+Paus,Pope
 Paus sperma,Sperm Whale
 Pays de la Loire,Pays de la Loire
 Pecutan,Acceleration
@@ -2295,7 +2295,7 @@ Perjanjian Baru,New Testament
 Perjanjian Lama,Old Testament
 Perjanjian Versailles,Treaty of Versailles
 Perkakasan komputer,Computer hardware
-Perlembagaan,Constitution (political)
+Perlembagaan,Constitution
 Permainan,Game
 Permainan video,Video game
 Perpustakaan,Library
@@ -2329,8 +2329,8 @@ Petrol,Gasoline
 Petroleum,Petroleum
 Petrović Njegoš,Nicholas
 Phnom Penh,Phnom Penh
-Phoenix,Phoenix (mythology)
-Phoenix (kapal angkasa),Phoenix (spacecraft)
+Phoenix,Phoenix
+Phoenix,Phoenix
 Pi,Pi
 Picardie,Picardie
 Pihak Berkuasa Palestin,Palestinian National Authority
@@ -2341,7 +2341,7 @@ Piring terbang,Unidentified flying object
 Pizza,Pizza
 Planet,Planet
 Plankton,Plankton
-Plasma (fizik),Plasma (physics)
+Plasma,Plasma
 Plasmid,Plasmid
 Plat tektonik,Plate tectonics
 Plato,Plato
@@ -2387,16 +2387,16 @@ Polis,Police
 Politik,Politics
 Polonium,Polonium
 Port Moresby,Port Moresby
-Portal:Astronomi,Astronomy
-Portal:Biografi,Biography
-Portal:Biologi,Biology
-Portal:Falsafah,Philosophy
-Portal:Filem,Film
-Portal:Fizik,Physics
-Portal:Geografi,Geography
-Portal:Matematik,Mathematics
-Portal:Sastera,Literature
-Portal:Sejarah,History
+Astronomi,Astronomy
+Biografi,Biography
+Biologi,Biology
+Falsafah,Philosophy
+Filem,Film
+Fizik,Physics
+Geografi,Geography
+Matematik,Mathematics
+Sastera,Literature
+Sejarah,History
 Portugal,Portugal
 Postmodenisme,Postmodernism
 Pretoria,Pretoria
@@ -2409,7 +2409,7 @@ Proton,Proton
 Protozoa,Protozoa
 Prunus,Prunus
 Pseudosains,Pseudoscience
-Psi,Psi (letter)
+Psi,Psi
 Psikologi,Psychology
 Ptah,Ptah
 Puasa,Fasting
@@ -2422,13 +2422,13 @@ Pulau Taiwan,Taiwan
 Punca kuasa dua,Square root
 Pundi hempedu,Gallbladder
 Pungutan suara,Referendum
-Punjab (India),Punjab (India)
+Punjab,Punjab
 "Putera Philip, Duke Edinburgh",Prince Philip
 Putera Wales,Prince of Wales
 Puting beliung,Tornado
 Pyongyang,Pyongyang
 Pythagoras,Pythagoras
-Python,Python (programming language)
+Python,Python
 Q,Q
 Qatar,Qatar
 Quebec,Quebec
@@ -2439,7 +2439,7 @@ Radar,Radar
 Radian,Radian
 Radon,Radon
 Raja Arthur,King Arthur
-Raksa,Mercury (element)
+Raksa,Mercury
 Rama-rama,Butterfly
 Ramadhan,Ramadan
 Ramayana,Ramayana
@@ -2472,7 +2472,7 @@ Richard Nixon,Richard Nixon
 Richard Wagner,Richard Wagner
 Rio de Janeiro,Rio de Janeiro
 Riyadh,Riyadh
-Ro (huruf),Rho (letter)
+Ro,Rho
 Robert Hooke,Robert Hooke
 Rock 'n' roll,Rock and roll
 Roda,Wheel
@@ -2500,7 +2500,7 @@ Saat,Second
 Sabtu,Saturday
 Sabun,Soap
 Saddam Hussein,Saddam Hussein
-Saham,Share (finance)
+Saham,Share
 Sahara,Sahara
 Sahara Barat,Western Sahara
 Sains,Science
@@ -2539,7 +2539,7 @@ Sejarah,History
 Sekolah,School
 Seks oral,Oral sex
 Seksa,Torture
-Sel (biologi),Cell (biology)
+Sel,Cell
 Selasa,Tuesday
 Selat Inggeris,English Channel
 Selo,Cello
@@ -2589,7 +2589,7 @@ Sinaran elektromagnet,Electromagnetic radiation
 Sindrom Down,Down syndrome
 Singa,Lion
 Singapura,Singapore
-Single (rekod muzik),Single (music)
+Single,Single
 Sir Winston Churchill,Winston Churchill
 Sistem Kedudukan Sejagat,Global Positioning System
 Sistem Suria,Solar System
@@ -2603,7 +2603,7 @@ Sitting Bull,Sitting Bull
 Siva,Shiva
 Skala minor,Minor scale
 Skizofrenia,Schizophrenia
-Skuasy,Squash (sport)
+Skuasy,Squash
 Slovakia,Slovakia
 Slovenia,Slovenia
 Socrates,Socrates
@@ -2616,7 +2616,7 @@ Sos tomato,Ketchup
 Sosej,Sausage
 Sosialisme,Socialism
 Sosiologi,Sociology
-Spam,Spam (electronic)
+Spam,Spam
 Spektroskopi,Spectroscopy
 Spektrum elektromagnet,Electromagnetic spectrum
 Spesies,Species
@@ -2692,7 +2692,7 @@ Tamil Nadu,Tamil Nadu
 Tanah,Soil
 Tanah liat,Clay
 Tanda baca,Punctuation
-Tanduk,Horn (anatomy)
+Tanduk,Horn
 Tanjung Verde,Cape Verde
 Tanzania,Tanzania
 Taoisme,Taoism
@@ -2722,10 +2722,10 @@ Teluk Parsi,Persian Gulf
 Tembaga,Copper
 Tembok Besar China,Great Wall of China
 Tembok Hadrian,Hadrian's Wall
-Templat:Bot,Bot
-Templat:Stub,Stub
+Bot,Bot
+Stub,Stub
 Tenaga,Energy
-Tenaga,Energy (society)
+Tenaga,Energy
 Tenaga keupayaan,Potential energy
 Tenaga kinetik,Kinetic energy
 Tenis,Tennis
@@ -2746,8 +2746,8 @@ Terowong Selat,Channel Tunnel
 Terusan,Canal
 Terusan Suez,Suez Canal
 Teta,Theta
-Tethys (bulan),Tethys (moon)
-Tetikus,Mouse (computing)
+Tethys,Tethys
+Tetikus,Mouse
 Tetrahedron,Tetrahedron
 Texas,Texas
 Thailand,Thailand
@@ -2767,9 +2767,9 @@ Timun,Cucumber
 Tindak balas kimia,Chemical reaction
 Tinju,Boxing
 Tipografi,Typography
-Tisu biologi,Tissue (biology)
-Titan (bulan),Titan (moon)
-Titanic,Titanic (disambiguation)
+Tisu biologi,Tissue
+Titan,Titan
+Titanic,Titanic
 Togo,Togo
 Tokyo,Tokyo
 Tonga,Tonga
@@ -2820,14 +2820,14 @@ Uruguay,Uruguay
 Usus kecil,Small intestine
 Utah,Utah
 Utara,North
-Utarid,Mercury (planet)
+Utarid,Mercury
 Uthman I,Osman I
 Uzbekistan,Uzbekistan
 Vakuol,Vacuole
 Vancouver,Vancouver
 Vanuatu,Vanuatu
 Vegetarian,Vegetarianism
-Vektor,Vector (spatial)
+Vektor,Vector
 Velociraptor,Velociraptor
 Venezuela,Venezuela
 Venice,Venice

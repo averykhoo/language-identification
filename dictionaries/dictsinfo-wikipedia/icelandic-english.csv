@@ -17,21 +17,21 @@ Other,English
 12. október,October 12
 120,120
 13,13
-13 (tala),13 (number)
+13,13
 135,135
 14,14
-14 (tala),14 (number)
+14,14
 14. apríl,April 14
 14. febrúar,February 14
 14. júní,June 14
 15,15
-15 (tala),15 (number)
+15,15
 15. ágúst,August 15
 1531-1540,1530s
 16,16
-16 (tala),16 (number)
+16,16
 17,17
-17 (tala),17 (number)
+17,17
 17. mars,March 17
 17. september,September 17
 1728,1728
@@ -41,7 +41,7 @@ Other,English
 1781–1790,1780s
 1791–1800,1790s
 18,18
-18 (tala),18 (number)
+18,18
 180,180
 1821–1830,1820s
 1831–1840,1830s
@@ -74,7 +74,7 @@ Other,English
 23,23
 23. júní,June 23
 24,24
-24 (sjónvarpsþáttur),24 (TV series)
+24,24
 24. júní,June 24
 24. maí,May 24
 24. október,October 24
@@ -102,7 +102,7 @@ Other,English
 5,5
 5. nóvember,November 5
 500,500
-6 (tölustafur),6
+6,6
 6. janúar,January 6
 6. ágúst,August 6
 66,66
@@ -130,10 +130,10 @@ Abraham,Abraham
 Abraham Lincoln,Abraham Lincoln
 Abstraktlist,Abstract art
 Abú Dabí,Abu Dhabi
-Abú Dabí,Abu Dhabi (emirate)
+Abú Dabí,Abu Dhabi
 Abútja,Abuja
 Acetýlsalicýlsýra,Aspirin
-Acre (fylki),Acre (state)
+Acre,Acre
 Adam Smith,Adam Smith
 Addis Ababa,Addis Ababa
 Adelaide,Adelaide
@@ -144,7 +144,7 @@ Adolf Hitler,Adolf Hitler
 Adríahaf,Adriatic Sea
 Afbygging,Deconstruction
 Afganistan,Afghanistan
-Afl,Power (physics)
+Afl,Power
 Afleiðsla,Deductive reasoning
 Afríka,Africa
 Afríka sunnan Sahara,Sub-Saharan Africa
@@ -158,7 +158,7 @@ Agat,Agate
 Agatha Christie,Agatha Christie
 Aikido,Aikido
 Ajas,Ajax
-Ajas Telamonsson,Ajax (mythology)
+Ajas Telamonsson,Ajax
 Akabaflói,Gulf of Aqaba
 Akkeron,Acheron
 Akkilles,Achilles
@@ -175,7 +175,7 @@ Alaska,Alaska
 Albanía,Albania
 Albert Camus,Albert Camus
 Albert Einstein,Albert Einstein
-Alberta (fylki),Alberta
+Alberta,Alberta
 Aldebaran,Aldebaran
 Alec Guinness,Alec Guinness
 Aleuteyjar,Aleutian Islands
@@ -185,7 +185,7 @@ Alexander mikli,Alexander the Great
 Alexandr Púshkín,Alexander Pushkin
 Alexandre Dumas eldri,Alexandre Dumas
 Alexandría,Alexandria
-Alfa,Alpha (letter)
+Alfa,Alpha
 Alfred Hitchcock,Alfred Hitchcock
 Alfred Nobel,Alfred Nobel
 Alfred North Whitehead,Alfred North Whitehead
@@ -204,7 +204,7 @@ Alkóhól,Alcohol
 Alkóhólismi,Alcoholism
 Allah,Allah
 Almaty,Almaty
-Almenn brot,Fraction (mathematics)
+Almenn brot,Fraction
 Almenna afstæðiskenningin,General relativity
 Alnæmi,AIDS
 Alpafjöll,Alps
@@ -244,7 +244,7 @@ Andrew Jackson,Andrew Jackson
 Andrew Johnson,Andrew Johnson
 Andrés Önd,Donald Duck
 Andrómeda,Andromeda
-Andrómeda (grísk goðafræði),Andromeda (mythology)
+Andrómeda,Andromeda
 Andrúmsloft,Atmosphere
 Andy Warhol,Andy Warhol
 Angvilla,Anguilla
@@ -260,11 +260,11 @@ Anton Tsjekhov,Anton Chekhov
 Antonio Stradivari,Antonio Stradivari
 Antonio Vivaldi,Antonio Vivaldi
 Antwerpen,Antwerp
-Antwerpen-hérað,Antwerp (province)
+Antwerpen-hérað,Antwerp
 Antígva og Barbúda,Antigua and Barbuda
 Api,Ape
 Appalachiafjöll,Appalachian Mountains
-Appelsína,Orange (fruit)
+Appelsína,Orange
 Appennínaskagi,Italian Peninsula
 Apríl,April
 Aprílgabb,April Fools' Day
@@ -311,7 +311,7 @@ Atlanta,Atlanta
 Atlantis,Atlantis
 Atlantshaf,Atlantic Ocean
 Atlantshafsbandalagið,NATO
-Atlas,Atlas (disambiguation)
+Atlas,Atlas
 Atlasfjöll,Atlas Mountains
 Atli Húnakonungur,Attila the Hun
 Atreifur,Atreus
@@ -321,7 +321,7 @@ Auga,Eye
 Auglýsingar,Advertising
 Auguste Comte,Auguste Comte
 Auguste Rodin,Auguste Rodin
-Austin (Texas),Austin
+Austin,Austin
 Austur,East
 Austur-Afríka,East Africa
 Austur-Kongó,Democratic Republic of the Congo
@@ -339,10 +339,10 @@ Aðfeldi,Factorial
 Aðskeyti,Affix
 Aðventa,Advent
 Aþena,Athens
-Aþena (gyðja),Athena
+Aþena,Athena
 B,B
 B1-vítamín,Thiamine
-BASIC (forritunarmál),BASIC
+BASIC,BASIC
 Badminton,Badminton
 Bagdad,Baghdad
 Bajkalvatn,Lake Baikal
@@ -380,7 +380,7 @@ Barselóna,Barcelona
 Barín,Barium
 Basalt,Basalt
 Basel,Basel
-Basi,Base (chemistry)
+Basi,Base
 Basilíka,Basil
 Basilíkata,Basilicata
 Bastille,Bastille
@@ -402,7 +402,7 @@ Benito Mussolini,Benito Mussolini
 Benjamin Franklin,Benjamin Franklin
 Benjamin Harrison,Benjamin Harrison
 Benín,Benin
-Berg,Rock (geology)
+Berg,Rock
 Bergfræði,Petrology
 Bergkvika,Magma
 Beringssund,Bering Strait
@@ -415,7 +415,7 @@ Berserkjasveppur,Amanita muscaria
 Bertolt Brecht,Bertolt Brecht
 Bertrand Russell,Bertrand Russell
 Beryllín,Beryllium
-Beta,Beta (letter)
+Beta,Beta
 Betasundrun,Beta decay
 Betelgás,Betelgeuse
 Bette Davis,Bette Davis
@@ -430,18 +430,18 @@ Biskup,Bishop
 Bismút,Bismuth
 Bissá,Bissau
 Bjarndýr,Bear
-Bjólfskviða (kvæði),Beowulf
-Bjór (öl),Beer
+Bjólfskviða,Beowulf
+Bjór,Beer
 Björgvin,Bergen
 Blaise Pascal,Blaise Pascal
 Blak,Volleyball
 Blaðamennska,Journalism
-Blender,Blender (software)
+Blender,Blender
 Blettatígur,Cheetah
 Blinda,Blindness
 Bloemfontein,Bloemfontein
 Blogg,Blog
-Bláhrafn,Rook (bird)
+Bláhrafn,Rook
 Blár,Blue
 Blásturshljóðfæri,Wind instrument
 Bláæð,Vein
@@ -459,7 +459,7 @@ Bobby Fischer,Bobby Fischer
 Bodenvatn,Lake Constance
 Boethíus,Anicius Manlius Severinus Boethius
 Bogagráða,Angle
-Bogi (byggingarlist),Arch
+Bogi,Arch
 Bologna,Bologna
 Bonn,Bonn
 Bordeaux,Bordeaux
@@ -477,7 +477,7 @@ Boston,Boston
 Botsvana,Botswana
 Bourgogne,Bourgogne
 Bouveteyja,Bouvet Island
-Boxer (hundur),Boxer (dog)
+Boxer,Boxer
 Boðorðin tíu,Ten Commandments
 Braga,Braga
 Brama,Brahma
@@ -503,7 +503,7 @@ Bristol,Bristol
 Brjóskfiskar,Chondrichthyes
 Brjóst,Breast
 Brno,Brno
-Broadway,Broadway (New York City)
+Broadway,Broadway
 Brons,Bronze
 Bronsöld,Bronze Age
 Brooklyn,Brooklyn
@@ -535,7 +535,7 @@ Bókfell,Parchment
 Bókfinka,Chaffinch
 Bókmenntir,Literature
 Bókstafstrú,Fundamentalism
-Bókstafur,Letter (alphabet)
+Bókstafur,Letter
 Bólivía,Bolivia
 Bór,Boron
 Búdapest,Budapest
@@ -548,11 +548,11 @@ Búlgaría,Bulgaria
 Búrkína Fasó,Burkina Faso
 Bútan,Bhutan
 Býfluga,Bee
-C (forritunarmál),C (programming language)
+C,C
 C-14 aldursgreining,Radiocarbon dating
 C. S. Lewis,C. S. Lewis
 CAT,Computed tomography
-CD,CD (disambiguation)
+CD,CD
 Calvin Coolidge,Calvin Coolidge
 Calígúla,Caligula
 Cambridge,Cambridge
@@ -564,13 +564,13 @@ Casablanca,Casablanca
 Catullus,Catullus
 Caymaneyjar,Cayman Islands
 Ceres,Ceres
-Ceres (gyðja),Ceres (mythology)
+Ceres,Ceres
 Charles Darwin,Charles Darwin
 Charles Dickens,Charles Dickens
 Charles Sanders Peirce,Charles Peirce
 Charles de Gaulle,Charles de Gaulle
 Charlie Chaplin,Charlie Chaplin
-Charlotte (Norður-Karólína),Charlotte
+Charlotte,Charlotte
 Che Guevara,Che Guevara
 Chester A. Arthur,Chester A. Arthur
 Chicago,Chicago
@@ -578,20 +578,20 @@ Chicago-háskóli,University of Chicago
 Chile,Chile
 Christiaan Huygens,Christiaan Huygens
 Christopher Marlowe,Christopher Marlowe
-Civilization (tölvuleikur),Civilization (computer game)
+Civilization,Civilization
 Claude Monet,Claude Monet
 Claude Shannon,Claude Shannon
 Claudio Monteverdi,Claudio Monteverdi
 Claudíus,Claudius
-Cleveland (Ohio),Cleveland
+Cleveland,Cleveland
 Colorado,Colorado
 Colosseum,Colosseum
 Columbia,Columbia
 Columbia-háskóli,Columbia University
 Columbus,Columbus
-Columbus (Ohio),Columbus
+Columbus,Columbus
 Connecticut,Connecticut
-Cork,Cork (city)
+Cork,Cork
 Cornell-háskóli,Cornell University
 Cornwall,Cornwall
 Cotonou,Cotonou
@@ -608,7 +608,7 @@ Daka,Dhaka
 Dakar,Dakar
 Dalai Lama,Dalai Lama
 Dallas,Dallas
-Dalur (gjaldmiðill),Dollar
+Dalur,Dollar
 Damaskus,Damascus
 Damm,Draughts
 Daniel Bernoulli,Daniel Bernoulli
@@ -619,7 +619,7 @@ Dante Alighieri,Dante Alighieri
 Dar es Salaam,Dar es Salaam
 Dardanellasund,Dardanelles
 Darwin,Darwin
-Darwin (Ástralía),Darwin
+Darwin,Darwin
 Dauðahaf,Dead Sea
 Dauðarefsing,Capital punishment
 Dauði,Death
@@ -629,15 +629,15 @@ David Livingstone,David Livingstone
 David Ricardo,David Ricardo
 Deildun,Derivative
 Deilikorn,Centriole
-Deiling,Division (mathematics)
-Deimos,Deimos (moon)
-Delaware (fylki),Delaware
+Deiling,Division
+Deimos,Deimos
+Delaware,Delaware
 Delfí,Delphi
-Delta,Delta (letter)
+Delta,Delta
 Demantur,Diamond
 Demetra,Demeter
 Demosþenes,Demosthenes
-Demókrataflokkurinn,Democratic Party (United States)
+Demókrataflokkurinn,Democratic Party
 Demókrítos,Democritus
 Denis Diderot,Denis Diderot
 Denver,Denver
@@ -654,8 +654,8 @@ Djákni,Deacon
 Dmitri Mendelejev,Dmitri Mendeleev
 Dnjepr,Dnieper River
 Dobermann,Doberman Pinscher
-Dolly,Dolly (sheep)
-Don,Don River (Russia)
+Dolly,Dolly
+Don,Don River
 Don Kíkóti,Don Quixote
 Donatello,Donatello
 Dopplerhrif,Doppler effect
@@ -663,7 +663,7 @@ Doris Lessing,Doris Lessing
 Dortmund,Dortmund
 Drakúla,Dracula
 Draumur,Dream
-Dreki (goðsagnavera),Dragon
+Dreki,Dragon
 Dresden,Dresden
 Drómedari,Dromedary
 Duke-háskóli,Duke University
@@ -700,7 +700,7 @@ Dýr,Animal
 Dýrafræði,Zoology
 Dýrlingur,Saint
 E,E
-E (stærðfræðilegur fasti),E (mathematical constant)
+E,E
 Edgar Allan Poe,Edgar Allan Poe
 Edinborg,Edinburgh
 Edmund Hillary,Edmund Hillary
@@ -720,17 +720,17 @@ Efnaverkfræði,Chemical engineering
 Efnavopn,Chemical warfare
 Efnishyggja,Materialism
 Efrat,Euphrates
-Egg (matvæli),Egg (biology)
+Egg,Egg
 Eggjastokkur,Ovary
 Egyptaland,Egypt
 Eiffelturninn,Eiffel Tower
 Eignarfall,Genitive case
-Eingildi,Valence (chemistry)
+Eingildi,Valence
 Eingyðistrú,Monotheism
 Einhyggja,Monism
-Einhyrningur (dýr),Unicorn
+Einhyrningur,Unicorn
 Einkímblöðungar,Monocotyledon
-Einn,1 (number)
+Einn,1
 Einræði,Dictatorship
 Einsykrur,Monosaccharide
 Eista,Testicle
@@ -773,7 +773,7 @@ Epsílon,Epsilon
 Erasure,Erasure
 Eratosþenes,Eratosthenes
 Erfðafræði,Genetics
-Erfðaskrá,Will (law)
+Erfðaskrá,Will
 Erfðavísir,Gene
 Erkibiskup,Archbishop
 Erkiengill,Archangel
@@ -787,7 +787,7 @@ Espressó,Espresso
 Essen,Essen
 Essex,Essex
 Estrógen,Estrogen
-Eta,Eta (letter)
+Eta,Eta
 Etanól,Ethanol
 Eva Braun,Eva Braun
 Everestfjall,Mount Everest
@@ -796,7 +796,7 @@ Evra,Euro
 Evrasía,Eurasia
 Evripídes,Euripides
 Evrópa,Europe
-Evrópa (gyðja),Europa (mythology)
+Evrópa,Europa
 Evrópubandalagið,European Community
 Evrópusambandið,European Union
 Eyja,Island
@@ -820,7 +820,7 @@ Fagott,Bassoon
 Fagurfræði,Aesthetics
 Faldmengi,Cartesian product
 Falklandseyjar,Falkland Islands
-Fall (stærðfræði),Function (mathematics)
+Fall,Function
 Fallöxi,Guillotine
 Falun Gong,Falun Gong
 Fangelsi,Prison
@@ -844,7 +844,7 @@ Ferfætlingar,Tetrapod
 Fermetri,Square metre
 Fermíeind,Fermion
 Ferningsrót,Square root
-Ferningur,Square (geometry)
+Ferningur,Square
 Fertölur,Quaternion
 Ferðaþjónusta,Tourism
 Fibonacciruna,Fibonacci number
@@ -854,7 +854,7 @@ Filippus 2. Spánarkonungur,Philip II of Spain
 Fimleikar,Gymnastics
 Fimmhyrningur,Pentagon
 Fimmtudagur,Thursday
-Fimmtíu,50 (number)
+Fimmtíu,50
 Fingur,Finger
 Finnland,Finland
 Firðrúm,Metric space
@@ -885,454 +885,454 @@ Flekakenningin,Plate tectonics
 Fleygbogi,Parabola
 Fljúgandi furðuhlutur,Unidentified flying object
 Flogaveiki,Epilepsy
-Flokkur (flokkunarfræði),Class (biology)
-Flokkur (lotukerfið),Group (periodic table)
-Flokkur:1000,1000
-Flokkur:1728,1728
-Flokkur:1751-1760,1750s
-Flokkur:1761-1770,1760s
-Flokkur:1771-1780,1770s
-Flokkur:1781-1790,1780s
-Flokkur:1791-1800,1790s
-Flokkur:1821-1830,1820s
-Flokkur:1831-1840,1830s
-Flokkur:1841-1850,1840s
-Flokkur:1861-1870,1860s
-Flokkur:1871-1880,1870s
-Flokkur:1881-1890,1880s
-Flokkur:1891-1900,1890s
-Flokkur:1901-1910,1900s
-Flokkur:1921-1930,1920s
-Flokkur:1931-1940,1930s
-Flokkur:1941-1950,1940s
-Flokkur:1951-1960,1950s
-Flokkur:1961-1970,1960s
-Flokkur:1971-1980,1970s
-Flokkur:1981-1990,1980s
-Flokkur:1991-2000,1990s
-Flokkur:Afganistan,Afghanistan
-Flokkur:Afríka,Africa
-Flokkur:Afþreying,Entertainment
-Flokkur:Albanía,Albania
-Flokkur:Alberta,Alberta
-Flokkur:Algebra,Algebra
-Flokkur:Alpafjöll,Alps
-Flokkur:Alsír,Algeria
-Flokkur:Amerískur fótbolti,American football
-Flokkur:Angóla,Angola
-Flokkur:Anime,Anime
-Flokkur:Antígva og Barbúda,Antigua and Barbuda
-Flokkur:Argentína,Argentina
-Flokkur:Arizona,Arizona
-Flokkur:Armenía,Armenia
-Flokkur:Arúba,Aruba
-Flokkur:Aserbaídsjan,Azerbaijan
-Flokkur:Asía,Asia
-Flokkur:Atlantshaf,Atlantic Ocean
-Flokkur:Atómfræði,Atomic physics
-Flokkur:Austrómverska keisaradæmið,Byzantine Empire
-Flokkur:Austur-Kongó,Democratic Republic of the Congo
-Flokkur:Austur-Tímor,East Timor
-Flokkur:Austurríki,Austria
-Flokkur:Aðgreiningarsíður,Disambiguation
-Flokkur:Bahamaeyjar,Bahamas
-Flokkur:Bandaríkin,United States
-Flokkur:Bangladess,Bangladesh
-Flokkur:Bankar,Banks
-Flokkur:Barbados,Barbados
-Flokkur:Barein,Bahrain
-Flokkur:Beinagrind,Skeletal system
-Flokkur:Belgía,Belgium
-Flokkur:Benín,Benin
-Flokkur:Biblían,Bible
-Flokkur:Bosnía og Hersegóvína,Bosnia and Herzegovina
-Flokkur:Botsvana,Botswana
-Flokkur:Brasilía,Brazil
-Flokkur:Bretar,British people
-Flokkur:Bretland,United Kingdom
-Flokkur:Brúnei,Brunei
-Flokkur:Byggingarlist,Architecture
-Flokkur:Bókmenntir,Literature
-Flokkur:Bólivía,Bolivia
-Flokkur:Búddismi,Buddhism
-Flokkur:Búlgaría,Bulgaria
-Flokkur:Búrkína Fasó,Burkina Faso
-Flokkur:Búrúndí,Burundi
-Flokkur:Bútan,Bhutan
-Flokkur:Chile,Chile
-Flokkur:Connecticut,Connecticut
-Flokkur:Dagar,Days
-Flokkur:Danmörk,Denmark
-Flokkur:Djíbútí,Djibouti
-Flokkur:Dóminíka,Dominica
-Flokkur:Dóminíska lýðveldið,Dominican Republic
-Flokkur:Dúfnafuglar,Columbiformes
-Flokkur:Dýrafræði,Zoology
-Flokkur:Efnafræði,Chemistry
-Flokkur:Egyptaland,Egypt
-Flokkur:Einveldi,Monarchy
-Flokkur:Eistland,Estonia
-Flokkur:Ekvador,Ecuador
-Flokkur:El Salvador,El Salvador
-Flokkur:Eldfjallafræði,Volcanology
-Flokkur:England,England
-Flokkur:Englendingar,English people
-Flokkur:Enska,English language
-Flokkur:Erfðafræði,Genetics
-Flokkur:Erítrea,Eritrea
-Flokkur:Esperanto,Esperanto
-Flokkur:Evrópa,Europe
-Flokkur:Evrópusambandið,European Union
-Flokkur:Eyjaálfa,Oceania
-Flokkur:Eyðimerkur,Deserts
-Flokkur:Eðlisefnafræði,Physical chemistry
-Flokkur:Eðlisfræði,Physics
-Flokkur:Eþíópía,Ethiopia
-Flokkur:Fatnaður,Clothing
-Flokkur:Femínismi,Feminism
-Flokkur:Ferðamennska,Tourism
-Flokkur:Filippseyjar,Philippines
-Flokkur:Finnland,Finland
-Flokkur:Fiskar,Fish
-Flokkur:Flugvélar,Aircraft
-Flokkur:Flórída,Florida
-Flokkur:Fornleifafræði,Archaeology
-Flokkur:Forritun,Computer programming
-Flokkur:Forsögulegur tími,Prehistory
-Flokkur:Frakkar,French people
-Flokkur:Frakkland,France
-Flokkur:Frankfurt,Frankfurt
-Flokkur:Franska Pólýnesía,French Polynesia
-Flokkur:Frumspeki,Metaphysics
-Flokkur:Fuglafræði,Ornithology
-Flokkur:Fyrri heimsstyrjöldin,World War I
-Flokkur:Færeyjar,Faroe Islands
-Flokkur:Félagsfræði,Sociology
-Flokkur:Fólk,People
-Flokkur:Gabon,Gabon
-Flokkur:Gambía,The Gambia
-Flokkur:Gana,Ghana
-Flokkur:Georgíufylki,Georgia (U.S. state)
-Flokkur:Gervigreind,Artificial intelligence
-Flokkur:Gjaldmiðlar,Currency
-Flokkur:Golf,Golf
-Flokkur:Goðafræði,Mythology
-Flokkur:Grannfræði,Topology
-Flokkur:Grasafræði,Botany
-Flokkur:Grenada,Grenada
-Flokkur:Grikkland,Greece
-Flokkur:Grunnflokkar,Fundamental
-Flokkur:Grænhöfðaeyjar,Cape Verde
-Flokkur:Grænland,Greenland
-Flokkur:Grísk goðafræði,Greek mythology
-Flokkur:Guðfræði,Theology
-Flokkur:Guðleysi,Atheism
-Flokkur:Gvatemala,Guatemala
-Flokkur:Gvæjana,Guyana
-Flokkur:Gyðingdómur,Judaism
-Flokkur:Gásfuglar,Anseriformes
-Flokkur:Gíbraltar,Gibraltar
-Flokkur:Gínea,Guinea
-Flokkur:Gínea-Bissá,Guinea-Bissau
-Flokkur:Haffræði,Oceanography
-Flokkur:Hagfræði,Economics
-Flokkur:Haítí,Haiti
-Flokkur:Heilaga rómverska ríki,Holy Roman Empire
-Flokkur:Heilsa,Health
-Flokkur:Heimsfræði,Cosmology
-Flokkur:Heimspeki,Philosophy
-Flokkur:Hindúismi,Hinduism
-Flokkur:Hjarta- og æðakerfið,Cardiovascular system
-Flokkur:Hjólreiðar,Cycling
-Flokkur:Hljóðfræði,Phonetics
-Flokkur:Holland,Netherlands
-Flokkur:Hollendingar,Dutch people
-Flokkur:Hondúras,Honduras
-Flokkur:Hong Kong,Hong Kong
-Flokkur:Hryðjuverk,Terrorism
-Flokkur:Hugbúnaður,Software
-Flokkur:Hugvísindi,Humanities
-Flokkur:Hvíta-Rússland,Belarus
-Flokkur:Illinois,Illinois
-Flokkur:Indiana,Indiana
-Flokkur:Indland,India
-Flokkur:Indlandshaf,Indian Ocean
-Flokkur:Indónesía,Indonesia
-Flokkur:Innkirtlafræði,Endocrinology
-Flokkur:Internetið,Internet
-Flokkur:Jafnaðarstefna,Socialism
-Flokkur:Jamaíka,Jamaica
-Flokkur:Japan,Japan
-Flokkur:Jarðeðlisfræði,Geophysics
-Flokkur:Jarðfræði,Geology
-Flokkur:Jarðskjálftafræði,Seismology
-Flokkur:Jól,Christmas
-Flokkur:Jórdanía,Jordan
-Flokkur:Jörðin,Earth
-Flokkur:Júgóslavía,Yugoslavia
-Flokkur:Júpíter,Jupiter
-Flokkur:Kaffi,Coffee
-Flokkur:Kalda stríðið,Cold War
-Flokkur:Kalifornía,California
-Flokkur:Kambódía,Cambodia
-Flokkur:Kamerún,Cameroon
-Flokkur:Kanada,Canada
-Flokkur:Kasakstan,Kazakhstan
-Flokkur:Katar,Qatar
-Flokkur:Kenýa,Kenya
-Flokkur:Kirgisistan,Kyrgyzstan
-Flokkur:Klassísk tónlist,Classical music
-Flokkur:Knattspyrna,Football (soccer)
-Flokkur:Kommúnismi,Communism
-Flokkur:Kosta Ríka,Costa Rica
-Flokkur:Kosóvó,Kosovo
-Flokkur:Kristallafræði,Crystallography
-Flokkur:Kristni,Christianity
-Flokkur:Króatía,Croatia
-Flokkur:Kvikmyndir,Film
-Flokkur:Kyrrahaf,Pacific Ocean
-Flokkur:Kákasus,Caucasus
-Flokkur:Kína,China
-Flokkur:Kíribatí,Kiribati
-Flokkur:Kólumbía,Colombia
-Flokkur:Kómoreyjar,Comoros
-Flokkur:Körfublómaætt,Asteraceae
-Flokkur:Körfuknattleikur,Basketball
-Flokkur:Kúba,Cuba
-Flokkur:Kúveit,Kuwait
-Flokkur:Landafræði,Geography
-Flokkur:Landbúnaður,Agriculture
-Flokkur:Landmótunarfræði,Geomorphology
-Flokkur:Laos,Laos
-Flokkur:Lesótó,Lesotho
-Flokkur:Lettland,Latvia
-Flokkur:Liechtenstein,Liechtenstein
-Flokkur:Linux,Linux
-Flokkur:List,Arts
-Flokkur:Litháen,Lithuania
-Flokkur:Ljósfræði,Optics
-Flokkur:Ljósmyndun,Photography
-Flokkur:London,London
-Flokkur:Louisiana,Louisiana
-Flokkur:Líbanon,Lebanon
-Flokkur:Líbería,Liberia
-Flokkur:Lífefnafræði,Biochemistry
-Flokkur:Lífeðlisfræði,Physiology
-Flokkur:Líffræði,Biology
-Flokkur:Líffærafræði,Anatomy
-Flokkur:Lífræn efnafræði,Organic chemistry
-Flokkur:Madagaskar,Madagascar
-Flokkur:Maine,Maine
-Flokkur:Malasía,Malaysia
-Flokkur:Malaví,Malawi
-Flokkur:Maldíveyjar,Maldives
-Flokkur:Malta,Malta
-Flokkur:Malí,Mali
-Flokkur:Mannfræði,Anthropology
-Flokkur:Marokkó,Morocco
-Flokkur:Mars (reikistjarna),Mars
-Flokkur:Maryland,Maryland
-Flokkur:Massachusetts,Massachusetts
-Flokkur:Meltingarkerfið,Digestive system
-Flokkur:Mengjafræði,Set theory
-Flokkur:Menning,Culture
-Flokkur:Merkingarfræði,Semantics
-Flokkur:Mesópótamía,Mesopotamia
-Flokkur:Mexíkó,Mexico
-Flokkur:Michigan,Michigan
-Flokkur:Mið-Ameríka,Central America
-Flokkur:Miðjarðarhaf,Mediterranean
-Flokkur:Mjanmar,Burma
-Flokkur:Mjanmar,Myanmar
-Flokkur:Moldóva,Moldova
-Flokkur:Mongólía,Mongolia
-Flokkur:Montana,Montana
-Flokkur:Myntfræði,Numismatics
-Flokkur:Málfræði,Grammar
-Flokkur:Málvísindi,Linguistics
-Flokkur:Máritanía,Mauritania
-Flokkur:Máritíus,Mauritius
-Flokkur:Mæling,Measurement
-Flokkur:Mælskufræði,Rhetoric
-Flokkur:Míkrónesía,Federated States of Micronesia
-Flokkur:Mónakó,Monaco
-Flokkur:Nepal,Nepal
-Flokkur:Nevada,Nevada
-Flokkur:New Hampshire,New Hampshire
-Flokkur:New Jersey,New Jersey
-Flokkur:New York,New York City
-Flokkur:Noregur,Norway
-Flokkur:Norræn goðafræði,Norse mythology
-Flokkur:Norður-Kórea,North Korea
-Flokkur:Nárú,Nauru
-Flokkur:Náttskuggaætt,Solanaceae
-Flokkur:Náttúran,Nature
-Flokkur:Næring,Nutrition
-Flokkur:Nóbelsverðlaun,Nobel Prize
-Flokkur:Nýja-Sjáland,New Zealand
-Flokkur:Ohio,Ohio
-Flokkur:Oregon,Oregon
-Flokkur:Orka,Energy
-Flokkur:Pakistan,Pakistan
-Flokkur:Palestína,Palestine
-Flokkur:Palá,Palau
-Flokkur:Paragvæ,Paraguay
-Flokkur:París,Paris
-Flokkur:Pennsylvanía,Pennsylvania
-Flokkur:Perú,Peru
-Flokkur:Portúgal,Portugal
-Flokkur:Prímatar,Primates
-Flokkur:Pólland,Poland
-Flokkur:Púertó Ríkó,Puerto Rico
-Flokkur:Rafmagn,Electricity
-Flokkur:Rhode Island,Rhode Island
-Flokkur:Rokk,Rock music
-Flokkur:Róm,Rome
-Flokkur:Rómversk goðafræði,Roman mythology
-Flokkur:Rökfræði,Logic
-Flokkur:Rúanda,Rwanda
-Flokkur:Rúmenía,Romania
-Flokkur:Rúmfræði,Geometry
-Flokkur:Rússland,Russia
-Flokkur:Saga,History
-Flokkur:Sambía,Zambia
-Flokkur:Sameindalíffræði,Molecular biology
-Flokkur:Sameinuðu arabísku furstadæmin,United Arab Emirates
-Flokkur:Sameinuðu þjóðirnar,United Nations
-Flokkur:Samgöngur,Transportation
-Flokkur:San Marínó,San Marino
-Flokkur:Seinni heimsstyrjöldin,World War II
-Flokkur:Serbía,Serbia
-Flokkur:Simbabve,Zimbabwe
-Flokkur:Singapúr,Singapore
-Flokkur:Siðfræði,Ethics
-Flokkur:Sjónvarp,Television
-Flokkur:Skordýrafræði,Entomology
-Flokkur:Skotland,Scotland
-Flokkur:Skák,Chess
-Flokkur:Sköttun,Taxation
-Flokkur:Slóvakía,Slovakia
-Flokkur:Slóvenía,Slovenia
-Flokkur:Spánn,Spain
-Flokkur:Spánverjar,Spanish people
-Flokkur:Spörfuglar,Passeriformes
-Flokkur:Srí Lanka,Sri Lanka
-Flokkur:Steindafræði,Mineralogy
-Flokkur:Steingervingafræði,Paleontology
-Flokkur:Stjarneðlisfræði,Astrophysics
-Flokkur:Stjórnleysisstefna,Anarchism
-Flokkur:Stjórnmál,Politics
-Flokkur:Stjörnufræði,Astronomy
-Flokkur:Stærðfræði,Mathematics
-Flokkur:Stærðfræðileg rökfræði,Mathematical logic
-Flokkur:Sund (hreyfing),Swimming
-Flokkur:Sund (landform),Straits
-Flokkur:Suður-Afríka,South Africa
-Flokkur:Suður-Kórea,South Korea
-Flokkur:Sveppafræði,Mycology
-Flokkur:Sviss,Switzerland
-Flokkur:Svisslendingar,Swiss people
-Flokkur:Svíþjóð,Sweden
-Flokkur:Sádí-Arabía,Saudi Arabia
-Flokkur:Sálfræði,Psychology
-Flokkur:Sólkerfið,Solar System
-Flokkur:Sómalía,Somalia
-Flokkur:Sýrland,Syria
-Flokkur:Tadsjikistan,Tajikistan
-Flokkur:Tansanía,Tanzania
-Flokkur:Taíland,Thailand
-Flokkur:Te,Tea
-Flokkur:Tennessee,Tennessee
-Flokkur:Texas,Texas
-Flokkur:Textafræði,Philology
-Flokkur:Tonga,Tonga
-Flokkur:Trínidad og Tóbagó,Trinidad and Tobago
-Flokkur:Trúarbrögð,Religion
-Flokkur:Tsjad,Chad
-Flokkur:Tvíkímblöðungar,Magnoliopsida
-Flokkur:Tyrkland,Turkey
-Flokkur:Tékkland,Czech Republic
-Flokkur:Tékkóslóvakía,Czechoslovakia
-Flokkur:Tími,Time
-Flokkur:Tíska,Fashion
-Flokkur:Tógó,Togo
-Flokkur:Tónlist,Music
-Flokkur:Tölfræði,Statistics
-Flokkur:Tölur,Numbers
-Flokkur:Tölvunarfræði,Computer science
-Flokkur:Tölvuíhlutir,Computer hardware
-Flokkur:Túnis,Tunisia
-Flokkur:Túrkmenistan,Turkmenistan
-Flokkur:Túvalúeyjar,Tuvalu
-Flokkur:Týpógrafía,Typography
-Flokkur:Umhverfið,Environment
-Flokkur:Ungverjaland,Hungary
-Flokkur:Unix,Unix
-Flokkur:Uppeldisfræði,Pedagogy
-Flokkur:Utah,Utah
-Flokkur:Vanúatú,Vanuatu
-Flokkur:Varmafræði,Thermodynamics
-Flokkur:Vatíkanið,Vatican City
-Flokkur:Venesúela,Venezuela
-Flokkur:Veraldarvefurinn,World Wide Web
-Flokkur:Verkfræði,Engineering
-Flokkur:Vestur-Kongó,Republic of the Congo
-Flokkur:Vestur-Sahara,Western Sahara
-Flokkur:Vestur-Virginía,West Virginia
-Flokkur:Vetrarólympíuleikar,Winter Olympic Games
-Flokkur:Veðurfarsfræði,Climatology
-Flokkur:Veðurfræði,Meteorology
-Flokkur:Virginía,Virginia
-Flokkur:Vistfræði,Ecology
-Flokkur:Víetnam,Vietnam
-Flokkur:Víetnamstríðið,Vietnam War
-Flokkur:Vísindi,Science
-Flokkur:Wales,Wales
-Flokkur:Washingtonfylki,Washington
-Flokkur:Wisconsin,Wisconsin
-Flokkur:Ár,Years
-Flokkur:Ástralía,Australia
-Flokkur:Ávextir,Fruit
-Flokkur:Ættfræði,Genealogy
-Flokkur:Írak,Iraq
-Flokkur:Íran,Iran
-Flokkur:Írar,Irish people
-Flokkur:Írland,Republic of Ireland
-Flokkur:Írland,Ireland
-Flokkur:Íslam,Islam
-Flokkur:Ísland,Iceland
-Flokkur:Ísrael,Israel
-Flokkur:Ítalía,Italy
-Flokkur:Ólympíuleikar,Olympics
-Flokkur:Ólífræn efnafræði,Inorganic chemistry
-Flokkur:Óman,Oman
-Flokkur:Öreindafræði,Particle physics
-Flokkur:Örverufræði,Microbiology
-Flokkur:Úganda,Uganda
-Flokkur:Úkraína,Ukraine
-Flokkur:Úrúgvæ,Uruguay
-Flokkur:Úsbekistan,Uzbekistan
-Flokkur:Útvarp,Radio
-Flokkur:Þjóðarmorð,Genocide
-Flokkur:Þjóðaréttur,International law
-Flokkur:Þjóðfræði,Ethnology
-Flokkur:Þjóðhagfræði,Macroeconomics
-Flokkur:Þýska,German language
-Flokkur:Þýskaland,Germany
+Flokkur,Class
+Flokkur,Group
+1000,1000
+1728,1728
+1751-1760,1750s
+1761-1770,1760s
+1771-1780,1770s
+1781-1790,1780s
+1791-1800,1790s
+1821-1830,1820s
+1831-1840,1830s
+1841-1850,1840s
+1861-1870,1860s
+1871-1880,1870s
+1881-1890,1880s
+1891-1900,1890s
+1901-1910,1900s
+1921-1930,1920s
+1931-1940,1930s
+1941-1950,1940s
+1951-1960,1950s
+1961-1970,1960s
+1971-1980,1970s
+1981-1990,1980s
+1991-2000,1990s
+Afganistan,Afghanistan
+Afríka,Africa
+Afþreying,Entertainment
+Albanía,Albania
+Alberta,Alberta
+Algebra,Algebra
+Alpafjöll,Alps
+Alsír,Algeria
+Amerískur fótbolti,American football
+Angóla,Angola
+Anime,Anime
+Antígva og Barbúda,Antigua and Barbuda
+Argentína,Argentina
+Arizona,Arizona
+Armenía,Armenia
+Arúba,Aruba
+Aserbaídsjan,Azerbaijan
+Asía,Asia
+Atlantshaf,Atlantic Ocean
+Atómfræði,Atomic physics
+Austrómverska keisaradæmið,Byzantine Empire
+Austur-Kongó,Democratic Republic of the Congo
+Austur-Tímor,East Timor
+Austurríki,Austria
+Aðgreiningarsíður,Disambiguation
+Bahamaeyjar,Bahamas
+Bandaríkin,United States
+Bangladess,Bangladesh
+Bankar,Banks
+Barbados,Barbados
+Barein,Bahrain
+Beinagrind,Skeletal system
+Belgía,Belgium
+Benín,Benin
+Biblían,Bible
+Bosnía og Hersegóvína,Bosnia and Herzegovina
+Botsvana,Botswana
+Brasilía,Brazil
+Bretar,British people
+Bretland,United Kingdom
+Brúnei,Brunei
+Byggingarlist,Architecture
+Bókmenntir,Literature
+Bólivía,Bolivia
+Búddismi,Buddhism
+Búlgaría,Bulgaria
+Búrkína Fasó,Burkina Faso
+Búrúndí,Burundi
+Bútan,Bhutan
+Chile,Chile
+Connecticut,Connecticut
+Dagar,Days
+Danmörk,Denmark
+Djíbútí,Djibouti
+Dóminíka,Dominica
+Dóminíska lýðveldið,Dominican Republic
+Dúfnafuglar,Columbiformes
+Dýrafræði,Zoology
+Efnafræði,Chemistry
+Egyptaland,Egypt
+Einveldi,Monarchy
+Eistland,Estonia
+Ekvador,Ecuador
+El Salvador,El Salvador
+Eldfjallafræði,Volcanology
+England,England
+Englendingar,English people
+Enska,English language
+Erfðafræði,Genetics
+Erítrea,Eritrea
+Esperanto,Esperanto
+Evrópa,Europe
+Evrópusambandið,European Union
+Eyjaálfa,Oceania
+Eyðimerkur,Deserts
+Eðlisefnafræði,Physical chemistry
+Eðlisfræði,Physics
+Eþíópía,Ethiopia
+Fatnaður,Clothing
+Femínismi,Feminism
+Ferðamennska,Tourism
+Filippseyjar,Philippines
+Finnland,Finland
+Fiskar,Fish
+Flugvélar,Aircraft
+Flórída,Florida
+Fornleifafræði,Archaeology
+Forritun,Computer programming
+Forsögulegur tími,Prehistory
+Frakkar,French people
+Frakkland,France
+Frankfurt,Frankfurt
+Franska Pólýnesía,French Polynesia
+Frumspeki,Metaphysics
+Fuglafræði,Ornithology
+Fyrri heimsstyrjöldin,World War I
+Færeyjar,Faroe Islands
+Félagsfræði,Sociology
+Fólk,People
+Gabon,Gabon
+Gambía,The Gambia
+Gana,Ghana
+Georgíufylki,Georgia
+Gervigreind,Artificial intelligence
+Gjaldmiðlar,Currency
+Golf,Golf
+Goðafræði,Mythology
+Grannfræði,Topology
+Grasafræði,Botany
+Grenada,Grenada
+Grikkland,Greece
+Grunnflokkar,Fundamental
+Grænhöfðaeyjar,Cape Verde
+Grænland,Greenland
+Grísk goðafræði,Greek mythology
+Guðfræði,Theology
+Guðleysi,Atheism
+Gvatemala,Guatemala
+Gvæjana,Guyana
+Gyðingdómur,Judaism
+Gásfuglar,Anseriformes
+Gíbraltar,Gibraltar
+Gínea,Guinea
+Gínea-Bissá,Guinea-Bissau
+Haffræði,Oceanography
+Hagfræði,Economics
+Haítí,Haiti
+Heilaga rómverska ríki,Holy Roman Empire
+Heilsa,Health
+Heimsfræði,Cosmology
+Heimspeki,Philosophy
+Hindúismi,Hinduism
+Hjarta- og æðakerfið,Cardiovascular system
+Hjólreiðar,Cycling
+Hljóðfræði,Phonetics
+Holland,Netherlands
+Hollendingar,Dutch people
+Hondúras,Honduras
+Hong Kong,Hong Kong
+Hryðjuverk,Terrorism
+Hugbúnaður,Software
+Hugvísindi,Humanities
+Hvíta-Rússland,Belarus
+Illinois,Illinois
+Indiana,Indiana
+Indland,India
+Indlandshaf,Indian Ocean
+Indónesía,Indonesia
+Innkirtlafræði,Endocrinology
+Internetið,Internet
+Jafnaðarstefna,Socialism
+Jamaíka,Jamaica
+Japan,Japan
+Jarðeðlisfræði,Geophysics
+Jarðfræði,Geology
+Jarðskjálftafræði,Seismology
+Jól,Christmas
+Jórdanía,Jordan
+Jörðin,Earth
+Júgóslavía,Yugoslavia
+Júpíter,Jupiter
+Kaffi,Coffee
+Kalda stríðið,Cold War
+Kalifornía,California
+Kambódía,Cambodia
+Kamerún,Cameroon
+Kanada,Canada
+Kasakstan,Kazakhstan
+Katar,Qatar
+Kenýa,Kenya
+Kirgisistan,Kyrgyzstan
+Klassísk tónlist,Classical music
+Knattspyrna,Football
+Kommúnismi,Communism
+Kosta Ríka,Costa Rica
+Kosóvó,Kosovo
+Kristallafræði,Crystallography
+Kristni,Christianity
+Króatía,Croatia
+Kvikmyndir,Film
+Kyrrahaf,Pacific Ocean
+Kákasus,Caucasus
+Kína,China
+Kíribatí,Kiribati
+Kólumbía,Colombia
+Kómoreyjar,Comoros
+Körfublómaætt,Asteraceae
+Körfuknattleikur,Basketball
+Kúba,Cuba
+Kúveit,Kuwait
+Landafræði,Geography
+Landbúnaður,Agriculture
+Landmótunarfræði,Geomorphology
+Laos,Laos
+Lesótó,Lesotho
+Lettland,Latvia
+Liechtenstein,Liechtenstein
+Linux,Linux
+List,Arts
+Litháen,Lithuania
+Ljósfræði,Optics
+Ljósmyndun,Photography
+London,London
+Louisiana,Louisiana
+Líbanon,Lebanon
+Líbería,Liberia
+Lífefnafræði,Biochemistry
+Lífeðlisfræði,Physiology
+Líffræði,Biology
+Líffærafræði,Anatomy
+Lífræn efnafræði,Organic chemistry
+Madagaskar,Madagascar
+Maine,Maine
+Malasía,Malaysia
+Malaví,Malawi
+Maldíveyjar,Maldives
+Malta,Malta
+Malí,Mali
+Mannfræði,Anthropology
+Marokkó,Morocco
+Mars,Mars
+Maryland,Maryland
+Massachusetts,Massachusetts
+Meltingarkerfið,Digestive system
+Mengjafræði,Set theory
+Menning,Culture
+Merkingarfræði,Semantics
+Mesópótamía,Mesopotamia
+Mexíkó,Mexico
+Michigan,Michigan
+Mið-Ameríka,Central America
+Miðjarðarhaf,Mediterranean
+Mjanmar,Burma
+Mjanmar,Myanmar
+Moldóva,Moldova
+Mongólía,Mongolia
+Montana,Montana
+Myntfræði,Numismatics
+Málfræði,Grammar
+Málvísindi,Linguistics
+Máritanía,Mauritania
+Máritíus,Mauritius
+Mæling,Measurement
+Mælskufræði,Rhetoric
+Míkrónesía,Federated States of Micronesia
+Mónakó,Monaco
+Nepal,Nepal
+Nevada,Nevada
+New Hampshire,New Hampshire
+New Jersey,New Jersey
+New York,New York City
+Noregur,Norway
+Norræn goðafræði,Norse mythology
+Norður-Kórea,North Korea
+Nárú,Nauru
+Náttskuggaætt,Solanaceae
+Náttúran,Nature
+Næring,Nutrition
+Nóbelsverðlaun,Nobel Prize
+Nýja-Sjáland,New Zealand
+Ohio,Ohio
+Oregon,Oregon
+Orka,Energy
+Pakistan,Pakistan
+Palestína,Palestine
+Palá,Palau
+Paragvæ,Paraguay
+París,Paris
+Pennsylvanía,Pennsylvania
+Perú,Peru
+Portúgal,Portugal
+Prímatar,Primates
+Pólland,Poland
+Púertó Ríkó,Puerto Rico
+Rafmagn,Electricity
+Rhode Island,Rhode Island
+Rokk,Rock music
+Róm,Rome
+Rómversk goðafræði,Roman mythology
+Rökfræði,Logic
+Rúanda,Rwanda
+Rúmenía,Romania
+Rúmfræði,Geometry
+Rússland,Russia
+Saga,History
+Sambía,Zambia
+Sameindalíffræði,Molecular biology
+Sameinuðu arabísku furstadæmin,United Arab Emirates
+Sameinuðu þjóðirnar,United Nations
+Samgöngur,Transportation
+San Marínó,San Marino
+Seinni heimsstyrjöldin,World War II
+Serbía,Serbia
+Simbabve,Zimbabwe
+Singapúr,Singapore
+Siðfræði,Ethics
+Sjónvarp,Television
+Skordýrafræði,Entomology
+Skotland,Scotland
+Skák,Chess
+Sköttun,Taxation
+Slóvakía,Slovakia
+Slóvenía,Slovenia
+Spánn,Spain
+Spánverjar,Spanish people
+Spörfuglar,Passeriformes
+Srí Lanka,Sri Lanka
+Steindafræði,Mineralogy
+Steingervingafræði,Paleontology
+Stjarneðlisfræði,Astrophysics
+Stjórnleysisstefna,Anarchism
+Stjórnmál,Politics
+Stjörnufræði,Astronomy
+Stærðfræði,Mathematics
+Stærðfræðileg rökfræði,Mathematical logic
+Sund,Swimming
+Sund,Straits
+Suður-Afríka,South Africa
+Suður-Kórea,South Korea
+Sveppafræði,Mycology
+Sviss,Switzerland
+Svisslendingar,Swiss people
+Svíþjóð,Sweden
+Sádí-Arabía,Saudi Arabia
+Sálfræði,Psychology
+Sólkerfið,Solar System
+Sómalía,Somalia
+Sýrland,Syria
+Tadsjikistan,Tajikistan
+Tansanía,Tanzania
+Taíland,Thailand
+Te,Tea
+Tennessee,Tennessee
+Texas,Texas
+Textafræði,Philology
+Tonga,Tonga
+Trínidad og Tóbagó,Trinidad and Tobago
+Trúarbrögð,Religion
+Tsjad,Chad
+Tvíkímblöðungar,Magnoliopsida
+Tyrkland,Turkey
+Tékkland,Czech Republic
+Tékkóslóvakía,Czechoslovakia
+Tími,Time
+Tíska,Fashion
+Tógó,Togo
+Tónlist,Music
+Tölfræði,Statistics
+Tölur,Numbers
+Tölvunarfræði,Computer science
+Tölvuíhlutir,Computer hardware
+Túnis,Tunisia
+Túrkmenistan,Turkmenistan
+Túvalúeyjar,Tuvalu
+Týpógrafía,Typography
+Umhverfið,Environment
+Ungverjaland,Hungary
+Unix,Unix
+Uppeldisfræði,Pedagogy
+Utah,Utah
+Vanúatú,Vanuatu
+Varmafræði,Thermodynamics
+Vatíkanið,Vatican City
+Venesúela,Venezuela
+Veraldarvefurinn,World Wide Web
+Verkfræði,Engineering
+Vestur-Kongó,Republic of the Congo
+Vestur-Sahara,Western Sahara
+Vestur-Virginía,West Virginia
+Vetrarólympíuleikar,Winter Olympic Games
+Veðurfarsfræði,Climatology
+Veðurfræði,Meteorology
+Virginía,Virginia
+Vistfræði,Ecology
+Víetnam,Vietnam
+Víetnamstríðið,Vietnam War
+Vísindi,Science
+Wales,Wales
+Washingtonfylki,Washington
+Wisconsin,Wisconsin
+Ár,Years
+Ástralía,Australia
+Ávextir,Fruit
+Ættfræði,Genealogy
+Írak,Iraq
+Íran,Iran
+Írar,Irish people
+Írland,Republic of Ireland
+Írland,Ireland
+Íslam,Islam
+Ísland,Iceland
+Ísrael,Israel
+Ítalía,Italy
+Ólympíuleikar,Olympics
+Ólífræn efnafræði,Inorganic chemistry
+Óman,Oman
+Öreindafræði,Particle physics
+Örverufræði,Microbiology
+Úganda,Uganda
+Úkraína,Ukraine
+Úrúgvæ,Uruguay
+Úsbekistan,Uzbekistan
+Útvarp,Radio
+Þjóðarmorð,Genocide
+Þjóðaréttur,International law
+Þjóðfræði,Ethnology
+Þjóðhagfræði,Macroeconomics
+Þýska,German language
+Þýskaland,Germany
 Florence Nightingale,Florence Nightingale
 Flugfélag,Airline
 Flugmóðurskip,Aircraft carrier
 Flugvöllur,Airport
 Flæmingjaland,Flanders
 Flæmingjar,Flamingo
-Flæmska,Flemish (linguistics)
+Flæmska,Flemish
 Flétta,Lichen
 Flórens,Florence
 Flórída,Florida
 Flóttamaður,Refugee
 Flóð,Flood
 Flóðbylgja,Tsunami
-Formfræði,Morphology (linguistics)
+Formfræði,Morphology
 Fornafn,Pronoun
 Forngríska,Ancient Greek
 Fornleifafræði,Archaeology
@@ -1350,7 +1350,7 @@ Frakkland,France
 Framhlaðningur,Musket
 Framtíð,Future
 Francesco Petrarca,Petrarch
-Francis Bacon (heimspekingur),Francis Bacon
+Francis Bacon,Francis Bacon
 Francis Crick,Francis Crick
 Francis Drake,Francis Drake
 Francis Ford Coppola,Francis Ford Coppola
@@ -1359,7 +1359,7 @@ Francisco Goya,Francisco Goya
 Francisco Pizarro,Francisco Pizarro
 Frank Lloyd Wright,Frank Lloyd Wright
 Frank Sinatra,Frank Sinatra
-Frankfurt (aðgreining),Frankfurt (disambiguation)
+Frankfurt,Frankfurt
 Frankfurt am Main,Frankfurt
 Franklin Pierce,Franklin Pierce
 Frans frá Assisí,Francis of Assisi
@@ -1373,7 +1373,7 @@ Freetown,Freetown
 Freigáta,Frigate
 Frelsisstyttan,Statue of Liberty
 Freyja,Freyja
-Freyr (norræn goðafræði),Freyr
+Freyr,Freyr
 Freðmýri,Tundra
 Fridtjof Nansen,Fridtjof Nansen
 Friedrich Engels,Friedrich Engels
@@ -1383,11 +1383,11 @@ Friðrik barbarossa,Frederick I
 Friður,Peace
 Friúlí,Friuli-Venezia Giulia
 Frjáls vilji,Free will
-Frjálsar íþróttir,Athletics (track and field)
+Frjálsar íþróttir,Athletics
 Frjóduft,Pollen
 Froskar,Frog
 Froskdýr,Amphibian
-Fruma,Cell (biology)
+Fruma,Cell
 Frumbjarga lífvera,Autotroph
 Frumefni,Chemical element
 Frumeind,Atom
@@ -1395,7 +1395,7 @@ Frumgyðistrú,Deism
 Frumkraftur,Fundamental interaction
 Frumsenda,Axiom
 Frumspeki,Metaphysics
-Frumtala (stærðfræði),Prime number
+Frumtala,Prime number
 Frumuhimna,Cell membrane
 Frumukjarni,Cell nucleus
 Frumulíffæri,Organelle
@@ -1410,8 +1410,8 @@ Fugl,Bird
 Fuglafræði,Ornithology
 Fullorðinn einstaklingur,Adult
 Fullveldi,Sovereignty
-Fylki (stærðfræði),Matrix (mathematics)
-Fylking (flokkunarfræði),Phylum
+Fylki,Matrix
+Fylking,Phylum
 Fyrirbærafræði,Phenomenology
 Fyrri heimsstyrjöldin,World War I
 Fána,Fauna
@@ -1420,19 +1420,19 @@ Fátækt,Poverty
 Fælni,Phobia
 Félagsfræði,Sociology
 Félagssálfræði,Social psychology
-Fí,Phi (letter)
+Fí,Phi
 Fídjieyjar,Fiji
 Fíkn,Drug addiction
 Fíkn,Addiction
 Fíll,Elephant
-Fóbos,Phobos (moon)
+Fóbos,Phobos
 Fólinsýra,Folic acid
 Fólksfjöldi,Population
 Fónem,Phoneme
 Fósturbarn,Adoption
 Fóstureyðing,Abortion
 Fótgöngulið,Infantry
-Fönix,Phoenix (mythology)
+Fönix,Phoenix
 Föníka,Phoenicia
 Föstudagur,Friday
 Föstudagurinn langi,Good Friday
@@ -1445,12 +1445,12 @@ Gaboróne,Gaborone
 Gagnagrind,Data structure
 Gagnagrunnur,Database
 Gagnkynhneigð,Heterosexuality
-Gaia,Gaia (mythology)
+Gaia,Gaia
 Galatía,Galatia
-Galdur,Magic (paranormal)
+Galdur,Magic
 Galeiða,Galley
 Galenos,Galen
-Galisía,Galicia (Spain)
+Galisía,Galicia
 Gall,Bile
 Gallblaðra,Gallbladder
 Gallía,Gaul
@@ -1462,7 +1462,7 @@ Gamma,Gamma
 Gammageisli,Gamma ray
 Gana,Ghana
 Ganges,Ganges
-Ganýmedes (tungl),Ganymede (moon)
+Ganýmedes,Ganymede
 Garður,Garden
 Gas,Gas
 Gasaströndin,Gaza Strip
@@ -1473,7 +1473,7 @@ Gautama Búdda,Gautama Buddha
 Gedda,Northern pike
 Geisladiskur,Compact Disc
 Geislavirkni,Radioactive decay
-Geisli (rúmfræði),Radius
+Geisli,Radius
 Genf,Geneva
 Genoa,Genoa
 Gent,Ghent
@@ -1491,8 +1491,8 @@ George W. Bush,George W. Bush
 George Washington,George Washington
 Georges Clemenceau,Georges Clemenceau
 Georgetown,Georgetown
-Georgía,Georgia (country)
-Georgía (fylki BNA),Georgia (U.S. state)
+Georgía,Georgia
+Georgía,Georgia
 Gerald Ford,Gerald Ford
 Gerlar,Bacteria
 German,Germanium
@@ -1510,7 +1510,7 @@ Gjaldmiðill,Currency
 Gjóður,Osprey
 Glasgow,Glasgow
 Gler,Glass
-Glerstrendingur,Prism (optics)
+Glerstrendingur,Prism
 Global Positioning System,Global Positioning System
 Gloucestershire,Gloucestershire
 Gluggi,Window
@@ -1540,7 +1540,7 @@ Graz,Graz
 Greenpeace,Greenpeace
 Greenwich,Greenwich
 Gregoríska tímatalið,Gregorian calendar
-Grei,Gray (unit)
+Grei,Gray
 Greinarmerki,Punctuation
 Greindarvísitala,Intelligence quotient
 Grenoble,Grenoble
@@ -1559,7 +1559,7 @@ Grísk goðafræði,Greek mythology
 Grískt stafróf,Greek alphabet
 Gróðurhúsalofttegund,Greenhouse gas
 Gróðurhúsaáhrif,Greenhouse effect
-Grúpa,Group (mathematics)
+Grúpa,Group
 Grúpa,Group theory
 Guernsey,Guernsey
 Gufuvél,Steam engine
@@ -1579,15 +1579,15 @@ Gvatemalaborg,Guatemala City
 Gyðingar,Jew
 Gyðingdómur,Judaism
 Gásfuglar,Anseriformes
-Gátt:Heimspeki,Philosophy
-Gátt:Landafræði,Geography
+Heimspeki,Philosophy
+Landafræði,Geography
 Gíbraltar,Gibraltar
 Gíbraltarsund,Strait of Gibraltar
 Gínea,Guinea
 Gínea-Bissá,Guinea-Bissau
 Gíneuflói,Gulf of Guinea
 Gítar,Guitar
-Gó,Go (board game)
+Gó,Go
 Góðrarvonarhöfði,Cape of Good Hope
 H,H
 H. G. Wells,H. G. Wells
@@ -1614,7 +1614,7 @@ Hamborgari,Hamburger
 Hamingja,Happiness
 Hammúrabí,Hammurabi
 Hampshire,Hampshire
-Hamur (efnafræði),Phase (matter)
+Hamur,Phase
 Hannibal Barca,Hannibal
 Hannover,Hanover
 Hanoí,Hanoi
@@ -1629,7 +1629,7 @@ Havana,Havana
 Hawaii,Hawaii
 Haífa,Haifa
 Haítí,Haiti
-Heba,Hebe (mythology)
+Heba,Hebe
 Hebreska almanakið,Hebrew calendar
 Hector Berlioz,Hector Berlioz
 Hefæstos,Hephaestus
@@ -1657,7 +1657,7 @@ Heinrich Himmler,Heinrich Himmler
 Hektari,Hectare
 Hektor,Hector
 Helen Keller,Helen Keller
-Helena (borg í Montana),Helena
+Helena,Helena
 Helgidagur,Holiday
 Hellir,Cave
 Helmingunartími,Half-life
@@ -1671,11 +1671,11 @@ Henri Becquerel,Henri Becquerel
 Henri Bergson,Henri Bergson
 Henri Matisse,Henri Matisse
 Henrik Ibsen,Henrik Ibsen
-Henry (SI-mælieining),Henry (unit)
+Henry,Henry
 Henry Cavendish,Henry Cavendish
 Henry Ford,Henry Ford
 Henry Purcell,Henry Purcell
-Hera (gyðja),Hera
+Hera,Hera
 Herakleitos,Heraclitus
 Herbert Hoover,Herbert Hoover
 Herbert Spencer,Herbert Spencer
@@ -1714,9 +1714,9 @@ Hlutmengi,Subset
 Hlynir,Maple
 Hnattvæðing,Globalization
 Hnefaleikar,Boxing
-Hneta,Nut (fruit)
+Hneta,Nut
 Hnífur,Knife
-Hnútur,Knot (speed)
+Hnútur,Knot
 Hnúðsvanur,Mute Swan
 Ho Chi Minh,Ho Chi Minh
 Ho Chi Minh-borg,Ho Chi Minh City
@@ -1738,7 +1738,7 @@ Hornafall,Trigonometric function
 Hornhöfði,Cape Horn
 Hosni Mubarak,Hosni Mubarak
 Houston,Houston
-Howard Carter,Howard Carter (archaeologist)
+Howard Carter,Howard Carter
 Hrafntinna,Obsidian
 Hraun,Lava
 Hraði,Speed
@@ -1757,7 +1757,7 @@ Hryðjuverk,Terrorism
 Hryðjuverkin 11. september 2001,September 11
 Hráolía,Petroleum
 Hrísgrjón,Rice
-Hró,Rho (letter)
+Hró,Rho
 Hrói höttur,Robin Hood
 Hröðun,Acceleration
 Hugbúnaður,Computer software
@@ -1770,7 +1770,7 @@ Hulduefni,Dark matter
 Hunang,Honey
 Hunangsflugur,Bumblebee
 Hundaætt,Canidae
-Hundrað,100 (number)
+Hundrað,100
 Hundrað ára stríðið,Hundred Years' War
 Hundraðshluti,Percentage
 Hundur,Dog
@@ -1806,7 +1806,7 @@ Höfundarréttur,Copyright
 Höfuð,Head
 Höfuðborg,Capital
 Höfuðkúpa,Skull
-Höfuðstóll,Capital (economics)
+Höfuðstóll,Capital
 Höfðaborg,Cape Town
 Höggmyndalist,Sculpture
 Hönnun,Design
@@ -1884,7 +1884,7 @@ Jangtse,Yangtze River
 Janis Joplin,Janis Joplin
 Janúar,January
 Japan,Japan
-Japetos,Iapetus (mythology)
+Japetos,Iapetus
 Jarðefnaeldsneyti,Fossil fuel
 Jarðefnafræði,Geochemistry
 Jarðeðlisfræði,Geophysics
@@ -1895,14 +1895,14 @@ Jarðköttur,Meerkat
 Jarðlagafræði,Stratigraphy
 Jarðskjálftafræði,Seismology
 Jarðskjálfti,Earthquake
-Jarðskorpa,Crust (geology)
-Jarðsveppur,Tuber (genus)
+Jarðskorpa,Crust
+Jarðsveppur,Tuber
 Jarðsvín,Aardvark
 Jarðvegur,Soil
 Jarðvísindi,Earth science
 Jason Argóarfari,Jason
 Java,Java
-Java (forritunarmál),Java (programming language)
+Java,Java
 Jaínismi,Jainism
 Jean Sibelius,Jean Sibelius
 Jean-Jacques Rousseau,Jean-Jacques Rousseau
@@ -1956,7 +1956,7 @@ Jól,Christmas
 Jólasveinn,Santa Claus
 Jólatré,Christmas tree
 Jómfrúaeyjar,Virgin Islands
-Jón (efnafræði),Ion
+Jón,Ion
 Jónahaf,Ionian Sea
 Jónía,Ionia
 Jórdan,Jordan River
@@ -1975,8 +1975,8 @@ Júlí,July
 Júlíska tímatalið,Julian calendar
 Júlíus Caesar,Julius Caesar
 Júní,June
-Júpíter,Jupiter (disambiguation)
-Júpíter (reikistjarna),Jupiter
+Júpíter,Jupiter
+Júpíter,Jupiter
 Júra,Jurassic
 Júrí Gagarín,Yuri Gagarin
 K,K
@@ -2011,7 +2011,7 @@ Kandela,Candela
 Kannabis,Cannabis
 Kansas,Kansas
 Kantaraborg,Canterbury
-Kantonska,Cantonese (linguistics)
+Kantonska,Cantonese
 Kappa,Kappa
 Kappadókía,Cappadocia
 Kapítalismi,Capitalism
@@ -2070,7 +2070,7 @@ Kjöt,Meat
 Kjötæta,Carnivore
 Kjúklingur,Chicken
 Klarínett,Clarinet
-Klasi (forritun),Class (computer science)
+Klasi,Class
 Klassísk tónlist,Classical music
 Klaufdýr,Even-toed ungulate
 Klettafjöll,Rocky Mountains
@@ -2081,7 +2081,7 @@ Klukkuturn Westminsterhallar,Clock Tower
 Klám,Pornography
 Klíó,Clio
 Klór,Chlorine
-Knattspyrna,Football (soccer)
+Knattspyrna,Football
 Knut Hamsun,Knut Hamsun
 Knútur ríki,Canute the Great
 Kobe,Kobe
@@ -2129,7 +2129,7 @@ Krydd,Spice
 Krypton,Krypton
 Krímskagi,Crimea
 Krímstríðið,Crimean War
-Krít (eyja),Crete
+Krít,Crete
 Krítartímabilið,Cretaceous
 Króatía,Croatia
 Krókódílaættbálkur,Crocodilia
@@ -2139,7 +2139,7 @@ Kuiperbelti,Kuiper belt
 Kurt Vonnegut,Kurt Vonnegut
 Kvarki,Quark
 Kvef,Common cold
-Kvikasilfur,Mercury (element)
+Kvikasilfur,Mercury
 Kvikefni,Fluid
 Kvikmynd,Film
 Kynjamismunun,Sexism
@@ -2150,7 +2150,7 @@ Kyoto,Kyoto
 Kyrrahaf,Pacific Ocean
 Kákasusfjöll,Caucasus Mountains
 Káputapír,Malayan Tapir
-Kí,Chi (letter)
+Kí,Chi
 Kíev,Kiev
 Kígalí,Kigali
 Kílógramm,Kilogram
@@ -2164,7 +2164,7 @@ Kísilþörungar,Diatom
 Kítín,Chitin
 Kóbolt,Cobalt
 Kókaín,Cocaine
-Kókoseyjar,Cocos (Keeling) Islands
+Kókoseyjar,Cocos  Islands
 Kóladrykkur,Cola
 Kólera,Cholera
 Kólfsveppir,Basidiomycota
@@ -2215,7 +2215,7 @@ Lauf,Leaf
 Laugardagur,Saturday
 Laxfiskaætt,Salmonidae
 Le Corbusier,Le Corbusier
-Leda,Leda (mythology)
+Leda,Leda
 Leeds,Leeds
 Leggöng,Vagina
 Leicester,Leicester
@@ -2226,7 +2226,7 @@ Leiklist,Theatre
 Leikrit,Drama
 Leikskóli,Kindergarten
 Leipzig,Leipzig
-Leira (fljót),Loire
+Leira,Loire
 Lengd,Length
 Leonardo da Vinci,Leonardo da Vinci
 Leonhard Euler,Leonhard Euler
@@ -2275,7 +2275,7 @@ Loftvog,Barometer
 Logri,Logarithm
 Loki,Loki
 Los Angeles,Los Angeles
-Lota (lotukerfið),Period (periodic table)
+Lota,Period
 Lotukerfið,Periodic table
 Louis Pasteur,Louis Pasteur
 Louisiana,Louisiana
@@ -2291,7 +2291,7 @@ Lunga,Lung
 Lungnabólga,Pneumonia
 Lungnakrabbamein,Lung cancer
 Luzern,Lucerne
-Lyklaborð,Keyboard (computing)
+Lyklaborð,Keyboard
 Lyngbálkur,Ericales
 Lyngætt,Ericaceae
 Lyon,Lyon
@@ -2301,19 +2301,19 @@ Lásbogi,Crossbow
 Látún,Brass
 Læknisfræði,Medicine
 Læsi,Literacy
-Lén (líffræði),Domain (biology)
-Lén (tölvunarfræði),Domain name
+Lén,Domain
+Lén,Domain name
 Lénsskipulag,Feudalism
 Létteind,Lepton
 Líbanon,Lebanon
 Líbería,Liberia
 Líbýa,Libya
-Líf (líffræði),Life
+Líf,Life
 Lífefnafræði,Biochemistry
 Lífeðlisfræði,Physiology
 Líffræði,Biology
 Líffærafræði,Anatomy
-Líffærakerfi,Organ (anatomy)
+Líffærakerfi,Organ
 Lífland,Livonia
 Lífræn efnafræði,Organic chemistry
 Líftækni,Biotechnology
@@ -2322,7 +2322,7 @@ Lígúría,Liguria
 Líkindafræði,Probability theory
 Lílongve,Lilongwe
 Líma,Lima
-Lína (stærðfræði),Line (mathematics)
+Lína,Line
 Línuleg algebra,Linear algebra
 Lítri,Litre
 Lívíus,Livy
@@ -2332,12 +2332,12 @@ Lögmál Murphys,Murphy's law
 Lögregla,Police
 Lúanda,Luanda
 Lúcretíus,Lucretius
-Lúmen,Lumen (unit)
+Lúmen,Lumen
 Lúsaka,Lusaka
 Lútetín,Lutetium
 Lúx,Lux
 Lúxemborg,Luxembourg
-Lúxemborg (borg),Luxembourg (city)
+Lúxemborg,Luxembourg
 Lýsingarorð,Adjective
 Lýðfræði,Demography
 Lýðræði,Democracy
@@ -2349,7 +2349,7 @@ Machu Picchu,Machu Picchu
 Macintosh,Macintosh
 Madagaskar,Madagascar
 Madeiraeyjar,Madeira
-Madonna,Madonna (entertainer)
+Madonna,Madonna
 Madrid,Madrid
 Magi,Stomach
 Magna Carta,Magna Carta
@@ -2397,15 +2397,15 @@ Marilyn Monroe,Marilyn Monroe
 Mark Twain,Mark Twain
 Marke,Marche
 Market,Market
-Markgildi,Limit (mathematics)
+Markgildi,Limit
 Markús Árelíus,Marcus Aurelius
 Marlene Dietrich,Marlene Dietrich
 Marmarahaf,Sea of Marmara
 Marokkó,Morocco
 Marquis de Sade,Marquis de Sade
-Mars,Mars (disambiguation)
-Mars (guð),Mars (mythology)
-Mars (mánuður),March
+Mars,Mars
+Mars,Mars
+Mars,March
 Marseille,Marseille
 Marshalleyjar,Marshall Islands
 Marshalláætlunin,Marshall Plan
@@ -2420,7 +2420,7 @@ Marxismi,Marxism
 Mary Shelley,Mary Shelley
 Mary Wollstonecraft,Mary Wollstonecraft
 Maryland,Maryland
-María mey,Mary (mother of Jesus)
+María mey,Mary
 Maríuhöfn,Mariehamn
 Marðarætt,Mustelidae
 Maserú,Maseru
@@ -2459,7 +2459,7 @@ Menntun,Education
 Merkantílismi,Mercantilism
 Merkingarfræði,Semantics
 Merkúríus,Mercury
-Merkúríus (reikistjarna),Mercury (planet)
+Merkúríus,Mercury
 Mervíkingar,Merovingian
 Meryl Streep,Meryl Streep
 Messías,Messiah
@@ -2539,7 +2539,7 @@ Myndband,Video
 Mynddiskur,DVD
 Myndhverfing,Metaphor
 Myntfræði,Numismatics
-Mál (stærðfræði),Measure (mathematics)
+Mál,Measure
 Málfrelsi,Freedom of speech
 Málfræði,Grammar
 Mállýska,Dialect
@@ -2558,15 +2558,15 @@ Mælskufræði,Rhetoric
 Mæna,Spinal cord
 Mænusótt,Poliomyelitis
 Mígreni,Migraine
-Míkrónesía (ríki),Federated States of Micronesia
-Míkrónesía (svæði),Micronesia
+Míkrónesía,Federated States of Micronesia
+Míkrónesía,Micronesia
 Míla,Mile
 Mílanó,Milan
 Mínerva,Minerva
 Mínóísk menning,Minoan civilization
 Mínúta,Minute
 Mógadisjú,Mogadishu
-Mól,Mole (unit)
+Mól,Mole
 Mólíse,Molise
 Mólýbden,Molybdenum
 Mónakó,Monaco
@@ -2577,15 +2577,15 @@ Móses,Moses
 Mótmælendatrú,Protestantism
 Mótorhjól,Motorcycle
 Móðir Teresa,Mother Teresa
-Mön (Írlandshafi),Isle of Man
+Mön,Isle of Man
 Mörgæsir,Penguin
 Múhameð,Muhammad
 Múldýr,Mule
 Mús,Mouse
-Múskat (borg),Muscat
-Múskat (krydd),Nutmeg
+Múskat,Muscat
+Múskat,Nutmeg
 München,Munich
-Mý (bókstafur),Mu (letter)
+Mý,Mu
 Mýkena,Mycenae
 N,N
 NASDAQ,NASDAQ
@@ -2594,7 +2594,7 @@ Nafnháttur,Infinitive
 Nafnorð,Noun
 Nafnskipti,Metonymy
 Nagdýr,Rodent
-Nagli,Nail (fastener)
+Nagli,Nail
 Namibía,Namibia
 Namíbeyðimörkin,Namib Desert
 Nantes,Nantes
@@ -2616,12 +2616,12 @@ Nefnifall,Nominative case
 Neil Armstrong,Neil Armstrong
 Nelson Mandela,Nelson Mandela
 Nemandi,Student
-Nemesis,Nemesis (mythology)
+Nemesis,Nemesis
 Nemuljón,Nemean Lion
 Neon,Neon
 Nepal,Nepal
-Neptúnus (guð),Poseidon
-Neptúnus (reikistjarna),Neptune
+Neptúnus,Poseidon
+Neptúnus,Neptune
 Nerva,Nerva
 Neró,Nero
 Nestoríanar,Nestorianism
@@ -2632,10 +2632,10 @@ New Hampshire,New Hampshire
 New Jersey,New Jersey
 New Mexico,New Mexico
 New Orleans,New Orleans
-New York,New York (disambiguation)
+New York,New York
 New York-borg,New York City
 New York-fylki,New York
-Newark (New Jersey),Newark
+Newark,Newark
 Nice,Nice
 Nicolas Poussin,Nicolas Poussin
 Niels Bohr,Niels Bohr
@@ -2649,7 +2649,7 @@ Nikósía,Nicosia
 Nikótín,Nicotine
 Nitur,Nitrogen
 Niðurgangur,Diarrhea
-Njörður (norræn goðafræði),Njord
+Njörður,Njord
 Njúton,Newton
 Noam Chomsky,Noam Chomsky
 Noregur,Norway
@@ -2686,25 +2686,25 @@ Náttúrlegar tölur,Natural number
 Náttúruval,Natural selection
 Níagarafossar,Niagara Falls
 Níamey,Niamey
-Níger (land),Niger
+Níger,Niger
 Nígerfljót,Niger River
 Nígería,Nigeria
 Níkaragva,Nicaragua
 Níl,Nile
 Nílarkrókódíll,Nile crocodile
-Níu,9 (number)
+Níu,9
 Níóbín,Niobium
 Nóbelsverðlaunin,Nobel Prize
-Nóta (tónlist),Note
+Nóta,Note
 Nóvember,November
 Núaksjott,Nouakchott
-Núll,0 (number)
+Núll,0
 Núllbaugur,Prime Meridian
 Númidía,Numidia
-Nútími (jarðfræði),Holocene
+Nútími,Holocene
 Nürnberg,Nuremberg
-Ný,Nu (letter)
-Nýfundnaland,Newfoundland (island)
+Ný,Nu
+Nýfundnaland,Newfoundland
 Nýfundnaland og Labrador,Newfoundland and Labrador
 Nýi heimurinn,New World
 Nýja Delí,New Delhi
@@ -2720,7 +2720,7 @@ Nýyrði,Neologism
 O,O
 Oakland,Oakland
 Ob,Ob River
-Oddatala,Parity (mathematics)
+Oddatala,Parity
 Offita,Obesity
 Ohio,Ohio
 Oklahoma,Oklahoma
@@ -2728,15 +2728,15 @@ Október,October
 Októberbyltingin,October Revolution
 Oliver Cromwell,Oliver Cromwell
 Olía,Oil
-Olía,Oil (disambiguation)
-Olíutunna,Barrel (unit)
+Olía,Oil
+Olíutunna,Barrel
 Oortský,Oort cloud
 Opel,Opel
-Opera (vafri),Opera (Internet suite)
+Opera,Opera
 Ordóvisíumtímabilið,Ordovician
 Oregon,Oregon
 Orka,Energy
-Orka,Energy (society)
+Orka,Energy
 Orkuvarðveisla,Conservation of energy
 Orrustan við Maraþon,Battle of Marathon
 Orsök,Causality
@@ -2774,8 +2774,8 @@ Parmenídes,Parmenides
 Parsek,Parsec
 París,Paris
 Pascal,Pascal
-Pascal (forritunarmál),Pascal (programming language)
-Paskal,Pascal (unit)
+Pascal,Pascal
+Paskal,Pascal
 Patríarki,Patriarch
 Paul Gauguin,Paul Gauguin
 Paul McCartney,Paul McCartney
@@ -2796,7 +2796,7 @@ Peter Paul Rubens,Peter Paul Rubens
 Petrović Njegoš,Nicholas
 Philadelphia,Philadelphia
 Phnom Penh,Phnom Penh
-Phoenix (geimfar),Phoenix (spacecraft)
+Phoenix,Phoenix
 "Phoenix, Arizona",Phoenix
 Pierre Curie,Pierre Curie
 Pierre de Fermat,Pierre de Fermat
@@ -2813,14 +2813,14 @@ Plovdiv,Plovdiv
 Plzeň,Pilsen
 Plótínos,Plotinus
 Plútarkos,Plutarch
-Plútó,Pluto (disambiguation)
-Plútó (dvergreikistjarna),Pluto
+Plútó,Pluto
+Plútó,Pluto
 Pokabjörn,Koala
 Pompeii,Pompeii
 Port Moresby,Port Moresby
 Port-au-Prince,Port-au-Prince
 Portland,Portland
-Portland (Oregon),Portland
+Portland,Portland
 Porto,Porto
 Portúgal,Portugal
 Postulín,Porcelain
@@ -2829,17 +2829,17 @@ Praia,Praia
 Prentun,Printing
 Pretoría,Pretoria
 Princeton-háskóli,Princeton University
-Prolog (forritunarmál),Prolog
+Prolog,Prolog
 Príamos,Priam
 Prímatar,Primate
 Prófessor,Professor
 Prótín,Protein
 Prússland,Prussia
-Psí,Psi (letter)
+Psí,Psi
 Ptolemajaríkið,Ptolemaic dynasty
 Pungur,Scrotum
 Pyrrosarsigur,Pyrrhic victory
-Python (forritunarmál),Python (programming language)
+Python,Python
 Páfagaukar,Parrot
 Páfaríkið,Papal States
 Páfi,Pope
@@ -2849,7 +2849,7 @@ Páskahald gyðinga,Passover
 Páskar,Easter
 Pétur postuli,Saint Peter
 Pí,Pi
-Pí (bókstafur),Pi (letter)
+Pí,Pi
 Píanó,Piano
 Píslarvottur,Martyr
 Póker,Poker
@@ -2881,9 +2881,9 @@ Rafbassi,Bass guitar
 Rafeind,Electron
 Rafeindatækni,Electronics
 Raffaello Sanzio,Raphael
-Rafgas,Plasma (physics)
+Rafgas,Plasma
 Rafgreining,Electrolysis
-Rafhlaða,Battery (electricity)
+Rafhlaða,Battery
 Rafhleðsla,Electric charge
 Raflausn,Electrolyte
 Rafmagn,Electricity
@@ -2913,12 +2913,12 @@ Regnhlíf,Umbrella
 Reikistjarna,Planet
 Reiknirit,Algorithm
 Reiðhjól,Bicycle
-Rekill (tölvunarfræði),Device driver
+Rekill,Device driver
 Rekstrarhagfræði,Microeconomics
 Rembrandt,Rembrandt
 Renín,Rhenium
 Repja,Rapeseed
-Repúblikanaflokkurinn,Republican Party (United States)
+Repúblikanaflokkurinn,Republican Party
 Rhode Island,Rhode Island
 Richard Feynman,Richard Feynman
 Richard Nixon,Richard Nixon
@@ -2953,7 +2953,7 @@ Ruðningur,Rugby football
 Ryðfrítt stál,Stainless steel
 Ryþmablús,Rhythm and blues
 Rándýr,Carnivora
-Ráðherra,Minister (government)
+Ráðherra,Minister
 Ræðar tölur,Rational number
 Rétthyrningur,Rectangle
 Rétttrúnaðarkirkjan,Eastern Orthodox Church
@@ -2964,7 +2964,7 @@ Ríki,State
 Ríkiserindrekstur,Diplomacy
 Ríkisstjórn,Government
 Rím,Rhyme
-Rín (fljót),Rhine
+Rín,Rhine
 Ródos,Rhodes
 Ródín,Rhodium
 Róm,Rome
@@ -2982,7 +2982,7 @@ Rökfræði,Logic
 Rökrás,Logic gate
 Rökvilla,Fallacy
 Röntgengeislun,X-ray
-Röð (stærðfræði),Series (mathematics)
+Röð,Series
 Röðunarreiknirit,Sorting algorithm
 Rúanda,Rwanda
 Rúbidín,Rubidium
@@ -2991,7 +2991,7 @@ Rúmenía,Romania
 Rúmfræði,Geometry
 Rúmmetri,Cubic metre
 Rússland,Russia
-Rússneska byltingin 1917,Russian Revolution (1917)
+Rússneska byltingin 1917,Russian Revolution
 Rúþen,Ruthenium
 S,S
 SOAP,SOAP
@@ -3010,7 +3010,7 @@ Salt,Salt
 Saltpéturssýra,Nitric acid
 Saltsýra,Hydrochloric acid
 Salzburg,Salzburg
-Salzburg (fylki),Salzburg (state)
+Salzburg,Salzburg
 Salómonseyjar,Solomon Islands
 Samara,Samara
 Samarkand,Samarkand
@@ -3029,7 +3029,7 @@ Samlagning,Addition
 Samloka,Sandwich
 Samlokur,Bivalvia
 Samlífi,Symbiosis
-Sammengi,Union (set theory)
+Sammengi,Union
 Samskipti,Communication
 Samskynjun,Synesthesia
 Samstaða,Solidarity
@@ -3057,23 +3057,23 @@ Sannleikur,Truth
 Sansibar,Zanzibar
 Sanskrít,Sanskrit
 Santiago de Cuba,Santiago de Cuba
-Santos,Santos (Săo Paulo)
+Santos,Santos
 Santíagó,Santiago
 Santó Dómingó,Santo Domingo
 Sarah Bernhardt,Sarah Bernhardt
 Sarajevó,Sarajevo
 Saraþústra,Zoroaster
 Sardinía,Sardinia
-Satúrnus,Saturn (disambiguation)
-Satúrnus (guð),Saturn (mythology)
-Satúrnus (reikistjarna),Saturn
+Satúrnus,Saturn
+Satúrnus,Saturn
+Satúrnus,Saturn
 Satýr,Satyr
 Saxelfur,Elbe
 Scipio Africanus,Scipio Africanus
 Seattle,Seattle
 Seborgín,Seaborgium
 Segull,Magnet
-Segulljós,Aurora (astronomy)
+Segulljós,Aurora
 Segulsvið,Magnetic field
 Segóvía,Segovia
 Seifur,Zeus
@@ -3093,15 +3093,15 @@ Seppuku,Seppuku
 September,September
 Serbía,Serbia
 Serbía og Svartfjallaland,Serbia and Montenegro
-Seres (dvergreikistjarna),Ceres (dwarf planet)
+Seres,Ceres
 Sergei Eisenstein,Sergei Eisenstein
 Sergei Rachmaninoff,Sergei Rachmaninoff
 Sesín,Caesium
 Setberg,Sedimentary rock
-Setning (stærðfræði),Theorem
+Setning,Theorem
 Setningafræði,Syntax
 Sevilla,Seville
-Sex,6 (number)
+Sex,6
 Sexhleypa,Revolver
 Sextant,Sextant
 Sextánundakerfi,Hexadecimal
@@ -3146,7 +3146,7 @@ Sjónvarp,Television
 Sjónvilla,Optical illusion
 Sjór,Ocean
 Sjór,Sea
-Sjöstirnið,Pleiades (star cluster)
+Sjöstirnið,Pleiades
 Sjúkdómur,Disease
 Skagerrak,Skagerrak
 Skakki turninn í Písa,Leaning Tower of Pisa
@@ -3189,7 +3189,7 @@ Skóli,School
 Ský,Cloud
 Skýjakljúfur,Skyscraper
 Slagæð,Artery
-Slétta (rúmfræði),Plane (mathematics)
+Slétta,Plane
 Slíðurhyrningar,Bovid
 Slóvakía,Slovakia
 Slóvenía,Slovenia
@@ -3199,17 +3199,17 @@ Smjör,Butter
 Smokkar,Cephalopod
 Smokkur,Condom
 Smolensk,Smolensk
-Smári (rafeindafræði),Transistor
-Smáskífa,Single (music)
+Smári,Transistor
+Smáskífa,Single
 Smástirnabeltið,Asteroid belt
 Smástirni,Asteroid
 Snareðla,Velociraptor
 Sniglar,Gastropoda
-Snið:Aðalgrein,Main
-Snið:Heimild vantar,Fact
-Snið:Stubbur,Stub
-Snið:Vélmenni,Bot
-Sniðmengi,Intersection (set theory)
+Aðalgrein,Main
+Heimild vantar,Fact
+Stubbur,Stub
+Vélmenni,Bot
+Sniðmengi,Intersection
 Snjóflóð,Avalanche
 Snjór,Snow
 Snípur,Clitoris
@@ -3262,7 +3262,7 @@ Stigull,Gradient
 Stiklutexti,Hypertext
 Stjarneðlisfræði,Astrophysics
 Stjarnfræðieining,Astronomical unit
-Stjórnarskrá,Constitution (political)
+Stjórnarskrá,Constitution
 Stjórnarskrá Bandaríkjanna,United States Constitution
 Stjórnleysisstefna,Anarchism
 Stjórnmál,Politics
@@ -3289,7 +3289,7 @@ Stríð Íraks og Írans,Iran-Iraq War
 Strönd,Coast
 Strútar,Ratite
 Stuttgart,Stuttgart
-Styx (fljót),Styx
+Styx,Styx
 Stál,Steel
 Stærðfræði,Mathematics
 Stærðfræðileg sönnun,Mathematical proof
@@ -3305,10 +3305,10 @@ Stöðuheiti í hernaði,Military rank
 Stöðuvatn,Lake
 Stúpa,Stupa
 Stýrikerfi,Operating system
-Stýrikerfiskjarni,Kernel (computer science)
+Stýrikerfiskjarni,Kernel
 Sumar,Summer
 Sund,Strait
-Sund (hreyfing),Swimming
+Sund,Swimming
 Sundknattleikur,Water polo
 Sundurleitni,Divergence
 Sunnudagur,Sunday
@@ -3367,12 +3367,12 @@ Sígild aflfræði,Classical mechanics
 Síkismi,Sikhism
 Sílúrtímabilið,Silurian
 Símbréf,Fax
-Símens,Siemens (unit)
+Símens,Siemens
 Sími,Telephone
 Sínaískagi,Sinai Peninsula
 Sítróna,Lemon
 Síva,Shiva
-Sívalningur,Cylinder (geometry)
+Sívalningur,Cylinder
 Sófía,Sofia
 Sófókles,Sophocles
 Sókrates,Socrates
@@ -3385,7 +3385,7 @@ Sólon,Solon
 Sólstjarna,Star
 Sómalía,Somalia
 Sóróismi,Zoroastrianism
-Sölt,Salt (chemistry)
+Sölt,Salt
 Súdan,Sudan
 Súesskurðurinn,Suez Canal
 Súfismi,Sufism
@@ -3437,7 +3437,7 @@ Taípei,Taipei
 Taóismi,Taoism
 Te,Tea
 Tegucigalpa,Tegucigalpa
-Tegund (líffræði),Species
+Tegund,Species
 Teheran,Tehran
 Teiknimynd,Animation
 Teknetín,Technetium
@@ -3448,7 +3448,7 @@ Tennessee,Tennessee
 Tennis,Tennis
 Tenzing Norgay,Tenzing Norgay
 Tenór,Tenor
-Tesla,Tesla (unit)
+Tesla,Tesla
 Texas,Texas
 Textafræði,Philology
 Thames,River Thames
@@ -3467,8 +3467,8 @@ Tilleiðsla,Inductive reasoning
 Tilvistarstefna,Existentialism
 Timbúktú,Timbuktu
 Tin,Tin
-Tirol,Tyrol (state)
-Titanic (aðgreining),Titanic (disambiguation)
+Tirol,Tyrol
+Titanic,Titanic
 Tjúktahaf,Chukchi Sea
 Tom Hanks,Tom Hanks
 Tonga,Tonga
@@ -3481,7 +3481,7 @@ Toulouse,Toulouse
 Toyota,Toyota
 Trajanus,Trajan
 Transylvanía,Transylvania
-Trenton (New Jersey),Trenton
+Trenton,Trenton
 Tromma,Drum
 Trompet,Trumpet
 Trotskíismi,Trotskyism
@@ -3506,19 +3506,19 @@ Tvinntölur,Complex number
 Tvistur,Diode
 Tvíhljóð,Diphthong
 Tvíhyggja,Dualism
-Tvíhyggja,Dualism (philosophy of mind)
+Tvíhyggja,Dualism
 Tvíkynjungur,Hermaphrodite
 Tvíkímblöðungar,Dicotyledon
 Tvístirni,Binary star
 Tvísykrur,Disaccharide
 Tycho Brahe,Tycho Brahe
 Tyggigúmmí,Chewing gum
-Tylft,12 (number)
+Tylft,12
 Tylftareyjar,Dodecanese
 Tyrkjaveldi,Ottoman Empire
 Tyrkland,Turkey
 Tyrrenahaf,Tyrrhenian Sea
-Tá (bókstafur),Tau
+Tá,Tau
 Táknfræði,Semiotics
 Táknsaga,Allegory
 Tækni,Technology
@@ -3537,7 +3537,7 @@ Tírana,Tirana
 Tíska,Fashion
 Títan,Titanium
 Títus,Titus
-Tívolí (Ítalíu),Tivoli
+Tívolí,Tivoli
 Tíðni,Frequency
 Tóbak,Tobacco
 Tófú,Tofu
@@ -3547,7 +3547,7 @@ Tómas af Aquino,Thomas Aquinas
 Tómatsósa,Ketchup
 Tómatur,Tomato
 Tómhyggja,Nihilism
-Tónbil,Interval (music)
+Tónbil,Interval
 Tónlist,Music
 Tónlistarfræði,Musicology
 Tónlistarmaður,Musician
@@ -3559,16 +3559,16 @@ Tölfræði,Statistics
 Tölva,Computer
 Tölvuforrit,Computer program
 Tölvuleikur,Video game
-Tölvumús,Mouse (computing)
+Tölvumús,Mouse
 Tölvunarfræði,Computer science
 Tölvupóstur,E-mail
 Tölvuskjár,Computer display
 Tönn,Tooth
-Túlkur (tölvunarfræði),Interpreter (computing)
+Túlkur,Interpreter
 Túlín,Thulium
 Túnfífill,Dandelion
 Túnis,Tunisia
-Túnis (borg),Tunis
+Túnis,Tunis
 Túrkmenistan,Turkmenistan
 Túvalúeyjar,Tuvalu
 Týpógrafía,Typography
@@ -3580,7 +3580,7 @@ Ufsagrýla,Gargoyle
 Uglur,Owl
 Ulysses S. Grant,Ulysses S. Grant
 Umbreytingarberg,Metamorphic rock
-Undirfylki,Company (military unit)
+Undirfylki,Company
 Ungverjaland,Hungary
 Unix,Unix
 Upanishad,Upanishad
@@ -3617,20 +3617,20 @@ Vatnsreykjarpípa,Hookah
 Vatt,Watt
 Vatíkanið,Vatican City
 Vax,Wax
-Veber (SI-mælieining),Weber (unit)
+Veber,Weber
 Veffang,Uniform Resource Locator
 Vefsíða,Web page
-Vefur,Tissue (biology)
+Vefur,Tissue
 Vegur,Road
 Veigrunarorð,Euphemism
 Veira,Virus
 Veitingahús,Restaurant
 Veiðar,Hunting
-Veldi (stærðfræði),Exponentiation
+Veldi,Exponentiation
 Venesúela,Venezuela
 Venetó,Veneto
-Venus,Venus (disambiguation)
-Venus (reikistjarna),Venus
+Venus,Venus
+Venus,Venus
 Veraldarvefurinn,World Wide Web
 Verkfræði,Engineering
 Verkfæri,Tool
@@ -3659,9 +3659,9 @@ Veður,Weather
 Veðurfarsfræði,Climatology
 Veðurfræði,Meteorology
 Victor Hugo,Victor Hugo
-Victoria,Victoria (Australia)
+Victoria,Victoria
 Vientiane,Vientiane
-Vigur (stærðfræði),Vector (spatial)
+Vigur,Vector
 Vika,Week
 Viktoríufossar,Victoria Falls
 Viktoríuvatn,Lake Victoria
@@ -3674,7 +3674,7 @@ Vindmylla,Windmill
 Vindorka,Wind power
 Virgill,Virgil
 Virginia Woolf,Virginia Woolf
-Virginía (fylki),Virginia
+Virginía,Virginia
 Visla,Vistula
 Visnjú,Vishnu
 Vistfræði,Ecology
@@ -3696,9 +3696,9 @@ Volga,Volga River
 Volt,Volt
 Voltaire,Voltaire
 Vopn,Weapon
-Vor,Spring (season)
+Vor,Spring
 Vottar Jehóva,Jehovah's Witnesses
-Vulcanus,Vulcan (mythology)
+Vulcanus,Vulcan
 Vænisýki,Paranoia
 Vél,Machine
 Vélbyssa,Machine gun
@@ -3708,7 +3708,7 @@ Víetnam,Vietnam
 Víetnamstríðið,Vietnam War
 Víkingar,Viking
 Vín,Wine
-Vín (Austurríki),Vienna
+Vín,Vienna
 Vínber,Grape
 Vísindi,Science
 Vítamín,Vitamin
@@ -3725,9 +3725,9 @@ Wales,Wales
 Walt Disney,Walt Disney
 Walt Whitman,Walt Whitman
 Walter Gropius,Walter Gropius
-Washington,Washington (disambiguation)
-Washington (borg),Washington
-Washington (fylki),Washington
+Washington,Washington
+Washington,Washington
+Washington,Washington
 Watergate-hneykslið,Watergate scandal
 Weimar lýðveldið,Weimar Republic
 Wellington,Wellington
@@ -3777,7 +3777,7 @@ Zenon frá Kítíon,Zeno of Citium
 Zeta,Zeta
 Zíonismi,Zionism
 icelandic,english
-Á (landform),River
+Á,River
 Áburður,Fertilizer
 Áfengi,Alcoholic beverage
 Ágúst,August
@@ -3800,7 +3800,7 @@ icelandic,english
 Ástralasía,Australasia
 Ástralskur dalur,Australian dollar
 Ástralía,Australia
-Átta,8 (number)
+Átta,8
 Áttarhorn,Azimuth
 Áttfætlur,Arachnid
 Áttund,Octave
@@ -3809,10 +3809,10 @@ icelandic,english
 Ávöxtur,Fruit
 Ægisif,Hagia Sophia
 Æskýlos,Aeschylus
-Ætt (flokkunarfræði),Family (biology)
-Ættbálkur (flokkunarfræði),Order (biology)
+Ætt,Family
+Ættbálkur,Order
 Ættfræði,Genealogy
-Ættkvísl (flokkunarfræði),Genus
+Ættkvísl,Genus
 Ævisaga,Biography
 Æxlun,Reproduction
 Æð,Blood vessel
@@ -3836,8 +3836,8 @@ icelandic,english
 Ítalía,Italy
 Ívan Petrovítsj Pavlov,Ivan Pavlov
 Ívan Túrgenjev,Ivan Turgenev
-Íó,Io (moon)
-Íó (gyðjan),Io (mythology)
+Íó,Io
+Íó,Io
 Íþrótt,Sport
 Óbundið mál,Prose
 Óbó,Oboe
@@ -3884,8 +3884,8 @@ icelandic,english
 Úmbría,Umbria
 Úralfjöll,Ural Mountains
 Úran,Uranium
-Úranus (reikistjarna),Uranus
-Úrkoma,Precipitation (meteorology)
+Úranus,Uranus
+Úrkoma,Precipitation
 Úrúgvæ,Uruguay
 Úsbekistan,Uzbekistan
 Útfjólublátt ljós,Ultraviolet
@@ -3935,9 +3935,9 @@ icelandic,english
 Þytfuglar,Apodiformes
 Þágufall,Dative case
 Þéttir,Capacitor
-Þór (norræn goðafræði),Thor
+Þór,Thor
 Þúkýdídes,Thucydides
-Þúsund,1000 (number)
+Þúsund,1000
 Þýska,German language
 Þýskaland,Germany
 Þýskur fjárhundur,German Shepherd Dog

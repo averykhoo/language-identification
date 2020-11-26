@@ -1,36 +1,36 @@
 Other,English
-0 (luku),0 (number)
+0,0
 1,1
-1 (luku),1 (number)
+1,1
 1. elokuuta,August 1
 1. heinäkuuta,July 1
 1. marraskuuta,November 1
 1. tammikuuta,January 1
 1. toukokuuta,May 1
 10,10
-10 (luku),10 (number)
+10,10
 100,100
 1000,1000
 101,101
 105,105
 11,11
-11 (luku),11 (number)
+11,11
 11. marraskuuta,November 11
 11. syyskuuta,September 11
 110,110
 115,115
 12,12
-12 (luku),12 (number)
+12,12
 12. helmikuuta,February 12
 12. lokakuuta,October 12
 120,120
 125,125
 13,13
-13 (luku),13 (number)
+13,13
 130,130
 135,135
 14,14
-14 (luku),14 (number)
+14,14
 14. helmikuuta,February 14
 14. huhtikuuta,April 14
 14. kesäkuuta,June 14
@@ -38,17 +38,17 @@ Other,English
 144,144
 145,145
 15,15
-15 (luku),15 (number)
+15,15
 15. elokuuta,August 15
 150,150
 1530-luku,1530s
 155,155
 16,16
-16 (luku),16 (number)
+16,16
 160,160
 165,165
 17,17
-17 (luku),17 (number)
+17,17
 17. maaliskuuta,March 17
 17. syyskuuta,September 17
 170,170
@@ -60,7 +60,7 @@ Other,English
 1780-luku,1780s
 1790-luku,1790s
 18,18
-18 (luku),18 (number)
+18,18
 180,180
 1820-luku,1820s
 1830-luku,1830s
@@ -71,7 +71,7 @@ Other,English
 1880-luku,1880s
 1890-luku,1890s
 19,19
-19 (luku),19 (number)
+19,19
 19. maaliskuuta,March 19
 19. tammikuuta,January 19
 190,190
@@ -86,80 +86,80 @@ Other,English
 1980-luku,1980s
 1990-luku,1990s
 2,2
-2 (luku),2 (number)
+2,2
 2. helmikuuta,February 2
 2. maaliskuuta,March 2
 2. marraskuuta,November 2
 20,20
-20 (luku),20 (number)
+20,20
 20. tammikuuta,January 20
 200,200
 21,21
-21 (luku),21 (number)
+21,21
 21. kesäkuuta,June 21
 22,22
-22 (luku),22 (number)
+22,22
 22. helmikuuta,February 22
 23,23
-23 (luku),23 (number)
+23,23
 23. kesäkuuta,June 23
 24,24
-24 (luku),24 (number)
-24 (televisiosarja),24 (TV series)
+24,24
+24,24
 24. kesäkuuta,June 24
 24. lokakuuta,October 24
 24. toukokuuta,May 24
 25,25
-25 (luku),25 (number)
+25,25
 25. maaliskuuta,March 25
 26,26
-26 (luku),26 (number)
+26,26
 27,27
-27 (luku),27 (number)
+27,27
 28,28
-28 (luku),28 (number)
+28,28
 29,29
-29 (luku),29 (number)
+29,29
 29. helmikuuta,February 29
 29. kesäkuuta,June 29
 29. syyskuuta,September 29
 3,3
-3 (luku),3 (number)
+3,3
 3. kesäkuuta,June 3
 30,30
-30 (luku),30 (number)
+30,30
 300,300
 31,31
-31 (luku),31 (number)
+31,31
 31. joulukuuta,December 31
 32,32
-32 (luku),32 (number)
+32,32
 33,33
-33 (luku),33 (number)
+33,33
 34,34
-34 (luku),34 (number)
+34,34
 35,35
-35 (luku),35 (number)
+35,35
 36,36
-36 (luku),36 (number)
+36,36
 37,37
-37 (luku),37 (number)
+37,37
 38,38
-38 (luku),38 (number)
+38,38
 39,39
-39 (luku),39 (number)
+39,39
 4,4
-4 (luku),4 (number)
+4,4
 4. heinäkuuta,July 4
 40,40
-40 (luku),40 (number)
+40,40
 400,400
 41,41
-41 (luku),41 (number)
+41,41
 42,42
-42 (luku),42 (number)
+42,42
 43,43
-43 (luku),43 (number)
+43,43
 44,44
 45,45
 46,46
@@ -167,7 +167,7 @@ Other,English
 48,48
 49,49
 5,5
-5 (luku),5 (number)
+5,5
 5. marraskuuta,November 5
 50,50
 500,500
@@ -181,7 +181,7 @@ Other,English
 58,58
 59,59
 6,6
-6 (luku),6 (number)
+6,6
 6. elokuuta,August 6
 6. tammikuuta,January 6
 60,60
@@ -195,7 +195,7 @@ Other,English
 68,68
 69,69
 7,7
-7 (luku),7 (number)
+7,7
 70,70
 71,71
 72,72
@@ -207,7 +207,7 @@ Other,English
 78,78
 79,79
 8,8
-8 (luku),8 (number)
+8,8
 8. joulukuuta,December 8
 80,80
 81,81
@@ -220,7 +220,7 @@ Other,English
 88,88
 89,89
 9,9
-9 (luku),9 (number)
+9,9
 90,90
 91,91
 92,92
@@ -241,7 +241,7 @@ ALGOL,ALGOL
 ASCII,American Standard Code for Information Interchange
 ASEAN,Association of Southeast Asian Nations
 ATP,ATP
-AZ Alkmaar,AZ (football club)
+AZ Alkmaar,AZ
 Aachen,Aachen
 Aadam,Adam
 Aakkoset,Alphabet
@@ -250,7 +250,7 @@ Aallonpituus,Wavelength
 Aaloet,Aloe
 Aalto,Wave
 Aare,Aar
-Aari (yksikkö),Are
+Aari,Are
 Aaria,Aria
 Aarnikotka,Griffin
 Aaron,Aaron
@@ -274,13 +274,13 @@ Absoluuttinen nollapiste,Absolute zero
 Abstrakti ekspressionismi,Abstract expressionism
 Abstrakti taide,Abstract art
 Abu Dhabi,Abu Dhabi
-Abu Dhabi,Abu Dhabi (emirate)
+Abu Dhabi,Abu Dhabi
 Abuja,Abuja
 Acapulco,Acapulco
 Accra,Accra
 Aconcagua,Aconcagua
-Acre,Acre (state)
-Ada,Ada (programming language)
+Acre,Acre
+Ada,Ada
 Adam Smith,Adam Smith
 Adana,Adana
 Addis Abeba,Addis Ababa
@@ -323,7 +323,7 @@ Agorafobia,Agoraphobia
 Agra,Agra
 Agrigento,Agrigento
 Ahvenkalat,Perciformes
-Aias,Ajax (mythology)
+Aias,Ajax
 Aigeianmeri,Aegean Sea
 Aika,Time
 Aikakauslehti,Magazine
@@ -350,8 +350,8 @@ Ajatolla,Ayatollah
 Ajattelu,Thought
 Ajatushautomo,Think tank
 Ajax,Ajax
-Ajax (ohjelmointi),Ajax (programming)
-Ajomies (tähdistö),Auriga (constellation)
+Ajax,Ajax
+Ajomies,Auriga
 Akaatti,Agate
 Akaba,Aqaba
 Akabanlahti,Gulf of Aqaba
@@ -390,7 +390,7 @@ Alasaksa,Low German
 Alaska,Alaska
 Alban Berg,Alban Berg
 Albania,Albania
-Albany (New York),Albany
+Albany,Albany
 Albatrossit,Albatross
 Albedo,Albedo
 Albert Abraham Michelson,Albert Abraham Michelson
@@ -413,7 +413,7 @@ Aleksandria,Alexandria
 Aleksanteri Suuri,Alexander the Great
 Aleksanteri VI,Pope Alexander VI
 Aleppo,Aleppo
-Aleutit (saaristo),Aleutian Islands
+Aleutit,Aleutian Islands
 Alexander Fleming,Alexander Fleming
 Alexander Graham Bell,Alexander Graham Bell
 Alexander Hamilton,Alexander Hamilton
@@ -421,7 +421,7 @@ Alexander Pope,Alexander Pope
 Alexandre Dumas nuorempi,Alexandre Dumas
 Alexandre Dumas vanhempi,Alexandre Dumas
 Alexis de Tocqueville,Alexis de Tocqueville
-Alfa,Alpha (letter)
+Alfa,Alpha
 Alfa Centauri,Alpha Centauri
 Alfahiukkanen,Alpha particle
 Alfred Dreyfus,Alfred Dreyfus
@@ -466,18 +466,18 @@ Almanakka,Almanac
 Almatı,Almaty
 Alpit,Alps
 Alsace,Alsace
-Altai (vuoristo),Altay Mountains
+Altai,Altay Mountains
 Altair,Altair
 Altruismi,Altruism
 Alttari,Altar
-Alttari (tähdistö),Ara (constellation)
+Alttari,Ara
 Alttoviulu,Viola
 Alue,Region
 Alumiini,Aluminium
 Alvar Aalto,Alvar Aalto
 Alzheimerin tauti,Alzheimer's disease
 Amaterasu,Amaterasu
-Amazon (joki),Amazon River
+Amazon,Amazon River
 Ambrosius,Ambrose
 Amedeo Avogadro,Amedeo Avogadro
 Amelia Earhart,Amelia Earhart
@@ -527,7 +527,7 @@ Andhra Pradesh,Andhra Pradesh
 Andit,Andes
 Andorra,Andorra
 Andrea Palladio,Andrea Palladio
-Andreas (apostoli),Saint Andrew
+Andreas,Saint Andrew
 Andrei Saharov,Andrei Sakharov
 Andrei Tarkovski,Andrei Tarkovsky
 Andrew Jackson,Andrew Jackson
@@ -535,8 +535,8 @@ Andrew Johnson,Andrew Johnson
 Andrew Lloyd Webber,Andrew Lloyd Webber
 Androidi,Android
 Andromeda,Andromeda
-Andromeda (mytologia),Andromeda (mythology)
-Andromeda (tähdistö),Andromeda (constellation)
+Andromeda,Andromeda
+Andromeda,Andromeda
 Andromedan galaksi,Andromeda Galaxy
 Andy Warhol,Andy Warhol
 Anekauppa,Indulgence
@@ -564,7 +564,7 @@ Antakya,Antakya
 Antalya,Antalya
 Antananarivo,Antananarivo
 Antares,Antares
-Antenni,Antenna (radio)
+Antenni,Antenna
 Anthony Hopkins,Anthony Hopkins
 Antibiootti,Antibiotic
 Antigeeni,Antigen
@@ -585,7 +585,7 @@ Antonyymi,Antonym
 Antropologia,Anthropology
 Antroposofia,Anthroposophy
 Antwerpen,Antwerp
-Antwerpen (maakunta),Antwerp (province)
+Antwerpen,Antwerp
 Anubis,Anubis
 Aortta,Aorta
 Apassit,Apache
@@ -594,14 +594,14 @@ Apenniinien niemimaa,Italian Peninsula
 Apia,Apia
 Apilat,Clover
 Apokryfiset kirjat,Apocrypha
-Apollo,Apollo (disambiguation)
-Apollo (avaruusohjelma),Apollo program
+Apollo,Apollo
+Apollo,Apollo program
 Apollon,Apollo
 Apoptoosi,Apoptosis
 Apostolien teot,Acts of the Apostles
 Apotti,Abbot
 Appalakit,Appalachian Mountains
-Appelsiini,Orange (fruit)
+Appelsiini,Orange
 Aprikoosi,Apricot
 Aprillipäivä,April Fools' Day
 Apsis,Apse
@@ -619,7 +619,7 @@ Aram Hatšaturjan,Aram Khachaturian
 Ararat,Mount Ararat
 Arcangelo Corelli,Arcangelo Corelli
 Archaeopteryx,Archaeopteryx
-Ardennes,Ardennes (department)
+Ardennes,Ardennes
 Ardennien taistelu,Battle of the Bulge
 Ardennit,Ardennes
 Areiolaisuus,Arianism
@@ -627,7 +627,7 @@ Areios,Arius
 Ares,Ares
 Argentiina,Argentina
 Argon,Argon
-Argos (kaupunki),Argos
+Argos,Argos
 Argumentointivirhe,Fallacy
 Argumentum ad hominem,Ad hominem
 Ariadne,Ariadne
@@ -656,7 +656,7 @@ Armenia,Armenia
 Armenian kieli,Armenian language
 Arminius,Arminius
 Arnhem,Arnhem
-Arno (joki),Arno River
+Arno,Arno River
 Arnold Schönberg,Arnold Schoenberg
 Aro,Steppe
 Aromaattinen hiilivety,Aromatic hydrocarbon
@@ -689,12 +689,12 @@ Asovanmeri,Sea of Azov
 Aspartaami,Aspartame
 Aspiriini,Aspirin
 Assam,Assam
-Assembly (ohjelmointikieli),Assembly language
+Assembly,Assembly language
 Assurbanipal,Ashurbanipal
 Assyria,Assyria
 Astana,Astana
 Astatiini,Astatine
-Aste,Degree (angle)
+Aste,Degree
 Asteekit,Aztec
 Astenosfääri,Asthenosphere
 Asterikasvit,Asteraceae
@@ -718,9 +718,9 @@ Athos,Mount Athos
 Atlanta,Atlanta
 Atlantin valtameri,Atlantic Ocean
 Atlantis,Atlantis
-Atlas,Atlas (disambiguation)
-Atlas (kuu),Atlas (moon)
-Atlas (mytologia),Atlas (mythology)
+Atlas,Atlas
+Atlas,Atlas
+Atlas,Atlas
 Atlasvuoret,Atlas Mountains
 Atolli,Atoll
 Atomi,Atom
@@ -737,7 +737,7 @@ Attila,Attila the Hun
 Au,Au
 Auckland,Auckland
 August Strindberg,August Strindberg
-Augusta (Maine),Augusta
+Augusta,Augusta
 Auguste Comte,Auguste Comte
 Auguste Rodin,Auguste Rodin
 Augustinus,Augustine of Hippo
@@ -766,13 +766,13 @@ Auto,Automobile
 Autolautta,Ferry
 Autonominen hermosto,Autonomic nervous system
 Autourheilu,Auto racing
-Auvergne,Auvergne (region)
+Auvergne,Auvergne
 Avantgarde,Avant-garde
 Avaruus,Space
 Avaruusalus,Spacecraft
 Avaruusasema,Space station
 Avaruussukkula,Space Shuttle
-Avatar (hindulaisuus),Avatar
+Avatar,Avatar
 Ave Maria,Hail Mary
 Averroës,Averroes
 Avesta,Avesta
@@ -789,7 +789,7 @@ B,B
 B6-vitamiini,Vitamin B6
 BASIC,BASIC
 Baal,Baal
-Baari,Bar (unit)
+Baari,Bar
 Babylon,Babylon
 Babylonia,Babylonia
 Babylonin riippuvat puutarhat,Hanging Gardens of Babylon
@@ -831,11 +831,11 @@ Barbados,Barbados
 Barbra Streisand,Barbra Streisand
 Barcelona,Barcelona
 Barentsinmeri,Barents Sea
-Bari (kaupunki),Bari
+Bari,Bari
 Barium,Barium
 Barokki,Baroque
 Barranquilla,Barranquilla
-Barreli,Barrel (unit)
+Barreli,Barrel
 Baryoni,Baryon
 Basaltti,Basalt
 Baseball,Baseball
@@ -843,14 +843,14 @@ Basel,Basel
 Bash,Bash
 Basileios Suuri,Basil of Caesarea
 Basilicata,Basilicata
-Basilika (arkkitehtuuri),Basilica
+Basilika,Basilica
 Basiliski,Basilisk
 Basiliskos,Basiliscus
 Basra,Basra
 Basse-Normandie,Basse-Normandie
 Basseterre,Basseterre
 Bassokitara,Bass guitar
-Bastet,Bast (mythology)
+Bastet,Bast
 Bastilji,Bastille
 Bataatti,Sweet potato
 Bath,Bath
@@ -865,7 +865,7 @@ Bebop,Bebop
 Becquerel,Becquerel
 Beda Venerabilis,Bede
 Beduiinit,Bedouin
-Beeta,Beta (letter)
+Beeta,Beta
 Beetahajoaminen,Beta decay
 Beirut,Beirut
 Belfast,Belfast
@@ -931,17 +931,17 @@ Biopsia,Biopsy
 Biosfääri,Biosphere
 Biotekniikka,Biotechnology
 Biotiini,Biotin
-Birmingham (Alabama),Birmingham
+Birmingham,Birmingham
 Biseksuaalisuus,Bisexuality
 Biskajanlahti,Bay of Biscay
-Bismarck,Bismarck (disambiguation)
-Bismarck (Pohjois-Dakota),Bismarck
+Bismarck,Bismarck
+Bismarck,Bismarck
 Bissau,Bissau
 Bithynia,Bithynia
 Bitti,Bit
 Biškek,Bishkek
 Blaise Pascal,Blaise Pascal
-Blender (ohjelma),Blender (software)
+Blender,Blender
 Bloemfontein,Bloemfontein
 Blogi,Blog
 Blues,Blues
@@ -953,7 +953,7 @@ Bodhisattva,Bodhisattva
 Boforiasteikko,Beaufort scale
 Bohrium,Bohrium
 Boise,Boise
-Bokseri,Boxer (dog)
+Bokseri,Boxer
 Bolivia,Bolivia
 Bollywood,Bollywood
 Bologna,Bologna
@@ -961,7 +961,7 @@ Bolzano,Bolzano
 Bolševikit,Bolshevik
 Bonn,Bonn
 Bonsai,Bonsai
-Boolen algebra,Boolean algebra (structure)
+Boolen algebra,Boolean algebra
 Boori,Boron
 Bordeaux,Bordeaux
 Boris Godunov,Boris Godunov
@@ -988,12 +988,12 @@ Bratislava,Bratislava
 Braunschweig,Braunschweig
 Brazzaville,Brazzaville
 Bremen,Bremen
-Bremen (osavaltio),Bremen (state)
+Bremen,Bremen
 Bremerhaven,Bremerhaven
 Brescia,Brescia
 Brest,Brest
-Brest (Ranska),Brest
-Brest (Valko-Venäjä),Brest
+Brest,Brest
+Brest,Brest
 Bretagne,Bretagne
 Bridge,Contract bridge
 Bridgetown,Bridgetown
@@ -1005,7 +1005,7 @@ Brittiläinen Kolumbia,British Columbia
 Brittiläinen imperiumi,British Empire
 Brittiläiset Neitsytsaaret,British Virgin Islands
 Brno,Brno
-Broadway,Broadway (New York City)
+Broadway,Broadway
 Bromi,Bromine
 Brooklyn,Brooklyn
 Brooklyn Bridge,Brooklyn Bridge
@@ -1022,7 +1022,7 @@ Buddha,Buddha
 Buddhalaisuus,Buddhism
 Buddy Holly,Buddy Holly
 Buenos Aires,Buenos Aires
-Buffalo (New York),Buffalo
+Buffalo,Buffalo
 Bujumbura,Bujumbura
 Bukarest,Bucharest
 Bulgaria,Bulgaria
@@ -1037,11 +1037,11 @@ Bydgoszcz,Bydgoszcz
 Byrokratia,Bureaucracy
 Böömi,Bohemia
 C,C
-C (ohjelmointikieli),C (programming language)
+C,C
 C-vitamiini,Vitamin C
 C. S. Lewis,C. S. Lewis
 CD-levy,Compact Disc
-CHAOS,CHAOS (Linux distribution)
+CHAOS,CHAOS
 CIA,Central Intelligence Agency
 CISC,Complex instruction set computer
 CN Tower,CN Tower
@@ -1049,16 +1049,16 @@ COBOL,COBOL
 Calabria,Calabria
 Calais,Calais
 Caligula,Caligula
-Calvados (departementti),Calvados
+Calvados,Calvados
 Calvin Coolidge,Calvin Coolidge
 Cambridge,Cambridge
-Cambridge (Massachusetts),Cambridge
-Cambridge (täsmennyssivu),Cambridge (disambiguation)
-Camembert,Camembert (cheese)
+Cambridge,Cambridge
+Cambridge,Cambridge
+Camembert,Camembert
 Campania,Campania
 Canberra,Canberra
 Cannes,Cannes
-Canon,Canon (company)
+Canon,Canon
 Canopus,Canopus
 Canterbury,Canterbury
 Cape Canaveral,Cape Canaveral
@@ -1075,20 +1075,20 @@ Carson City,Carson City
 Cary Grant,Cary Grant
 Caryophyllales,Caryophyllales
 Casablanca,Casablanca
-Castries (kaupunki),Castries
+Castries,Castries
 Casus belli,Casus belli
 Catullus,Catullus
 Cayenne,Cayenne
 Caymansaaret,Cayman Islands
-Cd (täsmennyssivu),CD (disambiguation)
+Cd,CD
 Cecil Rhodes,Cecil Rhodes
 Celsiusaste,Celsius
 Cembalo,Harpsichord
 Central Park,Central Park
 Centre,Centre
 Cerasus,Cherry
-Ceres,Ceres (dwarf planet)
-Ceres (jumalatar),Ceres (mythology)
+Ceres,Ceres
+Ceres,Ceres
 Cerium,Cerium
 Cesare Borgia,Cesare Borgia
 Cesium,Caesium
@@ -1104,7 +1104,7 @@ Charles Lindbergh,Charles Lindbergh
 Charles S. Peirce,Charles Peirce
 Charles Thomson Rees Wilson,Charles Thomson Rees Wilson
 Charles de Gaulle,Charles de Gaulle
-Charleston (Länsi-Virginia),Charleston
+Charleston,Charleston
 Charlie Parker,Charlie Parker
 Charlotte,Charlotte
 Chartres,Chartres
@@ -1115,9 +1115,9 @@ Chester A. Arthur,Chester A. Arthur
 Cheyenne,Cheyenne
 Chicago,Chicago
 Chicagon yliopisto,University of Chicago
-Chihuahua (osavaltio),Chihuahua
+Chihuahua,Chihuahua
 Chile,Chile
-Chimborazo (vuori),Chimborazo (volcano)
+Chimborazo,Chimborazo
 Chongqing,Chongqing
 Christchurch,Christchurch
 Christiaan Huygens,Christiaan Huygens
@@ -1125,31 +1125,31 @@ Christian Dior,Christian Dior
 Christopher Marlowe,Christopher Marlowe
 Chuck Berry,Chuck Berry
 Cicero,Cicero
-Civilization,Civilization (computer game)
+Civilization,Civilization
 Clark Gable,Clark Gable
 Claude Monet,Claude Monet
 Claude Shannon,Claude Shannon
 Claudio Monteverdi,Claudio Monteverdi
 Claudius,Claudius
 Clement Attlee,Clement Attlee
-Cleveland (Ohio),Cleveland
+Cleveland,Cleveland
 Colin Powell,Colin Powell
 Colombo,Colombo
 Colorado,Colorado
 Coloradojoki,Colorado River
 Colosseum,Colosseum
 Columbia,Columbia
-Columbia (Etelä-Carolina),Columbia
-Columbia (joki),Columbia River
+Columbia,Columbia
+Columbia,Columbia River
 Columbian yliopisto,Columbia University
-Columbus (Ohio),Columbus
-Columbus (täsmennyssivu),Columbus
+Columbus,Columbus
+Columbus,Columbus
 Commedia dell'arte,Commedia dell'arte
 Conakry,Conakry
 Concord,Concord
 Connecticut,Connecticut
 Coriolis-ilmiö,Coriolis effect
-Cork,Cork (city)
+Cork,Cork
 Cornellin yliopisto,Cornell University
 Cornwall,Cornwall
 Costa Rica,Costa Rica
@@ -1199,7 +1199,7 @@ Darfur,Darfur
 Darjeeling,Darjeeling
 Darmstadtium,Darmstadtium
 Darwin,Darwin
-Darwin (Australia),Darwin
+Darwin,Darwin
 Data,Data
 Datiivi,Dative case
 David Hilbert,David Hilbert
@@ -1208,23 +1208,23 @@ David Livingstone,David Livingstone
 David Ricardo,David Ricardo
 Davis Cup,Davis Cup
 De facto,De facto
-Decius,Decius (emperor)
+Decius,Decius
 Deco,Deco
 Deduktiivinen päättely,Deductive reasoning
 Deflaatio,Deflation
-Deimos,Deimos (moon)
+Deimos,Deimos
 Deismi,Deism
 Deklinaatio,Declination
 Dekonstruktio,Deconstruction
 Delaware,Delaware
-Delfiini (tähdistö),Delphinus
+Delfiini,Delphinus
 Delfiinit,Dolphin
 Delfoi,Delphi
 Delft,Delft
 Delhi,Delhi
 Dell,Dell
-Delta,Delta (letter)
-Delta (täsmennyssivu),Delta
+Delta,Delta
+Delta,Delta
 Dementia,Dementia
 Demeter,Demeter
 Demokratia,Democracy
@@ -1253,7 +1253,7 @@ Diabetes,Diabetes mellitus
 Diakoni,Deacon
 Dialektiikka,Dialectic
 Dialektinen materialismi,Dialectical materialism
-Diana,Diana (mythology)
+Diana,Diana
 Diaspora,Diaspora
 Diego Rivera,Diego Rivera
 Dieselmoottori,Diesel engine
@@ -1269,7 +1269,7 @@ Digitaalinen valokuvaus,Digital photography
 Digitaalisuus,Digital
 Dijon,Dijon
 Diktatuuri,Dictatorship
-Dingo (eläin),Dingo
+Dingo,Dingo
 Dinosaurukset,Dinosaur
 Diocletianus,Diocletian
 Diodi,Diode
@@ -1280,9 +1280,9 @@ Dire Straits,Dire Straits
 Disakkaridi,Disaccharide
 Diskurssi,Discourse
 Divergenssi,Divergence
-Divisioona,Division (military)
+Divisioona,Division
 Dizzy Gillespie,Dizzy Gillespie
-Djibouti (kaupunki),Djibouti (city)
+Djibouti,Djibouti
 Dmitri Mendelejev,Dmitri Mendeleev
 Dmitri Šostakovitš,Dmitri Shostakovich
 Dnepr,Dnieper River
@@ -1295,7 +1295,7 @@ Dogmi,Dogma
 Doha,Doha
 Dokumentti,Document
 Dollari,Dollar
-Dolly-lammas,Dolly (sheep)
+Dolly-lammas,Dolly
 Dolmen,Dolmen
 Dolomiitti,Dolomite
 Domesday book,Domesday Book
@@ -1303,7 +1303,7 @@ Dominica,Dominica
 Dominikaaninen tasavalta,Dominican Republic
 Dominikaanit,Dominican Order
 Domitianus,Domitian
-Don,Don River (Russia)
+Don,Don River
 Don Quijote,Don Quixote
 Donatello,Donatello
 Donato Bramante,Donato Bramante
@@ -1315,8 +1315,8 @@ Doris Lessing,Doris Lessing
 Dortmund,Dortmund
 Douala,Douala
 Douglas MacArthur,Douglas MacArthur
-Dover (Delaware),Dover
-Dover (Englanti),Dover
+Dover,Dover
+Dover,Dover
 Downin oireyhtymä,Down syndrome
 Draama,Drama
 Dracula,Dracula
@@ -1324,7 +1324,7 @@ Dresden,Dresden
 Drinkki,Cocktail
 Drontti,Dodo
 Druidi,Druid
-Dualismi (filosofia),Dualism
+Dualismi,Dualism
 Dubai,Dubai
 Dublin,Dublin
 Dubnium,Dubnium
@@ -1339,7 +1339,7 @@ Dustin Hoffman,Dustin Hoffman
 Duuri,Major scale
 Dušanbe,Dushanbe
 Dwight D. Eisenhower,Dwight D. Eisenhower
-Dynamiikka,Dynamics (physics)
+Dynamiikka,Dynamics
 Dynamiitti,Dynamite
 Dysprosium,Dysprosium
 Dystopia,Dystopia
@@ -1349,11 +1349,11 @@ E,E
 E-vitamiini,Tocopherol
 E. T. A. Hoffmann,E. T. A. Hoffmann
 EKG,Electrocardiogram
-ETA (järjestö),ETA
+ETA,ETA
 East Sussex,East Sussex
 Ebola,Ebola
 Ebro,Ebro
-Eclipse (IDE),Eclipse (software)
+Eclipse,Eclipse
 Ecuador,Ecuador
 Edgar Allan Poe,Edgar Allan Poe
 Edgar Degas,Edgar Degas
@@ -1375,7 +1375,7 @@ Edward Teller,Edward Teller
 Edwin Hubble,Edwin Hubble
 Eedenin puutarha,Garden of Eden
 Eekkeri,Acre
-Eeta,Eta (letter)
+Eeta,Eta
 Eetteri,Ether
 Efesoksen kirkolliskokous,Council of Ephesus
 Efesos,Ephesus
@@ -1387,13 +1387,13 @@ Ehtoollinen,Eucharist
 Eiffel-torni,Eiffel Tower
 Eindhoven,Eindhoven
 Einsteinium,Einsteinium
-Ekhidna,Echidna (mythology)
+Ekhidna,Echidna
 Ekliptika,Ecliptic
 Ekologia,Ecology
 Ekologinen lokero,Ecological niche
 Ekonometria,Econometrics
 Ekosysteemi,Ecosystem
-Eksentrisyys,Eccentricity (mathematics)
+Eksentrisyys,Eccentricity
 Ekshibitionismi,Exhibitionism
 Eksistentialismi,Existentialism
 Ekskommunikaatio,Excommunication
@@ -1418,16 +1418,16 @@ Elektroniikka,Electronics
 Elektronimikroskooppi,Electron microscope
 Elektroniputki,Vacuum tube
 Elementti,Element
-Elia (profeetta),Elijah
+Elia,Elijah
 Elia Kazan,Elia Kazan
 Elias Canetti,Elias Canetti
-Elin,Organ (anatomy)
+Elin,Organ
 Elizabeth Taylor,Elizabeth Taylor
 Eliö,Organism
 Eliömaantiede,Biogeography
 Ella Fitzgerald,Ella Fitzgerald
 Ellipsi,Ellipse
-Elohopea,Mercury (element)
+Elohopea,Mercury
 Elokuu,August
 Elokuva,Film
 Elokuvaohjaaja,Film director
@@ -1451,10 +1451,10 @@ Empirismi,Empiricism
 Emu,Emu
 Emulaattori,Emulator
 Emulsio,Emulsion
-Emäs,Base (chemistry)
+Emäs,Base
 Emätin,Vagina
 Energia,Energy
-Energia,Energy (society)
+Energia,Energy
 Energiaperiaate,Conservation of energy
 Englannin kanaali,English Channel
 Englannin kieli,English language
@@ -1475,10 +1475,10 @@ Entalpia,Enthalpy
 Entomologia,Entomology
 Entropia,Entropy
 Entsyymi,Enzyme
-Eoni,Eon (geology)
+Eoni,Eon
 Eos,Eos
 Eoseenikausi,Eocene
-Epeiros,Epirus (periphery)
+Epeiros,Epirus
 Epidemia,Epidemic
 Epidemiologia,Epidemiology
 Epigrafiikka,Epigraphy
@@ -1486,7 +1486,7 @@ Epiikka,Epic poetry
 Epiktetos,Epictetus
 Epikuros,Epicurus
 Epilepsia,Epilepsy
-Epimetheus,Epimetheus (mythology)
+Epimetheus,Epimetheus
 Episentrumi,Epicenter
 Epiteelikudos,Epithelium
 Epsilon,Epsilon
@@ -1502,17 +1502,17 @@ Erebos,Erebus
 Erektio,Erection
 Erektiohäiriö,Erectile dysfunction
 Ericales,Ericales
-Eridanus,Eridanus (constellation)
+Eridanus,Eridanus
 Eriejärvi,Lake Erie
 Erik Axel Karlfeldt,Erik Axel Karlfeldt
 Erik Satie,Erik Satie
-Eris,Eris (mythology)
-Eris (plutoidi),Eris (dwarf planet)
+Eris,Eris
+Eris,Eris
 Erityinen suhteellisuusteoria,Special relativity
 Ernest Hemingway,Ernest Hemingway
 Ernest Rutherford,Ernest Rutherford
 Eroosio,Erosion
-Eros,Eros (mythology)
+Eros,Eros
 Erotiikka,Erotica
 Erwin Rommel,Erwin Rommel
 Escherichia coli,Escherichia coli
@@ -1563,7 +1563,7 @@ Etna,Mount Etna
 Etninen ryhmä,Ethnic group
 Etnografia,Ethnography
 Etologia,Ethology
-Etsaus (taidegrafiikka),Etching
+Etsaus,Etching
 Eturauhanen,Prostate
 Etymologia,Etymology
 Etäpesäke,Metastasis
@@ -1581,8 +1581,8 @@ Euroopan unioni,European Union
 Euroopan yhteisö,European Community
 Euroopanmarjakuusi,Taxus baccata
 Eurooppa,Europe
-Europa (kuu),Europa (moon)
-Europa (mytologia),Europa (mythology)
+Europa,Europa
+Europa,Europa
 Europium,Europium
 Eusebios Kesarealainen,Eusebius of Caesarea
 Eutanasia,Euthanasia
@@ -1604,7 +1604,7 @@ FBI,Federal Bureau of Investigation
 FTP,File Transfer Protocol
 Faabeli,Fable
 Faarao,Pharaoh
-Faasi,Phase (matter)
+Faasi,Phase
 Fado,Fado
 Fagotti,Bassoon
 Fahrenheit-asteikko,Fahrenheit
@@ -1620,10 +1620,10 @@ Fatah,Fatah
 Fauvismi,Fauvism
 Federal Reserve System,Federal Reserve System
 Federico Fellini,Federico Fellini
-Fedora (Linux-jakelu),Fedora (Linux distribution)
-Feeniks,Phoenix (mythology)
-Feeniks (tähdistö),Phoenix (constellation)
-Feeniks (täsmennyssivu),Phoenix
+Fedora,Fedora
+Feeniks,Phoenix
+Feeniks,Phoenix
+Feeniks,Phoenix
 Felix Mendelssohn Bartholdy,Felix Mendelssohn
 Feminismi,Feminism
 Fengshui,Feng shui
@@ -1645,9 +1645,9 @@ Fiat,Fiat
 Fibonaccin lukujono,Fibonacci number
 Fidel Castro,Fidel Castro
 Fidži,Fiji
-Fii,Phi (letter)
+Fii,Phi
 Filatelia,Philately
-Filip II (Espanja),Philip II of Spain
+Filip II,Philip II of Spain
 Filippiinit,Philippines
 Filippo Brunelleschi,Filippo Brunelleschi
 Filippos II,Philip II of Macedon
@@ -1657,7 +1657,7 @@ Firenze,Florence
 Firmware,Firmware
 Fissio,Nuclear fission
 Fjodor Dostojevski,Fyodor Dostoevsky
-Flaamin kieli,Flemish (linguistics)
+Flaamin kieli,Flemish
 Flamenco,Flamenco
 Flamingot,Flamingo
 Flanderi,Flanders
@@ -1699,13 +1699,13 @@ Franciscus Assisilainen,Francis of Assisi
 Frank Lloyd Wright,Frank Lloyd Wright
 Frank Sinatra,Frank Sinatra
 Frankfort,Frankfort
-Frankfurt,Frankfurt (disambiguation)
-Frankfurt (Oder),Frankfurt (Oder)
+Frankfurt,Frankfurt
+Frankfurt,Frankfurt
 Frankfurt am Main,Frankfurt
 Frankium,Francium
 Franklin Pierce,Franklin Pierce
 Frans Hals,Frans Hals
-Frans I (Itävalta),Francis II
+Frans I,Francis II
 Fransiskaanit,Franciscan
 Franz Kafka,Franz Kafka
 Franz Liszt,Franz Liszt
@@ -1715,7 +1715,7 @@ Frederick Sanger,Frederick Sanger
 Frederick Soddy,Frederick Soddy
 Fredericton,Fredericton
 Fredrik I Barbarossa,Frederick I
-Fredrik II (keisari),Frederick II
+Fredrik II,Frederick II
 Free State,Free State
 Freetown,Freetown
 Fregatti,Frigate
@@ -1730,14 +1730,14 @@ Friisinmaa,Friesland
 Fritz Haber,Fritz Haber
 Friuli-Venezia Giulia,Friuli-Venezia Giulia
 Fucking,Fucking
-Fuji (vuori),Mount Fuji
+Fuji,Mount Fuji
 Fukuoka,Fukuoka
 Funafuti,Funafuti
 Fundamentalismi,Fundamentalism
 Funikulaari,Funicular
 Funk,Funk
-Funktio,Function (mathematics)
-Futurismi,Futurism (art)
+Funktio,Function
+Futurismi,Futurism
 Fuuga,Fugue
 Fuusioreaktio,Nuclear fusion
 Fysiikka,Physics
@@ -1756,15 +1756,15 @@ Gabriel Lippmann,Gabriel Lippmann
 Gadolinium,Gadolinium
 Gaeli,Scottish Gaelic
 Gaetano Donizetti,Gaetano Donizetti
-Gaia,Gaia (mythology)
+Gaia,Gaia
 Galaksi,Galaxy
 Galatia,Galatia
 Galenos,Galen
-Galicia,Galicia (Spain)
+Galicia,Galicia
 Galilea,Galilee
-Galileo (luotain),Galileo (spacecraft)
+Galileo,Galileo
 Galileo Galilei,Galileo Galilei
-Galitsia,Galicia (Central Europe)
+Galitsia,Galicia
 Gallia,Gaul
 Gallium,Gallium
 Gallona,Gallon
@@ -1776,11 +1776,11 @@ Gammasäteily,Gamma ray
 Ganesha,Ganesha
 Ganges,Ganges
 Gansu,Gansu
-Ganymedes,Ganymede (moon)
-Ganymedes (mytologia),Ganymede
+Ganymedes,Ganymede
+Ganymedes,Ganymede
 Gargoili,Gargoyle
 Garonne,Garonne
-Gaza (kaupunki),Gaza
+Gaza,Gaza
 Gazan kaista,Gaza Strip
 Geb,Geb
 Geeni,Gene
@@ -1823,9 +1823,9 @@ Georges Bizet,Georges Bizet
 Georges Braque,Georges Braque
 Georges Clemenceau,Georges Clemenceau
 Georges Simenon,Georges Simenon
-Georgetown (Guyana),Georgetown
-Georgia,Georgia (country)
-Georgia (osavaltio),Georgia (U.S. state)
+Georgetown,Georgetown
+Georgia,Georgia
+Georgia,Georgia
 Geotieteet,Earth science
 Gepardi,Cheetah
 Gerald Ford,Gerald Ford
@@ -1866,7 +1866,7 @@ Glyseroli,Glycerol
 Glysiini,Glycine
 Gneissi,Gneiss
 Gnostilaisuus,Gnosticism
-Go,Go (board game)
+Go,Go
 Goa,Goa
 Gobi,Gobi Desert
 Golanin kukkulat,Golan Heights
@@ -1896,11 +1896,11 @@ Granaatti,Garnet
 Granaattiomena,Pomegranate
 Granada,Granada
 Grand Canyon,Grand Canyon
-Grand Slam,Grand Slam (tennis)
+Grand Slam,Grand Slam
 Graniitti,Granite
 Gravitaatiovakio,Gravitational constant
 Gravitoni,Graviton
-Gray,Gray (unit)
+Gray,Gray
 Graz,Graz
 Greenpeace,Greenpeace
 Greenwich,Greenwich
@@ -1913,14 +1913,14 @@ Grover Cleveland,Grover Cleveland
 Groznyi,Grozny
 Grönlanninmeri,Greenland Sea
 Grönlanti,Greenland
-Guadalajara (Meksiko),Guadalajara
+Guadalajara,Guadalajara
 Guadeloupe,Guadeloupe
 Guam,Guam
 Guangdong,Guangdong
 Guangzhou,Guangzhou
 Guaniini,Guanine
 Guano,Guano
-Guatemala (kaupunki),Guatemala City
+Guatemala,Guatemala City
 Guayaquil,Guayaquil
 Guernsey,Guernsey
 Guglielmo Marconi,Guglielmo Marconi
@@ -2020,11 +2020,11 @@ Harlem,Harlem
 Harmaa,Grey
 Harmaakaihi,Cataract
 Harmaalokki,Herring Gull
-Harmonia (musiikki),Harmony
+Harmonia,Harmony
 Harmonikka,Accordion
 Harold Pinter,Harold Pinter
-Harppi,Compass (drafting)
-Harppi (tähdistö),Circinus
+Harppi,Compass
+Harppi,Circinus
 Harppu,Harp
 Harpyijat,Harpy
 Harrastus,Hobby
@@ -2042,7 +2042,7 @@ Haute-Normandie,Haute-Normandie
 Havaiji,Hawaii
 Havaitseminen,Perception
 Havanna,Havana
-Hebe,Hebe (mythology)
+Hebe,Hebe
 Hebei,Hebei
 Hebridit,Hebrides
 Hector Berlioz,Hector Berlioz
@@ -2065,10 +2065,10 @@ Heisenbergin epätarkkuusperiaate,Uncertainty principle
 Hekate,Hecate
 Heksadesimaalijärjestelmä,Hexadecimal
 Hektor,Hector
-Hel,Hel (being)
+Hel,Hel
 Helen Keller,Helen Keller
-Helena (Montana),Helena
-Helena (mytologia),Helen
+Helena,Helena
+Helena,Helen
 Helikopteri,Helicopter
 Helios,Helios
 Helium,Helium
@@ -2089,7 +2089,7 @@ Henri Becquerel,Henri Becquerel
 Henri Bergson,Henri Bergson
 Henri Matisse,Henri Matisse
 Henrik Ibsen,Henrik Ibsen
-Henry,Henry (unit)
+Henry,Henry
 Henry Cavendish,Henry Cavendish
 Henry Fonda,Henry Fonda
 Henry Ford,Henry Ford
@@ -2101,7 +2101,7 @@ Henry Purcell,Henry Purcell
 Henry Thoreau,Henry David Thoreau
 Hepatiitti,Hepatitis
 Heprealainen kirjaimisto,Hebrew alphabet
-Hera (mytologia),Hera
+Hera,Hera
 Herakleitos,Heraclitus
 Herakles,Hercules
 Herakles,Heracles
@@ -2111,7 +2111,7 @@ Herbert Hoover,Herbert Hoover
 Herbert Marcuse,Herbert Marcuse
 Herbert Spencer,Herbert Spencer
 Herkkutatti,Boletus edulis
-Herkules (tähdistö),Hercules (constellation)
+Herkules,Hercules
 Hermafrodiitti,Hermaphrodite
 Herman Melville,Herman Melville
 Hermann Hesse,Hermann Hesse
@@ -2152,7 +2152,7 @@ Hiilimonoksidi,Carbon monoxide
 Hiilivety,Hydrocarbon
 Hiippakunta,Diocese
 Hiiret,Mouse
-Hiiri (osoitinlaite),Mouse (computing)
+Hiiri,Mouse
 Hiivat,Yeast
 Hilbertin avaruus,Hilbert space
 Hilpari,Halberd
@@ -2189,7 +2189,7 @@ Homel,Gomel
 Homeopatia,Homeopathy
 Homeostaasi,Homeostasis
 Homeros,Homer
-Homo (suku),Homo (genus)
+Homo,Homo
 Homo erectus,Homo erectus
 Homo habilis,Homo habilis
 Homofobia,Homophobia
@@ -2209,11 +2209,11 @@ Hormuzinsalmi,Strait of Hormuz
 Horoskooppi,Horoscope
 Horus,Horus
 Hotelli,Hotel
-House (televisiosarja),House (TV series)
+House,House
 Houston,Houston
-Howard Carter,Howard Carter (archaeologist)
+Howard Carter,Howard Carter
 Hubblen laki,Hubble's law
-Hudson (joki),Hudson River
+Hudson,Hudson River
 Hudsoninlahti,Hudson Bay
 Hugenotit,Huguenot
 Hugo Capet,Hugh Capet
@@ -2235,7 +2235,7 @@ Huumori,Humour
 Huutokauppa,Auction
 Huutomerkki,Exclamation mark
 Hu'nan,Hunan
-Hyderabad (Intia),Hyderabad
+Hyderabad,Hyderabad
 Hydroksidi,Hydroxide
 Hydrologia,Hydrology
 Hydrolyysi,Hydrolysis
@@ -2244,8 +2244,8 @@ Hylkeet,Earless seal
 Hymiö,Emoticon
 Hype,Hyperbole
 Hyperbeli,Hyperbola
-Hyperion (kuu),Hyperion (moon)
-Hyperion (mytologia),Hyperion (mythology)
+Hyperion,Hyperion
+Hyperion,Hyperion
 Hyperteksti,Hypertext
 Hypnoosi,Hypnosis
 Hypnos,Hypnos
@@ -2261,9 +2261,9 @@ Hämähäkkieläimet,Arachnid
 Häntä,Tail
 Häpy,Vulva
 Häpykieli,Clitoris
-Härkä (tähdistö),Taurus (constellation)
-Hävittäjä (laiva),Destroyer
-Hävittäjä (lentokone),Fighter aircraft
+Härkä,Taurus
+Hävittäjä,Destroyer
+Hävittäjä,Fighter aircraft
 Höyhen,Feather
 Höyrykone,Steam engine
 Hồ Chí Minh,Ho Chi Minh
@@ -2273,7 +2273,7 @@ I. M. Pei,I. M. Pei
 ICBM,Intercontinental ballistic missile
 IPod,IPod
 Ian Fleming,Ian Fleming
-Iapetos,Iapetus (mythology)
+Iapetos,Iapetus
 Iason,Jason
 Ibuprofeeni,Ibuprofen
 Idaho,Idaho
@@ -2305,14 +2305,14 @@ Ilmailu,Aviation
 Ilmaisohjelma,Freeware
 Ilmajärvi,Lake Ilmen
 Ilmanpaine,Atmospheric pressure
-Ilmapumppu (tähdistö),Antlia
+Ilmapumppu,Antlia
 Ilmapuntari,Barometer
 Ilmasto,Climate
 Ilmaston lämpeneminen,Global warming
 Ilmastonmuutos,Climate change
 Ilmatyynyalus,Hovercraft
 Ilmavoimat,Air force
-Ilves (tähdistö),Lynx (constellation)
+Ilves,Lynx
 Imaami,Imam
 Immanuel Kant,Immanuel Kant
 Immateriaalioikeus,Intellectual property
@@ -2355,14 +2355,14 @@ Interferenssi,Interference
 Interlingua,Interlingua
 Internet,Internet
 Internet Explorer,Internet Explorer
-Intervalli,Interval (music)
+Intervalli,Interval
 Intia,India
-Intiaani (tähdistö),Indus (constellation)
+Intiaani,Indus
 Intian valtameri,Indian Ocean
 Intiantapiiri,Malayan Tapir
 Intranet,Intranet
-Io (kuu),Io (moon)
-Io (mytologia),Io (mythology)
+Io,Io
+Io,Io
 Ioni,Ion
 Ionisidos,Ionic bond
 Ionosfääri,Ionosphere
@@ -2373,11 +2373,11 @@ Irakin–Iranin sota,Iran-Iraq War
 Iran,Iran
 Irenaeus,Irenaeus
 Iridium,Iridium
-Iris (mytologia),Iris (mythology)
+Iris,Iris
 Irlannin tasavaltalaisarmeija,Irish Republican Army
 Irlanninmeri,Irish Sea
 Irlanti,Republic of Ireland
-Irlanti (saari),Ireland
+Irlanti,Ireland
 Iron Maiden,Iron Maiden
 Ironia,Irony
 Irrationaaliluku,Irrational number
@@ -2397,7 +2397,7 @@ Ismael,Ishmael
 Iso Valliriutta,Great Barrier Reef
 Iso karhu,Ursa Major
 Iso koira,Canis Major
-Iso-Britannia (saari),Great Britain
+Iso-Britannia,Great Britain
 Isomeria,Isomer
 Isopanda,Giant Panda
 Isoroku Yamamoto,Isoroku Yamamoto
@@ -2415,7 +2415,7 @@ Itseisarvo,Absolute value
 Itsenäisten valtioiden yhteisö,Commonwealth of Independent States
 Itsenäisyys,Independence
 Itsetyydytys,Masturbation
-Itsevaltius,Absolutism (European history)
+Itsevaltius,Absolutism
 Itä,East
 Itä-Afrikan hautavajoama,Great Rift Valley
 Itä-Afrikka,East Africa
@@ -2436,13 +2436,13 @@ J. M. Barrie,J. M. Barrie
 Jaakob vanhempi,James
 Jaardi,Yard
 Jaava,Java
-Jaava (täsmennyssivu),Java (disambiguation)
+Jaava,Java
 Jack Kerouac,Jack Kerouac
 Jack Lemmon,Jack Lemmon
 Jack London,Jack London
-Jackson (Mississippi),Jackson
+Jackson,Jackson
 Jackson Pollock,Jackson Pollock
-Jacksonville (Florida),Jacksonville
+Jacksonville,Jacksonville
 Jacques Cartier,Jacques Cartier
 Jacques Derrida,Jacques Derrida
 Jacques Offenbach,Jacques Offenbach
@@ -2453,13 +2453,13 @@ Jahve,Yahweh
 Jainalaisuus,Jainism
 Jakarta,Jakarta
 Jakki,Yak
-Jakolasku,Division (mathematics)
-Jakso (jaksollinen järjestelmä),Period (periodic table)
+Jakolasku,Division
+Jakso,Period
 Jaksollinen järjestelmä,Periodic table
 Jalalabad,Jalalabad
 Jalavat,Elm
-Jalka (mittayksikkö),Foot (unit of length)
-Jalkapallo,Football (soccer)
+Jalka,Foot
+Jalkapallo,Football
 Jalkaterä,Foot
 Jalkaväki,Infantry
 Jalokaasut,Noble gas
@@ -2491,14 +2491,14 @@ Jane Seymour,Jane Seymour
 Jangtse,Yangtze River
 Janis Joplin,Janis Joplin
 Janitsaarit,Janissary
-Janus,Janus (mythology)
-Janus (kuu),Janus (moon)
+Janus,Janus
+Janus,Janus
 Japani,Japan
 Japaninmeri,Sea of Japan
-Japetus,Iapetus (moon)
+Japetus,Iapetus
 Jasser Arafat,Yasser Arafat
 Jauhot,Flour
-Java,Java (programming language)
+Java,Java
 Jawaharlal Nehru,Jawaharlal Nehru
 Jazz,Jazz
 Jean Auguste Dominique Ingres,Jean Auguste Dominique Ingres
@@ -2593,16 +2593,16 @@ Joseph Smith,Joseph Smith
 Josephus,Josephus
 Josif Stalin,Joseph Stalin
 Joukko-oppi,Set theory
-Joukkovelkakirja,Bond (finance)
+Joukkovelkakirja,Bond
 Joule,Joule
 Joulu,Christmas
 Jouluaatto,Christmas Eve
 Joulukuu,December
 Joulukuusi,Christmas tree
 Journalismi,Journalism
-Jousi (ase),Bow (weapon)
-Jousimies,Sagittarius (constellation)
-Joutsen (tähdistö),Cygnus (constellation)
+Jousi,Bow
+Jousimies,Sagittarius
+Joutsen,Cygnus
 Joutsenet,Swan
 Jovianus,Jovian
 Joystick,Joystick
@@ -2617,17 +2617,17 @@ Julius Caesar,Julius Caesar
 Jumala,God
 Juna,Train
 Juneau,Juneau
-Juno,Juno (mythology)
+Juno,Juno
 Juoma,Drink
 Jupiter,Jupiter
-Jupiter (täsmennyssivu),Jupiter (disambiguation)
-Juppiter,Jupiter (mythology)
+Jupiter,Jupiter
+Juppiter,Jupiter
 Jurakausi,Jurassic
 Juri Gagarin,Yuri Gagarin
 Justinianus I,Justinian I
 Juudas Iskariot,Judas Iscariot
 Juudea,Judea
-Juuri (kasvi),Root
+Juuri,Root
 Juusto,Cheese
 Juutalainen kalenteri,Hebrew calendar
 Juutalaiset,Jew
@@ -2637,11 +2637,11 @@ Jyrsijät,Rodent
 Jäkälä,Lichen
 Jälkeen Kristuksen,Anno Domini
 Jälleensyntyminen,Reincarnation
-Jänis (tähdistö),Lepus (constellation)
+Jänis,Lepus
 Jäniseläimet,Lagomorpha
 Jännite,Voltage
 Järjestelmä,System
-Järjestysluku (kemia),Atomic number
+Järjestysluku,Atomic number
 Järvi,Lake
 Jättiläisplaneetta,Gas giant
 Jäykkäkouristus,Tetanus
@@ -2661,7 +2661,7 @@ Kaaba,Kaaba
 Kaakaopuu,Cacao
 Kaakkois-Aasia,Southeast Asia
 Kaani,Khan
-Kaari (rakennustekniikka),Arch
+Kaari,Arch
 Kaarle Kaljupää,Charles the Bald
 Kaarle Suuri,Charlemagne
 Kaasu,Gas
@@ -2685,12 +2685,12 @@ Kaksisiipiset,Fly
 Kaksisirkkaiset,Dicotyledon
 Kaksisuuntainen mielialahäiriö,Bipolar disorder
 Kaksoistähti,Binary star
-Kaksoset (tähdistö),Gemini (constellation)
+Kaksoset,Gemini
 Kaktuskasvit,Cactus
 Kala,Fish
 Kalahari,Kalahari Desert
 Kalastus,Fishing
-Kalat (tähdistö),Pisces (constellation)
+Kalat,Pisces
 Kaldera,Caldera
 Kalenteri,Calendar
 Kalifi,Caliph
@@ -2705,8 +2705,8 @@ Kalkutta,Kolkata
 Kalligrafia,Calligraphy
 Kalliope,Calliope
 Kalliovuoret,Rocky Mountains
-Kallisto (kuu),Callisto (moon)
-Kallisto (mytologia),Callisto (mythology)
+Kallisto,Callisto
+Kallisto,Callisto
 Kalori,Calorie
 Kalsedoni,Chalcedony
 Kalsiitti,Calcite
@@ -2714,10 +2714,10 @@ Kalsium,Calcium
 Kalsiumkarbonaatti,Calcium carbonate
 Kalteva taso,Inclined plane
 Kalvinismi,Calvinism
-Kalypso,Calypso (mythology)
+Kalypso,Calypso
 Kambodža,Cambodia
 Kambrikausi,Cambrian
-Kameleontti (tähdistö),Chamaeleon
+Kameleontti,Chamaeleon
 Kamelit,Camel
 Kamera,Camera
 Kamerun,Cameroon
@@ -2737,7 +2737,7 @@ Kandahar,Kandahar
 Kandela,Candela
 Kanervakasvit,Ericaceae
 Kannabis,Cannabis
-Kannabis,Cannabis (drug)
+Kannabis,Cannabis
 Kannas,Isthmus
 Kannettava tietokone,Laptop
 Kannibalismi,Cannibalism
@@ -2762,22 +2762,22 @@ Kansantalous,Economics
 Kansantalous,Economy
 Kansanäänestys,Referendum
 Kansas,Kansas
-Kansas City (Missouri),Kansas City
+Kansas City,Kansas City
 Kantaatti,Cantata
 Kantasienet,Basidiomycota
 Kantasolu,Stem cell
-Kantoninkiina,Cantonese (linguistics)
+Kantoninkiina,Cantonese
 Kanuuna,Cannon
 Kap Horn,Cape Horn
 Kap Verde,Cape Verde
 Kapellimestari,Conducting
 Kapitalismi,Capitalism
 Kapkaupunki,Cape Town
-Kappa (kirjain),Kappa
+Kappa,Kappa
 Kappadokia,Cappadocia
-Kapselointi,Class (computer science)
-Karaatti,Carat (mass)
-Karaatti,Carat (purity)
+Kapselointi,Class
+Karaatti,Carat
+Karaatti,Carat
 Karachi,Karachi
 Karakorum,Karakoram
 Karambola,Carambola
@@ -2787,7 +2787,7 @@ Karaoke,Karaoke
 Karate,Karate
 Karboksyylihappo,Carboxylic acid
 Kardemumma,Cardamom
-Kardinaali,Cardinal (Catholicism)
+Kardinaali,Cardinal
 Kardinaali Richelieu,Cardinal Richelieu
 Kardiologia,Cardiology
 Karen Blixen,Karen Blixen
@@ -2808,9 +2808,9 @@ Karolingit,Carolingian dynasty
 Karpaatit,Carpathian Mountains
 Karppikalat,Cypriniformes
 Karteesinen tulo,Cartesian product
-Kartesiolainen dualismi,Dualism (philosophy of mind)
+Kartesiolainen dualismi,Dualism
 Karthago,Carthage
-Kartio,Cone (geometry)
+Kartio,Cone
 Kartioleikkaus,Conic section
 Kartografia,Cartography
 Kartta,Map
@@ -2820,14 +2820,14 @@ Kasino,Casino
 Kaskelotti,Sperm Whale
 Kaspianmeri,Caspian Sea
 Kassandra,Cassandra
-Kassiopeia (tähdistö),Cassiopeia (constellation)
+Kassiopeia,Cassiopeia
 Kastanja,Chestnut
 Kaste,Baptism
-Kaste (sääilmiö),Dew
+Kaste,Dew
 Kastepiste,Dew point
 Kastike,Sauce
 Kastilaitos,Caste
-Kastilia,Castile (historical region)
+Kastilia,Castile
 Kasvain,Tumor
 Kasvi,Plant
 Kasvihuone,Greenhouse
@@ -2857,7 +2857,7 @@ Kattohaikarat,Stork
 Kaukasia,Caucasus
 Kaukasus,Caucasus Mountains
 Kaukoputki,Telescope
-Kaukoputki (tähdistö),Telescopium
+Kaukoputki,Telescopium
 Kaunas,Kaunas
 Kaupankäynti,Trade
 Kaupunki,Town
@@ -2865,14 +2865,14 @@ Kaupunkivaltio,City-state
 Kaura,Oat
 Kaurat,Avena
 Kauriin kääntöpiiri,Tropic of Capricorn
-Kauris (tähdistö),Capricornus
+Kauris,Capricornus
 Kausaliteetti,Causality
 Kavalakärpässieni,Amanita phalloides
 Kaviaari,Caviar
 Kazakstan,Kazakhstan
 Kazan,Kazan
 Kazimir Malevitš,Kazimir Malevich
-Kefeus (tähdistö),Cepheus (constellation)
+Kefeus,Cepheus
 Kehityspsykologia,Developmental psychology
 Kehonrakennus,Bodybuilding
 Keidas,Oasis
@@ -2883,7 +2883,7 @@ Keisari,Emperor
 Keisaripingviini,Emperor Penguin
 Keitto,Soup
 Keksintö,Invention
-Kela (komponentti),Inductor
+Kela,Inductor
 Kello,Clock
 Keltainen,Yellow
 Keltainenjoki,Yellow River
@@ -2902,9 +2902,9 @@ Kengurut,Kangaroo
 Kenia,Kenya
 Kenotsooinen maailmankausi,Cenozoic
 Kenraali,General Officer
-Kent (kreivikunta),Kent
+Kent,Kent
 Kentauri,Centaurus
-Kentauri (taruolento),Centaur
+Kentauri,Centaur
 Kentucky,Kentucky
 Keraami,Ceramic
 Kerberos,Cerberus
@@ -2913,7 +2913,7 @@ Kertolasku,Multiplication
 Kertoma,Factorial
 Kerubi,Cherub
 Keski-Afrikan tasavalta,Central African Republic
-Keski-Afrikka (alue),Central Africa
+Keski-Afrikka,Central Africa
 Keski-Amerikka,Central America
 Keskiaika,Middle Ages
 Keskitysleiri,Internment
@@ -2930,28 +2930,28 @@ Kesäpäivänseisaus,Solstice
 Ketoni,Ketone
 Ketsuppi,Ketchup
 Kettu,Red Fox
-Kettu (tähdistö),Vulpecula
+Kettu,Vulpecula
 Ketšua,Quechua
 Keuhkokalat,Lungfish
 Keuhkokuume,Pneumonia
 Keuhkosyöpä,Lung cancer
 Keuhkot,Lung
-Kevät,Spring (season)
+Kevät,Spring
 Khalkedonin kirkolliskokous,Council of Chalcedon
-Khaos,Chaos (mythology)
-Kharon,Charon (moon)
-Kharon (mytologia),Charon (mythology)
+Khaos,Chaos
+Kharon,Charon
+Kharon,Charon
 Khartum,Khartoum
 Kheiron,Chiron
-Khii,Chi (letter)
-Khimaira,Chimera (mythology)
+Khii,Chi
+Khimaira,Chimera
 Khios,Chios
 Khufu,Khufu
 Kibbutz,Kibbutz
 Kidutus,Torture
 Kiehumispiste,Boiling point
 Kieli,Language
-Kieli (anatomia),Tongue
+Kieli,Tongue
 Kielioppi,Grammar
 Kielitiede,Linguistics
 Kielletty kaupunki,Forbidden City
@@ -2963,7 +2963,7 @@ Kigali,Kigali
 Kihti,Gout
 Kiihtyvyys,Acceleration
 Kiikari,Binoculars
-Kiikku (tietokonetekniikka),Flip-flop (electronics)
+Kiikku,Flip-flop
 Kiille,Mica
 Kiina,People's Republic of China
 Kiinan muuri,Great Wall of China
@@ -2972,9 +2972,9 @@ Kiinteä olomuoto,Solid
 Kiinteä olomuoto,Solid state
 Kiirastorstai,Maundy Thursday
 Kiitospäivä,Thanksgiving
-Kiitospäivä,Thanksgiving (United States)
-Kiitospäivä,Thanksgiving (Canada)
-Kiitospäivä,Thanksgiving (disambiguation)
+Kiitospäivä,Thanksgiving
+Kiitospäivä,Thanksgiving
+Kiitospäivä,Thanksgiving
 Kiitäjälinnut,Apodiformes
 Kiivit,Kiwi
 Kikherne,Chickpea
@@ -2990,7 +2990,7 @@ Kiltalaitos,Guild
 Kimalaiset,Bumblebee
 Kimono,Kimono
 Kinematiikka,Kinematics
-Kingston (Jamaika),Kingston
+Kingston,Kingston
 Kingstown,Kingstown
 Kinshasa,Kinshasa
 Kioto,Kyoto
@@ -3000,7 +3000,7 @@ Kirahvieläimet,Giraffidae
 Kirgisia,Kyrgyzstan
 Kiribati,Kiribati
 Kirja,Book
-Kirjain,Letter (alphabet)
+Kirjain,Letter
 Kirjallisuus,Literature
 Kirjanpito,Accountancy
 Kirjapainotaito,Printing
@@ -3010,7 +3010,7 @@ Kirje roomalaisille,Epistle to the Romans
 Kirjoituskone,Typewriter
 Kirke,Circe
 Kirkko,Church
-Kirkko (rakennus),Church (building)
+Kirkko,Church
 Kirkkovaltio,Papal States
 Kirkonopettaja,Doctor of the Church
 Kirkuk,Kirkuk
@@ -3028,7 +3028,7 @@ Kitka,Friction
 Kivennäisvesi,Mineral water
 Kives,Testicle
 Kivespussi,Scrotum
-Kivi,Rock (geology)
+Kivi,Rock
 "Kivi, paperi ja sakset",Rock
 Kivihiili,Coal
 Kivihiilikausi,Carboniferous
@@ -3036,10 +3036,10 @@ Kivikausi,Stone Age
 Klarinetti,Clarinet
 Klassinen mekaniikka,Classical mechanics
 Klassinen utilitarismi,Utilitarianism
-Klassismi (kuvataide),Classicism
+Klassismi,Classicism
 Klaudios Ptolemaios,Ptolemy
 Kleio,Clio
-Kleopatra,Cleopatra (disambiguation)
+Kleopatra,Cleopatra
 Klimatologia,Climatology
 Klodvig,Clovis I
 Kloonaus,Cloning
@@ -3081,7 +3081,7 @@ Kolme pistettä,Ellipsis
 Kolmikymmenvuotinen sota,Thirty Years' War
 Kolminaisuusoppi,Trinity
 Kolmio,Triangle
-Kolmio (tähdistö),Triangulum
+Kolmio,Triangulum
 Kolumbia,Colombia
 Komedia,Comedy
 Komeetta,Comet
@@ -3089,10 +3089,10 @@ Kommunismi,Communism
 Komodonvaraani,Komodo dragon
 Komorit,Comoros
 Kompassi,Compass
-Kompassi (tähdistö),Pyxis
+Kompassi,Pyxis
 Kompleksiluku,Complex number
 Komposiitti,Composite material
-Komppania,Company (military unit)
+Komppania,Company
 Kondensaattori,Capacitor
 Kondomi,Condom
 Kone,Machine
@@ -3102,10 +3102,10 @@ Konekääntäminen,Machine translation
 Konetekniikka,Mechanical engineering
 Konflikti,Conflict
 Kongo,Congo
-Kongo (joki),Congo River
+Kongo,Congo River
 Kongon demokraattinen tasavalta,Democratic Republic of the Congo
 Kongon tasavalta,Republic of the Congo
-Konjakki,Cognac (drink)
+Konjakki,Cognac
 Konkistadori,Conquistador
 Konqueror,Konqueror
 Konrad Adenauer,Konrad Adenauer
@@ -3122,7 +3122,7 @@ Kontrabasso,Double bass
 Kontrapunkti,Counterpoint
 Konvektio,Convection
 Kookospalmu,Coconut
-Kookossaaret,Cocos (Keeling) Islands
+Kookossaaret,Cocos  Islands
 Kooma,Coma
 Koordinaatisto,Coordinate system
 Koordinaatisto#Suorakulmainen koordinaatisto,Cartesian coordinate system
@@ -3139,7 +3139,7 @@ Koripallo,Basketball
 Korkeakulttuuri,Civilization
 Korkeapaine,Anticyclone
 Korko,Interest
-Korppi (tähdistö),Corvus (constellation)
+Korppi,Corvus
 Korroosio,Corrosion
 Korsika,Corsica
 Kortteet,Equisetum
@@ -3157,7 +3157,7 @@ Kosovo,Kosovo
 Kotieläin,Domestication
 Kotihiiri,House Mouse
 Kotilot,Gastropoda
-Kotka (tähdistö),Aquila (constellation)
+Kotka,Aquila
 Kotkat,Eagle
 Kotoperäisyys,Endemism
 Koulu,School
@@ -3166,8 +3166,8 @@ Kovakuoriaiset,Beetle
 Kovalenttinen sidos,Covalent bond
 Kovuus,Hardness
 Krakatau,Krakatoa
-Kranaatinheitin,Mortar (weapon)
-Krapu,Cancer (constellation)
+Kranaatinheitin,Mortar
+Krapu,Cancer
 Kravun kääntöpiiri,Tropic of Cancer
 Kreationismi,Creationism
 Kreeta,Crete
@@ -3202,7 +3202,7 @@ Ku Klux Klan,Ku Klux Klan
 Kuala Lumpur,Kuala Lumpur
 Kubismi,Cubism
 Kublai-kaani,Kublai Khan
-Kudos,Tissue (biology)
+Kudos,Tissue
 Kudosoppi,Histology
 Kuiperin vyöhyke,Kuiper belt
 Kuivuuskausi,Drought
@@ -3210,20 +3210,20 @@ Kukka,Flower
 Kukkakaali,Cauliflower
 Kulma,Angle
 Kulmanopeus,Angular velocity
-Kulmaviivoitin (tähdistö),Norma (constellation)
+Kulmaviivoitin,Norma
 Kulta,Gold
 Kultainen orda,Golden Horde
 Kultainennoutaja,Golden Retriever
-Kultakala (tähdistö),Dorado
+Kultakala,Dorado
 Kultapanda,Red Panda
 Kulttuuri,Culture
 Kulttuurivallankumous,Cultural Revolution
-Kulutus,Consumption (economics)
+Kulutus,Consumption
 Kumi,Rubber
 Kumkvatti,Kumquat
 Kummitus,Ghost
 Kumpupilvi,Cumulus cloud
-Kung fu,Kung fu (term)
+Kung fu,Kung fu
 Kungfutse,Confucius
 Kungfutselaisuus,Confucianism
 Kuningas Arthur,King Arthur
@@ -3231,8 +3231,8 @@ Kuningas Lear,King Lear
 Kuningasvesi,Aqua regia
 Kunlun,Kunlun Mountains
 Kunta,Municipality
-Kunta (biologia),Kingdom (biology)
-Kunta (matematiikka),Field (mathematics)
+Kunta,Kingdom
+Kunta,Field
 Kuolan niemimaa,Kola Peninsula
 Kuolema,Death
 Kuolemanrangaistus,Capital punishment
@@ -3247,8 +3247,8 @@ Kuppa,Syphilis
 Kura,Kura River
 Kurdistan,Kurdistan
 Kurdistanin työväenpuolue,Kurdistan Workers Party
-Kurki,Crane (bird)
-Kurki (tähdistö),Grus (constellation)
+Kurki,Crane
+Kurki,Grus
 Kurkilinnut,Gruiformes
 Kurkku,Cucumber
 Kurkkukasvit,Cucurbitaceae
@@ -3271,10 +3271,10 @@ Kuutio,Cube
 Kuutiometri,Cubic metre
 Kuvanlukija,Image scanner
 Kuvanveisto,Sculpture
-Kuvanveistäjä (tähdistö),Sculptor (constellation)
+Kuvanveistäjä,Sculptor
 Kuvitteellinen hahmo,Fictional character
 Kuwait,Kuwait
-Kuwait (kaupunki),Kuwait City
+Kuwait,Kuwait City
 Kvanttikenttäteoria,Quantum field theory
 Kvanttimekaniikka,Quantum mechanics
 Kvarkki,Quark
@@ -3291,20 +3291,20 @@ Kybernetiikka,Cybernetics
 Kyberpunk,Cyberpunk
 Kyhmyjoutsen,Mute Swan
 Kykladit,Cyclades
-Kyklooppi (mytologia),Cyclops
+Kyklooppi,Cyclops
 Kylkiluu,Rib
 Kylmä sota,Cold War
 Kylä,Village
 Kymmenen käskyä,Ten Commandments
 Kymmenjärjestelmä,Decimal
-Kynsi,Nail (anatomy)
+Kynsi,Nail
 Kynttilä,Candle
 Kyproksen tasavalta,Cyprus
 Kyrillinen kirjaimisto,Cyrillic alphabet
 Kystinen fibroosi,Cystic fibrosis
 Kysymysmerkki,Question mark
 Kyyhkylinnut,Columbiformes
-Kyyhkynen (tähdistö),Columba (constellation)
+Kyyhkynen,Columba
 Kyyhkyt,Columbidae
 Kyyros II Suuri,Cyrus the Great
 Kädelliset,Primate
@@ -3314,23 +3314,23 @@ Kämmentietokone,Personal digital assistant
 Käsi,Hand
 Käsikirjoitus,Manuscript
 Käsikranaatti,Hand grenade
-Käyminen,Fermentation (biochemistry)
-Käyminen,Fermentation (food)
+Käyminen,Fermentation
+Käyminen,Fermentation
 Käyrä,Curve
-Käyrätorvi,Horn (instrument)
+Käyrätorvi,Horn
 Käyttäytymistiede,Behaviorism
 Käyttöjärjestelmä,Operating system
-Käyttöjärjestelmän ydin,Kernel (computer science)
-Käärme (tähdistö),Serpens
+Käyttöjärjestelmän ydin,Kernel
+Käärme,Serpens
 Käärmeenkantaja,Ophiuchus
 Käärmeet,Snake
-Köli (tähdistö),Carina (constellation)
+Köli,Carina
 Köln,Cologne
 Köyhyys,Poverty
 Kööpenhamina,Copenhagen
 Kōbe,Kobe
 L,L
-LAMP (tietotekniikka),LAMP (software bundle)
+LAMP,LAMP
 LED,Light-emitting diode
 LSD,Lysergic acid diethylamide
 La Paz,La Paz
@@ -3347,7 +3347,7 @@ Laava,Lava
 Laboratorio,Laboratory
 Labradorinnoutaja,Labrador Retriever
 Lagos,Lagos
-Lahko (uskonto),Sect
+Lahko,Sect
 Lahore,Lahore
 Lainasana,Loanword
 Laissez-faire,Laissez-faire
@@ -3386,7 +3386,7 @@ Latium,Lazio
 Latva-artisokka,Globe artichoke
 Latvia,Latvia
 Lauantai,Saturday
-Laulu (teos),Song
+Laulu,Song
 Laulujen laulu,Song of Solomon
 Lauraasia,Laurasia
 Lausanne,Lausanne
@@ -3394,7 +3394,7 @@ Lautapeli,Board game
 Lawrencium,Lawrencium
 Le Corbusier,Le Corbusier
 Le Havre,Le Havre
-Leda,Leda (mythology)
+Leda,Leda
 Lee Harvey Oswald,Lee Harvey Oswald
 Leeds,Leeds
 Legenda,Legend
@@ -3402,7 +3402,7 @@ Legioona,Roman legion
 Lego,Lego
 Lehmukset,Tilia
 Lehmähaikara,Cattle Egret
-Lehti (kasvitiede),Leaf
+Lehti,Leaf
 Lehtikuuset,Larch
 Lehtisammalet,Moss
 Lehtivihreä,Chlorophyll
@@ -3411,8 +3411,8 @@ Leicester,Leicester
 Leiden,Leiden
 Leija,Kite
 Leijona,Lion
-Leijona (tähdistö),Leo (constellation)
-Leikkaus (matematiikka),Intersection (set theory)
+Leijona,Leo
+Leikkaus,Intersection
 Leinikkikasvit,Ranunculaceae
 Leipzig,Leipzig
 Leipä,Bread
@@ -3421,20 +3421,20 @@ Lelu,Toy
 Lena,Lena River
 Lennätin,Telegraphy
 Lentoasema,Airport
-Lentokala (tähdistö),Volans
+Lentokala,Volans
 Lentokone,Aircraft
 Lentoliskot,Pterosaur
 Lentopallo,Volleyball
 Lentotukialus,Aircraft carrier
 Lentoyhtiö,Airline
-Leo I,Leo I (emperor)
+Leo I,Leo I
 Leonard Bernstein,Leonard Bernstein
 Leonardo da Vinci,Leonardo da Vinci
 Leonhard Euler,Leonhard Euler
 Leonid Brežnev,Leonid Brezhnev
 Leopardi,Leopard
 Lepakot,Bat
-Lepanton taistelu,Battle of Lepanto (1571)
+Lepanton taistelu,Battle of Lepanto
 Leppäkertut,Coccinellidae
 Lepra,Leprosy
 Leptoni,Lepton
@@ -3460,7 +3460,7 @@ Libretto,Libretto
 Libreville,Libreville
 Libya,Libya
 Liechtenstein,Liechtenstein
-Lieriö,Cylinder (geometry)
+Lieriö,Cylinder
 Liettua,Lithuania
 Liguria,Liguria
 Ligurianmeri,Ligurian Sea
@@ -3468,7 +3468,7 @@ Liha,Meat
 Lihansyöjä,Carnivore
 Lihansyöjäkasvi,Carnivorous plant
 Lihaskudokset,Muscle
-Liike (fysiikka),Motion (physics)
+Liike,Motion
 Liike-energia,Kinetic energy
 Liikemäärä,Momentum
 Liikevoitto,Profit
@@ -3484,9 +3484,9 @@ Lilongwe,Lilongwe
 Lima,Lima
 Limerick,Limerick
 Limnologia,Limnology
-Limousin,Limousin (region)
+Limousin,Limousin
 Lincoln,Lincoln
-Lincoln (Nebraska),Lincoln
+Lincoln,Lincoln
 Lincolnshire,Lincolnshire
 Lineaarialgebra,Linear algebra
 Lingua franca,Lingua franca
@@ -3494,8 +3494,8 @@ Linja-auto,Bus
 Linna,Castle
 Linnunrata,Milky Way
 Linnut,Bird
-Linssi (kasvi),Lentil
-Linssi (optiikka),Lens (optics)
+Linssi,Lentil
+Linssi,Lens
 Linus Pauling,Linus Pauling
 Linux,Linux
 Linz,Linz
@@ -3503,7 +3503,7 @@ Lipidi,Lipid
 Lippu,Flag
 Lise Meitner,Lise Meitner
 Liskot,Lizard
-Lisp,Lisp (programming language)
+Lisp,Lisp
 Lissabon,Lisbon
 Lisäaine,Food additive
 Lisämunuainen,Adrenal gland
@@ -3526,14 +3526,14 @@ Logistiikka,Logistics
 Logo,Logo
 Lohikalat,Salmonidae
 Lohikäärme,Dragon
-Lohikäärme (tähdistö),Draco (constellation)
-Lohkoliikunnot,Fault (geology)
-Loinen (biologia),Parasitism
+Lohikäärme,Draco
+Lohkoliikunnot,Fault
+Loinen,Parasitism
 Loire,Loire River
-Loire (departementti),Loire
+Loire,Loire
 Lokakuu,October
 Lokakuun vallankumous,October Revolution
-Loki (jumala),Loki
+Loki,Loki
 Lokit,Gull
 Lolita,Lolita
 Loma,Holiday
@@ -3544,10 +3544,10 @@ Lontoo,London
 Lontoon Tower,Tower of London
 Looginen portti,Logic gate
 Lope de Vega,Lope de Vega
-Loppiainen,Epiphany (Christian)
+Loppiainen,Epiphany
 Los Angeles,Los Angeles
-Lot (departementti),Lot (department)
-Lothringen,Lorraine (region)
+Lot,Lot
+Lothringen,Lorraine
 Louis Aragon,Louis Aragon
 Louis Armstrong,Louis Armstrong
 Louis Braille,Louis Braille
@@ -3584,630 +3584,630 @@ Luminesenssi,Luminescence
 Lumivyöry,Avalanche
 Lund,Lund
 Luokka,Class
-Luokka (biologia),Class (biology)
-Luokka:1750-luku,1750s
-Luokka:1760-luku,1760s
-Luokka:1770-luku,1770s
-Luokka:1780-luku,1780s
-Luokka:1790-luku,1790s
-Luokka:1820-luku,1820s
-Luokka:1830-luku,1830s
-Luokka:1840-luku,1840s
-Luokka:1860-luku,1860s
-Luokka:1870-luku,1870s
-Luokka:1880-luku,1880s
-Luokka:1890-luku,1890s
-Luokka:1900-vuosikymmen,1900s
-Luokka:1920-luku,1920s
-Luokka:1930-luku,1930s
-Luokka:1940-luku,1940s
-Luokka:1950-luku,1950s
-Luokka:1960-luku,1960s
-Luokka:1970-luku,1970s
-Luokka:1980-luku,1980s
-Luokka:1990-luku,1990s
-Luokka:Aasia,Asia
-Luokka:Aateli,Nobility
-Luokka:Aavikot,Deserts
-Luokka:Afganistan,Afghanistan
-Luokka:Afrikka,Africa
-Luokka:Aika,Time
-Luokka:Akustiikka,Acoustics
-Luokka:Alabama,Alabama
-Luokka:Alankomaalaiset henkilöt,Dutch people
-Luokka:Alankomaat,Netherlands
-Luokka:Alaska,Alaska
-Luokka:Albania,Albania
-Luokka:Alberta,Alberta
-Luokka:Algebra,Algebra
-Luokka:Algeria,Algeria
-Luokka:Alkemia,Alchemy
-Luokka:Alkueliöt,Protista
-Luokka:Alpit,Alps
-Luokka:Amerikkalainen jalkapallo,American football
-Luokka:Amsterdam,Amsterdam
-Luokka:Anarkismi,Anarchism
-Luokka:Anatomia,Anatomy
-Luokka:Andorra,Andorra
-Luokka:Angola,Angola
-Luokka:Anime,Anime
-Luokka:Antigua ja Barbuda,Antigua and Barbuda
-Luokka:Antiikki,Ancient history
-Luokka:Antisemitismi,Antisemitism
-Luokka:Antropologia,Anthropology
-Luokka:Apollo-ohjelma,Apollo program
-Luokka:Arabiemiirikunnat,United Arab Emirates
-Luokka:Argentiina,Argentina
-Luokka:Aritmetiikka,Arithmetic
-Luokka:Arizona,Arizona
-Luokka:Arkansas,Arkansas
-Luokka:Arkeologia,Archaeology
-Luokka:Arkkitehtuuri,Architecture
-Luokka:Armenia,Armenia
-Luokka:Aruba,Aruba
-Luokka:Assyria,Assyria
-Luokka:Asterikasvit,Asteraceae
-Luokka:Astrofysiikka,Astrophysics
-Luokka:Astrologia,Astrology
-Luokka:Ateismi,Atheism
-Luokka:Atlantin valtameri,Atlantic Ocean
-Luokka:Atomifysiikka,Atomic physics
-Luokka:Aurinko,Sun
-Luokka:Aurinkokunta,Solar System
-Luokka:Australia,Australia
-Luokka:Azerbaidžan,Azerbaijan
-Luokka:Bahama,Bahamas
-Luokka:Bahrain,Bahrain
-Luokka:Bakteerit,Bacteria
-Luokka:Baletti,Ballet
-Luokka:Bangladesh,Bangladesh
-Luokka:Barbados,Barbados
-Luokka:Barcelona,Barcelona
-Luokka:Baseball,Baseball
-Luokka:Belgia,Belgium
-Luokka:Belize,Belize
-Luokka:Benin,Benin
-Luokka:Berliini,Berlin
-Luokka:Bermuda,Bermuda
-Luokka:Bhutan,Bhutan
-Luokka:Biokemia,Biochemistry
-Luokka:Biologia,Biology
-Luokka:Biotekniikka,Biotechnology
-Luokka:Bolivia,Bolivia
-Luokka:Bosnia ja Hertsegovina,Bosnia and Herzegovina
-Luokka:Botswana,Botswana
-Luokka:Brasilia,Brazil
-Luokka:Brittiläiset henkilöt,British people
-Luokka:Brunei,Brunei
-Luokka:Buddhalaisuus,Buddhism
-Luokka:Bulgaria,Bulgaria
-Luokka:Burkina Faso,Burkina Faso
-Luokka:Burundi,Burundi
-Luokka:Bysantin valtakunta,Byzantine Empire
-Luokka:Chile,Chile
-Luokka:Colorado,Colorado
-Luokka:Connecticut,Connecticut
-Luokka:Costa Rica,Costa Rica
-Luokka:Delaware,Delaware
-Luokka:Djibouti,Djibouti
-Luokka:Dominica,Dominica
-Luokka:Dominikaaninen tasavalta,Dominican Republic
-Luokka:Ecuador,Ecuador
-Luokka:Egypti,Egypt
-Luokka:Ekologia,Ecology
-Luokka:El Salvador,El Salvador
-Luokka:Elektroniikka,Electronics
-Luokka:Elokuvataide,Film
-Luokka:Eläintiede,Zoology
-Luokka:Elämä,Life
-Luokka:Endokrinologia,Endocrinology
-Luokka:Energia,Energy
-Luokka:Englannin kieli,English language
-Luokka:Englanti,England
-Luokka:Englantilaiset henkilöt,English people
-Luokka:Ensimmäinen maailmansota,World War I
-Luokka:Entomologia,Entomology
-Luokka:Epäorgaaninen kemia,Inorganic chemistry
-Luokka:Eritrea,Eritrea
-Luokka:Esihistoria,Prehistory
-Luokka:Espanja,Spain
-Luokka:Espanjalaiset henkilöt,Spanish people
-Luokka:Esperanto,Esperanto
-Luokka:Etelä-Afrikka,South Africa
-Luokka:Etelä-Amerikka,South America
-Luokka:Etelä-Carolina,South Carolina
-Luokka:Etelä-Dakota,South Dakota
-Luokka:Etelä-Korea,South Korea
-Luokka:Etiikka,Ethics
-Luokka:Etiopia,Ethiopia
-Luokka:Euroopan unioni,European Union
-Luokka:Eurooppa,Europe
-Luokka:Feminismi,Feminism
-Luokka:Fidži,Fiji
-Luokka:Filippiinit,Philippines
-Luokka:Filologia,Philology
-Luokka:Filosofia,Philosophy
-Luokka:Florida,Florida
-Luokka:Fonetiikka,Phonetics
-Luokka:Frankfurt am Main,Frankfurt
-Luokka:Fysiikka,Physics
-Luokka:Fysikaalinen kemia,Physical chemistry
-Luokka:Fysiologia,Physiology
-Luokka:Färsaaret,Faroe Islands
-Luokka:Gabon,Gabon
-Luokka:Gambia,The Gambia
-Luokka:Geodesia,Geodesy
-Luokka:Geofysiikka,Geophysics
-Luokka:Geologia,Geology
-Luokka:Geometria,Geometry
-Luokka:Geomorfologia,Geomorphology
-Luokka:Georgia,Georgia (country)
-Luokka:Georgia (osavaltio),Georgia (U.S. state)
-Luokka:Ghana,Ghana
-Luokka:Gibraltar,Gibraltar
-Luokka:Golf,Golf
-Luokka:Google,Google
-Luokka:Graafinen suunnittelu,Graphic design
-Luokka:Grenada,Grenada
-Luokka:Grönlanti,Greenland
-Luokka:Guatemala,Guatemala
-Luokka:Guinea,Guinea
-Luokka:Guinea-Bissau,Guinea-Bissau
-Luokka:Guyana,Guyana
-Luokka:Haiti,Haiti
-Luokka:Hammaslääketiede,Dentistry
-Luokka:Hampuri,Hamburg
-Luokka:Havaiji,Hawaii
-Luokka:Hedelmät,Fruit
-Luokka:Henkilöt,People
-Luokka:Heraldiikka,Heraldry
-Luokka:Hermosto,Nervous system
-Luokka:Hindulaisuus,Hinduism
-Luokka:Histologia,Histology
-Luokka:Historia,History
-Luokka:Hiukkasfysiikka,Particle physics
-Luokka:Honduras,Honduras
-Luokka:Hongkong,Hong Kong
-Luokka:Humanistiset tieteet,Humanities
-Luokka:Huonekalut,Furniture
-Luokka:Huumori,Humor
-Luokka:Hydrologia,Hydrology
-Luokka:Hygienia,Hygiene
-Luokka:Idaho,Idaho
-Luokka:Illinois,Illinois
-Luokka:Ilmailu,Aviation
-Luokka:Ilmasto,Climate
-Luokka:Immunologia,Immunology
-Luokka:Indiana,Indiana
-Luokka:Indonesia,Indonesia
-Luokka:Internet,Internet
-Luokka:Intia,India
-Luokka:Intian valtameri,Indian Ocean
-Luokka:Iowa,Iowa
-Luokka:Irak,Iraq
-Luokka:Iran,Iran
-Luokka:Irlanti,Republic of Ireland
-Luokka:Irlanti,Ireland
-Luokka:Irlantilaiset henkilöt,Irish people
-Luokka:Islam,Islam
-Luokka:Islanti,Iceland
-Luokka:Israel,Israel
-Luokka:Istanbul,Istanbul
-Luokka:Italia,Italy
-Luokka:Itä-Timor,East Timor
-Luokka:Itävalta,Austria
-Luokka:Jalkapallo,Football (soccer)
-Luokka:Jalkapallo maittain,Football (soccer) by country
-Luokka:Jalkapalloilijat,Football (soccer) players
-Luokka:Jalkapalloseurat,Football (soccer) clubs
-Luokka:Jalkapallostadionit,Football (soccer) venues
-Luokka:Jalkapallovalmentajat,Football (soccer) managers
-Luokka:Jamaika,Jamaica
-Luokka:Japani,Japan
-Luokka:Jazz,Jazz
-Luokka:Jemen,Yemen
-Luokka:Jerusalem,Jerusalem
-Luokka:Jordania,Jordan
-Luokka:Joukko-oppi,Set theory
-Luokka:Joulu,Christmas
-Luokka:Journalismi,Journalism
-Luokka:Jugoslavia,Yugoslavia
-Luokka:Jupiter,Jupiter
-Luokka:Juutalaisuus,Judaism
-Luokka:Jääkiekko,Ice hockey
-Luokka:Kahvi,Coffee
-Luokka:Kaksisirkkaiset,Magnoliopsida
-Luokka:Kalastus,Fishing
-Luokka:Kalat,Fish
-Luokka:Kalifornia,California
-Luokka:Kambodža,Cambodia
-Luokka:Kamerun,Cameroon
-Luokka:Kanada,Canada
-Luokka:Kanalinnut,Galliformes
-Luokka:Kanariansaaret,Canary Islands
-Luokka:Kansallissosialismi,Nazism
-Luokka:Kansanmurhat,Genocide
-Luokka:Kansanperinne,Folklore
-Luokka:Kansas,Kansas
-Luokka:Kansatiede,Ethnology
-Luokka:Kap Verde,Cape Verde
-Luokka:Kardiologia,Cardiology
-Luokka:Karibia,Caribbean
-Luokka:Kartografia,Cartography
-Luokka:Kasvitiede,Botany
-Luokka:Katalonia,Catalonia
-Luokka:Kaukasia,Caucasus
-Luokka:Kauppa,Commerce
-Luokka:Kazakstan,Kazakhstan
-Luokka:Kemia,Chemistry
-Luokka:Kenia,Kenya
-Luokka:Kentucky,Kentucky
-Luokka:Keski-Afrikan tasavalta,Central African Republic
-Luokka:Keskiaika,Middle Ages
-Luokka:Kielioppi,Grammar
-Luokka:Kielitiede,Linguistics
-Luokka:Kiina,China
-Luokka:Kirgisia,Kyrgyzstan
-Luokka:Kiribati,Kiribati
-Luokka:Kirjallisuus,Literature
-Luokka:Kirjanpito,Accountancy
-Luokka:Kirurgia,Surgery
-Luokka:Klimatologia,Climatology
-Luokka:Koisokasvit,Solanaceae
-Luokka:Kolumbia,Colombia
-Luokka:Kommunismi,Communism
-Luokka:Komorit,Comoros
-Luokka:Konetekniikka,Mechanical engineering
-Luokka:Kongon demokraattinen tasavalta,Democratic Republic of the Congo
-Luokka:Kongon tasavalta,Republic of the Congo
-Luokka:Korea,Korea
-Luokka:Koripallo,Basketball
-Luokka:Kosmologia,Cosmology
-Luokka:Kosovo,Kosovo
-Luokka:Koulutus,Education
-Luokka:Kreikka,Greece
-Luokka:Kreikkalainen mytologia,Greek mythology
-Luokka:Kreikkalaiset kirjaimet,Greek alphabet
-Luokka:Kriminologia,Criminology
-Luokka:Kristallografia,Crystallography
-Luokka:Kristinusko,Christianity
-Luokka:Kroatia,Croatia
-Luokka:Kronologia,Chronology
-Luokka:Kulttuuri,Culture
-Luokka:Kuolema,Death
-Luokka:Kurdistan,Kurdistan
-Luokka:Kuuba,Cuba
-Luokka:Kuvanveistotaide,Sculpture
-Luokka:Kuwait,Kuwait
-Luokka:Kvanttimekaniikka,Quantum mechanics
-Luokka:Kylmä sota,Cold War
-Luokka:Kypros,Cyprus
-Luokka:Kyyhkylinnut,Columbiformes
-Luokka:Laos,Laos
-Luokka:Latvia,Latvia
-Luokka:Lentokoneet,Aircraft
-Luokka:Lentopallo,Volleyball
-Luokka:Lepakot,Bats
-Luokka:Lesotho,Lesotho
-Luokka:Libanon,Lebanon
-Luokka:Liberalismi,Liberalism
-Luokka:Liberia,Liberia
-Luokka:Libya,Libya
-Luokka:Liechtenstein,Liechtenstein
-Luokka:Liettua,Lithuania
-Luokka:Liikemiehet,Businesspeople
-Luokka:Liikenne,Transportation
-Luokka:Lineaarialgebra,Linear algebra
-Luokka:Linux,Linux
-Luokka:Logiikka,Logic
-Luokka:Lontoo,London
-Luokka:Louisiana,Louisiana
-Luokka:Luonto,Nature
-Luokka:Luut,Skeletal system
-Luokka:Luxemburg,Luxembourg
-Luokka:Lähi-itä,Middle East
-Luokka:Länsi-Sahara,Western Sahara
-Luokka:Länsi-Virginia,West Virginia
-Luokka:Lääkeaineoppi,Pharmacology
-Luokka:Lääketiede,Medicine
-Luokka:Maa,Earth
-Luokka:Maanpuolustus,Military
-Luokka:Maantiede,Geography
-Luokka:Maatalous,Agriculture
-Luokka:Madagaskar,Madagascar
-Luokka:Magnetismi,Magnetism
-Luokka:Maine,Maine
-Luokka:Makrotaloustiede,Macroeconomics
-Luokka:Malawi,Malawi
-Luokka:Malediivit,Maldives
-Luokka:Malesia,Malaysia
-Luokka:Mali,Mali
-Luokka:Malta,Malta
-Luokka:Mansaari,Isle of Man
-Luokka:Markkinointi,Marketing
-Luokka:Marokko,Morocco
-Luokka:Mars,Mars
-Luokka:Marshallinsaaret,Marshall Islands
-Luokka:Marxismi,Marxism
-Luokka:Maryland,Maryland
-Luokka:Massachusetts,Massachusetts
-Luokka:Matemaattinen logiikka,Mathematical logic
-Luokka:Matematiikka,Mathematics
-Luokka:Matkailu,Tourism
-Luokka:Mauritania,Mauritania
-Luokka:Mauritius,Mauritius
-Luokka:Mehiläisten hoito,Beekeeping
-Luokka:Mekaniikka,Mechanics
-Luokka:Meksiko,Mexico
-Luokka:Meritiede,Oceanography
-Luokka:Mesopotamiatyngät,Mesopotamia
-Luokka:Metallimusiikki,Heavy metal
-Luokka:Metallurgia,Metallurgy
-Luokka:Meteorologia,Meteorology
-Luokka:Michigan,Michigan
-Luokka:Mikrobiologia,Microbiology
-Luokka:Mikronesian liittovaltio,Federated States of Micronesia
-Luokka:Mikrotaloustiede,Microeconomics
-Luokka:Mineralogia,Mineralogy
-Luokka:Minnesota,Minnesota
-Luokka:Mississippi,Mississippi
-Luokka:Missouri,Missouri
-Luokka:Moldova,Moldova
-Luokka:Molekyylibiologia,Molecular biology
-Luokka:Monaco,Monaco
-Luokka:Monarkia,Monarchy
-Luokka:Mongolia,Mongolia
-Luokka:Montana,Montana
-Luokka:Montenegro,Montenegro
-Luokka:Mosambik,Mozambique
-Luokka:Moskova,Moscow
-Luokka:Muoti,Fashion
-Luokka:Muotoilu,Design
-Luokka:Musiikki,Music
-Luokka:Myanmar,Burma
-Luokka:Myanmar,Myanmar
-Luokka:Mytologia,Mythology
-Luokka:NATO,NATO
-Luokka:Namibia,Namibia
-Luokka:Nationalismi,Nationalism
-Luokka:Natsi-Saksa,Nazi Germany
-Luokka:Nauru,Nauru
-Luokka:Navigointi,Navigation
-Luokka:Nebraska,Nebraska
-Luokka:Nepal,Nepal
-Luokka:Neurologia,Neurology
-Luokka:Neuvostoliitto,Soviet Union
-Luokka:Nevada,Nevada
-Luokka:New Hampshire,New Hampshire
-Luokka:New Jersey,New Jersey
-Luokka:New Mexico,New Mexico
-Luokka:New York,New York
-Luokka:New York (kaupunki),New York City
-Luokka:Nicaragua,Nicaragua
-Luokka:Niger,Niger
-Luokka:Nigeria,Nigeria
-Luokka:Nobel-palkinto,Nobel Prize
-Luokka:Norja,Norway
-Luokka:Numerot,Numbers
-Luokka:Numismatiikka,Numismatics
-Luokka:Nyrkkeilijät,Boxers
-Luokka:Nyrkkeily,Boxing
-Luokka:Näennäistiede,Pseudoscience
-Luokka:Ohio,Ohio
-Luokka:Ohjelmistot,Software
-Luokka:Ohjelmointi,Computer programming
-Luokka:Oikeustiede,Law
-Luokka:Oklahoma,Oklahoma
-Luokka:Olut,Beer
-Luokka:Olympiaurheilu,Olympics
-Luokka:Oman,Oman
-Luokka:Ontario,Ontario
-Luokka:Optiikka,Optics
-Luokka:Oregon,Oregon
-Luokka:Orgaaninen kemia,Organic chemistry
-Luokka:Ornitologia,Ornithology
-Luokka:Oseania,Oceania
-Luokka:Osmanien valtakunta,Ottoman Empire
-Luokka:Pakistan,Pakistan
-Luokka:Palau,Palau
-Luokka:Paleontologia,Paleontology
-Luokka:Palestiina,Palestine
-Luokka:Panama,Panama
-Luokka:Pankit,Banks
-Luokka:Papua-Uusi-Guinea,Papua New Guinea
-Luokka:Paraguay,Paraguay
-Luokka:Pariisi,Paris
-Luokka:Pennsylvania,Pennsylvania
-Luokka:Perhe,Family
-Luokka:Perinnöllisyystiede,Genetics
-Luokka:Peru,Peru
-Luokka:Pietari,Saint Petersburg
-Luokka:Pistiäiset,Hymenoptera
-Luokka:Pohjois-Amerikka,North America
-Luokka:Pohjois-Carolina,North Carolina
-Luokka:Pohjois-Dakota,North Dakota
-Luokka:Pohjois-Irlanti,Northern Ireland
-Luokka:Pohjois-Korea,North Korea
-Luokka:Politiikka,Politics
-Luokka:Portugali,Portugal
-Luokka:Postimerkkeily,Philately
-Luokka:Praha,Prague
-Luokka:Psykiatria,Psychiatry
-Luokka:Psykologia,Psychology
-Luokka:Puerto Rico,Puerto Rico
-Luokka:Punk,Punk
-Luokka:Puola,Poland
-Luokka:Pyhä saksalais-roomalainen keisarikunta,Holy Roman Empire
-Luokka:Pyökkikasvit,Fagaceae
-Luokka:Pyöräily,Cycling
-Luokka:Päiväntasaajan Guinea,Equatorial Guinea
-Luokka:Pääluokat,Fundamental
-Luokka:Qatar,Qatar
-Luokka:Québec,Quebec
-Luokka:Raamattu,Bible
-Luokka:Radio,Radio
-Luokka:Rahoitus,Finance
-Luokka:Ranska,France
-Luokka:Ranskalaiset henkilöt,French people
-Luokka:Ranskan Polynesia,French Polynesia
-Luokka:Ranskan suuri vallankumous,French Revolution
-Luokka:Rasismi,Racism
-Luokka:Ravinto-oppi,Nutrition
-Luokka:Renessanssi,Renaissance
-Luokka:Retoriikka,Rhetoric
-Luokka:Rhode Island,Rhode Island
-Luokka:Rock,Rock music
-Luokka:Romania,Romania
-Luokka:Rooma,Rome
-Luokka:Roomalainen mytologia,Roman mythology
-Luokka:Ruanda,Rwanda
-Luokka:Runous,Poetry
-Luokka:Ruoansulatuselimistö,Digestive system
-Luokka:Ruotsi,Sweden
-Luokka:Saint Kitts ja Nevis,Saint Kitts and Nevis
-Luokka:Saint Lucia,Saint Lucia
-Luokka:Saint Vincent ja Grenadiinit,Saint Vincent and the Grenadines
-Luokka:Saksa,Germany
-Luokka:Salakirjoitustekniikka,Cryptography
-Luokka:Salmet,Straits
-Luokka:Salomonsaaret,Solomon Islands
-Luokka:Sambia,Zambia
-Luokka:Samoa,Samoa
-Luokka:San Marino,San Marino
-Luokka:Saudi-Arabia,Saudi Arabia
-Luokka:Seismologia,Seismology
-Luokka:Seksuaalisuus,Sexuality
-Luokka:Semantiikka,Semantics
-Luokka:Senegal,Senegal
-Luokka:Serbia,Serbia
-Luokka:Serbia ja Montenegro,Serbia and Montenegro
-Luokka:Seychellit,Seychelles
-Luokka:Shakki,Chess
-Luokka:Sienet,Fungi
-Luokka:Sienitiede,Mycology
-Luokka:Sierra Leone,Sierra Leone
-Luokka:Sillat,Bridges
-Luokka:Silmät,Eye
-Luokka:Singapore,Singapore
-Luokka:Skandinaavinen mytologia,Norse mythology
-Luokka:Skotlanti,Scotland
-Luokka:Slovakia,Slovakia
-Luokka:Slovenia,Slovenia
-Luokka:Sodat,War
-Luokka:Somalia,Somalia
-Luokka:Sorsalinnut,Anseriformes
-Luokka:Sosialismi,Socialism
-Luokka:Sosiologia,Sociology
-Luokka:Sri Lanka,Sri Lanka
-Luokka:Sudan,Sudan
-Luokka:Suhteellisuusteoria,Relativity
-Luokka:Sukututkimus,Genealogy
-Luokka:Suomi,Finland
-Luokka:Suriname,Suriname
-Luokka:Sveitsi,Switzerland
-Luokka:Sveitsiläiset henkilöt,Swiss people
-Luokka:Swazimaa,Swaziland
-Luokka:Syyria,Syria
-Luokka:Sähkö,Electricity
-Luokka:Sähkökemia,Electrochemistry
-Luokka:Sähkömagnetismi,Electromagnetism
-Luokka:Sähkötekniikka,Electrical engineering
-Luokka:Tadžikistan,Tajikistan
-Luokka:Taide,Arts
-Luokka:Taidehistoria,Art history
-Luokka:Taivaanmekaniikka,Celestial mechanics
-Luokka:Taiwan,Taiwan
-Luokka:Taloustiede,Economics
-Luokka:Talviolympialaiset,Winter Olympic Games
-Luokka:Tansania,Tanzania
-Luokka:Tanska,Denmark
-Luokka:Tanssi,Dance
-Luokka:Teatteri,Theatre
-Luokka:Tee,Tea
-Luokka:Tekniikka,Technology
-Luokka:Tekoäly,Artificial intelligence
-Luokka:Televisio,Television
-Luokka:Tennessee,Tennessee
-Luokka:Tennis,Tennis
-Luokka:Teollisuus,Industry
-Luokka:Teologia,Theology
-Luokka:Termodynamiikka,Thermodynamics
-Luokka:Terrorismi,Terrorism
-Luokka:Terveys,Health
-Luokka:Texas,Texas
-Luokka:Thaimaa,Thailand
-Luokka:Tiede,Science
-Luokka:Tieteiskirjallisuus,Science fiction
-Luokka:Tietojenkäsittelytiede,Computer science
-Luokka:Tietokonegrafiikka,Computer graphics
-Luokka:Tiibet,Tibet
-Luokka:Tilastotiede,Statistics
-Luokka:Todennäköisyyslaskenta,Probability theory
-Luokka:Togo,Togo
-Luokka:Toinen maailmansota,World War II
-Luokka:Tonga,Tonga
-Luokka:Topologia,Topology
-Luokka:Trigonometria,Trigonometry
-Luokka:Trinidad ja Tobago,Trinidad and Tobago
-Luokka:Tunisia,Tunisia
-Luokka:Turkki,Turkey
-Luokka:Turkmenistan,Turkmenistan
-Luokka:Tuvalu,Tuvalu
-Luokka:Tykistö,Artillery
-Luokka:Typografia,Typography
-Luokka:Tyynimeri,Pacific Ocean
-Luokka:Tähtitiede,Astronomy
-Luokka:Täsmennyssivut,Disambiguation
-Luokka:Tšad,Chad
-Luokka:Tšekki,Czech Republic
-Luokka:Tšekkoslovakia,Czechoslovakia
-Luokka:Tšetšenia,Chechnya
-Luokka:Uganda,Uganda
-Luokka:Uinti,Swimming
-Luokka:Ukraina,Ukraine
-Luokka:Unkari,Hungary
-Luokka:Uranus,Uranus
-Luokka:Uruguay,Uruguay
-Luokka:Uskomuslääkintä,Alternative medicine
-Luokka:Uskonto,Religion
-Luokka:Utah,Utah
-Luokka:Uusi-Seelanti,New Zealand
-Luokka:Uzbekistan,Uzbekistan
-Luokka:Vaatteet,Clothing
-Luokka:Valko-Venäjä,Belarus
-Luokka:Valokuvaus,Photography
-Luokka:Vanuatu,Vanuatu
-Luokka:Varpuslinnut,Passeriformes
-Luokka:Vatikaanivaltio,Vatican City
-Luokka:Venezuela,Venezuela
-Luokka:Venäjä,Russia
-Luokka:Verenkiertoelimistö,Cardiovascular system
-Luokka:Vermont,Vermont
-Luokka:Vesi,Water
-Luokka:Viestintä,Communication
-Luokka:Vietnam,Vietnam
-Luokka:Vietnamin sota,Vietnam War
-Luokka:Viihde,Entertainment
-Luokka:Viini,Wine
-Luokka:Virginia,Virginia
-Luokka:Viro,Estonia
-Luokka:Vulkanologia,Volcanology
-Luokka:Väestötiede,Demography
-Luokka:Välimeri,Mediterranean
-Luokka:Wales,Wales
-Luokka:Washington,Washington
-Luokka:Wien,Vienna
-Luokka:Wisconsin,Wisconsin
-Luokka:World Wide Web,World Wide Web
-Luokka:Wyoming,Wyoming
-Luokka:Ydinfysiikka,Nuclear physics
-Luokka:Yhdistyneet kansakunnat,United Nations
-Luokka:Yhdistynyt kuningaskunta,United Kingdom
-Luokka:Yhdysvallat,United States
-Luokka:Yhteiskunta,Society
-Luokka:Yleisurheilu,Athletics
-Luokka:Ympäristö,Environment
-Luokka:Zimbabwe,Zimbabwe
+Luokka,Class
+1750-luku,1750s
+1760-luku,1760s
+1770-luku,1770s
+1780-luku,1780s
+1790-luku,1790s
+1820-luku,1820s
+1830-luku,1830s
+1840-luku,1840s
+1860-luku,1860s
+1870-luku,1870s
+1880-luku,1880s
+1890-luku,1890s
+1900-vuosikymmen,1900s
+1920-luku,1920s
+1930-luku,1930s
+1940-luku,1940s
+1950-luku,1950s
+1960-luku,1960s
+1970-luku,1970s
+1980-luku,1980s
+1990-luku,1990s
+Aasia,Asia
+Aateli,Nobility
+Aavikot,Deserts
+Afganistan,Afghanistan
+Afrikka,Africa
+Aika,Time
+Akustiikka,Acoustics
+Alabama,Alabama
+Alankomaalaiset henkilöt,Dutch people
+Alankomaat,Netherlands
+Alaska,Alaska
+Albania,Albania
+Alberta,Alberta
+Algebra,Algebra
+Algeria,Algeria
+Alkemia,Alchemy
+Alkueliöt,Protista
+Alpit,Alps
+Amerikkalainen jalkapallo,American football
+Amsterdam,Amsterdam
+Anarkismi,Anarchism
+Anatomia,Anatomy
+Andorra,Andorra
+Angola,Angola
+Anime,Anime
+Antigua ja Barbuda,Antigua and Barbuda
+Antiikki,Ancient history
+Antisemitismi,Antisemitism
+Antropologia,Anthropology
+Apollo-ohjelma,Apollo program
+Arabiemiirikunnat,United Arab Emirates
+Argentiina,Argentina
+Aritmetiikka,Arithmetic
+Arizona,Arizona
+Arkansas,Arkansas
+Arkeologia,Archaeology
+Arkkitehtuuri,Architecture
+Armenia,Armenia
+Aruba,Aruba
+Assyria,Assyria
+Asterikasvit,Asteraceae
+Astrofysiikka,Astrophysics
+Astrologia,Astrology
+Ateismi,Atheism
+Atlantin valtameri,Atlantic Ocean
+Atomifysiikka,Atomic physics
+Aurinko,Sun
+Aurinkokunta,Solar System
+Australia,Australia
+Azerbaidžan,Azerbaijan
+Bahama,Bahamas
+Bahrain,Bahrain
+Bakteerit,Bacteria
+Baletti,Ballet
+Bangladesh,Bangladesh
+Barbados,Barbados
+Barcelona,Barcelona
+Baseball,Baseball
+Belgia,Belgium
+Belize,Belize
+Benin,Benin
+Berliini,Berlin
+Bermuda,Bermuda
+Bhutan,Bhutan
+Biokemia,Biochemistry
+Biologia,Biology
+Biotekniikka,Biotechnology
+Bolivia,Bolivia
+Bosnia ja Hertsegovina,Bosnia and Herzegovina
+Botswana,Botswana
+Brasilia,Brazil
+Brittiläiset henkilöt,British people
+Brunei,Brunei
+Buddhalaisuus,Buddhism
+Bulgaria,Bulgaria
+Burkina Faso,Burkina Faso
+Burundi,Burundi
+Bysantin valtakunta,Byzantine Empire
+Chile,Chile
+Colorado,Colorado
+Connecticut,Connecticut
+Costa Rica,Costa Rica
+Delaware,Delaware
+Djibouti,Djibouti
+Dominica,Dominica
+Dominikaaninen tasavalta,Dominican Republic
+Ecuador,Ecuador
+Egypti,Egypt
+Ekologia,Ecology
+El Salvador,El Salvador
+Elektroniikka,Electronics
+Elokuvataide,Film
+Eläintiede,Zoology
+Elämä,Life
+Endokrinologia,Endocrinology
+Energia,Energy
+Englannin kieli,English language
+Englanti,England
+Englantilaiset henkilöt,English people
+Ensimmäinen maailmansota,World War I
+Entomologia,Entomology
+Epäorgaaninen kemia,Inorganic chemistry
+Eritrea,Eritrea
+Esihistoria,Prehistory
+Espanja,Spain
+Espanjalaiset henkilöt,Spanish people
+Esperanto,Esperanto
+Etelä-Afrikka,South Africa
+Etelä-Amerikka,South America
+Etelä-Carolina,South Carolina
+Etelä-Dakota,South Dakota
+Etelä-Korea,South Korea
+Etiikka,Ethics
+Etiopia,Ethiopia
+Euroopan unioni,European Union
+Eurooppa,Europe
+Feminismi,Feminism
+Fidži,Fiji
+Filippiinit,Philippines
+Filologia,Philology
+Filosofia,Philosophy
+Florida,Florida
+Fonetiikka,Phonetics
+Frankfurt am Main,Frankfurt
+Fysiikka,Physics
+Fysikaalinen kemia,Physical chemistry
+Fysiologia,Physiology
+Färsaaret,Faroe Islands
+Gabon,Gabon
+Gambia,The Gambia
+Geodesia,Geodesy
+Geofysiikka,Geophysics
+Geologia,Geology
+Geometria,Geometry
+Geomorfologia,Geomorphology
+Georgia,Georgia
+Georgia,Georgia
+Ghana,Ghana
+Gibraltar,Gibraltar
+Golf,Golf
+Google,Google
+Graafinen suunnittelu,Graphic design
+Grenada,Grenada
+Grönlanti,Greenland
+Guatemala,Guatemala
+Guinea,Guinea
+Guinea-Bissau,Guinea-Bissau
+Guyana,Guyana
+Haiti,Haiti
+Hammaslääketiede,Dentistry
+Hampuri,Hamburg
+Havaiji,Hawaii
+Hedelmät,Fruit
+Henkilöt,People
+Heraldiikka,Heraldry
+Hermosto,Nervous system
+Hindulaisuus,Hinduism
+Histologia,Histology
+Historia,History
+Hiukkasfysiikka,Particle physics
+Honduras,Honduras
+Hongkong,Hong Kong
+Humanistiset tieteet,Humanities
+Huonekalut,Furniture
+Huumori,Humor
+Hydrologia,Hydrology
+Hygienia,Hygiene
+Idaho,Idaho
+Illinois,Illinois
+Ilmailu,Aviation
+Ilmasto,Climate
+Immunologia,Immunology
+Indiana,Indiana
+Indonesia,Indonesia
+Internet,Internet
+Intia,India
+Intian valtameri,Indian Ocean
+Iowa,Iowa
+Irak,Iraq
+Iran,Iran
+Irlanti,Republic of Ireland
+Irlanti,Ireland
+Irlantilaiset henkilöt,Irish people
+Islam,Islam
+Islanti,Iceland
+Israel,Israel
+Istanbul,Istanbul
+Italia,Italy
+Itä-Timor,East Timor
+Itävalta,Austria
+Jalkapallo,Football
+Jalkapallo maittain,Football  by country
+Jalkapalloilijat,Football  players
+Jalkapalloseurat,Football  clubs
+Jalkapallostadionit,Football  venues
+Jalkapallovalmentajat,Football  managers
+Jamaika,Jamaica
+Japani,Japan
+Jazz,Jazz
+Jemen,Yemen
+Jerusalem,Jerusalem
+Jordania,Jordan
+Joukko-oppi,Set theory
+Joulu,Christmas
+Journalismi,Journalism
+Jugoslavia,Yugoslavia
+Jupiter,Jupiter
+Juutalaisuus,Judaism
+Jääkiekko,Ice hockey
+Kahvi,Coffee
+Kaksisirkkaiset,Magnoliopsida
+Kalastus,Fishing
+Kalat,Fish
+Kalifornia,California
+Kambodža,Cambodia
+Kamerun,Cameroon
+Kanada,Canada
+Kanalinnut,Galliformes
+Kanariansaaret,Canary Islands
+Kansallissosialismi,Nazism
+Kansanmurhat,Genocide
+Kansanperinne,Folklore
+Kansas,Kansas
+Kansatiede,Ethnology
+Kap Verde,Cape Verde
+Kardiologia,Cardiology
+Karibia,Caribbean
+Kartografia,Cartography
+Kasvitiede,Botany
+Katalonia,Catalonia
+Kaukasia,Caucasus
+Kauppa,Commerce
+Kazakstan,Kazakhstan
+Kemia,Chemistry
+Kenia,Kenya
+Kentucky,Kentucky
+Keski-Afrikan tasavalta,Central African Republic
+Keskiaika,Middle Ages
+Kielioppi,Grammar
+Kielitiede,Linguistics
+Kiina,China
+Kirgisia,Kyrgyzstan
+Kiribati,Kiribati
+Kirjallisuus,Literature
+Kirjanpito,Accountancy
+Kirurgia,Surgery
+Klimatologia,Climatology
+Koisokasvit,Solanaceae
+Kolumbia,Colombia
+Kommunismi,Communism
+Komorit,Comoros
+Konetekniikka,Mechanical engineering
+Kongon demokraattinen tasavalta,Democratic Republic of the Congo
+Kongon tasavalta,Republic of the Congo
+Korea,Korea
+Koripallo,Basketball
+Kosmologia,Cosmology
+Kosovo,Kosovo
+Koulutus,Education
+Kreikka,Greece
+Kreikkalainen mytologia,Greek mythology
+Kreikkalaiset kirjaimet,Greek alphabet
+Kriminologia,Criminology
+Kristallografia,Crystallography
+Kristinusko,Christianity
+Kroatia,Croatia
+Kronologia,Chronology
+Kulttuuri,Culture
+Kuolema,Death
+Kurdistan,Kurdistan
+Kuuba,Cuba
+Kuvanveistotaide,Sculpture
+Kuwait,Kuwait
+Kvanttimekaniikka,Quantum mechanics
+Kylmä sota,Cold War
+Kypros,Cyprus
+Kyyhkylinnut,Columbiformes
+Laos,Laos
+Latvia,Latvia
+Lentokoneet,Aircraft
+Lentopallo,Volleyball
+Lepakot,Bats
+Lesotho,Lesotho
+Libanon,Lebanon
+Liberalismi,Liberalism
+Liberia,Liberia
+Libya,Libya
+Liechtenstein,Liechtenstein
+Liettua,Lithuania
+Liikemiehet,Businesspeople
+Liikenne,Transportation
+Lineaarialgebra,Linear algebra
+Linux,Linux
+Logiikka,Logic
+Lontoo,London
+Louisiana,Louisiana
+Luonto,Nature
+Luut,Skeletal system
+Luxemburg,Luxembourg
+Lähi-itä,Middle East
+Länsi-Sahara,Western Sahara
+Länsi-Virginia,West Virginia
+Lääkeaineoppi,Pharmacology
+Lääketiede,Medicine
+Maa,Earth
+Maanpuolustus,Military
+Maantiede,Geography
+Maatalous,Agriculture
+Madagaskar,Madagascar
+Magnetismi,Magnetism
+Maine,Maine
+Makrotaloustiede,Macroeconomics
+Malawi,Malawi
+Malediivit,Maldives
+Malesia,Malaysia
+Mali,Mali
+Malta,Malta
+Mansaari,Isle of Man
+Markkinointi,Marketing
+Marokko,Morocco
+Mars,Mars
+Marshallinsaaret,Marshall Islands
+Marxismi,Marxism
+Maryland,Maryland
+Massachusetts,Massachusetts
+Matemaattinen logiikka,Mathematical logic
+Matematiikka,Mathematics
+Matkailu,Tourism
+Mauritania,Mauritania
+Mauritius,Mauritius
+Mehiläisten hoito,Beekeeping
+Mekaniikka,Mechanics
+Meksiko,Mexico
+Meritiede,Oceanography
+Mesopotamiatyngät,Mesopotamia
+Metallimusiikki,Heavy metal
+Metallurgia,Metallurgy
+Meteorologia,Meteorology
+Michigan,Michigan
+Mikrobiologia,Microbiology
+Mikronesian liittovaltio,Federated States of Micronesia
+Mikrotaloustiede,Microeconomics
+Mineralogia,Mineralogy
+Minnesota,Minnesota
+Mississippi,Mississippi
+Missouri,Missouri
+Moldova,Moldova
+Molekyylibiologia,Molecular biology
+Monaco,Monaco
+Monarkia,Monarchy
+Mongolia,Mongolia
+Montana,Montana
+Montenegro,Montenegro
+Mosambik,Mozambique
+Moskova,Moscow
+Muoti,Fashion
+Muotoilu,Design
+Musiikki,Music
+Myanmar,Burma
+Myanmar,Myanmar
+Mytologia,Mythology
+NATO,NATO
+Namibia,Namibia
+Nationalismi,Nationalism
+Natsi-Saksa,Nazi Germany
+Nauru,Nauru
+Navigointi,Navigation
+Nebraska,Nebraska
+Nepal,Nepal
+Neurologia,Neurology
+Neuvostoliitto,Soviet Union
+Nevada,Nevada
+New Hampshire,New Hampshire
+New Jersey,New Jersey
+New Mexico,New Mexico
+New York,New York
+New York,New York City
+Nicaragua,Nicaragua
+Niger,Niger
+Nigeria,Nigeria
+Nobel-palkinto,Nobel Prize
+Norja,Norway
+Numerot,Numbers
+Numismatiikka,Numismatics
+Nyrkkeilijät,Boxers
+Nyrkkeily,Boxing
+Näennäistiede,Pseudoscience
+Ohio,Ohio
+Ohjelmistot,Software
+Ohjelmointi,Computer programming
+Oikeustiede,Law
+Oklahoma,Oklahoma
+Olut,Beer
+Olympiaurheilu,Olympics
+Oman,Oman
+Ontario,Ontario
+Optiikka,Optics
+Oregon,Oregon
+Orgaaninen kemia,Organic chemistry
+Ornitologia,Ornithology
+Oseania,Oceania
+Osmanien valtakunta,Ottoman Empire
+Pakistan,Pakistan
+Palau,Palau
+Paleontologia,Paleontology
+Palestiina,Palestine
+Panama,Panama
+Pankit,Banks
+Papua-Uusi-Guinea,Papua New Guinea
+Paraguay,Paraguay
+Pariisi,Paris
+Pennsylvania,Pennsylvania
+Perhe,Family
+Perinnöllisyystiede,Genetics
+Peru,Peru
+Pietari,Saint Petersburg
+Pistiäiset,Hymenoptera
+Pohjois-Amerikka,North America
+Pohjois-Carolina,North Carolina
+Pohjois-Dakota,North Dakota
+Pohjois-Irlanti,Northern Ireland
+Pohjois-Korea,North Korea
+Politiikka,Politics
+Portugali,Portugal
+Postimerkkeily,Philately
+Praha,Prague
+Psykiatria,Psychiatry
+Psykologia,Psychology
+Puerto Rico,Puerto Rico
+Punk,Punk
+Puola,Poland
+Pyhä saksalais-roomalainen keisarikunta,Holy Roman Empire
+Pyökkikasvit,Fagaceae
+Pyöräily,Cycling
+Päiväntasaajan Guinea,Equatorial Guinea
+Pääluokat,Fundamental
+Qatar,Qatar
+Québec,Quebec
+Raamattu,Bible
+Radio,Radio
+Rahoitus,Finance
+Ranska,France
+Ranskalaiset henkilöt,French people
+Ranskan Polynesia,French Polynesia
+Ranskan suuri vallankumous,French Revolution
+Rasismi,Racism
+Ravinto-oppi,Nutrition
+Renessanssi,Renaissance
+Retoriikka,Rhetoric
+Rhode Island,Rhode Island
+Rock,Rock music
+Romania,Romania
+Rooma,Rome
+Roomalainen mytologia,Roman mythology
+Ruanda,Rwanda
+Runous,Poetry
+Ruoansulatuselimistö,Digestive system
+Ruotsi,Sweden
+Saint Kitts ja Nevis,Saint Kitts and Nevis
+Saint Lucia,Saint Lucia
+Saint Vincent ja Grenadiinit,Saint Vincent and the Grenadines
+Saksa,Germany
+Salakirjoitustekniikka,Cryptography
+Salmet,Straits
+Salomonsaaret,Solomon Islands
+Sambia,Zambia
+Samoa,Samoa
+San Marino,San Marino
+Saudi-Arabia,Saudi Arabia
+Seismologia,Seismology
+Seksuaalisuus,Sexuality
+Semantiikka,Semantics
+Senegal,Senegal
+Serbia,Serbia
+Serbia ja Montenegro,Serbia and Montenegro
+Seychellit,Seychelles
+Shakki,Chess
+Sienet,Fungi
+Sienitiede,Mycology
+Sierra Leone,Sierra Leone
+Sillat,Bridges
+Silmät,Eye
+Singapore,Singapore
+Skandinaavinen mytologia,Norse mythology
+Skotlanti,Scotland
+Slovakia,Slovakia
+Slovenia,Slovenia
+Sodat,War
+Somalia,Somalia
+Sorsalinnut,Anseriformes
+Sosialismi,Socialism
+Sosiologia,Sociology
+Sri Lanka,Sri Lanka
+Sudan,Sudan
+Suhteellisuusteoria,Relativity
+Sukututkimus,Genealogy
+Suomi,Finland
+Suriname,Suriname
+Sveitsi,Switzerland
+Sveitsiläiset henkilöt,Swiss people
+Swazimaa,Swaziland
+Syyria,Syria
+Sähkö,Electricity
+Sähkökemia,Electrochemistry
+Sähkömagnetismi,Electromagnetism
+Sähkötekniikka,Electrical engineering
+Tadžikistan,Tajikistan
+Taide,Arts
+Taidehistoria,Art history
+Taivaanmekaniikka,Celestial mechanics
+Taiwan,Taiwan
+Taloustiede,Economics
+Talviolympialaiset,Winter Olympic Games
+Tansania,Tanzania
+Tanska,Denmark
+Tanssi,Dance
+Teatteri,Theatre
+Tee,Tea
+Tekniikka,Technology
+Tekoäly,Artificial intelligence
+Televisio,Television
+Tennessee,Tennessee
+Tennis,Tennis
+Teollisuus,Industry
+Teologia,Theology
+Termodynamiikka,Thermodynamics
+Terrorismi,Terrorism
+Terveys,Health
+Texas,Texas
+Thaimaa,Thailand
+Tiede,Science
+Tieteiskirjallisuus,Science fiction
+Tietojenkäsittelytiede,Computer science
+Tietokonegrafiikka,Computer graphics
+Tiibet,Tibet
+Tilastotiede,Statistics
+Todennäköisyyslaskenta,Probability theory
+Togo,Togo
+Toinen maailmansota,World War II
+Tonga,Tonga
+Topologia,Topology
+Trigonometria,Trigonometry
+Trinidad ja Tobago,Trinidad and Tobago
+Tunisia,Tunisia
+Turkki,Turkey
+Turkmenistan,Turkmenistan
+Tuvalu,Tuvalu
+Tykistö,Artillery
+Typografia,Typography
+Tyynimeri,Pacific Ocean
+Tähtitiede,Astronomy
+Täsmennyssivut,Disambiguation
+Tšad,Chad
+Tšekki,Czech Republic
+Tšekkoslovakia,Czechoslovakia
+Tšetšenia,Chechnya
+Uganda,Uganda
+Uinti,Swimming
+Ukraina,Ukraine
+Unkari,Hungary
+Uranus,Uranus
+Uruguay,Uruguay
+Uskomuslääkintä,Alternative medicine
+Uskonto,Religion
+Utah,Utah
+Uusi-Seelanti,New Zealand
+Uzbekistan,Uzbekistan
+Vaatteet,Clothing
+Valko-Venäjä,Belarus
+Valokuvaus,Photography
+Vanuatu,Vanuatu
+Varpuslinnut,Passeriformes
+Vatikaanivaltio,Vatican City
+Venezuela,Venezuela
+Venäjä,Russia
+Verenkiertoelimistö,Cardiovascular system
+Vermont,Vermont
+Vesi,Water
+Viestintä,Communication
+Vietnam,Vietnam
+Vietnamin sota,Vietnam War
+Viihde,Entertainment
+Viini,Wine
+Virginia,Virginia
+Viro,Estonia
+Vulkanologia,Volcanology
+Väestötiede,Demography
+Välimeri,Mediterranean
+Wales,Wales
+Washington,Washington
+Wien,Vienna
+Wisconsin,Wisconsin
+World Wide Web,World Wide Web
+Wyoming,Wyoming
+Ydinfysiikka,Nuclear physics
+Yhdistyneet kansakunnat,United Nations
+Yhdistynyt kuningaskunta,United Kingdom
+Yhdysvallat,United States
+Yhteiskunta,Society
+Yleisurheilu,Athletics
+Ympäristö,Environment
+Zimbabwe,Zimbabwe
 Luola,Cave
 Luonnollinen luku,Natural number
 Luonnontiede,Natural science
@@ -4221,25 +4221,25 @@ Luterilaisuus,Lutheranism
 Lutetium,Lutetium
 Luu,Bone
 Luukalat,Osteichthyes
-Luumen,Lumen (unit)
+Luumen,Lumen
 Luumu,Plum
 Luutnantti,Lieutenant
 Luuttu,Lute
 Luuydin,Bone marrow
 Luxemburg,Luxembourg
-Luxemburg (kaupunki),Luxembourg (city)
+Luxemburg,Luxembourg
 Luxor,Luxor
 Luzern,Lucerne
 Luzon,Luzon
 Lyijy,Lead
 Lyijyhohde,Galena
 Lyijykynä,Pencil
-Lynx (selain),Lynx (web browser)
+Lynx,Lynx
 Lyon,Lyon
 Lysiini,Lysine
 Lysosomi,Lysosome
 Lyydia,Lydia
-Lyyra (tähdistö),Lyra
+Lyyra,Lyra
 Lyömäsoitin,Percussion instrument
 L'Aquila,L'Aquila
 Lähdekoodi,Source code
@@ -4275,16 +4275,16 @@ Maailman ilmatieteen järjestö,World Meteorological Organization
 Maailman kauppajärjestö,World Trade Organization
 Maailman terveysjärjestö,World Health Organization
 Maailmankaikkeus,Universe
-Maailmannäyttely,Expo (exhibition)
+Maailmannäyttely,Expo
 Maailmanpankki,World Bank
 Maailmansota,World war
 Maakaasu,Natural gas
 Maakotka,Golden Eagle
 Maalaji,Soil
-Maalari (tähdistö),Pictor
+Maalari,Pictor
 Maaliskuu,March
 Maalivahti,Goalkeeper
-Maan vaippa,Mantle (geology)
+Maan vaippa,Mantle
 Maanantai,Monday
 Maanjäristys,Earthquake
 Maankaltainen planeetta,Terrestrial planet
@@ -4301,17 +4301,17 @@ Maatalous,Agriculture
 Maavoimat,Army
 Maaöljy,Petroleum
 Macao,Macau
-Macbeth (näytelmä),Macbeth
+Macbeth,Macbeth
 Mach-luku,Mach number
 Machu Picchu,Machu Picchu
 Macintosh,Macintosh
 Madagaskar,Madagascar
 Madeira,Madeira
 Madison,Madison
-Madonna,Madonna (entertainer)
+Madonna,Madonna
 Madonreikä,Wormhole
 Madrid,Madrid
-Madrid (itsehallintoalue),Madrid (autonomous community)
+Madrid,Madrid
 Mafia,Mafia
 Magalhãesinsalmi,Strait of Magellan
 Magdalan Maria,Mary Magdalene
@@ -4334,13 +4334,13 @@ Mahayana,Mahayana
 Maili,Mile
 Maimonides,Maimonides
 Main,Main
-Maine (osavaltio),Maine
+Maine,Maine
 Mainonta,Advertising
 Maissi,Maize
 Maito,Milk
 Maitohappo,Lactic acid
 Maitovalas,Beluga
-Maitreya (buddhalaisuus),Maitreya
+Maitreya,Maitreya
 Majakka,Lighthouse
 Majavat,Beaver
 Majoneesi,Mayonnaise
@@ -4348,7 +4348,7 @@ Majuri,Major
 Makalu,Makalu
 Makea vesi,Freshwater
 Makedonia,Macedonia
-Makedonia (Kreikka),Macedonia (Greece)
+Makedonia,Macedonia
 Makedonian valtakunta,Macedon
 Makkara,Sausage
 Makrotaloustiede,Macroeconomics
@@ -4360,11 +4360,11 @@ Malcolm X,Malcolm X
 Malediivit,Maldives
 Malesia,Malaysia
 Mali,Mali
-Malja (tähdistö),Crater (constellation)
-Malline:Bot,Bot
-Malline:Lähde,Fact
-Malline:Pääartikkeli,Main
-Malline:Tynkä,Stub
+Malja,Crater
+Bot,Bot
+Lähde,Fact
+Pääartikkeli,Main
+Tynkä,Stub
 Mallorca,Majorca
 Malta,Malta
 Maltan kieli,Maltese language
@@ -4414,7 +4414,7 @@ Marcus Antonius,Mark Antony
 Marcus Aurelius,Marcus Aurelius
 Marcus Brutus,Marcus Junius Brutus
 Marcus Vipsanius Agrippa,Marcus Vipsanius Agrippa
-Marduk (mytologia),Marduk
+Marduk,Marduk
 Margaret Mead,Margaret Mead
 Margaret Mitchell,Margaret Mitchell
 Margaret Thatcher,Margaret Thatcher
@@ -4436,8 +4436,8 @@ Marmori,Marble
 Marokko,Morocco
 Marrakech,Marrakech
 Marraskuu,November
-Mars (jumala),Mars (mythology)
-Mars (täsmennyssivu),Mars (disambiguation)
+Mars,Mars
+Mars,Mars
 Marseille,Marseille
 Marshall-apu,Marshall Plan
 Marshallinsaaret,Marshall Islands
@@ -4451,7 +4451,7 @@ Martina Navrátilová,Martina Navratilova
 Martinique,Martinique
 Martti Luther,Martin Luther
 Marttyyri,Martyr
-Marunat,Artemisia (plant)
+Marunat,Artemisia
 Marxin veljekset,Marx Brothers
 Marxismi,Marxism
 Mary Shelley,Mary Shelley
@@ -4466,12 +4466,12 @@ Massachusetts Institute of Technology,Massachusetts Institute of Technology
 Massaluku,Mass number
 Mata Hari,Mata Hari
 Matelijat,Reptile
-Matemaattinen optimointi,Optimization (mathematics)
+Matemaattinen optimointi,Optimization
 Matemaattinen todistus,Mathematical proof
 Matematiikka,Mathematics
 Materialismi,Materialism
 Matkapuhelin,Mobile phone
-Matriisi,Matrix (mathematics)
+Matriisi,Matrix
 Matterhorn,Matterhorn
 Mauna Kea,Mauna Kea
 Mauna Loa,Mauna Loa
@@ -4517,7 +4517,7 @@ Memphis,Memphis
 Menachem Begin,Menachem Begin
 Mendelevium,Mendelevium
 Menelaos,Menelaus
-Mercurius,Mercury (mythology)
+Mercurius,Mercury
 Mercury,Mercury
 Merenneito,Mermaid
 Merenpinnan taso,Sea level
@@ -4539,21 +4539,21 @@ Merivirta,Ocean current
 Merivoimat,Navy
 Merivuokot,Sea anemone
 Merkantilismi,Mercantilism
-Merkurius,Mercury (planet)
+Merkurius,Mercury
 Merovingit,Merovingian
 Meryl Streep,Meryl Streep
 Meskaliini,Mescaline
 Mesoliittinen kausi,Mesolithic
 Mesoni,Meson
 Mesopotamia,Mesopotamia
-Mesosfääri (Maan vaippa),Mesosphere
+Mesosfääri,Mesosphere
 Mesotsooinen maailmankausi,Mesozoic
 Messenger,MESSENGER
 Messias,Messiah
 Messina,Messina
 Messinansalmi,Strait of Messina
 Messinki,Brass
-Messu,Mass (liturgy)
+Messu,Mass
 Mestari Eckhart,Meister Eckhart
 Metadoni,Methadone
 Metafora,Metaphor
@@ -4572,7 +4572,7 @@ Meteoriparvi,Meteor shower
 Meteoroidi,Meteoroid
 Meteorologia,Meteorology
 Metioniini,Methionine
-Metis (kuu),Metis (moon)
+Metis,Metis
 Metodismi,Methodism
 Metri,Metre
 Metrinen avaruus,Metric space
@@ -4597,7 +4597,7 @@ Miguel de Cervantes,Miguel de Cervantes
 Mihail Bakunin,Mikhail Bakunin
 Mihail Glinka,Mikhail Glinka
 Mihail Gorbatšov,Mikhail Gorbachev
-Mikael (arkkienkeli),Michael (archangel)
+Mikael,Michael
 Mike Tyson,Mike Tyson
 Mikki Hiiri,Mickey Mouse
 Mikroaallot,Microwave
@@ -4610,7 +4610,7 @@ Mikronesian liittovaltio,Federated States of Micronesia
 Mikropiiri,Integrated circuit
 Mikroprosessori,Microprocessor
 Mikroskooppi,Microscope
-Mikroskooppi (tähdistö),Microscopium
+Mikroskooppi,Microscopium
 Mikrotaloustiede,Microeconomics
 Milano,Milan
 Miles Davis,Miles Davis
@@ -4627,7 +4627,7 @@ Minerva,Minerva
 Minervanpöllö,Little Owl
 Ming-dynastia,Ming Dynasty
 Minimalismi,Minimalism
-Ministeri,Minister (government)
+Ministeri,Minister
 Minneapolis,Minneapolis
 Minnesota,Minnesota
 Minolainen kulttuuri,Minoan civilization
@@ -4637,18 +4637,18 @@ Minsk,Minsk
 Mintut,Mentha
 Minuutti,Minute
 Mioseeni,Miocene
-Mississippi (joki),Mississippi River
+Mississippi,Mississippi River
 Missouri,Missouri
-Missouri (joki),Missouri River
+Missouri,Missouri River
 Mitokondrio,Mitochondrion
 Mittaaminen,Measurement
-Mittateoria,Measure (mathematics)
+Mittateoria,Measure
 Mišna,Mishnah
 Mnemosyne,Mnemosyne
 Modeemi,Modem
 Modernismi,Modernism
 Modest Musorgski,Modest Mussorgsky
-Modulaatio (elektroniikka),Modulation
+Modulaatio,Modulation
 Mogadishu,Mogadishu
 Moldova,Moldova
 Molekyyli,Molecule
@@ -4667,7 +4667,7 @@ Monitahokas,Polyhedron
 Monnikalat,Catfish
 Monomeeri,Monomer
 Monopoli,Monopoly
-Monopoli (peli),Monopoly (game)
+Monopoli,Monopoly
 Monosakkaridi,Monosaccharide
 Monoteismi,Monotheism
 Monroen oppi,Monroe Doctrine
@@ -4679,18 +4679,18 @@ Montana,Montana
 Montenegro,Montenegro
 Monterrey,Monterrey
 Montevideo,Montevideo
-Montgomery (Alabama),Montgomery
-Montpelier (Vermont),Montpelier
+Montgomery,Montgomery
+Montpelier,Montpelier
 Montréal,Montreal
 Montserrat,Montserrat
-Mooli,Mole (unit)
+Mooli,Mole
 Mooses,Moses
 Moottori,Engine
 Moottoripyörä,Motorcycle
 Moraali,Morality
 Morfeemi,Morpheme
 Morfiini,Morphine
-Morfologia,Morphology (linguistics)
+Morfologia,Morphology
 Mormonin kirja,Book of Mormon
 Mosaiikki,Mosaic
 Mosambik,Mozambique
@@ -4715,7 +4715,7 @@ Mulperiperhonen,Bombyx mori
 Mulperipuut,Mulberry
 Multimedia,Multimedia
 Mumbai,Mumbai
-Muna,Egg (biology)
+Muna,Egg
 Munakoiso,Eggplant
 Munanjohdin,Fallopian tube
 Munasarja,Ovary
@@ -4747,7 +4747,7 @@ Mustahaikara,Black Stork
 Mustakarhu,American Black Bear
 Mustameri,Black Sea
 Mustarastas,Blackbird
-Mustavaris,Rook (bird)
+Mustavaris,Rook
 Mustekynä,Ballpoint pen
 Mutaatio,Mutation
 Muuli,Mule
@@ -4767,7 +4767,7 @@ Myrkyllisyys,Toxicity
 Myrsky,Storm
 Mystiikka,Mysticism
 Mytologia,Mythology
-Myy,Mu (letter)
+Myy,Mu
 Myytti,Myth
 Mäkimeirami,Oregano
 Männyt,Pine
@@ -4794,7 +4794,7 @@ Nainen,Woman
 Nairobi,Nairobi
 Namib,Namib Desert
 Namibia,Namibia
-Namur,Namur (city)
+Namur,Namur
 Nancy,Nancy
 Nanga Parbat,Nanga Parbat
 Nanjing,Nanjing
@@ -4804,7 +4804,7 @@ Napalm,Napalm
 Napapiiri,Arctic Circle
 Napoleonin sodat,Napoleonic Wars
 Napoli,Naples
-Narkissos,Narcissus (mythology)
+Narkissos,Narcissus
 Narsissikasvit,Amaryllidaceae
 Nasaret,Nazareth
 Nashville,Nashville
@@ -4816,7 +4816,7 @@ Natriumbikarbonaatti,Sodium bicarbonate
 Natriumglutamaatti,Monosodium glutamate
 Natriumhydroksidi,Sodium hydroxide
 Natsi-Saksa,Nazi Germany
-Naula,Nail (fastener)
+Naula,Nail
 Nauraminen,Laughter
 Nauru,Nauru
 Nauta,Cattle
@@ -4830,13 +4830,13 @@ Neftys,Nephthys
 Negevin autiomaa,Negev
 Neidonhiuspuut,Ginkgo
 Neil Armstrong,Neil Armstrong
-Neitsyt (tähdistö),Virgo (constellation)
-Neitsyt Maria,Mary (mother of Jesus)
+Neitsyt,Virgo
+Neitsyt Maria,Mary
 Neitsytsaaret,Virgin Islands
 Neitsyys,Virginity
 Nelikulmio,Quadrilateral
 Nelisormimangusti,Meerkat
-Neliö (geometria),Square (geometry)
+Neliö,Square
 Neliöjuuri,Square root
 Neliömetri,Square metre
 Neljäkäs,Rhombus
@@ -4844,16 +4844,16 @@ Neljäs Mooseksen kirja,Book of Numbers
 Neljäs ristiretki,Fourth Crusade
 Nelson Mandela,Nelson Mandela
 Nemean leijona,Nemean Lion
-Nemesis (mytologia),Nemesis (mythology)
+Nemesis,Nemesis
 Nenä,Nose
 Neodyymi,Neodymium
 Neoliittinen kausi,Neolithic
 Neon,Neon
 Nepal,Nepal
-Neperin luku,E (mathematical constant)
+Neperin luku,E
 Neptunium,Neptunium
 Neptunus,Neptune
-Nereid,Nereid (moon)
+Nereid,Nereid
 Nero,Nero
 Nerva,Nerva
 Neste,Liquid
@@ -4866,7 +4866,7 @@ Neutriino,Neutrino
 Neutroni,Neutron
 Neutronitähti,Neutron star
 Neuvostoliitto,Soviet Union
-Neva (joki),Neva River
+Neva,Neva River
 Nevada,Nevada
 Neville Chamberlain,Neville Chamberlain
 New Brunswick,New Brunswick
@@ -4876,11 +4876,11 @@ New Jersey,New Jersey
 New Mexico,New Mexico
 New Orleans,New Orleans
 New York,New York City
-New York (osavaltio),New York
-New York (täsmennyssivu),New York (disambiguation)
+New York,New York
+New York,New York
 New Yorkin pörssi,New York Stock Exchange
 Newark,Newark
-Newfoundland,Newfoundland (island)
+Newfoundland,Newfoundland
 Newfoundland ja Labrador,Newfoundland and Labrador
 Newport,Newport
 Newton,Newton
@@ -4893,15 +4893,15 @@ Niels Henrik Abel,Niels Henrik Abel
 Nielu,Pharynx
 Niemimaa,Peninsula
 Niger,Niger
-Niger (joki),Niger River
+Niger,Niger River
 Nigeria,Nigeria
 Nihilismi,Nihilism
 Niili,Nile
 Niilinkrokotiili,Nile crocodile
 Nikaian uskontunnustus,Nicene Creed
 Nikama,Vertebra
-Nike,Nike (mythology)
-Nike (yritys),Nike
+Nike,Nike
+Nike,Nike
 Nikean ensimmäinen kirkolliskokous,First Council of Nicaea
 Nikita Hruštšov,Nikita Khrushchev
 Nikkeli,Nickel
@@ -4922,7 +4922,7 @@ Nivel,Joint
 Niveljalkaiset,Arthropod
 Nivelmadot,Annelid
 Niveltulehdus,Arthritis
-Nix,Nix (moon)
+Nix,Nix
 Nizza,Nice
 Njassajärvi,Lake Malawi
 Njord,Njord
@@ -4964,18 +4964,18 @@ Numidia,Numidia
 Numismatiikka,Numismatics
 Nunavut,Nunavut
 Nuoli,Arrow
-Nuoli (tähdistö),Sagitta
+Nuoli,Sagitta
 Nuotti,Note
 Nuottiavain,Clef
-Nyks,Nyx (mythology)
+Nyks,Nyx
 Nymfit,Nymph
 Nyrkkeily,Boxing
-Nyy,Nu (letter)
+Nyy,Nu
 N'Djamena,N'Djamena
 Näennäismuisti,Virtual memory
 Näennäistiede,Pseudoscience
 Nälkä,Hunger
-Näppäimistö,Keyboard (computing)
+Näppäimistö,Keyboard
 Näyttelijä,Actor
 Näyttö,Computer display
 Näätäeläimet,Mustelidae
@@ -5002,7 +5002,7 @@ Ohio,Ohio
 Ohjelmistotekniikka,Information technology
 Ohjelmointi,Computer programming
 Ohjelmointikielen kääntäjä,Compiler
-Ohjelmointikielen tulkki,Interpreter (computing)
+Ohjelmointikielen tulkki,Interpreter
 Ohjelmointikieli,Programming language
 Ohmi,Ohm
 Ohmin laki,Ohm's law
@@ -5011,7 +5011,7 @@ Ohra,Barley
 Ohutsuoli,Small intestine
 Oidipus,Oedipus
 Oikeinkirjoitus,Orthography
-Oinas,Aries (constellation)
+Oinas,Aries
 Oire,Symptom
 Okapi,Okapi
 Okeanidit,Oceanid
@@ -5037,10 +5037,10 @@ Oliver Stone,Oliver Stone
 Oliviini,Olivine
 Olkaluu,Humerus
 Olut,Beer
-Olympia (Kreikka),Olympia
-Olympia (Washington),Olympia
+Olympia,Olympia
+Olympia,Olympia
 Olympialaiset,Olympic Games
-Olympos (Kreikka),Mount Olympus
+Olympos,Mount Olympus
 Omaelämäkerta,Autobiography
 Omaha,Omaha
 Oman,Oman
@@ -5059,7 +5059,7 @@ Ooppera,Opera
 Oortin pilvi,Oort cloud
 Opaali,Opal
 Opel,Opel
-Opera,Opera (Internet suite)
+Opera,Opera
 Operetti,Operetta
 Opettaja,Teacher
 Opiskelija,Student
@@ -5067,13 +5067,13 @@ Oppiminen,Learning
 Optiikka,Optics
 Optinen harha,Optical illusion
 Orangit,Orangutan
-Oranssi,Orange (colour)
+Oranssi,Orange
 Oratorio,Oratorio
 Orava,Squirrel
 Oravat,Sciuridae
 Ordovikikausi,Ordovician
 Oregon,Oregon
-Orestes,Orestes (mythology)
+Orestes,Orestes
 Orfeus,Orpheus
 Orgaaninen kemia,Organic chemistry
 Orgaaninen yhdiste,Organic compound
@@ -5081,7 +5081,7 @@ Organisaatio,Organization
 Orgasmi,Orgasm
 Origenes,Origen
 Orinoco,Orinoco
-Orion (tähdistö),Orion (constellation)
+Orion,Orion
 Orissa,Orissa
 Orjuus,Slavery
 Orkesteri,Orchestra
@@ -5091,7 +5091,7 @@ Orson Welles,Orson Welles
 Ortodoksinen kirkko,Eastern Orthodox Church
 Osajoukko,Subset
 Osaka,Osaka
-Osake,Share (finance)
+Osake,Share
 Osama bin Laden,Osama bin Laden
 Oscar Wilde,Oscar Wilde
 Oscar-palkinto,Academy Award
@@ -5151,16 +5151,16 @@ Palindromi,Palindrome
 Palkkasotilas,Mercenary
 Palladium,Palladium
 Pallas Athene,Athena
-Pallo (geometria),Sphere
-Pallo (peliväline),Ball
+Pallo,Sphere
+Pallo,Ball
 Palmukasvit,Arecaceae
 Palmusunnuntai,Palm Sunday
 Palmyra,Palmyra
 Palokunta,Firefighter
-Palomuuri,Firewall (networking)
-Palvelin,Server (computing)
+Palomuuri,Firewall
+Palvelin,Server
 Pamir,Pamir Mountains
-Pan,Pan (mythology)
+Pan,Pan
 Panama,Panama
 Panaman kanava,Panama Canal
 Panaman kannas,Isthmus of Panama
@@ -5172,7 +5172,7 @@ Pankki,Bank
 Pankkiautomaatti,Automated teller machine
 Panssarivaunu,Tank
 Panteismi,Pantheism
-Pantheon (Rooma),Pantheon
+Pantheon,Pantheon
 Panthera,Panthera
 Paperintaittelu,Origami
 Papisto,Clergy
@@ -5189,11 +5189,11 @@ Paraguay,Paraguay
 Parallaksi,Parallax
 Paramaribo,Paramaribo
 Parapsykologia,Parapsychology
-Paratiisilintu (tähdistö),Apus
+Paratiisilintu,Apus
 Pariisi,Paris
-Parillinen luku,Parity (mathematics)
-Paris,Paris (mythology)
-Paristo,Battery (electricity)
+Parillinen luku,Parity
+Paris,Paris
+Paristo,Battery
 Parkinsonin tauti,Parkinson's disease
 Parlamentti,Parliament
 Parmenides,Parmenides
@@ -5204,12 +5204,12 @@ Parsek,Parsec
 Partakorppikotka,Lammergeier
 Parthenon,Parthenon
 Parthia,Parthia
-Parti socialiste (Ranska),Socialist Party (France)
+Parti socialiste,Socialist Party
 Partio,Scouting
 Parvati,Parvati
 Pascal,Pascal
-Pascal (ohjelmointikieli),Pascal (programming language)
-Pascal (yksikkö),Pascal (unit)
+Pascal,Pascal
+Pascal,Pascal
 Pasifismi,Pacifism
 Passi,Passport
 Pastörointi,Pasteurization
@@ -5230,14 +5230,14 @@ Paul Newman,Paul Newman
 Paul Verlaine,Paul Verlaine
 Paul von Hindenburg,Paul von Hindenburg
 Paulin kieltosääntö,Pauli exclusion principle
-Pauna,Pound (mass)
+Pauna,Pound
 Paviaanit,Baboon
 Pays-de-la-Loire,Pays de la Loire
 Pearl Harbor,Pearl Harbor
 Pedagogiikka,Pedagogy
 Pedofilia,Pedophilia
 Pegasos,Pegasus
-Pegasus,Pegasus (constellation)
+Pegasus,Pegasus
 Peikko,Troll
 Peili,Mirror
 Peippo,Chaffinch
@@ -5273,17 +5273,17 @@ Pernarutto,Anthrax
 Persefone,Persephone
 Persepolis,Persepolis
 Perseus,Perseus
-Perseus (tähdistö),Perseus (constellation)
+Perseus,Perseus
 Persia,Persian Empire
 Persianlahden sota,Gulf War
 Persianlahti,Persian Gulf
 Persikka,Peach
 Persilja,Parsley
-Perth (Länsi-Australia),Perth
+Perth,Perth
 Peru,Peru
 Peruna,Potato
 Perusmaku,Taste
-Perustuslaki,Constitution (political)
+Perustuslaki,Constitution
 Perusvuorovaikutus,Fundamental interaction
 Peräaukko,Anus
 Peräkeula,Puppis
@@ -5299,31 +5299,31 @@ Peukalo,Thumb
 Philadelphia,Philadelphia
 Philipp Lenard,Philipp Lenard
 Phnom Penh,Phnom Penh
-Phobos,Phobos (moon)
+Phobos,Phobos
 Phoenix,Phoenix
-Phoenix (luotain),Phoenix (spacecraft)
+Phoenix,Phoenix
 Piano,Piano
 Picardie,Picardie
 Pidgin,Pidgin
-Pidgin (pikaviestin),Pidgin (software)
+Pidgin,Pidgin
 Piemonte,Piedmont
 Pienet Antillit,Lesser Antilles
 Pieni karhu,Ursa Minor
 Pieni koira,Canis Minor
-Pierre (Etelä-Dakota),Pierre
+Pierre,Pierre
 Pierre Abélard,Peter Abelard
 Pierre Curie,Pierre Curie
 Pierre de Fermat,Pierre de Fermat
 Pieru,Flatulence
 Piet Mondrian,Piet Mondrian
-Pietari (apostoli),Saint Peter
-Pietari (kaupunki),Saint Petersburg
+Pietari,Saint Peter
+Pietari,Saint Petersburg
 Pieter Zeeman,Pieter Zeeman
 Pigmentti,Pigment
 Pihdat,Fir
-Pii (alkuaine),Silicon
-Pii (kirjain),Pi (letter)
-Pii (vakio),Pi
+Pii,Silicon
+Pii,Pi
+Pii,Pi
 Piidioksidi,Silicon dioxide
 Piikivi,Chert
 Piikivi,Flint
@@ -5337,7 +5337,7 @@ Pikaruoka,Fast food
 Pikkuaivot,Cerebellum
 Pikseli,Pixel
 Pilapiirros,Caricature
-Pilkku,Comma (punctuation)
+Pilkku,Comma
 Pilvenpiirtäjä,Skyscraper
 Pilvi,Cloud
 Pimeä aine,Dark matter
@@ -5352,7 +5352,7 @@ Pipin Pieni,Pepin the Short
 Pippuri,Black pepper
 Pisa,Pisa
 Pisan torni,Leaning Tower of Pisa
-Piste (geometria),Point (geometry)
+Piste,Point
 Pistekirjoitus,Braille
 Pistin,Bayonet
 Pistiäiset,Hymenoptera
@@ -5368,7 +5368,7 @@ Planeetta,Planet
 Planeettojen kaasukehät,Atmosphere
 Planetaarinen sumu,Planetary nebula
 Plankton,Plankton
-Plasma,Plasma (physics)
+Plasma,Plasma
 Plasmidi,Plasmid
 Platina,Platinum
 Platon,Plato
@@ -5381,8 +5381,8 @@ Plioseeni,Pliocene
 Plotinos,Plotinus
 Plovdiv,Plovdiv
 Plutarkhos,Plutarch
-Pluto,Pluto (disambiguation)
-Pluto (kääpiöplaneetta),Pluto
+Pluto,Pluto
+Pluto,Pluto
 Plutonium,Plutonium
 Plymouth,Plymouth
 Plzeň,Pilsen
@@ -5451,8 +5451,8 @@ Port Moresby,Port Moresby
 Port Vila,Port Vila
 Port of Spain,Port of Spain
 Port-au-Prince,Port-au-Prince
-Portland (Oregon),Portland
-Portland (täsmennyssivu),Portland
+Portland,Portland
+Portland,Portland
 Porto,Porto
 Portsmouth,Portsmouth
 Portugali,Portugal
@@ -5482,7 +5482,7 @@ Princetonin yliopisto,Princeton University
 Prinssi Edwardin saari,Prince Edward Island
 "Prinssi Philip, Edinburghin herttua",Prince Philip
 Prioni,Prion
-Prisma (optiikka),Prism (optics)
+Prisma,Prism
 Profeetta,Prophet
 Professori,Professor
 Progressiivinen rock,Progressive rock
@@ -5507,7 +5507,7 @@ Protoni,Proton
 Providence,Providence
 Prunus,Prunus
 Psalmien kirja,Psalms
-Psii,Psi (letter)
+Psii,Psi
 Psoriasis,Psoriasis
 Psykiatria,Psychiatry
 Psykoanalyysi,Psychoanalysis
@@ -5533,9 +5533,9 @@ Punaiset khmerit,Khmer Rouge
 Punakärpässieni,Amanita muscaria
 Punalevät,Red algae
 Punasiirtymä,Redshift
-Punasiirtymä,Redshift (disambiguation)
+Punasiirtymä,Redshift
 Punasolu,Red blood cell
-Punjab (Intia),Punjab (India)
+Punjab,Punjab
 Punk,Punk rock
 Puola,Poland
 Puoliintumisaika,Half-life
@@ -5547,7 +5547,7 @@ Puolisuunnikas,Trapezoid
 Puolue,Political party
 Pupilli,Pupil
 Purje,Sail
-Purje (tähdistö),Vela (constellation)
+Purje,Vela
 Purjelentokone,Glider
 Purukumi,Chewing gum
 Pussiahma,Tasmanian Devil
@@ -5567,39 +5567,39 @@ Pyhä Patrick,Saint Patrick
 Pyhä Yrjänä,Saint George
 Pyhä saksalais-roomalainen keisarikunta,Holy Roman Empire
 Pyramidi,Pyramid
-Pyramidi (geometria),Pyramid (geometry)
+Pyramidi,Pyramid
 Pyreneet,Pyrenees
 Pyreneiden niemimaa,Iberian Peninsula
 Pythagoras,Pythagoras
-Python,Python (programming language)
+Python,Python
 Pyökit,Beech
 Pyökkimäiset,Fagales
 Pyörimismäärä,Angular momentum
 Pyörä,Wheel
 Pyöräily,Cycling
-Pähkinä,Nut (fruit)
+Pähkinä,Nut
 Pähkinäpensaat,Hazel
 Päihderiippuvuus,Drug addiction
 Päiväntasaaja,Equator
 Päiväntasaajan Guinea,Equatorial Guinea
 Päiväntasaus,Equinox
 Pää,Head
-Pääjakso (biologia),Phylum
+Pääjakso,Phylum
 Pääkallo,Skull
 Pääkaupunki,Capital
 Pääministeri,Prime minister
-Pääoma,Capital (economics)
-Pääoma (Marx),Das Kapital
+Pääoma,Capital
+Pääoma,Das Kapital
 Päärynä,Pear
 Pääsiäinen,Easter
 Pääskyt,Swallow
-Pääte (morfologia),Suffix
+Pääte,Suffix
 Pöllölinnut,Owl
 Pölytys,Pollination
 Pörssi,Stock exchange
-Pöytä,Table (furniture)
+Pöytä,Table
 Pöytätennis,Table tennis
-Pöytävuori (tähdistö),Mensa (constellation)
+Pöytävuori,Mensa
 Q,Q
 Qatar,Qatar
 Qin-dynastia,Qin Dynasty
@@ -5609,10 +5609,10 @@ Queensland,Queensland
 Quentin Tarantino,Quentin Tarantino
 Quito,Quito
 Québec,Quebec
-Québec (kaupunki),Quebec City
+Québec,Quebec City
 R,R
-RAF,RAF (disambiguation)
-RAID (tietotekniikka),RAID
+RAF,RAF
+RAID,RAID
 RISC,Reduced instruction set computer
 RNA,RNA
 Ra,Ra
@@ -5630,17 +5630,17 @@ Radium,Radium
 Radon,Radon
 Rae,Hail
 Rafael,Raphael
-Rafael (arkkienkeli),Raphael (archangel)
+Rafael,Raphael
 Raha,Money
 Rahoitus,Finance
 Rainer Maria Rilke,Rainer Maria Rilke
 Raiskaus,Rape
 Raitiovaunu,Tram
-Raja-arvo,Limit (mathematics)
+Raja-arvo,Limit
 Rakennus,Building
 Raketti,Rocket
 Rakkaus,Love
-Rakuuna (kasvi),Tarragon
+Rakuuna,Tarragon
 Raleigh,Raleigh
 Ralph Waldo Emerson,Ralph Waldo Emerson
 Rama,Rama
@@ -5680,28 +5680,28 @@ Ray Bradbury,Ray Bradbury
 Reaaliluku,Real number
 Recife,Recife
 Reggae,Reggae
-Regina (kaupunki),Regina
+Regina,Regina
 Reims,Reims
 Rein,Rhine
 Reititin,Router
 Rektaskensio,Right ascension
 Rekursio,Recursion
-Relaatio,Relation (mathematics)
+Relaatio,Relation
 Relativismi,Relativism
 Rele,Relay
 Rembrandt,Rembrandt
 Renessanssi,Renaissance
-Rengas,Ring (mathematics)
+Rengas,Ring
 Renium,Rhenium
 Resistanssi,Electrical resistance
 Retoriikka,Rhetoric
 Retoromaani,Romansh
 Revolveri,Revolver
-Revontulet,Aurora (astronomy)
-Rhea,Rhea (mythology)
-Rhea (kuu),Rhea (moon)
+Revontulet,Aurora
+Rhea,Rhea
+Rhea,Rhea
 Rhode Island,Rhode Island
-Rhoo,Rho (letter)
+Rhoo,Rho
 Rhythm and blues,Rhythm and blues
 Riad,Riyadh
 Riboflaviini,Riboflavin
@@ -5710,13 +5710,13 @@ Richard Feynman,Richard Feynman
 Richard Nixon,Richard Nixon
 Richard Strauss,Richard Strauss
 Richard Wagner,Richard Wagner
-Richmond (Virginia),Richmond
-Rick Wright,Richard Wright (musician)
+Richmond,Richmond
+Rick Wright,Richard Wright
 Riemukaari,Triumphal arch
 Rigel,Rigel
 Riianlahti,Gulf of Riga
 Riika,Riga
-Riikinkukko (tähdistö),Pavo (constellation)
+Riikinkukko,Pavo
 Riippuvuus,Addiction
 Riisi,Rice
 Rikki,Sulfur
@@ -5731,7 +5731,7 @@ Rintaliivit,Brassiere
 Rintasyöpä,Breast cancer
 Rio Grande,Rio Grande
 Rio de Janeiro,Rio de Janeiro
-Rio de Janeiro (osavaltio),Rio de Janeiro (state)
+Rio de Janeiro,Rio de Janeiro
 Rippikoulu,Confirmation
 Ripuli,Diarrhea
 Risteilijä,Cruiser
@@ -5783,7 +5783,7 @@ Rosario,Rosario
 Roseau,Roseau
 Rosettan kivi,Rosetta Stone
 Roska,Waste
-Roskaposti,Spam (electronic)
+Roskaposti,Spam
 Rosmariini,Rosemary
 Rostock,Rostock
 Rotat,Rat
@@ -5796,7 +5796,7 @@ Rubens,Peter Paul Rubens
 Rubidium,Rubidium
 Rubiini,Ruby
 Rubikon,Rubicon
-Ruby,Ruby (programming language)
+Ruby,Ruby
 Rudolf Diesel,Rudolf Diesel
 Rudolf Hess,Rudolf Hess
 Rudolf Steiner,Rudolf Steiner
@@ -5811,7 +5811,7 @@ Ruoanlaitto,Cooking
 Ruoansulatus,Digestion
 Ruoansulatuskanava,Gastrointestinal tract
 Ruokabanaani,Banana
-Ruokabanaani,Musa (genus)
+Ruokabanaani,Musa
 Ruokasuola,Salt
 Ruokatorvi,Esophagus
 Ruostumaton teräs,Stainless steel
@@ -5834,8 +5834,8 @@ Ruutisalaliitto,Gunpowder Plot
 Ruuvi,Screw
 Ruuvimeisseli,Screwdriver
 Ryhmä,Group
-Ryhmä (algebra),Group (mathematics)
-Ryhmä (jaksollinen järjestelmä),Group (periodic table)
+Ryhmä,Group
+Ryhmä,Group
 Ryhmäteoria,Group theory
 Ryhävalas,Humpback Whale
 Rykmentti,Regiment
@@ -5855,16 +5855,16 @@ Saarnaajan kirja,Ecclesiastes
 Saaste,Pollution
 Saatana,Satan
 Sacramento,Sacramento
-Sadanta,Precipitation (meteorology)
+Sadanta,Precipitation
 Saddam Hussein,Saddam Hussein
 Sade,Rain
-Safari (selain),Safari (web browser)
+Safari,Safari
 Safiiri,Sapphire
 Sahara,Sahara
 Saharan eteläpuolinen Afrikka,Sub-Saharan Africa
 Sahrami,Saffron
 Saint Kitts ja Nevis,Saint Kitts and Nevis
-Saint Lawrence (joki),Saint Lawrence River
+Saint Lawrence,Saint Lawrence River
 Saint Louis,St. Louis
 Saint Lucia,Saint Lucia
 Saint Paul,Saint Paul
@@ -5880,12 +5880,12 @@ Saksa,Germany
 Saksan demokraattinen tasavalta,East Germany
 Saksan kansallissosialistinen työväenpuolue,Nazi Party
 Saksan kieli,German language
-Saksan liittotasavalta (1949–1990),West Germany
+Saksan liittotasavalta,West Germany
 Saksan markka,German mark
 Saksanhirvi,Red Deer
 Saksanpaimenkoira,German Shepherd Dog
 Sakset,Scissors
-Saksi (osavaltio),Saxony
+Saksi,Saxony
 Saksofoni,Saxophone
 Saladin,Saladin
 Salama,Lightning
@@ -5896,16 +5896,16 @@ Salanimi,Pseudonym
 Salasana,Password
 Salat,Salah
 Salaus,Cryptography
-Salem (Oregon),Salem
+Salem,Salem
 Salerno,Salerno
 Salman Rushdie,Salman Rushdie
 Salmi,Strait
 Salomo,Solomon
 Salomonsaaret,Solomon Islands
 Salt Lake City,Salt Lake City
-Salvador (Brasilia),Salvador
+Salvador,Salvador
 Salzburg,Salzburg
-Salzburg (osavaltio),Salzburg (state)
+Salzburg,Salzburg
 Samara,Samara
 Samarium,Samarium
 Samarkand,Samarkand
@@ -5914,19 +5914,19 @@ Sambia,Zambia
 Sammakkoeläimet,Amphibian
 Sammakot,Frog
 Samoa,Samoa
-Samppanja,Champagne (wine)
+Samppanja,Champagne
 Samsara,Samsara
 Samuel Beckett,Samuel Beckett
 Samuel Morse,Samuel F. B. Morse
 Samuel Taylor Coleridge,Samuel Taylor Coleridge
 Samurai,Samurai
-San Antonio (Texas),San Antonio
+San Antonio,San Antonio
 San Diego,San Diego
 San Francisco,San Francisco
-San José (Kalifornia),San Jose
-San Juan (Puerto Rico),San Juan
+San José,San Jose
+San Juan,San Juan
 San Marino,San Marino
-San Marino (kaupunki),San Marino
+San Marino,San Marino
 San Salvador,San Salvador
 Sana,Word
 Sanakirja,Dictionary
@@ -5937,12 +5937,12 @@ Saniaiset,Fern
 Sankari,Hero
 Sansibar,Zanzibar
 Sanskrit,Sanskrit
-Santa Fe (New Mexico),Santa Fe
+Santa Fe,Santa Fe
 Santiago,Santiago
 Santiago de Chile,Santiago
 Santiago de Cuba,Santiago de Cuba
 Santo Domingo,Santo Domingo
-Santos (kaupunki),Santos (Săo Paulo)
+Santos,Santos
 Sapfo,Sappho
 Sappi,Bile
 Sappirakko,Gallbladder
@@ -5953,17 +5953,17 @@ Sarakasvit,Cyperaceae
 Saratov,Saratov
 Sardiinit,Sardine
 Sardinia,Sardinia
-Sari (Iran),Sari
+Sari,Sari
 Sariini,Sarin
-Sarja (matematiikka),Series (mathematics)
+Sarja,Series
 Sarjakukkaiskasvit,Apiaceae
 Sarkofagi,Sarcophagus
 Sarveiskalvo,Cornea
-Sarvi,Horn (anatomy)
+Sarvi,Horn
 Sarvikuonot,Rhinoceros
 Sarvipöllö,Long-eared Owl
 Saskatchewan,Saskatchewan
-Sata,100 (number)
+Sata,100
 Satama,Port
 Satanismi,Satanism
 Satavuotinen sota,Hundred Years' War
@@ -5972,9 +5972,9 @@ Sateenvarjo,Umbrella
 Satelliitti,Satellite
 Satiiri,Satire
 Satu,Fairy tale
-Saturn,Saturn (disambiguation)
+Saturn,Saturn
 Saturnus,Saturn
-Saturnus (jumala),Saturn (mythology)
+Saturnus,Saturn
 Satyyrit,Satyr
 Saudi-Arabia,Saudi Arabia
 Saul Bellow,Saul Bellow
@@ -5983,7 +5983,7 @@ Savi,Clay
 Savuke,Cigarette
 Savusumu,Smog
 Schelde,Scheldt
-Scheme,Scheme (programming language)
+Scheme,Scheme
 Schwarzwald,Black Forest
 Science fiction,Science fiction
 Scipio Africanus,Scipio Africanus
@@ -6028,9 +6028,9 @@ Sergei Rahmaninov,Sergei Rachmaninoff
 Seriini,Serine
 Serotoniini,Serotonin
 Seteli,Banknote
-Seth,Set (mythology)
+Seth,Set
 Setrit,Cedar
-Seulaset,Pleiades (star cluster)
+Seulaset,Pleiades
 Sevastopol,Sevastopol
 Sevilla,Seville
 Seychellit,Seychelles
@@ -6055,7 +6055,7 @@ Sielunmessu,Requiem
 Siemen,Seed
 Siemenkasvit,Spermatophyte
 Siemenneste,Semen
-Siemens,Siemens (unit)
+Siemens,Siemens
 Siemensyöksy,Ejaculation
 Sienet,Fungus
 Sienet,Mushroom
@@ -6091,7 +6091,7 @@ Sinappikaasu,Sulfur mustard
 Sinclair Lewis,Sinclair Lewis
 Sinfonia,Symphony
 Singapore,Singapore
-Single,Single (music)
+Single,Single
 Sinihappo,Hydrogen cyanide
 Sininen,Blue
 Sinisorsa,Mallard
@@ -6106,7 +6106,7 @@ Sirius,Sirius
 Sirkus,Circus
 Sirppi ja vasara,Hammer and sickle
 Sisilia,Sicily
-Sisilisko (tähdistö),Lacerta
+Sisilisko,Lacerta
 Siskoni on noita,Charmed
 Sisyfos,Sisyphus
 Sisä-Mongolia,Inner Mongolia
@@ -6129,11 +6129,11 @@ Skinhead,Skinhead
 Skitsofrenia,Schizophrenia
 Skolastiikka,Scholasticism
 Skopje,Skopje
-Skorpioni (tähdistö),Scorpius
+Skorpioni,Scorpius
 Skorpionit,Scorpion
 Skotlanti,Scotland
 Skylab,Skylab
-Slash (kitaristi),Slash (musician)
+Slash,Slash
 Slayer,Slayer
 Sleesia,Silesia
 Slovakia,Slovakia
@@ -6146,18 +6146,18 @@ Sofismi,Sophism
 Sofokles,Sophocles
 Softball,Softball
 Soijapapu,Soybean
-Sointu,Chord (music)
+Sointu,Chord
 Soitin,Musical instrument
 Sokeri,Sugar
 Sokeus,Blindness
 Sokrates,Socrates
-Sola (maantiede),Mountain pass
+Sola,Mountain pass
 Solidaarisuus,Solidarity
 Solisluu,Clavicle
 Solmio,Necktie
-Solmu (nopeusyksikkö),Knot (speed)
+Solmu,Knot
 Solon,Solon
-Solu,Cell (biology)
+Solu,Cell
 Soluelin,Organelle
 Solukalvo,Cell membrane
 Solulima,Cytoplasm
@@ -6186,20 +6186,20 @@ Sota,War
 Sotarikos,War crime
 Sotavanki,Prisoner of war
 Sotilasarvo,Military rank
-Soul (kaupunki),Seoul
-Soutu,Rowing (sport)
+Soul,Seoul
+Soutu,Rowing
 Sovellettu matematiikka,Applied mathematics
 Spagetti,Spaghetti
 Sparta,Sparta
 Spektroskopia,Spectroscopy
 Spencer Tracy,Spencer Tracy
-Spin,Spin (physics)
+Spin,Spin
 Split,Split
 Spree,Spree
-Springfield (Illinois),Springfield
-Squash,Squash (sport)
+Springfield,Springfield
+Squash,Squash
 Sri Lanka,Sri Lanka
-St. Helens (vuori),Mount St. Helens
+St. Helens,Mount St. Helens
 Stalinismi,Stalinism
 Stanfordin yliopisto,Stanford University
 Stanley Kubrick,Stanley Kubrick
@@ -6220,7 +6220,7 @@ Strasbourg,Strasbourg
 Strategia,Strategy
 Stratigrafia,Stratigraphy
 Stratosfääri,Stratosphere
-Stressi,Stress (medicine)
+Stressi,Stress
 Strontium,Strontium
 Strukturalismi,Structuralism
 Strutsi,Ostrich
@@ -6229,9 +6229,9 @@ Stupa,Stupa
 Sturmabteilung,Sturmabteilung
 Stuttgart,Stuttgart
 Styks,Styx
-Sublimoituminen,Sublimation (chemistry)
+Sublimoituminen,Sublimation
 Substantiivi,Noun
-Subversion,Subversion (software)
+Subversion,Subversion
 Sucre,Sucre
 Sudan,Sudan
 Sudenkorennot,Odonata
@@ -6248,8 +6248,8 @@ Sukarno,Sukarno
 Sukellusvene,Submarine
 Sukkulamadot,Nematode
 Suklaa,Chocolate
-Suku (biologia),Genus
-Suku (kielioppi),Grammatical gender
+Suku,Genus
+Suku,Grammatical gender
 Sukunimi,Family name
 Sukupuoli,Sex
 Sukupuolielin,Sex organ
@@ -6273,13 +6273,13 @@ Sumu,Fog
 Sun Yat-sen,Sun Yat-sen
 Sunnalaisuus,Sunni Islam
 Sunnuntai,Sunday
-Suola,Salt (chemistry)
+Suola,Salt
 Suolahappo,Hydrochloric acid
 Suolisto,Intestine
 Suomenlahti,Gulf of Finland
 Suomi,Finland
 Suomumatelijat,Squamata
-Suora,Line (mathematics)
+Suora,Line
 Suorakulmio,Rectangle
 Suoritin,Central processing unit
 Supernova,Supernova
@@ -6292,7 +6292,7 @@ Surrey,Surrey
 Susan Sontag,Susan Sontag
 Sushi,Sushi
 Susi,Gray Wolf
-Susi (tähdistö),Lupus (constellation)
+Susi,Lupus
 Suunnikas,Parallelogram
 Suur-Lontoo,Greater London
 Suura,Sura
@@ -6301,7 +6301,7 @@ Suuret järvet,Great Lakes
 Suuri paasto,Lent
 Suurin yhteinen tekijä,Greatest common divisor
 Suurlähettiläs,Ambassador
-Suurmestari (shakki),Grandmaster (chess)
+Suurmestari,Grandmaster
 Suurtietokone,Mainframe computer
 Suuseksi,Oral sex
 Suuteleminen,Kiss
@@ -6333,7 +6333,7 @@ Sypressikasvit,Cupressaceae
 Syrakusa,Syracuse
 Syrjintä,Discrimination
 Sytosiini,Cytosine
-Sytytin (tulentekoväline),Lighter
+Sytytin,Lighter
 Syylä,Wart
 Syyria,Syria
 Syyskuu,September
@@ -6378,7 +6378,7 @@ Taidehistoria,Art history
 Taidemusiikki,Classical music
 Taijiquan,Tai chi chuan
 Taikaneliö,Magic square
-Taikuus (yliluonnollinen),Magic (paranormal)
+Taikuus,Magic
 Taipei,Taipei
 Taistelu Britanniasta,Battle of Britain
 Taistelulaiva,Battleship
@@ -6389,7 +6389,7 @@ Taittuminen,Refraction
 Taivaanekvaattori,Celestial equator
 Taivaankansi,Celestial sphere
 Taivaanmekaniikka,Celestial mechanics
-Taivas (uskonto),Heaven
+Taivas,Heaven
 Taiwan,Taiwan
 Taj Mahal,Taj Mahal
 Takaisinkytkentä,Feedback
@@ -6419,7 +6419,7 @@ Tanakh,Tanakh
 Tang-dynastia,Tang Dynasty
 Tanganjikajärvi,Lake Tanganyika
 Tanger,Tangier
-Tango,Tango (dance)
+Tango,Tango
 Tansania,Tanzania
 Tanska,Denmark
 Tanskan kruunu,Danish krone
@@ -6442,31 +6442,31 @@ Tase,Balance sheet
 Taskuravut,Crab
 Tasmania,Tasmania
 Tasmaninmeri,Tasman Sea
-Taso,Plane (mathematics)
+Taso,Plane
 Tattari,Buckwheat
 Tatuointi,Tattoo
 Tau,Tau
 Taulukkolaskentaohjelma,Spreadsheet
 Tavaramerkki,Trademark
-Tavu (kielitiede),Syllable
-Tavu (tietotekniikka),Byte
+Tavu,Syllable
+Tavu,Byte
 Taškent,Tashkent
 Tbilisi,Tbilisi
 Teatteri,Theatre
 Tee,Tea
-Teemasivu:Biologia,Biology
-Teemasivu:Elokuva,Film
-Teemasivu:Filosofia,Philosophy
-Teemasivu:Fysiikka,Physics
-Teemasivu:Henkilöt,Biography
-Teemasivu:Historia,History
-Teemasivu:Kirjallisuus,Literature
-Teemasivu:Maantiede,Geography
-Teemasivu:Tähtitiede,Astronomy
+Biologia,Biology
+Elokuva,Film
+Filosofia,Philosophy
+Fysiikka,Physics
+Henkilöt,Biography
+Historia,History
+Kirjallisuus,Literature
+Maantiede,Geography
+Tähtitiede,Astronomy
 Tegucigalpa,Tegucigalpa
 Tehdas,Factory
 Teheran,Tehran
-Teho,Power (physics)
+Teho,Power
 Teini,Adolescence
 Tekijänoikeus,Copyright
 Teknetium,Technetium
@@ -6504,24 +6504,24 @@ Tertullianus,Tertullian
 Terveys,Health
 Teräs,Steel
 Teräsmies,Superman
-Tesla,Tesla (unit)
-Testamentti,Will (law)
+Tesla,Tesla
+Testamentti,Will
 Testosteroni,Testosterone
-Tethys (kuu),Tethys (moon)
-Tethys (mytologia),Tethys (mythology)
+Tethys,Tethys
+Tethys,Tethys
 Tetraedri,Tetrahedron
 Tetrahydrokannabinoli,Tetrahydrocannabinol
 Tetrapoda,Tetrapod
 Texas,Texas
 Thaimaa,Thailand
-Thaleia (muusa),Thalia
+Thaleia,Thalia
 Thales,Thales
 Thames,River Thames
 Thanatos,Thanatos
 The Star-Spangled Banner,The Star-Spangled Banner
-Theba (Egypti),Thebes
-Theba (Kreikka),Thebes
-Thebe,Thebe (moon)
+Theba,Thebes
+Theba,Thebes
+Thebe,Thebe
 Theeta,Theta
 Theia,Theia
 Themis,Themis
@@ -6543,12 +6543,12 @@ Thomas Malthus,Thomas Malthus
 Thomas Mann,Thomas Mann
 Thomas More,Thomas More
 Thomas Paine,Thomas Paine
-Thomas Young,Thomas Young (scientist)
+Thomas Young,Thomas Young
 Thor,Thor
 Thot,Thoth
 Thukydides,Thucydides
 Thüringen,Thuringia
-Tiaiset,Tit (bird)
+Tiaiset,Tit
 Tiamiini,Thiamine
 Tianjin,Tianjin
 Tiber,Tiber
@@ -6593,24 +6593,24 @@ Tilavuus,Volume
 Tilli,Dill
 Timantti,Diamond
 Timbuktu,Timbuktu
-Time,Time (magazine)
+Time,Time
 Timjami,Thyme
 Timor,Timor
 Timur Lenk,Timur
 Tina,Tin
 Tirana,Tirana
-Tiroli,Tyrol (state)
+Tiroli,Tyrol
 Tislaus,Distillation
 Titaani,Titanium
-Titaani (mytologia),Titan (mythology)
-Titan,Titan (disambiguation)
-Titan (kuu),Titan (moon)
-Titania,Titania (moon)
-Titanic (täsmennyssivu),Titanic (disambiguation)
+Titaani,Titan
+Titan,Titan
+Titan,Titan
+Titania,Titania
+Titanic,Titanic
 Titus,Titus
-Tivoli (kaupunki),Tivoli
+Tivoli,Tivoli
 Tizian,Titian
-Tocantins,Tocantins (state)
+Tocantins,Tocantins
 Todennäköisyys,Probability
 Todennäköisyysteoria,Probability theory
 Tofu,Tofu
@@ -6623,7 +6623,7 @@ Toisen asteen yhtälön ratkaisukaava,Quadratic equation
 Toisenvaraisuus,Heterotroph
 Tokio,Tokyo
 Toksikologia,Toxicology
-Toledo (Espanja),Toledo
+Toledo,Toledo
 Tolueeni,Toluene
 Tom & Jerry,Tom and Jerry
 Tom Hanks,Tom Hanks
@@ -6637,7 +6637,7 @@ Tony Blair,Tony Blair
 Toora,Torah
 Topaasi,Topaz
 Topeka,Topeka
-Topologia (matematiikka),Topology
+Topologia,Topology
 Torakat,Cockroach
 Torino,Turin
 Torium,Thorium
@@ -6681,21 +6681,21 @@ Trinidad,Trinidad
 Trinidad ja Tobago,Trinidad and Tobago
 Tripoli,Tripoli
 Tritium,Tritium
-Triton (jumala),Triton (mythology)
-Triton (kuu),Triton (moon)
+Triton,Triton
+Triton,Triton
 Troija,Troy
-Troijalainen (tietotekniikka),Trojan horse (computing)
+Troijalainen,Trojan horse
 Troijan puuhevonen,Trojan Horse
 Troijan sota,Trojan War
-Trolli,Troll (Internet)
-Trombi (pyörremyrsky),Tornado
+Trolli,Troll
+Trombi,Tornado
 Trondheim,Trondheim
 Trooppinen vyöhyke,Tropics
 Troposfääri,Troposphere
 Trotskilaisuus,Trotskyism
 Trumanin oppi,Truman Doctrine
 Trumpetti,Trumpet
-Tryffelit,Tuber (genus)
+Tryffelit,Tuber
 Trygve Lie,Trygve Lie
 Tryptofaani,Tryptophan
 Tsaari,Tsar
@@ -6703,12 +6703,12 @@ Tsunami,Tsunami
 Tuaregit,Tuareg
 Tuberkuloosi,Tuberculosis
 Tucson,Tucson
-Tuhat,1000 (number)
+Tuhat,1000
 Tuhatjalkaiset,Myriapoda
 Tuhkakeskiviikko,Ash Wednesday
 Tuhkarokko,Measles
 Tuhkimo,Cinderella
-Tukaani (tähdistö),Tucana
+Tukaani,Tucana
 Tukholma,Stockholm
 Tukikudos,Connective tissue
 Tulehdus,Inflammation
@@ -6760,7 +6760,7 @@ Tyrrhenanmeri,Tyrrhenian Sea
 Tyynimeri,Pacific Ocean
 Työkalu,Tool
 Työttömyys,Unemployment
-Työväenpuolue (Yhdistynyt kuningaskunta),Labour Party (UK)
+Työväenpuolue,Labour Party
 Tähdistö,Constellation
 Tähti,Star
 Tähtitiede,Astronomy
@@ -6809,23 +6809,23 @@ Upanishad,Upanishad
 Uppsala,Uppsala
 Ur,Ur
 Uraani,Uranium
-Ural (vuoristo),Ural Mountains
+Ural,Ural Mountains
 Urania,Urania
-Uranos,Uranus (mythology)
+Uranos,Uranus
 Uranus,Uranus
 Urasiili,Uracil
 Urdu,Urdu
 Urea,Urea
 Urheilu,Sport
 Uruguay,Uruguay
-Urut,Organ (music)
+Urut,Organ
 Uskomuslääkintä,Alternative medicine
 Uskonpuhdistus,Protestant Reformation
 Uskonto,Religion
 Utah,Utah
 Utopia,Utopia
-Utrecht,Utrecht (city)
-Utrecht (provinssi),Utrecht (province)
+Utrecht,Utrecht
+Utrecht,Utrecht
 Uttar Pradesh,Uttar Pradesh
 Uudissana,Neologism
 Uusi Etelä-Wales,New South Wales
@@ -6840,7 +6840,7 @@ Uusplatonismi,Neoplatonism
 Uzbekistan,Uzbekistan
 V,V
 Vaahterat,Maple
-Vaaka (tähdistö),Libra (constellation)
+Vaaka,Libra
 Vaakuna,Coat of arms
 Vaaleanpunainen,Pink
 Vaali,Election
@@ -6863,9 +6863,9 @@ Valaat,Cetacea
 Valas,Whale
 Valaskala,Cetus
 Valehtelu,Lie
-Valence (Drôme),Valence
+Valence,Valence
 Valencia,Valencia
-Valenssi (kemia),Valence (chemistry)
+Valenssi,Valence
 Valentina Tereškova,Valentina Tereshkova
 Valhalla,Valhalla
 Valko-Venäjä,Belarus
@@ -6882,7 +6882,7 @@ Valokuitu,Optical fiber
 Valokuvaus,Photography
 Valonnopeus,Speed of light
 Valovuosi,Light-year
-Valtimo (anatomia),Artery
+Valtimo,Artery
 Valtio,State
 Valtioliitto,Confederation
 Valtiomuoto,Form of government
@@ -6899,11 +6899,11 @@ Vanuatu,Vanuatu
 Vapaa tahto,Free will
 Vapaamuurarit,Freemasonry
 Vapaudenpatsas,Statue of Liberty
-Vapaus,Freedom (philosophy)
-Var (departementti),Var (department)
+Vapaus,Freedom
+Var,Var
 Varianssi,Variance
 Varikset,Corvidae
-Varikset (suku),Crow
+Varikset,Crow
 Varjoliito,Paragliding
 Varna,Varna
 Varpunen,House Sparrow
@@ -6920,22 +6920,22 @@ Vastus,Resistor
 Vatikaanin toinen kirkolliskokous,Second Vatican Council
 Vatikaanivaltio,Vatican City
 Vauhti,Speed
-Vedenpaisumus,Deluge (mythology)
+Vedenpaisumus,Deluge
 Vega,Vega
 Vehkakasvit,Araceae
 Vehnät,Wheat
 Veiksel,Vistula
 Veistotaltta,Caelum
 Veitsi,Knife
-Vektori,Vector (spatial)
+Vektori,Vector
 Velociraptor,Velociraptor
 Vene,Boat
 Veneto,Veneto
 Venetsia,Venice
 Venezuela,Venezuela
 Venus,Venus
-Venus (mytologia),Venus (mythology)
-Venus (täsmennyssivu),Venus (disambiguation)
+Venus,Venus
+Venus,Venus
 Venäjä,Russia
 Venäjän–Japanin sota,Russo-Japanese War
 Verbi,Verb
@@ -6949,7 +6949,7 @@ Verihiutale,Platelet
 Veriplasma,Blood plasma
 Veriryhmä,Blood type
 Verisuoni,Blood vessel
-Verkko (tähdistö),Reticulum
+Verkko,Reticulum
 Verkkokalvo,Retina
 Verkkosivu,Web page
 Verkkotopologia,Network topology
@@ -6961,9 +6961,9 @@ Versailles'n palatsi,Palace of Versailles
 Versailles'n rauha,Treaty of Versailles
 Vesi,Water
 Vesikehä,Hydrosphere
-Vesikäärme (tähdistö),Hydra (constellation)
+Vesikäärme,Hydra
 Vesimeloni,Watermelon
-Vesimies (tähdistö),Aquarius (constellation)
+Vesimies,Aquarius
 Vesinokkaeläin,Platypus
 Vesipallo,Water polo
 Vesiputous,Waterfall
@@ -6971,7 +6971,7 @@ Vesirokko,Chickenpox
 Vesistö,Drainage basin
 Vesivoima,Hydroelectricity
 Vespasianus,Vespasian
-Vesta,Vesta (mythology)
+Vesta,Vesta
 Vesuvius,Mount Vesuvius
 Veto-oikeus,Veto
 Veturi,Locomotive
@@ -6981,9 +6981,9 @@ Vetysidos,Hydrogen bond
 Vichy,Vichy
 Victor Hugo,Victor Hugo
 Victoria,Victoria
-Victoria (Australia),Victoria (Australia)
-Victoria (Kanada),Victoria
-Victoria (Seychellit),Victoria
+Victoria,Victoria
+Victoria,Victoria
+Victoria,Victoria
 Victoriajärvi,Lake Victoria
 Victorian putoukset,Victoria Falls
 Video,Video
@@ -7008,8 +7008,8 @@ Viisikanta,Pentagram
 Viisikulmio,Pentagon
 Viittomakielet,Sign language
 Vilfredo Pareto,Vilfredo Pareto
-Vilhelm I (Saksa),William I
-Vilhelm II (Saksa),William II
+Vilhelm I,William I
+Vilhelm II,William II
 Vilja,Cereal
 Villikissa,Wildcat
 Villisika,Boar
@@ -7041,7 +7041,7 @@ Vladivostok,Vladivostok
 Voi,Butter
 Voikukka,Dandelion
 Voileipä,Sandwich
-Voima (fysiikka),Force
+Voima,Force
 Voimalaitos,Power station
 Vokaali,Vowel
 Vokatiivi,Vocative case
@@ -7077,9 +7077,9 @@ Välimeri,Mediterranean Sea
 Välimerkki,Punctuation
 Välimuisti,Cache
 Väri,Color
-Värikalvo,Iris (anatomy)
+Värikalvo,Iris
 Värisokeus,Color blindness
-Väylä,Bus (computing)
+Väylä,Bus
 Vääntömomentti,Torque
 W,W
 W. Somerset Maugham,W. Somerset Maugham
@@ -7096,15 +7096,15 @@ Walt Disney,Walt Disney
 Walt Whitman,Walt Whitman
 Walter Gropius,Walter Gropius
 Walter Scott,Walter Scott
-Washington,Washington (disambiguation)
-Washington (DC),Washington
-Washington (osavaltio),Washington
+Washington,Washington
+Washington,Washington
+Washington,Washington
 Watergate-skandaali,Watergate scandal
 Waterloon taistelu,Battle of Waterloo
 Watti,Watt
 Wattitunti,Watt-hour
 Web-kamera,Webcam
-Weber (yksikkö),Weber (unit)
+Weber,Weber
 Weimar,Weimar
 Weimarin tasavalta,Weimar Republic
 Wellington,Wellington
@@ -7163,7 +7163,7 @@ Ydinvoima,Nuclear power
 Yellowstonen kansallispuisto,Yellowstone National Park
 Yggdrasil,Yggdrasil
 Yhdiste,Chemical compound
-Yhdiste (matematiikka),Union (set theory)
+Yhdiste,Union
 Yhdistetty luku,Composite number
 Yhdistyneet arabiemiirikunnat,United Arab Emirates
 Yhdistyneet kansakunnat,United Nations
@@ -7173,7 +7173,7 @@ Yhdistynyt kuningaskunta,United Kingdom
 Yhdyntä,Sexual intercourse
 Yhdysvallat,United States
 Yhdysvaltain Neitsytsaaret,United States Virgin Islands
-Yhdysvaltain demokraattinen puolue,Democratic Party (United States)
+Yhdysvaltain demokraattinen puolue,Democratic Party
 Yhdysvaltain dollari,United States dollar
 Yhdysvaltain edustajainhuone,United States House of Representatives
 Yhdysvaltain ilmavoimat,United States Air Force
@@ -7182,7 +7182,7 @@ Yhdysvaltain korkein oikeus,Supreme Court of the United States
 Yhdysvaltain laivasto,United States Navy
 Yhdysvaltain perustuslaki,United States Constitution
 Yhdysvaltain presidentti,President of the United States
-Yhdysvaltain republikaaninen puolue,Republican Party (United States)
+Yhdysvaltain republikaaninen puolue,Republican Party
 Yhdysvaltain sisällissota,American Civil War
 Yhdysvaltain vapaussota,American Revolutionary War
 Yhdysvaltain varapresidentti,Vice President of the United States
@@ -7194,7 +7194,7 @@ Yksikkömatriisi,Identity matrix
 Yksisarvinen,Unicorn
 Yksisirkkaiset,Monocotyledon
 Yleinen suhteellisuusteoria,General relativity
-Yleisurheilu,Athletics (track and field)
+Yleisurheilu,Athletics
 Yliopisto,University
 Ylipaino,Obesity
 Yläjärvi,Lake Superior
@@ -7221,18 +7221,18 @@ Zarathustralaisuus,Zoroastrianism
 Zeeta,Zeta
 Zen,Zen
 Zeniitti,Zenith
-Zenon (keisari),Zeno (emperor)
+Zenon,Zeno
 Zenon Elealainen,Zeno of Elea
 Zenon Kitionilainen,Zeno of Citium
 Zeus,Zeus
-Zeus,Zeus (disambiguation)
+Zeus,Zeus
 Zikkurat,Ziggurat
 Zimbabwe,Zimbabwe
 Zirkonium,Zirconium
 Zombi,Zombie
 Zulut,Zulu
 finnish,english
-maankuori,Crust (geology)
+maankuori,Crust
 Äidinkieli,First language
 Äiti,Mother
 Äiti Teresa,Mother Teresa
@@ -7245,7 +7245,7 @@ maankuori,Crust (geology)
 Äärettömyys,Infinity
 Århus,Aarhus
 Öljy,Oil
-Öljy,Oil (disambiguation)
+Öljy,Oil
 Öljyvärimaalaus,Oil painting
 Šahada,Shahadah
 Šamanismi,Shamanism
@@ -7253,4 +7253,4 @@ maankuori,Crust (geology)
 Šekki,Cheque
 Šintolaisuus,Shinto
 Šovinismi,Chauvinism
-А,A (Cyrillic)
+А,A

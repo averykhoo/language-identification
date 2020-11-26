@@ -1,22 +1,22 @@
 Other,English
-0 (bilang),0 (number)
-1 (bilang),1 (number)
-"1,000 (bilang)",1000 (number)
-10 (bilang),10 (number)
+0,0
+1,1
+"1,000",1000
+10,10
 134340 Pluton,Pluto
-136199 Eris,Eris (dwarf planet)
+136199 Eris,Eris
 1728,1728
-2 (bilang),2 (number)
-3 (bilang),3 (number)
-4 (bilang),4 (number)
-5 (bilang),5 (number)
-6 (bilang),6 (number)
-7 (bilang),7 (number)
-8 (bilang),8 (number)
-9 (bilang),9 (number)
+2,2
+3,3
+4,4
+5,5
+6,6
+7,7
+8,8
+9,9
 A,A
 ABC,ABC
-Aa (dumi),Waste
+Aa,Waste
 Aachen,Aachen
 Aaron,Aaron
 Aba Ginoong Maria,Hail Mary
@@ -70,7 +70,7 @@ Albert Einstein,Albert Einstein
 Albinismo,Albinism
 Album,Album
 Aldyebra,Algebra
-Aldyebrang Boolean,Boolean algebra (structure)
+Aldyebrang Boolean,Boolean algebra
 Alejandro VI,Pope Alexander VI
 Alemanya,Germany
 Alexander Graham Bell,Alexander Graham Bell
@@ -117,8 +117,8 @@ Aprika,Africa
 Aprikot,Apricot
 Arabyang Saudi,Saudi Arabia
 Aragón,Aragon
-Araw (astronomiya),Sun
-Araw (panahon),Day
+Araw,Sun
+Araw,Day
 Araw ng Pagbabayad-puri,Yom Kippur
 Araw ng mga Puso,Valentine's Day
 Archimedes,Archimedes
@@ -134,7 +134,7 @@ Arthur Rimbaud,Arthur Rimbaud
 Artista,Actor
 Aruba,Aruba
 Asido,Acid
-Asin,Salt (chemistry)
+Asin,Salt
 Asmara,Asmara
 Aso,Dog
 Assyria,Assyria
@@ -154,9 +154,9 @@ Australia,Australia
 Austria,Austria
 Azerbaijan,Azerbaijan
 B,B
-Babae (kasarian),Woman
+Babae,Woman
 Badminton,Badminton
-Baga (anatomiya),Lung
+Baga,Lung
 Baghdad,Baghdad
 Bagong Taon,New Year
 Bagong Tipan,New Testament
@@ -165,12 +165,12 @@ Bahaghari,Rainbow
 Bahrain,Bahrain
 Baja California,Baja California
 Baka,Cattle
-Bakaw (ibon),Heron
+Bakaw,Heron
 Bakla,Gay
 Bakterya,Bacteria
 Baku,Baku
 Balaklaot,Monsoon
-Balat (anatomiya),Skin
+Balat,Skin
 Balatong,Soybean
 Baleares,Balearic Islands
 Balimbing,Carambola
@@ -201,7 +201,7 @@ Belisarius,Belisarius
 Belize,Belize
 Belén,Bethlehem
 Benin,Benin
-Benus (planeta),Venus
+Benus,Venus
 Bermuda,Bermuda
 Bern,Berne
 Bernhard Riemann,Bernhard Riemann
@@ -249,10 +249,10 @@ Bundok Everest,Mount Everest
 Bundok Pinatubo,Mount Pinatubo
 Bungang-kahoy,Fruit
 Burkina Faso,Burkina Faso
-Buto (anatomiya),Bone
-Buto (ng halaman),Seed
-Buwan (astronomiya),Moon
-Buwan (panahon),Month
+Buto,Bone
+Buto,Seed
+Buwan,Moon
+Buwan,Month
 Buwaya,Crocodile
 C,C
 CD,Compact Disc
@@ -418,18 +418,18 @@ Database,Database
 Datos,Data
 David,David
 David Hilbert,David Hilbert
-Decius (emperor),Decius (emperor)
-Deimos (buwan),Deimos (moon)
+Decius,Decius
+Deimos,Deimos
 Delaware,Delaware
 Delphinapterus leucas,Beluga
 Democritus,Democritus
 Demograpiya,Demography
 Demokrasya,Democracy
 Demokratikong Republika ng Congo,Democratic Republic of the Congo
-Demosthenes (mananalumpati),Demosthenes
+Demosthenes,Demosthenes
 Denmark,Denmark
 Dhaka,Dhaka
-Dibisyon,Division (mathematics)
+Dibisyon,Division
 Dietrich Bonhoeffer,Dietrich Bonhoeffer
 Digmaang Espanyol-Amerikano,Spanish-American War
 Digmaang Malamig,Cold War
@@ -519,7 +519,7 @@ Florida,Florida
 Francis Drake,Francis Drake
 Francisco de Goya,Francisco Goya
 Frankfurt,Frankfurt
-Frankfurt (paglilinaw),Frankfurt (disambiguation)
+Frankfurt,Frankfurt
 Franklin Pierce,Franklin Pierce
 Freetown,Freetown
 Funafuti,Funafuti
@@ -530,10 +530,10 @@ GNU,GNU
 Gabon,Gabon
 Gaborone,Gaborone
 Gagamba,Spider
-Galicia (Espanya),Galicia (Spain)
+Galicia,Galicia
 Galileo Galilei,Galileo Galilei
 Gambia,The Gambia
-Gansa (cygnus),Swan
+Gansa,Swan
 Gansu,Gansu
 Garbansos,Chickpea
 Gasolina,Gasoline
@@ -544,8 +544,8 @@ George Orwell,George Orwell
 George W. Bush,George W. Bush
 George Washington,George Washington
 Georgetown,Georgetown
-Georgia,Georgia (country)
-Georgia (Estado sa Estados Unidos),Georgia (U.S. state)
+Georgia,Georgia
+Georgia,Georgia
 Gerald Ford,Gerald Ford
 Ghana,Ghana
 Gibraltar,Gibraltar
@@ -580,8 +580,8 @@ Hail,Hail
 Halaman,Plant
 Halimaw ng Lagunang Ness,Loch Ness Monster
 Hanseatic League,Hanseatic League
-Hapag,Table (furniture)
-Hapon (bansa),Japan
+Hapag,Table
+Hapon,Japan
 Harare,Harare
 Havana,Havana
 Hawaii,Hawaii
@@ -628,7 +628,7 @@ Hunyo 23,June 23
 Hunyo 24,June 24
 Hunyo 29,June 29
 Hunyo 3,June 3
-Hupiter (planeta),Jupiter
+Hupiter,Jupiter
 Huwebes,Thursday
 Hydroxide,Hydroxide
 Hà Nội,Hanoi
@@ -652,7 +652,7 @@ Imperyong Persyano,Persian Empire
 Indonesia,Indonesia
 Indya,India
 Inglatera,England
-Ingles (grupong etniko),English people
+Ingles,English people
 Inhinyeriya,Engineering
 Inhinyeryang mekanikal,Mechanical engineering
 Inner Mongolia,Inner Mongolia
@@ -660,7 +660,7 @@ Internet,Internet
 Internet Explorer,Internet Explorer
 Intranet,Intranet
 Invertebrata,Invertebrate
-Io (buwan),Io (moon)
+Io,Io
 Iono,Ion
 Iosif Stalin,Joseph Stalin
 Ipo-ipo,Tornado
@@ -669,7 +669,7 @@ Iran,Iran
 Isaac Newton,Isaac Newton
 Isdambituin,Starfish
 Isdang may baga,Lungfish
-Isfahan (lungsod),Esfahan
+Isfahan,Esfahan
 Iskwirel,Squirrel
 Islam,Islam
 Islamabad,Islamabad
@@ -692,9 +692,9 @@ James Monroe,James Monroe
 James Watt,James Watt
 Janis Joplin,Janis Joplin
 Jason,Jason
-Java,Java (disambiguation)
-Java (pulo),Java
-Java (wikang pamprograma),Java (programming language)
+Java,Java
+Java,Java
+Java,Java
 Jean-Jacques Rousseau,Jean-Jacques Rousseau
 Jeddah,Jeddah
 Jehova,Jehovah
@@ -716,7 +716,7 @@ K,K
 Kabayo,Horse
 Kabisera,Capital
 Kabul,Kabul
-Kagawaran ng Tagapagpaganap,Executive (government)
+Kagawaran ng Tagapagpaganap,Executive
 Kahoy,Wood
 Kalakalan,Trade
 Kalapati,Columbidae
@@ -734,7 +734,7 @@ Kanlurang Sahara,Western Sahara
 Kape,Coffee
 Kapisanan ng mga Bansa sa Timog-Silangang Asya,Association of Southeast Asian Nations
 Kapisanan ni Hesus,Society of Jesus
-Kapital,Capital (economics)
+Kapital,Capital
 Kapuluan,Archipelago
 Kapuluang Mariana,Mariana Islands
 Kapuluang Marshall,Marshall Islands
@@ -750,7 +750,7 @@ Karbon,Carbon
 Kardinal Richelieu,Cardinal Richelieu
 Karl Marx,Karl Marx
 Karne,Meat
-Kasal (institusyon),Marriage
+Kasal,Marriage
 Kasangkapang pangkasarian,Sex organ
 Kasoy,Cashew
 Kathmandu,Kathmandu
@@ -768,7 +768,7 @@ Kibuts,Kibbutz
 Kigali,Kigali
 Kilometro,Kilometre
 Kimika,Chemistry
-Kingdom (biyolohiya),Kingdom (biology)
+Kingdom,Kingdom
 "Kingston, Jamaica",Kingston
 Kingstown,Kingstown
 Kinshasa,Kinshasa
@@ -789,7 +789,7 @@ Korea,Korea
 Kriket,Cricket
 Kristiyanismo,Christianity
 Kuala Lumpur,Kuala Lumpur
-Kuko,Nail (anatomy)
+Kuko,Nail
 Kulay,Color
 Kulisap,Insect
 Kultura,Culture
@@ -804,7 +804,7 @@ Laissez-faire,Laissez-faire
 Lakas,Force
 Lalik,Lathe
 Langgam,Ant
-Laos (bansa),Laos
+Laos,Laos
 Lapis,Pencil
 Larba,Larva
 Largabista,Binoculars
@@ -826,13 +826,13 @@ Liechtenstein,Liechtenstein
 Likas na agham,Natural science
 Lilongwe,Lilongwe
 Lindol,Earthquake
-Linggo (araw),Sunday
-Linggo (panahon),Week
+Linggo,Sunday
+Linggo,Week
 Linggwistika,Linguistics
 Linux,Linux
 Lithuania,Lithuania
 Ljubljana,Ljubljana
-Lobo (hayop),Gray Wolf
+Lobo,Gray Wolf
 Local area network,Local area network
 Lohika,Logic
 Los Angeles,Los Angeles
@@ -845,7 +845,7 @@ Lungsod ng Brescia,Brescia
 Lungsod ng Brindisi,Brindisi
 Lungsod ng Buenos Aires,Buenos Aires
 Lungsod ng Cremona,Cremona
-Lungsod ng Djibouti,Djibouti (city)
+Lungsod ng Djibouti,Djibouti
 Lungsod ng Firenze,Florence
 Lungsod ng Fukuoka,Fukuoka
 Lungsod ng Genova,Genoa
@@ -854,7 +854,7 @@ Lungsod ng Helsinki,Helsinki
 Lungsod ng Kobe,Kobe
 Lungsod ng Kuwait,Kuwait City
 Lungsod ng Lima,Lima
-Lungsod ng Luxembourg,Luxembourg (city)
+Lungsod ng Luxembourg,Luxembourg
 Lungsod ng Mantova,Mantua
 Lungsod ng Mehiko,Mexico City
 Lungsod ng Milano,Milan
@@ -878,7 +878,7 @@ Lutheranismo,Lutheranism
 Luxembourg,Luxembourg
 Luzon,Luzon
 Lydia,Lydia
-L’Aquila (lungsod),L'Aquila
+L’Aquila,L'Aquila
 M,M
 MESSENGER,MESSENGER
 MS-DOS,MS-DOS
@@ -886,7 +886,7 @@ Macau,Macau
 Madagascar,Madagascar
 Madeira,Madeira
 "Madison, Wisconsin",Madison
-Madonna,Madonna (entertainer)
+Madonna,Madonna
 Madrid,Madrid
 Magasin,Magazine
 Mahatma Gandhi,Mahatma Gandhi
@@ -894,7 +894,7 @@ Makina,Machine
 Malabo,Malabo
 Malaysia,Malaysia
 Maldives,Maldives
-Mali (bansa),Mali
+Mali,Mali
 Mallorca,Majorca
 Malta,Malta
 Mamalya,Mammal
@@ -943,17 +943,17 @@ Medisina,Medicine
 Mehiko,Mexico
 Memphis,Memphis
 Mercury,Mercury
-Merkuryo (planeta),Mercury (planet)
+Merkuryo,Mercury
 Mesopotamya,Mesopotamia
 Metal,Metal
 Metalurhiya,Metallurgy
 Metapisika,Metaphysics
-Metis (buwan),Metis (moon)
+Metis,Metis
 Metro,Metre
 Mga Hudyo,Jew
 Michelangelo Buonarroti,Michelangelo
 Micronesia,Micronesia
-Micronesia (estado),Federated States of Micronesia
+Micronesia,Federated States of Micronesia
 Mihail Gorbačëv,Mikhail Gorbachev
 Mikrobiyolohiya,Microbiology
 Mikropono,Microphone
@@ -978,9 +978,9 @@ Montenegro,Montenegro
 Montevideo,Montevideo
 "Montréal, Québec",Montreal
 Morocco,Morocco
-Morpolohiya,Morphology (linguistics)
+Morpolohiya,Morphology
 Moto,Motto
-Mouse,Mouse (computing)
+Mouse,Mouse
 Mozambique,Mozambique
 Muhammad,Muhammad
 Mukha,Face
@@ -999,8 +999,8 @@ Nairobi,Nairobi
 Namibia,Namibia
 Nanjing,Nanjing
 Nanoteknolohiya,Nanotechnology
-Naples (lungsod),Naples
-Narangha (kulay),Orange (colour)
+Naples,Naples
+Narangha,Orange
 Nasaret,Nazareth
 Nassau,Nassau
 Nauru,Nauru
@@ -1045,11 +1045,11 @@ Oktubre 24,October 24
 Oligarkiya,Oligarchy
 Oman,Oman
 "Ontario, Canada",Ontario
-Opera (web browser),Opera (Internet suite)
+Opera,Opera
 Operating system,Operating system
-Orden (biyolohiya),Order (biology)
+Orden,Order
 Organisasyon ng Pandaigdigang Kalakalan,World Trade Organization
-Organo,Organ (anatomy)
+Organo,Organ
 Osama bin Laden,Osama bin Laden
 Oso,Bear
 Otho,Otho
@@ -1067,7 +1067,7 @@ Paghihinang,Welding
 Pagkain,Food
 Pagkamakabansa,Nationalism
 Pagkamakabayan,Patriotism
-Pagkonsumo,Consumption (economics)
+Pagkonsumo,Consumption
 Paglililok,Sculpture
 Pagluluto,Cooking
 Pagpapalaglag,Abortion
@@ -1082,9 +1082,9 @@ Palau,Palau
 Palay,Rice
 Pamahalaan,Government
 Pamantasan,University
-Pamilya (biyolohiya),Family (biology)
+Pamilya,Family
 Pampublikong dominyo,Public domain
-Panahon (oras),Time
+Panahon,Time
 Panahon ng Bato,Stone Age
 Panama,Panama
 Pananampalataya,Religion
@@ -1106,11 +1106,11 @@ Paraguay,Paraguay
 Paramaribo,Paramaribo
 Parihaba,Rectangle
 Paris,Paris
-Parisukat,Square (geometry)
+Parisukat,Square
 Parola,Lighthouse
 Paru-paro,Butterfly
 Parusang kamatayan,Capital punishment
-Pascal (programming language),Pascal (programming language)
+Pascal,Pascal
 Pasipismo,Pacifism
 Pasismo,Fascism
 Pasko,Christmas
@@ -1132,7 +1132,7 @@ Persentahe,Percentage
 Peru,Peru
 Phnom Penh,Phnom Penh
 Phobia,Phobia
-Phobos (buwan),Phobos (moon)
+Phobos,Phobos
 Pi,Pi
 Piemonte,Piedmont
 Pilipinas,Philippines
@@ -1144,7 +1144,7 @@ Pista ng Pagtatalaga,Hanukkah
 Pisyolohiya,Physiology
 Planeta,Planet
 Plastik,Plastic
-Plato (pilosopo),Plato
+Plato,Plato
 Polimero,Polymer
 Politika,Politics
 Polonya,Poland
@@ -1167,10 +1167,10 @@ Pulo ng Irlanda,Ireland
 Pulo ng Man,Isle of Man
 Pundahang pandagat,Port
 Pusa,Cat
-Puso (anatomiya),Heart
+Puso,Heart
 Puson,Abdomen
 Pythagoras,Pythagoras
-Páris,Paris (mythology)
+Páris,Paris
 Q,Q
 Qatar,Qatar
 Quantum mechanics,Quantum mechanics
@@ -1201,7 +1201,7 @@ Roma,Rome
 Romania,Romania
 Ronald Reagan,Ronald Reagan
 Rosa Parks,Rosa Parks
-Rosas (bulaklak),Rose
+Rosas,Rose
 Roseau,Roseau
 Rosh haShana,Rosh Hashanah
 Rudyard Kipling,Rudyard Kipling
@@ -1213,11 +1213,11 @@ SARS,Severe acute respiratory syndrome
 Sabado,Saturday
 Sabaw,Soup
 Saging,Banana
-Saging,Musa (genus)
+Saging,Musa
 Salapi,Money
-Saligang-batas,Constitution (political)
+Saligang-batas,Constitution
 Salita,Word
-Salzburg (lungsod),Salzburg
+Salzburg,Salzburg
 Samoa,Samoa
 San Cristobal at Nieves,Saint Kitts and Nevis
 "San Diego, California",San Diego
@@ -1228,7 +1228,7 @@ San Marino,San Marino
 San Salvador,San Salvador
 San Vicente at ang Kagranadinahan,Saint Vincent and the Grenadines
 Sandatang nuklear,Nuclear weapon
-Santa Lucia (bansa),Saint Lucia
+Santa Lucia,Saint Lucia
 "Santiago, Chile",Santiago
 Santo,Saint
 Santo Domingo,Santo Domingo
@@ -1237,8 +1237,8 @@ Sarajevo,Sarajevo
 Saranggola,Kite
 Sari,Genus
 Satanas,Satan
-Saturno,Saturn (disambiguation)
-Saturno (planeta),Saturn
+Saturno,Saturn
+Saturno,Saturn
 Sayaw,Dance
 Scanner,Image scanner
 Scipio Africanus,Scipio Africanus
@@ -1249,12 +1249,12 @@ Senegal,Senegal
 Seoul,Seoul
 Serbia at Montenegro,Serbia and Montenegro
 Serbya,Serbia
-Seres (astronomiya),Ceres (dwarf planet)
+Seres,Ceres
 Setyembre,September
 Setyembre 11,September 11
 Setyembre 17,September 17
 Setyembre 29,September 29
-Sevilla (lungsod),Seville
+Sevilla,Seville
 Seychelles,Seychelles
 Shahada,Shahadah
 Shanghai,Shanghai
@@ -1270,7 +1270,7 @@ Sikmura,Stomach
 Sikolohiya,Psychology
 Silangang Aprika,East Africa
 Silangang Timor,East Timor
-Silindro (gamit panugtog),Harmonica
+Silindro,Harmonica
 Simbahang Katoliko Romano,Roman Catholic Church
 Simón Pedro,Saint Peter
 Sinclair Lewis,Sinclair Lewis
@@ -1296,15 +1296,15 @@ Soroastrianismo,Zoroastrianism
 Speaker,Loudspeaker
 Sri Lanka,Sri Lanka
 Strasbourg,Strasbourg
-Sublimasyon,Sublimation (chemistry)
+Sublimasyon,Sublimation
 Sucre,Sucre
 Sudan,Sudan
 Sugal,Gambling
 Suha,Pomelo
 Suharto,Suharto
-Suka (sawsawan),Vinegar
+Suka,Vinegar
 Sunni Islam,Sunni Islam
-Suntukan (laro),Boxing
+Suntukan,Boxing
 Superman,Superman
 Suriname,Suriname
 Suva,Suva
@@ -1341,16 +1341,16 @@ Tel Aviv-Yafo,Tel Aviv
 Telebisyon,Television
 Telekomunikasyon,Telecommunication
 Telepono,Telephone
-Template:Bot,Bot
-Template:Fact,Fact
-Template:Main,Main
-Template:Stub,Stub
+Bot,Bot
+Fact,Fact
+Main,Main
+Stub,Stub
 Tennessee,Tennessee
 Teolohiya,Theology
 Thailand,Thailand
 Thales,Thales
 The Hague,The Hague
-Thebe (buwan),Thebe (moon)
+Thebe,Thebe
 Themistocles,Themistocles
 Thessaloníki,Thessaloniki
 Thomas Edison,Thomas Edison
@@ -1394,7 +1394,7 @@ Tycho Brahe,Tycho Brahe
 Tāj Mahal,Taj Mahal
 U,U
 UTC,Coordinated Universal Time
-Ubas (prutas),Grape
+Ubas,Grape
 Uganda,Uganda
 Ugnayang pampubliko,Public relations
 Ukraine,Ukraine
@@ -1418,13 +1418,13 @@ Utot,Flatulence
 Uzbekistan,Uzbekistan
 V,V
 Vaduz,Vaduz
-Valencia (paglilinaw),Valencia
+Valencia,Valencia
 Valletta,Valletta
-València (lungsod),Valencia
+València,Valencia
 Vanuatu,Vanuatu
 Venezuela,Venezuela
-Venus,Venus (disambiguation)
-Venus (mitolohiya),Venus (mythology)
+Venus,Venus
+Venus,Venus
 Vergilius,Virgil
 Vertebrata,Vertebrate
 Vespasian,Vespasian
@@ -1435,7 +1435,7 @@ Vietnam,Vietnam
 Viking,Viking
 Vilnius,Vilnius
 Vincent van Gogh,Vincent van Gogh
-Virginia (estado),Virginia
+Virginia,Virginia
 Vladimir Lenin,Vladimir Lenin
 Vladimir Putin,Vladimir Putin
 W,W
@@ -1474,7 +1474,7 @@ Yunnan,Yunnan
 Z,Z
 Zambia,Zambia
 Zeus,Zeus
-Zeus,Zeus (disambiguation)
+Zeus,Zeus
 Zimbabwe,Zimbabwe
 Zoroaster,Zoroaster
 tagalog,english

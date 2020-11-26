@@ -25,7 +25,7 @@ chinese_traditional,english
 三角形,Triangle
 上海,Shanghai
 世界語,Esperanto
-並集,Union (set theory)
+並集,Union
 中南半島,Indochina
 中東,Middle East
 中華人民共和國,People's Republic of China
@@ -35,7 +35,7 @@ chinese_traditional,english
 亞細亞洲,Asia
 亡,Death
 交換群,Abelian group
-交集,Intersection (set theory)
+交集,Intersection
 京,Capital
 人口,Population
 仁川,Incheon
@@ -83,13 +83,13 @@ chinese_traditional,english
 四邊形,Quadrilateral
 回教,Islam
 國,State
-土衛三,Tethys (moon)
-土衛五,Rhea (moon)
-土衛六,Titan (moon)
+土衛三,Tethys
+土衛五,Rhea
+土衛六,Titan
 地圖,Map
 地球,Earth
 坦克,Tank
-域 (代數),Field (mathematics)
+域,Field
 基督教,Christianity
 墨西哥,Mexico
 夏,Summer
@@ -112,7 +112,7 @@ chinese_traditional,english
 孫文,Sun Yat-sen
 宇宙,Universe
 安達曼海,Andaman Sea
-官話,Mandarin (linguistics)
+官話,Mandarin
 實數,Real number
 尼亞加拉瀑布,Niagara Falls
 尼德蘭,Netherlands
@@ -150,15 +150,15 @@ chinese_traditional,english
 日食,Solar eclipse
 明,Ming Dynasty
 明尼阿波利斯,Minneapolis
-映射,Function (mathematics)
-春,Spring (season)
+映射,Function
+春,Spring
 曼谷,Bangkok
 月,Moon
 朝鮮民主主義人民共和國,North Korea
-木衛一,Io (moon)
-木衛三,Ganymede (moon)
-木衛二,Europa (moon)
-木衛四,Callisto (moon)
+木衛一,Io
+木衛三,Ganymede
+木衛二,Europa
+木衛四,Callisto
 李斯特,Franz Liszt
 東,East
 查士丁尼一世,Justinian I
@@ -186,7 +186,7 @@ chinese_traditional,english
 泰國灣,Gulf of Thailand
 洋,Ocean
 海平面,Sea level
-海衛一,Triton (moon)
+海衛一,Triton
 清,Qing Dynasty
 溤諾曼,John von Neumann
 漢,Han Dynasty
@@ -195,12 +195,12 @@ chinese_traditional,english
 火柴,Match
 烏克蘭,Ukraine
 牛頓,Isaac Newton
-牛頓 (單位),Newton
+牛頓,Newton
 物理,Physics
 珠穆朗瑪峰,Mount Everest
 理則,Logic
 瑞士,Switzerland
-環 (代數),Ring (mathematics)
+環,Ring
 甘地,Mahatma Gandhi
 生物學,Biology
 白令海峽,Bering Strait
@@ -210,12 +210,12 @@ chinese_traditional,english
 直積,Cartesian product
 眼鏡,Glasses
 秋,Autumn
-科科斯（基林）群島,Cocos (Keeling) Islands
+科科斯（基林）群島,Cocos  Islands
 科西嘉,Corsica
 稻,Rice
 空師,Air force
 符節,Password
-粵語,Cantonese (linguistics)
+粵語,Cantonese
 精靈,Fairy
 納米科技,Nanotechnology
 絕對值,Absolute value
@@ -224,7 +224,7 @@ chinese_traditional,english
 羅馬尼亞,Romania
 美國,United States
 美金,United States dollar
-群 (代數),Group (mathematics)
+群,Group
 義大利,Italy
 義大利半島,Italian Peninsula
 老撾,Laos
@@ -263,7 +263,7 @@ chinese_traditional,english
 貝多芬,Ludwig van Beethoven
 質子,Proton
 越南,Vietnam
-足球,Football (soccer)
+足球,Football
 軟體,Computer software
 農,Agriculture
 迦太基,Carthage
@@ -273,10 +273,10 @@ chinese_traditional,english
 金邊,Phnom Penh
 長城,Great Wall of China
 長毛象,Mammoth
-門:史,History
-門:子,Philosophy
-門:數學,Mathematics
-門:方誌,Geography
+史,History
+子,Philosophy
+數學,Mathematics
+方誌,Geography
 阿兹特克,Aztec
 阿拉伯語,Arabic language
 阿貝爾·塔斯曼,Abel Tasman
@@ -289,7 +289,7 @@ chinese_traditional,english
 香港,Hong Kong
 馬丁·路德,Martin Luther
 馬來西亞,Malaysia
-鬩神星,Eris (dwarf planet)
+鬩神星,Eris
 黃河,Yellow River
 黃海,Yellow Sea
 黑,Black
