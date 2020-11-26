@@ -1,7 +1,9 @@
 Other,English
 'طقم,set
-آب % أغسطس,August
-آب % أغسطس,Aug
+آب,August
+أغسطس,August
+آب,Aug
+أغسطس,Aug
 آخر,another
 آخر,some other
 آخر,other
@@ -234,15 +236,19 @@ Other,English
 أي,which
 أي,which
 أي شيء,anything
-أيار % مايو,May
+أيار,May
+مايو,May
 أيضاً,too
 أيضاً,besides
 أيضاً,also
 أيضاً,likewise
 أيضاً,as well
-أيلول % سبتمبر,September
-أيلول % سبتمبر,Sep
-أيلول % سبتمبر,Sept
+أيلول,September
+سبتمبر,September
+أيلول,Sep
+سبتمبر,Sep
+أيلول,Sept
+سبتمبر,Sept
 إبرة,needle
 إبهام,thumb
 إبهام,pollex
@@ -895,7 +901,8 @@ Other,English
 تلميذ,educatee
 تلوث,pollution
 تمرين,practice
-تموز % يوليو,July
+تموز,July
+يوليو,July
 تنورة,skirt
 تهجِئه,spelling
 تهمه، إتِهام,complaint
@@ -1221,7 +1228,8 @@ Other,English
 حزمة,bundle
 حزمة,packet
 حزمة,parcel
-حزيران % يونيو,June
+حزيران,June
+يونيو,June
 حزين,sad
 حساء,soup
 حساب,account
@@ -1902,8 +1910,10 @@ Other,English
 شاهد,catch
 شاهد,take in
 شاي,tea
-شباط % فبراير,February
-شباط % فبراير,Feb
+شباط,February
+فبراير,February
+شباط,Feb
+فبراير,Feb
 شبكة,net
 شبكة,network
 شبكة,mesh
@@ -2575,11 +2585,11 @@ Other,English
 فُندق,hotel
 فِي الواقِع، فِي الحقِيقة، فِعلاً,really
 فِي الواقِع، فِي الحقِيقة، فِعلاً,actually
-قائمة (qā'imâ''',menu
-قائمة (qā'imâ''',bill of fare
-قائمة (qā'imâ''',card
-قائمة (qā'imâ''',carte du jour
-قائمة (qā'imâ''',carte
+قائمة (qā'imâ),menu
+قائمة (qā'imâ),bill of fare
+قائمة (qā'imâ),card
+قائمة (qā'imâ),carte du jour
+قائمة (qā'imâ),carte
 قاتل,fight
 قاتل,contend
 قاتل,struggle
@@ -3492,8 +3502,10 @@ Other,English
 نوع، طِراز، نموذج,type
 نوم,sleep
 نوم,slumber
-نيسان % أبريل,April
-نيسان % أبريل,Apr
+نيسان,April
+أبريل,April
+نيسان,Apr
+أبريل,Apr
 نِقابه، منظمة,union
 نِهائي,final
 نِهائي,last
