@@ -1,7 +1,7 @@
 Other,English
 (kjemisk stoff etter funksjon),functional substance
-(vann etter naturområde),water
 (vann etter naturområde),body of water
+(vann etter naturområde),water
 AIDS,AIDS
 AOX-verdi,AOX value
 ASEAN,ASEAN
@@ -25,6 +25,14 @@ Algerie,People's Democratic Republic of Algeria
 Alpene,Alps
 Amerika,Americas
 Amerikansk Samoa,American Samoa
+Amerikas forente stater,America
+Amerikas forente stater,States
+Amerikas forente stater,U.S.
+Amerikas forente stater,U.S. of A.
+Amerikas forente stater,U.S.A.
+Amerikas forente stater,US
+Amerikas forente stater,United States
+Amerikas forente stater,United States of America
 Ames-prøving,Ames test
 Amsterdam,Amsterdam
 Andorra,Andorra
@@ -94,69 +102,63 @@ DNA,DNA
 DNA,deoxyribonucleic acid
 Dagestan,Dagestan
 Dakar,Dakar
+De forente stater,America
+De forente stater,States
+De forente stater,U.S.
+De forente stater,U.S. of A.
+De forente stater,U.S.A.
+De forente stater,US
 De forente stater,United States
 De forente stater,United States of America
-De forente stater,America
-De forente stater,US
-De forente stater,U.S.
-De forente stater,U.S.A.
-De forente stater,U.S. of A.
-De forente stater,States
-Amerikas forente stater,United States
-Amerikas forente stater,United States of America
-Amerikas forente stater,America
-Amerikas forente stater,US
-Amerikas forente stater,U.S.
-Amerikas forente stater,U.S.A.
-Amerikas forente stater,U.S. of A.
-Amerikas forente stater,States
 De forente stater Mexico,Mexico
 De forente stater Mexico,United Mexican States
 Delaware,Delaware
-Den arabiske republikk Egypt,Egypt
 Den arabiske republikk Egypt,Arab Republic of Egypt
-Den demokratiske folkerepublikk Laos,Laos
+Den arabiske republikk Egypt,Egypt
+Den arabiske republikk Syria,Syria
+Den arabiske republikk Syria,Syrian Arab Republic
 Den demokratiske folkerepublikk Laos,Lao People's Democratic Republic
-Den demokratiske republikken Kongo,Democratic Republic of the Congo
+Den demokratiske folkerepublikk Laos,Laos
 Den demokratiske republikken Kongo,Congo-Kinshasa
-Kongo-Kinshasa,Democratic Republic of the Congo
-Kongo-Kinshasa,Congo-Kinshasa
+Den demokratiske republikken Kongo,Democratic Republic of the Congo
 Den dominikanske republikk,Dominican Republic
 Den europeiske union,EU
 Den europeiske union,European Union
-EU,EU
-EU,European Union
 Den islamske republikk Iran,Iran
 Den islamske republikk Iran,Islamic Republic of Iran
-Den sosialistiske arabiske folkerepublikk Libya,Libya
+Den islamske republikk Pakistan,Islamic Republic of Pakistan
+Den islamske republikk Pakistan,Pakistan
 Den sosialistiske arabiske folkerepublikk Libya,Great Socialist People's Libyan Arab Jamahiriya
+Den sosialistiske arabiske folkerepublikk Libya,Libya
+Den tsjekkiske republikk,Czech Republic
+Den tsjekkiske republikk,Czechia
 Den tyske demokratiske republikk,GDR
 Den tyske demokratiske republikk,German Democratic Republic
-Det britiske territoriet i Indiahavet,British Indian Ocean Territory
 Det britiske territoriet i Indiahavet,BIOT
+Det britiske territoriet i Indiahavet,British Indian Ocean Territory
 Det europeiske felleskaps domstol,Court of Justice of the European Communities
 Det europeiske miljøbyrået,European Environment Agency
 Det europeiske miljørådet,European Environmental Council
 Det europeiske valutafond,European Monetary Fund
-Det europeiske valutasystem,European Monetary System
 Det europeiske valutasystem,EMS
+Det europeiske valutasystem,European Monetary System
+Det forente kongerike Storbritannia og Nord-Irland,UK
 Det forente kongerike Storbritannia og Nord-Irland,United Kingdom
 Det forente kongerike Storbritannia og Nord-Irland,United Kingdom of Great Britain and Northern Ireland
-Det forente kongerike Storbritannia og Nord-Irland,UK
-Det hasjimittiske kongerike Jordan,Jordan
 Det hasjimittiske kongerike Jordan,Hashemite Kingdom of Jordan
+Det hasjimittiske kongerike Jordan,Jordan
 Det internasjonale pengefond,IMF
 Det internasjonale pengefond,International Monetary Fund
 Downs syndrom,Down syndrome
 Downs syndrom,Down’s syndrome
 EF,European Communities
-EIA (lokalt),EIA (local)
 EIA,EIA
 EIA,environmental impact assessment
-miljøkonsekvensanalyse,EIA
-miljøkonsekvensanalyse,environmental impact assessment
+EIA (lokalt),EIA (local)
 EIA-direktiv,EIA directive
 EIA-lov,EIA law
+EU,EU
+EU,European Union
 EU-budsjett,Community budget
 EU-direktiv,EC directive
 EU-finans,Community finance
@@ -178,12 +180,9 @@ Egeerhavet,Aegean Sea
 Eiffeltårnet,Eiffel Tower
 El Salvador,El Salvador
 El Salvador,Republic of El Salvador
-Elfenbenskysten,Ivory Coast
 Elfenbenskysten,Cote d'Ivoire
+Elfenbenskysten,Ivory Coast
 Elfenbenskysten,Republic of Cote d'Ivoire
-Republikken Elfenbenskysten,Ivory Coast
-Republikken Elfenbenskysten,Cote d'Ivoire
-Republikken Elfenbenskysten,Republic of Cote d'Ivoire
 England,England
 Eritrea,Eritrea
 Etiopia,Ethiopia
@@ -199,8 +198,8 @@ Finland,Republic of Finland
 Flandern,Flanders
 Flandern,Flemish region
 Flevoland,Flevoland
-Forbundsrepublikken Tyskland,Germany
 Forbundsrepublikken Tyskland,Federal Republic of Germany
+Forbundsrepublikken Tyskland,Germany
 Frankrike,France
 Fransk Guyana,French Guiana
 Fransk Polynesia,French Polynesia
@@ -208,8 +207,8 @@ Fuji-san,Mount Fuji
 Fyrstedømet Liechtenstein,Liechtenstein
 Fyrstedømet Liechtenstein,Principality of Liechtenstein
 Færøyene,Faroe Islands
-GEF,Global Environment Facility
 GEF,GEF
+GEF,Global Environment Facility
 GIS-laboratorium,GIS laboratory
 GIS-teknikk,GIS digital technique
 Gabon,Gabon
@@ -226,15 +225,17 @@ Guadeloupe,Guadeloupe
 Guam,Guam
 Guam,Guam
 Guam,Guam
+H5N1,A(H5N1)
+H5N1,H5N1
+H5N1,Influenza A virus subtype H5N1
 HKFK,partially halogenated chlorofluorohydrocarbon
 Haiti,Haiti
 Haiti,Republic of Haiti
 Hannover,Hanover
 Hanukka,Hannukah
-hanukka,Hannukah
-Herkules,Hercules
-Herkules,Hercules
 Herakles,Hercules
+Herkules,Hercules
+Herkules,Hercules
 Honduras,Honduras
 Honduras,Republic of Honduras
 Hviterussland,Belarus
@@ -249,12 +250,9 @@ Indiahavet,Indian Ocean
 Indonesia,Indonesia
 Indonesia,Republic of Indonesia
 Indre,Indre
+Influenza A/H5N1,A(H5N1)
 Influenza A/H5N1,H5N1
 Influenza A/H5N1,Influenza A virus subtype H5N1
-Influenza A/H5N1,A(H5N1)
-H5N1,H5N1
-H5N1,Influenza A virus subtype H5N1
-H5N1,A(H5N1)
 Internettet,Internet
 Irak,Iraq
 Irak,Republic of Iraq
@@ -266,61 +264,57 @@ Israel,Israel
 Israel,State of Israel
 Italia,Italian Republic
 Italia,Italy
-Jakarta,Jakarta
-Jakarta,Djakarta
 Jakarta,DKI Jakarta
+Jakarta,Djakarta
+Jakarta,Jakarta
 Jamaica,Jamaica
 Japan,Japan
 Japan,State of Japan
-Jemen,Yemen
 Jemen,Republic of Yemen
+Jemen,Yemen
 Jerevan,Erevan
 Jerevan,Yerevan
-Jorda,earth
-Jorda,Earth
-Jorda,the world
 Jorda,Blue Planet
-Tellus,earth
-Tellus,Earth
-Tellus,the world
-Tellus,Blue Planet
+Jorda,Earth
+Jorda,earth
+Jorda,the world
 Jul,Christmas
-jul,Christmas
 KFK- og halonforbud,CFC and halons prohibition
 Kairo,Cairo
 Kambodsja,Cambodia
 Kambodsja,Kingdom of Cambodia
 Karibhavet,Caribbean Sea
-Karibien,Caribbean Area
-Karibien,Caribbean
-Karibia,Caribbean Area
 Karibia,Caribbean
+Karibia,Caribbean Area
+Karibien,Caribbean
+Karibien,Caribbean Area
 Kasakhstan,Kazakhstan
 Kasakhstan,Republic of Kazakhstan
 Kaspihavet,Caspian Sea
 Khartoum,Khartoum
-Kirgisistan,Kyrgyzstan
 Kirgisistan,Kyrgyz Republic
+Kirgisistan,Kyrgyzstan
 Kiribati,Kiribati
 Kiribati,Republic of Kiribati
-Kongeriket_Nederlandene,Holland
-Kongeriket_Nederlandene,Kingdom of the Netherlands
-Kongeriket_Nederlandene,The Netherlands
-Nederland,Holland
-Nederland,Kingdom of the Netherlands
-Nederland,The Netherlands
 Kongeriket Nederlandene,Holland
 Kongeriket Nederlandene,Kingdom of the Netherlands
 Kongeriket Nederlandene,The Netherlands
+Kongeriket Norge,Kingdom of Norway
+Kongeriket Norge,Norway
+Kongeriket_Nederlandene,Holland
+Kongeriket_Nederlandene,Kingdom of the Netherlands
+Kongeriket_Nederlandene,The Netherlands
+Kongo-Kinshasa,Congo-Kinshasa
+Kongo-Kinshasa,Democratic Republic of the Congo
 Korfu,Corfu
 Kosovo,Kosovo
 Kroatia,Croatia
 Kroatia,Republic of Croatia
 Kurvplantefamilien,Asteraceae
-Kurvplantefamilien,sunflower family
 Kurvplantefamilien,Compositae
-Kurvplantefamilien,daisy family
 Kurvplantefamilien,aster family
+Kurvplantefamilien,daisy family
+Kurvplantefamilien,sunflower family
 Kyoto,Kyoto
 Kypros,Cyprus
 Kypros,Republic of Cyprus
@@ -329,8 +323,8 @@ Lagos,Lagos
 Latvia,Latvia
 Latvia,Republic of Latvia
 Lausanne,Lausanne
-Lesotho,Lesotho
 Lesotho,Kingdom of Lesotho
+Lesotho,Lesotho
 Liberia,Liberia
 Liberia,Republic of Liberia
 Lisboa,Lisbon
@@ -342,19 +336,23 @@ Madagaskar,Republic of Madagascar
 Malawi,Malawi
 Malawi,Republic of Malaŵi
 Malaysia,Malaysia
+Maldivene,Maldives
+Maldivene,Republic of the Maldives
 Malta,Malta
 Malta,Republic of Malta
-Markovkjede,Markov chain
 Markovkjede,Markoff chain
-Marokko,Morocco
+Markovkjede,Markov chain
 Marokko,Kingdom of Morocco
+Marokko,Morocco
+Marshalløyene,Marshall Islands
+Marshalløyene,Republic of the Marshall Islands
 Martinique,Martinique
-Mauritania,Mauritania
 Mauritania,Islamic Republic of Mauritania
+Mauritania,Mauritania
 Mayotte,Mayotte
 Mekka,Mecca
-Melkeveien,Milky Way
 Melkeveien,Galaxy
+Melkeveien,Milky Way
 Mellom-Amerika,Central America
 Merkur,Mercury
 Middelhavet,Mediterranean Sea
@@ -370,9 +368,11 @@ NOEL,NOEL
 NOX,nitrogen oxides
 Nairobi,Nairobi
 Namibia,Namibia
+Nederland,Holland
+Nederland,Kingdom of the Netherlands
+Nederland,The Netherlands
 Neptun,Neptune
 New Zealand,New Zealand
-Ny-Zealand,New Zealand
 Nicaragua,Nicaragua
 Niedersachsen,Lower Saxony
 Niue,Niue
@@ -380,11 +380,10 @@ Nord-Afrika,North Africa
 Nord-Amerika,North America
 Nordatlanteren,North Atlantic Ocean
 Nordishavet,Arctic Ocean
-Norge,Norway
 Norge,Kingdom of Norway
-Kongeriket Norge,Norway
-Kongeriket Norge,Kingdom of Norway
+Norge,Norway
 Ny-Caledonia,New Caledonia
+Ny-Zealand,New Zealand
 Oceania,Oceania
 Orléans,Orleans
 Orthoptera,orthopteran
@@ -392,10 +391,8 @@ Oslo,Oslo
 PAH,polycyclic aromatic hydrocarbon
 PCB,polychlorinated biphenyl
 PR,public relations
-Pakistan,Pakistan
 Pakistan,Islamic Republic of Pakistan
-Den islamske republikk Pakistan,Pakistan
-Den islamske republikk Pakistan,Islamic Republic of Pakistan
+Pakistan,Pakistan
 Panama,Panama
 Philadelphia,Philadelphia
 Polen,Poland
@@ -407,20 +404,19 @@ Puerto Rico,Puerto Rico
 Pyreneene,Pyrenees
 Påske,Easter
 Qatar,Qatar
+Republikken Elfenbenskysten,Cote d'Ivoire
+Republikken Elfenbenskysten,Ivory Coast
+Republikken Elfenbenskysten,Republic of Cote d'Ivoire
 Republikken Maldivene,Maldives
 Republikken Maldivene,Republic of the Maldives
-Maldivene,Maldives
-Maldivene,Republic of the Maldives
 Republikken Marshalløyene,Marshall Islands
 Republikken Marshalløyene,Republic of the Marshall Islands
-Marshalløyene,Marshall Islands
-Marshalløyene,Republic of the Marshall Islands
 Rhône,Rhône
 Rådet for Den europeiske union,EU Council
 Sachsen,Saxony
 Saint-Pierre og Miquelon,Saint-Pierre and Miquelon
-Sakhalin,Sakhalin
 Sakhalin,Saghalien
+Sakhalin,Sakhalin
 Seinen,Seine
 Senegal,Senegal
 Sentral-Afrika,Central Africa
@@ -433,55 +429,56 @@ Slovakia,Slovakia
 Solkongen,Sun King
 Sri Lanka,Sri Lanka
 Steinbukken,Capricorn
-Storbritannia,Great Britain
 Storbritannia,Britain
+Storbritannia,Great Britain
 Sudan,Sudan
 Svartehavet,Black Sea
 Sveits,Switzerland
 Sverige,Sweden
 Syria,Syria
 Syria,Syrian Arab Republic
-Den arabiske republikk Syria,Syria
-Den arabiske republikk Syria,Syrian Arab Republic
 Sør-Afrika,South Africa
 Sør-Amerika,South America
-Sør-Asia,Southern Asia
 Sør-Asia,South Asia
+Sør-Asia,Southern Asia
 Sørishavet,Antarctic Ocean
 Sørishavet,Southern Ocean
 Sørøst-Asia,Southeast Asia
 T-bane,underground railway
 Taiwan,Taiwan
 Tanzania,Tanzania
+Tellus,Blue Planet
+Tellus,Earth
+Tellus,earth
+Tellus,the world
 Thüringen,Thuringia
 Togo,Togo
 Tokyo,Tokyo
 Toronto,Toronto
 Tsjekkia,Czech Republic
 Tsjekkia,Czechia
-Den tsjekkiske republikk,Czech Republic
-Den tsjekkiske republikk,Czechia
 Tunezja,Tunisia
 Tyrkia,Turkey
-Uganda,Uganda
 Uganda,Republic of Uganda
+Uganda,Uganda
 Ukraina,Ukraine
 Vaduz,Vaduz
-Vatikanstaten,Vatican City
-Vatikanstaten,The Holy See
 Vatikanstaten,State of the Vatican City
+Vatikanstaten,The Holy See
+Vatikanstaten,Vatican City
 Venus,Venus
-Verdensveven,World Wide Web
 Verdensveven,WWW
-Vest-Asia,Western Asia
+Verdensveven,World Wide Web
 Vest-Asia,Southwest Asia
+Vest-Asia,Western Asia
 Vest-Europa,Western Europe
 Volga,Volga
 Wales,Wales
-Wallis og Futuna,Wallis and Futuna
 Wallis og Futuna,Territory of the Wallis and Futuna Islands
-Zambia,Zambia
+Wallis og Futuna,Wallis and Futuna
 Zambia,Republic of Zambia
+Zambia,Zambia
+abakus,abacus
 abiotisk faktor,abiotic factor
 abiotisk miljø,abiotic environment
 absorpsjon,absorption
@@ -498,8 +495,8 @@ administrasjon,direction
 administrasjon,management
 administrativ grense,administrative boundary
 administrativ instruks,administrative instructions
-administrativ kompetanse,administrative competence
 administrativ kompetanse,administrative ability
+administrativ kompetanse,administrative competence
 administrativ ordre,administrative fiat
 administrativ organisasjon,administrative organisation
 administrativ sanksjon,administrative sanction
@@ -524,8 +521,8 @@ akkumulator,accumulator
 akseptabelt daglig inntak,acceptable daily intake
 akseptabelt risikonivå,acceptable risk level
 akseptert fremgangsmåte,code of practice
-aksjonsgruppe,action group
 aksjonsgruppe,action committee
+aksjonsgruppe,action group
 aktiv deltakelse,active participation
 aktivkull,activated carbon
 aktivslam,activated sludge
@@ -557,8 +554,8 @@ alfabet,alphabet
 alfastråling,alpha radiation
 alge,alga
 algebra,algebra
-algemiddel,algicide
 algemiddel,algaecide
+algemiddel,algicide
 algeoppblomstring,algal bloom
 algoritme,algorithm
 alibi,alibi
@@ -567,15 +564,15 @@ alifatisk hydrokarbon,aliphatic hydrocarbon
 alisyklisk forbindelse,alicyclic compound
 alisyklisk hydrokarbon,alicyclic hydrocarbon
 alkalijord,alkali soil
-alkalimetall,alkaline
-alkalimetall,element of group I
-alkalimetall,alkaline metal
 alkalimetall,alkali metal
+alkalimetall,alkaline
+alkalimetall,alkaline metal
+alkalimetall,element of group I
 alkalisk batteri,alkaline battery
 alkan,alkane
-alkan,paraffin
-alkan,methane series
 alkan,alkane series
+alkan,methane series
+alkan,paraffin
 alkoholer,alcohol
 alkoholisme,alcoholism
 alkylforbindelse,alkyl compound
@@ -602,8 +599,8 @@ aluminiumsindustri,aluminium industry
 alveole,air sac
 alveole,alveolus
 amalgam,amalgam
-ambassade,embassy
 ambassade,diplomatic mission
+ambassade,embassy
 ambolt,anvil
 ambulanse,ambulance
 americium,americium
@@ -633,8 +630,8 @@ and,duck
 andefugl,"swans, geese and ducks"
 angriper,aggressor
 angriper,assailant
-angriper,attacker
 angriper,assaulter
+angriper,attacker
 angst,phobia
 animalsk føde,animal nutrition
 animalsk produkt,animal product
@@ -712,8 +709,8 @@ arkitektur,architecture
 arkiv,archive
 arktisk økosystem,Arctic ecosystem
 arm,arm
-armatur,fitting (plumbing)
 armatur,fitting
+armatur,fitting (plumbing)
 armatur,plumbing equipment
 armatur,plumbing fixtures
 armensk,Armenian
@@ -750,8 +747,8 @@ astrometri,astrometry
 astronautikk,astronautics
 astronom,astronomer
 astronomi,astronomy
-atferd (biologi),behaviour
 atferd,behaviour
+atferd (biologi),behaviour
 atferdsmønster,behaviour pattern
 atferdsvitenskap,behavioural science
 atlas,atlas
@@ -836,6 +833,9 @@ bakeri,bakery
 bakgrunnsnivå,background level
 bakgrunnsstråling,background radiation
 bakgrunnsstøy,background noise
+bakke,colina
+bakke,hill
+bakke,loma
 bakterie,bacterium
 bakteriedrepende middel,bactericide
 bakteriefilter,bacterial bed
@@ -864,7 +864,6 @@ basisitet,basicity
 baskisk,Basque
 baskisk,Basque
 basseng,swimming pool
-svømmebasseng,swimming pool
 batteri,battery
 batteridisponering,battery disposal
 bearbeidet landbruksprodukt,processed agricultural produce
@@ -919,6 +918,12 @@ beplantning,planting
 beredskapsplan,emergency plan
 beregning,calculation
 beregningsmetode,calculation method
+berg,colina
+berg,colina
+berg,hill
+berg,hill
+berg,loma
+berg,loma
 bergart,rock
 bergverk,mine
 bergverkslovgivning,mining law
@@ -953,8 +958,8 @@ bibliotekstjeneste,library service
 bie,bee
 bifangst,by-catch
 bikube,beehive
-bil,car
 bil,automobile
+bil,car
 bilateral konvensjon,bilateral convention
 bildebehandlingsystem,image processing digital system
 bildeelement,pixel
@@ -983,8 +988,8 @@ biokjemisk prosess,biochemical process
 biokjemisk stoff,biochemical substance
 bioklimatologi,bioclimatology
 biokonsentrasjonsfaktor,bioconcentration factor
-biologi,biology
 biologi,biological science
+biologi,biology
 biologisk akkumulerende forurensende stoff,bioaccumulative pollutant
 biologisk analyse,biological analysis
 biologisk arv,biological heritage
@@ -1064,31 +1069,30 @@ blende,dazzle
 blod,blood
 blodplasma,blood plasma
 blogg,blog
-blogg,weblog
 blogg,web log
-blomst,flower
+blogg,weblog
 blomst,bloom
 blomst,blossom
-blomsterplante,flowering plant
+blomst,flower
 blomsterplante,angiosperm
 blomsterplante,flowering plant
-dekkfrøet plante,angiosperm
-dekkfrøet plante,flowering plant
+blomsterplante,flowering plant
 bly,lead
 blyant,pencil
 blyforbindelse,lead compound
 blynivå i blod,lead level in blood
 blå,blue
-blåbær,huckleberry
 blåbær,blueberry
+blåbær,huckleberry
 blågrønnalge,blue-green alga
 blågrønnalge,cyanobacteria
-blødning,haemorrhage
 blødning,bleeding
+blødning,haemorrhage
 bløtdyr,mollusc
-boblepolitikk,bubble policy (emissions trading)
 boblepolitikk,bubble policy
+boblepolitikk,bubble policy (emissions trading)
 bocage,bocage
+boge,bow
 bohrium,bohrium
 bok,book
 bokføring,accountancy
@@ -1162,7 +1166,6 @@ brønn,well
 budsjett,budget
 budsjettpolitikk,budget policy
 bue,bow
-boge,bow
 bueskytter,archer
 bueskytter,archer
 bukspyttkjertelen,pancreas
@@ -1182,7 +1185,6 @@ butikksenter,shopping centre
 by,city
 bygg,barley
 bygg og anlegg,building
-bygning,building
 bygge- og anleggsteknologi,civil engineering
 bygge- og anleggsteknologi,construction technology
 byggeavfall,building waste
@@ -1197,6 +1199,7 @@ byggetillatelse,building permit
 byggevareindustri,building materials industry
 byggevirksomhet,building industry
 byggverk,built structure
+bygning,building
 bygningselement,building component
 bygningsmateriale,building material
 bygningstjeneste,building service
@@ -1214,15 +1217,15 @@ camping,camping
 camping,camping ground
 campingplass,camping site
 canyon,canyon
+celle,Galvanic cell
+celle,cell
+celle,cell
+celle,cell
+celle,cell
 celle,cell
 celle,electrochemical cell
 celle,energy cell
-celle,Galvanic cell
 celle,στοιχείο
-celle,cell
-celle,cell
-celle,cell
-celle,cell
 cellulose,cellulose
 celluloseindustri,cellulose industry
 cerium,cerium
@@ -1238,8 +1241,8 @@ cyanid,cyanide
 cytologi,cytology
 cytotoksisitet,cytotoxicity
 dagbok,diary
-dagbrudd,opencast mining
 dagbrudd,open-pit mining
+dagbrudd,opencast mining
 dal,valley
 dam,dam
 damdrenering,dam draining
@@ -1262,8 +1265,8 @@ datautveksling,data exchange
 datering,dating
 datter,daughter
 de franske sørterritorier,French Southern Territories
-de franske sørterritorier,French Southern and Antarctic LandsA
 de franske sørterritorier,French Southern and Antarctic Lands
+de franske sørterritorier,French Southern and Antarctic LandsA
 de franske sørterritorier,Territory of the French Southern and Antarctic Lands
 decibel,decibel
 definisjon,Definition
@@ -1271,6 +1274,8 @@ definisjon,definition
 defoliering,defoliation
 dekantering,racking
 dekk,tyre
+dekkfrøet plante,angiosperm
+dekkfrøet plante,flowering plant
 dekontaminering,decontamination
 dekret,decree
 delavgjørelse,interim decision
@@ -1278,9 +1283,9 @@ delegert forvaltning,delegated management
 delfin,dolphin
 delstatslovgivning,provincial/regional law (D)
 delstatslovgivning,regional legislation
+delstatsmyndighet,provincial authority
 delstatsmyndighet,provincial/regional authority (D)
 delstatsmyndighet,regional authority
-delstatsmyndighet,provincial authority
 delta,delta
 deltakelse,participation
 demografi,demography
@@ -1308,8 +1313,8 @@ detektor,detector
 deuterium,deuterium
 dialyse,dialysis
 didaktikk,didactics
-diesel,diesel fuel
 diesel,diesel
+diesel,diesel fuel
 dieselmotor,diesel engine
 differensiering,differentiation
 diffus forurensning,diffuse pollution
@@ -1347,9 +1352,9 @@ dokumentgjennomgang,inspection of records
 dokumentsenter,documentation centre
 dokumenttype,document type
 dokumentutlån,document lending
+dom,judgement
 dom,judgement (sentence)
 dom,sentence
-dom,judgement
 domstol,court
 domstol,court of justice
 dose,dose
@@ -1362,12 +1367,14 @@ dreneringsnett,hydrographic network
 drenssystem,drainage system
 drensvann,drainage water
 driftsdata,operating data
+drikke,beverage
+drikke,beverage
+drikke,drink
+drikke,drink
 drikke,drink
 drikke,gulp
 drikke,quaff
 drikke,sip
-drikke,beverage
-drikke,drink
 drikkevann,drinking water
 drikkevannsbehandling,drinking water treatment
 drikkevannsforsyning,drinking water supply
@@ -1375,8 +1382,6 @@ drikkevannssystem,municipal water management
 drikkevannsvernområde,drinking water protection area
 drikkevare,beverage
 drikkevare,drink
-drikke,beverage
-drikke,drink
 drikkevareindustri,beverage industry
 dristig,audacious
 drivgarnsfiske,drift net fishing
@@ -1387,8 +1392,8 @@ dromedar,dromedary
 dronning,queen
 drømme,dream
 dubnium,dubnium
-due,pigeon
 due,dove
+due,pigeon
 dyphav,deep sea
 dypvannsdisponering,deep-sea disposal
 dypvannsfiske,deep sea fishing
@@ -1430,23 +1435,23 @@ dysleksi,dyslexia
 dysprosium,dysprosium
 dör,door
 dødelighet,mortality
-dødsstraff,death penalty
 dødsstraff,capital punishment
+dødsstraff,death penalty
 dødsstraff,death sentence
 edafologi,edaphology
 edderkopp,spider
 eddik,vinegar
 edelgass,element of group 0
 edelgass,noble gas
-effekt,power (physics)
-effekt,power
-effekt (parameter),effect
 effekt,effect
+effekt,power
+effekt,power (physics)
+effekt (parameter),effect
 effektivisering,improvement of efficiency
 effektivitetskriterium,efficiency criterion
 egenkompostering,composting by producer
-eggcelle,egg
 egg,egg
+eggcelle,egg
 eggstokk,ovary
 egnet teknologi,appropriate technology
 eiendomsbeskyttelse,property protection
@@ -1488,9 +1493,9 @@ elektrisitetsproduksjon,electricity generation
 elektrisitetsproduksjonskostnad,electricity generation cost
 elektrisitetsselskap,electricity company
 elektrisk batteri,electric battery
+elektrisk effekt,electric power
 elektrisk kjøretøy,electric vehicle
 elektrisk kraft,electric power
-elektrisk effekt,electric power
 elektrisk ledning,electric line
 elektrisk ledning,power line
 elektroindustri,electrical goods industry
@@ -1502,9 +1507,9 @@ elektron,electron
 elektronikk,electronics
 elektronisk informasjonsnettverk,electronic information network
 elektronisk materiale,electronic material
+elektronisk post,e-mail
 elektronisk post,electronic mail
 elektronisk post,email
-elektronisk post,e-mail
 elektronisk skrapavfall,electronic scrap
 elektrosmog,electrosmog
 elektroteknikk,electrical engineering
@@ -1515,8 +1520,8 @@ eller,or
 elv,river
 elveavsetning,alluvion
 elveavsetning,flood
-elveavsetning,overflowing
 elveavsetning,inundation
+elveavsetning,overflowing
 elvebredd,bank
 elveleie,river bed
 elveressurs,fluvial resource
@@ -1539,8 +1544,8 @@ energi,energy
 energibalanse,energy balance
 energibehov,energy demand
 energibruk,energy consumption
-energibruk,energy utilisation
 energibruk,energy use
+energibruk,energy utilisation
 energibærer (materiale),energy source material
 energieffektivitet,energy efficiency
 energiforsyning,energy supply
@@ -1603,9 +1608,9 @@ etsende stoff,etching substance
 etsing,etching
 etter- og videreutdanning,continuing education
 etterbehandling,post-treatment
-etterbrenning,afterburning
-etterbrenning,afterburning
 etterbrenning,afterburner
+etterbrenning,afterburning
+etterbrenning,afterburning
 etterspørsel,demand
 europeisk domstol,European Court of Justice
 europeisk naturreservat,European nature reserve
@@ -1630,15 +1635,15 @@ fangstutbytte,catch yield
 fare,hazard
 fare ved forurensende stoff,hazard of pollutants
 fare ved skipsfart,navigational hazard
-farge,colour
-farge,colour
+farge,colo(u)r
+farge,colo(u)r
 farge,colo(u)r
 farge,colour
 farge,colour
-farge,colo(u)r
 farge,colour
 farge,colour
-farge,colo(u)r
+farge,colour
+farge,colour
 fargehandel,paint shop
 fargesammensetning,colour composition
 fargestoff,dye
@@ -1705,10 +1710,10 @@ fint støv,fine dust
 firetaktsmotor,four stroke engine
 firfirsle,lizard
 firkant,quadrilateral
-firma,firm
+firma,company
 firma,corporation
 firma,enterprise
-firma,company
+firma,firm
 firma,venture
 fisjon,nuclear fission
 fisk,fish
@@ -1760,14 +1765,14 @@ flomavrenning,flood runoff
 flomsikring,flood control
 flomvarsling,flood forecast
 flomvern,flood protection
-flora (dokument),flora (document)
-flora (dokument),flora
-flora,flora (document)
 flora,flora
-flora (økologi),flora (biology)
-flora (økologi),flora
+flora,flora
 flora,flora (biology)
-flora,flora
+flora,flora (document)
+flora (dokument),flora
+flora (dokument),flora (document)
+flora (økologi),flora
+flora (økologi),flora (biology)
 floraforringelse (etter artsinnføring),bastardisation of flora
 flotasjon,flotation
 fluidisering,fluidisation
@@ -1784,8 +1789,8 @@ flystøy,aircraft noise
 flytende avfall,liquid waste
 flytende gass,liquefied gas
 flytende gjødsel,liquid manure
-folkeavstemning,referendum
 folkeavstemning,plebiscite
+folkeavstemning,referendum
 folkehelse,public health
 folkemening,public opinion
 folkerett,international law
@@ -1795,11 +1800,8 @@ folklore,folklore
 fond,financial fund
 fontene,fountain
 for,fodder
-for,provender
 for,forage
-fôr,fodder
-fôr,provender
-fôr,forage
+for,provender
 foravling,forage crop
 forbause,astonish
 forbauselse,astonishment
@@ -1823,8 +1825,8 @@ forbundsregjering,federal government
 fordampning,evaporation
 fordeling,distribution
 fordeling av forurensende stoff,pollutant distribution
-fordøyelsessystem,gastrointestinal tract
 fordøyelsessystem,alimentary canal
+fordøyelsessystem,gastrointestinal tract
 forebyggende helsetiltak,preventive health measure
 forebyggende informasjon,preventive information
 forebygging av miljøbelastning,impact prevention
@@ -1932,8 +1934,8 @@ forvaltning av arvegods,patrimonial management
 forvaltningskontrakt,management contract
 forvaltningsplan,management plan
 forvaltningsprosedyre,administrative procedure
-forvaltningsrett (rettslære),administrative law
 forvaltningsrett,administrative law
+forvaltningsrett (rettslære),administrative law
 forvaltningsvedtak,administrative deed
 fosfat,phosphate
 fosfaterstatning,phosphate substitute
@@ -1946,10 +1948,10 @@ fossil,fossil
 fossilt brensel,fossil fuel
 fosterutvikling,embryogenesis
 fot,foot
-fotgjengersone,pedestrian zone
-fotgjengersone,pedestrian area
-fotgjengersone,car-free zone
 fotgjengersone,auto-free zone
+fotgjengersone,car-free zone
+fotgjengersone,pedestrian area
+fotgjengersone,pedestrian zone
 fotgjengersone,pedestrianised zone
 fotografering,photography
 fotografi,photo
@@ -1999,8 +2001,8 @@ fuglereservat,bird sanctuary
 fuglevern,protection of birds
 fuktighet,moisture
 furan,furan
-furu,pino
 furu,pine
+furu,pino
 fusjon,nuclear fusion
 fylke,county
 fyllmasse,filling material
@@ -2030,10 +2032,13 @@ fysisk-kjemisk prosess,physicochemical process
 fytomasse,phytomass
 fytosanitær rensing,phytosanitary treatment
 fytotoksisitet,phytotoxicity
-fæ,Faroese
 fæ,Faeroese
-færøysk,Faroese
+fæ,Faroese
 færøysk,Faeroese
+færøysk,Faroese
+fôr,fodder
+fôr,forage
+fôr,provender
 føderal lov,federal law
 fødsel,birth
 fødsel,birth
@@ -2091,8 +2096,8 @@ genetisk variasjon,genetic variation
 genmodifisering,genetic modification
 genmodifisert organisme,genetically modified organism
 genotoksisitet,genotoxicity
-genpool,genetic pool
 genpool,gene pool
+genpool,genetic pool
 genteknologi,genetic engineering
 genteknologilovgivning,genetic engineering legislation
 geodesi,geodesy
@@ -2112,8 +2117,8 @@ geomorfologi,geomorphology
 geomorfologisk prosess,geomorphic process
 georgisk,Georgian
 georgisk,Georgian
-geoteknikk,geotechnology
 geoteknikk,geotechnics
+geoteknikk,geotechnology
 geotermisk energi,geothermal energy
 geovitenskap,earth science
 gepard,cheetah
@@ -2130,8 +2135,8 @@ gips,gypsum
 giraff,giraffe
 gjeld,debt
 gjenanskaffelsespris,replacement cost
-gjeninnføring (økologi),reintroduction
 gjeninnføring,reintroduction
+gjeninnføring (økologi),reintroduction
 gjeninnføring av dyrearter,animal species reintroduction
 gjeninnføring av plantearter,plant species reintroduction
 gjennombløting,soaking
@@ -2161,8 +2166,8 @@ glykolyse,glycolysis
 gnager,rodent
 god jul,Merry Christmas
 god kveld,good evening
-godkjenning,approval
 godkjenning,approbation
+godkjenning,approval
 godkjenningkrav til anlegg,installation requiring approval
 godstransport,freight transport
 godt nyttår,Happy New Year
@@ -2170,8 +2175,8 @@ godtgjørelse,allowance
 golf,golf
 gonoré,gonorrhea
 gorilla,gorilla
-grammatikk,grammer
 grammatikk,grammar
+grammatikk,grammer
 granitt,granite
 granolometri,granulometry
 gren,branch
@@ -2182,8 +2187,8 @@ grenselag,boundary layer
 grenseverdi,limit value
 gresk,Greek
 gresk,Greek
-gress,grass
 gress,graminaceous plant
+gress,grass
 gressbrann,grass fire
 gresshoppe,grasshopper
 grisehus,piggery
@@ -2257,14 +2262,15 @@ halvøy,peninsula
 han,he
 handel,trade
 handel,trade
-handelsnæring,trade
 handel med planter,plant trade
 handel og distribusjon,distributive trade
 handel og forbruk,trade and consumption
 handels- og industrifremmende tiltak,promotion of trade and industry
 handelsgartneri,market gardening
+handelsnæring,trade
 handelsrett,commercial law
 handelstransaksjon,commercial transaction
+hanukka,Hannukah
 harpiks,resin
 harpiksplante,resinous plant
 hassium,hassium
@@ -2273,10 +2279,10 @@ hastighet,speed
 hat,hate
 hat,hatred
 hattsopp,mushroom
-hav,ocean
-hav,sea
 hav,body of water
 hav,bounding main
+hav,ocean
+hav,sea
 havbruk,mariculture
 havfiske,open sea fishing
 havforurensning,marine pollution
@@ -2382,19 +2388,14 @@ husholdningsforurensning,domestic pollution
 husholdningskjemikalie,household chemical
 husholdningsutgifter,household expenditure
 husholdningsutstyr,domestic appliance
-hval,whale
 hval,cetacean
+hval,whale
 hvalfangst,whaling
 hviterussisk,Belarusan
 hviterussisk,Belarusan
 hviterussisk,Belarusian
 hviterussisk,Belorussian
 hviterussisk,Byelorussian
-kviterussisk,Belarusan
-kviterussisk,Belarusan
-kviterussisk,Belarusian
-kviterussisk,Belorussian
-kviterussisk,Byelorussian
 hybridisering,hybridisation
 hydraulikk,hydraulics
 hydraulisk konstruksjon,hydraulic construction
@@ -2421,8 +2422,8 @@ hytte,country lodge
 håndflate,palm
 håndheving,law enforcement
 håndheving av miljølov,environmental law enforcement
-håndverk,craft
 håndverk,arts and crafts
+håndverk,craft
 håndverk,handicraft
 håndverksvirksomhet,handicraft business
 håp,hope
@@ -2502,8 +2503,8 @@ indonesisk,Indonesian
 indre migrasjon,internal migration
 industri,industry
 industrianlegg,industrial installation
-industrianlegg,industrial plant (building)
 industrianlegg,industrial plant
+industrianlegg,industrial plant (building)
 industriavfall,industrial waste
 industriavgass,industrial waste gas
 industriavløp,industrial effluent
@@ -2524,8 +2525,8 @@ industrimiljøpolitikk,industrial environmental policy
 industriområde,industrial area
 industriplanlegging,industrial planning
 industriplante,industrial crop
-industriplante,industrial plant (organism)
 industriplante,industrial plant
+industriplante,industrial plant (organism)
 industriplassering,location of industries
 industripolitikk,industrial policy
 industriproduksjon,industrial production
@@ -2560,13 +2561,13 @@ informasjonspakke,information kit
 informasjonsplikt,obligation to inform
 informasjonssenter,information centre
 informasjonssystem,information system
-informasjonsteknologi,information technology
 informasjonsteknologi,IT
+informasjonsteknologi,information technology
 informasjonstilgang,access to information
 informasjonstjeneste,information service
 informasjonsutveksling,information exchange
-informatikk,informatics
 informatikk,computer science
+informatikk,informatics
 informatikk,information science
 infralyd,infrasound
 infrarød stråling,infrared radiation
@@ -2584,11 +2585,11 @@ innføring av dyrearter,introduction of animal species
 innføring av plantearter,introduction of plant species
 inngrep på land,intervention on land
 inngrepsfond,intervention fund
-innkapsling (asbest),encapsulation
-innkapsling (kjerneanlegg),containment (nuclear industry)
-innkapsling (kjerneanlegg),containment
-innkapsling,containment (nuclear industry)
 innkapsling,containment
+innkapsling,containment (nuclear industry)
+innkapsling (asbest),encapsulation
+innkapsling (kjerneanlegg),containment
+innkapsling (kjerneanlegg),containment (nuclear industry)
 innkjøp,buy
 innkjøp,purchase
 innlandsfiske,inland fishery
@@ -2670,8 +2671,8 @@ iridium,iridium
 irreversibilitet,irreversibility of the phenomenon
 irsk,Irish
 irsk,Irish
-irsk,Irish Gaelic
 irsk,Irish
+irsk,Irish Gaelic
 is,ice
 isbjørn,polar bear
 isfjell,iceberg
@@ -2692,7 +2693,6 @@ japansk,Japanese
 jazz,jazz
 jeg,I
 jente,girl
-pike,girl
 jern,iron
 jern- og stålindustri,iron and steel industry
 jernbane,railway
@@ -2703,32 +2703,33 @@ jernbanetransport,rail transport
 jernindustri,iron industry
 jernskrap,iron scrap
 jernverksindustri,ironwork industry
-jiddisk,Yiddish
 jiddisch,Yiddish
+jiddisk,Yiddish
 jod,iodine
 jord,soil
-jordsmonn,soil
 jord-solforhold,Earth-Sun relationship
-jordalkalimetall,element of group II (alkaline earth metals)
 jordalkalimetall,alkaline earth metal
 jordalkalimetall,element of group II
+jordalkalimetall,element of group II (alkaline earth metals)
 jordbruk og kvegdrift,agriculture and cattle industry
 jordbrukslandskap,agricultural landscape
 jordbruksmetode,agricultural method
 jordbruksområde,agricultural land
+jordbruksproduksjon,agricultural output
 jordbruksproduksjon,agricultural production
 jordbruksproduksjon,farm production
-jordbruksproduksjon,agricultural output
 jordfag,soil science
 jordforbedringsmiddel,mineral conditioner
 jordskifte,land consolidation
 jordskjelv,earthquake
-jordskorpe,earth's crust
-jordskorpe,crust
 jordskorpe,Earth's crust
+jordskorpe,crust
+jordskorpe,earth's crust
 jordskred,landslide
+jordsmonn,soil
 journalist,journalist
 judo,judo
+jul,Christmas
 juletre,Christmas tree
 juni,June
 juridisk kompetanse,legislative competence
@@ -2757,8 +2758,8 @@ kalsium,calcium
 kalsiuminnhold,calcium content
 kamel,camel
 kamuflasje,camouflage
-kanal (kunstig),canal
 kanal,canal
+kanal (kunstig),canal
 kanalisering,channelling
 kanin,rabbit
 kantsone,marginal land
@@ -2801,12 +2802,12 @@ kattedyr,felid
 kaviar,caviar
 keramikk,ceramics
 keramisk industri,ceramics industry
-khmer,Khmer
 khmer,Central Khmer
-kilde (vann),spring
-kilde (vann),"spring (hydrology, land)"
+khmer,Khmer
 kilde,spring
 kilde,"spring (hydrology, land)"
+kilde (vann),spring
+kilde (vann),"spring (hydrology, land)"
 kildevann,spring water
 kimplasma,germ plasm
 kinofilm,cinematographic film
@@ -2828,8 +2829,8 @@ kjemisk bekjemping,chemical pest control
 kjemisk dekontaminering,chemical decontamination
 kjemisk egenskap,chemical property
 kjemisk fabrikk,chemical plant
-kjemisk forbindelse,compound
 kjemisk forbindelse,chemical compound
+kjemisk forbindelse,compound
 kjemisk forurensning,chemical pollution
 kjemisk industri,chemical industry
 kjemisk kontaminering,chemical contamination
@@ -2851,10 +2852,10 @@ kjernebrensel,nuclear fuel
 kjerneenergi,nuclear energy
 kjerneergilovgivning,nuclear energy legislation
 kjernefysikk,nuclear physics
-kjernefysisk eksplosjon (ulykke),nuclear explosion (accident)
-kjernefysisk eksplosjon (ulykke),nuclear explosion
-kjernefysisk eksplosjon,nuclear explosion (accident)
 kjernefysisk eksplosjon,nuclear explosion
+kjernefysisk eksplosjon,nuclear explosion (accident)
+kjernefysisk eksplosjon (ulykke),nuclear explosion
+kjernefysisk eksplosjon (ulykke),nuclear explosion (accident)
 kjernefysisk fare,nuclear hazard
 kjernefysisk forskningssenter,nuclear research centre
 kjernefysisk prøvesprengning,nuclear test
@@ -2886,9 +2887,9 @@ klaver,pianoforte
 kle,attire
 kleptomani,kleptomania
 klima,climate
-klimaendring,climatic change
 klimaendring,climate change
 klimaendring,climatic alteration
+klimaendring,climatic change
 klimaks,climax
 klimaressurs,climate resource
 klimasone,climatic zone
@@ -2898,9 +2899,9 @@ klimatologi,climatology
 klimatype,climate type
 klimavern,climate protection
 klippe,cliff
-klisjé,platitude
 klisjé,cliche
 klisjé,cliché
+klisjé,platitude
 klitoris,button
 klitoris,clit
 klitoris,clitoris
@@ -2914,8 +2915,8 @@ klorhydrokarbon,chlorinated hydrocarbon
 klorid,chloride
 klorofyll,chlorophyll
 klorose,chlorosis
-klær,clothing
 klær,apparel
+klær,clothing
 knappcellebatteri,button-cell battery
 knyttet til,attached
 koagulering,coagulation
@@ -2925,8 +2926,8 @@ kodeks,code
 kodifisering,codification
 koffein,caffeine
 kokepunkt,boiling point
-kokosnøtt,kokosnoot
 kokosnøtt,coconut
+kokosnøtt,kokosnoot
 koks,coke
 kolesterol,cholesterol
 koliform bakterie,coliform bacterium
@@ -2971,10 +2972,10 @@ kompresjon,compression
 kompressor,compressor
 komprimering,compaction
 kondensasjonskjerne,rainout
-kondensering,condensation (process)
 kondensering,condensation
-kone,wife
+kondensering,condensation (process)
 kone,spouse
+kone,wife
 konferanse,conference
 konflikt,conflict
 kongress,congress
@@ -3017,8 +3018,8 @@ korallrevlagune,coral reef lagoon
 koreansk,Korean
 koreansk,Korean
 kork,cork
-korn (matvare),grain
 korn,grain
+korn (matvare),grain
 kornisk,Cornish
 korridor,corridor
 korrosjon,corrosion
@@ -3037,8 +3038,6 @@ kraftvarmeverk,heat and power station
 kraftverk,power station
 kreativitet,creativity
 kreativitet,inventiveness
-skaperevne,creativity
-skaperevne,inventiveness
 kreditt,credit
 kreditthjelp,credit assistance
 kredittpolitikk,credit policy
@@ -3049,10 +3048,10 @@ kreftrisiko,cancer risk
 krenkelse,infraction
 krepsdyr,crustacean
 krig,war
-krigsfange,prisoner of war
 krigsfange,POW
-krigsfange,PoW
 krigsfange,PW
+krigsfange,PoW
+krigsfange,prisoner of war
 krigsrammet flyktning,displaced person
 kriminalitet,criminality
 krisehåndtering,crisis management
@@ -3079,7 +3078,6 @@ krystallisering,crystallisation
 krystallografi,crystallography
 kulde,cold
 kuleramme,abacus
-abakus,abacus
 kull,coal
 kullbasert energi,coal-based energy
 kullforedling,coal refining
@@ -3103,8 +3101,8 @@ kunstgjødsel,inorganic fertiliser
 kunstig innsjø,artificial lake
 kunstig reproduksjonsteknikk,artificial reproductive technique
 kunstig satellitt,artificial satellite
-kunstspråk,constructed language
 kunstspråk,artificial language
+kunstspråk,constructed language
 kusma,mumps
 kvalitetskontroll,quality control
 kvalitetsmål,quality objective
@@ -3117,6 +3115,13 @@ kvegdyr,cattle
 kvikksølv,mercury
 kvinne,female
 kvinne,woman
+kviterussisk,Belarusan
+kviterussisk,Belarusan
+kviterussisk,Belarusian
+kviterussisk,Belorussian
+kviterussisk,Byelorussian
+kymrisk,Welsh
+kymrisk,Welsh
 kyst,coast
 kystfarvann,coastal water
 kystfiske,coastal fishing
@@ -3164,9 +3169,6 @@ landbrukslovgivning,agricultural legislation
 landbruksmaskin,agricultural equipment
 landbruksmaskin,agricultural machinery
 landbruksmaskin,farm machinery
-landbruksutstyr,agricultural equipment
-landbruksutstyr,agricultural machinery
-landbruksutstyr,farm machinery
 landbruksmeteorologi,agrometeorology
 landbruksmetode,farming technique
 landbruksplanlegging,agricultural planning
@@ -3179,6 +3181,9 @@ landbruksteknikk,agricultural engineering
 landbruksturisme,agritourism
 landbruksutnyttelse,agricultural exploitation
 landbruksutstyr,agricultural equipment
+landbruksutstyr,agricultural equipment
+landbruksutstyr,agricultural machinery
+landbruksutstyr,farm machinery
 landbruksøkologi,agricultural ecology
 landbruksøkologi,agroecology
 landbruksøkonomi,agricultural economics
@@ -3210,8 +3215,8 @@ langtidsvirkning,long-term effect
 langtransport,long-distance transport
 lantan,lanthanum
 lanterne,lantern
-laser,laser
 laser,Light Amplification by Stimulated Emission of Radiation
+laser,laser
 lastebil,lorry
 latin,Latin
 latin,Latin
@@ -3220,8 +3225,8 @@ latvisk,Latvian
 lauv,foliage
 lauvskog,deciduous forest
 lauvskog,deciduous wood
-lauvtre,deciduous tree
 lauvtre,broad-leaved tree
+lauvtre,deciduous tree
 lav,lichen
 lav strømning,low flow
 lavflyvning,low-level flight
@@ -3236,10 +3241,10 @@ ledningsevne,electrical conductivity
 legemiddelindustri,pharmaceutical industry
 legering,alloy
 leiekontrakt,lease
-leir,camp
-leir,military camp
 leir,army camp
+leir,camp
 leir,campsite
+leir,military camp
 leire,clay
 lekkasje,leakage
 leksikon,encyclopaedia
@@ -3258,7 +3263,6 @@ lillefinger,pinkie
 lim,glue
 limnologi,limnology
 lingvistikk,linguistics
-språkvitskap,linguistics
 linje,line
 linjekilde,line source
 linjetonekilde,linear source of sound
@@ -3296,11 +3300,11 @@ lokomotiv,locomotive
 loppe,flea
 losji,lodging
 losvirksomhet,pilotage
+lov,act
+lov,act
+lov,deed
+lov,deed
 lov,law
-lov,act
-lov,deed
-lov,act
-lov,deed
 lov om datatilsyn,data processing law
 lov om resirkuleringsstyring og avfall,recycling management and waste law
 lovbeskyttet rettighet,legally protected right
@@ -3332,8 +3336,8 @@ luftforurensning,air pollution
 lufthavn,airport
 lufting,aeration
 luftinnblanding i vann,water aeration
-luftkondisjonering,air conditioning
 luftkondisjonering,AC
+luftkondisjonering,air conditioning
 luftkondisjonering,air-conditioning
 luftkvalitet,air quality
 luftkvalitetsforvaltning,air quality management
@@ -3364,7 +3368,6 @@ lysimetri,lysimetry
 lysnedbryting,photodegradation
 lånesamarbeid mellom bibliotek,inter-library loan
 lær,leather
-skinn,leather
 lær- og lærvareindustri,leather industry
 løkdyrking,bulb cultivation
 lønn,salary
@@ -3401,9 +3404,9 @@ mangan,manganese
 mangrove,mangrove
 maquis,maquis
 marathi,Marathi
-marathi,Marāthi
-marathi,Marāthi
 marathi,MarÄthi
+marathi,Marāthi
+marathi,Marāthi
 marin fauna,marine fauna
 marin giftalgeoppblomstring,green tide
 marin organisme,marine organism
@@ -3439,9 +3442,9 @@ matematisk analyse,mathematical analysis
 matematisk metode,mathematical method
 materiale,material
 materiale,materials
+materialegenskap,properties of materials
 materialer,material
 materialer,materials
-materialegenskap,properties of materials
 materiallivssyklus,material life cycle
 materialvitenskap,materials science
 matfett,edible fat
@@ -3456,24 +3459,21 @@ matvarehygiene,food hygiene
 matvareindustri,food industry
 matvarekonservering,food preservation
 matvarekontaminering,food contamination
-matvareproduksjon,food production (agriculture)
 matvareproduksjon,food production
+matvareproduksjon,food production (agriculture)
 matvaretransport,food transport
 maur,ant
 med,alongside
 med,amongst
 med,with
-sammen med,alongside
-sammen med,amongst
-sammen med,with
-medisin (medikament),drug
 medisin,drug
-medisin (vitenskap),medicine
-medisin (vitenskap),medicine (practice)
+medisin,medical science
 medisin,medicine
 medisin,medicine (practice)
+medisin (medikament),drug
 medisin (vitenskap),medical science
-medisin,medical science
+medisin (vitenskap),medicine
+medisin (vitenskap),medicine (practice)
 medisinalplante,medicinal plant
 medisinavfall,pharmaceutical waste
 megabyte,megabyte
@@ -3495,8 +3495,8 @@ mendelevium,mendelevium
 mening,opinion
 mening,stance
 meningitt,meningitis
-meningsmåling,public opinion polling
 meningsmåling,opinion survey
+meningsmåling,public opinion polling
 menneske,man
 menneskekroppen,human body
 menneskelig aktivitet,anthropic activity
@@ -3520,8 +3520,8 @@ metallprodukt,metal product
 metallurgi,metallurgy
 metallurgisk industri,metallurgical industry
 metallvareindustri,metal products industry
-metan,methane
 metan,marsh gas
+metan,methane
 metan,methyl hydride
 metanisering,methanisation
 metanol,methanol
@@ -3592,18 +3592,13 @@ miljøbørs,environmental stock exchange
 miljødata,environmental data
 miljøeffekt,effect on the environment
 miljøeffekt,environmental consequence
-miljøkonsekvens,effect on the environment
-miljøkonsekvens,environmental consequence
 miljøendring,environmental change
-miljøerklæring (øko-audit),environmental statement (eco-audit)
-miljøerklæring (øko-audit),environmental statement
-miljøerklæring (øko-audit),eco-audit
-miljøerklæring,environmental statement (eco-audit)
-miljøerklæring,environmental statement
 miljøerklæring,eco-audit
-øko-audit,environmental statement (eco-audit)
-øko-audit,environmental statement
-øko-audit,eco-audit
+miljøerklæring,environmental statement
+miljøerklæring,environmental statement (eco-audit)
+miljøerklæring (øko-audit),eco-audit
+miljøerklæring (øko-audit),environmental statement
+miljøerklæring (øko-audit),environmental statement (eco-audit)
 miljøetikk,environmental ethics
 miljøfag,environmental science
 miljøfare,environmental hazard
@@ -3627,7 +3622,11 @@ miljøinformasjonssystem,environmental information system
 miljøinformatikk,environmental informatics
 miljøkjemi,environmental chemistry
 miljøkjemikalielovgivning,environmental chemicals legislation
+miljøkonsekvens,effect on the environment
 miljøkonsekvens,environmental consequence
+miljøkonsekvens,environmental consequence
+miljøkonsekvensanalyse,EIA
+miljøkonsekvensanalyse,environmental impact assessment
 miljøkonsekvenserklæring,environmental impact statement
 miljøkonsulenttjeneste,environmental enterprise
 miljøkostnad,environmental cost
@@ -3726,8 +3725,8 @@ mineralressurs,mineral resource
 mineralutvinning,mineral extraction
 mineralvann,mineral water
 minimisering av miljøbelastning,impact minimisation
-miniskjørt,miniskirt
 miniskjørt,mini-skirt
+miniskjørt,miniskirt
 ministerkompetanse,minister competence
 ministerrapport,report to the minister
 minnesmerkebevaring,conservation of monuments
@@ -3750,18 +3749,18 @@ motorbrennstoff,motor fuel
 motorkjøretøy,motor vehicle
 motorkjøretøyeksos,motor vehicle exhaust gas
 motorkjøretøyindustri,motor vehicle industry
-motorsykkel,motorcycle
 motorsykkel,motorbike
-motorveg,motorway
-motorveg,pike
+motorsykkel,motorcycle
 motorveg,expressway
 motorveg,freeway
+motorveg,motorway
+motorveg,pike
 motorveg,state highway
 motorveg,superhighway
 motorveg,throughway
 motorveg,thruway
-motstand,resistance (biological)
 motstand,resistance
+motstand,resistance (biological)
 motstridende bruk,conflicting use
 mudring,dredging
 mudringsmasse,dredged material
@@ -3773,8 +3772,8 @@ munn,beak
 munn,mouth
 murkonstruksjon,masonry
 murstein,brick
-murvegetasjon,climbing plant (wall)
 murvegetasjon,climbing plant
+murvegetasjon,climbing plant (wall)
 museum,museum
 musikal,musical
 musiker,musician
@@ -3866,16 +3865,16 @@ naturvernprogram,nature conservation programme
 naturvitenskap,natural science
 naturvitenskap,physical science
 nedbrytbarhet,degradability
-nedbryting (kjemi),degradation
 nedbryting,degradation
+nedbryting (kjemi),degradation
 nedbryting av forurensning,pollutant degradation
 nedbryting av ozonlaget,ozone layer depletion
 nedbrytingsprodukt,degradation product
 nedbrytning,decomposition
-nedbør (meteorologisk fenomen),atmospheric precipitation
-nedbør (meteorologisk fenomen),precipitation
 nedbør,atmospheric precipitation
 nedbør,precipitation
+nedbør (meteorologisk fenomen),atmospheric precipitation
+nedbør (meteorologisk fenomen),precipitation
 nedbørfelt,catchment area
 nedbørfremkalling,precipitation enhancement
 nederlandsk,Dutch
@@ -3896,8 +3895,8 @@ nes,headland
 nese,nose
 neshorn,rhino
 neshorn,rhinoceros
-nettverkspolitikk,netting policy (emissions trading)
 nettverkspolitikk,netting policy
+nettverkspolitikk,netting policy (emissions trading)
 neurotoksisitet,neurotoxicity
 nevrologi,neurology
 ni,9
@@ -3921,13 +3920,14 @@ nomenklatur,nomenclature
 nord-sør-forhold,North-South relationship
 norm,norm
 norsk,Norwegian
+norwegian_bokmal,english
 notifikasjon,notification
 novial,Novial
 nukleinsyre,nucleic acid
-nulle,zero
-nulle,null
-null,zero
 null,null
+null,zero
+nulle,null
+nulle,zero
 ny teknologi,new technology
 nyhetsbrev,newsletter
 nyhetsgruppe,newsgroup
@@ -4000,11 +4000,11 @@ offer,sacrifice
 offisielt språk,official language
 oftalmologi,ophthalmology
 og,and
+og,and
 og,as well as
 og,in addition to
 og,together with
 og,too
-og,and
 okse,bull
 oksid,oxide
 oksidasjon,oxidation
@@ -4046,9 +4046,9 @@ omvendt osmose,reverse osmosis
 onkologi,oncology
 ontogenese,ontogenesis
 ontogenese,ontogenesis
+ontogenese,ontogenesis
+ontogenese,ontogenesis
 ontogenese,ontogeny
-ontogenese,ontogenesis
-ontogenese,ontogenesis
 ontogenese,ontogeny
 ontologi,ontology
 operette,operetta
@@ -4104,11 +4104,11 @@ oralsex,oral sex
 ord,word
 ordbok,dictionary
 orden,order
-ordklasse,part of speech
 ordklasse,lexical category
+ordklasse,part of speech
 ordliste,vocabulary
-organ (anatomi),organ
 organ,organ
+organ (anatomi),organ
 organisasjon,organisation (law)
 organisasjoners juridiske form,legal form of organisations
 organisering av undervisning,organisation of teaching
@@ -4145,8 +4145,8 @@ overføringseffekt,carry-over effect
 overgjødsling,overfertilisation
 overløp,overflow (outlet)
 overrumplet,aback
-oversette,translate
 oversette,interpret
+oversette,translate
 oversettelse,translation
 overskrevs,astride
 overskytende høyde på fabrikkpiper,excessive height of chimney stacks
@@ -4160,8 +4160,8 @@ overvåkingsnettverk,monitoring network
 overvåkingsstasjon,monitoring station
 overvåkingsteknikk,monitoring technique
 overvåkingsutstyr,monitoring equipment
-ovn,oven
 ovn,furnace
+ovn,oven
 ovn,stove
 ozon,ozone
 ozonering,ozonisation
@@ -4173,8 +4173,8 @@ paleoklimatologi,palaeoclimatology
 paleontologi,palaeontology
 paleoøkologi,palaeoecology
 palladium,palladium
-panjabi,Punjabi
 panjabi,Panjabi
+panjabi,Punjabi
 papegøye,parrot
 papir,paper
 papiravfall,waste paper
@@ -4216,9 +4216,9 @@ periodisk støy,intermittent noise
 periurbant område,periurban space
 permeabilitet,permeability
 peroksyacetylnitrat,peroxyacetylnitrate
+persisk,Farsi
 persisk,Persian
 persisk,Western Farsi
-persisk,Farsi
 persistens,persistence
 persistent organisk forurensende stoff,persistant organic pollutant
 personbil,private car
@@ -4231,6 +4231,7 @@ petrokjemisk industri,petrochemical industry
 petroleum,petroleum
 petroleumsindustri,petroleum industry
 pigghud,echinoderm
+pike,girl
 pilotprosjekt,pilot project
 pilspiss,arrowhead
 pingvin,penguin
@@ -4263,8 +4264,8 @@ plantereproduksjon,plant reproduction
 planteressurs,plant resource
 plantesamfunn,plant community
 planteseleksjon,plant selection
-planteskole,nursery (plant breeding)
 planteskole,nursery
+planteskole,nursery (plant breeding)
 planteskole,plant nursery
 planteskoledrift,arboriculture
 plantesosiologi,phytosociology
@@ -4288,10 +4289,9 @@ plutonium,plutonium
 plutonium,plutonium
 polarområde,polar region
 politi,police
-politikk,politics
 politikk,policy
+politikk,politics
 politikk (strategi),policy
-strategi,policy
 politikkintegrering,policy integration
 politikkplanlegging,policy planning
 politimyndighet,police power
@@ -4328,8 +4328,8 @@ populasjonsøkologi,population ecology
 porselen,porcelain
 portugisisk,Portuguese
 portugisisk,Portuguese
-posidonia,posidonia
 posidonia,neptunegrass
+posidonia,posidonia
 positron,positron
 postbud,postman
 potensielt forurenset område,area of potential pollution
@@ -4386,8 +4386,8 @@ prosjekt,project
 prostata,prostate
 prostitusjon,prostitution
 protactinium,protactinium
-protein,protein
 protein,poly peptide
+protein,protein
 proteinprodukt,protein product
 protokoll (avtale),protocol
 provins,province
@@ -4419,10 +4419,10 @@ radar,radar
 radio,radio
 radioaktiv dekontaminering,radioactive decontamination
 radioaktiv kontaminering,radioactive contamination
-radioaktivitet,radioactivity
 radioaktivitet,radioactive decay
-radioaktivt avfall,radioactive waste
+radioaktivitet,radioactivity
 radioaktivt avfall,nuclear waste
+radioaktivt avfall,radioactive waste
 radioaktivt avfallsdeponi,radioactive dumping
 radioaktivt nedfall,radioactive fallout
 radioaktivt sporstoff,radioactive tracer
@@ -4480,8 +4480,8 @@ regnskog,rain forest
 regnvann,rain water
 regulerende lov,regulative law
 regulering av landbruksproduksjon,regulation of agricultural production
-rehabilitering,återställande
 rehabilitering,rehabilitation
+rehabilitering,återställande
 reinsdyr,reindeer
 reising,travel
 reising utenom rushtiden,off-peak travelling
@@ -4531,8 +4531,8 @@ ressursevaluering,resource appraisal
 ressursforvaltning,resources management
 ressursprispolitikk,pricing policy of resources
 ressursreservat,resource reserve
-ressursutnyttelse,resource utilisation
 ressursutnyttelse,resource exploitation
+ressursutnyttelse,resource utilisation
 ressursvern,resource conservation
 restanalyse,residue analysis
 restaurering av bygninger,building restoration
@@ -4574,8 +4574,8 @@ rivningsavfall,demolition waste
 rivningsvirksomhet,demolition business
 roentgenium,roentgenium
 rom sjø,open sea
-rombe,rhombus
 rombe,rhomb
+rombe,rhombus
 romferd,space travel
 rosenkrans,rosary
 rot,root
@@ -4587,8 +4587,8 @@ rubin,ruby
 ruging,brooding
 rullende støy,rolling noise
 rullestol,wheelchair
-rumensk,Romanian
 rumensk,Romanaian
+rumensk,Romanian
 rundskriv,circular mail
 russisk,Russian
 russisk,Russian
@@ -4628,16 +4628,19 @@ samfunnsnytteerklæring,declaration of public utility
 samfunnsvitenskap,social science
 samfunnsøkonomisk undersøkelse,public benefit inquiry
 samle,assemble
-samle,get together
 samle,gather
+samle,get together
 sammen,together
+sammen med,alongside
+sammen med,amongst
+sammen med,with
 sammenlignende rett,comparative law
 sammenligning,comparison
 samråd,consultation
 samtykke,assent
 sand,sand
-sanddyne,sand dune
 sanddyne,dune
+sanddyne,sand dune
 sanger,songbird
 sanitært utstyr,sanitary fitting
 sans for naturen,feeling for nature
@@ -4647,10 +4650,10 @@ sauedyr,ovine
 scandium,scandium
 seaborgium,seaborgium
 sediment,sediment
-sedimentasjon (geologisk),sedimentation (geology)
-sedimentasjon (geologisk),sedimentation
-sedimentasjon,sedimentation (geology)
 sedimentasjon,sedimentation
+sedimentasjon,sedimentation (geology)
+sedimentasjon (geologisk),sedimentation
+sedimentasjon (geologisk),sedimentation (geology)
 sedimentologi,sedimentology
 seismisk aktivitet,seismic activity
 sekkepipe,bagpipes
@@ -4701,11 +4704,11 @@ sjelden art,rare species
 sjimpanse,chimpanzee
 sjø,sea
 sjø,sea
-sjøkart,map chart
 sjøkart,chart
+sjøkart,map chart
 sjøkart,nautical chart
-sjøpattedyr,marine mammal
 sjøpattedyr,aquatic mammal
+sjøpattedyr,marine mammal
 sjøtransport,maritime transport
 sjøvann,sea water
 sjøvann til bading,bathing seawater
@@ -4713,7 +4716,6 @@ sjøvannssirkulasjon,ocean circulation
 skade,damage
 skade,injury
 skade,wound
-sår,wound
 skade etter militærøvelse,damage from military manoeuvres
 skadebegrensningstiltak,mitigation measure
 skadedyrangrep på avling,infestation of crops
@@ -4732,6 +4734,8 @@ skalldyr,shellfish
 skalldyr,shellfish
 skalle,skull
 skamfull,ashamed
+skaperevne,creativity
+skaperevne,inventiveness
 skarp,acrid
 skatt,tax
 skattefritak for kraftstasjoner,power station derating
@@ -4739,12 +4743,13 @@ skatteutskrivning,levy
 skilpadde,tortoise
 skilsmisse,divorce
 skiløype,ski run
-skinnegående kjøretøy,railroad vehicle
+skinn,leather
 skinnegående kjøretøy,carriage
+skinnegående kjøretøy,railroad vehicle
 skinnegående kjøretøy,wagon
 skip,ship
-skipsfart,navigation
 skipsfart,maritime navigation
+skipsfart,navigation
 skipsteknikk,marine engineering
 skisport,skiing
 skjoldbruskkjertel,thyroid
@@ -4764,8 +4769,8 @@ skogindustri,forest industry
 skogkultur,reforestation
 skogproduksjon,forest production
 skogreisning,afforestation
-skogreisning,tree planting
 skogreisning,afforestment
+skogreisning,tree planting
 skogreservat,forest reserve
 skogressurs,forest resource
 skogsbiologisk reservat,forest biological reserve
@@ -4778,6 +4783,7 @@ skogøkologi,forest ecology
 skogøkosystem,forest ecosystem
 skole,school
 skorsteinshøyde,chimney height
+skred,avalanche
 skredvern,avalanche protection
 skrevende,astride
 skrive,write
@@ -4790,12 +4796,12 @@ slagg,slag
 slakte,slaughter
 slaktedyr,animal for slaughter
 slakter,butcher
-slakteri,slaughterhouse
-slakteri,slaughter-house
 slakteri,abattoir
 slakteri,butchery
 slakteri,shambles
 slakteri,slaughter-house
+slakteri,slaughter-house
+slakteri,slaughterhouse
 slam,mud
 slam,sludge
 slam (avfall),sludge
@@ -4812,8 +4818,8 @@ sluttlagring,final storage
 slått,mowing
 smaksstoff,flavouring
 smalere begrep,hyponym
-smalere begrep,narrower terms
 smalere begrep,narrower term
+smalere begrep,narrower terms
 smelting,melting
 smil,smile
 smog,smog
@@ -4824,10 +4830,9 @@ snikmorder,assassin
 snikmorder,assassinator
 snø,snow
 snørrfille,handkerchief
+snøskred,avalanche
+snøskred,avalanche
 snøskred,snowslide
-snøskred,avalanche
-snøskred,avalanche
-skred,avalanche
 sokk,sock
 solcelle,solar cell
 solenergi,solar energy
@@ -4869,6 +4874,7 @@ sprengstoff,explosive
 springer,knight
 springer,knight
 språk,language
+språkvitskap,linguistics
 sprøyte,syringe
 spyd,pike
 spyd,spear
@@ -4888,16 +4894,16 @@ statsadvokatens kontor,public prosecutor's office
 statsform,form of government
 statsgjeld,public debt
 statsrett,constitutional law
-sted,place
 sted,location
+sted,place
 stedfestede data,geo-referenced data
 stedfestet informasjon,geo-referenced information
 steinbrudd,quarry
 steinbryting,quarrying
-steinkull,black coal
-steinkull,black coal
-steinkull,black coal
 steinkull,anthracite coal
+steinkull,black coal
+steinkull,black coal
+steinkull,black coal
 steinmateriale,stone
 stemmegivning,voting
 steppe og halvørken,arid land
@@ -4909,8 +4915,8 @@ stikling,cutting
 stikling,cutting (vegetative propagation)
 stilling,attitude
 stivelse,starch
-stjerne,star
 stjerne,asterisk
+stjerne,star
 stoffbalanse,balance of matter
 stoffegenskap,behaviour of substances
 stoffregistrering,recording of substances
@@ -4934,6 +4940,7 @@ strafferettsprosedyre,criminal law procedure
 strand,beach
 strandrensing,beach cleansing
 strandvoll,barrier beach
+strategi,policy
 stress,stress
 strontium,strontium
 struts,ostrich
@@ -4960,10 +4967,10 @@ støv,dust
 støvfjerning,dust removal
 støvsuger,vacuum cleaner
 støy,noise
-støy,"noise, vibrations"
-støy,racket
 støy,noise
 støy,noise pollutant
+støy,"noise, vibrations"
+støy,racket
 støy fra dyr,animal noise
 støy fra næringsaktivitet,commercial noise
 støyanalyse,noise analysis
@@ -5008,15 +5015,16 @@ svovelfjerning fra brennstoff,desulphurisation of fuel
 svovelkonsentrasjon,sulphur concentration
 svulst,neoplasm
 svulst,tumour
+svømmebasseng,swimming pool
 swahili,Swahili
 syfilis,syphilis
+sykdom,affliction
 sykdom,disease
 sykdom,illness
-sykdom,affliction
 sykdomsbilde,clinical symptom
 sykdomsårsak,disease cause
-sykehus,hospital
 sykehus,clinic
+sykehus,hospital
 sykehusavfall,hospital waste
 sykkel,bicycle
 sykkel,bike
@@ -5033,6 +5041,7 @@ sysselsetting og miljø,employment and environment
 sysselsettingseffekt,employment level effect
 sysselsettingsstruktur,employment structure
 såpe,soap
+sår,wound
 søketjeneste via CD-ROM,CD-ROM search service
 søketjeneste via Internettet,internet search service
 sølibat,celibacy
@@ -5077,8 +5086,8 @@ tekstilfabrikk,textile plant
 tekstilindustri,textile industry
 telefon,phone
 telefon,telephone
-telekommunikasjon,telecommunications
 telekommunikasjon,telecommunication
+telekommunikasjon,telecommunications
 telemetri,telemetry
 tellur,tellurium
 telugu,Telugu
@@ -5095,10 +5104,10 @@ terminologi,terminology
 termisk utstyr,thermal equipment
 termitt,termite
 termodynamikk,thermodynamics
-terrakotta,terracotta
-terrakotta,terracotta
-terrakotta,terracotta
 terrakotta,terra cotta
+terrakotta,terracotta
+terrakotta,terracotta
+terrakotta,terracotta
 terrengkjøretøy,all-terrain vehicle
 terrestrisk pattedyr,land mammal
 terrestrisk økologi,land ecology
@@ -5110,8 +5119,8 @@ thai,Thai
 thallium,thallium
 thorium,thorium
 thulium,thulium
-tid (parameter),time
 tid,time
+tid (parameter),time
 tidevann,tidal water
 tidevannskraftverk,tidal power station
 tidevannssone,intertidal zone
@@ -5124,13 +5133,13 @@ tidsskrift,periodical
 tidssone,timezone
 tilbehør,attachment
 tilbud,supply
-tilgang,supply
 tilbud og etterspørsel,supply and demand
 tildekking,covering
 tildekking,roofing
 tildekking av fyllplass,landfill covering
 tilfeldig forurensning,incidental pollution
 tilfluktsrom,emergency shelter
+tilgang,supply
 tilgang til administrative dokumenter,access to administrative documents
 tilgang til domstol,access to the courts
 tilkjørselsvei,access road
@@ -5150,10 +5159,10 @@ tirsdag,Tuesday
 titan,titanium
 titandioksid,titanium dioxide
 tjener,server
-tjenesteyter for Internettet,internet service provider
 tjenesteyter for Internettet,ISP
 tjenesteyter for Internettet,Internet access provider
 tjenesteyter for Internettet,Internet service provider
+tjenesteyter for Internettet,internet service provider
 tobakk,tobacco
 tog,train
 toksikologi,toxicology
@@ -5198,8 +5207,8 @@ trekant,triangle
 trekkdyr,draught animal
 trekkfugl,migratory bird
 trekkspill,accordion
-trekkspill,squeeze box
 trekkspill,piano accordion
+trekkspill,squeeze box
 trekull,charcoal
 treprodukt,wood product
 trigonometri,trigonometry
@@ -5208,8 +5217,8 @@ trofisk nivå,trophic level
 trolleybuss,trolley bus
 trolleybuss,trolleybus
 trombone,trombone
-tropene,tropics
 tropene,torrid zone
+tropene,tropics
 tropisk plante,tropical plant
 tropisk regnskog,tropical rain forest
 tropisk skog,tropical forest
@@ -5222,12 +5231,12 @@ tsjekkisk,Czech
 tsjekkisk,Czech
 tsjetsjensk,Chechen
 tsjetsjensk,Chechen
+tsjuvansk,Chavash
+tsjuvansk,Chovash
+tsjuvansk,Chttash
 tsjuvansk,Chuvash
 tsjuvansk,Chuvash
 tsjuvansk,Chuwash
-tsjuvansk,Chovash
-tsjuvansk,Chavash
-tsjuvansk,Chttash
 tsunami,seismic sea wave
 tsunami,tsunami
 tundra,tundra
@@ -5288,12 +5297,12 @@ undervisningsplanlegging,educational planning
 undervurdering av landbruket,agricultural undervaluation
 ungarsk,Hungarian
 ungt individ,young
-universitet,university
-universitet,university
+universitet,academy
 universitet,academy
 universitet,university
 universitet,university
-universitet,academy
+universitet,university
+universitet,university
 ununbium,ununbium
 ununhexium,ununhexium
 ununoctium,ununoctium
@@ -5315,8 +5324,8 @@ usoledarisk miljøholdning,NIMBY aptitude
 usoledarisk miljøholdning,NIMBY attitude
 utbedring av skader i fjellområder,land restoration in mountain areas
 utbedring av skadet jord,land restoration
-utbedring etter gruvedrift,mining site restoration
 utbedring etter gruvedrift,mine reclamation
+utbedring etter gruvedrift,mining site restoration
 utbedringsplan,recovery plan
 utbredelsesberegning,dispersion calculation
 utbredelsesprosess,propagation process
@@ -5332,25 +5341,25 @@ utenriksøkonomi,foreign economic relations
 utfartssted på fjellet,mountain resort
 utfelling,precipitation
 utfelling,precipitation (chemical)
-utforming,design (project)
 utforming,design
+utforming,design (project)
 utforming,project design
 utgift,expenditure
 utgravd hull,excavated hole
-utgraving,excavation (process)
-utgraving,excavation
-utgraving,earthworks
 utgraving,digging
+utgraving,earthworks
+utgraving,excavation
+utgraving,excavation (process)
 utgravingshaug,excavation heap
 utgravingsside,excavation side
 utgravingssted,excavation site
 utilsiktet utsetting av organismer,accidental release of organisms
 utnyttelse av havet,ocean exploitation
 utpeke,assign
-utryddelse (økologisk),extinction (ecological)
-utryddelse (økologisk),extinction
-utryddelse,extinction (ecological)
 utryddelse,extinction
+utryddelse,extinction (ecological)
+utryddelse (økologisk),extinction
+utryddelse (økologisk),extinction (ecological)
 utråtnet slam,digested sludge
 utsette grunnvann for fare,groundwater endangering
 utsetting av muterte mikroorganismer,mutated micro-organisms release
@@ -5390,10 +5399,6 @@ vadeplass,ford
 vakt,attendant
 valisisk,Welsh
 valisisk,Welsh
-walisisk,Welsh
-walisisk,Welsh
-kymrisk,Welsh
-kymrisk,Welsh
 vallonsk,Walloon
 vallonsk,Walloon
 valross,walrus
@@ -5445,13 +5450,13 @@ varmtvann,hot water
 varsling,forecast
 ved,fuel wood
 vedhogger,lumberjack
-vedlikehold,maintenance (technical)
 vedlikehold,maintenance
+vedlikehold,maintenance (technical)
 veg,road
-vei,road
 vegetabilsk olje,vegetable oil
 vegg,wall
 vegnett,road network
+vei,road
 veisalt,road salt
 vekselbruk,crop rotation
 vekt,weight
@@ -5467,14 +5472,14 @@ verb,verb
 verden,world
 verdensarvområde,world heritage site
 verdenskrig,world war
+verdensrom,interplanetary space
 verdensrom,space
 verdensrom,space
 verdensrom,space (interplanetary)
-verdensrom,interplanetary space
+verdensrommet,interplanetary space
 verdensrommet,space
 verdensrommet,space
 verdensrommet,space (interplanetary)
-verdensrommet,interplanetary space
 verdiendring,change in value
 verdifastsettelse av miljø,environmental economic valuation
 vern av fjell,mountain protection
@@ -5494,17 +5499,17 @@ vi,nosotros
 vi,we
 videre begrep,broader term
 videre begrep,broader terms
-videre begrep,hypernym
 videre begrep,holonym
+videre begrep,hypernym
 videregående utdanning,secondary education
 vietnamesisk,Vietnamese
 vietnamesisk,Vietnamese
 vik,cove
 villahage,home garden
 villdyr,wild animal
+villfauna,wild animals
 villfauna,wild fauna
 villfauna,wildlife
-villfauna,wild animals
 villplante,wild plant
 vilt,game
 vin,wine
@@ -5547,6 +5552,8 @@ våpenarsenal,armoury
 vær,weather
 væske,liquid
 væskeform,liquid state
+walisisk,Welsh
+walisisk,Welsh
 wolfram,tungsten
 xenon,xenon
 xylofon,xylophone
@@ -5563,8 +5570,8 @@ yrkesmedisin,occupational medicine
 yrkessikkerhet,occupational safety
 yrkesstatus,occupational status
 yrkessykdom,occupational disease
-ytre område,outer space (allocation plan)
 ytre område,outer space
+ytre område,outer space (allocation plan)
 ytringsfrihet,freedom of speech
 ytringsfrihet,freedom of speech
 ytterbium,ytterbium
@@ -5575,17 +5582,17 @@ zoologi,zoology
 zoonose,zoonosis
 Åland,Åland Islands
 Øst-Afrika,East Africa
-Øst-Asia,Eastern Asia
 Øst-Asia,East Asia
+Øst-Asia,Eastern Asia
 Øst-Europa,Eastern Europe
-Øst-Timor,East Timor
 Øst-Timor,Democratic Republic of Timor-Leste
+Øst-Timor,East Timor
 Østerrike,Austria
 Østerrike,Republic of Austria
+åker,acre
 åker,field
 åker,land
 åker,land
-åker,acre
 åker,patch
 åkerbruk,arable farming
 åkerreine,headland
@@ -5595,22 +5602,16 @@ zoonose,zoonosis
 årsaks-virkningsforhold,cause-effect relation
 årstid,season
 ås,colina
-ås,hill
-ås,loma
 ås,colina
 ås,hill
+ås,hill
 ås,loma
-bakke,colina
-bakke,hill
-bakke,loma
-berg,colina
-berg,hill
-berg,loma
-berg,colina
-berg,hill
-berg,loma
+ås,loma
 ærefrykt,awe
 øke,augment
+øko-audit,eco-audit
+øko-audit,environmental statement
+øko-audit,environmental statement (eco-audit)
 øko-turisme,ecotourism
 økofysiologi,ecophysiology
 økokatastrofe,ecocatastrophe
@@ -5637,9 +5638,9 @@ berg,loma
 økomuseum,ecomuseum
 økonomi,economic science
 økonomi,economics
+økonomi,economy
 økonomi (fagområde),economic science
 økonomi (fagområde),economics
-økonomi,economy
 økonomi (finans),economy
 økonomiplan,economic plan
 økonomisk aktivitet,economic activity
@@ -5699,4 +5700,3 @@ berg,loma
 øyenbryn,eyebrow
 øyestikker,dragonfly
 øyøkosystem,island ecosystem
-norwegian_bokmal,english

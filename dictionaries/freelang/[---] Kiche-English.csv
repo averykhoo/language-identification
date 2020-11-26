@@ -1,4 +1,5 @@
 Other,English
+,"lady, ma'am"
 -ach',"kind, class"
 -ach' ch'aben,confidant
 -ach' ch'aben,confidant
@@ -19,8 +20,8 @@ Other,English
 -al ri puaq,interest on debt
 -alk'ual q'ij,albino
 -aqan,ankle
--aqän ja,"beam, supportive pole, rafter, column"
 -aqan k'uch,ebony tree
+-aqän ja,"beam, supportive pole, rafter, column"
 -aqän rasrän,edge or tip of a hoe
 -baq' kampana,bell striker
 -baq' winaq,evil eye
@@ -59,8 +60,8 @@ Other,English
 -ij chij,drum
 -ij mache't,scabbard
 -ij triko,chaff wheat
--ismal -boq'ach,"eyelash, lash"
 -ismal -boq'ach,eyebrow
+-ismal -boq'ach,"eyelash, lash"
 -ismal q'ab,hair of arm
 -ismal rij -boq'ach,"eyelash, lash"
 -ja'il ki,maguey sap
@@ -74,8 +75,8 @@ Other,English
 -k'u'x puaq,fortune
 -k'ux,loyal to something
 -k'ux ch-ij,believe
--ka'yik,be ugly
 -ka che',madron tree
+-ka'yik,be ugly
 -kab kotz'i'j,flower nectar
 -kajil q'ojom,marimba weights
 -kowil raqän kiej,scorpion
@@ -125,17 +126,12 @@ Other,English
 -unum ulew,earthworm
 -uq ak'al,"baby clothes, diaper"
 -utzil -anima',charity
--wa'l -boq'wäch,tears
--wa'l -wäch,tears
--wa'l kinaq' q'eq,black bean soup
 -wa k'u'xaj,chest
 -wa ra,apron
 -wa winaq,evil eye
--wäch,answer
--wäch -k'ux,chest
--wäch -q'ij,luck
--wäch che',fruit of a tree
--wächinik,be the same in appearance
+-wa'l -boq'wäch,tears
+-wa'l -wäch,tears
+-wa'l kinaq' q'eq,black bean soup
 -ware' q'am,ladder step
 -webal,food
 -webal che',wood chips
@@ -154,6 +150,11 @@ Other,English
 -wo kaj,face of the sky
 -wo saq,algae
 -wowa -aqan,front of a thigh
+-wäch,answer
+-wäch -k'ux,chest
+-wäch -q'ij,luck
+-wäch che',fruit of a tree
+-wächinik,be the same in appearance
 -xa'til che',fork of tree
 -xaq abix,corn leaf
 -xaq kotz'i'j,flower petal
@@ -174,27 +175,97 @@ Other,English
 -xoq'olil -xikin,ear wax
 -xul bul,rivulet of water
 -ya' -ib räxq'än,become green
+Achep,José
+Aj,day in sacred calendar
+Ajmak,"day in sacred calendar, one who is guilty"
+Akuchi k'o wi ri nuwarab'al?,Where is my room?
+Akuchi k'o wi ri ruchi' palow?,Where is the beach?
+Aq'abal,day in sacred calendar
+Armita,"capitol, Guatemala City"
+Auen,Elena
+Batz',day in sacred calendar
+Bokeron,Nebaj
+Ch'ol Q'ij,sacred 260-day calendar
+Chuwila,Chichicastenango
+Dios Mundo,deity who comprises powers
+E,day in sacred calendar
+Ermita,Guatemala City
+Imox,day in sacred calendar
+In sachinaq,I'm confused
+Iq',"day in sacred calendar, fourth ranked Mam"
+Ix,day in sacred calendar
+Ix Motz',Constellation of the Pleiades
+Ja' saq ch'oq,Río del Arco
+Jalbal,New Year's Day
+Jun taq pa' kinbe pa ri,every once in a while
+Junajpu,day in the sacred calendar
+K'atinaq Juyub,Cerro Quemado
+Kab Q'ij,constellation of Sirius
+Kame,day in the sacred calendar
+Kampana abaj,Jocotenango San Bartolomé
+Kan,day in the sacred calendar
+Kante'l,Candelaria
+Katzijobal,K'iche' language
+Katzijobal,Quiché language
+Kaweq,day in the sacred calendar
+Kej,"day in the sacred calendar, first ranked Mam"
+Kiche,Santa Cruz
+Käqaj Q'ij,Summer Solstice
+Loq'alaj Q'ij,Easter
+Loq'alaj Wuj,Bible
+Ma'a,Zacualpa
+Ma't,Magdalena
+Mam K'oxol,"messenger, Guardian of ancient customs"
+Mamaj,San Pedro Jocopilas
+Mani yinachOp ke re'!,Don't touch me there!
+Max,Chichicastenango
+Maximon,Idol worshipped in Santiago
+Nantat,title used in prayers
+Nimala',Río Chixoy
+Nimalaj K'ulel,great enemy
+Oxlajuj Ch'ob,Catholic confraternities
+Pachulum Mundo,World Deity
+Pan Choy,"Antigua city, City of Antigua"
+Q'anil,day in the sacred calendar
+Q'umarqaj,ruins near Santa Cruz
+Q'än cho,Río del Canchon
+Qajawaxel,God the Father
+Ribnal,Rabinal
+San Kris,San Cristobal
+San Pra's,San Francisco El Alto
+Saqi K'oxol,traditions
+Te'k,Diego
+Tijax,day in the sacred calendar
+Tiox Mundo,"Dios Mundo, manifestation of traditional"
+Tujal,Sacapulas
+Tz'ikin,"day in the sacred calendar, bird"
+Wajxaqib Batz',Initiation day for new diviner
+Xe' lajuj no'j,Quetzaltenango
+Xelaju',Quetzaltenango
+Xepla',Río de Sepela
+Xoy,Joyabaj
+Xwan,Juan
+Yuqum jolom patax,Baile del Pato
 a,indicator of question
+a nima',by the river
 a'<aj>,leg
 a'tam,early
-a nima',by the river
 ab,hammock
-abäj,"stone, testicle"
-abäj tew,"ice, frost"
-abäjirik,harden
 abanik,"fabricate, invent"
 abir,last year
 abix,corn plant
+abäj,"stone, testicle"
+abäj tew,"ice, frost"
+abäjirik,harden
 ach'i'y,elastic
 achalal,"family member, brother, older brother of male"
 achalaxik,family
 achaqaj,excrement
-Achep,José
 achi,man
+achi nim -banik,important man
 achi'l,"regidor, companion, friend"
 achi'laj,accompany
 achi'lik,be together
-achi nim -banik,important man
 achijab,men
 achijab chi ixoqib,men and women
 achik',dream
@@ -206,12 +277,10 @@ achixaj,be jealous
 achixam,jealous
 achixam,jealous
 achixam chrij ri rixoqil,jealous about his wife
-Aj,day in sacred calendar
-äj,"reed, caña silvestre, ear of corn"
 aj na,lack
 aj uwo,family
-aj uwo-achoch,roommate
 aj uwo -achoch,one who lives in the house
+aj uwo-achoch,roommate
 aja'n q'or,atol of green corn
 ajan,carved wood
 ajanel,carpenter
@@ -231,12 +300,11 @@ ajch'ayal ch'ich',blacksmith
 ajchaq'im,child who has a baby brother
 ajchaq'im ak'al,child born 1 year after siblin
 ajchikaj,celestial
-ajchila',from way over there
 ajchila',from there
+ajchila',from way over there
 ajchiq'ij,day laborer
 ajelbal,flautist
 ajelbal,flutist
-äjij,sugar cane
 ajilabal,"adding machine, date"
 ajilaj,"relate, give an account"
 ajit,indigestion
@@ -253,7 +321,6 @@ ajkemal po't,blouse weaver
 ajkemal su't,cape weaver
 ajkoj,dancer who represents lion
 ajkun,doctor
-Ajmak,"day in sacred calendar, one who is guilty"
 ajmes,espiritista
 ajmiq'ina',native of Totonicapán
 ajmox,not clever
@@ -261,16 +328,16 @@ ajnawal mesa,spiritualist
 ajortza'm,sandal
 ajpajuyub,farmer
 ajpajuyub,farmer peasant
-ajpätzkar,dancer who strikes
 ajpop,"dignitary, leader"
+ajpätzkar,dancer who strikes
 ajq'ij,dancer who represents the sun
 ajq'ij,"daykeeper, zajorín, diviner"
 ajq'ojom,"drummer, marimba player"
 ajqan puaq,coppersmith
 ajsik,above
 ajsikil saqil,first days of summer
-ajsu',flutist
 ajsu',flautist
+ajsu',flutist
 ajt'iso'm,tailor
 ajt'isomanel,tailor
 ajtaq'ajal,coastal person
@@ -283,10 +350,10 @@ ajtz'alam,saw mill worker
 ajtz'ib,scribe
 ajtzi,autumn
 ajtzijtal,gossip
-ajwäch,"dance director, director"
 ajwaral,native of here
 ajware',dentist
 ajwi'l,child who is weaned
+ajwäch,"dance director, director"
 ajxelajuyab,persons from Quetzaltenango
 ajxi'n,"dancer in the bawl, disgusting, gross person"
 ajxojoj,dancer
@@ -295,26 +362,23 @@ ajxul,flautist
 ajxul,flutist
 ak,"bamboo, reed, firecracker"
 ak',grain
-äk',chicken
 ak' <-palaj>,freckle
 ak' wa,"green corn, tender corn, tender"
 ak'al,"child, Jerusalem cricket"
 ak'alil,childhood
 ak'an,string of garlic hung on wall
 ak'ie'l,"corn new, new corn, newly harvested corn"
-Akuchi k'o wi ri nuwarab'al?,Where is my room?
-Akuchi k'o wi ri ruchi' palow?,Where is the beach?
 al,indicator of feminine youth
-ala's,doll
-ala's,puppet
 ala bo'chi'nel,fiance
 ala bo'chi'nel,intended husband
+ala's,doll
+ala's,puppet
 alabal ala,god-son
 alabal ali,god-daughter
 alabal<axel>,nephew of woman
 alabal<ixel>,"niece of woman, niece or nephew of woman"
-alachi'k,joke around
 alachi'k,jest
+alachi'k,joke around
 alachi'k,joke around
 alaj,give birth to a child
 alaj be,footpath
@@ -334,9 +398,9 @@ alaxinaq,born
 ali -bo'chi'm,fiance
 ali bo'chi'talik,fiance
 ali ch'abem,fiance
-alibätzixel,daughter-in-law of female
 alibaxel tata',father-in-law of a female
 alibixel,daughter-in-law of female
+alibätzixel,daughter-in-law of female
 alima',sweet lime
 alixel ali,daughter of a female
 alk'ualaj,engender children
@@ -366,34 +430,32 @@ anim,rush
 anima',"being, feeling"
 animaj ch-wäch,flee before
 animajik,run away
-aninäq,"rapidly, quick, immediately"
 aninaq -ij,in a hurry
 aninaq -ij,in a rush
 aninaqil,"immediately, instantly"
+aninäq,"rapidly, quick, immediately"
 ankane'y,banana
 antun,clarinero bird
 apanöq,away but nearby
 aq'a'l,charcoal
 aq'ab,early
-aq'äb,"early morning, night"
-Aq'abal,day in sacred calendar
 aq'abil,at dawn
 aq'anibal,ladder
 aq'anik,climb up
 aq'en,board under grinding stone
 aq'er,"to brace corn plants in wind, brace"
+aq'äb,"early morning, night"
+aqil,bad person
 aqän,"altitude, handle tool"
 aqän<aj>,step
-aqil,bad person
-are',it
-are' nu-k'ul ja,he's my neighbor
 are chi,in order that
 are k'u ri',amen
 are k'u ri',may it be so
 are k'ut,that's right
 are la',that is
+are',it
+are' nu-k'ul ja,he's my neighbor
 arki'y,belt of horse
-Armita,"capitol, Guatemala City"
 arroz,rice
 asich,hoopoe
 asukal,sugar
@@ -414,11 +476,9 @@ atz',bird heron
 atz'am,salt
 atz'ambal,salt shaker
 atz'amij,salt
-atz'iäq,clothing
 atz'iaq k'ul,wool cloth
+atz'iäq,clothing
 atz'iäqij,dress
-ätz<axel>,older brother of boy
-Auen,Elena
 awabal,bag for holding seeds
 awaj,animal
 awaj aj uwo kaj,bird
@@ -446,12 +506,12 @@ bajij,"hammer, put on tightly"
 bajim,"blocked, impeded"
 bajowik,be heavy
 balabik,matured
-baläm,jaguar
 balixik,"act of being stuffed, be filled up, be loaded"
 balq'atij,roll over something
 balq'atik,roll over
 baltisaj,circumference
 baluk,brother-in-law of a male
+baläm,jaguar
 ban,"do, make"
 ban -banik,"repair, fix something"
 ban -k'exel,replace
@@ -486,28 +546,24 @@ banol,"doer, maker"
 banol k'ax,evil doer
 banom,done
 banom che tz'um,made of leather
-banowik,"act of doing, cause to be done"
 banowik,accomplish
+banowik,"act of doing, cause to be done"
 bantaj,be done
 bantajinaq,"finished, done, completed, made"
 baq,"bone, needle"
+baq chikop,gusano alambre
 baq'atij,roll up
 baq'atij -ib,become entangled
 baq'atim,rolled up
 baq'ek,become bored
 baq'wäch,eye
 baq'wäch triko,grain of wheat
-baq chikop,gusano alambre
 baqil,"body, bones"
 baqirik,become thin
 baqit,evergreen oak
 baraj,"roll something, divining bundle"
 baraj punto,"divination by tz'ite beans, last pile of"
 bate',lance
-Batz',day in sacred calendar
-bätz',bandage
-bätz'anik,make thread
-bätz'ij,make thread
 bawik,ache
 bayatajik,be late
 baych'o,ratón de monte
@@ -531,8 +587,8 @@ benäq'ij,in the afternoon
 beqo,degrain
 beyenik,be late
 beyesaj,delay
-beyetajik,be late
 beyetajik,be delayed
+beyetajik,be late
 beyetajisaj,"cause to be delayed, delay"
 beyik,be delayed
 beyo,delay someone
@@ -550,8 +606,8 @@ bilo,apply
 biloj,string beans
 bim,said
 binaq,gone
-binel ja',rivulet
 binel ja',river
+binel ja',rivulet
 binel loq'obal,chicken pox
 binem,journey
 binik p-wi' ri ja',float
@@ -586,8 +642,8 @@ bixikal,report
 bixobal,book of songs
 bixonik,coo dove
 bixtajik,be spoken
-biyo'mik,swing side to side
 biyo'mik,sway
+biyo'mik,swing side to side
 biyomisaj,swing something
 biyowik,sway
 biyowik,swing side to side
@@ -595,7 +651,6 @@ bo'j,"kettle, goiter, large clay"
 bo't,roll up sleeve
 bochi'j,"fall in love with, caress, exhort, comfort"
 boj,goiter
-Bokeron,Nebaj
 bokil,izote
 bol<o>,"habas, fry plantains"
 bolaj,"piece of wood, furrow"
@@ -608,10 +663,10 @@ bolonel,roaster
 bolq'otij,roll up rope
 bolq'otik,roll
 bonbik,enlarge
-boq'abaj -q'ab,clap hands
-boq'äch,eye
-boq'wäch,eye
 boq ja',sweat
+boq'abaj -q'ab,clap hands
+boq'wäch,eye
+boq'äch,eye
 boqo,de-feather
 boron,"ambrosia, food of the gods, manna"
 bosbotik,"be fat, get fat"
@@ -640,6 +695,9 @@ busum,folded
 busunel,ghost
 buxlajik,sweat
 buxlunijik,percolate
+bätz',bandage
+bätz'anik,make thread
+bätz'ij,make thread
 cab chuy,2000
 ch'a',demand restitution
 ch'a'k,"abscess, boil"
@@ -665,16 +723,11 @@ ch'ajch'ojil,cleanliness
 ch'ajch'ojirik,"refine, cleanse"
 ch'ajomanik,launder
 ch'ajon,"clean laundry still wet, laundry"
-ch'äk<o>,conquer
-ch'äkanik,"defeat, to conquer"
 ch'akoj,"disabled person, handicapped person"
 ch'akuY,"juniper berry, chinchín"
 ch'alakan,caterpillar of moth
-ch'äm,"acrid, leaven"
-ch'äm,acidic
 ch'ama',bitter water
 ch'ami'y,"cane, judicial staff"
-ch'ämirik,ferment
 ch'an -jolom,bald
 ch'anach'oj,bald
 ch'anal,"raggedly clothed, beggar"
@@ -686,7 +739,6 @@ ch'ani' kanoq,be abandoned
 ch'ani'k,be naked
 ch'anil,nakedness
 ch'api'k,be stuck
-ch'äq,gangrene
 ch'aqaba',"cause to be wet, make wet"
 ch'aqabaj,make wet
 ch'aqap,across
@@ -713,8 +765,8 @@ ch'ayanel,batterer
 ch'ayom puaq,carved silver
 ch'e'r,bird that nestles in straw
 ch'e'rerik,cluck
-ch'ek,"attain, earn, knee, gain"
 ch'ek,"articulation, calf, guess, joint"
+ch'ek,"attain, earn, knee, gain"
 ch'ekanik,kneel
 ch'ekenej,"award, reward"
 ch'ekenik ch-e,convince
@@ -758,8 +810,8 @@ ch'iw,"baby chicken, chick"
 ch'iyut,checha tree
 ch'loj,land prepared with furrows
 ch'o,"rat, biceps"
-ch'o'j,"angry, battle"
 ch'o'j,angry dispute
+ch'o'j,"angry, battle"
 ch'o'jibal,"fight, dispute"
 ch'o'jij,fight over something
 ch'o'jinel,fighter
@@ -772,18 +824,17 @@ ch'obonik,divine
 ch'obonik,divine with tz'ite beans
 ch'oj<ob>,malva plant
 ch'ok,"clarinero--like a small crow, grackle"
-ch'ok,trumpeter bird
-ch'ok,trumpeter bird
 ch'ok,fish hook
+ch'ok,trumpeter bird
+ch'ok,trumpeter bird
 ch'okoch'ik,arched
-Ch'ol Q'ij,sacred 260-day calendar
 ch'oloch'obik,scrape skin
 ch'olom sikil,"giblets, sweetmeats"
 ch'opinik,"bounce, jump"
 ch'otinik -ware',change dentition
 ch'oxch'ik,knot
-ch'u',minnow
 ch'u',fish little
+ch'u',minnow
 ch'u'j,"rabid, madness, frenzy, fury"
 ch'u'jarik,"rabies, go mad"
 ch'u'jarinaq,rabid
@@ -813,20 +864,26 @@ ch'utin k'ojol,nephew of man
 ch'utin mial,niece of man
 ch'utin nan,aunt
 ch'utinal,childhood
-ch'utinik,diminish
 ch'utinik,belittle
+ch'utinik,diminish
 ch'utinirisaj,"reduce, make smaller"
+ch'äk<o>,conquer
+ch'äkanik,"defeat, to conquer"
+ch'äm,acidic
+ch'äm,"acrid, leaven"
+ch'ämirik,ferment
+ch'äq,gangrene
 ch-aqan,at the foot of
 ch-chi',aside
 ch-chi',at the edge
 ch-e<ch>,"for, from"
-ch-ij,"at its back, behind"
 ch-ij,at its back
+ch-ij,"at its back, behind"
 ch-ij -onojel,surrounded by
 ch-naqaj,near
 ch-pam,"in, inside"
-ch-wäch,"ahead of, facing, before"
 ch-wi',above
+ch-wäch,"ahead of, facing, before"
 ch-xe,under
 ch-xkut,beside
 ch-xol,"among, between"
@@ -852,27 +909,26 @@ chajinel,"keeper, guarda barrancos, guardian"
 chajinel siwan,guarda barrancos
 chajinik,"keep watch over, guard"
 chajirik,"arson, book burning"
-chäk,to guess
+chak patan,"apprenticeship, beans used in divination"
 chak'ak'ik,cause pricking sensation
 chak'alik,"sturdy, firmly founded, firmly set, founded firmly"
 chak'anik,cause pricking sensation
-chak patan,"apprenticeship, beans used in divination"
-chakäch,basket
 chake't,jacket
 chakunem,act of working
 chakuyik,support
+chakäch,basket
 cham,fat
 chamarisaj,fatten
 chanachatik,ring sour
-chanim,"right now, early"
 chanim,"rapidly, quickly, immediately"
+chanim,"right now, early"
 chap,arrow
 chap -be,"take a road, follow a certain path"
 chap kär,fish
 chap<o>,grasp
 chap<o>,grasp
-chapal kär,one who fishes
 chapal kär,fisherman
+chapal kär,one who fishes
 chapbal kär,fish net
 chapbal kär,fishing pole
 chapik,apprehend
@@ -880,16 +936,11 @@ chaplebal,beginning
 chaplej,begin something
 chapo,"capture, take hold of, grab"
 chapom,"apprehended, captured, that which has become"
-chäq'<aj>,cooked
 chaq'<axel>,younger brother
 chaq'ab,night
-chaq'äb,"at night, in the night"
 chaq'ab iwir,last night
-chäq'aj,"ripe fruit, fat"
-chäq'ajik,"ripen, fatten, cook"
-chäq'ajisaj,"fatten, cook"
+chaq'äb,"at night, in the night"
 chaqab,clown
-chaqäch,"basket, canasta"
 chaqi' -ya'-wi',exaggerate
 chaqi'j,"be thirsty, dry"
 chaqi'j ik,dried chile
@@ -901,6 +952,7 @@ chaqi'jisaj,dry something
 chaqi'k,"duck, lean over"
 chaqo,first grinding of corn
 chaqo'n,coarsely ground
+chaqäch,"basket, canasta"
 charan,"rough, coarse"
 charanik,be rough
 chararej,drag something
@@ -909,8 +961,8 @@ charchatej ubik,drag away
 chay,flint
 chay abaj,quartz
 chbe q'ij saq,"eternity, forever"
-chbil -ib,among selves
 chbil -ib,alone
+chbil -ib,among selves
 che',jail
 che'chetik,become paralyzed
 che'erinaq,immobile
@@ -918,21 +970,20 @@ che'rik,become paralyzed
 chemelik,dammed
 chemowik,be full
 cheq'en,winged ant
-chi,and
 chi,"again, another, that, in"
+chi,and
+chi chawal,in secret
+chi saqil,in the open
 chi'aj,edge table
 chi'bal mak,temptation
 chi'j,employment
 chi'nik,sacrifice
 chi'y,"ruffles, fringe"
-chi chawal,in secret
-chi saqil,in the open
 chibal,"excess, leftovers"
 chichu' ajawinel,queen
 chijchij,maracas
 chik,another
 chik'ikik,be unkempt
-chikäch,"basket, canasta"
 chikaj,"above, in heaven, in the sky"
 chiko',magpie
 chikonik,cook well done
@@ -942,6 +993,7 @@ chikop ri cä-ripipik,bird
 chikop yabil,illness from intestinal bugs
 chikopirik,"be harmed by insect, become wormy"
 chikopirik,be infested
+chikäch,"basket, canasta"
 chila' chikaj,in heaven
 chilab,"task, charge, commission"
 chilbej,"designate to do, charge with responsibility"
@@ -963,13 +1015,13 @@ chjal,cockroach
 chkijujunal,each one
 chkoj,bow-legged
 cho,"deep, lake"
-cho'k,clarinet
-cho'lik,be loose
-cho'pij,relax
 cho -pam,deep
 cho ja,"at home, in the patio"
 cho kiej,charlie horse
 cho le,in front of
+cho'k,clarinet
+cho'lik,be loose
+cho'pij,relax
 chob<o>,drink voraciously
 chobresaj,fertilize
 chocho',diaper
@@ -1022,14 +1074,16 @@ chuq'<u>,inject
 chuq'ab,force
 chuq'ka'nik,to boil
 chuq'u,give a shot
-Chuwila,Chichicastenango
 chuwirik,become smelly
 chuy,"1000, annoy, bother"
 chuyil,1.000.000
 chweq käk'ije' ri achi cho,be in a certain place
+chäk,to guess
+chäq'<aj>,cooked
+chäq'aj,"ripe fruit, fat"
+chäq'ajik,"ripen, fatten, cook"
+chäq'ajisaj,"fatten, cook"
 dimly lit,dimly lit
-Dios Mundo,deity who comprises powers
-E,day in sacred calendar
 e kieb,both
 e kiebichal,both
 e kiebichal xe pa tinimit,both
@@ -1062,12 +1116,11 @@ eqaj,carry on back
 eqanel,"back packer, carrier"
 eqanik,carry
 eqbal,saddle
-eqle'n,"authority, responsibility"
 eqle'n,assignment
+eqle'n,"authority, responsibility"
 eqlej,"take blame for accident, dishonor"
 eqomal,"apprentice, diviner apprentice"
 erej,carry firewood
-Ermita,Guatemala City
 esabal kib,excuse
 esaj,"remove, take off name from list, take out"
 esaj -ib ch-e,"renounce, give up"
@@ -1112,11 +1165,11 @@ i'mamixel,granddaughter
 i'x,salamander
 iboch',"artery, nerve"
 ich',finicky
-ichäj,"salad, edible green leaf"
-ichäj cunabal,borrage
 ichik',dream
 ichik' sibalaj xibibal,nightmare
 ichik'aj,dream something
+ichäj,"salad, edible green leaf"
+ichäj cunabal,borrage
 ij -wi',nape of the neck
 ij<aj>,book spine
 ija'lil,"generation, descendent"
@@ -1128,7 +1181,6 @@ ik'ow pomaj y xa'wem,cholera
 ik'owem,act of passing
 ikaj,axe
 ikan,"gallina ciega, corn root worm"
-ikiäj,axe
 ikiajik,sacrifice
 ikiajik,sacrifice
 ikiaq,guava
@@ -1136,6 +1188,7 @@ ikim,down below
 ikim saqil,sun in June
 ikiraj,carry on head
 ikiram,carried on the head
+ikiäj,axe
 il,injury
 il -wäch jun ne',give birth to a child
 il -wäch wuj,read
@@ -1148,18 +1201,15 @@ ilitajik,be seen
 ilokab,double vision
 ilol,largest crystal
 ilol -ech,care giver
-Imox,day in sacred calendar
 imprämox,membrillo--sour fruit
 imuch',darkness
 imul,"rabbit, hare"
 in,I
 in kinel wi pa ri tinimit,be from somewhere
-In sachinaq,I'm confused
 inchunik,draw (v)
 inkine'y,banana
 inup,ceiba
 iq,idol
-Iq',"day in sacred calendar, fourth ranked Mam"
 iqim. qaj,below
 is,"sweet potato, diaper, wool cloth"
 ismal<aj>,"hail, fur"
@@ -1167,8 +1217,8 @@ ismalaj,feathers
 istorak,incense
 istzal,"bad luck, dobsonfly"
 itz,devil
-itzel,"badness, be ugly"
 itzel,"bad, evil, devil"
+itzel,"badness, be ugly"
 itzel ak'al,"bad boy, delinquent juvenile, juvenile delinquent"
 itzel ichik',nightmare
 itzel k'ächelaj,jungle
@@ -1177,8 +1227,6 @@ itzel q'ayes,"brambles, briars"
 itzij,bewitch someone
 itzinik,"evil spell, do witchcraft"
 iwan,iguana
-Ix,day in sacred calendar
-Ix Motz',Constellation of the Pleiades
 ixchob,jug for straining nixtamal
 ixchu'n,súchele
 ixim,"corn kernels, corn in general"
@@ -1199,15 +1247,15 @@ ixoqib,women
 ixpa'ch,newt
 ixpachek,ring
 ixpak'pan,beetle
-ixparpäjoq,"corn silk insects, insects found in corn silk"
 ixparpuaq,night bird
+ixparpäjoq,"corn silk insects, insects found in corn silk"
 ixpataq,raccoon
 ixpumuy,dove
 ixpusqel,cherry tree
 ixq'anajoy,sweet potato
-ixq'änil,sunset
 ixq'ayichäj,"fuzzy, fuzzy caterpillar"
 ixq'el chäj,pine caterpillar
+ixq'änil,sunset
 ixtapkal,"beans, colored beans"
 ixtor,tadpole
 ixtu'x,female indicator
@@ -1216,11 +1264,11 @@ ixtuxutul achaq,dung fly
 ixtzol,centipede
 j-,go and
 ja,building
+ja winaq,family
 ja',tender
-ja'-wäch,in liquid form
-Ja' saq ch'oq,Río del Arco
 ja' tew,frozen
 ja' u wäch ri cunabal,in liquid form
+ja'-wäch,in liquid form
 ja'aj,give water to
 ja'e,fine
 ja'j,soft spot on baby's head
@@ -1228,26 +1276,21 @@ ja'jatemal,"joy, laughter"
 ja'jatik,laugh out loud
 ja'lil,race
 ja-,go and
-ja winaq,family
-jäb,rain
-jäbil,rainy season
-jäbinik,rain
 jabuj,scatter
 jabuj -ib,scatter
 jabunik,scatter
 jabuninaq,scattered
 jach,"deliver, betray, distribute land to sons, divide"
-jäch',corn harvest
-jach'om,husked
 jach -ib,dedicate self
 jach -ib -uk',divorce
 jach bik pa ri be,to guide
 jach ch-wäch,distribute among
 jach pa -q'ab,hand over
-jach ubik,divide
 jach ubik,dismiss
-jach ubik,fire someone
+jach ubik,divide
 jach ubik,divorce
+jach ubik,fire someone
+jach'om,husked
 jachibal,inheritance
 jachol taq karta,mail deliverer
 jachonel,distributor
@@ -1256,14 +1299,12 @@ jajoj,"gelatinize, jelly-like"
 jajotik,gelatinize
 jakal,bramble
 jal,renew
-jäl,ear of corn
 jal -be,get lost
 jal -ij,change clothes
 jal k'as,"savings, great effort to save money"
 jalajoj,"reverse side, difference, distinct"
 jalanik,"different, distinct"
 jalatajik,"replaced, be substituted"
-Jalbal,New Year's Day
 jalbem -ib,difference
 jalinik,"fallen from drunkenness, drunkenness"
 jalk'atij,change place
@@ -1281,14 +1322,12 @@ jamarik,calm
 jamaril,calm
 jamo,empty
 jantaq,at times
-jäq',break tree branch
 jaq'aq'ik,break wood
 jaq'ij,break off branch hand
 jaq'ij,break something wooden
 jaqow baq'wächaj,blink of an eye
 jaqtajik,be opened
 jarik,become worn out
-järik,dissolve
 jarisaj,ruin something
 jas,that which
 jas u-qul,asthma
@@ -1309,6 +1348,11 @@ jawux,haba bean
 jawux ichaj,colewort
 jawux kinaq',large bean
 jaya',go and give
+je -el,be like
+je -ka'y,appear
+je -wächin,appear like
+je jas,"like, in accordance with"
+je käka'y kaj,"blue, color blue"
 je'aj,tail
 je'l -ilo,enjoy seeing something
 je'l -to,enjoy hearing something
@@ -1316,13 +1360,8 @@ je'lal,beauty
 je'lik,pretty
 je'lik kätijowik,delicious
 je-petik,appear like
-je -el,be like
-je -ka'y,appear
-je -wächin,appear like
-je jas,"like, in accordance with"
-je käka'y kaj,"blue, color blue"
-jech',bent door
 jech',bend
+jech',bent door
 jech' -palaj,grimace
 jech'ba',divide up unevenly
 jech'ba',twist
@@ -1347,11 +1386,11 @@ ji'axel achi,father-in-law of a man
 ji'axel tata',father-in-law of a man
 jich'ij,break off branch from tree
 jik,"assuredly, faithful, sure, certain, just"
+jik kinopan chweq,certain
 jik' -ib,back away
 jik' -uxlab,breathe in
 jik'bal rij -wi',"bit of bridle, bridle of horse"
 jik'om ri pajbal,"incorrect weight measurement, inexact weight"
-jik kinopan chweq,certain
 jikaba',loyal to something
 jikanel,"be firm in work, faithful"
 jikiba',believe
@@ -1381,13 +1420,13 @@ jitz'aj,execute by hanging
 jitz'aj -ib,hang self
 jix,"tear something, go away you all!"
 jixixik,scream when fighting
-jo'q,leaf of ear of corn
 jo'q,corn husk
+jo'q,leaf of ear of corn
 job,five
 jobichal,"quintuplets, group of five"
 jobisal,quintuplet
-joch',strained atole drink
 joch',atole made from corn dough
+joch',strained atole drink
 joch'ojik,cohabit
 jok',grind coffee
 jok'ok'ik,be hoarse
@@ -1395,8 +1434,8 @@ jok'om,ground coffee
 joko,"retrieve, go and get something"
 jolij,lay aside
 jolkiej,fall off
-jolo,take off blanket
 jolo,take away
+jolo,take off blanket
 jolom chij,stupid person
 jolom kej,stupid person
 jom che',rumor tree
@@ -1410,13 +1449,13 @@ jorobinaq,chilled liquid
 jorobisabal,refreshing drink
 jorobisaj,"refresh, chill hot drink, to cool, make cold"
 jorojobik,"refresh, calm"
-jorön,cold
-jorön,cold drink
-jorön,cold water
 jorona ja',cold water
 joror<ik>,"cool, fresh"
 jororem,"refreshing, temperament"
 jororik,"be refreshing, refreshment, be temperate, coolness"
+jorön,cold
+jorön,cold drink
+jorön,cold water
 jos'o,scrape
 jos'o,scrape away paint
 jos<o,carve
@@ -1436,8 +1475,8 @@ josq'inik,thorough
 jostajik,be scraped
 joxk'im,digging
 joxobal,scratch mark
-joxol,dishonored
 joxol,disgraced
+joxol,dishonored
 jubatz'aj kotz'i'j,bouquet of flowers
 jubotaj,portion of corn dough
 jubuj,scatter
@@ -1456,11 +1495,11 @@ juch'unik,draw (v)
 juch'ut,drop
 jujek'o,gulp
 jujun,few
-jujunal,each one
 jujunal,each
+jujunal,each one
 juk'alaj,handful sticks
-juk'olaj,"ball, circle"
 juk'olaj,ball of something
+juk'olaj,"ball, circle"
 juk'olaj ch'ipaq,ball of soap
 jukub,"canoe, feeding trough, boat"
 jukukik,go fast
@@ -1497,15 +1536,11 @@ jun ik' kan<oq>,last month
 jun junab apan<oq>,in one year
 jun junab chik,next year
 jun taq pa',every once in a while
-Jun taq pa' kinbe pa ri,every once in a while
 jun toq,100
 jun wi u-cholaj,rare
 junabir <kan><oq>,last year
-Junajpu,day in the sacred calendar
 junalik,"eternal, never-ending"
 junam,"be in agreement, same, be the same in appearance"
-junam-chomanik,be in agreement
-junam-petik,be the same
 junam -bek,go together
 junam -ka'yik,be the same in appearance
 junam -tzij,be in agreement
@@ -1513,6 +1548,8 @@ junam -uk',"equivalent, identical"
 junam -wäch,identical
 junam q'ij,"same day, same"
 junam tä ruk',as though it were
+junam-chomanik,be in agreement
+junam-petik,be the same
 junamaj,join things together
 junamtaj,compare something
 junamtaj -ib,compare selves
@@ -1521,8 +1558,8 @@ junamtaj -uk',be similar
 junamtaj -wäch,come to an agreement
 junamtajik,be similar
 junik'aj,half
-juntir,all together
 juntir,all of them
+juntir,all together
 jupi'k,incubate
 juponaj,fat animal
 jupulik,incubated
@@ -1536,8 +1573,8 @@ jusanaj,"big person, fat person"
 jusij,draw machete
 jusuk',directly
 jut,dried mucous
-jut' siwan,"narrow, narrow canyon"
 jut ch'ach'al,beads
+jut' siwan,"narrow, narrow canyon"
 jutjubik,submerge
 jututik,run fast
 jutz,corner of eye
@@ -1552,37 +1589,34 @@ juyub,cliff
 juyubal,"territory, euphemism for body, non-domesticated"
 juyukibal,cart
 juyut'aj,handful (1)
-k'a,gall bladder
-k'a,bitter
-k'a,"gall, bitter, bladder"
+jäb,rain
+jäbil,rainy season
+jäbinik,rain
+jäch',corn harvest
+jäl,ear of corn
+jäq',break tree branch
+järik,dissolve
 k'a,bile
+k'a,bitter
+k'a,gall bladder
+k'a,"gall, bitter, bladder"
+k'a äm,fine cord
 k'a'm,"hammock, cord"
 k'a'n,angry
 k'a'nanik,"act in a mean way, be mean"
 k'a'narik,become angry
-k'a äm,fine cord
-k'ä ch-pam,on the bottom
-k'ä maja',before
-k'ä maja' naj,recently
-k'ä matan,late (adv)
 k'ab,knot of tree
 k'abak'ik,gaping mouth
 k'abal,ritual opening a new patriline
 k'abal -chi'aj,gaping
 k'abal<ik>,half open
 k'abawil,small stone idols
-k'äch,chew
 k'achatz'am,very salty
 k'ache'laj,"grove, forest"
 k'ache'laj k'aslem,savagery
-k'ächukunik,chew
 k'ail,bitterness
-k'äj,"fine corn flour, corn flour"
-k'äja,"grain bin, granary"
 k'ajen taq la,rarely
-k'äjisabal wächaj,judgment
 k'ajisaj,deceive
-k'äjisaj -wäch,chastise
 k'ajk'aj ik,powdered chili
 k'ajk'aj ulew,dust
 k'ak',new
@@ -1591,7 +1625,6 @@ k'ak'lej,"await anxiously, maintain vigilance"
 k'alk'ax,rib
 k'alo,gather
 k'am,"accept, receive, thank, bird trap, bring, cord"
-k'äm,dry breast
 k'am -be,"direct, to guide, lead"
 k'am -ib,"join together, make love"
 k'am -ij,give something reluctantly
@@ -1615,13 +1648,10 @@ k'amo,good!
 k'amol be,guide
 k'amowaj,"accept, receive with joy, thank, give thanks"
 k'amowik,receive
-k'äq kolob,to lasso
-k'äqät,"active, energetic"
 k'aqatij,scratch
 k'aqatik,itch
 k'aqatik,to itch
 k'aqoj,brown
-k'äquloq -ib,get out of bed
 k'as,raccoon
 k'asaj,"debt, karma, borrowed"
 k'ask'atem,lack of sleep
@@ -1634,59 +1664,46 @@ k'asuj,awaken someone
 k'at,"bag made of cords, day in sacred calendar, cord"
 k'at chapbal kär,fish net
 k'at tuquch',cooked
+k'atik,"act of burning, fire destructive"
+k'atik -aqan,commit adultery
+k'atisaj,cause to burn
 k'atän,fever
 k'atän ch-ij,feverish
 k'atänirik,get hot
-k'äte,recently
-k'äte na,after
-k'äte ri',"after that, later (conj)"
-k'äte wachanim,recently
-k'äte xek'uli'k,they recently married
-k'äteq,suddenly
-k'ätetalik,suddenly
-k'atik,"act of burning, fire destructive"
-k'atik -aqan,commit adultery
-K'atinaq Juyub,Cerro Quemado
-k'atisaj,cause to burn
-k'awex,ast
 k'awex,anona
+k'awex,ast
 k'ech'ketik,be envious
 k'ej,"change, exchange"
 k'ek'etej,give something stingily
-k'el,green parrot
 k'el,green color
+k'el,green parrot
 k'etenik,degrain corn cob
 k'etetej,give something stingily
 k'eto,degrain
 k'ex -ib,change one's self
 k'ex -k'u'x,"repent, change mind"
 k'exbal,change money
-k'exel,"representative, substitute, namesake"
 k'exel,replacement
+k'exel,"representative, substitute, namesake"
 k'exel nwächaj,representative
 k'exik,change one's self
 k'exo,"be changed, change money"
 k'extajik,become changed
-k'exwäch,representative
 k'exwäch,"replacement, substitute"
+k'exwäch,representative
 k'exwächij,represent someone
 k'ey<o>,do something with reluctance
 k'eyo,lazy person
 k'i,many
-k'i'yik,grow (v)
 k'i -wäch,many kinds
+k'i'yik,grow (v)
 k'ia winäq,many people
 k'iaq,flea
-k'iäq -ib,leap
 k'iaqalik,appropriate
 k'iaqat,"allergy, mange"
 k'iaqatij,"rub vigorously, scratch"
 k'iaqatik,"bite insect, to itch"
-k'iäqbal,arrow
-k'iäqbal ch'ab,bow for shooting arrows
 k'iaqo'j,brown
-k'iäqow xikin kuban che,talk indirectly about person
-k'iäqtäj kanoq,abandon
 k'iar,add in number
 k'iarik,increase in number
 k'ije'k,be in a certain place
@@ -1707,7 +1724,6 @@ k'isbal re,lastly
 k'isbal<il>,"conclusion, last"
 k'isbalil,"end, finish"
 k'isik,"run out, terminate, end, final, finish, last"
-k'isïk',goat
 k'isinaq,"finished, gone food, consumed"
 k'isis,juniper
 k'isk'obik,become scarce
@@ -1715,6 +1731,7 @@ k'iso,"end something, finish something"
 k'istaj,"be finished, come to an end"
 k'istaj -k'ux,be bored
 k'istajik,"end, last"
+k'isïk',goat
 k'ix,"embarassment, güisquil, hairy, briar, bristly"
 k'ix ak',chicken with messed up feather
 k'ix che',cactus
@@ -1729,17 +1746,22 @@ k'iyal,abundance
 k'iyarik,grow in number
 k'iyik,grow corn plants
 k'iyisaj,raise children
+k'iäq -ib,leap
+k'iäqbal,arrow
+k'iäqbal ch'ab,bow for shooting arrows
+k'iäqow xikin kuban che,talk indirectly about person
+k'iäqtäj kanoq,abandon
+k'o -be wi,be in a hurry
+k'o -tukiel,be alone
+k'o eqlem,be responsible
+k'o jastaq -e,"be a person of means, be wealthy in material goods"
+k'o jastaq -e,be rich
+k'o kin-be wi,be in a hurry
+k'o q'aq' ch-ij,be feverish
 k'o'x,"gourd cup, incense"
 k'o'xal,carcass
 k'o'xbin kab,beehive
 k'o'xmaj,preoccupied with something
-k'o -be wi,be in a hurry
-k'o -tukiel,be alone
-k'o eqlem,be responsible
-k'o jastaq -e,be rich
-k'o jastaq -e,"be a person of means, be wealthy in material goods"
-k'o kin-be wi,be in a hurry
-k'o q'aq' ch-ij,be feverish
 k'oji'k,"be in place, inhabit"
 k'ojnojik u pa raqan,footsteps sound
 k'ojolabal<axel>,nephew of man
@@ -1754,8 +1776,8 @@ k'ol'o,save up
 k'olaj -q'ab,fist
 k'olaj q'abaj,handful (1)
 k'olem,"bearings, existence, habitation"
-k'oli'k,"be, exist"
 k'oli'k,be present
+k'oli'k,"be, exist"
 k'olibal chulubal,bladder
 k'olibal kätz'inowik,desert
 k'olibal meba'il,box of treasures
@@ -1770,8 +1792,8 @@ k'olok'ik ulew,clod of dirt
 k'olotalik,"kept, guarded"
 k'opibal,"bar on door, cross bar"
 k'opij kan,leave something barred
-k'oq'o,detach
 k'oq ki,izote
+k'oq'o,detach
 k'oqotaj,be cursed
 k'ork'a',knock on something
 k'ork'otik,knock
@@ -1800,13 +1822,12 @@ k'ul taq ja,neighbors
 k'ulaj,"accept, companion"
 k'ulajij -ib,combine
 k'ulam,"accustomed, be accustomed"
-k'uläm,cord
 k'ulanem,fiance
 k'ulbal,border
 k'ulbat,boundary marker
-k'ulbatil,boundary
-k'ulbatil,boundary
 k'ulbatil,border
+k'ulbatil,boundary
+k'ulbatil,boundary
 k'ulel,enemy
 k'ulelanik,"argument, contradiction"
 k'ulik,"act of meeting, encounter"
@@ -1816,6 +1837,7 @@ k'ulubaxik,be married off
 k'ululaj,"rebel against, despise"
 k'ululanik,rebel
 k'ulum,dizziness
+k'uläm,cord
 k'um,warty green squash
 k'umatz,rheumatism
 k'urupup,barn owl
@@ -1834,10 +1856,31 @@ k'ux,"amate, gnaw"
 k'uxk'abel,cherry
 k'uxk'abel,cherry tree
 k'uxk'atik,"always munch, gnaw"
-k'uxu,gnaw on
 k'uxu,chew something hard
+k'uxu,gnaw on
 k'uxum,evil eye
 k'uxumk'el,cherry
+k'ä ch-pam,on the bottom
+k'ä maja',before
+k'ä maja' naj,recently
+k'ä matan,late (adv)
+k'äch,chew
+k'ächukunik,chew
+k'äj,"fine corn flour, corn flour"
+k'äja,"grain bin, granary"
+k'äjisabal wächaj,judgment
+k'äjisaj -wäch,chastise
+k'äm,dry breast
+k'äq kolob,to lasso
+k'äquloq -ib,get out of bed
+k'äqät,"active, energetic"
+k'äte,recently
+k'äte na,after
+k'äte ri',"after that, later (conj)"
+k'äte wachanim,recently
+k'äte xek'uli'k,they recently married
+k'äteq,suddenly
+k'ätetalik,suddenly
 ka',grinding stone
 ka'qoj,brown
 ka'yem,exhibit
@@ -1846,26 +1889,19 @@ ka'yik,appear
 ka'yisäj,make seen
 kab,"candy, dessert, sugar, sweets"
 kab che',"symbol of man, forked pole"
-Kab Q'ij,constellation of Sirius
 kab raqan,earthquake
 kab toq,200
 kab wäch,zenith
-käbaj,accuse unjustly
 kabal,"ranch, chicken coop"
 kabawik,sweeten with honey
 kabij,day after tomorrow
 kabijir,day before yesterday
 kablajuj,twelve
 kablajuj -aqan,dozen
-kabraqan,earthquake
 kabraqan,earth tremor
-käch',gum
-käch'ij pa nu wi' kinbek,be obligated
-käch'uj,"chew gum, nibble"
-käch'unik,chew cud
+kabraqan,earthquake
 kach ch'ich',copper
 kachik,funny
-kächo'pinik,grasshopper
 kaj che',dance pole
 kajbal,"sundial, solar clock"
 kajbalach,astrology
@@ -1887,75 +1923,39 @@ kakab,in pairs
 kakate',"chin, lower jaw, mandible"
 kakaw,cacao
 kakow,cacao
-käm q'ij,eclipse
-Kame,day in the sacred calendar
 kame'l,"friendly, nice"
-kämel,deceased
-kämik,die
-kämik che numik,die of hunger
 kamik k'a che junalik,from now on
 kamik na,in a moment
-kämikal,death
-käminaq,"dead, forgetful in tasks"
-käminaq,dead person
-käminäq ri ik',new moon
-kämisaj,kill
-kämisaj -ib,commit suicide
-kämisaj -ib che,be eager to do something
-kämisaj ch-e tabal toq'ob,sacrifice
-kämisanel,"assassin, killer"
-kämisaxik,act of being killed
 kamot,sweet potato
 kamow,half-grown plant
 kampana,bell
-Kampana abaj,Jocotenango San Bartolomé
-kämpuch,image of death
 kamuch',160
 kamulibal,revision
 kamulij,"repeat, do a second time"
 kamulixik,be done a second time
-Kan,day in the sacred calendar
 kan<öq>,left behind
 kanaj -uk',remain with
 kanajik,remain
 kanela,cinnamon
+kantela,candle
 kanöq,before
 kanöq,behind
-Kante'l,Candelaria
-kantela,candle
 kape,coffee
 kaplin,cherry
-käq,red
 kaq',guava
-käq'iq',air
-Käqaj Q'ij,Summer Solstice
 kaqulja',tempest
-kär,fish
-käraj na jubiq' atz'am,it needs a little salt
 karakatik,cackle
 karasej,fickle
 karawan,"garbanzo bean, chickpea"
 kare't,cart from carreta
-kärinik,fish
 karna't,granadilla fruit
 karq'uj,swallow medicine
 karrok,car
 kas,raccoon
 katan -banik,easy
-kätet,cicada
-kätijik,edible
 katzijob'al,our language
-Katzijobal,K'iche' language
-Katzijobal,Quiché language
 katzo,bite dog
-Kaweq,day in the sacred calendar
 kawinaq,"two children, forty"
-käxlan,foreign
-käxlan kinaq',"green beans, haba"
-käxlan q'inom,fruit something like crabapple
-käxlan wa,bread
-käxlan winaq,foreigner
-käxon,box
 kayej,bite dog
 kayej bik,carry away in teeth
 ke',grind (corn)
@@ -1967,7 +1967,6 @@ kebut,rush
 kech'<o>,break off pieces of something
 kech'kobinaq,sth with pieces broken off
 kechelaj,"forest, jungle"
-Kej,"day in the sacred calendar, first ranked Mam"
 kejbej,go on horseback
 kek'enik,be scarce
 kenketik,greasy (soup)
@@ -1975,57 +1974,36 @@ keq'ij,late (adv)
 ketekik,round
 ketekil,round
 ketelik,left lying on the ground
-ketetik,round
 ketetik,roll coins
+ketetik,round
 ketzal,quetzal
 kexo',cheese
 kexu',cheese
 ki,maguey
+ki che',maguey
 ki',"delicious, sweet"
 ki' chulaj,diabetes
-ki'al,"taste, flavor"
 ki'al,sweetness
+ki'al,"taste, flavor"
 ki'koj,"tasteless, bland, lacking sugar"
 ki'l,deliciousness
 ki'risaj,"sweeten something, make something delicious"
 ki'y,rag
 ki'ynajik,become rags
 ki-k'ul ja qu-ib,be neighbors
-ki che',maguey
-kiäq,red
-kiaq' ch'am,guava pequeña
 kiaq chib,coral snake
 kiaq k'ix,macaw
-kiäq k'ix,te de monte
-kiäq k'ix,te de monte
-kiäq puaq,copper
-kiäq q'equm,dark red color
-kiäq ulew,red earth
-kiäq woywoj,"ruddy, florid person's face"
-kiäqal saqil,bad fortune
+kiaq' ch'am,guava pequeña
 kiaqalkätzijonik,words at a blessing
-kiäqarik,blush
-kiäqarisaj,make something red
-kiäqasaq,damage
-kiäqiq',wind
 kiaqix,macaw
-kiäqkoj,"red color light, pink"
-kiäqkoj,reddish
-kiäqmomoj,get red from bite
-kiäqrayij,"be jealous, envy"
-kiäqre'j,"be jealous of someone, envy someone"
-kiäqre'nik,"envy, jealousy"
-kiäqwachij,be jealous
-kiäqwachij,"be jealous of someone, envy someone"
 kiaqxop,rattlesnake
 kich',fastidious
 kich'o,scatter
-Kiche,Santa Cruz
 kie'j,grind beans
 kieb,two
 kieb -k'ux,doubtful
-kieb -wäch,"folded in two, half-heartedly, indecisive"
 kieb -ware',double-edged
+kieb -wäch,"folded in two, half-heartedly, indecisive"
 kieb oxib q'ij,few days
 kieb u-wiq we ja ri',this house has two floors
 kiebalaj,doubt
@@ -2039,8 +2017,8 @@ kiem kinaq',mashed beans
 kiem peq,ground cacao
 kiemom,cloth
 kieqalaj loch',"infant, newborn infant"
-kik',rubber ball
 kik',rubber
+kik',rubber ball
 kik' che',rubber tree
 kik' pamaj,dysentary
 kik' pomaj,dysentary
@@ -2052,8 +2030,8 @@ kik'el,sap
 kik'pomaj,diarrhea
 kikot ch-e,enjoy
 kikotemal,"satisfaction, contentment, happiness"
-kikotik,be happy
 kikotik,be content
+kikotik,be happy
 kikotisaj -anima',"encourage, cheer up"
 kikuch u-banik,get together
 kinäq',bean
@@ -2066,16 +2044,36 @@ kisiy,"bedbug, black cockroach, cockroach"
 kisiyal,envy
 kisq'ay,"boil, large pustule, bubo"
 kiykik,fringe on edge of shawl
+kiäq,red
+kiäq k'ix,te de monte
+kiäq k'ix,te de monte
+kiäq puaq,copper
+kiäq q'equm,dark red color
+kiäq ulew,red earth
+kiäq woywoj,"ruddy, florid person's face"
+kiäqal saqil,bad fortune
+kiäqarik,blush
+kiäqarisaj,make something red
+kiäqasaq,damage
+kiäqiq',wind
+kiäqkoj,"red color light, pink"
+kiäqkoj,reddish
+kiäqmomoj,get red from bite
+kiäqrayij,"be jealous, envy"
+kiäqre'j,"be jealous of someone, envy someone"
+kiäqre'nik,"envy, jealousy"
+kiäqwachij,be jealous
+kiäqwachij,"be jealous of someone, envy someone"
 klawux,nail
 klawuxij,nail something
 klawuxim,nailed
 ko,"resistant, firm, doubtful, hard"
-ko'k,"cage, jail"
-ko'ol ch-wäch,inferior to
 ko -anima',"not charitable, hard-hearted"
 ko -elik,harden
-ko q'osim,well-nailed
 ko q'osim,nailed tight
+ko q'osim,well-nailed
+ko'k,"cage, jail"
+ko'ol ch-wäch,inferior to
 koch'o,dare to do something
 kochij,receive something as a gift
 koj -chuq'ab,"insist, make a strong effort"
@@ -2119,22 +2117,21 @@ komon,"all, large group of people"
 komon tiox,"church, congregation of believers"
 kon,"stupid person, ignorant"
 konil,"stupidity, foolishness, ignorance"
-köq,in close
 koqotajik,chase
 kosibal,resting place
 kosik,exhaustion
 kot,eagle
 kotma'yik,be twisty
-kotokäq,broken up road
-kotokik,twisted
 kotokik,bend
+kotokik,twisted
 kotokobik,be twisted
+kotokäq,broken up road
 kotolik,coiled
 koton,jacket
 kotz'i'j,"candle, flower"
 kotz'i'j,"dahlia, flower garden, copal incense"
-kotz'i'jal,flower petal
 kotz'i'jal,flower
+kotz'i'jal,flower petal
 kotz'i'janik,bloom
 kotz'i'jbal,flower garden
 kotz'i'jik,flower
@@ -2188,10 +2185,45 @@ kuy,allow
 kuy -mak,forgive
 kuy<u>,forgive
 kuyubal mak,forgiveness
+käbaj,accuse unjustly
+käch',gum
+käch'ij pa nu wi' kinbek,be obligated
+käch'uj,"chew gum, nibble"
+käch'unik,chew cud
+kächo'pinik,grasshopper
+käm q'ij,eclipse
+kämel,deceased
+kämik,die
+kämik che numik,die of hunger
+kämikal,death
+käminaq,dead person
+käminaq,"dead, forgetful in tasks"
+käminäq ri ik',new moon
+kämisaj,kill
+kämisaj -ib,commit suicide
+kämisaj -ib che,be eager to do something
+kämisaj ch-e tabal toq'ob,sacrifice
+kämisanel,"assassin, killer"
+kämisaxik,act of being killed
+kämpuch,image of death
+käq,red
+käq'iq',air
+kär,fish
+käraj na jubiq' atz'am,it needs a little salt
+kärinik,fish
+kätet,cicada
+kätijik,edible
+käxlan,foreign
+käxlan kinaq',"green beans, haba"
+käxlan q'inom,fruit something like crabapple
+käxlan wa,bread
+käxlan winaq,foreigner
+käxon,box
+köq,in close
 la,indicator of interrogative
+la kak'am u-q'ab ri xabano,recognize
 la',something far away
 la'j tun,small drum used in dances
-la kak'am u-q'ab ri xabano,recognize
 labal,badness
 labal no'jil,barbarism
 lablaj no'j,barbarism
@@ -2230,12 +2262,12 @@ li'lobisaj,flatten
 lia'nik,"flat land, laid out flat"
 libaj chi,early
 lichilik,"gathers, folds"
+lik tamal,tamale with meat inside
 lik' -wäch,extend
 lik'anik,flat as in land
 lik'ik'ik,be deep
 lik'ilik,"extensive, large and wide"
 lik'inik,laid out flat
-lik tamal,tamale with meat inside
 lilonik,be placid
 limet,bottle
 limita,bottle
@@ -2256,9 +2288,7 @@ loq' ch-wäch,favorite
 loq' pixab,sacred law
 loq'abej,keep a vigil over
 loq'alaj,"sacred, esteemed, beloved"
-Loq'alaj Q'ij,Easter
 loq'alaj tz'ibanik,"scripture, Bible"
-Loq'alaj Wuj,Bible
 loq'obal,chicken pox
 loq'om,bought
 loq'oxik,sacramental
@@ -2283,9 +2313,7 @@ lut'uwik,"flex, bend flexible"
 luyaka' pa -jolom,remember something
 ma,negative indicator
 ma',"reclaim, return of something borrowed"
-Ma'a,Zacualpa
 ma'matik,get soaked
-Ma't,Magdalena
 ma'tam,late
 mach' -ib,be humble
 mach'ach'em,"attentiveness, reverence"
@@ -2324,9 +2352,7 @@ maltiox,thanks
 maltioxij,thank for something
 maltioxinik,"act of giving thanks, be thankful"
 mam,grandfather
-Mam K'oxol,"messenger, Guardian of ancient customs"
 mama',rooster
-Mamaj,San Pedro Jocopilas
 man -ban taj itzel,to last
 man -ban taj kuinik,impossible
 man -el tä,stutter
@@ -2335,35 +2361,34 @@ man -jalik taj,be on time
 man -jalik taj,be punctual
 man -niman taj,disobedient
 man -niman taj,disobedient
-man -riq tä -q'ij ri -al,abort
 man -riq taj,be disobedient
+man -riq tä -q'ij ri -al,abort
+man -ta taj,be deaf
+man -ta tä tzij,be disobedient
 man -ta' taj,be an idiot
 man -ta' taj,be idiotic
-man -ta tä tzij,be disobedient
-man -ta taj,be deaf
 man je' taj,incorrect
 man junam taj,different
 man k'am taj,reject
-man k'äx taj,easy
-man k'o tä -bij,keep secret
 man k'o taj -cholaj,false
 man k'o taj -mak,innocent
 man k'o taj -pam,empty
 man k'o taj -suk',"disorderly, incoherent speech"
-man käna'taj tä ch-e,"doesn't remember, forgets"
+man k'o tä -bij,keep secret
+man k'äx taj,easy
 man ku-ya' taj,"forbidden, not allowed"
 man kunataj taj,incurable
+man käna'taj tä ch-e,"doesn't remember, forgets"
 man loq' taj,impossible
 man nim tä -k'ux,generous
 man qas tä je',incorrect
 man qas tä suk',incorrect
-man tojotal taj,without cost
 man tojotal taj,free
+man tojotal taj,without cost
 man tz'aqat taj,"incomplete, lacking"
 man utz taj -na',be uncomfortable
 man...taj,negative indicator
 manal -ban,be funny
-Mani yinachOp ke re'!,Don't touch me there!
 mansa'n,apple
 mansanix,apple
 manteka',"grease, lard"
@@ -2374,7 +2399,6 @@ maq'aq',quetzalillo bird
 maq'uq',"quetzal male, male quetzal"
 maramaq ri'j,goosebumps
 mararik,become rough
-märin,scarab beetle
 mas -qaj ch-wäch,favorite
 masat,deer
 masewal q'ij,calendar
@@ -2388,9 +2412,7 @@ matzaqik,goodbye don't fall down
 mawanik,fast
 mawi,neither
 mawi jumul,never
-Max,Chichicastenango
 maxän,"tamales wrapper, large leaf"
-Maximon,Idol worshipped in Santiago
 may,"admire, be amazed, be surprised"
 mayij,admire someone
 mayij -ib,be amazed at
@@ -2415,8 +2437,8 @@ memetik,bleat goat
 menorij kanoq,be left an orphan
 meq'owemal,happiness
 mer,recently
-mes,"sweepings, garbage"
 mes,"sweeping, fertilizer"
+mes,"sweepings, garbage"
 mes -wi',bless someone
 mesa,table
 mesabal,"ritual cleansing of lineage, cleansing, broom"
@@ -2475,8 +2497,8 @@ moxirik yabil,dizziness
 moxirisaj,"drive someone crazy, make crazy"
 moxpi',zunza
 moxq'ab,left
-moy,blind person
 moy,blind
+moy,blind person
 moyirik,become blind
 moymot,be dark
 moymot ri kandela,be dim
@@ -2538,12 +2560,13 @@ musmutik,drizzle
 mususik,drizzle
 mutz,cluster of stars
 mutzmutik,eat delicately
-mux,cooked grains of elote
 mux,cooked grains
+mux,cooked grains of elote
 muxanik,swim
 muxirik -baqil,get goosebumps
 muxux,navel
 muyej -chi',keep mouth closed
+märin,scarab beetle
 na,certainty marker
 na',"acquaint one's self, feel, estimate, to taste"
 na' -ib,be afraid
@@ -2555,8 +2578,8 @@ na'om,felt
 na'taj ch-e,remember something
 na'w ch-e,be able to
 nababik,be soft
-nabe,firstly
 nabe,first
+nabe,firstly
 nabe alk'ualaxel,index finger
 nabe chak,first weeding
 nabe chq'wäch,advantage
@@ -2573,8 +2596,8 @@ naj -sachi'k,become unconscious
 naj aq'aninaq,elevated
 najil,depth
 najtin ri q'ij,get late
-najtir,anciently
 najtir,"ancient, before, in the past"
+najtir,anciently
 nak'aba',glue
 nak'ak'ik,be sticky
 nak'alik,"affixed, glued"
@@ -2582,16 +2605,14 @@ nak'alik pa -jolom,fixed in memory
 nak'ba',glue something
 nak'bal,"tape, glue"
 nak'inik,follow without permission
-nak'o,"glue, graft onto"
 nak'o,glue something
+nak'o,"glue, graft onto"
 nak'om,glued
 nakanik,"fool, idiot"
-nake'ik,be quiet
-nake'ik,"be calm, be still"
 nake'ik,be calm
-,"lady, ma'am"
+nake'ik,"be calm, be still"
+nake'ik,be quiet
 nan cho Dios,god-mother
-Nantat,title used in prayers
 nanyox,god-mother
 naq'atalik,accustomed doing of a way
 naq'atisaj,accustom someone to something
@@ -2615,8 +2636,8 @@ nawalij,invent something
 ne',"newborn, newborn baby"
 nebi'k,be cooked well
 nek',Bromelia plant
-ni'j,newt
 ni jumul,never
+ni'j,newt
 nich',"fastidious, finicky"
 nich' che ri -wa,"eater, finicky eater"
 nij,"antacid, fine"
@@ -2654,26 +2675,24 @@ nim reqle'n,commander
 nim tinimit,capital
 nim tum,large drum
 nim u-pam q'ij,long days
-nima',river
 nima butik,flood
 nima juyub ch'uti juyub,all mountains
 nima q'atal tzij,king
 nima q'ij,festival
 nima u wi aqan,big toe
 nima winaq,old man
+nima',river
 nimabal,"greatness, infinite"
 nimaj,"believe, give respect"
 nimajik,"feel better, flee (v)"
 nimal,"chief, greatness, boss, leader"
 nimal -ban,be haughty
 nimal -ban,be proud
-Nimala',Río Chixoy
 nimalaj achi,great man
 nimalaj chuq'ab,great power
 nimalaj jäb,"heavy rain, deluge"
 nimalaj k'asaj,large
 nimalaj k'asaj,"old debt, large, large debt"
-Nimalaj K'ulel,great enemy
 nimalaj kaq'iq',epilepsy
 niman,respect
 nimanel,respectful person
@@ -2682,9 +2701,9 @@ nimaq'ab,early in the morning
 nimar -q'ij,become great
 nimarik,"enlarge, increase in size"
 nimarisaj,enlarge
-nimarisäj -ib,"be boastful, make one's self great"
-nimarisaj -q'ij,complement
 nimarisaj -q'ij,commend
+nimarisaj -q'ij,complement
+nimarisäj -ib,"be boastful, make one's self great"
 nimatajik,"get worse, become gravely ill"
 nimatajinaq,"gotten worse, grave"
 nimol -ib,"audacious, bold"
@@ -2746,16 +2765,16 @@ ojer taq qa tat qa nan,ancestors
 ojer tzij,"ancient history, legend"
 ojratza'm,cold
 ok,enter
-ok'owisaj,celebrate holiday
 ok -uk',join
 ok aq'ab,"get dark, become late"
 ok il,become preoccupied
+ok'owisaj,celebrate holiday
 okbal,entrance
 okem,entrance
 okibal,"entrance, door"
 okik,"become, enter"
-okisax,be put in
 okisax,be placed in
+okisax,be put in
 okonel k'iaq,"sand fly, insect"
 okoq,widgeon
 opanem,arrival
@@ -2787,19 +2806,12 @@ oxk'al,60
 oxk'al chuy,60.000
 oxk'al lajuj,70
 oxlajuj,thirteen
-Oxlajuj Ch'ob,Catholic confraternities
 oxmuch',240
 oyowal,"anger, fight"
 oyowarik,"get angry, become annoyed"
 p'o,amate
 p-ch'im -wi,braid
 pa,"at, during, in, from, into"
-pa'ij,"to break in half, break in half"
-pa'k,cracked skin
-pa'kinik,be split
-pa'nibal,refuge
-pa'nik,take shelter
-pa-jolom,remembered
 pa -k'ux,in imagination
 pa -k'ux,in imagination
 pa -nik'ajil,"among, in middle of"
@@ -2814,6 +2826,12 @@ pa ra,"calf, leg"
 pa ri jul cho ri xan,fill holes in adobe wall
 pa ri q'atbal tzij,legally
 pa taq ik',every month
+pa'ij,"to break in half, break in half"
+pa'k,cracked skin
+pa'kinik,be split
+pa'nibal,refuge
+pa'nik,take shelter
+pa-jolom,remembered
 pach',tamales made from potatoes
 pach'om,"disemboweled, gutted"
 pach'ubal,ribbon
@@ -2830,7 +2848,6 @@ pachach,cockroach
 pachalik,"bent over, bowed"
 pachi'k,"bend over, duck, lean over"
 pachipik,bent over
-Pachulum Mundo,World Deity
 pajbal,balance
 pak',"dipper, ladel, large spoon"
 pak'i'k,be face up
@@ -2840,16 +2857,14 @@ palajaj,face
 palomäx,dove
 pam<aj>,"guts, interior"
 pamaj,infection in stomach
-Pan Choy,"Antigua city, City of Antigua"
-pänet,cap
 panku',carpenter's bench
 papobik,break open sth made of clay
 paq,empty field for house
+paq ubik,blow away
 paq'apa -q'ab,"applaud, clap hands"
 paq'ij,chop up
 paq'inik,break open mountain
 paq'o,bite hard
-paq ubik,blow away
 paqaba',raise something
 paqal -ajil,expensive
 paqalem,"act of climbing, raise, climb, increase"
@@ -2861,34 +2876,30 @@ paqi' chikaj,fly high in sky
 paqi'k,"raise, to raise prices, go up high"
 par chim,black and white shoulder bag
 pare,Catholic priest
-pärek',"rooster comb, comb of rooster"
-pärex,rooster
 parutz',wild marigold
 pas,"sash, belt"
 pask'ayik,roll over child in grass
 pask'ij,roll something over
 pask'im,"rolled over, knocked over"
 patal,sedan chair
-patän,leather band with ropes
 patanajik,be useful
 patanij,be useful for
 patanijik,"act of being useful, being useful"
-patäx,duck
-pätet,capstan used to twist thread
 patz,tangled
+patz -jolom,hairy person
+patz -wi',hairy
+patz r-ij,hairy
 patz'aba',leave clothing unfolded
 patz'alik,clothing left unfolded
 patz'an,"cane, dry corn stalk, corn stalk"
 patz'ik,leave fabric unfolded
-patz -jolom,hairy person
-patz -wi',hairy
-patz r-ij,hairy
 patzapik,hairy
 patzik,"be packed, get dressed up"
-pätzki'y,gizzard of bird
 patzkuyik,tangled
 patzoj,coitus
 patzukaj,tangle something
+patän,leather band with ropes
+patäx,duck
 pax,break something
 paxij,break general term
 paxik,"be fragile, break plates"
@@ -2899,11 +2910,11 @@ paxq'ol,bog
 pay,"stupid person, incompetent"
 payirik,become stupid
 payu',"bandana, kerchief"
+pe -oyowal,become angry
 pe'j,filthy
 pe'jenik,become filthy
 pe'q,"coax, corn cob"
 pe'r,guipil
-pe -oyowal,become angry
 pek,"callous, cave, cliff, boulder, corn callous"
 pek'at,allergy of the skin
 pek'elik,wood beneath weight
@@ -2980,8 +2991,8 @@ pomaj,diarrhea
 pompo',balloon
 pon<o>,improvize something
 ponom,improvized
-ponopik,"evergreen oak, dwarf"
 ponopik,evergreen oak
+ponopik,"evergreen oak, dwarf"
 pop,"acontecimientos, happenings"
 poparik,get a rash
 poq,dust
@@ -2990,8 +3001,8 @@ poq' -aqan,get blisters on feet
 poq'ik,"get blisters, firecracker, explosion, bloom"
 poq'ik -q'ab,corn
 poq'isaj,explode something
-poq'obisaj uloq,come out
 poq'obisaj uloq,come forth
+poq'obisaj uloq,come out
 poq'oj,boiled
 poq'owik,to boil
 poq'owinaq,boiled
@@ -3003,8 +3014,8 @@ poqlajirik,decay
 poqlanik,raise like dust
 poqwaj,ballgame
 por,rough cloth
-poro'n,conflagration
 poro'n,bonfire
+poro'n,conflagration
 porobal,"altar, burning place, place where trash burned"
 porobal awaj,sacrificial altar
 poroj,fire sound
@@ -3023,10 +3034,10 @@ poyopik,flaccid
 poysaj,false
 poysaj -ib,change way of dressing
 pruta,fruit
+pu saqirik,become clear
 pu'y,fuzz peach
 pu'yul,"bird down, down of bird"
 pu'yuyik,grow fuzz
-pu saqirik,become clear
 puaqil,scales
 pub,blowgun
 puch,even though
@@ -3036,12 +3047,12 @@ pujaj,drain sore
 pujanik,drain sore
 pujarik,become infected
 puk,joke
+puk sibalaj tze'bal,very funny joke
 puk'inik,break pot when dropped
 puk'inik ulew,form a dust cloud
 puk'pik,swelling on cattle
 puk'puj,dusty
 puk'uk'ik,raise up dust
-puk sibalaj tze'bal,very funny joke
 pukaj,"tell a joke, joke"
 pulch'ich',cataract
 pulij,fill something with liquid
@@ -3057,8 +3068,8 @@ pum,Saint Joseph beard
 pump,canteen
 pun,"swollen, inflated"
 pune,"although, even though"
-pune't,cap
 pune tä jeri',nevertheless
+pune't,cap
 punemna,even though not
 punik,swell up
 punulik,discarded
@@ -3066,8 +3077,8 @@ punupik,"fat, dwarfish"
 pup,dried fish
 pupu,balloon
 puq' -baq'wäch,edge eyelid
-puq'bal,beating stick
 puq'bal,"beater, kneading instrument"
+puq'bal,beating stick
 puq'ij ubik -ib,dive into water
 puq'u,knead
 puq'um,kneaded
@@ -3085,6 +3096,11 @@ putz,chipilin
 putzu'k,tangled
 putzukaj,tangle something
 puxij,bite
+pänet,cap
+pärek',"rooster comb, comb of rooster"
+pärex,rooster
+pätet,capstan used to twist thread
+pätzki'y,gizzard of bird
 q'a'lik,"recline, lean"
 q'a'm,"ladder, bridge"
 q'a'm ja,ancient Maya temple
@@ -3104,14 +3120,13 @@ q'abej,blame someone
 q'abinik,swipe out with paw
 q'ach'ianik,be oily
 q'aj,break bone
-q'ajik,break tree from wind
 q'ajik,bread
 q'ajik,"break bone, fracture bone"
+q'ajik,break tree from wind
 q'ajinaq,"broken leg, fractured"
 q'ajinaq baq,"dislocated, dislocated bone"
 q'akoj,pale brown
 q'alaj,"sure, evident, well-known, clear, clearly, frankly"
-q'äläj,rainy season
 q'alaj ch-e,according to what is known
 q'alajinik,"be clear, become visible"
 q'alajisabal,testimony
@@ -3126,24 +3141,7 @@ q'aluj -q'ab,fold arms
 q'alum,embraced
 q'alunel,godfather in baptism
 q'alunik,embrace
-q'än,"fatty, yellow"
-q'än che',mahogany tree
-Q'än cho,Río del Canchon
-q'än chul,infection urinary
-q'än ja',blister
-q'än kiäq,orange
-q'än puaq,copper
-q'än te,Madre cacao tree
-q'än ulew,clay
-q'änal,"ripeness, girl ready for marriage, jaundice"
 q'anaq',"tamales wrapper, leaf for wrapping tamales"
-q'änarik,scorch
-q'änarik,scorched
-q'änarik uwächulew,ripen
-Q'anil,day in the sacred calendar
-q'änil,autumn
-q'änpu'r,yellowish from dirt
-q'änq'oj,"tan, tan egg-colored, yellowish-brown"
 q'aq',"fever, fire, gun"
 q'aq' ch-ij,feverish
 q'aq' chikop,firefly
@@ -3152,9 +3150,9 @@ q'aq' puaq,gold
 q'aq'al chikop,firefly
 q'aq'an-anima',be very worried about somethin
 q'aq'il,electricity
-q'at'o,saw
 q'at -wäch,avoid
 q'at tzij p-wi',to judge
+q'at'o,saw
 q'atal tzij,"king, governor, judge, justice of the peace"
 q'atalik,block
 q'atatal q'ij,few days
@@ -3170,13 +3168,13 @@ q'atol tzij,judge
 q'atq'ik,fissure
 q'atuj,to inspect
 q'atut,have remorse about something
-q'atut-anima' ch-e,have remorse about something
 q'atut -anima' ch-e,regret
+q'atut-anima' ch-e,have remorse about something
 q'atuxik,"act of being visitede, be visited"
 q'atzq'alil,knuckle
 q'ax,chiltepe
-q'ax,undried green chile
 q'ax,hot chile
+q'ax,undried green chile
 q'axaj,change
 q'axal tzij,translator
 q'axanel,intermediary
@@ -3195,8 +3193,8 @@ q'ebaj,go across
 q'ebal,large earthen jar
 q'echop,reed used for brooms
 q'eq,dark
-q'eq ulew,designated
 q'eq ulew,"date, designated day"
+q'eq ulew,designated
 q'ij,sun
 q'ijul,rainy season (1)
 q'il,avoid a fight
@@ -3240,12 +3238,10 @@ q'om,aromatic
 q'onq'otem,fatness
 q'oq',"white bottle gourd, gourd"
 q'or,"sweet corn gruel, corn dough, hot drink"
-q'ör,lazy
 q'or ja',atole
 q'or pa xaro,atole made from corn dough
 q'or re ixim,corn dough
 q'oral,laziness
-q'örij,laze
 q'os,June Beetle
 q'osibal,"club, mallet"
 q'osibal klawux,hammer
@@ -3272,7 +3268,6 @@ q'ulij,scald
 q'ululej,take away all that
 q'ululik -pam,growl (stomach)
 q'umar,"rotten, infested"
-Q'umarqaj,ruins near Santa Cruz
 q'up<u>,break something thin
 q'upij,break something long and thin
 q'upunel,"insect, mariquita negra"
@@ -3288,8 +3283,25 @@ q'utu'm,"salsa, sauce of ground chile"
 q'utu'm ik,chile sauce
 q'utuj,drink made of corn dough
 q'ux,"beard, dried plant for cleaning"
+q'äläj,rainy season
+q'än,"fatty, yellow"
+q'än che',mahogany tree
+q'än chul,infection urinary
+q'än ja',blister
+q'än kiäq,orange
+q'än puaq,copper
+q'än te,Madre cacao tree
+q'än ulew,clay
+q'änal,"ripeness, girl ready for marriage, jaundice"
+q'änarik,scorch
+q'änarik,scorched
+q'änarik uwächulew,ripen
+q'änil,autumn
+q'änpu'r,yellowish from dirt
+q'änq'oj,"tan, tan egg-colored, yellowish-brown"
+q'ör,lazy
+q'örij,laze
 qa winaq,fellow countryman
-qäb,dog bite
 qablajik,belch
 qaj,"borrow, take off weight, rent, lend"
 qaj pa yabilal,become ill
@@ -3298,7 +3310,6 @@ qaj ubik,go down
 qajal ja,"renter, tenant, boarder"
 qajanel,"renter, tenant, borrower"
 qajaw,"father, God"
-Qajawaxel,God the Father
 qajaxtaj,borrow
 qajbej,"fall on top of something, dismay, flatten"
 qajbexik,suffer a reversal of fortune
@@ -3336,8 +3347,8 @@ qieq',kick
 qis utz,very good
 qit' -ib,"branch against house, constantly beat against"
 qitz'najik,brakes
-qol'o,scratch
 qol'o,scrape
+qol'o,scratch
 qolom,scraped
 qoloqobik,scrape
 qoloqobik-tz'umal -q'ab,scrape skin of hand
@@ -3359,6 +3370,7 @@ qupibal,scissors
 qupij,scissors
 qupil wi'aj,barber
 quq,"fertile, moist"
+qäb,dog bite
 r-,its
 r-ajilabal q'ij,date
 r-aqän tix,elephant
@@ -3367,10 +3379,8 @@ ra'lij -ib,get tangled up
 rab,root of tree
 racakik,clamber up
 rach'qij,break something flexible
-rächo,dig below something
 rajawaxik,"important, necessary"
 rajwaxik chi,be necessary to
-räk' juyub,godorniz
 rak'o,scratch
 rakij,scratch
 ralawal boj,clay for potter
@@ -3383,36 +3393,13 @@ raparatik,fly like a butterfly
 rapinem,flight
 rapinik,fly (v)
 rapuj,afflict
-räq'lapuj,reflect
 raq'oq'ik,talk a lot
 raq'tij,tear
 raqapuj,tear to pieces
 raqbala',"sign of rain, indication in sky; it'll rain"
 raqij,burst open
 rawa',man's skirt
-räx,"blue, color blue, green, leafy"
-räx aqan,green snake
-räx ch'aych'obinaq,afflicted severely
-räx ch'ich',iron
-räx che',evergreen oak
-räx kinaq',green beans
-räx kinaq',string beans
-räx q'or,corn dough drink
-räx räj u wo ri kaj,blue like the sky
-räx räj u wo ri q'ayes,green like the grass
-räx tew,malaria
-räx wa'choj,gray
-räx wa'choj,grey
-räxarik,to bruise
-räxarisaj,make green
-räxk'ux,half-boiled
-räxkiaq'ab,rainbow
-räxq'ab,"dew at night, night dew"
-räxq'ab,dew
-räxq'än,act of turning green
-räxroj,"pale blue, green color light, light green"
 raxtor,regidor indígena
-räxwäch,black corn
 rayi'n,desire
 rayibal,desire
 rayij,desire
@@ -3424,17 +3411,16 @@ repo'y,cabbage
 req'alaj jab,rainy season
 req'apunik,"glare, brilliant"
 reqlej ixoq,copulate
-ri',something close enough
-ri'j winaq,old person
-ri'jite',"aged, decrepit with age"
-ri'jobik,"age, grow old"
-ri'jobisaj,make something old
 ri ak'al kujux u-wäch ri xan,draw on something
 ri ali käka'y je käpe ri u nan,appear like
 ri ali su'ulaj je'lik käpetik,in appearance
 ri jume't,bark
 ri u-sal ri kamixa',the reverse side of shirt
-Ribnal,Rabinal
+ri',something close enough
+ri'j winaq,old person
+ri'jite',"aged, decrepit with age"
+ri'jobik,"age, grow old"
+ri'jobisaj,make something old
 rich'ij,"tear, break something soft"
 riki'l,"dish of food, non-corn"
 rininej,rev
@@ -3444,15 +3430,15 @@ ripolobik,flatten out something
 riprip cho ulew,grow plant over the earth
 riprobik,extend
 riq,"catch up, encounter, find"
-riq'ol tzij,gossipy person
-riq'ol tzij,gossip
 riq -ib,fornicate
 riq k'ax,"suffer, encounter illness"
 riq no'j,experience
 riq yabil,become sick
+riq'ol tzij,gossip
+riq'ol tzij,gossipy person
 riqom,found
-riqtajik,be found
 riqtajik,be discovered
+riqtajik,be found
 riqtajinaq,"discovered, found"
 rit'irik,extensive
 ritakiej,tear
@@ -3474,6 +3460,32 @@ roxox,rose
 rubuwik,ache
 ruju,beat eggs
 rupnajik,"rustle, swish"
+rächo,dig below something
+räk' juyub,godorniz
+räq'lapuj,reflect
+räx,"blue, color blue, green, leafy"
+räx aqan,green snake
+räx ch'aych'obinaq,afflicted severely
+räx ch'ich',iron
+räx che',evergreen oak
+räx kinaq',green beans
+räx kinaq',string beans
+räx q'or,corn dough drink
+räx räj u wo ri kaj,blue like the sky
+räx räj u wo ri q'ayes,green like the grass
+räx tew,malaria
+räx wa'choj,gray
+räx wa'choj,grey
+räxarik,to bruise
+räxarisaj,make green
+räxk'ux,half-boiled
+räxkiaq'ab,rainbow
+räxq'ab,dew
+räxq'ab,"dew at night, night dew"
+räxq'än,act of turning green
+räxroj,"pale blue, green color light, light green"
+räxwäch,black corn
+sVbarik,become black with smoke
 sa',"roast, dry out by sun or fire"
 sa'lik,dry out by sun or fire
 sa'y,swing
@@ -3484,16 +3496,16 @@ sach -k'ux,be perplexed
 sach -mak,forgive
 sach -wäch,"remove, wreck"
 sach ch-e <pa -jolom>,forget
-sach ch-pam,be sunk in something
 sach ch-pam,be submerged in something
+sach ch-pam,be sunk in something
 sach pa -jolom,forget
 sachaba',cause to be taken away
 sachabal,confusion
 sachbal ib,disorientation
 sachbal mak,forgiveness
 sachibal k'ux,doubt
-sachik,"be lost, confused"
 sachik,"be confused, confused"
+sachik,"be lost, confused"
 sachikal,disappearance
 sachinaq,"erroneous, in error, confused"
 sachinaq -k'ux,confused
@@ -3503,12 +3515,12 @@ sachom,expense
 sajkor,"quail, bird quail"
 sak,dice game
 sak',grasshopper
-sak'äj,"active, diligent, hard working"
-sak'äj,agile
-sak'äj,active
 sak'ajil,diligence
 sak'inik,break rope
 sak'lajik,"agile, be diligent, quick in work"
+sak'äj,active
+sak'äj,"active, diligent, hard working"
+sak'äj,agile
 sal,"arrogant, reverse side, eczema, disobedient, mange"
 salabaj -anima',"be moved emotionally, feel deeply about"
 salabataj,dislocate
@@ -3516,16 +3528,11 @@ salabik,tree branch in wind
 salan,lean
 salk'äm,scrape
 salk'äm,"scratch, itch on a person"
-sälot<il>,fuzz ball
-sälotil,"ball of fuzz, chaff from grain"
 salpi'ch,"fakial sore, mange"
 salsoj,gray
 salsoj,grey
-säluy,having only one ear
 salwa't,"grain given to pigs, bran"
 salwato',brain
-San Kris,San Cristobal
-San Pra's,San Francisco El Alto
 sanaba',"make clear, uncover"
 sanaba',"remove all secrecy, make clear"
 sanalik,"fat and naked, clear, naked and fat"
@@ -3536,20 +3543,11 @@ sansatik,swell
 sanyeb,sand
 saq,"clean, white, bright"
 saq,clear
-säq,"half-tasty, half-cold, half-hot"
-saq'ij,dry season
-saq'or,lazy person
-saq'orij,do something slothfully
-saq'oril,laziness
-saq'orinik,hang out
-saq'os,llorona tree
-saq'umbal,"grassy field, lawn"
 saq -jolom,blonde
 saq -pam,clean (1)
 saq ch'o,"wild rat, field mouse"
 saq choq',calcite
 saq ki,"fiber of maguey, manguey"
-säq ki',lacking sufficient sweetness
 saq koj,constellation of brillant lion
 saq nima tz'i',Aldebaran
 saq noy,pine caterpillar
@@ -3558,17 +3556,21 @@ saq q'alaj,"revelation, clear light"
 saq q'ij,dry season
 saq tew,frost
 saq tiqow,sweat
-säq tza,"no flavor, lacking salt"
 saq wi',"gray haired, white haired"
 saq yabil,illness with vaginal flow
+saq'ij,dry season
+saq'or,lazy person
+saq'orij,do something slothfully
+saq'oril,laziness
+saq'orinik,hang out
+saq'os,llorona tree
+saq'umbal,"grassy field, lawn"
 saqal ch'abal,grammar
 saqarik,good morning
 saqbach,hail
 saqbachinik,hail
 saqi'chaj,cauliflower
-säqi'n,"almost, half-do something, nearly"
 saqi'owaj,kohlrabi
-Saqi K'oxol,traditions
 saqil,"resplendence, clarity"
 saqil k'aslem,civilization
 saqiribal,testimony
@@ -3588,8 +3590,8 @@ saramu'y,"arrogant, flirt"
 sararik,bitter
 sarawäch,"quail, bird quail"
 satal,black wasp
-say,small fish from the coast
 say,minnow
+say,small fish from the coast
 say -q'ab,swing arms
 sayasa' -q'ab,swing arms
 sayisaj,rock
@@ -3644,15 +3646,15 @@ sin,bamboo
 sina'j,scorpion
 sinam,scorpion
 siol,turkey buzzard
-sip,chigger
 sip,chicken lice
+sip,chigger
 sipabal,gift
 sipaj,give as a gift
 sipaj -ib,"be contagious, give an illness, contagious"
 sipam,"given, free, without cost"
 sipanel,generous person
-sipanik,"be generous, gift"
 sipanik,be a generous person
+sipanik,"be generous, gift"
 sipbal,gift of food
 sipoj,"abscess, swell, swelling, blister"
 sipojem,"swelling, dropsy"
@@ -3672,10 +3674,10 @@ siyo'penik,"rock from side to side, swing"
 sk'op,bow
 skel,evergreen oak
 skel,evergreen oak
+so has,wall-eyed
 so'r,deaf
 so'r,deaf
 so'sobik,deflate
-so has,wall-eyed
 soch,gourd rattles
 sochaj,rattlesnake
 sojsol,bird heron
@@ -3702,12 +3704,11 @@ sq'om,sound of fingers in corn dough
 sqop,bow
 su',"chirimia flute, clean"
 su',"clean, dry with a cloth, dust"
-su'bäl,horse blanket
 su'bal atz'iaq,cleaning rag
 su'bal chi'<ij>,napkin
+su'bäl,horse blanket
 su't,"small rug, scarf, diaper, rag, cloth, handkerchief"
 su'ulaj,in appearance
-süb,tamalito of corn
 subu,"deceive, beguile"
 subuj,"deceive, to make fun of"
 subunel,"deceiver, ghost, mananimal who frightens people"
@@ -3733,8 +3734,8 @@ sursik,ball
 sursik batz',ball of thread
 sursutik,be uncovered
 susum,"bad influence, influence"
-susum ixpach,beetle
 susum ixpach,Cerambicid beetle
+susum ixpach,beetle
 sutibal r-ij,circle
 sutij,"rotate, screw, bend wire, drill"
 sutij -ij,"around, surround, encircle"
@@ -3751,9 +3752,16 @@ sutz' pa -baq'wäch,cataracts in eye
 sutz' pawaq'ach,blurred vision
 sutz' q'an,clouds at sunset or sunrise
 sutz' u-wächulew,fog
-sutz'irik,become obscured by fog
 sutz'irik,become clouded
-sVbarik,become black with smoke
+sutz'irik,become obscured by fog
+sälot<il>,fuzz ball
+sälotil,"ball of fuzz, chaff from grain"
+säluy,having only one ear
+säq,"half-tasty, half-cold, half-hot"
+säq ki',lacking sufficient sweetness
+säq tza,"no flavor, lacking salt"
+säqi'n,"almost, half-do something, nearly"
+süb,tamalito of corn
 t'ab,relate something fully
 t'ab<o>,drink something thick
 t'ajajik,be cold
@@ -3808,8 +3816,8 @@ t'uyubal,chair
 t'uyulibal,bench
 t'uyuwik,grieve
 ta',ask
-ta' -tzijol,ask for information
 ta' -tzijol,ask directions
+ta' -tzijol,ask for information
 ta' ch-e-ixoqil,ask for the hand of a girl
 ta' pa qajik,"ask to borrow, borrow"
 ta' pa qajomal,borrow
@@ -3827,8 +3835,8 @@ tajal k'ix,spiny weed
 tajin,be in the process of doing smt
 tajin wi,every once in a while
 tajin wi kinbek,every once in a while
-tajinel,farmer
 tajinel,"farm-hand, laborer"
+tajinel,farmer
 tajinik,be in the action of
 tajkil,errand
 tak,"anger easily, quick to anger"
@@ -3851,8 +3859,8 @@ tam<o>,chop
 tamale,equal parts corn and beans
 tamales,beans during divination
 tamom,chopped
-tan-uk',belong to group
 tan ch-xol,belong to group
+tan-uk',belong to group
 tana't,suitcase
 tanaba',suspend
 tanabal,"native, astronomical observatory, native altar"
@@ -3866,20 +3874,20 @@ tanlajik,footstep sound on hard surface
 tapa'l,nantze tropical fruit
 tapia',earthen wall
 taq,"distributes effect of verb, compel to do something"
+taq na ch-e,be waiting for someone
+taq na cheri achi,be waiting for someone
+taq uloq,command to come
 taq'aj,"flat land, valley, coastal plain"
 taq'ajal,coastal
 taq'ajal ixim,corn from the coast
 taq'ajal ixim,maiz de la costa
 taq'ajanik,go to work on the coast
-taq na ch-e,be waiting for someone
-taq na cheri achi,be waiting for someone
-taq uloq,command to come
 taqal ch-e,"deserving, well-fitting"
 taqanel,boss
 taqanel,commander
 taqanik,"authority, reign, command, commandment"
-taqbal,commandment
 taqbal,command
+taqbal,commandment
 taqchi'j,"tempt, entice, compel"
 taqchi'j che mac,tempt to sin
 taqchi'nik,temptation
@@ -3906,7 +3914,6 @@ tatz'ij,break bone
 tatz'in baq,broken bone
 tay,be asked
 tayuy,"rectangular, quadrangular"
-Te'k,Diego
 tebotiq,thick
 tebtajik -aq,stutter
 tebtatik -aq,stutterer
@@ -3926,10 +3933,10 @@ teq',chip from bottom of a pot
 teq'<o>,make a hole
 teq'etobik,tear open
 terembej,"follow someone, continue doing something"
-terenej,"go with someone, follow (v), continue"
 terenej,chase
-terenel,one who follows
+terenej,"go with someone, follow (v), continue"
 terenel,follower
+terenel,one who follows
 terenel re,bodyguard
 terenik,follow (v)
 teri'k,follow behind
@@ -3939,8 +3946,8 @@ tewichibal,blessing
 tewichij,bless
 tewichim,blessed
 tewichinik,bless
-tewtatik,be humid
 tewtatik,be chilly
+tewtatik,be humid
 ti'<axel>,nephew
 ti'ik,bite
 ti'j,flesh
@@ -3951,9 +3958,8 @@ ti'onik,"bark dog, bite"
 ti'tem,jealousy
 tij -chuq'ab,fight to do something
 tij -q'ij,fight to do something
-Tijax,day in the sacred calendar
-tijbem,"act of eating, the act of eating"
 tijbem,act of eating
+tijbem,"act of eating, the act of eating"
 tijik,eat
 tijo,eat something
 tijobal,"school, classroom"
@@ -3968,14 +3974,14 @@ tijowik,be edible
 tijoxel,disciple
 tijoxik,act of being taught
 tik,tend animals
-tik'ej,carry by hand
 tik anim,run
+tik'ej,carry by hand
 tikarik,begin
 tikbal,flower garden
 tikibal,beginning
 tikilibal,foundation
-tikilik,fixed firmly
 tikilik,firmly fixed or planted
+tikilik,fixed firmly
 tikilik ri ik',full moon
 tikiritajik,"be begun, beginning"
 tikitajik,beginning
@@ -3995,7 +4001,6 @@ tiojilal,gristle
 tiox,sacred
 tiox,sacred image
 tiox che',cedar
-Tiox Mundo,"Dios Mundo, manifestation of traditional"
 tioxalaj,sacred
 tioxalaj winaq,"saint, godly person"
 tioxij,thank
@@ -4074,8 +4079,8 @@ torotaj pomaj,diarrhea
 torotobik,draw out a nail
 torq'o'mik,be loose
 tortajik,come off wheel from bus
-tot'is,river snail
 tot kan ri ulew che ri -aqan,dust off feet
+tot'is,river snail
 tota',quake
 tototik,"be shaken off, shaken off"
 toxoxik,flow in stream under pressure
@@ -4087,7 +4092,6 @@ tu'x äk',"deformed chicken, chicken deformed"
 tu'y,bowl
 tujaj,bake
 tujaj,bake bread
-Tujal,Sacapulas
 tujanem,birth of a child
 tujuwik,beat heart
 tuk,"agitate, return, beat dough"
@@ -4114,8 +4118,8 @@ tulul,zapote
 tumin,tamale without meat inside
 tumitalik,make rope
 tumuxux,winged ant
-tun,drum sound
 tun,drum
+tun,drum sound
 tun ri q'ij,sunrise
 tun ri u-wi' ri ch'at,make the bed
 tunaqaj,esophagus
@@ -4138,8 +4142,8 @@ turkupij,take out of the earth
 turq'ij,gulp water when thirsty
 turtubinaq,"taken apart, disassebled"
 turu,"take something apart, disarm"
-turuwik,"drip, leak"
 turuwik,dribble
+turuwik,"drip, leak"
 turuwik -tu',breast dribble
 turuwik -tz'am,runny nose
 turuwisaj,shed blood
@@ -4191,16 +4195,14 @@ tz'arej,carry something thin
 tz'ekij,fill in
 tz'et,droplet
 tz'etz',calabaza squash
-tz'i',"dog, foolish"
 tz'i',"disobedient, day in the sacred calendar"
+tz'i',"dog, foolish"
 tz'i'alaj tzij,jealous words
 tz'i'arik,"be uncertain, insecure"
 tz'i'arik -wäch,lacking confidence
-tz'iäq,"rag, cloth, piece of cloth"
 tz'ib,hand writing
 tz'iban bi'aj,census
 tz'ibanik,act of writing
-Tz'ikin,"day in the sacred calendar, bird"
 tz'il,"dirty, impure"
 tz'ilaj,make dirty
 tz'ilobik,become dirty
@@ -4214,13 +4216,14 @@ tz'iltzoj,"colored, colored egg"
 tz'in,"camote, manioc"
 tz'in chäj,needles
 tz'inilik,"activity, be motionless, desolate, empty house"
-tz'ininik,be silent
 tz'ininik,"be peaceful, ringing in the ears"
+tz'ininik,be silent
 tz'inonik,be calm
 tz'inowik,be silent
 tz'intal,root of the güisquil plant
 tz'iririk,chirp
 tz'ite,"beans during divination, beans for divining"
+tz'iäq,"rag, cloth, piece of cloth"
 tz'oloj,dahlia
 tz'oloj che',"sauce from elder tree, elder tree"
 tz'onik,be asked for
@@ -4265,8 +4268,8 @@ tzajik,"become thin, evaporate, dry"
 tzajom,dyed
 tzajorin,adivino
 tzak,cook usually by by boiling
-tzak'tzatik,go tick tock
 tzak -ib,scald
+tzak'tzatik,go tick tock
 tzakoy,"ejote, bean, string beans, green bean"
 tzalanik,lean sideways
 tzalij,"answer, return something"
@@ -4274,15 +4277,14 @@ tzalij -bixik,repeat
 tzalij -ib,repent
 tzalij -wäch,respond
 tzalij pa -aqan,return by foot
-tzalij u-k'exel jun toq'ob,return a favor
 tzalij u wäch -tzij,echo
+tzalij u-k'exel jun toq'ob,return a favor
 tzalij uloq,return here
 tzalijik,"return, come back"
 tzalma'yik,be tipped
 tzalon,gladiola flower
 tzaltzik,laying to one side
 tzam,aguardiente
-tzämiy,corn silk
 tzanabe',auxiliar
 tzantzaq'or,brain
 tzapatajik -chul,inability to urinate
@@ -4306,7 +4308,6 @@ tzay,swing often hanging from tree
 tzaya ja',brackish water
 tzayaba',"dangle, hang something"
 tzayalik,dangling
-tzäyam,habas
 tzayej,carry hanging from hand
 tzayi'k,be hanging
 tzayij,salt something
@@ -4330,8 +4331,8 @@ tzeq',eunuch
 tzero,tear paper
 tzerom,ripped
 tzertajik,"be rent, be torn"
-tzetzat -wäch,be happy
 tzetzat -wäch,be content
+tzetzat -wäch,be happy
 tzi,"corn, soaked corn kernels"
 tzi',second grinding of corn
 tzij,"certain, discourse"
@@ -4396,6 +4397,8 @@ tzuruj,"annoy, game of the bull, bother"
 tzurunel,coquette
 tzurunik,"arouse, dare, challenge, flirt, to harass"
 tzuruw ri wakax,fight bull
+tzämiy,corn silk
+tzäyam,habas
 u,its
 u-k'u'x ja',bottom
 u-k'u'x puaq,fortune
@@ -4427,8 +4430,8 @@ ula'<axel>,guest
 ula'bal,"banquet, food given"
 ula'nem,"banquet, celebration, fiesta"
 ulew,"earth, land"
-ulik,arrive
 ulik,arrival
+ulik,arrive
 ulk'ua'l,body
 ulqaj pa -jolom,remember (1)
 umul,furrow
@@ -4436,8 +4439,6 @@ uq'ab,"edible green, greeens"
 uro',fifth
 urox alk'ualaxel,ring finger
 urox xkut ri kaj,east
-üs,biting fly
-üs,gnat
 us kab,bee
 ut,rock dove
 utz,good
@@ -4451,14 +4452,14 @@ utz täj,bad
 utzalaj -bixik,eloquent
 utzalaj bixik,eloquence
 utzil,"favor, goodness, blessing"
-utzinik,do well
 utzinik,do good
+utzinik,do well
 utzir -uk',"become reconciled with someone, make up"
 utzirik,"be ready, get better"
 utzirisaj,make better
-uwächulew,face of the earth
 uwajxaq,eighth
 uwajxaqlajuj,eighteenth
+uwächulew,face of the earth
 ux,breeze
 uxik,become
 uxinaq,"become, converted to being"
@@ -4473,6 +4474,10 @@ uxlanem,rest
 uxlanik,rest
 uxlaninaq,"at rest, in repose"
 wa,"acne, food corn, food corn"
+wa re nimaq'ab,breakfast
+wa re nimaq'ab,morning meal
+wa re paq'ij,afternoon meal
+wa uk'ia,"general term for food, food and drink"
 wa'ibal,cafeteria
 wa'ibal ja,dining room
 wa'ik,eat
@@ -4483,33 +4488,21 @@ wa'is tulul,injerto
 wa'katel,girl who walks with friends
 wa'katik,take a walk
 wa'l,juice
-wa re nimaq'ab,breakfast
-wa re nimaq'ab,morning meal
-wa re paq'ij,afternoon meal
-wa uk'ia,"general term for food, food and drink"
 wach',rooster's comb
 wach'om -ij,has pieces broken off
-wäch t'oyom,eclipse
-wäch<aj>,condition
-wächaj,"appearance, face, eye"
-wächaj cho wächaj,face to face
 wachanim ri',right now
-wächibal,"appearance, representation"
 wachik'aj,dream something
 wachik'am,dreamt
 wachik'ik,dream
-wächinik,"give fruit, fruit"
-wächinik ri tikon,give fruit abundantly
 wajxaqib,eight
-Wajxaqib Batz',Initiation day for new diviner
 wajxaqlajuj,eighteen
 wak'alik,"drawer half open, bow-legged, half open drawer"
 wak'äwik,tall
 wakakik,get up slowly
 wakamik,right now
 walajik,get up
-walajisaj,raise up
 walajisaj,raise
+walajisaj,raise up
 walij ch-ij,rise up against
 walijik,get up early
 walijik,getting up
@@ -4535,7 +4528,6 @@ ware'aj,"edge knife, file"
 wareyaj,dentition
 warinaq,asleep
 wartisaj,bore
-wäwech,goiter
 wayawa,guava
 wayik,coagulate
 waynajik,bark happily
@@ -4622,32 +4614,33 @@ wulij,"take down, collapse"
 wulijik,"demolish, fall apart"
 wululik,"baby, talk continuously"
 wupij,blow out of the mouth
-wupuj,blow up
 wupuj,blow
+wupuj,blow up
 wuq'wutik,duck
 wuqk'al,"140, seven children"
 wuqlajuj,seventeen
 wuqoj chi paq,bubble
-wuqüb,seven
-wuqüb kaqix,"Big Dipper, constellation of Great Bear"
 wuqub utzil wuqub chomal,"ritual name for good things, children ritual name"
 wuqubix apan,in a week
+wuqüb,seven
+wuqüb kaqix,"Big Dipper, constellation of Great Bear"
 wususik,foam as in rabid dog
 wux,flint
 wux abaj,flint
+wäch t'oyom,eclipse
+wäch<aj>,condition
+wächaj,"appearance, face, eye"
+wächaj cho wächaj,face to face
+wächibal,"appearance, representation"
+wächinik,"give fruit, fruit"
+wächinik ri tikon,give fruit abundantly
+wäwech,goiter
 xa,long silk woman's blouse
-xa'ko'pik,climb out with arms and legs
-xa'n,wading bird
-xa'oj -ilik,"filthy, disgusting"
-xa'ojbal,"filthy, disgusting"
-xa'r,"clay cup, jar"
-xa't,"fork, fork branch of tree"
-xa'wem,nausea
 xa -bij,say something that is not true
 xa -bij anaq,just be joking
 xa -bij anaq,just be joking
-xa -bij anaq,just kidding
 xa -bij anaq,just be joking
+xa -bij anaq,just kidding
 xa ba cha',for that reason
 xa jubiq',just a little
 xa jubiq' -aj,almost
@@ -4655,19 +4648,26 @@ xa jubiq' man,nearly
 xa jubiq' man ..,almost
 xa jun -wäch,"guileless, ingenuous"
 xa junam,"same, identical, identically"
-xa k'äte',suddenly
-xa k'olik,be silent
 xa k'olik,be calm
+xa k'olik,be silent
+xa k'äte',suddenly
 xa kieb kubij p-wi',be in danger
 xa manal,dirty
 xa qi' -bij,"be ordinary, neither good nor bad"
 xa te'talik,suddenly
+xa'ko'pik,climb out with arms and legs
+xa'n,wading bird
+xa'oj -ilik,"filthy, disgusting"
+xa'ojbal,"filthy, disgusting"
+xa'r,"clay cup, jar"
+xa't,"fork, fork branch of tree"
+xa'wem,nausea
 xa<q>,just (adv)
 xababal,"disgusting, nauseating"
-xajäb,"sandal, boot"
 xajarik,dance socially
 xajoj,dance
 xajoj,sound of feet dancing
+xajäb,"sandal, boot"
 xakima,strap connect to bit of horse
 xalq'atij,"go beyond, jump over something"
 xam,crane fly
@@ -4676,7 +4676,6 @@ xan,adobe brick
 xan,adobe wall
 xapachike,anything
 xaq,"ash, charcoal, blackened with soot, leaf"
-xäq,"large rock, boulder"
 xaq'aq'ik,be muddy
 xaq'axik,"round from contents, stuffed full"
 xaq'e'chaj,caterpillar that infests pines
@@ -4700,7 +4699,6 @@ xaybal,brush
 xchunaja',atole of corn
 xe',beneath
 xe' -baq'wäch,cheek bone
-Xe' lajuj no'j,Quetzaltenango
 xe' q'ab,bracelet
 xe'al,root fruit tree
 xe'l,root cause of something
@@ -4714,12 +4712,10 @@ xekej,carry hanging from shoulder
 xekelik,hanging
 xekik,be hanging
 xel u wi',"blunt (as machete), dull"
-Xelaju',Quetzaltenango
-xep,"chicken, comb of weaving machine"
 xep,chicken
-Xepla',Río de Sepela
-xepo',"tallow, grease (sebo)"
+xep,"chicken, comb of weaving machine"
 xepo achi,lazy man
+xepo',"tallow, grease (sebo)"
 xepoyil,"animal fat, fat from an animal, grease"
 xeq'ij,good afternoon
 xera',root of tree
@@ -4781,15 +4777,15 @@ xirkuk,virguira bird
 xirxik,well-fed animal
 xit,rooster spur
 xiy -wi',comb hair
-xiyäb,comb
 xiyoj,"card wool, comb"
+xiyäb,comb
 xjut,maggot
 xjut,worm
 xk'iaqat,"bad child, delinquent"
 xkab,scorpion
-xkäm q'ij,eclipse
 xkin,clam
 xkot,scorpion
+xkäm q'ij,eclipse
 xnik'ajar ri ik',quarter moon
 xo'k,"bale hook, grapple hook"
 xoch',barn owl
@@ -4798,9 +4794,9 @@ xojoj -tzij,echo
 xojol,dancer
 xojowik,dance
 xojowisaj,make something dance
-xok'okaj,rainbow
 xok aq'ab,good evening
 xok q'eq' -palaj,freckles
+xok'okaj,rainbow
 xol,"distance, distance between places"
 xola',between two rivers
 xolbej -q'ab,do something in spare time
@@ -4813,13 +4809,12 @@ xoq'olaj,make something muddy
 xoq'olij,get mud on something
 xoq'oltajik,become muddy
 xoq'oltajinaq,become muddy
-xoral,garden
 xoral,flower garden
+xoral,garden
 xot,"roof-tile, clay griddle, griddle"
 xotal,roof if made of tiles
 xotoba',lean something over
 xotoxik,bent up
-Xoy,Joyabaj
 xpakpan,maggot
 xpin,cockroach
 xpinko'k,bedbug
@@ -4853,18 +4848,18 @@ xuqijelo,also
 xuqijelo,also
 xuruk'uk',wirwira bird
 xut',"anus, chip from bottom of a pot"
-xut'äx,devil
 xut'ibal,fan
 xut'ibal q'aq',"fan for fire, bellows"
 xut'ij,"fan embers, embers, blow"
 xut'uj,blow on fire to make it burn
 xut'ut'ik,"blow (wind), gust wind"
+xut'äx,devil
 xutuj,"abandon, avoid, reject, disparage"
 xutunik,resist doing something
 xuwi la',"sufficient, enough"
 xuya' jubiq' u wi' ri ixim,he gave a little extra corn
-Xwan,Juan
 xwi'l,cockroach
+xäq,"large rock, boulder"
 ya',"allow, be possible, give"
 ya' -ib pa k'äx,find self in trouble
 ya' -k'exel,get revenge
@@ -4904,8 +4899,8 @@ yajonel,"scolder, grumbler"
 yajonik,"reprimand, scold, quarrel, grumble"
 yajoya',ring
 yak,"raise, fox"
-yak'unik,go about spying
 yak -oyowal,make angry
+yak'unik,go about spying
 yak<o>,build
 yakal ja,bricklayer
 yakbal,capital
@@ -4940,8 +4935,8 @@ yocho,take in hem of something
 yoj,wreck
 yojax,foliage
 yojij,"cause to break down, wreck"
-yojinik,"fall apart, break down radio"
 yojinik,fail to occur
+yojinik,"fall apart, break down radio"
 yojkarik,"argue, be in disagreement"
 yojojik,roar
 yojoyatik,rattle
@@ -4989,7 +4984,6 @@ yuq'ukik,get sharp pain
 yuq'unem,act of shepherding
 yuq'unik,carry in arms
 yuqum,extended
-Yuqum jolom patax,Baile del Pato
 yuquyik u k'ul,long neck
 yut,maguey leaf
 yut',"carry away bound, knot, bind up"
@@ -4999,3 +4993,9 @@ yut'um,bound up
 yutu't,dried fruit
 yuxba',bow
 yuxik,become crestfallen
+äj,"reed, caña silvestre, ear of corn"
+äjij,sugar cane
+äk',chicken
+ätz<axel>,older brother of boy
+üs,biting fly
+üs,gnat

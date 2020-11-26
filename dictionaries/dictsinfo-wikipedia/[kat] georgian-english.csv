@@ -7,6 +7,8 @@ Other,English
 1 ნოემბერი,November 1
 10,10
 100,100
+100,100
+1000,1000
 1000,1000
 101,101
 105,105
@@ -16,6 +18,7 @@ Other,English
 110,110
 115,115
 12,12
+12,12
 12 თებერვალი,February 12
 12 ოქტომბერი,October 12
 120,120
@@ -23,6 +26,7 @@ Other,English
 13,13
 130,130
 135,135
+14,14
 14,14
 14 აპრილი,April 14
 14 თებერვალი,February 14
@@ -36,12 +40,15 @@ Other,English
 1530-იანები,1530s
 155,155
 16,16
+16,16
 160,160
 165,165
+17,17
 17,17
 17 მარტი,March 17
 17 სექტემბერი,September 17
 170,170
+1728,1728
 1728,1728
 175,175
 1750-იანები,1750s
@@ -64,13 +71,22 @@ Other,English
 19 მარტი,March 19
 190,190
 1900-იანები,1900s
+1900-იანები,1900s
+1920-იანები,1920s
 1920-იანები,1920s
 1930-იანები,1930s
+1930-იანები,1930s
+1940-იანები,1940s
 1940-იანები,1940s
 1950-იანები,1950s
+1950-იანები,1950s
+1960-იანები,1960s
 1960-იანები,1960s
 1970-იანები,1970s
+1970-იანები,1970s
 1980-იანები,1980s
+1980-იანები,1980s
+1990-იანები,1990s
 1990-იანები,1990s
 2,2
 2 თებერვალი,February 2
@@ -128,6 +144,7 @@ Other,English
 5,5
 5 ნოემბერი,November 5
 50,50
+500,500
 500,500
 51,51
 52,52
@@ -252,18 +269,26 @@ georgian,english
 ავაზა,Cheetah
 ავანგარდიზმი,Avant-garde
 ავატარა,Avatar
+ავეჯი,Furniture
+ავიაცია,Aviation
 ავრორა,Aurora
 ავსტრალია,Australia
+ავსტრალია,Australia
+ავსტრია,Austria
 ავსტრია,Austria
 ავსტრო-უნგრეთის იმპერია,Austria-Hungary
 ავტობიოგრაფია,Autobiography
 ავტომობილი,Automobile
 ავღანეთი,Afghanistan
+ავღანეთი,Afghanistan
 ავშანი,Artemisia
 აზერბაიჯანი,Azerbaijan
+აზერბაიჯანი,Azerbaijan
+აზია,Asia
 აზია,Asia
 აზოვის ზღვა,Sea of Azov
 აზოტი,Nitrogen
+ათეიზმი,Atheism
 ათენა,Athena
 ათენი,Athens
 ათი მცნება,Ten Commandments
@@ -296,6 +321,7 @@ georgian,english
 ალაჰი,Allah
 ალბათობის თეორია,Probability theory
 ალბანეთი,Albania
+ალბანეთი,Albania
 ალბატროსისებრნი,Albatross
 ალბერ კამიუ,Albert Camus
 ალბერტ აინშტაინი,Albert Einstein
@@ -323,7 +349,9 @@ georgian,english
 ალოე,Aloe
 ალპები,Alps
 ალჟირი,Algeria
+ალჟირი,Algeria
 ალჟირი,Algiers
+ალტერნატიული მედიცინა,Alternative medicine
 ალუბალი,Cherry
 ალფა,Alpha
 ალფრედ დიდი,Alfred the Great
@@ -340,6 +368,7 @@ georgian,english
 ამერიკის შეერთებული შტატები,United States
 ამერიკის შეერთებული შტატების კონსტიტუცია,United States Constitution
 ამერიკული დოლარი,United States dollar
+ამერიკული ფეხბურთი,American football
 ამინდი,Weather
 ამინები,Amine
 ამინომჟავა,Amino acid
@@ -352,7 +381,9 @@ georgian,english
 ანა ბოლეინი,Anne Boleyn
 ანარქია,Anarchy
 ანარქიზმი,Anarchism
+ანარქიზმი,Anarchism
 ანატოლ ფრანსი,Anatole France
+ანატომია,Anatomy
 ანატომია,Anatomy
 ანაქსაგორა,Anaxagoras
 ანბანი,Alphabet
@@ -365,6 +396,7 @@ georgian,english
 ანდჰრა-პრადეში,Andhra Pradesh
 ანთალია,Antalya
 ანთროპოლოგია,Anthropology
+ანთროპოლოგია,Anthropology
 ანიმაცია,Animation
 ანიმე,Anime
 ანიმიზმი,Animism
@@ -375,6 +407,8 @@ georgian,english
 ანტანანარივო,Antananarivo
 ანტარქტიდა,Antarctica
 ანტვერპენი,Antwerp
+ანტიკური ისტორია,Ancient history
+ანტისემიტიზმი,Antisemitism
 ანტისემიტიზმი,Antisemitism
 ანტიქრისტე,Antichrist
 ანტონ ჩეხოვი,Anton Chekhov
@@ -387,17 +421,21 @@ georgian,english
 აპოლო,Apollo program
 აპოლონი,Apollo
 აპოლონი,Apollo
+აპოლოს კოსმოსური პროგრამა,Apollo program
 აპრილი,April
 აპულია,Apulia
 არაბები,Arab
+არაბეთის გაერთიანებული საამიროები,United Arab Emirates
 არაბეთის გაერთიანებული საამიროები,United Arab Emirates
 არაბული დამწერლობა,Arabic alphabet
 არაბული ენა,Arabic language
 არაგონი,Aragon
 არამ ხაჩატურიანი,Aram Khachaturian
+არაორგანული ქიმია,Inorganic chemistry
 არასრულკბილიანები,Xenarthra
 არაქისი,Peanut
 არაყი,Vodka
+არგენტინა,Argentina
 არგენტინა,Argentina
 არდენის ოპერაცია,Battle of the Bulge
 არესი,Ares
@@ -407,9 +445,11 @@ georgian,english
 "ართურ უელესლი, I ჰერცოგი უელინგტონი",Arthur Wellesley
 არია,Aria
 არიზონა,Arizona
+არიზონა,Arizona
 არითმეტიკა,Arithmetic
 არითმეტიკული პროგრესია,Arithmetic progression
 არისტოკრატია,Aristocracy
+არისტოკრატია,Nobility
 არისტოტელე,Aristotle
 არისტოფანე,Aristophanes
 არკანზასი,Arkansas
@@ -423,10 +463,12 @@ georgian,english
 არტურ რემბო,Arthur Rimbaud
 არქანჯელო კორელი,Arcangelo Corelli
 არქეოლოგია,Archaeology
+არქეოლოგია,Archaeology
 არქეოპტერიქსი,Archaeopteryx
 არქიეპისკოპოსი,Archbishop
 არქიმედე,Archimedes
 არქიმედეს კანონი,Buoyancy
+არქიტექტურა,Architecture
 არქიტექტურა,Architecture
 არქოზავრები,Archosaur
 არქტიკა,Arctic
@@ -439,17 +481,23 @@ georgian,english
 ასო,Letter
 ასტანა,Astana
 ასტეროიდთა სარტყელი,Asteroid belt
+ასტროლოგია,Astrology
+ასტრონომია,Astronomy
 ასტრონომია,Astronomy
 ასტროფიზიკა,Astrophysics
+ასტროფიზიკა,Astrophysics
 ასურბანიფალი,Ashurbanipal
+ასურეთი,Assyria
 ასურეთი,Assyria
 ასწლიანი ომი,Hundred Years' War
 ატილა,Attila the Hun
 ატლანტა,Atlanta
 ატლანტი,Atlas
 ატლანტის ოკეანე,Atlantic Ocean
+ატლანტის ოკეანე,Atlantic Ocean
 ატმოსფერული წნევა,Atmospheric pressure
 ატომი,Atom
+ატომური ფიზიკა,Atomic physics
 ატომური ფიზიკა,Atomic physics
 ატონი,Aten
 ატრევსი,Atreus
@@ -460,9 +508,11 @@ georgian,english
 აფთარი,Hyena
 აფორიზმი,Aphorism
 აფრიკა,Africa
+აფრიკა,Africa
 აფრიკაანსი,Afrikaans
 აფროდიტე,Aphrodite
 აფსიდა,Apse
+აფხაზეთი,Abkhazia
 აფხაზეთის ავტონომიური რესპუბლიკა,Abkhazia
 აქილევსი,Achilles
 აქლემი,Camel
@@ -473,6 +523,7 @@ georgian,english
 აღმოსავლეთი აფრიკა,East Africa
 აღმოსავლეთი ტიმორი,East Timor
 აღქმა,Perception
+აშშ,United States
 აშშ-ის ვიცე-პრეზიდენტი,Vice President of the United States
 აშშ-ის კონგრესი,United States Congress
 აშშ-ის პრეზიდენტი,President of the United States
@@ -480,11 +531,13 @@ georgian,english
 აჩქარება,Acceleration
 აცტეკები,Aztec
 ახალი ზელანდია,New Zealand
+ახალი ზელანდია,New Zealand
 ახალი ინგლისი,New England
 ახალი ორლეანი,New Orleans
 ახალი სამხრეთი უელსი,New South Wales
 ახალი შოტლანდია,Nova Scotia
 ახალი წელი,New Year
+ახლო აღმოსავლეთი,Middle East
 ბაბილონეთი,Babylonia
 ბაბილონი,Babylon
 ბაბილონის გოდოლი,Tower of Babel
@@ -492,6 +545,7 @@ georgian,english
 ბაბუაწვერა,Dandelion
 ბადმინტონი,Badminton
 ბადრიჯანი,Eggplant
+ბავარია,Bavaria
 ბავარია,Bavaria
 ბაზელი,Basel
 ბაზი,Bumblebee
@@ -508,6 +562,7 @@ georgian,english
 ბალდრი,Baldr
 ბალეარის კუნძულები,Balearic Islands
 ბალეტი,Ballet
+ბალეტი,Ballet
 ბალისტიკური რაკეტა,Ballistic missile
 ბალტიის ზღვა,Baltic Sea
 ბალტიმორი,Baltimore
@@ -516,6 +571,8 @@ georgian,english
 ბანანი,Banana
 ბანგკოკი,Bangkok
 ბანგლადეში,Bangladesh
+ბანგლადეში,Bangladesh
+ბანკები,Banks
 ბანკი,Bank
 ბანკნოტი,Banknote
 ბანჯული,Banjul
@@ -531,10 +588,12 @@ georgian,english
 ბაროკო,Baroque
 ბარონი,Baron
 ბარსელონა,Barcelona
+ბარსელონა,Barcelona
 ბასილი დიდი,Basil of Caesarea
 ბასტილია,Bastille
 ბატალიონი,Battalion
 ბატატი,Sweet potato
+ბატისნაირნი,Anseriformes
 ბატისნაირნი,Anseriformes
 ბატკანძერი,Lammergeier
 ბაუჰაუზი,Bauhaus
@@ -542,6 +601,7 @@ georgian,english
 ბაქტერიები,Bacteria
 ბაქტერიოფაგები,Bacteriophage
 ბაღდადი,Baghdad
+ბაჰრეინი,Bahrain
 ბაჰრეინი,Bahrain
 ბებოპი,Bebop
 ბედნიერება,Happiness
@@ -551,6 +611,8 @@ georgian,english
 ბეირუთი,Beirut
 ბეისბოლი,Baseball
 ბელარუსი,Belarus
+ბელარუსი,Belarus
+ბელგია,Belgium
 ბელგია,Belgium
 ბელგრადი,Belgrade
 ბელფასტი,Belfast
@@ -563,10 +625,13 @@ georgian,english
 ბერენიკეს თმები,Coma Berenices
 ბერილიუმი,Beryllium
 ბერლინი,Berlin
+ბერლინი,Berlin
 ბერნი,Berne
 ბერტოლტ ბრეხტი,Bertolt Brecht
 ბერტრან რასელი,Bertrand Russell
+ბერძნული ანბანი,Greek alphabet
 ბერძნული დამწერლობა,Greek alphabet
+ბერძნული მითოლოგია,Greek mythology
 ბერძნული მითოლოგია,Greek mythology
 ბეტ დევისი,Bette Davis
 ბეტა,Beta
@@ -575,12 +640,18 @@ georgian,english
 ბეჰემოთი,Hippopotamus
 ბზობა,Palm Sunday
 ბიბლია,Bible
+ბიბლია,Bible
 ბიბლიოთეკა,Library
+ბიზანტიის იმპერია,Byzantine Empire
 ბიზონი,American Bison
 ბილ კლინტონი,Bill Clinton
 ბიოგეოგრაფია,Biogeography
 ბიოგრაფია,Biography
+ბიოგრაფიები,Biography
 ბიოლოგია,Biology
+ბიოლოგია,Biology
+ბიოლოგია,Biology
+ბიოქიმია,Biochemistry
 ბისექსუალობა,Bisexuality
 ბიუროკრატია,Bureaucracy
 ბიშკეკი,Bishkek
@@ -594,6 +665,7 @@ georgian,english
 ბობ მარლი,Bob Marley
 ბობი ფიშერი,Bobby Fischer
 ბოდჰისატვა,Bodhisattva
+ბოლივია,Bolivia
 ბოლივია,Bolivia
 ბოლივუდი,Bollywood
 ბოლოკარკაზი,Honey Buzzard
@@ -610,10 +682,12 @@ georgian,english
 ბოსტონი,Boston
 ბოსფორი,Bosporus
 ბოტანიკა,Botany
+ბოტანიკა,Botany
 ბოტსვანა,Botswana
 ბოულინგი,Bowling
 ბოჰემია,Bohemia
 ბრაზავილი,Brazzaville
+ბრაზილია,Brazil
 ბრაზილია,Brazil
 ბრაილის შრიფტი,Braille
 ბრანდენბურგი,Brandenburg
@@ -630,6 +704,7 @@ georgian,english
 ბრიტანეთის იმპერია,British Empire
 ბრიტანეთის კოლუმბია,British Columbia
 ბრიტანეთის კუნძულები,British Isles
+ბრიტანელები,British people
 ბრიუგე,Bruges
 ბრიუსელი,Brussels
 ბროდვეი,Broadway
@@ -642,8 +717,11 @@ georgian,english
 ბუდაპეშტი,Budapest
 ბუდე,Nest
 ბუდიზმი,Buddhism
+ბუდიზმი,Buddhism
 ბუენოს-აირესი,Buenos Aires
 ბულგარეთი,Bulgaria
+ბულგარეთი,Bulgaria
+ბუნება,Nature
 ბუნება,Nature
 ბუნებრივი აირი,Natural gas
 ბუნიაობა,Equinox
@@ -656,8 +734,11 @@ georgian,english
 ბჰუტანი,Bhutan
 გაბონი,Gabon
 გაბრიელ მთავარანგელოზი,Gabriel
+გადასახადები,Taxation
 გაერთიანებული ერების ორგანიზაცია,United Nations
 გაერთიანებული სამეფო,United Kingdom
+გაერთიანებული სამეფო,United Kingdom
+გაერო,United Nations
 გაეროს ბავშვთა ფონდი,United Nations Children's Fund
 გაეროს საერთაშორისო სასამართლო,International Court of Justice
 გაზაფხული,Spring
@@ -665,14 +746,19 @@ georgian,english
 გალისია,Galicia
 გამა,Gamma
 გამბია,The Gambia
+გამბია,The Gambia
+გამონაგონი,Fiction
 გამოყენებითი მათემატიკა,Applied mathematics
 განა,Ghana
+განა,Ghana
+განათლება,Education
 განათლება,Education
 განეშა,Ganesha
 განტოლება,Equation
 განჯა,Ganja
 გარგარი,Apricot
 გარეული ღორი,Boar
+გართობა,Entertainment
 გარსიანები,Tunicate
 გეა,Gaia
 გედები,Swan
@@ -681,25 +767,37 @@ georgian,english
 გეიზერი,Geyser
 გეიშა,Geisha
 გემი,Ship
-გენეალოგია,Genealogy
 გენეალოგია,Family history
+გენეალოგია,Genealogy
+გენეალოგია,Genealogy
 გენერალი,General Officer
 გენეტიკა,Genetics
+გენეტიკა,Genetics
 გენი,Gene
+გენოციდი,Genocide
 გენოციდი,Genocide
 გენტი,Ghent
 გენუა,Genoa
 გეოგრაფია,Geography
+გეოგრაფია,Geography
+გეოგრაფია,Geography
 გეოგრაფიული რუკა,Map
+გეოდეზია,Geodesy
+გეოლოგია,Geology
+გეომეტრია,Geometry
 გეომეტრია,Geometry
 გეომეტრიული პროგრესია,Geometric progression
+გეომორფოლოგია,Geomorphology
 გეოპოლიტიკა,Geopolitics
 გეორგ ვილჰელმ ფრიდრიხ ჰეგელი,Georg Wilhelm Friedrich Hegel
 გეორგ ფრიდრიხ ჰენდელი,George Frideric Handel
 გეორგინა,Dahlia
+გეოფიზიკა,Geophysics
 გერბი,Coat of arms
 გერმანია,Germany
+გერმანია,Germany
 გერმანიის დემოკრატიული რესპუბლიკა,East Germany
+გერმანული ენა,German language
 გერმანული ენა,German language
 გერნსი,Guernsey
 გესტაპო,Gestapo
@@ -737,11 +835,14 @@ georgian,english
 გოტიკური არქიტექტურა,Gothic architecture
 გოტჰოლდ ეფრაიმ ლესინგი,Gotthold Ephraim Lessing
 გრამატიკა,Grammar
+გრამატიკა,Grammar
 გრანატები,Garnet
 გრაფიზმი,Graphic design
+გრაფიკული დიზაინი,Graphic design
 გრაფიტი,Graffiti
 გრაცი,Graz
 გრეის კელი,Grace Kelly
+გრენლანდია,Greenland
 გრენლანდია,Greenland
 გრეტა გარბო,Greta Garbo
 გრიგორიანული კალენდარი,Gregorian calendar
@@ -766,6 +867,7 @@ georgian,english
 დამასკო,Damascus
 დამოუკიდებელ სახელმწიფოთა თანამეგობრობა,Commonwealth of Independent States
 დანია,Denmark
+დანია,Denmark
 დანტე ალიგიერი,Dante Alighieri
 დაპროგრამების ენა,Programming language
 დარდანელის სრუტე,Dardanelles
@@ -777,6 +879,7 @@ georgian,english
 დაუნის სინდრომი,Down syndrome
 დედა ტერეზა,Mother Teresa
 დედაენა,First language
+დედამიწა,Earth
 დედამიწა,Earth
 დედამიწის მეცნიერებები,Earth science
 დედაქალაქი,Capital
@@ -819,6 +922,7 @@ georgian,english
 დიოკლეტიანე,Diocletian
 დიონისე,Dionysus
 დიპლოდოკი,Diplodocus
+დიპლომატია,Diplomacy
 დისკ-ჟოკეი,Disc jockey
 დისკრიმინაცია,Discrimination
 დიუკ ელინგტონი,Duke Ellington
@@ -827,6 +931,7 @@ georgian,english
 დოლი,Dolly
 დოლმენი,Dolmen
 დომენური სახელი,Domain name
+დომინიკელთა რესპუბლიკა,Dominican Republic
 დომინიკელთა რესპუბლიკა,Dominican Republic
 დომიციანე,Domitian
 დონალდ დაკი,Donald Duck
@@ -838,17 +943,20 @@ georgian,english
 დრამა,Drama
 დრეზდენი,Dresden
 დრო,Time
+დრო,Time
 დრუიდები,Druid
 დუაიტ ეიზენჰაუერი,Dwight D. Eisenhower
 დუალიზმი,Dualism
 დუბლინი,Dublin
 დუშანბე,Dushanbe
 დღე,Day
+დღეები,Days
 დღესასწაული,Holiday
 დჰარმა,Dharma
 ებრაელები,Jew
 ებრაული დამწერლობა,Hebrew alphabet
 ეგეოსის ზღვა,Aegean Sea
+ეგვიპტე,Egypt
 ეგვიპტე,Egypt
 ეგვიპტოლოგია,Egyptology
 ეგზისტენციალიზმი,Existentialism
@@ -868,15 +976,21 @@ georgian,english
 ევრაზია,Eurasia
 ევრო,Euro
 ევროპა,Europe
+ევროპა,Europe
+ევროპის კავშირი,European Union
 ევროპის კავშირი,European Union
 ევროპის ცენტრალური ბანკი,European Central Bank
 ევფემიზმი,Euphemism
+ეთიკა,Ethics
+ეთიოპია,Ethiopia
 ეთიოპია,Ethiopia
 ეიფელის კოშკი,Eiffel Tower
 ეკვადორი,Ecuador
 ეკვატორი,Equator
 ეკვატორული გვინეა,Equatorial Guinea
 ეკოლოგია,Ecology
+ეკოლოგია,Ecology
+ეკონომიკა,Economics
 ეკონომიკა,Economics
 ელ გრეკო,El Greco
 ელ-პასო,El Paso
@@ -888,6 +1002,7 @@ georgian,english
 ელენთა,Spleen
 ელექტრობა,Electricity
 ელექტროგიტარა,Electric guitar
+ელექტროენერგია,Electricity
 ელექტრონი,Electron
 ელექტრონიკა,Electronics
 ელექტრული კონდენსატორი,Capacitor
@@ -903,6 +1018,7 @@ georgian,english
 ენა,Language
 ენა,Tongue
 ენათმეცნიერება,Linguistics
+ენათმეცნიერება,Linguistics
 ენდემები,Endemism
 ენდი უორჰოლი,Andy Warhol
 ენდოკრინოლოგია,Endocrinology
@@ -910,15 +1026,18 @@ georgian,english
 ენდრუ ჯექსონი,Andrew Jackson
 ენეოსი,Aeneas
 ენერგია,Energy
+ენერგია,Energy
 ენოტისებრნი,Procyonidae
 ენოტისმსგავსი ძაღლი,Raccoon Dog
 ენრიკო კარუზო,Enrico Caruso
+ენტომოლოგია,Entomology
 ენტომოლოგია,Entomology
 ენციკლოპედია,Encyclopedia
 ეპისკოპოსი,Bishop
 ეპისტემოლოგია,Epistemology
 ერ-რიადი,Riyadh
 ერატოსთენე,Eratosthenes
+ერაყი,Iraq
 ერაყი,Iraq
 ერევანი,Yerevan
 ერვინ რომელი,Erwin Rommel
@@ -935,8 +1054,11 @@ georgian,english
 ეროსი,Eros
 ესეი,Essay
 ესპანეთი,Spain
+ესპანეთი,Spain
+ესპანელები,Spanish people
 ესპერანტო,Esperanto
 ესპოო,Espoo
+ესტონეთი,Estonia
 ეტა,Eta
 ეტიმოლოგია,Etymology
 ეტნა,Mount Etna
@@ -965,11 +1087,13 @@ georgian,english
 ვატერლოოს ბრძოლა,Battle of Waterloo
 ვატი,Watt
 ვატიკანი,Vatican City
+ვატიკანი,Vatican City
 ვაშინგტონი,Washington
 ვაშინგტონი,Washington
 ვაშინგტონი,Washington
 ვეზუვი,Mount Vesuvius
 ველი,Steppe
+ვენა,Vienna
 ვენა,Vienna
 ვენერა,Venus
 ვენერა,Venus
@@ -995,6 +1119,7 @@ georgian,english
 ვეშაპისნაირნი,Cetacea
 ვიენტიანი,Vientiane
 ვიეტნამი,Vietnam
+ვიეტნამი,Vietnam
 ვივიენ ლი,Vivien Leigh
 ვილი ბრანტი,Willy Brandt
 ვილნიუსი,Vilnius
@@ -1003,6 +1128,7 @@ georgian,english
 ვინსენტ ვან გოგი,Vincent van Gogh
 ვირი,Donkey
 ვირუსები,Virus
+ვირჯინია,Virginia
 ვირჯინია,Virginia
 ვიტამინები,Vitamin
 ვიტორიო დე სიკა,Vittorio De Sica
@@ -1027,6 +1153,7 @@ georgian,english
 ზამბია,Zambia
 ზამთარი,Winter
 ზამთრის ოლიმპიური თამაშები,Winter Olympic Games
+ზამთრის ოლიმპიური თამაშები,Winter Olympic Games
 ზარათუშტრა,Zoroaster
 ზაფხული,Summer
 ზაქარი ტეილორი,Zachary Taylor
@@ -1044,6 +1171,7 @@ georgian,english
 ზიმბაბვე,Zimbabwe
 ზმნა,Verb
 ზოდიაქო,Zodiac
+ზოოლოგია,Zoology
 ზოოლოგია,Zoology
 ზოროასტრიზმი,Zoroastrianism
 ზღაპარი,Fairy tale
@@ -1063,13 +1191,14 @@ georgian,english
 თამილის ვეფხვები,Liberation Tigers of Tamil Eelam
 თანავარსკვლავედები,Constellation
 თანხმოვანი,Consonant
-ფაქტი,Fact
 თასმისებური ჭიები,Cestoda
 თაჯ-მაჰალი,Taj Mahal
 თბილისი,Tbilisi
 თეატრი,Theatre
+თეატრი,Theatre
 თებერვალი,February
 თედორე დოსტოევსკი,Fyodor Dostoevsky
+თევზები,Fish
 თევზები,Fish
 თევზები,Pisces
 თეთრი დათვი,Polar bear
@@ -1083,11 +1212,13 @@ georgian,english
 თეოდორ მომზენი,Theodor Mommsen
 თეოდორ რუზველტი,Theodore Roosevelt
 თეოკრატია,Theocracy
+თეოლოგია,Theology
 თეორემა,Theorem
 თესლოვანი მცენარეები,Spermatophyte
 თეტა,Theta
 თვალი,Eye
 თვე,Month
+თვითმფრინავები,Aircraft
 თითბერი,Brass
 თიურინგია,Thuringia
 თმა,Hair
@@ -1107,6 +1238,8 @@ georgian,english
 თუკიდიდე,Thucydides
 თურინჯი,Pomelo
 თურქეთი,Turkey
+თურქეთი,Turkey
+თურქმენეთი,Turkmenistan
 თურქმენეთი,Turkmenistan
 თხა,Goat
 თხილი,Hazel
@@ -1115,10 +1248,12 @@ georgian,english
 იალტა,Yalta
 იალტის კონფერენცია,Yalta Conference
 იამაიკა,Jamaica
+იამაიკა,Jamaica
 იან ვან ეიკი,Jan van Eyck
 იან ჰუსი,Jan Hus
 იანვარი,January
 იანუსი,Janus
+იაპონია,Japan
 იაპონია,Japan
 იასირ არაფატი,Yasser Arafat
 იასონი,Jason
@@ -1133,11 +1268,13 @@ georgian,english
 იელის უნივერსიტეტი,Yale University
 იემენი,Yemen
 იერუსალიმი,Jerusalem
+იერუსალიმი,Jerusalem
 იესო ქრისტე,Jesus
 ივანე პავლოვი,Ivan Pavlov
 ივლისი,July
 ივნისი,June
 ილი,Cardamom
+ილინოისი,Illinois
 ილინოისი,Illinois
 ილირია,Illyria
 იმამი,Imam
@@ -1147,7 +1284,10 @@ georgian,english
 იმპერიალიზმი,Imperialism
 იმპრესიონიზმი,Impressionism
 იმპულსი,Momentum
+ინგლისელები,English people
 ინგლისი,England
+ინგლისი,England
+ინგლისური ენა,English language
 ინგლისური ენა,English language
 ინგმარ ბერგმანი,Ingmar Bergman
 ინგრიდ ბერგმანი,Ingrid Bergman
@@ -1155,18 +1295,24 @@ georgian,english
 ინდიანაპოლისი,Indianapolis
 ინდირა განდი,Indira Gandhi
 ინდოეთი,India
+ინდოეთი,India
+ინდოეთის ოკეანე,Indian Ocean
 ინდოეთის ოკეანე,Indian Ocean
 ინდოელი,Indus
+ინდონეზია,Indonesia
 ინდონეზია,Indonesia
 ინდოჩინეთის მეორე ომი,Vietnam War
 ინდრა,Indra
 ინდუიზმი,Hinduism
+ინდუიზმი,Hinduism
 ინდულგენცია,Indulgence
+ინდუსტრია,Industry
 ინსბრუკი,Innsbruck
 ინტეგრალი,Integral
 ინტერვალი,Interval
 ინტერლინგუა,Interlingua
 ინტერნეტ ბრაუზერი,Web browser
+ინტერნეტი,Internet
 ინტერნეტი,Internet
 ინფექციური დაავადებები,Infectious disease
 ინფლაცია,Inflation
@@ -1182,6 +1328,7 @@ georgian,english
 იომ-კიპური,Yom Kippur
 იომ-კიპურის ომი,Yom Kippur War
 იორდანია,Jordan
+იორდანია,Jordan
 იოსებ სტალინი,Joseph Stalin
 იოტა,Iota
 იოჰან გუტენბერგი,Johannes Gutenberg
@@ -1192,7 +1339,11 @@ georgian,english
 იოჰანესბურგი,Johannesburg
 ირან-ერაყის ომი,Iran-Iraq War
 ირანი,Iran
+ირანი,Iran
 ირაციონალური რიცხვი,Irrational number
+ირლანდია,Ireland
+ირლანდია,Republic of Ireland
+ირლანდიელები,Irish people
 ირლანდიის რესპუბლიკა,Republic of Ireland
 ირონია,Irony
 ისააკ ნიუტონი,Isaac Newton
@@ -1200,24 +1351,35 @@ georgian,english
 ისიდა,Isis
 ისლამაბადი,Islamabad
 ისლამი,Islam
+ისლამი,Islam
+ისლანდია,Iceland
 ისლანდია,Iceland
 ისლისებრნი,Cyperaceae
 ისპაჰანი,Esfahan
 ისრაელი,Israel
+ისრაელი,Israel
+ისტორია,History
+ისტორია,History
 ისტორია,History
 ისტორიოგრაფია,Historiography
 იტალია,Italy
+იტალია,Italy
 იუგოსლავია,Yugoslavia
+იუგოსლავია,Yugoslavia
+იუდაიზმი,Judaism
 იუდაიზმი,Judaism
 იუდეა,Judea
 იუკონი,Yukon
 იულიან განდგომილი,Julian the Apostate
 იულიუს კეისარი,Julius Caesar
 იულიუსის კალენდარი,Julian calendar
+იუმორი,Humor
 იუმორი,Humour
 იუნანი,Yunnan
 იუნესკო,UNESCO
+იუნიქსი,Unix
 იუნონა,Juno
+იუპიტერი,Jupiter
 იუპიტერი,Jupiter
 იუპიტერი,Jupiter
 იური გაგარინი,Yuri Gagarin
@@ -1232,6 +1394,7 @@ georgian,english
 კ2,K2
 კაბო-ვერდე,Cape Verde
 კავკასია,Caucasus
+კავკასია,Caucasus
 კავკასიონი,Caucasus Mountains
 კავშირგაბმულობა,Telecommunication
 კაზიმირ მალევიჩი,Kazimir Malevich
@@ -1242,6 +1405,7 @@ georgian,english
 კალა,Tin
 კალაბრია,Calabria
 კალათბურთი,Basketball
+კალათბურთი,Basketball
 კალაჰარი,Kalahari Desert
 კალდერა,Caldera
 კალენდარი,Calendar
@@ -1250,14 +1414,17 @@ georgian,english
 კალიგულა,Caligula
 კალისტო,Callisto
 კალიფორნია,California
+კალიფორნია,California
 კალიფსო,Calypso
 კამა,Dill
 კამარა,Dome
+კამბოჯა,Cambodia
 კამბოჯა,Cambodia
 კამბრიული სისტემა,Cambrian
 კამერუნი,Cameroon
 კამიკაძე,Kamikaze
 კამპანია,Campania
+კანადა,Canada
 კანადა,Canada
 კანარის კუნძულები,Canary Islands
 კანბერა,Canberra
@@ -1293,415 +1460,7 @@ georgian,english
 კატა,Cat
 კატალონია,Catalonia
 კატარი,Qatar
-100,100
-1000,1000
-12,12
-14,14
-16,16
-17,17
-1728,1728
-1900-იანები,1900s
-1920-იანები,1920s
-1930-იანები,1930s
-1940-იანები,1940s
-1950-იანები,1950s
-1960-იანები,1960s
-1970-იანები,1970s
-1980-იანები,1980s
-1990-იანები,1990s
-500,500
-ავეჯი,Furniture
-ავიაცია,Aviation
-ავსტრალია,Australia
-ავსტრია,Austria
-ავღანეთი,Afghanistan
-აზერბაიჯანი,Azerbaijan
-აზია,Asia
-ათეიზმი,Atheism
-ალბანეთი,Albania
-ალჟირი,Algeria
-ალტერნატიული მედიცინა,Alternative medicine
-ამერიკული ფეხბურთი,American football
-ანარქიზმი,Anarchism
-ანატომია,Anatomy
-ანთროპოლოგია,Anthropology
-ანტიკური ისტორია,Ancient history
-ანტისემიტიზმი,Antisemitism
-აპოლოს კოსმოსური პროგრამა,Apollo program
-არაბეთის გაერთიანებული საამიროები,United Arab Emirates
-არაორგანული ქიმია,Inorganic chemistry
-არგენტინა,Argentina
-არიზონა,Arizona
-არისტოკრატია,Nobility
-არქეოლოგია,Archaeology
-არქიტექტურა,Architecture
-ასტროლოგია,Astrology
-ასტრონომია,Astronomy
-ასტროფიზიკა,Astrophysics
-ასურეთი,Assyria
-ატლანტის ოკეანე,Atlantic Ocean
-ატომური ფიზიკა,Atomic physics
-აფრიკა,Africa
-აფხაზეთი,Abkhazia
-აშშ,United States
-ახალი ზელანდია,New Zealand
-ახლო აღმოსავლეთი,Middle East
-ბავარია,Bavaria
-ბალეტი,Ballet
-ბანგლადეში,Bangladesh
-ბანკები,Banks
-ბარსელონა,Barcelona
-ბატისნაირნი,Anseriformes
-ბაჰრეინი,Bahrain
-ბელარუსი,Belarus
-ბელგია,Belgium
-ბერლინი,Berlin
-ბერძნული ანბანი,Greek alphabet
-ბერძნული მითოლოგია,Greek mythology
-ბიბლია,Bible
-ბიზანტიის იმპერია,Byzantine Empire
-ბიოლოგია,Biology
-ბიოქიმია,Biochemistry
-ბოლივია,Bolivia
-ბოტანიკა,Botany
-ბრაზილია,Brazil
-ბრიტანელები,British people
-ბუდიზმი,Buddhism
-ბულგარეთი,Bulgaria
-ბუნება,Nature
-გადასახადები,Taxation
-გაერთიანებული სამეფო,United Kingdom
-გაერო,United Nations
-გამბია,The Gambia
-გამონაგონი,Fiction
-განა,Ghana
-განათლება,Education
-გართობა,Entertainment
-გენეალოგია,Genealogy
-გენეტიკა,Genetics
-გენოციდი,Genocide
-გეოგრაფია,Geography
-გეოდეზია,Geodesy
-გეოლოგია,Geology
-გეომეტრია,Geometry
-გეომორფოლოგია,Geomorphology
-გეოფიზიკა,Geophysics
-გერმანია,Germany
-გერმანული ენა,German language
-გრამატიკა,Grammar
-გრაფიკული დიზაინი,Graphic design
-გრენლანდია,Greenland
-დანია,Denmark
-დედამიწა,Earth
-დიპლომატია,Diplomacy
-დომინიკელთა რესპუბლიკა,Dominican Republic
-დრო,Time
-დღეები,Days
-ეგვიპტე,Egypt
-ევროპა,Europe
-ევროპის კავშირი,European Union
-ეთიკა,Ethics
-ეთიოპია,Ethiopia
-ეკოლოგია,Ecology
-ეკონომიკა,Economics
-ელექტროენერგია,Electricity
-ენათმეცნიერება,Linguistics
-ენერგია,Energy
-ენტომოლოგია,Entomology
-ერაყი,Iraq
-ესპანეთი,Spain
-ესპანელები,Spanish people
-ესტონეთი,Estonia
-ვატიკანი,Vatican City
-ვენა,Vienna
-ვიეტნამი,Vietnam
-ვირჯინია,Virginia
-ზამთრის ოლიმპიური თამაშები,Winter Olympic Games
-ზოოლოგია,Zoology
-თეატრი,Theatre
-თევზები,Fish
-თეოლოგია,Theology
-თვითმფრინავები,Aircraft
-თურქეთი,Turkey
-თურქმენეთი,Turkmenistan
-იამაიკა,Jamaica
-იაპონია,Japan
-იერუსალიმი,Jerusalem
-ილინოისი,Illinois
-ინგლისელები,English people
-ინგლისი,England
-ინგლისური ენა,English language
-ინდოეთი,India
-ინდოეთის ოკეანე,Indian Ocean
-ინდონეზია,Indonesia
-ინდუიზმი,Hinduism
-ინდუსტრია,Industry
-ინტერნეტი,Internet
-იორდანია,Jordan
-ირანი,Iran
-ირლანდია,Republic of Ireland
-ირლანდია,Ireland
-ირლანდიელები,Irish people
-ისლამი,Islam
-ისლანდია,Iceland
-ისრაელი,Israel
-ისტორია,History
-იტალია,Italy
-იუგოსლავია,Yugoslavia
-იუდაიზმი,Judaism
-იუმორი,Humor
-იუნიქსი,Unix
-იუპიტერი,Jupiter
-კავკასია,Caucasus
-კალათბურთი,Basketball
-კალიფორნია,California
-კამბოჯა,Cambodia
-კანადა,Canada
 კატარი,Qatar
-კვიპროსი,Cyprus
-კინო,Film
-კლასიკური მუსიკა,Classical music
-კლიმატოლოგია,Climatology
-კოლუმბია,Colombia
-კომპიუტერი,Computing
-კომპიუტერული გრაფიკა,Computer graphics
-კომუნიზმი,Communism
-კონგოს დემოკრატიული რესპუბლიკა,Democratic Republic of the Congo
-კორეა,Korea
-კოსმოლოგია,Cosmology
-კოსოვო,Kosovo
-კრივი,Boxing
-კრიმინოლოგია,Criminology
-კრიპტოგრაფია,Cryptography
-კუბა,Cuba
-კულტურა,Culture
-ლატვია,Latvia
-ლიბანი,Lebanon
-ლიბერალიზმი,Liberalism
-ლიბია,Libya
-ლინუქსი,Linux
-ლიტერატურა,Literature
-ლიტვა,Lithuania
-ლიხტენშტაინი,Liechtenstein
-ლოგიკა,Logic
-ლონდონი,London
-ლუდი,Beer
-ლუიზიანა,Louisiana
-ლუქსემბურგი,Luxembourg
-მადაგასკარი,Madagascar
-მათემატიკა,Mathematics
-მათემატიკური ლოგიკა,Mathematical logic
-მაკროეკონომიკა,Macroeconomics
-მალაიზია,Malaysia
-მალი,Mali
-მალტა,Malta
-მაროკო,Morocco
-მარქსიზმი,Marxism
-მედიცინა,Medicine
-მეორე მსოფლიო ომი,World War II
-მეტალურგია,Metallurgy
-მეტაფიზიკა,Metaphysics
-მეტეოროლოგია,Meteorology
-მეტროპოლიტენი,Rapid transit
-მეფუტკრეობა,Beekeeping
-მექანიკა,Mechanics
-მექსიკა,Mexico
-მეცნიერება,Science
-მეწარმეები,Businesspeople
-მზის სისტემა,Solar System
-მითოლოგია,Mythology
-მიკოლოგია,Mycology
-მიკრობიოლოგია,Microbiology
-მოდა,Fashion
-მოკრივეები,Boxers
-მოლდოვა,Moldova
-მოლეკულური ბიოლოგია,Molecular biology
-მონაკო,Monaco
-მონარქია,Monarchy
-მონტენეგრო,Montenegro
-მონღოლეთი,Mongolia
-მოსკოვი,Moscow
-მრავალმნიშვნელოვანი,Disambiguation
-მტრედისნაირნი,Columbiformes
-მუსიკა,Music
-მხატვრობა,Painting
-ნავიგაცია,Navigation
-ნაციონალიზმი,Nationalism
-ნერვული სისტემა,Nervous system
-ნიდერლანდი,Netherlands
-ნიუ-იორკი,New York City
-ნიუ-იორკი,New York
-ნიუ-ჯერსი,New Jersey
-ნიუ-ჰემპშირი,New Hampshire
-ნობელის პრემია,Nobel Prize
-ნორვეგია,Norway
-ნუმიზმატიკა,Numismatics
-ოკეანია,Oceania
-ოლიმპიური თამაშები,Olympics
-ომი,War
-ონკოლოგია,Oncology
-ოპტიკა,Optics
-ორგანული ქიმია,Organic chemistry
-ორლებნიანნი,Magnoliopsida
-ორნითოლოგია,Ornithology
-ოსმალეთის იმპერია,Ottoman Empire
-პაკისტანი,Pakistan
-პალესტინა,Palestine
-პანამა,Panama
-პარაგვაი,Paraguay
-პარიზი,Paris
-პედაგოგიკა,Pedagogy
-პენსილვანია,Pennsylvania
-პერუ,Peru
-პირველი მსოფლიო ომი,World War I
-პიროვნებები,People
-პოეზია,Poetry
-პოლიტოლოგია,Political science
-პოლონეთი,Poland
-პორტუგალია,Portugal
-პრაღა,Prague
-პრიმატები,Primates
-ჟურნალისტიკა,Journalism
-რადიო,Radio
-რასიზმი,Racism
-რელიგია,Religion
-რენესანსი,Renaissance
-რთულყვავილოვანნი,Asteraceae
-რიტორიკა,Rhetoric
-რიცხვები,Numbers
-როკ-მუსიკა,Rock music
-რომაული მითოლოგია,Roman mythology
-რუანდა,Rwanda
-რუმინეთი,Romania
-რუსეთი,Russia
-საბერძნეთი,Greece
-საბუღალტრო აღრიცხვა,Accountancy
-საერთაშორისო სამართალი,International law
-საზოგადოება,Society
-საინჟინრო მეცნიერება,Engineering
-სამართალი,Law
-სამხედრო ძალები,Military
-სამხრეთ აფრიკის რესპუბლიკა,South Africa
-სამხრეთი ამერიკა,South America
-სამხრეთი დაკოტა,South Dakota
-სამხრეთი კორეა,South Korea
-სანქტ-პეტერბურგი,Saint Petersburg
-საფეხბურთო კლუბები,Football  clubs
-საფეხბურთო სტადიონები,Football  venues
-საფრანგეთი,France
-საფრანგეთის რევოლუცია,French Revolution
-საქართველო,Georgia
-საქსონია,Saxony
-საღვთო რომის იმპერია,Holy Roman Empire
-სეისმოლოგია,Seismology
-სემანტიკა,Semantics
-სენეგალი,Senegal
-სერბეთი,Serbia
-სიკვდილი,Death
-სიმრავლეთა თეორია,Set theory
-სინგაპური,Singapore
-სისხლის სამართალი,Criminal law
-სიფრიფანაფრთიანები,Hymenoptera
-სიცილია,Sicily
-სიცოცხლე,Life
-სკანდინავია,Scandinavia
-სკანდინავიური მითოლოგია,Norse mythology
-სკულპტურა,Sculpture
-სლოვაკეთი,Slovakia
-სლოვენია,Slovenia
-სოკოები,Fungi
-სოლომონის კუნძულები,Solomon Islands
-სომალი,Somalia
-სომხეთი,Armenia
-სოფლის მეურნეობა,Agriculture
-სოციალიზმი,Socialism
-სოციოლოგია,Sociology
-სრუტეები,Straits
-სსრკ,Soviet Union
-სტამბოლი,Istanbul
-სტატისტიკა,Statistics
-სუდანი,Sudan
-ტაილანდი,Thailand
-ტანზანია,Tanzania
-ტაჯიკეთი,Tajikistan
-ტელევიზია,Television
-ტენესი,Tennessee
-ტერორიზმი,Terrorism
-ტოპოლოგია,Topology
-ტუნისი,Tunisia
-უდაბნოები,Deserts
-უელსი,Wales
-უზბეკეთი,Uzbekistan
-უკრაინა,Ukraine
-უნგრეთი,Hungary
-ურუგვაი,Uruguay
-ფაშიზმი,Fascism
-ფეხბურთელები,Football  players
-ფეხბურთი,Football
-ფეხბურთი ქვეყნების მიხედვით,Football  by country
-ფეხბურთის მწვრთნელები,Football  managers
-ფიზიკა,Physics
-ფიზიოლოგია,Physiology
-ფილატელია,Philately
-ფილოლოგია,Philology
-ფილოსოფია,Philosophy
-ფინანსები,Finance
-ფინეთი,Finland
-ფლორიდა,Florida
-ფოტოგრაფია,Photography
-ფრანგები,French people
-ფსევდო-მეცნიერებები,Pseudoscience
-ფსიქიატრია,Psychiatry
-ფსიქოლოგია,Psychology
-ფულის ერთეულები,Currency
-ქიმია,Chemistry
-ქრისტიანობა,Christianity
-ქრონოლოგია,Chronology
-ქუვეითი,Kuwait
-ღვინო,Wine
-ყავა,Coffee
-ყაზახეთი,Kazakhstan
-ყირგიზეთი,Kyrgyzstan
-შვედეთი,Sweden
-შვეიცარია,Switzerland
-შვეიცარიელები,Swiss people
-შობა,Christmas
-შოტლანდია,Scotland
-შრი-ლანკა,Sri Lanka
-ჩაი,Tea
-ჩეჩნეთი,Chechnya
-ჩეხეთი,Czech Republic
-ჩილე,Chile
-ჩინეთი,China
-ჩოგბურთი,Tennis
-ჩრდილოეთი ამერიკა,North America
-ჩრდილოეთი კორეა,North Korea
-ცეკვა,Dance
-ცენტრალური ამერიკა,Central America
-ცივი ომი,Cold War
-ცურვა,Swimming
-ძაღლყურძენასებრნი,Solanaceae
-ძველი შუამდინარეთი,Mesopotamia
-ძირითადი კატეგორიები,Fundamental
-წლები,Years
-წყალი,Water
-წყნარი ოკეანე,Pacific Ocean
-ჭადრაკი,Chess
-ხელოვნება,Arts
-ხელფრთიანები,Bats
-ხიდები,Bridges
-ხილი,Fruit
-ხმელთაშუა ზღვა,Mediterranean
-ხორვატია,Croatia
-ჯაზი,Jazz
-ჯანმრთელობა,Health
-ჰაიტი,Haiti
-ჰევი მეტალი,Heavy metal
-ჰერალდიკა,Heraldry
-ჰესენი,Hesse
-ჰიდროლოგია,Hydrology
-ჰოლანდიელები,Dutch people
-ჰონკონგი,Hong Kong
 კატისებრნი,Felidae
 კატმანდუ,Kathmandu
 კატოვიცე,Katowice
@@ -1732,6 +1491,7 @@ georgian,english
 კვინსლენდი,Queensland
 კვიპაროზისებრნი,Cupressaceae
 კვიპროსი,Cyprus
+კვიპროსი,Cyprus
 კვირა,Sunday
 კვირა,Week
 კიგალი,Kigali
@@ -1740,6 +1500,8 @@ georgian,english
 კილოგრამი,Kilogram
 კინემატიკა,Kinematics
 კინკანი,Kumquat
+კინო,Film
+კინო,Film
 კინშასა,Kinshasa
 კიოტო,Kyoto
 კირიბატი,Kiribati
@@ -1751,9 +1513,11 @@ georgian,english
 კლავდიუსი,Claudius
 კლარკ გეიბლი,Clark Gable
 კლასი,Class
+კლასიკური მუსიკა,Classical music
 კლასიციზმი,Classicism
 კლეოპატრა,Cleopatra
 კლივლენდი,Cleveland
+კლიმატოლოგია,Climatology
 კლიმატოლოგია,Climatology
 კლოდ მონე,Claude Monet
 კნუდ დიდი,Canute the Great
@@ -1771,6 +1535,7 @@ georgian,english
 კოლორადო,Colorado
 კოლოსეუმი,Colosseum
 კოლუმბია,Colombia
+კოლუმბია,Colombia
 კოლუმბიის უნივერსიტეტი,Columbia University
 კოლუმბუსი,Columbus
 კოლუმბუსი,Columbus
@@ -1782,12 +1547,16 @@ georgian,english
 კომორის კუნძულები,Comoros
 კომპაქტ-დისკი,Compact Disc
 კომპიუტერი,Computer
+კომპიუტერი,Computing
+კომპიუტერული გრაფიკა,Computer graphics
 კომპლექსური რიცხვი,Complex number
 კომპოზიტორი,Composer
+კომუნიზმი,Communism
 კომუნიზმი,Communism
 კომუნიკაცია,Communication
 კომში,Quince
 კონგო,Congo
+კონგოს დემოკრატიული რესპუბლიკა,Democratic Republic of the Congo
 კონგოს დემოკრატიული რესპუბლიკა,Democratic Republic of the Congo
 კონგოს რესპუბლიკა,Republic of the Congo
 კონექტიკუტი,Connecticut
@@ -1800,12 +1569,15 @@ georgian,english
 კონტინენტი,Continent
 კონტრაბასი,Double bass
 კოპენჰაგენი,Copenhagen
+კორეა,Korea
 კორეის ომი,Korean War
 კორნელის უნივერსიტეტი,Cornell University
 კორსიკა,Corsica
 კოსმოლოგია,Cosmology
+კოსმოლოგია,Cosmology
 კოსმონავტი,Astronaut
 კოსმოსური ხომალდი,Spacecraft
+კოსოვო,Kosovo
 კოსოვო,Kosovo
 კოსტა-რიკა,Costa Rica
 კოქტეილი,Cocktail
@@ -1813,6 +1585,9 @@ georgian,english
 კოშკი,Tower
 კრემლი,Kremlin
 კრივი,Boxing
+კრივი,Boxing
+კრიმინოლოგია,Criminology
+კრიპტოგრაფია,Cryptography
 კრიპტოგრაფია,Cryptography
 კრისტიან დიორი,Christian Dior
 კრიშნა,Krishna
@@ -1820,8 +1595,10 @@ georgian,english
 კუ,Turtle
 კუალა-ლუმპური,Kuala Lumpur
 კუბა,Cuba
+კუბა,Cuba
 კუბიზმი,Cubism
 კუინზი,Queens
+კულტურა,Culture
 კულტურა,Culture
 კუნთი,Muscle
 კუნძული,Island
@@ -1843,6 +1620,7 @@ georgian,english
 ლარიქსი,Larch
 ლას-ვეგასი,Las Vegas
 ლატვია,Latvia
+ლატვია,Latvia
 ლაციო,Lazio
 ლაჰორი,Lahore
 ლე კორბუზიე,Le Corbusier
@@ -1859,8 +1637,11 @@ georgian,english
 ლესოთო,Lesotho
 ლეღვი,Common Fig
 ლიბანი,Lebanon
+ლიბანი,Lebanon
+ლიბერალიზმი,Liberalism
 ლიბერალიზმი,Liberalism
 ლიბერია,Liberia
+ლიბია,Libya
 ლიბია,Libya
 ლიგურია,Liguria
 ლივერპული,Liverpool
@@ -1868,14 +1649,20 @@ georgian,english
 ლიმა,Lima
 ლიმუზენი,Limousin
 ლინუქსი,Linux
+ლინუქსი,Linux
 ლინცი,Linz
 ლიონი,Lyon
 ლისაბონი,Lisbon
 ლიტერატურა,Literature
+ლიტერატურა,Literature
+ლიტერატურა,Literature
+ლიტვა,Lithuania
 ლიტვა,Lithuania
 ლიუბლიანა,Ljubljana
 ლიქენები,Lichen
 ლიხტენშტაინი,Liechtenstein
+ლიხტენშტაინი,Liechtenstein
+ლოგიკა,Logic
 ლოგიკა,Logic
 ლოზანა,Lausanne
 ლოთარინგია,Lorraine
@@ -1883,10 +1670,11 @@ georgian,english
 ლოკე,Loki
 ლომბარდია,Lombardy
 ლომვეშაპი,Walrus
-ლომი,Lion
 ლომი,Leo
+ლომი,Lion
 ლონგ-აილენდი,Long Island
 ლონგ-ბიჩი,Long Beach
+ლონდონი,London
 ლონდონი,London
 ლონდონის სამეფო საზოგადოება,Royal Society
 ლოს-ანჯელესი,Los Angeles
@@ -1896,6 +1684,7 @@ georgian,english
 ლუბლინი,Lublin
 ლუდვიგ ვან ბეთჰოვენი,Ludwig van Beethoven
 ლუდვიგ მის ვან დერ როე,Ludwig Mies van der Rohe
+ლუდი,Beer
 ლუვრის მუზეუმი,Louvre
 ლუი არაგონი,Louis Aragon
 ლუი არმსტრონგი,Louis Armstrong
@@ -1903,9 +1692,11 @@ georgian,english
 ლუი პასტერი,Louis Pasteur
 ლუიზვილი,Louisville
 ლუიზიანა,Louisiana
+ლუიზიანა,Louisiana
 ლურჯ-მწვანე წყალმცენარეები,Cyanobacteria
 ლურჯი ვეშაპი,Blue Whale
 ლუფტვაფე,Luftwaffe
+ლუქსემბურგი,Luxembourg
 ლუქსემბურგი,Luxembourg
 ლუქსემბურგი,Luxembourg
 ლუქსორი,Luxor
@@ -1914,13 +1705,17 @@ georgian,english
 მაგნა კარტა,Magna Carta
 მაგნიუმი,Magnesium
 მადაგასკარი,Madagascar
+მადაგასკარი,Madagascar
 მადონა,Madonna
 მადრიდი,Madrid
 მადრიდი,Madrid
 მავრიკი,Mauritius
 მავრიტანია,Mauritania
 მათემატიკა,Mathematics
+მათემატიკა,Mathematics
+მათემატიკა,Mathematics
 მათემატიკური დამტკიცება,Mathematical proof
+მათემატიკური ლოგიკა,Mathematical logic
 მათემატიკური ლოგიკა,Mathematical logic
 მაიამი,Miami
 მაიკ ტაისონი,Mike Tyson
@@ -1931,10 +1726,14 @@ georgian,english
 მაკაო,Macau
 მაკინტოში,Macintosh
 მაკროეკონომიკა,Macroeconomics
+მაკროეკონომიკა,Macroeconomics
+მალაიზია,Malaysia
 მალაიზია,Malaysia
 მალარია,Malaria
 მალდივის კუნძულები,Maldives
 მალი,Mali
+მალი,Mali
+მალტა,Malta
 მალტა,Malta
 მანათობელი დიოდები,Light-emitting diode
 მანამა,Manama
@@ -1973,6 +1772,7 @@ georgian,english
 მარმარილო,Marble
 მარმარილოს ზღვა,Sea of Marmara
 მაროკო,Morocco
+მაროკო,Morocco
 მარსელ დიუშანი,Marcel Duchamp
 მარსელ მარსო,Marcel Marceau
 მარსელ პრუსტი,Marcel Proust
@@ -1986,6 +1786,7 @@ georgian,english
 მარტინ ლუთერი,Martin Luther
 მარტინ ჰაიდეგერი,Martin Heidegger
 მარტორქისებრნი,Rhinoceros
+მარქსიზმი,Marxism
 მარქსიზმი,Marxism
 მარშალის გეგმა,Marshall Plan
 მარჩბივი,Gemini
@@ -2014,6 +1815,7 @@ georgian,english
 მედინა,Medina
 მედიჩი,Medici
 მედიცინა,Medicine
+მედიცინა,Medicine
 მეზოლითი,Mesolithic
 მეზონი,Meson
 მეთოდისტები,Methodism
@@ -2023,6 +1825,7 @@ georgian,english
 მელია,Vulpecula
 მემფისი,Memphis
 მეოთხეული სისტემა,Quaternary
+მეორე მსოფლიო ომი,World War II
 მეორე მსოფლიო ომი,World War II
 მეორე ჯვაროსნული ლაშქრობა,Second Crusade
 მერილ სტრიპი,Meryl Streep
@@ -2037,19 +1840,29 @@ georgian,english
 მესამე რაიხი,Nazi Germany
 მესამე ჯვაროსნული ლაშქრობა,Third Crusade
 მესინა,Messina
+მეტალურგია,Metallurgy
+მეტაფიზიკა,Metaphysics
 მეტაფორა,Metaphor
+მეტეოროლოგია,Meteorology
 მეტრი,Metre
 მეტრიკული სივრცე,Metric space
+მეტროპოლიტენი,Rapid transit
 მეფე,Monarch
 მეფე ლირი,King Lear
+მეფუტკრეობა,Beekeeping
 მექა,Mecca
+მექანიკა,Mechanics
+მექსიკა,Mexico
 მექსიკა,Mexico
 მეჩეთი,Mosque
 მეცნიერება,Science
+მეცნიერება,Science
 მეცხოველეობა,Animal husbandry
+მეწარმეები,Businesspeople
 მეჭვავიასნაირნი,Charadriiformes
 მეხიკო,Mexico City
 მზე,Sun
+მზის სისტემა,Solar System
 მზის სისტემა,Solar System
 მთა,Mountain
 მთა რაშმორი,Mount Rushmore
@@ -2060,8 +1873,11 @@ georgian,english
 მიგელ დე სერვანტესი,Miguel de Cervantes
 მითი,Myth
 მითოლოგია,Mythology
+მითოლოგია,Mythology
 მიკი მაუსი,Mickey Mouse
 მიკოლოგია,Mycology
+მიკოლოგია,Mycology
+მიკრობიოლოგია,Microbiology
 მიკროეკონომიკა,Microeconomics
 მიკროპროცესორი,Microprocessor
 მიკროსკოპი,Microscope
@@ -2091,13 +1907,19 @@ georgian,english
 მკერდის კიბო,Breast cancer
 მოგადიშო,Mogadishu
 მოდა,Fashion
+მოდა,Fashion
 მოდერნიზმი,Modernism
 მოზამბიკი,Mozambique
+მოკრივეები,Boxers
+მოლდოვა,Moldova
 მოლდოვა,Moldova
 მოლეკულა,Molecule
+მოლეკულური ბიოლოგია,Molecular biology
 მოლიზე,Molise
 მონათმფლობელობა,Slavery
 მონაკო,Monaco
+მონაკო,Monaco
+მონარქია,Monarchy
 მონარქია,Monarchy
 მონაცემთა ბაზა,Database
 მონბლანი,Mont Blanc
@@ -2109,6 +1931,8 @@ georgian,english
 მონტანა,Montana
 მონტევიდეო,Montevideo
 მონტენეგრო,Montenegro
+მონტენეგრო,Montenegro
+მონღოლეთი,Mongolia
 მონღოლეთი,Mongolia
 მორავია,Moravia
 მორიელები,Scorpion
@@ -2118,9 +1942,11 @@ georgian,english
 მოსახლეობა,Population
 მოსე,Moses
 მოსკოვი,Moscow
+მოსკოვი,Moscow
 მოტეტი,Motet
 მოხმარება,Consumption
 მოჯადოებული,Charmed
+მრავალმნიშვნელოვანი,Disambiguation
 მრავალფეხიანები,Myriapoda
 მსახიობი,Actor
 მსოფლიო ბანკი,World Bank
@@ -2131,12 +1957,14 @@ georgian,english
 მტაცებლები,Carnivora
 მტკვარი,Kura River
 მტრედისნაირნი,Columbiformes
+მტრედისნაირნი,Columbiformes
 მუზეუმი,Museum
 მუმბაი,Mumbai
 მუმია,Mummy
 მურა დათვი,Brown Bear
 მურმანსკი,Murmansk
 მურყანი,Alder
+მუსიკა,Music
 მუსიკა,Music
 მუსიკათმცოდნეობა,Musicology
 მუსიკოსი,Musician
@@ -2152,10 +1980,12 @@ georgian,english
 მცირე პანდა,Red Panda
 მცირე ცთომილები,Asteroid
 მწერალი,Writer
+მხატვრობა,Painting
 მჯდომარე ხარი,Sitting Bull
 ნაბუქოდონოსორ II,Nebuchadrezzar II
 ნაგასაკი,Nagasaki
 ნავთობის ექსპორტიორ ქვეყანათა ორგანიზაცია,OPEC
+ნავიგაცია,Navigation
 ნათლისღება,Epiphany
 ნაირობი,Nairobi
 ნაკიანი წელი,Leap year
@@ -2175,6 +2005,7 @@ georgian,english
 ნაურუ,Nauru
 ნაციონალ-სოციალისტური გერმანული მუშათა პარტია,Nazi Party
 ნაციონალიზმი,Nationalism
+ნაციონალიზმი,Nationalism
 ნახშირბადის წრებრუნვა,Carbon cycle
 ნახშირწყლები,Carbohydrate
 ნეაპოლი,Naples
@@ -2185,12 +2016,14 @@ georgian,english
 ნეპალი,Nepal
 ნეპტუნი,Neptune
 ნერვა,Nerva
+ნერვული სისტემა,Nervous system
 ნერონი,Nero
 ნეფერტიტი,Nefertiti
 ნეშვილი,Nashville
 ნიბლია,Chaffinch
 ნიგერი,Niger
 ნიგერია,Nigeria
+ნიდერლანდი,Netherlands
 ნიდერლანდი,Netherlands
 ნიკარაგუა,Nicaragua
 ნიკე,Nike
@@ -2209,11 +2042,15 @@ georgian,english
 ნიუ,Nu
 ნიუ-ბრანსუიკი,New Brunswick
 ნიუ-დელი,New Delhi
-ნიუ-იორკი,New York City
 ნიუ-იორკი,New York
+ნიუ-იორკი,New York
+ნიუ-იორკი,New York City
+ნიუ-იორკი,New York City
 ნიუ-იორკის სააქციო ბირჟა,New York Stock Exchange
 ნიუ-მექსიკო,New Mexico
 ნიუ-ჯერსი,New Jersey
+ნიუ-ჯერსი,New Jersey
+ნიუ-ჰემპშირი,New Hampshire
 ნიუ-ჰემპშირი,New Hampshire
 ნიუარკი,Newark
 ნიურნბერგი,Nuremberg
@@ -2225,13 +2062,16 @@ georgian,english
 ნიჰილიზმი,Nihilism
 ნოამ ხომსკი,Noam Chomsky
 ნობელის პრემია,Nobel Prize
+ნობელის პრემია,Nobel Prize
 ნოე,Noah
 ნოემბერი,November
 ნოვოსიბირსკი,Novosibirsk
 ნორვეგია,Norway
+ნორვეგია,Norway
 ნოსტრადამუსი,Nostradamus
 ნუკლეოტიდი,Nucleotide
 ნული,0
+ნუმიზმატიკა,Numismatics
 ნუმიზმატიკა,Numismatics
 ნუნავუტი,Nunavut
 ნუში,Almond
@@ -2249,6 +2089,7 @@ georgian,english
 ოიდიპოსი,Oedipus
 ოკეანე,Ocean
 ოკეანეთი,Oceania
+ოკეანია,Oceania
 ოკლაჰომა,Oklahoma
 ოკლაჰომა-სიტი,Oklahoma City
 ოკლენდი,Oakland
@@ -2256,27 +2097,34 @@ georgian,english
 ოლიგარქია,Oligarchy
 ოლივერ კრომველი,Oliver Cromwell
 ოლიმპიური თამაშები,Olympic Games
+ოლიმპიური თამაშები,Olympics
 ოლიმპო,Mount Olympus
 ოლოლი,Long-eared Owl
 ომანი,Oman
 ომაჰა,Omaha
 ომეგა,Omega
 ომი,War
+ომი,War
 ომიკრონი,Omicron
 ომონიმია,Homonym
+ონკოლოგია,Oncology
 ონტარიო,Ontario
 ოპელი,Opel
 ოპერა,Opera
 ოპერატიული მეხსიერება,Random access memory
 ოპერაციული სისტემა,Operating system
+ოპტიკა,Optics
 ოპტიკური ბოჭკო,Optical fiber
 ოპტიკური ილუზია,Optical illusion
 ორბიტული სადგური,Space station
 ორგაზმი,Orgasm
 ორგანული ქიმია,Organic chemistry
+ორგანული ქიმია,Organic chemistry
 ორეგონი,Oregon
 ორი,2
 ორისა,Orissa
+ორლებნიანნი,Magnoliopsida
+ორნითოლოგია,Ornithology
 ორნითოლოგია,Ornithology
 ორშაბათი,Monday
 ოსაკა,Osaka
@@ -2285,6 +2133,7 @@ georgian,english
 ოსკარ უაილდი,Oscar Wilde
 ოსკარი,Academy Award
 ოსლო,Oslo
+ოსმალეთის იმპერია,Ottoman Empire
 ოსმალეთის იმპერია,Ottoman Empire
 ოსმან I,Osman I
 ოსტეოპოროზი,Osteoporosis
@@ -2304,10 +2153,13 @@ georgian,english
 პაბლო პიკასო,Pablo Picasso
 პადუა,Padua
 პაკისტანი,Pakistan
+პაკისტანი,Pakistan
 პალაუ,Palau
 პალეონტოლოგია,Paleontology
 პალერმო,Palermo
+პალესტინა,Palestine
 პალესტინის გათავისუფლების ორგანიზაცია,Palestine Liberation Organization
+პანამა,Panama
 პანამა,Panama
 პანამის არხი,Panama Canal
 პანგეა,Pangaea
@@ -2316,12 +2168,14 @@ georgian,english
 პანტერები,Panthera
 პაპუა-ახალი გვინეა,Papua New Guinea
 პარაგვაი,Paraguay
+პარაგვაი,Paraguay
 პარადოქსი,Paradox
 პარალელოგრამი,Parallelogram
 პარასკევი,Friday
 პარაფილია,Paraphilia
 პარვატი,Parvati
 პართენონი,Parthenon
+პარიზი,Paris
 პარიზი,Paris
 პატენტი,Patent
 პატრიოტიზმი,Patriotism
@@ -2330,9 +2184,11 @@ georgian,english
 პაულ ფონ ჰინდენბურგი,Paul von Hindenburg
 პაციფიზმი,Pacifism
 პედაგოგიკა,Pedagogy
+პედაგოგიკა,Pedagogy
 პედოფილია,Pedophilia
 პეკინი,Beijing
 პენიცილინი,Penicillin
+პენსილვანია,Pennsylvania
 პენსილვანია,Pennsylvania
 პენსილვანიის უნივერსიტეტი,University of Pennsylvania
 პენტაკონტაგონი,Polygon
@@ -2343,6 +2199,7 @@ georgian,english
 პერსეპოლისი,Persepolis
 პერსონაჟი,Fictional character
 პერტი,Perth
+პერუ,Peru
 პერუ,Peru
 პეტერ პაულ რუბენსი,Peter Paul Rubens
 პი,Pi
@@ -2355,7 +2212,9 @@ georgian,english
 პირენეის ნახევარკუნძული,Iberian Peninsula
 პირველადი სამედიცინო დახმარება,First aid
 პირველი მსოფლიო ომი,World War I
+პირველი მსოფლიო ომი,World War I
 პირველი ჯვაროსნული ლაშქრობა,First Crusade
+პიროვნებები,People
 პიროსის გამარჯვება,Pyrrhic victory
 პიტ მონდრიანი,Piet Mondrian
 პიტნა,Mentha
@@ -2370,6 +2229,7 @@ georgian,english
 პლუტონი,Pluto
 პნომპენი,Phnom Penh
 პოეზია,Poetry
+პოეზია,Poetry
 პოლ გოგენი,Paul Gauguin
 პოლ ვერლენი,Paul Verlaine
 პოლ მაკარტნი,Paul McCartney
@@ -2378,32 +2238,29 @@ georgian,english
 პოლიტიკა,Politics
 პოლიტიკური პარტია,Political party
 პოლიტოლოგია,Political science
+პოლიტოლოგია,Political science
 პოლიცია,Police
+პოლონეთი,Poland
 პოლონეთი,Poland
 პოლონიუმი,Polonium
 პოპ-არტი,Pop art
 პორტ-ო-პრენსი,Port-au-Prince
-ბიოგრაფიები,Biography
-ბიოლოგია,Biology
-გეოგრაფია,Geography
-ისტორია,History
-კინო,Film
-ლიტერატურა,Literature
-მათემატიკა,Mathematics
-ფიზიკა,Physics
 პორტლენდი,Portland
 პორტრეტი,Portrait
 პორტუ,Porto
 პორტუგალია,Portugal
+პორტუგალია,Portugal
 პოსეიდონი,Poseidon
 პოსტმოდერნიზმი,Postmodernism
 პოტსდამი,Potsdam
+პრაღა,Prague
 პრაღა,Prague
 პრეზიდენტი,President
 პრემიერ-მინისტრი,Prime minister
 პრეტორი,Praetor
 პრეტორია,Pretoria
 პრიზმა,Prism
+პრიმატები,Primates
 პრინს-ედუარდის კუნძული,Prince Edward Island
 პრინსტონის უნივერსიტეტი,Princeton University
 პროგრესული როკი,Progressive rock
@@ -2429,14 +2286,17 @@ georgian,english
 ჟენევა,Geneva
 ჟირაფი,Giraffe
 ჟორჟ სიმენონი,Georges Simenon
+ჟურნალისტიკა,Journalism
 რა,Ra
 რაბინდრანათ თაგორი,Rabindranath Tagore
 რაგბი,Rugby football
 რადიანი,Radian
 რადიარდ კიპლინგი,Rudyard Kipling
+რადიო,Radio
 რაკეტა,Rocket
 რამა,Rama
 რამზეს II,Ramesses II
+რასიზმი,Racism
 რასიზმი,Racism
 რაფაელი,Raphael
 რაციონალური რიცხვი,Rational number
@@ -2448,12 +2308,15 @@ georgian,english
 რეზისტორი,Resistor
 რეკლამა,Advertising
 რელიგია,Religion
+რელიგია,Religion
 რემბრანდტი,Rembrandt
+რენესანსი,Renaissance
 რენესანსი,Renaissance
 რესპუბლიკა,Republic
 რესპუბლიკური პარტია,Republican Party
 რეფერენდუმი,Referendum
 რვა,8
+რთულყვავილოვანნი,Asteraceae
 რიბონუკლეინის მჟავა,RNA
 რიგა,Riga
 რითმა,Rhyme
@@ -2463,9 +2326,11 @@ georgian,english
 რიტმ-ენდ-ბლუზი,Rhythm and blues
 რიტმი,Rhythm
 რიტორიკა,Rhetoric
+რიტორიკა,Rhetoric
 რიჩარდ ნიქსონი,Richard Nixon
 რიჩარდ რაიტი,Richard Wright
 რიჩარდ ფეინმანი,Richard Feynman
+რიცხვები,Numbers
 რიცხვი,Number
 რიხარდ ვაგნერი,Richard Wagner
 რკინა,Iron
@@ -2480,10 +2345,12 @@ georgian,english
 როდოსის კოლოსი,Colossus of Rhodes
 როზეტის ქვა,Rosetta Stone
 როიალ ეარ ფორსი,Royal Air Force
+როკ-მუსიკა,Rock music
 როკოკო,Rococo
 რომანი,Novel
 რომანტიზმი,Romanticism
 რომაული კალენდარი,Roman calendar
+რომაული მითოლოგია,Roman mythology
 რომაული რელიგია,Roman mythology
 რომბი,Rhombus
 რომი,Rome
@@ -2496,25 +2363,33 @@ georgian,english
 როტერდამი,Rotterdam
 რუალ ამუნდსენი,Roald Amundsen
 რუანდა,Rwanda
+რუანდა,Rwanda
 რუბი,Ruby
 რუბიკონი,Rubicon
 რუდოლფ ჰესი,Rudolf Hess
 რუმინეთი,Romania
+რუმინეთი,Romania
+რუსეთი,Russia
 რუსეთი,Russia
 რძე,Milk
 საათი,Clock
 საბერძნეთი,Greece
+საბერძნეთი,Greece
 საბეჭდი მანქანა,Typewriter
 საბრძოლო იარაღი,Weapon
+საბუღალტრო აღრიცხვა,Accountancy
 სადამ ჰუსეინი,Saddam Hussein
 საერთაშორისო ორგანიზაცია,International organization
 საერთაშორისო სავალუტო ფონდი,International Monetary Fund
+საერთაშორისო სამართალი,International law
 სავსე მთვარე,Full moon
 საზამთრო,Watermelon
+საზოგადოება,Society
 საზღვაო მილი,Nautical mile
 სათბურის აირები,Greenhouse gas
 სათბურის ეფექტი,Greenhouse effect
 საიდუმლონი,Sacrament
+საინჟინრო მეცნიერება,Engineering
 საინჟინრო მეცნიერება,Engineering
 საინფორმაციო ტექნოლოგია,Information technology
 საკათედრო ტაძარი,Cathedral
@@ -2526,6 +2401,7 @@ georgian,english
 სალვადორი,El Salvador
 სალმან რაშდი,Salman Rushdie
 სალონიკი,Thessaloniki
+სამართალი,Law
 სამი,3
 სამკუთხედი,Triangle
 სამოა,Samoa
@@ -2534,13 +2410,18 @@ georgian,english
 სამურაი,Samurai
 სამყარო,Universe
 სამშაბათი,Tuesday
+სამხედრო ძალები,Military
 სამხედრო-საზღვაო ძალები,Navy
 სამხედრო-საჰაერო ძალები,Air force
+სამხრეთ აფრიკის რესპუბლიკა,South Africa
 სამხრეთ-აღმოსავლეთი აზია,Southeast Asia
 სამხრეთი ავსტრალია,South Australia
 სამხრეთი ამერიკა,South America
+სამხრეთი ამერიკა,South America
+სამხრეთი დაკოტა,South Dakota
 სამხრეთი დაკოტა,South Dakota
 სამხრეთი კაროლინა,South Carolina
+სამხრეთი კორეა,South Korea
 სამხრეთი კორეა,South Korea
 სან-ანტონიო,San Antonio
 სან-დიეგო,San Diego
@@ -2553,6 +2434,7 @@ georgian,english
 სანტიაგო დე ჩილე,Santiago
 სანტიმეტრი,Centimetre
 სანტო-დომინგო,Santo Domingo
+სანქტ-პეტერბურგი,Saint Petersburg
 სანქტ-პეტერბურგი,Saint Petersburg
 საპორო,Sapporo
 სარაგოსა,Zaragoza
@@ -2567,12 +2449,19 @@ georgian,english
 საუდის არაბეთი,Saudi Arabia
 საუკუნე,Century
 საფარი,Safari
+საფეხბურთო კლუბები,Football  clubs
+საფეხბურთო სტადიონები,Football  venues
 საფონდო ბირჟა,Stock exchange
 საფრანგეთი,France
+საფრანგეთი,France
+საფრანგეთის რევოლუცია,French Revolution
 საფრანგეთის რევოლუცია,French Revolution
 საქართველო,Georgia
+საქართველო,Georgia
+საქსონია,Saxony
 საქსონია,Saxony
 საქსოფონი,Saxophone
+საღვთო რომის იმპერია,Holy Roman Empire
 საღვთო რომის იმპერია,Holy Roman Empire
 საშობაო ნაძვის ხე,Christmas tree
 საწვავი,Fuel
@@ -2583,15 +2472,19 @@ georgian,english
 საჰარა,Sahara
 სევასტოპოლი,Sevastopol
 სევილია,Seville
+სეისმოლოგია,Seismology
 სეიშელის კუნძულები,Seychelles
 სელაპისებრნი,Earless seal
+სემანტიკა,Semantics
 სემიუელ მორზე,Samuel F. B. Morse
 სენა,Seine
 სენატი,Senate
 სენდვიჩი,Sandwich
 სენეგალი,Senegal
+სენეგალი,Senegal
 სენტ-ლუისი,St. Louis
 სეპუკუ,Seppuku
+სერბეთი,Serbia
 სერბეთი,Serbia
 სერბია და მონტენეგრო,Serbia and Montenegro
 სერგეი ეიზენშტეინი,Sergei Eisenstein
@@ -2607,11 +2500,13 @@ georgian,english
 სიერა-ლეონე,Sierra Leone
 სიეტლი,Seattle
 სიკვდილი,Death
+სიკვდილი,Death
 სიკიმი,Sikkim
 სიკოკუ,Shikoku
 სილვია პლათი,Sylvia Plath
 სიმინდი,Maize
 სიმრავლე,Set
+სიმრავლეთა თეორია,Set theory
 სიმრავლეთა თეორია,Set theory
 სიმღერა,Song
 სიმძლავრე,Power
@@ -2619,6 +2514,7 @@ georgian,english
 სინათლე,Light
 სინათლის წელიწადი,Light-year
 სინაის ნახევარკუნძული,Sinai Peninsula
+სინგაპური,Singapore
 სინგაპური,Singapore
 სინგლი,Single
 სინესთეზია,Synesthesia
@@ -2630,28 +2526,41 @@ georgian,english
 სირს ტაუერი,Sears Tower
 სისტემატიკა,Systematics
 სისხლი,Blood
+სისხლის სამართალი,Criminal law
 სიტკომი,Situation comedy
 სიუზან ზონტაგი,Susan Sontag
 სიურრეალიზმი,Surrealism
+სიფრიფანაფრთიანები,Hymenoptera
 სიქიზმი,Sikhism
 სიქსტეს კაპელა,Sistine Chapel
 სიჩუანი,Sichuan
 სიჩქარე,Speed
 სიცილაკი,Emoticon
 სიცილია,Sicily
+სიცილია,Sicily
+სიცოცხლე,Life
 სიცოცხლე,Life
 სიხშირე,Frequency
 სკანდინავია,Scandinavia
+სკანდინავია,Scandinavia
+სკანდინავიური მითოლოგია,Norse mythology
 სკანდინავიური მითოლოგია,Norse mythology
 სკოლა,School
 სკოპიე,Skopje
+სკულპტურა,Sculpture
+სლოვაკეთი,Slovakia
 სლოვაკეთი,Slovakia
 სლოვენია,Slovenia
+სლოვენია,Slovenia
+სოკოები,Fungi
 სოკოები,Fungus
 სოკრატე,Socrates
 სოლომონ მეფე,Solomon
+სოლომონის კუნძულები,Solomon Islands
+სომალი,Somalia
 სომალი,Somalia
 სომის ბრძოლა,Battle of the Somme
+სომხეთი,Armenia
 სომხეთი,Armenia
 სომხური ენა,Armenian language
 სონეტი,Sonnet
@@ -2659,9 +2568,12 @@ georgian,english
 სოფი ლორენი,Sophia Loren
 სოფია,Sofia
 სოფლის მეურნეობა,Agriculture
+სოფლის მეურნეობა,Agriculture
 სოფოკლე,Sophocles
 სოციალიზმი,Socialism
+სოციალიზმი,Socialism
 სოციალისტური პარტია,Socialist Party
+სოციოლოგია,Sociology
 სოციოლოგია,Sociology
 სპარსეთის ყურის ომი,Gulf War
 სპელეოლოგია,Speleology
@@ -2669,11 +2581,15 @@ georgian,english
 სპილოსებრნი,Elephant
 სპინი,Spin
 სპორტი,Sport
+სრუტეები,Straits
 სს,Schutzstaffel
+სსრკ,Soviet Union
 სსრკ,Soviet Union
 სტადიონი,Stadium
 სტალინიზმი,Stalinism
 სტამბოლი,Istanbul
+სტამბოლი,Istanbul
+სტატისტიკა,Statistics
 სტატისტიკა,Statistics
 სტაფილო,Carrot
 სტეიტენ-აილენდი,Staten Island
@@ -2685,6 +2601,7 @@ georgian,english
 სტრასბური,Strasbourg
 სუბკულტურა,Subculture
 სუდანი,Sudan
+სუდანი,Sudan
 სუეცის არხი,Suez Canal
 სუვერენიტეტი,Sovereignty
 სუკრე,Sucre
@@ -2695,11 +2612,13 @@ georgian,english
 ტაიბეი,Taipei
 ტაივანი,Republic of China
 ტაილანდი,Thailand
+ტაილანდი,Thailand
 ტაიმი,Time
 ტალინი,Tallinn
 ტამილნადუ,Tamil Nadu
 ტანგო,Tango
 ტანვარჯიში,Gymnastics
+ტანზანია,Tanzania
 ტანზანია,Tanzania
 ტარტუ,Tartu
 ტასმანია,Tasmania
@@ -2707,14 +2626,18 @@ georgian,english
 ტაქსი,Taxicab
 ტაშკენტი,Tashkent
 ტაჯიკეთი,Tajikistan
+ტაჯიკეთი,Tajikistan
 ტბა,Lake
 ტეკილა,Tequila
 ტელეგრაფი,Telegraphy
 ტელევიზია,Television
+ტელევიზია,Television
 ტელესკოპი,Telescope
 ტემზა,River Thames
 ტენესი,Tennessee
+ტენესი,Tennessee
 ტენესი უილიამსი,Tennessee Williams
+ტერორიზმი,Terrorism
 ტერორიზმი,Terrorism
 ტექნოლოგია,Technology
 ტეხასი,Texas
@@ -2734,8 +2657,9 @@ georgian,english
 ტონგა,Tonga
 ტონი ბლერი,Tony Blair
 ტონი მორისონი,Toni Morrison
-ტოპოლოგია,Topology
 ტოპოლოგია,Network topology
+ტოპოლოგია,Topology
+ტოპოლოგია,Topology
 ტორი,Thor
 ტორონტო,Toronto
 ტორონტოს ტელეანძა,CN Tower
@@ -2758,8 +2682,9 @@ georgian,english
 ტროცკიზმი,Trotskyism
 ტუბერკულიოზი,Tuberculosis
 ტულუზა,Toulouse
-ტუნისი,Tunisia
 ტუნისი,Tunis
+ტუნისი,Tunisia
+ტუნისი,Tunisia
 ტურ დე ფრანსი,Tour de France
 ტურიზმი,Tourism
 ტურინი,Turin
@@ -2769,7 +2694,10 @@ georgian,english
 ტყვია,Lead
 ტყის კატა,Wildcat
 უგანდა,Uganda
+უდაბნოები,Deserts
 უელსი,Wales
+უელსი,Wales
+უზბეკეთი,Uzbekistan
 უზბეკეთი,Uzbekistan
 უილიამ ბლეიკი,William Blake
 უილიამ მაკ-კინლი,William McKinley
@@ -2783,9 +2711,11 @@ georgian,english
 უინსტონ ჩერჩილი,Winston Churchill
 უისკონსინი,Wisconsin
 უკრაინა,Ukraine
+უკრაინა,Ukraine
 ულან-ბატორი,Ulan Bator
 ულისე გრანტი,Ulysses S. Grant
 უმბრია,Umbria
+უნგრეთი,Hungary
 უნგრეთი,Hungary
 უნივერსიტეტი,University
 უოლტ დისნეი,Walt Disney
@@ -2795,6 +2725,7 @@ georgian,english
 ურანოსი,Uranus
 ურდუ ენა,Urdu
 ური,Ur
+ურუგვაი,Uruguay
 ურუგვაი,Uruguay
 უტარ-პრადეში,Uttar Pradesh
 უფა,Ufa
@@ -2806,11 +2737,13 @@ georgian,english
 ფანტასტიკა,Science fiction
 ფანჯარა,Window
 ფარაონი,Pharaoh
-ფარდობითობის თეორია,Theory of relativity
 ფარდობითობის თეორია,Principle of relativity
+ფარდობითობის თეორია,Theory of relativity
 ფართობი,Area
 ფარიკაობა,Fencing
 ფასტფუდი,Fast food
+ფაქტი,Fact
+ფაშიზმი,Fascism
 ფაშიზმი,Fascism
 ფედერალური სარეზერვო სისტემა,Federal Reserve System
 ფელიპე II,Philip II of Spain
@@ -2822,24 +2755,37 @@ georgian,english
 ფერენც ლისტი,Franz Liszt
 ფერმენტები,Enzyme
 ფერნანდო მაგელანი,Ferdinand Magellan
+ფეხბურთელები,Football  players
 ფეხბურთი,Football
+ფეხბურთი,Football
+ფეხბურთი ქვეყნების მიხედვით,Football  by country
+ფეხბურთის მწვრთნელები,Football  managers
 ფეხსახსრიანები,Arthropod
 ფი,Phi
 ფიდელ კასტრო,Fidel Castro
 ფიზიკა,Physics
+ფიზიკა,Physics
+ფიზიკა,Physics
+ფიზიოლოგია,Physiology
 ფიზიოლოგია,Physiology
 ფილადელფია,Philadelphia
 ფილატელია,Philately
+ფილატელია,Philately
 ფილიპინები,Philippines
 ფილოლოგია,Philology
+ფილოლოგია,Philology
+ფილოსოფია,Philosophy
 ფილოსოფია,Philosophy
 ფილტვები,Lung
+ფინანსები,Finance
+ფინეთი,Finland
 ფინეთი,Finland
 ფინიქსი,Phoenix
 ფიორდი,Fjord
 ფიჭვი,Pine
 ფიჯი,Fiji
 ფლორენცია,Florence
+ფლორიდა,Florida
 ფლორიდა,Florida
 ფობია,Phobia
 ფობოსი,Phobos
@@ -2848,6 +2794,8 @@ georgian,english
 ფორტ უორზი,Fort Worth
 ფორტეპიანო,Piano
 ფოტოგრაფია,Photography
+ფოტოგრაფია,Photography
+ფრანგები,French people
 ფრანკლინ პირსი,Franklin Pierce
 ფრანკფურტ-ან-დერ-ოდერი,Frankfurt
 ფრანკფურტი,Frankfurt
@@ -2871,10 +2819,14 @@ georgian,english
 ფრიდრიხ ენგელსი,Friedrich Engels
 ფრინველები,Bird
 ფრიული-ვენეცია-ჯულია,Friuli-Venezia Giulia
+ფსევდო-მეცნიერებები,Pseudoscience
 ფსი,Psi
+ფსიქიატრია,Psychiatry
 ფსიქოანალიზი,Psychoanalysis
 ფსიქოლოგია,Psychology
+ფსიქოლოგია,Psychology
 ფული,Money
+ფულის ერთეულები,Currency
 ფუნტი სტერლინგი,Pound sterling
 ფუნქცია,Function
 ფუტი,Foot
@@ -2903,6 +2855,7 @@ georgian,english
 ქვემო საქსონია,Lower Saxony
 ქვეწარმავლები,Reptile
 ქიმია,Chemistry
+ქიმია,Chemistry
 ქიმიურ ელემენტთა პერიოდული სისტემა,Periodic table
 ქიმიური ელემენტი,Chemical element
 ქინძი,Coriander
@@ -2912,25 +2865,32 @@ georgian,english
 ქოქოსის კუნძულები,Cocos  Islands
 ქრისტეფორე კოლუმბი,Christopher Columbus
 ქრისტიანობა,Christianity
+ქრისტიანობა,Christianity
 ქრომოსომა,Chromosome
+ქრონოლოგია,Chronology
 ქსენოფობია,Xenophobia
 ქსენოფონტი,Xenophon
 ქსი,Xi
+ქუვეითი,Kuwait
 ქუვეითი,Kuwait
 ქურთისტანი,Kurdistan
 ღაზის სექტორი,Gaza Strip
 ღამურები,Bat
 ღეროვანი უჯრედი,Stem cell
 ღვინო,Wine
+ღვინო,Wine
 ღმერთი,God
 ღრიანკალი,Scorpius
 ყავა,Coffee
+ყავა,Coffee
 ყაზანი,Kazan
+ყაზახეთი,Kazakhstan
 ყაზახეთი,Kazakhstan
 ყაპყაპისნაირნი,Coraciiformes
 ყველი,Cheese
 ყვითელი ზღვა,Yellow Sea
 ყინული,Ice
+ყირგიზეთი,Kyrgyzstan
 ყირგიზეთი,Kyrgyzstan
 ყირიმი,Crimea
 ყირიმის ომი,Crimean War
@@ -2954,7 +2914,10 @@ georgian,english
 შერლოკ ჰოლმსი,Sherlock Holmes
 შვარცვალდი,Black Forest
 შვედეთი,Sweden
+შვედეთი,Sweden
 შვეიცარია,Switzerland
+შვეიცარია,Switzerland
+შვეიცარიელები,Swiss people
 შვეიცარული ფრანკი,Swiss franc
 შვიდი,7
 შვრია,Rye
@@ -2962,17 +2925,21 @@ georgian,english
 შიდსი,AIDS
 შივა,Shiva
 შობა,Christmas
+შობა,Christmas
 შოვინიზმი,Chauvinism
 შოკოლადი,Chocolate
 შოტლანდია,Scotland
+შოტლანდია,Scotland
 შოტლანდიური ვისკი,Whisky
 შპიონაჟი,Espionage
+შრი-ლანკა,Sri Lanka
 შრი-ლანკა,Sri Lanka
 შტუტგარტი,Stuttgart
 შუა საუკუნეები,Middle Ages
 შუამდინარეთი,Mesopotamia
 შუმერი,Sumer
 ჩადი,Chad
+ჩაი,Tea
 ჩაი,Tea
 ჩამოხრჩობა,Hanging
 ჩარლზ დარვინი,Charles Darwin
@@ -2981,19 +2948,26 @@ georgian,english
 ჩარლზ პარკერი,Charlie Parker
 ჩარლზ ჩაპლინი,Charlie Chaplin
 ჩესტერ ართური,Chester A. Arthur
+ჩეჩნეთი,Chechnya
+ჩეხეთი,Czech Republic
 ჩეხეთი,Czech Republic
 ჩეხოსლოვაკია,Czechoslovakia
 ჩიკაგო,Chicago
 ჩილე,Chile
+ჩილე,Chile
+ჩინეთი,China
 ჩინეთი,People's Republic of China
 ჩინეთის დიდი კედელი,Great Wall of China
 ჩოგბურთი,Tennis
+ჩოგბურთი,Tennis
 ჩრდილო-დასავლეთი ტერიტორიები,Northwest Territories
+ჩრდილოეთი ამერიკა,North America
 ჩრდილოეთი ამერიკა,North America
 ჩრდილოეთი აფრიკა,North Africa
 ჩრდილოეთი ევროპა,Northern Europe
 ჩრდილოეთი ირლანდია,Northern Ireland
 ჩრდილოეთი კაროლინა,North Carolina
+ჩრდილოეთი კორეა,North Korea
 ჩრდილოეთი კორეა,North Korea
 ჩრდილოეთი ტერიტორია,Northern Territory
 ჩრდილოეთის ზღვა,North Sea
@@ -3001,18 +2975,22 @@ georgian,english
 ცათამბჯენი,Skyscraper
 ცარი,Tsar
 ცეკვა,Dance
+ცეკვა,Dance
 ცენზი,Census
 ცენტრალ პარკი,Central Park
+ცენტრალური ამერიკა,Central America
 ცენტრალური ამერიკა,Central America
 ცენტრალური აფრიკის რესპუბლიკა,Central African Republic
 ცენტრი,Centre
 ცეცხლოვანი მიწა,Tierra del Fuego
+ცივი ომი,Cold War
 ცივი ომი,Cold War
 ცივილიზაცია,Civilization
 ციკლოპები,Cyclops
 ცილები,Protein
 ციყვისებრნი,Sciuridae
 ციცერონი,Cicero
+ცურვა,Swimming
 ცხენბურთი,Polo
 ცხენი,Horse
 ცხოველები,Animal
@@ -3020,9 +2998,12 @@ georgian,english
 ძალა,Force
 ძაღლი,Dog
 ძაღლისებრნი,Canidae
+ძაღლყურძენასებრნი,Solanaceae
 ძენი,Zen
 ძველი ბერძნული ენა,Ancient Greek
 ძველი საეკლესიო სლავური ენა,Old Church Slavonic
+ძველი შუამდინარეთი,Mesopotamia
+ძირითადი კატეგორიები,Fundamental
 ძიუდო,Judo
 ძოწეული წყალმცენარეები,Red algae
 ძუძუმწოვრები,Mammal
@@ -3036,6 +3017,7 @@ georgian,english
 წითელი ზღვა,Red Sea
 წითელი მგელი,Dhole
 წითელი ქმერები,Khmer Rouge
+წლები,Years
 წმინდა გიორგი,Saint George
 წმინდა პეტრე,Saint Peter
 წრე,Circle
@@ -3043,8 +3025,11 @@ georgian,english
 წუთი,Minute
 წყალბადი,Hydrogen
 წყალი,Water
+წყალი,Water
 წყალმცენარეები,Algae
 წყნარი ოკეანე,Pacific Ocean
+წყნარი ოკეანე,Pacific Ocean
+ჭადრაკი,Chess
 ჭადრაკი,Chess
 ჭილყვავი,Rook
 ჭკა,Jackdaw
@@ -3053,16 +3038,22 @@ georgian,english
 ხარკოვი,Kharkiv
 ხატი,Icon
 ხელოვნება,Art
+ხელოვნება,Arts
 ხელოვნებათმცოდნეობა,Art history
 ხელოვნური თანამგზავრი,Satellite
+ხელფრთიანები,Bats
 ხეოფსი,Khufu
 ხერხემლიანები,Vertebrate
 ხი,Chi
+ხიდები,Bridges
 ხიდი,Bridge
+ხილი,Fruit
 ხლოდვიგ I,Clovis I
+ხმელთაშუა ზღვა,Mediterranean
 ხმელთაშუა ზღვა,Mediterranean Sea
 ხმოვანი,Vowel
 ხო ში მინი,Ho Chi Minh
+ხორვატია,Croatia
 ხორვატია,Croatia
 ხორხე ლუის ბორხესი,Jorge Luis Borges
 ხუთი,5
@@ -3071,9 +3062,11 @@ georgian,english
 ჯავა,Java
 ჯავაჰარლალ ნერუ,Jawaharlal Nehru
 ჯაზი,Jazz
+ჯაზი,Jazz
 ჯაკარტა,Jakarta
 ჯაკომო პუჩინი,Giacomo Puccini
 ჯამუ და ქაშმირი,Jammu and Kashmir
+ჯანმრთელობა,Health
 ჯგუფთა თეორია,Group theory
 ჯგუფი,Group
 ჯგუფი,Group
@@ -3140,6 +3133,7 @@ georgian,english
 ჰაინრიხ შლიმანი,Heinrich Schliemann
 ჰაინრიხ ჰიმლერი,Heinrich Himmler
 ჰაიტი,Haiti
+ჰაიტი,Haiti
 ჰაიტი,Hispaniola
 ჰაიფა,Haifa
 ჰაკერი,Hacker
@@ -3155,6 +3149,7 @@ georgian,english
 ჰანუმანი,Hanuman
 ჰარლემი,Harlem
 ჰაროლდ პინტერი,Harold Pinter
+ჰევი მეტალი,Heavy metal
 ჰეკატე,Hecate
 ჰელიოსი,Helios
 ჰელიუმი,Helium
@@ -3164,13 +3159,15 @@ georgian,english
 ჰენრი ჯეიმსი,Henry James
 ჰენრიკ იბსენი,Henrik Ibsen
 ჰერა,Hera
-ჰერაკლე,Hercules
 ჰერაკლე,Heracles
+ჰერაკლე,Hercules
+ჰერალდიკა,Heraldry
 ჰერალდიკა,Heraldry
 ჰერბერტ ჰუვერი,Herbert Hoover
 ჰერმან მელვილი,Herman Melville
 ჰერმან ჰესე,Hermann Hesse
 ჰერმესი,Hermes
+ჰესენი,Hesse
 ჰესენი,Hesse
 ჰესტია,Hestia
 ჰეტეროსექსუალობა,Heterosexuality
@@ -3178,6 +3175,7 @@ georgian,english
 ჰექტარი,Hectare
 ჰექტორ ბერლიოზი,Hector Berlioz
 ჰიდეკი იუკავა,Hideki Yukawa
+ჰიდროლოგია,Hydrology
 ჰიერონიმუს ბოსხი,Hieronymus Bosch
 ჰიმალაი,Himalayas
 ჰიპერბოლა,Hyperbola
@@ -3190,12 +3188,14 @@ georgian,english
 ჰიუსტონი,Houston
 ჰიჯრა,Islamic calendar
 ჰობი,Hobby
+ჰოლანდიელები,Dutch people
 ჰოლივუდი,Hollywood
 ჰოლოთურიები,Sea cucumber
 ჰომეროსი,Homer
 ჰომოსექსუალობა,Homosexuality
 ჰომოფობია,Homophobia
 ჰონდურასი,Honduras
+ჰონკონგი,Hong Kong
 ჰონკონგი,Hong Kong
 ჰონოლულუ,Honolulu
 ჰორაციო ნელსონი,Horatio Nelson

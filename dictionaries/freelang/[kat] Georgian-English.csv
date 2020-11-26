@@ -18,8 +18,8 @@ Other,English
 -dzli(v)-,give
 -g-,this
 -gan,"from a person, by"
--jd-,sit
 -jd(om)-,sit
+-jd-,sit
 -jek-,sit
 -k'(a)l-,kill
 -k'ben-,bite
@@ -45,8 +45,8 @@ Other,English
 -shi,"in, at, to"
 -shvili,child
 -skhd(om)-,sit
--sm-,hear
 -sm(e-i)n-,hear
+-sm-,hear
 -smev-,drink
 -sv-,drink
 -svl-,to go
@@ -61,12 +61,12 @@ Other,English
 -ts'in,in front of
 -ts'ol-,lie
 -ts'v-,burn
--ts-,know
 -ts(em)-,give
+-ts-,know
 -tsn+ob-,know
 -tsod(i)n-,know
--tsur-,swim
 -tsur+a(v)-,swim
+-tsur-,swim
 -tvis,for
 -twis,for
 -ubn-,say
@@ -76,10 +76,36 @@ Other,English
 -ze,on
 -zi-,sit
 ... unda,he wants…
-… ginda?,Do you want …?
-… minda,I want …
-…gvinda,We want...
-…momtsons,I like…
+Chai ginda?,Do you want some tea?
+Chai tu ginda?,Would you like some tea
+Chemtan ertad moxval,You will come with me
+Chemtan ertad moxval?,Will you come with me?
+Dghes kargi amindia,The weather is good today
+Dghes kargi amindia?,Is the weather good today?
+Dghes xom kargi amindia?,The weather is good today
+Inglisuri itsit?,Do you speak English?
+Kartuli ar vitsi,I don't speak Georgian
+Khevs kursl-,heel
+Lari,Georgian currency 1 lari
+Makvs,to have something
+Nu nerviulob!,do not worry!
+Nughar iparav!,Do not steal anymore
+Pexburts aghar vtamashob,I do not play football anymore
+Puli,Money
+Ra ghirs …. ?,How much is..?
+Sakartvelo!,Georgia (1)
+Sakartvelo-d,Georgia (1)
+Sakartvelo-m,Georgia
+Sakartvelo-s,Georgia
+Sakartvelo-s,Georgia
+Sakartvelo-ti,Georgia (1)
+Sakartveloshi,"to Georgia, in Georgia"
+Tamrik'os televizori,the television of Tamriko
+Tbilisi miqwars,I love Tbilisi
+Tsasvla ar minda,I do not want to go
+Veghar vcham,I cannot eat anymore
+Ver gavige,"I don't understand, I do not understand"
+Ver movedi,I could not come
 a-,"this, up"
 a-a-shen-eb-d-nen,it they were to build it
 a-a-shen-eb-d-nen,they would build
@@ -147,9 +173,9 @@ antia,it is lit
 ap'rili,April
 aptiaki,Pharmacy
 ar,"not, Don't"
+ar mesmis,I don't understand
 ar-,to be
 ar-i-s,He is
-ar mesmis,I don't understand
 ara,"No, not"
 arada,or
 arafers,Response
@@ -204,8 +230,8 @@ bandal-,to wobble about
 bank'i,Bank
 baqaqi,frog
 baqv-,haunch
-bar-,to confide
 bar-,diminish
+bar-,to confide
 bard,thistle
 bargi,"luggage, burden"
 bari,Valley
@@ -299,8 +325,8 @@ brchal-,heel
 brcq-in,to glitter
 brdghven-,scowl
 brdghwin-,roar
-brdghwn-,to pluck a bird
 brdghwn-,down
+brdghwn-,to pluck a bird
 brdz-,to fight
 brdzola,to fight
 bre,to make dusty
@@ -330,17 +356,16 @@ butk-,leaf
 butko-,leaf
 buw,owl
 buz-,fly
-bž-en,to lean on
-bž-in,to lean on
 bzar-,a crack
 bzek,to stretch
 bzik,to stretch
 bzik-,wasp
 bzu-,to buzz
-ç'aghara-,grey
-c-,"to make an error, to dip, arrive, to lie"
+bž-en,to lean on
+bž-in,to lean on
 c-,recognize
 c-,to give
+c-,"to make an error, to dip, arrive, to lie"
 c-em-,to give
 ca-,"sky, down"
 ca-re,down
@@ -348,18 +373,18 @@ cab-l-,chestnut
 cacxv-,lime tree
 cad-,"to wait, to wish"
 cal,part
-cal-,"to empty, similar"
 cal-,"peel, he-goat"
 cal-,similar
-cam-,to report
+cal-,"to empty, similar"
 cam-,moment
+cam-,to report
 cam-,to torment
 camcam-,eye-lash
 cami,second
 can-,"recognize, to plait"
 cana,to invite
-cap-,to teach
 cap-,gather
+cap-,to teach
 car-,"wind, to be first"
 carb-,eyebrow
 carmatebebs gisurveb,Good luck
@@ -374,8 +399,8 @@ cd-,give to drink
 ce-,to make an error
 ceb-,"to know, to glue"
 cec,to get entangled
-cec-,to creep up
 cec-,"crumb, to submerge, to stretch"
+cec-,to creep up
 ceck-,"to break, chew"
 cecxl-,fire
 cecxli,fire
@@ -386,8 +411,8 @@ celi,year
 celicadis dro,season
 cen-,to grow
 ceng-,a k. of plant
-cer-,to sift
 cer-,"thumb, to sift, to write"
+cer-,to sift
 cerili,letter (mail)
 cero,crane
 ces-,invite
@@ -407,10 +432,8 @@ cha-u-tsv-am-s,he dressed
 chad-,millet bread
 chadis,he goes down
 chai,"Coffee, tea"
-chai-s,tea
-Chai ginda?,Do you want some tea?
 chai limnit,tea with lemon
-Chai tu ginda?,Would you like some tea
+chai-s,tea
 chais magivrad,instead of tea
 chala,low ground
 cham-,to eat
@@ -433,15 +456,13 @@ chem-o,my
 chemi,my
 chemo k'argo,darling
 chems,my
-Chemtan ertad moxval,You will come with me
-Chemtan ertad moxval?,Will you come with me?
 chen-,to make obvious
 chen-ma,our
-cher-,to cut
 cher-,hold
+cher-,to cut
 cherch-,to grind roughly
-chešmaritat,Happy Easter
 chex-,pierce
+chešmaritat,Happy Easter
 chianchv-el-a,ant
 chichkn-,to dig
 chig-,to chop
@@ -523,8 +544,8 @@ cigni,book
 cik-,"to send, small"
 cikw-,to send
 cil,to pluck
-cil-,"to make an error, nit"
 cil-,peel
+cil-,"to make an error, nit"
 cila-,white of egg
 cin-,to laugh
 cinascarmetqveli,prophet
@@ -612,8 +633,8 @@ cric-,rub out
 crid-,to draft
 crix-,to twine
 crp-el-,clean
-cu-,to whistle
 cu-,roast
+cu-,to whistle
 cuc-,to suck
 cuck-,to whine
 cud-,impotent
@@ -622,8 +643,8 @@ cuk-an-a,small
 cuk-an-a,small
 cul-,male child
 cump-,to get dirty
-cur-,udder
 cur-,"to swim, to ooze, to descend, udder"
+cur-,udder
 curbel-,leech
 curcul,to gurgle
 cuti,minute
@@ -633,10 +654,10 @@ cv-,"take care of, roast"
 cvar-cval-,jump
 cvd-en-,one side of a stone pillar
 cvel-,straw
-cver-,to whet
-cver-,to sink
 cver-,beard
+cver-,to sink
 cver-,to stump wood
+cver-,to whet
 cveri,beard
 cveti,drop
 cvil-,wax
@@ -671,6 +692,8 @@ cxvir-,nose
 cxviri,nose
 d-,lay
 da,"and, sister, if"
+da gqavs,You have a sister
+da ori gogo,and two daughters
 da-,"down over a surface, no meaning"
 da-bad-eb-ul-a,he was born
 da-bad-eb-ul-i-q'-o,he had been born
@@ -716,8 +739,8 @@ da-rch-eb-i-an,they will remain
 da-rch-eb-od-nen,if they were to remain
 da-rch-eb-od-nen,they would remain
 da-rch-nen,they may remain
-da-sv-a,"he seated him, he may seat him, you may seat him"
 da-sv-a,he seated him
+da-sv-a,"he seated him, he may seat him, you may seat him"
 da-sv-a-n,they may seat him
 da-sv-a-s,he may seat him
 da-sv-a-t,you may seat him
@@ -735,8 +758,8 @@ da-ts'er-d-e-s,if he were to write it
 da-ts'er-d-e-t,if you were to write it
 da-ts'er-d-i,you would write it
 da-ts'er-d-i-t,you would write it
-da-ts'er-d-nen,they would write it
 da-ts'er-d-nen,if they were to write it
+da-ts'er-d-nen,they would write it
 da-ts'er-e,you wrote it
 da-ts'er-e-s,they wrote it
 da-ts'er-e-t,you wrote it
@@ -769,8 +792,6 @@ da-v-ts'er-e-t,we wrote it
 da-v-ts'er-o,I may write it
 da-v-ts'er-o-t,we may write it
 da-v-ts'er-t,we will write it
-da gqavs,You have a sister
-da ori gogo,and two daughters
 daba,village
 dabadebidan,since birth
 dabadebis dghe,Birthday
@@ -785,9 +806,9 @@ damp'ali,rotten
 dan-it mo-ch'r-a,He cut it off with a knife
 dana,knife
 daqv-,elbow
+dar-,bad
 dar-,"corresponding, Bad"
 dar-,good weather
-dar-,bad
 dats'eren,they will write
 dats'ola,to squeeze
 datsema,to fall
@@ -816,12 +837,9 @@ dgam-,put
 dgen-,put
 dghab-,to besmear
 dghe,day
-dghe-s,today
 dghe da ghame,day and night
+dghe-s,today
 dghes,today
-Dghes kargi amindia,The weather is good today
-Dghes kargi amindia?,Is the weather good today?
-Dghes xom kargi amindia?,The weather is good today
 dghis-it,by day
 dghl-o,fresh tar
 dghl-u,fresh tar
@@ -909,8 +927,8 @@ dzer-,kite
 dzer-a,kite
 dzg-er-,to pound
 dzger-,to push
-dzgh-,to be satiated
 dzgh-,go first
+dzgh-,to be satiated
 dzghv-,go first
 dzgib-,overfill
 dzgip-,overfill
@@ -925,9 +943,9 @@ dzili,to sleep
 dzili nebisa,Good night
 dzilis magivrad,instead of sleeping
 dzilis shemdeg,after sleep
-dzin-,to sleep
 dzin-,acquire
 dzin-,to look
+dzin-,to sleep
 dzir-,bottom
 dzirkw-,stump
 dzl-ieri,strong
@@ -993,8 +1011,8 @@ element'i,battery
 ena,"tongue, language"
 ena-,tongue
 erdguli,faithful
-ert-,one
 ert mshvenier dghe-s…,One fine day…
+ert-,one
 ertguli,faithful
 erti,one
 erti k'viris shemdeg,a week later
@@ -1007,11 +1025,11 @@ es riti uk'etes-i-a?,In what way is this better?
 es vis-i kolga-a?,Whose umbrella is this?
 ese igi,that is
 espanurad,Spanish
-ešw,pig
 et'ik'eti,label
 etsek'veba,he feels like dancing
-g-,"to thread, to acquire"
+ešw,pig
 g-,to acquire
+g-,"to thread, to acquire"
 g-e-na-tsval-e!,My dear!
 g-e-surv-a,you wished
 g-e-surv-eb-od-a,you would wish
@@ -1073,8 +1091,8 @@ gasvla,Departure
 gatreva,to pull
 gats'menda,to wipe
 gaumarjos,Cheers!
-gaw-,"to sweep, to resemble"
 gaw-,to resemble
+gaw-,"to sweep, to resemble"
 gazapkhuli,Spring
 gazeti,newspaper
 gb-,to boil
@@ -1134,8 +1152,8 @@ ghoch-,crumple
 ghogh-,to wander aimlessly
 ghogho,buffalo calf
 ghom-,a k. of millet
-ghor-,"to deceive, pig"
 ghor-,pig
+ghor-,"to deceive, pig"
 ghori,pig
 ghoris khortsi,Beef
 ghoržo,goby
@@ -1159,8 +1177,8 @@ ghrubeli,cloud
 ghrut-un-,to grunt
 ghrž-u,unpleasant
 ghughun-,to coo of dove
-ghul-,repine
 ghul-,crooked
+ghul-,repine
 ghun-,to bend
 ghv-,possess
 ghvac-,to strive
@@ -1191,8 +1209,8 @@ ginda vicekvot,would you like to dance?
 gircqil,flea
 girko-,acorn
 gisment',Hello
-gl-,"to weep, break"
 gl-,break
+gl-,"to weep, break"
 gles-,to smear
 glež-,to tear
 glis-,to smear
@@ -1208,10 +1226,10 @@ gn-,to understand
 gnebavs vicekvot?,would you like to dance?
 gnebavt vicekvot?,would you like to dance?
 gog-,to proceed
-gogo-s v-khed-av,I see the girl
 gogo da-e-khmar-a,The girl helped him
 gogo da-khmar-eb-i-a,The girl apparently helped him
 gogo da-khmar-eb-od-a,The girl had helped him
+gogo-s v-khed-av,I see the girl
 gogona,young girl
 gogona-s,young girl
 gogos dzaghlis eshinia,The girl is afraid of the dog
@@ -1308,11 +1326,10 @@ ingliseli var,I am English
 ingliseli/amerikeli var,I'm English/American
 inglisidan,from England
 inglisurad,English
-Inglisuri itsit?,Do you speak English?
 ipkl-,wheat
 ipx-l-a,fern
-is,"that, over there"
 is,"he, that"
+is,"that, over there"
 is sakhl-is p'at'ron-i ar-i-s,He is the owner of the house
 ise,in that manner
 ise ra,So so
@@ -1421,8 +1438,8 @@ kališvili,daughter
 kam-,to do
 kan-,shake
 kap',to clash
-kap-,stick
 kap-,chop
+kap-,stick
 kar-,"to scatter ashes, beat, to bind, door"
 kargad,Good
 kari,wind
@@ -1433,7 +1450,6 @@ kart-ul-,Georgian
 kart-v-el-,Georgian
 kartl-,bark
 kartopili,potato
-Kartuli ar vitsi,I don't speak Georgian
 kartveli,Georgian
 kata,cat
 katam-,hen
@@ -1443,8 +1459,8 @@ kb-,tooth
 kb-il-,tooth
 kbili,tooth
 kc-,to turn into
-kec-,"to turn into, to fold"
 kec-,clay pan
+kec-,"to turn into, to fold"
 ked-,neck
 ked-el-,to build
 kedeli,wall
@@ -1465,11 +1481,11 @@ kerki,bark of a tree
 kerkl-,bark
 kert-,scare
 kertl-,bark
-keš-,to suffocate
 ket'ili ikos šeni mobrzaneba,welcome
 ket-,to mix in
 ketil mgzavrobas gisurvebt,Bon voyage
 kex-,to peck
+keš-,to suffocate
 kh'vela,All
 kh-is-gan,made from wood
 khachapuri,the national dish
@@ -1486,7 +1502,6 @@ kheli,hand
 kheli ar makhlo mand,don't touch me there!
 kheoba,valley
 khesavit,like a tree
-Khevs kursl-,heel
 khid.ze,on the bridge
 khidi,Bridge
 khili,"fruit, Poultry"
@@ -1531,8 +1546,8 @@ kmar-,husband
 kmari,husband
 kmin-,to moan quietly
 kn-,shake
-kod-,woodpecker
 kod-,wooden vessel
+kod-,woodpecker
 kod-al-a,woodpecker
 kogho-,mosquito
 koghona-,mosquito
@@ -1542,14 +1557,14 @@ koncx-,summit
 koni,fat
 kop'-,lump
 kop-e,a k. of wine dipper
-kor-,house
 kor-,"hawk, house"
+kor-,house
 kord-,clod
 korts'ilis ts'in,before the wedding
-koš-,to suffocate
-koški,tower
 kovzi,spoon
 kowz-,spoon
+koš-,to suffocate
+koški,tower
 kr-,"to scatter ashes, beat, to bind, to glitter"
 kraw-,lamb
 krb-,to gather
@@ -1567,7 +1582,6 @@ krt-,scare
 krt-n-,to peck
 krus-un-,sigh
 krux-,brood-hen
-kš-,to suffocate
 ksov-,to weave
 ku-,tortoise
 kuc-,to crush
@@ -1609,8 +1623,8 @@ kvevit,down
 kvex-,to fill up
 kvis-el-,brother-in-law
 kvis-l-,brother-in-law
-kviša,sand
 kvisha,sand
+kviša,sand
 kvnes-,sigh
 kvrim-a,a k. of millet
 kw-,to put on
@@ -1636,6 +1650,7 @@ kwm-,smoke
 kwm-in-,to moan
 kwn-,to put on
 kwrdeml-,anvil
+kš-,to suffocate
 l-,to decrease
 l-,to wait
 lag-,to put
@@ -1647,7 +1662,6 @@ lamazad,beautifully
 lamazi,beautiful
 lap-,dirt
 lapan-,bast
-Lari,Georgian currency 1 lari
 laš-,lip
 lb-,soft
 lb-il-,soft
@@ -1703,7 +1717,6 @@ m-xer-v-al-,leading
 m-xi-ar-ul-,joyful
 m-zer-,to look
 m-zir-,to look
-m·martveli,ruler
 ma-,3rd person pronoun
 ma-tl-,maggot
 machv-,badger
@@ -1730,19 +1743,18 @@ maimuni,monkey
 maisi,May
 mak-e,heavy
 makhvil-i,sharp
-Makvs,to have something
 male,soon
 male gamojanmrteldi,Get well soon
 male gamojanmrteldit,Get well soon
 mam-is,father
 mam-it,father
 mama,father
+mama!,father (1)
 mama-,male
 mama-d,father
 mama-m,father
 mama-mis-i,his father
 mama-s,father
-mama!,father (1)
 mamal-,male
 mamiko,dad
 manamde,until then
@@ -1780,10 +1792,10 @@ mat'arebeli,Train
 mat-,to be enough
 mat-i,their
 mat-ma,their
-mat·tan,at their place
 mati,their
 matql-,fleece
 matqli,wool
+mat·tan,at their place
 maxa,a k. of wheat
 maxvili,arrow
 mazeg,in three days' time
@@ -1813,10 +1825,6 @@ mdivnad danishnes,He was appointed secretary
 mdzime,heavy
 mdzval-,bone
 me,I
-me-p-e,king
-me-rcx-al-,to chirrup
-me-sam-e,third
-me-up-e,king
 me m-a-kv-s chem-i gasagheb-i,I have my key
 me minda,I want
 me mkvia ...,My name is...
@@ -1825,6 +1833,10 @@ me uq'ureb,I am looking at it
 me var...,I'm from ...
 me vtskhovrob tbilisshi,I live in Tbilisi
 me vuq'ureb,I am looking at it
+me-p-e,king
+me-rcx-al-,to chirrup
+me-sam-e,third
+me-up-e,king
 measedi,one hundredth
 mebaduri,fisherman
 mebaghe,gardener
@@ -1850,8 +1862,8 @@ mepe,king
 merve,8th
 meser-,palisade
 mesx-,meskh
-met'ad,more
 met'ad,extremely
+met'ad,more
 met'i,more
 met'ismet'ad,exceedingly
 met'ro,Underground
@@ -1892,7 +1904,6 @@ mis-i,his
 mis-i mama,his father
 mis-ma,his
 misi,his
-mišvelet!,help
 mit'ingi,political rally
 mits'a,"earth, land"
 mits'a-ts'q'al-i,homeland
@@ -1907,6 +1918,7 @@ mivdivar,I go
 mivdivart,we go
 mivsts'eret,we have written it to him
 mivts'eret,we have written it to him
+mišvelet!,help
 mjigh-,fistful
 mk'erdi,breast
 mk'vdari,dead
@@ -1959,7 +1971,6 @@ mqw-,fall over
 mrgval-,ring
 mrgvali,round
 mrteli,whole
-mš-,to be hungry
 msgavsi,similar
 mshobl-,parent
 mshoblebis gareshe,without my parents
@@ -1968,9 +1979,6 @@ mshrali,dry
 mshvidobit!,Farewell!
 mskhali,pear
 mskhverpl-,sacrifice
-mšvidoba,peace
-mšvil-d-,bow
-mšwil-,to throw
 msxal-,pear
 msxvil-,stout
 msxwerpl-,clasp
@@ -2000,8 +2008,8 @@ mukhli,knee
 mukhudo,pea
 muql-,angle
 musha,workman
-musha-s-a-vit,like a worker
 musha ak'etebs bevrs,The worker is doing a lot
+musha-s-a-vit,like a worker
 mushaoba,work
 musika,music
 mutseli,belly
@@ -2015,12 +2023,17 @@ mxce-,grey hair
 mxwliv-,lizard
 mze,sun
 mzgavsi,similar
-mžghr-,fade
 mzghv-,to collapse
 mzhagh-e,rank
 mzhewal-,hostage
 mzhigh-,fistful
 mzv-ar-e,sunny place
+m·martveli,ruler
+mš-,to be hungry
+mšvidoba,peace
+mšvil-d-,bow
+mšwil-,to throw
+mžghr-,fade
 n-,to wish
 na-kurc-en-,husk
 na-kvet-,segment
@@ -2045,7 +2058,6 @@ nakhvamdis!,Good bye!
 nam-cwec-,crumb
 naqšir-,coal
 nasoplari,site of former village
-našxir-,coal
 nat-,"to lighten, to wish"
 natel-,light
 natsar-i,ash
@@ -2056,6 +2068,7 @@ navsadguramde,as far as the harbor
 navtobi,petroleum
 naxšir-,coal
 naxširi,coal
+našxir-,coal
 neb-,palm of hand
 nedl-,raw
 nek-,little finger
@@ -2085,9 +2098,7 @@ nogha,lowland
 noghr-,young grass
 nomeri,"number, hotel room"
 nu,"not, Don't, do not"
-Nu nerviulob!,do not worry!
 nughar,"do no longer, no longer"
-Nughar iparav!,Do not steal anymore
 nura,do not
 nurasodes,never
 nursad,nowhere
@@ -2121,8 +2132,8 @@ orshabati,Monday
 otakhi,Room
 otakhshi,into the room
 otkhi,four
-otkhis tkhutmet'i ts'utia,Three fifteen
 otkhis tkhutmet'i ts'utia,3:15
+otkhis tkhutmet'i ts'utia,Three fifteen
 otkhmotsdaati,ninety
 otkhmotsi,"80, eighty"
 otkhshabati,Wednesday
@@ -2160,8 +2171,8 @@ p'remia,prize
 p'roekt'i,draft
 p'rotsent'i,bank interest
 p'rotsesi,court case
-p'ur-i,bread
 p'ur+maril-i,meal for guest
+p'ur-i,bread
 p'uri,bread
 pabrik'a,factory
 pac-a-puc-,to fuss
@@ -2178,8 +2189,8 @@ panjr-eb-i ga-v-ts'mind-e,I cleaned the windows
 pap-,grandfather
 papa,porridge
 papar-,mane
-par-,"to escape, to cover"
 par-,to cover
+par-,"to escape, to cover"
 parcx-,harrow
 parpat-,to flap the wings slowly
 parto,wide
@@ -2207,7 +2218,6 @@ pet-,be scared
 petk-,break
 petv-,millet
 pex-,step
-Pexburts aghar vtamashob,I do not play football anymore
 pexi,leg
 picx-,dry firewood
 pikri,to think
@@ -2216,16 +2226,16 @@ piltv-,lungs
 pimp-il-,earlobes
 pin-,to lay down
 pipin-,to expand
-pir-,to whet the scythe
 pir-,edge
+pir-,to whet the scythe
 piri,mouth
 piris ghebineba,to vomit
 pirmšo,firstborn
 pirtv-,lungs
 pirv-el-,foremost
 pirveli,first
-piš-piš-,to burst
 pit-,to hollow
+piš-piš-,to burst
 pk-,flour
 pkhach'na,to scratch
 pknar-,to yawn
@@ -2265,26 +2275,21 @@ priad,extremely
 prian-,wish
 pric-,to tear
 prinveli,bird
-prta,wing
 prta,feather
+prta,wing
 prtqel-,flat
 prtx-,to quiver
 pruc-un-,to make a sound
 prut-un-,to snort
 prx-,to scratch
 ps-,to urinate
-pšal-a,alder
-pšker-,rhododendron
 psm-,to urinate
-pšv-,crumble
-pšven-,crumble
 puc-,to swear
 puc-uc-,little
 puc-un-a,little
 puch-un-,to whisper
 pugh-ur-o,hollow
 puk-,to empty
-Puli,Money
 puli gakvs,do you have any money?
 puli makvs,I have money
 pupul-,boil
@@ -2308,6 +2313,10 @@ pxot-n-,to dig earth
 pxrec-,to tear
 pxric-,to tear
 pxuc-,to wrinkle
+pšal-a,alder
+pšker-,rhododendron
+pšv-,crumble
+pšven-,crumble
 q'ba,jaw
 q'idulobs,he buys it
 q'inuli,ice
@@ -2332,8 +2341,8 @@ qal-,break
 qan-,to plough
 qana-,cornfield
 qaqa; xorx-,pharynx
-qar-,to stink
 qar-,bull
+qar-,to stink
 qar-,"to throw, bull"
 qarqant-o,throat
 qarqara-,gourd
@@ -2348,14 +2357,14 @@ qavisperi,brown
 qawa rdzit,coffee with milk
 qd-,arrive
 qed-,arrive
-qel-,"neck, hand"
 qel-,"hand, neck"
+qel-,"neck, hand"
 qem-,to be dry
 qen-,to use
 qeq-,to eat a lot
 qev-,ravine
-qid-,"to acquire, Bridge"
 qid-,bridge
+qid-,"to acquire, Bridge"
 qin-,get cold
 qinuli,ice
 qiv-,to cry
@@ -2379,13 +2388,12 @@ qov-n-,to delay
 qovel-,all
 qovl-,all
 qr-,to move
-qr-,to throw
 qr-,"to stink, to throw"
+qr-,to throw
 qrcn-,to be eaten away
 qs-,link
-qš-,link
-qsen-,to remind
 qsen-,foremilk
+qsen-,to remind
 qsov-,to remind
 qu-,to howl
 qu-il-,to howl
@@ -2424,15 +2432,15 @@ qwez-a,bread
 qwr-et-,make a hole
 qwr-it-,make a hole
 qwrel,make a hole
-r-,"to win over, to be"
+qš-,link
 r-,to save
+r-,"to win over, to be"
 ra,what
-ra-ghats-a tkv-a,He said something or other
-Ra ghirs …. ?,How much is..?
 ra ghirs?,"How much is this?, How much does this cost?"
 ra gkvia,What's your name?
 ra gkviat?,"What's your name?, What is your name?"
 ra tkma unda,Of course
+ra-ghats-a tkv-a,He said something or other
 rabo,dike
 racx-,number
 radgan,because
@@ -2442,8 +2450,8 @@ radio ak aris,The radio is here
 raghats-a,something
 raime,anything
 ram,something
-ramden-i-ts sachiro-a,As much as is necessary
 ramden-i mi-v-ts-e?,How much shall I give him?
+ramden-i-ts sachiro-a,As much as is necessary
 ramden-s da-kharj-av?,How much will you spend?
 ramdenad?,how much
 ramdeni,how much
@@ -2473,8 +2481,8 @@ rechx,to gurgle
 recx-,to wash
 regv-,ambush
 rek'lama,advertisement
-rek-,"to drive, hit"
 rek-,hit
+rek-,"to drive, hit"
 religia,religion
 remont'i,repair
 rep'et'itsia,rehearsal
@@ -2503,10 +2511,10 @@ rkm-,to cover
 rkm-,to cover
 rko-,acorn
 rku-,to say
-rkv-,to take apart
 rkv-,to cover
 rkv-,to cover
 rkv-,to say
+rkv-,to take apart
 rkvam-,to cover
 rkvam-,to cover
 ro,that
@@ -2585,8 +2593,8 @@ sadili,Dinner
 sadili,Lunch
 saekimo,medical
 saghamo,evening
-saghamo-s,in the evening
 saghamo mshvidobisa,Good evening
+saghamo-s,in the evening
 saghore,pigsty
 sahli,house
 saidan,from where
@@ -2596,17 +2604,9 @@ saidan xart?,Where are you from?
 sait,to where
 saitk'en,towards where
 sak'redit'o baratebs ighebt?,Do you accept credit cards?
-šakari,sugar
 sakartvelo,Georgia
-Sakartvelo-d,Georgia (1)
-Sakartvelo-m,Georgia
-Sakartvelo-s,Georgia
-Sakartvelo-s,Georgia
-Sakartvelo-ti,Georgia (1)
-Sakartvelo!,Georgia (1)
 sakartvelos dedakalakshi,the capital of Georgia
 sakartvelos respublikashi,Republic of Georgia
-Sakartveloshi,"to Georgia, in Georgia"
 sakepi,axe
 sakhel-ovan-i,renowned
 sakheli,name
@@ -2621,7 +2621,6 @@ sakhuravi,roof
 sakhuravis zemot,above the roof
 sakmis shesakheb,concerning the matter
 sal-,steep
-šal-,to break
 salami!,Hi!
 salata,Fruit
 sam-,three
@@ -2643,18 +2642,16 @@ sarekela,hit
 saretskhi shreba,The washing is drying
 sarke,mirror
 sasiamovnoa,Nice to meet you
-sasiamovnoa šeni gac'noba,Pleased to meet you
 sasiamovnoa tk'veni gac'noba,Pleased to meet you
+sasiamovnoa šeni gac'noba,Pleased to meet you
 sasrev-,to whet
 sast'umro,Hotel
 sastaul-,pillow
 sastumali,ear
 sastumro,hotel
 sastunal-,ear
-šašv-,blackbird
 satite,thimble
 sauzme,Breakfast
-šavi,black
 savse,full
 sax-,to bear
 saxe,face
@@ -2665,24 +2662,12 @@ saž-,to judge
 scar-,to be first
 scr-,to be first
 scrap,to rush
-šd-,to remain
-šdv-,to throttle
-še-,inside
-še-kic-ul-,to plait
-šecerdit!,stop
-šed-,to remain
 sekt'emberi,September
 sel-,flax
 sem-,to hear
-šemodgoma,fall
-šen-,your
-šeni taxeli?,What's your name?
 ser-,evening
 seriali,soap opera
 servant'i,sideboard
-šeša,firewood
-šet-,to remain
-šev-,to give birth
 shabati,Saturday
 sharshan,last year
 sharshants'in,two years ago
@@ -2706,8 +2691,8 @@ shen-i bidza,your uncle
 shen-i tav-i,yourself
 shen-ma,your
 shen-s,your
-sheni-s,your
 sheni chirime!,Darling!
+sheni-s,your
 shenobis ts'in,in front of the building
 shens gamo,because of you
 shens(-a-s) khval mogtsem,I'll give you yours tomorrow
@@ -2730,13 +2715,11 @@ shvidis naxevaria,It is 6.30
 shvidis tkhutmet'i ts'utia,It is 6.15
 shvidjer,seven times
 shvil-eb-o!,Come here; children!
-ši-,to be hungry
 si-c-il-,laughter
 si-cl-o,trifle
 si-qm-il-,hunger
 si-zm-ar-,to dream
 siaruli,to walk
-šib-,grindstone
 sic-il-,to laugh
 sicocxle,life
 sigharibe,poverty
@@ -2750,12 +2733,9 @@ simartle,truth
 simp'atiuri,nice person
 simsxo,thick as
 simur-,damp
-šin-,be scared
-šind-,cornel
 sir-,sparrow
 sirsvil-,scab
 sishi,fear
-šiši,fear
 sisin-,to stuff oneself full
 siskhli,blood
 sisxl-,blood
@@ -2774,8 +2754,6 @@ skd-,to burst
 skd-,to burst
 skel-,clumsy
 skeli,thick
-šker-,rhododendron
-škhami,poison
 skhed-an,They sit
 skheli,thin
 skhva,other
@@ -2786,14 +2764,13 @@ skint-,bird faeces
 skintl-,bird faeces
 skola,school
 skv-,to tie
-šl-,to break
 slek-,to lick
 slik-,to lick
 slok-in-,to hiccup
 sluk-in-,to hiccup
+sm-,to drink
 sm-,"to insert, to hear, to smear, to drink"
 sm-,to smear
-sm-,to drink
 sma,to drink
 soko-,mushroom
 somekhi,Armenian
@@ -2802,25 +2779,20 @@ sopeli,village
 sopleli,villager
 sov-,to be wet
 sovel-,to be wet
-šowa,middle
 sp-,to destroy
 spilendzi,copper
 spilenj-,copper
 spilo,elephant
 sqwen-,loft
 sr-,"to glide, to shoot, to destroy"
-šr-,to be dry
 sres-,to caress
 sret-,to exterminate
-šret-,to extinguish
 sris-,to caress
-šrit-,to extinguish
 srsvil-,scab
 srul-,wholesome
 st'udent'ebis garda,except for the students
 st'vens,he will whistle
 st-,to spin weave
-št-,to remain
 stesia,it is sown
 stk-,to burst
 stk-,to burst
@@ -2829,15 +2801,11 @@ sts'or-ed,precisely
 sts'ori,correct
 stsena,stage
 stumari,guest
-štv-,to throttle
 stw-,to pluck
 stwen-,to whistle
 stwil-,to jump
 stwin-,to whistle
 stwir-,pipe
-šua,middle
-šuaguli,middle
-šubl-,forehead
 sul,entirely
 sul-,scent
 sul-i,soul
@@ -2845,17 +2813,11 @@ suntkva,to breathe
 supra,feast
 suq-,to fatten
 sur-,to sigh
-šur-,envy
 sur-o,ivy
-šurdul-,sling
 sus-,be quiet
-šuš-,roast
-šuva,middle
-šuwa,middle
-sv-,to smear
-sv-,"to insert, to smear"
 sv-,to have
-šv-,"to give birth, to leave"
+sv-,"to insert, to smear"
+sv-,to smear
 sv- svam-,to drink
 svam-,"to insert, to smear"
 svam-,to smear
@@ -2863,19 +2825,12 @@ svan-,Svan
 sve,a plot of land
 svel-,Molke
 svel-,to be wet
-švel-,chamois
 sveli,wet
 sven-,to breathe
-švid-,seven
-švidi,seven
-švil-,child
-švili,child
 svlep-,gobble
 svlip-,gobble
 svre,row
 svrel-,row
-šw-,to resemble
-šwd-,to throttle
 sx-,to bear fruit
 sx-,to sit
 sxal-,pear
@@ -2921,7 +2876,6 @@ tal-,"plane, flint"
 tamada,toast master at a table
 tamashoba,to play
 tambako,tobacco
-Tamrik'os televizori,the television of Tamriko
 tanamshromlisgan,from a work colleague
 tani,body
 tantal-,trail
@@ -2950,14 +2904,13 @@ tbe,dough
 tbili,warm
 tbiliseli,person from Tbilisi
 tbilisi,Tbilisi
-Tbilisi miqwars,I love Tbilisi
 tcudad,Bad
 te-,to contain
 tebervali,February
 tekvsmet'i,sixteen
 tekvsmet'jer,15 times
-tel-,squeeze
 tel-,"pigling, squeeze"
+tel-,squeeze
 ten-,"to get bright, to stuff"
 tep-,keep warm
 tep-,leather strap
@@ -2999,8 +2952,8 @@ tkac,hit
 tkar-,to eat a lot
 tkb-,embrace
 tkeb-,to trample
-tkec-,split
 tkec-,hit
+tkec-,split
 tkep-,to gobble
 tkhoul-ob-s,He asks
 tkhutmet'i,fifteen
@@ -3050,8 +3003,8 @@ top-,to spawn
 toq-,hoe
 torem,or else
 tormet'i,twelve
-tormet'is nakhevaria,Half past eleven
 tormet'is nakhevaria,11:30
+tormet'is nakhevaria,Half past eleven
 tot-,hand
 totkhmet'i,fourteen
 totkhmeti,fourteen
@@ -3118,7 +3071,6 @@ ts-is-a da mits-is per-eb-i,the colors of the sky and of the earth
 tsa,sky
 tsamet'i,thirteen
 tsameti,thirteen
-Tsasvla ar minda,I do not want to go
 tsavidet,let's go
 tsek'vavs,he dances
 tsetskhli,fire
@@ -3152,14 +3104,14 @@ tsurva,to swim
 tsuti,minute
 ttwe-,moon
 tu,"if, and"
-tu-a,udder
 tu ara,as soon as
+tu shedz-lei-ba,please
+tu sheidzleba,Please
 tu šeizleba dacere,Please write it down
 tu šeizleba daceret,Please write it down
 tu šeizleba gaimeore,Please say that again
 tu šeizleba gaimeoret,Please say that again
-tu shedz-lei-ba,please
-tu sheidzleba,Please
+tu-a,udder
 tualeti sad aris,Where's the toilet?
 tuchi,lip
 tumtsa,although
@@ -3258,15 +3210,14 @@ varsk'vlavi,star
 varskvlavi,star
 vart,we are
 varvar-,glitter
+vazhishvili,Son
 vašl-,apple
 vašli,apple
-vazhishvili,Son
 važišvili,son
 vecxl-,silver
 ved-,ask for
 ved-,to go
 veghar,can no longer
-Veghar vcham,I cannot eat anymore
 vej-a,mineral spring
 vel-,field
 veli,field
@@ -3275,8 +3226,6 @@ vent'ilat'ori,fan
 vepkhist'q'aosani,Knight in the Panther's Skin
 vepkhvi,tiger
 ver,"cannot, not verbal negation, which"
-Ver gavige,"I don't understand, I do not understand"
-Ver movedi,I could not come
 vera,cannot
 verasodes,never
 verckhli,silver
@@ -3361,7 +3310,6 @@ xrik-,to turn to coal
 xrtil-,cartilage
 xrut-un-,to snore
 xs-,link
-xš-,link
 xs-en-,to remind
 xs-ov-,to remember
 xsen-,foremilk
@@ -3395,21 +3343,18 @@ xwr-et-,make a hole
 xwr-in-,to snore
 xwr-it-,make a hole
 xwrin-,to snore
-ž-,to exceed
+xš-,link
 z-el-,squeeze
 z-il-,to press
 za-mt-ar-,winter
 za-mtar-,winter
 za-px-ul-,warm
 za-pxul-,summer
-žachv-,chain
 zakv-,instigate
 zalv-ana,trap
 zamtari,Winter
 zap-,sound of falling
 zapkhuli,Summer
-žäq,ham
-žäqi,ham
 zar-,bell
 zar-,to have enough
 zard-,to grow
@@ -3422,8 +3367,6 @@ zeti,oil
 zetisxili,olive
 zev-it,upstairs
 zez-,to pound
-žežg-,to squeeze
-žgha,bifurcated twig
 zghap-,to fall
 zghmartl-,medlar
 zghud-,to fence
@@ -3479,3 +3422,60 @@ zvav-,landslide snow
 zver-,to collect tribute
 zvl-,be destroyed
 zwep-,to pound
+ç'aghara-,grey
+šakari,sugar
+šal-,to break
+šavi,black
+šašv-,blackbird
+šd-,to remain
+šdv-,to throttle
+še-,inside
+še-kic-ul-,to plait
+šecerdit!,stop
+šed-,to remain
+šemodgoma,fall
+šen-,your
+šeni taxeli?,What's your name?
+šet-,to remain
+šev-,to give birth
+šeša,firewood
+ši-,to be hungry
+šib-,grindstone
+šin-,be scared
+šind-,cornel
+šiši,fear
+šker-,rhododendron
+škhami,poison
+šl-,to break
+šowa,middle
+šr-,to be dry
+šret-,to extinguish
+šrit-,to extinguish
+št-,to remain
+štv-,to throttle
+šua,middle
+šuaguli,middle
+šubl-,forehead
+šur-,envy
+šurdul-,sling
+šuva,middle
+šuwa,middle
+šuš-,roast
+šv-,"to give birth, to leave"
+švel-,chamois
+švid-,seven
+švidi,seven
+švil-,child
+švili,child
+šw-,to resemble
+šwd-,to throttle
+ž-,to exceed
+žachv-,chain
+žežg-,to squeeze
+žgha,bifurcated twig
+žäq,ham
+žäqi,ham
+… ginda?,Do you want …?
+… minda,I want …
+…gvinda,We want...
+…momtsons,I like…

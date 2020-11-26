@@ -27,8 +27,8 @@ Arúba,Aruba
 Aserbaídsjan,Azerbaijan
 Aserbaídsjan,Republic of Azerbaijan
 Asóreyjar,Azores
-Austur-Tímor,East Timor
 Austur-Tímor,Democratic Republic of Timor-Leste
+Austur-Tímor,East Timor
 Austurríki,Austria
 Austurríki,Republic of Austria
 Bangladess,Bangladesh
@@ -48,8 +48,8 @@ Bosnía-Hersegóvína,Republic of Bosnia and Herzegovina
 Botsvana,Botswana
 Botsvana,Republic of Botswana
 Bouveteyja,Bouvet Island
-Bresku Indlandshafseyjar,British Indian Ocean Territory
 Bresku Indlandshafseyjar,BIOT
+Bresku Indlandshafseyjar,British Indian Ocean Territory
 Brúnei,Brunei
 Brúnei,Negara Brunei Darussalam
 Búlgaría,Bulgaria
@@ -63,18 +63,22 @@ Cookeyjar,Cook Islands
 Dakar,Dakar
 Danmörk,Denmark
 Danmörk,Kingdom of Denmark
-Djakarta,Jakarta
-Djakarta,Djakarta
 Djakarta,DKI Jakarta
+Djakarta,Djakarta
+Djakarta,Jakarta
 Djíbútí,Djibouti
 Djíbútí,Republic of Djibouti
-Dóminíka,Dominica
 Dóminíka,Commonwealth of Dominica
+Dóminíka,Dominica
 Dóminíska lýðveldið,Dominican Republic
-Egiptaland,Egypt
+ES,EU
+ES,European Union
+ESB,EU
+ESB,European Union
 Egiptaland,Arab Republic of Egypt
-Egyptaland,Egypt
+Egiptaland,Egypt
 Egyptaland,Arab Republic of Egypt
+Egyptaland,Egypt
 Eiffelturninn,Eiffel Tower
 Eistland,Estonia
 Eistland,Republic of Estonia
@@ -85,28 +89,26 @@ El Salvador,Republic of El Salvador
 Erítrea,Eritrea
 Evrópusambandið,EU
 Evrópusambandið,European Union
-ESB,EU
-ESB,European Union
-ES,EU
-ES,European Union
 Eyjahaf,Aegean Sea
 Eþíópía,Ethiopia
 Eþíópía,Federal Democratic Republic of Ethiopia
 Falklandseyjar,Falkland Islands
+Finnland,Finland
+Finnland,Republic of Finland
 Flaemingjaland,Flanders
 Flaemingjaland,Flemish region
 Frakkland,France
 Franska Gvæjana,French Guiana
 Franska Pólýnesía,French Polynesia
 Frönsku suðlægu landsvæðin,French Southern Territories
-Frönsku suðlægu landsvæðin,French Southern and Antarctic LandsA
 Frönsku suðlægu landsvæðin,French Southern and Antarctic Lands
+Frönsku suðlægu landsvæðin,French Southern and Antarctic LandsA
 Frönsku suðlægu landsvæðin,Territory of the French Southern and Antarctic Lands
 Færeyjar,Faroe Islands
 Fídjieyjar,Fiji
 Fídjieyjar,Republic of the Fiji Islands
-Fílabeinsströndin,Ivory Coast
 Fílabeinsströndin,Cote d'Ivoire
+Fílabeinsströndin,Ivory Coast
 Fílabeinsströndin,Republic of Cote d'Ivoire
 Gabon,Gabon
 Gabon,Gabonese Republic
@@ -114,8 +116,8 @@ Gambía,Gambia
 Gambía,Gambia
 Gambía,Gambia
 Gambía,Gambia
-Gambía,The Gambia
 Gambía,Republic of The Gambia
+Gambía,The Gambia
 Gana,Ghana
 Gana,Republic of Ghana
 Georgía,Georgia
@@ -136,9 +138,9 @@ Gyðingdómur,Judaism
 Gíbraltar,Gibraltar
 Gínea,Guinea
 Gínea,Republic of Guinea
+H5N1,A(H5N1)
 H5N1,H5N1
 H5N1,Influenza A virus subtype H5N1
-H5N1,A(H5N1)
 Haítí,Haiti
 Haítí,Republic of Haiti
 Holland,Holland
@@ -155,28 +157,28 @@ Indónesía,Republic of Indonesia
 Jamaíka,Jamaica
 Japan,Japan
 Japan,State of Japan
-Jersey,Jersey
 Jersey,Bailiwick of Jersey
+Jersey,Jersey
 Jól,Christmas
 Jólaeyja,Christmas Island
-Jórdanía,Jordan
 Jórdanía,Hashemite Kingdom of Jordan
+Jórdanía,Jordan
 Kambódía,Cambodia
 Kambódía,Kingdom of Cambodia
 Kamerún,Cameroon
 Kamerún,Republic of Cameroon
+Karabíska hafið,Caribbean Sea
 Kartúm,Khartoum
 Karíbahaf,Caribbean Sea
-Karabíska hafið,Caribbean Sea
 Kasakstan,Kazakhstan
 Kasakstan,Republic of Kazakhstan
 Katar,Qatar
 Kenía,Kenya
 Kenía,Republic of Kenya
-Kirgistan,Kyrgyzstan
 Kirgistan,Kyrgyz Republic
-Kongó alþýðulýðveldi,Democratic Republic of the Congo
+Kirgistan,Kyrgyzstan
 Kongó alþýðulýðveldi,Congo-Kinshasa
+Kongó alþýðulýðveldi,Democratic Republic of the Congo
 Kostaríka,Costa Rica
 Kostaríka,Republic of Costa Rica
 Króatía,Croatia
@@ -186,30 +188,32 @@ Kíribatí,Republic of Kiribati
 Kólumbía,Colombia
 Kólumbía,Republic of Colombia
 Körfublómaætt,Asteraceae
-Körfublómaætt,sunflower family
 Körfublómaætt,Compositae
-Körfublómaætt,daisy family
 Körfublómaætt,aster family
+Körfublómaætt,daisy family
+Körfublómaætt,sunflower family
 Kúba,Cuba
 Kúba,Republic of Cuba
 Kúveit,Kuwait
 Kúveit,State of Kuwait
 Kýpur,Cyprus
 Kýpur,Republic of Cyprus
-Lesótó,Lesotho
 Lesótó,Kingdom of Lesotho
+Lesótó,Lesotho
 Lettland,Latvia
 Lettland,Republic of Latvia
 Litháen,Lithuania
 Litháen,Republic of Lithuania
-Líbanon,Lebanon
+Lyðveldið Ísland,Iceland
+Lyðveldið Ísland,Republic of Iceland
 Líbanon,Lebanese Republic
+Líbanon,Lebanon
 Líbería,Liberia
 Líbería,Republic of Liberia
-Líbýa,Libya
 Líbýa,Great Socialist People's Libyan Arab Jamahiriya
-Lúxemborg,Luxembourg
+Líbýa,Libya
 Lúxemborg,Grand Duchy of Luxembourg
+Lúxemborg,Luxembourg
 Madagaskar,Madagascar
 Madagaskar,Republic of Madagascar
 Makedónía,Macedonia
@@ -221,8 +225,8 @@ Maldíveyjar,Maldives
 Maldíveyjar,Republic of the Maldives
 Malí,Mali
 Malí,Republic of Mali
-Marokkó,Morocco
 Marokkó,Kingdom of Morocco
+Marokkó,Morocco
 Marshalleyjar,Marshall Islands
 Marshalleyjar,Republic of the Marshall Islands
 Martinique,Martinique
@@ -234,22 +238,22 @@ Miðbaugs-Gínea,Equatorial Guinea
 Miðbaugs-Gínea,Republic of Equatorial Guinea
 Mjanmar,Myanmar
 Montserrat,Montserrat
-Máritanía,Mauritania
 Máritanía,Islamic Republic of Mauritania
-Míkrónesía,Micronesia
+Máritanía,Mauritania
 Míkrónesía,Federated States of Micronesia
+Míkrónesía,Micronesia
 Mílanó,Milan
 Mónakó,Monaco
 Namibía,Namibia
 Naíróbí,Nairobi
 Niue,Niue
-Noregur,Norway
 Noregur,Kingdom of Norway
+Noregur,Norway
 Níkaragva,Nicaragua
 Nýja-Kaledónía,New Caledonia
 Nýja-Sjáland,New Zealand
-Pakistan,Pakistan
 Pakistan,Islamic Republic of Pakistan
+Pakistan,Pakistan
 Palá,Palau
 Panama,Panama
 Perú,Peru
@@ -259,14 +263,14 @@ Pólland,Poland
 Púertó Ríkó,Puerto Rico
 Róm,Rome
 Saint-Pierre og Miquelon,Saint-Pierre and Miquelon
-Sambía,Zambia
 Sambía,Republic of Zambia
+Sambía,Zambia
 Samóaeyjar,American Samoa
 Senegal,Senegal
 Serbía,Serbia
 Serbía og Svartfjallaland,Serbia and Montenegro
-Simbabve,Zimbabwe
 Simbabve,Republic of Zimbabwe
+Simbabve,Zimbabwe
 Slóvakía,Slovakia
 Spánn,Spain
 Sri Lanka,Sri Lanka
@@ -275,8 +279,8 @@ Suðurskautslandið,Antarctica
 Svartfjallaland,Montenegro
 Sviss,Switzerland
 Svíþjóð,Sweden
-Sádí-Arabía,Saudi Arabia
 Sádí-Arabía,Kingdom of Saudi Arabia
+Sádí-Arabía,Saudi Arabia
 Sýrland,Syria
 Sýrland,Syrian Arab Republic
 Tansanía,Tanzania
@@ -289,14 +293,14 @@ Tékkland,Czechia
 Tógó,Togo
 Ungverjaland,Hungary
 Ungverjaland,Republic of Hungary
-Vatíkanið,Vatican City
-Vatíkanið,The Holy See
 Vatíkanið,State of the Vatican City
-Vestur-Kongó,Republic of the Congo
+Vatíkanið,The Holy See
+Vatíkanið,Vatican City
 Vestur-Kongó,Congo-Brazzaville
+Vestur-Kongó,Republic of the Congo
 Volga,Volga
-Wallis- og Fútúnaeyjar,Wallis and Futuna
 Wallis- og Fútúnaeyjar,Territory of the Wallis and Futuna Islands
+Wallis- og Fútúnaeyjar,Wallis and Futuna
 Wikiorðabók,Wiktionary
 afkomendur,posterity
 afríkanska,Afrikaans
@@ -320,10 +324,10 @@ armenska,Armenian
 arsen,arsenic
 asfalt,asphalt
 astat,astatine
+astúríska,Astur
 astúríska,Astur-Leonese
 astúríska,Asturian
 astúríska,Asturian-Leonese
-astúríska,Astur
 atóm,atom
 atómmassi,atomic mass
 auka,augment
@@ -347,14 +351,15 @@ bismút,bismuth
 bleyja,nappy
 blinda,dazzle
 blogg,blog
-blogg,weblog
 blogg,web log
+blogg,weblog
 blár,blue
 blóðfræði,haematology
 blóðvökvi,blood plasma
 blý,lead
 bogi,bow
 borgarstjóri,mayor
+brekka,ascent
 brekka,ascent
 brennisteinn,sulphur
 bretónska,Breton
@@ -373,34 +378,33 @@ bílskúr,garage
 bókhald,accountancy
 bór,boron
 danssalur,ballroom
-dauðarefsing,death penalty
 dauðarefsing,capital punishment
+dauðarefsing,death penalty
 dauðarefsing,death sentence
 deila,argument
-rifrildi,argument
 diplómati,diplomat
 djarfur,audacious
 draga að sér,attract
 drekka,drink
+drekka,eat
 drekka,gulp
 drekka,quaff
 drekka,sip
-drekka,eat
 drottning,queen
 drómedari,dromedary
 dulbúningur,camouflage
 dulklæði,camouflage
-dúfa,pigeon
 dúfa,dove
+dúfa,pigeon
+dýralæknir,veterinarian
 dýralæknir,veterinarian
 dýralæknir,veterinary
-dýralæknir,veterinarian
-efnasamband,compound
 efnasamband,chemical compound
+efnasamband,compound
 efni,subject
 efni,topic
-eign,property
 eign,asset
+eign,property
 eimreið,locomotive
 einsteinín,einsteinium
 einveldi,autocracy
@@ -414,10 +418,8 @@ fallhlíf,parachute
 fashani,pheasant
 finnska,Finnish
 fiðrildi,butterfly
-flensa,influenza
 flensa,flu
-inflúensa,influenza
-inflúensa,flu
+flensa,influenza
 flugpóstur,airmail
 flæmska,Flemish
 flúor,fluorine
@@ -427,8 +429,8 @@ framlag,donation
 franska,French
 franska,French
 franska,francium
-fransín,francium
 franska byltingin,French Revolution
+fransín,francium
 freðmýri,tundra
 friðarsinni,pacifist
 frísneska,Frisian
@@ -437,8 +439,8 @@ fuglafræði,ornithology
 fuglasafn,aviary
 furðulegur,astonishing
 fylgihlutur,attachment
-færeyska,Faroese
 færeyska,Faeroese
+færeyska,Faroese
 fé,sheep
 fífill,dandelion
 fórn,sacrifice
@@ -485,7 +487,6 @@ hljóðfæri,musical instrument
 hljóðnemi,microphone
 hlýða,obey
 hollenska,Dutch
-tékkneska,Dutch
 holmín,holmium
 hormón,hormone
 hreindýr,reindeer
@@ -511,7 +512,10 @@ hús,home
 hús,home
 hús,house
 húsameistari,architect
+icelandic,english
 indín,indium
+inflúensa,flu
+inflúensa,influenza
 inniskór,slipper
 iridín,iridium
 japanska,Japanese
@@ -534,10 +538,10 @@ kalkúni,turkey
 kalsín,calcium
 kalín,potassium
 kanína,rabbit
-kartafla,potato
 kartafla,patato
-khmer,Khmer
+kartafla,potato
 khmer,Central Khmer
+khmer,Khmer
 klofvega,astride
 klæða,attire
 klæðnaður,attire
@@ -552,13 +556,13 @@ króatíska,Croatian
 króatíska,Croation
 króm,chromium
 kvikasilfur,mercury
-kyn,sex
 kyn,gender
+kyn,sex
 kænn,artful
 kísill,silicon
 kóbalt,cobalt
-kóngulóarvefur,web
 kóngulóarvefur,spider web
+kóngulóarvefur,web
 kýr,cow
 kýrillískt letur,Cyrillic alphabet
 lampi,lantern
@@ -588,8 +592,8 @@ majónes,mayonnaise
 mangan,manganese
 maur,ant
 melta,assimilate
-meltingarkerfið,gastrointestinal tract
 meltingarkerfið,alimentary canal
+meltingarkerfið,gastrointestinal tract
 mendelevín,mendelevium
 metnaðarlöngun,aspiration
 meðferð,therapy
@@ -603,8 +607,8 @@ málmblanda,alloy
 mánuður,month
 mólýbden,molybdenum
 mörgæs,penguin
-mýfluga,musquito
 mýfluga,mosquito
+mýfluga,musquito
 nafli,belly button
 nafli,bellybutton
 nafli,navel
@@ -626,8 +630,8 @@ náfölur,ashen
 níóbín,niobium
 nóbelín,nobelium
 nóta,note
-núll,zero
 núll,null
+núll,zero
 nýnorska,Nynorsk
 nýtt ár,New Year
 nýtt ár,New Year's Day
@@ -635,11 +639,10 @@ opinber,authoritative
 opinbert tungumál,official language
 osmín,osmium
 palladín,palladium
+persneska,Farsi
 persneska,Persian
 persneska,Western Farsi
-persneska,Farsi
 pizza,pizza
-pítsa,pizza
 platína,platinum
 plógur,plough
 portúgalska,Portuguese
@@ -648,8 +651,9 @@ postulín,porcelain
 praseódým,praseodymium
 protaktín,protactinium
 prómetín,promethium
-pínupils,miniskirt
 pínupils,mini-skirt
+pínupils,miniskirt
+pítsa,pizza
 pólon,polonium
 pólska,Polish
 pólska,Polish
@@ -663,6 +667,7 @@ reiðhjól,bicycle
 reiðhjól,bike
 reiðhjól,cycle
 renín,rhenium
+rifrildi,argument
 rishæð,attic
 rist,instep
 ritstörf,authorship
@@ -672,14 +677,14 @@ ryksuga,vacuum cleaner
 ródín,rhodium
 rós,rose
 rúbidín,rubidium
-rúmenska,Romanian
 rúmenska,Romanaian
+rúmenska,Romanian
 rússneska,Russian
 rússneska,Russian
 rúþen,ruthenium
 safna saman,assemble
-safna saman,get together
 safna saman,gather
+safna saman,get together
 saga,story
 sagnorð,verb
 samarín,samarium
@@ -706,12 +711,12 @@ skór,shoe
 slagæð,artery
 slátra,slaughter
 slátrari,butcher
-sláturhús,slaughterhouse
-sláturhús,slaughter-house
 sláturhús,abattoir
 sláturhús,butchery
 sláturhús,shambles
 sláturhús,slaughter-house
+sláturhús,slaughter-house
+sláturhús,slaughterhouse
 smokkar,cephalopod
 sofandi,asleep
 spakmæli,aphorism
@@ -736,7 +741,6 @@ sár,wound
 sækja,attend
 sænska,Swedish
 sígaretta,cigarette
-vindlingur,cigarette
 sítróna,lemon
 sómalska,Somali
 sómalska,somali
@@ -762,6 +766,7 @@ tyrkneska,Turkish
 tá,toe
 tékkneska,Czech
 tékkneska,Czech
+tékkneska,Dutch
 téténska,Chechen
 téténska,Chechen
 tímabelti,timezone
@@ -772,7 +777,6 @@ umhyggjusamur,attentive
 umsjónarmaður,attendant
 undrun,astonishment
 uppganga,ascent
-brekka,ascent
 vampíra,vampire
 vanadín,vanadium
 vandamál,problem
@@ -786,6 +790,7 @@ velska,Welsh
 verkefni,assignment
 verufræði,ontology
 vetni,hydrogen
+vindlingur,cigarette
 við,nosotros
 við,we
 volfram,tungsten
@@ -811,20 +816,18 @@ zulu,Zulu
 Íran,Islamic Republic of Iran
 Ísland,Iceland
 Ísland,Republic of Iceland
-Lyðveldið Ísland,Iceland
-Lyðveldið Ísland,Republic of Iceland
 Ísrael,Israel
 Ísrael,State of Israel
 Ítalía,Italian Republic
 Ítalía,Italy
 Óman,Oman
 Óman,Sultanate of Oman
-Úganda,Uganda
 Úganda,Republic of Uganda
+Úganda,Uganda
 Þjóðverji,German
 Þjóðverji,German
-Þýskaland,Germany
 Þýskaland,Federal Republic of Germany
+Þýskaland,Germany
 áablýál,actinium
 ágúst,August
 ákafur,avid
@@ -835,8 +838,8 @@ Lyðveldið Ísland,Republic of Iceland
 áreynsla,exertion
 árásarmaður,aggressor
 árásarmaður,assailant
-árásarmaður,attacker
 árásarmaður,assaulter
+árásarmaður,attacker
 ævintÿri,adventure
 ég,I
 íkveikja,arson
@@ -853,8 +856,8 @@ Lyðveldið Ísland,Republic of Iceland
 úrdú,Urdu
 úrdú,Urdu
 þallín,thallium
-þjóðaratkvæðagreiðsla,referendum
 þjóðaratkvæðagreiðsla,plebiscite
+þjóðaratkvæðagreiðsla,referendum
 þruma,thunder
 þyrla,helicopter
 þúsund,thousand
@@ -866,6 +869,3 @@ Lyðveldið Ísland,Republic of Iceland
 þýðing,translation
 Финлянди,Finland
 Финлянди,Republic of Finland
-Finnland,Finland
-Finnland,Republic of Finland
-icelandic,english

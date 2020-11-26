@@ -1,5 +1,4 @@
 Other,English
-boh,god
 a,and
 abát,jacket
 adresa,address
@@ -13,8 +12,8 @@ anglický,english
 april,april
 astra,aster
 august,august
-autobus,bus
 autobus,autobus
+autobus,bus
 autobus,omnibus
 balkón,balcony
 balík,packet
@@ -24,32 +23,33 @@ baranina,mutton
 batožina,baggage
 batožina,luggage
 bavlna,cotton
+benzín,gasolene
 benzín,gasoline
 benzín,petrol
-benzín,gasolene
 bežať,run
+bicykel,bicycle
 bicykel,bike
 bicykel,cycle
-bicykel,bicycle
 bielizník,chest
 bielizník,dresser
-biftek,steak
 biftek,beefsteak
+biftek,steak
 biliard,billiards
 blcha,flea
 blesk,lightning
 boh,god
+boh,god
+bohatý,affluent
 bohatý,rich
 bohatý,wealthy
-bohatý,affluent
 bohatý,well‐off
 bolesť,ache
 bolesť,pain
 bomba,bomb
 bozk,kiss
 brada,chin
-brav,pig
 brav,hog
+brav,pig
 brav,swine
 bravčové mäso,pork
 brať,get
@@ -71,8 +71,8 @@ cesta,route
 cesta,way
 cestovať,travel
 cestovný lístok,bill
-cestovný lístok,ticket
 cestovný lístok,note
+cestovný lístok,ticket
 cestovný pas,passport
 chlapec,boy
 chlapec,lad
@@ -123,6 +123,9 @@ diviak,wildboar
 dlhý,long
 dláto,chisel
 dnes,today
+do videnia,bye
+do videnia,goodbye
+do videnia,so long
 dobré ráno,goodmorning
 dobrú noc,goodnight
 dobrý,good
@@ -138,9 +141,6 @@ domáca obuv,slipper
 doniesť,bring
 doniesť,fetch
 doska na hladenie,ironingboard
-do videnia,bye
-do videnia,goodbye
-do videnia,so long
 drahý,costly
 drahý,dear
 drahý,expensive
@@ -185,8 +185,8 @@ had,serpent
 had,snake
 halienka,blouse
 haring,herring
-hladidlo,iron
 hladidlo,flat‐iron
+hladidlo,iron
 hladny,hungry
 hnedný,brown
 hoblík,plane
@@ -268,21 +268,21 @@ kachle,oven
 kachle,stove
 kajuta,cabin
 kakao,cocoa
-kalamár,well
 kalamár,inkpot
 kalamár,ink‐well
+kalamár,well
 kameň,stone
 kamzík,chamois
-kantína,flask
 kantína,canteen
+kantína,flask
 kantína,water‐bottle
 kapitán,captain
 kapusta,cabbage
 karfiol,cauliflower
 karhať,accuse
 karhať,blame
-karhať,reproach
 karhať,rebuke
+karhať,reproach
 karhať,reprove
 karhať,scold
 kaviareň,café
@@ -367,12 +367,12 @@ kyslý,sour
 kyslý,tart
 kytica,bouquet
 káva,coffee
+kôň,horse
+kôš,basket
 kúpaci oblek,bathingsuit
 kúpaci oblek,bathing‐suit
 kúpať sa,bathe
 kúpať sa,haveabath
-kôň,horse
-kôš,basket
 kľúč,key
 kľúč,wrench
 lacný,cheap
@@ -429,10 +429,10 @@ majster,master
 makaróny,macaroni
 malina,raspberry
 malta,morter
-malý,tiny
 malý,diminutive
 malý,little
 malý,small
+malý,tiny
 mapa,map
 marec,march
 margarín,margarine
@@ -450,8 +450,8 @@ med,honey
 melón,melon
 meno,appellation
 meno,name
-mesiac,moon
 mesiac,month
+mesiac,moon
 mesto,city
 mesto,town
 meter,metre
@@ -487,13 +487,13 @@ mušľa,mussel
 muž,husband
 mydlo,soap
 myš,mouse
-mäsiar,butcher
-mäso,meat
 máj,may
 málo,few
+mäsiar,butcher
+mäso,meat
+môj,my
 múka,flour
 múka,meal
-môj,my
 nadlaktie,upperarm
 nadlaktie,upper‐arm
 najsť,find
@@ -531,8 +531,8 @@ náhrdelník,necklace
 nákladné auto,lorry
 nákladné auto,truck
 námestie,plaza
-námestie,square
 námestie,publicsquare
+námestie,square
 námornik,sailor
 náprsná taška,wallet
 náprstok,thimble
@@ -543,10 +543,10 @@ nástupište,wharf
 náušnica,earring
 nôž,knife
 obchod,boutique
-obchod,shop
-obchod,store
 obchod,business
 obchod,commerce
+obchod,shop
+obchod,store
 obchod,trade
 obchodný dom,warehouse
 obed,dinner
@@ -576,8 +576,8 @@ odpovedať,answer
 odpovedať,reply
 odpovedať,respond
 oheň,fire
-okienko,window
 okienko,ticket‐window
+okienko,window
 oko,eye
 október,october
 okuliare,glasses
@@ -622,8 +622,8 @@ pauza,break
 pauza,intermission
 pauza,pause
 pauza,recess
-paňva,frying‐pan
 paňva,fryingpan
+paňva,frying‐pan
 pažítka,chive
 pekár,baker
 pelerína,cloak
@@ -661,8 +661,8 @@ platiť,pay
 plece,shoulder
 plecák,backpack
 plecák,knapsack
-ploštica,bug
 ploštica,bedbug
+ploštica,bug
 pluh,plough
 plyn,gas
 plásť,coat
@@ -694,10 +694,10 @@ pomlý,leasurely
 pomlý,slowly
 pomník,monument
 pomôcť,abet
+pomôcť,accomodate
 pomôcť,aid
 pomôcť,assist
 pomôcť,help
-pomôcť,accomodate
 pondelok,monday
 ponáhľať sa,gofast
 ponáhľať sa,hurry
@@ -711,16 +711,16 @@ pozajtre,thedayaftertomorrow
 poľubok,kiss
 poštovni úřad,postoffice
 poštová poukázka,moneyorder
-poštová známka,stamp
 poštová známka,postagestamp
+poštová známka,stamp
 pracovať,work
 predať,disposeof
 predať,sell
 predať,vend
 predlaktie,lower‐arm
 prednosta stanice,station‐master
-predná strana,front
 predná strana,battlefront
+predná strana,front
 predná strana,frontage
 predvčerom,thedaybeforeyesterday
 preložiť,translate
@@ -768,9 +768,9 @@ pôjd,garret
 pôrod,birth
 pľúca,lung
 pšenica,wheat
-radnica,town‐hall
 radnica,cityhall
 radnica,townhall
+radnica,town‐hall
 rajčina,tomato
 raňajky,breakfast
 raž,rye
@@ -803,16 +803,16 @@ rovno,straightahead
 rovno,straightalong
 rovnošata,uniform
 rožný dobytok,livestock
-ruda,ore
 ruda,mineral
+ruda,ore
 ruka,hand
 rukavica,glove
 rukavica,mitten
 ruža,rose
 ryba,fish
 ryža,rice
-rád,happy
 rád,glad
+rád,happy
 rádio,radio
 rádio,wireless
 ráno,morning
@@ -820,6 +820,10 @@ rýchlo,fast
 rýchlo,quickly
 rýchlo,swiftly
 rýľ,spade
+s bohom,adieu
+s bohom,bye
+s bohom,farewell
+s bohom,goodbye
 sadnúť si,sitdown
 sane,sledge
 sane,sleigh
@@ -905,8 +909,8 @@ spis,paper
 spodné nohavice,drawers
 spodné nohavice,panties
 spodné nohavice,underpants
-spínadlo,safety‐pin
 spínadlo,safetypin
+spínadlo,safety‐pin
 srdce,heart
 srnec,deer
 stajňa,stable
@@ -950,10 +954,6 @@ svetlo,light
 svíce,candle
 syn,son
 syr,cheese
-s bohom,adieu
-s bohom,farewell
-s bohom,bye
-s bohom,goodbye
 tabak,tobacco
 tajomník,secretary
 tajomníčka,secretary
@@ -1013,9 +1013,9 @@ utorok,tuesday
 uzda,bridle
 uzda,check
 uzda,restraints
+učit sa,learn
 učiteľ,instructor
 učiteľ,teacher
-učit sa,learn
 vajce,egg
 variť,boil
 variť,cook
@@ -1023,14 +1023,14 @@ vaňa,bath
 vcestovanie,arrival
 vchod,entrance
 vchod,portal
-vec,thing
 vec,article
 vec,object
+vec,thing
 veniec,crown
 veniec,garland
 veniec,wreath
-veselý,happy
 veselý,glad
+veselý,happy
 veslo,oar
 vesta,vest
 vesta,waistcoat
@@ -1046,8 +1046,8 @@ veľký,large
 veľmi,quite
 veľmi,very
 veľmi,verymuch
-viazanka,tie
 viazanka,necktie
+viazanka,tie
 vidieť,see
 vidlička,fork
 vietor,wind
@@ -1084,15 +1084,15 @@ vziať,pickup
 vziať,take
 víchor,storm
 víno,wine
+vôl,ox
+východ,east
+východ,east
 východ,exit
 východ,wayout
-východ,east
-východ,east
 vývrtka,corkscrew
 vývrtka,screwdriver
 výťah,elevator
 výťah,lift
-vôl,ox
 včela,bee
 včera,yesterday
 vľavo,ontheleft
@@ -1130,8 +1130,8 @@ zvolna,slowly
 zwiera,animal
 zwiera,beast
 záchod,toilet
-záchranný pás,life‐belt
 záchranný pás,lifebelt
+záchranný pás,life‐belt
 záchranný pás,safety‐belt
 záclona,curtain
 záhrada,garden
@@ -1153,19 +1153,18 @@ zástera,apron
 účet,calculation
 účtovník,book‐keeper
 ĉierne korenie,pepper
-ŝnúrky do topanky,shoe‐lace
 čaj,tea
 čakať,abide
+čakať,await
 čakať,expect
 čakať,wait
-čakať,await
 čakať,waitfor
 čas,time
 čas,while
 čas k jedlu,meal
 čašník,waiter
-čelo,forehead
 čelo,cello
+čelo,forehead
 čerešňa,cherry
 červený,red
 čiapka,cap
@@ -1179,16 +1178,16 @@ zástera,apron
 čizmar,shoemaker
 čižma,boot
 členok,ankle
-človek,man
 človek,humanbeing
+človek,man
 čokoláda,chocolate
 čučoriedka,blueberry
 čísle,amount
 čísle,number
 čítať,read
 čľn,boat
-ďakujem,thankyou
 ďakujem,thanks
+ďakujem,thankyou
 ďaleko,afar
 ďaleko,far
 ďaleko,faraway
@@ -1199,6 +1198,7 @@ zástera,apron
 ľadvina,kidney
 ľan,flax
 ľubiť,love
+ŝnúrky do topanky,shoe‐lace
 šalát,salad
 šampaňské,champagne
 šatka na hlavu,kerchief
@@ -1212,8 +1212,8 @@ zástera,apron
 škaredý,ugly
 škola,school
 špargľa,asparagus
-špendlík,pin
 špendlík,needle
+špendlík,pin
 špenát,spinach
 špinavý,dirty
 špinavý,filthy

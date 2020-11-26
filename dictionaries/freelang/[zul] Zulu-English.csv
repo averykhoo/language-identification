@@ -1,13 +1,13 @@
 Other,English
 -bandayo,"bleak, chilly"
 -banzi,broad
--bi,poor
 -bi,miserable
+-bi,poor
 "-bi, -bolile","bad, nasty"
 -bizayo,"dear, expensive, costly, pricey, valuable"
 -bolile,"miserable, nasty, poor"
--bomvu,"red, brown"
 -bomvu,blushing
+-bomvu,"red, brown"
 "-bomvu, -nsundu",brown
 -bukekayo,"fine, lovely, handsome"
 "-bukekayo, -hle",beautiful
@@ -18,8 +18,8 @@ Other,English
 -ephuzayo,slow
 -gulayo,"ill, sick"
 -hlanu,five
--hlanzekileyo,"pure, clean"
 -hlanzekileyo,clean
+-hlanzekileyo,"pure, clean"
 -hle,"nice, good, okay, pretty"
 -kho,your
 -khulu,large
@@ -30,8 +30,8 @@ Other,English
 -mi,my
 -mnandi,"nice, tasty"
 -mnyama,black
--mpofu,poor
 -mpofu,miserable
+-mpofu,poor
 -ncane,"little, diminutive, small"
 -ne,four
 -ngaki,"how much, how many"
@@ -42,16 +42,24 @@ Other,English
 -nke,"every, everybody, every one"
 -nsundu,brown
 -nye,"else, another, other"
+-nzima,difficult
 -nzima,"inconvenient, hard"
 -phakeme,"important, correct, serious"
 -phi,where
--phi,who
 -phi,which
+-phi,who
 -phuzileyo,"late, tardy"
 -sha,"new, novel, young"
 -shibile,"cheap, inexpensive"
 -shisayo,hot
--nzima,difficult
+KwaZulu,Zululand
+Mnumzane,Mr.
+Nkosazana,Miss
+Nkosikazi,Mrs.
+Une..?,Do you have..?
+Unjani?,how are you?
+Wena unjani?,how are you?
+Yini le?,What is this?
 abafazi,women
 abantu,people
 abantwana,children
@@ -92,18 +100,11 @@ de,long
 eBhayi,Port Elizabeth
 eDandi,dundee
 eDukathole,Germiston
-eduze,"beside, near, at, by, nearby, near to"
 eFilidi,Vryheid
-eginisweni,"in fact, indeed"
-eginisweni,invitation
 eGoli,Johannesburg
 eJalimani,Germany
 eKapa,Cape Province
-ekhaya,at home
-ekugcineni,"finally, at last, ultimately"
-ekuseni,"morning, in the morning"
 eLandani,London
-elimhlophe,white
 eMalitzboko,Pietermaritzburg
 eManzimtoti,amanzimtoti
 eMelika,America
@@ -111,19 +112,34 @@ eMlazi,Umlazi
 eMnambithi,ladysmith
 eMonti,east London
 eMungundlovu,Pietermaritzburg
-emuva,"behind, after"
 eNelspotho,Nelspruit
 eNgilandi,England
-entwasahlobo,"spring, springtime"
 ePitoli,Pretoria
-eqinisweni,"as a matter of fact, actually"
-esiya,which goes
 eSoweto,soweto
 eThekwini,Durban
+eduze,"beside, near, at, by, nearby, near to"
+eginisweni,"in fact, indeed"
+eginisweni,invitation
+ekhaya,at home
+ekugcineni,"finally, at last, ultimately"
+ekuseni,"morning, in the morning"
+elimhlophe,white
+emuva,"behind, after"
+entwasahlobo,"spring, springtime"
+eqinisweni,"as a matter of fact, actually"
+esiya,which goes
 fushane,short
 futhi,"also. likewise, also, likewise, too"
 hamba kahle,"bye, farewell, adieu, goodbye"
 hyena,impisi
+iBhayibheli,bible
+iBhunu,afrikaans
+iBhunu,afrikaner
+iFulentshi,frenchman
+iNdebele,Ndebele
+iNgisi,sassenach
+iNigisi,englishman
+iSonto,Sunday
 iakhawunti,"account (also, ukuethemba), calculation"
 iakhawunti,calculation
 ibhala,wheelbarrow
@@ -134,7 +150,6 @@ ibhasi,"bus, autobus, omnibus"
 ibhasikidi,basket
 ibhavu,bath
 ibhavu,bath
-iBhayibheli,bible
 ibhayisikili,"bicycle, cycle"
 "ibhayisikili, ilibhayisikili",cycle
 ibhayisikobho,movie theatre
@@ -152,8 +167,6 @@ ibhuku,book
 ibhulakufesi,breakfast
 ibhuloho,bridge
 ibhulukwe,"pants, trousers"
-iBhunu,afrikaner
-iBhunu,afrikaans
 ibhunu,boer
 ichibi,lake
 ichibi lokubhukh,swimming pool
@@ -171,7 +184,6 @@ ifilimu,"film, motion picture"
 ifomu,"form, shape"
 ifriji,refrigerator
 ifu,cloud
-iFulentshi,frenchman
 igalaji,garage
 igalofu,golf
 igama,"apellation, name (also, iligama), word, name"
@@ -227,6 +239,7 @@ ilanga,sun
 ilantshi,snack
 ilayisense lokushayela,driving-licence
 ilayisi,rice
+iliBhunu,afrikaner
 ilibhasi,"autobus, omnibus"
 ilibhasikidi,basket
 ilibhayisikili,"bicycle, bike"
@@ -236,7 +249,6 @@ ilibhodlela,bottle
 ilibhotela,butter
 ilibhuku,book
 ilibhunu,boer
-iliBhunu,afrikaner
 ilidamu,dam
 ilidazini,dozen
 ilifilimu,motion picture
@@ -260,8 +272,8 @@ ilimeniyu,manager
 ilintogomane,peanut
 ilipensele,pencil
 ilipentshisi,peach
-iliphakethe,parcel
 iliphakethe,packet
+iliphakethe,parcel
 iliphepha,paper
 iliphephandaba,"gazette, newspaper, periodical"
 iliphephandaba,magazine
@@ -273,8 +285,8 @@ iliposikhadi,postcard
 ilipulamu,plum
 ilipulazi,"farm, property, ranch"
 "ilipulazi, ipulazi",estate
-ilipuleti,"platter, plate"
 ilipuleti,dish
+ilipuleti,"platter, plate"
 "iliqanda, iqanda",egg
 iliqiniso,"reality, truth"
 ilirandi,"border, brim, brink, edge, edging, fringe, rand"
@@ -310,8 +322,8 @@ iliyunivesithi,university
 ilizinyo,tooth
 ilizu,zoo
 ilizulu,"sky, heaven, weather"
-ilokwe,gown
 ilokwe,dress
+ilokwe,gown
 imali,money
 imbuzi,goat
 imephu,map
@@ -329,7 +341,6 @@ impisi,hyaena
 incwadi,"book. letter, book, letter"
 indaba,"matter, affair, business, case, deal"
 indawo,"chamber, location, spot, place"
-iNdebele,Ndebele
 indiza,"aeroplane, aircraft, airplane, plane"
 indlebe,ear
 indlela,"road, route, way"
@@ -341,7 +352,6 @@ indolowane,elbow
 ingadi,garden
 ingane,"offspring, child, brain, infant, young"
 ingilazi,glass
-iNgisi,sassenach
 ingoma,song
 ingubo,skirt
 ingulube,"hog, pig, swine"
@@ -351,9 +361,8 @@ ingxoxo,dialogue
 inhlanhla,luck
 inhlanzi,fish
 inhliziyo,heart
-inhloboni,what sort of
 inhloboni,what kind of
-iNigisi,englishman
+inhloboni,what sort of
 injini,motor
 injongo,"plan, meaning, intention"
 inkinga,"problem, trouble"
@@ -397,8 +406,8 @@ inyanga,month
 inyathi,buffalo
 inyathi,buffalo
 inyoni,bird
-inyuziphepha,"journal, daily paper"
 inyuziphepha,daily paper
+inyuziphepha,"journal, daily paper"
 ipasi lokuhamba,passport
 iphephandaba,newspaper
 ipholisitheshi,police station
@@ -409,9 +418,9 @@ iposikhadi,postcard
 ipulazi,"farm, property, ranch"
 ipuleti,"course, dish, plate"
 iqanda,zero
+irandi,"edge, rand, rim"
 irandi,edging
 irandi,fringe
-irandi,"edge, rand, rim"
 irediyo,"radio, ray"
 irente,interest
 irestoranti,restaurant
@@ -437,6 +446,27 @@ ishumi nesishivagalombili,eighteen
 ishumi nesishiyagalolunye,nineteen
 ishumi nesishiyagalombi,eighteen: 1.
 ishumi nesithupha,sixteen
+isiFulentshi,French
+isiFulentshi,french language
+isiJalimane,German
+isiJalimane,german language
+isiKoshi,scot
+isiKoshi,scotsman
+isiNdebele,Ndebele
+isiNgisi,"English, english language"
+isiPedi,Pedi
+isiPedi,Pedi language
+isiShayina,Chinese
+isiSpeyini,Spanish
+isiSuthu,Sotho
+isiSuthu,sotho language
+isiSwati,Swazi
+isiTsonga,tsonga
+isiTsonga,tsonga language
+isiVenda,Venda
+isiVenda,venda language
+isiXhosa,Xhosa
+isiZulu,"Zulu, zulu language"
 isibane,light
 isibhedlela,"hospital, hostipal"
 isibili,two
@@ -444,16 +474,12 @@ isibongo,first name
 isicathulo,shoe
 isifuba,chest
 isifuba,chest
-isiFulentshi,french language
-isiFulentshi,French
 isigidi,"million, one million"
 isigodi,valley
 isihalo,chair
 isihlalo,chair
 isihlanu,five
 isihlobo,relative
-isiJalimane,German
-isiJalimane,german language
 isikebhe,"ship, vessel"
 isikhanthi,while
 isikhathi sakusihlwa,evening
@@ -461,34 +487,23 @@ isikhiye,"key, wrench"
 isikhombisa,seven
 isiko,"custom, habit, way"
 isikole,school
-isiKoshi,scotsman
-isiKoshi,scot
 isikwele,square
 isikwenetu,bill
 isilwane,animal
 isimemo,invitation
 isimungumungwane,measles
-isiNdebele,Ndebele
-isiNgisi,"English, english language"
 isinkwa,"loaf, bread"
-isiPedi,Pedi language
-isiPedi,Pedi
 isiphepho,storm
 isipho,"gift, present"
 isiphosiso,"mistake, error, aberration"
-isiphuzo,drink
 isiphuzo,"beverage, drink"
+isiphuzo,drink
 isipunu,spoon
 isiqhephu,"lump, piece, bit"
 isisebenzi,"hand, operative, laborer, worker, working man"
-isiShayina,Chinese
 isishiyagalolunye,nine
 isishiyagalombili,"eight, eigth"
-isiSpeyini,Spanish
 isisu,stomach
-isiSuthu,sotho language
-isiSuthu,Sotho
-isiSwati,Swazi
 isitaladi,street
 isiteki,steak
 isitembu,"postage stamp, stamp"
@@ -500,15 +515,8 @@ isitmela,train
 isitolo,"store, shop, boutique"
 isitsha,"course, dish, plate"
 isitshudeni,"academic, student"
-isiTsonga,tsonga language
-isiTsonga,tsonga
-isiVenda,Venda
-isiVenda,venda language
-isiXhosa,Xhosa
-isiZulu,"Zulu, zulu language"
 isizwe,nation
 isobho,soup
-iSonto,Sunday
 isonto,church
 isositshi,sausage
 itanki,"cistern, tank"
@@ -581,7 +589,6 @@ kushisa,hot: is ~
 kuthangi,the day before yesterday
 kuthathu,three
 kwamabili,midnight
-KwaZulu,Zululand
 lakho,your
 lala(ni) kahle,good night
 lapha,here
@@ -593,7 +600,6 @@ loyedwa,for one
 lutho,nothing
 manje,"at present, now"
 masinya,soon
-Mnumzane,Mr.
 na,and
 namhlanje,today
 namuhla,today
@@ -632,8 +638,6 @@ nini,when
 ninjani?,"How are you?, how do you do?"
 nje,just
 nke,all
-Nkosazana,Miss
-Nkosikazi,Mrs.
 nkulu,big
 nobhontshisi,beans
 nokho,"nevertheless, but, however, yet"
@@ -661,32 +665,52 @@ qonda,go towards
 qondile,straight
 sakhe,his
 sami,my
-sawubona,"good evening, good day"
-sawubona,hello
 sawubona,good afternoon
+sawubona,"good evening, good day"
 sawubona,good morning
+sawubona,hello
 sethu,our
 si-,we
 sivaliwe,closed
 sivuliwe,open
 sizobonana,so long
-thina,we
 thina,us
+thina,we
 u,"you (sing. familiar), you (sing.fam.)"
 u-,"he, she"
 u-,you (sing.)
 u-ayisikhilimu,ice cream
 uAgaste,august
-uanyanisi,onion
 uApreli,april
+uDisemba,december
+uFebruwari,february
+uJanuwari,january
+uJulayi,July
+uJuni,June
+uKhisimuzi,Yule
+uKhrisimuzi,Christmas
+uLwesibili,Tuesday
+uLwesihlanu,Friday
+uLwesine,Thursday
+uLwesithathu,Wednesday
+uMeyi,may
+uMgqibelo,"Saturday, sabbath"
+uMsindisi,savior
+uMsombuluko,Monday
+uNkulunkulu,God
+uNovemba,november
+uOktoba,october
+uSepthemba,september
+uWeta,waiter
+uanyanisi,onion
 uayiskhrimu,ice
 ubaba,"father, Mister, gentleman, lord, sir"
-ubani,who
 ubani,which
+ubani,who
 ubhanana,banana
 ubhejane,"rhinoceros: black ~, black rhinoceros"
-ubhiya,beer
 ubhiya,ale
+ubhiya,beer
 ubhontshisi,bean
 ubhontsshisi,bean
 ubhuti,brother
@@ -701,11 +725,9 @@ ubuso,face
 ubusuku,night
 ucingo,telephone
 udebe,lip
-uDisemba,december
 udokotela,"physician, doctor"
 udokotela wamazinyo,dentist
 udokotela wamazinyo,dentist
-uFebruwari,february
 ufudu,tortoise
 ufuna,want: you ~
 ugogo,grandmother
@@ -714,29 +736,24 @@ ugwayi,tobacco
 uhambo,travel
 uhlalaphi?,Where do you live?
 uhlaza,vegetable
-uhulumeni,government
 uhulumeni,administration
+uhulumeni,government
 ujamu,"jam, marmelade"
 ujantsi wesitimela,"railroad, railway"
-uJanuwari,january
-uJulayi,July
-uJuni,June
-uKhisimuzi,Yule
 ukholifulawa,cauliflower
 ukholifulawa,cauliflower
 "ukhozi, ulukhozi",eagle
-uKhrisimuzi,Christmas
 ukhuluna isi...,Do you speak...
 ukuakha,"build, construct"
 ukuala,refuse
 ukuala,reject
-ukuamukela,"take, receive, take in"
 ukuamukela,accept
+ukuamukela,"take, receive, take in"
 ukuanele,suffice
-ukuazi,"know, be acquainted with"
 ukuazi,acquainted with: be ~
-ukuazisa,"introduce, offer, present, present with"
+ukuazi,"know, be acquainted with"
 ukuazisa,"give, tender"
+ukuazisa,"introduce, offer, present, present with"
 ukubaleka,abscond
 ukubamba,"hold, hang on to, hang onto"
 ukubhala,write
@@ -747,8 +764,8 @@ ukubhukuda,"float, swim, swin"
 ukubika,"give an account of, report, give an account"
 ukubila,boil
 ukubila,boil
-ukubiza,"summon, call"
 ukubiza,call
+ukubiza,"summon, call"
 ukuboleka,"loan, lend, borrow"
 ukubona,see
 ukubuhlungu,"hurt, ache"
@@ -766,8 +783,8 @@ ukudla,"food, meal, nourishment"
 ukudlala,play
 ukueba,steal
 ukuedlula,"pass by, overtake"
-ukuehlukile,"different: be ~, be different, differ"
 ukuehlukile,differ
+ukuehlukile,"different: be ~, be different, differ"
 ukuehluleka,"fail, miscarry, abort"
 ukuejwayele,"accustom, be in the habit of"
 ukuejwayele,habit of: be in the ~
@@ -776,17 +793,17 @@ ukuenzeka,"happen, occur, come about"
 ukuesaba,"afraid of: be ~, fear, be afraid of"
 ukuesula,delete
 "ukuesula, ukusula",delete
-ukuethemba,"hope, believe, accredit, confide, deem, entrust"
 ukuethemba,"have faith, have confidence in, have faith in"
+ukuethemba,"hope, believe, accredit, confide, deem, entrust"
 ukuethula,"give, present with, put on the stage"
 ukufa,death
 ukufanele,"ought to, must, have to, should"
 ukufika,"get, come, end up, arrive, arrival"
-ukufisa,"desire, wish"
 ukufisa,desire
+ukufisa,"desire, wish"
 ukufuna,"willing to: be ~, be willing to, want, wish"
-ukufunda,study
 ukufunda,read
+ukufunda,study
 ukufundisa,teach
 ukugcina,"end, expire, conserve, come to an end, keep"
 ukugcwalisa,"fill up, fill in, fill"
@@ -812,10 +829,10 @@ ukukhokha,pay
 ukukhombisa,"indicate, point out, show"
 ukukhukhuleka,erosion
 ukukhuluma,"speak, talk"
-ukukhumbula,recollect
 ukukhumbula,"recall, remember"
-ukukhumula,take off
+ukukhumbula,recollect
 ukukhumula,put off
+ukukhumula,take off
 ukukhwehlela,cough
 ukukhwehlela,cough
 ukulalela,listen
@@ -831,9 +848,9 @@ ukunti,tell
 ukunye,one
 ukuomile,"thirsty: be ~, be thirsty"
 ukupaka,"parking, park"
+ukuphakamisa,commend
 ukuphakamisa,recommend
 ukuphakamisa,"suggest, commend"
-ukuphakamisa,commend
 ukupheka,cook
 ukuphendula,"answer, reply, respond"
 ukuphikisa,deny
@@ -860,8 +877,8 @@ ukusebenzisa,"make use of, employ, use"
 ukushanela,sweep
 ukushayela,drive
 ukushintsha,change
-ukusika,"slice, cut"
 ukusika,cut
+ukusika,"slice, cut"
 ukusina,dancing
 ukusiza,"assist, help, aid, account"
 ukusukuma,"get up, arise, rise, stand, stand up"
@@ -869,8 +886,8 @@ ukusuthi,"full: be ~, have enough, be full"
 ukuthanda,"appreciate, like"
 ukuthandaza,pray
 ukuthatha,"get, obtain, lay hold of"
-ukuthela,"shed, scatter"
 ukuthela,pour
+ukuthela,"shed, scatter"
 ukuthenga,"acquire, buy, take over, purchase"
 ukuthengisa,"dispose of, sell, vend"
 ukuthi,"that, say"
@@ -879,16 +896,16 @@ ukuthula,"quiet: be ~, be quiet"
 ukuthumela,"send, transmit"
 ukutshela,"narrate, relate"
 ukuvakashela,"attend, call on, visit"
+ukuvala,shut off
 ukuvala,stop
 ukuvala,"switch off, turn off"
-ukuvala,shut off
 ukuvalelisa,"take leave, take, take leave from, say goodbye"
 ukuvota,vote
 ukuvuka,wake up
 ukuvula,wake
 ukuwina,"gain, win"
-ukuxolela,pardon
 ukuxolela,forgive
+ukuxolela,pardon
 ukuya,go
 ukuza,come
 ukuzalwa,"born: be ~, arise, be born"
@@ -904,11 +921,15 @@ ululimi,"language, tongue"
 ulunwele,hair
 ulwandle,"ocean, sea"
 ulwazi lwesihambi,tourist information
-uLwesibili,Tuesday
-uLwesihlanu,Friday
-uLwesine,Thursday
-uLwesithathu,Wednesday
 um Zulu,zulu
+umHholandi,Hollander
+umHholandi,dutchman
+umNgisi,sassenach
+umPedi,Pedi
+umSuthu,Sotho
+umSwati,Swazi
+umTsonga,tsonga
+umXhosa,Xhosa
 uma,lady
 umabhalane,"clerk, receptionist"
 umabonwakude,"television set, TV set"
@@ -931,18 +952,14 @@ umbiko,message
 umbulo,music
 umbuzo,question
 umdayisi,ticket-seller
-uMeyi,may
 umfana,"lad, boy, laddie"
 umfazi,woman
 umfula,river
 umfundisi,pastor
 umgqekesi,burglar
 umgqekezi,burglar
-uMgqibelo,"Saturday, sabbath"
 umgwapo,route
 umgwaqo,"road, way"
-umHholandi,Hollander
-umHholandi,dutchman
 "umhla, ulusuku, usuku",day
 umhlaba,world
 umhlangano,encounter
@@ -965,44 +982,31 @@ umncintiswano,competition
 umndeni,damily
 umngane,friend
 umngcwabo,"funeral, burial, interment"
-umNgisi,sassenach
 umntwana,"child, brain, infant"
 umnyaka,year
 umnyango,door
 umoya,"air, wind"
-umPedi,Pedi
 umphimbo,throat
 umphimbo,throat
 umsakazo,"ray, wireless"
 umsebenzi,job
 umshini,"engine, machine"
-uMsindisi,savior
 umsipha,muscle
-uMsombuluko,Monday
-umSuthu,Sotho
-umSwati,Swazi
-umTsonga,tsonga
 umuntu,person
 umuntu osekhulile,"adult, grown up, grown-up"
 umusa,kindness
 umusho,sentence
-umuthi,medicine
 umuthi,"drug, pharmaceutical"
+umuthi,medicine
 umuzi,"family, village"
-umXhosa,Xhosa
 umyeni,husband
 umzali,parent
-Une..?,Do you have..?
 ungubani igama lakho?,What's your name?
-Unjani?,how are you?
 unjiniyela,engineer
-uNkulunkulu,God
 unobhange,teller
-uNovemba,november
 unwele,hair
 unyaka,year
 unyawo,foot
-uOktoba,october
 uowoyela,oil
 upelepele,pepper
 uphayinaphu,pineapple
@@ -1013,7 +1017,6 @@ uphopho,"papaya, pawpaw, papaw"
 uphuthini,pudding
 usawoti,salt
 usayizi,"extend, dimension, bulk, size"
-uSepthemba,september
 ushizi,cheese
 ushizi,cheese
 ushukela,sugar
@@ -1024,21 +1027,18 @@ usuku lokuzalwa,birthday
 utamatisi,tomato
 uthisha,"instructor, teacher"
 utshwala,"beer, brew, ale"
-uWeta,waiter
-uwiski,whisky
 uwiski,whiskey
+uwiski,whisky
 uxolo,"please, excuse me"
 uyakwazi,know: do you ~
 uyamukelwa,you're welcome
 uyaphi?,Where are you going?
 wamukelekile,welcome: you are ~
 wena,"thou, ye, you"
-Wena unjani?,how are you?
 yamazwe,countries: of ~
 yami,my
 yebo,yes
 yini,what is
-Yini le?,What is this?
 yini ndaba,what for
 yini ndaba,wherefor
 yini ndaba,why

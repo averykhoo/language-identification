@@ -91,20 +91,13 @@ Other,English
 -balula,to turn
 -banda,to begin
 -banga,to have
--bánga,to fear
 -bangisa,to be afraid
--bánza,to think
--bébisa,to make dirty
--bénda,to pull
 -benga,to call
 -bengana,to hunt
--bésu,green
 -beta,to hit
--bÉtE,to hit
 -bima,to get out
 -bimisa,to get out
 -bina,to dance
--bísa,to rub
 -boma,to kill
 -bomba,to hide
 -bombama,to be hidden
@@ -117,17 +110,19 @@ Other,English
 -bunda,to fight
 -bwáka,to throw
 -bwáka nsói,to spit
+-bÉtE,to hit
+-bánga,to fear
+-bánza,to think
+-bébisa,to make dirty
+-bénda,to pull
+-bésu,green
+-bísa,to rub
 -fanda,to sit
 -finga,to insult
 -fungola,to open
 -futa,to pay
 -futela,to pay for
 -ganga,to shout
--íbalé,two
--índo,black
--ínei,four
--ísáto,three
--ítáno,five
 -kaba,to give
 -kakola,to bargain
 -kalinga,to grill
@@ -135,94 +130,97 @@ Other,English
 -kanga,"to tie, to close"
 -kangisa,to squeeze
 -kanisa,to think
--káta,to cut
--kátakata,to cut
 -kauka,dry
--ké,thin
--ké,small
--ké,narrow
 -keba,pay attention
 -kende,"to leave, to go"
 -kima,to run away
 -kisa (action),to sit
 -kita,to land
--koka,to know
--koka,to can
 -koka,suffer
+-koka,to can
+-koka,to know
 -kokisa mibu 10,to be 10 years
 -kola,to grow
 -koma,to write
--kóta,to scratch
--kpâ,to fall
 -kpaka,to scratch
 -kpala,to scratch
+-kpâ,to fall
+-káta,to cut
+-kátakata,to cut
+-ké,narrow
+-ké,small
+-ké,thin
+-kóta,to scratch
 -kúfa,to die
 -kúsé,short
--laí,"wide, long"
+-lamuka,to stand
 -laí,long
+-laí,"wide, long"
+-loba,to say
 -lála,to sleep
 -lálisana (action),to lie (as in a bed)
--lamuka,to stand
 -lía,to eat
 -línga,to tie
--loba,to say
 -mele,to drink
 -móno,to see
--néne,big
--néne,"thick, long"
--néne,long
--núnga,to suck
--núsa,to smell
 -nyaka,to scratch
 -nyanya,to swim
 -nyúnya,to suck
--óko,one
+-néne,big
+-néne,long
+-néne,"thick, long"
+-núnga,to suck
+-núsa,to smell
+-pEpE,to blow
 -pangwisa,to wipe
 -pasola,to split
--pela,to burn
 -pela,"sharp, to burn"
--péma,to breathe
--pémela,to blow
--pEpE,to blow
--pésa,to give
+-pela,to burn
 -pimbwa,to fly
 -polo,to go rotten
+-péma,to breathe
+-pémela,to blow
+-pésa,to give
+-sEkE,to laugh
 -sakana,to play
 -sana,to play
--sánza,to vomit
--sEkE,to laugh
 -sono,to sew
 -sukola,to wash
--súsu,other
 -swâ,to bite
--támbola,to walk
--táne,yellow
--táné,red
--tánga,to count
--télema (action),to stand
+-sánza,to vomit
+-súsu,other
 -tepa,to float
 -tetwa,to float
 -tika,to stop
--tímola,to dig
 -to,to push
 -toko,to warm up
+-támbola,to walk
+-táne,yellow
+-tánga,to count
+-táné,red
+-télema (action),to stand
+-tímola,to dig
 -túnga,to swim
 -túnú,dull
--úta,to come
 -vánda,"to live, to sit"
 -vánda,to sit
 -vímba,to swell
--yâ,to come
 -yáa,to come
+-yâ,to come
 -yéba,to know
 -yémba,to sing
 -yóka,to hear
 -zíka,to burn
 -zínga,to tie
+-íbalé,two
+-índo,black
+-ínei,four
+-ísáto,three
+-ítáno,five
+-óko,one
+-úta,to come
 ... tÉ,not
 1 (na zali na pasi té),1 (not in pain)
-a,she
-a- (person),he
 Afrika,"Afrika, Africa"
 Afuteli ngai basapato,He paid me for the shoes
 Akei,he goes
@@ -234,16 +232,12 @@ Akomi naino you,it didn't yet arrive
 Akopesa,he will give
 Akosi ngai,He deceived me
 Akufi,He died
-alati,to dress
 Alati liputa,She wears a loincloth
 Alie,he eats
-alimá,straight
-alimá,correct
 Alingi,he loves
 Alingi koyemba,it likes to sing
 Alobaka lingala malamu,He speaks the lingala well
 Ameli masanga mingi,He drank a lot of alcohol
-ananasi,pineapple
 Annoys liputa oyo,Look at this loincloth
 Apesaki,he gave
 Apesaki ye mbongo,it gave him of money
@@ -255,7 +249,6 @@ Asimbi ekolo,it carries the basket
 Atangeli ngai mokanda,it read me this letter
 Avandaka,he lives
 Avandi wapi?,Where is she foundation?
-áwa,here
 Ayanoli you ezali malamu,it answered that it is well
 Ayebisi ngai you akei Mpoto na,He made me known that
 Azali,he is
@@ -279,173 +272,57 @@ Azali ya mayele,He is intelligent
 Azali zoba,it is silly
 Azikisi mokanda na ngai,He burned my letter
 Azwi mikanda,He got his papers
-ba- (persons),they
 Ba sanza boni?,How many months pregnant are u
-babali,men
-babiki,ballpoint pen
 Babomi mokonzi,One killed the chief of the village
-babuku,books
-baembi,singers
-bafoto,photos
-baibi,thieves
-baindo,black
-bakamundele,skewer
 Bakangi moyibi,One stopped the thief
 Bakei,they go
-bakelasi,classes
-bakilo,daughter-in-law
-bakilo,son-in-law
-bakiti,chairs
 Bakolamba,they cook
-bakombo,brooms
 Bakopesa,they'll give
-bakopo,glasses
 Bakopo ezali na mesa,The glasses are on the table
 Bakopo wapi?,Where are the glasses?
 Bakopo yango ezali kitoko,These cups are pretty
 Bakoti na ndako,They entered in the house
-balabála,road
-balakisi,professors
-balambi,cooks
-baleki,junir sisters
 Balie,they eat
 Balingi,they love
-baluto,spoon
-bamakako,monkeys
-bamama,mothers
-bamama-kulutu,aunts
-bamama-leki,aunts
-bambonzo,foreheads
-bambwa,dogs
-bameme,sheeps
-bamesa,tables
-baminganga,physicians
-bamoto,fire
-bana,children
 Bana bakei na kelasi,the children go to school
-bana basi,girls
 Bana batelemi,the children rise
 Bana bazali kosakana na kati,The children play inside
 Bana bazali koswana,The children argue
 Bana bazali koswana,The children argue
 Bana bazali na kelasi,the children are in class
 Bana bazali na ndako,The children are in the house
-bana mibali,boys
 Bana mingi babangaka nkosi,children are afraid of lions
-bana ya poto,the children of Europe
-bananasi,pineapple
-bandako,houses
-bandeke,bird
-bandeko,cousines
-banga,they
-bango,they
-bangulu,pigs
-baninga,friends
-bankoko,"big parents, touch"
-bankoli,crocodiles
-bankosi,lions
-bankulutu,eldest
-banoko,maternal uncles
-bansili,louses
-bantaba,goats
 Bapesaki,they gave
-bapési,servants
-basali,workers
-basani,plates
-basapato,shoes
-basemeki,brother-in-law
-basi,women
-batata,touches
-bato,people
 Bato mingi,A lot of people
 Bavandaka,they live
 Bayambaki biso malamu,They welcomed us well
-bayaya,eldest
-bayembi,singers
-bayibi,thieves
 Bayibi motuka na ngai,One stole from me my car
 Bazali kolamba,they cook
 Bazali na nzala,they are hungry
 Bazelisi biso mingi,One made us wait a long time
 Bazibaki nzela,They blocked the road
-bazoba,silly
 Benga ngai lobi,"phone me tomorrow, Call me tomorrow"
 Benga ye,call it
-bÉtEnE,to fight
-bibale,streams
-bibembo,journeys
-biki,ballpoint pen
-bikolo,baskets
-bikoti,hats
-bilamba,garments
-bilei,food
 Bilei elengi,Of the delicious food
-biloko,"baggage, things"
-bilokó,stone bottles
-biloko mingi,several things
 Biloko na ngai wapi?,Where are my baggages?
 Biloko oyo ezali ya kobukana,You have a broken
-bilongi,faces
-bingumba,cities
-binkoti,hats
-bino,your
-bínó,you (plural)
-bipai,sides
-bisenga,happiness
-bisika,places
-bísó,we
 Biso na biso,between us
-biyano,ansewers
-biyenga,parties
-bizibele,doors
-bo,you
-bo-,you (plural)
 Bokei,you go (pl)
 Bokei wapi?,Where do you go?
-bokilo,daughter-in-law
-bokilo,son-in-law
-bokilo,father-in-law
-bokilo,mother-in-law
-bökó,some
 Bokolamba,you cook (pl)
 Bokopesa,you'll give (pl)
 Bolie,you eat (pl)
 Bolingi,you love (pl)
-bolingo,love
-bolóngai,wife
-bolóngani,husband
-boni,how much of
-boni,how
-bóní,how
-boni?,How are you (1)
 Bopesaki,you gave (pl)
-bopó,seed
-boséba,horn
-bosoto,dirt
 Botika koswana,Stop disputing you
-botondi,"thank you, thanks"
 Botondi!,thanks
 Bovandaka,you live (pl)
-boye,"so, thus"
 Boyei bolamu,Welcome
-boyini,hate
 Bozali kolamba,you cook (pl)
-bozitó,heavy
-búku,book
-butú,night
 Butu elama,Good night
-cakú,African grey parrot
-chokola?,brown?
-cow,nguba
 Cure noki,Rush you
 Cures boye,like that
 Cures noki,Rush you
-daidai,sticky
-dunda,to eat gluttonously
-e,it
-è,yes
-e-,they
-e- (thing),he
 E bandaki tango nini?,When did it start?
 E sengeli na benga ba ndeko,I need to ring my family
 E sengeli na kamata yo makila,I need to take your blood
@@ -457,126 +334,37 @@ E sengeli na zwa tension na yo,I need to take your blood pres
 E sengeli o zala hospitalisé,You need to stay in hospital
 E sengeli o zala na oyo,You need to keep this
 E zali kobimisa makila?,Have you any bleeding?
-ebale,"river, stream"
-Ébale ya mayi ezali wapi?,Where is the beach?
-ebandela,beginning
-ee,yes
-Ée,Yes
 Ee; nazali na nzala,yes; I'm hungry
 Ekoki,It is sufficient
-ekolo,basket
-ekoti,hat
-ekoti ya felt,dad's hat
-elamba,garment
-elengi,"delicious, confortable"
-elikia,hope
-eloko,thing
-eloko,nothing
-elokó,stone bottle
-elongi,face
-engumba,city
-enkoti,hat
-epai,side
 Epai ya ebale,the river side
-esenga,happiness
-esika,place
 Est-ce que na kozala malamu?,Am I going to be alright?
 Est-ce que o zali na dzemi?,Could you possibly be pregnant
-etíma,lake
-even,sheep
-eyano,answer
-eyenga,feast
 Eyenga ya Nzambe,a religious feast
 Ezali esika kimia,It is a quiet place
 Ezali fumbwa,this is fumbwa
-ezali kitoko,it is beautiful
-ezali koyaka pe kobunga?,does it come and go?
 Ezali makemba!,These are bananas plants
 Ezali solo ya,It is true
 Ezali ya solo,it's true
-ezibele,door
 Fabrice azali mwana,Fabrice is a child
 Feti esili,The feast is finished
-foto,photo
-fötö',photograph
-fufu,manioc flour
-fuléle,flower
-fumbwa,fumbwa
 Fungola ezibele!,open the door
 Fungola molangi,open the bottle
-galaméle,grammar
 He,Yes
 Hm; nsoso ezali elengi,Hum; han is good
-i- (things),they
-ikayabo,cod dried
-infirmière,nurse
-Íyo,Yes
 J'espère qu'il pleuvra,I hope it rains
 J'habite en Afrique,I live in Africa
-jaune pe mayi ya pondu?,yellow-green?
-kala,old
-kamundele,skewer
 Kanga ezibele,close the door
 Kanga monoko!,Say nothing about you!
-kasi,but
-kasi akati,but she hung up
-kasi azalaki na ndako te,but he was not at home
-kati,interior
-káti,in
-kawa,coffee
 Keba na mwana,pay attention to the child
-kelasi,class
 Kende kozwa May,Go look for water
 Kendé malámu,Good bye
 Kendéke malámu,Good bye
-kílíkílí,round
-kiló,heavy
-kimia,"calm, quiet"
 Kinshasa ezali engumba monene,Kinshasa is a big city
-kipekapeka,butterfly
-kisi,medicine
-kiti,chair
 Kiti elengi,a confortable chair
-kiti makasi,a strong chair
-kitoko,"beautiful, beauty"
-kitóko,good
-ko yoka?,hearing?
-kobíka,to heal
-kobíkela,to heal someone else
-koboma,to kill
-kobomama,to be killed
-kofunga,to close
-kofungola,to open
-kokanga foto,get a photo
-kokata mandefu,to shave
-kokende mobembo,to leave in journey
-kokúta,to find
-kokútana,to meet
-kolia,to eat
 Koliya pe komela eloko té,Do not eat or drink anything
-koma,write
 Koma adresse na yo,Please write your address
-komata na motuka,to go up by car
 Kombo na yo nani?,What is your name?
-komela likaya,to smoke
-kopo,glass
-kosala mesa,to put the table
 Kosimba ngai awa té!,Don't touch me there!
-kosukola nzoto,to wash
-kotála,to visit
-koyéba,to know
-koyébisa,to inform
-koyoka mpasi ya mino,To have toothache
-koyoka nzala,to be hungry
-kozala,to be
-kozala na esenga ya...,be happiness of
-koziba,to plug
-kozibola,to clear
-kozinga,to wrap
-kozingola,to develop
-kulutu,oldest child
-kuna,over there
-kúná,there
 Lakisa epayi wapi,Point where
 Lakisa ngai motuka na yo,Show me your car
 Laura Azali,laura is
@@ -584,158 +372,29 @@ Laura azali na ndako,Laura is at home
 Laura azali na ndako te,Laura isn't at home
 Laura na ndako,Laura is at home
 Laura na ndako te,Laura isn't at home
-leki,junior sister
-lelo,today
-leló,today
 Lelo nakolamba mbisi,Today I am going to cook fish
 Lelo nalambi mosuni,Today; I prepared meat
-libala,marriage
-libale,liver
-libanda,outside
-libángá,stone
-libanga makasi,a hard stone
-libele,breast
-liboke,frill
-liboko,"arm, home"
-libólóngó,knee
-libóngó,knee
-libonza,gift
-liboso,first
-libumu,"belly, stomach"
 Libumu na yo e zali koleka?,Have you any diarrhoea?
-libwa,nine
-lidesu,bean
-light,na
-likala,ember
-likambo,business
 Likambo na yo you,It is not your business
-likamboté,welcome
-likata,penis
-likaya,tobacco
-likebisi,the warning
-likeí,egg
-likemba,banana plantain
-líki,egg
-likolo,leg
-likoló,sky
-likombo,broom
-likósi,rope
-likuta,piece of currency
-lilála,orange
-liloba,word
 Limbisa ngai,Excuse me
 Limbissa ngayi,Please
-limpa,bread
-limpiká,worm
 Lingala ezali lokota,The lingala is a language
-lininisa,window
-lino,tooth
-líno,tooth
-linzaka,nail
-linzáka,fingernail
-lipa,bread
-lipapa,sandal
-lipapú,wing
-lipasa,twin
-lipata,cloud
-lipeka,shoulder
-liputa,loincloth
 Lisa aboti,Lisa gave birth
-liséké,horn
-líso,eye
-lisoko,buttock
-lisusu,again
-lisweswe,duck
-litama,cheek
-litéya,lesson
-lititi,sprig of grass
-litíti,grass
-litói,ear
-litungulu,onion
-lobi,yesterday
 Lobi bakangaki moyibi,Yesterday; one stopped the thief
 Lobi na butu nalalaki te,last night I didn't sleep
 Lobi nakendeki na zado,Yesterday I went to the market
 Lobi nakokende na zando,tomorrow; I go to the market
 Lobi nakosomba loso,tommorow; I buy rice
 Lobi nasukolaki ndako,yesterday; I cleaned the house
-lobila,walnut of palm
-lobóko,hand
-loboko ya mobali,the right arm
-loboko ya mwasi,the left arm
-loin,flower
-lokola,as
-lokolo,foot
-lokolo,leg
-lokota,language
-lokuta,lie
 Lokuta no yo!,You lie!
-lolemo,tongue
-lolemu,language
-lolému,tongue (organ)
-lómbé,flower
-lomposo,skin
-lomposo,bark
-londendé,fog
-londendé,fog
 Longola bakopo na mesa,Remove the glass of the table
 Longwa!,Go you of it!
-lonsálá,feather
-lonsili,louse
 Losáko,Hello
-loso,rice
-luto,spoon
-má,full
-mabala,marriages
-mabanda,outsides
-mabanga,stones
-mabe,bad
-mabe,badly
-mabé,bad
-mabele,"the breasts, breasts, earth"
-mabelé,earth
-maboke,frills
-maboko,"hands, homes, arms"
-mabolongo,knees
-mabongo,knees
-mabumu,stomachs
-madesu,beans
 Mado akokisi mibu 18,Mada is 18 years old
-mafuta,oil
-mafúta,fat
-mafuta ya mbila,the palm butter
-mái,water
-mái,river
 Mai ya ebale,water of the stream
-makako,monkey
-makako,monkey
-makala,ember
-makambo,business
-makasi,strong
-makaya,tobacco
-makayabo,cod dried
-makelele,noise
-makemba,"bananas, banana plantain"
-makemba mpo na yo,the bananas to you
-maki,eggs
-makilá,blood
-makolo,legs
-makuta,piece of currency
 Malamu,"fine, well"
-Malámu,"fine; thank you, good"
-malamu te,bad
-malámu!,well!
-malembe,slowly
-malili,cold
 Malili lelo!,it is cold today
-maloba,words
-malongá,correct
-mama,mom
-mamá,mother
-mama-bankoko,grandmothers
-mama-kulutu,aunt
-mama-leki,aunt
-mama-nkoko,grandmother
+Malámu,"fine; thank you, good"
 Mama akangi ye suki,Mom plaited him hair
 Mama alalisi mwana,Mom lay down the child
 Mama alambi mbisi na liboko,Mom cooked fish on the home
@@ -747,231 +406,42 @@ Mama azali kolela mpo na nini?,Why does Mom cry?
 Mama azali kosambela,Mom is praying
 Mama; oyo ezali nini?,Mom; what is that?
 Mama; oyo mpondu?,Mom; is this leaves of cassava
-mampa,breads
-mandefu,beard
-maninisa,windows
-manteka,margarine
-mántéka,butter
-manzaka,nails
-mapa,breads
-mapapa,sandals
-mapasa,twins
-mapeka,shoulders
-maputa,loinclothes
-masanga,alcoholic drink
 Masanga ezali mpio,The drink; it is cool
-masoko,buttocks
-maswa,boat
-masweswe,ducks
-matama,cheeks
-matanga,raised of the mourning
-matiti,the grass
-matiti,sprig of grass
-matoi,ears
-Matóndo,Thank you
-matungulu,onions
 Matungulu ezali ndunda,The onions are vegetables
+Matóndo,Thank you
 May etoki,Water boils
 May ya mpio,Of the cool water
-mayele,intelligence
-mbala,time
-mbala mingi,often
-mbala profit?,how many times?
-mbata,"wrist, slap"
-mbe,flowers
-mbelí,knife
-mbeto,bed
 Mbiffe abali,Mbiffe is married
 Mbiffe abali Dido,Mbiffe married Dido
 Mbiffe na Dido babalani,Mbiffe and Dido are married
-mbila,walnut of palm
-mbísi,fish
 Mbisi ezali elengi,the fish is delicious
-mboka,village
 Mboka ezali mosika,The village is far
-mbóngo,money
-mbonzo,forehead
-Mbote,Good morning
 Mbote,Good evening
+Mbote,Good morning
+Mbote na yo; bokilo !,Hello; my son-in-law!
+Mbote; bokilo !,good morning; daughter-in-law
+Mbula ebeti,It rains
 Mbóte,Good afternoon
 Mbóte,Hello
 Mbóte na yó,Good afternoon
 Mbóte na yó,Hello
-Mbote na yo; bokilo !,Hello; my son-in-law!
-mbote!,good morning
-Mbote; bokilo !,good morning; daughter-in-law
-mbóto,seed
-mbú,sea
-mbúla,year
-mbúla,rain
-Mbula ebeti,It rains
-mbuma,fruit
-mbwá,dog
-me,day
-meké,full
-Melesí,Thank you
-melesí,"fine; thank you, thank you"
 Melesi mingi!,Thank you very much!
-mésa,table
-míbalé,two
-mibali,men
+Melesí,Thank you
 Mibali bavandi na kati,The men are inside seated
-mibu,years
-miese,suns
-miete,trees
-mikanda,papers
-mikate,to sinter
-mikíla,tails
-mikili,earths
-mikolo,days
 Mikolo mingi!,That makes a long time
-mikongo,back
-mikonzi,chiefs
-mikua,bones
-mikuwa,bones
-milangi,bottles
-milangiti,covers
-míliki,milk
-mimpepe,airs
-minda,lamps
-mindele,whites
-mínei,four
-mingi,a lot of
-míngi,many
-mingwa,salt
-minkanda,papers
-mino,teeth
-minoko,mouths
-mipepe,airs
-misala,works
-misapi,fingers
-mísáto,three
-miso,eyes
-misuni,meats
-mítáno,five
-mitema,hearts
-mituka,cars
 Mituna ba malade ba tunaka,Questions from patients
-miyoyo,nasal mucus
-moamba,sauce of palm butter
-moambi,eight
-moana,child
-moana moasi,girl
-moana mobali,boy
-moasi,woman
-mobali,man
-mobáli,"masculine, man (adult male), husband, right"
 Mobali azali makasi,This boy is strong
-mobembo,journey
 Mobembo elengi,a pleasant trip
-mobembo molai,the long trip
-mobimba,whole summer
-mobú,year
-mobu ya sika,the new year
-mobulu,mess
-moembi,singer
-moese,sun
-moete,tree
-mói,day
-mói,sun
-moibi,thief
-moinda,lamp
-moindo,black
-mokanda,paper
-mokánda,electronic mail
-mokate,to sinter
-moke,thin
-moké,small
-moké,narrow
-moké,thin
-mokémoké,few
-mokíla,tail
-mokili,earth
-moko,a
-móko,one
-mokölö,day
-mokolo mobimba,all day
-mokondó,tail
-moköngö,back
-mokonzi,chief
-mókpa,salt
-mokua,bone
-mokúsé,short
-molai,long
-molakisi,professor
 Molakisi akoti na kelasi,The master enters in the class
 Molakisi apesaki ye buku,The master gave him a book
-molambi,cook
-molangi,bottle
-molangiti,cover
-molílí,black
-mólinga,smoke
-molito,heavy
-mompepe,"wind, air"
-mondele,white
-monéne,"big, long"
-monéne,long
-monéne,thick
-monganga,physician
-mongwa,salt
-móngwa,salt
-moninga,friend
-moniolólo,rope
-monkanda,paper
-monkúwa,bone
-monoko,mouth
-monsuni,meat
-monzóto,star
-mopendé,foot
-mopepe,air
-mopési,servant
-mosala,work
-mosali,worker
-mosapi,finger
-mosíká,far
-mósópi,worm
-mosuni,meat
-mosúsu,other
-motani?,red?
-motema,heart
-motéma,heart
-moto,man (human being)
-motó,head
-móto,fire
 Moto a kobenga kombo na ngai?,Will someone call my name?
-motoba,six
-motorcycle,fire
-motorcycle,fire
 Motorcycle epeli,The late brüle
-motuka,car
-motuka ya kala,an old car
 Motuka ya mpembe,A white car
-moyembi,singer
-moyibi,thief
 Moyibi akimi,The thief ran away
-mpambó,worm
-mpasi,pain
-mpáta,five
-mpe,also
-mpé,and
-mpémbe,white
-mpembéni,near
-mpepo,plane
 Mpepo ekiti,"the palne landed, The plane lands"
-mpio,freshness
-mpío,cold
-mpo na,because
 Mpo na nini?,Why?
-mpokwa,"evening, afternoon"
-mpondu,"cassava leaves, leaves of cassava"
 Mpondu ezali ndunda?,Is cassava vegetable?
 Mpondu ndunda?,Is cassava vegetable?
-mpongi,sleep
-mposo,skins
-mpoto,Europe
-mwamba,sauce of palm butter
-mwambi,eight
-mwäna,child
 Mwana abandi kotambola,The child begins to walk
 Mwana abangi; agangi,The child is afraid; he shouts
 Mwana abombami na ndako,child is hidden in the house
@@ -982,36 +452,13 @@ Mwana alingi mabele,child wants to take the breast
 Mwana asubi,The child urinated
 Mwana azalaki na buku te,the child didn't have book
 Mwana azwi mbata,The child had a spanking
-mwana mobali,boy
-mwana mwasi,girl
-mwanabana,children
-mwásí,left
-mwäsí,"wife, woman"
-mwäsí,woman
 Mwasi na yo na azali ndako?,Your wife is at home?
-mwese,sun
-mweté,tree
-mwinda,lamp
 Mwinda epeli,The lamp is lit
-na,in
-na,at
-na,"with, me, to"
-na-,I
 Na ebandela,in the beginning
 Na koki ko examiné yo?,May I examine you?
-na kozela ngonga 1,up to 1 hour
-na kozela ngonga 2,up to 2 hours
-na kozela ngonga 3,up to 3 hours
-na kozela ngonga 4,up to 4 hours
 Na kozela tango boni?,How long will I be waiting?
-na liboso,first
-na likolo ya,above
-na me,during the day
 Na ndako boni?,How is the family?
-na nse ya,underhand of
 Na nsima tokotambola,Then we will go for a walk
-na nsima ya ndako,behind the house
-na ntongo,the morning
 Na ntongo; namelaka miliki,mornings; I drink milk
 Na tango nini?,When?
 Na yebi té,Don't know
@@ -1028,7 +475,6 @@ Nabosani nkombo na ye,I forgot your name
 Nabuki kopo,I broke a glass
 Nafingi yo te,I didn't insult you
 Nafuti limpa te,I didn't pay for bread
-naino,again
 Nakalingi mbisi,I grilled the fish
 Nakalingi nsoso,I fried the chicken
 Nakati limpa,I cut the bread
@@ -1043,11 +489,8 @@ Nakoki koloba lingala,I know how to speak lingala
 Nakoki kotindela yo mbongo te,I cannot send you the money
 Nakoki kotindela yo mbongo you,I cannot send you of money
 Nakolamba,I cook
-nakoma,I write
-nákoma,I would write
 Nakombi ndako,I swept the house
 Nakomeli ye mokanda,I wrote him a letter
-nakomí,I have been writing
 Nakopambola yo,I will bless you
 Nakopesa,I'll give
 Nakotanga buku,I read a book
@@ -1069,18 +512,15 @@ Nalingi komela likaya,I like to smoke
 Nalingi oyo you,I don't want this one
 Nalingi yo,I like you
 Nameki kobenga ye,I try to phone him
+Nameli May,I drank water
+Nameli May,I drank water
 Nameli kawa,I drink cooffe
-Nameli May,I drank water
-Nameli May,I drank water
 Namonaki bango you,I didn't see them
 Namonaki ye moko,I saw it himself
 Namoni bokilo na yo na nzela,I saw your stepmother on way
 Namoni eloko te,I didn't see anything.
 Nandimi yo you,I don't agree with you
-nani,who
-náni,who
 Napesaki,I gave
-napésí,I give
 Napesi bango mbongo,I gave them money
 Nasali mesa,I put the table
 Nasilisi mosala,I finished my work
@@ -1104,15 +544,13 @@ Navandaka na Kinshasa,I live in Kinshasa
 Nayebi bango te,I don't know them
 Nayebi bino te,I don't know you
 Nayebi you,I don't know
-nayóki,I understand
 Nayoki makelele,I heard the noise
 Nayoki mpasi na libolongo,I hurt in the knee
 Nayoki mpasi na makolo,I feel a pain to the legs
 Nayoki mpasi na motema,I feel a pain to the heart
+Nayoki you,I didn't listen
 Nayókí té,I don't understand
 Nayókí yoté,I don't understand
-Nayoki you,I didn't listen
-nayókité,I don't understand (1)
 Nazali,I am
 Nazali kolamba,I cook
 Nazali kolamba mbisi,I prepare the food
@@ -1128,106 +566,23 @@ Nazali na motuka you,I don't have a car
 Nazangi makuta zomi,I lack ten makuta
 Naziboli molangi,I opened the bottle
 Nazwi esika te,I don't have any place
-ndako,house
 Ndako ebukani.,The house collapsed
 Ndako ekomi kitoko,The house became beautiful
 Ndako ezali kitoko,The house is beautiful
 Ndako eziki,The house burns
 Ndako oyo ezali kitoko,"this house is beauty, This house is beautiful"
-ndeke,bird
-ndeko,"brother, cousin"
-ndemu,languages
-ndenge,way
 Ndenge nini?,"How are you, hi you!, How does that go?"
-ndobo,mouse trap
-ndöbö,fishhook
-ndoki,sorcery
-ndunda,vegetables
-ngai,me
-ngáí,I
 Nganda ezali wapi?,Where is the bar?
-ngolo,catfish
-ngómbá,mountain
-ngombe,beef
-nguba,peanut
-ngulu,pork
-ngungi,mosquito
-niama,animal
-niao,cat
-nini,what?
-níni,what
-nioka,snake
-nionso,quite
 Nionso e kozala malamu,Everything will be all right
-nkama,hundred
-nkama misato,three hundred
-nkanda,anger
-nkanya,fork
-nkásá,leaf
-nkíngó,neck
-nkisi,medicine
-nkoko,"big parent, touch"
-nkoli,crocodile
-nkóló,owner
-nkómbó,name
-Nkómbó na ngáí..,My name is
 Nkombo na yo nani?,How are you called?
-Nkómbó nayó náni?,What's your name?
-nkosi,lion
 Nkosi ezali niama,The lion is an animal
-nkota,languages
-nkoto,one thousand
-nkoto mibale,two thousand
-nkulutu,eldest
-noki,quickly
-noko,maternal uncle
-nsambo,seven
-nsango,news
+Nkómbó na ngáí..,My name is
+Nkómbó nayó náni?,What's your name?
 Nsango nini?,"what's new?, What news?"
 Nsango te,nothing new
-nse,soil
-nsi nga,rope
-nsili,louse
-nsima,behind
-nsina,behind
-nsolo,odor
-nsolo mabe,a bad odor
-nsopó,guts
-nsoso,"ham, rooster"
 Nsoso ezali elengi,ham is delicious
-nsúki,hair
-ntaba,goat
-ntaba,"goats, goat"
 Ntaba ya bino elekaki awa,Your goats passed (by) here
-ntango,time
 Ntango ekoki,it is time
-ntína,root
-ntö'ngó,dawn
-ntólo,breast
-ntonga,needle
-ntongo,morning
-ntuku,ten
-ntuku mibale,twenty
-numero ya téléphone,telephone number
-nyä,seed
-nyama,animal
-nyé,all
-nyóka,snake
-nyónso,all
-nzala,hunger
-nzale,buffalo
-nzálé,lake
-nzámbe,god
-nzela,path
-nzelá,road
-nzeté,stick
-nzeté,tree
-nzinzi,fly
-nzoi,bee
-nzoku,elephant
-nzoto,body
-o,at
-o-,you
 O kataki pema?,Did you lose consciousness?
 O koki ko koma na Kingelezo?,Can you write it in English?
 O koki ko telema,You may get up now
@@ -1236,7 +591,6 @@ O koki kopesa biso kombo,Can you give us the name
 O lingi na bengela yo taxi?,Shall I call a taxi for you?
 O melaka likaya?,Do you smoke?
 O meli ba comprimé boni?,How many tablets have you take
-o ntéi,in
 O sanzaki makila?,Have you vomited blood?
 O sanzaki?,Have you vomited?
 O si o zwa matata na angine?,Have you ever had angina?
@@ -1245,9 +599,10 @@ O si o zwa matata na motema?,Have u ever had heart problens
 O si o zwa mbeli to operation?,Have you ever had an operation
 O sumbaki tufi ya moyindo?,Have you passed black stools?
 O zalaki na accident?,Have you had an accident?
-O zali allergique?,Are you allergic to any drug?
 O zali Aspirine?,Are you allergic to Aspirin?
 O zali Ba kisi mosusu?,Are you allergic to medicine?
+O zali Penicilline?,Are you allergic to Penicillin
+O zali allergique?,Are you allergic to any drug?
 O zali diabetique?,Do you have sugar diabetes?
 O zali ko kosola?,Do you have a cough?
 O zali komelaka ba kisi?,Are you taking any medicine
@@ -1256,13 +611,11 @@ O zali maladi ya njeta?,Do you have epilepsy?
 O zali na dzemi?,Are you pregnant?
 O zali na mbula boni?,How old are you?
 O zali na yango awa?,Have you some with you?
-O zali Penicilline?,Are you allergic to Penicillin
 O zuwaki maladi tango nini?,When did you become ill?
 Obangisi ye mpo na nini?,Why did you put him afraid
 Obombi mbongo na ngai wapi?,Where did you hide my money?
 Obotami wapi?,Where did you born?
 Odundi mpenza,You eat really gluttonously
-oh,you
 Okei,you go
 Okei Wapi?,Where do you go?
 Okolamba,you cook
@@ -1274,7 +627,6 @@ Olelisi ye mpo na nini?,Why did you make it cry?
 Olembisi ngai,You tire me
 Olie,you eat
 Olingi,you love
-ólo,gold
 Olobaka anglais?,Do you speak English?
 Olobi nini?,What do you say?
 Omonaki bato boni ?,How many people did you see?
@@ -1282,17 +634,10 @@ Omoni nani?,Who did you see?
 Opesaki,you gave
 Opesi ngai nkanda,You put myself in anger
 Osali nini?,What did you make?
-osepela,you enjoy
-ósepéla,you would enjoy
-osepelí,you have been enjoying
 Otangi buku oyo?,Did you read this book?
 Otiaki yango wapi?,Where did you put them?
 Ovandaka,you live
 Oyei oi,Welcome
-oyo,the one
-oyo,that
-óyo,this
-oyo bomoi na yo,this was your life
 Oyo ezali fumbwa,it's fumbwa
 Oyo ezali matungulu,These are onions
 Oyo ezali mpondu te,No; it isn't cassava leaves
@@ -1311,84 +656,30 @@ Ozali malamu?,How are you
 Ozali motorcycle malamu,You are a good person
 Ozali wapi?,Where are you?
 Ozali?,How are you
-ozwi matata misusu,if you have more problems
 Paladó,"Please, it pleases you"
-papá,father
 Pasi na yo e zali ndelo boni?,What is your level of pain?
 Pasi yango ezali tango nionso?,The pain; is it constant?
-patátálú,smooth
 Pelisa motorcycle!,Stir fire!
 Pelisa mwinda,Light the lamp
 Pelisa mwinda!,Light the lamp!
-pembe?,white?
 Pesa ngai lipa!,Give me the bread
-pili-pili,pepper
-pilipili,pepper
 Pilipili epoli,Pepper is rotted
 Pilipili epoli; bwaka yango,Pepper is rotted; throw it
 Poids na yo e kiti?,Have you lost weight?
-polele,open
-polo,wet
-pólte,door
 Ponders Mama mbote,Pass the hello to Mom
 Ponders ye May,Give him of water
-poto,Europe
-putulú,ash
-putulú,dust
 Sala boye,Make like that
-sambo,seven
-sango,news
-sango nini?,what's new?
-Sángo níni?,How are you
-sango te,nothing new
-sani,plate
-sánzá,moon
-sapato,"ankle, shoe"
-sapato mike,tiny shoes
-sapátu,shoes
-sekele,secret
-séliséli,smooth
-seló,correct
-sémba,correct
-semeki,brother-in-law
-sepela,enjoy
-shakú,African grey parrot
-sika,new
-sikoyo,now
-sili,louse
-sima,behind
-sina,behind
-soki,so
-sókí,if
-soko,so
-sókó,if
 Soko olingi,If you want
-solo,indeed
-sôlo,truly
-songisongi,slanders
-sukali,sugar
-suki,hair
-taba,goat
-tángo,when
-tata,dad
-tatá,father
+Sángo níni?,How are you
 Tata abimi,Dad get out
 Tata azali kokata mandefu,Dad is shaving
-Té,No
-tee,until
 Telephone ezali wapi,Where is the telephone
-ti,tea
 Tia biloko na ekolo,Put the business in the basket
 Tia mai ya fufu!,Dish of water to boil for the flour of cassava!
 Tika biloko na motuka,Let the business in the car
 Tika makelele!,Stop making the noise!
 Tika ndako polele,Let the open house
-Tíkala malámu,Good bye
 Tiya mayi na eloko oyo,pass water into this container
-to,us
-to-,we
-to wash,Nasukoli bilamba
-to work,Osalaka wapi?
 Tokei,we go
 Tokei kotambola na zando,We are going to go for a walk
 Tokokende mobembo,we will leave on a trip
@@ -1401,7 +692,6 @@ Toliaki bakamundele,We ate some skewers
 Tolie,we eat
 Tolingi,we love
 Topesaki,we gave
-tosololaki,and we caused
 Totambolaki malembe,We walked slowly
 Touches akondi mingi,Dad got thinner a lot
 Touches azali na libanda,Dad is outside
@@ -1409,39 +699,749 @@ Touches na ye azali mosali,His father is working
 Tovandaka,we live
 Tozali kolamba,we cook
 Tozali na libanda,We are outside
-tû,all
 Tu vas bien?,Are you well?
+Té,No
+Tíkala malámu,Good bye
 Uazekele?,Good morning
 Vanda awa,Sits you here
 Vanda na nse,Sits you on soil
-veló,bicycle
-wâná,that
-wâná,there
-wapi,where?
-wápi,where
 Wapi yo?,Where are you?
-ya,of
 Ya couleur nini?,What colour?
 Yaka epai oyo,Please come this way
+Yo mpe!,You also!
+Zela,Please wait
+Zela!,Wait!
+Zonga lisusu soki,Please come back
+Zwa May,Go look for water
+Zwa kiti mpo na tata,Are going to look for a chair
+a,she
+a- (person),he
+alati,to dress
+alimá,correct
+alimá,straight
+ananasi,pineapple
+ba- (persons),they
+babali,men
+babiki,ballpoint pen
+babuku,books
+baembi,singers
+bafoto,photos
+baibi,thieves
+baindo,black
+bakamundele,skewer
+bakelasi,classes
+bakilo,daughter-in-law
+bakilo,son-in-law
+bakiti,chairs
+bakombo,brooms
+bakopo,glasses
+balabála,road
+balakisi,professors
+balambi,cooks
+baleki,junir sisters
+baluto,spoon
+bamakako,monkeys
+bamama,mothers
+bamama-kulutu,aunts
+bamama-leki,aunts
+bambonzo,foreheads
+bambwa,dogs
+bameme,sheeps
+bamesa,tables
+baminganga,physicians
+bamoto,fire
+bana,children
+bana basi,girls
+bana mibali,boys
+bana ya poto,the children of Europe
+bananasi,pineapple
+bandako,houses
+bandeke,bird
+bandeko,cousines
+banga,they
+bango,they
+bangulu,pigs
+baninga,friends
+bankoko,"big parents, touch"
+bankoli,crocodiles
+bankosi,lions
+bankulutu,eldest
+banoko,maternal uncles
+bansili,louses
+bantaba,goats
+bapési,servants
+basali,workers
+basani,plates
+basapato,shoes
+basemeki,brother-in-law
+basi,women
+batata,touches
+bato,people
+bayaya,eldest
+bayembi,singers
+bayibi,thieves
+bazoba,silly
+bibale,streams
+bibembo,journeys
+biki,ballpoint pen
+bikolo,baskets
+bikoti,hats
+bilamba,garments
+bilei,food
+biloko,"baggage, things"
+biloko mingi,several things
+bilokó,stone bottles
+bilongi,faces
+bingumba,cities
+binkoti,hats
+bino,your
+bipai,sides
+bisenga,happiness
+bisika,places
+biyano,ansewers
+biyenga,parties
+bizibele,doors
+bo,you
+bo-,you (plural)
+bokilo,daughter-in-law
+bokilo,father-in-law
+bokilo,mother-in-law
+bokilo,son-in-law
+bolingo,love
+bolóngai,wife
+bolóngani,husband
+boni,how
+boni,how much of
+boni?,How are you (1)
+bopó,seed
+bosoto,dirt
+boséba,horn
+botondi,"thank you, thanks"
+boye,"so, thus"
+boyini,hate
+bozitó,heavy
+butú,night
+bÉtEnE,to fight
+bínó,you (plural)
+bísó,we
+bóní,how
+bökó,some
+búku,book
+cakú,African grey parrot
+chokola?,brown?
+cow,nguba
+daidai,sticky
+dunda,to eat gluttonously
+e,it
+e-,they
+e- (thing),he
+ebale,"river, stream"
+ebandela,beginning
+ee,yes
+ekolo,basket
+ekoti,hat
+ekoti ya felt,dad's hat
+elamba,garment
+elengi,"delicious, confortable"
+elikia,hope
+eloko,nothing
+eloko,thing
+elokó,stone bottle
+elongi,face
+engumba,city
+enkoti,hat
+epai,side
+esenga,happiness
+esika,place
+etíma,lake
+even,sheep
+eyano,answer
+eyenga,feast
+ezali kitoko,it is beautiful
+ezali koyaka pe kobunga?,does it come and go?
+ezibele,door
+foto,photo
+fufu,manioc flour
+fuléle,flower
+fumbwa,fumbwa
+fötö',photograph
+galaméle,grammar
+i- (things),they
+ikayabo,cod dried
+infirmière,nurse
+jaune pe mayi ya pondu?,yellow-green?
+kala,old
+kamundele,skewer
+kasi,but
+kasi akati,but she hung up
+kasi azalaki na ndako te,but he was not at home
+kati,interior
+kawa,coffee
+kelasi,class
+kiló,heavy
+kimia,"calm, quiet"
+kipekapeka,butterfly
+kisi,medicine
+kiti,chair
+kiti makasi,a strong chair
+kitoko,"beautiful, beauty"
+kitóko,good
+ko yoka?,hearing?
+koboma,to kill
+kobomama,to be killed
+kobíka,to heal
+kobíkela,to heal someone else
+kofunga,to close
+kofungola,to open
+kokanga foto,get a photo
+kokata mandefu,to shave
+kokende mobembo,to leave in journey
+kokúta,to find
+kokútana,to meet
+kolia,to eat
+koma,write
+komata na motuka,to go up by car
+komela likaya,to smoke
+kopo,glass
+kosala mesa,to put the table
+kosukola nzoto,to wash
+kotála,to visit
+koyoka mpasi ya mino,To have toothache
+koyoka nzala,to be hungry
+koyéba,to know
+koyébisa,to inform
+kozala,to be
+kozala na esenga ya...,be happiness of
+koziba,to plug
+kozibola,to clear
+kozinga,to wrap
+kozingola,to develop
+kulutu,oldest child
+kuna,over there
+káti,in
+kílíkílí,round
+kúná,there
+leki,junior sister
+lelo,today
+leló,today
+libala,marriage
+libale,liver
+libanda,outside
+libanga makasi,a hard stone
+libele,breast
+liboke,frill
+liboko,"arm, home"
+libonza,gift
+liboso,first
+libumu,"belly, stomach"
+libwa,nine
+libángá,stone
+libólóngó,knee
+libóngó,knee
+lidesu,bean
+light,na
+likala,ember
+likambo,business
+likamboté,welcome
+likata,penis
+likaya,tobacco
+likebisi,the warning
+likemba,banana plantain
+likeí,egg
+likolo,leg
+likoló,sky
+likombo,broom
+likuta,piece of currency
+likósi,rope
+liloba,word
+lilála,orange
+limpa,bread
+limpiká,worm
+lininisa,window
+lino,tooth
+linzaka,nail
+linzáka,fingernail
+lipa,bread
+lipapa,sandal
+lipapú,wing
+lipasa,twin
+lipata,cloud
+lipeka,shoulder
+liputa,loincloth
+lisoko,buttock
+lisusu,again
+lisweswe,duck
+liséké,horn
+litama,cheek
+lititi,sprig of grass
+litungulu,onion
+litéya,lesson
+litíti,grass
+litói,ear
+lobi,yesterday
+lobila,walnut of palm
+loboko ya mobali,the right arm
+loboko ya mwasi,the left arm
+lobóko,hand
+loin,flower
+lokola,as
+lokolo,foot
+lokolo,leg
+lokota,language
+lokuta,lie
+lolemo,tongue
+lolemu,language
+lolému,tongue (organ)
+lomposo,bark
+lomposo,skin
+londendé,fog
+londendé,fog
+lonsili,louse
+lonsálá,feather
+loso,rice
+luto,spoon
+líki,egg
+líno,tooth
+líso,eye
+lómbé,flower
+mabala,marriages
+mabanda,outsides
+mabanga,stones
+mabe,bad
+mabe,badly
+mabele,"the breasts, breasts, earth"
+mabelé,earth
+maboke,frills
+maboko,"hands, homes, arms"
+mabolongo,knees
+mabongo,knees
+mabumu,stomachs
+mabé,bad
+madesu,beans
+mafuta,oil
+mafuta ya mbila,the palm butter
+mafúta,fat
+makako,monkey
+makako,monkey
+makala,ember
+makambo,business
+makasi,strong
+makaya,tobacco
+makayabo,cod dried
+makelele,noise
+makemba,"bananas, banana plantain"
+makemba mpo na yo,the bananas to you
+maki,eggs
+makilá,blood
+makolo,legs
+makuta,piece of currency
+malamu te,bad
+malembe,slowly
+malili,cold
+maloba,words
+malongá,correct
+malámu!,well!
+mama,mom
+mama-bankoko,grandmothers
+mama-kulutu,aunt
+mama-leki,aunt
+mama-nkoko,grandmother
+mampa,breads
+mamá,mother
+mandefu,beard
+maninisa,windows
+manteka,margarine
+manzaka,nails
+mapa,breads
+mapapa,sandals
+mapasa,twins
+mapeka,shoulders
+maputa,loinclothes
+masanga,alcoholic drink
+masoko,buttocks
+maswa,boat
+masweswe,ducks
+matama,cheeks
+matanga,raised of the mourning
+matiti,sprig of grass
+matiti,the grass
+matoi,ears
+matungulu,onions
+mayele,intelligence
+mbala,time
+mbala mingi,often
+mbala profit?,how many times?
+mbata,"wrist, slap"
+mbe,flowers
+mbelí,knife
+mbeto,bed
+mbila,walnut of palm
+mboka,village
+mbonzo,forehead
+mbote!,good morning
+mbuma,fruit
+mbwá,dog
+mbísi,fish
+mbóngo,money
+mbóto,seed
+mbú,sea
+mbúla,rain
+mbúla,year
+me,day
+meké,full
+melesí,"fine; thank you, thank you"
+mibali,men
+mibu,years
+miese,suns
+miete,trees
+mikanda,papers
+mikate,to sinter
+mikili,earths
+mikolo,days
+mikongo,back
+mikonzi,chiefs
+mikua,bones
+mikuwa,bones
+mikíla,tails
+milangi,bottles
+milangiti,covers
+mimpepe,airs
+minda,lamps
+mindele,whites
+mingi,a lot of
+mingwa,salt
+minkanda,papers
+mino,teeth
+minoko,mouths
+mipepe,airs
+misala,works
+misapi,fingers
+miso,eyes
+misuni,meats
+mitema,hearts
+mituka,cars
+miyoyo,nasal mucus
+moamba,sauce of palm butter
+moambi,eight
+moana,child
+moana moasi,girl
+moana mobali,boy
+moasi,woman
+mobali,man
+mobembo,journey
+mobembo molai,the long trip
+mobimba,whole summer
+mobu ya sika,the new year
+mobulu,mess
+mobáli,"masculine, man (adult male), husband, right"
+mobú,year
+moembi,singer
+moese,sun
+moete,tree
+moibi,thief
+moinda,lamp
+moindo,black
+mokanda,paper
+mokate,to sinter
+moke,thin
+mokili,earth
+moko,a
+mokolo mobimba,all day
+mokondó,tail
+mokonzi,chief
+mokua,bone
+mokánda,electronic mail
+moké,narrow
+moké,small
+moké,thin
+mokémoké,few
+mokíla,tail
+mokölö,day
+moköngö,back
+mokúsé,short
+molai,long
+molakisi,professor
+molambi,cook
+molangi,bottle
+molangiti,cover
+molito,heavy
+molílí,black
+mompepe,"wind, air"
+mondele,white
+monganga,physician
+mongwa,salt
+moninga,friend
+moniolólo,rope
+monkanda,paper
+monkúwa,bone
+monoko,mouth
+monsuni,meat
+monzóto,star
+monéne,"big, long"
+monéne,long
+monéne,thick
+mopendé,foot
+mopepe,air
+mopési,servant
+mosala,work
+mosali,worker
+mosapi,finger
+mosuni,meat
+mosíká,far
+mosúsu,other
+motani?,red?
+motema,heart
+moto,man (human being)
+motoba,six
+motorcycle,fire
+motorcycle,fire
+motuka,car
+motuka ya kala,an old car
+motéma,heart
+motó,head
+moyembi,singer
+moyibi,thief
+mpambó,worm
+mpasi,pain
+mpe,also
+mpembéni,near
+mpepo,plane
+mpio,freshness
+mpo na,because
+mpokwa,"evening, afternoon"
+mpondu,"cassava leaves, leaves of cassava"
+mpongi,sleep
+mposo,skins
+mpoto,Europe
+mpáta,five
+mpé,and
+mpémbe,white
+mpío,cold
+mwamba,sauce of palm butter
+mwambi,eight
+mwana mobali,boy
+mwana mwasi,girl
+mwanabana,children
+mwese,sun
+mweté,tree
+mwinda,lamp
+mwásí,left
+mwäna,child
+mwäsí,"wife, woman"
+mwäsí,woman
+má,full
+mái,river
+mái,water
+mántéka,butter
+mésa,table
+míbalé,two
+míliki,milk
+mínei,four
+míngi,many
+mísáto,three
+mítáno,five
+mói,day
+mói,sun
+móko,one
+mókpa,salt
+mólinga,smoke
+móngwa,salt
+mósópi,worm
+móto,fire
+na,at
+na,in
+na,"with, me, to"
+na kozela ngonga 1,up to 1 hour
+na kozela ngonga 2,up to 2 hours
+na kozela ngonga 3,up to 3 hours
+na kozela ngonga 4,up to 4 hours
+na liboso,first
+na likolo ya,above
+na me,during the day
+na nse ya,underhand of
+na nsima ya ndako,behind the house
+na ntongo,the morning
+na-,I
+naino,again
+nakoma,I write
+nakomí,I have been writing
+nani,who
+napésí,I give
+nayóki,I understand
+nayókité,I don't understand (1)
+ndako,house
+ndeke,bird
+ndeko,"brother, cousin"
+ndemu,languages
+ndenge,way
+ndobo,mouse trap
+ndoki,sorcery
+ndunda,vegetables
+ndöbö,fishhook
+ngai,me
+ngolo,catfish
+ngombe,beef
+nguba,peanut
+ngulu,pork
+ngungi,mosquito
+ngáí,I
+ngómbá,mountain
+niama,animal
+niao,cat
+nini,what?
+nioka,snake
+nionso,quite
+nkama,hundred
+nkama misato,three hundred
+nkanda,anger
+nkanya,fork
+nkisi,medicine
+nkoko,"big parent, touch"
+nkoli,crocodile
+nkosi,lion
+nkota,languages
+nkoto,one thousand
+nkoto mibale,two thousand
+nkulutu,eldest
+nkásá,leaf
+nkíngó,neck
+nkóló,owner
+nkómbó,name
+noki,quickly
+noko,maternal uncle
+nsambo,seven
+nsango,news
+nse,soil
+nsi nga,rope
+nsili,louse
+nsima,behind
+nsina,behind
+nsolo,odor
+nsolo mabe,a bad odor
+nsopó,guts
+nsoso,"ham, rooster"
+nsúki,hair
+ntaba,goat
+ntaba,"goats, goat"
+ntango,time
+ntonga,needle
+ntongo,morning
+ntuku,ten
+ntuku mibale,twenty
+ntína,root
+ntólo,breast
+ntö'ngó,dawn
+numero ya téléphone,telephone number
+nyama,animal
+nyä,seed
+nyé,all
+nyóka,snake
+nyónso,all
+nzala,hunger
+nzale,buffalo
+nzela,path
+nzelá,road
+nzeté,stick
+nzeté,tree
+nzinzi,fly
+nzoi,bee
+nzoku,elephant
+nzoto,body
+nzálé,lake
+nzámbe,god
+nákoma,I would write
+náni,who
+níni,what
+o,at
+o ntéi,in
+o-,you
+oh,you
+osepela,you enjoy
+osepelí,you have been enjoying
+oyo,that
+oyo,the one
+oyo bomoi na yo,this was your life
+ozwi matata misusu,if you have more problems
+papá,father
+patátálú,smooth
+pembe?,white?
+pili-pili,pepper
+pilipili,pepper
+polele,open
+polo,wet
+poto,Europe
+putulú,ash
+putulú,dust
+pólte,door
+sambo,seven
+sango,news
+sango nini?,what's new?
+sango te,nothing new
+sani,plate
+sapato,"ankle, shoe"
+sapato mike,tiny shoes
+sapátu,shoes
+sekele,secret
+seló,correct
+semeki,brother-in-law
+sepela,enjoy
+shakú,African grey parrot
+sika,new
+sikoyo,now
+sili,louse
+sima,behind
+sina,behind
+soki,so
+soko,so
+solo,indeed
+songisongi,slanders
+sukali,sugar
+suki,hair
+sánzá,moon
+séliséli,smooth
+sémba,correct
+sókí,if
+sókó,if
+sôlo,truly
+taba,goat
+tata,dad
+tatá,father
+tee,until
+ti,tea
+to,us
+to wash,Nasukoli bilamba
+to work,Osalaka wapi?
+to-,we
+tosololaki,and we caused
+tángo,when
+tû,all
+veló,bicycle
+wapi,where?
+wápi,where
+wâná,that
+wâná,there
+ya,of
 yango,him
 yango wana,it is why
 yaya,eldest
-yé,him
-yé,he
 yo,you
+yé,he
+yé,him
 yó,you
-Yo mpe!,You also!
-zámba,forest
 zambí,because
 zando,walked
 zandu,walked
-Zela,Please wait
-Zela!,Wait!
-zélo,sand
 zibolateur,"corkscrew, bottle opener"
 zoba,silly
-zólo,nose
 zomi,ten
-Zonga lisusu soki,Please come back
-Zwa kiti mpo na tata,Are going to look for a chair
-Zwa May,Go look for water
+zámba,forest
+zélo,sand
+zólo,nose
+Ébale ya mayi ezali wapi?,Where is the beach?
+Ée,Yes
+Íyo,Yes
+áwa,here
+è,yes
+ólo,gold
+ósepéla,you would enjoy
+óyo,this

@@ -11,8 +11,8 @@ Other,English
 -ba,steal
 -badwa,be born
 -bala,carry child on back
--bala,sore
 -bala,rising-falling
+-bala,sore
 -balidwa,give birth by
 -bangula,roar
 -bereka,give birth
@@ -75,8 +75,8 @@ Other,English
 -dyetsa,feed
 -dza,come
 -dzandila,stagger
--dzera,go past
 -dzera,come for a particular reason
+-dzera,go past
 -dziwa,know
 -dziwitsa,make known
 -dzola,apply to body
@@ -158,9 +158,9 @@ Other,English
 -khoma,hammer
 -khoma msonkho,pay tax
 -khota,wind
+-khoza,be able to
 -khoza,be able to do something
 -khoza,do something right
--khoza,be able to
 -khudza,touch upon
 -khulupirika,be dependable
 -khumba,desire
@@ -201,8 +201,8 @@ Other,English
 -lakwa,make a mistake
 -landa,take away
 -landira,receive
--langa,punish
 -langa,advise
+-langa,punish
 -langidwa,get punished
 -langiza,point
 -lankhula,speak
@@ -336,8 +336,8 @@ Other,English
 -sanu ndi nayi,nine
 -sanu ndi wiri,seven
 -sanza,throw up
--sasa,brush off
 -sasa,be somewhat rancid
+-sasa,brush off
 -sauka,hardship
 -sautsa,hardship
 -seka,laugh
@@ -378,8 +378,8 @@ Other,English
 -tanthauza,mean
 -taya,lose
 -tayika,be lost
--tcha,setting a trap
 -tcha,name
+-tcha,setting a trap
 -tchera,set a trap for
 -tchuka,be famous
 -tema,cut
@@ -389,8 +389,8 @@ Other,English
 -tentha,be hot
 -tentha,burn
 -teteza,defend
--tha,finish
 -tha,be able to do something
+-tha,finish
 -thamanga,run
 -thamangitsa,chase
 -thandiza,assist
@@ -494,12 +494,6 @@ Other,English
 ...telephone?,...a telephone?
 ...yochipirapo?,...cheaper?
 ...yokulirapo?,...bigger?
-a,she
-a,he
-a,recently completed
-a,"they, he, she, it"
-a,it
-a-,they
 A dza tsiriza liti?,When will she finish?
 A ku chita manyazi,She is shy
 A ku funa ku ti phunzitsa,He wants to teach us
@@ -507,8 +501,6 @@ A ku kopeka,They got attracted to the idea
 A ku ku kukuta ni,He's munching you
 A ma chita research,He does research
 A ma nyenga akazi ambiri,He proposes to a lot of women
-a na nena kodi,he said that
-a na nena kuti,he said
 A na nena kuti...,He said that...
 A na pita pa galimoto,He went on by car
 A na swedwa ndi mwana,It was broken by the child
@@ -521,15 +513,13 @@ Abambo anu ali bwanji?,How is your father?
 Achemwali,sister
 Achewa,Person of Chewa descent
 Achimwene,brother
-achmwene,brother
 Agogo akazi,grand mother
 Agogo amuna,grandfather
 Agula bwanji,How much is this?
 Akasi,Women
 Akazi,Ladies toilet
-akuda,black
-Akudula zambiri,That's too expensive
 Akudula zambiri,I can't afford it.
+Akudula zambiri,That's too expensive
 Ali ndi mantha,They are afraid
 Alipo Malo?,Do you have any room available
 Aluya,Arab
@@ -538,13 +528,456 @@ Amandida,He hates me
 Amayi,Madam
 Amuna,"Gents toilet, Men"
 Amwenye,"Indian, Indians"
-ana,children
 Ana a ma konda mitengo,Children love trees
 Ana a topa,The children are tired
 Ana aanu a li ndi nsabwe,Your children have lice
 Ana awiri,two children
-anamwali,maiden
 Angati?,How many?
+Azakhali,Aunt
+Azimayi,Woman
+Azungu,White person
+Bafa,Shower room
+Banja lanu lili bwanji?,How is your family?
+Banja lathu lili bwino zikomo,Our family is fine thank you
+Basi ikupita kuti?,Where does this bus go?
+Basi iyi imayima pa _____?,Does this bus stop in __?
+Basi ya ku______ ili kuti?,Where is the bus to____?
+Basi!,That’s enough!
+Botolo limodzi; zikomo,A bottle; please
+Bowa bwanga,to hastate
+Buku wa mao achizungu,an English-English dictionary
+Buku zo nena achizungu,English-language books
+Bwerani kuno,Come here!
+Chabwino; Ndidza chigula,OK; I'll take it
+Chabwino; nditenga yomweyi,OK; I'll take it.
+Chakudya chinali bwino,It was delicious
+Chauta,God
+Chikomekome cha mkuyu,Appearances often deceives
+Chimandisangalatsa,That makes me happy
+Chimbuzi cha Amuna,Gents (toilet)
+Chimbuzi chili kuti?,Where is the toilet?
+Chimbuzu cha Akazi,Ladies toilet
+Chinananzi,Pineapple
+Chipatala,Hospital
+Chiphadzuwa,beautiful girl
+Chiponde,Peanut butter
+Chiyani?,What?
+Choka,Go away
+Chonde pepani!,Sorry
+Chonde; ndikonzereni room,Please clean my room
+Chotetezera,Mosquito net
+Chotsani mbale; zikomo,Please clear the plates
+Dikirani!,Please wait
+Dzina la nanga ndi chiyani?,Name of lake is what?
+Dzina lake ndani?,What is his name?
+Dzina langa ndi Andy,My name is Andy
+Dzina langa ndi Susan,My name is Bindili and you?
+Dzina langa ndi Susan,My name is Cedric and yours?
+Dzina langa ndi ______,My name is ______
+Dzina langa ndi ______ .,My name is ______ .
+Dzina lanu ali chani,What is your name? (1)
+Dzina lanu ndani?,What is your name?
+Dzina lanu ndi chani?,What is your name? (1)
+Dzina lanu ndi yani?,What is your name?
+Ee,Yes
+Eya,Yes
+Fulumira Msanga,Hurry quickly
+Funso langa li ku nena kuti,My question says that
+Funso lanu li li ndi bodza,Your question has lies
+Gonani bwino,"Sleep well, Good night"
+Gonjetsani adani onse,Put down each and every enemy
+Gwirani!,Stop!
+Idyani,Please eat
+Inde,Yes
+Ine ndine woyamba kubadwa,Iam the first born
+Inu bambo...,You sir... (emphatic)
+Iyayi,No
+Iyayi; ndi libe funsa,No; I don't have a question.
+Kamkango kama kanda mtengo,The little lion scratches
+Kamkango kanga ka li bwino,My small lion in ok
+Kaya anzathu?,And you?
+Kaya inu?,"And you?, what about you?"
+Khalani,Please sit
+Khomo li li ndi chutseko,The entrance has a door
+Khumi,ten
+Kodi Mukufuna Mupite Liti,When do you want to go
+Kodi Mukupita Kuti,where are you going
+Kodi Mupita Liti,When are you going
+Kodi ku li msika?,"Is there a market?, Are there markets"
+Kodi mu ma mwa mowa?,Do you drink beer?
+Kodi woyamba kubadwa ndani?,Who is the first born?
+Konsekonse mpeni wansengwa,showing double standards
+Kotsekula m'mimba,Diarrhoea
+Ku California ku ku tentha,At California is getting hot
+Ku California ku ma tentha,At California is hot
+Ku Chicago ku ma zizira,Chicago gets cold
+Ku Irvine kulibe wildlife,At Irvine there is no wildlife
+Ku Maryland ku libe mikango,In Maryland there are no lions
+Ku VA ku libenso mikango,In Virginia there are also no lions
+Ku li mapiri,There are mountains
+Ku na li chiyani?,There was what?
+Kucheza kuathu ku ku khudza,Our chatting is touching upon.
+Kukhala ndi,To have
+Kukonda,to like
+Kulekana,To be separated
+Kuli Ngozi,There's been an accident
+Kupweteka,Pain
+Kupweteka chifuwa,Chest pain
+Kupweteka m'mimba,Stomache ache
+Kusangalala,to happy
+Kuti?,Where?
+Kutsokomola,Cough
+Kuwopsya,to be dangerous
+Kwada,It's gotten dark
+Liti?,When?
+M'nyamata,boy
+M`banja mwanu mulipo angati?,How many're you in your family
+M`banja mwathu tilipo anayi,There are 4 of us in family
+Ma bedsheet?,...bedsheets?
+Madzi a Mpunga,Rice-water
+Mamuna,Man
+Mango,Mango
+Mao Dzoyipa,Swear words
+Mapasa,Twins
+Maphiri a li ku West Texas,Mountains are in West Texas
+Mapiri athu a li ndi njovu,Our mountains have elephants
+Masamba a nkhwani,Pumpkin leaves
+Matimati,Tomato
+Mau Otukwana,Swear words
+Mayankho aanu,Our responses
+Mayi uyu a ku nena kuti...,This woman is saying..
+Mbatatesi,Irish potatoes
+Mbiya ngambe,drunkard
+Mchewa,Person of Chewa descent
+Menya,"clout, Hit"
+Mikango i ma dya anthu,Lions eat people
+Mikango iku thawa munthu,The lion runs away from people
+Mikango ya ku LA si bangula,Lions from LA don't roar
+Mikango ya mfumu i ku lota,The chief's lions are dreaming
+Mikango yanga i ku phunzira,My lions are learning
+Mikono yanga iku lemba,My arms are writing
+Mikuliwiko,Figurative Expressions
+Mipando i ma gwa,Chairs fall
+Miyambi,Proverbs
+Mkango u ku thamangitsa mbuzi,Lion is chasing the goats
+Mkango u ma thawa mitengo,lion runs away from the trees
+Mkango uku werenga,The lion is reading
+Mkango wanga u ku phunzira,My lion is learning
+Mkono wanga uku lemba,My arm is writing
+Mkono wanu u li ndi chiyani?,Your arm has what?
+Mluya,Arab
+Mmwenye,Indian
+Modzi,one
+Moni,hello
+Moni Bambo!,Hallo Father
+Moni Mayi!,Hallo Mother!
+Moni akuka,hello
+Moni mayi. Moni bambo,hello (1)
+Mowa umodzi; zikomo,a beer plese
+Mpanda wa mphunzitsi,The teacher's chair
+Mpando wanga uku wawa,My arm is hurting
+Mphasa,Matt
+Mphunzitsa a ku gula mkango,The teacher is buying a lion
+Mphunzitsa a ku li gula,The teacher is buying it
+Mphunzitsa a ku u gula,The teacher is buying it
+Mphunzitsi a ku lota,The teachers are dreaming
+Msika u li pafudi ndi downtown,There's a market near downtown
+Msungwana,girl
+Mu a dya chiyani?,What did you just eat?
+Mu a ti uza...,You have told us...
+Mu dya chiyani?,What will you eat for lunch?
+Mu dza gula chiyani?,You will buy what?
+Mu gula chiyani?,You will buy what?
+Mu ka gula chiyani?,You will buy what?
+Mu khoza ku ka dya,You are able to go eat
+Mu ku chedwa,I am running late
+Mu ku chita nsanje,You are jealousy
+Mu ku dza chita chiyani?,You are coming  to do what?
+Mu ku dza gula chiyani?,You are coming to buy what
+Mu ku funa chiyani?,What do you want?
+Mu ku funsira chiyani?,You are asking for what?
+Mu ku gula chiyani?,You are buying what?
+Mu ku ka chita chiyani?,You are going to do what?
+Mu ku ka gula chiyani?,You are going  to buy what
+Mu ku tani?,You are doing what?
+Mu li ndi mwawi,You have luck
+Mu li ndi nsanje,"You have jealousy, you are jealous"
+Mu ma pita kuti?,Where do you go (habitually)?
+Mu ma tha...?,Can you....?
+Mu nenenso,Say it again
+Mu nenenso pang'ono pang'ono,Say it again slowly
+Mu sa dandaule,Don't worry
+Mu sa lembe,Don't write it
+Mu sa mvere,Don't listen to him
+Mu ti uze,You tell us
+Mu ø ka pume,You go rest
+Mu-machokera kuti?,You are from where?
+Mudzakhala kuti?,Where will you stay?
+Mugone bwino,"Sleep well, Good night"
+Mukumvetsa?,Do you understand?
+Muli bwanji,hello
+Muli wodabwa,You are surprised
+Mulungu,God
+Mulungu dalitsa Malawi,O God bless our land of Malawi
+Mumachokera kuti?,Where are you from?
+Mumagulitsa mowa?,Do you serve alcohol?
+Mumagwira ntchito yanji?,What do you do?
+Mumalankhula chingelesi?,Do you speak English?
+Mumalankhula chizungu?,Do you speak English?
+Mumata kutenga,Would you take _____?
+Mumati chiyani………mu Chichewa?,How do you say ……..in Chichewa
+Mumatseka nthawi yanji?,When is closing time?
+Mumsunge m'mtendere,Keep it a land of peace
+Mundi Thandize,Help!
+Mundidzutse nthawi ya ___,Can you wake me at _____?
+Mundipatseko ________?,May I have some _____?
+Munditengere kumeneko; chonde,Take me there; please.
+Mundithandize,I need your help
+Mundithandize!,Help me!
+Mungandiuze hotel ina?,Can you suggest another hotel
+Mutsale bwino,Stay well
+Mutsogole,You go ahead
+Muwa gula chiyani?,What have you just bought?
+Muyende bwino,"Have a safe journey, Travel well"
+Mwa chedwa,You are late
+Mwa dzuka bwanji?,How did you wake up?
+Mwachoma bwanji,Good evening
+Mwadzuka bwanji?,Good morning?
+Mwadzuka bwanji?,How did you wake up?
+Mwadzuka bwanji? (greeting),Good morning
+Mwalandilidwa!,You are most welcome
+Mwalandiridwa,Welcome
+Mwamuna,Man
+Mwana a li maliseche,Child is naked
+Mwana m`modzi,Single child
+Mwana wanu a li ndi nsabwe,Your child has lice
+Mwasewela bwanji,Good afternoon
+Mwaswela bwanji?,You spent the day how?
+Mwauka bwanji?,Good morning
+Mwenechindongwa,nickname
+Mzanga,My friend
+Mzinda wa,Chicago
+Mzungu,White person
+N'zofunika mwamsanga,It's an emergency
+Nai,four
+Namalenga,God
+Nanga wachiwiri ndani?,Who is the second born?
+Nda chedwa,I am late
+Nda chita mwawi,I am doing lucky
+Nda ku-gomera-ni,I take my hat off to you
+Nda pita,I am about to go
+Nda tha,I am finished
+Nda thima,I have extinguished
+Nda thyoka myendo,I have a broken leg
+Nda topa,I am tired
+Ndachoma bwino,Good evening
+Ndadzuka bwino (response),Good morning
+Ndadzuka bwino kaya inu,I woke up well; what about you
+Ndadzuka bwino kaya inu?,I woke up well; what about you
+Ndadzuka bwinonso zikomo,I woke up well too thank you
+Ndakhuta,"I'm finished, I am full"
+Ndakondwa kukumana ndi inu,Happy to meet you!
+Ndakondwa kukumananso ndi inu,Happy to meet you too!
+Ndamva,I heard
+Ndani?,Who?
+Ndapita,Goodbye
+Ndapweteka,I've been injured
+Ndasewela bwino,Good afternoon
+Ndasochera,I'm lost
+Ndaswela bwino kaya inu?,I spent the day well what abou
+Ndaswela bwinonso zikomo,I spent the day well too
+Ndataya chikwama,I lost my bag
+Ndi a chokera,I am just from
+Ndi ku funa kuti mu ndi uze,I want you to tell us...
+Ndi ku funa kuti mu ndi yahkhe,I want you to answer me
+Ndi ku funa kuti mu sambire,I want that you swim
+Ndi ku funa kwambiri,I like very much....
+Ndi ku ka gula chakudya,I am going to buy food
+Ndi ku li dziwa,I know it
+Ndi ku thamangitsa mkango,I am chasing the lion
+Ndi ku topa,I am getting tired
+Ndi ku u thamangitsa,I am chasing it
+Ndi li m'mavuto,I am in problems
+Ndi li ndi ludzu,I am thirsty
+Ndi li ndi njaba,I am hungry
+Ndi li ndi tsoka,I have bad luck
+Ndi li ndi vuto,I have problem
+Ndi li pa mavuto,I am at problems.
+Ndi li pa mnyenyo,I am on break
+Ndi li tulo,I have problem in stay awake
+Ndi libe,assignment
+Ndi ma chokera,I am from
+Ndi ma chokera ku Florida,I am from Florida
+Ndi na bwerako dzulo madzulo,I returned yesterday night
+Ndi na funsa bambo Ken kuti...,I asked Mr. Ken that....
+Ndi na ku-phunzitsa-ni,I taught you
+Ndi na mva chisoni,I felt sad
+Ndi na pita ku ka sambire,I went to go swim
+Ndi na u thamangitsa,I chased it
+Ndi ndani?,With who?
+Ndi yani?,With who?
+Ndi-na-ku-tchera-ni msampha,I set a trap for you
+NdiKhala kuno masiku_______,I will stay for _____ night(s)
+Ndibwanji kupita ku _____?,How much does it cost to get
+Ndidzakhala ku Dedza,I will stay in Dedza
+Ndidziwa,I know
+Ndifuna,I want
+Ndifuna _____.,I would like _____.
+Ndifuni Kupita Ku Lilongwe,I want to go to Lilongwe
+Ndiitana apolisi,I'll call the police
+Ndikudwala mutu,Head ache
+Ndikufuna coke chonde,I need_(coke)_ please
+Ndikufuna dokotala,I need a doctor
+Ndikufuna ku ku-funsa-ni,I want to ask you
+Ndikufuna kugona,I want to sleep
+Ndikufuna kusamba,I want to bathe
+Ndikufuna ndituluke mu hotel,I want to check out
+Ndikufuna rent Galimoto,I want to rent a car
+Ndikumva kutentha,I am feeling hot
+Ndikumva kuzizira,I am feeling cold
+Ndikupita,Iam going
+Ndilekeni,Leave me alone
+Ndili Bweno,I am well
+Ndili bwino kaya inu?.,I’m ok and you?
+Ndimachokera ku USA,I am from USA.
+Ndimadana nazo,I hate it
+Ndimadya masamba basi,I'm a vegetarian
+Ndimagwira ntchito yodzipereka,I do work of a volunteer
+Ndimakukhulupilira,I trust you
+Ndinamva,I heard
+Ndingaimbe nawo foni yanuyo?,Can I use your phone?
+Ndingakaone ku khitchini?,Can I look in the kitchen?
+Ndingaone menu?,Can I look at the menu; please
+Ndipatseni bill,The check; please
+Ndipatseni madzi chonde,Give me _(water)_ please
+Ndisiyeni,Leave me alone
+Ndithu,Truly
+Nditu,Really
+Ndiwaulesi,she is lazy
+Ndiwosangalala,She is happy
+Ndlama Dzingati,How much does it cost
+Nkhaka,Cucumber
+Nsawawa,Pigeon peas
+Nsikana,girl
+Nthawi ili bwanji?,what is the time?
+Nthawi yanji?,What time?
+Nyumba ziwiri,two houses
+Nzeru za kale,Ancient wisdom
+Osa nena mao dzo ipa,Don't swear
+Osa patsa chipongwe,Don't be rude
+Osandigwira,Don't touch me!
+Osapanga chipongwe,Don't be rude
+Osatukwana,Don't swear
+Pali kwina kopanda phokoso?,Do you have anything quieter?
+Palibe chapadera,nothing special
+Pang'ono pang'ono ndi mtolo,Slowly is a bundle
+Papaya,Paw paw
+Pepani,"I'm sorry, sorry"
+Pitani bwino,Go well
+Pitani mu ka i chotse,Go remove it
+Room iri ndi ......,Does the room come with...
+Sa khala ku VA,Hi is not from Virginia
+Sakusangalala,She is not happy
+Salani bwino,Stay well
+Samakonda coke,He doesn’t like coke
+Sanu n'chimodzi,six
+Sanu n'zinayi,nine
+Sanu n'zitatu,eight
+Sanu n'ziwiri,seven
+Sanu ndi modzi,six
+Sanu ndi tatu,eight
+Si a ku khala ku Ohio,He isn't living in Ohio
+Si ndi ku dziwa,I don't know
+Si ndi ku nena kuti mu gulitse,I am not saying that you sell
+Si ndi kumva,I don't hear
+Si ndi nga ku-uze-ni,I can not tell you
+Simumamwa madzi,You don’t drink water
+Sindidziwa,I don't know
+Sindikufuna,"I don't want, I'm not interested"
+Sindili wosangalala,I am sad
+Sindimadya nyama,I don’t eat rice
+Sindimadya nyama ya ng'ombe,I don't eat beef
+Sindimadya nyama ya nkhumba,I don't eat pork
+Sindimakonda nyama,I don’t like meat
+Sindimalankhula chinyanja,I don't speak Nyanja
+Sindimvera,I don't understand
+Sindimvetsa,I don't understand
+Sindinamva,I didn't hear
+Sindiri kufuna,I don't want it
+Sitima ikupita kuti?,Where does this train go?
+Sitima iyi imayima pa _____?,Does this train stop in__?
+Sitima ya ku______ ili kuti?,Where is the train to____?
+Ta (ti-a)gonja,We have lost
+Tamva,We have heard
+Tebulo,Table
+Thamanga,Run!
+Thandizeni,I need your help
+Ti dza phunzira,We will learn
+Ti li ndi muthu modzi,We have one person
+Ti pite ku kalasi tsopano,Let's go to class now
+Ti yambanso,We will (shortly) begin again
+Tikiti imodzi ku_____.,One ticket to_____; please
+Tikiti ndi bwanji ku_____?,How much is a ticket to___?
+Tikulandirani,Welcome
+Tikuoneni,hello
+Tinadzuka,We woke up
+Tingathe ku-mu-yankha,We are able to answer him
+Tionana,"See you later, see you later!"
+Tionana posachedwa,We shall see each other soon
+Tiwonana,"Goodbye, See you later"
+Tiyeni!,come on!
+Tsache,Broom
+Tsalani bwino,"Stay well, remain well"
+Tsiku linali bwanji?,How was the day?
+Tsiku linali bwino zikomo,The day was good thank you
+Tsoka langa,Just my luck
+Tsopano,now
+Tsopano ndi vuto lanu,Now it's your problem
+U ku ndi thamangitsa,It is chasing
+U na ndi thamangitsa,It chased me
+U na tha liti?,It ended when?
+U-na-li ndi yani?,You were with who?
+Ulendo wa bwino,Good journey
+Unama,You're cheating me
+Usiku unali bwanji?,How was the night?
+Usiku unali bwino zikomo,The night was good thank you
+Usiku wabwino,Good night
+Uyu mayi,This woman
+Wachiwiri ndi mchemwali wanga,The second born is my sister
+Wakubayo!,Thief!
+Wapolisi!,Police!
+Wo gonitsa,expensive
+Woipa (person),Bad
+Yatsani nyali,Light
+Yendani bwino,Have a safe journey
+Zakumwa,Drinks
+Zenera,Window
+Zikomo kwambiri,thank you very much
+Zikomo tiwonana,Thank you see you later
+Zikomo tiwonana,Thanks see you later
+Zikomo!,Thanks
+Zikuyenda,what's up?
+Zinthu za tsopano,New things
+Zochititsa mantha,That’s shocking!
+Zodabwitsa,That’s surprising
+Zofunda,Blankets
+Zokayikitsa,That’s doubtful
+Zokwiyitsa,That's annoying
+Zomvetsa chisoni,That’s sad
+Zotopetsa,It's tiring
+Zowona,True
+a,he
+a,it
+a,recently completed
+a,she
+a,"they, he, she, it"
+a na nena kodi,he said that
+a na nena kuti,he said
+a-,they
+achmwene,brother
+akuda,black
+ana,children
+anamwali,maiden
 ansanga,friends
 anthu a-ma-u-tcha,City of Chicago
 anyezi,onions
@@ -558,31 +991,17 @@ atate,father
 atsikama,girl
 atsogoleri,leader
 ayi,No
-Azakhali,Aunt
-Azimayi,Woman
-Azungu,White person
-Bafa,Shower room
 bambo,"father, Sir"
 bambo uyu,This man
 banja,family
-Banja lanu lili bwanji?,How is your family?
-Banja lathu lili bwino zikomo,Our family is fine thank you
 basi,only
-Basi ikupita kuti?,Where does this bus go?
-Basi iyi imayima pa _____?,Does this bus stop in __?
-Basi ya ku______ ili kuti?,Where is the bus to____?
-Basi!,That’s enough!
 befu,quality of being out of breath
 bere,breast
 bodza,"lie, untrue"
 bokho,hippo
 bongololo,milipede
 botolo,bottle
-Botolo limodzi; zikomo,A bottle; please
 bowa,mushrooms
-Bowa bwanga,to hastate
-Buku wa mao achizungu,an English-English dictionary
-Buku zo nena achizungu,English-language books
 buledi,bread
 bungwe,committee
 buthu,young girl
@@ -592,24 +1011,19 @@ bwalo ya ndege,airport
 bwanji,"how, How?"
 bwato,canoe
 bwenzi,friend
-Bwerani kuno,Come here!
 bwino,time afterwards
 bwino banji,thank you and you
 bwino bwino,well
 c(h)inyanja,language of the lake
 chabwino,ok
-Chabwino; Ndidza chigula,OK; I'll take it
-Chabwino; nditenga yomweyi,OK; I'll take it.
 chaka,year
 chaka cha mawa,next year
 chaka chatha,last year
 chakudya,food
 chakudya cha madzulo,dinner
 chakudya cha mmawa,breakfast
-Chakudya chinali bwino,It was delicious
 chakutichakuti,such and such
 chamba,"Malawian Gold, dancing"
-Chauta,God
 chemwali,sister
 chenjezo,warning
 chi-,huge
@@ -632,7 +1046,6 @@ chigayo,mill
 chigoba kumaso,mask
 chikasu,yellow
 chikho,gourd
-Chikomekome cha mkuyu,Appearances often deceives
 chikopa,animal hide
 chikuni,big firewood
 chikwati,marriage ceremony
@@ -650,17 +1063,12 @@ chilonda,sore
 chilpululu cha mchenga,dessert
 chilundu,a piece of cloth wrapped
 chilungamo,honesty
-Chimandisangalatsa,That makes me happy
 chimanga,corn
 chimbudzi,"lavoratory, Toilet"
-Chimbuzi cha Amuna,Gents (toilet)
-Chimbuzi chili kuti?,Where is the toilet?
-Chimbuzu cha Akazi,Ladies toilet
 chimodzimodzi,lilkewise
 chimwemwe,happiness
 chimwera,watermelon
 chinamnwali,initiation
-Chinananzi,Pineapple
 chinangwa,casava
 chinayi,Use of (-a) in front
 chingerezi,English
@@ -669,13 +1077,10 @@ chinsinsi,secret
 chinthu,thing
 chipanda,calabash
 chipangizo,tools
-Chipatala,Hospital
 chipatso,"fresh fruit, a piece of fruit"
 chipembere,rhino
-Chiphadzuwa,beautiful girl
 chiphini,nose ring
 chipinda,room
-Chiponde,Peanut butter
 chipululu,wilderness
 chipupa,wall
 chisangalalo,celebration
@@ -698,24 +1103,18 @@ chiwerengero,amount
 chiwerewere,sexual immorality
 chiweto,farm animal
 chiyani,what
-Chiyani?,What?
 chiyembekezo,hope
 chizolowezi,habit
 chobvala,garment
 chochita,things to do
 choipa (thing),Bad
-Choka,Go away
 cholembera,writing instrument
 chombo,sailing vessel
 chome,cat
 chona,cat
 choncho,so
 chonde,Please
-Chonde pepani!,Sorry
-Chonde; ndikonzereni room,Please clean my room
 choseketsa,joke
-Chotetezera,Mosquito net
-Chotsani mbale; zikomo,Please clear the plates
 chotupa,bump
 chule,frog
 chuma,wealth
@@ -724,7 +1123,6 @@ dambwe,place where iniation begins
 dandaulo,worry
 dengu,basket
 dera,area
-Dikirani!,Please wait
 diso,eye
 dothi,dirt
 dothi,gravel
@@ -738,17 +1136,6 @@ dzenje,hole
 dziko,"country, land"
 dziko lapansi,earth
 dzina,name
-Dzina la nanga ndi chiyani?,Name of lake is what?
-Dzina lake ndani?,What is his name?
-Dzina langa ndi ______,My name is ______
-Dzina langa ndi ______ .,My name is ______ .
-Dzina langa ndi Andy,My name is Andy
-Dzina langa ndi Susan,My name is Bindili and you?
-Dzina langa ndi Susan,My name is Cedric and yours?
-Dzina lanu ali chani,What is your name? (1)
-Dzina lanu ndani?,What is your name?
-Dzina lanu ndi chani?,What is your name? (1)
-Dzina lanu ndi yani?,What is your name?
 dzinalamodza,nickname
 dzino,tooth
 dzira,egg
@@ -756,19 +1143,14 @@ dziwe,pool
 dzulo,yesterday
 dzungu,pumpkin
 dzuwa,sun
-Ee,Yes
-Eya,Yes
 faivi koloko m'madzulo,five o'clock PM
 fakitale,factory
 finye,toad
 fire,moto
 fisi,hyena
 fodya,tobacco
-Fulumira Msanga,Hurry quickly
 fumbi,dust
 funso,question
-Funso langa li ku nena kuti,My question says that
-Funso lanu li li ndi bodza,Your question has lies
 funso lina,other question
 fupa,bone
 gaga,re-ground corn husks
@@ -777,27 +1159,18 @@ galu,dog
 ganizo,thought
 gawo,portion
 getsi,electricity
-Gonani bwino,"Sleep well, Good night"
-Gonjetsani adani onse,Put down each and every enemy
 gule,performance
 gwa,solid
-Gwirani!,Stop!
 hachi,horse
 ibuprofen',pain reliever
 ichi,this
-Idyani,Please eat
 ife,we
-Inde,Yes
 ine,I
-Ine ndine woyamba kubadwa,Iam the first born
 inu,you plural
-Inu bambo...,You sir... (emphatic)
 iwe,you
 iwo,they
-Iyayi,No
-Iyayi; ndi libe funsa,No; I don't have a question.
-iye,it
 iye,he
+iye,it
 iye,she
 jombo,boot
 ka-,indicates small for singular
@@ -813,8 +1186,6 @@ kale,oldness
 kalulu,"hare, rabbit"
 kama,"bed, Bed frame"
 kambirana,one anther
-Kamkango kama kanda mtengo,The little lion scratches
-Kamkango kanga ka li bwino,My small lion in ok
 kamodzi,once
 kamodzi-kamodzi,irregularly
 kamtambo,blue
@@ -829,13 +1200,10 @@ katumba,calf leg
 kawiri,twice
 kawirikawiri,often
 kaya,"no idea, what about"
-Kaya anzathu?,And you?
-Kaya inu?,"And you?, what about you?"
 kenaka,then
 keyala,address
 keyala,military
 kha,cutting sound
-Khalani,Please sit
 khama,persistance
 khasu,hoe
 khofi,coffee
@@ -843,10 +1211,8 @@ khola,corral
 kholo,parent
 kholowa,sweet potato
 khomo,entrance
-Khomo li li ndi chutseko,The entrance has a door
 khonde,veranda
 khoswe,rat
-Khumi,ten
 khumi n'chimodzi,eleven
 khumi n'zinayi,four
 khumi n'zisanu,five
@@ -856,41 +1222,24 @@ khumi n'zisanu n'zitatu,eighteen
 khumi n'zisanu n'ziwiri,seven
 khumi n'zitatu,thirteen
 khumi n'ziwiri,twelve
-khungu,blindness
 khungu,Intonation
+khungu,blindness
 khutu,ear
 khwimbi,a large but countable
 kodi,indicates a question
 kodi,that
 kodi akatolika ndo akkhristu?,Are Roman Catholics Christians
-Kodi ku li msika?,"Is there a market?, Are there markets"
-Kodi mu ma mwa mowa?,Do you drink beer?
-Kodi Mukufuna Mupite Liti,When do you want to go
-Kodi Mukupita Kuti,where are you going
-Kodi Mupita Liti,When are you going
 kodi mwandi manga?,Am I under arrest?
-Kodi woyamba kubadwa ndani?,Who is the first born?
 koma,but
 koma tayenda pansi,but we traveled on foot
 koma ya ku Ohio i ma bangula,but they of Ohio do roar
-Konsekonse mpeni wansengwa,showing double standards
-Kotsekula m'mimba,Diarrhoea
 ku,from
 ku,presently occuring
-Ku California ku ku tentha,At California is getting hot
-Ku California ku ma tentha,At California is hot
-Ku Chicago ku ma zizira,Chicago gets cold
-Ku Irvine kulibe wildlife,At Irvine there is no wildlife
 ku li,there is
-Ku li mapiri,There are mountains
-Ku Maryland ku libe mikango,In Maryland there are no lions
-Ku na li chiyani?,There was what?
-Ku VA ku libenso mikango,In Virginia there are also no lions
 kuba,to steal
 kubisa,to hide
 kubwera,to come
 kuchepera,less
-Kucheza kuathu ku ku khudza,Our chatting is touching upon.
 kuchulukira,more
 kuda,black
 kudandaula,to complain
@@ -905,13 +1254,9 @@ kuika,to put
 kukama,to milk
 kukayika,to doubt
 kukayika,to hastate
-Kukhala ndi,To have
-Kukonda,to like
 kukwatiwa,To be married
 kulandira,to receive
-Kulekana,To be separated
 kulemba,to write
-Kuli Ngozi,There's been an accident
 kulumpha,to jump
 kumwa,to drink
 kunama,to lie
@@ -920,25 +1265,17 @@ kuno,here at
 kunsi,underneath
 kupita,to go
 kupita,to go
-Kupweteka,Pain
-Kupweteka chifuwa,Chest pain
-Kupweteka m'mimba,Stomache ache
-Kusangalala,to happy
 kuseka,to laugh
 kusuta,smoking
 kuthamanga,to run
 kuti,that
 kuti,where
-Kuti?,Where?
-Kutsokomola,Cough
 kutumiza,to send
 kuvina,to dance
 kuwerenga,to read
-Kuwopsya,to be dangerous
 kuyenda,to walk
 kuyenda,to walk
 kuyimba,to sing
-Kwada,It's gotten dark
 kwambiri,very much
 kwenikweni,really
 la chinayi,Thursday
@@ -958,7 +1295,6 @@ leza,God in the form of lightning
 lichero,winnowing pan
 likulu,headquaters
 liti,when
-Liti?,When?
 lolemba,Monday
 loto,dream
 loweluka,Saturday
@@ -967,16 +1303,11 @@ ludzu,thirst
 m'malo mu-a,in place of
 m'malo mwa,in place of
 m'mawa,morning
-M'nyamata,boy
-M`banja mwanu mulipo angati?,How many're you in your family
-M`banja mwathu tilipo anayi,There are 4 of us in family
 ma,habitual
-Ma bedsheet?,...bedsheets?
 madambo,swamp
 madandaulo,worry
 madera,area
 madzi,water
-Madzi a Mpunga,Rice-water
 madzulo,"evening, afternoon to early evening"
 mafakitale,factory
 mafunso,question
@@ -1015,9 +1346,7 @@ malungo,malaria
 maluwa,flower
 maluwamaluwa,colorfulness
 mamawa,morning
-Mamuna,Man
 manda,grave
-Mango,Mango
 mangolomera,generic label for charms
 mankhwala,medicine
 mankhwala achifuwa,cold medicine
@@ -1025,21 +1354,16 @@ mankhwala wa mimba,stomach medicine
 mankhwala wadzuwa,sunblock lotion
 mantha,fear
 manyazi,shame
-Mao Dzoyipa,Swear words
 maola,hour
-Mapasa,Twins
 mapepala,paper
 mapeto,ending
 mapewa,shoulder
 maphazi,foot
-Maphiri a li ku West Texas,Mountains are in West Texas
 maphunziro,lesson
 maphwando,feast
 mapiri,mountain
-Mapiri athu a li ndi njovu,Our mountains have elephants
 masamba,"fresh vegetables, greens"
 masamba,salad
-Masamba a nkhwani,Pumpkin leaves
 masana,"afternoon, noon"
 masano,grave
 masese,beer (maize)
@@ -1050,11 +1374,9 @@ masitsi,hair
 maso,face
 matchona,one who gets stuck
 matenda,illness
-Matimati,Tomato
 matsiku onse,all the days
 matsogolo,front
 mau,word
-Mau Otukwana,Swear words
 maungu,pumpkin
 mauta,bow
 mauthenga,message
@@ -1062,9 +1384,7 @@ mavalo,private parts
 mawa,early tomorrow
 mawa,"tomorrow, morning"
 mawu anasandulika thupi,the world became flesh
-Mayankho aanu,Our responses
 mayi,"mother, Madam, madame"
-Mayi uyu a ku nena kuti...,This woman is saying..
 mayo,ouch!
 mazana,hundred
 mazana awiri,two thousand
@@ -1080,25 +1400,21 @@ mbali,side
 mbandakucha,early morning before sunrise
 mbatata,"potato, Sweet Potatoes"
 mbatata zi-a,Irish potatoes
-Mbatatesi,Irish potatoes
 mbawala,deer
 mbeu,seed
 mbewa,mouse
 mbidzi,zebra
 mbiri,history
 mbiya,pots used for brewing beer
-Mbiya ngambe,drunkard
 mbumba,all of the nephews
 mbuyo,behind
 mbuzi,goat
 mchenga,beach
 mchere,salt
-Mchewa,Person of Chewa descent
 mchimwene,brother
 mchira,tail
 mdani,enemy
 mdyerekezi,devil
-Menya,"clout, Hit"
 mfedwa,someone who is in mourning
 mfisulo,breakfast
 mfiti,one who practices witchcraft
@@ -1108,18 +1424,10 @@ mgaiwa,corn flour
 mgonero,dinner
 michira,tail
 midzi,village
-Mikango i ma dya anthu,Lions eat people
-Mikango iku thawa munthu,The lion runs away from people
-Mikango ya ku LA si bangula,Lions from LA don't roar
-Mikango ya mfumu i ku lota,The chief's lions are dreaming
-Mikango yanga i ku phunzira,My lions are learning
 mikondo,spear
-Mikono yanga iku lemba,My arms are writing
-Mikuliwiko,Figurative Expressions
 milandu,case
 milungu,god
 mimba,pregnancy
-Mipando i ma gwa,Chairs fall
 misala,madness
 misampha,trap
 misana,back
@@ -1133,7 +1441,6 @@ mitolo,bundle
 mitondo,mortar
 mitsuko,water pot
 mitundu,kind
-Miyambi,Proverbs
 miyambo,traditions
 miyambo yomaliza,last rites
 miyendo,leg
@@ -1143,18 +1450,12 @@ mizu,root
 mkaka,milk
 mkangano,argument
 mkango,lion
-Mkango u ku thamangitsa mbuzi,Lion is chasing the goats
-Mkango u ma thawa mitengo,lion runs away from the trees
-Mkango uku werenga,The lion is reading
-Mkango wanga u ku phunzira,My lion is learning
 mkati,inside
 mkati muli nyerere,Appearances often deceives
 mkazi,woman
 mkodzo,urine
 mkondo,spear
 mkono,arm
-Mkono wanga uku lemba,My arm is writing
-Mkono wanu u li ndi chiyani?,Your arm has what?
 mkuja,day after tomorrow
 mkulu,elder sibling of same sex
 mkuluwiko,ideomatic expression
@@ -1172,37 +1473,25 @@ mlongo,sibling of opposite sex
 mlungu uno,this week
 mlungu wa mawa,next week
 mlungu watha,last week
-Mluya,Arab
 mluzu,whistle
 mmacheza,until first rooster
 mmawa,early morning
 mmawa mawa,early morning
 mmero,down
 mmphawi,poor person
-Mmwenye,Indian
 mng'ono,younger sibling of same
 mnkhwala,substance that enables
 mnkhwani,pumpkin leaves
 mnyamata,boy
 mnyenyo,break
-Modzi,one
-Moni,hello
-Moni akuka,hello
-Moni Bambo!,Hallo Father
-Moni Mayi!,Hallo Mother!
-Moni mayi. Moni bambo,hello (1)
 mowa,beer
-Mowa umodzi; zikomo,a beer plese
 mowa uwiri; zikomo,two beers; please
 moyo,life
 mpanda,fence
-Mpanda wa mphunzitsi,The teacher's chair
 mpando,chair
-Mpando wanga uku wawa,My arm is hurting
 mpeni,knife
 mphaka,cat
 mphamvu,strength
-Mphasa,Matt
 mphatso,gift
 mphenzi,thunder
 mphepo,wind
@@ -1211,11 +1500,7 @@ mphika,cooking pots
 mphindi,minute
 mphini,tatoo
 mphira,rubber
-Mphunzitsa a ku gula mkango,The teacher is buying a lion
-Mphunzitsa a ku li gula,The teacher is buying it
-Mphunzitsa a ku u gula,The teacher is buying it
 mphunzitsi,teacher
-Mphunzitsi a ku lota,The teachers are dreaming
 mphwayi,procrastination
 mpini,hoe handle
 mpira,ball
@@ -1229,13 +1514,11 @@ msanga,quickness
 msewu,road
 msewy,road
 msika,market
-Msika u li pafudi ndi downtown,There's a market near downtown
 msilikali,soldiers
 msipu,green grass for grazing
 msodzi,fisherman
 msomali,nail
 msonkhano,meeting
-Msungwana,girl
 mtambo,cloud
 mtedza,groundnuts
 mtendere,peace
@@ -1257,261 +1540,88 @@ mtundu uti,what colour?
 mtundu wanji,which type
 mu,in
 mu,you
-mu-a khoza,Yes
-Mu-machokera kuti?,You are from where?
-Mu a dya chiyani?,What did you just eat?
-Mu a ti uza...,You have told us...
-Mu dya chiyani?,What will you eat for lunch?
-Mu dza gula chiyani?,You will buy what?
-Mu gula chiyani?,You will buy what?
-Mu ka gula chiyani?,You will buy what?
-Mu khoza ku ka dya,You are able to go eat
-Mu ku chedwa,I am running late
-Mu ku chita nsanje,You are jealousy
 mu ku chokera?,where are you from right now?
-Mu ku dza chita chiyani?,You are coming  to do what?
-Mu ku dza gula chiyani?,You are coming to buy what
-Mu ku funa chiyani?,What do you want?
-Mu ku funsira chiyani?,You are asking for what?
-Mu ku gula chiyani?,You are buying what?
-Mu ku ka chita chiyani?,You are going to do what?
-Mu ku ka gula chiyani?,You are going  to buy what
-Mu ku tani?,You are doing what?
-Mu li ndi mwawi,You have luck
-Mu li ndi nsanje,"You have jealousy, you are jealous"
 mu ma chokera?,where are you from
-Mu ma pita kuti?,Where do you go (habitually)?
-Mu ma tha...?,Can you....?
-Mu nenenso,Say it again
-Mu nenenso pang'ono pang'ono,Say it again slowly
-Mu ø ka pume,You go rest
-Mu sa dandaule,Don't worry
-Mu sa lembe,Don't write it
-Mu sa mvere,Don't listen to him
-Mu ti uze,You tell us
-Mudzakhala kuti?,Where will you stay?
+mu-a khoza,Yes
 mudzi,village
-Mugone bwino,"Sleep well, Good night"
-Mukumvetsa?,Do you understand?
-Muli bwanji,hello
 muli bwanji ?,how are you?
 muli kundipereka kuti?,Where are you taking me?
-Muli wodabwa,You are surprised
-Mulungu,God
-Mulungu dalitsa Malawi,O God bless our land of Malawi
-Mumachokera kuti?,Where are you from?
 mumadya,you always eat
-Mumagulitsa mowa?,Do you serve alcohol?
-Mumagwira ntchito yanji?,What do you do?
-Mumalankhula chingelesi?,Do you speak English?
-Mumalankhula chizungu?,Do you speak English?
-Mumata kutenga,Would you take _____?
-Mumati chiyani………mu Chichewa?,How do you say ……..in Chichewa
-Mumatseka nthawi yanji?,When is closing time?
 mumatumiza kwinakwache,Do you ship (overseas)?
-Mumsunge m'mtendere,Keep it a land of peace
 munda,garden
-Mundi Thandize,Help!
-Mundidzutse nthawi ya ___,Can you wake me at _____?
-Mundipatseko ________?,May I have some _____?
-Munditengere kumeneko; chonde,Take me there; please.
-Mundithandize,I need your help
-Mundithandize!,Help me!
-Mungandiuze hotel ina?,Can you suggest another hotel
 muno,here in
 munthu,person
 munthu uakuphunzira,student
 munthu wophunzira uakuphunzira,someone who is educated
 musi,pestle
-Mutsale bwino,Stay well
-Mutsogole,You go ahead
 mutu,head
-Muwa gula chiyani?,What have you just bought?
-Muyende bwino,"Have a safe journey, Travel well"
 muzu,root
 mvula,rain
 mvuwu,hippo
-Mwa chedwa,You are late
 mwa chidule,in brief
 mwa chitsanzo,for example
-Mwa dzuka bwanji?,How did you wake up?
-Mwachoma bwanji,Good evening
 mwadzidzidzi,suddenly
-Mwadzuka bwanji?,How did you wake up?
-Mwadzuka bwanji?,Good morning?
-Mwadzuka bwanji? (greeting),Good morning
 mwakuti,such that
 mwala,rock
-Mwalandilidwa!,You are most welcome
-Mwalandiridwa,Welcome
 mwamba,heaven
 mwambi,proverb
 mwambo,traditions
-Mwamuna,Man
 mwana,child
-Mwana a li maliseche,Child is naked
 mwana ina,other child
-Mwana m`modzi,Single child
-Mwana wanu a li ndi nsabwe,Your child has lice
 mwano,insolence
-Mwasewela bwanji,Good afternoon
-Mwaswela bwanji?,You spent the day how?
 mwaswera bwanji?,How did you spend the time?
-Mwauka bwanji?,Good morning
 mwawi,good luck
 mwawi,good luck
 mwendo,leg
-Mwenechindongwa,nickname
 mwezi,moon
 mwezi wa (u-a) mawa,next month
 mwezi watha (u-a-tha),last month
 mwini,owner
-Mzanga,My friend
 mzimu,soul
 mzinda,city
-Mzinda wa,Chicago
-Mzungu,White person
-N'zofunika mwamsanga,It's an emergency
 na,past tense
-Nai,four
-Namalenga,God
 namwali,maiden
 nanga inu?,what about you?
 nanga tsopano,what about now
-Nanga wachiwiri ndani?,Who is the second born?
 nayi,four
-Nda chedwa,I am late
-Nda chita mwawi,I am doing lucky
-Nda ku-gomera-ni,I take my hat off to you
-Nda pita,I am about to go
-Nda tha,I am finished
-Nda thima,I have extinguished
-Nda thyoka myendo,I have a broken leg
-Nda topa,I am tired
-Ndachoma bwino,Good evening
-Ndadzuka bwino (response),Good morning
-Ndadzuka bwino kaya inu,I woke up well; what about you
-Ndadzuka bwino kaya inu?,I woke up well; what about you
-Ndadzuka bwinonso zikomo,I woke up well too thank you
 ndafika,I have arrived
-Ndakhuta,"I'm finished, I am full"
 ndakondwa,I am happy
-Ndakondwa kukumana ndi inu,Happy to meet you!
-Ndakondwa kukumananso ndi inu,Happy to meet you too!
 ndalama,money
 ndalama zingati?,how much?
-Ndamva,I heard
 ndani,who
-Ndani?,Who?
 ndanyamuka,I have departed
-Ndapita,Goodbye
-Ndapweteka,I've been injured
 ndasangalala,I am happy
-Ndasewela bwino,Good afternoon
-Ndasochera,I'm lost
-Ndaswela bwino kaya inu?,I spent the day well what abou
-Ndaswela bwinonso zikomo,I spent the day well too
 ndaswera bwino,I passed the time well
-Ndataya chikwama,I lost my bag
 ndatopa,I am tired
 ndege,aeroplane
 ndemanga,comment
 ndenge,plane
 ndevu,beard
-ndi,and
 ndi,I
-ndi-ine,it's me
-Ndi-na-ku-tchera-ni msampha,I set a trap for you
-Ndi a chokera,I am just from
+ndi,and
 ndi inu,it's you
-Ndi ku funa kuti mu ndi uze,I want you to tell us...
-Ndi ku funa kuti mu ndi yahkhe,I want you to answer me
-Ndi ku funa kuti mu sambire,I want that you swim
-Ndi ku funa kwambiri,I like very much....
-Ndi ku ka gula chakudya,I am going to buy food
-Ndi ku li dziwa,I know it
-Ndi ku thamangitsa mkango,I am chasing the lion
-Ndi ku topa,I am getting tired
-Ndi ku u thamangitsa,I am chasing it
 ndi li bwino,I am fine
 ndi li bwino pang'ono,I am a little bit fine
-ndi li bwinonso,I am fine also
 ndi li bwinonso,I am fine
-Ndi li m'mavuto,I am in problems
-Ndi li ndi ludzu,I am thirsty
-Ndi li ndi njaba,I am hungry
-Ndi li ndi tsoka,I have bad luck
-Ndi li ndi vuto,I have problem
-Ndi li pa mavuto,I am at problems.
-Ndi li pa mnyenyo,I am on break
-Ndi li tulo,I have problem in stay awake
-Ndi libe,assignment
-Ndi ma chokera,I am from
-Ndi ma chokera ku Florida,I am from Florida
-Ndi na bwerako dzulo madzulo,I returned yesterday night
-Ndi na funsa bambo Ken kuti...,I asked Mr. Ken that....
-Ndi na ku-phunzitsa-ni,I taught you
-Ndi na mva chisoni,I felt sad
-Ndi na pita ku ka sambire,I went to go swim
-Ndi na u thamangitsa,I chased it
-Ndi ndani?,With who?
-Ndi yani?,With who?
-Ndibwanji kupita ku _____?,How much does it cost to get
-Ndidzakhala ku Dedza,I will stay in Dedza
-Ndidziwa,I know
-Ndifuna,I want
-Ndifuna _____.,I would like _____.
-Ndifuni Kupita Ku Lilongwe,I want to go to Lilongwe
-Ndiitana apolisi,I'll call the police
-NdiKhala kuno masiku_______,I will stay for _____ night(s)
+ndi li bwinonso,I am fine also
+ndi-ine,it's me
 ndikudwala,"I am sick, I'm sick"
-Ndikudwala mutu,Head ache
 ndikufina njumbo?,Can I have a bag?
-Ndikufuna coke chonde,I need_(coke)_ please
-Ndikufuna dokotala,I need a doctor
-Ndikufuna ku ku-funsa-ni,I want to ask you
-Ndikufuna kugona,I want to sleep
-Ndikufuna kusamba,I want to bathe
-Ndikufuna ndituluke mu hotel,I want to check out
-Ndikufuna rent Galimoto,I want to rent a car
-Ndikumva kutentha,I am feeling hot
-Ndikumva kuzizira,I am feeling cold
-Ndikupita,Iam going
-Ndilekeni,Leave me alone
-Ndili Bweno,I am well
-Ndili bwino kaya inu?.,I’m ok and you?
 ndili wokondwa,I am happy
 ndili wosangalala,I'm fine
 ndilibe ndarama,I can't afford it.
-Ndimachokera ku USA,I am from USA.
-Ndimadana nazo,I hate it
-Ndimadya masamba basi,I'm a vegetarian
-Ndimagwira ntchito yodzipereka,I do work of a volunteer
-Ndimakukhulupilira,I trust you
 ndimakukonda,I love you
 ndimakukondani,I love you
 ndimakukondaninso,I love you too
 ndimakukondanso,I love you too
-Ndinamva,I heard
 ndine,it's me
-Ndingaimbe nawo foni yanuyo?,Can I use your phone?
-Ndingakaone ku khitchini?,Can I look in the kitchen?
-Ndingaone menu?,Can I look at the menu; please
 ndinu,it's you
 ndio,condiment
 ndio za masamba,vegetables
-Ndipatseni bill,The check; please
-Ndipatseni madzi chonde,Give me _(water)_ please
 ndipo,and
 ndiri bwino,"I am fine, Fine; thank you"
 ndirikufuna,I need...
-Ndisiyeni,Leave me alone
-Ndithu,Truly
-Nditu,Really
-Ndiwaulesi,she is lazy
 ndiwo,"condiment, Side-dishes"
-Ndiwosangalala,She is happy
-Ndlama Dzingati,How much does it cost
 ndoo,bucket
 ndowa,bucket
 ndudu,cigarette
@@ -1532,7 +1642,6 @@ njiwa,dove
 njobvu,elephant
 njoka,snake
 njovo,elephant
-Nkhaka,Cucumber
 nkhalamba,senior
 nkhalango,forest
 nkhali,cooking pot for nsima
@@ -1554,9 +1663,7 @@ nsalu,cloth
 nsanje,jealousy
 nsapato,"shoe(s), shoe"
 nsawa,nuts
-Nsawawa,Pigeon peas
 nseu,road
-Nsikana,girl
 nsima,"maize porridge, corn porridge"
 nsomba,fish
 ntchafu,thigh
@@ -1567,8 +1674,6 @@ nthaka,soil
 nthambi,branch
 nthano,"a tale, story"
 nthawi,time
-Nthawi ili bwanji?,what is the time?
-Nthawi yanji?,What time?
 nthenda,disease
 nthenga,feathers
 nthochi,banana
@@ -1585,41 +1690,30 @@ nyerere,ant
 nyimbo,song
 nyonga,stamina
 nyumba,house
-Nyumba ziwiri,two houses
 nyundo,hammer
 nzeru,intelligence
-Nzeru za kale,Ancient wisdom
 odi odi,announcement
 ola,hour
 onamizidwawo,the deceived
-Osa nena mao dzo ipa,Don't swear
-Osa patsa chipongwe,Don't be rude
-Osandigwira,Don't touch me!
-Osapanga chipongwe,Don't be rude
 osati,not
-Osatukwana,Don't swear
 pa,on
-pa-no,here on
 pa chipupa,on the wall
 pa mamawa,early tomorrow
 pa mpando pa li chisoti,On the chair is a hat
+pa-no,here on
 pafupi,near by
 pafupi ndi,near something
 pakati,between
 pakatikati,central
-Pali kwina kopanda phokoso?,Do you have anything quieter?
-Palibe chapadera,nothing special
 palibe kanthu,there is no
 pamodzi,together
 pang'ono,little
 pang'ono pang'ono,slowly
-Pang'ono pang'ono ndi mtolo,Slowly is a bundle
 panja,outdoors
 panopa,now
 pansi,down on the ground
 pansi pa,below
 panthawi ya,during
-Papaya,Paw paw
 pasabata,Sunday
 patali,far away
 patali ndi,far from
@@ -1628,7 +1722,6 @@ pemphero,prayer
 pempho,request
 pendapenda,going back and forth
 pepala,paper
-Pepani,"I'm sorry, sorry"
 phanga,cave
 phazi,foot
 phewa,shoulder
@@ -1643,11 +1736,7 @@ phwetekere,tomatoes
 phwiti,finch
 piches,peaches
 pitani,you go
-Pitani bwino,Go well
-Pitani mu ka i chotse,Go remove it
 posachedwa,soon
-Room iri ndi ......,Does the room come with...
-Sa khala ku VA,Hi is not from Virginia
 sabata,week
 sabata idapita,last week
 sabata ikubwera,next week
@@ -1655,63 +1744,28 @@ sabata ino,this week
 sabata ya mawa,next week
 sabata yatha,last week
 sabatta,Sunday
-Sakusangalala,She is not happy
 saladi,salad
-Salani bwino,Stay well
-Samakonda coke,He doesn’t like coke
 samba,leaf
 sanu,five
-Sanu n'chimodzi,six
-Sanu n'zinayi,nine
-Sanu n'zitatu,eight
-Sanu n'ziwiri,seven
-Sanu ndi modzi,six
-Sanu ndi tatu,eight
 satana,devil
 sewero,game
 sewero nkhonya,boxing
-Si a ku khala ku Ohio,He isn't living in Ohio
-Si ndi ku dziwa,I don't know
-Si ndi ku nena kuti mu gulitse,I am not saying that you sell
-Si ndi kumva,I don't hear
-Si ndi nga ku-uze-ni,I can not tell you
-Simumamwa madzi,You don’t drink water
 sindano,needle
-Sindidziwa,I don't know
-Sindikufuna,"I don't want, I'm not interested"
 sindikufuna,I don't want
 sindikumvetsa,I don't understand
-Sindili wosangalala,I am sad
-Sindimadya nyama,I don’t eat rice
-Sindimadya nyama ya ng'ombe,I don't eat beef
-Sindimadya nyama ya nkhumba,I don't eat pork
-Sindimakonda nyama,I don’t like meat
-Sindimalankhula chinyanja,I don't speak Nyanja
-Sindimvera,I don't understand
-Sindimvetsa,I don't understand
-Sindinamva,I didn't hear
 sindinapange mulandu ulionse,I haven't done anything wrong
-Sindiri kufuna,I don't want it
-Sitima ikupita kuti?,Where does this train go?
-Sitima iyi imayima pa _____?,Does this train stop in__?
-Sitima ya ku______ ili kuti?,Where is the train to____?
 sompho,adze
 sopo,soap
 such as,monga
 sukani bwino,stay well (1)
 sukulu,school
-Ta (ti-a)gonja,We have lost
 tambala,rooster
-Tamva,We have heard
 tanaposi,turnip leaves
 tanthauzo,meaning
 tar,tarmac
 tatu,three
-Tebulo,Table
 teni koloko m'mawa,two o'clock AM
 thako,buttock
-Thamanga,Run!
-Thandizeni,I need your help
 thanthwe,solid rock
 thawa,run away
 theka,half
@@ -1725,50 +1779,25 @@ thumba la pa msana,backpack
 thunthu,whole
 thupi,body
 ti,we
-ti-,indicate small for a plural
-Ti dza phunzira,We will learn
 ti ku puma,we are breathing
-Ti li ndi muthu modzi,We have one person
-Ti pite ku kalasi tsopano,Let's go to class now
-Ti yambanso,We will (shortly) begin again
-Tikiti imodzi ku_____.,One ticket to_____; please
-Tikiti ndi bwanji ku_____?,How much is a ticket to___?
-Tikulandirani,Welcome
-Tikuoneni,hello
+ti-,indicate small for a plural
 timati,tomato
-Tinadzuka,We woke up
-Tingathe ku-mu-yankha,We are able to answer him
-Tionana,"See you later, see you later!"
-Tionana posachedwa,We shall see each other soon
 tirigu,wheat
-Tiwonana,"Goodbye, See you later"
-Tiyeni!,come on!
 tiyi,"tea (drink), Tea"
 tsabola,"pepper, black pepper"
-Tsache,Broom
-Tsalani bwino,"Stay well, remain well"
 tsamba,leaf
 tsatane-tsatane,in detail
 tsiku,day
-Tsiku linali bwanji?,How was the day?
-Tsiku linali bwino zikomo,The day was good thank you
 tsiku lo kumbukira kwa balidwa,birthday
 tsiku ndi tsiku,every day
 tsitsi,hair
 tsogolo,front
 tsoka,misfortune
-Tsoka langa,Just my luck
-Tsopano,now
-Tsopano ndi vuto lanu,Now it's your problem
 tu koloko m'masana,two o'clock PM
 tulo,sleep
 twelufu koloko m'usiku,midnight
 twelve koloko m'masana,noon
 u-,you (pl)
-U-na-li ndi yani?,You were with who?
-U ku ndi thamangitsa,It is chasing
-U na ndi thamangitsa,It chased me
-U na tha liti?,It ended when?
 uakunkhanza,cruel person
 ubale,brotherhood
 uchi,honey
@@ -1784,7 +1813,6 @@ ukwati,marriage
 ulalo,bridge
 ulemu,respect
 ulendo,journey
-Ulendo wa bwino,Good journey
 ulendo wa kwathu,going home
 ulendo wautali,the long trip
 ulesi,laziness
@@ -1795,14 +1823,10 @@ umodzi,quality of one
 umoyo,health
 umphawi,poverty
 una,burrow
-Unama,You're cheating me
 until,chair
 uphunzitsi,teaching
 usiko,night
 usiku,"night, after dark, Evening"
-Usiku unali bwanji?,How was the night?
-Usiku unali bwino zikomo,The night was good thank you
-Usiku wabwino,Good night
 usodzi,profession of
 uta,bow
 uta wa leza,rainbow
@@ -1812,56 +1836,32 @@ utsiru,idiotcracy
 uwu unali moyo wako,this was your life
 uyu,this
 uyu bambo,This man
-Uyu mayi,This woman
 vuma,east
 vuto,problem
-Wachiwiri ndi mchemwali wanga,The second born is my sister
-Wakubayo!,Thief!
 wankhanza,cruel person
 wanu koloko m'mawa kwambiri,one o'clock AM
-Wapolisi!,Police!
 wiri,two
-Wo gonitsa,expensive
-wofiira,red
 wofiira,"a white person, red"
+wofiira,red
 wofira,red
-Woipa (person),Bad
 wophunzira,student
 yai,No
 yankho,response
-Yatsani nyali,Light
 year of 1985,chaka cha 1985
-Yendani bwino,Have a safe journey
 yeniyeni,real
 yera,white
-Zakumwa,Drinks
 zambwe,west
 zana,hundred
 zana limodzi,thousand
-Zenera,Window
 zikomo,"Thank you, Excuse me"
-Zikomo kwambiri,thank you very much
 zikomo muli bwanji,Thank you how are you
-Zikomo tiwonana,Thank you see you later
-Zikomo tiwonana,Thanks see you later
-Zikomo!,Thanks
-Zikuyenda,what's up?
 zikwi zikwi,thousands and thousands
 zikwi zitatu,three hundred
 zikwi ziwiri,two hundred
 zingano,needle
-Zinthu za tsopano,New things
 zinthu zambiri,many things
 zipatso,"fresh fruit, Fruits"
 zochapila tsisi,shampoo.
 zocheza,just kidding
-Zochititsa mantha,That’s shocking!
-Zodabwitsa,That’s surprising
-Zofunda,Blankets
-Zokayikitsa,That’s doubtful
-Zokwiyitsa,That's annoying
-Zomvetsa chisoni,That’s sad
 zoona zake,in reality
-Zotopetsa,It's tiring
 zovala,clothes
-Zowona,True

@@ -11,15 +11,16 @@ Other,English
 'uch:-,to wash
 'uche-f,sour
 'uj,"faeces, roof, radish"
-'ül,bread
 'ulža-n-f,right
 'ulžan,whetstone
+'ül,bread
 'ür,pond
 'ürche-f,variegated
-'üš,night
 'üt-,to eat
+'üš,night
 -',in empty series
 -0,"imperative sing., nominative, essive"
+-Rub,frog
 -aj,imper. plural
 -ana,temporal
 -ar,plural
@@ -27,8 +28,8 @@ Other,English
 -b,masdar
 -b-ur,plural
 -d,present gerund
--d-,elative infix
 -d-,adjective substantivator sing
+-d-,elative infix
 -da-la,comparative
 -dahan,temporal gerund
 -di,"instrumental, adverbial suffix"
@@ -54,10 +55,10 @@ Other,English
 -kej,emphatic particle
 -l,"instrumental, series Super"
 -la-,obl. stem
--n,gerund past
 -n,genitive
--na,temporal
+-n,gerund past
 -na,gerund past
+-na,temporal
 -na-,obl. stem
 -ni-,obl. stem
 -q,suffix of a locative case
@@ -67,18 +68,32 @@ Other,English
 -ra-,obl. stem
 -ri,past
 -ri,present gerund
--Rub,frog
 -s,dative
--š,conditional
--šin,conditional
--t:-,elative infix
 -t:-,adverbial suffix
+-t:-,elative infix
 -t:ehari,suggestive
 -t:i,adverbial suffix
 -ur-aj,3d p. imperative
 -v,series Ad
+-š,conditional
+-šin,conditional
 =at:a-,to butt
 =ubla-s,to put on
+Ran,intestines
+Rane-f,pregnant
+Rul,summer
+Run,shoulder
+Rurdek:in,pillow
+RülR-an,sheep's dung
+Rür,hare
+Xa-f,big
+Xak:ul,sheepskin coat
+Xan,yard
+Xaw,collar
+Xaw,udder
+Xub,sheep-flock
+Xula-šuj,guest
+Xuni,cow
 a,to be
 a=ch:a-,to kill
 ach,hollow
@@ -104,8 +119,8 @@ alchan-,to close up
 ald-ark-,to plaster
 aldaq-ark-,to return
 ame-xis,to stay
-amš,one of several wives
 ams-ar,cloud
+amš,one of several wives
 aq-,to make
 aq-ux-,to lie
 aq:a-,to take
@@ -115,7 +130,6 @@ arghI-,to break
 arqe-f,wide
 ars,silver
 arx-,"to get into, to shear"
-ärxäl,straw
 arxw,diarrhea
 at-,"to cut, to drip, leave"
 atsIuf,full
@@ -124,31 +138,30 @@ ax'u x'ac,to lie
 axa-,to sleep
 axun,girder
 axw,gutter
-baga,tomorrow
-bagw,side
 baI-,to go
 baIrš,hundred
 baIti,jar
 baIž,son
+baga,tomorrow
+bagw,side
 batar-f,handsome
 batur,dirt
 baw,mother
 bec,ox
 bex:er,handsome
 bici-f,small
-bišik,swallow
 bizi,female breast
-buhuj,owl
+bišik,swallow
 buIršef,deaf
 buIše-f,deaf
+buhuj,owl
 bure-r,grey
-bušaxIur,badger
 but,penis
 bux,cow's dung
+bušaxIur,badger
 ca,fire
 ca-,give
 ca-rp,lightning
-cäjälpan,lightning
 cajif,new
 cal,"wall, pot-herb leaves"
 car,dew
@@ -159,8 +172,9 @@ ch-irqw-,to bark
 ch-irxw-,to tear off
 ch:aIm,butter
 ch:ixIar,pear
-chagh,rook
+chIekI,fish
 chaIplan-f,left
+chagh,rook
 chaku,goat less than 2 years old
 chal,"weed, speech"
 chaq,wooden jar
@@ -172,11 +186,10 @@ chek,fish
 chemchal,quail
 chewe-ne,it is high time
 chi,sister
-chid,flea
-chIekI,fish
 chiIb,"sweetbrier, span"
-chil,thin log
+chid,flea
 chil,leather strip
+chil,thin log
 chilqw-,to gnaw
 chin,we
 chiq,wooden step
@@ -201,18 +214,19 @@ cup:e-f,hard
 curcul,marten
 curxa-,to gnaw
 cux,faeces
+cäjälpan,lightning
 d-,not
+d-aXu-b aqas,to change
 d-alxan-,to disperse
 d-aq-,to open
 d-aqIa-s,get cold
-d-aXu-b aqas,to change
 d-irx-,to saw
 d-iw-,to pull
 d-ixe-f,liquid
 d-uq-,to sew
-d-ürüX-,to play
 d-ux'-,be reconciled
 d-uzha-,to lick
+d-ürüX-,to play
 da,no
 dad,father
 dagar,window
@@ -243,30 +257,34 @@ fi-š,who
 fun,"belly, stomah"
 fur,wheel
 furd,manure
+g'Ivas,to go
 g'arx'as,to sleep
 g'ishac,to fly
-g'Ivas,to go
 g'uzanas,to stand
 g'van,stone
+gIad,star
+gIad,two
+gIu'sh,night
+gIu'tIac,to eat
 gagur-t,left
 gal,shell
 gap,hand
 gar,scab
 gardan,neck
-gaš,hunger
 gaza,pickaxe
+gaš,hunger
 gažin,small earthenware jug
 gh-,in filled series
 gh-ulkan-,to fal
-gh-uš-,to buy
 gh-uz-,to stand
+gh-uš-,to buy
+ghIal-ar,sleigh
+ghIaraghal,egg
+ghIurch,hunting
 gha'ur-di arx-,to understand
 ghad-iž-,to wrap
 ghaze-f,green
-ghIal-ar,sleigh
-ghIaraghal,egg
 ghil,hand
-ghIurch,hunting
 ghuj,dog
 ghul,wall-niche
 ghur,ak. of grass
@@ -274,28 +292,24 @@ ghurgh-,to speak
 ghwad,ceiling
 ghwan,stone
 gi,that below
-gIad,two
-gIad,star
 gilegw,key
 gilgenf,round
 gim,tower
 gimik:,measles
 gita-n,cat
-gIu'sh,night
-gIu'tIac,to eat
 guch,fright
 gul-,to lose
 gunt,heap
-günzel,threshhold
 gurdar,block
 gurga-h,skull
-güt,short-eared ram
 gutaj,pillow
 gutul,kidney
 gužal,bark
 gwad,clew
 gwar,a big jar
 gwarž,prong of a rake
+günzel,threshhold
+güt,short-eared ram
 h-,pre series
 ha-mi,deictic emphatic stem
 ha-re-f,sharp
@@ -307,9 +321,9 @@ hašw,caraway
 hi-na,which
 hin-c,now
 hiš-,to run away
-hül,sea
 hurchal,hamster
 hurukul,gimlet
+hül,sea
 hüt,head
 i,to be
 i',blood
@@ -347,18 +361,18 @@ ix-es,to reap
 iže-f,good
 ja'-t-,break
 ja'aldi-l,high
+jaIrchu-d,nine
 jad,smithy
 jagh,day
-jaIrchu-d,nine
 jak:,meat
 jakw,axe
 jam,bride-groom
 jaq:we-f,thick of liquids
 jaqu-d,four
+jarX-,hit
 jard,steer
 jarqwe-f,heavy
 jarse-f,old
-jarX-,hit
 jarxIe-f,long
 jax,fat on meat
 jaxal,grindstone
@@ -393,6 +407,8 @@ k:urt:,shirt
 k:wah,fishing-rod
 k:war,boundary
 k:wedk:wedaj,woodpecker
+kIare,black
+kIes,to die
 kabk,mange
 kac,vertebra
 kach,bitch
@@ -405,8 +421,8 @@ kar,stick
 karab,bone
 karch,horn
 kare-f,black
-kaš,sledge hammer
 kati,wooden shovel
+kaš,sledge hammer
 kech,wineskin
 ked,jackdaw
 kek,top of boot
@@ -417,14 +433,12 @@ kentw,lip
 keruq,young of domestic animals
 ket,ear of corn
 kež,leaf
-kIare,black
-kIes,to die
 kil,"head, ear of corn"
 kille-f,thin
 kirk,finger nail
 kisal-f,light
-kit-kwa-,to wake up
 kit-X-,to rub
+kit-kwa-,to wake up
 ku'chef,hot
 kub,dried and pressed dung
 kuc,appearance
@@ -432,22 +446,21 @@ kuch,button
 kuch,plait
 kul,branch
 kulexar,woman's breast ornament
-kum,sour cream
 kum,smoke
+kum,sour cream
 kumul,toe
 kur,tree
 kurcul,puppy
 kuruš,besom
 kuržam,quince
-kuš-mul,hoof
 kutan,plough
 kutul,branch
+kuš-mul,hoof
 kwat:,measure for flour
 la'k,leg
 la-jcw-,to plane
 lajch-,to flow
 lak,foot
-läkwa,palate
 lat:-ix-,to lock
 le',skin
 lek,liver
@@ -462,42 +475,43 @@ luq-as,to dance
 lux-,to work
 luz,clay
 luž,herd of cattle
+läkwa,palate
 m-,a prohibitive particle
-mac,hearth
-magh,ploughshare
-mah,whey
 maIr',root
 maIrt:e-f,clean
 maIržw,juniper
 maIš,pus
 maIž,nettle
+mac,hearth
+magh,ploughshare
+mah,whey
 maluqI,worm
 maq:Iw,rust
 maqIw,oak-tree
-marc,eagle
-märch:,sheep
-marf,rain
-margh,shepherd's staff
-margI,roof
-marqIw,root
 marRu,tom-cat
-maš,face
+marc,eagle
+marf,rain
+margI,roof
+margh,shepherd's staff
+marqIw,root
 masa jis,to sell
 mav,fat
 max,bundle
+maš,face
 me,this
 me'-er,a sort of barley
 merk:w,ice
 merzw,raspberry
 mesw,tinder
-mex,sheep-fold
 mex,handful
+mex,sheep-fold
 mez,tongue
 mi,demonstrative pronoun
 mik-ler,cold
 miki,malt
 mizmiz,mosquito
 mu'ul,beak
+muR,bridge
 muche-f,dark
 muchur,chin
 mudur,kid
@@ -508,7 +522,6 @@ muja-d,eight
 muk:ur,poles for planking ceiling
 muq,place
 muq:u-rux,greedy
-muR,bridge
 murchI,feather
 murs,mould
 murt:,corner
@@ -516,11 +529,12 @@ murx,deer
 murxil,pole
 murž,gadfly
 mus,when
-muš,hope
 musu,oat flour
 mux,a sp. of barley
 muxur,breast
+muš,hope
 mužur,beard
+märch:,sheep
 nec,cane
 neghw,tear
 nek:,milk
@@ -536,8 +550,8 @@ nis,cheese
 obl. stem + 0,ergative
 p'para,a lot
 p-,say
-pa',hen
 pa aqas,to kiss
+pa',hen
 paIr,secretion in the eye
 paIž,leaf
 pap,dung of cow
@@ -548,47 +562,36 @@ pex-er,blister
 pic,resin
 pinc,feather
 put,horse's main
-q-,suffix of a locative case
 q-,iterative prefix
+q-,suffix of a locative case
 q-aq-,to carry on the back
 q-ik:w-,to close in
 q-ux-,to believe
+q:Iad-arar,stairs
+q:Ianch:,young of donkey
+q:Iaraq:Ial,magpie
+q:Iure-f,thin
 q:a-d,twenty
 q:aj,sheath
 q:ar-xil,elbow
 q:ark,bark
 q:arka-Rub,frog
-q:Iad-arar,stairs
-q:Ianch:,young of donkey
-q:Iaraq:Ial,magpie
-q:Iure-f,thin
 q:urq:ur,diarrhea
 q:ut:,small stone
-q:wal,side
 q:waRanaj,crow
-qa,behind
-qabq,moth
-qac,slice
-qacrak,gadfly
-qalqamaš,gristle
-qas,shelf for dishes
-qat,piece
-qat-us-,to extinguish
+q:wal,side
 qIab,cradle
 qIac,pincers
 qIacul-f,naked
 qIad,rook
-qIal,salt
 qIal,anger
+qIal,salt
 qIaq,throat
 qIare-f,empty
 qIarqI,rock
 qIaruš,dirt
 qIatul,belt
 qIir,swamp
-qir,grain
-qiriq,sheep-skin
-qis,part
 qIu-d,two
 qIuj,pitchfork
 qIul,mouse
@@ -597,25 +600,34 @@ qIuqI,nose
 qIuqIef,yellow
 qIurch,roasted grain
 qIuzhal-qas,to bend
-qIwaš,heel
 qIwat,"crow, cave"
+qIwaš,heel
+qa,behind
+qabq,moth
+qac,slice
+qacrak,gadfly
+qalqamaš,gristle
+qas,shelf for dishes
+qat,piece
+qat-us-,to extinguish
+qir,grain
+qiriq,sheep-skin
+qis,part
 qudu-bil,hedgehog
 qul,lid
 qup:,beak
 quraghd-ark-,stumble
 qurq,"throat, crane, knot"
-quš,scoop
 qut,gutter
 qut:,carrot
+quš,scoop
 qwaqw,knee
 qwin,nail
+raX,mill
 ragh,sun
 rak:,door
-Ran,intestines
-Rane-f,pregnant
 raqI:a-,to see
 rat:,threshing-floor
-raX,mill
 req:,road
 res,staff
 riq,soup
@@ -629,51 +641,32 @@ rugh-,to freeze
 ruk'I,ash
 ruk-,to dig
 ruk:-,to cut
-Rul,summer
-RülR-an,sheep's dung
-Run,shoulder
 ruq,iron
 ruq-,to reach
 ruq:u-f,striving
 ruq:uf,dry
 ruqI:,ashes
-Rür,hare
-Rurdek:in,pillow
-ruš,daughter
 ruta-s,to curdle
 rux-,"to read, to knit, to wail"
 rux=,to boil
+ruš,daughter
 ruž,tail
 s:um,straw
-š:ume-r,liquid
 s:ür,gullet
 sa-jagha,a day after tomorrow
-ša-w,to come
 sad,one
 sakwa-na,tomorrow
 sal,cattle-shed
 salav ak'as,to swim
-šar,helminth
 seb,gall
-šeb-ret,foundation
 sem,lamb after 6 months
 sileb,tooth
-šim,road metal
-šin-cur,three
-šinik:w,boy
-šint,cradle
-šišal,sack
-šit:aj,mosquito
-šit:ilaj,mosquito
 siv,"end, mouth"
-šix,large intestine
 su,mountain
-šuj,man
 sul,fox
 sul,rye
-šum-ar,shoe
-sur,ramson
 sur,half
+sur,ramson
 sur-ar,dried fruits
 sus,bride
 t-aX-,to swell
@@ -709,6 +702,7 @@ tut,fly
 tutu,spit
 tuxa-,wither
 u'ul,hole
+uX-,preserve
 uc-,roast grain
 uc-as,to mow
 uch,self
@@ -722,7 +716,6 @@ ugas,to burn
 ughas,to rain
 ugwa-s,burn
 uk,grass
-ük,grass
 uk:-,to run
 ul,eye
 ulusun,wild turkey
@@ -741,7 +734,6 @@ urqi-,to dig
 urs,moth
 ut:-,to spin
 uta-,to beat
-uX-,preserve
 ux-,bear
 ux-,to drink
 uxas,to drink
@@ -760,25 +752,21 @@ waz,month
 wun,thou
 x'Iax'Iv,nose
 x-,to become
+xIar,meadow
+xIaw,walnut
+xIawaqI,evening
+xIuj,oath
 xa-,to carry
-Xa-f,big
 xab,armful
 xach,side of body
-Xak:ul,sheepskin coat
 xal,"house, fat"
 xam,skin
-Xan,yard
 xar,earthenware stove
 xarche-f,dark-blue
-Xaw,collar
-Xaw,udder
 xaxw,trough
 xed,water
 xej,wool of sheep
 xi-,to go
-xIar,meadow
-xIaw,walnut
-xIawaqI,evening
 xibu-d,three
 xic,tick
 xidul-f,female
@@ -788,15 +776,11 @@ xink,dumpling
 xir,woman
 xird,linden
 xirx,snot
-xIuj,oath
 xu,field
-Xub,sheep-flock
 xuch-raxan,spider
 xudul,lung
 xul,furrow
-Xula-šuj,guest
 xumb-ar,women
-Xuni,cow
 xur,"pea(s), village, testicle"
 xurt,foam
 xut,navel
@@ -807,25 +791,41 @@ xuxal,mitten
 xwan,mountain slope
 xwar,mare
 yurkI,heart
-ž-irx-,to comb
 zabz,ant
+zav,sky
+zaz,fastener
+zaz,prick
+zhimzhax,spider
+ziwz-ar,strawberry
+zu-r-fi-,to sift
+zun,i
+zur,urine
+zurz-,to tremble
+zwelez,spleen
+ärxäl,straw
+ük,grass
+š:ume-r,liquid
+ša-w,to come
+šar,helminth
+šeb-ret,foundation
+šim,road metal
+šin-cur,three
+šinik:w,boy
+šint,cradle
+šit:aj,mosquito
+šit:ilaj,mosquito
+šix,large intestine
+šišal,sack
+šuj,man
+šum-ar,shoe
+ž-irx-,to comb
 žagwar-f,white
 žam,bride-groom
 žaq:e-f,short
 žaqw,small bird
 žar,milk skin
-zav,sky
-zaz,fastener
-zaz,prick
-zhimzhax,spider
 žik-,to sweep
 žil,earth
 žimil,cornel
-ziwz-ar,strawberry
-zu-r-fi-,to sift
 žukül ghušas,to make an ablution
-zun,i
-zur,urine
-zurz-,to tremble
 žwal,sheaf
-zwelez,spleen

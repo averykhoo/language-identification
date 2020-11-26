@@ -1,7 +1,8 @@
 Other,English
-// Symbols //,// Symbols //
 (!),interjection
 (+),conjunction
+(Ja),Japanese language
+(Zh),Chinese language
 (adj),adjective
 (adv),adverb
 (ain-C),Hokkaidô dialect [default]
@@ -20,7 +21,6 @@ Other,English
 (ain-S),Honshu dialect [extinct]
 (ain-W),Amur Valley dialect [extinct]
 (g),posessive
-(Ja),Japanese language
 (n),noun
 (p),plural
 (pc),particle
@@ -40,21 +40,17 @@ Other,English
 (voc),vocative
 (vt),verb: transitive
 (x),explicit
-(Zh),Chinese language
 +,and
+// Dictionary //,// Dictionary //
+// Symbols //,// Symbols //
 <,from
->,see also
 >,becomes
-¹,1st of multiple entry
-²,2nd of multiple entry
-³,3rd of multiple entry
-ª,4th of multiple entry
-º,5th of multiple entry
+>,see also
+Aynu (n),Ainu
 SB,somebody
 ST,something
-// Dictionary //,// Dictionary //
-a (vi)(s),sit
 a (vi)(s),> rok (vi)(p)
+a (vi)(s),sit
 aca (n),> acapo (n)
 aca (n),> acipo (n)
 aca (n),father
@@ -67,46 +63,46 @@ acapo (n),> acipo (n)
 acapo (n),man: middle-aged ~
 acapo (n),middle-aged man
 acapo (n),uncle
+acika (adj),dirty
 acika (adj),filthy
 acika (adj),unclean
-acika (adj),dirty
 acike (n),vagina
 acipo (n),> aca (n)
 acipo (n),father
 acipo (n),old man [respectful address]
 acipo (n),uncle
-aciw-cikap (n),falcon: gyr~
-aciw-cikap (n),< aciw (vt) + cikap (n)¹
-aciw-cikap (n),gyrfalcon
-aciw (vt),stick in
-aciw (vt),insert
 aciw (vt),drive in
+aciw (vt),insert
+aciw (vt),stick in
+aciw-cikap (n),< aciw (vt) + cikap (n)¹
+aciw-cikap (n),falcon: gyr~
+aciw-cikap (n),gyrfalcon
 aciye (n),bastard
+acuy (n),> atuy (n)
 acuy (n),> atuy-so (n)
 acuy (n),> rep (n)¹
 acuy (n),ocean
 acuy (n),sea
-acuy (n),> atuy (n)
-ahun (vi)(s),in: go ~
 ahun (vi)(s),enter
+ahun (vi)(s),in: go ~
 ahup (vi)(p),enter
 ahup (vi)(p),in: go ~
+ak (n),> aki (n)(g)(x)
 ak (n),> akihi (n)(g)(x)
 ak (n),brother: younger ~
-ak (n),> aki (n)(g)(x)
-aka (n),water
 aka (n),> wakka (n)
-akam (n)¹,cake: donut-like arrowroot ~
+aka (n),water
 akam (n)²,disk
 akam (n)²,ring
-akam (n)³,snail: sea ~
 akam (n)³,sea snail
+akam (n)³,snail: sea ~
+akam (n)¹,cake: donut-like arrowroot ~
+aki (n)(g)(x),> ak (n)
 aki (n)(g)(x),> akihi (n)(g)(x)
 aki (n)(g)(x),brother: younger ~
-aki (n)(g)(x),> ak (n)
+akihi (n)(g)(x),> ak (n)
 akihi (n)(g)(x),> aki (n)(g)(x)
 akihi (n)(g)(x),brother: younger ~
-akihi (n)(g)(x),> ak (n)
 akka (pop),> yakka (pop)
 akka (pop),> yakkay (pop)
 akka (pop),albeit
@@ -120,12 +116,12 @@ am (n),> amihi (n)(g)(x)
 am (n),claw
 am (n),nail: finger ~
 am (n),nail: toe ~
+amam (n),> amama (n)
 amam (n),barley
 amam (n),cereal
 amam (n),millet
 amam (n),rice
 amam (n),wheat
-amam (n),> amama (n)
 amama (n),> amam (n)
 amama (n),barley
 amama (n),cereal
@@ -133,187 +129,191 @@ amama (n),millet
 amama (n),rice
 amama (n),wheat
 amamkoho (n),flour
-ami-tanne-ya-oskep (n),harvestmen
-ami-tanne-ya-oskep (n),tetragnatha
-ami-tanne-ya-oskep (n),> ami-tanne (n)
-ami-tanne-ya-oskep (n),daddy longlegs
+ami (n)(g)(x),> am (n)
+ami (n)(g)(x),> amihi (n)(g)(x)
+ami (n)(g)(x),claw
+ami (n)(g)(x),nail: finger ~
+ami (n)(g)(x),nail: toe ~
+ami-tanne (n),> ami-tanne-ya-oskep (n)
 ami-tanne (n),daddy longlegs
 ami-tanne (n),harvestmen
 ami-tanne (n),tetragnatha
-ami-tanne (n),> ami-tanne-ya-oskep (n)
-ami (n)(g)(x),nail: finger ~
-ami (n)(g)(x),claw
-ami (n)(g)(x),> amihi (n)(g)(x)
-ami (n)(g)(x),> am (n)
-ami (n)(g)(x),nail: toe ~
-amihi (n)(g)(x),nail: toe ~
-amihi (n)(g)(x),nail: finger ~
-amihi (n)(g)(x),claw
-amihi (n)(g)(x),> ami (n)
+ami-tanne-ya-oskep (n),> ami-tanne (n)
+ami-tanne-ya-oskep (n),daddy longlegs
+ami-tanne-ya-oskep (n),harvestmen
+ami-tanne-ya-oskep (n),tetragnatha
 amihi (n)(g)(x),> am (n)
-amo (vi),rest: be at ~
+amihi (n)(g)(x),> ami (n)
+amihi (n)(g)(x),claw
+amihi (n)(g)(x),nail: finger ~
+amihi (n)(g)(x),nail: toe ~
 amo (vi),peace: be at ~
-amomka (adj),floating
+amo (vi),rest: be at ~
 amomka (adj),drifting
+amomka (adj),floating
 amomka (vi),afloat: be ~
 amomka (vi),drift
 amomka (vi),float
 amomka (vi),float: be ~ing
-ampa-wa-apkas (vi)(p),carry: go along ~ing STs
 ampa (n),float for fishing net
 ampa (vt),carry
 ampa wa apkas (vi),carry: to along ~ing STs
-ampari (n),netting needle
+ampa-wa-apkas (vi)(p),carry: go along ~ing STs
 ampari (n),needle: netting ~
+ampari (n),netting needle
 ampay (n),> ampayaya (n)
 ampay (n),crab
+ampayaya (n),> ampay (n)
 ampayaya (n),crab
 ampayaya (n),crab: horsehair ~
 ampayaya (n),horsehair crab
-ampayaya (n),> ampay (n)
-ampe (adv),truly
 ampe (adv),indeed
+ampe (adv),truly
+ampe (n)²,> ape (n)²
+ampe (n)²,> unci (n)
+ampe (n)²,fire
 ampe (n)¹,> ap (n)²
 ampe (n)¹,> pe (n)¹
 ampe (n)¹,article
 ampe (n)¹,object
 ampe (n)¹,subject
 ampe (n)¹,thing
-ampe (n)²,> unci (n)
-ampe (n)²,fire
-ampe (n)²,> ape (n)²
 amu (n),nail: finger ~s
-an-i (n)¹,place where something is
-an-i (n)¹,abode
 an-i (n)²,something done
 an-i (n)²,something which is
-anci (n)¹,coal
-anci (n)²,obsidian
+an-i (n)¹,abode
+an-i (n)¹,place where something is
 anci (n)²,flint: black ~
+anci (n)²,obsidian
+anci (n)¹,coal
+ani (adv)²,then
+ani (adv)²,when
 ani (adv)¹,as
 ani (adv)¹,so
-ani (adv)²,when
-ani (adv)²,then
+ani (pc)²,> ari (pop)
+ani (pc)²,by
+ani (pc)²,by means of
+ani (pc)²,with
+ani (pc)¹,> hani (pc)
 ani (pc)¹,[answer expectation]
 ani (pc)¹,[command]
 ani (pc)¹,[imparative]
 ani (pc)¹,[request]
 ani (pc)¹,[softener]
-ani (pc)¹,> hani (pc)
-ani (pc)²,by
-ani (pc)²,by means of
-ani (pc)²,with
-ani (pc)²,> ari (pop)
+ani (pr3)(s),he
 ani (pr3)(s),it
 ani (pr3)(s),she
-ani (pr3)(s),he
 ani (vt),carry (in hands)
 ani (vt),hold (in hands)
 ani (vt),hold: lay ~ on
 ani (vt),lay hold on
 ani (vt),take (in hands)
-ankes (n),morning: early ~
 ankes (n),daybreak
+ankes (n),morning: early ~
 anokay (pr2),> aoka (pr2)
 anokay (pr2),> aokay (pr2)
 anokay (pr2),you (p)
 anokay (pr2),you (s)
 anokay (pr2)(1),we
 anu (vi),hear: be ~d
-anu (vt)¹,understand
-anu (vt)¹,inquire
-anu (vt)²,put
 anu (vt)²,place
-anun-itak (n),language: strange ~
-anun-itak (n),strange langauge
-anun-itak (n),language: foreign ~
-anun-itak (n),foreign language
-anun (n),someone else
-anun (n),own: not one's ~
+anu (vt)²,put
+anu (vt)¹,inquire
+anu (vt)¹,understand
 anun (n),another person
 anun (n),outsider
+anun (n),own: not one's ~
+anun (n),someone else
 anun (n),stranger
+anun-itak (n),foreign language
+anun-itak (n),language: foreign ~
+anun-itak (n),language: strange ~
+anun-itak (n),strange langauge
 aoka (pr2),< a (X) + oka (vi)
 aoka (pr2),> anokay (pr2)
 aoka (pr2),> aokay (pr2)
 aoka (pr2),you (p)
 aoka (pr2),you (s)
 aoka (pr2)(1),we
-aokay-yaykota (pr2),you yourself
+aokay (pr2),< a (X) + okay (vi)
+aokay (pr2),> anokay (pr2)
 aokay (pr2),> aoka (pr2)
 aokay (pr2),you (p)
 aokay (pr2),you (s)
-aokay (pr2),> anokay (pr2)
-aokay (pr2),< a (X) + okay (vi)
 aokay (pr2)(1),we
-ap-kor (vi),ape
-ap-kor (vi),> ape-kor (vi)
-ap-kor (vi),simulate
-ap-kor (vi),pretend to be
-ap (n)¹,presence
-ap (n)¹,appearance
-ap (n)¹,> ape (n)¹
-ap (n)¹,> ape-kor (vi)
+aokay-yaykota (pr2),you yourself
 ap (n)²,> ampe (n)¹
-ap (n)²,object
 ap (n)²,article
-ap (n)²,thing
+ap (n)²,object
 ap (n)²,subject
+ap (n)²,thing
 ap (n)³,fish spear head
 ap (n)³,fishhook
+ap (n)¹,> ape (n)¹
+ap (n)¹,> ape-kor (vi)
+ap (n)¹,appearance
+ap (n)¹,presence
 ap (pc),[past time indicator]
-apa-cip (n),doorsill
+ap-kor (vi),> ape-kor (vi)
+ap-kor (vi),ape
+ap-kor (vi),pretend to be
+ap-kor (vi),simulate
+apa (n),door
+apa (n),doorway
+apa (n),entrance
+apa (n),exit
+apa (n),gateway
+apa (n),mouth: river ~
+apa (n),river mouth
+apa (vi),> apekus (vi)
+apa (vi),leak
 apa-cip (n),door threshhold
+apa-cip (n),doorsill
 apa-sem (n),entrance porch
 apa-sem (n),porch: entrance ~
+apa-si (vi),close the door
 apa-si (vi),door: close the ~
 apa-si (vi),door: shut the ~
 apa-si (vi),shut the door
-apa-si (vi),close the door
-apa-sta (n),door
 apa-sta (n),> apa-usta (n)
-apa-usta (n),door
+apa-sta (n),door
 apa-usta (n),> apa-sta (n)
-apa (n),mouth: river ~
-apa (n),gateway
-apa (n),doorway
-apa (n),river mouth
-apa (n),entrance
-apa (n),exit
-apa (n),door
-apa (vi),leak
-apa (vi),> apekus (vi)
+apa-usta (n),door
+ape (n)²,> ampe (n)²
+ape (n)²,> huci (n)¹
+ape (n)²,> unci (n)
+ape (n)²,fire
+ape (n)¹,> ap (n)¹
+ape (n)¹,appearance
+ape (n)¹,presence
 ape-cikuni (n),> ape-ni (n)²
-ape-cikuni (n),wood: fire~
 ape-cikuni (n),firewood
+ape-cikuni (n),wood: fire~
 ape-etok (n),< ape (n)² + etok (n)
 ape-etok (n),fireplace: head of ~
 ape-etumpe (n),< ape (n)² + etun (vt) + pe (sf)
 ape-etumpe (n),> apetumpe (n)
 ape-etumpe (n),moth: large butterfly ~ type
 ape-eynu,[OY60-159]?????/
-ape-huci-kamuy (n),> onne-huci (n)
-ape-huci-kamuy (n),> unci-kamuy (n)
-ape-huci-kamuy (n),fire: female diety of ~
-ape-huci-kamuy (n),> iresu-kamuy (n)
-ape-huci-kamuy (n),> iresu-huci (n)
-ape-huci-kamuy (n),> ape-kamuy (n)
-ape-huci-kamuy (n),> ape-huci (n)
-ape-huci-kamuy (n),< ape (n)² + huci (n)² + kamuy (n)
-ape-huci-kamuy (n),> kamuy-huci (n)
+ape-huci (n),< ape-huci-kamuy (n)
+ape-huci (n),> ape-huci-kamuy (n)
+ape-huci (n),> ape-kamuy (n)
+ape-huci (n),> ape-uci (n)
+ape-huci (n),> iresu-huci (n)
 ape-huci (n),> iresu-kamuy (n)
+ape-huci (n),> kamuy-huci (n)
 ape-huci (n),> onne-huci (n)
 ape-huci (n),> unci-kamuy (n)
 ape-huci (n),fire: female diety of ~
-ape-huci (n),> iresu-huci (n)
-ape-huci (n),> ape-uci (n)
-ape-huci (n),> ape-kamuy (n)
-ape-huci (n),> ape-huci-kamuy (n)
-ape-huci (n),< ape-huci-kamuy (n)
-ape-huci (n),> kamuy-huci (n)
-ape-kamuy-turihi (n),ash: furnace ~
-ape-kamuy-turihi (n),< ape-kamuy (n) + turihi (n)(g)(x)
-ape-kamuy-turihi (n),furnace ash
+ape-huci-kamuy (n),< ape (n)² + huci (n)² + kamuy (n)
+ape-huci-kamuy (n),> ape-huci (n)
+ape-huci-kamuy (n),> ape-kamuy (n)
+ape-huci-kamuy (n),> iresu-huci (n)
+ape-huci-kamuy (n),> iresu-kamuy (n)
+ape-huci-kamuy (n),> kamuy-huci (n)
+ape-huci-kamuy (n),> onne-huci (n)
+ape-huci-kamuy (n),> unci-kamuy (n)
+ape-huci-kamuy (n),fire: female diety of ~
 ape-kamuy (n),< ape-huci-kamuy (n)
 ape-kamuy (n),> ape-huci (n)
 ape-kamuy (n),> ape-huci-kamuy (n)
@@ -323,81 +323,77 @@ ape-kamuy (n),> kamuy-huci (n)
 ape-kamuy (n),> onne-huci (n)
 ape-kamuy (n),> unci-kamuy (n)
 ape-kamuy (n),fire: female diety of ~
-ape-kes (n),brand: fire ~
+ape-kamuy-turihi (n),< ape-kamuy (n) + turihi (n)(g)(x)
+ape-kamuy-turihi (n),ash: furnace ~
+ape-kamuy-turihi (n),furnace ash
 ape-kes (n),> ape-kis (n)
+ape-kes (n),brand: fire ~
 ape-kes (n),fire brand
-ape-kesuy (n),dragonet
 ape-kesuy (n),callionymus curvicorinis
-ape-kis (n),brand: fire ~
+ape-kesuy (n),dragonet
 ape-kis (n),> ape-kes (n)
+ape-kis (n),brand: fire ~
 ape-kis (n),fire brand
-ape-kor (vi),pretend to be
-ape-kor (vi),simulate
-ape-kor (vi),ape [mimic]
 ape-kor (vi),> ap (n)¹
 ape-kor (vi),> ap-kor (vi)
-ape-ni (n)¹,crataegus chlorosarca
-ape-ni (n)¹,hawthorn: black-fruited ~ type
-ape-ni (n)²,wood: fire~
+ape-kor (vi),ape [mimic]
+ape-kor (vi),pretend to be
+ape-kor (vi),simulate
 ape-ni (n)²,> ape-cikuni (n)
 ape-ni (n)²,firewood
-ape-nipek (n),firelight
+ape-ni (n)²,wood: fire~
+ape-ni (n)¹,crataegus chlorosarca
+ape-ni (n)¹,hawthorn: black-fruited ~ type
 ape-nipek (n),> ape-nupek (n)
-ape-nupek (n),firelight
+ape-nipek (n),firelight
 ape-nupek (n),> ape-nipek (n)
-ape-nuy (n),flame
+ape-nupek (n),firelight
+ape-nuy (n),< ape (n)² + nuy (n)
 ape-nuy (n),> nuy (n)
 ape-nuy (n),fire tongue
-ape-nuy (n),< ape (n)² + nuy (n)
-ape-oy (n),fireplace
+ape-nuy (n),flame
 ape-oy (n),> ape-sokot (n)
+ape-oy (n),fireplace
 ape-oy (n),furnace
 ape-pasuy (n),fire tong
-ape-sam (n),hearth
 ape-sam (n),fireside
-ape-sami (n),hearth
+ape-sam (n),hearth
 ape-sami (n),fireside
+ape-sami (n),hearth
 ape-samu (n),fireside
 ape-samu (n),hearth
-ape-seseki (n),heat: fire ~
-ape-seseki (n),> sesek-maw (n)
 ape-seseki (n),> ape-seseku (n)
+ape-seseki (n),> sesek-maw (n)
 ape-seseki (n),fire heat
-ape-seseku (n),> sesek-maw (n)
+ape-seseki (n),heat: fire ~
 ape-seseku (n),> ape-seseki (n)
+ape-seseku (n),> sesek-maw (n)
 ape-seseku (n),fire heat
 ape-seseku (n),heat: fire ~
-ape-sokot (n),furnace
 ape-sokot (n),> ape-oy (n)
 ape-sokot (n),fireplace
-ape-sotki (n),firebed centre
+ape-sokot (n),furnace
 ape-sotki (n),fire diety's dwelling
-ape-uci (n),fire: female diety of ~
+ape-sotki (n),firebed centre
 ape-uci (n),> ape-huci (n)
+ape-uci (n),fire: female diety of ~
 ape-una (n),ash
 ape-usat (n),cinder: hot ~
-ape (n)¹,presence
-ape (n)¹,> ap (n)¹
-ape (n)¹,appearance
-ape (n)²,> unci (n)
-ape (n)²,> huci (n)¹
-ape (n)²,fire
-ape (n)²,> ampe (n)²
-apetumpe (n),> ape-etumpe (n)
 apetumpe (n),< ape-etumpe (n)
+apetumpe (n),> ape-etumpe (n)
 apetumpe (n),moth: large butterfly ~ type
-apte (adj),weak
 apte (adj),powerless
+apte (adj),weak
+apto (n),rain
+apto (n),storm
+apto (n),storm: thunder~
+apto (n),thunderstorm
 apto-as (vi)(s),rain
 apto-aspa (vi)(p),rain
 apto-cikap (n),charadrius fuluvus
 apto-cikap (n),plover: golden ~
 apto-run (vi),rain: be ~ing
 apto-ruy (vi),rain: be ~ing
-apto (n),storm
-apto (n),rain
-apto (n),storm: thunder~
-apto (n),thunderstorm
 apu (n),ice: sea ~
 aputki (n),> sokkar (n)
 aputki (n),> toma (n)²
@@ -405,55 +401,52 @@ aputki (n),> yattuy (n)²
 aputki (n),mat: floor ~
 araka (vi),> arka (vi)
 araka (vi),hurt
-araka (vi),pain: be ~ful
 araka (vi),pain: be in ~
+araka (vi),pain: be ~ful
 araka (vi),sore
+ari (adj)²,skinned
+ari (adj)¹,late
 ari (adj)¹,slow
 ari (adj)¹,tardy
-ari (adj)¹,late
-ari (adj)²,skinned
 ari (adv),entirely
 ari (adv),quite
 ari (adv),severely
 ari (adv),with force
+ari (pop),> ani (pc)²
 ari (pop),by means of
 ari (pop),for
 ari (pop),with
-ari (pop),> ani (pc)²
 ari (vi),alight
 arka (vi),> araka (vi)
 arka (vi),hurt
-arka (vi),pain: be ~ful
 arka (vi),pain: be in ~
+arka (vi),pain: be ~ful
 arka (vi),sore
 arke (adj),half of a pair
-arpa (vi)(s),go
 arpa (vi)(s),> arupa (vi)(s)
-arpare (vt),send
+arpa (vi)(s),go
 arpare (vt),> arupare (vt)
+arpare (vt),send
 arupa (vi)(s),> arpa (vi)(s)
 arupa (vi)(s),go
-arupare (vt),send
 arupare (vt),> arpare (vt)
+arupare (vt),send
+aruwa (adj),> aruwan (adj)
 aruwa (adj),> arwa (adj)
 aruwa (adj),> arwan (adj)
 aruwa (adj),seven
-aruwa (adj),> aruwan (adj)
 aruwan (adj),> aruwa (adj)
 aruwan (adj),> arwa (adj)
 aruwan (adj),> arwan (adj)
 aruwan (n,seven
+arwa (adj),> aruwa (adj)
 arwa (adj),> aruwan (adj)
 arwa (adj),> arwan (adj)
 arwa (adj),seven
-arwa (adj),> aruwa (adj)
 arwan (adj),> aruwa (adj)
 arwan (adj),> aruwan (adj)
 arwan (adj),> arwa (adj)
 arwan (n),seven
-as (vi)¹,arise
-as (vi)¹,stand
-as (vi)¹,appear
 as (vi)²,> ruy (vi)
 as (vi)²,blow: wind ~s
 as (vi)²,fall: rain ~s
@@ -461,139 +454,141 @@ as (vi)²,fall: snow ~s
 as (vi)²,heard: be ~
 as (vi)²,ring: ST ~s
 as (vi)²,sound: ST ~s
+as (vi)¹,appear
+as (vi)¹,arise
+as (vi)¹,stand
+aset (n),chair
 aset (n),seat
 aset (n),stool
-aset (n),chair
-asi-ay (n),arrow: poisoned ~
+asi (vt),hang over
+asi (vt),put
 asi (vt),set up
 asi (vt),stand ST up
-asi (vt),put
-asi (vt),hang over
+asi-ay (n),arrow: poisoned ~
 asikepet (n),> asikipet (n)
 asikepet (n),digit
 asikepet (n),finger
 asikepet (n),toe
+asikipet (n),> asikepet (n)
 asikipet (n),digit
 asikipet (n),finger
 asikipet (n),toe
-asikipet (n),> asikepet (n)
 asikne (adj),five
 asiknep (n),five
 asimpe (n),fine [fee]
-asin (adj),new
 asin (adj),> asir (adj)
+asin (adj),new
+asin (vi),exit
 asin (vi),out: come ~
 asin (vi),out: go ~
-asin (vi),exit
 asinru (n),toilet
 asinru (n),water closet
+asip (vi)(s),> asippa (vi)(p)
 asip (vi)(s),bloom
 asip (vi)(s),blossom
 asip (vi)(s),flower
-asip (vi)(s),> asippa (vi)(p)
+asippa (vi)(p),> asip (vi)(s)
 asippa (vi)(p),bloom
 asippa (vi)(p),blossom
 asippa (vi)(p),flower
-asippa (vi)(p),> asip (vi)(s)
 asir (adj),> asin (adj)
 asir (adj),> asir an (adj)
 asir (adj),> asit (n)
 asir (adj),new
 asir (adj),next
+asir an (adj),> asir (adj)
 asir an (adj),new
 asir an (adj),next
-asir an (adj),> asir (adj)
-asir pa (n),year: new ~
 asir pa (n),new year
+asir pa (n),year: new ~
 asir pe (n),new thing
 asir pe (n),thing: new ~
+asirkara (vt),> asirki (vt)
 asirkara (vt),do over again
 asirkara (vt),new: re~
-asirkara (vt),> asirki (vt)
+asirki (vt),> asirkara (vt)
 asirki (vt),do over again
 asirki (vt),new: re~
-asirki (vt),> asirkara (vt)
 asit (n),> asir (adj)
 asit (n),new
 asit (n),next
 asiw (adj),once
+asureka (vi),depart
 asureka (vi),go away
 asureka (vi),leave
-asureka (vi),depart
+at (n)²,> atu (n)(g)(x)²
+at (n)²,> atuhu (n)(g)(x)²
+at (n)²,handle
+at (n)²,sash: bag ~
 at (n)¹,> atu (n)(g)(x)¹
 at (n)¹,> atuhu (n)(g)(x)¹
 at (n)¹,cord
 at (n)¹,fibre: elm ~
 at (n)¹,rope
 at (n)¹,string
-at (n)²,> atuhu (n)(g)(x)²
-at (n)²,handle
-at (n)²,sash: bag ~
-at (n)²,> atu (n)(g)(x)²
 atesep (n),woven: anything ~
+atte (vt)²,hang up
+atte (vt)²,suspend
 atte (vt)¹,explain
 atte (vt)¹,increase
 atte (vt)¹,send forth
 atte (vt)¹,shine
-atte (vt)²,suspend
-atte (vt)²,hang up
-attus-karape (n),loom: attus ~
-attus-karape (n),attus loom
-attus-karape (n),< attus (n) + karape (n)
+attus (n),bark fiber coat: elm ~
+attus (n),bark fiber coat: linden ~
+attus (n),bark fiber fabric: inner ~
+attus (n),coat: elm bark fiber ~
 attus (n),coat: linden bark fiber ~
 attus (n),fabric: inner bark fiber ~
-attus (n),bark fiber fabric: inner ~
-attus (n),bark fiber coat: linden ~
-attus (n),bark fiber coat: elm ~
-attus (n),coat: elm bark fiber ~
+attus-karape (n),< attus (n) + karape (n)
+attus-karape (n),attus loom
+attus-karape (n),loom: attus ~
+atu (n)(g)(x)²,> at (n)²
+atu (n)(g)(x)²,> atuhu (n)(g)(x)²
+atu (n)(g)(x)²,handle
+atu (n)(g)(x)²,sash: bag ~
 atu (n)(g)(x)¹,> at (n)¹
 atu (n)(g)(x)¹,> atuhu (n)(g)(x)¹
 atu (n)(g)(x)¹,cord
 atu (n)(g)(x)¹,fibre: elm ~
 atu (n)(g)(x)¹,rope
 atu (n)(g)(x)¹,string
-atu (n)(g)(x)²,> at (n)²
-atu (n)(g)(x)²,> atuhu (n)(g)(x)²
-atu (n)(g)(x)²,handle
-atu (n)(g)(x)²,sash: bag ~
+atuhu (n)(g)(x)²,> at (n)²
+atuhu (n)(g)(x)²,> atu (n)(g)(x)²
+atuhu (n)(g)(x)²,handle
+atuhu (n)(g)(x)²,sash: bag ~
+atuhu (n)(g)(x)¹,> at (n)¹
 atuhu (n)(g)(x)¹,> atu (n)(g)(x)¹
 atuhu (n)(g)(x)¹,cord
 atuhu (n)(g)(x)¹,fibre: elm ~
 atuhu (n)(g)(x)¹,rope
 atuhu (n)(g)(x)¹,string
-atuhu (n)(g)(x)¹,> at (n)¹
-atuhu (n)(g)(x)²,> at (n)²
-atuhu (n)(g)(x)²,> atu (n)(g)(x)²
-atuhu (n)(g)(x)²,handle
-atuhu (n)(g)(x)²,sash: bag ~
-atusa (adj),naked
 atusa (adj),bare
-atuy-ka (adv),sea: over the ~
-atuy-ka (adv),sea surface
-atuy-so (n),> acuy (n)
-atuy-so (n),ocean
-atuy-so (n),> rep (n)¹
-atuy-so (n),> atuy (n)
-atuy-so (n),sea
-atuy (n),> atuy-so (n)
-atuy (n),sea
-atuy (n),ocean
-atuy (n),> rep (n)¹
+atusa (adj),naked
 atuy (n),> acuy (n)
+atuy (n),> atuy-so (n)
+atuy (n),> rep (n)¹
+atuy (n),ocean
+atuy (n),sea
+atuy-ka (adv),sea surface
+atuy-ka (adv),sea: over the ~
+atuy-so (n),> acuy (n)
+atuy-so (n),> atuy (n)
+atuy-so (n),> rep (n)¹
+atuy-so (n),ocean
+atuy-so (n),sea
+ay (n)²,thorn: plant ~
+ay (n)³,tributary: river ~
 ay (n)¹,> aye (n)(g)(x)
 ay (n)¹,> ayehe (n)(g)(x)
 ay (n)¹,arrow
-ay (n)²,thorn: plant ~
-ay (n)³,tributary: river ~
 ay rap (n),arrow shaft feather
 ay rum (n),arrow head
 aye (n)(g)(x),> ay (n)¹
 aye (n)(g)(x),> ayehe (n)(g)(x)
 aye (n)(g)(x),arrow
+ayehe (n)(g)(x),> ay (n)¹
 ayehe (n)(g)(x),> aye (n)(g)(x)
 ayehe (n)(g)(x),arrow
-ayehe (n)(g)(x),> ay (n)¹
-Aynu (n),Ainu
 aynu (n),comrade
 aynu (n),father
 aynu (n),human
@@ -601,16 +596,17 @@ aynu (n),husband
 aynu (n),man
 aynu (n),mankind
 aynu (n),person
-aynu puri (n),custom: Ainu ~s
 aynu puri (n),Ainu customs
+aynu puri (n),custom: Ainu ~s
 b,> p
-ca (adj),many
 ca (adj),great
-ca (n)¹,> sa (n)¹
-ca (n)¹,bank: low river ~
-ca (n)¹,river bank: low ~
-ca (n)¹,sea shore
-ca (n)¹,shore: sea ~
+ca (adj),many
+ca (n)ª,> caha (n)(g)(x)
+ca (n)ª,spray wood
+ca (n)ª,twig
+ca (n)ª,underwood
+ca (n)ª,wood: spray ~
+ca (n)ª,wood: under~
 ca (n)²,> car (n)
 ca (n)²,> caro (n)(g)(x)
 ca (n)²,> pan (n)²
@@ -620,25 +616,24 @@ ca (n)²,> paroho (n)(g)(x)
 ca (n)²,face
 ca (n)²,head
 ca (n)²,mouth
+ca (n)³,> cas (n)
 ca (n)³,fence
 ca (n)³,hedge
-ca (n)³,> cas (n)
-ca (n)ª,> caha (n)(g)(x)
-ca (n)ª,spray wood
-ca (n)ª,twig
-ca (n)ª,underwood
-ca (n)ª,wood: spray ~
-ca (n)ª,wood: under~
-ca (n)º,tea
+ca (n)¹,> sa (n)¹
+ca (n)¹,bank: low river ~
+ca (n)¹,river bank: low ~
+ca (n)¹,sea shore
+ca (n)¹,shore: sea ~
 ca (n)º,< (Zh) Cha: tea
+ca (n)º,tea
 ca (vi),spread out flat
 ca (vt),cut up
 ca (vt),pinch off
+caca (n),eloquent speaker
 caca (n),man: old ~
 caca (n),old man
 caca (n),orator
 caca (n),speak: eloquent ~er
-caca (n),eloquent speaker
 caha (n)(g)(x),> ca (n)ª
 caha (n)(g)(x),spray wood
 caha (n)(g)(x),twig
@@ -653,171 +648,171 @@ car (n),> par (n)
 car (n),> paro (n)(g)(x)
 car (n),> paroho (n)(g)(x)
 car (n),mouth
-caro-an (adj),eloquent
-caro-nunnun (vt),suck the lip
-caro-nunnun (vt),kiss
+caro (n)(g)(x),> ca (n)²
+caro (n)(g)(x),> car (n)
 caro (n)(g)(x),> pan (n)²
+caro (n)(g)(x),> par (n)
+caro (n)(g)(x),> paro (n)(g)(x)
 caro (n)(g)(x),> paroho (n)(g)(x)
 caro (n)(g)(x),mouth
-caro (n)(g)(x),> car (n)
-caro (n)(g)(x),> paro (n)(g)(x)
-caro (n)(g)(x),> par (n)
-caro (n)(g)(x),> ca (n)²
+caro-an (adj),eloquent
+caro-nunnun (vt),kiss
+caro-nunnun (vt),suck the lip
 caropen (adj),abusive
+caropente (vt),abuse
 caropente (vt),scold
 caropente (vt),speak against
-caropente (vt),abuse
-carumpe (n),tongue
 carumpe (n),> parumpe (n)
+carumpe (n),tongue
 caruspe (n),cork [stopper]
 caruspe (n),plug [stopper]
 caruspe (n),stopper
+cas (n),> ca (n)³
 cas (n),fence
 cas (n),hedge
-cas (n),> ca (n)³
+casi (n),castle
 casi (n),enclosure
 casi (n),fence
 casi (n),fortress
-casi (n),castle
 caste (vt),accelerate
 caste (vt),hasten
 ceka (n),roof
-cep-motot (n),fish's backbone
-cep-motot (n),backbone: fish's ~
-cep-motot (n),< cep (n) + motot (n)
+cep (n),> ciep (n)
 cep (n),fish
 cep (n),salmon
-cep (n),> ciep (n)
-cepkap-hos (n),legging: fish-skin ~s
-cepkap-hos (n),fish-skin leggings
-cepkap-hos (n),< cepkap (n) + hos (n)
-cepkap (n),fish-skin
+cep-motot (n),< cep (n) + motot (n)
+cep-motot (n),backbone: fish's ~
+cep-motot (n),fish's backbone
 cepkap (n),< cep (n) + kap (n)
+cepkap (n),fish-skin
+cepkap-hos (n),< cepkap (n) + hos (n)
+cepkap-hos (n),fish-skin leggings
+cepkap-hos (n),legging: fish-skin ~s
 ceppo (n),< cep (n) + po (sf)(pc)
 ceppo (n),fish: little ~
 ceppo (n),fish: young ~
 ceppo (n),little fish
 ceppo (n),young fish
+ceta (n),> reep (n)
 ceta (n),> seta (n)
 ceta (n),> sita (n)
 ceta (n),> sta (n)
 ceta (n),dog
-ceta (n),> reep (n)
 ch,> c
+ci (n),> cikap (n)²
 ci (n),> ciye (n)(g)(x)
 ci (n),> ciyehe (n)(g)(x)
 ci (n),genital: male ~
 ci (n),penis
-ci (n),> cikap (n)²
 ciep (n),> cep (n)
 ciep (n),fish
 ciep (n),salmon
-cikap-etu (n),bird's bill
+cikap (n)²,> ci (n)
+cikap (n)²,genital: male ~ [slang]
+cikap (n)²,penis [slang]
+cikap (n)¹,> cir (n)¹
+cikap (n)¹,bird
+cikap (n)¹,owl
 cikap-etu (n),bill: bird's ~
-cikap-kamuy (n),owl diety
+cikap-etu (n),bird's bill
 cikap-kamuy (n),> kotankor-kamuy (n)
 cikap-kamuy (n),diety: owl ~
+cikap-kamuy (n),owl diety
 cikap-kanci (n),bird's wing
 cikap-kanci (n),wing: bird's ~
 cikap-konkoni (n),bird's feather
 cikap-konkoni (n),feather: bird's ~
-cikap-not (n),egg: bird's ~
 cikap-not (n),bird's egg
-cikap (n)¹,> cir (n)¹
-cikap (n)¹,bird
-cikap (n)¹,owl
-cikap (n)²,genital: male ~ [slang]
-cikap (n)²,> ci (n)
-cikap (n)²,penis [slang]
+cikap-not (n),egg: bird's ~
+cikir (n)²,heap
+cikir (n)²,lump
+cikir (n)¹,> kema (n)
 cikir (n)¹,foot
 cikir (n)¹,leg
-cikir (n)¹,> kema (n)
-cikir (n)²,lump
-cikir (n)²,heap
+cima (adj),roast
+cima (adj),roasted
+cima (adj),toasted
+cima (n),crust
+cima (n),scab
+cima (n),scales
+cima (n),skin: dead ~
 cima-kina (n),aralia racemosa
 cima-kina (n),spiknard
 cima-o (adj),scabby
 cima-us (adj),scabby
-cima (adj),roasted
-cima (adj),roast
-cima (adj),toasted
-cima (n),crust
-cima (n),scab
-cima (n),skin: dead ~
-cima (n),scales
-cimakani (n),sculpin: great ~
 cimakani (n),cottus pollux
 cimakani (n),myoxocephalos polyacanthocephalus
 cimakani (n),sculpin: Japanese fluvial ~
-cimakanit (n),spit: roasting ~
+cimakani (n),sculpin: great ~
 cimakanit (n),roasting spit
+cimakanit (n),spit: roasting ~
 cimaktekka (vi),rejoice
 cimip (n),> cimipi (n)(g)(x)
 cimip (n),attire
 cimip (n),clothing
+cimipi (n)(g)(x),> cimip (n)
 cimipi (n)(g)(x),attire
 cimipi (n)(g)(x),clothing
-cimipi (n)(g)(x),> cimip (n)
 cimontum (n),authority
 cimontum (n),power
 cimontum (n),strength
 cimoyemoye (vi),move
-cimoyomoyo (adj),scarce
 cimoyomoyo (adj),few
-cimutpe (n),necklace
+cimoyomoyo (adj),scarce
 cimutpe (n),badge
-cin (n),pelvis
+cimutpe (n),necklace
 cin (n),hip
+cin (n),pelvis
 cin (vt),spread out
 cin (vt),stretch out
 cinana (n),fish: dried ~
-cinene (n),cramp: pins & needles ~
 cinene (n),> tukunne (n)
-cinika (n),step
+cinene (n),cramp: pins & needles ~
 cinika (n),leg
+cinika (n),step
 cinkar (vt),spread out skin to dry
 cinkew-pone (n),pelvic bone
+cinki (n),border
 cinki (n),edge
 cinki (n),hem
 cinki (n),lappet
-cinki (n),border
-cinna (n)¹,ditch
-cinna (n)²,pelvis
 cinna (n)²,hip
+cinna (n)²,pelvis
+cinna (n)¹,ditch
 cino (adj),cooked
 cino (adj),ripe
-cinore (vt),deceive
 cinore (vt),counterfeit
+cinore (vt),deceive
+cinorep (n),counterfeit
 cinorep (n),deception
 cinorep (n),imitation
-cinorep (n),counterfeit
 cinot (n),cape: blunt ~
 cinot (n),chin
+cinoye (adj),curled
 cinoye (adj),ornamented
 cinoye (adj),trimmed
 cinoye (adj),twisted
-cinoye (adj),curled
-cinru (n),snowshoe
 cinru (n),> tesma (n)
+cinru (n),snowshoe
 cip (n),boat
 cip (n),canoe
 cip (n),ship
-cir (n)¹,bird
-cir (n)¹,> cikap (n)¹
+cir (n)²,> pecir (n)
 cir (n)²,ditch
 cir (n)²,pipe
 cir (n)²,tube
 cir (n)²,water conduit
 cir (n)²,wet place
-cir (n)²,> pecir (n)
+cir (n)¹,> cikap (n)¹
+cir (n)¹,bird
 cis (n),path: precipitous ~
 cis (n),path: steep winding ~
 cis (n),precipitous path
 cis (n),steep winding path
+cis (vi),cry
 cis (vi),howl
 cis (vi),sing [bird]
 cis (vi),weep
-cis (vi),cry
 cise (n),> cisehe (n)(g)(x)
 cise (n),> cisey (n)
 cise (n),abode
@@ -825,13 +820,13 @@ cise (n),den [bear's]
 cise (n),home
 cise (n),hut
 cise (n),nest [bird/insect]
+cisehe (n)(g)(x),> cise (n)
 cisehe (n)(g)(x),> cisey (n)
 cisehe (n)(g)(x),abode
 cisehe (n)(g)(x),den [bear's]
 cisehe (n)(g)(x),home
 cisehe (n)(g)(x),hut
 cisehe (n)(g)(x),nest [bird/insect]
-cisehe (n)(g)(x),> cise (n)
 cisey (n),> cise (n)
 cisey (n),> cisehe (n)(g)(x)
 cisey (n),abode
@@ -845,89 +840,89 @@ ciye (n)(g)(x),> ci (n)
 ciye (n)(g)(x),> ciyehe (n)(g)(x)
 ciye (n)(g)(x),genital: male ~
 ciye (n)(g)(x),penis
+ciyehe (n)(g)(x),> ci (n)
 ciyehe (n)(g)(x),> ciye (n)(g)(x)
 ciyehe (n)(g)(x),genital: male ~
 ciyehe (n)(g)(x),penis
-ciyehe (n)(g)(x),> ci (n)
 cu (n),current: river ~
 cucu (n),bud
-cuk-an (n),> cuk-umpa (n)
-cuk-an (n),> cuk-pa (n)
+cuk (n),> cuk-an (n)
+cuk (n),> cuk-pa (n)
+cuk (n),> cuk-umpa (n)
+cuk (n),autumn
 cuk-an (n),> cuk (n)
+cuk-an (n),> cuk-pa (n)
+cuk-an (n),> cuk-umpa (n)
 cuk-an (n),autumn
-cuk-pa (n),> cuk-umpa (n)
-cuk-pa (n),autumn
 cuk-pa (n),> cuk (n)
 cuk-pa (n),> cuk-an (n)
-cuk-umpa (n),> cuk-an (n)
+cuk-pa (n),> cuk-umpa (n)
+cuk-pa (n),autumn
 cuk-umpa (n),> cuk (n)
-cuk-umpa (n),autumn
+cuk-umpa (n),> cuk-an (n)
 cuk-umpa (n),> cukpa (n)
+cuk-umpa (n),autumn
 cuk-unpa (n),> cuk (n)
 cuk-unpa (n),> cuk-an (n)
 cuk-unpa (n),> cukpa (n)
 cuk-unpa (n),autumn
-cuk (n),> cuk-umpa (n)
-cuk (n),autumn
-cuk (n),> cuk-pa (n)
-cuk (n),> cuk-an (n)
+cup (n),luminary
+cup (n),month
+cup (n),moon
+cup (n),sun
 cup-ewen (n),> cup-wen (n)
-cup-ewen (n),menses
 cup-ewen (n),> cuppe (n)
+cup-ewen (n),menses
 cup-ka (n),east
 cup-kamuy (n),moon
 cup-kamuy (n),sun
-cup-wen (n),> cuppe (n)
 cup-wen (n),> cup-ewen (n)
+cup-wen (n),> cuppe (n)
 cup-wen (n),menses
-cup (n),moon
-cup (n),month
-cup (n),luminary
-cup (n),sun
 cuppe (n),> cup-ewen (n)
 cuppe (n),> cup-wen (n)
 cuppe (n),menses
-cupu (vi),shut
 cupu (vi),blinded
-cupu (vi),flash about (as light)
 cupu (vi),close
-cupu (vt)¹,flash about (as light)
-cupu (vt)¹,blinded
-cupu (vt)¹,close
-cupu (vt)¹,shut
+cupu (vi),flash about (as light)
+cupu (vi),shut
 cupu (vt)²,fold
 cupu (vt)²,turn back (as cloth)
+cupu (vt)¹,blinded
+cupu (vt)¹,close
+cupu (vt)¹,flash about (as light)
+cupu (vt)¹,shut
 d,> t
 e (!),ah
 e (!),alas
 e (!),oh
 e (adv),yes
+e (n),ash
 e (n),dust: fine pumice ~
 e (n),humor
 e (n),matter
 e (n),pus
-e (n),ash
 e (vt),> ipe (vt)
 e (vt),eat
+ecu (n),> etu (n)
 ecu (n),beak
 ecu (n),handle
 ecu (n),nose
 ecu (n),point: knife ~
 ecu (n),point: sword ~
 ecu (n),spout
-ecu (n),> etu (n)
 ek (vi)(s),arrive
 ek (vi)(s),come
-eka (vt),twist
 eka (vt),make rope
+eka (vt),twist
 ekaci (n),> hekaci (n)
 ekaci (n),> heykaci (n)
 ekaci (n),boy
 ekaci (n),child
 ekaci (n),lad
+ekanay (adv),anciently
 ekanay (adv),before
 ekanay (adv),previously
-ekanay (adv),anciently
 ekari (pop),> kari
 ekari (pop),> okari
 ekari (pop),about
@@ -937,11 +932,11 @@ ekari (pop),by
 ekari (pop),through
 ekari (vi),wander about
 ekarire (vt),enclose
+ekasi (n),[male title of respect]
 ekasi (n),ancestor
 ekasi (n),grandfather
-ekasi (n),[male title of respect]
-ekay (adj),round about
 ekay (adj),round
+ekay (adj),round about
 ekaye (n),> kaye (n)
 ekaye (n),> kutkayekay (n)
 ekaye (n),> sinotcarewe (n)
@@ -950,67 +945,67 @@ ekomo (vt),fold over
 ekot (vi),die
 ekte (vt),come: cause to ~
 emawanu (adj),very dreadful
-emawkus (vi),speak through the nose
 emawkus (vi),speak nasally
+emawkus (vi),speak through the nose
+emawri (n),berry
 emawri (n),blackberry
 emawri (n),raspberry
 emawri (n),strawberry
-emawri (n),berry
 emetapunin (vi),cold: look ~
 emetapunin (vi),look cold
 emik (vt),bark at
 emina (vt),laugh at
-emko (adj),part
 emko (adj),half
-emoni (vt),hunt
+emko (adj),part
 emoni (vt),fish
+emoni (vt),hunt
 emonus (vi),busy
+emukne (adj),all
+emukne (adj),whole
 emukne-no (adv),entirely
 emukne-no (adv),wholly
-emukne (adj),whole
-emukne (adj),all
-emus-at (n),sword sash
+emus (n),> emusi (n)(g)(x)
+emus (n),sword
 emus-at (n),sash: sword ~
+emus-at (n),sword sash
 emus-ipe (n),blade: sword ~
 emus-ipe (n),sword blade
 emus-nip (n),hilt: sword ~
 emus-nip (n),sword hilt
-emus (n),> emusi (n)(g)(x)
-emus (n),sword
-emusi (n)(g)(x),sword
 emusi (n)(g)(x),> emus (n)
-ene-ani (adv),thus
-ene-ani (adv),so
-ene-ani (adv),like this
+emusi (n)(g)(x),sword
+ene (adv),any
+ene (adv),anything
+ene (adv),so
+ene (adv),such
+ene (adv),such that
+ene (adv),that manner
+ene (adv),this manner
+ene (adv),thus
+ene (adv),what
 ene-ani (adv),like that
+ene-ani (adv),like this
+ene-ani (adv),so
+ene-ani (adv),thus
 ene-ene (adv),just so
 ene-ene (adv),so-so
-ene-neyka (adv),way: in that ~
-ene-neyka (adv),thus
 ene-neyka (adv),so
-ene (adv),such
-ene (adv),so
-ene (adv),what
-ene (adv),any
-ene (adv),thus
-ene (adv),such that
-ene (adv),this manner
-ene (adv),that manner
-ene (adv),anything
+ene-neyka (adv),thus
+ene-neyka (adv),way: in that ~
 eneka (adj),anyhow
 eneka (adj),somehow
 ep (n),food
-epa (adv),fulfilling
 epa (adv),as far as
-epa (vi),fulfill
+epa (adv),fulfilling
 epa (vi),as far as
+epa (vi),fulfill
 epa (vt),attain
 epa (vt),reach
-epakanu (vt),teach
 epakanu (vt),instruct
+epakanu (vt),teach
+epakasi (n),doctrine
 epakasi (n),instruction
 epakasi (n),teaching
-epakasi (n),doctrine
 epeka (vt),adjust
 epeka (vt),hit
 epeka (vt),refer
@@ -1021,50 +1016,50 @@ epesap (n),knife: flat ~ type
 epetke (adj),hare-lipped
 epetke (n),hare
 epikot (adv),unfinished
-epis (n),shore: sea ~
 epis (n),beach
+epis (n),shore: sea ~
 episne (adv),beach: towards the ~
 episne (adv),shore: towards the sea ~
 epoki (adv),downward
 epuy (n),bud
 epuyke (n),flower
 eramampe (n),know: anything ~n
-eraman-no (adv),wisely
+eraman (vt),know
+eraman (vt),understand
 eraman-no (adv),advisedly
 eraman-no (adv),knowingly
 eraman-no (adv),wisdom: with ~
-eraman (vt),know
-eraman (vt),understand
+eraman-no (adv),wisely
 eramanre (vt),hunt
-eramante (vt),understood
 eramante (vt),know: make ~n
+eramante (vt),understood
 erampetek (vi),> erampewtek (vi)
 erampetek (vi),don't know
 erampetek (vi),don't understand
 erampetek (vi),know: don't ~
 erampetek (vi),understand: don't ~
+erampewtek (vi),> erampetek (vi)
 erampewtek (vi),don't know
 erampewtek (vi),don't understand
 erampewtek (vi),know: don't ~
 erampewtek (vi),understand: don't ~
-erampewtek (vi),> erampetek (vi)
 erm (n),mouse
 erm (n),rat
+ermu (n),mouse
+ermu (n),rat
 ermu-koyki (n),< ermu (n) + koyki (vt)
 ermu-koyki (n),cat
-ermu (n),rat
-ermu (n),mouse
 ermun (n),rat
-erum (n),rat
 erum (n),mouse
+erum (n),rat
 esaman (n),otter
 esanniyo (vt),account
 esanniyo (vt),consider
 esanniyo (vt),determine
 esanniyo (vt),reckon
+esanniyop (n),account
 esanniyop (n),consideration
 esanniyop (n),settle: anything ~d
-esanniyop (n),account
 esaw (n),teeth: front ~
 ese (vt),answer
 esina (vt),bind up
@@ -1072,76 +1067,76 @@ esina (vt),deny
 esina (vt),hide
 esina (vt),secret: keep ~
 esinakar (vi),secret: keep ~
+esini (vi),abdicate
 esini (vi),adjourn
 esini (vi),die
 esini (vi),retire (from work)
-esini (vi),abdicate
 esinot (vt),play with SB/ST
 esisi (vt),avoid
 esisi (vt),eschew
 esisi (vt),pass by
 esna (vi),sneeze
-esor (vi),down: go ~
 esor (vi),descend
-esum (vi)(s),drown: be ~d
+esor (vi),down: go ~
 esum (vi)(s),drown
-esumpa (vi)(p),drown: be ~d
+esum (vi)(s),drown: be ~d
 esumpa (vi)(p),drown
+esumpa (vi)(p),drown: be ~d
 etampa (adv),here
 etampa (adv),this way
+etasa (adv)(s),across
 etasa (adv)(s),athwart
 etasa (adv)(s),back again
 etasa (adv)(s),from one to the other
-etasa (adv)(s),across
 etashpa (n),sealion
 etaspa (adv)(p),across
 etaspa (adv)(p),athwart
 etaspa (adv)(p),back again
 etaspa (adv)(p),from one to the other
+etaye (vt),abduce
 etaye (vt),draw out
 etaye (vt),extract
 etaye (vt),pull away from
 etaye (vt),pull off
 etaye (vt),pull out
-etaye (vt),abduce
-eteun (adv),this way
 eteun (adv),here
+eteun (adv),this way
 etok (n),head
 etok (n),limit
 etok (n),origin
 etok (n),source
 etok (n),top
+etoko (adv),before
 etoko (adv),formerly
 etoko (adv),front: in ~ of
 etoko (adv),previously
-etoko (adv),before
 etor (n),mucus
 etorki (vi),snore
-etorpo (n),medusa
 etorpo (n),jellyfish
-etorrat (n),nasal mucus
+etorpo (n),medusa
 etorrat (n),mucus: nasal ~
+etorrat (n),nasal mucus
 etoru (n),bell
 etoy (adj),bald
-etu-puy (n),< etu (n) + puy (n)²
-etu-puy (n),nostril
-etu (n),handle
+etu (n),> ecu (n)
 etu (n),> etuhu (n)(g)(x)
+etu (n),beak
+etu (n),handle
+etu (n),nose
 etu (n),point: knife ~
 etu (n),point: sword ~
 etu (n),spout
-etu (n),nose
-etu (n),beak
-etu (n),> ecu (n)
+etu-puy (n),< etu (n) + puy (n)²
+etu-puy (n),nostril
+etuhu (n)(g)(x),> etu (n)
+etuhu (n)(g)(x),beak
 etuhu (n)(g)(x),handle
 etuhu (n)(g)(x),nose
 etuhu (n)(g)(x),point: knife ~
 etuhu (n)(g)(x),point: sword ~
 etuhu (n)(g)(x),spout
-etuhu (n)(g)(x),beak
-etuhu (n)(g)(x),> etu (n)
-etun (n),people: two ~
 etun (n),couple [people]
+etun (n),people: two ~
 etun (n),two people
 etun (vt),borrow
 ew (n),parent
@@ -1150,41 +1145,41 @@ ewen (vt),do with difficulty
 ewen (vt),do: unable to ~ properly
 ewen (vt),lose
 ewente (vt),spoil
-ewkopitte-kar (vt),knot
-ewkopitte-kar (vt),> ewkopitte-ki (vt)
-ewkopitte-kar (vt),> ewpitte-kar (vt)
-ewkopitte-kar (vt),knot: tie a ~
-ewkopitte-ki (vt),knot
-ewkopitte-ki (vt),knot: tie a ~
-ewkopitte-ki (vt),> ewkopitte-kar (vt)
-ewkopitte-ki (vt),> ewpitte-ki (vt)
 ewkopitte (n),> ewpitte (n)
 ewkopitte (n),knot
+ewkopitte-kar (vt),> ewkopitte-ki (vt)
+ewkopitte-kar (vt),> ewpitte-kar (vt)
+ewkopitte-kar (vt),knot
+ewkopitte-kar (vt),knot: tie a ~
+ewkopitte-ki (vt),> ewkopitte-kar (vt)
+ewkopitte-ki (vt),> ewpitte-ki (vt)
+ewkopitte-ki (vt),knot
+ewkopitte-ki (vt),knot: tie a ~
 ewkoyki (vt),fight together
 ewn (adj),stick in
+ewnkasi-no (adv),> yokkata (adv)
 ewnkasi-no (adv),earnestly
 ewnkasi-no (adv),mostly
-ewnkasi-no (adv),> yokkata (adv)
 ewnkeske (vt),persecute
 ewomare (vt),meet
 ewomare (vt),put in upon
 ewomare (vt),welcome
 ewomasnu (vt),pack up
-ewpakte (vt),fill up
 ewpakte (vt),complete
+ewpakte (vt),fill up
 ewpeka (vi),face on another
-ewpitte-kar (vt),knot: tie a ~
-ewpitte-kar (vt),knot
-ewpitte-kar (vt),> ewkopitte-kar (vt)
-ewpitte-kar (vt),> ewpitte-ki (vt)
-ewpitte-ki (vt),knot
-ewpitte-ki (vt),> ewkopitte-ki (vt)
-ewpitte-ki (vt),> ewpitte-kar (vt)
-ewpitte-ki (vt),knot: tie a ~
 ewpitte (n),> ewkopitte (n)
 ewpitte (n),knot
-ews (vi),go to
+ewpitte-kar (vt),> ewkopitte-kar (vt)
+ewpitte-kar (vt),> ewpitte-ki (vt)
+ewpitte-kar (vt),knot
+ewpitte-kar (vt),knot: tie a ~
+ewpitte-ki (vt),> ewkopitte-ki (vt)
+ewpitte-ki (vt),> ewpitte-kar (vt)
+ewpitte-ki (vt),knot
+ewpitte-ki (vt),knot: tie a ~
 ews (vi),come to
+ews (vi),go to
 ews (vt),pierce
 ews (vt),set up
 ews (vt),stick into
@@ -1192,61 +1187,61 @@ ews (vt),stick on
 ewsama (adj),double
 ewsamampa (adj),double
 ewsamanu (adj),double
-ewsi (vi),go to
 ewsi (vi),come to
+ewsi (vi),go to
 ewsi (vt),pierce
 ewsi (vt),set up
 ewsi (vt),stab
 ewsi (vt),stick
 ewsi (vt),stick into
 ewsi (vt),stick on
+eyapkir (vt),cast (away)
 eyapkir (vt),throw
 eyapkir (vt),toss
-eyapkir (vt),cast (away)
 f,> h
 g,> k
+ham (n),> hamu (n)(g)(x)
 ham (n),> hamuhu (n)(g)(x)
 ham (n),leaf
-ham (n),> hamu (n)(g)(x)
 hampe (n),father
+hamu (n)(g)(x),> ham (n)
 hamu (n)(g)(x),> hamuhu (n)(g)(x)
 hamu (n)(g)(x),leaf
-hamu (n)(g)(x),> ham (n)
+hamuhu (n)(g)(x),> ham (n)
 hamuhu (n)(g)(x),> hamu (n)(g)(x)
 hamuhu (n)(g)(x),leaf
-hamuhu (n)(g)(x),> ham (n)
+hani (pc),> ani (pc)¹
 hani (pc),[answer expectation]
 hani (pc),[command]
 hani (pc),[imparative]
 hani (pc),[request]
 hani (pc),[softener]
-hani (pc),> ani (pc)¹
 hanka (n),navel
 hankapu (n),navel
 hankapuy (n),navel
-hanke (adj),near
 hanke (adj),close [near]
+hanke (adj),near
 hanko (n),navel
 hanku (n),navel
+hapo (n),> totto (n)
 hapo (n),> unu (n)
 hapo (n),mother
-hapo (n),> totto (n)
 haprapcup (n),March [month]
 haraki (adj),left
 haraki (adj),left side
 haraki (adj),left: on the ~
-harakika (n),rope
 harakika (n),cord
-haram (n),takydromus tachydromoides
+harakika (n),rope
 haram (n),lizard: Japanese grass ~
-hariki-sam (adv),left: on the ~ side
-hariki (adj),left: on the ~
+haram (n),takydromus tachydromoides
 hariki (adj),left
 hariki (adj),left side
-harikika (n),rope
+hariki (adj),left: on the ~
+hariki-sam (adv),left: on the ~ side
 harikika (n),cord
-harikimon (adv),left: on the ~
+harikika (n),rope
 harikimon (adv),left side
+harikimon (adv),left: on the ~
 haro (adj),fat
 haru (n),cow parsnip: edible ~ shoot
 haru (n),food
@@ -1255,11 +1250,11 @@ haru (n),lunch
 haru (n),provisions
 haru (n),stores
 haru (n),vegetables
+has (n),scrubwood
 has (n),shurb
 has (n),underwood
-has (n),scrubwood
-hasa (vi),open
 hasa (vi),gape
+hasa (vi),open
 hasa (vt),gape
 hasa (vt),open
 hasipo-kewsut (n),rhododendron dahuricum
@@ -1272,7 +1267,7 @@ hastay (n),woods
 hat (n),grape
 hatat (n),fish: dried ~ slices
 hatopok (n),pit: arm ~
-haw-sut (adv),voice: direction of ~
+haw (n),> hawe (n)(g)(x)
 haw (n),> hawehe (n)(g)(x)
 haw (n),noise
 haw (n),song
@@ -1280,9 +1275,9 @@ haw (n),sound
 haw (n),speech
 haw (n),utterance
 haw (n),vocalisation
-haw (n),> hawe (n)(g)(x)
 haw (n),voice
 haw (vi),noise
+haw (vi),say
 haw (vi),sing
 haw (vi),sound
 haw (vi),speak
@@ -1290,35 +1285,36 @@ haw (vi),speak
 haw (vi),utter
 haw (vi),vocalise
 haw (vi),voice
-haw (vi),say
-hawas (vt),say
-hawas (vt),tell
+haw-sut (adv),voice: direction of ~
 hawas (vt),> hawasi (vt)
 hawas (vt),> hawe-as (vt)
+hawas (vt),say
+hawas (vt),tell
+hawasi (vt),> hawas (vt)
+hawasi (vt),> hawe-as (vt)
 hawasi (vt),say
 hawasi (vt),tell
-hawasi (vt),> hawe-as (vt)
-hawasi (vt),> hawas (vt)
+hawe (n)(g)(x),> haw (n)
+hawe (n)(g)(x),> hawehe (n)(g)(x)
 hawe-an (vt),say
 hawe-an (vt),speak
 hawe-an (vt),tell
-hawe-as (vt),tell
 hawe-as (vt),> hawas (vt)
 hawe-as (vt),> hawasi (vt)
 hawe-as (vt),say
 hawe-as (vt),speak
-hawe (n)(g)(x),> hawehe (n)(g)(x)
-hawe (n)(g)(x),> haw (n)
-hawehe (n)(g)(x),> hawe (n)(g)(x)
+hawe-as (vt),tell
 hawehe (n)(g)(x),> haw (n)
+hawehe (n)(g)(x),> hawe (n)(g)(x)
+hawke (adj),cheap
+hawke (adj),gentle
 hawke (adj),light
 hawke (adj),quiet
-hawke (adj),cheap
+hawke (adj),slow
 hawke (adj),soft
 hawke (adj),unable
 hawke (adj),weak
-hawke (adj),slow
-hawke (adj),gentle
+hawke (vi),cheap
 hawke (vi),gentle
 hawke (vi),light
 hawke (vi),quiet
@@ -1326,87 +1322,86 @@ hawke (vi),slow
 hawke (vi),soft
 hawke (vi),unable
 hawke (vi),weak
-hawke (vi),cheap
-hawki (vi),speak
-hawki (vi),say
 hawki (vi),cry aloud
+hawki (vi),say
+hawki (vi),speak
+he (adv)²,what
+he (adv)¹,facing
 he (adv)¹,front: in ~
 he (adv)¹,surface
 he (adv)¹,toward
-he (adv)¹,facing
-he (adv)²,what
 he (n),breath
 he (pc),[interrogative]
 hecinke (n),turtle
+hekaci (n),> ekaci (n)
 hekaci (n),> heykaci (n)
 hekaci (n),boy
 hekaci (n),child
 hekaci (n),lad
-hekaci (n),> ekaci (n)
 hekatpa (vi)(p),born
 hekatu (vi)(s),born
 hekay (adj),ancient
 hekay (adj),old
 hekay (adj),ripened
+hemoy (n),> kenew (n)
 hemoy (n),herring
 hemoy (n),salmon: humpback ~
 hemoy (n),salmon: pink ~
 hemoy (n),salmon: sea ~ (right before rivering)
 hemoy (n),trout: sea ~
-hemoy (n),> kenew (n)
 hempak (adv),how many?
 henpara (adv),when?
 hepasi (adv),> hepsi (adv)
 hepasi (adv),downstream
 hepeku (vi),flare
+hepenki (vt),bring up
+hepenki (vt),origin
+hepenki (vt),rear
+hepenki (vt),source
 hepenki-kotan (n),home village
 hepenki-kotan (n),village: home ~
-hepenki (vt),source
-hepenki (vt),rear
-hepenki (vt),origin
-hepenki (vt),bring up
 hepera (adv),> heperay (adv)
 hepera (adv),interior: to the ~
 hepera (adv),upriver
 hepera (adv),upstream
+heperay (adv),> hepera (adv)
 heperay (adv),interior: to the ~
 heperay (adv),upriver
 heperay (adv),upstream
-heperay (adv),> hepera (adv)
+hepere (n),cub: bear ~
 hepere-cep (n),azuma emnion
-hepere-kot-uray-ni (n),post: bear cub tie ~
 hepere-kot (n),cage: bear cub ~
+hepere-kot-uray-ni (n),post: bear cub tie ~
 hepere-pusaru (n),bag: offeratory food ~
 hepere-sat-cep (n),fish: offeratory ~
-hepere (n),cub: bear ~
-hepew (n),hypoglosus hypoglosus
 hepew (n),halibut
+hepew (n),hypoglosus hypoglosus
 hepirasa (vi)(s),blossom
 hepiraspa (vi)(p),blossom
-hepita-ni (n),trap spring of wood
-hepita-ni (n),trap
-hepita (vi),raise from bent position
 hepita (vi),let go
+hepita (vi),raise from bent position
 hepita (vi),set off
+hepita-ni (n),trap
+hepita-ni (n),trap spring of wood
 hepitoto (n),knife: large ~
 hepoki-us (vi),bow to worship
 hepokiciw (vi),bow in worship
-hepokiki (vi),bow head
 hepokiki (vi),bow down
+hepokiki (vi),bow head
 hepokipoki (vi),nod head
-hepokitekka (vi),bow head
-hepokitekka (vi),bow down
 hepokitekka (vi),> hepoktekka (vi)
-hepoko (vt),despise
+hepokitekka (vi),bow down
+hepokitekka (vi),bow head
 hepoko (vt),abhor
+hepoko (vt),despise
+hepoktekka (vi),>hepokitekka (vi)
 hepoktekka (vi),bow down
 hepoktekka (vi),bow head
-hepoktekka (vi),>hepokitekka (vi)
-heporap-wata (n),cocoon
 heporap (n),butterfly
 heporap (n),moth
-hepsi (adv),downstream
+heporap-wata (n),cocoon
 hepsi (adv),> hepasi (adv)
+hepsi (adv),downstream
 hepuni (vi),up: look ~
 hepuni (vi),up: turn eyes ~ward
 hepur (adj),long hair: rough and ~
@@ -1417,210 +1412,210 @@ hera (adj),crippled
 hera (adj),lame
 hera (adj),maimed
 herasa (vt),send down
-herasi-ratki (vi),suspend
+herasi (adv),above: from ~
+herasi (adv),downward
+herasi (adv),shore: to the sea ~
 herasi-ratki (vi),hang
+herasi-ratki (vi),suspend
 herasi-ratkire (vt),hang down
 herasi-ratkire (vt),suspend
-herasi (adv),shore: to the sea ~
-herasi (adv),downward
-herasi (adv),above: from ~
 heraske (adj),bare
 heraske (adj),naked
 heraske (adj),striped
-herasnu (vi),shine
 herasnu (vi),> heri-at (vi)
+herasnu (vi),shine
+herasnure (vt),> heri-atte (vt)
 herasnure (vt),polish
 herasnure (vt),shine
-herasnure (vt),> heri-atte (vt)
 herekus (n),cod
-herekusi-kewsut (n),walleye pollock
+herekusi (n),cod
 herekusi-kewsut (n),Alaska pollock
 herekusi-kewsut (n),pollock: Alaska ~
 herekusi-kewsut (n),pollock: walleye ~
 herekusi-kewsut (n),theragra chalcogramma
-herekusi (n),cod
-herherke (adj),shining
+herekusi-kewsut (n),walleye pollock
 herherke (adj),bright
-heri-at (vi),shine
+herherke (adj),shining
 heri-at (vi),> herasnu (vi)
-heri-atte (vt),shine
+heri-at (vi),shine
 heri-atte (vt),> herasnure (vt)
+heri-atte (vt),shine
 herkus (n),> erkus (n)
 herkus (n),codfish
+heroki (n),> heruki (n)
 heroki (n),clupea harengus
 heroki (n),herring: pacific ~
 heroki (n),pacific herring
-heroki (n),> heruki (n)
-heron (adj),poor
 heron (adj),destitute
+heron (adj),poor
 herrus (vi),shine
 herruste (vt),shine
 heruki (n),> heroki (n)
 heruki (n),clupea harengus
 heruki (n),herring: pacific ~
 heruki (n),pacific herring
+heykaci (n),> ekaci (n)
 heykaci (n),> hekaci (n)
 heykaci (n),boy
 heykaci (n),child
 heykaci (n),lad
-heykaci (n),> ekaci (n)
 hicuci (n),< (Ja) hitsuji: sheep
 hicuci (n),sheep
+ho (adv),away from
 ho (adv),back
 ho (adv),behind
 ho (adv),off
-ho (adv),away from
+ho (n),anus
 ho (n),posterior
 ho (n),vagina
-ho (n),anus
 ho (vt),call
-hok (vt),purchase
 hok (vt),buy
+hok (vt),purchase
 hoka (n),fireplace
-hoku (n),husband
 hoku (n),> hokuhu (n)(g)(x)
-hokuhu (n)(g)(x),husband
+hoku (n),husband
 hokuhu (n)(g)(x),> hoku (n)
+hokuhu (n)(g)(x),husband
 hon (n),> honi (n)(g)(x)
 hon (n),> honihi (n)(g)(x)
 hon (n),abdomen
 hon (n),belly
 hon (n),stomach
+honi (n)(g)(x),> hon (n)
 honi (n)(g)(x),> honihi (n)(g)(x)
 honi (n)(g)(x),abdomen
 honi (n)(g)(x),belly
 honi (n)(g)(x),stomach
-honi (n)(g)(x),> hon (n)
-honi arka (n),stomach ache
 honi arka (n),ache: stomach ~
+honi arka (n),stomach ache
 honihi (n)(g)(x),> hon (n)
 honihi (n)(g)(x),> honi (n)(g)(x)
 honihi (n)(g)(x),abdomen
 honihi (n)(g)(x),belly
 honihi (n)(g)(x),stomach
+honkor (vi),> yarat (vt)
 honkor (vi),> yayrat (vt)
 honkor (vi),conceive
 honkor (vi),pregnant: be ~
-honkor (vi),> yarat (vt)
 hoppa (vt),leave (behind)
 hos (n),> hosi (n)(g)(x)
 hos (n),> hosihi (n)(g)(x)
 hos (n),leggings
+hosi (n)(g)(x),> hos (n)
 hosi (n)(g)(x),> hosihi (n)(g)(x)
 hosi (n)(g)(x),leggings
-hosi (n)(g)(x),> hos (n)
+hosihi (n)(g)(x),> hos (n)
 hosihi (n)(g)(x),> hosi (n)(g)(x)
 hosihi (n)(g)(x),leggings
-hosihi (n)(g)(x),> hos (n)
 hosipi (vi)(s),return
 hosipika (vt),return
 hosipire (vt)(s),return
 hosipire (vt)(s),send back
 hosippa (vi)(p),return
-hosippare (vt)(p),send back
 hosippare (vt)(p),return
+hosippare (vt)(p),send back
+hoske (adv),antecedent
 hoske (adv),before
 hoske (adv),last
 hoske (adv),previous
-hoske (adv),antecedent
 hoski (adv),antecedent
 hoski (adv),before
 hoski (adv),last
 hoski (adv),previous
+hoski numan (adv),day before yesterday
 hoski numan (adv),two days ago
 hoski numan (adv),yesterday: day before ~
-hoski numan (adv),day before yesterday
-hoski sakne (adv),year: (~) before last
 hoski sakne (adv),before last: (year) ~
-hot (adj),twenty
+hoski sakne (adv),year: (~) before last
 hot (adj),score [twenty]
+hot (adj),twenty
 hotku (vi),stoop down
 hotne (adj),score [twenty]
 hotne (adj),twenty
-hoyasi (n),seaside
 hoyasi (n),riverside
+hoyasi (n),seaside
 hoyuppa (vi)(p),run
 hoyupu (vi)(s),run
+hu (adj),green
 hu (adj),raw
 hu (adj),uncooked
-hu (adj),green
-huci (n)¹,> ape (n)
-huci (n)¹,> unci (n)
-huci (n)¹,fire
+huci (n)²,ancestor: female ~
 huci (n)²,grandmother
 huci (n)²,old woman
 huci (n)²,woman: old ~
-huci (n)²,ancestor: female ~
+huci (n)¹,> ape (n)
+huci (n)¹,> unci (n)
+huci (n)¹,fire
 hum (n),> humi (n)
 hum (n),apprearance
 hum (n),feel
 hum (n),form
 hum (n),sound
 hum (n),state
-humi (!),how!
 humi (!),dear me!
+humi (!),how!
 humi (n),apprearance
 humi (n),feel
 humi (n),form
 humi (n),sound
 humi (n),state
 humiruy (n),hazel-hen
+humpe (n),whale
 humpe-etor (n),< humpe (n) + etor (n)
 humpe-etor (n),jellyfish
 humpe-etor (n),medusa
-humpe-ki (n),whale fat
 humpe-ki (n),< humpe (n) + ki (n)¹
 humpe-ki (n),blubber
 humpe-ki (n),fat: whale ~
+humpe-ki (n),whale fat
 humpe-marewrew (n),butterfly type
-humpe (n),whale
+humse (vi),growl
 humse (vi),gruff
 humse (vi),grunt
 humse (vi),noise: make ~
 humse (vi),sound
-humse (vi),growl
 hure (adj),red
+husko (adj),ancient
 husko (adj),antique
 husko (adj),old
 husko (adj),stale
-husko (adj),ancient
 huskotoy (adj),ancient
 huskotoy (adj),old
+hutne (adj),cramped
 hutne (adj),narrow
 hutne (adj),tight
-hutne (adj),cramped
 hutta (n),arundinaria
 hutta (n),bamboo grass
-huyetok (n),flute
 huyetok (n),> huyetop (n)
-huyetop (n),flute
+huyetok (n),flute
 huyetop (n),> huyetok (n)
+huyetop (n),flute
 i + a,> i + y + a
 i + e,> i + y + e
 i + o,> i + y + o
 i + u,> i + y + u
+ikesampa (vt),chase
 ikesampa (vt),follow
 ikesampa (vt),run after
-ikesampa (vt),chase
 inampe (adj),which?
 ine (adj),four
 inen (n),four people
 inen (n),people: four ~
 inini (vt),bite [bated]
-inkar (vi),see
 inkar (vi),look at
+inkar (vi),see
 inumpa (vt),strain
-inumpe (n),fireplace frame
 inumpe (n),fireplace
+inumpe (n),fireplace frame
 ipakarip (n),balances
 ipakarip (n),scales
 ipakarip (n),weights
+ipe (n),"fish (esp. salmon, trout, or sturgeon)"
+ipe (vt),> e (vt)
+ipe (vt),eat
+ipe (vt),meal: have a ~ of ST
 ipe-ampe (n),food
 ipe-mondum (n),appetite
-ipe (n),"fish (esp. salmon, trout, or sturgeon)"
-ipe (vt),meal: have a ~ of ST
-ipe (vt),eat
-ipe (vt),> e (vt)
 ipiski (n),number
 iresu-huci (n),> ape-huci (n)
 iresu-huci (n),> ape-huci-kamuy (n)
@@ -1640,22 +1635,22 @@ iresu-kamuy (n),> kamuy-huci (n)
 iresu-kamuy (n),> onne-huci (n)
 iresu-kamuy (n),> unci-kamuy (n)
 iresu-kamuy (n),fire: female diety of ~
-iruska (vi),angry: be ~
 iruska (vi),aggravate: be ~d
+iruska (vi),angry: be ~
+iruskare (vt),aggravate SB
 iruskare (vt),anger SB
 iruskare (vt),angry: make SB ~
-iruskare (vt),aggravate SB
 itak (n),> itaki (n)(g)(x)
 itak (n),> itakihi (n)(g)(x)
 itak (n),language
 itak (n),speech
 itak (n),voice
 itak (n),word
+itak (vi),acknowledge
 itak (vi),say
 itak (vi),speak
 itak (vi),tell
 itak (vi),voice
-itak (vi),acknowledge
 itaki (n)(g)(x),> itak (n)
 itaki (n)(g)(x),> itakihi (n)(g)(x)
 itaki (n)(g)(x),language
@@ -1668,37 +1663,37 @@ itakihi (n)(g)(x),language
 itakihi (n)(g)(x),speech
 itakihi (n)(g)(x),voice
 itakihi (n)(g)(x),word
+itanki (n),bowl
 itanki (n),container
 itanki (n),cup
 itanki (n),dish
 itanki (n),receptacle
 itanki (n),vessel
-itanki (n),bowl
 itata (vt),chop
 itata (vt),hammer
-iteki (adv),never
 iteki (adv),don't…
+iteki (adv),never
+ituren (vi),bless
+ituren (vi),inspire
 ituren-kamuy (n),angel: guardian ~
 ituren-kamuy (n),guardian angel
-ituren (vi),inspire
-ituren (vi),bless
 iwa (adj),six
-iwampe-ikasima-wampe (adj),sixteen
 iwampe (n),six
+iwampe-ikasima-wampe (adj),sixteen
+iwan (n),six
 iwan-ikinne (adj),> iwan-otutanu (adj)
 iwan-ikinne (adj),sixth
 iwan-otutanu (adj),> iwan-ikinne (adj)
 iwan-otutanu (adj),sixth
-iwan (n),six
-iwanpe-ikasima-wanpe (adj),sixteen
 iwanpe (n),six
+iwanpe-ikasima-wanpe (adj),sixteen
 iwansuyne (adj),six times
+iyama (vt),> yupkiri (vt)
 iyama (vt),broadcast
 iyama (vt),sow
-iyama (vt),> yupkiri (vt)
 j,> c
-ka-saye (n),rope: coil of ~
 ka-saye (n),noose
+ka-saye (n),rope: coil of ~
 ka-saye (n),string: coil of ~
 ka-sayep (n),reel
 ka-sayep (n),spool
@@ -1706,140 +1701,140 @@ ka-soya (n),> ka-soyay (n)
 ka-soya (n),bee: small ~ type
 ka-soyay (n),> ka-soya (n)
 ka-soyay (n),bee: small ~ type
+kam (n),> kami (n)(g)(x)
 kam (n),> kamihi (n)(g)(x)
 kam (n),flesh
 kam (n),meat
-kam (n),> kami (n)(g)(x)
 kami (n)(g)(x),> kam (n)
-kami (n)(g)(x),flesh
 kami (n)(g)(x),> kamihi (n)(g)(x)
+kami (n)(g)(x),flesh
 kami (n)(g)(x),meat
-kamihi (n)(g)(x),meat
-kamihi (n)(g)(x),flesh
 kamihi (n)(g)(x),> kam (n)
 kamihi (n)(g)(x),> kami (n)(g)(x)
-kampi-nuye (vt),write a letter
-kampi-nuye (vt),write
-kampi-nuye (vt),write an entry
+kamihi (n)(g)(x),flesh
+kamihi (n)(g)(x),meat
+kampi (n),letter (missive)
 kampi (n),money order
 kampi (n),paper
 kampi (n),study (noun)
-kampi (n),letter (missive)
-kamuy-haru (n),bear meat
-kamuy-haru (n),meat: bear ~
-kamuy-huci (n),> iresu-huci (n)
-kamuy-huci (n),> ape-kamuy (n)
-kamuy-huci (n),fire: female diety of ~
-kamuy-huci (n),> onne-huci (n)
-kamuy-huci (n),> unci-kamuy (n)
-kamuy-huci (n),> iresu-kamuy (n)
-kamuy-huci (n),> ape-huci (n)
-kamuy-huci (n),> ape-huci-kamuy (n)
-kamuy-hum (n),> kamuy-tur-humse-hum (n)
-kamuy-hum (n),thunder
-kamuy-hum (n),< kamuy (n) + hum (n)
-kamuy-tur-humse-hum (n),thunder
-kamuy-tur-humse-hum (n),> kamuy-hum (n)
-kamuy (adj)(pf),honourable
-kamuy (adj)(pf),bad
-kamuy (adj)(pf),awful
+kampi-nuye (vt),write
+kampi-nuye (vt),write a letter
+kampi-nuye (vt),write an entry
 kamuy (adj)(pf),awesome
+kamuy (adj)(pf),awful
+kamuy (adj)(pf),bad
+kamuy (adj)(pf),fierce
 kamuy (adj)(pf),good
 kamuy (adj)(pf),great
+kamuy (adj)(pf),honourable
 kamuy (adj)(pf),important
-kamuy (adj)(pf),fierce
-kamuy (n),spirit
 kamuy (n),bear
 kamuy (n),god
-kamuy (n)(sf),spirit
+kamuy (n),spirit
 kamuy (n)(sf),god
+kamuy (n)(sf),spirit
+kamuy-haru (n),bear meat
+kamuy-haru (n),meat: bear ~
+kamuy-huci (n),> ape-huci (n)
+kamuy-huci (n),> ape-huci-kamuy (n)
+kamuy-huci (n),> ape-kamuy (n)
+kamuy-huci (n),> iresu-huci (n)
+kamuy-huci (n),> iresu-kamuy (n)
+kamuy-huci (n),> onne-huci (n)
+kamuy-huci (n),> unci-kamuy (n)
+kamuy-huci (n),fire: female diety of ~
+kamuy-hum (n),< kamuy (n) + hum (n)
+kamuy-hum (n),> kamuy-tur-humse-hum (n)
+kamuy-hum (n),thunder
+kamuy-tur-humse-hum (n),> kamuy-hum (n)
+kamuy-tur-humse-hum (n),thunder
 kamuy: ituren-~ (n),angel: guardian ~
 kamuy: ituren-~ (n),guardian angel
 kanci (n),oar
 kanci (n),scull
-kap (n),cover: outer ~ing of SB or ST
-kap (n),rind
-kap (n),> uru (n)
-kap (n),> kapuhu (n)(g)(x)
 kap (n),> kapu (n)(g)(x)
+kap (n),> kapuhu (n)(g)(x)
+kap (n),> uru (n)
 kap (n),bark [skin]
-kap (n),skin
-kap (n),peel
-kap (n),outer covering of SB or ST
+kap (n),cover: outer ~ing of SB or ST
 kap (n),fur
+kap (n),outer covering of SB or ST
+kap (n),peel
+kap (n),rind
+kap (n),skin
 kapap (n),bat [animal]
 kapkar (vt),< kap (n) + kar (vt)
 kapkar (vt),bark: strip off the ~
-kapkar (vt),strip off the bark
 kapkar (vt),peel
 kapkar (vt),remove the rind
-kapkar (vt),skin
 kapkar (vt),rind: remove the ~
-kapu (n)(g)(x),rind
+kapkar (vt),skin
+kapkar (vt),strip off the bark
+kapu (n)(g)(x),> kap (n)
+kapu (n)(g)(x),> kapuhu (n)(g)(x)
+kapu (n)(g)(x),> uru (n)
+kapu (n)(g)(x),bark [skin]
 kapu (n)(g)(x),fur
 kapu (n)(g)(x),peel
-kapu (n)(g)(x),> kap (n)
-kapu (n)(g)(x),> uru (n)
-kapu (n)(g)(x),> kapuhu (n)(g)(x)
+kapu (n)(g)(x),rind
 kapu (n)(g)(x),skin
-kapu (n)(g)(x),bark [skin]
-kapuhu (n)(g)(x),bark [skin]
+kapuhu (n)(g)(x),> kap (n)
 kapuhu (n)(g)(x),> kapu (n)(g)(x)
 kapuhu (n)(g)(x),> uru (n)
+kapuhu (n)(g)(x),bark [skin]
 kapuhu (n)(g)(x),fur
 kapuhu (n)(g)(x),peel
 kapuhu (n)(g)(x),rind
 kapuhu (n)(g)(x),skin
-kapuhu (n)(g)(x),> kap (n)
-kar-i (n),achievement
-kar (vt),prepare
-kar (vt),make
-kar (vt),do
-kar (vt),build
-kar (vt),act
 kar (vt),accomplish
-kar (vt),produce
 kar (vt),achieve
-kari (pop),around
-kari (pop),through
-kari (pop),by
+kar (vt),act
+kar (vt),build
+kar (vt),do
+kar (vt),make
+kar (vt),prepare
+kar (vt),produce
+kar-i (n),achievement
 kari (pop),> ekari (pop)
 kari (pop),> okari (pop)
 kari (pop),about
 kari (pop),along
+kari (pop),around
+kari (pop),by
+kari (pop),through
 kari (vi),circle: go in a ~
+kari (vt),along: pass ~
+kari (vt),by: go ~
 kari (vt),go by
 kari (vt),pass along
-kari (vt),by: go ~
-kari (vt),along: pass ~
 karip (n),hoop
 karip (n),ring
-kas-okake (adv),afterwards
 kas (n),> kasi (n)(g)(x)
-kas (n),lodge
 kas (n),> kasihi (n)(g)(x)
+kas (n),lodge
+kas-okake (adv),afterwards
+kasa (n),hat
+kasa (n),umbrella
 kasa-rantup (n),hat string
 kasa-rantupep (n),hat string
-kasa (n),umbrella
-kasa (n),hat
-kasi-kus (vt),pass over
-kasi-putu-unu (vt),cover up
-kasi-putu-unu (vt),lid: put the ~ on
-kasi-putu-unu (vt),secret: keep ~
+kasi (adj),ineffective
 kasi (adj),ineffectual
 kasi (adj),inefficient
-kasi (adj),ineffective
-kasi (n)(g)(x),> kasihi (n)(g)(x)
 kasi (n)(g)(x),> kas (n)
+kasi (n)(g)(x),> kasihi (n)(g)(x)
 kasi (n)(g)(x),lodge
 kasi (pop),on
 kasi (pop),upon
 kasi (vi),ineffective
 kasi (vi),ineffectual
 kasi (vi),inefficient
-kasihi (n)(g)(x),lodge
-kasihi (n)(g)(x),> kasi (n)(g)(x)
+kasi-kus (vt),pass over
+kasi-putu-unu (vt),cover up
+kasi-putu-unu (vt),lid: put the ~ on
+kasi-putu-unu (vt),secret: keep ~
 kasihi (n)(g)(x),> kas (n)
+kasihi (n)(g)(x),> kasi (n)(g)(x)
+kasihi (n)(g)(x),lodge
 kasiketa (adv),above
 kasiketa (adv),upon
 kasikewe (vt),defend
@@ -1847,42 +1842,42 @@ kasikewe (vt),take care
 kasinkop (n),snare made of string
 kasinta (n),snare: bird ~ type
 kasis (vt),prevent
-kasiw (vt)¹,> ikasiw (vt)
-kasiw (vt)¹,help
-kasiw (vt)¹,assist
-kasiw (vt)²,scoop up
-kasiw (vt)²,> kasuy (vt)
-kasiw (vt)²,wade through
 kasiw (vt)²,> kasu (vt)
-kaskamuy (n),strenth
+kasiw (vt)²,> kasuy (vt)
+kasiw (vt)²,scoop up
+kasiw (vt)²,wade through
+kasiw (vt)¹,> ikasiw (vt)
+kasiw (vt)¹,assist
+kasiw (vt)¹,help
 kaskamuy (n),life
 kaskamuy (n),prize
+kaskamuy (n),strenth
 kaskamuy (n),treasure
-kaskep (n),shovel: snow ~
-kaskep (n),shovel: snow ~
 kaskep (n),scoop
+kaskep (n),shovel: snow ~
+kaskep (n),shovel: snow ~
 kaskun (adv),besides that
+kaspa (adv),excessively
 kaspa (adv),surpass
 kaspa (adv),too much
-kaspa (adv),excessively
+kasu (adv),close upon
+kasu (adv),immediately after
+kasu (n),spoon
+kasu (vt),> kasiw (vt)²
+kasu (vt),> kasuy (vt)
+kasu (vt),scoop up
+kasu (vt),wade through
 kasu-no (adv),above
 kasu-no (adv),more
 kasu-no (adv),over
-kasu-no (adv),too much
 kasu-no (adv),than
-kasu (adv),immediately after
-kasu (adv),close upon
-kasu (n),spoon
-kasu (vt),> kasuy (vt)
-kasu (vt),wade through
-kasu (vt),scoop up
-kasu (vt),> kasiw (vt)²
+kasu-no (adv),too much
 kasumpe (n),raja kenojei
 kasumpe (n),skate
+kasuy (vt),> kasiw (vt)²
 kasuy (vt),> kasu (vt)
 kasuy (vt),scoop up
 kasuy (vt),wade through
-kasuy (vt),> kasiw (vt)²
 kat (n),> katu (n)(g)(x)
 kat (n),> katuhu (n)(g)(x)
 kat (n),ability
@@ -1900,52 +1895,60 @@ kat (n),mode
 kat (n),shape
 kat (n),tact
 kat (n),way
-kata (adv),upon
 kata (adv),top: on ~
+kata (adv),upon
 katak (n),ball: fibre ~
 katak (n),ball: thread ~
 katam (n),trollius patulus
+katap (adv),> pika
 katap (adv),either
 katap (adv),even
 katap (adv),only
-katap (adv),> pika
 katawa-ne (adj),deformed
+katayrotke (vt),> omap
+katayrotke (vt),fond
+katayrotke (vt),love
 katayrotke-kur (n),> kateomare-kur (n)
 katayrotke-kur (n),friend
-katayrotke (vt),love
-katayrotke (vt),fond
-katayrotke (vt),> omap
-katken (n),dipper
-katken (n),dipper
 katken (n),> katten (n)
+katken (n),dipper
+katken (n),dipper
 katten (n),> katken (n)
-kattuyma (adv),far
 kattuyma (adv),distant
-katu-renkayne (adv),as it may happen
-katu-renkayne (adv),as one desires
-katu-renkayne (adv),according to circumstances
-katu-toranne (adv),sloven
-katu-toranne (adv),idle
-katu-toranne (adv),dull
-katu-toranne (adv),> katupase (adj)
-katu-toranne (adv),lazy
+kattuyma (adv),far
+katu (n)(g)(x),> kat (n)
+katu (n)(g)(x),> katuhu (n)(g)(x)
+katu (n)(g)(x),ability
+katu (n)(g)(x),acument
+katu (n)(g)(x),appearance
+katu (n)(g)(x),build
+katu (n)(g)(x),countenance
+katu (n)(g)(x),face
 katu (n)(g)(x),feelings
 katu (n)(g)(x),figure
 katu (n)(g)(x),form
 katu (n)(g)(x),heart
-katu (n)(g)(x),ability
-katu (n)(g)(x),face
+katu (n)(g)(x),method
+katu (n)(g)(x),mode
 katu (n)(g)(x),shape
 katu (n)(g)(x),tact
 katu (n)(g)(x),way
-katu (n)(g)(x),> kat (n)
-katu (n)(g)(x),> katuhu (n)(g)(x)
-katu (n)(g)(x),countenance
-katu (n)(g)(x),build
-katu (n)(g)(x),appearance
-katu (n)(g)(x),method
-katu (n)(g)(x),mode
-katu (n)(g)(x),acument
+katu-renkayne (adv),according to circumstances
+katu-renkayne (adv),as it may happen
+katu-renkayne (adv),as one desires
+katu-toranne (adv),> katupase (adj)
+katu-toranne (adv),dull
+katu-toranne (adv),idle
+katu-toranne (adv),lazy
+katu-toranne (adv),sloven
+katuhu (n)(g)(x),> kat (n)
+katuhu (n)(g)(x),> katu (n)(g)(x)
+katuhu (n)(g)(x),ability
+katuhu (n)(g)(x),acument
+katuhu (n)(g)(x),appearance
+katuhu (n)(g)(x),build
+katuhu (n)(g)(x),countenance
+katuhu (n)(g)(x),face
 katuhu (n)(g)(x),feelings
 katuhu (n)(g)(x),figure
 katuhu (n)(g)(x),form
@@ -1955,314 +1958,306 @@ katuhu (n)(g)(x),mode
 katuhu (n)(g)(x),shape
 katuhu (n)(g)(x),tact
 katuhu (n)(g)(x),way
-katuhu (n)(g)(x),face
-katuhu (n)(g)(x),countenance
-katuhu (n)(g)(x),appearance
-katuhu (n)(g)(x),acument
-katuhu (n)(g)(x),ability
-katuhu (n)(g)(x),> katu (n)(g)(x)
-katuhu (n)(g)(x),> kat (n)
-katuhu (n)(g)(x),build
-katumki (n),scirpus lacustris
 katumki (n),bulrush
+katumki (n),scirpus lacustris
 katun-katun (adj),mischievous
-katunaska (vt),help
-katunaska (vt),rescue
 katunaska (vt),> ka-obi-uki
 katunaska (vt),assist
-katupase (adj),idle
-katupase (adj),disinclined
-katupase (adj),sloven
+katunaska (vt),help
+katunaska (vt),rescue
 katupase (adj),> katu-toranne (adv)
-katupase (adj),lazy
+katupase (adj),disinclined
 katupase (adj),dislike to do
-katupirka (adj),tidy
-katupirka (adj),pretty
-katupirka (adj),order: in ~
+katupase (adj),idle
+katupase (adj),lazy
+katupase (adj),sloven
 katupirka (adj),nice
+katupirka (adj),order: in ~
+katupirka (adj),pretty
+katupirka (adj),tidy
 katurenka (vt),command
 katurenka (vt),enjoin
-katuwa (n),scrophularia alata
 katuwa (n),gray
+katuwa (n),scrophularia alata
 kay (vt),> pakkay (vt)
 kay (vt),carry (on the back)
 kaya (n),sail
+kaye (n),> ekaye (n)
 kaye (n),> kutkayekai (n)
 kaye (n),> kutkayekay (n)
 kaye (n),> sinotcarewe (n)
 kaye (n),tune
-kaye (n),> ekaye (n)
-kaye (vt),break
 kaye (vt),bend
+kaye (vt),break
+kem (n)²,needle
 kem (n)¹,> kemihi (n)
 kem (n)¹,blood
-kem (n)²,needle
 kem (vt),lick
+kema (n),> cikir (n)¹
 kema (n),> kemaha (n)(g)(x)
 kema (n),foot
 kema (n),leg
-kema (n),> cikir (n)¹
 kemaha (n)(g)(x),> kema (n)
 kemaha (n)(g)(x),foot
 kemaha (n)(g)(x),leg
-kemihi (n),blood
 kemihi (n),> kem (n)¹
+kemihi (n),blood
+kenew (n),> hemoy (n)
 kenew (n),oncorhyncus species
 kenew (n),salmon type
 kenew (n),trout type
-kenew (n),> hemoy (n)
 ker (n),> keyr (n)
 ker (n),boot
 ker (n),boot: deer-skin ~
 ker (n),boot: salmon-skin ~
 ker (n),shoe
-kera (n),taste
 kera (n),flavour
-kerop (n),stocking
+kera (n),taste
 kerop (n),sock
-kes (adj),every
+kerop (n),stocking
 kes (adj),each
-kes (n)¹,brand
+kes (adj),every
 kes (n)²,below
 kes (n)²,bottom
 kes (n)²,end
 kes (n)²,finish
 kes (n)²,lower
-kes (n)³,stripe
 kes (n)³,spot
+kes (n)³,stripe
+kes (n)¹,brand
 kesto (adv),daily
-kew-wen (adj),scabby head
+kew (n),> kewe (n)¹
 kew (n),body: dead ~
 kew (n),corpse
 kew (n),head
-kew (n),> kewe (n)¹
-kewe-uk (vt),kill
-kewe-uk (vt),behead
-kewe (n)¹,head
-kewe (n)¹,corpse
+kew-wen (adj),scabby head
+kewe (n)²,satire
 kewe (n)¹,> kew (n)
 kewe (n)¹,body: dead ~
-kewe (n)²,satire
-kewe (vt),expel
-kewe (vt),drive out
+kewe (n)¹,corpse
+kewe (n)¹,head
 kewe (vt),drive away
+kewe (vt),drive out
+kewe (vt),expel
+kewe-uk (vt),behead
+kewe-uk (vt),kill
 kewecari (vt),scatter by driving away
+kewor (n),strength
 kewor-sak (adj),strengthless
 kewor-sak (adj),weak
-kewor (n),strength
+kewsut (adj),ancestor: male ~
 kewsut (adj),ancient
 kewsut (adj),old
 kewsut (adj),relative: male ~
 kewsut (adj),uncle
-kewsut (adj),ancestor: male ~
+kewsut (n),> aca (n)
 kewsut (n),ancestor: male ~
 kewsut (n),ancient
 kewsut (n),old
-kewsut (n),> aca (n)
-kewsut (n),uncle
 kewsut (n),relative: male ~
-kewtum-rayne (adj),sorrowful
+kewsut (n),uncle
+kewtum (n),affection
+kewtum (n),feelings
+kewtum (n),heart
 kewtum (n),mind
 kewtum (n),will
-kewtum (n),heart
-kewtum (n),feelings
-kewtum (n),affection
+kewtum-rayne (adj),sorrowful
+keyr (n),boot
+keyr (n),boot: deer-skin ~
+keyr (n),boot: salmon-skin ~
+keyr (n),shoe
 keyr-siru (vi),brung by one's boot
 keyr-siru (vi),hurt foot with one's boot
 keyr-us (vt),boot: wear a ~
-keyr (n),shoe
-keyr (n),boot: salmon-skin ~
-keyr (n),boot: deer-skin ~
-keyr (n),boot
-keyrat (n),shoe lace
-keyrat (n),lace: boot ~
 keyrat (n),boot lace
+keyrat (n),lace: boot ~
 keyrat (n),lace: shoe ~
 keyrat (n),sandle thong
+keyrat (n),shoe lace
+ki (adv),hurrily
 ki (adv),immediately
 ki (adv),severily
 ki (adv),urgingly
-ki (adv),hurrily
-ki (n)¹,fat
 ki (n)²,louse
-ki (n)³,rush [reed]
 ki (n)³,reed
+ki (n)³,rush [reed]
+ki (n)¹,fat
+ki (vt),accomplish
 ki (vt),achieve
 ki (vt),act
 ki (vt),do
-ki (vt),accomplish
 kik (vt),> kikkik (vt)
 kik (vt),beat
 kik (vt),hit
 kik (vt),knock
 kik (vt),strike
+kikir (n),bug
 kikir (n),insect
 kikir (n),worm
-kikir (n),bug
 kikkik (vt),> kik (vt)
 kikkik (vt),beat
 kikkik (vt),hit
 kikkik (vt),knock
 kikkik (vt),strike
-kim-un (adv),mountain: in the ~
-kim-un (adv),mountain: to the ~
-kim-un (adv),mountain: of the ~
 kim (n),mountain
 kim (n),mountain-range
+kim-un (adv),mountain: in the ~
+kim-un (adv),mountain: of the ~
+kim-un (adv),mountain: to the ~
 kimoppe (n),beast: wild ~
 kimoppe (n),fox
-kimpuy-etu (n),points on an antler
-kimpuy-etu (n),points on a horn
 kimpuy (adv),antler
 kimpuy (adv),horn
+kimpuy-etu (n),points on a horn
+kimpuy-etu (n),points on an antler
 kimumpe (n),beast: wild ~
-kina-pe (n),dew
+kina (n),grass
+kina (n),herb
 kina (n),mat: grass ~
 kina (n),mat: rush ~
 kina (n),mat: straw ~
-kina (n),herb
-kina (n),grass
-kinanpo (n),sunfish
-kinanpo (n),headfish
+kina-pe (n),dew
 kinanpo (n),> kinapo (n)
+kinanpo (n),headfish
+kinanpo (n),sunfish
+kinapo (n),> kinanpo (n)
 kinapo (n),headfish
 kinapo (n),sunfish
-kinapo (n),> kinanpo (n)
 kinasut (n),mat: rolled-up ~
 kinatus (n),rope: straw ~
 kinop (n),> yukram (n)
 kinop (n),liver
+kipip (vi),care: be ~ful
 kipip (vi),careful: be ~
 kipip (vi),fear
-kipip (vi),care: be ~ful
+kira (vi),escape
 kira (vi),flee
 kira (vi),run away
-kira (vi),escape
 kiraw (n),> kirawe (n)(g)(x)
 kiraw (n),> kirawe (n)¹
 kiraw (n),> kirawehe (n)(g)(x)
 kiraw (n),antler
 kiraw (n),horn
-kiraw awe (n),branch: horn ~
 kiraw awe (n),> kiraw konta (n)
-kiraw konta (n),branch: horn ~
+kiraw awe (n),branch: horn ~
 kiraw konta (n),> kiraw awe (n)
-kirawe (n),marrow
+kiraw konta (n),branch: horn ~
 kirawe (n),> kiri (n)²
+kirawe (n),marrow
 kirawe (n)(g)(x),> kiraw (n)
 kirawe (n)(g)(x),> kirawehe (n)(g)(x)
 kirawe (n)(g)(x),antler
 kirawe (n)(g)(x),horn
+kirawe (n)²,> kiri (n)²
+kirawe (n)²,marrow
+kirawe (n)¹,> kiraw (n)
 kirawe (n)¹,antler
 kirawe (n)¹,horn
-kirawe (n)¹,> kiraw (n)
-kirawe (n)²,marrow
-kirawe (n)²,> kiri (n)²
-kirawe o pone (n),marrow bone
 kirawe o pone (n),bone: marrow ~
+kirawe o pone (n),marrow bone
 kirawehe (n)(g)(x),> kiraw (n)
 kirawehe (n)(g)(x),> kirawe (n)(g)(x)
 kirawehe (n)(g)(x),antler
 kirawehe (n)(g)(x),horn
 kiray (n),comb
-kire (vt),do
 kire (vt),cause
-kiri (n)¹,leg
-kiri (n)¹,foot
-kiri (n)²,marrow
+kire (vt),do
 kiri (n)²,> kirawe (n)²
+kiri (n)²,marrow
+kiri (n)¹,foot
+kiri (n)¹,leg
 kiri (vt),know
 kiri (vt),recognize
+kisar (n),> kisara (n)(g)(x)
 kisar (n),> kisaraha (n)(g)(x)
 kisar (n),ear
-kisar (n),> kisara (n)(g)(x)
+kisara (n)(g)(x),> kisar (n)
 kisara (n)(g)(x),> kisaraha (n)(g)(x)
 kisara (n)(g)(x),ear
-kisara (n)(g)(x),> kisar (n)
 kisaraha (n)(g)(x),> kisar (n)
 kisaraha (n)(g)(x),> kisara (n)(g)(x)
 kisaraha (n)(g)(x),ear
 kitat (n),birch: white ~
-kitay-oma-ni (n),ridgepole of a house
+kitay (n),peak
+kitay (n),roof
 kitay (n),summit
 kitay (n),top
-kitay (n),roof
-kitay (n),peak
+kitay-oma-ni (n),ridgepole of a house
 kitayke (n),tops
 kitayketa (adv),tops: on the ~
 kitci (n),manger
 kitci (n),trough
+kom (n)²,leaves
+kom (n)¹,hillock
 kom (n)¹,knob
 kom (n)¹,knobby
 kom (n)¹,knotty
 kom (n)¹,knuckle
-kom (n)¹,hillock
-kom (n)²,leaves
-komam (n),leaf: fallen ~ves
 komam (n),fallen leaves
+komam (n),leaf: fallen ~ves
 komkep (n),bent thing
 komkep (n),folded thing
 komkep (n),twisted thing
-kompo (n),seaweed type
 kompo (n),> kompu (n)
+kompo (n),seaweed type
+kompu (n),> (Ja) kombu: seaweed type
 kompu (n),> kompo (n)
 kompu (n),seaweed type
-kompu (n),> (Ja) kombu: seaweed type
 komun (n),dirt
 komun (n),dust
 komun (n),litter
+kon (pr)(g),her
 kon (pr)(g),his
 kon (pr)(g),its
 kon (pr)(g),my
 kon (pr)(g),our
 kon (pr)(g),their
 kon (pr)(g),your
-kon (pr)(g),her
 konkon (n),> konkoni (n)
 konkon (n),down [feather]
 konkon (n),feather
+konkoni (n),> konkon (n)
 konkoni (n),down [feather]
 konkoni (n),feather
-konkoni (n),> konkon (n)
+konru (n),> ru (n)¹
 konru (n),hail
 konru (n),ice
 konru (n),sleet
-konru (n),> ru (n)¹
 kor (pc),[gerund maker]
+kor (pr)(g),her
 kor (pr)(g),his
 kor (pr)(g),its
 kor (pr)(g),my
 kor (pr)(g),our
 kor (pr)(g),their
 kor (pr)(g),your
-kor (pr)(g),her
 kor (vt),have
 kor (vt),hold
 kor (vt),obtain
 kor (vt),own
 kor (vt),posess
+kora (pr)(g),her
 kora (pr)(g),his
 kora (pr)(g),its
 kora (pr)(g),my
 kora (pr)(g),our
 kora (pr)(g),their
 kora (pr)(g),your
-kora (pr)(g),her
 korka (pop),> korkay (pop)
 korka (pop),although
 korka (pop),but
 korka (pop),if
 korka (pop),though
+korkay (pop),> korka (pop)
 korkay (pop),although
 korkay (pop),but
 korkay (pop),if
 korkay (pop),though
-korkay (pop),> korka (pop)
-kosa (n)¹,hops
 kosa (n)²,< (Ja) goza: mat
 kosa (n)²,mat
-kosne (adj),lightly
+kosa (n)¹,hops
 kosne (adj),light [wight]
+kosne (adj),lightly
 kotan (n),city
 kotan (n),dwelling place
 kotan (n),place
@@ -2270,9 +2265,9 @@ kotan (n),place: dwelling ~
 kotan (n),settlement
 kotan (n),town
 kotan (n),village
+kotankor-kamuy (n),> cikap-kamuy (n)
 kotankor-kamuy (n),diety: owl ~
 kotankor-kamuy (n),owl diety
-kotankor-kamuy (n),> cikap-kamuy (n)
 kotor (n),mask
 koyki (vt),catch
 koyki (vt),fight
@@ -2281,81 +2276,77 @@ koyki (vt),kill
 koyki (vt),scold
 koyki (vt),strike
 ku (n),bow [weapon]
-ku (pf)(pr1)(s),my
 ku (pf)(pr1)(s),I
+ku (pf)(pr1)(s),my
 ku (vt),consume
 ku (vt),drink [liquids]
 ku (vt),smoke [tobacco]
-kunna (adj),dark
 kunna (adj),black
-kunne-cup (n),moon
-kunne (adj),dark
+kunna (adj),dark
 kunne (adj),black
+kunne (adj),dark
+kunne-cup (n),moon
+kur (n),> kuru (n)²
 kur (n),husband
 kur (n),man
 kur (n),person
-kur (n),> kuru (n)²
-kuri (n)¹,cloud
-kuri (n)¹,> niskur (n)
 kuri (n)²,shadow
-kuru (n)¹,cloud
-kuru (n)¹,shade
-kuru (n)¹,shadow
+kuri (n)¹,> niskur (n)
+kuri (n)¹,cloud
 kuru (n)²,> kur (n)
+kuru (n)²,[animate indicator]
 kuru (n)²,husband
 kuru (n)²,man
 kuru (n)²,person
-kuru (n)²,[animate indicator]
+kuru (n)¹,cloud
+kuru (n)¹,shade
+kuru (n)¹,shadow
 kurunni (n),balsam poplar
 kurunni (n),poplar: balsam ~
-kuruppe (n),white frost
 kuruppe (n),frost: white ~
+kuruppe (n),white frost
 kutkayekai (n),> kaye (n)
 kutkayekay (n),> ekaye (n)
 kutkayekay (n),> kaye (n)
 kutkayekay (n),> sinotcarewe (n)
 kutkayekay (n),tune
 ma (adj),dry
-ma (n),peninsula
 ma (n),lagoon
+ma (n),peninsula
 ma (vi),swim
 ma (vt),roast
 ma cikap (n),water fowls
 maci (n),wife
 maci saki kuru (n),> mat saki kuru (n)
 maci saki kuru (n),bachelor
-maciripe (n),sister: younger ~
 maciripe (n),cousin
+maciripe (n),sister: younger ~
 macitke (adj),cramped
-macitke (vi),cramp
 macitke (vi),convulse
-makiri (n),knife
+macitke (vi),cramp
 makiri (n),> pakiri (n)
+makiri (n),knife
 mame (n),< (Ja) mame: bean
 mame (n),bean
 mame (n),legume
 mame (n),pea
-mana (n),dust
 mana (n),> pana (n)
-manayta-cikuni (n),> moskar (n)
-manayta-cikuni (n),> manayta (n)
-manayta-cikuni (n),cutting board
-manayta (n),> manayta-cikuni (n)
+mana (n),dust
 manayta (n),< (Ja) mana-ita: cutting board
+manayta (n),> manayta-cikuni (n)
 manayta (n),> moskar (n)
 manayta (n),cutting board
+manayta-cikuni (n),> manayta (n)
+manayta-cikuni (n),> moskar (n)
+manayta-cikuni (n),cutting board
+mantari (n),> maytari (n)
 mantari (n),apron
 mantari (n),pinafore
-mantari (n),> maytari (n)
 marewrew (n),butterfly type
 masitanpe (n),squid
 mat saki kuru (n),> maci saki kuru (n)
 mat saki kuru (n),bachelor
-maw (n)¹,> omaw (n)¹
-maw (n)¹,air
-maw (n)¹,breath
-maw (n)¹,wind
-maw (n)¹,> mawe (n)(g)(x)¹
+maw (n)ª,rosehip
 maw (n)²,> omaw (n)²
 maw (n)²,chracter
 maw (n)²,flavour
@@ -2371,47 +2362,51 @@ maw (n)³,essence
 maw (n)³,flavour
 maw (n)³,state
 maw (n)³,taste
-maw (n)ª,rosehip
-mawe (n)(g)(x)¹,air
-mawe (n)(g)(x)¹,breath
-mawe (n)(g)(x)¹,wind
-mawe (n)(g)(x)¹,> maw (n)¹
+maw (n)¹,> mawe (n)(g)(x)¹
+maw (n)¹,> omaw (n)¹
+maw (n)¹,air
+maw (n)¹,breath
+maw (n)¹,wind
 mawe (n)(g)(x)²,> maw (n)³
 mawe (n)(g)(x)²,condition
 mawe (n)(g)(x)²,essence
 mawe (n)(g)(x)²,flavour
 mawe (n)(g)(x)²,state
 mawe (n)(g)(x)²,taste
+mawe (n)(g)(x)¹,> maw (n)¹
+mawe (n)(g)(x)¹,air
+mawe (n)(g)(x)¹,breath
+mawe (n)(g)(x)¹,wind
 mawsok (vi),yawn
 may (n),cataract
+mayamaya (vi),> mayemaye (vi)
 mayamaya (vi),irritated
 mayamaya (vi),itch
-mayamaya (vi),> mayemaye (vi)
 mayaya (vt),irritate
-mayayke-tasum (n),itch
-mayayke-tasum (n),dermatosis
 mayayke (vt),> mayrototke (vi)
 mayayke (vt),itch
+mayayke-tasum (n),dermatosis
+mayayke-tasum (n),itch
 mayemaye (vi),> mayamaya (vi)
 mayemaye (vi),irritated
 mayemaye (vi),itch
-maymayke (adj),death: at ~'s door
 maymayke (adj),dead: nearly ~
-mayre-ki (vi),respect: go pay ~
+maymayke (adj),death: at ~'s door
 mayre (vi),respect: go pay ~
+mayre-ki (vi),respect: go pay ~
 mayrototke (vi),> mayayke (vt)
 mayrototke (vi),itch
+maytari (n),> mantari (n)
 maytari (n),apron
 maytari (n),pinafore
-maytari (n),> mantari (n)
+mayun (adj),sound: pleasing ~
 mayun-mayun (vi),resound
 mayun-mayun (vi),ring
 mayun-mayun (vi),sound
-mayun-no (adv),ringing
 mayun-no (adv),resounding
-mayun (adj),sound: pleasing ~
-me (n),coldness
+mayun-no (adv),ringing
 me (n),cold [temperature]
+me (n),coldness
 mean (adj),cold [weather]
 mem (n),lake
 mem (n),pond
@@ -2419,42 +2414,42 @@ mem (n),swamp
 meman (adj),cool
 memka (n),hamlet: single-house ~
 memke (vt),shave
-mena (n),puddle
 mena (n),pond
-menas (n),wind: east ~
+mena (n),puddle
 menas (n),east wind
-meni (n),rain: fine ~
+menas (n),wind: east ~
 meni (n),mist
-mire (vt),dress
+meni (n),rain: fine ~
 mire (vt),clothe
+mire (vt),dress
 mom (adv),adrift
 mom (adv),afloat
-mom (vi),flow [as a river]
 mom (vi),float (down a stream)
-moma-ni (n),plum tree
-moma-ni (n),< moma (n) + ni (n)
+mom (vi),flow [as a river]
 moma (n),plum
+moma-ni (n),< moma (n) + ni (n)
+moma-ni (n),plum tree
 momampe (n),doe
 momawta-cup (n),June
 momka (vt),afloat: cause to ~
 momko (adj),> pasta (adj)
 momko (adj),common
 momko (adj),vulgar
+momok-itak (n),colloquial
 momok-itak (n),ordinary language
 momok-itak (n),vulgar talk
-momok-itak (n),colloquial
 momte (vt),afloat: set ~
-motot (n),vertebrae
 motot (n),backbone
+motot (n),vertebrae
 moyuk (n),tanuki
 mukara (n),ax
-muy (n)¹,bundle
 muy (n)²,slope: slight ~
-muy (n)³,winnow
 muy (n)³,< (Ja) mi: winnow
+muy (n)³,winnow
+muy (n)¹,bundle
+muy (vt),bind
 muy (vt),bundle: make a ~
 muy (vt),tie
-muy (vt),bind
 n (n)(sf),> ni (n)(sf)
 n (n)(sf),> niw (n)(sf)
 n (n)(sf),people
@@ -2464,192 +2459,192 @@ n + p,> m + p
 n + s,> y + s
 n + y,> y + y
 na (n),water
-na (pc),[conclusive]
 na (pc),[affirmative]
+na (pc),[conclusive]
 na (vt),carry
 na ray (n),ditch
+naa (adv),also
 naa (adv),more
 naa (adv),too
 naa (adv),yet
-naa (adv),also
 naa an (adv),more: there is ~
 naa arasuyne (adv),more: once ~
-naa mosima (adv),again: yet ~
 naa mosima (adv),again
+naa mosima (adv),again: yet ~
 naa pon (adv),smaller
 naa poro (adv),larger
+naani (adv),> naanihungo (adv)
 naani (adv),> naanipo (adv)
 naani (adv),almost
 naani (adv),nearly
-naani (adv),> naanihungo (adv)
 naanihunko (adv),> naani (adv)
 naanihunko (adv),> naanipo (adv)
 naanihunko (adv),almost
 naanihunko (adv),nearly
+naanipo (adv),> naani (adv)
 naanipo (adv),> naanihungo (adv)
 naanipo (adv),almost
 naanipo (adv),nearly
-naanipo (adv),> naani (adv)
+nam (n),cold [sensation]
 nam (n),cool [sensation]
 nam (n),fresh
-nam (n),cold [sensation]
 namke (vt),cool: make SB/ST ~
 namsu (n),> namsun (n)
 namsu (n),grub worm
 namsu (n),maggot
 namsu (n),worm: grub ~
+namsun (n),> namsu (n)
 namsun (n),grub worm
 namsun (n),maggot
 namsun (n),worm: grub ~
-namsun (n),> namsu (n)
-namte (vt),cool: set to ~
 namte (vt),cool
+namte (vt),cool: set to ~
 nan (n),> nanu (n)(x)
 nan (n),> nanuhu (n)(x)
 nan (n),face
 nan (n),surface
+nanu (n)(g)(x),> nan (n)
 nanu (n)(g)(x),> nanuhu (n)(g)(x)
 nanu (n)(g)(x),face
 nanu (n)(g)(x),surface
-nanu (n)(g)(x),> nan (n)
+nanuhu (n)(g)(x),> nan (n)
 nanuhu (n)(g)(x),> nanu (n)(g)(x)
 nanuhu (n)(g)(x),face
 nanuhu (n)(g)(x),surface
-nanuhu (n)(g)(x),> nan (n)
 nata (n),knife: large pointless ~ type
+nay (n),dale
 nay (n),river
 nay (n),stream
 nay (n),valley (w/ marsh/stream)
-nay (n),dale
 nay (n)(ain-N),river: large ~
-naye (n),mark
 naye (n),line
+naye (n),mark
 ne (vi),am
 ne (vi),be
 ne (vi),become
 ne (vi),is
+newa (pop),also
 newa (pop),and
 newa (pop),and then
-newa (pop),also
-ni-hamu (n),tree leaves
-ni-hamu (n),leaf: tree ~es
-ni (n),wood
 ni (n),tree
-ni (n)(sf),people
-ni (n)(sf),person
+ni (n),wood
 ni (n)(sf),> n (n)(sf)
 ni (n)(sf),> niw (n)(sf)
+ni (n)(sf),people
+ni (n)(sf),person
 ni (vi),stretch out
-ni (vt)¹,blow [as nose]
-ni (vt)²,drink soup
+ni (vt)²,drink hot water
 ni (vt)²,drink medicine
+ni (vt)²,drink soup
+ni (vt)²,drink tea
 ni (vt)²,sip hot water
 ni (vt)²,sip medicine
 ni (vt)²,sip soup
 ni (vt)²,sip tea
-ni (vt)²,drink hot water
-ni (vt)²,drink tea
+ni (vt)¹,blow [as nose]
+ni-hamu (n),leaf: tree ~es
+ni-hamu (n),tree leaves
 niham-muninkap (n),rain: very fine ~
-niharu (n),viscum album
 niharu (n),mistletoe
+niharu (n),viscum album
 nihorak-cup (n),September
-nikasup (n),wooden spoon
 nikasup (n),spoon: wooden ~
-nin-kur (n),dwarf
+nikasup (n),wooden spoon
+nin (n)²,muscle
 nin (n)¹,burl
 nin (n)¹,wen
-nin (n)²,muscle
+nin (vt),abate
+nin (vt),absorb: become ~ed
 nin (vt),change
 nin (vt),melt
 nin (vt),vary
-nin (vt),absorb: become ~ed
-nin (vt),abate
-nina-cep (n),flounder
-nina-cep (n),taralichitiys clioaceus
-nina (n)¹,fuel
-nina (n)¹,firewood
-nina (n)¹,kindling
-nina (n)²,sole type
+nin-kur (n),dwarf
 nina (n)²,paralichthys olivaceus
+nina (n)²,sole type
+nina (n)¹,firewood
+nina (n)¹,fuel
+nina (n)¹,kindling
 nina (vt),crush
 nina (vt),pulverize
+nina-cep (n),flounder
+nina-cep (n),taralichitiys clioaceus
+nini (vt),> tur (vt)
+nini (vt),> turi (vt)
 nini (vt),draw [pull]
 nini (vt),stretch (out)
-nini (vt),> turi (vt)
-nini (vt),> tur (vt)
 ninka (vt),absorb
 ninka (vt),sap up
-ninkari (n),earring
 ninkari (n),> ninkarihi (n)(g)(x)
-ninkarihi (n)(g)(x),earrings
+ninkari (n),earring
 ninkarihi (n)(g)(x),> ninkari (n)
+ninkarihi (n)(g)(x),earrings
 ninke (n),gall
 ninkew (n),collar bone
 ninninu (vt),stitch
 nino (n),sea urchin
-ninum (n),walnut
 ninum (n),nut
+ninum (n),walnut
+nis (n),air
 nis (n),cloud
 nis (n),heaven
 nis (n),sky
-nis (n),air
 nisew (n),chestnut
 nisiw (n),> nisu (n)
 nisiw (n),millstone
 nisiw (n),motar
-niskur (n),cloud
 niskur (n),> kuri (n)¹
+niskur (n),cloud
 niskur (n)(ain-N),> kuri (n)¹
+nispa (n),Mr.
 nispa (n),gentleman
 nispa (n),lord
 nispa (n),man: rich ~
 nispa (n),master
-nispa (n),Mr.
 nispa (n),person: wealthy ~
 nispa (n),rich
+nisu (n),> nisiw (n)
 nisu (n),millstone
 nisu (n),motar
-nisu (n),> nisiw (n)
-nitay (n),woods
 nitay (n),forest
-niueo (n),squirrel
+nitay (n),woods
 niueo (n),> niweo (n)
+niueo (n),squirrel
 niw (n)(sf),> n (n)(sf)
 niw (n)(sf),> ni (n)(sf)
 niw (n)(sf),people
 niw (n)(sf),person
-niweo (n),squirrel
 niweo (n),> niueo (n)
-niwto (n),thread
+niweo (n),squirrel
 niwto (n),string
+niwto (n),thread
 noram (adj),> roram (adj)
 noram (adj),gentle
+nu-an (adj),> nu-us (adj)
 nu-an (adj),> nuye-an (adj)
 nu-an (adj),abundant
 nu-an (adj),plenteous
-nu-an (adj),> nu-us (adj)
-nu-us (adj),abundant
-nu-us (adj),> nuye-us (adj)
-nu-us (adj),> nuye-an (adj)
 nu-us (adj),> nu-an (adj)
+nu-us (adj),> nuye-an (adj)
+nu-us (adj),> nuye-us (adj)
+nu-us (adj),abundant
 nu-us (adj),plenteous
-nuca-kuru (n),Russian
-nuca-kuru (n),> nuca (n)
-nuca (n),Russian
 nuca (n),> nuca-kuru (n)
-nucak (adj),pleased
+nuca (n),Russian
+nuca-kuru (n),> nuca (n)
+nuca-kuru (n),Russian
 nucak (adj),happy
+nucak (adj),pleased
 nucat (adj),happy
 nucat (adj),pleased
 nukar (vt),look at
 nukar (vt),see
 numa (n),hair
 numaha (n)(g)(x),hair
+numan (adv),yesterday
 numan-ipe (n),evening meal
 numan-ipe (n),meal: evening ~
-numan-onuman (adv),last evening
 numan-onuman (adv),evening: last ~
-numan (adv),yesterday
+numan-onuman (adv),last evening
 numani (adv),yesterday
 nun (vt),absorb
 nun (vt),suck
@@ -2659,46 +2654,46 @@ nunnun (vt),suck
 nuy (n),> ape-nuy (n)
 nuy (n),flame
 nuy kotereke (vi),fire: catch ~
-nuyasa (vt),split
 nuyasa (vt),break through
+nuyasa (vt),split
 nuyaske (vi),break in
 nuyaske (vi),break through
 nuyaske (vi),split
-nuyaspa (vt),break through
 nuyaspa (vt),break in
-nuye-an-i (n),abundance
-nuye-an-i (n),> sir-esikpe (n)
-nuye-an-no (adv),abundantly
+nuyaspa (vt),break through
+nuye (vt),carve
+nuye (vt),tattoo
+nuye (vt),write
+nuye-an (adj),> nu-an (adj)
 nuye-an (adj),> nu-us (adj)
 nuye-an (adj),> nuye-us (adj)
 nuye-an (adj),> sir-esik (adj)
 nuye-an (adj),plenteous
-nuye-an (adj),> nu-an (adj)
+nuye-an-i (n),> sir-esikpe (n)
+nuye-an-i (n),abundance
+nuye-an-no (adv),abundantly
 nuye-ita (n),writing tablet
 nuye-us (adj),> nu-us (adj)
 nuye-us (adj),> nuye-an (adj)
 nuye-us (adj),abundant
 nuye-us (adj),plenteous
-nuye (vt),tattoo
-nuye (vt),write
-nuye (vt),carve
-nuyep (n),brush
 nuyep (n),broom
+nuyep (n),brush
 nuyep (n),pen
 nuyere (vt),write: cause to ~
+nuykar (vt),brush
 nuykar (vt),comb
 nuykar (vt),currycomb
 nuykar (vt),groom
-nuykar (vt),brush
-nuykarape (n),currycomb
 nuykarape (n),brush
+nuykarape (n),currycomb
 nuyna (vt),hide away
 nuynak (vt),hide OS away
 nuyuk (vi),fire: catch ~
-ohoke (adj),crooked
 ohoke (adj),> ohuke (adj)
-ohuke (adj),crooked
+ohoke (adj),crooked
 ohuke (adj),> ohoke (adj)
+ohuke (adj),crooked
 okari (pop),> ekari
 okari (pop),> kari
 okari (pop),about
@@ -2706,34 +2701,29 @@ okari (pop),along
 okari (pop),around
 okari (pop),by
 okari (pop),through
+okkay (n),boy
 okkay (n),male
 okkay (n),man
-okkay (n),boy
+okkaypo (n),> okkaypoho (n)(g)(x)
 okkaypo (n),boy
 okkaypo (n),male child
 okkaypo (n),man: young ~
 okkaypo (n),son
-okkaypo (n),> okkaypoho (n)(g)(x)
 okkaypoho (n)(g)(x),> okkaypo (n)
 okkaypoho (n)(g)(x),boy
 okkaypoho (n)(g)(x),male child
 okkaypoho (n)(g)(x),man: young ~
 okkaypoho (n)(g)(x),son
+okom (n),> rokom (n)¹
 okom (n),> tannu (n)
 okom (n),dolphin
-okom (n),> rokom (n)¹
-oku (n),husband
 oku (n),> okuhu (n)(g)(x)
-okuhu (n)(g)(x),husband
+oku (n),husband
 okuhu (n)(g)(x),> oku (n)
+okuhu (n)(g)(x),husband
 omare (vt),insert
 omare (vt),place
 omare (vt),put (in)
-omaw (n)¹,> mawe (n)(g)(x)¹
-omaw (n)¹,air
-omaw (n)¹,breath
-omaw (n)¹,wind
-omaw (n)¹,> maw (n)¹
 omaw (n)²,> maw (n)²
 omaw (n)²,chracter
 omaw (n)²,flavour
@@ -2749,37 +2739,43 @@ omaw (n)³,essence
 omaw (n)³,flavour
 omaw (n)³,state
 omaw (n)³,taste
-onasi (n),skull
+omaw (n)¹,> maw (n)¹
+omaw (n)¹,> mawe (n)(g)(x)¹
+omaw (n)¹,air
+omaw (n)¹,breath
+omaw (n)¹,wind
 onasi (n),cranium
-onne-cikap (n),albatross
-onne-huci (n),> iresu-kamuy (n)
-onne-huci (n),> unci-kamuy (n)
-onne-huci (n),> kamuy-huci (n)
-onne-huci (n),> iresu-huci (n)
-onne-huci (n),> ape-kamuy (n)
-onne-huci (n),> ape-huci-kamuy (n)
-onne-huci (n),> ape-huci (n)
-onne-huci (n),fire: female diety of ~
-onne (adj),prized
-onne (adj),ancient
-onne (adj),old
-onne (adj),elder(ly)
-onne (adj),valued
+onasi (n),skull
 onne (adj),aged
+onne (adj),ancient
+onne (adj),elder(ly)
+onne (adj),old
+onne (adj),prized
+onne (adj),valued
+onne-cikap (n),albatross
+onne-huci (n),> ape-huci (n)
+onne-huci (n),> ape-huci-kamuy (n)
+onne-huci (n),> ape-kamuy (n)
+onne-huci (n),> iresu-huci (n)
+onne-huci (n),> iresu-kamuy (n)
+onne-huci (n),> kamuy-huci (n)
+onne-huci (n),> unci-kamuy (n)
+onne-huci (n),fire: female diety of ~
+onnep (n),> unew (n)
 onnep (n),callorhinus ursina
 onnep (n),seal: large fur ~
-onnep (n),> unew (n)
+ontar (n),> ontaro (n)
 ontar (n),barrel
 ontar (n),bucket
 ontar (n),cask
-ontar (n),> ontaro (n)
 ontaro (n),> ontar (n)
 ontaro (n),barrel
 ontaro (n),bucket
 ontaro (n),cask
+onuman (adv),> sir onuman (adv)
 onuman (adv),evening
 onuman (adv),twilight: during ~
-onuman (adv),> sir onuman (adv)
+op (n)²,spear
 op (n)¹,> su-op (n)
 op (n)¹,> suy-op (n)
 op (n)¹,bag
@@ -2787,20 +2783,19 @@ op (n)¹,box
 op (n)¹,jar
 op (n)¹,pouch
 op (n)¹,vesel
-op (n)²,spear
 or (adv),very
-or (n),price of anything
 or (n),abundance
+or (n),price of anything
 or (vi),at: be ~
 or (vi),by: be ~
 or (vi),contain: be ~ed in
-or (vi),in: be ~
 or (vi),in: be situated ~
+or (vi),in: be ~
 or (vi),inside: be ~
 ora (n),tail: sea lion ~
+orake (vi),extinct: become ~
 orake (vi),not: is ~
 orake (vi),nothing: come to ~
-orake (vi),extinct: become ~
 orawke (adj),> orawki (adj)
 orawke (adj),late
 orawke (adj),late: too ~
@@ -2808,87 +2803,87 @@ orawke (adj),miss
 orawke (adj),very
 orawke (vi),> orawki (vi)
 orawke (vi),escape
-orawke (vi),late: be ~
 orawke (vi),late: be too ~
+orawke (vi),late: be ~
 orawke (vi),miss
+orawki (adj),> orawke (adj)
 orawki (adj),late
 orawki (adj),late: too ~
 orawki (adj),miss
-orawki (adj),> orawke (adj)
 orawki (vi),> orawke (vi)
 orawki (vi),escape
-orawki (vi),late: be ~
 orawki (vi),late: be too ~
+orawki (vi),late: be ~
 orawki (vi),miss
-oray (adj)¹,good
-oray (adj)¹,humble
-oray (adj)¹,gentle
+oray (adj)²,shy
 oray (adj)²,spook
 oray (adj)²,startle: quckly ~d
-oray (adj)²,shy
+oray (adj)¹,gentle
+oray (adj)¹,good
+oray (adj)¹,humble
 oray (vt),flee in haste
 oray (vt),shy
 oray (vt),spook
 oray (vt),start at quickly
+oske (n),gut
 oske (n),innerd
 oske (n),stomach
-oske (n),gut
+oske (vt),net
 oske (vt),net: make/mend ~s
 oske (vt),weave
-oske (vt),net
 oterke (vt),kick
 oterke (vt),step
 oterke (vt),trample
+otetterke (vt),kick
 otetterke (vt),step
 otetterke (vt),trample
-otetterke (vt),kick
 otompuy (n),> yorpuy (n)
 otompuy (n),anus
-oya-ciki (adv),besides
+oya (adj),alien
+oya (adj),another
+oya (adj),different
+oya (adj),next
+oya (adj),other
 oya-ciki (adv),again
+oya-ciki (adv),besides
 oya-ciki (adv),indeed
 oya-itak (n),irony
-oya (adj),next
-oya (adj),another
-oya (adj),alien
-oya (adj),different
-oya (adj),other
 oyakne (adv),from
 oyakne (adv),off
 oyakne (adv),past
 p (n),> pe (n)¹
 p (sf),> pe (sf)
-p (sf),one who…
 p (sf),[nominalizer]
+p (sf),one who…
 pa (adj),full
-pa (n)¹,> paha (n)¹
-pa (n)¹,age
-pa (n)¹,season
-pa (n)¹,year
-pa (n)²,> sapa (n)
-pa (n)²,chief
-pa (n)²,head (of body)
-pa (n)²,> pake (n)
-pa (n)³,punishment
-pa (n)³,smallpox
-pa (n)³,> papa (n)
 pa (n)ª,> paha (n)²
 pa (n)ª,smoke: emitted ~
 pa (n)ª,steam: emitted ~
 pa (n)ª,water: sprayed ~
+pa (n)²,> pake (n)
+pa (n)²,> sapa (n)
+pa (n)²,chief
+pa (n)²,head (of body)
+pa (n)³,> papa (n)
+pa (n)³,punishment
+pa (n)³,smallpox
+pa (n)¹,> paha (n)¹
+pa (n)¹,age
+pa (n)¹,season
+pa (n)¹,year
 pa (vt),find
-paha (n)¹,pa (n)¹
-paha (n)¹,season
-paha (n)¹,year
-paha (n)¹,age
 paha (n)²,> pa (n)ª
 paha (n)²,smoke: emitted ~
 paha (n)²,steam: emitted ~
 paha (n)²,water: sprayed ~
+paha (n)¹,age
+paha (n)¹,pa (n)¹
+paha (n)¹,season
+paha (n)¹,year
+pake (n),> pa (n)²
 pake (n),> sapa (n)
 pake (n),chief
 pake (n),head (of body)
-pake (n),> pa (n)²
 pake (vi),go
 pake ruy (adj),talkative
 pakes (n),cup
@@ -2897,10 +2892,10 @@ pakesara (vi),proud: be ~
 pakesara wa (adv),proudly
 paket (adj),only
 paki (n),prawn
-pakiri (n),knife
 pakiri (n),> makiri (n)
-pakkay (vt),carry (on the back)
+pakiri (n),knife
 pakkay (vt),> kay (vt)
+pakkay (vt),carry (on the back)
 pakno (adv),adequate
 pakno (adv),as far as
 pakno (adv),such as
@@ -2908,29 +2903,29 @@ pakno (adv),suffiecient
 pakno (adv),that which
 pakno (adv),until
 pakno (adv),utmost limit
-pan-sippo (n),salt: flavorless ~
-pan-sippo (n),flavorless salt
-pan-wakka (n),water: fresh ~
-pan-wakka (n),fresh water
-pan (adj)¹,flavorless
-pan (adj)¹,weak
-pan (adj)¹,insipid
-pan (adj)¹,fresh
 pan (adj)²,lower
-pan (n)¹,< (Ja) pan: bread
-pan (n)¹,bread
+pan (adj)¹,flavorless
+pan (adj)¹,fresh
+pan (adj)¹,insipid
+pan (adj)¹,weak
+pan (n)²,> ca (n)²
+pan (n)²,> car (n)
+pan (n)²,> caro (n)(g)(x)
+pan (n)²,> par (n)
+pan (n)²,> paro (n)(g)(x)
 pan (n)²,> paroho (n)(g)(x)
 pan (n)²,mouth
-pan (n)²,> paro (n)(g)(x)
-pan (n)²,> par (n)
-pan (n)²,> caro (n)(g)(x)
-pan (n)²,> car (n)
-pan (n)²,> ca (n)²
+pan (n)¹,< (Ja) pan: bread
+pan (n)¹,bread
+pan-sippo (n),flavorless salt
+pan-sippo (n),salt: flavorless ~
+pan-wakka (n),fresh water
+pan-wakka (n),water: fresh ~
 pana (n),> mana (n)
 pana (n),dust
+papa (n),> pa (n)³
 papa (n),punishment
 papa (n),smallpox
-papa (n),> pa (n)³
 par (n),> ca (n)²
 par (n),> car (n)
 par (n),> caro (n)(g)(x)
@@ -2938,13 +2933,13 @@ par (n),> pan (n)²
 par (n),> paro (n)(g)(x)
 par (n),> paroho (n)(g)(x)
 par (n),mouth
+paro (n)(g)(x),> ca (n)²
 paro (n)(g)(x),> car (n)
 paro (n)(g)(x),> caro (n)(g)(x)
 paro (n)(g)(x),> pan (n)²
 paro (n)(g)(x),> par (n)
 paro (n)(g)(x),> paroho (n)(g)(x)
 paro (n)(g)(x),mouth
-paro (n)(g)(x),> ca (n)²
 paroho (n)(g)(x),> ca (n)²
 paroho (n)(g)(x),> car (n)
 paroho (n)(g)(x),> caro (n)(g)(x)
@@ -2952,24 +2947,20 @@ paroho (n)(g)(x),> pan (n)²
 paroho (n)(g)(x),> par (n)
 paroho (n)(g)(x),> paro (n)(g)(x)
 paroho (n)(g)(x),mouth
-parumpe (n),tongue
 parumpe (n),> carumpe (n)
+parumpe (n),tongue
 pas-op (n),tinderbox
 pasna (n),cinder
-paspas (n),cinder: black ~
 paspas (n),charcoal
+paspas (n),cinder: black ~
+passanna (n),calamary
 passanna (n),inkfish
 passanna (n),squid
-passanna (n),calamary
 pay (n),bamboo-grass
 paykar (n),> paykaru (n)
 paykar (n),spring [season]
-paykaru (n),spring [season]
 paykaru (n),> paykar (n)
-pe (n)¹,> p (n)
-pe (n)¹,article
-pe (n)¹,thing
-pe (n)¹,> ampe (n)¹
+paykaru (n),spring [season]
 pe (n)²,> pehe (n)
 pe (n)²,juice
 pe (n)²,mist
@@ -2980,15 +2971,19 @@ pe (n)²,snow melt
 pe (n)²,water
 pe (n)²,water: non-potable ~
 pe (n)²,water: thick ~
+pe (n)¹,> ampe (n)¹
+pe (n)¹,> p (n)
+pe (n)¹,article
+pe (n)¹,thing
 pe (sf),> p (sf)
-pe (sf),one who…
 pe (sf),[nominalizer]
-peca (n),river
+pe (sf),one who…
 peca (n),> petca (n)
+peca (n),river
 pecan (adj),slight
 pecan (adj),thin
-peci (n),river
 peci (n),> pet (n)²
+peci (n),river
 pecica (n),puddle of water
 pecinne (adj),wet through
 pecir (n),> cir (n)²
@@ -3008,45 +3003,45 @@ pehe (n),snow melt
 pehe (n),water
 pehe (n),water: non-potable ~
 pehe (n),water: thick ~
-peka (adv)¹,by
-peka (adv)²,toward
 peka (adv)²,facing
+peka (adv)²,toward
+peka (adv)³,part
 peka (adv)³,place
 peka (adv)³,side
-peka (adv)³,part
+peka (adv)¹,by
 peka (vt),catch [grab]
 peker (n),light
-pet-car (n),mouth: river ~
-pet-car (n),river mouth
 pet (adj),damp
 pet (adj),thick
-pet (n)¹,anything: a piece of ~
-pet (n)²,> petci (n)
-pet (n)²,> petca (n)
 pet (n)²,> peci (n)
+pet (n)²,> petca (n)
+pet (n)²,> petci (n)
 pet (n)²,river
 pet (n)³,water
-petca (n),river
-petca (n),> petci (n)
+pet (n)¹,anything: a piece of ~
+pet-car (n),mouth: river ~
+pet-car (n),river mouth
 petca (n),> peca (n)
 petca (n),> pet (n)²
+petca (n),> petci (n)
+petca (n),river
 petci (n),> pet (n)²
 petci (n),> petca (n)
-pewan (adj),weak
 pewan (adj),soft
+pewan (adj),weak
 pewre (adj),young
-pip (n),swamp
 pip (n),mire
-pipo (adj),swampy
+pip (n),swamp
 pipo (adj),miry
+pipo (adj),swampy
 pipok (n),swamp
 pipok (n),wetland
-pira (adj),spread out
 pira (adj),open
+pira (adj),spread out
 pira (n),cliff
+pirasa (vt),open ST
 pirasa (vt),open: spead ~
 pirasa (vt),spread open
-pirasa (vt),open ST
 pirka (adj),adequate
 pirka (adj),admirable
 pirka (adj),beautiful
@@ -3066,16 +3061,16 @@ pirka (vi),sufficient: be ~
 pirka (vi),sure: be ~
 pirka (vi),well: be ~
 piyapa (n),millet
-piye (n),seed
 piye (n),> tane (n)
-po (adj),small
+piye (n),seed
 po (adj),little
+po (adj),small
 po (pc),[softener]
 po (sf)(pc),[diminutive]
 poki-sey (n),> (Ja) hokki-gai: Sakhalin surf clam
+poki-sey (n),Sakhalin surf clam
 poki-sey (n),clam: Sakhalin surf ~
 poki-sey (n),pseudocardium sachalinense
-poki-sey (n),Sakhalin surf clam
 pompepo (n),little: very ~ thing
 pon mokrap (n),fin: anal ~s
 pone (n),bone
@@ -3084,74 +3079,74 @@ poon (adv),little: very ~
 poon makke (adv),ajar
 pop (vi),boil
 pop (vi),bubble up
-popay (n),tube
 popay (n),pipe
+popay (n),tube
 popo (n),brother: elder ~
-poppe (n),sweat
 poppe (n),perspiration
-poppe nu (vi),sweat
+poppe (n),sweat
 poppe nu (vi),perspire
+poppe nu (vi),sweat
 poro (adj),big
 poro (adj),great
 poro (adj),large
 poro (adj),much
+pu (n),> puhu (n)(g)(x)
 pu (n),> puy (n)¹
 pu (n),cache
 pu (n),storehouse
 pu (n),warehouse
-pu (n),> puhu (n)(g)(x)
 puhu (n)(g)(x),> pu (n)
 puhu (n)(g)(x),> puy (n)¹
 puhu (n)(g)(x),cache
 puhu (n)(g)(x),storehouse
 puhu (n)(g)(x),warehouse
+puri (n),custom
 puri (n),habit
 puri (n),manner
-puri (n),custom
-puri: sir-~ (n),universal custom
 puri: sir-~ (n),custom: universal ~
+puri: sir-~ (n),universal custom
+puy (n)²,hole
+puy (n)³,marsh marigold
 puy (n)¹,> pu (n)
 puy (n)¹,> puhu (n)(g)(x)
 puy (n)¹,cache
 puy (n)¹,storehouse
 puy (n)¹,warehouse
-puy (n)²,hole
-puy (n)³,marsh marigold
 r + c,> t + c
 r + n,> n + n
 r + r,> n + r
 r + t,> t + t
 ra (adv),below
-ra (n)¹,grass: blade of ~
-ra (n)¹,blade of grass
 ra (n)²,> huype (n)
 ra (n)²,> raha (n)
 ra (n)²,fat: white fish ~
 ra (n)²,liver: fish ~
+ra (n)¹,blade of grass
+ra (n)¹,grass: blade of ~
+raha (n),> ra (n)²
 raha (n),fat: white fish ~
 raha (n),liver: fish ~
-raha (n),> ra (n)²
 rak (n),sediment
-rak (vi)¹,pass away (as clouds)
 rak (vi)²,precipitate (in solution)
 rak (vi)²,settle out (as sediment)
 rak (vi)³,smell of ST
+rak (vi)¹,pass away (as clouds)
+raka (n),usefulness
 raka-an (adj),use
 raka-an (adj),useful
 raka-isam (adj),abject
 raka-isam (adj),useless
 raka-sak (adj),useless
-raka (n),usefulness
 rake (adv),below
 rake (adv),down: next one ~
 rake (adv),lower
+rakka (vi),> ratci (vi)(ain-CW)
 rakka (vi),precipitate (in solution)
 rakka (vi),settle out (as sediment)
-rakka (vi),> ratci (vi)(ain-CW)
+rakko (n),> (Ja) rakko: sea otter
 rakko (n),lutra marina
 rakko (n),otter: sea ~
 rakko (n),sea otter
-rakko (n),> (Ja) rakko: sea otter
 ram (adv),low
 ram (adv),young
 ram (n),> rama (n)(g)(x)
@@ -3166,12 +3161,12 @@ ram (n),soul
 ram (n),spirit
 ram (n),understanding
 ram (pc),[intensifier]
+rama (n),> ramat (n)
 rama (n),essence
 rama (n),meaning
 rama (n),mind
 rama (n),soul
 rama (n),spirit
-rama (n),> ramat (n)
 rama (n)(g)(x),> ram (n)
 rama (n)(g)(x),essence
 rama (n)(g)(x),feelings
@@ -3183,235 +3178,235 @@ rama (n)(g)(x),soul
 rama (n)(g)(x),spirit
 rama (n)(g)(x),understanding
 ramante (vt),hunt
+ramat (n),> rama (n)
 ramat (n),essence
 ramat (n),meaning
 ramat (n),mind
 ramat (n),soul
 ramat (n),spirit
-ramat (n),> rama (n)
 ramay (n),louse: young ~
 ramayta (adj),beautiful
 ramayta (adj),nice
 ramayta (adj),pretty
-ramma (adv),always
 ramma (adv),again and again
-ramne (adj),whole
+ramma (adv),always
 ramne (adj),full
+ramne (adj),whole
 ramnep (n),full thing
 ramnep (n),whole thing
+ramor (n),consider
 ramor (n),kidney
 ramor (n),suet
-ramor (n),consider
 rampar (n),willow type
+rampe (vt),down: bring ~
 rampe (vt),low: make ~
 rampe (vt),lower
 rampe (vt),silence
-rampe (vt),down: bring ~
-ramram (n),scale: snake ~s
 ramram (n),scale: fish ~s
-ramu-an-no (adv),cleverly
-ramu-an-no (adv),knowingly
-ramu-an (adj),learned
-ramu-an (adj),knowing
-ramu-an (adj),wise
-ramu-an (adj),astute
-ramu-an (adj),clever
-ramu (n),thought
+ramram (n),scale: snake ~s
 ramu (n),mind
 ramu (n),soul
-ramu (vi),think
+ramu (n),thought
 ramu (vi),feeling
+ramu (vi),think
 ramu (vi),understand
+ramu-an (adj),astute
+ramu-an (adj),clever
+ramu-an (adj),knowing
+ramu-an (adj),learned
+ramu-an (adj),wise
+ramu-an-no (adv),cleverly
+ramu-an-no (adv),knowingly
 ramuhawke (adj),kind
 ramuhawke (adj),merciful
-ramuhawke (vi),merciful
 ramuhawke (vi),kind
+ramuhawke (vi),merciful
 ran (vi)(s),> rap (vi)(p)
 ran (vi)(s),> ray (vi)¹
 ran (vi)(s),descend
 ran (vi)(s),down: go ~
 ran (vi)(s),fall
-rap (n),wing
 rap (n),feather
+rap (n),wing
 rap (vi)(s),> ran (vi)(p)
 rap (vi)(s),descend
 rap (vi)(s),down: go ~
 rap (vi)(s),fall
 raruma (n),eyebrow
-ras-casi (n),fence: post and rail ~
-ras (n),splinter: wood ~s
-ras (n),crumb
 ras (n),cleft wood
+ras (n),crumb
+ras (n),splinter: wood ~s
+ras-casi (n),fence: post and rail ~
 raske (vt),shave
 rasne (adj),brittle
 rasne (adj),hard
-rasu (vi),meet (as rafter)
 rasu (vi),join (as rafter)
-rasu (vt),chip off
+rasu (vi),meet (as rafter)
 rasu (vt),break off a small piece
+rasu (vt),chip off
 rat-hese (n),asthma
 rata (adv),below
 rata (adv),beneath
-rataskep (n)¹,vegetable
-rataskep (n)¹,herb
-rataskep (n)¹,fruit
 rataskep (n)²,stirfry: vegetable ~
 rataskep (n)²,vegetable stirfry
-ratcako (n),lamp
+rataskep (n)¹,fruit
+rataskep (n)¹,herb
+rataskep (n)¹,vegetable
 ratcako (n),> ratcaku (n)
-ratcaku (n),lamp
+ratcako (n),lamp
 ratcaku (n),> ratcako (n)
+ratcaku (n),lamp
 ratci (adj),gentle
-ratci (vi)(ain-CW),settle out (as sediment)
-ratci (vi)(ain-CW),precipitate (in solution)
 ratci (vi)(ain-CW),> rakka (vi)
+ratci (vi)(ain-CW),precipitate (in solution)
+ratci (vi)(ain-CW),settle out (as sediment)
 ratcitke (adj),suspended
-ratki (vi),suspend: be ~ed
 ratki (vi),hang
-rattopotopo (vi),move the eyebrows
+ratki (vi),suspend: be ~ed
 rattopotopo (vi),eyebrow: move the ~s
-ray-ampe (n),death
-ray-i (n),death
-ray (vi)¹,fall
-ray (vi)¹,down: go ~
-ray (vi)¹,> ran (vi)(s)
-ray (vi)¹,descend
+rattopotopo (vi),move the eyebrows
 ray (vi)²,> tay (vi)(ain-NN)
 ray (vi)²,die
+ray (vi)¹,> ran (vi)(s)
+ray (vi)¹,descend
+ray (vi)¹,down: go ~
+ray (vi)¹,fall
+ray-ampe (n),death
+ray-i (n),death
+rayke (vt)(s),> ronnu (vt)(p)
 rayke (vt)(s),die: cause to ~
 rayke (vt)(s),kill
-rayke (vt)(s),> ronnu (vt)(p)
 re (adj),three
 reep (n),> ceta (n)
 reep (n),> seta (n)
 reep (n),> sita (n)
 reep (n),> sta (n)
 reep (n),dog
-rek (n),whisker
 rek (n),> reki (n)(g)(x)
-reki (n)(g)(x),whisker
+rek (n),whisker
 reki (n)(g)(x),> rek (n)
+reki (n)(g)(x),whisker
+rekuci (n)(g)(x),> rekut (n)
 rekuci (n)(g)(x),neck
 rekuci (n)(g)(x),throat
-rekuci (n)(g)(x),> rekut (n)
 rekut (n),> rekuci (n)(g)(x)
 rekut (n),neck
 rekut (n),throat
-ren (n),three persons
 ren (n),> re-nuy (n)
+ren (n),three persons
 ren (vi),sink
+rene (adj),calm
 rene (adj),quiet
 rene (adj),weak
-rene (adj),calm
 renka (n),favour
 renka (n),kindness
-renkap (adv),because of
 renkap (adv),account: on ~ of
+renkap (adv),because of
 rente (vt),sink
-rep-un-kamuy (n),orca
-rep-un-kamuy (n),killer whale
-rep-un-kamuy (n),whale: killer ~
-rep-un-kamuy (n),sea diety
-rep-un-kamuy (n)(ain-CS),whale (n)
-rep-un-sir (n),island
+rep (n)²,three things
+rep (n)¹,> acuy (n)
+rep (n)¹,> atuy (n)
+rep (n)¹,> atuy-so (n)
+rep (n)¹,> rep-un (adv)
+rep (n)¹,offshore
+rep (n)¹,sea
 rep-un (adv),offing: in the ~
 rep-un (adv),offshore
 rep-un (adv),sea: out to ~
-rep (n)¹,> rep-un (adv)
-rep (n)¹,sea
-rep (n)¹,offshore
-rep (n)¹,> atuy (n)
-rep (n)¹,> atuy-so (n)
-rep (n)¹,> acuy (n)
-rep (n)²,three things
+rep-un-kamuy (n),killer whale
+rep-un-kamuy (n),orca
+rep-un-kamuy (n),sea diety
+rep-un-kamuy (n),whale: killer ~
+rep-un-kamuy (n)(ain-CS),whale (n)
+rep-un-sir (n),island
+rera (n),wind [breeze]
 rera-kamuy (n),diety: wind ~
 rera-kamuy (n),wind diety
-rera (n),wind [breeze]
-retar-ampe (n),whiteness
+retar (adj),white
 retar-ampe (n),white thing
+retar-ampe (n),whiteness
 retar-i (n),whiteness
 retar-kina-amawri (n),trillium
 retar-marewrew (n),butterfly: cabbage ~
 retar-marewrew (n),cabbage butterfly
-retar (adj),white
+retarpe (n),Whites
 retarpe (n),grey hair
 retarpe (n),hair bleaching
 retarpe (n),hair: grey ~
 retarpe (n),hair: white ~
 retarpe (n),white hair
 retarpe (n),white thing
-retarpe (n),Whites
 retartom (adj),white
 retatcir (n),< retar (adj) + cir (n)¹
 retatcir (n),swan
-rimse (vi),jump
 rimse (vi),dance
+rimse (vi),jump
 rimsep (n),dance
-ro (n),let's…
 ro (n),[imperative]
+ro (n),let's…
 rok (vi)(p),> a (vi)(s)
 rok (vi)(p),sit
+rokom (n)²,stickleback
+rokom (n)¹,> okom (n)
 rokom (n)¹,> tannu (n)
 rokom (n)¹,dolphin
-rokom (n)¹,> okom (n)
-rokom (n)²,stickleback
-ronno (vt)(p),kill
 ronno (vt)(p),> ronnu (vt)(p)
+ronno (vt)(p),kill
 ronnu (vt)(p),> rayke (vt)(s)
 ronnu (vt)(p),> ronno (vt)(p)
 ronnu (vt)(p),kill
-ror-un (adv),head of a fireplace
 ror (n),honour: seat of ~
-roram (adj),gentle
+ror-un (adv),head of a fireplace
 roram (adj),> noram (adj)
+roram (adj),gentle
+rorketa (n),east outer wall
 rorketa (n),northeast inner wall
 rorketa (n),sacred part of Ainu hut
-rorketa (n),east outer wall
 roronke (n),cramp type
 roronke (n),twitching of nerves
+rorumpe (n),> tumi (n)
+rorumpe (n),affliction
 rorumpe (n),distress
 rorumpe (n),fight
 rorumpe (n),sorrow
 rorumpe (n),war
-rorumpe (n),affliction
-rorumpe (n),> tumi (n)
+rorun (n),< ror (n) + un (n)
+rorun (n),> roruy (n)
+rorun (n),east window wall
 rorun-inumpe (n),< rorun (n) + inumpe (n)
 rorun-inumpe (n),fireplace edge by east window
+rorun-puyar (n),east window
 rorun-puyar (n),sacred window
 rorun-puyar (n),window: east ~
 rorun-puyar (n),window: sacred ~
-rorun-puyar (n),east window
-rorun (n),> roruy (n)
-rorun (n),< ror (n) + un (n)
-rorun (n),east window wall
 roruy (n),> rorun (n)
 roruy (n),east window wall
-royse (vi),voice: make noise with ~
 royse (vi),noise: make ~ with voice
-ru (adj),partly
+royse (vi),voice: make noise with ~
 ru (adj),half
-ru (n)¹,> konru (n)
-ru (n)¹,ice
+ru (adj),partly
+ru (n)ª,water closet
+ru (n)²,path
 ru (n)²,road
 ru (n)²,way
-ru (n)²,path
 ru (n)³,poison
-ru (n)ª,water closet
-ru (vi),melt
+ru (n)¹,> konru (n)
+ru (n)¹,ice
 ru (vi),crumble
+ru (vi),melt
 rucup (n),January
 rue (adj),large
 rue (adj),thick
+rupne (adj),adult
 rupne (adj),bulky
 rupne (adj),grown: fully ~
 rupne (adj),large
-rupne (adj),adult
 rure (vt),melt
-ruru (n)¹,gravy
-ruru (n)¹,soup: clear ~
+ruru (n)²,ocean
 ruru (n)²,salt
 ruru (n)²,sea
-ruru (n)²,ocean
+ruru (n)¹,gravy
+ruru (n)¹,soup: clear ~
 ruy (adj),coarse
 ruy (adj),expensive
 ruy (adj),great
@@ -3419,477 +3414,477 @@ ruy (adj),large
 ruy (adj),loud
 ruy (adj),rough
 ruy (adj),strong
-ruy (n)¹,beetle: black ~
-ruy (n)²,whetstone
 ruy (n)²,grindstone
+ruy (n)²,whetstone
+ruy (n)¹,beetle: black ~
 ruy (vi),> as (vi)²
 ruy (vi),blow
 ruy (vi),burn
 ruy (vi),rain
+ruyampe (n),rain
 ruyampe (n),rain: fine ~
 ruyampe (n),storm
 ruyampe (n),wave: sea ~
-ruyampe (n),rain
 s + t,> c + t
-sa (adv),in front of
 sa (adv),at hand
+sa (adv),in front of
+sa (n)²,> saha (n)(g)(x)¹
+sa (n)²,> sapo (n)
+sa (n)²,elder sister
+sa (n)²,sister: elder ~
+sa (n)³,> saha (n)(g)(x)²
+sa (n)³,plain [meadow]
 sa (n)¹,> ca (n)¹
 sa (n)¹,bank: low river ~
 sa (n)¹,river bank: low ~
 sa (n)¹,sea shore
 sa (n)¹,shore: sea ~
-sa (n)²,> sapo (n)
-sa (n)²,elder sister
-sa (n)²,sister: elder ~
-sa (n)²,> saha (n)(g)(x)¹
-sa (n)³,> saha (n)(g)(x)²
-sa (n)³,plain [meadow]
+sa (vi),exposed
 sa (vi),open
 sa (vi),spread out
-sa (vi),exposed
+saha (n)(g)(x)²,> sa (n)³
+saha (n)(g)(x)²,plain [meadow]
 saha (n)(g)(x)¹,> sa (n)²
 saha (n)(g)(x)¹,elder sister
 saha (n)(g)(x)¹,sister: elder ~
-saha (n)(g)(x)²,plain [meadow]
-saha (n)(g)(x)²,> sa (n)³
-sak-pa (n),summer time
-sak-pa (n),summer: during ~
-sak-pa (n),summer
-sak (adj),without
 sak (adj),> sakno (adv)
 sak (adj),[negative former]
 sak (adj),lacking
 sak (adj),not having
-sak (adv),without
-sak (adv),not having
+sak (adj),without
 sak (adv),lacking
+sak (adv),not having
+sak (adv),without
 sak (n),summer
-sake (n),beer: rice ~
+sak-pa (n),summer
+sak-pa (n),summer time
+sak-pa (n),summer: during ~
 sake (n),< (Ja) sake: rice beer
+sake (n),beer: rice ~
 sake (n),wine
 sakkay (n),chopsticks
-sakma (n),rail: wooden ~
 sakma (n),bar [post]
+sakma (n),rail: wooden ~
 sakne (adv),last
 sakne (adv),previous
 sakne cup (adv),last month
 sakne cup (adv),month: last ~
 sakne pa (adv),last year
 sakne pa (adv),year: last ~
-sakno (adv),without
-sakno (adv),not having
-sakno (adv),lacking
-sakno (adv),[negative former]
 sakno (adv),> sak (adj)
+sakno (adv),[negative former]
+sakno (adv),lacking
+sakno (adv),not having
+sakno (adv),without
+sakusa (n),odour
 sakusa (n),scent
 sakusa (n),smell
-sakusa (n),odour
 sam (n),side
 samampe (n),fish: flat ~
 samampe (n)[slang],vagina
-samay-mosir (n),Japan
 samay-mosir (n),> samor-mosir (n)
-samay-un-kur (n),Japanese
+samay-mosir (n),Japan
 samay-un-kur (n),> samor-un-kur (n)
-same (n),shark
+samay-un-kur (n),Japanese
 same (n),< (Ja) same: shark
+same (n),shark
 samo (n),> sisam (n)
 samo (n),Japanese
-samor-mosir (n),Japan
 samor-mosir (n),> samay-mosir (n)
-samor-un-kur (n),Japanese
+samor-mosir (n),Japan
 samor-un-kur (n),> samay-un-kur (n)
+samor-un-kur (n),Japanese
 san (n),shelf
+san (n)(s),> sap (n)(p)
 san (n)(s),descent
 san (n)(s),slope
-san (n)(s),> sap (n)(p)
 san (vi),descend
 san (vi),down: go ~
 san (vi),flow along (as a river)
-sanca (n),face: lower part of ~
 sanca (n),countenance
-santa-mosir (n),> santan (n)
-santa-mosir (n),> santa (n)
-santa-mosir (n),Manchuria
-santa (n),Manchuria
-santa (n),> santan (n)
+sanca (n),face: lower part of ~
 santa (n),> santa-mosir (n)
+santa (n),> santan (n)
+santa (n),Manchuria
+santa-mosir (n),> santa (n)
+santa-mosir (n),> santan (n)
+santa-mosir (n),Manchuria
 santan (n),> santa (n)
 santan (n),> santa-mosir (n)
 santan (n),Manchuria
-saot (vt),run away
 saot (vt),leave one's parents
+saot (vt),run away
 saotte (vt),run away: make ~
+sap (n)(p),> san (n)(s)
 sap (n)(p),descent
 sap (n)(p),slope
-sap (n)(p),> san (n)(s)
 sapa (n),> pa (n)²
 sapa (n),> pake (n)
 sapa (n),chief
 sapa (n),head (of body)
+sapo (n),> sa (n)²
 sapo (n),elder sister
 sapo (n),sister: elder ~
-sapo (n),> sa (n)²
-sar-us (adj),tailed
+sar (n),> sara (n)(g)(x)
+sar (n),> saraha (n)(g)(x)
+sar (n),tail
 sar-us (adj),tail: having a ~
+sar-us (adj),tailed
 sar-us (n),> (Ja) saru: monkey
 sar-us (n),> saro (n)
 sar-us (n),monkey
-sar (n),> sara (n)(g)(x)
-sar (n),tail
-sar (n),> saraha (n)(g)(x)
-sara (n)(g)(x),> saraha (n)(g)(x)
 sara (n)(g)(x),> sar (n)
+sara (n)(g)(x),> saraha (n)(g)(x)
 sara (n)(g)(x),tail
 saraha (n)(g)(x),> sar (n)
 saraha (n)(g)(x),> sara (n)(g)(x)
 saraha (n)(g)(x),tail
-saro (n),monkey
 saro (n),> sar-us (n)
-sas (n)¹,leech
+saro (n),monkey
+sas (n)²,roar
 sas (n)²,rumble: low ~ noise
 sas (n)²,rustling sound
-sas (n)²,roar
 sas (n)³,seaweed type
-sasnu (vi),rustle
+sas (n)¹,leech
 sasnu (vi),resound
-sat-cep (n),fish: dried ~
-sat-cep (n),dried fish
-sat-cep (n),< sat (adj) + cep (n)
-sat-kepa (vt),dry
-sat (adv),dried
+sasnu (vi),rustle
 sat (adv),arid
+sat (adv),dried
 sat (adv),dry
+sat-cep (n),< sat (adj) + cep (n)
+sat-cep (n),dried fish
+sat-cep (n),fish: dried ~
+sat-kepa (vt),dry
 satke (vi),air out
 satke (vi),dry
-satsatke (adj),parched
 satsatke (adj),dry
-satsatke (vi),parched
+satsatke (adj),parched
 satsatke (vi),dry
+satsatke (vi),parched
 saya (n),knife sheath
 saya (n),sheath: knife ~
 saya (n),sheath: sword ~
 saya (n),sword sheath
 saye (n),rope: coil of ~
 saye (vt),tread
+sayo (n),stew: vegetable ~
 sayo-sû (n),< sayo (n) + sû (n)
 sayo-sû (n),pot: stew ~
 sayo-sû (n),stew pot
-sayo (n),stew: vegetable ~
-sekor-ampe (pn),that which is
-sekor-ampe (pn),that kind of thing
-sekor-ampe (pn),that which is called…
+sekor (pn),he who…
+sekor (pn),so
+sekor (pn),that which…
+sekor (pn),this here
 sekor (pn),thus
 sekor (pn),which
 sekor (pn),who
-sekor (pn),so
-sekor (pn),he who…
-sekor (pn),that which…
-sekor (pn),this here
+sekor-ampe (pn),that kind of thing
+sekor-ampe (pn),that which is
+sekor-ampe (pn),that which is called…
 sempirike (n),behind
 sempirike (n),shade
+sesek (adj),> seysek (adj)
+sesek (adj),hot
 sesek-ka (vt),heat
-sesek-maw (n)¹,hot breath
-sesek-maw (n)¹,hot wind
-sesek-maw (n)¹,wind: hot ~
+sesek-maw (n)²,< sesek (x) + maw (n)
+sesek-maw (n)²,fever
 sesek-maw (n)¹,< sesek (x) + maw (n)
 sesek-maw (n)¹,air: hot ~
 sesek-maw (n)¹,breath: hot ~
 sesek-maw (n)¹,hot air
-sesek-maw (n)²,< sesek (x) + maw (n)
-sesek-maw (n)²,fever
-sesek (adj),> seysek (adj)
-sesek (adj),hot
+sesek-maw (n)¹,hot breath
+sesek-maw (n)¹,hot wind
+sesek-maw (n)¹,wind: hot ~
 seseki (n),heat: fire ~
 seseku (n),heat: fire ~
+seta (n),> ceta (n)
 seta (n),> reep (n)
 seta (n),> setaha (n)(g)(x)
 seta (n),> sita (n)
 seta (n),> sta (n)
 seta (n),dog
-seta (n),> ceta (n)
 setaha (n)(g)(x),> seta (n)
 setaha (n)(g)(x),dog
-sey (n)¹,plate
-sey (n)¹,earthenware
 sey (n)²,pseudocardium sachalinense
 sey (n)²,shell
 sey (n)²,shellfish
+sey (n)¹,earthenware
+sey (n)¹,plate
 sey (vt),carry of back
-seysek (adj),hot
 seysek (adj),> sesek (adj)
+seysek (adj),hot
 sh,> s
 sik (adj),bulge
 sik (adj),full
+sik (n),> siki (n)(g)(x)
 sik (n),> sikihi (n)(g)(x)
 sik (n),eye
-sik (n),> siki (n)(g)(x)
+sikari (adj),round
+sikari (adj),winding
 sikari-cup (n),full moon
 sikari-cup (n),moon: full ~
-sikari (adj),winding
-sikari (adj),round
 sikarip (n),wheel
+siki (n)(g)(x),> sik (n)
 siki (n)(g)(x),> sikihi (n)(g)(x)
 siki (n)(g)(x),eye
-siki (n)(g)(x),> sik (n)
 sikihi (n)(g)(x),> sik (n)
 sikihi (n)(g)(x),> siki (n)(g)(x)
 sikihi (n)(g)(x),eye
+sim (adv),> sima (adv)
 sim (adv),next day
 sim (adv),tomorrow
-sim (adv),> sima (adv)
 sima (adv),> sim (adv)
 sima (adv),next day
 sima (adv),tomorrow
 simak-un (adv),behind
 simaka (vi),pass away
-simakoray (vi)(s),depart
 simakoray (vi)(s),> simakoraypa (vi)(p)
+simakoray (vi)(s),cease
+simakoray (vi)(s),depart
+simakoray (vi)(s),go away
 simakoray (vi)(s),leave off work
 simakoray (vi)(s),pass away [die]
 simakoray (vi)(s),stop
-simakoray (vi)(s),go away
-simakoray (vi)(s),cease
+simakoraypa (vi)(p),> simakoray (vi)(s)
 simakoraypa (vi)(p),cease
 simakoraypa (vi)(p),depart
 simakoraypa (vi)(p),go away
 simakoraypa (vi)(p),leave off work
 simakoraypa (vi)(p),stop
-simakoraypa (vi)(p),> simakoray (vi)(s)
 simasa (adj),open
-simayma (n),slug
 simayma (n),lice
+simayma (n),slug
 simemke (adj),shaven
-simipe (n),breakfast
 simipe (n),> sin-ipe (n)
-simke (adv),next
+simipe (n),breakfast
 simke (adv),following day
-simma (adv),tomorrow
+simke (adv),next
 simma (adv),next day
-simon-sam (adv),right hand side
+simma (adv),tomorrow
 simon (adj),right [direction]
+simon-sam (adv),right hand side
 simontek (adv),right hand side: on the ~
-simoye (vi),shake
 simoye (vi),move
+simoye (vi),shake
 simoyeka (vi),move
 simpuy (n),well [water source]
 sin-ipe (n),> simipe (n)
 sin-ipe (n),breakfast
-sinan-cup (n),November
-sinan-cup (n),June
 sinan-cup (n),> sinaw-cup (n)
-sinankus (adv),truth: in ~
+sinan-cup (n),June
+sinan-cup (n),November
 sinankus (adv),truly
-sinaw-cup (n),November
+sinankus (adv),truth: in ~
 sinaw-cup (n),> sinan-cup (n)
+sinaw-cup (n),November
+sine (adj),one
 sine-an (adj),certain
 sine-an (adj),one
+sine-anta (adv),day: one ~
+sine-anta (adv),once upon a time
 sine-anta (adv),one day
 sine-anta (adv),one time: at ~
 sine-anta (adv),time: at one ~
 sine-anta (adv),time: once upon a ~
-sine-anta (adv),once upon a time
-sine-anta (adv),day: one ~
 sine-not (adj),mouthful: one ~
 sine-not (adj),one mouthful
 sine-otutanu (adj),first
-sine-pa (n),one cupful
 sine-pa (n),once full
-sine (adj),one
-sinen (n),person: one ~
-sinen (n),one person
+sine-pa (n),one cupful
 sinen (n),alone
+sinen (n),one person
+sinen (n),person: one ~
 sinenne-an (adj),alone
-sinep (n),one thing
 sinep (n),one
+sinep (n),one thing
 sinep (n),single
 sinepe-sampe (adj),nine
 sinepe-san (n),nine
 sinepe-si (adj),nine
 sinewe (n),> sinot (n)
 sinewe (n),amusement
-sinewe (vi),amuse one's self
 sinewe (vi),> sinot (vi)
-sinna-an (adj),different
-sinna (n),difference
+sinewe (vi),amuse one's self
 sinna (n),> sinnay (n)
+sinna (n),difference
+sinna-an (adj),different
+sinnam (n),cold
 sinnam (n),coldness
 sinnam (n),frost
-sinnam (n),cold
 sinnay (adj),abnormal
 sinnay (adj),alone
 sinnay (adj),different
 sinnay (adj),differing
-sinnay (n),difference
 sinnay (n),> sinna (n)
+sinnay (n),difference
+sinnay (vi),abnormal: be ~
 sinnay (vi),alone: be ~
 sinnay (vi),differ
 sinnay (vi),different: be ~
 sinnay (vi),themself: be by ~es
-sinnay (vi),abnormal: be ~
 sinnuye (vt),carve
 sinnuye (vt),cut into
 sinnuye (vt),engrave
-sinot-ruy (adj),playful
-sinot (n),amusement
 sinot (n),> sinewe (n)
-sinot (vi),amuse one's self
+sinot (n),amusement
 sinot (vi),> sinewe (vi)
-sinotca-ipe (n),words of a song
-sinotca-ipe (n),lyrics
-sinotca-ipe (n),song: words of a ~
-sinotca-ki (vt),sing a song
+sinot (vi),amuse one's self
+sinot-ruy (adj),playful
 sinotca (n),hymn
 sinotca (n),song
+sinotca-ipe (n),lyrics
+sinotca-ipe (n),song: words of a ~
+sinotca-ipe (n),words of a song
+sinotca-ki (vt),sing a song
+sinotcarewe (n),> ekaye (n)
+sinotcarewe (n),> kaye (n)
 sinotcarewe (n),> kutkayekay (n)
 sinotcarewe (n),tune
-sinotcarewe (n),> kaye (n)
-sinotcarewe (n),> ekaye (n)
-sinoye (adj),wind up
 sinoye (adj),twisted
+sinoye (adj),wind up
 sinoye (vi),twist
 sinoye (vi),wind up
+sinrit (n),ancestor
 sinrit (n),bloodline
 sinrit (n),pedigree
 sinrit (n),root
-sinrit (n),ancestor
 sinrupus (vt),freeze
-sinrus (n),moss
 sinrus (n),lichen
+sinrus (n),moss
 sinta (n),cradle
 sintoko (n),lacquerware
 sinuye (vt),> unuye (vt)
 sinuye (vt),tattoo
 sippo (n)(ain-N),salt
+sir (adj),much
+sir (adj),swift
+sir (adj),very
+sir (adj),well [very]
+sir (adv)²,space
+sir (adv)²,time
+sir (adv)¹,in place of
+sir (adv)¹,instead of
+sir (n)²,> siri (n)(g)(x)²
+sir (n)²,earth [land]
+sir (n)²,island
+sir (n)²,land
+sir (n)²,mountain
+sir (n)³,weather
+sir (n)¹,> siri (n)(g)(x)¹
+sir (n)¹,appearance
+sir (n)¹,aspect
+sir (n)¹,state
+sir (pc),[ongoing action indicator]
+sir-an (!),dear me
 sir-an (!),how great
 sir-an (!),how many
-sir-an (!),dear me
 sir-an (adv),> siran (adv)
 sir-an (adv),space
 sir-an (adv),time passes
 sir-an (adv),whiles
 sir-epaciw (adj),smoke: full of ~
 sir-epaciw (adj),smoky
-sir-esik-no (adv),abundantly
+sir-esik (adj),> nuye-an (adj)
+sir-esik (adj),abundant
 sir-esik (adj),multitudinous
 sir-esik (adj),plenteous
-sir-esik (adj),abundant
-sir-esik (adj),> nuye-an (adj)
+sir-esik-no (adv),abundantly
 sir-esikpe (n),> nuye-an-i (n)
-sir-esikpe (n),plenty
 sir-esikpe (n),abundance
-sir-onuman (adv),twilight: during ~
+sir-esikpe (n),plenty
+sir-onuman (adv),> onuman (adv)
 sir-onuman (adv),> sironuman (adv)
 sir-onuman (adv),evening
-sir-onuman (adv),> onuman (adv)
+sir-onuman (adv),twilight: during ~
 sir-paskur (n),crow: carrion ~
 sir-pirka (n),< sir (n)³ + pirka (adj)
 sir-pirka (n),weather: fine ~
+sir-popke (n),< sir (n)³ + popke (n)
 sir-popke (n),weather: hot ~
 sir-popke (n),weather: warm ~
-sir-popke (n),< sir (n)³ + popke (n)
 sir-puri (n),custom: universal ~
-sir (adj),much
-sir (adj),very
-sir (adj),well [very]
-sir (adj),swift
-sir (adv)¹,in place of
-sir (adv)¹,instead of
-sir (adv)²,space
-sir (adv)²,time
-sir (n)¹,aspect
-sir (n)¹,> siri (n)(g)(x)¹
-sir (n)¹,appearance
-sir (n)¹,state
-sir (n)²,island
-sir (n)²,earth [land]
-sir (n)²,> siri (n)(g)(x)²
-sir (n)²,land
-sir (n)²,mountain
-sir (n)³,weather
-sir (pc),[ongoing action indicator]
-siran (adv),time passes
 siran (adv),> sir-an (adv)
-siran (adv),whiles
 siran (adv),space
+siran (adv),time passes
+siran (adv),whiles
 sirap (n),eagle's wing
 sirap (n),wing: eagle's ~
-sirar-ewak-paskur (n),crow type
-sirar (adj),thick
 sirar (adj),stiff
-sirar (n)¹,shore: sea ~
-sirar (n)¹,beach
-sirar (n)¹,sea shore
-sirar (n)¹,shore
-sirar (n)²,rock
-sirar (n)²,curd
+sirar (adj),thick
 sirar (n)²,boulder
+sirar (n)²,curd
+sirar (n)²,rock
 sirar (n)²,soup: thick ~
 sirar (n)²,stone: very large ~
 sirar (n)³,tide
+sirar (n)¹,beach
+sirar (n)¹,sea shore
+sirar (n)¹,shore
+sirar (n)¹,shore: sea ~
+sirar-ewak-paskur (n),crow type
 sirat-cimakani (n),sculpin: stone ~
 siraw (n),fly: gad~
-siri (n)(g)(x)¹,state
+siri (n)(g)(x)²,> sir (n)²
+siri (n)(g)(x)²,earth [land]
+siri (n)(g)(x)²,island
+siri (n)(g)(x)²,land
+siri (n)(g)(x)²,mountain
 siri (n)(g)(x)¹,> sir (n)¹
 siri (n)(g)(x)¹,appearance
 siri (n)(g)(x)¹,aspect
-siri (n)(g)(x)²,earth [land]
-siri (n)(g)(x)²,> sir (n)²
-siri (n)(g)(x)²,mountain
-siri (n)(g)(x)²,land
-siri (n)(g)(x)²,island
+siri (n)(g)(x)¹,state
 sirkunne (adj),dark
 sirkunne (adj),darken
-sironuman (adv),evening
 sironuman (adv),> sir-onuman (adv)
+sironuman (adv),evening
 sironuman (adv),twilight: during ~
-sirpeker (n),daylight
 sirpeker (n),dawn
+sirpeker (n),daylight
+sirsiru (vt),brush
 sirsiru (vt),scower
 sirsiru (vt),scrub
-sirsiru (vt),brush
 sirsirup (n),brush
 sisam (n),Ainu: assimilated ~
-sisam (n),foreigner
 sisam (n),Japanese
+sisam (n),foreigner
 sisam (n),non-Ainu
 sisoya (n),hornet
+sisuye (vi),quake
 sisuye (vi),shake
 sisuye (vi),wave
-sisuye (vi),quake
 sita (n),> ceta (n)
 sita (n),> reep (n)
 sita (n),> seta (n)
 sita (n),> sta (n)
 sita (n),dog
-so (n)¹,cascade
-so (n)¹,waterfall
+so (n)ª,loss
 so (n)²,debt
 so (n)³,floor (of a house)
-so (n)ª,loss
+so (n)¹,cascade
+so (n)¹,waterfall
 so (n)º,rock: bare ~
-sokarpe (n),mat
 sokarpe (n),carpet
+sokarpe (n),mat
 sokkar (n),> aputki (n)
 sokkar (n),> toma (n)²
 sokkar (n),> yattuy (n)²
 sokkar (n),mat: floor ~
 sokkar (vi),lay (as snow)
-son-ampe (n),truth
 son (adj),true
+son-ampe (n),truth
+sone (adv),truly
 sone (adv),truly: it is ~ so
 sone (adv),truth: in ~
-sone (adv),truly
-sonno-an (adj),true
+sonno (adv),accurately
+sonno (adv),actually
 sonno (adv),really
 sonno (adv),truly
 sonno (adv),very much
-sonno (adv),actually
-sonno (adv),accurately
-soy-un (adv),outer
-soy-un (adv),exterior
-soy-un (adv),outside
+sonno-an (adj),true
 soy (n),outside
+soy-un (adv),exterior
+soy-un (adv),outer
+soy-un (adv),outside
 soyke (adv),outside
 soyke (adv),without
 soyketa (adv),outside
@@ -3904,244 +3899,246 @@ sta (n),> reep (n)
 sta (n),> seta (n)
 sta (n),> sita (n)
 sta (n),dog
+su (n),pan: sauce ~
+su (n),pot: porridge ~
+su (n),pot: stew ~
+su-at (n),< su (n) + at (n)
 su-at (n),handle: pan ~
 su-at (n),handle: pot ~
-su-at (n),pot handle
 su-at (n),pan handle
-su-at (n),< su (n) + at (n)
-su (n),pot: stew ~
-su (n),pot: porridge ~
-su (n),pan: sauce ~
-sû (n),pot: stew ~
-sû (n),pot: porridge ~
-sû (n),pot
-sû (n),pan: sauce ~
-sû (n),pan
-sukus (n),weather
+su-at (n),pot handle
 sukus (n),sunshine
-suma (n),stone
+sukus (n),weather
 suma (n),rock
+suma (n),stone
 sumari (n),flatterer
 sumari (n),fox
-suop (n),box
 suop (n),> suyop (n)
+suop (n),box
+susam (adj),> susan (adj)
 susam (adj),cheap
 susam (adj),common
-susam (adj),> susan (adj)
+susam (n),mesopus olidus
 susam (n),smelt: surf ~
 susam (n),surf smelt
-susam (n),mesopus olidus
 susan (adj),> susam (adj)
 susan (adj),cheap
 susan (adj),common
+suy (adv),again
 suy (adv),more
 suy (adv),yet again
-suy (adv),again
-suy (n),hole
 suy (n),aperture
-suyop (n),box
+suy (n),hole
 suyop (n),> suop (n)
+suyop (n),box
+sû (n),pan
+sû (n),pan: sauce ~
+sû (n),pot
+sû (n),pot: porridge ~
+sû (n),pot: stew ~
 t + i,> c + i
-taka (n),hawk
 taka (n),> (Ja) taka: hawk
+taka (n),hawk
 takne (adj),> tatne (adj)
 takne (adj),curt
 takne (adj),short
-taku (n),mass
 taku (n),ball
+taku (n),mass
 takupi (n),shoulder
 tam (n),sword
 tam (pr),> tan (pr)
 tam (pr),this [demonstrative]
+tama (n),< (Ja) tama: ball
 tama (n),ball
 tama (n),bead
-tama (n),< (Ja) tama: ball
-tama saye (vt),string beads
 tama saye (vt),bead: string ~s
+tama saye (vt),string beads
 tamane (n),ball
 tamane (vi),ball up
 tampa (adv),< tan (pr) + pa (n)¹
 tampa (adv),this year
-tampako-op (n),pouch: tobacco ~
-tampako-op (n),tobacco pouch
-tampako-op (n),box: tobacco ~
-tampako-op (n),tobacco box
-tampako (n),tobacco
 tampako (n),< (Ja) tabako: tobacco
+tampako (n),tobacco
 tampako ku (vt),smoke (tobacco)
+tampako-op (n),box: tobacco ~
+tampako-op (n),pouch: tobacco ~
+tampako-op (n),tobacco box
+tampako-op (n),tobacco pouch
 tampar-ceppo (n),perch [fish]
 tamu (n),flea: sand ~
-tan (pr),this [demonstrative]
 tan (pr),> tam (pr)
+tan (pr),this [demonstrative]
 tane (adv),now
+tane (n),< (Ja) tane: seed
 tane (n),> piye (n)
 tane (n),seed
-tane (n),< (Ja) tane: seed
-tane pakno (adv),until now
 tane pakno (adv),now: until ~
+tane pakno (adv),until now
 tane wano (adv),from now (on)
 tane wano (adv),henceforth
 tane wano (adv),now: from ~ (on)
+tanepo (adv),now
 tanepo (adv),now for the first time
 tanepo (adv),now: just ~
-tanepo (adv),now
 tanne (adj),long
 tannu (n),> okom (n)
 tannu (n),> rokom (n)¹
 tannu (n),dolphin
-tanpa (adv),this year
 tanpa (adv),< tan (pr) + pa (n)¹
+tanpa (adv),this year
 tante (adv),today
 tanto (adv),< tan (pr) + to (n)²
 tanto (adv),present
 tanto (adv),today
-tap-ampe (n),this thing
+tap (n),cone
 tap (n),hill: single ~ with round top
 tap (n),top: single hill with round ~
-tap (n),cone
 tap (pr),now
+tap (pr),now: just ~
+tap (pr),so
 tap (pr),this
 tap (pr),this moment
 tap (pr),thus
-tap (pr),so
-tap (pr),now: just ~
-tapan-ta (adv),this place
-tapan-ta (adv),here
-tapan (adv),so: thus ~
+tap-ampe (n),this thing
+tapan (adv),kind
 tapan (adv),so
+tapan (adv),so: be ~
+tapan (adv),so: thus ~
+tapan (adv),such
 tapan (adv),this kind
 tapan (adv),thus
 tapan (adv),thus so
-tapan (adv),such
-tapan (adv),so: be ~
-tapan (adv),kind
-tapka (n),top: mountain ~
+tapan-ta (adv),here
+tapan-ta (adv),this place
 tapka (n),mountain top
-tasi (n)¹,knife
+tapka (n),top: mountain ~
 tasi (n)²,reason
-tasi (vi),is
+tasi (n)¹,knife
 tasi (vi),be
-tasum (n),sickness
+tasi (vi),is
 tasum (n),illness
+tasum (n),sickness
 tasumki (vi),ill: be ~
 tasumki (vi),sick: be ~
-tasuy (n),wind storm
 tasuy (n),storm: wind ~
-tat-ni (n),birch
-tat (n),birch bark
+tasuy (n),wind storm
 tat (n),bark: birch ~
-tata-otta (adv),upon this
-tata-otta (adv),then
-tata-otta (adv),afterwards
-tata-otta (adv),before that
+tat (n),birch bark
+tat-ni (n),birch
 tata (adj),this
 tata (vt),chop
 tata (vt),hack
-tatne (adj),short
-tatne (adj),curt
+tata-otta (adv),afterwards
+tata-otta (adv),before that
+tata-otta (adv),then
+tata-otta (adv),upon this
 tatne (adj),> takne (adj)
-tay (vi)(ain-NN),die
+tatne (adj),curt
+tatne (adj),short
 tay (vi)(ain-NN),> ray (vi)²
+tay (vi)(ain-NN),die
 te-oro (adv),henceforth
-teeta (adv),previously
 teeta (adv),ancient times
 teeta (adv),before
+teeta (adv),previously
+tek (n),> teke (n)(g)(x)
 tek (n),> tekehe (n)(g)(x)
 tek (n),arm
 tek (n),branch
 tek (n),claw
 tek (n),paw
-tek (n),> teke (n)(g)(x)
+teke (n)(g)(x),> tek (n)
 teke (n)(g)(x),> tekehe (n)(g)(x)
 teke (n)(g)(x),arm
-teke (n)(g)(x),> tek (n)
+teke (n)(g)(x),branch
 teke (n)(g)(x),claw
 teke (n)(g)(x),hand
 teke (n)(g)(x),paw
-teke (n)(g)(x),branch
+tekehe (n)(g)(x),> tek (n)
+tekehe (n)(g)(x),> teke (n)(g)(x)
 tekehe (n)(g)(x),arm
 tekehe (n)(g)(x),branch
 tekehe (n)(g)(x),claw
 tekehe (n)(g)(x),hand
 tekehe (n)(g)(x),paw
-tekehe (n)(g)(x),> teke (n)(g)(x)
-tekehe (n)(g)(x),> tek (n)
-tem (n)¹,arm
-tem (n)²,mile
 tem (n)²,fathom
+tem (n)²,mile
+tem (n)¹,arm
 temi (n),loop
 tepa (n),loin cloth
-teppo (n),gun
 teppo (n),< (Ja) teppô: hand gun
+teppo (n),gun
 terke (vi),jump
 terke (vi),pounce
 teta (adv),here
-teyhur (n),kidney: fish ~
 teyhur (n),fish kidney
+teyhur (n),kidney: fish ~
+teyke (vi),cave in
 teyke (vi),collapse
 teyke (vi),fall
-teyke (vi),cave in
 teyne (adj),damp
 teyne (adj),wet
-to (n)¹,nipple
-to (n)¹,breast
-to (n)²,day
 to (n)²,> toho (n)
+to (n)²,day
+to (n)³,lake
 to (n)³,pond
 to (n)³,puddle
-to (n)³,lake
+to (n)¹,breast
+to (n)¹,nipple
 toan (pn),he
 toan (pn),him
 toan (pn),that (demonstrative)
-toho (n),day
 toho (n),> to (n)²
-tokes (adv),sunset
+toho (n),day
 tokes (adv),evening
+tokes (adv),sunset
 tokkari (n),> tukar (n)
 tokkari (n),> tukkar (n)
 tokkari (n),> tukoro (n)
 tokkari (n),seal [animal]
-tom (adj),sparkling
 tom (adj),bright
-tom (n)¹,colour
+tom (adj),sparkling
 tom (n)²,flower
+tom (n)¹,colour
+tom (vi),shine
 tom (vi),sparkle
 tom (vi),twinkle
-tom (vi),shine
 tom tom (vi),flashing
 tom tom (vi),glitter
 tom tom (vi),glowing
 tom tom (vi),sparkling
 tom tom (vi),twinkling
-toma (n)¹,corydalis ambigua
+toma (n)²,> aputki (n)
 toma (n)²,> sokkar (n)
 toma (n)²,> yattuy (n)²
 toma (n)²,mat to roll-up the dead
-toma (n)²,> aputki (n)
+toma (n)¹,corydalis ambigua
 tonin (n),> toymok (n)
 tonin (n),earthworm
 tonin (n),worm: earth~
+tono (n),chief
 tono (n),government
 tono (n),officer: governmental ~
 tono (n),official
 tono (n),sir
-tono (n),chief
 tonoto (n),alcoholic drink
 tonoto (n),beer: rice ~
 tonoto (n),wine
-tonoto konka (n),wine vat
 tonoto konka (n),vat: wine ~
+tonoto konka (n),wine vat
 tonoto maw (n),alcohol
 tonto (n),leather
-top (n)¹,bamboo
 top (n)²,flute
+top (n)¹,bamboo
 tope (n),milk: cow's ~
+totto (n),> hapo (n)
 totto (n),> unu (n)
 totto (n),mother
-totto (n),> hapo (n)
+toy (adj),> wen (adj)
 toy (adj),bad
 toy (adj),very
-toy (adj),> wen (adj)
+toy (n)²,> tusir (n)
+toy (n)²,grave
 toy (n)¹,> toytoy
 toy (n)¹,clay
 toy (n)¹,dirt
@@ -4150,135 +4147,133 @@ toy (n)¹,garden
 toy (n)¹,land
 toy (n)¹,mud
 toy (n)¹,soil
-toy (n)²,grave
-toy (n)²,> tusir (n)
+toymok (n),> tonin (n)
 toymok (n),earthworm
 toymok (n),worm: earth~
-toymok (n),> tonin (n)
 toytoy (n),> toy (n)¹
 toytoy (n),earth
 toytoy (n),ground
 toytoy (n),soil
+tu (adj),two
+tu (n),fancy needlework line
+tu (n),line
+tu (n),line: fancy needlework ~
+tu (n),needlework: broad ~ line
+tu (pc),[frequency]
+tu (pc),[severity]
+tu (pc),[sincerity]
+tu (sf),[plural]
 tu-otne (adj),forty
 tu-ray (adj),twice
-tu (adj),two
-tu (n),needlework: broad ~ line
-tu (n),line: fancy needlework ~
-tu (n),line
-tu (n),fancy needlework line
-tu (pc),[sincerity]
-tu (pc),[severity]
-tu (pc),[frequency]
-tu (sf),[plural]
 tuci (n),< (Ja) tuchi: mall
-tuci (n),mallet
 tuci (n),hammer
+tuci (n),mallet
 tukan (vt),shoot at
-tukap (n)¹,apparition
-tukap (n)¹,ghost
 tukap (n)²,fish hook
 tukap (n)²,hook: fish ~
-tukar (n),> tukoro (n)
-tukar (n),> tukkar (n)
+tukap (n)¹,apparition
+tukap (n)¹,ghost
 tukar (n),> tokkari (n)
+tukar (n),> tukkar (n)
+tukar (n),> tukoro (n)
 tukar (n),seal [animal]
-tuki-num (n),cup: lower-part of ~
 tuki (n),cup
 tuki (n),cup: wine ~
-tukkar (n),seal [animal]
+tuki-num (n),cup: lower-part of ~
 tukkar (n),> tokkari (n)
 tukkar (n),> tukar (n)
 tukkar (n),> tukoro (n)
+tukkar (n),seal [animal]
+tukoro (n),> tokkari (n)
+tukoro (n),> tukar (n)
 tukoro (n),> tukkar (n)
 tukoro (n),seal [animal]
-tukoro (n),> tukar (n)
-tukoro (n),> tokkari (n)
 tukunne (n),> cinene (n)
 tukunne (n),cramp: pins & needles ~ of legs & feet
+tum (n),> tumu (n)¹
+tum (n),stregth
 tum-no (adj),strong
 tum-no (adj),wild
 tum-o (adj),strong
-tum (n),> tumu (n)¹
-tum (n),stregth
 tumak (adj),broken
-tumak (n),pain in loins
 tumak (n),pain in back
+tumak (n),pain in loins
 tumak (n),pain in testicles
-tumam-kosaye (vi),gird up loins
-tumam-kosaye (vi),> tumama-kosaye (vi)
-tumam-noske (n),loin
 tumam (n),body
-tumam (n),trunk: tree ~
-tumam (n),waist
 tumam (n),stem: pipe ~
 tumam (n),torso
+tumam (n),trunk: tree ~
+tumam (n),waist
 tumam (n),wall: house ~
 tumam (vi),sit (as hen)
 tumam (vt),nurse
-tumama-kosaye (vi),gird up loins
-tumama-kosaye (vi),> tumam-kosaye (vi)
-tumama (n),waist
-tumama (n),wall: house ~
+tumam-kosaye (vi),> tumama-kosaye (vi)
+tumam-kosaye (vi),gird up loins
+tumam-noske (n),loin
+tumama (n),body
 tumama (n),stem: pipe ~
 tumama (n),torso
 tumama (n),trunk: tree ~
-tumama (n),body
+tumama (n),waist
+tumama (n),wall: house ~
+tumama-kosaye (vi),> tumam-kosaye (vi)
+tumama-kosaye (vi),gird up loins
 tumi (n),> rorumpe (n)
-tumi (n),war
-tumi (n),quarrel
-tumi (n),fight
 tumi (n),> ukoyki-ampe (n)
+tumi (n),fight
+tumi (n),quarrel
+tumi (n),war
 tumikoro (vt),war: engage in ~
 tumma (adv),amongst
 tumpa (n),sword guard
-tumpu-kar (vt),tidy a room
-tumpu (n),womb
-tumpu (n),room
 tumpu (n),apartment
 tumpu (n),cave division
 tumpu (n),placenta
+tumpu (n),room
+tumpu (n),womb
+tumpu-kar (vt),tidy a room
 tumsi (n),tassle
-tumu (adj),between whiles
-tumu (adj),apace
 tumu (adj),among
-tumu (n)¹,feeling: one's ~s
-tumu (n)¹,> tum (n)
-tumu (n)¹,strength
-tumu (n)¹,power
-tumu (n)²,top [spinner]
+tumu (adj),apace
+tumu (adj),between whiles
 tumu (n)²,reel
-tumuke-un (adv),among
+tumu (n)²,top [spinner]
+tumu (n)¹,> tum (n)
+tumu (n)¹,feeling: one's ~s
+tumu (n)¹,power
+tumu (n)¹,strength
 tumuke (n),among
+tumuke-un (adv),among
 tumuketa (adv),among
-tumunci-kamuy (n),evil spirit
-tumunci-kamuy (n),devil
 tumunci (n),devil
 tumunci (n),evil spirit
+tumunci-kamuy (n),devil
+tumunci-kamuy (n),evil spirit
 tumutot-un-same (n),alopecias vulpes
 tumutot-un-same (n),thresher shark
-tumutur (adj),middle
-tumutur (adj),centre
 tumutur (adj),> sirutur (adj)
-tun-nay (n),fairway
-tun-nay (n),channel
-tun (n),two people
+tumutur (adj),centre
+tumutur (adj),middle
 tun (n),people: two ~
-tunakay (n),reindeer
+tun (n),two people
+tun-nay (n),channel
+tun-nay (n),fairway
 tunakay (n),> (Ja) tonakai: reindeer
-tunas (adj),fast
+tunakay (n),reindeer
 tunas (adj),> tunasi (adj)
-tunas (adj),quick
 tunas (adj),abrupt
+tunas (adj),fast
+tunas (adj),quick
 tunas (adj)(ain-N),abrupt
 tunas (adj)(ain-N),fast
 tunas (adj)(ain-N),quick
-tunasi-no (adv),quickly
-tunasi-no (adv),fast
-tunasi-no (adv),abruptly
-tunasi (adj),quick
-tunasi (adj),fast
-tunasi (adj),abrupt
 tunasi (adj),> tunas (adj)
+tunasi (adj),abrupt
+tunasi (adj),fast
+tunasi (adj),quick
+tunasi-no (adv),abruptly
+tunasi-no (adv),fast
+tunasi-no (adv),quickly
 tunnay (n),bow-shot distance
 tunne (n),idleness
 tuntum (n),drum
@@ -4286,496 +4281,496 @@ tupe-sampe (adj),eight
 tupe-san (n),eight
 tupe-si (adj),eight
 tupeya (vt),cut
+tur (n),> turi (n)(g)(x)
+tur (n),> turihi (n)(g)(x)
 tur (n),dirt
 tur (n),filth
-tur (n),> turihi (n)(g)(x)
-tur (n),> turi (n)(g)(x)
+tur (vt),> nini (vt)
+tur (vt),> turi (vt)
 tur (vt),draw [pull]
 tur (vt),stretch (out)
-tur (vt),> turi (vt)
-tur (vt),> nini (vt)
+tura (n),row (of things)
+tura (pop),with
+tura (vt),accompany
+tura (vt),lead
+tura (vt),take as company
 tura-an (vi),accompany
 tura-an (vi),with: be ~
 tura-kur (n),guide
-tura (n),row (of things)
-tura (pop),with
-tura (vt),lead
-tura (vt),accompany
-tura (vt),take as company
-turasi (adv),while
 turasi (adv),during
-turasi (vt),up: go ~
-turasi (vt),climb
+turasi (adv),while
 turasi (vt),ascend
-turen (vi),inspired
+turasi (vt),climb
+turasi (vt),up: go ~
 turen (vi),bless
+turen (vi),inspired
+turi (n)(g)(x),> tur (n)
 turi (n)(g)(x),> turihi (n)(g)(x)
 turi (n)(g)(x),dirt
 turi (n)(g)(x),filth
-turi (n)(g)(x),> tur (n)
 turi (vt),> nini (vt)
 turi (vt),> tur (vt)
 turi (vt),draw [pull]
 turi (vt),stretch (out)
+turihi (n)(g)(x),> tur (n)
 turihi (n)(g)(x),> turi (n)(g)(x)
 turihi (n)(g)(x),dirt
 turihi (n)(g)(x),filth
-turihi (n)(g)(x),> tur (n)
 turs (n),small pox
 turse (adj),contagious
 turse (vi),drop down
 turse (vt),drop
 turse (vt),fall
 tursittok (n),turns in a path
+tus (adj),fast
 tus (adj),quick
 tus (adj),rapid
 tus (adj),swift
-tus (adj),fast
-tus (n)¹,rope
 tus (n)²,wife: fellow ~ of main wife
+tus (n)¹,rope
 tusir (n),> toy (n)²
 tusir (n),grave
-tusu (vi),prophecy
 tusu (vi),divination
-tusuninke (n),squirrel
+tusu (vi),prophecy
 tusuninke (n),sciurus lis
+tusuninke (n),squirrel
 tusununke (n),sciurus lis
 tusununke (n),squirrel
-tutut (n),cuculus intermedius
 tutut (n),cuckoo: Himalayan ~
-tuwayuk (n),lagenorhynchus acutus
+tutut (n),cuculus intermedius
 tuwayuk (n),dolphin type
-tuy-kikir (n),stomach worm
-tuy-kikir (n),worm: stomach ~
-tuy-kikir (n),ascaris
+tuwayuk (n),lagenorhynchus acutus
 tuy (adj),cut
 tuy (adj),torn
-tuy (n)¹,inside
 tuy (n)²,entrail
-tuy (n)²,stomach
-tuy (n)²,intestine
 tuy (n)²,guts
+tuy (n)²,intestine
+tuy (n)²,stomach
+tuy (n)¹,inside
 tuy (vi),cease
 tuy (vt)(s),cut
+tuy-kikir (n),ascaris
+tuy-kikir (n),stomach worm
+tuy-kikir (n),worm: stomach ~
 tuye (n),mother: one's ~
 tuye (vt),> tuy (vt)(s)
 tuye (vt),cut
 tuyehewa-cikannari (vt),turn upside down
 tuyepa (vt),cut
-tuyepap (n),cuttings
 tuyepap (n),cut: things ~
-tuyepuspuske-an (n),diarrhoea
-tuyepuspuske-an (n),> tasum
+tuyepap (n),cuttings
 tuyepuspuske-an (n),> soyokari
+tuyepuspuske-an (n),> tasum
+tuyepuspuske-an (n),diarrhoea
 tuyetek (adj),cut
 tuyetek (adj),pluck
 tuyetek (vt),cut
 tuyetek (vt),pluck
-tuyetuye (vt),winnow
-tuyetuye (vt),shake dust off
 tuyetuye (vt),shake
+tuyetuye (vt),shake dust off
+tuyetuye (vt),winnow
 tuyka (n),space
-tuyka (vt),strain
 tuyka (vt),drain
 tuyka (vt),draw off
+tuyka (vt),strain
 tuykantar (vi),flat on the back
+tuykata (adv),above this
+tuykata (adv),besides
+tuykata (adv),during
+tuykata (adv),in
 tuykata (adv),upon
 tuykata (adv),whilst
-tuykata (adv),besides
-tuykata (adv),above this
-tuykata (adv),in
-tuykata (adv),during
 tuyma (adv),afar
 tuyma (adv),distant
 tuyma (adv),far
 tuyo (n),family
-tuyokotpe (n),fish: entrails of ~
 tuyokotpe (n),fish guts
+tuyokotpe (n),fish: entrails of ~
 tuypa (vt)(p),cut
-tuytek (adj),torn
 tuytek (adj),cut off
+tuytek (adj),torn
 u + a,> u + w + a
 u + a,> u + y + a
-u + e,> u + y + e
 u + e,> u + w + e
-u + o,> u + y + o
+u + e,> u + y + e
 u + o,> u + w + o
+u + o,> u + y + o
+uci (n)(g)(x),> ucihi (n)(g)(x)
 uci (n)(g)(x),> ut (n)
 uci (n)(g)(x),rib
-uci (n)(g)(x),> ucihi (n)(g)(x)
 ucihi (n)(g)(x),> uci (n)(g)(x)
 ucihi (n)(g)(x),> ut (n)
 ucihi (n)(g)(x),rib
-uk (vt),acquire
 uk (vt),accept
-ukoyki-ampe (n),quarrel
+uk (vt),acquire
+ukoyki (vi),fight
+ukoyki (vi),quarrel
 ukoyki-ampe (n),> tumi (n)
 ukoyki-ampe (n),fight
+ukoyki-ampe (n),quarrel
 ukoyki-ampe (n),war
-ukoyki (vi),quarrel
-ukoyki (vi),fight
+ukran (adv),evening: last ~
 ukran (adv),last evening
 ukran (adv),last night
 ukran (adv),night: last ~
-ukran (adv),evening: last ~
 umma (n),< (Ja) uma: horse
 umma (n),horse
 una (n),ash
+unarpe (n),> unarpe (n)
 unarpe (n),aunt
 unarpe (n),middle-aged woman
 unarpe (n),woman: middle-aged ~
-unarpe (n),> unarpe (n)
-unci-kamuy (n),fire: female diety of ~
-unci-kamuy (n),> onne-huci (n)
-unci-kamuy (n),> kamuy-huci (n)
+unci (n),> ape (n)
+unci (n),> huci (n)¹
+unci (n),fire
 unci-kamuy (n),> ape-huci (n)
 unci-kamuy (n),> ape-huci-kamuy (n)
 unci-kamuy (n),> ape-kamuy (n)
 unci-kamuy (n),> iresu-huci (n)
 unci-kamuy (n),> iresu-kamuy (n)
+unci-kamuy (n),> kamuy-huci (n)
+unci-kamuy (n),> onne-huci (n)
+unci-kamuy (n),fire: female diety of ~
 unci-omap (n),fireplace
-unci (n),> ape (n)
-unci (n),> huci (n)¹
-unci (n),fire
 une (vi),equal
 unew (n),> onnep (n)
 unew (n),fur seal
 unew (n),otaria ursina
 unew (n),seal: fur ~
-uni (n),home
 uni (n),> unihi (n)(g)(x)
+uni (n),home
 unihi (n)(g)(x),> uni (n)
 unihi (n)(g)(x),home
+unu (n),> hapo (n)
 unu (n),> totto (n)
 unu (n),mother
-unu (n),> hapo (n)
 unukar (vt),meet
 unukar (vt),meet: hold a ~ing
 unukar (vt),see each other
 unukaran (vi),see each other
-unuye (vt),tattoo
 unuye (vt),> sinuye (vt)
+unuye (vt),tattoo
 unuypa (vt),tattoo
 upas (n),snow
-urp (n),salmon: red ~
 urp (n),blueback
+urp (n),salmon: red ~
 uru (n),> kap (n)
 uru (n),> kapu (n)(g)(x)
 uru (n),> kapuhu (n)(g)(x)
 uru (n),skin
-usor (n),lagoon
 usor (n),gulf
+usor (n),lagoon
 ut (n),> uci (n)(g)(x)
 ut (n),> ucihi (n)(g)(x)
 ut (n),rib
-uta (n),mortar
 uta (n),> yuta (n)
+uta (n),mortar
 uwe-no (adv),equally
-uwekari (vi)(s),accumulate
-uwekari (vi)(s),congregate
 uwekari (vi)(s),> uwekarpa (vi)(p)
 uwekari (vi)(s),accrue
+uwekari (vi)(s),accumulate
+uwekari (vi)(s),congregate
+uwekarpa (vi)(p),> uwekari (vi)(s)
+uwekarpa (vi)(p),accrue
+uwekarpa (vi)(p),accumulate
+uwekarpa (vi)(p),collect
+uwekarpa (vi)(p),congregate
 uwekarpa-i (n),accumulation
 uwekarpa-i (n),collection
 uwekarpa-i (n),congregation
-uwekarpa (vi)(p),congregate
-uwekarpa (vi)(p),accumulate
-uwekarpa (vi)(p),accrue
-uwekarpa (vi)(p),> uwekari (vi)(s)
-uwekarpa (vi)(p),collect
 uwekarpare (vt),accumulate
 uwekarpare (vt),assemble
 uwekote (vt),tie together
 uweman (vt),visit
 uwen (vi),wail
 uwen (vi),weep together for the dead
-uwenewsar (n),tale: ancient ~s
-uwenewsar (n),story
 uwenewsar (n),ancient tales
+uwenewsar (n),story
+uwenewsar (n),tale: ancient ~s
 uwenewsar (vi),chat together
-uyna (n),ash [residue]
 uyna (n),ash
-wa-no (adv),from
-wa-no (adv),> wa (adv)
-wa (adj),ten
+uyna (n),ash [residue]
 wa (adj),> wan (adj)
-wa (adv),from
+wa (adj),ten
 wa (adv),> wano (adv)
 wa (adv),> we (pop)
-wa (n),rim
+wa (adv),from
 wa (n),brim
-wak (adv),duck cry
-wak (adv),cry: duck ~
+wa (n),rim
+wa-no (adv),> wa (adv)
+wa-no (adv),from
 wak (adv),[exclamation of surprise]
+wak (adv),cry: duck ~
+wak (adv),duck cry
 wak (n),division
 wakci (n),pincer: air of ~s
 wakina (n)(ain-N),moss
-wakka-ontar (n),water bucket
-wakka-ontar (n),bucket: water ~
 wakka (n),> aka (n)
 wakka (n),water [esp. clean/potable]
+wakka-ontar (n),bucket: water ~
+wakka-ontar (n),water bucket
 wampe (n),ten
 wan (adj),> wa (adj)
-wan (n),ten
-wan (n),rim: sea shore ~
 wan (n),rim of a vessel
 wan (n),rim of hills
+wan (n),rim: sea shore ~
+wan (n),ten
 wanpe (n),ten
+wante (vi),examine
 wante (vi),know
 wante (vi),look about
 wante (vi),understand
-wante (vi),examine
-wao (n),> wawo (n)
 wao (n),> waw-ow (n)
+wao (n),> wawo (n)
 wao (n),pigeon: green ~
 wappa (n),box: round ~
 was (n),surf
-wata (n),wool
 wata (n),cotton
+wata (n),wool
 wattes (n),straw
-waw-ow (n),pigeon: green ~
-waw-ow (n),> wawo (n)
 waw-ow (n),> wao (n)
-wawo (n),> waw-ow (n)
+waw-ow (n),> wawo (n)
+waw-ow (n),pigeon: green ~
 wawo (n),> wao (n)
+wawo (n),> waw-ow (n)
 wawo (n),pigeon: green ~
-waya (n),wisdom
 waya (n),ability
-we-kur (n),cannibal
-we (pop),from
+waya (n),wisdom
 we (pop),> wa (adv)
+we (pop),from
 we (vt),cannibalize
+we-kur (n),cannibal
 wekap (vi),salute
 wempa (adj),bad
 wempa (vi),diminish
-wempe-kur (n),evil person
-wempe-kur (n),bad person
-wempe-kur (n),person: bad ~
-wempe-kur (n),villain
-wempe-kur (n),person: evil ~
-wempe-puri (n),funeral ceremony
-wempe-puri (n),> wen ikay
-wempe-puri (n),> wen ipe
-wempe-sani (n),reproach term
-wempe-sani (n),demon
-wempe-sani (n),snake
 wempe (n),abaddon
 wempe (n),bad one
 wempe (n),bad thing
 wempe (n),devil
 wempe (n),villain
-wen-ampe (n),evil thing
-wen-ampe (n),badness
+wempe-kur (n),bad person
+wempe-kur (n),evil person
+wempe-kur (n),person: bad ~
+wempe-kur (n),person: evil ~
+wempe-kur (n),villain
+wempe-puri (n),> wen ikay
+wempe-puri (n),> wen ipe
+wempe-puri (n),funeral ceremony
+wempe-sani (n),demon
+wempe-sani (n),reproach term
+wempe-sani (n),snake
+wen (adj),> toy (adj)
+wen (adj),> wey (adj)
+wen (adj),abject
+wen (adj),abominable
+wen (adj),adverse
+wen (adj),bad
+wen (adj),cruel
+wen (adj),dear [sibling usage]
+wen (adj),evil
+wen (adj),poor
+wen (adj),unfortunate
+wen (vi),die
 wen-ampe (n),bad thing
+wen-ampe (n),badness
+wen-ampe (n),evil thing
 wen-ampe (n),evilness
-wen-hos (n),leggings for the dead
 wen-hos (n),dead: leggings for the ~
+wen-hos (n),leggings for the dead
+wen-i (n)²,rain: fine ~
 wen-i (n)¹,bad place
 wen-i (n)¹,badness
-wen-i (n)²,rain: fine ~
-wen-kamuy (n),evil diety
 wen-kamuy (n),diety: evil ~
+wen-kamuy (n),evil diety
 wen-kur (n),pauper
 wen-kur (n),person: poor ~
 wen-kur (n),poor person
 wen-no (adv),abjectly
-wen-no (adv),badly
 wen-no (adv),adversely
-wen (adj),poor
-wen (adj),evil
-wen (adj),dear [sibling usage]
-wen (adj),cruel
-wen (adj),bad
-wen (adj),adverse
-wen (adj),abominable
-wen (adj),abject
-wen (adj),> wey (adj)
-wen (adj),> toy (adj)
-wen (adj),unfortunate
-wen (vi),die
+wen-no (adv),badly
 wene (adj),watery
 wenkuriki (n),cloud: rain ~
 wenkuriki (n),rain cloud
-wenpe-kur (n),person: evil ~
-wenpe-kur (n),person: bad ~
-wenpe-kur (n),villain
+wenpe (n),abaddon
+wenpe (n),bad
+wenpe (n),evil
 wenpe-kur (n),bad person
 wenpe-kur (n),evil person
-wenpe (n),abaddon
-wenpe (n),evil
-wenpe (n),bad
+wenpe-kur (n),person: bad ~
+wenpe-kur (n),person: evil ~
+wenpe-kur (n),villain
 wente (vt),bad: render ~
 wente (vt),breakdown
 wente (vt),spoil
+wentek (vt),devastate
 wentek (vt),ravage
 wentek (vt),waste: lay ~
-wentek (vt),devastate
 wey (adj),> wen (adj)
 wey (adj),bad
 wey (adj),evil
 weyayram-nuyna (vi),bury
-wo (n)¹,howl
-wo (n)²,span
 wo (n)²,quarter
-wôkom (n),wakame [seaweed type]
-wose-kamuy (n),wolf
+wo (n)²,span
+wo (n)¹,howl
 wose (vi),howl
+wose-kamuy (n),wolf
 woya (adj),different
+wôkom (n),wakame [seaweed type]
+ya (n)²,net: fishing ~
+ya (n)¹,bank [shore]
+ya (n)¹,land [shore]
+ya (n)¹,shore
+ya (pop),or
+ya (pop),whether
+ya-oske (vi),< ya (n)² + oske (vi)
 ya-oske (vi),net
 ya-oske (vi),net: make ~
-ya-oske (vi),< ya (n)² + oske (vi)
-ya-peka (adv),by land
 ya-peka (adv),< ya (n)¹ + peka (adv)¹
+ya-peka (adv),by land
+ya-un (adv),inland
+ya-un (adv),interior
 ya-un-kur (n),Ainu
 ya-un-kur (n),domestic
 ya-un-kur (n),non-foreign
 ya-un-mosir (n),Ainu country
 ya-un-mosir (n),Ainu land
-ya-un (adv),interior
-ya-un (adv),inland
-ya (n)¹,shore
-ya (n)¹,bank [shore]
-ya (n)¹,land [shore]
-ya (n)²,net: fishing ~
-ya (pop),whether
-ya (pop),or
 ya. (pc)¹,[affirmative indicator of yes/no question]
 ya? (pc)²,[question indicator]
+yaerayke (adv)(pc),thank you
 yaerayke-an (vi),thankful: be ~
 yaerayke-ki (vt),thank
 yaerayke-ki (vt),thank: express ~s
-yaerayke (adv)(pc),thank you
 yaerayker (adv)(pc),thank you
 yak (!),dear me
 yak (pop),even if
 yak (pop),if
 yak (pop),if: even ~
 yak (pop),that
-yak (vi)(s),smash
+yak (vi)(s),> yakpa (vi)(p)
+yak (vi)(s),> yaku (vi)
 yak (vi)(s),break
 yak (vi)(s),burst
 yak (vi)(s),knock
-yak (vi)(s),> yakpa (vi)(p)
-yak (vi)(s),> yaku (vi)
+yak (vi)(s),smash
 yak (vi)(s),split
 yaki (n),cicada
-yakka (pop),even if
 yakka (pop),> akka (pop)
 yakka (pop),> yakkay (pop)
 yakka (pop),albeit
-yakka (pop),though
 yakka (pop),although
-yakka (pop),nevertheless
+yakka (pop),even if
 yakka (pop),if
-yakka (vt),burst
+yakka (pop),nevertheless
+yakka (pop),though
 yakka (vt),break
+yakka (vt),burst
+yakka (vt),knock
 yakka (vt),smash
 yakka (vt),split
-yakka (vt),knock
-yakkay (pop),though
-yakkay (pop),if
-yakkay (pop),even if
-yakkay (pop),albeit
-yakkay (pop),> yakka (pop)
 yakkay (pop),> akka (pop)
+yakkay (pop),> yakka (pop)
+yakkay (pop),albeit
 yakkay (pop),although
+yakkay (pop),even if
+yakkay (pop),if
 yakkay (pop),nevertheless
-yakpa (vi)(p),smash
-yakpa (vi)(p),split
-yakpa (vi)(p),burst
-yakpa (vi)(p),break
+yakkay (pop),though
 yakpa (vi)(p),> yak (vi)(s)
 yakpa (vi)(p),> yaku (vi)
+yakpa (vi)(p),break
+yakpa (vi)(p),burst
 yakpa (vi)(p),knock
-yaku (n),tribute
+yakpa (vi)(p),smash
+yakpa (vi)(p),split
 yaku (n),tax
+yaku (n),tribute
 yaku (vi),> yak (vi)(s)
 yaku (vi),> yakpa (vi)(p)
-yaku (vi),smash
-yaku (vi),split
-yaku (vi),knock
 yaku (vi),break
 yaku (vi),burst
-yakun (+),if: even ~
-yakun (+),if
+yaku (vi),knock
+yaku (vi),smash
+yaku (vi),split
 yakun (+),even if
+yakun (+),if
+yakun (+),if: even ~
 yakun (+),though
 yakun (+),when
-yam-saye (vt),thread chestnuts
+yam (adj),cold (to the touch)
+yam (n),chestnut
 yam-saye (vt),chestnut: thread ~s
+yam-saye (vt),thread chestnuts
 yam-wakka (n),> yammakka (n)
 yam-wakka (n),cold water
 yam-wakka (n),water: cold ~
-yam (adj),cold (to the touch)
-yam (n),chestnut
-yammakka (n),water: cold ~
-yammakka (n),cold water
-yammakka (n),> yam-wakka (n)
 yammakka (n),< yam-wakka (n)
-yan (vi)(s),go up
-yan (vi)(s),ascend
-yan (vi)(s),rise
+yammakka (n),> yam-wakka (n)
+yammakka (n),cold water
+yammakka (n),water: cold ~
 yan (vi)(s),> yap (vi)(p)
+yan (vi)(s),ascend
+yan (vi)(s),go up
+yan (vi)(s),rise
 yan. (pc)(p),[imperative]
 yan. (pc)(s),[imperative][rare]
-yanke (vt)(s),give to superior
 yanke (vt)(s),> yapte (vt)(p)
+yanke (vt)(s),give to superior
 yanke (vt)(s),haul up
-yanke (vt)(s),up: offer ~ to diety
-yanke (vt)(s),up: haul ~
-yanke (vt)(s),superior: give to ~
-yanke (vt)(s),up: pull ~
-yanke (vt)(s),pull up
 yanke (vt)(s),offer up to diety
+yanke (vt)(s),pull up
+yanke (vt)(s),superior: give to ~
+yanke (vt)(s),up: haul ~
+yanke (vt)(s),up: offer ~ to diety
+yanke (vt)(s),up: pull ~
 yap (vi)(p),> yan (vi)(s)
+yap (vi)(p),ascend
 yap (vi)(p),go up
 yap (vi)(p),rise
-yap (vi)(p),ascend
-yapte (vt)(p),up: haul ~
 yapte (vt)(p),> yanke (vt)(s)
-yapte (vt)(p),superior: give to ~
-yapte (vt)(p),pull up
 yapte (vt)(p),give to superior
-yapte (vt)(p),up: offer ~ to diety
 yapte (vt)(p),haul up
 yapte (vt)(p),offer up to diety
+yapte (vt)(p),pull up
+yapte (vt)(p),superior: give to ~
+yapte (vt)(p),up: haul ~
+yapte (vt)(p),up: offer ~ to diety
 yapte (vt)(p),up: pull ~
 yarat (vt),> honkor (vi)
 yarat (vt),conceive
-yarpe-ni (n),viburnum opulus
 yarpe-ni (n),snowball viburnum
+yarpe-ni (n),viburnum opulus
 yarpe-ni (n),viburnum: snowball ~
 yasa (vt)(s),> yaspa (vt)(p)
 yasa (vt)(s),tear [rip]
-yaspa (vt)(p),tear [rip]
 yaspa (vt)(p),> yasa (vt)(s)
+yaspa (vt)(p),tear [rip]
 yatep (n),> yattep (n)
 yatep (n),spider
 yator (n),> yatot (n)
 yator (n),> yatotta (n)
-yator (n),kite: black ~ [bird]
 yator (n),> yattuy (n)
+yator (n),kite: black ~ [bird]
+yatot (n),> yator (n)
 yatot (n),> yatotta (n)
 yatot (n),> yattuy (n)¹
-yatot (n),> yator (n)
 yatot (n),kite: black ~ [bird]
-yatotta (n),> yatot (n)
 yatotta (n),> yator (n)
+yatotta (n),> yatot (n)
 yatotta (n),> yattuy (n)¹
 yatotta (n),kite: black ~ [bird]
 yattep (n),< ya (n)² + atte (vt)² + p (sf)
-yattep (n),spider
 yattep (n),> yatep (n)
-yattuy (n)¹,> yatotta (n)
-yattuy (n)¹,> yatot (n)
-yattuy (n)¹,kite: black ~ [bird]
+yattep (n),spider
+yattuy (n)²,> aputki (n)
+yattuy (n)²,> sokkar (n)
 yattuy (n)²,> toma (n)²
 yattuy (n)²,mat: floor ~
-yattuy (n)²,> sokkar (n)
-yattuy (n)²,> aputki (n)
+yattuy (n)¹,> yatot (n)
+yattuy (n)¹,> yatotta (n)
+yattuy (n)¹,kite: black ~ [bird]
+yatu (n),> yatuy (n)
 yatu (n),gull: sea ~
 yatu (n),sea gull
-yatu (n),> yatuy (n)
 yatuy (n),> yatu (n)
 yatuy (n),gull: sea ~
 yatuy (n),sea gull
@@ -4789,6 +4784,11 @@ yawyawse (vi),moan
 yawyawse (vi),roar
 yawyawse (vi),sigh
 yawyawse (vi),snarl
+yay (!),hey!
+yay (!),ho!
+yay (pr)(pf),[reflexive]
+yay (pr)(pf),own-
+yay (pr)(pf),self-
 yay-amkire (vi),know
 yay-an (adj),independent
 yay-an (adj),self: of one's ~
@@ -4796,111 +4796,106 @@ yay-asin (vi),come out of one's self
 yay-asis (vt),avert
 yay-asis (vt),ward off
 yay-aterayke (vi),hang one's self
-yay-mire (vi),dress one's self
 yay-mire (vi),clothe: put on one's ~s
-yay (!),hey!
-yay (!),ho!
-yay (pr)(pf),own-
-yay (pr)(pf),self-
-yay (pr)(pf),[reflexive]
+yay-mire (vi),dress one's self
 yaya (n),wisdom
 yayasap (adj),unwise
 yayasis (adj),dirty
 yayasnu (adj),wise
+yayattasa (vt),give in return for ST recieved
+yayattasa (vt),punish
+yayattasa (vt),recompense
 yayattasa (vt),requite
 yayattasa (vt),revenge
-yayattasa (vt),give in return for ST recieved
-yayattasa (vt),recompense
-yayattasa (vt),punish
 yayattasap (n),recompense
-yayay-susu (n),salix stipularis
 yayay-susu (n),eared osier
 yayay-susu (n),osier: eared ~
+yayay-susu (n),salix stipularis
 yaycepekote (vi),die of hunger
 yaycinane (vi),urinate
 yaycinane (vi),water: make ~
-yayciste-kur (n),mourner
-yayciste (vt),mourn for the dead
 yayciste (vt),bewail the dead
-yayekatuwen (vi),sorrowful
+yayciste (vt),mourn for the dead
+yayciste-kur (n),mourner
 yayekatuwen (vi),ashamed
+yayekatuwen (vi),sorrowful
 yayemontasa (vt),vengeance: take ~ on
 yayepatarye (vi),restraint: exercise self-~
 yayepatarye (vi),self-restraint: exercise ~
 yayepkar-kur (n),glutton
-yayepupu (vi),calf: have aching ~es
 yayepupu (vi),ache: have ~ing calves
+yayepupu (vi),calf: have aching ~es
 yaykar (vt),assume
 yaykar (vt),imitate
-yaynu (vi),think
 yaynu (vi),consider
+yaynu (vi),think
 yaynumare (adj),astonishing
 yaynumare (vi),astonish: be ~ed
 yaynumare (vi),surprise: be ~d
 yaynup (n),thought
+yayoparsecuy (vi),cheer
 yayoparsecuy (vi),exult
 yayoparsecuy (vi),say hurrah
-yayoparsecuy (vi),cheer
 yayrap (n),ode
 yayrap (vi),accident: meet with an ~
 yayrat (vt),> honkor (vi)
 yayrat (vt),conceive
-yaysannyo (adj),prudent
 yaysannyo (adj),idea
-yaytunnap (vt),jealous: be ~ of another
+yaysannyo (adj),prudent
 yaytunnap (vt),envy
+yaytunnap (vt),jealous: be ~ of another
 yayunpa (vi),accident: meet with an ~
-ye-hi (vi),said: be ~
-ye-hi (vi),said
-ye (n)¹,oral agreement
-ye (n)¹,business
+ye (n)²,clay: white ~
 ye (n)²,fat
+ye (n)²,humour
+ye (n)²,matter
 ye (n)²,matter from boil
 ye (n)²,pumice: fine volcanic ~
 ye (n)²,pus
-ye (n)²,clay: white ~
-ye (n)²,matter
-ye (n)²,humour
+ye (n)¹,business
+ye (n)¹,oral agreement
+ye (vt),acknowledge
+ye (vt),adduce
+ye (vt),announce
 ye (vt),attest
 ye (vt),say
-ye (vt),adduce
-ye (vt),acknowledge
-ye (vt),announce
+ye-hi (vi),said
+ye-hi (vi),said: be ~
 yep (n),speech
 yep (n),spoken thing
-yepe (n),water: fatty ~
 yepe (n),water: discoloured ~
-yepi (n),spoken thing
+yepe (n),water: fatty ~
 yepi (n),speech
+yepi (n),spoken thing
 yokane (adv),after
 yokane (adv),behind
 yokane (adv),following
+yokkata (adv),> ewnkasi-no (adv)
 yokkata (adv),earnestly
 yokkata (adv),mostly
-yokkata (adv),> ewnkasi-no (adv)
 yoko (vi),wait
 yoko (vt),aim
 yoko (vt),target
 yokore (vt),set (as trap)
 yomi (vi),shrink
-yomikyomikte (vt),wrinkle
 yomikyomikte (vt),crumple up
+yomikyomikte (vt),wrinkle
 yomiyomik (adj),contracted
 yomiyomik (adj),crumpled
 yomiyomik (adj),wrinkled
+yomiyomik (vi),contract
 yomiyomik (vi),crumple
 yomiyomik (vi),wrinkle
-yomiyomik (vi),contract
+yomne (vt),cease
+yomne (vt),complete
+yomne (vt),warn
 yomne-ki (vt),cease
 yomne-ki (vt),warn
-yomne (vt),warn
-yomne (vt),complete
-yomne (vt),cease
-yomomke (vi),scald
 yomomke (vi),burn
+yomomke (vi),scald
 yompa (vi),shrink
-yoni (vi),shrink
 yoni (vi),contract
+yoni (vi),shrink
 yonkor (vt),aim
 yonkor (vt),crouch to catch
 yonkor (vt),go in quest
@@ -4917,53 +4912,55 @@ yonkoror (vt),look for
 yonkoror (vt),look straight at
 yonkoror (vt),sight at
 yonkoror (vt),watch for
-yontekkam (n),muscle of arm
 yontekkam (n),calf of leg
-yontekpe (n),muscle of arm
+yontekkam (n),muscle of arm
 yontekpe (n),calf of leg
+yontekpe (n),muscle of arm
 yop (adj),chief
 yop (adj),head
 yop (adj),parent
 yop (adj),principal
 yoppe (n),father: one's deceased ~
 yorkomne (vi) (vi),shrink up
-yorpuy (n),anus
 yorpuy (n),> otompuy (n)
-yoruki-puni (vt),stir up
+yorpuy (n),anus
 yoruki-puni (vt),raise up
+yoruki-puni (vt),stir up
+yorun (vt),> yorun-ki (vt)
+yorun (vt),beg
 yorun-ki-kur (n),beggar
 yorun-kur (n),beggar
-yorun (vt),beg
-yorun (vt),> yorun-ki (vt)
-yospe (n),large intestine
 yospe (n),intestine: large ~
-yot (vi),perplex
+yospe (n),large intestine
 yot (vi),dizzy
+yot (vi),perplex
 yottek (adj),exhausted
 yottek (adj),tired
 yoykir (vt),arrange
+ytek (vi),employ
 ytek (vi),send
 ytek (vi),use
-ytek (vi),employ
-yu-pe (n),water: sulphur ~
-yu-pe (n),water: cold mineral ~
 yu (n),mineral water
 yu (n),sulphur spring
-yuhpo (n),brother: elder ~
-yuhpo (n),> yuppo (n)
+yu-pe (n),water: cold mineral ~
+yu-pe (n),water: sulphur ~
 yuhpo (n),> yup (n)
-yuk-apir (n),track: deer ~
+yuhpo (n),> yuppo (n)
+yuhpo (n),brother: elder ~
+yuk (n),cervus sika
+yuk (n),deer
 yuk-apir (n),deer track
+yuk-apir (n),track: deer ~
 yuk-cikap (n),owl: screech ~
-yuk-emawri (n),rubus crataegifolius
 yuk-emawri (n),raspberry type
+yuk-emawri (n),rubus crataegifolius
 yuk-ermu (n),ermine
-yuk-haru (n),meat: deer ~
 yuk-haru (n),deer meat
+yuk-haru (n),meat: deer ~
 yuk-haru (n),venison
 yuk-kuttasa (n),filipendula kamtschatica
-yuk-kutu (n),ragwort: hempleaf ~
 yuk-kutu (n),hempleaf ragwort
+yuk-kutu (n),ragwort: hempleaf ~
 yuk-kutu (n),senecio cannabifolius
 yuk-nonno (n),rhamnus japonica
 yuk-punkar (n),hydrangea scandens
@@ -4971,32 +4968,30 @@ yuk-ranke-kamuy (n),< yuk (n) + ranke (vt) + kamuy (n)
 yuk-ranke-kamuy (n),spirit for unloading deer
 yuk-rayke-ni (n),picrasma ailanthoides
 yuk-topa-kina (n),pachysandra terminalis
-yuk-uru (n),deer-hide clothes
 yuk-uru (n),clothes: deer-hide ~
+yuk-uru (n),deer-hide clothes
 yuk-utur-otpe-an (vi),diminish
-yuk (n),cervus sika
-yuk (n),deer
-yukar (n),saga: traditional Ainu ~s
 yukar (n),legend
+yukar (n),saga: traditional Ainu ~s
 yukar (n),tradition
 yuki (n),brace: building ~
 yukkarus (n),polypus: edible ~ type
-yukke (adj),very
 yukke (adj),many
+yukke (adj),very
 yukki (n),mite [bug]
 yukki (n),tick [bug]
-yukoykire-kur (n),meddler
 yukoykire (vt),interfere
+yukoykire (vt),intermeddle
 yukoykire (vt),spread falsehood
 yukoykire (vt),strife: stir up ~
-yukoykire (vt),intermeddle
+yukoykire-kur (n),meddler
 yukram (n),> kinop (n)
 yukram (n),liver
+yup (n),> yuhpo (n)
+yup (n),> yupi (n)(g)(x)
+yup (n),> yupihi (n)(g)(x)
 yup (n),> yuppo (n)
 yup (n),brother: elder ~
-yup (n),> yupihi (n)(g)(x)
-yup (n),> yupi (n)(g)(x)
-yup (n),> yuhpo (n)
 yupe (n),asipencer nikadoi
 yupe (n),sturgeon
 yupi (n)(g)(x),> yup (n)
@@ -5004,63 +4999,68 @@ yupi (n)(g)(x),> yupi (n)(g)(x)
 yupi (n)(g)(x),> yupihi (n)(g)(x)
 yupi (n)(g)(x),brother: elder ~
 yupi (n)(g)(x),elder brother
+yupihi (n)(g)(x),> yup (n)
 yupihi (n)(g)(x),> yupi (n)(g)(x)
 yupihi (n)(g)(x),brother: elder ~
-yupihi (n)(g)(x),> yup (n)
-yupin-kampi (n),letter
-yupin-kampi (n),> yupin (n)
-yupin (n),> yupin kampi (n)
 yupin (n),< (Ja) yûbin: mail
+yupin (n),> yupin kampi (n)
 yupin (n),letter
-yupke-itak (n),word: harsh ~
-yupke-itak (n),strong words
-yupke-itak (n),strong language
+yupin-kampi (n),> yupin (n)
+yupin-kampi (n),letter
+yupke (adj),severe
+yupke (adj),strong
+yupke (adj),wild
 yupke-itak (n),< yupke (adj) + itak (n)
 yupke-itak (n),harsh word
 yupke-itak (n),harsh words
 yupke-itak (n),language: strong ~
+yupke-itak (n),strong language
+yupke-itak (n),strong words
+yupke-itak (n),word: harsh ~
 yupke-itak (n),word: strong ~
-yupke-no (adv),wildly
-yupke-no (adv),strongly
-yupke-no (adv),severely
 yupke-no (adv),earnestly
+yupke-no (adv),severely
+yupke-no (adv),strongly
+yupke-no (adv),wildly
+yupke-ruyampe (n),< yupke (adj) + ruyampe (n)
 yupke-ruyampe (n),rain: severe ~
 yupke-ruyampe (n),severe rain
-yupke-ruyampe (n),< yupke (adj) + ruyampe (n)
-yupke-sisuye (n),severe earthquake
-yupke-sisuye (n),quake: severe earth~
 yupke-sisuye (n),< yupke (adj) + sisuye (vi)
 yupke-sisuye (n),earthquake: severe ~
-yupke (adj),severe
-yupke (adj),strong
-yupke (adj),wild
+yupke-sisuye (n),quake: severe earth~
+yupke-sisuye (n),severe earthquake
 yupkep (n),death: accidental ~
 yupker (vt),strengthen
+yupkir (vt),> iyama (vt)
 yupkir (vt),broadcast
 yupkir (vt),sow
-yupkir (vt),> iyama (vt)
 yupo (n),brother: elder ~
 yuppa (vt),knead
 yuppo (n),< yup (n) + po (sf)(pc)
 yuppo (n),> yuhpo (n)
 yuppo (n),> yup (n)
 yuppo (n),brother: elder ~
-yuptek-i (n),assiguity
-yuptek-i (n),activity
-yuptek-no (adv),industriously
-yuptek-no (adv),actively
 yuptek (adj),active
 yuptek (adj),assiduous
 yuptek (adj),industrious
-yupu (vt),do with might
+yuptek-i (n),activity
+yuptek-i (n),assiguity
+yuptek-no (adv),actively
+yuptek-no (adv),industriously
 yupu (vt),do earnestly
+yupu (vt),do with might
+yusa (vi),> ikesu
 yusa (vi),go away in anger
 yusa (vi),go off in a huff
-yusa (vi),> ikesu
-yuta-ni (n),pestle  for pounding in motar
-yuta-ni (n),motar: pestle for pounding in ~
-yuta-ni (n),> uta-ni (n)
 yuta (n),> uta (n)
 yuta (n),mortar
+yuta-ni (n),> uta-ni (n)
+yuta-ni (n),motar: pestle for pounding in ~
+yuta-ni (n),pestle  for pounding in motar
 yutar (vt),message: send a verbal ~
 z,> s
+ª,4th of multiple entry
+²,2nd of multiple entry
+³,3rd of multiple entry
+¹,1st of multiple entry
+º,5th of multiple entry

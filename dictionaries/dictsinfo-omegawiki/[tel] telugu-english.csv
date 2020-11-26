@@ -1,15 +1,15 @@
 Other,English
 Chad,Chad
 Chad,Republic of Chad
+telugu,english
 అంచనా,estimate
 అక్టోబర్,October
-అత్త,mother-in-law
 అత్త,mother in law
+అత్త,mother-in-law
 అధికార వర్గం,bureaucracy
 అనాధ,orphan
 అప్పు,liability
 అమ్ము,sell
-విక్రయించు,sell
 అరచేయి,palm
 అల్యూమినియం,aluminium
 అస్సామీ భాష,Assamese
@@ -21,8 +21,8 @@ Chad,Republic of Chad
 ఆగమనము,arrival
 ఆగస్టు,August
 ఆడ గుర్రం,mare
-ఆలుగడ్డ,potato
 ఆలుగడ్డ,patato
+ఆలుగడ్డ,potato
 ఆశ్చర్యపరచు,surprise
 ఇండియా,India
 ఇండియా,Republic of India
@@ -39,12 +39,12 @@ Chad,Republic of Chad
 ఊబ,fat
 ఊబ,obese
 ఎల్లప్పుడు,anytime
-నిరంతరం,anytime
 ఏప్రిల్,April
 కంబోడియా,Cambodia
 కంబోడియా,Kingdom of Cambodia
 కజకిస్తాన్,Kazakhstan
 కజకిస్తాన్,Republic of Kazakhstan
+కడుపు,stomach
 కనుబొమ,eyebrow
 కన్నడ భాష,Kannada
 కన్నడ భాష,Kannada
@@ -58,10 +58,10 @@ Chad,Republic of Chad
 కాలేయం,liver
 కాల్షియమ్,calcium
 కిటికీ,window
-కిర్గిజ్‌స్తాన్,Kyrgyzstan
 కిర్గిజ్‌స్తాన్,Kyrgyz Republic
-కీలు,joint
+కిర్గిజ్‌స్తాన్,Kyrgyzstan
 కీలు,articulation
+కీలు,joint
 కుందేలు,rabbit
 కుర్చీ,chair
 కెనడా,Canada
@@ -77,11 +77,9 @@ Chad,Republic of Chad
 గొర్రె,sheep
 చందా,donation
 చందా,donation
-విరాళము,donation
 చక్రాలకుర్చీ,wheelchair
 చదువు,read
 చాటు,camouflage
-ముసుగు,camouflage
 చిరుతపులి,leopard
 చిలుక,parrot
 చీమ,ant
@@ -89,6 +87,7 @@ Chad,Republic of Chad
 చెట్టు,tree
 చెవిటి,deaf
 జనవరి,January
+జలము,water
 జింక,antelope
 జిరాఫీ,giraffe
 జీర్ణము,digestion
@@ -100,7 +99,6 @@ Chad,Republic of Chad
 డిసెంబరు,December
 తలము,plane
 తలుపు,door
-ద్వారము,door
 తాగు,drink
 తాగు,gulp
 తాగు,quaff
@@ -116,19 +114,20 @@ Chad,Republic of Chad
 త్రికోణమితి,trigonometry
 థాయిలాండ్,Thailand
 దక్షిణాఫ్రికా,South Africa
+దరిదాపు,almost
 దాడి,attack
 దాదాపు,almost
-దరిదాపు,almost
 దానిమ్మపండు,pomegranate
 దుమ్ములగొండి,hyena
 దుస్తులు,dress
-బట్టలు,dress
 దొంగిలించు,bag
 దొంగిలించు,pocket
 దొంగిలించు,steal
 ద్రవం,liquid
-ధరింపజేయు,dress
+ద్వారము,door
+ధనుస్సు,bow
 ధరింపజేయు,clothe
+ధరింపజేయు,dress
 ధృవపు ఎలుగుబంట,polar bear
 నక్షత్రం,star
 నత్రజని,nitrogen
@@ -136,39 +135,41 @@ Chad,Republic of Chad
 నవల,novel
 నామవాచకము,noun
 నామవాచకము,substantive
+నిఘంటువు,dictionary
 నిదానము,slow
+నిరంతరం,anytime
 నిర్వచనము,Definition
 నిర్వచనము,definition
 నీరు,water
-జలము,water
 నెల,month
 నేపాలీ భాష,Nepali
 నేపాలీ భాష,Nepali
 నేరము,crime
+నేర్పు,teach
 పట్టు,silk
 పద కోశము,dictionary
-నిఘంటువు,dictionary
 పదము,word
-పాకిస్తాన్,Pakistan
 పాకిస్తాన్,Islamic Republic of Pakistan
+పాకిస్తాన్,Pakistan
 పాదరసం,mercury
 పాలు,milk
-పావురం,pigeon
 పావురం,dove
+పావురం,pigeon
 పుట,page
-పేజీ,page
 పెన్సిలు,pencil
+పేజీ,page
 పొడి,dry
 ప్యాంటు,trousers
 ప్రజాస్వామ్యం,democracy
 బంగారం,gold
 బంగ్లాదేశ్,Bangladesh
 బంగ్లాదేశ్,People's Republic of Bangladesh
+బట్టలు,dress
 బర్మా,Myanmar
 బల్ల,table
 బాణం,arrow
-బాతు,goose
 బాతు,duck
+బాతు,goose
 బెంగాళీ భాష,Bengali
 బెంగాళీ భాష,Bengali
 బొటనవేలు,thumb
@@ -179,20 +180,20 @@ Chad,Republic of Chad
 బొడ్డు,omphalus
 బొడ్డు,umbilicus
 బోధించు,teach
-నేర్పు,teach
 బ్లాగు,blog
-బ్లాగు,weblog
 బ్లాగు,web log
+బ్లాగు,weblog
 భయం,phobia
-భాషాభాగము,part of speech
 భాషాభాగము,lexical category
+భాషాభాగము,part of speech
 భూకంపం,earthquake
 భ్రాంతి,hallucination
 మంత్రగత్తె,witch
-ముంబాయి,Mumbai
 ముంబాయి,Bombay
+ముంబాయి,Mumbai
 ముక్కు,nose
 ముడి చమురు,crude oil
+ముసుగు,camouflage
 మూత్రం,urine
 మూలకము,chemical element
 మూలకము,element
@@ -205,15 +206,16 @@ Chad,Republic of Chad
 రాగి,copper
 రాజధాని,capital
 రాణి,queen
-రాయబార కార్యాలయం,embassy
 రాయబార కార్యాలయం,diplomatic mission
+రాయబార కార్యాలయం,embassy
 వాల్‌రస్,walrus
 వికీపీడియా,Wikipedia
+విక్రయించు,sell
 విక్షనర,Wiktionary
+విరాళము,donation
 విలుకాడు,archer
 విలుకాడు,archer
 విల్లు,bow
-ధనుస్సు,bow
 విశేషణము,adjective
 విశేషణము,describing word
 విషయము,subject
@@ -233,15 +235,13 @@ Chad,Republic of Chad
 సబ్బు,soap
 సీసం,lead
 సులువైన,easy
-సులువైన,piece of cake
 సులువైన,like shooting fish in a barrel
+సులువైన,piece of cake
 సోడియమ్,sodium
 స్పెయిన,Spain
-హఠాత్తుగా,sudden
 హఠాత్తుగా,abrupt
 హఠాత్తుగా,precipitous
+హఠాత్తుగా,sudden
 హల్లు,consonant
 హైడ్రోజన్,hydrogen
 ొట్ట,stomach
-కడుపు,stomach
-telugu,english

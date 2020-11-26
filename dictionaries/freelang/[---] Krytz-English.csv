@@ -1,17 +1,14 @@
 Other,English
 '-,in filled series
 '-aj-,to put
-'ä-,to be
 'a-js-,roast grain
 'a=f-,to run away
 'a=ghul-,to swallow
-'ä=kur-,to put through
-'ä=ql-,to fall
 'a=x-,to run away
 'abi,string on a yoke
 'aca,shank
-'acäd,full
 'achi,empty
+'acäd,full
 'ag,roof orifice
 'ak,heavy
 'al,breath
@@ -20,30 +17,31 @@ Other,English
 'ich,skin of cattle
 'il,sea
 'u=x-,to come
+'ä-,to be
+'ä=kur-,to put through
+'ä=ql-,to fall
 'ül,eye
 'ül-,to eat
 'ül-cäm,eyebrow
 'ürä,in front
 'ürü-k,in front
+(obl. stem)+0,genitive
+(tense+)-ni,various past tenses
 -'an,transitive
 -'ar,translative
 -0,"nominative, imperative sing."
 -a,"genitive, essive"
--ä,"genitive, essive, future"
--äj,imper. plural
--änä,conditional
 -ar,plural
--är,plural
 -b,adjective substantivator plur.
 -bi,plural
 -d,adjective substantivator sing.
+-dy,genitive
 -dä-m,desiderative
 -dä-räj,desiderative
--dy,genitive
 -e,genitive
 -eni-m,conjunctive
--i,present
 -i,3d p. imperative
+-i,present
 -ib,plural
 -il-,obl. stem
 -im,plural
@@ -57,9 +55,9 @@ Other,English
 -r,elative
 -r,ergative
 -r-,4th sing. class marker
+-r-im,plural
+-r-im,plural
 -r-ä,future
--r-im,plural
--r-im,plural
 -ra,future
 -ri,"plural, present"
 -s,dative
@@ -71,35 +69,31 @@ Other,English
 -xäri,to come
 -yr-,obl. stem
 -zh,"past, adjective substantivator sing."
--zhänä,future definite
 -zhi,genitive
-(obl. stem)+0,genitive
-(tense+)-ni,various past tenses
+-zhänä,future definite
+-ä,"genitive, essive, future"
+-äj,imper. plural
+-änä,conditional
+-är,plural
+0,1st (masc.) class marker
+=i,to be
+=ik-,to want
+=it-,to tear
+=ix-,to walk
+=iz-,to plough
+=iš-,to weep
+=ud-,to shear
 =äc-,to know
 =äs-,to tremble
 =ät-,to beat
 =äxn-,to fight
 =äz-,to milk
-=i,to be
-=ik-,to want
-=iš-,to weep
-=it-,to tear
-=ix-,to walk
-=iz-,to plough
-=ud-,to shear
-0,1st (masc.) class marker
-ä-d,that
-ä-d,demonstrative pronoun
-ä-m,demonstrative pronoun
-ä=h-,to rub
-äs-qun-,to sit
-äxr-,to sleep
+G-ih-,take away
+G-ä=h-,take away
 b,2d-3d sing. class marker
 badow,near
 baga-škar,morning
-bäj,father
 balkän,horse
-bärqul,plantain
 beg,side
 bek,rib
 bel,forehead
@@ -110,23 +104,22 @@ bich,navel
 bik,barrel
 bu,big
 byq,faeces
+bäj,father
+bärqul,plantain
 c-,proximity series
-cä,fire
 cadi,liquid
-cäri,yellow
 ce',goat
 ch-oq-,to absorb
 chagh,rook
 chak,weasel
-chäq,eye secretion
 che',roasted grain
 cheb,wet
 chel,word
 chem,butter
 chep,span
 cher,hair
-cherä,cave
 cherte',mint
+cherä,cave
 chet,stuffed cookie
 chewxun,snow-storm
 chich,worm
@@ -140,6 +133,7 @@ choq-,to gnaw
 chuk-,to destroy
 chuk-nu,green
 chukul,knife
+chäq,eye secretion
 chülüt,sparrow
 cijä,new
 cili,branch
@@ -150,49 +144,49 @@ cuk,spark
 cyc,clitoris
 cydyl,grandchild
 cylcäng,grasshopper
+cä,fire
+cäri,yellow
 d-,not
-däj,mother
 dar,stem
-däxä,quick
 dix,son
+däj,mother
+däxä,quick
 eb,wolf
-fän,belly
 firi,man
 fit,whistle
 fu,bread
 fy-d,five
-G-ä=h-,take away
-G-ih-,take away
-gäbäch,hand-clapping
-gäch,cat
+fän,belly
 gan-gah,tower
-gänzh,haystack
 gar,snake
-gäš,hunger
-gäzhin,small earthenware jug
 ghaläd,good
 gugu,cuckoo
-gügül,small
 gul jerizh,to lose
 gunch,sheaf
 gunt,heap
 gurgum,round
 gwädä,short
 gyr,warm
+gäbäch,hand-clapping
+gäch,cat
+gänzh,haystack
+gäzhin,small earthenware jug
+gäš,hunger
+gügül,small
 ha-lyr,interrogative pronoun
 ha-r jerizh,to teach
-häch,"star, young goat"
 hani,ox
-häwi,udder
 huq,meadow
+häch,"star, young goat"
+häwi,udder
 hür-hä-,to defecate
 i=k-,to look
 i=kn-,to stay
 i=qr-,to take
 ibyr,ear
 iläng,iron
-iräzh,blood
 irq-,to see
+iräzh,blood
 ix-,to hear
 izh,oneself
 izhin,face
@@ -227,18 +221,6 @@ jyr,urine
 jyz,ant
 k-exn-,to hang
 k-uf-,to lock
-käbäl,small sheep-flock
-käc,hole
-käch,dung
-käch,horn
-käch,bitch
-käche,dung
-kädyr,big metal cauldron
-kälbäs-äng,humming-top
-känt,knife
-känzhel,stick for playing tip-cat
-käräp,bone
-käš,shepherd's staff
 kel,lamb less than 6 months old
 kelket,a small thing
 kemä,stack
@@ -253,16 +235,16 @@ kurch,puppy
 kusunt,egg
 kutar,small jar
 kwahär,young goat
-kwak,worm
 kwak,feather
+kwak,worm
 kwani,hip-bone
 kwar,wooden pole
-kwarä,young of domestic animals
 kwari,leg of animal
+kwarä,young of domestic animals
 kwat,ball
 kwatan,plough
-kwatin,kidney
 kwatin,cheek
+kwatin,kidney
 ky-tä-d,narrow
 kykäl,small stone
 kyl,arm
@@ -270,10 +252,18 @@ kyn,wedge
 kynä,wood
 kyrkyr,skein
 kysäzh,to bite
-läh,calf
-lähä,black
-lähä-lähkäm,liver
-läzi,white
+käbäl,small sheep-flock
+käc,hole
+käch,bitch
+käch,dung
+käch,horn
+käche,dung
+kädyr,big metal cauldron
+kälbäs-äng,humming-top
+känt,knife
+känzhel,stick for playing tip-cat
+käräp,bone
+käš,shepherd's staff
 le',skin
 lem,ass
 li,dem. pronoun
@@ -283,14 +273,14 @@ lurs,sorrel
 luzu,white
 lyf,pigeon
 lyp-,say
+läh,calf
+lähä,black
+lähä-lähkäm,liver
+läzi,white
 m-,a prohibitive particle
-mä',fat
-mäch,dirt on the neck
 magh,ploughshare
 magul,besom
-mäm,breast
 marxal,snow-drift
-mät,syrup
 max,tale
 maxar,breast
 mazä wujezh,to sell
@@ -317,37 +307,38 @@ myrs,mould
 mys,when
 mysra,yarn
 myx,barley
+mä',fat
+mäch,dirt on the neck
+mäm,breast
+mät,syrup
 nanaj,pupil of the eye
 ne',stench
 neq-ir,dream
 nik,cornfield
 nisi,cheese
 nissi,cheese
+nuräj,ashberry
 nögh xijizh,to rejoice
 nöq,earth
 nöx,straw
-nuräj,ashberry
-päzh,cabin
 pek,lip
 pex,scrotum
 pip,beech-tree
 pip,knee
 pul'-ar,ramson
-q-äjch-,to vomit
+päzh,cabin
 q el,salt
+q-äjch-,to vomit
 q:-,directive prefix
-q:-ä'-,to drive
 q:-agha,high
 q:-ax-,to pour
 q:-isn-,put on
 q:-ix-,put on clothes
 q:-u=zur-,to stand up
+q:-ä'-,to drive
 q:a-d,twenty
-q:ä=ch-,to come out
-q:ä=n-,to take
 q:alqunizh,fly
 q:aw,bridge
-q:äx,dried carcass
 q:il,leg
 q:ov,sheath
 q:ub,frog
@@ -357,138 +348,121 @@ q:uzhukan,pillow
 q:wat-yzh,pestle
 q:watlizh,stand
 q:yr-,to drink
+q:ä=ch-,to come out
+q:ä=n-,to take
+q:äx,dried carcass
+qIynghIyr,hedgehog
 qach,grass
-qäch,stem
-qäch,point
-qäcin,naked
-qäj-,kill
 qal,mouse
-qän,bottom
-qäsu,scythe
-qät,remnant
-qätyl,lace
 qech,earthenware jug
 qew,one of several wives
 qiqer,harness
 qiriq,swamp
 qiriš,river-bed
-qIynghIyr,hedgehog
-qöw,a plant with edible leaves
-qöw,one of several wives
 qu-su,cradle
 qul,small plank
 qunä,shoulder
 qur-,to laugh
 qwad,two
 qyl,ear of corn
+qäch,point
+qäch,stem
+qäcin,naked
+qäj-,kill
+qän,bottom
+qäsu,scythe
+qät,remnant
+qätyl,lace
+qöw,a plant with edible leaves
+qöw,one of several wives
 qÿl,"thin, head"
-rähä-,to grind
-räk,door
 rak-ar,rake
-räq,ashes
-räs,staff
 rax-,to shave
 regh,spittle
 reh,shame
-riš,daughter
 rix,road
+riš,daughter
 rug,dust
 rugh-,to sew
 ruk,wood
 rycär-,to plane
 ryxy-d,six
+rähä-,to grind
+räk,door
+räq,ashes
+räs,staff
 s-,general verbal prefix
+s-agh-,get cold
+s-u=q-,to ripen
 s-ä'-,to throw
 s-ä=ch-,to rot
-s-agh-,get cold
 s-äh-,to swell
 s-äxn-,to forget
-s-u=q-,to ripen
+sakul,fox
+sar,bear
+sel,wild turkey
+sil,tooth
+silsil,rye
+siläd,small
+sini,back
+siv,mouth
+sum,straw
+suw,oat flour
+syl,top of boot
 sä'ä,dry
 sä-,imperative prefix
 säd,one
-sakul,fox
-šakwaj,young of a donkey
 säm,milch sheep
 sän,year
-sar,bear
-še-ri,to be
-sel,wild turkey
-šer-bäh,helminth
-šeš,last year
-ši,what
-ši-d,brother
-ši-dyr,sister
-šibi-d,three
-sil,tooth
-šil-,to spin
-siläd,small
-silsil,rye
-šimäq,whip
-šin-ghyl,road metal
-sini,back
-šišäl,sack
-šišl-,to spin
-siv,mouth
-sum,straw
-šuruk,young of birds
-šurut,scorpion
-šut,bed-bug
-suw,oat flour
-syl,top of boot
 t-ugh-,bring
-tä',colostrum cheese
-tä-b,right
-täb,cramp
-täk,fire-place
-täpän,tent
-tätäx,cap
 taxul,liver
 ti,who
 til,finger
 tit-,ache
 to=ql-,split
 tok,hole
-tu=šun-,to trample
 tu=xr-,to scratch
+tu=šun-,to trample
 tub,owl
 tul,plateau
 tum,seed
-tünüg,spindle's pivot
 tykyn,drop
 tyl,twig
 tyn,manger
 tyr,"name, spoon, twig"
 tyt,fly
+tä',colostrum cheese
+tä-b,right
+täb,cramp
+täk,fire-place
+täpän,tent
+tätäx,cap
+tünüg,spindle's pivot
 ug-azh,burn
 uk-ar,yoke
 uqwa-zh,thick of liquids
 ux-,to speak
 viragh,sun
 w,2d-3d sing. class marker
-w-ä=sn-,weigh
 w-of-,to sweep
 w-oq-,find
 w-u=sr-,to extinguish
 w-u=tl-,to stir
 w-ycini,give
+w-ä=sn-,weigh
 wa-rä,above
 wak,boar
 wašaq,hamster
 wašaq:,hamster
-wäz,month
 wi-n,you (pl)
 widar,rice
 wiqer,lamb
 wu-,give
 wyn,thou
-xäb,hand
-xäd,water
+wäz,month
 xal,roof
-xäl-xäzh,wing
 xar,wind
 xarxar,pea(s)
-xäx,liquid
 xeb,bag
 xel,"track, one of a pair, load"
 xi,thin rope
@@ -510,6 +484,10 @@ xyn,grass
 xynyb,woman
 xyr-,to weave
 xyty-l,scum
+xäb,hand
+xäd,water
+xäl-xäzh,wing
+xäx,liquid
 ykyjk?-,to hurt
 zarzar,buttercup
 zav,sky
@@ -523,8 +501,30 @@ zhin,we
 zhinzhira,cicada
 zhir-,to boil
 zhiri,beard
-zhühür,pear
 zhum,quince
+zhühür,pear
 zym-,to wash
 zyn,I
 zyr,urine
+ä-d,demonstrative pronoun
+ä-d,that
+ä-m,demonstrative pronoun
+ä=h-,to rub
+äs-qun-,to sit
+äxr-,to sleep
+šakwaj,young of a donkey
+še-ri,to be
+šer-bäh,helminth
+šeš,last year
+ši,what
+ši-d,brother
+ši-dyr,sister
+šibi-d,three
+šil-,to spin
+šimäq,whip
+šin-ghyl,road metal
+šišl-,to spin
+šišäl,sack
+šuruk,young of birds
+šurut,scorpion
+šut,bed-bug

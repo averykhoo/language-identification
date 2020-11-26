@@ -12,6 +12,8 @@ Other,English
 10 год,10
 100,100
 100 год,100
+100 год,100
+1000 год,1000
 1000 год,1000
 101 год,101
 105 год,105
@@ -23,6 +25,7 @@ Other,English
 115 год,115
 12,12
 12 год,12
+12 год,12
 12 октября,October 12
 12 февраля,February 12
 120 год,120
@@ -33,6 +36,7 @@ Other,English
 135 год,135
 14,14
 14 апреля,April 14
+14 год,14
 14 год,14
 14 июня,June 14
 14 февраля,February 14
@@ -47,30 +51,45 @@ Other,English
 155 год,155
 16,16
 16 год,16
+16 год,16
 160 год,160
 165 год,165
 17,17
+17 год,17
 17 год,17
 17 марта,March 17
 17 сентября,September 17
 170 год,170
 1728 год,1728
+1728 год,1728
 175 год,175
 1750-е,1750s
+1750-е,1750s
+1760-е,1760s
 1760-е,1760s
 1770-е,1770s
+1770-е,1770s
 1780-е,1780s
+1780-е,1780s
+1790-е,1790s
 1790-е,1790s
 18,18
 18 год,18
 180 год,180
 1820-е,1820s
+1820-е,1820s
 1830-е,1830s
+1830-е,1830s
+1840-е,1840s
 1840-е,1840s
 1850-е,1850s
 1860-е,1860s
+1860-е,1860s
+1870-е,1870s
 1870-е,1870s
 1880-е,1880s
+1880-е,1880s
+1890-е,1890s
 1890-е,1890s
 19,19
 19 год,19
@@ -78,13 +97,22 @@ Other,English
 19 января,January 19
 190 год,190
 1900-е,1900s
+1900-е,1900s
+1920-е,1920s
 1920-е,1920s
 1930-е,1930s
+1930-е,1930s
+1940-е,1940s
 1940-е,1940s
 1950-е,1950s
+1950-е,1950s
+1960-е,1960s
 1960-е,1960s
 1970-е,1970s
+1970-е,1970s
 1980-е,1980s
+1980-е,1980s
+1990-е,1990s
 1990-е,1990s
 2,2
 2 год,2
@@ -176,6 +204,7 @@ Other,English
 50,50
 50 год,50
 500 год,500
+500 год,500
 51 год,51
 52 год,52
 53 год,53
@@ -250,6 +279,7 @@ BASIC,BASIC
 Bash,Bash
 Bayer AG,Bayer
 Blender,Blender
+Bot,Bot
 C,C
 CD,CD
 CHAOS,CHAOS
@@ -281,6 +311,7 @@ GNOME,GNOME
 GNU,GNU
 GPS,Global Positioning System
 Google,Google
+Google,Google
 H,H
 HTML,HTML
 HTTP,Hypertext Transfer Protocol
@@ -298,6 +329,7 @@ LEGO,Lego
 LaTeX,LaTeX
 Laissez-faire,Laissez-faire
 Linux,Linux
+Linux,Linux
 Lynx,Lynx
 M,M
 MESSENGER,MESSENGER
@@ -305,6 +337,7 @@ MIDI,Musical Instrument Digital Interface
 MIME,MIME
 MS-DOS,MS-DOS
 Macintosh,Macintosh
+Main,Main
 Monterrey,Monterrey
 N,N
 NASDAQ,NASDAQ
@@ -341,6 +374,7 @@ Time,Time
 Toyota Motor Corporation,Toyota
 Tux,Tux
 U,U
+UNIX,Unix
 UNIX,Unix
 URL,Uniform Resource Locator
 V,V
@@ -381,6 +415,7 @@ russian,english
 Абу-Даби,Abu Dhabi
 Абуджа,Abuja
 Абхазия,Abkhazia
+Абхазия,Abkhazia
 Авангард,Avant-garde
 Аватара,Avatar
 Август,August
@@ -389,6 +424,7 @@ russian,english
 Авеста,Avesta
 Авиакомпания,Airline
 Авианосец,Aircraft carrier
+Авиация,Aviation
 Авиация,Aviation
 Авиньон,Avignon
 Авиценна,Avicenna
@@ -400,7 +436,9 @@ russian,english
 Австралазия,Australasia
 Австралийский доллар,Australian dollar
 Австралия,Australia
+Австралия,Australia
 Австралопитек,Australopithecus
+Австрия,Austria
 Австрия,Austria
 Австро-Венгрия,Austria-Hungary
 Автобиография,Autobiography
@@ -447,8 +485,10 @@ russian,english
 Азартная игра,Gambling
 Азбука Морзе,Morse code
 Азербайджан,Azerbaijan
+Азербайджан,Azerbaijan
 "Азимов, Айзек",Isaac Asimov
 Азимут,Azimuth
+Азия,Asia
 Азия,Asia
 Азовское море,Sea of Azov
 Азорские острова,Azores
@@ -460,7 +500,9 @@ russian,english
 Аистообразные,Ciconiiformes
 Айва,Quince
 Айдахо,Idaho
+Айдахо,Idaho
 Айкидо,Aikido
+Айова,Iowa
 Айова,Iowa
 Айсберг,Iceberg
 Акаба,Aqaba
@@ -490,10 +532,14 @@ russian,english
 Акулы,Shark
 Акупунктура,Acupuncture
 Акустика,Acoustics
+Акустика,Acoustics
 Акция,Share
+Алабама,Alabama
 Алабама,Alabama
 Аланин,Alanine
 Албания,Albania
+Албания,Albania
+Алгебра,Algebra
 Алгебра,Algebra
 Алгебраическое число,Algebraic number
 Алгол,ALGOL
@@ -505,6 +551,7 @@ russian,english
 Александр Македонский,Alexander the Great
 Александрия,Alexandria
 Алеутские острова,Aleutian Islands
+Алжир,Algeria
 Алжир,Algeria
 Алжир,Algiers
 Али ибн Абу Талиб,Ali
@@ -530,10 +577,12 @@ russian,english
 Алтарь,Altar
 Алфавит,Alphabet
 Алхимия,Alchemy
+Алхимия,Alchemy
 Аль Капоне,Al Capone
 Аль-Каида,Al-Qaeda
 Альбатросовые,Albatross
 Альбедо,Albedo
+Альберта,Alberta
 Альберта,Alberta
 Альбинизм,Albinism
 Альбит,Albite
@@ -543,8 +592,10 @@ russian,english
 Альдегиды,Aldehyde
 Альманах,Almanac
 Альпы,Alps
+Альпы,Alps
 Альт,Viola
 Альтаир,Altair
+Альтернативная медицина,Alternative medicine
 Альтруизм,Altruism
 Альфа,Alpha
 Альфа Центавра,Alpha Centauri
@@ -552,12 +603,14 @@ russian,english
 Альфред Великий,Alfred the Great
 Алюминий,Aluminium
 Аляска,Alaska
+Аляска,Alaska
 Амазонка,Amazon River
 Амариллисовые,Amaryllidaceae
 Аматэрасу,Amaterasu
 Амвросий Медиоланский,Ambrose
 Американские Виргинские острова,United States Virgin Islands
 Американский бизон,American Bison
+Американский футбол,American football
 Американский футбол,American football
 Американское Самоа,American Samoa
 Америций,Americium
@@ -575,6 +628,7 @@ russian,english
 Амперметр,Ammeter
 Амплитуда,Amplitude
 Амстердам,Amsterdam
+Амстердам,Amsterdam
 "Амундсен, Руаль",Roald Amundsen
 Амур,Amur
 Амфетамин,Amphetamine
@@ -589,6 +643,8 @@ russian,english
 Анальный секс,Anal sex
 Ананас настоящий,Pineapple
 Анархизм,Anarchism
+Анархизм,Anarchism
+Анатомия,Anatomy
 Анатомия,Anatomy
 Анахайм,Anaheim
 Ангара,Angara River
@@ -597,14 +653,19 @@ russian,english
 Английская революция,English Civil War
 Английский рожок,Cor anglais
 Английский язык,English language
+Английский язык,English language
 Англиканская церковь,Church of England
 Англичане,English people
 Англия,England
+Англия,England
+Англия,English people
+Ангола,Angola
 Ангола,Angola
 Андалусия,Andalusia
 Андаманское море,Andaman Sea
 "Андерсен, Ганс Христиан",Hans Christian Andersen
 "Андерсон, Карл Давид",Carl David Anderson
+Андорра,Andorra
 Андорра,Andorra
 Андрей Первозванный,Saint Andrew
 Андроид,Android
@@ -617,6 +678,7 @@ russian,english
 Анемометр,Anemometer
 Анестезия,Anesthesia
 Анилин,Aniline
+Аниме,Anime
 Аниме,Anime
 Анимизм,Animism
 Анис,Anise
@@ -631,6 +693,7 @@ russian,english
 Антананариву,Antananarivo
 Антарес,Antares
 Антарктида,Antarctica
+Антарктида,Antarctica
 Антверпен,Antwerp
 Антверпен,Antwerp
 Антенна,Antenna
@@ -643,12 +706,14 @@ russian,english
 Антиоксиданты,Antioxidant
 Антипапа,Antipope
 Антисемитизм,Antisemitism
+Антисемитизм,Antisemitism
 Антитело,Antibody
 Антиутопия,Dystopia
 Антихрист,Antichrist
 Антициклон,Anticyclone
 Антонимы,Antonym
 Антофагаста,Antofagasta
+Антропология,Anthropology
 Антропология,Anthropology
 Антропософия,Anthroposophy
 Анубис,Anubis
@@ -669,6 +734,7 @@ russian,english
 Апостол Пётр,Saint Peter
 Аппалачи,Appalachian Mountains
 Аппарат Гольджи,Golgi apparatus
+Аппаратное обеспечение,Computer hardware
 Аппендицит,Appendicitis
 Апрель,April
 Апсида,Apse
@@ -689,6 +755,7 @@ russian,english
 Арбалет,Crossbow
 Арбуз обыкновенный,Watermelon
 Аргентина,Argentina
+Аргентина,Argentina
 Аргон,Argon
 Аргос,Argos
 Арденнская операция,Battle of the Bulge
@@ -701,20 +768,24 @@ russian,english
 Ариадна,Ariadne
 Арианство,Arianism
 Аризона,Arizona
+Аризона,Arizona
 Арий,Arius
 Аристарх Самосский,Aristarchus of Samos
 Аристократия,Aristocracy
 Аристотель,Aristotle
 Аристофан,Aristophanes
 Арифметика,Arithmetic
+Арифметика,Arithmetic
 Арифметическая прогрессия,Arithmetic progression
 Ария,Aria
 Арка,Arch
 Аркадия,Arcadia
 Арканзас,Arkansas
+Арканзас,Arkansas
 Аркебуза,Arquebus
 Арктика,Arctic
 Арль,Arles
+Армения,Armenia
 Армения,Armenia
 Арминий,Arminius
 Армия,Army
@@ -729,9 +800,11 @@ russian,english
 Артериальная гипертензия,Hypertension
 Артерия,Artery
 Артиллерия,Artillery
+Артиллерия,Artillery
 Артишок,Globe artichoke
 Артрит,Arthritis
 "Артур, Честер",Chester A. Arthur
+Аруба,Aruba
 Аруба,Aruba
 Арфа,Harp
 Архангел Гавриил,Gabriel
@@ -740,6 +813,7 @@ russian,english
 Архангелы,Archangel
 Архей,Archean
 Археология,Archaeology
+Археология,Archaeology
 Археоптерикс,Archaeopteryx
 Архетип,Archetype
 Архив,Archive
@@ -747,6 +821,7 @@ russian,english
 Архимед,Archimedes
 Архипелаг,Archipelago
 Архитектор,Architect
+Архитектура,Architecture
 Архитектура,Architecture
 Архитектура компьютера,Computer architecture
 Архозавры,Archosaur
@@ -760,6 +835,7 @@ russian,english
 Аспартам,Aspartame
 Ассам,Assam
 Ассирия,Assyria
+Ассирия,Assyria
 Астана,Astana
 Астат,Astatine
 Астекские языки,Nahuatl
@@ -769,21 +845,27 @@ russian,english
 Астрахань,Astrakhan
 Астровые,Asteraceae
 Астрология,Astrology
+Астрология,Astrology
 Астролябия,Astrolabe
 Астрометрия,Astrometry
 Астрономическая единица,Astronomical unit
 Астрономия,Astronomy
+Астрономия,Astronomy
+Астрономия,Astronomy
+Астрофизика,Astrophysics
 Астрофизика,Astrophysics
 Асуан,Aswan
 Асфальт,Asphalt
 Атакама,Atacama Desert
+Атеизм,Atheism
 Атлант,Atlas
 Атланта,Atlanta
 Атлантида,Atlantis
 Атлантический океан,Atlantic Ocean
+Атлантический океан,Atlantic Ocean
+Атлас,Atlas
+Атлас,Atlas
 Атлас,Atlas Mountains
-Атлас,Atlas
-Атлас,Atlas
 Атмосфера,Atmosphere
 Атмосферное давление,Atmospheric pressure
 Атмосферные осадки,Precipitation
@@ -791,6 +873,7 @@ russian,english
 Атом,Atom
 Атомная единица массы,Atomic mass unit
 Атомная масса,Atomic mass
+Атомная физика,Atomic physics
 Атомные часы,Atomic clock
 Атон,Aten
 Атрей,Atreus
@@ -803,10 +886,12 @@ russian,english
 Афазия,Aphasia
 Афалина,Bottlenose Dolphin
 Афганистан,Afghanistan
+Афганистан,Afghanistan
 Афина,Athena
 Афины,Athens
 Афон,Mount Athos
 Афоризм,Aphorism
+Африка,Africa
 Африка,Africa
 Африка южнее Сахары,Sub-Saharan Africa
 Африкаанс,Afrikaans
@@ -829,6 +914,8 @@ russian,english
 Аятолла,Ayatollah
 Баал,Baal
 Бавария,Bavaria
+Бавария,Bavaria
+Багамы,Bahamas
 Багдад,Baghdad
 Бадди Холли,Buddy Holly
 Бадминтон,Badminton
@@ -845,6 +932,7 @@ russian,english
 Баклажан,Eggplant
 Баклановые,Cormorant
 Бактерии,Bacteria
+Бактерии,Bacteria
 Бактериофаги,Bacteriophage
 Бактриан,Bactrian Camel
 Баку,Baku
@@ -852,6 +940,7 @@ russian,english
 Балалайка,Balalaika
 Балатон,Lake Balaton
 Балеарские острова,Balearic Islands
+Балет,Ballet
 Балет,Ballet
 Бали,Bali
 Балканские войны,Balkan Wars
@@ -870,14 +959,17 @@ russian,english
 Банги,Bangui
 Бангкок,Bangkok
 Бангладеш,Bangladesh
+Бангладеш,Bangladesh
 Банжул,Banjul
 Банк,Bank
+Банки,Banks
 Банкнота,Banknote
 Банкомат,Automated teller machine
 Баптизм,Baptist
 Бар,Bar
 Барабан,Drum
 Бараны,Ovis
+Барбадос,Barbados
 Барбадос,Barbados
 "Бардин, Джон",John Bardeen
 Баренцево море,Barents Sea
@@ -892,9 +984,11 @@ russian,english
 Баррель,Barrel
 "Барри, Джеймс Мэтью",J. M. Barrie
 Барселона,Barcelona
+Барселона,Barcelona
 Барсук,Eurasian Badger
 "Барт, Карл",Karl Barth
 Бас-гитара,Bass guitar
+Баскетбол,Basketball
 Баскетбол,Basketball
 Басня,Fable
 Басра,Basra
@@ -910,6 +1004,7 @@ russian,english
 Баффинова Земля,Baffin Island
 "Бах, Иоганн Себастьян",Johann Sebastian Bach
 Бахрейн,Bahrain
+Бахрейн,Bahrain
 Башня,Tower
 Беверли-Хиллз,Beverly Hills
 "Бегин, Менахем",Menachem Begin
@@ -918,14 +1013,17 @@ russian,english
 Бедуины,Bedouin
 Беженцы,Refugee
 Беззубые киты,Baleen whale
+Безопасность,Security
 Безработица,Unemployment
 Бей,Bey
 Бейрут,Beirut
+Бейсбол,Baseball
 Бейсбол,Baseball
 Беккерель,Becquerel
 "Беккерель, Антуан Анри",Henri Becquerel
 "Беккет, Сэмюэл",Samuel Beckett
 Белград,Belgrade
+Белиз,Belize
 Белиз,Belize
 Беличьи,Sciuridae
 Белка,Squirrel
@@ -937,6 +1035,7 @@ russian,english
 "Беллоу, Сол",Saul Bellow
 Белое море,White Sea
 Белоруссия,Belarus
+Белоруссия,Belarus
 Белу-Оризонти,Belo Horizonte
 Белуха,Beluga
 Белфаст,Belfast
@@ -945,6 +1044,7 @@ russian,english
 Белый карлик,White dwarf
 Белый медведь,Polar bear
 Бельгия,Belgium
+Бельгия,Belgium
 Бенгази,Benghazi
 Бенгалия,Bengal
 Бенгальский залив,Bay of Bengal
@@ -952,6 +1052,7 @@ russian,english
 Бензилпенициллин,Penicillin
 Бензин,Gasoline
 Бенилюкс,Benelux
+Бенин,Benin
 Бенин,Benin
 "Бентам, Джереми",Jeremy Bentham
 Беовульф,Beowulf
@@ -971,7 +1072,9 @@ russian,english
 Беркут,Golden Eagle
 Беркшир,Berkshire
 Берлин,Berlin
+Берлин,Berlin
 "Берлиоз, Гектор",Hector Berlioz
+Бермудские острова,Bermuda
 Бермудский треугольник,Bermuda Triangle
 Бермуды,Bermuda
 Берн,Berne
@@ -997,6 +1100,7 @@ russian,english
 Библиотека,Library
 Библиотековедение,Library science
 Библия,Bible
+Библия,Bible
 Бибоп,Bebop
 Биг-Бен,Clock Tower
 Бигль,Beagle
@@ -1008,14 +1112,18 @@ russian,english
 Биологический вид,Species
 Биологическое оружие,Biological warfare
 Биология,Biology
+Биология,Biology
+Биология,Biology
 Биомасса,Biomass
 Биометрия,Biometrics
 Биопсия,Biopsy
 Биоразнообразие,Biodiversity
 Биосфера,Biosphere
 Биотехнология,Biotechnology
+Биотехнология,Biotechnology
 Биотин,Biotin
 Биофизика,Biophysics
+Биохимия,Biochemistry
 Биохимия,Biochemistry
 Биполярное аффективное расстройство,Bipolar disorder
 Бирмингем,Birmingham
@@ -1042,6 +1150,7 @@ russian,english
 Благовещение Пресвятой Богородицы,Annunciation
 Благородный олень,Red Deer
 "Блейк, Уильям",William Blake
+Ближний Восток,Middle East
 Близнецы,Gemini
 Близорукость,Myopia
 "Бликсен, Карен",Karen Blixen
@@ -1058,6 +1167,7 @@ russian,english
 Бог,God
 "Богарт, Хамфри",Humphrey Bogart
 Богословие,Theology
+Богословие,Theology
 Богоявление,Epiphany
 Боденское озеро,Lake Constance
 Бодибилдинг,Bodybuilding
@@ -1069,13 +1179,17 @@ russian,english
 Бойсе,Boise
 "Боккаччо, Джованни",Giovanni Boccaccio
 Бокс,Boxing
+Бокс,Boxing
 Боксит,Bauxite
 Боксёр,Boxer
+Боксёры,Boxers
+Болгария,Bulgaria
 Болгария,Bulgaria
 Болезнь,Disease
 Болезнь Альцгеймера,Alzheimer's disease
 Болезнь Паркинсона,Parkinson's disease
 "Болейн, Анна",Anne Boleyn
+Боливия,Bolivia
 Боливия,Bolivia
 Болливуд,Bollywood
 Болонья,Bologna
@@ -1111,18 +1225,22 @@ russian,english
 Бородач,Lammergeier
 "Борхес, Хорхе Луис",Jorge Luis Borges
 Босния и Герцеговина,Bosnia and Herzegovina
+Босния и Герцеговина,Bosnia and Herzegovina
 Бостон,Boston
 Бостонское чаепитие,Boston Tea Party
 Босфор,Bosporus
 "Босх, Иероним",Hieronymus Bosch
 Ботаника,Botany
+Ботаника,Botany
 Ботанический сад,Botanical garden
 Ботнический залив,Gulf of Bothnia
+Ботсвана,Botswana
 Ботсвана,Botswana
 Боулинг,Bowling
 Брага,Braga
 "Браге, Тихо",Tycho Brahe
 Браззавиль,Brazzaville
+Бразилия,Brazil
 Бразилия,Brazil
 "Брайль, Луи",Louis Braille
 Брайтон,Brighton
@@ -1176,6 +1294,7 @@ russian,english
 Бруклинский мост,Brooklyn Bridge
 "Брукнер, Антон",Anton Bruckner
 Бруней,Brunei
+Бруней,Brunei
 "Брунеллески, Филиппо",Filippo Brunelleschi
 "Брух, Макс",Max Bruch
 "Брэдбери, Рэй",Ray Bradbury
@@ -1189,11 +1308,13 @@ russian,english
 Будда,Buddha
 Будда Гаутама,Gautama Buddha
 Буддизм,Buddhism
+Буддизм,Buddhism
 Будущее,Future
 Бужумбура,Bujumbura
 Бук,Beech
 Буква,Letter
 Букингемский дворец,Buckingham Palace
+Буковые,Fagaceae
 Букоцветные,Fagales
 Булева алгебра,Boolean algebra
 "Буль, Джордж",George Boole
@@ -1202,15 +1323,19 @@ russian,english
 Бургундия,Bourgogne
 Буржуазия,Bourgeoisie
 Буркина Фасо,Burkina Faso
+Буркина Фасо,Burkina Faso
 Бурса,Bursa
+Бурунди,Burundi
 Бурый медведь,Brown Bear
 Буря,Storm
+Бутан,Bhutan
 Бутан,Bhutan
 Бутан,Butane
 Бутылка,Bottle
 Буффало,Buffalo
 Бухарест,Bucharest
 Бухгалтерский баланс,Balance sheet
+Бухгалтерский учёт,Accountancy
 Бухгалтерский учёт,Accountancy
 "Бухнер, Эдуард",Eduard Buchner
 "Буш, Джордж",George Bush
@@ -1233,6 +1358,7 @@ russian,english
 Вадуц,Vaduz
 "Вазари, Джорджо",Giorgio Vasari
 Вайоминг,Wyoming
+Вайоминг,Wyoming
 Вакуоль,Vacuole
 Вакуум,Vacuum
 Вакцина,Vaccine
@@ -1249,6 +1375,7 @@ russian,english
 Вальхалла,Valhalla
 Валюта,Currency
 Валютный курс,Exchange rate
+Валюты,Currency
 Вампир,Vampire
 "Ван Бюрен, Мартин",Martin Van Buren
 "Ван-дер-Ваальс, Ян Дидерик",Johannes Diderik van der Waals
@@ -1256,6 +1383,7 @@ russian,english
 Вандализм,Vandalism
 Ванкувер,Vancouver
 Ванкувер,Vancouver Island
+Вануату,Vanuatu
 Вануату,Vanuatu
 Ваны,Vanir
 Вар,Var
@@ -1265,11 +1393,13 @@ russian,english
 Варна,Varna
 Варшава,Warsaw
 Василий Великий,Basil of Caesarea
-Василиск,Basilisk
 Василиск,Basiliscus
+Василиск,Basilisk
+Ватикан,Vatican City
 Ватикан,Vatican City
 Ватт,Watt
 Ваххабизм,Wahhabism
+Вашингтон,Washington
 Вашингтон,Washington
 Вашингтон,Washington
 Вашингтон,Washington
@@ -1296,24 +1426,31 @@ russian,english
 Великая депрессия,Great Depression
 Великая пятница,Good Friday
 Великая французская революция,French Revolution
+Великая французская революция,French Revolution
 Великая хартия вольностей,Magna Carta
 Великие озёра,Great Lakes
 Великий Шёлковый Путь,Silk Road
 Великий пост,Lent
 Великий четверг,Maundy Thursday
-Великобритания,United Kingdom
+Великобритания,British people
 Великобритания,Great Britain
+Великобритания,United Kingdom
+Великобритания,United Kingdom
 Веллингтон,Wellington
 "Веллингтон, Артур Уэлсли",Arthur Wellesley
 Велосипед,Bicycle
 Велосипедный спорт,Cycling
+Велосипедный спорт,Cycling
 Велоцираптор,Velociraptor
-Вена,Vienna
 Вена,Vein
+Вена,Vienna
+Вена,Vienna
+Венгрия,Hungary
 Венгрия,Hungary
 Венера,Venus
 Венера,Venus
 Венера,Venus
+Венесуэла,Venezuela
 Венесуэла,Venezuela
 Венето,Veneto
 Венеция,Venice
@@ -1323,6 +1460,7 @@ russian,english
 Вересковые,Ericaceae
 Верескоцветные,Ericales
 "Верлен, Поль",Paul Verlaine
+Вермонт,Vermont
 Вермонт,Vermont
 "Верн, Жюль",Jules Verne
 Верона,Verona
@@ -1356,13 +1494,14 @@ russian,english
 Виброизоляция,Oscillation
 "Вивальди, Антонио",Antonio Vivaldi
 Видео,Video
+Византия,Byzantine Empire
 Викинги,Viking
 Викка,Wicca
-Виктория,Victoria
-Виктория,Victoria
-Виктория,Victoria
-Виктория,Victoria
 Виктория,Lake Victoria
+Виктория,Victoria
+Виктория,Victoria
+Виктория,Victoria
+Виктория,Victoria
 Вилка,Fork
 Вилли Брандт,Willy Brandt
 Вильгельм I,William I
@@ -1370,6 +1509,7 @@ russian,english
 Вильнюс,Vilnius
 "Вильсон, Томас Вудро",Woodrow Wilson
 "Вильсон, Чарлз Томсон Риз",Charles Thomson Rees Wilson
+Вина,Wine
 Виндхук,Windhoek
 Винительный падеж,Accusative case
 Виннипег,Winnipeg
@@ -1379,11 +1519,13 @@ russian,english
 Виолончель,Cello
 Виргинские острова,Virgin Islands
 Вирджиния,Virginia
+Вирджиния,Virginia
 Виртуальная память,Virtual memory
 Виртуальная реальность,Virtual reality
 Вирусы,Virus
 Висбаден,Wiesbaden
 Виски,Whisky
+Висконсин,Wisconsin
 Висконсин,Wisconsin
 Висла,Vistula
 Висмут,Bismuth
@@ -1411,6 +1553,7 @@ russian,english
 Влажность,Humidity
 Внутренняя Монголия,Inner Mongolia
 Вода,Water
+Вода,Water
 Водка,Vodka
 Водное поло,Water polo
 Водолей,Aquarius
@@ -1425,23 +1568,28 @@ russian,english
 Военно-воздушные силы США,United States Air Force
 Военно-морские силы США,United States Navy
 Военно-морской флот,Navy
+Военное дело,Military
 Военное преступление,War crime
 Возведение в степень,Exponentiation
 Возгонка,Sublimation
 Воздушно-реактивный двигатель,Jet engine
 Воздушное судно,Aircraft
+Воздушные суда,Aircraft
 Воздушный змей,Kite
 Возничий,Auriga
 Воинское звание,Military rank
 Война,War
+Война,War
 Война Судного дня,Yom Kippur War
 Война в Персидском заливе,Gulf War
+Война во Вьетнаме,Vietnam War
 Война во Вьетнаме,Vietnam War
 Война за испанское наследство,War of the Spanish Succession
 Война за независимость США,American Revolutionary War
 Войны Алой и Белой розы,Wars of the Roses
 Волга,Volga River
 Волгоград,Volgograd
+Волейбол,Volleyball
 Волейбол,Volleyball
 Волк,Gray Wolf
 Волк,Lupus
@@ -1454,6 +1602,7 @@ russian,english
 "Воннегут, Курт",Kurt Vonnegut
 Вопросительный знак,Question mark
 "Вордсворт, Уильям",William Wordsworth
+Воробьинообразные,Passeriformes
 Воробьинообразные,Passerine
 Ворон,Corvus
 Вороны,Crow
@@ -1468,6 +1617,7 @@ russian,english
 Восточно-Китайское море,East China Sea
 Восточный Сассекс,East Sussex
 Восточный Тимор,East Timor
+Восточный Тимор,East Timor
 Восьмеричная система счисления,Octal
 Врановые,Corvidae
 Вратарь,Goalkeeper
@@ -1475,17 +1625,20 @@ russian,english
 Вредные привычки,Addiction
 Времена года,Season
 Время,Time
+Время,Time
 Вселенная,Universe
 Вселенские соборы,Ecumenical council
 Всемирная выставка,Expo
 Всемирная метеорологическая организация,World Meteorological Organization
 Всемирная организация здравоохранения,World Health Organization
 Всемирная паутина,World Wide Web
+Всемирная паутина,World Wide Web
 Всемирная торговая организация,World Trade Organization
 Всемирный Потоп,Deluge
 Всемирный банк,World Bank
 Всемирный торговый центр,World Trade Center
 Вторая космическая скорость,Escape velocity
+Вторая мировая война,World War II
 Вторая мировая война,World War II
 Вторник,Tuesday
 Второе начало термодинамики,Second law of thermodynamics
@@ -1505,11 +1658,14 @@ russian,english
 Вход Господень в Иерусалим,Palm Sunday
 Выборы,Election
 Вымирание,Extinction
+Вымысел,Fiction
 Выпрямитель,Rectifier
 Высшие раки,Malacostraca
+Вычислительная техника,Computing
 Вычитание,Subtraction
 Вьенна,Vienne
 Вьентьян,Vientiane
+Вьетнам,Vietnam
 Вьетнам,Vietnam
 Вяз,Elm
 Вязкость,Viscosity
@@ -1517,8 +1673,10 @@ russian,english
 Гаага,The Hague
 "Габер, Фриц",Fritz Haber
 Габон,Gabon
+Габон,Gabon
 "Габор, Дэннис",Dennis Gabor
 Габороне,Gaborone
+Гавайи,Hawaii
 Гавайи,Hawaii
 Гавана,Havana
 Гавр,Le Havre
@@ -1528,8 +1686,10 @@ russian,english
 Газа,Gaza
 Газовые планеты,Gas giant
 Гаити,Haiti
+Гаити,Haiti
 Гаити,Hispaniola
 Гай Валерий Катулл,Catullus
+Гайана,Guyana
 "Гайдн, Франц Йозеф",Joseph Haydn
 Галактика,Galaxy
 Галактика Андромеды,Andromeda Galaxy
@@ -1552,6 +1712,8 @@ russian,english
 Галстук,Necktie
 "Гальвани, Луиджи",Luigi Galvani
 Гамбия,The Gambia
+Гамбия,The Gambia
+Гамбург,Hamburg
 Гамбург,Hamburg
 Гамбургер,Hamburger
 "Гамильтон, Александр",Alexander Hamilton
@@ -1561,6 +1723,7 @@ russian,english
 Гамма-излучение,Gamma ray
 "Гамсун, Кнут",Knut Hamsun
 "Ган, Отто",Otto Hahn
+Гана,Ghana
 Гана,Ghana
 Ганг,Ganges
 "Ганди, Индира",Indira Gandhi
@@ -1589,9 +1752,12 @@ russian,english
 Гафний,Hafnium
 Гвадалахара,Guadalajara
 Гваделупа,Guadeloupe
+Гватемала,Guatemala
 Гватемала,Guatemala City
 Гвинейский залив,Gulf of Guinea
 Гвинея,Guinea
+Гвинея,Guinea
+Гвинея-Бисау,Guinea-Bissau
 Гвинея-Бисау,Guinea-Bissau
 Гвоздика,Clove
 Гвоздичноцветные,Caryophyllales
@@ -1617,35 +1783,45 @@ russian,english
 "Гельмгольц, Герман Людвиг Фердинанд",Hermann von Helmholtz
 Гематит,Hematite
 Гематология,Hematology
+Гематология,Hematology
 Гемоглобин,Hemoglobin
 Геморрагическая лихорадка Эбола,Ebola
 Геморрой,Hemorrhoid
 Гемофилия,Haemophilia
 Ген,Gene
 "Гендель, Георг Фридрих",George Frideric Handel
-Генеалогия,Genealogy
 Генеалогия,Family history
+Генеалогия,Genealogy
+Генеалогия,Genealogy
 Генерал,General Officer
 Генеральное соглашение по тарифам и торговле,General Agreement on Tariffs and Trade
+Генетика,Genetics
 Генетика,Genetics
 Генетический код,Genetic code
 Генная инженерия,Genetic engineering
 Геном,Genome
 Генотип,Genotype
 Геноцид,Genocide
+Геноцид,Genocide
 Генри,Henry
 Гент,Ghent
 Генуя,Genoa
 Географическая карта,Map
 География,Geography
+География,Geography
+География,Geography
+Геодезия,Geodesy
 Геодезия,Geodesy
 Геология,Geology
+Геология,Geology
 Геометрическая прогрессия,Geometric progression
+Геометрия,Geometry
 Геометрия,Geometry
 Геоморфология,Geomorphology
 Геополитика,Geopolitics
 Георгий Победоносец,Saint George
 Георгина,Dahlia
+Геофизика,Geophysics
 Геофизика,Geophysics
 Геохимический цикл углерода,Carbon cycle
 Геохимия,Geochemistry
@@ -1655,12 +1831,15 @@ russian,english
 Геракл,Heracles
 Гераклит Эфесский,Heraclitus
 Геральдика,Heraldry
+Геральдика,Heraldry
 Герат,Herat
 Герб,Coat of arms
 Геркулес,Hercules
 Геркулес,Hercules
 Германий,Germanium
 Германия,Germany
+Германия,Germany
+Германо-скандинавская мифология,Norse mythology
 Германо-скандинавская мифология,Norse mythology
 Германская Демократическая Республика,East Germany
 Гермафродитизм,Hermaphrodite
@@ -1684,6 +1863,7 @@ russian,english
 "Гесс, Рудольф",Rudolf Hess
 "Гессе, Герман",Hermann Hesse
 Гессен,Hesse
+Гессен,Hesse
 Гестапо,Gestapo
 Гестия,Hestia
 Гетеросексуальность,Heterosexuality
@@ -1693,15 +1873,18 @@ russian,english
 "Гиббон, Эдуард",Edward Gibbon
 Гиббоновые,Gibbon
 Гибралтар,Gibraltar
+Гибралтар,Gibraltar
 Гибралтарский пролив,Strait of Gibraltar
 Гибрид,Hybrid
 "Гибсон, Мел",Mel Gibson
 Гигабайт,Gigabyte
+Гигиена,Hygiene
 Гидра,Hydra
 Гидрокарбонат натрия,Sodium bicarbonate
 Гидроксид натрия,Sodium hydroxide
 Гидроксиды,Hydroxide
 Гидролиз,Hydrolysis
+Гидрология,Hydrology
 Гидрология,Hydrology
 Гидросфера,Hydrosphere
 Гидроэлектростанция,Hydroelectricity
@@ -1723,8 +1906,8 @@ russian,english
 "Гинзберг, Аллен",Allen Ginsberg
 Гинкго,Ginkgo
 "Гиннесс, Алек",Alec Guinness
-Гипербола,Hyperbole
 Гипербола,Hyperbola
+Гипербола,Hyperbole
 Гиперион,Hyperion
 Гиперион,Hyperion
 Гипертекст,Hypertext
@@ -1739,6 +1922,7 @@ russian,english
 Гироскоп,Gyroscope
 Гистидин,Histidine
 Гистология,Histology
+Гистология,Histology
 Гистоны,Histone
 Гитара,Guitar
 "Гитлер, Адольф",Adolf Hitler
@@ -1747,6 +1931,7 @@ russian,english
 Глагол,Verb
 Гладиатор,Gladiator
 "Гладстон, Вильям Эварт",William Gladstone
+Глаз,Eye
 Глаз,Eye
 Глазго,Glasgow
 Гласность,Glasnost
@@ -1778,6 +1963,7 @@ russian,english
 "Гог, Винсент ван",Vincent van Gogh
 "Гоген, Поль",Paul Gauguin
 Год,Year
+Годы,Years
 "Гойя, Франсиско Хосе де",Francisco Goya
 Голанские высоты,Golan Heights
 Голгофа,Calvary
@@ -1794,12 +1980,14 @@ russian,english
 Голоцен,Holocene
 "Голсуорси, Джон",John Galsworthy
 Голубеобразные,Columbiformes
+Голубеобразные,Columbiformes
 Голубиные,Columbidae
 Голубой цвет,Cyan
 Голубь,Columba
 Голуэй,Galway
 "Гольдман, Эмма",Emma Goldman
 Гольмий,Holmium
+Гольф,Golf
 Гольф,Golf
 Гольфстрим,Gulf Stream
 Гомель,Gomel
@@ -1811,6 +1999,8 @@ russian,english
 Гомосексуальность,Homosexuality
 Гомофобия,Homophobia
 Гондурас,Honduras
+Гондурас,Honduras
+Гонконг,Hong Kong
 Гонконг,Hong Kong
 Гонкуровская премия,Prix Goncourt
 Гонолулу,Honolulu
@@ -1875,14 +2065,18 @@ russian,english
 Гребневики,Ctenophore
 Грейпфрут,Grapefruit
 Гренландия,Greenland
+Гренландия,Greenland
 Гренландское море,Greenland Sea
 Гренобль,Grenoble
 Грех,Sin
 Греция,Greece
+Греция,Greece
 Грецкий орех,Walnut
+Греческий алфавит,Greek alphabet
 Греческий алфавит,Greek alphabet
 Греческий огонь,Greek fire
 Гречиха#.D0.93.D1.80.D0.B5.D1.87.D0.B8.D1.85.D0.B0 .D0.BE.D0.B1.D1.8B.D0.BA.D0.BD.D0.BE.D0.B2.D0.B5.D0.BD.D0.BD.D0.B0.D1.8F,Buckwheat
+Грибы,Fungi
 Грибы,Fungus
 Грибы,Mushroom
 "Григ, Эдвард",Edvard Grieg
@@ -1899,6 +2093,7 @@ russian,english
 "Гропиус, Вальтер",Walter Gropius
 Гроссмейстер,Grandmaster
 "Гроций, Гуго",Hugo Grotius
+Грузия,Georgia
 Грузия,Georgia
 Грузовой автомобиль,Truck
 Группа,Group
@@ -1926,6 +2121,7 @@ russian,english
 "Гудмен, Бенни",Benny Goodman
 "Гук, Роберт",Robert Hooke
 Гуманизм,Humanism
+Гуманитарные науки,Humanities
 Гумус,Humus
 Гуппи,Guppy
 Гурон,Lake Huron
@@ -1955,6 +2151,7 @@ russian,english
 Дальтонизм,Color blindness
 Дамаск,Damascus
 Дания,Denmark
+Дания,Denmark
 Данные,Data
 Данте Алигьери,Dante Alighieri
 Даосизм,Taoism
@@ -1968,6 +2165,7 @@ russian,english
 Дарфур,Darfur
 Дательный падеж,Dative case
 Датская крона,Danish krone
+Даты,Days
 Даугавпилс,Daugavpils
 Дафна,Daphne
 "Даян, Моше",Moshe Dayan
@@ -1976,8 +2174,10 @@ russian,english
 Двигатель,Engine
 Двойная звезда,Binary star
 Дворянство,Nobility
+Дворянство,Nobility
 Двоякодышащие,Lungfish
 Двудольные,Dicotyledon
+Двудольные,Magnoliopsida
 Двукрылые,Fly
 Двустворчатые,Bivalvia
 "Де Бовуар, Симона",Simone de Beauvoir
@@ -2003,6 +2203,7 @@ russian,english
 Деконструкция,Deconstruction
 Деку,Deco
 Делавэр,Delaware
+Делавэр,Delaware
 Деление,Division
 Деление ядра,Nuclear fission
 Дели,Delhi
@@ -2016,6 +2217,8 @@ russian,english
 Деменция,Dementia
 Деметра,Demeter
 Демография,Demography
+Демография,Demography
+Демократическая Республика Конго,Democratic Republic of the Congo
 Демократическая Республика Конго,Democratic Republic of the Congo
 Демократическая партия США,Democratic Party
 Демократия,Democracy
@@ -2050,6 +2253,7 @@ russian,english
 Деятель искусств,Artist
 "Джаггер, Мик",Mick Jagger
 Джаз,Jazz
+Джаз,Jazz
 Джайнизм,Jainism
 Джакарта,Jakarta
 Джалалабад,Jalalabad
@@ -2068,6 +2272,7 @@ russian,english
 "Джефферсон, Томас",Thomas Jefferson
 Джефферсон-Сити,Jefferson City
 Джибути,Djibouti
+Джибути,Djibouti
 Джидда,Jeddah
 Джинн,Genie
 Джиу-джитсу,Jujutsu
@@ -2080,6 +2285,7 @@ russian,english
 "Джонсон, Эндрю",Andrew Johnson
 "Джоплин, Дженис",Janis Joplin
 Джордано Бруно,Giordano Bruno
+Джорджия,Georgia
 Джорджия,Georgia
 Джорджтаун,Georgetown
 Джотто ди Бондоне,Giotto di Bondone
@@ -2108,6 +2314,7 @@ russian,english
 "Дидро, Дени",Denis Diderot
 Дижон,Dijon
 Дизайн,Design
+Дизайн,Design
 "Дизель, Рудольф",Rudolf Diesel
 Дизельное топливо,Diesel
 Дизельный двигатель,Diesel engine
@@ -2130,6 +2337,7 @@ russian,english
 "Диор, Кристиан",Christian Dior
 Диоцез,Diocese
 Диплодок,Diplodocus
+Дипломатия,Diplomacy
 Дипломатия,Diplomacy
 Дирижёр,Conducting
 Дисахариды,Disaccharide
@@ -2161,6 +2369,7 @@ russian,english
 Додекаэдр,Dodecahedron
 Додома,Dodoma
 Дождь,Rain
+Доисторический период,Prehistory
 Докембрий,Precambrian
 Доктор Хаус,House
 Доктрина Монро,Monroe Doctrine
@@ -2175,6 +2384,8 @@ russian,english
 Домен,Domain
 Доменное имя,Domain name
 Доминика,Dominica
+Доминика,Dominica
+Доминиканская Республика,Dominican Republic
 Доминиканская Республика,Dominican Republic
 Доминиканцы,Dominican Order
 Домициан,Domitian
@@ -2196,15 +2407,17 @@ russian,english
 Доха,Doha
 Драгоценные камни,Gemstone
 Драйвер,Device driver
-Дракон,Dragon
 Дракон,Draco
+Дракон,Dragon
 Дракула,Dracula
 Драма,Drama
 Древесина,Wood
 Древнегреческая мифология,Greek mythology
+Древнегреческая мифология,Greek mythology
 Древнегреческий язык,Ancient Greek
 Древнеисландский язык,Old Norse
 Древнеримская мифология,Roman mythology
+Древний мир,Ancient history
 Древняя Македония,Macedon
 Дрезден,Dresden
 "Дрейк, Фрэнсис",Francis Drake
@@ -2257,11 +2470,13 @@ russian,english
 Еврейское письмо,Hebrew alphabet
 Еврипид,Euripides
 Евро,Euro
+Европа,Europa
+Европа,Europa
 Европа,Europe
-Европа,Europa
-Европа,Europa
+Европа,Europe
 Европейская косуля,Roe Deer
 Европейский Союз,European Union
+Европейский союз,European Union
 Европейский центральный банк,European Central Bank
 Европейское сообщество,European Community
 Европий,Europium
@@ -2269,6 +2484,7 @@ russian,english
 Евсевий Кесарийский,Eusebius of Caesarea
 Евфрат,Euphrates
 Евхаристия,Eucharist
+Египет,Egypt
 Египетская цапля,Cattle Egret
 Египетский фунт,Egyptian pound
 Египтология,Egyptology
@@ -2308,9 +2524,11 @@ russian,english
 Жесткокрылые,Beetle
 Жестовые языки,Sign language
 Живописец,Pictor
+Живопись,Painting
 Животноводство,Animal husbandry
 Животные,Animal
 Жидкость,Liquid
+Жизнь,Life
 Жизнь,Life
 Жилище,House
 Жираф,Giraffe
@@ -2325,12 +2543,14 @@ russian,english
 Журнал,Magazine
 Журналист,Journalist
 Журналистика,Journalism
+Журналистика,Journalism
 Жёлтое море,Yellow Sea
 Жёлтый цвет,Yellow
 Жёлудь,Acorn
 Жёлчь человека,Bile
 "Заболевания, передающиеся половым путём",Sexually transmitted disease
 Завещание,Will
+Заготовка,Stub
 Загреб,Zagreb
 Загрязнение,Pollution
 Зажигалка,Lighter
@@ -2350,6 +2570,7 @@ russian,english
 Зальцбург,Salzburg
 Замбези,Zambezi
 Замбия,Zambia
+Замбия,Zambia
 Замок,Castle
 Занзибар,Zanzibar
 Запад,West
@@ -2357,6 +2578,8 @@ russian,english
 Западная Африка,West Africa
 Западная Бенгалия,West Bengal
 Западная Вирджиния,West Virginia
+Западная Вирджиния,West Virginia
+Западная Сахара,Western Sahara
 Западная Сахара,Western Sahara
 Западный Берлин,West Berlin
 Западный Сассекс,West Sussex
@@ -2378,6 +2601,7 @@ russian,english
 Звукоряд,Musical scale
 Здание,Building
 Здоровье,Health
+Здоровье,Health
 Зебра,Zebra
 Зевс,Zeus
 Зевс,Zeus
@@ -2385,6 +2609,7 @@ russian,english
 Зеландия,Zealand
 Зелёный цвет,Green
 Землетрясение,Earthquake
+Земля,Earth
 Земля,Earth
 Земляника,Strawberry
 Земная кора,Crust
@@ -2395,6 +2620,8 @@ russian,english
 Зиккурат,Ziggurat
 Зима,Winter
 Зимбабве,Zimbabwe
+Зимбабве,Zimbabwe
+Зимние Олимпийские игры,Winter Olympic Games
 Зимние Олимпийские игры,Winter Olympic Games
 "Зингер, Исаак Башевис",Isaac Bashevis Singer
 Злаки,Poaceae
@@ -2417,6 +2644,7 @@ russian,english
 "Зонтаг, Сьюзен",Susan Sontag
 Зонтичные,Apiaceae
 Зоологический парк,Zoo
+Зоология,Zoology
 Зоология,Zoology
 Зороастризм,Zoroastrianism
 Зрачок,Pupil
@@ -2449,14 +2677,17 @@ russian,english
 Иерихон,Jericho
 Иероним Стридонский,Jerome
 Иерусалим,Jerusalem
+Иерусалим,Jerusalem
 Известняк,Limestone
 Измаил,Ishmael
 Изменение климата,Climate change
+Измерение,Measurement
 Измерение,Measurement
 Изнасилование,Rape
 Изобретение,Invention
 Изомерия,Isomer
 Изотопы,Isotope
+Израиль,Israel
 Израиль,Israel
 Изумруд,Emerald
 Иисус Христос,Jesus
@@ -2465,12 +2696,14 @@ russian,english
 Илиада,Iliad
 Илия,Elijah
 Иллинойс,Illinois
+Иллинойс,Illinois
 Иллирия,Illyria
 Ильмень,Lake Ilmen
 Имам,Imam
 Имбирь,Ginger
 Именительный падеж,Nominative case
 Иммунная система,Immune system
+Иммунология,Immunology
 Иммунология,Immunology
 Император,Emperor
 Императорский пингвин,Emperor Penguin
@@ -2485,13 +2718,18 @@ russian,english
 Индеец,Indus
 Индекс массы тела,Body mass index
 Индиана,Indiana
+Индиана,Indiana
 Индианаполис,Indianapolis
 Индий,Indium
 Индийский океан,Indian Ocean
+Индийский океан,Indian Ocean
+Индия,India
 Индия,India
 Индокитай,Indochina
 Индонезия,Indonesia
+Индонезия,Indonesia
 Индра,Indra
+Индуизм,Hinduism
 Индуизм,Hinduism
 Индуктивное умозаключение,Inductive reasoning
 Индуктивность,Inductance
@@ -2514,12 +2752,14 @@ russian,english
 Интервал,Interval
 Интерлингва,Interlingua
 Интернет,Internet
+Интернет,Internet
 Интерпретатор,Interpreter
 Интерференция,Interference
 Интранет,Intranet
 Инфекционные заболевания,Infectious disease
 Инфинитив,Infinitive
 Инфляция,Inflation
+Информатика,Computer science
 Информатика,Computer science
 Информационные технологии,Information technology
 Информация,Information
@@ -2542,17 +2782,23 @@ russian,english
 Ионосфера,Ionosphere
 Иордан,Jordan River
 Иордания,Jordan
+Иордания,Jordan
 Иосиф Флавий,Josephus
 Иприт,Sulfur mustard
 Ипсилон,Upsilon
 Ирак,Iraq
+Ирак,Iraq
+Иран,Iran
 Иран,Iran
 Ирано-иракская война,Iran-Iraq War
 Ирида,Iris
 Иридий,Iridium
 Ириней Лионский,Irenaeus
-Ирландия,Republic of Ireland
 Ирландия,Ireland
+Ирландия,Ireland
+Ирландия,Irish people
+Ирландия,Republic of Ireland
+Ирландия,Republic of Ireland
 Ирландская республиканская армия,Irish Republican Army
 Ирландское море,Irish Sea
 Ирод I Великий,Herod the Great
@@ -2565,13 +2811,19 @@ russian,english
 Ископаемое топливо,Fossil fuel
 Искусственный аборт,Abortion
 Искусственный интеллект,Artificial intelligence
+Искусственный интеллект,Artificial intelligence
 Искусственный спутник Земли,Satellite
 Искусство,Art
+Искусство,Arts
+Ислам,Islam
 Ислам,Islam
 Исламабад,Islamabad
 Исламский календарь,Islamic calendar
 Исландия,Iceland
+Исландия,Iceland
 Испания,Spain
+Испания,Spain
+Испания,Spanish people
 Испано-американская война,Spanish-American War
 Испарение,Evaporation
 Исповедь,Confession
@@ -2579,15 +2831,20 @@ russian,english
 Истина,Truth
 Историография,Historiography
 История,History
+История,History
+История,History
+История искусства,Art history
 История искусства,Art history
 Истребитель,Fighter aircraft
 Исфахан,Esfahan
 Исходный код,Source code
 Итака,Ithaca
 Италия,Italy
+Италия,Italy
 Иттербий,Ytterbium
 Иттрий,Yttrium
 Иуда Искариот,Judas Iscariot
+Иудаизм,Judaism
 Иудаизм,Judaism
 Иудея,Judea
 Ихтиология,Ichthyology
@@ -2596,6 +2853,7 @@ russian,english
 "Йейтс, Уильям Батлер",William Butler Yeats
 Йеллоустоун,Yellowstone National Park
 Йельский университет,Yale University
+Йемен,Yemen
 Йемен,Yemen
 Йена,Jena
 "Йенсен, Йоханнес Вильхельм",Johannes Vilhelm Jensen
@@ -2608,19 +2866,23 @@ russian,english
 Йота,Iota
 Йоханнесбург,Johannesburg
 К2,K2
+КНДР,North Korea
 КОБОЛ,COBOL
 Кааба,Kaaba
 Кабаре,Cabaret
 Каббала,Kabbalah
 Кабо-Верде,Cape Verde
+Кабо-Верде,Cape Verde
 Кабул,Kabul
 Кавалерия,Cavalry
 "Кавендиш, Генри",Henry Cavendish
+Кавказ,Caucasus
 Кавказ,Caucasus
 Кавказ,Caucasus Mountains
 Кадм,Cadmus
 Кадмий,Cadmium
 Казань,Kazan
+Казахстан,Kazakhstan
 Казахстан,Kazakhstan
 Казино,Casino
 Каир,Cairo
@@ -2643,6 +2905,7 @@ russian,english
 Калипсо,Calypso
 Калифорний,Californium
 Калифорния,California
+Калифорния,California
 Каллиграфия,Calligraphy
 Каллиопа,Calliope
 Каллисто,Callisto
@@ -2660,24 +2923,29 @@ russian,english
 Кальян,Hookah
 Камамбер,Camembert
 Камбоджа,Cambodia
+Камбоджа,Cambodia
 Камбрия,Cumbria
 Каменноугольный период,Carboniferous
 Каменный век,Stone Age
 "Камень, ножницы, бумага",Rock
+Камерун,Cameroon
 Камерун,Cameroon
 Камикадзе,Kamikaze
 Кампала,Kampala
 Кампания,Campania
 "Камю, Альбер",Albert Camus
 Канада,Canada
+Канада,Canada
 Канадский доллар,Canadian dollar
 Канал,Canal
+Канарские острова,Canary Islands
 Канарские острова,Canary Islands
 Канберра,Canberra
 Кандагар,Kandahar
 Кандела,Candela
 "Кандинский, Василий Васильевич",Wassily Kandinsky
 "Канетти, Элиас",Elias Canetti
+Канзас,Kansas
 Канзас,Kansas
 Канзас-Сити,Kansas City
 Каннибализм,Cannibalism
@@ -2713,7 +2981,9 @@ russian,english
 Кардамон,Cardamom
 Кардинал,Cardinal
 Кардиология,Cardiology
+Кардиология,Cardiology
 Кардифф,Cardiff
+Карибские острова,Caribbean
 Карибское море,Caribbean Sea
 Кариес зубов,Dental caries
 Карикатура,Caricature
@@ -2735,6 +3005,7 @@ russian,english
 "Картер, Говард",Howard Carter
 "Картер, Джимми",Jimmy Carter
 Картография,Cartography
+Картография,Cartography
 Картофель,Potato
 Карточная игра,Card game
 "Картье, Жак",Jacques Cartier
@@ -2751,666 +3022,13 @@ russian,english
 "Кастро, Фидель",Fidel Castro
 Катализатор,Catalysis
 Каталония,Catalonia
+Каталония,Catalonia
+Катар,Qatar
 Катар,Qatar
 Катаракта,Cataract
 Катархей,Hadean
 Катары,Catharism
 Катафракт,Cataphract
-100 год,100
-1000 год,1000
-12 год,12
-14 год,14
-16 год,16
-17 год,17
-1728 год,1728
-1750-е,1750s
-1760-е,1760s
-1770-е,1770s
-1780-е,1780s
-1790-е,1790s
-1820-е,1820s
-1830-е,1830s
-1840-е,1840s
-1860-е,1860s
-1870-е,1870s
-1880-е,1880s
-1890-е,1890s
-1900-е,1900s
-1920-е,1920s
-1930-е,1930s
-1940-е,1940s
-1950-е,1950s
-1960-е,1960s
-1970-е,1970s
-1980-е,1980s
-1990-е,1990s
-500 год,500
-Google,Google
-Linux,Linux
-UNIX,Unix
-Абхазия,Abkhazia
-Авиация,Aviation
-Австралия,Australia
-Австрия,Austria
-Азербайджан,Azerbaijan
-Азия,Asia
-Айдахо,Idaho
-Айова,Iowa
-Акустика,Acoustics
-Алабама,Alabama
-Албания,Albania
-Алгебра,Algebra
-Алжир,Algeria
-Алхимия,Alchemy
-Альберта,Alberta
-Альпы,Alps
-Альтернативная медицина,Alternative medicine
-Аляска,Alaska
-Американский футбол,American football
-Амстердам,Amsterdam
-Анархизм,Anarchism
-Анатомия,Anatomy
-Английский язык,English language
-Англия,England
-Ангола,Angola
-Андорра,Andorra
-Аниме,Anime
-Антарктида,Antarctica
-Антисемитизм,Antisemitism
-Антропология,Anthropology
-Аппаратное обеспечение,Computer hardware
-Аргентина,Argentina
-Аризона,Arizona
-Арифметика,Arithmetic
-Арканзас,Arkansas
-Армения,Armenia
-Артиллерия,Artillery
-Аруба,Aruba
-Археология,Archaeology
-Архитектура,Architecture
-Ассирия,Assyria
-Астрология,Astrology
-Астрономия,Astronomy
-Астрофизика,Astrophysics
-Атеизм,Atheism
-Атлантический океан,Atlantic Ocean
-Атомная физика,Atomic physics
-Афганистан,Afghanistan
-Африка,Africa
-Бавария,Bavaria
-Багамы,Bahamas
-Бактерии,Bacteria
-Балет,Ballet
-Бангладеш,Bangladesh
-Банки,Banks
-Барбадос,Barbados
-Барселона,Barcelona
-Баскетбол,Basketball
-Бахрейн,Bahrain
-Безопасность,Security
-Бейсбол,Baseball
-Белиз,Belize
-Белоруссия,Belarus
-Бельгия,Belgium
-Бенин,Benin
-Берлин,Berlin
-Бермудские острова,Bermuda
-Библия,Bible
-Биология,Biology
-Биотехнология,Biotechnology
-Биохимия,Biochemistry
-Ближний Восток,Middle East
-Богословие,Theology
-Бокс,Boxing
-Боксёры,Boxers
-Болгария,Bulgaria
-Боливия,Bolivia
-Босния и Герцеговина,Bosnia and Herzegovina
-Ботаника,Botany
-Ботсвана,Botswana
-Бразилия,Brazil
-Бруней,Brunei
-Буддизм,Buddhism
-Буковые,Fagaceae
-Буркина Фасо,Burkina Faso
-Бурунди,Burundi
-Бутан,Bhutan
-Бухгалтерский учёт,Accountancy
-Вайоминг,Wyoming
-Валюты,Currency
-Вануату,Vanuatu
-Ватикан,Vatican City
-Вашингтон,Washington
-Великая французская революция,French Revolution
-Великобритания,United Kingdom
-Велосипедный спорт,Cycling
-Вена,Vienna
-Венгрия,Hungary
-Венесуэла,Venezuela
-Вермонт,Vermont
-Византия,Byzantine Empire
-Вина,Wine
-Вирджиния,Virginia
-Висконсин,Wisconsin
-Вода,Water
-Военное дело,Military
-Воздушные суда,Aircraft
-Война,War
-Война во Вьетнаме,Vietnam War
-Волейбол,Volleyball
-Воробьинообразные,Passeriformes
-Восточный Тимор,East Timor
-Время,Time
-Всемирная паутина,World Wide Web
-Вторая мировая война,World War II
-Вымысел,Fiction
-Вычислительная техника,Computing
-Вьетнам,Vietnam
-Габон,Gabon
-Гавайи,Hawaii
-Гаити,Haiti
-Гайана,Guyana
-Гамбия,The Gambia
-Гамбург,Hamburg
-Гана,Ghana
-Гватемала,Guatemala
-Гвинея,Guinea
-Гвинея-Бисау,Guinea-Bissau
-Гематология,Hematology
-Генеалогия,Genealogy
-Генетика,Genetics
-Геноцид,Genocide
-География,Geography
-Геодезия,Geodesy
-Геология,Geology
-Геометрия,Geometry
-Геофизика,Geophysics
-Геральдика,Heraldry
-Германия,Germany
-Германо-скандинавская мифология,Norse mythology
-Гессен,Hesse
-Гибралтар,Gibraltar
-Гигиена,Hygiene
-Гидрология,Hydrology
-Гистология,Histology
-Глаз,Eye
-Годы,Years
-Голубеобразные,Columbiformes
-Гольф,Golf
-Гондурас,Honduras
-Гонконг,Hong Kong
-Гренландия,Greenland
-Греция,Greece
-Греческий алфавит,Greek alphabet
-Грибы,Fungi
-Грузия,Georgia
-Гуманитарные науки,Humanities
-Дания,Denmark
-Даты,Days
-Дворянство,Nobility
-Двудольные,Magnoliopsida
-Делавэр,Delaware
-Демография,Demography
-Демократическая Республика Конго,Democratic Republic of the Congo
-Джаз,Jazz
-Джибути,Djibouti
-Джорджия,Georgia
-Дизайн,Design
-Дипломатия,Diplomacy
-Доисторический период,Prehistory
-Доминика,Dominica
-Доминиканская Республика,Dominican Republic
-Древнегреческая мифология,Greek mythology
-Древний мир,Ancient history
-Европа,Europe
-Европейский союз,European Union
-Египет,Egypt
-Живопись,Painting
-Жизнь,Life
-Журналистика,Journalism
-Замбия,Zambia
-Западная Вирджиния,West Virginia
-Западная Сахара,Western Sahara
-Здоровье,Health
-Земля,Earth
-Зимбабве,Zimbabwe
-Зимние Олимпийские игры,Winter Olympic Games
-Зоология,Zoology
-Иерусалим,Jerusalem
-Измерение,Measurement
-Израиль,Israel
-Иллинойс,Illinois
-Иммунология,Immunology
-Индиана,Indiana
-Индийский океан,Indian Ocean
-Индия,India
-Индонезия,Indonesia
-Индуизм,Hinduism
-Интернет,Internet
-Информатика,Computer science
-Иордания,Jordan
-Ирак,Iraq
-Иран,Iran
-Ирландия,Republic of Ireland
-Ирландия,Ireland
-Искусственный интеллект,Artificial intelligence
-Искусство,Arts
-Ислам,Islam
-Исландия,Iceland
-Испания,Spain
-История,History
-История искусства,Art history
-Италия,Italy
-Иудаизм,Judaism
-Йемен,Yemen
-КНДР,North Korea
-Кабо-Верде,Cape Verde
-Кавказ,Caucasus
-Казахстан,Kazakhstan
-Калифорния,California
-Камбоджа,Cambodia
-Камерун,Cameroon
-Канада,Canada
-Канарские острова,Canary Islands
-Канзас,Kansas
-Кардиология,Cardiology
-Карибские острова,Caribbean
-Картография,Cartography
-Каталония,Catalonia
-Катар,Qatar
-Квантовая механика,Quantum mechanics
-Квебек,Quebec
-Кения,Kenya
-Кентукки,Kentucky
-Кинематограф,Film
-Кипр,Cyprus
-Киргизия,Kyrgyzstan
-Кирибати,Kiribati
-Китай,China
-Классическая музыка,Classical music
-Климат,Climate
-Климатология,Climatology
-Колорадо,Colorado
-Колумбия,Colombia
-Коммерция,Commerce
-Коммунизм,Communism
-Коморские острова,Comoros
-Компьютерная графика,Computer graphics
-Коннектикут,Connecticut
-Корея,Korea
-Космология,Cosmology
-Косово и Метохия,Kosovo
-Коста-Рика,Costa Rica
-Костная система,Skeletal system
-Кофе,Coffee
-Криминология,Criminology
-Криптография,Cryptography
-Кристаллография,Crystallography
-Куба,Cuba
-Кувейт,Kuwait
-Культура,Culture
-Курдистан,Kurdistan
-Курообразные,Galliformes
-Лаос,Laos
-Латвия,Latvia
-Лесото,Lesotho
-Либерализм,Liberalism
-Либерия,Liberia
-Ливан,Lebanon
-Ливия,Libya
-Лингвистика,Linguistics
-Линейная алгебра,Linear algebra
-Литва,Lithuania
-Литература,Literature
-Лихтенштейн,Liechtenstein
-Логика,Logic
-Лондон,London
-Луизиана,Louisiana
-Люди,People
-Люксембург,Luxembourg
-Лёгкая атлетика,Athletics
-Маврикий,Mauritius
-Мавритания,Mauritania
-Магнетизм,Magnetism
-Мадагаскар,Madagascar
-Макроэкономика,Macroeconomics
-Малави,Malawi
-Малайзия,Malaysia
-Мали,Mali
-Мальдивы,Maldives
-Мальта,Malta
-Маркетинг,Marketing
-Марксизм,Marxism
-Марокко,Morocco
-Марс,Mars
-Маршалловы Острова,Marshall Islands
-Массачусетс,Massachusetts
-Математика,Mathematics
-Математическая логика,Mathematical logic
-Машиностроение,Mechanical engineering
-Мебель,Furniture
-Медицина,Medicine
-Международное право,International law
-Междуречье,Mesopotamia
-Мексика,Mexico
-Метал,Heavy metal
-Металлургия,Metallurgy
-Метеорология,Meteorology
-Метрополитен,Rapid transit
-Механика,Mechanics
-Микология,Mycology
-Микробиология,Microbiology
-Микроэкономика,Microeconomics
-Минералогия,Mineralogy
-Миннесота,Minnesota
-Миссисипи,Mississippi
-Миссури,Missouri
-Мифология,Mythology
-Мичиган,Michigan
-Многозначные термины,Disambiguation
-Мода,Fashion
-Мозамбик,Mozambique
-Молдавия,Moldova
-Молекулярная биология,Molecular biology
-Монако,Monaco
-Монархия,Monarchy
-Монголия,Mongolia
-Монтана,Montana
-Москва,Moscow
-Мосты,Bridges
-Музыка,Music
-Мьянма,Burma
-Мьянма,Myanmar
-Мэн,Maine
-Мэриленд,Maryland
-НАТО,NATO
-Навигация,Navigation
-Налогообложение,Taxation
-Намибия,Namibia
-Наука,Science
-Науру,Nauru
-Нацизм,Nazism
-Национализм,Nationalism
-Неакадемические направления исследований,Pseudoscience
-Небесная механика,Celestial mechanics
-Небраска,Nebraska
-Невада,Nevada
-Неврология,Neurology
-Немецкий язык,German language
-Неорганическая химия,Inorganic chemistry
-Непал,Nepal
-Нервная система,Nervous system
-Нигер,Niger
-Нигерия,Nigeria
-Нидерланды,Netherlands
-Никарагуа,Nicaragua
-Нобелевские премии,Nobel Prize
-Новая Зеландия,New Zealand
-Норвегия,Norway
-Нумизматика,Numismatics
-Нью-Джерси,New Jersey
-Нью-Йорк,New York City
-Нью-Йорк,New York
-Нью-Мексико,New Mexico
-ООН,United Nations
-Образование,Education
-Общество,Society
-Объединённые Арабские Эмираты,United Arab Emirates
-Огайо,Ohio
-Одежда,Clothing
-Океания,Oceania
-Океанология,Oceanography
-Оклахома,Oklahoma
-Олимпийские игры,Olympics
-Оман,Oman
-Онкология,Oncology
-Онтарио,Ontario
-Оптика,Optics
-Органическая химия,Organic chemistry
-Орегон,Oregon
-Орнитология,Ornithology
-Османская империя,Ottoman Empire
-Остров Мэн,Isle of Man
-Охрана окружающей среды,Environment
-Пакистан,Pakistan
-Палау,Palau
-Палеонтология,Paleontology
-Палестина,Palestine
-Панама,Panama
-Панк,Punk
-Папуа — Новая Гвинея,Papua New Guinea
-Парагвай,Paraguay
-Париж,Paris
-Паслёновые,Solanaceae
-Педагогика,Pedagogy
-Пенсильвания,Pennsylvania
-Первая мировая война,World War I
-Перепончатокрылые,Hymenoptera
-Англия,English people
-Великобритания,British people
-Ирландия,Irish people
-Испания,Spanish people
-Нидерланды,Dutch people
-Франция,French people
-Швейцария,Swiss people
-Перу,Peru
-Пиво,Beer
-Питание,Nutrition
-Пищеварительная система,Digestive system
-Плавание,Swimming
-Политика,Politics
-Политология,Political science
-Полиция,Law enforcement
-Польша,Poland
-Португалия,Portugal
-Поэзия,Poetry
-Право,Law
-Прага,Prague
-Предприниматели,Businesspeople
-Приматы,Primates
-Природа,Nature
-Программа «Аполлон»,Apollo program
-Программирование,Computer programming
-Программное обеспечение,Software
-Проливы,Straits
-Промышленность,Industry
-Простейшие,Protista
-Психиатрия,Psychiatry
-Психология,Psychology
-Пустыни,Deserts
-Пуэрто-Рико,Puerto Rico
-Пчеловодство,Beekeeping
-Радио,Radio
-Развлечения,Entertainment
-Расизм,Racism
-Религия,Religion
-Республика Конго,Republic of the Congo
-Рим,Rome
-Римская мифология,Roman mythology
-Риторика,Rhetoric
-Род-Айленд,Rhode Island
-Рок,Rock music
-Россия,Russia
-Руанда,Rwanda
-Рукокрылые,Bats
-Румыния,Romania
-Рыбная ловля,Fishing
-Рыбы,Fish
-СССР,Soviet Union
-США,United States
-Саксония,Saxony
-Сальвадор,El Salvador
-Самоа,Samoa
-Сан-Марино,San Marino
-Санкт-Петербург,Saint Petersburg
-Сатурн,Saturn
-Саудовская Аравия,Saudi Arabia
-Свазиленд,Swaziland
-Связь,Communication
-Священная Римская империя,Holy Roman Empire
-Северная Америка,North America
-Северная Дакота,North Dakota
-Северная Ирландия,Northern Ireland
-Северная Каролина,North Carolina
-Сейсмология,Seismology
-Сейшелы,Seychelles
-Сексуальность,Sexuality
-Сельское хозяйство,Agriculture
-Семантика,Semantics
-Семья,Family
-Сенегал,Senegal
-Сент-Винсент и Гренадины,Saint Vincent and the Grenadines
-Сербия,Serbia
-Сербия и Черногория,Serbia and Montenegro
-Сердечно-сосудистая система,Cardiovascular system
-Сингапур,Singapore
-Сирия,Syria
-Сицилия,Sicily
-Скандинавия,Scandinavia
-Скульптура,Sculpture
-Словакия,Slovakia
-Словения,Slovenia
-Сложноцветные,Asteraceae
-Смерть,Death
-Солнечная система,Solar System
-Солнце,Sun
-Соломоновы Острова,Solomon Islands
-Сомали,Somalia
-Социализм,Socialism
-Социология,Sociology
-Средиземное море,Mediterranean
-Средние века,Middle Ages
-Стамбул,Istanbul
-Статистика,Statistics
-Статьи,Fundamental
-Стоматология,Dentistry
-Судан,Sudan
-Суринам,Suriname
-Сьерра-Леоне,Sierra Leone
-Таджикистан,Tajikistan
-Таиланд,Thailand
-Тайвань,Taiwan
-Танзания,Tanzania
-Танцы,Dance
-Театр,Theatre
-Телевидение,Television
-Теннесси,Tennessee
-Теннис,Tennis
-Теория вероятностей,Probability theory
-Теория множеств,Set theory
-Термодинамика,Thermodynamics
-Терроризм,Terrorism
-Техас,Texas
-Технические науки,Engineering
-Технология,Technology
-Тибет,Tibet
-Типографика,Typography
-Тихий океан,Pacific Ocean
-Того,Togo
-Тонга,Tonga
-Топология,Topology
-Транспорт,Transportation
-Третий рейх,Nazi Germany
-Тригонометрия,Trigonometry
-Тринидад и Тобаго,Trinidad and Tobago
-Тувалу,Tuvalu
-Тунис,Tunisia
-Туризм,Tourism
-Туркмения,Turkmenistan
-Турция,Turkey
-Тюрингия,Thuringia
-Уганда,Uganda
-Уголовное право,Criminal law
-Узбекистан,Uzbekistan
-Украина,Ukraine
-Уран,Uranus
-Уругвай,Uruguay
-Уэльс,Wales
-Фантастика,Science fiction
-Фарерские острова,Faroe Islands
-Фармакология,Pharmacology
-Фашизм,Fascism
-Федеративные Штаты Микронезии,Federated States of Micronesia
-Феминизм,Feminism
-Фиджи,Fiji
-Физика,Physics
-Физика элементарных частиц,Particle physics
-Физиология,Physiology
-Физическая химия,Physical chemistry
-Филателия,Philately
-Филиппины,Philippines
-Филология,Philology
-Философия,Philosophy
-Финансы,Finance
-Финляндия,Finland
-Флорида,Florida
-Фольклор,Folklore
-Фонетика,Phonetics
-Фотография,Photography
-Франкфурт-на-Майне,Frankfurt
-Франция,France
-Французская Полинезия,French Polynesia
-Фрукты,Fruit
-Футбол,Football
-Футбол по странам,Football  by country
-Футболисты,Football  players
-Футбольные клубы,Football  clubs
-Футбольные стадионы,Football  venues
-Футбольные тренеры,Football  managers
-Химия,Chemistry
-Хирургия,Surgery
-Хоккей с шайбой,Ice hockey
-Холодная война,Cold War
-Хорватия,Croatia
-Христианство,Christianity
-Хронология,Chronology
-Центральная Америка,Central America
-Центрально-Африканская Республика,Central African Republic
-Чад,Chad
-Чай,Tea
-Черногория,Montenegro
-Чехия,Czech Republic
-Чехословакия,Czechoslovakia
-Чечня,Chechnya
-Чили,Chile
-Числа,Numbers
-Шахматы,Chess
-Швейцария,Switzerland
-Швеция,Sweden
-Шотландия,Scotland
-Шри-Ланка,Sri Lanka
-Эквадор,Ecuador
-Экваториальная Гвинея,Equatorial Guinea
-Экология,Ecology
-Экономика,Economics
-Электричество,Electricity
-Электромагнетизм,Electromagnetism
-Электроника,Electronics
-Электротехника,Electrical engineering
-Электрохимия,Electrochemistry
-Эмоции,Emotion
-Эндокринология,Endocrinology
-Энергия,Energy
-Энтомология,Entomology
-Эпоха Возрождения,Renaissance
-Эритрея,Eritrea
-Эсперанто,Esperanto
-Эстония,Estonia
-Этика,Ethics
-Этнология,Ethnology
-Эфиопия,Ethiopia
-ЮАР,South Africa
-Югославия,Yugoslavia
-Южная Америка,South America
-Южная Дакота,South Dakota
-Южная Каролина,South Carolina
-Южная Корея,South Korea
-Юмор,Humor
-Юпитер,Jupiter
-Юта,Utah
-Ядерная физика,Nuclear physics
-Ямайка,Jamaica
-Япония,Japan
 Катманду,Kathmandu
 Катовице,Katowice
 Катод,Cathode
@@ -3430,10 +3048,12 @@ UNIX,Unix
 Квазулу-Натал,KwaZulu-Natal
 Квакеры,Religious Society of Friends
 Квантовая механика,Quantum mechanics
+Квантовая механика,Quantum mechanics
 Квантовая теория поля,Quantum field theory
 Кварки,Quark
 Кварц,Quartz
 Кватернион,Quaternion
+Квебек,Quebec
 Квебек,Quebec
 Квебек,Quebec City
 Квестор,Quaestor
@@ -3455,9 +3075,11 @@ UNIX,Unix
 Кемниц,Chemnitz
 Кенгуру,Kangaroo
 Кения,Kenya
+Кения,Kenya
 Кент,Kent
 Кентавры,Centaur
 Кентербери,Canterbury
+Кентукки,Kentucky
 Кентукки,Kentucky
 "Кеплер, Иоганн",Johannes Kepler
 Керамика,Ceramic
@@ -3488,8 +3110,10 @@ UNIX,Unix
 Кингстаун,Kingstown
 Кингстон,Kingston
 Кинематика точки,Kinematics
+Кинематограф,Film
 Кинетическая энергия,Kinetic energy
 Кинжал,Dagger
+Кино,Film
 Киноварь,Cinnabar
 Кинорежиссёр,Film director
 Киншаса,Kinshasa
@@ -3497,8 +3121,11 @@ UNIX,Unix
 Кипарисовые,Cupressaceae
 "Киплинг, Джозеф Редьярд",Rudyard Kipling
 Кипр,Cyprus
+Кипр,Cyprus
 Кир II Великий,Cyrus the Great
 Киргизия,Kyrgyzstan
+Киргизия,Kyrgyzstan
+Кирибати,Kiribati
 Кирибати,Kiribati
 "Кирико, Джорджо де",Giorgio de Chirico
 Кириллица,Cyrillic alphabet
@@ -3509,10 +3136,11 @@ UNIX,Unix
 Кислотный дождь,Acid rain
 "Киссинджер, Генри Альфред",Henry Kissinger
 Кисть,Hand
-Кит,Whale
 Кит,Cetus
-Китай,People's Republic of China
+Кит,Whale
 Китай,China
+Китай,China
+Китай,People's Republic of China
 Китайская Республика,Republic of China
 Кито,Quito
 "Китон, Бастер",Buster Keaton
@@ -3534,6 +3162,7 @@ UNIX,Unix
 Классицизм,Classicism
 Классическая механика,Classical mechanics
 Классическая музыка,Classical music
+Классическая музыка,Classical music
 Клевер,Clover
 "Клее, Пауль",Paul Klee
 "Клемансо, Жорж",Georges Clemenceau
@@ -3545,6 +3174,8 @@ UNIX,Unix
 Кливленд,Cleveland
 "Кливленд, Гровер",Grover Cleveland
 Климат,Climate
+Климат,Climate
+Климатология,Climatology
 Климатология,Climatology
 "Климт, Густав",Gustav Klimt
 "Клинтон, Уильям Джефферсон",Bill Clinton
@@ -3603,10 +3234,12 @@ UNIX,Unix
 Коломбо,Colombo
 Колония,Colony
 Колорадо,Colorado
+Колорадо,Colorado
 Колорадо,Colorado River
 Колосс Родосский,Colossus of Rhodes
 "Колумб, Христофор",Christopher Columbus
 Колумбийский университет,Columbia University
+Колумбия,Colombia
 Колумбия,Colombia
 Колумбия,Columbia
 Колумбия,Columbia
@@ -3625,8 +3258,11 @@ UNIX,Unix
 "Коменский, Ян Амос",Comenius
 Комета,Comet
 Комитет государственной безопасности СССР,KGB
+Коммерция,Commerce
+Коммунизм,Communism
 Коммунизм,Communism
 Комодский варан,Komodo dragon
+Коморские острова,Comoros
 Коморские острова,Comoros
 Компакт-диск,Compact Disc
 Компас,Compass
@@ -3637,6 +3273,7 @@ UNIX,Unix
 Композиционный материал,Composite material
 "Комптон, Артур Холли",Arthur Compton
 Компьютер,Computer
+Компьютерная графика,Computer graphics
 Компьютерная игра,Video game
 Компьютерная мышь,Mouse
 Компьютерная программа,Computer program
@@ -3654,6 +3291,7 @@ UNIX,Unix
 Коническое сечение,Conic section
 Конкистадор,Conquistador
 Конкорд,Concord
+Коннектикут,Connecticut
 Коннектикут,Connecticut
 Конопля,Cannabis
 "Конрад, Джозеф",Joseph Conrad
@@ -3695,6 +3333,7 @@ UNIX,Unix
 "Корелли, Арканджело",Arcangelo Corelli
 Корень,Root
 Корея,Korea
+Корея,Korea
 Кориандр,Coriander
 Коринф,Corinth
 Корица,Cinnamon
@@ -3718,14 +3357,19 @@ UNIX,Unix
 Космические лучи,Cosmic ray
 Космический аппарат,Spacecraft
 Космология,Cosmology
+Космология,Cosmology
 Космонавт,Astronaut
 Косово,Kosovo
+Косово и Метохия,Kosovo
 Коста-Рика,Costa Rica
+Коста-Рика,Costa Rica
+Костная система,Skeletal system
 Костные рыбы,Osteichthyes
 Костный мозг человека,Bone marrow
 Кость,Bone
 Котону,Cotonou
 Котопакси,Cotopaxi
+Кофе,Coffee
 Кофе,Coffee
 Кофеин,Caffeine
 Кофейное дерево,Coffea
@@ -3763,8 +3407,11 @@ UNIX,Unix
 "Крик, Фрэнсис",Francis Crick
 Крикет,Cricket
 Криминология,Criminology
+Криминология,Criminology
+Криптография,Cryptography
 Криптография,Cryptography
 Криптон,Krypton
+Кристаллография,Crystallography
 Кристаллография,Crystallography
 Кристаллы,Crystal
 "Кристи, Агата",Agatha Christie
@@ -3795,10 +3442,12 @@ UNIX,Unix
 Куала-Лумпур,Kuala Lumpur
 Куб,Cube
 Куба,Cuba
+Куба,Cuba
 Кубизм,Cubism
 Кубический метр,Cubic metre
 Кубок Дэвиса,Davis Cup
 "Кубрик, Стэнли",Stanley Kubrick
+Кувейт,Kuwait
 Кувейт,Kuwait
 Кувейт,Kuwait City
 Кувшинковые,Nymphaeaceae
@@ -3809,6 +3458,7 @@ UNIX,Unix
 Кулинария,Cooking
 Кулон,Coulomb
 Культура,Culture
+Культура,Culture
 Культурная революция в Китае,Cultural Revolution
 Кумкват,Kumquat
 Кумранские рукописи,Dead Sea scrolls
@@ -3818,8 +3468,10 @@ UNIX,Unix
 Кура,Kura River
 "Курбе, Гюстав",Gustave Courbet
 Курдистан,Kurdistan
+Курдистан,Kurdistan
 Куритиба,Curitiba
 Курица,Chicken
+Курообразные,Galliformes
 Курообразные,Galliformes
 "Куросава, Акира",Akira Kurosawa
 Курск,Kursk
@@ -3860,9 +3512,11 @@ UNIX,Unix
 Лантаноиды,Lanthanide
 Лань,Fallow Deer
 Лаос,Laos
+Лаос,Laos
 Лас-Вегас,Las Vegas
 Ластоногие,Pinniped
 Ласточковые,Swallow
+Латвия,Latvia
 Латвия,Latvia
 Латинская Америка,Latin America
 Латинский алфавит,Latin alphabet
@@ -3875,8 +3529,8 @@ UNIX,Unix
 Лебеди,Swan
 Лебедь,Cygnus
 Лебедь-шипун,Mute Swan
-Лев,Lion
 Лев,Leo
+Лев,Lion
 Лев I Макелла,Leo I
 Левант,Levant
 Левиафан,Leviathan
@@ -3910,11 +3564,12 @@ UNIX,Unix
 Лесные ежи,Hedgehog
 Лесоводство,Forestry
 Лесото,Lesotho
+Лесото,Lesotho
 "Лессинг, Готхольд Эфраим",Gotthold Ephraim Lessing
 "Лессинг, Дорис",Doris Lessing
 Лестер,Leicester
-Лето,Summer
 Лето,Leto
+Лето,Summer
 Летучая Рыба,Volans
 Лещина,Hazel
 "Ли, Брюс",Bruce Lee
@@ -3922,12 +3577,16 @@ UNIX,Unix
 "Ли, Роберт Эдвард",Robert E. Lee
 "Ли, Трюгве Хальвдан",Trygve Lie
 Либерализм,Liberalism
+Либерализм,Liberalism
+Либерия,Liberia
 Либерия,Liberia
 Либревиль,Libreville
 Либретто,Libretto
 Ливан,Lebanon
+Ливан,Lebanon
 Ливерпуль,Liverpool
 "Ливингстон, Давид",David Livingstone
+Ливия,Libya
 Ливия,Libya
 Ливония,Livonia
 Лига Наций,League of Nations
@@ -3953,8 +3612,10 @@ UNIX,Unix
 Лимфатическая система,Lymphatic system
 Лингва-франка,Lingua franca
 Лингвистика,Linguistics
+Лингвистика,Linguistics
 Лингвистическая семантика,Semantics
 "Линдберг, Чарльз",Charles Lindbergh
+Линейная алгебра,Linear algebra
 Линейная алгебра,Linear algebra
 Линейное уравнение,Linear equation
 Линейный корабль,Battleship
@@ -3980,6 +3641,9 @@ UNIX,Unix
 "Лист, Ференц",Franz Liszt
 Лиственница,Larch
 Литва,Lithuania
+Литва,Lithuania
+Литература,Literature
+Литература,Literature
 Литература,Literature
 Литий,Lithium
 Литография,Lithography
@@ -3989,6 +3653,7 @@ UNIX,Unix
 Лихорадка,Fever
 Лихорадка денге,Dengue fever
 Лихтенштейн,Liechtenstein
+Лихтенштейн,Liechtenstein
 Лицо,Face
 Личи,Lychee
 Личинка,Larva
@@ -3996,6 +3661,7 @@ UNIX,Unix
 "Ллойд Уэббер, Эндрю",Andrew Lloyd Webber
 Ло,Lot
 Логарифм,Logarithm
+Логика,Logic
 Логика,Logic
 Логистика,Logistics
 Логический вентиль,Logic gate
@@ -4011,6 +3677,7 @@ UNIX,Unix
 Ломбардия,Lombardy
 Лонг-Айленд,Long Island
 Лонг-Бич,Long Beach
+Лондон,London
 Лондон,London
 Лондонское королевское общество,Royal Society
 Лопатка,Scapula
@@ -4033,6 +3700,7 @@ UNIX,Unix
 Лузитания,Lusitania
 Луи Арагон,Louis Aragon
 Луизиана,Louisiana
+Луизиана,Louisiana
 Луисвилл,Louisville
 Лук,Bow
 "Лукас, Джордж",George Lucas
@@ -4054,9 +3722,11 @@ UNIX,Unix
 Любовь,Love
 Людвиг Мис ван дер Роэ,Ludwig Mies van der Rohe
 Люди,Homo
+Люди,People
 Людовик I Благочестивый,Louis the Pious
 Людовик II Заика,Louis the Stammerer
 Люкс,Lux
+Люксембург,Luxembourg
 Люксембург,Luxembourg
 Люксембург,Luxembourg
 Люмен,Lumen
@@ -4071,6 +3741,7 @@ UNIX,Unix
 Люцифер,Lucifer
 Лямбда,Lambda
 Лёгкая атлетика,Athletics
+Лёгкая атлетика,Athletics
 Лёгкие,Lung
 Лёд,Ice
 Л’Аквила,L'Aquila
@@ -4079,6 +3750,8 @@ UNIX,Unix
 Маарианхамина,Mariehamn
 Маас,Meuse River
 Маврикий,Mauritius
+Маврикий,Mauritius
+Мавритания,Mauritania
 Мавритания,Mauritania
 "Магеллан, Фернан",Ferdinand Magellan
 Магелланов пролив,Strait of Magellan
@@ -4086,12 +3759,14 @@ UNIX,Unix
 Магия,Magic
 Магма,Magma
 Магнетизм,Magnetism
+Магнетизм,Magnetism
 Магнетит,Magnetite
 Магний,Magnesium
 Магнит,Magnet
 Магнитно-резонансная томография,Magnetic resonance imaging
 Магнитное поле,Magnetic field
 Магриб,Maghreb
+Мадагаскар,Madagascar
 Мадагаскар,Madagascar
 Мадейра,Madeira
 Маджента,Magenta
@@ -4118,10 +3793,13 @@ UNIX,Unix
 Маккартизм,McCarthyism
 "Маккартни, Пол",Paul McCartney
 Макроэкономика,Macroeconomics
+Макроэкономика,Macroeconomics
 "Максвелл, Джеймс Клерк",James Clerk Maxwell
 Максимиан,Maximian
 Малабо,Malabo
 Малави,Lake Malawi
+Малави,Malawi
+Малайзия,Malaysia
 Малайзия,Malaysia
 Малайский полуостров,Malay Peninsula
 Малахит,Malachite
@@ -4130,14 +3808,17 @@ UNIX,Unix
 "Малевич, Казимир Северинович",Kazimir Malevich
 "Малер, Густав",Gustav Mahler
 Мали,Mali
-Малина,Rubus idaeus
+Мали,Mali
 Малина,Raspberry
+Малина,Rubus idaeus
 Малколм Икс,Malcolm X
 Малые Антильские острова,Lesser Antilles
 Малый Пёс,Canis Minor
 Мальвовые,Malvaceae
 Мальдивы,Maldives
+Мальдивы,Maldives
 Мальорка,Majorca
+Мальта,Malta
 Мальта,Malta
 Мальтийский язык,Maltese language
 Мальтоза,Maltose
@@ -4185,15 +3866,19 @@ UNIX,Unix
 Марк Юний Брут,Marcus Junius Brutus
 Марке,Marche
 Маркетинг,Marketing
+Маркетинг,Marketing
 Маркиз де Сад,Marquis de Sade
 "Маркони, Гульельмо",Guglielmo Marconi
 "Маркс, Карл",Karl Marx
+Марксизм,Marxism
 Марксизм,Marxism
 "Маркузе, Герберт",Herbert Marcuse
 "Марли, Роберт Неста",Bob Marley
 "Марло, Кристофер",Christopher Marlowe
 Марокко,Morocco
+Марокко,Morocco
 Марракеш,Marrakech
+Марс,Mars
 Марс,Mars
 Марс,Mars
 Марсель,Marseille
@@ -4201,6 +3886,7 @@ UNIX,Unix
 Март,March
 Мартиника,Martinique
 "Маршалл, Джордж",George Marshall
+Маршалловы Острова,Marshall Islands
 Маршалловы Острова,Marshall Islands
 Маршрутизатор,Router
 Масеру,Maseru
@@ -4211,12 +3897,16 @@ UNIX,Unix
 Масонство,Freemasonry
 Масса,Mass
 Массачусетс,Massachusetts
+Массачусетс,Massachusetts
 Массачусетсский технологический институт,Massachusetts Institute of Technology
 Массовое число,Mass number
 Мастурбация,Masturbation
 Мата Хари,Mata Hari
 Математика,Mathematics
+Математика,Mathematics
+Математика,Mathematics
 Математическая лингвистика,Computational linguistics
+Математическая логика,Mathematical logic
 Математическая логика,Mathematical logic
 Математический анализ,Calculus
 Математический маятник,Pendulum
@@ -4241,9 +3931,11 @@ UNIX,Unix
 Машинный код,Machine code
 Машинный перевод,Machine translation
 Машиностроение,Mechanical engineering
+Машиностроение,Mechanical engineering
 Маяк,Lighthouse
 Маятник Фуко,Foucault pendulum
 Мбабане,Mbabane
+Мебель,Furniture
 Мебель,Furniture
 Мегабайт,Megabyte
 Медвежьи,Bear
@@ -4252,6 +3944,7 @@ UNIX,Unix
 Медина,Medina
 Медитация,Meditation
 Медицина,Medicine
+Медицина,Medicine
 Медичи,Medici
 Медуза,Jellyfish
 Медь,Copper
@@ -4259,9 +3952,11 @@ UNIX,Unix
 Международная организация гражданской авиации,International Civil Aviation Organization
 Международная организация труда,International Labour Organization
 Международное агентство по атомной энергии,International Atomic Energy Agency
+Международное право,International law
 Международные организации,International organization
 Международный валютный фонд,International Monetary Fund
 Международный суд ООН,International Court of Justice
+Междуречье,Mesopotamia
 Междуречье,Mesopotamia
 Межконтинентальная баллистическая ракета,Intercontinental ballistic missile
 Межсетевой экран,Firewall
@@ -4279,6 +3974,7 @@ UNIX,Unix
 Мейтнерий,Meitnerium
 Мекка,Mecca
 Меконг,Mekong
+Мексика,Mexico
 Мексика,Mexico
 Мексиканский залив,Gulf of Mexico
 Меланезия,Melanesia
@@ -4315,7 +4011,9 @@ UNIX,Unix
 Метаболизм,Metabolism
 Метаданные,Metadata
 Метадон,Methadone
+Метал,Heavy metal
 Метал,Heavy metal music
+Металлургия,Metallurgy
 Металлургия,Metallurgy
 Металлы,Metal
 Метаморфические горные породы,Metamorphic rock
@@ -4329,6 +4027,7 @@ UNIX,Unix
 Метеорный поток,Meteor shower
 Метеороид,Meteoroid
 Метеорология,Meteorology
+Метеорология,Meteorology
 Метида,Metis
 Метионин,Methionine
 Метод мозгового штурма,Brainstorming
@@ -4336,6 +4035,8 @@ UNIX,Unix
 Метонимия,Metonymy
 Метр,Metre
 Метрическое пространство,Metric space
+Метрополитен,Rapid transit
+Механика,Mechanics
 Механика,Mechanics
 Механическое движение,Motion
 Мехико,Mexico City
@@ -4348,6 +4049,8 @@ UNIX,Unix
 Микены,Mycenae
 Микки Маус,Mickey Mouse
 Микология,Mycology
+Микология,Mycology
+Микробиология,Microbiology
 Микробиология,Microbiology
 Микроволновая печь,Microwave oven
 Микроволновое излучение,Microwave
@@ -4357,6 +4060,7 @@ UNIX,Unix
 Микроскоп,Microscope
 Микроскоп,Microscopium
 Микрофон,Microphone
+Микроэкономика,Microeconomics
 Микроэкономика,Microeconomics
 Милан,Milan
 "Миллер, Артур",Arthur Miller
@@ -4374,12 +4078,14 @@ UNIX,Unix
 Минданао,Mindanao
 Минерал,Mineral
 Минералогия,Mineralogy
+Минералогия,Mineralogy
 Минеральная вода,Mineral water
 Минерва,Minerva
 Минимализм,Minimalism
 Министр,Minister
 "Минковский, Герман",Hermann Minkowski
 Миннеаполис,Minneapolis
+Миннесота,Minnesota
 Миннесота,Minnesota
 Миноги,Lamprey
 Минойская цивилизация,Minoan civilization
@@ -4393,29 +4099,35 @@ UNIX,Unix
 Мир,Peace
 Мировая война,World war
 Миропомазание,Confirmation
+Миссисипи,Mississippi
 Миссисипи,Mississippi River
-Миссури,Missouri River
 Миссури,Missouri
+Миссури,Missouri
+Миссури,Missouri River
 Мистицизм,Mysticism
 Митохондрия,Mitochondrion
 "Митчелл, Маргарет",Margaret Mitchell
 Миф,Myth
 Мифология,Mythology
-Мичиган,Michigan
+Мифология,Mythology
 Мичиган,Lake Michigan
+Мичиган,Michigan
+Мичиган,Michigan
 Мишна,Mishnah
 Млекопитающие,Mammal
 Млечный Путь,Milky Way
 Мнемозина,Mnemosyne
 Многогранник,Polyhedron
-Многоножки,Myriapoda
+Многозначные термины,Disambiguation
 Многоножки,Millipede
+Многоножки,Myriapoda
 Многоточие,Ellipsis
 Многоугольник,Polygon
 Многочлен,Polynomial
 Множество,Set
 Множество Мандельброта,Mandelbrot set
 Могадишо,Mogadishu
+Мода,Fashion
 Мода,Fashion
 Модем,Modem
 Модерн,Art Nouveau
@@ -4425,12 +4137,15 @@ UNIX,Unix
 Можжевельник,Juniper
 Мозаика,Mosaic
 Мозамбик,Mozambique
+Мозамбик,Mozambique
 Мозель,Moselle
 Мозжечок,Cerebellum
 Моисей,Moses
 Мойры,Moirae
 Молдавия,Moldova
+Молдавия,Moldova
 Молекула,Molecule
+Молекулярная биология,Molecular biology
 Молекулярная биология,Molecular biology
 Молибден,Molybdenum
 Молизе,Molise
@@ -4446,10 +4161,13 @@ UNIX,Unix
 Момент силы,Torque
 "Моммзен, Теодор",Theodor Mommsen
 Монако,Monaco
+Монако,Monaco
 Монарх,Monarch
+Монархия,Monarchy
 Монархия,Monarchy
 Монастырь,Monastery
 Монблан,Mont Blanc
+Монголия,Mongolia
 Монголия,Mongolia
 "Мондриан, Пит",Piet Mondrian
 "Моне, Клод",Claude Monet
@@ -4465,6 +4183,7 @@ UNIX,Unix
 Монреаль,Montreal
 "Монро, Джеймс",James Monroe
 Монровия,Monrovia
+Монтана,Montana
 Монтана,Montana
 Монтгомери,Montgomery
 Монте-Карло,Monte Carlo
@@ -4497,8 +4216,10 @@ UNIX,Unix
 Морфологический анализ,Morphology
 Морфология,Morphology
 Москва,Moscow
+Москва,Moscow
 Моссад,Mossad
 Мост,Bridge
+Мосты,Bridges
 Мосул,Mosul
 Мотет,Motet
 Мотоцикл,Motorcycle
@@ -4514,6 +4235,7 @@ UNIX,Unix
 "Мубарак, Хосни",Hosni Mubarak
 Музей,Museum
 Музы,Muse
+Музыка,Music
 Музыка,Music
 Музыкальный альбом,Album
 Музыкальный инструмент,Musical instrument
@@ -4552,10 +4274,14 @@ UNIX,Unix
 Мышцы,Muscle
 Мышьяк,Arsenic
 Мьянма,Burma
+Мьянма,Burma
+Мьянма,Myanmar
 Мэдисон,Madison
 "Мэдисон, Джеймс",James Madison
 Мэн,Maine
+Мэн,Maine
 Мэр,Mayor
+Мэриленд,Maryland
 Мэриленд,Maryland
 Мэрилин Монро,Marilyn Monroe
 Мю,Mu
@@ -4568,7 +4294,9 @@ UNIX,Unix
 Мёз,Meuse
 "Мёрдок, Руперт",Rupert Murdoch
 Мёртвое море,Dead Sea
+НАТО,NATO
 "Набоков, Владимир Владимирович",Vladimir Nabokov
+Навигация,Navigation
 Навигация,Navigation
 Наводнение,Flood
 "Навратилова, Мартина",Martina Navratilova
@@ -4582,8 +4310,10 @@ UNIX,Unix
 "Найтингейл, Флоренс",Florence Nightingale
 Наклонная плоскость,Inclined plane
 Налог,Tax
+Налогообложение,Taxation
 Намаз,Salah
 Намиб,Namib Desert
+Намибия,Namibia
 Намибия,Namibia
 Намюр,Namur
 Нанга Парбат,Nanga Parbat
@@ -4606,8 +4336,8 @@ UNIX,Unix
 Население Земли,Population
 "Насер, Гамаль Абдель",Gamal Abdel Nasser
 Насилие,Violence
-Насос,Pump
 Насос,Antlia
+Насос,Pump
 Нассау,Nassau
 Настольная игра,Board game
 Настольный теннис,Table tennis
@@ -4620,27 +4350,36 @@ UNIX,Unix
 Натуризм,Naturism
 Наугольник,Norma
 Наука,Science
+Наука,Science
 Науки о Земле,Earth science
+Науру,Nauru
 Науру,Nauru
 Научная фантастика,Science fiction
 Научный метод,Scientific method
+Нацизм,Nazism
 Национал-социалистическая немецкая рабочая партия,Nazi Party
+Национализм,Nationalism
 Национализм,Nationalism
 Национальный парк,National park
 Нация,Nation
 Нашвилл,Nashville
 Наёмник,Mercenary
 Нджамена,N'Djamena
+Неакадемические направления исследований,Pseudoscience
 Неандерталец,Neanderthal
 Неаполь,Naples
 Небесная механика,Celestial mechanics
+Небесная механика,Celestial mechanics
 Небесная сфера,Celestial sphere
-Небесная сфера#.D0.97.D0.B5.D0.BD.D0.B8.D1.82 .D0.B8 .D0.BD.D0.B0.D0.B4.D0.B8.D1.80,Zenith
 Небесная сфера#.D0.97.D0.B5.D0.BD.D0.B8.D1.82 .D0.B8 .D0.BD.D0.B0.D0.B4.D0.B8.D1.80,Nadir
+Небесная сфера#.D0.97.D0.B5.D0.BD.D0.B8.D1.82 .D0.B8 .D0.BD.D0.B0.D0.B4.D0.B8.D1.80,Zenith
 Небоскрёб,Skyscraper
+Небраска,Nebraska
 Небраска,Nebraska
 Нева,Neva River
 Невада,Nevada
+Невада,Nevada
+Неврология,Neurology
 Неврология,Neurology
 Негев,Negev
 Неделя,Week
@@ -4664,6 +4403,7 @@ UNIX,Unix
 Немецкая марка,German mark
 Немецкая овчарка,German Shepherd Dog
 Немецкий язык,German language
+Немецкий язык,German language
 Ненависть,Hatred
 Неодим,Neodymium
 Неолит,Neolithic
@@ -4672,6 +4412,8 @@ UNIX,Unix
 Неоплатонизм,Neoplatonism
 Неопознанный летающий объект,Unidentified flying object
 Неорганическая химия,Inorganic chemistry
+Неорганическая химия,Inorganic chemistry
+Непал,Nepal
 Непал,Nepal
 "Непер, Джон",John Napier
 Неполнозубые,Xenarthra
@@ -4680,11 +4422,13 @@ UNIX,Unix
 Неравенство,Inequality
 Нерва,Nerva
 Нервная система,Nervous system
+Нервная система,Nervous system
 Нереида,Nereid
 Нержавеющая сталь,Stainless steel
 Нерон,Nero
 "Неру, Джавахарлал",Jawaharlal Nehru
 Несторианство,Nestorianism
+Нет источника,Fact
 Нетрадиционная медицина,Alternative medicine
 Нефертити,Nefertiti
 Нефрит,Jade
@@ -4694,16 +4438,21 @@ UNIX,Unix
 Ниагарский водопад,Niagara Falls
 Ниамей,Niamey
 Нигер,Niger
+Нигер,Niger
 Нигер,Niger River
+Нигерия,Nigeria
 Нигерия,Nigeria
 Нигилизм,Nihilism
 Нидерландские Антильские острова,Netherlands Antilles
+Нидерланды,Dutch people
+Нидерланды,Netherlands
 Нидерланды,Netherlands
 Нижненемецкий язык,Low German
 Нижняя Калифорния,Baja California
 Нижняя Нормандия,Basse-Normandie
 Нижняя Саксония,Lower Saxony
 Ника,Nike
+Никарагуа,Nicaragua
 Никарагуа,Nicaragua
 Никейский символ веры,Nicene Creed
 Никель,Nickel
@@ -4712,8 +4461,8 @@ UNIX,Unix
 Никотин,Nicotine
 Никотиновая кислота,Niacin
 "Никсон, Ричард Милхауз",Richard Nixon
-Никта,Nyx
 Никта,Nix
+Никта,Nyx
 Нил,Nile
 Нильский крокодил,Nile crocodile
 Нимфы,Nymph
@@ -4725,10 +4474,12 @@ UNIX,Unix
 Нитроглицерин,Nitroglycerin
 Ницца,Nice
 Нобелевская премия,Nobel Prize
+Нобелевские премии,Nobel Prize
 Нобелий,Nobelium
 "Нобель, Альфред Бернхард",Alfred Nobel
 Новая Англия,New England
 Новая Гвинея,New Guinea
+Новая Зеландия,New Zealand
 Новая Зеландия,New Zealand
 Новая Земля,Novaya Zemlya
 Новая Каледония,New Caledonia
@@ -4745,6 +4496,7 @@ UNIX,Unix
 Нож,Knife
 Ножницы,Scissors
 Ной,Noah
+Норвегия,Norway
 Норвегия,Norway
 Норвежская крона,Norwegian krone
 Норвежское море,Norwegian Sea
@@ -4765,16 +4517,21 @@ UNIX,Unix
 Нуклон,Nucleon
 Нумидия,Numidia
 Нумизматика,Numismatics
+Нумизматика,Numismatics
 Нунавут,Nunavut
 Нут,Chickpea
 Нью-Брансуик,New Brunswick
 Нью-Гэмпшир,New Hampshire
 Нью-Дели,New Delhi
 Нью-Джерси,New Jersey
+Нью-Джерси,New Jersey
+Нью-Йорк,New York
+Нью-Йорк,New York
+Нью-Йорк,New York
 Нью-Йорк,New York City
-Нью-Йорк,New York
-Нью-Йорк,New York
+Нью-Йорк,New York City
 Нью-Йоркская фондовая биржа,New York Stock Exchange
+Нью-Мексико,New Mexico
 Нью-Мексико,New Mexico
 Ньюарк,Newark
 "Ньюман, Пол",Paul Newman
@@ -4786,6 +4543,7 @@ UNIX,Unix
 Ньёрд,Njord
 Ню,Nu
 Нюрнберг,Nuremberg
+ООН,United Nations
 ОПЕК,OPEC
 Оазис,Oasis
 Оахака,Oaxaca
@@ -4798,6 +4556,7 @@ UNIX,Unix
 Оборотни,Werewolf
 Обработка естественного языка,Natural language processing
 Образование,Education
+Образование,Education
 Обратная связь,Feedback
 Обрезание,Circumcision
 Обсерватория,Observatory
@@ -4807,8 +4566,10 @@ UNIX,Unix
 Общение,Communication
 Общественное достояние,Public domain
 Общество,Society
+Общество,Society
 Объединение множеств,Union
 Объединённая Арабская Республика,United Arab Republic
+Объединённые Арабские Эмираты,United Arab Emirates
 Объединённые Арабские Эмираты,United Arab Emirates
 Объектно-ориентированное программирование,Object-oriented programming
 Объём,Volume
@@ -4822,8 +4583,9 @@ UNIX,Unix
 "Овидий, Публий Назон",Ovid
 Овощи,Vegetable
 Овьедо,Oviedo
-Овёс,Oat
 Овёс,Avena
+Овёс,Oat
+Огайо,Ohio
 Огайо,Ohio
 Огаста,Augusta
 Огненная Земля,Tierra del Fuego
@@ -4831,6 +4593,7 @@ UNIX,Unix
 Огонь,Fire
 Огурец обыкновенный,Cucumber
 Ода,Ode
+Одежда,Clothing
 Одежда,Clothing
 Одесса,Odessa
 Один,Odin
@@ -4852,11 +4615,14 @@ UNIX,Unix
 Океан,Oceanus
 Океаниды,Oceanid
 Океания,Oceania
+Океания,Oceania
+Океанология,Oceanography
 Океанология,Oceanography
 Оклахома,Oklahoma
+Оклахома,Oklahoma
 Оклахома-сити,Oklahoma City
-Окленд,Oakland
 Окленд,Auckland
+Окленд,Oakland
 Окно,Window
 Окружающая среда,Environment
 Окружность,Circle
@@ -4885,6 +4651,7 @@ UNIX,Unix
 Олигоцен,Oligocene
 Олимп,Mount Olympus
 Олимпийские игры,Olympic Games
+Олимпийские игры,Olympics
 Олимпия,Olympia
 Олимпия,Olympia
 Олово,Tin
@@ -4893,6 +4660,7 @@ UNIX,Unix
 Ольха,Alder
 Ом,Ohm
 Оман,Oman
+Оман,Oman
 Оманский залив,Gulf of Oman
 Омаха,Omaha
 Омега,Omega
@@ -4900,9 +4668,11 @@ UNIX,Unix
 Омоним,Homonym
 Омск,Omsk
 Онежское озеро,Lake Onega
+Онкология,Oncology
 "Оно, Йоко",Yoko Ono
 Ономастика,Onomastics
 Онтарио,Lake Ontario
+Онтарио,Ontario
 Онтарио,Ontario
 Онтология,Ontology
 Опал,Opal
@@ -4912,6 +4682,7 @@ UNIX,Unix
 Опиум,Opium
 "Оппенгеймер, Роберт",Robert Oppenheimer
 Определитель,Determinant
+Оптика,Optics
 Оптика,Optics
 Оптимизация,Optimization
 Оптические иллюзии,Optical illusion
@@ -4935,9 +4706,11 @@ UNIX,Unix
 Организация освобождения Палестины,Palestine Liberation Organization
 Организм,Organism
 Органическая химия,Organic chemistry
+Органическая химия,Organic chemistry
 Органические вещества,Organic compound
 Органоиды,Organelle
 Ордовик,Ordovician
+Орегон,Oregon
 Орегон,Oregon
 Орест,Orestes
 Орех,Nut
@@ -4950,6 +4723,7 @@ UNIX,Unix
 Орландо,Orlando
 Орлиные,Eagle
 Ормузский пролив,Strait of Hormuz
+Орнитология,Ornithology
 Орнитология,Ornithology
 "Ортега, Даниэль",Daniel Ortega
 Ортофосфорная кислота,Phosphoric acid
@@ -4970,6 +4744,7 @@ UNIX,Unix
 Осло,Oslo
 Осман I,Osman I
 Османская империя,Ottoman Empire
+Османская империя,Ottoman Empire
 Осмий,Osmium
 Осоед обыкновенный,Honey Buzzard
 Осоковые,Cyperaceae
@@ -4980,6 +4755,7 @@ UNIX,Unix
 Острава,Ostrava
 Острая респираторная вирусная инфекция,Common cold
 Остров,Island
+Остров Мэн,Isle of Man
 Остров Мэн,Isle of Man
 Остров Норфолк,Norfolk Island
 Остров Принца Эдуарда,Prince Edward Island
@@ -5004,6 +4780,7 @@ UNIX,Unix
 "Оффенбах, Жак",Jacques Offenbach
 Охота,Hunting
 Охотское море,Sea of Okhotsk
+Охрана окружающей среды,Environment
 Очки,Glasses
 "О’Нил, Юджин Гладстон",Eugene O'Neill
 Пабло Неруда,Pablo Neruda
@@ -5015,12 +4792,16 @@ UNIX,Unix
 Падуя,Padua
 Пажитник сенной,Fenugreek
 Пакистан,Pakistan
+Пакистан,Pakistan
 Палата представителей США,United States House of Representatives
+Палау,Palau
 Палау,Palau
 Палеозой,Paleozoic
 Палеолит,Paleolithic
 Палеонтология,Paleontology
+Палеонтология,Paleontology
 Палермо,Palermo
+Палестина,Palestine
 Палестина,Palestine
 Палестинская автономия,Palestinian National Authority
 Палец,Finger
@@ -5034,12 +4815,14 @@ UNIX,Unix
 Память,Memory
 Пан,Pan
 Панама,Panama
+Панама,Panama
 Панама,Panama City
 Панамский канал,Panama Canal
 Панамский перешеек,Isthmus of Panama
 Пангея,Pangaea
 Пандемия,Pandemic
 Пандора,Pandora
+Панк,Punk
 Панк-рок,Punk rock
 Пантеизм,Pantheism
 Пантеон,Pantheon
@@ -5049,8 +4832,10 @@ UNIX,Unix
 Папская область,Papal States
 Папство,Pope
 Папуа — Новая Гвинея,Papua New Guinea
+Папуа — Новая Гвинея,Papua New Guinea
 Пар,Steam
 Парабола,Parabola
+Парагвай,Paraguay
 Парагвай,Paraguay
 Парадигма,Paradigm
 Парадокс,Paradox
@@ -5065,6 +4850,7 @@ UNIX,Unix
 Парашют,Parachute
 Парвати,Parvati
 "Парето, Вильфредо",Vilfredo Pareto
+Париж,Paris
 Париж,Paris
 Парис,Paris
 "Паркер, Чарльз",Charlie Parker
@@ -5090,6 +4876,7 @@ UNIX,Unix
 Паскаль,Pascal
 "Паскаль, Блез",Blaise Pascal
 Паслёновые,Solanaceae
+Паслёновые,Solanaceae
 Паспорт,Passport
 "Пастер, Луи",Louis Pasteur
 Пастеризация,Pasteurization
@@ -5111,6 +4898,7 @@ UNIX,Unix
 Пегас,Pegasus
 Пегас,Pegasus
 Педагогика,Pedagogy
+Педагогика,Pedagogy
 Педиатрия,Pediatrics
 Педофилия,Pedophilia
 "Пейн, Томас",Thomas Paine
@@ -5120,11 +4908,13 @@ UNIX,Unix
 Пенджаб,Punjab
 Пенелопа,Penelope
 Пенсильвания,Pennsylvania
+Пенсильвания,Pennsylvania
 Пенсильванский университет,University of Pennsylvania
 Пентаграмма,Pentagram
 Пепельная среда,Ash Wednesday
 Пепси-кола,Pepsi
 Пептиды,Peptide
+Первая мировая война,World War I
 Первая мировая война,World War I
 Первая помощь,First aid
 Первобытное общество,Prehistory
@@ -5136,6 +4926,7 @@ UNIX,Unix
 Перевал,Mountain pass
 Переменный ток,Alternating current
 Перепись населения,Census
+Перепончатокрылые,Hymenoptera
 Перепончатокрылые,Hymenoptera
 Переработка отходов,Recycling
 Пересечение множеств,Intersection
@@ -5160,7 +4951,9 @@ UNIX,Unix
 Персидский залив,Persian Gulf
 Персик,Peach
 Персонаж,Fictional character
+Персоналии,Biography
 Перт,Perth
+Перу,Peru
 Перу,Peru
 Песах,Passover
 Песец,Arctic fox
@@ -5181,6 +4974,7 @@ UNIX,Unix
 Пи,Pi
 "Пиаже, Жан",Jean Piaget
 Пиар,Public relations
+Пиво,Beer
 Пиво,Beer
 Пиджин,Pidgin
 Пиза,Pisa
@@ -5205,6 +4999,7 @@ UNIX,Unix
 "Писарро, Франсиско",Francisco Pizarro
 Пистолет,Handgun
 Письменность,Writing system
+Питание,Nutrition
 Питтсбург,Pittsburgh
 Пифагор,Pythagoras
 Пихта,Fir
@@ -5212,9 +5007,11 @@ UNIX,Unix
 Пишущая машинка,Typewriter
 Пища,Food
 Пищеварение,Digestion
+Пищеварительная система,Digestive system
 Пищевая цепь,Food chain
 Пищевод человека,Esophagus
 Пищевые добавки,Food additive
+Плавание,Swimming
 Плавание,Swimming
 Плавление,Melting
 Плагиат,Plagiarism
@@ -5300,8 +5097,11 @@ UNIX,Unix
 Политеизм,Polytheism
 Политик,Politician
 Политика,Politics
+Политика,Politics
 Политическая партия,Political party
 Политология,Political science
+Политология,Political science
+Полиция,Law enforcement
 Полиция,Police
 Полиэтилен,Polyethylene
 Полк,Regiment
@@ -5321,6 +5121,7 @@ UNIX,Unix
 Полупроводник,Semiconductor
 Полынь,Artemisia
 Полынь горькая,Artemisia absinthium
+Польша,Poland
 Польша,Poland
 Полярная звезда,Polaris
 Полярное сияние,Aurora
@@ -5345,22 +5146,12 @@ UNIX,Unix
 Порт-Морсби,Port Moresby
 Порт-о-Пренс,Port-au-Prince
 Порт-оф-Спейн,Port of Spain
-Астрономия,Astronomy
-Биология,Biology
-География,Geography
-История,History
-Кино,Film
-Литература,Literature
-Математика,Mathematics
-Персоналии,Biography
-Физика,Physics
-Философия,Philosophy
-Химия,Chemistry
 Портленд,Portland
 Портленд,Portland
 Портрет,Portrait
 Портсмут,Portsmouth
 Порту,Porto
+Португалия,Portugal
 Португалия,Portugal
 Поршень,Piston
 Посейдон,Poseidon
@@ -5383,16 +5174,20 @@ UNIX,Unix
 Почтовая марка,Postage stamp
 Почтовый индекс,Postal code
 Поэзия,Poetry
+Поэзия,Poetry
 Пояс Койпера,Kuiper belt
 Правильный тетраэдр,Tetrahedron
 Правильный шестиугольник,Hexagon
 Правительство,Government
 Право,Law
+Право,Law
 Православие,Eastern Orthodox Church
+Прага,Prague
 Прага,Prague
 Праздник,Holiday
 Празеодим,Praseodymium
 Прая,Praia
+Предприниматели,Businesspeople
 Предприятие,Business
 Предстательная железа,Prostate
 Презерватив,Condom
@@ -5415,20 +5210,25 @@ UNIX,Unix
 Прикладная математика,Applied mathematics
 Прилив,Tide
 Приматы,Primate
+Приматы,Primates
 Принстонский университет,Princeton University
 Принц Уэльский,Prince of Wales
 Принцип Паули,Pauli exclusion principle
 Принцип неопределённости Гейзенберга,Uncertainty principle
 Прионы,Prion
 Природа,Nature
+Природа,Nature
 Природная зона,Biome
 Природный газ,Natural gas
 "Пристли, Джозеф",Joseph Priestley
 Приток,Tributary
 Провиденс,Providence
+Программа «Аполлон»,Apollo program
+Программирование,Computer programming
 Программирование,Computer programming
 Программист,Programmer
 Программное обеспечение,Computer software
+Программное обеспечение,Software
 Прогрессивный рок,Progressive rock
 Продовольственная и сельскохозяйственная организация ООН,Food and Agriculture Organization
 Продуценты,Autotroph
@@ -5438,14 +5238,17 @@ UNIX,Unix
 Прокариоты,Prokaryote
 Проксима Центавра,Proxima Centauri
 Пролив,Strait
+Проливы,Straits
 Пролог,Prolog
 Прометей,Prometheus
 Прометий,Promethium
 Промышленная революция,Industrial Revolution
 Промышленность,Industry
+Промышленность,Industry
 Пропаганда,Propaganda
 Пропан,Propane
 Пророк,Prophet
+Простейшие,Protista
 Простое число,Prime number
 Пространство,Space
 Простые эфиры,Ether
@@ -5472,9 +5275,11 @@ UNIX,Unix
 Псевдоним,Pseudonym
 Пси,Psi
 Психиатрия,Psychiatry
+Психиатрия,Psychiatry
 Психическое расстройство,Mental disorder
 Психоанализ,Psychoanalysis
 Психоз,Psychosis
+Психология,Psychology
 Психология,Psychology
 Психология развития,Developmental psychology
 Психотерапия,Psychotherapy
@@ -5495,6 +5300,7 @@ UNIX,Unix
 Пульсар,Pulsar
 Пума,Cougar
 "Пуссен, Никола",Nicolas Poussin
+Пустыни,Deserts
 Пустыня,Desert
 Пустыня Сахара,Sahara
 "Путин, Владимир Владимирович",Vladimir Putin
@@ -5502,8 +5308,10 @@ UNIX,Unix
 Пушка,Cannon
 "Пушкин, Александр Сергеевич",Alexander Pushkin
 Пуэрто-Рико,Puerto Rico
+Пуэрто-Рико,Puerto Rico
 Пхеньян,Pyongyang
 Пчела,Bee
+Пчеловодство,Beekeeping
 Пшеница,Wheat
 Пыльца,Pollen
 Пытка,Torture
@@ -5525,6 +5333,7 @@ UNIX,Unix
 Равноденствие,Equinox
 Радиан,Radian
 Радий,Radium
+Радио,Radio
 Радиоактивный распад,Radioactive decay
 Радиолокационная станция,Radar
 Радиотелескоп,Radio telescope
@@ -5534,6 +5343,7 @@ UNIX,Unix
 Радуга,Rainbow
 Радужная оболочка,Iris
 Разведка,Espionage
+Развлечения,Entertainment
 Развод,Divorce
 Разлом,Fault
 Размерность пространства,Dimension
@@ -5555,6 +5365,7 @@ UNIX,Unix
 Рангун,Yangon
 Рапс,Rapeseed
 Раса,Race
+Расизм,Racism
 Расизм и расовая дискриминация,Racism
 "Расин, Жан",Jean Racine
 Распятие,Crucifixion
@@ -5596,6 +5407,7 @@ UNIX,Unix
 Рекурсия,Recursion
 Реле,Relay
 Религия,Religion
+Религия,Religion
 Реликтовое излучение,Cosmic microwave background radiation
 Релятивизм,Relativism
 "Рембо, Жан Никола Артюр",Arthur Rimbaud
@@ -5608,6 +5420,7 @@ UNIX,Unix
 Ресифи,Recife
 Республика,Republic
 Республика,Roman Republic
+Республика Конго,Republic of the Congo
 Республика Конго,Republic of the Congo
 Республика Корея,South Korea
 Республиканская партия США,Republican Party
@@ -5630,9 +5443,11 @@ UNIX,Unix
 "Рикардо, Давид",David Ricardo
 "Рильке, Райнер Мария",Rainer Maria Rilke
 Рим,Rome
+Рим,Rome
 "Риман, Бернхард",Bernhard Riemann
 Римская империя,Roman Empire
 Римская империя,Western Roman Empire
+Римская мифология,Roman mythology
 Римский календарь,Roman calendar
 Римский легион,Roman legion
 Римско-католическая церковь,Roman Catholic Church
@@ -5645,6 +5460,7 @@ UNIX,Unix
 Ритм,Rhythm
 Ритм-н-блюз,Rhythm and blues
 Риторика,Rhetoric
+Риторика,Rhetoric
 Рифма,Rhyme
 Ричмонд,Richmond
 "Ришельё, Арман Жан дю Плесси",Cardinal Richelieu
@@ -5655,6 +5471,7 @@ UNIX,Unix
 Роговица,Cornea
 Род,Genus
 Род,Grammatical gender
+Род-Айленд,Rhode Island
 Род-Айленд,Rhode Island
 "Роден, Франсуа Огюст Рене",Auguste Rodin
 Родий,Rhodium
@@ -5673,6 +5490,7 @@ UNIX,Unix
 Розо,Roseau
 Розовые,Rosales
 Розовый цвет,Pink
+Рок,Rock music
 Рок-музыка,Rock music
 Рок-н-ролл,Rock and roll
 Рокировка,Castling
@@ -5686,11 +5504,13 @@ UNIX,Unix
 Роса,Dew
 Росарио,Rosario
 Россия,Russia
+Россия,Russia
 Росток,Rostock
 Рота,Company
 Роттердам,Rotterdam
 Рош Ха-Шана,Rosh Hashanah
 Ртуть,Mercury
+Руанда,Rwanda
 Руанда,Rwanda
 "Рубенс, Питер Пауль",Peter Paul Rubens
 Рубидий,Rubidium
@@ -5701,6 +5521,8 @@ UNIX,Unix
 "Рузвельт, Теодор",Theodore Roosevelt
 "Рузвельт, Элеонора",Eleanor Roosevelt
 Рукокрылые,Bat
+Рукокрылые,Bats
+Румыния,Romania
 Румыния,Romania
 Русалка,Mermaid
 Русская православная церковь,Russian Orthodox Church
@@ -5708,7 +5530,9 @@ UNIX,Unix
 "Руссо, Жан-Жак",Jean-Jacques Rousseau
 Рутений,Ruthenium
 "Рушди, Салман",Salman Rushdie
+Рыбная ловля,Fishing
 Рыболовство,Fishing
+Рыбы,Fish
 Рыбы,Fish
 Рыбы,Pisces
 Рыбья икра,Caviar
@@ -5722,6 +5546,8 @@ UNIX,Unix
 СА,Sturmabteilung
 СИ,International System of Units
 СС,Schutzstaffel
+СССР,Soviet Union
+США,United States
 Саванна,Savanna
 "Савонарола, Джироламо",Girolamo Savonarola
 Сад,Garden
@@ -5731,20 +5557,24 @@ UNIX,Unix
 Саке,Sake
 Сакраменто,Sacramento
 Саксония,Saxony
+Саксония,Saxony
 Саксофон,Saxophone
 Салах ад-Дин,Saladin
 Салвадор,Salvador
 Салерно,Salerno
 Салоники,Thessaloniki
 Сальвадор,El Salvador
+Сальвадор,El Salvador
 Самара,Samara
 Самарий,Samarium
 Самарканд,Samarkand
+Самоа,Samoa
 Самоа,Samoa
 Самсара,Samsara
 Самурай,Samurai
 Сан-Антонио,San Antonio
 Сан-Диего,San Diego
+Сан-Марино,San Marino
 Сан-Марино,San Marino
 Сан-Марино,San Marino
 Сан-Сальвадор,San Salvador
@@ -5753,6 +5583,7 @@ UNIX,Unix
 Сан-Хуан,San Juan
 Сандвич,Sandwich
 Сандро Боттичелли,Sandro Botticelli
+Санкт-Петербург,Saint Petersburg
 Санкт-Петербург,Saint Petersburg
 Санскрит,Sanskrit
 Санта Клаус,Santa Claus
@@ -5785,11 +5616,14 @@ UNIX,Unix
 Сатурн,Saturn
 Сатурн,Saturn
 Сатурн,Saturn
+Сатурн,Saturn
+Саудовская Аравия,Saudi Arabia
 Саудовская Аравия,Saudi Arabia
 Сахар,Sugar
 Сахарный диабет,Diabetes mellitus
 "Сахаров, Андрей Дмитриевич",Andrei Sakharov
 Сахароза,Sucrose
+Свазиленд,Swaziland
 Свазиленд,Swaziland
 Свалка,Landfill
 Сварка,Welding
@@ -5807,6 +5641,7 @@ UNIX,Unix
 Свобода воли,Free will
 Свобода слова,Freedom of speech
 Свободное государство,Free State
+Связь,Communication
 Связь,Telecommunication
 Святая инквизиция,Inquisition
 Святой,Saint
@@ -5814,13 +5649,18 @@ UNIX,Unix
 Святой Дух,Holy Spirit
 Святой Патрик,Saint Patrick
 Священная Римская империя,Holy Roman Empire
+Священная Римская империя,Holy Roman Empire
 Севастополь,Sevastopol
 Север,North
 Северная Америка,North America
+Северная Америка,North America
 Северная Африка,North Africa
+Северная Дакота,North Dakota
 Северная Дакота,North Dakota
 Северная Европа,Northern Europe
 Северная Ирландия,Northern Ireland
+Северная Ирландия,Northern Ireland
+Северная Каролина,North Carolina
 Северная Каролина,North Carolina
 Северная Корона,Corona Borealis
 Северная территория,Northern Territory
@@ -5839,9 +5679,12 @@ UNIX,Unix
 Сейлем,Salem
 "Сеймур, Джейн",Jane Seymour
 Сейсмология,Seismology
+Сейсмология,Seismology
+Сейшелы,Seychelles
 Сейшелы,Seychelles
 Сексизм,Sexism
 Секстант,Sextant
+Сексуальность,Sexuality
 Сексуальные девиации,Paraphilia
 Секта,Sect
 Сектор Газа,Gaza Strip
@@ -5854,16 +5697,21 @@ UNIX,Unix
 "Селлерс, Питер",Peter Sellers
 Сельдерей,Celery
 Сельское хозяйство,Agriculture
+Сельское хозяйство,Agriculture
+Семантика,Semantics
 Семейство,Family
 Семенные растения,Spermatophyte
 Семилетняя война,Seven Years' War
 Семиотика,Semiotics
 Семиты,Semitic
+Семья,Family
 Семя,Seed
 Сена,Seine
 Сенат США,United States Senate
 "Сенгер, Фредерик",Frederick Sanger
 Сенегал,Senegal
+Сенегал,Senegal
+Сент-Винсент и Гренадины,Saint Vincent and the Grenadines
 Сент-Винсент и Гренадины,Saint Vincent and the Grenadines
 Сент-Китс и Невис,Saint Kitts and Nevis
 Сент-Луис,St. Louis
@@ -5874,9 +5722,12 @@ UNIX,Unix
 Септуагинта,Septuagint
 Сера,Sulfur
 Сербия,Serbia
+Сербия,Serbia
+Сербия и Черногория,Serbia and Montenegro
 Сербия и Черногория,Serbia and Montenegro
 "Сервантес, Мигель де",Miguel de Cervantes
 Сервер,Server
+Сердечно-сосудистая система,Cardiovascular system
 Сердце,Heart
 Серебристая чайка,Herring Gull
 Серебро,Silver
@@ -5927,6 +5778,7 @@ UNIX,Unix
 Синайский полуостров,Sinai Peninsula
 "Синатра, Фрэнсис Альберт",Frank Sinatra
 Сингапур,Singapore
+Сингапур,Singapore
 Сингл,Single
 Синдикат,Syndicate
 Синдром Дауна,Down syndrome
@@ -5947,6 +5799,7 @@ UNIX,Unix
 Сирены,Sirenia
 Сириус,Sirius
 Сирия,Syria
+Сирия,Syria
 Сирс-Тауэр,Sears Tower
 Система,System
 Система автоматизации проектных работ,Computer-aided design
@@ -5956,12 +5809,14 @@ UNIX,Unix
 Ситуационная комедия,Situation comedy
 Сифилис,Syphilis
 Сицилия,Sicily
+Сицилия,Sicily
 Сиэтл,Seattle
 Скагеррак,Skagerrak
 Сказка,Fairy tale
 Скайлэб,Skylab
 Скалистые горы,Rocky Mountains
 Скандий,Scandium
+Скандинавия,Scandinavia
 Скандинавия,Scandinavia
 Скандинавский полуостров,Scandinavian Peninsula
 Сканер,Image scanner
@@ -5987,17 +5842,21 @@ UNIX,Unix
 Скрэббл,Scrabble
 Скульптор,Sculptor
 Скульптура,Sculpture
+Скульптура,Sculpture
 Слабое взаимодействие,Weak interaction
 Слепота,Blindness
 Слива,Prunus
 Слива домашняя,Plum
 Сливочное масло,Butter
 Словакия,Slovakia
+Словакия,Slovakia
 Словарь,Dictionary
+Словения,Slovenia
 Словения,Slovenia
 Слово,Word
 Слог,Syllable
 Сложение,Addition
+Сложноцветные,Asteraceae
 Сложные эфиры,Ester
 Слон,Bishop
 Слоновая кость,Ivory
@@ -6007,6 +5866,7 @@ UNIX,Unix
 Слюна,Saliva
 Смайлик,Emoticon
 Смертная казнь,Capital punishment
+Смерть,Death
 Смерть,Death
 Смерч,Tornado
 Смех,Laughter
@@ -6034,23 +5894,27 @@ UNIX,Unix
 Соли,Salt
 Солидарность,Solidarity
 Солнечная система,Solar System
+Солнечная система,Solar System
 Солнечная энергетика,Solar energy
 Солнечное затмение,Solar eclipse
-Солнечные пятна,Sunspot
 Солнечные пятна,Facula
+Солнечные пятна,Sunspot
 Солнечные часы,Sundial
 Солнечный ветер,Solar wind
+Солнце,Sun
 Солнце,Sun
 Солнцестояние,Solstice
 Соловьи,Nightingale
 Соломон,Solomon
 Соломоновы Острова,Solomon Islands
+Соломоновы Острова,Solomon Islands
 Солон,Solon
 Солт-Лейк-Сити,Salt Lake City
 Соль,Salt
 Соляная кислота,Hydrochloric acid
-Сомали,Somalia
 Сомали,Horn of Africa
+Сомали,Somalia
+Сомали,Somalia
 Сомерсет,Somerset
 Сомма,Somme
 Сомообразные,Catfish
@@ -6075,10 +5939,12 @@ UNIX,Unix
 Софокл,Sophocles
 Софтбол,Softball
 Социализм,Socialism
+Социализм,Socialism
 Социалистическая партия Франции,Socialist Party
 Социальная психология,Social psychology
 Социальные институты,Institution
 Социолингвистика,Sociolinguistics
+Социология,Sociology
 Социология,Sociology
 Сочельник,Christmas Eve
 Союз Советских Социалистических Республик,Soviet Union
@@ -6108,8 +5974,10 @@ UNIX,Unix
 Спрингфилд,Springfield
 Спячка,Hibernation
 Среда,Wednesday
+Средиземное море,Mediterranean
 Средиземное море,Mediterranean Sea
 Среднее время по Гринвичу,Greenwich Mean Time
+Средние века,Middle Ages
 Средние века,Middle Ages
 Средний Восток,Middle East
 Ставангер,Stavanger
@@ -6118,12 +5986,15 @@ UNIX,Unix
 Сталинизм,Stalinism
 Сталь,Steel
 Стамбул,Istanbul
+Стамбул,Istanbul
 Стандартное отклонение,Standard deviation
 Старославянский язык,Old Church Slavonic
 Статен-Айленд,Staten Island
 Статистика,Statistics
+Статистика,Statistics
 Статистическая физика,Statistical mechanics
 Статуя Свободы,Statue of Liberty
+Статьи,Fundamental
 Стволовая клетка,Stem cell
 Стегозавр,Stegosaurus
 "Стейнбек, Джон",John Steinbeck
@@ -6147,6 +6018,7 @@ UNIX,Unix
 Столетняя война,Hundred Years' War
 Столица,Capital
 Столовая Гора,Mensa
+Стоматология,Dentistry
 Стоматология,Dentistry
 Стопа,Foot
 "Стоун, Уильям Оливер",Oliver Stone
@@ -6186,6 +6058,7 @@ UNIX,Unix
 Суверенитет,Sovereignty
 Суд,Court
 Судан,Sudan
+Судан,Sudan
 Судно,Ship
 Судно на воздушной подушке,Hovercraft
 Судоку,Sudoku
@@ -6204,6 +6077,7 @@ UNIX,Unix
 Суперкомпьютер,Supercomputer
 Супермен,Superman
 Сурикат,Meerkat
+Суринам,Suriname
 Суринам,Suriname
 Суррей,Surrey
 Сурьма,Antimony
@@ -6224,6 +6098,7 @@ UNIX,Unix
 Сыч домовой,Little Owl
 Сычуань,Sichuan
 Сьерра-Леоне,Sierra Leone
+Сьерра-Леоне,Sierra Leone
 "Сэлинджер, Джером Дэвид",J. D. Salinger
 Сюрреализм,Surrealism
 Сёги,Shogi
@@ -6234,10 +6109,13 @@ UNIX,Unix
 "Тагор, Рабиндранат",Rabindranath Tagore
 Тадж-Махал,Taj Mahal
 Таджикистан,Tajikistan
+Таджикистан,Tajikistan
+Таиланд,Thailand
 Таиланд,Thailand
 Таинство,Sacrament
 Таити,Tahiti
 Тайбэй,Taipei
+Тайвань,Taiwan
 Тайвань,Taiwan
 "Тайлер, Джон",John Tyler
 "Тайсон, Майк",Mike Tyson
@@ -6266,9 +6144,11 @@ UNIX,Unix
 Танец живота,Belly dance
 Танжер,Tangier
 Танзания,Tanzania
+Танзания,Tanzania
 Танк,Tank
-Тантал,Tantalus
 Тантал,Tantalum
+Тантал,Tantalus
+Танцы,Dance
 Тапиры,Tapir
 Таракановые,Cockroach
 "Тарантино, Квентин",Quentin Tarantino
@@ -6291,6 +6171,7 @@ UNIX,Unix
 Твёрдое тело,Solid state
 Твёрдость,Hardness
 Театр,Theatre
+Театр,Theatre
 Теба,Thebe
 Тегеран,Tehran
 Тегусигальпа,Tegucigalpa
@@ -6301,6 +6182,7 @@ UNIX,Unix
 Текстиль,Textile
 Текстовый процессор,Word processor
 Тектоника плит,Plate tectonics
+Телевидение,Television
 Телевидение,Television
 Телеграф,Telegraphy
 "Телеман, Георг Филипп",Georg Philipp Telemann
@@ -6317,7 +6199,9 @@ UNIX,Unix
 Температура плавления,Melting point
 Тенерифе,Tenerife
 Теннесси,Tennessee
+Теннесси,Tennessee
 Теннесси Уильямс,Tennessee Williams
+Теннис,Tennis
 Теннис,Tennis
 Тенор,Tenor
 Теодолит,Theodolite
@@ -6325,18 +6209,21 @@ UNIX,Unix
 Теорема,Theorem
 Теория,Theory
 Теория вероятностей,Probability theory
+Теория вероятностей,Probability theory
 Теория групп,Group theory
 Теория дрейфа материков,Continental drift
 Теория игр,Game theory
 Теория информации,Information theory
 Теория множеств,Set theory
-Теория относительности,Theory of relativity
+Теория множеств,Set theory
 Теория относительности,Principle of relativity
+Теория относительности,Theory of relativity
 Теория струн,String theory
 Тепловой двигатель,Heat engine
 Тербий,Terbium
 "Терешкова, Валентина Владимировна",Valentina Tereshkova
 Термиты,Termite
+Термодинамика,Thermodynamics
 Термодинамика,Thermodynamics
 Термодинамическая фаза,Phase
 Термодинамическая энтропия,Entropy
@@ -6344,6 +6231,7 @@ UNIX,Unix
 Термоядерная реакция,Nuclear fusion
 Терпсихора,Terpsichore
 Территория Юкон,Yukon
+Терроризм,Terrorism
 Терроризм,Terrorism
 Террористический акт 11 сентября 2001 года,September 11
 Тесей,Theseus
@@ -6356,12 +6244,16 @@ UNIX,Unix
 Тефида,Tethys
 Тефия,Tethys
 Техас,Texas
+Техас,Texas
 Технеций,Technetium
+Технические науки,Engineering
 Техно,Techno
+Технология,Technology
 Технология,Technology
 Технология «клиент-сервер»,Client-server
 Тиамин,Thiamine
 Тиберий,Tiberius
+Тибет,Tibet
 Тибет,Tibet
 Тибр,Tiber
 Тиволи,Tivoli
@@ -6373,6 +6265,7 @@ UNIX,Unix
 Тимор,Timor
 Тимьян,Thyme
 Тип,Phylum
+Типографика,Typography
 Типографика,Typography
 Тир,Tyre
 Тирана,Tirana
@@ -6391,10 +6284,12 @@ UNIX,Unix
 Титаны,Titan
 Тифон,Typhon
 Тихий океан,Pacific Ocean
+Тихий океан,Pacific Ocean
 Тихоходки,Tardigrade
 Тициан,Titian
 Тичино,Ticino
 Ткань,Tissue
+Того,Togo
 Того,Togo
 Токантинс,Tocantins
 Токарная группа станков,Lathe
@@ -6408,14 +6303,16 @@ UNIX,Unix
 Томат,Tomato
 "Томсон, Джордж Паджет",George Paget Thomson
 Тонга,Tonga
+Тонга,Tonga
 Тонкая кишка,Small intestine
-Тонна,Tonne
 Тонна,Ton
+Тонна,Tonne
 Тоннель,Tunnel
 Топаз,Topaz
 Топика,Topeka
 Топливный элемент,Fuel cell
 Топливо,Fuel
+Топология,Topology
 Топология,Topology
 Тополь,Poplar
 Топор,Axe
@@ -6445,6 +6342,7 @@ UNIX,Unix
 Транзистор,Transistor
 Трансильвания,Transylvania
 Транслитерация,Transliteration
+Транспорт,Transportation
 Транссексуальность,Transsexualism
 Трансформатор,Transformer
 Трансцендентное число,Transcendental number
@@ -6458,17 +6356,20 @@ UNIX,Unix
 Третий крестовый поход,Third Crusade
 Третий мир,Third World
 Третий рейх,Nazi Germany
+Третий рейх,Nazi Germany
 Треугольник,Triangle
 Треугольник,Triangulum
 Триасовый период,Triassic
 Триггер,Flip-flop
 Тригонометрические функции,Trigonometric function
 Тригонометрия,Trigonometry
+Тригонометрия,Trigonometry
 Тридентский собор,Council of Trent
 Тридцатилетняя война,Thirty Years' War
 Трилобиты,Trilobite
 Трилогия,Trilogy
 Тринидад,Trinidad
+Тринидад и Тобаго,Trinidad and Tobago
 Тринидад и Тобаго,Trinidad and Tobago
 Тринитротолуол,Trinitrotoluene
 Триполи,Tripoli
@@ -6503,6 +6404,7 @@ UNIX,Unix
 Туба,Tuba
 Туберкулёз,Tuberculosis
 Тувалу,Tuvalu
+Тувалу,Tuvalu
 Тукан,Tucana
 Тулий,Thulium
 Тулон,Toulon
@@ -6510,16 +6412,20 @@ UNIX,Unix
 Туман,Fog
 Туманность,Nebula
 Тундра,Tundra
-Тунис,Tunisia
 Тунис,Tunis
+Тунис,Tunisia
+Тунис,Tunisia
 Тур,Tours
 Тур-де-Франс,Tour de France
 Турбина,Turbine
 "Тургенев, Иван Сергеевич",Ivan Turgenev
 Туризм,Tourism
+Туризм,Tourism
 Турин,Turin
 Туркмения,Turkmenistan
+Туркмения,Turkmenistan
 Турниры Большого шлема,Grand Slam
+Турция,Turkey
 Турция,Turkey
 Тусон,Tucson
 Тутовый шелкопряд,Bombyx mori
@@ -6535,6 +6441,7 @@ UNIX,Unix
 "Тэтчер, Маргарет",Margaret Thatcher
 Тюльпан,Tulip
 Тюрингия,Thuringia
+Тюрингия,Thuringia
 Тюрьма,Prison
 Тяжёлая атлетика,Weightlifting
 Тяжёлая вода,Heavy water
@@ -6547,11 +6454,13 @@ UNIX,Unix
 Уайтхорс,Whitehorse
 "Уатт, Джеймс",James Watt
 Уганда,Uganda
+Уганда,Uganda
 Углеводороды,Hydrocarbon
 Углеводы,Carbohydrate
 Углерод,Carbon
 Угловая скорость,Angular velocity
 Угол,Angle
+Уголовное право,Criminal law
 Уголовное право,Criminal law
 Уголь,Coal
 Угольная кислота,Carbonic acid
@@ -6560,9 +6469,11 @@ UNIX,Unix
 Удод,Hoopoe
 Ужеобразные,Colubrid
 Узбекистан,Uzbekistan
+Узбекистан,Uzbekistan
 Узел,Knot
 Уильям Оккам,William of Ockham
 "Уитмен, Уолт",Walt Whitman
+Украина,Ukraine
 Украина,Ukraine
 Укроп,Dill
 Уксус,Vinegar
@@ -6593,13 +6504,15 @@ UNIX,Unix
 Уравнение,Equation
 Уравнения Максвелла,Maxwell's equations
 Уральские горы,Ural Mountains
-Уран,Uranus
-Уран,Uranus
 Уран,Uranium
+Уран,Uranus
+Уран,Uranus
+Уран,Uranus
 Урания,Urania
 Урацил,Uracil
 Урду,Urdu
 Уровень моря,Sea level
+Уругвай,Uruguay
 Уругвай,Uruguay
 Усама бин Ладен,Osama bin Laden
 Ускорение,Acceleration
@@ -6624,6 +6537,7 @@ UNIX,Unix
 "Уэллс, Герберт Джордж",H. G. Wells
 "Уэллс, Орсон",Orson Welles
 Уэльс,Wales
+Уэльс,Wales
 ФАТХ,Fatah
 Фабрика,Factory
 Фагот,Bassoon
@@ -6639,12 +6553,16 @@ UNIX,Unix
 Фамилия,Family name
 Фанерозой,Phanerozoic
 Фанк,Funk
+Фантастика,Science fiction
 Фарад,Farad
 "Фарадей, Майкл",Michael Faraday
 Фараон,Pharaoh
+Фарерские острова,Faroe Islands
+Фармакология,Pharmacology
 Фармакология,Pharmacology
 Фарфор,Porcelain
 Фастфуд,Fast food
+Фашизм,Fascism
 Фашизм,Fascism
 Февраль,February
 Февральская революция,February Revolution
@@ -6652,10 +6570,12 @@ UNIX,Unix
 Федеральное бюро расследований,Federal Bureau of Investigation
 Федеративная Республика Германии,West Germany
 Федеративные Штаты Микронезии,Federated States of Micronesia
+Федеративные Штаты Микронезии,Federated States of Micronesia
 Федерация,Federation
 "Фейнман, Ричард Филлипс",Richard Feynman
 "Феллини, Федерико",Federico Fellini
 Фемида,Themis
+Феминизм,Feminism
 Феминизм,Feminism
 Фемистокл,Themistocles
 Феникс,Phoenix
@@ -6688,27 +6608,40 @@ UNIX,Unix
 Фивы,Thebes
 Фигурное катание,Figure skating
 Фиджи,Fiji
+Фиджи,Fiji
+Физика,Physics
+Физика,Physics
 Физика,Physics
 Физика элементарных частиц,Particle physics
+Физика элементарных частиц,Particle physics
+Физиология,Physiology
 Физиология,Physiology
 Физическая химия,Physical chemistry
+Физическая химия,Physical chemistry
 Филадельфия,Philadelphia
+Филателия,Philately
 Филателия,Philately
 Филипп II,Philip II of Spain
 Филипп II Македонский,Philip II of Macedon
 "Филипп, герцог Эдинбургский",Prince Philip
 Филиппинское море,Philippine Sea
 Филиппины,Philippines
+Филиппины,Philippines
 "Филлмор, Миллард",Millard Fillmore
 Филология,Philology
+Филология,Philology
+Философия,Philosophy
+Философия,Philosophy
 Философия,Philosophy
 Философский камень,Philosopher's stone
 Фильм,Film
+Финансы,Finance
 Финансы,Finance
 Финвал,Fin Whale
 Финикия,Phoenicia
 Финиковая пальма,Date Palm
 Финикс,Phoenix
+Финляндия,Finland
 Финляндия,Finland
 Финский залив,Gulf of Finland
 "Фицджеральд, Фрэнсис Скотт",F. Scott Fitzgerald
@@ -6728,6 +6661,7 @@ UNIX,Unix
 "Флобер, Гюстав",Gustave Flaubert
 Флоренция,Florence
 Флорида,Florida
+Флорида,Florida
 Флюорит,Fluorite
 Фобия,Phobia
 Фобос,Phobos
@@ -6737,11 +6671,13 @@ UNIX,Unix
 Фолклендские  острова,Falkland Islands
 "Фолкнер, Уильям",William Faulkner
 Фольклор,Folklore
+Фольклор,Folklore
 Фома Аквинский,Thomas Aquinas
 "Фонда, Генри",Henry Fonda
 "Фонда, Джейн Сеймур",Jane Fonda
 Фондовая биржа,Stock exchange
 Фонема,Phoneme
+Фонетика,Phonetics
 Фонетика,Phonetics
 Фонология,Phonology
 Фонтан,Fountain
@@ -6757,6 +6693,7 @@ UNIX,Unix
 Фосфор,Phosphorus
 Фотоаппарат,Camera
 Фотография,Photography
+Фотография,Photography
 Фотон,Photon
 Фотосинтез,Photosynthesis
 Фотосфера,Photosphere
@@ -6771,6 +6708,7 @@ UNIX,Unix
 Франкфорт,Frankfort
 Франкфурт,Frankfurt
 Франкфурт-на-Майне,Frankfurt
+Франкфурт-на-Майне,Frankfurt
 Франкфурт-на-Одере,Frankfurt
 "Франс, Анатоль",Anatole France
 Франц II,Francis II
@@ -6778,6 +6716,9 @@ UNIX,Unix
 Франциск Ассизский,Francis of Assisi
 Францисканцы,Franciscan
 Франция,France
+Франция,France
+Франция,French people
+Французская Полинезия,French Polynesia
 Французская Полинезия,French Polynesia
 Франческо Петрарка,Petrarch
 Фрегат,Frigate
@@ -6797,6 +6738,7 @@ UNIX,Unix
 Фриули-Венеция-Джулия,Friuli-Venezia Giulia
 Фрукт,Fruit
 Фруктоза,Fructose
+Фрукты,Fruit
 Фуга,Fugue
 Фудзи,Mount Fuji
 Фукидид,Thucydides
@@ -6813,6 +6755,12 @@ UNIX,Unix
 "Фурье, Шарль",Charles Fourier
 Фут,Foot
 Футбол,Football
+Футбол,Football
+Футбол по странам,Football  by country
+Футболисты,Football  players
+Футбольные клубы,Football  clubs
+Футбольные стадионы,Football  venues
+Футбольные тренеры,Football  managers
 Футуризм,Futurism
 Фьорд,Fjord
 Фэнтези,Fantasy
@@ -6886,13 +6834,16 @@ UNIX,Unix
 Химическое основание,Base
 Химическое соединение,Chemical compound
 Химия,Chemistry
+Химия,Chemistry
+Химия,Chemistry
 Хиос,Chios
 Хиппи,Hippie
 Хирон,Chiron
 Хиросима,Hiroshima
 Хирохито,Hirohito
-Хирургия,Surgery
 Хирургия,Surgeon
+Хирургия,Surgery
+Хирургия,Surgery
 Хитин,Chitin
 "Хичкок, Альфред",Alfred Hitchcock
 Хищные,Carnivora
@@ -6913,8 +6864,10 @@ UNIX,Unix
 "Хокинг, Стивен Уильям",Stephen Hawking
 Хоккей на траве,Field hockey
 Хоккей с шайбой,Ice hockey
+Хоккей с шайбой,Ice hockey
 Холера,Cholera
 Холестерол,Cholesterol
+Холодная война,Cold War
 Холодная война,Cold War
 "Хомский, Аврам Ноам",Noam Chomsky
 Хомяки,Hamster
@@ -6923,16 +6876,19 @@ UNIX,Unix
 Хор,Choir
 Хор,Horus
 Хорватия,Croatia
+Хорватия,Croatia
 Хордовые,Chordate
 "Хофман, Дастин Ли",Dustin Hoffman
 Хошимин,Ho Chi Minh City
 Храм,Temple
 Храм Артемиды Эфесской,Temple of Artemis
 Христианство,Christianity
+Христианство,Christianity
 Хром,Chromium
 Хроматин,Chromatin
 Хроматография,Chromatography
 Хромосома,Chromosome
+Хронология,Chronology
 "Хрущёв, Никита Сергеевич",Nikita Khrushchev
 Хрящевые рыбы,Chondrichthyes
 Хуанхэ,Yellow River
@@ -6962,8 +6918,10 @@ UNIX,Unix
 Центр,Centre
 Центр масс,Center of mass
 Центральная Америка,Central America
+Центральная Америка,Central America
 Центральная Африка,Central Africa
 Центральная нервная система,Central nervous system
+Центрально-Африканская Республика,Central African Republic
 Центральноафриканская Республика,Central African Republic
 Центральное разведывательное управление,Central Intelligence Agency
 Центральные державы,Central Powers
@@ -6990,8 +6948,8 @@ UNIX,Unix
 Цинь,Qin Dynasty
 Цирк,Circus
 Цирконий,Zirconium
-Циркуль,Compass
 Циркуль,Circinus
+Циркуль,Compass
 Цирроз печени,Cirrhosis
 Цирцея,Circe
 Цитозин,Cytosine
@@ -7004,7 +6962,9 @@ UNIX,Unix
 Цицерон,Cicero
 Цунами,Tsunami
 Чад,Chad
+Чад,Chad
 Чад,Lake Chad
+Чай,Tea
 Чай,Tea
 Чайковые,Gull
 Чан Кайши,Chiang Kai-shek
@@ -7032,6 +6992,7 @@ UNIX,Unix
 Черепахи,Turtle
 Чернобыль,Chernobyl
 Черногория,Montenegro
+Черногория,Montenegro
 "Черчилль, Уинстон",Winston Churchill
 Чеснок,Garlic
 Четверг,Thursday
@@ -7039,11 +7000,14 @@ UNIX,Unix
 Четвертичный период,Quaternary
 Четвёртый крестовый поход,Fourth Crusade
 Четырёхугольник,Quadrilateral
-Чехия,Czech Republic
 Чехия,Bohemia
+Чехия,Czech Republic
+Чехия,Czech Republic
 "Чехов, Антон Павлович",Anton Chekhov
 Чехословакия,Czechoslovakia
+Чехословакия,Czechoslovakia
 Чечевица,Lentil
+Чечня,Chechnya
 Чечня,Chechnya
 Чешуекрылые,Butterfly
 Чешуекрылые,Lepidoptera
@@ -7051,7 +7015,9 @@ UNIX,Unix
 Чикаго,Chicago
 Чикагский университет,University of Chicago
 Чили,Chile
+Чили,Chile
 Чимборасо,Chimborazo
+Числа,Numbers
 Числа Фибоначчи,Fibonacci number
 Число,Number
 Число Маха,Mach number
@@ -7071,10 +7037,6 @@ UNIX,Unix
 Чёрный коршун,Black Kite
 Чёрный цвет,Black
 Чётные и нечётные числа,Parity
-Bot,Bot
-Main,Main
-Заготовка,Stub
-Нет источника,Fact
 "Шагал, Марк Захарович",Marc Chagall
 Шайенн,Cheyenne
 Шаманизм,Shamanism
@@ -7090,12 +7052,16 @@ Main,Main
 Шах,Shah
 Шахада,Shahadah
 Шахматы,Chess
+Шахматы,Chess
 Шашки,Draughts
 Шварцвальд,Black Forest
 Шведская крона,Swedish krona
+Швейцария,Swiss people
+Швейцария,Switzerland
 Швейцария,Switzerland
 Швейцарский франк,Swiss franc
 "Швейцер, Альберт",Albert Schweitzer
+Швеция,Sweden
 Швеция,Sweden
 "Шекспир, Уильям",William Shakespeare
 Шелковица,Mulberry
@@ -7126,12 +7092,14 @@ Main,Main
 "Шопенгауэр, Артур",Arthur Schopenhauer
 "Шостакович, Дмитрий Дмитриевич",Dmitri Shostakovich
 Шотландия,Scotland
+Шотландия,Scotland
 Шотландский  язык,Scottish Gaelic
 "Шоу, Джордж Бернард",George Bernard Shaw
 "Шпеер, Альберт",Albert Speer
 Шпинат,Spinach
 Шпицберген,Svalbard
 Шпре,Spree
+Шри-Ланка,Sri Lanka
 Шри-Ланка,Sri Lanka
 Шрифт Брайля,Braille
 "Штейнер, Рудольф",Rudolf Steiner
@@ -7175,13 +7143,17 @@ Main,Main
 Эйфелева башня,Eiffel Tower
 "Эйхман, Адольф",Adolf Eichmann
 Эквадор,Ecuador
+Эквадор,Ecuador
 Экватор,Equator
+Экваториальная Гвинея,Equatorial Guinea
 Экваториальная Гвинея,Equatorial Guinea
 Экзистенциализм,Existentialism
 Эклиптика,Ecliptic
 Экологическая ниша,Ecological niche
 Экология,Ecology
+Экология,Ecology
 Эконометрика,Econometrics
+Экономика,Economics
 Экономика,Economics
 Экономика,Economy
 Экосистема,Ecosystem
@@ -7202,13 +7174,16 @@ Main,Main
 Электрическое поле,Electric field
 Электрическое сопротивление,Electrical resistance
 Электричество,Electricity
+Электричество,Electricity
 Электрогитара,Electric guitar
 Электродинамика,Electromagnetism
 Электрокардиограмма,Electrocardiogram
 Электролиз,Electrolysis
 Электролит,Electrolyte
+Электромагнетизм,Electromagnetism
 Электромагнитное излучение,Electromagnetic radiation
 Электрон,Electron
+Электроника,Electronics
 Электроника,Electronics
 Электронная лампа,Vacuum tube
 Электронная почта,E-mail
@@ -7216,6 +7191,8 @@ Main,Main
 Электроотрицательность,Electronegativity
 Электростанция,Power station
 Электротехника,Electrical engineering
+Электротехника,Electrical engineering
+Электрохимия,Electrochemistry
 Электрохимия,Electrochemistry
 Элементарная частица,Elementary particle
 Элиа Казан,Elia Kazan
@@ -7232,6 +7209,7 @@ Main,Main
 "Эмерсон, Ральф Уолдо",Ralph Waldo Emerson
 Эмилия-Романья,Emilia-Romagna
 Эмир,Emir
+Эмоции,Emotion
 Эмоция,Emotion
 Эмпайр-Стейт-Билдинг,Empire State Building
 Эмпатия,Empathy
@@ -7246,11 +7224,14 @@ Main,Main
 Эндемик,Endemism
 Эндокринная система,Endocrine system
 Эндокринология,Endocrinology
+Эндокринология,Endocrinology
 Энеида,Aeneid
 Эней,Aeneas
 Энергия,Energy
 Энергия,Energy
+Энергия,Energy
 Энтальпия,Enthalpy
+Энтомология,Entomology
 Энтомология,Entomology
 Энциклопедия,Encyclopedia
 Эол,Aeolus
@@ -7269,6 +7250,7 @@ Main,Main
 Эпицентр землетрясения,Epicenter
 Эпос,Epic poetry
 Эпоха Возрождения,Renaissance
+Эпоха Возрождения,Renaissance
 Эпсилон,Epsilon
 Эр-Рияд,Riyadh
 Эразм Роттердамский,Desiderius Erasmus
@@ -7281,6 +7263,7 @@ Main,Main
 Эрида,Eris
 Эрида,Eris
 Эридан,Eridanus
+Эритрея,Eritrea
 Эритроциты,Red blood cell
 "Эрнст, Макс",Max Ernst
 Эрозия почвы,Erosion
@@ -7289,12 +7272,14 @@ Main,Main
 "Эрхарт, Амелия",Amelia Earhart
 Эскадренный миноносец,Destroyer
 Эсперанто,Esperanto
+Эсперанто,Esperanto
 Эспоо,Espoo
 Эспрессо,Espresso
 Эссе,Essay
 Эссекс,Essex
 Эссен,Essen
 Эстетика,Aesthetics
+Эстония,Estonia
 Эстрагон,Tarragon
 Эстрогены,Estrogen
 Эсхатология,Eschatology
@@ -7303,10 +7288,12 @@ Main,Main
 Этан,Ethane
 Этанол,Ethanol
 Этика,Ethics
+Этика,Ethics
 Этилен,Ethylene
 Этимология,Etymology
 Этна,Mount Etna
 Этнография,Ethnography
+Этнология,Ethnology
 Этнос,Ethnic group
 Этология,Ethology
 "Эттли, Клемент",Clement Attlee
@@ -7314,20 +7301,27 @@ Main,Main
 Эфес,Ephesus
 Эфесский собор,Council of Ephesus
 Эфиопия,Ethiopia
+Эфиопия,Ethiopia
 Эфирные масла,Essential oil
 Эффект Доплера,Doppler effect
 Эффект бабочки,Butterfly effect
 Эхнатон,Akhenaten
 Эякуляция,Ejaculation
+ЮАР,South Africa
 Юань,Yuan Dynasty
 Юг,South
 Юго-Восточная Азия,Southeast Asia
 Югославия,Yugoslavia
+Югославия,Yugoslavia
 Южная Австралия,South Australia
+Южная Америка,South America
 Южная Америка,South America
 Южная Гидра,Hydrus
 Южная Дакота,South Dakota
+Южная Дакота,South Dakota
 Южная Каролина,South Carolina
+Южная Каролина,South Carolina
+Южная Корея,South Korea
 Южно-Китайское море,South China Sea
 Южное полушарие,Southern Hemisphere
 Южный Вьетнам,South Vietnam
@@ -7339,6 +7333,7 @@ Main,Main
 Юлианский календарь,Julian calendar
 Юлий Цезарь,Julius Caesar
 "Юм, Дэвид",David Hume
+Юмор,Humor
 Юмор,Humour
 "Юнг, Карл Густав",Carl Jung
 "Юнг, Томас",Thomas Young
@@ -7347,8 +7342,10 @@ Main,Main
 Юпитер,Jupiter
 Юпитер,Jupiter
 Юпитер,Jupiter
+Юпитер,Jupiter
 Юрский период,Jurassic
 Юстиниан I,Justinian I
+Юта,Utah
 Юта,Utah
 Ютландия,Jutland
 Яблоко,Apple
@@ -7357,6 +7354,7 @@ Main,Main
 Ягода,Berry
 Ягуар,Jaguar
 Яд,Poison
+Ядерная физика,Nuclear physics
 Ядерная физика,Nuclear physics
 Ядерная энергия,Nuclear power
 Ядерное оружие,Nuclear weapon
@@ -7377,6 +7375,7 @@ Main,Main
 Ялта,Yalta
 Ялтинская конференция,Yalta Conference
 Ямайка,Jamaica
+Ямайка,Jamaica
 "Ямамото, Исороку",Isoroku Yamamoto
 Январь,January
 Янтарь,Amber
@@ -7385,6 +7384,7 @@ Main,Main
 Янцзы,Yangtze River
 Янычары,Janissary
 Япет,Iapetus
+Япония,Japan
 Япония,Japan
 Японское море,Sea of Japan
 Ярд,Yard

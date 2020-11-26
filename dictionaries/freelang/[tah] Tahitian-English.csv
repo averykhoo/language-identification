@@ -1,8 +1,16 @@
 Other,English
+'Ae,yes
+'Aita e päpü i?'u,I don't understand
+'Ia ora na 'oe 'orua,good afternoon
+'Ia ora na 'oe 'orua,good evening
+'Ia ora na 'oe 'orua,good morning
+'Ia ora na 'oe 'orua,good night
+'Ia ora na 'oe 'orua,hello
+'O vai to oe i'oa?,What is your name?
+'Umara pütete,potato
 'a'ahu,to bite
 'a'ano,"wide, narrow"
 'a'ati,to bite
-'ä'au,guts
 'a'e,to climb
 'a'ii,neck
 'aa'au,intestines
@@ -11,38 +19,24 @@ Other,English
 'aapii,new
 'aava'e,moon
 'aavae,"leg, foot"
-'Ae,yes
 'aero,tail
-'äfaro,straight
 'afulu,ten
-'ähiri,if
 'ahuru,ten
 'ai,to eat
 'aihere,"woods, grass"
 'aima,no
 'aio,left
 'aita,no
-'Aita e päpü i?'u,I don't understand
-'äivi,Hill
 'ama,to burn
 'amu,to eat
-'änani,orange
-'änävai,River
-'änimara,animal
 'aore,zero
-'äpï,new
 'are'are,wave
 'ata,to laugh
 'atau,right
-'ätete,august
 'atopa,october
 'au,to swim
 'au'au,to chew
 'aui,left
-'ävae,leg
-'ë,other
-'ë,other
-'ë'aturu,Bridge
 'ee,and
 'ee'a,road
 'eiaa,to steal
@@ -50,16 +44,9 @@ Other,English
 'eperëra,april
 'ere'ere,black
 'eru,to dig
-'ëtäretia,church
 'eu,to cook
-'ï,full
 'i'o,meat
 'ia,if
-'Ia ora na 'oe 'orua,good night
-'Ia ora na 'oe 'orua,hello
-'Ia ora na 'oe 'orua,good morning
-'Ia ora na 'oe 'orua,good evening
-'Ia ora na 'oe 'orua,good afternoon
 'ina,sharp
 'ino,bad
 'iore,rat
@@ -67,16 +54,13 @@ Other,English
 'ite,to know
 'ite,to see
 'itere,tail
-'ö,to dig
 'o v'ai,who?
-'O vai to oe i'oa?,What is your name?
 'oe,thou
-'oe'oe,sharp
 'oe huru ?,How are you?
+'oe'oe,sharp
 'ohipa,to work
 'oi,sharp
 'oia,"he/she, yes"
-'öna,he
 'oofa'i,stone
 'oofii,snake
 'oona,he/she
@@ -84,34 +68,86 @@ Other,English
 'oopuu,belly
 'oorua,you
 'oouma,breast
-'öpü,belly
 'oru,to swell
 'ote,to suck
 'oti'ati'a,to stand
-'öuma,breast
-'outou,good evening
-'outou,hello
 'outou,good afternoon
-'outou,you
+'outou,good evening
 'outou,good morning
 'outou,good night
-'ü'ui,to rub
+'outou,hello
+'outou,you
 'u'umu,to squeeze
 'ui'ui,to rub
-'Umara pütete,potato
 'ume,to pull
 'uo'uo,white
 'upa'a,liver
-'üpa'a,liver
 'ura,red
 'urii,dog
 'ute'ute,red
 'utu,louse
+'ä'au,guts
+'äfaro,straight
+'ähiri,if
+'äivi,Hill
+'änani,orange
+'änimara,animal
+'änävai,River
+'äpï,new
+'ätete,august
+'ävae,leg
+'ë,other
+'ë,other
+'ë'aturu,Bridge
+'ëtäretia,church
+'ï,full
+'ö,to dig
+'öna,he
+'öpü,belly
+'öuma,breast
+'ü'ui,to rub
+'üpa'a,liver
 ('aa)oaoa,narrow
 ('aa)oaoa,narrow
 (harurura'a) pätiri,thunder
 (tahera'a)pape,River
 (tea)tea,white
+E aha t?,How are you?
+E aha te ora?,What time is it?
+E aha tei'oa ote'ie?,What is this?
+E hia moni teie?,How much does it cost?
+E'ere,no
+E'ita,no
+Faraoa,ache
+Fare moni,bank
+Hite,Hicks
+I hea 'oe e faeia ai?,Where do you live?
+Ma'a tupu,vegetables
+Maita'i oe?,How are you?
+Manuia!,cheers!
+Mä'a,"fruits, fruit"
+Mäuruuru,thank you
+Nana,good-bye
+Patine,Parkinson
+Petrodero,Pickersgill
+Poline,Spoving
+Pua'a,pig
+Pua'atoro,beef
+Pärahi,good-bye
+Tahiti,Tahiti
+Taibe,Stainsby
+Taofe,coffee
+Tate,Clark
+Te haere nei 'oe i hea?,Where are you going?
+Tei hea (roa) ...?,Where is...?
+Tei hea (roa) te fare iti?,Where is the bathroom?
+Tei hea te fare inuinura'a?,Where is the bar?
+Tei hea te pae miti?,Where is the beach?
+Tolano,Solander
+Towara,Gore
+Treene,Green
+Tämä'ara'a ahiahi,dinner
+Tämä'ara'a po'ipo'i,breakfast
 a'a,root
 a'ua'u,to hunt
 a'ua'u pua'a,to hunt
@@ -129,35 +165,25 @@ airareè,to fly
 aiwee,to hear
 amama,to yawn
 ana'e,all
-änänahi,tomorrow
 ananahi atu,afternoon
 ao,"day, cloud"
 aora,sky
 api,full
 ara,road
 arero,tongue
-aroä,Street
 arooato,twenty
+aroä,Street
 aru,forest
 aruri,left
 ata,cloud
-ätea,far
 ato'a,all
 au,"to sew, I"
 auahi,fire
 auauahi,smoke
 aute,hibiscus
 avy,water
-ë,yes
-E'ere,no
-E'ita,no
 e aha,what?
-E aha t?,How are you?
-E aha te ora?,What time is it?
-E aha tei'oa ote'ie?,What is this?
-e àhuru,ten
 e hanere,one hundred
-E hia moni teie?,How much does it cost?
 e hitu,seven
 e iva,nine
 e maha,four
@@ -167,13 +193,12 @@ e piti,two
 e tauatini,one thousand
 e toru,three
 e vaù,eight
+e àhuru,ten
 ea'tia,road
 eaee,neck
-eàeenietematto,to climb
 eahoo,nose
 eairo,tail
 eaow,to swim
-eàrahow,ash
 earee,boy
 earo,above
 eat,cloud
@@ -198,8 +223,8 @@ eom,breast
 eoo,breast
 eotte,to suck
 epeea,stick
-epèeniea,to go up with rope
 ephàow,to sniff
+epèeniea,to go up with rope
 eraowroo,hair
 erowroo,head
 etapon,shoulder
@@ -211,6 +236,8 @@ ewawaowerao,leaf
 eweyoraèe,skin
 eworooai,rain
 eyoare,rat
+eàeenietematto,to climb
+eàrahow,ash
 fa'a paho,Valley
 fa'aro'o,to hear
 faatata,near
@@ -218,18 +245,16 @@ faje ma'i,Hospital
 fale,house
 fara,pandanus
 farairë,friday
-faräni,french
-Faraoa,ache
 farara farara,to blow
 fare,house
 fare (ho'ora'a) rä'au,Pharmacy
 fare ha'apï'ira'a,School
-Fare moni,bank
 fare müt'oi,Police station
 fare purera'a(pure),church
 fare rata,Post Office
-fare tämä'ara'a,Restaurant
 fare toa,Store
+fare tämä'ara'a,Restaurant
+faräni,french
 fatafa,near
 fenua,earth
 fepuare,february
@@ -259,10 +284,8 @@ hetehete,feather
 hi'o,to see
 hi'u,tail
 hiamòorre,to blow
-hïmene,to sing
 hinu,fat
 hiona,snow
-Hite,Hicks
 hitoo,seven
 hitu,seven
 ho'e noa iho e'a,one way
@@ -270,24 +293,22 @@ ho'i,to sniff
 ho'i ho'i,smell
 ho'o,to buy
 ho'o mai,to buy
-hoa,wife
 hoa,marry
-hoê,one
+hoa,wife
 hohoni,to bite
 honu,tortoise
 hoo'ee,one
-hooàre,to spit
 hooirmoa,egg
 hoolhoo,ten
-hoònnehoònne,to swell
 hoora-ooiro,fruit
 hooro,egg
 hoou,new
+hooàre,to spit
 hora,time
-höro'a,to give
 horoi,to wash
 horoi,to wipe
-hötëra,Hotel
+hoê,one
+hoònnehoònne,to swell
 hu'ahuaa hu'ahuaa,dust
 hua'i,to open
 huaheine,wife
@@ -295,42 +316,41 @@ huero,"egg, fruit, seed"
 hupe,wind
 huruhuru,feather
 huti i te aho,to breathe
+hïmene,to sing
+höro'a,to give
+hötëra,Hotel
 i,"at, in"
-ï,to say
-i'a,"fish, chicken"
-i'oa,name
-I hea 'oe e faeia ai?,Where do you live?
 i roto,in
 i teie nei mahana,today
+i'a,"fish, chicken"
+i'oa,name
 iho na,there
 iho nei,here
 ihu,nose
 illemei,five
-imahana mä'a.,saturday
 imahana maha,thursday
+imahana mä'a.,saturday
 imahana pae,friday
 imahana piti,tuesday
 imahana toru,wednesday
 imonirë,monday
 ina'i,meat
 inaafea,when?
-inänahi(ra),yesterday
 inu,"drink, to drink"
+inänahi(ra),yesterday
 iraòwai,to sleep
-itäpati,sunday
 iteie tau,today
 iti,small
 itop,to fall
+itäpati,sunday
 iva,nine
 ivi,bone
-ma,with
 ma,and
+ma,with
 ma'a,few
-Mä'a,"fruits, fruit"
-Ma'a tupu,vegetables
 ma'ariri,cold
-ma'i,"sick, fat"
 ma'i,"ill, fat"
+ma'i,"sick, fat"
 ma'i ma'i,painful
 ma'iti,to choose
 ma'ue,to fly
@@ -340,35 +360,28 @@ maamaa,mother
 maamahu maamahu,shy
 maatou,we
 maaua,we
-mäfatu,heart
 maha,four
 mahan,day
 mahana,"day, sun"
 maheineeawaow,housewife
-mähora,Square
 mai'u'u,fingernail
 maita'i,good
-Maita'i oe?,How are you?
 mamae mamae,painful
 mana,ability
 mana'o,to think
 manamanatey,good
 mania,dull
-mänina,smooth
 mano,one thousand
 manoo,bird
 manu,"bird, animal"
-Manuia!,cheers!
 maram,moon
 marama,moon
 mareere,cold
-marö,dry
 maroo,dry
 marroowhai,dry
+marö,dry
 mat(r)a'i,wind
 mata,"face, eye"
-matà,monkhouse
-mätä'are,wave
 mata'i,wind
 mata'u,to fear
 matahiti,year
@@ -376,18 +389,13 @@ matai,wind
 matau,eyes
 mate,to die
 matee,blood
-mäti,march
 matie,"green, grass"
-màtteno,natural death
-màtteroah,to die
+matà,monkhouse
 mau,"correct, to hold"
 mauha'a,stick
-Mäuruuru,thank you
 mayneeneeormyneere,to scratch
-më,may
 me'ume'u,thick
 menemene,round
-mènne,thick
 metua,"parent, father"
 metua taane,father
 metua tane,father
@@ -405,12 +413,19 @@ moe,to sleep
 moemoeaa,to dream
 mou'a,Mountain
 myty,good
+màtteno,natural death
+màtteroah,to die
+mäfatu,heart
+mähora,Square
+mänina,smooth
+mäti,march
+mätä'are,wave
+mènne,thick
+më,may
 na'ina'i,small
 naafea,how?
 naahea,when?
-nähea,how
 namu,mosquito
-Nana,good-bye
 nanaihere,one hundred
 naonao,mosquito
 naow,I
@@ -422,19 +437,18 @@ nene'i,to squeeze
 ni'a,above
 niho,tooth
 niinamu,blue-green
-nïnamu,blue
-nira,to sew
 nira,needle
-nö te mea,because
+nira,to sew
 no(v)ema,november
 nooie tehai,where?
 norothoedéadeet'avai,to drink
 nui,big
+nähea,how
+nïnamu,blue
+nö te mea,because
 nümera,to count
 oatoo,louse
 oeoe,opposed to
-oëoëteres,long
-ôfe,bamboo
 one,"sand, dust (1)"
 ono,six
 ootooròhonnoo,spider
@@ -444,6 +458,7 @@ ora,to live
 ori,take a walk
 oròmàtoo,to breathe
 owhai,stone
+oëoëteres,long
 pa'a,bark
 pa'uma,to climb
 pa(e)ra(e)täne,English
@@ -462,18 +477,14 @@ pao,to dig
 papaa,foreigner
 pape,water
 pape to'eto'e,ice
-pära'u,to scratch
 parahei,to sit
-Pärahi,good-bye
 paraowmai,speak to me
 parau,to say
-Patine,Parkinson
 patiree,thunder
 pato,to break out
 pee,rotten
 pehe,to sing
 pererau,wing
-Petrodero,Pickersgill
 pia,beer
 piha'e,to vomit
 piifare,cat
@@ -482,30 +493,25 @@ pirü,gold
 piti,two
 piti 'ahuru,twenty
 po,night
-pô,night
 poemeedee,green
 poeooleoole,yellow
 pohe,to die
-Poline,Spoving
 poo,night
 popoto,short
 porai,to talk
-porömu,Street
 poroomu,road
+porömu,Street
 potea ino,mother
 poto,short
 pua,flower
-Pua'a,pig
-Pua'atoro,beef
 puhi puhi,to blow
 puhuhi,to blow
 pupuni,to hide
-purümu,Street
 purutia,german
 puruumu,road
-rä,sun
-rä'au,stick
-rä'au,tree
+purümu,Street
+pära'u,to scratch
+pô,night
 ra'i,"heaven, sky"
 ra'i,sky
 ra'ura'u,to scratch
@@ -517,7 +523,6 @@ rairai,thin
 rao'ere,leaf
 rari,wet
 raro,"bellow, below"
-rätou,they
 rau,"one hundred, leaf"
 rau'ere,leaf
 rave,to hold
@@ -541,14 +546,19 @@ rua'i,to vomit
 ruau,grandparents
 ruhiruhia,old
 rui,night
-rüpehu,fog
 ruru,to tie
 ruru'u,to tie up
 ruu'au,old
 ruupehu,fog
+rä,sun
+rä'au,stick
+rä'au,tree
+rätou,they
+rüpehu,fog
 t'èna,this
 ta'ai,to tie up
 ta'amu,to tie up
+ta'ane,man
 ta'ata,"man, person, human being"
 ta'au,twenty
 ta'i,to cry
@@ -556,7 +566,6 @@ ta'oto,"to lie down, to sleep"
 ta'oto,"to sleep, to lie down"
 ta'oto'otoaa,to dream
 ta'uma,to climb
-ta'ane,man
 taa'iri,to hit
 taane,husband
 taane,male
@@ -570,74 +579,58 @@ taaua,we
 taharaa mahana,sundown
 tahe,to flow
 tahi,one
-Tahiti,Tahiti
 tahito,old
 tahora,River
 tahua pahï,Bridge
 tai,sea
 tai'o,to count
-Taibe,Stainsby
 taire tiare,flower
 taitai,salt
-Tämä'ara'a ahiahi,dinner
-Tämä'ara'a po'ipo'i,breakfast
 tamahine,daughter
 tamaiti,"child, son"
-tamari'i,"infant, child"
 tamari'i,"bairn, child"
+tamari'i,"infant, child"
 tamarii,children
 tamarii faaàmu,adopted child
 tamaroa,son
-tämau,to squeeze
 tane,"husband, marry"
 tano,correct
 tanu,"to plant, to buy"
 taod,thick rope
-Taofe,coffee
-täora,to throw
 taoto,to sleep
 taparahi,"to kill, to hit"
 taparahi-pohe-roa,to kill
 tapono,shoulder
-täpü,to cut
 taputö,to fight
 tara,horn
 tarai,to cut
-tärava,to lie
 tareeh,ear
 tari'a,ear
 tata,person
 tatau,to count
-Tate,Clark
 tau,some
 tauatini,one thousand
 taura,rope
 te'a,to shoot
-Te haere nei 'oe i hea?,Where are you going?
-teà,white
 tee'naa,that
 teeraa,that
 tehai,where?
 tei hea,where
-Tei hea (roa) ...?,Where is...?
-Tei hea (roa) te fare iti?,Where is the bathroom?
-Tei hea te fare inuinura'a?,Where is the bar?
-Tei hea te pae miti?,Where is the beach?
 tei hea tö'u piha?,Where is my room?
 teiaha,heavy
 teie,this
 tenuare,january
 terrä,that
 tetepa,september
-ti,tea
+teà,white
 ti,juice
+ti,tea
 ti'a,"to stand, correct, straight"
 tiare,flower
 tiipu'u,to turn
 tiitii,breast
 tini,ten
 tintö,Chinese
-tïoi,to turn
 titema,december
 tiunu,june
 tiurai,july
@@ -645,10 +638,8 @@ to'e,worm
 to'eto'e,cold
 tohe,one
 toiaha,heavy
-Tolano,Solander
 tooanahahow,thou
 tooanahoe,thou
-toòmmoo,dull
 toote,for cook
 tootoòà,to spit
 tootoòà,to spit
@@ -657,33 +648,36 @@ torhoo,three
 toru,three
 toru,three
 toto,blood
-Towara,Gore
-Treene,Green
+toòmmoo,dull
 treero,tongue
 tua,back
 tue,back
 tuetue,thick
 tuha,"to spit, to split"
 tui,to sew
-tümü,dull
 tunu,to cook
-tüpä,to dig
-tüpa'i,to kill
 tupu,to grow
 tupuna,grandparents
 tura'i,to push
 turi,knee
 tutu'i,to burn
 tutuha,to spit
-tütürahonui,spider
 tuu,to stand
 tuumuu,dull
 tuutuurahonui,spider
+tämau,to squeeze
+täora,to throw
+täpü,to cut
+tärava,to lie
+tïoi,to turn
+tümü,dull
+tüpa'i,to kill
+tüpä,to dig
+tütürahonui,spider
 ua,rain
 uaia,wine
 uira,"lightining, lightning"
 upo'o,head
-ûpo'o,head
 uri,dog
 ururaa'au,woods
 uu,breast
@@ -691,7 +685,6 @@ va'a,canoe
 va'u,eight
 vaahi,to split
 vaha,mouth
-vähi,to split
 vahine,"woman, wife"
 vahine,"women, female, wife, woman"
 vai,water
@@ -702,6 +695,7 @@ vau,I
 vero,storm
 verrverra,warm
 vetahi('ee),other
+vähi,to split
 wahaeahei,fire
 wahoee,go back again
 walhoo,eight
@@ -710,3 +704,9 @@ whaine,six
 wharrawai,to die
 whattata,near
 woreede,stolen
+änänahi,tomorrow
+ätea,far
+ë,yes
+ï,to say
+ôfe,bamboo
+ûpo'o,head

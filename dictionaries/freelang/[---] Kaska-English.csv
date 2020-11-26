@@ -1,4 +1,7 @@
 Other,English
+Mekua let'e,this is his house
+Tu Cho Mene,Frances Lake
+Tu Lidlini,Ross River
 adade kentah,he is playing
 adade tu nakal,he is packing water
 adade tu nehes,he is packing water
@@ -41,11 +44,11 @@ dene dechen tah ts'i' dehya,a man goes out into the bush
 dene ejedehya,the man is going hunting
 dene ekedi koa ts'i' asyal,i'm walking to the store
 dene ekedi koa ts'i' ayal,he is walking to the store
+dene k'eh Nadzestile guye,his Kaska name is nadzestile
 dene k'eh edents'eg-am?,do you understand native lang.
 dene k'eh edests'ek,i understand native language
 dene k'eh gudesde-i kesdi,i'm learning to speak kaska
 dene k'eh mezi' duguya?,what is his Kaska name?
-dene k'eh Nadzestile guye,his Kaska name is nadzestile
 dene kedihi koa ts'i' asyal,i'm walking to the school
 dene kedihi koa ts'i' ayal,he's walking to school
 dene let'e,this is a man
@@ -61,14 +64,14 @@ dests'i dest'in,i have dry branches
 dests'i leshedele,he's gathering dry branches
 detsuze dets'ade seh'an,hehas his hat on his lap
 di,tea
+di nenzenam?,do you want tea?
+di nessen,i want tea
 di',tea
 di' dzedan,we are drinking tea
 di' gedan,they are drinking tea
 di' naahdan,all of you drink tea
 di' nedzedan,we are all drinking tea
 di' negedan,they are all drinking tea
-di nenzenam?,do you want tea?
-di nessen,i want tea
 dige,go away
 dzadedetlah,he was shocked
 dzedane,child
@@ -81,9 +84,9 @@ dzezule',chest
 dzidze let'e,this is a berry
 dzidze nesbeh,i am picking berries
 ech,shirt
+ech dest'in,i have a shirt
 ech'ele',clothes
 ech'ele' dest'in,i have clothes
-ech dest'in,i have a shirt
 echdle ye deh'ina?,what's my brother doing?
 echedle ayal,my brother is walking
 echedle elih,my brother is dancing
@@ -95,14 +98,14 @@ echedle shenetin,my broither is sleeping
 echo,elder
 echo let'e,this is an elder
 edade ganestan,i see my older sister
+ededze ganestan,i see my younger sister
 ededze' nenehtsek,my sister is sewing
 ededze' shenetin,my sister is sleeping
-ededze ganestan,i see my younger sister
+edeze elih,my sister is dancing
+edeze ye deh'ina?,what's my sister doing?
 edeze',sister
 edeze' etl'el,my sister is running
 edeze' seda,my sister is sitting
-edeze elih,my sister is dancing
-edeze ye deh'ina?,what's my sister doing?
 edzetie,we are fine
 egetie,they are fine
 eghadze' dest'in,i have shavings
@@ -155,9 +158,9 @@ esyu' let'e,this is my tooth
 eszasbali let'e,this is my ear
 eszi' Testloa guye,my name is testloa
 et'ane nikets,leaves are falling
+etsen gane nessen,i want dry meat
 etsen' gane estsets,i am eating dry meat
 etsen' nessen,i want meat
-etsen gane nessen,i want dry meat
 etsih,he is crying
 gah,rabbit
 gah ganestan,i see a rabbit
@@ -202,8 +205,8 @@ hadi neeht'in,hurry
 ham,yes
 haye gudedil,it is getting to be winter
 haye guja,winter has come
-hel endi?,where is the trap?
 hel endi?,where is the packsack?
+hel endi?,where is the trap?
 hide endi?,where is the tent?
 his kage debe nestlon ganestan,i see lot of sheep on mountain
 i bes cho de',"hand me the bullets, hand me the big knife"
@@ -218,17 +221,17 @@ ihts'i nets'i,it is windy
 ilt'et let'e,this is a lowbush cranberry
 itl'et let'e,is it a lowbush cranberry?
 jani la ah,here are the snowshoes
-jani la hel,here is the trap
 jani la hel,here is the packsack
+jani la hel,here is the trap
 jani la hide,here is the tent
 jiyune,wolves
-jiyune' ganhtanam?,do you see any wolves?
 jiyune nestlon ganestan,i see lots of wolves
+jiyune' ganhtanam?,do you see any wolves?
 k'os,neck
 k'os gulin,it is cloudy
 ke,moccasins
-ke',foot
 ke dest'in,i have moccasins
+ke',foot
 keda,moose
 keda cho ganestan,i see a big moose
 keda ganestan,i see a moose
@@ -284,7 +287,6 @@ mebet let'e,this is his stomach
 medzezule' let'e,this is his chest
 megane' let'e,this is his arm
 mek'os let'e,this is his neck
-Mekua let'e,this is his house
 men ma layal,he came to the lake shore
 men ts'i' asyal,i'm going to walk to the lake
 mesi Jason guye,his name is Jason
@@ -321,10 +323,10 @@ seni; estie,me too-i'm fine
 shenestin,he went to sleep
 son la nestlan,there are many stars
 sune,bannock
-sune' la nezen,he really wants bannock
 sune eht'es,he is cooking bannock
 sune estsets,i am eating bannock
 sune etsets,he is eating the bannock
+sune' la nezen,he really wants bannock
 t'u,milk
 t'u nessen,i want milk
 tedze guja',it has become night time
@@ -360,11 +362,8 @@ tsilat ejedehya',tsilat went hunting
 tsilat geda kegi ganehtan,tsilat sees the moose tracks
 tsu'ale,go away
 tu,water
-tu' edon,it was drinking water
-Tu Cho Mene,Frances Lake
 tu chu mene nesde,i live at Frances lake
 tu esdan,i 'm drinking water
-Tu Lidlini,Ross River
 tu lidlini dene degiht'a?,how are Ross River people?
 tu lidlini dene getie,Ross River people are fine
 tu lidlini nesde,i live at ross river
@@ -372,6 +371,7 @@ tu naskal,i am packing water
 tu nenzenam?,do you want water?
 tu nes-hes,i am packing water
 tu nessen,i want water
+tu' edon,it was drinking water
 tutal,pants
 tutal dest'in,i have pants
 tuzel,soup
@@ -396,8 +396,8 @@ ye enkeda?,what did you buy?
 ye ganhtana?,what do you see?
 ye gedana?,what are they drinking?
 ye kah ejedenya?,what are you going hunting for
-ye luge' set'e?,what kind of fish are they?
 ye luge et'a?,what fish is it?
+ye luge' set'e?,what kind of fish are they?
 ye nenzena?,what do you want?
 yidahtl'a',he jumped up
 yu',tooth

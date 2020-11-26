@@ -1,13 +1,13 @@
 Other,English
+-va,location
+-va,place
 Abc'hazeg,Abkhaz
 Abc'hazeg,Abkhazian
 Abc'hazeg,Abkhazian
-abkhazeg,Abkhaz
-abkhazeg,Abkhazian
-abkhazeg,Abkhazian
 Abkhazia,Abkhazia
 Afrikaans,Afrikaans
-afrikaans,Afrikaans
+Alamagn,Federal Republic of Germany
+Alamagn,Germany
 Albania,Albania
 Albania,Republic of Albania
 Aljeria,Algeria
@@ -17,22 +17,23 @@ Angola,Angola
 Angola,Republic of Angola
 Antarktika,Antarctica
 Antigua ha Barbuda,Antigua and Barbuda
-Aod an Olifant,Ivory Coast
 Aod an Olifant,Cote d'Ivoire
+Aod an Olifant,Ivory Coast
 Aod an Olifant,Republic of Cote d'Ivoire
 Aostria,Austria
 Aostria,Republic of Austria
-Arabia Saoudat,Saudi Arabia
 Arabia Saoudat,Kingdom of Saudi Arabia
+Arabia Saoudat,Saudi Arabia
 Arc'hantina,Argentina
 Arc'hantina,Argentine Republic
 Arizona,Arizona
 Armenia,Armenia
+Armenianeg,Armenian
 Aruba,Aruba
+Astureg,Astur
 Astureg,Astur-Leonese
 Astureg,Asturian
 Astureg,Asturian-Leonese
-Astureg,Astur
 Azerbaidjan,Azerbaijan
 Azerbaidjan,Republic of Azerbaijan
 Bahrein,Bahrain
@@ -50,16 +51,14 @@ Bolivia,Republic of Bolivia
 Bosnia-ha-Herzegovina,Bosnia and Herzegovina
 Bosnia-ha-Herzegovina,Republic of Bosnia and Herzegovina
 Brazil,Brazil
+Bro-C'hall,France
+Bro-C'hall,France
 Bulgareg,Bulgarian
 Bulgareg,Bulgarian
-bulgareg,Bulgarian
-bulgareg,Bulgarian
 Bulgaria,Bulgaria
 Bulgaria,Republic of Bulgaria
 Burgondia,Bourgogne
 Burmeg,Burmese
-burmeg,Burmese
-birmaneg,Burmese
 C'hwevrer,February
 Charente,Charente
 Chihuahua,Chihuahua
@@ -68,45 +67,37 @@ Chile,Republic of Chile
 Dakar,Dakar
 Damkan Sapir ha Whorf,Sapir–Whorf hypothesis
 Daneg,Danish
-daneg,Danish
 Delaware,Delaware
 Dispac'h Gall,French Revolution
 Douaroù Aostral hag Antarktikel Frañs,French Southern Territories
-Douaroù Aostral hag Antarktikel Frañs,French Southern and Antarctic LandsA
 Douaroù Aostral hag Antarktikel Frañs,French Southern and Antarctic Lands
+Douaroù Aostral hag Antarktikel Frañs,French Southern and Antarctic LandsA
 Douaroù Aostral hag Antarktikel Frañs,Territory of the French Southern and Antarctic Lands
 Du,November
 Ebrel,April
-Egipt,Egypt
 Egipt,Arab Republic of Egypt
+Egipt,Egypt
 Eost,August
 Eritrea,Eritrea
 Estoneg,Estonian
-estoneg,Estonian
 Estonia,Estonia
 Estonia,Republic of Estonia
 Etiopia,Ethiopia
 Etiopia,Federal Democratic Republic of Ethiopia
 Europa,Europe
+Even,June
 Faero,Faroe Islands
-Faeroeg,Faroese
 Faeroeg,Faeroese
-faeroeg,Faroese
-faeroeg,Faeroese
+Faeroeg,Faroese
 Finland,Finland
 Finland,Republic of Finland
 Finneg,Finnish
-finneg,Finnish
 Flandrez,Flanders
 Flandrez,Flemish region
 Flevoland,Flevoland
 Frañs,France
-Bro-C'hall,France
-Bro-C'hall,France
 Frizeg,Frisian
 Frizeg,Western Frisian
-frizeg,Frisian
-frizeg,Western Frisian
 Gabon,Gabon
 Gabon,Gabonese Republic
 Genver,January
@@ -126,16 +117,18 @@ Guam,Guam
 Guam,Guam
 Gwadeloup,Guadeloupe
 Gwengolo,September
+Gwiad,WWW
+Gwiad,World Wide Web
+Gwiad bedel,WWW
+Gwiad bedel,World Wide Web
 Gwiana c'hall,French Guiana
 Haiti,Haiti
 Haiti,Republic of Haiti
 Hebreeg,Hebrew
-hebraeg,Hebrew
 Here,October
 Honduras,Honduras
 Honduras,Republic of Honduras
 Hungareg,Hungarian
-hungareg,Hungarian
 Hungaria,Hungary
 Hungaria,Republic of Hungary
 India,India
@@ -144,8 +137,8 @@ Indonezia,Indonesia
 Indonezia,Republic of Indonesia
 Indre,Indre
 Inizi Cook,Cook Islands
-Inizi Wallis ha Futuna,Wallis and Futuna
 Inizi Wallis ha Futuna,Territory of the Wallis and Futuna Islands
+Inizi Wallis ha Futuna,Wallis and Futuna
 Iran,Iran
 Iran,Islamic Republic of Iran
 Iraq,Iraq
@@ -158,8 +151,6 @@ Italia,Italian Republic
 Italia,Italy
 Italianeg,Italian
 Italianeg,Italian
-italianeg,Italian
-italianeg,Italian
 Iwerzhon,Ireland
 Iwerzhon,Republic of Ireland
 Izelvroioù,Holland
@@ -170,13 +161,11 @@ Japan,Japan
 Japan,State of Japan
 Japoneg,Japanese
 Japoneg,Japanese
-japaneg,Japanese
-japaneg,Japanese
-Jerzenez,Jersey
 Jerzenez,Bailiwick of Jersey
+Jerzenez,Jersey
 Jibraltar,Gibraltar
-Jordania,Jordan
 Jordania,Hashemite Kingdom of Jordan
+Jordania,Jordan
 Jorjia,Georgia
 Kaledonia Nevez,New Caledonia
 Kalifornia,California
@@ -191,57 +180,43 @@ Kazac'hstan,Republic of Kazakhstan
 Kazakstan,Kazakhstan
 Kazakstan,Republic of Kazakhstan
 KemBre,Wales
+Kembraeg,Welsh
+Kembraeg,Welsh
 Kembre,Wales
-Kembraeg,Welsh
-Kembraeg,Welsh
-kembraeg,Welsh
-kembraeg,Welsh
-Keoded ar Vatikan,Vatican City
-Keoded ar Vatikan,The Holy See
 Keoded ar Vatikan,State of the Vatican City
+Keoded ar Vatikan,The Holy See
+Keoded ar Vatikan,Vatican City
 Kerzu,December
 Kiprenez,Cyprus
 Kiprenez,Republic of Cyprus
-Republik Kiprenez,Cyprus
-Republik Kiprenez,Republic of Cyprus
-Kirgizstan,Kyrgyzstan
 Kirgizstan,Kyrgyz Republic
+Kirgizstan,Kyrgyzstan
 Kornôg Europa,Western Europe
 Korseg,Corsican
 Korseg,Corsican
-korseg,Corsican
-korseg,Corsican
 Kroateg,Croatian
 Kroateg,Croation
-kroateg,Croatian
-kroateg,Croation
 Kroatia,Croatia
 Kroatia,Republic of Croatia
 Kuba,Cuba
 Kuba,Republic of Cuba
-Laos,Laos
 Laos,Lao People's Democratic Republic
+Laos,Laos
 Latin,Latin
 Latin,Latin
-latin,Latin
-latin,Latin
 Latvia,Latvia
 Latvia,Republic of Latvia
 Latvieg,Latvian
 Latvieg,Latvian
-latveg,Latvian
-latveg,Latvian
-latvieg,Latvian
-latvieg,Latvian
 Lec'hiad greantel dilezet,abandoned industrial site
-Lesotho,Lesotho
 Lesotho,Kingdom of Lesotho
+Lesotho,Lesotho
 Liberia,Liberia
 Liberia,Republic of Liberia
-Libia,Libya
 Libia,Great Socialist People's Libyan Arab Jamahiriya
-Lisbon,Lisbon
+Libia,Libya
 Lisboa,Lisbon
+Lisbon,Lisbon
 Lituania,Lithuania
 Lituania,Republic of Lithuania
 Madagaskar,Madagascar
@@ -249,35 +224,25 @@ Madagaskar,Republic of Madagascar
 Mae,May
 Makedoneg,Macedonian
 Makedoneg,Macedonian
-makedoneg,Macedonian
-makedoneg,Macedonian
 Makedonia,Macedonia
 Makedonia,Republic of Macedonia
 Malayalameg,Malayalam
 Malayalameg,Malayalam
-malayalameg,Malayalam
-malayalameg,Malayalam
-malayalam,Malayalam
-malayalam,Malayalam
 Malaysia,Malaysia
 Malta,Malta
 Malta,Republic of Malta
 Malteg,Maltese
-malteg,Maltese
-Maouritania,Mauritania
 Maouritania,Islamic Republic of Mauritania
-Maroko,Morocco
+Maouritania,Mauritania
 Maroko,Kingdom of Morocco
+Maroko,Morocco
 Martinik,Martinique
 Massachusetts,Massachusetts
 Mayotte,Mayotte
 Mec'hiko,Mexico
 Mec'hiko,United Mexican States
-Stadoù-Unanet Mechiko,Mexico
-Stadoù-Unanet Mechiko,United Mexican States
 Meurzh,March
 Mezheven,June
-Even,June
 Milan,Milan
 Monaco,Monaco
 Montenegro,Montenegro
@@ -293,11 +258,11 @@ New York,New York
 Nicaragua,Nicaragua
 Niue,Niue
 Niuo,Niue
-Norvegia,Norway
 Norvegia,Kingdom of Norway
+Norvegia,Norway
 Oklahoma,Oklahoma
-Ouganda,Uganda
 Ouganda,Republic of Uganda
+Ouganda,Uganda
 Pab,pope
 Panama,Panama
 Papoua Ginea-Nevez,Papua New Guinea
@@ -309,56 +274,38 @@ Polonia,Poland
 Portugal,Portugal
 Portugaleg,Portuguese
 Portugaleg,Portuguese
-portugaleg,Portuguese
-portugaleg,Portuguese
 Puerto Rico,Puerto Rico
 Republik Dominikan,Dominican Republic
-Republik Kevreadel Alamagn,Germany
 Republik Kevreadel Alamagn,Federal Republic of Germany
-Alamagn,Germany
-Alamagn,Federal Republic of Germany
+Republik Kevreadel Alamagn,Germany
+Republik Kiprenez,Cyprus
+Republik Kiprenez,Republic of Cyprus
 Republik Tchek,Czech Republic
 Republik Tchek,Czechia
 Roma,Rome
 Ron,Rhône
-Roumaneg,Romanian
 Roumaneg,Romanaian
-roumaneg,Romanian
-roumaneg,Romanaian
-Rummenn-ger,part of speech
+Roumaneg,Romanian
 Rummenn-ger,lexical category
-rummenn-ger,part of speech
-rummenn-ger,lexical category
-bomm lavar,part of speech
-bomm lavar,lexical category
+Rummenn-ger,part of speech
 Ruseg,Russian
 Ruseg,Russian
-rusianeg,Russian
-rusianeg,Russian
-SUA,United States
-SUA,United States of America
-SUA,America
-SUA,US
-SUA,U.S.
-SUA,U.S.A.
-SUA,U.S. of A.
-SUA,States
+S.U.A.,America
+S.U.A.,States
+S.U.A.,U.S.
+S.U.A.,U.S. of A.
+S.U.A.,U.S.A.
+S.U.A.,US
 S.U.A.,United States
 S.U.A.,United States of America
-S.U.A.,America
-S.U.A.,US
-S.U.A.,U.S.
-S.U.A.,U.S.A.
-S.U.A.,U.S. of A.
-S.U.A.,States
-Stadoù-Unanet Amerika,United States
-Stadoù-Unanet Amerika,United States of America
-Stadoù-Unanet Amerika,America
-Stadoù-Unanet Amerika,US
-Stadoù-Unanet Amerika,U.S.
-Stadoù-Unanet Amerika,U.S.A.
-Stadoù-Unanet Amerika,U.S. of A.
-Stadoù-Unanet Amerika,States
+SUA,America
+SUA,States
+SUA,U.S.
+SUA,U.S. of A.
+SUA,U.S.A.
+SUA,US
+SUA,United States
+SUA,United States of America
 Sadorn,Saturn
 Saena,Seine
 Saks,Saxony
@@ -373,60 +320,54 @@ Sankt Peterbourg,St. Petersburg
 Sant-Pêr-ha-Mikelon,Saint-Pierre and Miquelon
 Sañskriteg,Sanskrit
 Sañskriteg,Sanskrit
-sañskriteg,Sanskrit
-sañskriteg,Sanskrit
 Senegal,Senegal
-Sina,People's Republic of China
 Sina,China
+Sina,People's Republic of China
 Siria,Syria
 Siria,Syrian Arab Republic
 Slovakia,Slovakia
 Sloveg,Slovak
 Sloveg,Slovak
-slovakeg,Slovak
-slovakeg,Slovak
 Soudan,Sudan
 Spagn,Spain
 Sri Lanka,Sri Lanka
+Stad,country
+Stad,nation
+Stad,state
+Stadoù-Unanet Amerika,America
+Stadoù-Unanet Amerika,States
+Stadoù-Unanet Amerika,U.S.
+Stadoù-Unanet Amerika,U.S. of A.
+Stadoù-Unanet Amerika,U.S.A.
+Stadoù-Unanet Amerika,US
+Stadoù-Unanet Amerika,United States
+Stadoù-Unanet Amerika,United States of America
+Stadoù-Unanet Mechiko,Mexico
+Stadoù-Unanet Mechiko,United Mexican States
 Suafrika,South Africa
 Suis,Switzerland
 Svedeg,Swedish
-svedeg,Swedish
 Sveden,Sweden
 Tadjikeg,Tajik
-tadjikeg,Tajik
-tadjik,Tajik
 Taiwan,Taiwan
 Tamouleg,Tamil
 Tamouleg,Tamil
-tamouleg,Tamil
-tamouleg,Tamil
-tamileg,Tamil
-tamileg,Tamil
 Tanzania,Tanzania
 Tchad,Chad
 Tchad,Republic of Chad
 Tchekeg,Czech
 Tchekeg,Czech
-tchekeg,Czech
-tchekeg,Czech
 Tchetcheneg,Chechen
 Tchetcheneg,Chechen
-tchetcheneg,Chechen
-tchetcheneg,Chechen
 Tennessee,Tennessee
 Thailand,Thailand
-Timor ar Reter,East Timor
 Timor ar Reter,Democratic Republic of Timor-Leste
+Timor ar Reter,East Timor
 Togo,Togo
 Tonga,Tonga
 Torosad meneziek,mountain range
-torosad meneziek,mountain range
 Treuzdougen boued,food transport
-treuzdougen boued,food transport
 Tswaneg,Tswana
-tswaneg,Tswana
-tswana,Tswana
 Turingia,Thuringia
 Turkia,Turkey
 Unaniezh Europa,EU
@@ -437,35 +378,31 @@ Vienna,Vienna
 Volga,Volga
 Walloneg,Walloon
 Walloneg,Walloon
-walloneg,Walloon
-walloneg,Walloon
 Washington,Washington
-Wikeriadur,Wiktionary
-World Wide Web,World Wide Web
-World Wide Web,WWW
-Web,World Wide Web
 Web,WWW
-Gwiad,World Wide Web
-Gwiad,WWW
-Gwiad bedel,World Wide Web
-Gwiad bedel,WWW
+Web,World Wide Web
+Wikeriadur,Wiktionary
+World Wide Web,WWW
+World Wide Web,World Wide Web
 Wyoming,Wyoming
 Xhosaeg,Xhosa
-xhosaeg,Xhosa
-xhosa,Xhosa
-Zambia,Zambia
 Zambia,Republic of Zambia
+Zambia,Zambia
 Zeland-Nevez,New Zealand
-Zimbabwe,Zimbabwe
 Zimbabwe,Republic of Zimbabwe
+Zimbabwe,Zimbabwe
+abkhazeg,Abkhaz
+abkhazeg,Abkhazian
+abkhazeg,Abkhazian
 abostol,apostle
 advabañ,adoption
 adverb,adverb
 aersol,aerosol
-afareg,Afar
-afareg,Afar
 afar,Afar
 afar,Afar
+afareg,Afar
+afareg,Afar
+afrikaans,Afrikaans
 alamaneg,German
 alchimiour,alchemist
 aljebr,algebra
@@ -477,15 +414,16 @@ amezeg,neighbour
 amezeg,vecino
 amfiteatr,amphitheatre
 anarkouriezh,anarchy
+anatomiezh,anatomy
 anv,name
+anv,noun
 anv,proper name
 anv,proper noun
-anv,noun
 anv,substantive
-anv-kadarn,noun
-anv-kadarn,substantive
 anv-gwan,adjective
 anv-gwan,describing word
+anv-kadarn,noun
+anv-kadarn,substantive
 aour,gold
 aozadur etrebroadel,international organisation
 arabeg,Arabic
@@ -495,6 +433,7 @@ aragoneg,Aragonese
 arc'hant,silver
 arc'hdug,archduke
 argon,argon
+armenianeg,Armenian
 arsav-brezel,armistice
 arsenik,arsenic
 arvestva,observatory
@@ -506,16 +445,17 @@ avantur,adventure
 avel,wind
 avu,liver
 azereg,Azerbaijani
-azereg,Azeri
 azereg,Azerbaijani Cluster
+azereg,Azeri
 babouz,baboon
 bahasa Indonesia,Indonesian
-indoneseg,Indonesian
 balafenn,butterfly
 balum,whale
-barver,hairdresser
 barver,barber
+barver,hairdresser
 bason,bassoon
+beg,beak
+beg,mouth
 beg-hir,dolphin
 belaruseg,Belarusan
 belaruseg,Belarusan
@@ -524,6 +464,8 @@ belaruseg,Belorussian
 belaruseg,Byelorussian
 bengaleg,Bengali
 bengaleg,Bengali
+benveg seniñ,instrument
+benveg seniñ,musical instrument
 beriliom,beryllium
 beriliom,glucinium
 berlin,Berlin
@@ -532,39 +474,36 @@ berralan,asthma
 bevliesseurted,biodiversity
 bihan,short
 bihan,small
-munut,short
-munut,small
-bitik,short
-bitik,small
 biloba,grandson
 biloba,grandson
-douaren,grandson
 binioù,bagpipes
 binvioù seniñ,instrument
 binvioù seniñ,musical instrument
-benveg seniñ,instrument
-benveg seniñ,musical instrument
+birmaneg,Burmese
 bismut,bismuth
+bitik,short
+bitik,small
 biz,finger
 biz-bihan,little finger
 biz-bihan,pinkie
 biz-troad,toe
-bleunienn,flower
 bleunienn,bloom
 bleunienn,blossom
-bleuñv,flower
+bleunienn,flower
 bleuñv,bloom
 bleuñv,blossom
+bleuñv,flower
 blev,hair
-bloavezh mat,Happy New Year
-bloaz,year
-bloaz,solar year
-bloavezh,year
 bloavezh,solar year
+bloavezh,year
+bloavezh mat,Happy New Year
+bloaz,solar year
+bloaz,year
 blotvil,mollusc
 bokmål,Bokmål
-daneg-norvegeg,Bokmål
 boled,bullet
+bomm lavar,lexical category
+bomm lavar,part of speech
 bor,boron
 bosneg,Bosnian
 bosneg,Bosnian
@@ -572,26 +511,23 @@ boued,food
 bouzar,deaf
 bras,big
 bras,large
-meur,big
-meur,large
 bredvezeg,psychiatrist
-brezhoneg,Breton
-brezhoneg,Breton
+breton,english
 brezhoneg,Armenian
-Armenianeg,Armenian
-armenianeg,Armenian
+brezhoneg,Breton
+brezhoneg,Breton
 brezhoneg,antonym
-enepster,antonym
 bro,country
 bro,nation
 bro,state
-Stad,country
-Stad,nation
-Stad,state
 brom,bromine
 brudañ produioù,product advertising
+brumenn,fog
 bugel,child
+bulgareg,Bulgarian
+bulgareg,Bulgarian
 buoc'h,cow
+burmeg,Burmese
 c'hoantek,ambitious
 c'hoarzhin,laugh
 c'hwi,y'all
@@ -601,24 +537,23 @@ c'hwi,yous
 chokolad,chocolate
 cахара,sahara
 dall,blind
-damgemmañ,arrange
+damgemmañ,accommodate
 damgemmañ,adapt
 damgemmañ,adjust
+damgemmañ,arrange
 damgemmañ,conform
-damgemmañ,accommodate
 damgemmañ,suit
+daneg,Danish
+daneg-norvegeg,Bokmål
 dant,molar
 dant,tooth
 danvez,fabric
-gwiad,fabric
 daou,two
-div,two
 dañvad,sheep
 debriñ,consume
 debriñ,eat
-debriñ,swallow
 debriñ,eat
-predañ,eat
+debriñ,swallow
 deiz,day
 deiz,daytime
 deiz-ha-bloaz,anniversary
@@ -626,8 +561,13 @@ deiz-ha-bloaz,birthday
 deiziadur,calendar
 delienn,leaf
 demokratelezh,democracy
+den,male
+den,man
 den,man
 diampoezoner,disinfectant
+dibriediñ,divorce
+died,beverage
+died,drink
 dihuner,alarm clock
 dilennadeg,ballot
 disimetrek,asymmetric
@@ -638,35 +578,27 @@ disklêriadur,declaration
 disklêriadur,statement
 distagadur,pronunciation
 distaol,discount
+div,two
 diviz,decision
 dizalc'hted,independence
 dizimeziñ,celibacy
 dizimeziñ,divorce
-torr-dimeziñ,divorce
-dibriediñ,divorce
 dluzh,trout
 dont,come
+douaren,grandson
 douaroniezh,geography
-geografiezh,geography
 doueoniezh,theology
 dremedal,dromedary
 du,black
-dube,pigeon
 dube,dove
+dube,pigeon
+ebrenn,falling star
 ebrenn,meteor
 ebrenn,meteor
 ebrenn,meteor
 ebrenn,meteor
 ebrenn,meteor
 ebrenn,shooting star
-ebrenn,falling star
-steredenn-lostek,meteor
-steredenn-lostek,meteor
-steredenn-lostek,meteor
-steredenn-lostek,meteor
-steredenn-lostek,meteor
-steredenn-lostek,shooting star
-steredenn-lostek,falling star
 einsteiniom,einsteinium
 elfenn blant,plant component
 elfenn gimiek,chemical element
@@ -675,14 +607,14 @@ ellig,button
 ellig,clit
 ellig,clitoris
 empennad,encephalitis
-enkefalit,encephalitis
 emzalc'h NIMBY,NIMBY aptitude
 emzalc'h NIMBY,NIMBY attitude
 emzalc'h Vokedumañ,NIMBY aptitude
 emzalc'h Vokedumañ,NIMBY attitude
 endro diabarzh,indoor environment
+enepster,antonym
+enkefalit,encephalitis
 enklask,research
-imbourc'h,research
 epikreizenn,epicentre
 erc'h,snow
 eskob,bishop
@@ -690,6 +622,8 @@ eskopti,diocese
 eskopti,diocese
 esperanteg,Esperanto
 esperanteg,Esperanto
+esperañs,hope
+estoneg,Estonian
 eur,hour
 europiom,europium
 euskareg,Basque
@@ -698,21 +632,23 @@ eva,drink
 eva,gulp
 eva,quaff
 eva,sip
+evach,beverage
+evach,beverage
+evach,drink
+evach,drink
+evaj,beverage
+evaj,drink
 evañ,drink
 evañ,gulp
 evañ,quaff
 evañ,sip
-evach,beverage
-evach,drink
-evach,beverage
-evach,drink
-evaj,beverage
-evaj,drink
-died,beverage
-died,drink
 evezhiadenn,observation
+evn,bird
 evnoniezh,ornithology
 eñ,he
+faeroeg,Faeroese
+faeroeg,Faroese
+finneg,Finnish
 fleüt-pigos,recorder
 foerell,diarrhea
 fonetik,phonetics
@@ -720,6 +656,8 @@ fosilenn,fossil
 freuz-stal,bankruptcy
 fri,nose
 frilien,handkerchief
+frizeg,Frisian
+frizeg,Western Frisian
 frouezh,fruit
 gadoliniom,gadolinium
 galioa,gallium
@@ -730,38 +668,40 @@ galleg,French
 gant,alongside
 gant,amongst
 gant,with
-get,alongside
-get,amongst
-get,with
 gar,leg
 garbedenn,perineum
+genel,deliver
 genoù,beak
 genoù,mouth
-beg,beak
-beg,mouth
+geografiezh,geography
 geot,grass
 ger,word
 ger-mell,article
 geriadur,dictionary
 germaniom,germanium
+get,alongside
+get,amongst
+get,with
 gevell,twin
 glas,blue
 goanag,hope
-esperañs,hope
 gong,gong
 gouarner,governor
 gouelan,gull
 gouelezennouriezh,sedimentology
+gouestl,hostage
 goulakadenn,assumption
 goulakadenn,supposition
+gour,male
+gour,man
 gourmarc'had,supermarket
 gov,blacksmith
 gresianeg,Greek
 gresianeg,Greek
 greun,seed
 greunlandeg,Kalaallisut
-grip,influenza
 grip,flu
+grip,influenza
 gujarati,Gujarati
 gujarati,Gujarati
 gwad,blood
@@ -769,15 +709,9 @@ gwareger,archer
 gwareger,archer
 gwaz,goose
 gwaz,husband
-gwaz,spouse
 gwaz,male
 gwaz,man
-den,male
-den,man
-paotr,male
-paotr,man
-gour,male
-gour,man
+gwaz,spouse
 gwele,bed
 gwelet,see
 gwellwelerezh,optimism
@@ -792,6 +726,7 @@ gwenvidikadur,beatification
 gwespedenn,wasp
 gwez,tree
 gwezenn Nedeleg,Christmas tree
+gwiad,fabric
 gwilioud,birth
 gwilioud,birth
 gwilioud,birth
@@ -800,20 +735,20 @@ gwilioud,childbirth
 gwilioud,childbirth
 gwilioud,parturition
 gwilioudiñ,deliver
-genel,deliver
 gwinieg,vineyard
-gwreg,wife
 gwreg,spouse
+gwreg,wife
 gwrizienn,root
+ha,and
 ha,and
 ha,as well as
 ha,in addition to
 ha,together with
 ha,too
-ha,and
 had,seed
 hafniom,hafnium
 haleg,willow
+hebraeg,Hebrew
 heliom,helium
 hengounel,traditional
 hent,road
@@ -826,50 +761,56 @@ hir,long
 holen,salt
 holmiom,holmium
 hormon,hormone
+houan,dust
 houarn,iron
+hungareg,Hungarian
 ilin,elbow
+imbourc'h,research
 indiom,indium
+indoneseg,Indonesian
 inizi Falkland,Falkland Islands
 interlingua,Interlingua
 interlingua,"Interlingua, ""Simplified"" Latin"
 interlingua,"Interlingua, ""Simplified"" Latin"
 iridiom,iridium
 islandeg,Icelandic
+italianeg,Italian
+italianeg,Italian
+iwerzhoneg,Irish
 iwerzhoneg,Irish
 iwerzhoneg,Irish
 iwerzhoneg,Irish Gaelic
-iwerzhoneg,Irish
+japaneg,Japanese
+japaneg,Japanese
 javaneg,Javanese
 jedoniezh,mathematics
-matematikoù,mathematics
-jener,sex
 jener,gender
-reizh,sex
-reizh,gender
-rev,sex
-rev,gender
+jener,sex
 jorjianeg,Georgian
 jorjianeg,Georgian
 kadmiom,cadmium
 kaktus,cactus
 kalon,heart
-kambodjeg,Khmer
 kambodjeg,Central Khmer
+kambodjeg,Khmer
+kanareg,Kannada
+kanareg,Kannada
 kanevedenn,rainbow
 kannada,Kannada
 kannada,Kannada
-kanareg,Kannada
-kanareg,Kannada
 kant,hundred
 karbed dilezet,abandoned vehicle
 karbed dilezet,car wreck
 karbon,carbon
+karr-nij,aeroplane
+karr-nij,bird
+karr-nij,plane
 karrdi,garage
 karv-erc'h,reindeer
-kataloneg,Catalan
-kataloneg,Catalan
 katalaneg,Catalan
 katalaneg,Catalan
+kataloneg,Catalan
+kataloneg,Catalan
 kazak,Kazakh
 kazak,Kazakh
 kazel,armpit
@@ -878,59 +819,65 @@ kazh-ki,chetah
 keheder,equator
 kehentiñ war ar riskloù,risk communication
 kelaouenner,journalist
+kembraeg,Welsh
+kembraeg,Welsh
 kerez,cherry
 kerneveureg,Cornish
 ket,not
-neket,not
-ne... ket,not
 ki,dog
 kiez,dog
 kig,meat
 kimiezh,chemistry
 klañvgarr,ambulance
+kler,ice
 klor,chlorine
 koad,forest
 koadeg,forest
 kometenn,comet
 komunouriezh,communism
+konikl,rabbit
 kont,account
 koreaneg,Korean
 koreaneg,Korean
 korfadurezh,anatomy
-anatomiezh,anatomy
+korseg,Corsican
+korseg,Corsican
 koumoul,cloud
 koun-trec'h,trophy
-kraoñ-kokoz,kokosnoot
 kraoñ-kokoz,coconut
+kraoñ-kokoz,kokosnoot
 kripton,krypton
+kroateg,Croatian
+kroateg,Croation
 kroc'hen,skin
 krouiñ,creativity
 krouiñ,inventiveness
 krusifi,crucifix
 kuriom,curium
 kurun,thunder
-taran,thunder
 kêr,city
 kêr-benn,capital
 kêrbenn,capital
 labous,bird
-evn,bird
 laezh,milk
 lagad,eye
 lantan,lanthanum
-лантан,lanthanum
 laoseg,Lao
 laoseg,Lao
 lapin,rabbit
-konikl,rabbit
-lavand,lavender
+latar,fog
+latin,Latin
+latin,Latin
+latveg,Latvian
+latveg,Latvian
+latvieg,Latvian
+latvieg,Latvian
 lavand,lavander
+lavand,lavender
 lavaret,say
 laz-seniñ,orchestra
-lec'h,place
 lec'h,location
--va,place
--va,location
+lec'h,place
 lec'h labour,workplace
 lenkrauzenn,lubricant
 lestr-dre-lien,sailing ship
@@ -939,97 +886,100 @@ leun,full
 levraouegour,librarian
 lezenn a denn d'an ober ouzh al lastez,waste disposal act
 lien-revr,nappy
-limburgeg,Limburgish
 limburgeg,Limburgian
+limburgeg,Limburgish
 litiom,lithium
 lituaneg,Lithuanian
 lituaneg,Lithuanian
-liv,colour
-liv,colour
 liv,colo(u)r
+liv,colour
+liv,colour
 lizherenn,letter
 lizherenneg,alphabet
 lizherenneg kirillek,Cyrillic alphabet
-loar,moon
 loar,Luna
 loar,Moon
+loar,moon
 loarell,satellite
 loen,animal
 loenoniezh,zoology
 lotiri,lottery
 lounezh,kidney
 louzawouriezh,botany
-louzawouriezh,phytology
 louzawouriezh,botany
+louzawouriezh,phytology
 ludu,ash
+luksembourgeg,Luxembourgian
 luksembourgeg,Luxembourgish
 luksembourgeg,Luxemburgish
-luksembourgeg,Luxembourgian
-lusenn,huckleberry
 lusenn,blueberry
 lusenn,fog
-brumenn,fog
-latar,fog
-mogidell,fog
-morenn,fog
-nivlenn,fog
+lusenn,huckleberry
 lutesiom,lutetium
+maen-kurun,meteorite
 magneziom,magnesium
+makedoneg,Macedonian
+makedoneg,Macedonian
+malayalam,Malayalam
+malayalam,Malayalam
+malayalameg,Malayalam
+malayalameg,Malayalam
 mall,emergency
+malteg,Maltese
 mamm,mother
-mamm-gaer,mother-in-law
 mamm-gaer,mother in law
+mamm-gaer,mother-in-law
 manganez,manganese
-mann,zero
 mann,null
-zero,zero
-zero,null
+mann,zero
 maori,Maori
 maouez,female
 maouez,woman
 marathi,Marathi
-marathi,Marāthi
-marathi,Marāthi
 marathi,MarÄthi
+marathi,Marāthi
+marathi,Marāthi
 marc'h,horse
 marc'h-du,locomotive
 marvailh,story
+matematikoù,mathematics
 me,I
 medisinerezh,medicine
 medisinerezh,medicine (practice)
-mezegiezh,medicine
-mezegiezh,medicine (practice)
 mel,honey
 melen,yellow
 melestradurezh,administration
 melestradurezh,direction
 melestradurezh,management
-mererezh,administration
-mererezh,direction
-mererezh,management
-mell,joint
 mell,articulation
+mell,joint
 mendeleviom,mendelevium
 menez,mountain
 merc'hodenn,doll
-poupinell,doll
+mererezh,administration
+mererezh,direction
+mererezh,management
 merienenn,ant
 merkur,mercury
 metabolegezh,metabolism
 meteoritenn,meteorite
-oablvaen,meteorite
-maen-kurun,meteorite
 metronom,metronome
+meur,big
+meur,large
+mezegiezh,medicine
+mezegiezh,medicine (practice)
 mirdi,museum
 miz,month
 moged,smoke
+mogidell,fog
 molibden,molybdenum
-moustik,musquito
+morenn,fog
 moustik,mosquito
+moustik,musquito
+munut,short
+munut,small
 muzik,music
-sonerezh,music
 muziker,musician
-soner,musician
 nadir,nadir
 nadoezioù,geranium
 naer,snake
@@ -1037,8 +987,10 @@ nann,no
 napolitaneg,Neapolitan
 napolitaneg,Neapolitan
 natriom,sodium
+ne... ket,not
 nedeleg laouen,Merry Christmas
 nederlandeg,Dutch
+neket,not
 neodim,neodymium
 neon,neon
 nepaleg,Nepali
@@ -1053,40 +1005,41 @@ ni,we
 nijerez,aeroplane
 nijerez,bird
 nijerez,plane
-karr-nij,aeroplane
-karr-nij,bird
-karr-nij,plane
 niobiom,niobium
+nivlenn,fog
 nobeliom,nobelium
 norvegeg,Nynorsk
 nynorsk,Nynorsk
+oablvaen,meteorite
 ober,act
 ober,deed
 ognonenn,onion
 oksigen,oxygen
 opiom,opium
 organ,organ
-orkideenn,orchid
 orkide,orchid
-orogell,platitude
+orkideenn,orchid
 orogell,cliche
 orogell,cliché
+orogell,platitude
 osmiom,osmium
 ostaj,hostage
-gouestl,hostage
-ourdoueg,Urdu
-ourdoueg,Urdu
 ourdou,Urdu
 ourdou,Urdu
+ourdoueg,Urdu
+ourdoueg,Urdu
 ozon,ozone
 pagan,heathen
 pagan,infidel
 pagan,pagan
 palladiom,palladium
-pandjabeg,Punjabi
 pandjabeg,Panjabi
+pandjabeg,Punjabi
 pantouflenn,slipper
+paotr,male
+paotr,man
 pe,or
+peder,four
 pemp,five
 pengouin,penguin
 penn,head
@@ -1094,47 +1047,47 @@ pennad,chapter
 peoc'helour,pacifist
 perc'henn,owner
 perenn,pear
+perseg,Farsi
 perseg,Persian
 perseg,Western Farsi
-perseg,Farsi
 pesk,fish
 pevar,four
-peder,four
 pizhskriverezh,calligraphy
 planedenn,planet
 plant,plant
 plom,lead
 plu,feather
-pluñv,feather
 pluenn,feather
-poan a varv,death penalty
+pluñv,feather
 poan a varv,capital punishment
+poan a varv,death penalty
 poan a varv,death sentence
 poblañsouriezh,demography
 pod-berver,kettle
 pod-lastez,waste bin
-poubelenn,waste bin
 politikerezh priziañ an danvezioù,pricing policy of resources
 poloneg,Polish
 poloneg,Polish
+pomper,fire fighter
+pomper,fire-eater
 pomper,firefighter
 pomper,fireman
 pomper,firewoman
-pomper,fire fighter
-pomper,fire-eater
-postel,electronic mail
-postel,email
-postel,e-mail
+portugaleg,Portuguese
+portugaleg,Portuguese
+post elektronek,e-mail
 post elektronek,electronic mail
 post elektronek,email
-post elektronek,e-mail
+postel,e-mail
+postel,electronic mail
+postel,email
+poubelenn,waste bin
 poultrenn,dust
-uloc'h,dust
-houan,dust
 pounner,heavy
-tuzum,heavy
+poupinell,doll
 pozitron,positron
 prazeodim,praseodymium
+predañ,eat
 prederouriezh,philosophy
 prelad,prelate
 prizius,valuable
@@ -1145,14 +1098,24 @@ prometiom,promethium
 prostat,prostate
 protaktiniom,protactinium
 radiom,radium
+reizh,gender
+reizh,sex
 reizhskrivadur,orthography
 rekipe,recipe
 relijion,religion
 reniom,rhenium
 reolad ISO,ISO standard
+rev,gender
+rev,sex
 riz,rice
+roumaneg,Romanaian
+roumaneg,Romanian
 roz,rose
 rummatadur,classification
+rummenn-ger,lexical category
+rummenn-ger,part of speech
+rusianeg,Russian
+rusianeg,Russian
 ruskenn,beehive
 ruteniom,ruthenium
 rutherfordiom,rutherfordium
@@ -1167,6 +1130,8 @@ saozneg,English
 sardinenn,sardine
 sardonenn,bumblebee
 savadur,building
+sañskriteg,Sanskrit
+sañskriteg,Sanskrit
 sec'h,dry
 seksologiezh,sexology
 semantik,semantics
@@ -1185,17 +1150,20 @@ skinoniezh,radiology
 skoilh,obstacle
 skoilh,obstruction
 skorn,ice
-kler,ice
 skouarn,ear
 skragn,avaricious
+slovakeg,Slovak
+slovakeg,Slovak
 sloveneg,Slovene
 sloveneg,Slovenian
 sloveneg,Slovenian
 somali,Somali
 somali,somali
-sorser,wizard
-sorser,sorcerer
+soner,musician
+sonerezh,music
 sorser,magician
+sorser,sorcerer
+sorser,wizard
 spagnoleg,Castilian
 spagnoleg,Spanish
 spagnoleg,Spanish
@@ -1205,18 +1173,22 @@ sponterezh,terrorism
 staen,tin
 steredeg,constellation
 steredenn,star
+steredenn-lostek,falling star
+steredenn-lostek,meteor
+steredenn-lostek,meteor
+steredenn-lostek,meteor
+steredenn-lostek,meteor
+steredenn-lostek,meteor
+steredenn-lostek,shooting star
 steredoniezh,astronomy
 stevell,condom
 stevell,prophylactic
 stevell,rubber
 stevell,safe
 stevell,safety
-stlenneg,informatics
 stlenneg,computer science
+stlenneg,informatics
 stlenneg,information science
-urzhiataerezh,informatics
-urzhiataerezh,computer science
-urzhiataerezh,information science
 stomog,stomach
 strategel,strategic
 strinkell,syringe
@@ -1228,86 +1200,108 @@ stêr,river
 sulfur,sulphur
 sunerez-poultr,vacuum cleaner
 surjian,surgeon
+svedeg,Swedish
 tabut,argument
 tad,father
-tata,father
-tagalogeg,Tagalog
+tadjik,Tajik
+tadjikeg,Tajik
 tagalog,Tagalog
+tagalogeg,Tagalog
 tailh,levy
-tell,levy
 taliom,thallium
+tamileg,Tamil
+tamileg,Tamil
+tamouleg,Tamil
+tamouleg,Tamil
 tangwaller,arsonist
 tantal,tantalum
+taran,thunder
 tarzhadenn,explosion
+tata,father
 tatar,Tatar
 tatar,Tatar
 tatareg,Tatar
 tatareg,Tatar
 tavañjer,apron
+tchekeg,Czech
+tchekeg,Czech
+tchetcheneg,Chechen
+tchetcheneg,Chechen
+tchouvacheg,Chavash
+tchouvacheg,Chovash
+tchouvacheg,Chttash
 tchouvacheg,Chuvash
 tchouvacheg,Chuvash
 tchouvacheg,Chuwash
-tchouvacheg,Chovash
-tchouvacheg,Chavash
-tchouvacheg,Chttash
+tchouvatch,Chavash
+tchouvatch,Chovash
+tchouvatch,Chttash
 tchouvatch,Chuvash
 tchouvatch,Chuvash
 tchouvatch,Chuwash
-tchouvatch,Chovash
-tchouvatch,Chavash
-tchouvatch,Chttash
+tchouvatcheg,Chavash
+tchouvatcheg,Chovash
+tchouvatcheg,Chttash
 tchouvatcheg,Chuvash
 tchouvatcheg,Chuvash
 tchouvatcheg,Chuwash
-tchouvatcheg,Chovash
-tchouvatcheg,Chavash
-tchouvatcheg,Chttash
+teir,three
 teknetiom,technetium
 telefon,phone
 telefon,telephone
+tell,levy
 telougou,Telugu
 telougou,Telugu
 teod,tongue
 terapiezh,therapy
 termenoù ledanoc'h,broader term
 termenoù ledanoc'h,broader terms
-termenoù ledanoc'h,hypernym
 termenoù ledanoc'h,holonym
+termenoù ledanoc'h,hypernym
 termenoù strishoc'h,hyponym
-termenoù strishoc'h,narrower terms
 termenoù strishoc'h,narrower term
+termenoù strishoc'h,narrower terms
 test,witness
 teulenn,currency
-unanenn voneiz,currency
 thai,Thai
 thai,Thai
-tisaverezh,architecture
 tiijinerezh,architecture
+tisaverezh,architecture
 titan,titanium
 tommerezh,heating
 tonno,tunafish
+torosad meneziek,mountain range
+torr-dimeziñ,divorce
 torradur,fracture
 torrer-kraoñ,nutcracker
 traezh,sand
-treiñ,translate
 treiñ,interpret
+treiñ,translate
 tren,train
 trenkenn,acid
+treuzdougen boued,food transport
 tri,three
-teir,three
 tric'hornventouriezh,trigonometry
 troad,foot
 troidigezh,translation
-trovan,tropics
 trovan,torrid zone
+trovan,tropics
 trugarez,cheers
 trugarez,thank you
 trugarez,thanks
+tswana,Tswana
+tswaneg,Tswana
 turkeg,Turkish
 turkeg,Turkish
+tuzum,heavy
 ukraineg,Ukrainian
 ukraineg,Ukrainian
+uloc'h,dust
 unan,one
+unanenn voneiz,currency
+urzhiataerezh,computer science
+urzhiataerezh,informatics
+urzhiataerezh,information science
 uzurpañ,usurp
 vaksin,vaccination
 verb,verb
@@ -1319,26 +1313,32 @@ vilaat,abasement
 vogalenn,vowel
 volapük,Volapük
 voltadur,voltage
+walloneg,Walloon
+walloneg,Walloon
 warc'hoazh,tomorrow
 wiki,wiki
+xhosa,Xhosa
+xhosaeg,Xhosa
 yezh,language
 yezh ar sinoù,sign language
-yezh ofisiel,official language
-yezh savet,constructed language
-yezh savet,artificial language
-yezh kalvezel,constructed language
 yezh kalvezel,artificial language
-yezhadur,grammer
+yezh kalvezel,constructed language
+yezh ofisiel,official language
+yezh savet,artificial language
+yezh savet,constructed language
 yezhadur,grammar
+yezhadur,grammer
 yezhoniezh,linguistics
 yezhoniezh kevdredel,sociolinguistics
 yezhoniezh kevdredel,sociology of language
 yidicheg,Yiddish
 yuzevegezh,Judaism
+zero,null
+zero,zero
 zirkoniom,zirconium
 zodiak,zodiac
 zouloueg,Zulu
 Åland,Åland Islands
+лантан,lanthanum
 অস্ট্রেলিয়া,Australia
 অস্ট্রেলিয়া,Commonwealth of Australia
-breton,english

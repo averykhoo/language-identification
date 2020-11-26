@@ -3,8 +3,8 @@ Other,English
 -mu,interrogative particle
 -my,interrogative particle
 -sy,possess. suffix (3d person)
-aba,father
 aba,aunt
+aba,father
 abachy,bogy
 ach,hunger
 ach-,to open
@@ -21,8 +21,8 @@ aiu,bear
 aj,month
 aja-,to pity
 ajaq,"foot, cup"
-ajaz,palm of hand
 ajaz,frost
+ajaz,palm of hand
 ajlan-,to revolve
 ajran,kumys
 ajt-,to say
@@ -30,8 +30,8 @@ ajyr-,to separate
 ak',white
 al,front
 al-,to take
-al-da,towards the front of
 al-da,in front of
+al-da,towards the front of
 ala,variegated
 alda-,device
 alhyš,blessing
@@ -59,18 +59,14 @@ arqa,back
 arqa,back
 art,back
 ary-,to be tired
-aryš,thill
 aryw,good
+aryš,thill
 as-,to hang
-aš-lyq,seed
-aš-ügü,one of cereal cultures
-aša-,to eat
 asxa-,to hobble
-ašyq,ankle joint
 at,horse
 at,name
-at-,to dawn
 at-,shoot
+at-,to dawn
 ata,father
 atla-,to step
 av-ha-la-n-,to tumble
@@ -86,6 +82,10 @@ awur,heavy
 axsa-,to hobble
 az,a little
 azaw,fang
+aš-lyq,seed
+aš-ügü,one of cereal cultures
+aša-,to eat
+ašyq,ankle joint
 bahyr,copper
 baj,rich
 bajram,feast
@@ -104,14 +104,12 @@ balyq,fish
 bappuch,duck
 baq-,watch
 bar,there is
-bar-,to walk
 bar kalaidadi?,Where is the bar?
+bar-,to walk
 barmak,finger
 barmaq,thumb
 bary,all
-baš,head
 bas-,to press
-bašmaq,shoe
 bat-,to sink
 batmaq,marsh
 batxaq,marsh
@@ -121,6 +119,8 @@ baxcha,garden
 baz-,make a decision
 baz-a-ma,shelter
 bazyq,thick
+baš,head
+bašmaq,shoe
 bek,stable
 bel,waist
 ber-,to give
@@ -134,9 +134,9 @@ bile-,to sharpen
 bilek,forearm
 bilew,whetstone
 bir,one
-biš-,ripe
 bit,louse
 bit-,to close
+biš-,ripe
 bla,also
 bohaq,craw
 bohurdaq,Adam's apple
@@ -144,36 +144,24 @@ boj,body
 boja-,to paint
 bojaw,dye
 bojun,neck
-böksün,half of animal carcass
 bol-,to become
-böl-,separate
 boq,dung
 boqqur,Adam's apple
-börek,kidney(s)
-böriu,wolf
-börk,cap
 borsuq,badger
-börü,wolf
-boš,empty
 boz,grey
+boš,empty
 bu,this
-bü,deer male
 buha,bull
 buhow,string
-büirek,kidney
 bujuq-,to freeze
 bujur-,to order
-bük-,to curve
 bulaq,well
 bulha-,stir up
 bulut,cloud
 buq-,to hide
 bur-,wind round
 burchaq,pea
-bürche,flea
-bürtük,grain
 burun,nose
-bušuw,sadness
 but,foot
 buta-,to cut branches
 butaq,branch
@@ -183,10 +171,21 @@ buwaz,pregnant of animals
 buz,ice
 buz-,destroy
 buzow,calf
+bušuw,sadness
 byhyn,thigh
 byltyr,last year
 byrhy,trumpet
-cëzlük,dictionary
+böksün,half of animal carcass
+böl-,separate
+börek,kidney(s)
+böriu,wolf
+börk,cap
+börü,wolf
+bü,deer male
+büirek,kidney
+bük-,to curve
+bürche,flea
+bürtük,grain
 chab-,to attack
 chabak,fish
 chach,"hair of head, hair"
@@ -225,17 +224,9 @@ chij tigiš,silk bead embroidery
 chimdi-,to pinch
 chiri-,to rot
 chirik,rotten
-chöb,stick
 chochxa,pig
-chög-,to kneel down
-chögüch,hammer
-chök-,to kneel down
 cholaq,crippled
-chömüch,scoop
 chubar,pock-marked
-chüj,nail
-chüjre,contrariwise
-chüjür-,to tuck
 chulha-,to bind
 chybyq,lash
 chyh-,come out
@@ -245,7 +236,16 @@ chyjyr-t-,to stamp snow
 chyq,dew
 chyq-,come out
 chyqanaj,small finger
+chöb,stick
+chög-,to kneel down
+chögüch,hammer
+chök-,to kneel down
+chömüch,scoop
+chüj,nail
+chüjre,contrariwise
+chüjür-,to tuck
 cycxan,mouse
+cëzlük,dictionary
 dahy-da,additionally
 de-,to say
 duchman,enemy
@@ -261,7 +261,6 @@ elme,asp-tree
 elt-,to bring
 eltir,skin of kid
 eltiri,skin of kid
-ëlüm,death
 em,and
 endi,now
 eng,very
@@ -273,15 +272,15 @@ erin,lip
 erke,cockered
 erkek,man
 es,memory
-eš-,twist
-ešek,donkey
-ešik,door curtain
 esir-,to become drunk
 eski,ancient
-ešt-,to hear
 et,meat
 etek,edge of cloth
 ez-,to knead
+eš-,twist
+ešek,donkey
+ešik,door curtain
+ešt-,to hear
 gebehek,butterfly
 gemik,spongy bone
 gichche,little
@@ -304,10 +303,10 @@ inchik,shin bone
 inek,cow
 ingir,"dusk, evening"
 irin,pus
-iš,deed
-išan-,trust
 it,dog
 izgi,thing
+iš,deed
+išan-,trust
 jabahy,a mass of hair
 jachil,green
 jaha,edge
@@ -323,13 +322,13 @@ jap-,to cover
 jar-,to split
 jara,wound
 jaryq,light
-jaš,raw
 jassy,flat and broad
 jastyq,pillow
 jau chirak,candle
 jaw,war
-jaz-,to write
 jaz-,sin
+jaz-,to write
+jaš,raw
 jelim,glue
 jelin,udder
 jeng,sleeve
@@ -337,21 +336,21 @@ jeti,seven
 jigit,brave man
 jomaq,word
 joq,there is not
-jügen,bridle
-jük,load
 jula,torch
 jum-,to close eyes
-jürek,heart
 jurun,rag
 jut-,to swallow
 juw-,to swim
 juwurhan,blanket
 juwurt,coagulated milk
+jyr,song
+jügen,bridle
+jük,load
+jürek,heart
 jüz,hundred
 jüz-,float
 jüzük,finger ring
 jüzüm,grape
-jyr,song
 k'urt,worm
 kahatli,bird
 kanat,wing
@@ -371,7 +370,6 @@ kemir-,to gnaw
 kendir,hemp
 keng,wide
 kengeš,counsel
-këpür,bridge
 ker-,to hang
 kerek,necessity
 kerti,truth
@@ -387,41 +385,43 @@ kim,who
 kindik,navel
 kir-,to enter
 kire,back
-kišen,fetters
-kiši,people
 kitap,book
 kiul,ash
 kiuz,autumn
 kiz,daughter
+kišen,fetters
+kiši,people
+kol,hand
+konak,guest
+korkuu,fear
+kuch,eagle
+kumlu tüz,desert
+kyš,winter
+këpür,bridge
 köch-,to migrate
 kök,blue
 kökle-,to tack
 kökürek,breast
-kol,hand
 köl,"arm, lake, mood"
 kölek,shirt
 köm-,to bury
 kömür,coal
-konak,guest
 köp,many
 köp-,to swell
 kör-,to see
-korkuu,fear
 körpe,new-born lamb
 kösew,poker
 kötür-,raise
 köz,eye
-kuch,eagle
 küch,power
-küj-,to suffer
 küj-,to burn
+küj-,to suffer
 küje,moth
 küjrüch,ash tree
 küjük,envious
 küjün-,to suffer
 küjüz,rug
 kül,ashes
-kumlu tüz,desert
 kümursxa,ant
 kün,"sun, day"
 küre-,to rake
@@ -430,7 +430,6 @@ kürt,deep snow
 kürüch,ash tree
 küt-,to graze
 küz,autumn
-kyš,winter
 mamuk,cotton
 maqa,frog
 men,I
@@ -442,55 +441,40 @@ minchaq,beads
 ming,thousand
 miz,"we, awl"
 mor,brown
-müjüš,angle
-müjüz,horn
 myjyq,moustache
+müjüz,horn
+müjüš,angle
 ne,what
 o-l,that
-öch,anger
-öchül-,to extinguish
-ögej,unrelated
-ögüz,ox
 ohary,above
 ohur,occasion
 oj-,to pick
 ojna-,to play
 ojun,play
 ok',arrow
-öl-,to die
 oltan,sole
 oltang,sole
 oltur-,to sit
-öltür-,to kill
 omuz,shoulder
 on,ten
 ong,right
 ong-,become pale
-öpke,anger
 oq,arrow
 oqa,gimp
 oqu-,recite
-ör,above
 orman,forest
 orta,middle
 orun,place
-ös-,to grow
 osal,bad
-öšün,chest
-ot,grass
 ot,fire
-öt,gall
-öt-,pass through
-ötmek,bread
+ot,grass
 otow,room
 otuz,thirty
 oz-,win
-özge,other
 pil,elephant
 qab-,to bite
 qaban,boar
 qabuq,bark
-qaç-,flee
 qadyr,mule
 qaja,rock
 qajyr,angry
@@ -516,25 +500,26 @@ qary,various measures of length
 qarylhach,swallow
 qaryn,belly
 qaryš,span
-qašxa,white blaze
-qašyq,spoon
 qat-,tie to
 qazyq,peg
+qaç-,flee
+qašxa,white blaze
+qašyq,spoon
 qobuz,a k. of musical instrument
 qocxar,ram
 qoj-,abandon
 qojan,hare
 qojin,bosom
-qol,valley
 qol,arm
+qol,valley
 qongur,dark brown
 qora-,to diminish
 qoru-,protect
-qoš,camping
-qoš-,unite
 qoz-,to be irritated
 qozha-,irritate
 qozu,lamb
+qoš,camping
+qoš-,unite
 qrau,hoar-frost
 quj-,to pour out water
 qujruq,tail
@@ -551,11 +536,11 @@ qurch,hard of steel
 qurt,worm
 quru,dry
 qurum,soot
-quš,bird
 quvan-,enjoy
 quw,swan
 quw-,chase
 quwuq,bladder
+quš,bird
 qychyr-,cry
 qydyr-,go round
 qyjna-,to beat
@@ -574,12 +559,12 @@ qyr,steppe
 qyr-,to break
 qyrpaq,thin snow
 qyrq,forty
-qyš,winter
 qysxa,short
 qysyr,barren cow
 qyt,insufficient
 qyz,girl
 qyzyl,red
+qyš,winter
 saban,plough
 sabii,child
 sagat,hour
@@ -602,7 +587,6 @@ sekir-,to jump
 semiz,fat
 sen,thou
 sepkil,freckles
-sëz,word
 sez-,to feel
 sibir-,to sweep
 sij-,to urinate
@@ -612,30 +596,14 @@ singir,sinew
 sipa,beer
 sirke,nit
 sirkesuw,vinegar
-šiš,sharp stick
-sök-,tear apart
 sol,left
-söle-,to speak
 soq-,crush
 sor-,to ask
 soxan,onion
-söz,speech
 soz-,to drag
-sü,water
-süek,bone
 suh-,to stick in
-süj-,like
-süje-,to prop
-süjek,bone
-süjre-,to pull
-süngü,spear
-süq,cold
-sür-,to drive away
 sura-,to ask
-sürt-,smear
-süt,milk
 suwalchan,earth-worm
-süz-,to strain
 syhanaq,forearm
 syj,gift
 syjpa-,caress
@@ -647,6 +615,22 @@ syna-,to test
 syq-,to press
 syrha,ear-ring
 syrt,back
+sëz,word
+sök-,tear apart
+söle-,to speak
+söz,speech
+sü,water
+süek,bone
+süj-,like
+süje-,to prop
+süjek,bone
+süjre-,to pull
+süngü,spear
+süq,cold
+sür-,to drive away
+sürt-,smear
+süt,milk
+süz-,to strain
 taban,sole
 tabla-,to hammer
 tabyn-,worship
@@ -666,14 +650,14 @@ tar,narrow
 tart-,to hang
 tary,millet
 tas,bad
-taš,stone
-tašaq,scrotum
 tat-,to taste
 tatly,sweet
 tatyw,taste
 tau,mountain
 tauuk,hen
 tawuq,fowl
+taš,stone
+tašaq,scrotum
 teber-,tramp
 tebre-,shake
 tegaran,solitary
@@ -689,8 +673,8 @@ teren,deep
 tereze,window
 terge-,research
 teri,skin
-teš-,to make holes
 tezgek,dung
+teš-,to make holes
 tij-,to reach
 tik,to plant vertically
 tiklik,tension of relations
@@ -699,61 +683,36 @@ til-,cut in slices
 tin,spirit
 tint-,to search
 tiri,alive
-tiš,tooth
-tiši,female
-tiširiu,woman
 tiunene,yesterday
 tiz,knee
 tiz-,to bead
-töbe,top of head
+tiš,tooth
+tiši,female
+tiširiu,woman
 tobuq,knee
 tod,salt
-tögerek,round
 tohustun,to weave
 toj,community
 toj-,full
-tök-,to pour out
 tolqan,wave(s)
 tolu,full
-tölü,generation
 tomalaq,round
 tomur-,to hack
 tomuraw,block
-tönggek,stump
 tonghuz,pig
 top,round thing
 topraq,soil
-toqal,hummel
 toqal,first wife in respect to other
+toqal,hummel
 toqlu,lamb (6m. old)
 toqmaq,mallet
-tör,honorary place in the house
-tört,four
-töš,breast
-töšek,mattress
 tot,rust
 toxun,wheel hoop
-töz-,endure
-tügen-,to come to an end
-tüj-,"to tie in a knot, to pound"
 tujaq,hoof
-tüje,camel
-tük,feather
-tükür-,to spit
-tülkü,fox
-tün,night
-tün,reality
 tur-,to stand
-türlü,various
-tüš,noon
-tüš,dream
-tüš-,move down
 tut-,to grasp
-tütün,smoke
 tuwar,cattle
 tuwra-,to cut into slices
-tüz,level
-tüz-e-t-,level
 tyj-,obstruct
 tyn-ch-aj-,to rest
 tyn-ch-y-,to rot
@@ -761,163 +720,204 @@ tyn-ym,rest
 tyngla-,to listen
 tyrnaq,claw
 tyš,outer side
+töbe,top of head
+tögerek,round
+tök-,to pour out
+tölü,generation
+tönggek,stump
+tör,honorary place in the house
+tört,four
+töz-,endure
+töš,breast
+töšek,mattress
+tügen-,to come to an end
+tüj-,"to tie in a knot, to pound"
+tüje,camel
+tük,feather
+tükür-,to spit
+tülkü,fox
+tün,night
+tün,reality
+türlü,various
+tütün,smoke
+tüz,level
+tüz-e-t-,level
+tüš,dream
+tüš,noon
+tüš-,move down
 uch-,to fly
-üchün,for the sake of
-üj,house
 ujal-,to be ashamed
 ujan-,to wake up (intr.)
 ujat,shame
 ujat-,to wake up (trans.)
 ujük,felt stockings
-üjür,family
-üleš,endowment
-üleš-,to divide
-ülgü,measure
 ullu,big
 ulu-,howl
-ülüš,endowment
 un,flour
-ün,voice
 una-,be satisfied
 unguruk,bed
 unut-,to forget
 ur-,to beat
-ürge,maple
-ürk-,to be afraid
 urluq,seed
-ušaq,conversation
 ut-,to win
 uw,chase
 uw-,grind
 uwuch,handful
 uwurt,cheek
 uwuz,colostrum
-üz-,to gain profit
-üz-,demolish
 uzaq,far
 uzun,long
+ušaq,conversation
 xaua,air
 ychxyn-,disappear
 yjyq,sacred
 yrys,prediction
-yši-,to rub
 yz,trace
+yši-,to rub
 zabahy,a mass of hair
-žabyš-,stick to
-žaha,edge
 zaj,summer
-žaj,summer
-žaja,bow
 zal,price
 zalan,naked
-žalan,naked
-žalhan,lie
 zalyn-,to ask
-žalyn-,to ask
 zama-,to patch
 zan,side
+zanhyz,"lonely, lonely"
+zany-,to threaten
+zap-,to cover
+zara,wound
+zaras-,to be beneficial
+zarly,poor
+zastyq,pillow
+zat,body
+zaw,war
+zaz,summer
+zaz-,to write
+zaš,raw
+zaš,young
+zegen,a k. of grass
+zelim,glue
+zelin,udder
+zeng,sleeve
+zengil,light
+zet-,to reach
+zeti,seven
+zez,copper
+zigit,brave man
+zip,thread
+zomaq,riddle
+zox,there is not
+zumurtqa,egg
+zumuš,necessity
+zumšaq,mild
+zuw- žün-,to swim
+zuwuq,to draw near
+zuwurhan,blanket
+zuwurt,coagulated milk
+zyla-,cry
+zylqy,age
+zyr,song
+zük,load
+züz,hundred
+züzük,finger ring
+ëlüm,death
+öch,anger
+öchül-,to extinguish
+ögej,unrelated
+ögüz,ox
+öl-,to die
+öltür-,to kill
+öpke,anger
+ör,above
+ös-,to grow
+öt,gall
+öt-,pass through
+ötmek,bread
+özge,other
+öšün,chest
+üchün,for the sake of
+üj,house
+üjür,family
+üleš,endowment
+üleš-,to divide
+ülgü,measure
+ülüš,endowment
+ün,voice
+ürge,maple
+ürk-,to be afraid
+üz-,demolish
+üz-,to gain profit
+šiš,sharp stick
+žabyš-,stick to
+žaha,edge
+žaj,summer
+žaja,bow
+žalan,naked
+žalhan,lie
+žalyn-,to ask
 žan,side
 žan-,"to burn (itr.), to threaten"
 žang-,to threaten
 žanhy,new
-zanhyz,"lonely, lonely"
 žanhyz,"lonely, lonely"
-zany-,to threaten
-zap-,to cover
 žap-,to cover
-zara,wound
 žara,wound
-zaras-,to be beneficial
-zarly,poor
 žarly,poor
-zaš,young
-zaš,raw
+žat-,to sleep
+žau,fat
+žaw,war
+žawun,rain
 žaš,"young, raw"
 žaš jaš,young
 žašil,green
-zastyq,pillow
-zat,body
-žat-,to sleep
-žau,fat
-zaw,war
-žaw,war
-žawun,rain
-zaz,summer
-zaz-,to write
-zegen,a k. of grass
 žeje-,to eat
 žek-,to harness
 žel,wind
-zelim,glue
 želim,glue
-zelin,udder
 želin,udder
 žemiš,fruit
-zeng,sleeve
 ženg-,to win
 ženggil,light
-zengil,light
 žengil,light
 žer,land
 žerk,alder
-zet-,to reach
 žet-,to reach
-zeti,seven
 žeti,seven
-zez,copper
 žib,thread
-zigit,brave man
 žik,seam
 žil,year
 žilek,berry
 žilik,marrow
-zip,thread
 žiun,wool
 žol,road
-zomaq,riddle
 žon-,plane
-žöne-,to be directed towards
 žoq,there is not
-zox,there is not
 žuburan,gopher
-žügeri,corn
-zük,load
-žük,load
 žul-,pluck
 žulduz,star
-žülü-,to shave
 žum-,to close eyes
-zumšaq,mild
-zumurtqa,egg
-zumuš,necessity
 žumušaq,mild
 žuqa,unsubstantial
 žuqla-,to sleep
-žür,to walk
-žürek,courage
-žürhan,blanket
 žurt,camping-site
-žürü-,to walk
-žütü,sharp
 žuw-,to swim
-zuw- žün-,to swim
 žuwaš,quiet
-zuwuq,to draw near
 žuwuq,to draw near
-zuwurhan,blanket
 žuwurhan,blanket
-zuwurt,coagulated milk
 žuwurt,coagulated milk
-züz,hundred
-žüz-,float
-züzük,finger ring
 žyj-,to collect
 žyjaq,cheek
 žyl,year
-zyla-,cry
 žylan,snake
-zylqy,age
 žylqy,age
 žyly,warm
-zyr,song
 žyr,song
+žöne-,to be directed towards
+žügeri,corn
+žük,load
+žülü-,to shave
+žür,to walk
+žürek,courage
+žürhan,blanket
+žürü-,to walk
+žütü,sharp
+žüz-,float

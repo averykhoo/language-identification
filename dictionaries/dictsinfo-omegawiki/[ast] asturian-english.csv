@@ -56,8 +56,8 @@ Abraham Lincoln,Abraham Lincoln
 Abraham Lincoln,Abraham Lincoln
 Angola,Angola
 Angola,Republic of Angola
-Arabia Saudina,Saudi Arabia
 Arabia Saudina,Kingdom of Saudi Arabia
+Arabia Saudina,Saudi Arabia
 Aries,Aries
 Armenia,Armenia
 Arxelia,Algeria
@@ -92,8 +92,8 @@ Chile,Republic of Chile
 Chipre,Cyprus
 Chipre,Republic of Cyprus
 Corfú,Corfu
-Costa de Marfil,Ivory Coast
 Costa de Marfil,Cote d'Ivoire
+Costa de Marfil,Ivory Coast
 Costa de Marfil,Republic of Cote d'Ivoire
 Croacia,Croatia
 Croacia,Republic of Croatia
@@ -107,8 +107,8 @@ Estonia,Estonia
 Estonia,Republic of Estonia
 Etiopía,Ethiopia
 Etiopía,Federal Democratic Republic of Ethiopia
-Exipto,Egypt
 Exipto,Arab Republic of Egypt
+Exipto,Egypt
 Finlandia,Finland
 Finlandia,Republic of Finland
 Francia,France
@@ -118,8 +118,8 @@ Gambia,Gambia
 Gambia,Gambia
 Gambia,Gambia
 Gambia,Gambia
-Gambia,The Gambia
 Gambia,Republic of The Gambia
+Gambia,The Gambia
 Grecia,Greece
 Grecia,Hellenic Republic
 Holanda,Holland
@@ -139,18 +139,18 @@ Islandia,Republic of Iceland
 Islles Feroe,Faroe Islands
 Israel,Israel
 Israel,State of Israel
-Jersey,Jersey
 Jersey,Bailiwick of Jersey
+Jersey,Jersey
 Kazakhistán,Kazakhstan
 Kazakhistán,Republic of Kazakhstan
-Lesotho,Lesotho
 Lesotho,Kingdom of Lesotho
+Lesotho,Lesotho
 Letonia,Latvia
 Letonia,Republic of Latvia
 Liberia,Liberia
 Liberia,Republic of Liberia
-Libia,Libya
 Libia,Great Socialist People's Libyan Arab Jamahiriya
+Libia,Libya
 Lituania,Lithuania
 Lituania,Republic of Lithuania
 Lleo,Leo
@@ -164,27 +164,27 @@ Malta,Malta
 Malta,Republic of Malta
 Mar Caribe,Caribbean Sea
 Mar de les Antilles,Caribbean Sea
-Marruecos,Morocco
 Marruecos,Kingdom of Morocco
-Mauritania,Mauritania
+Marruecos,Morocco
 Mauritania,Islamic Republic of Mauritania
+Mauritania,Mauritania
 Montenegru,Montenegro
-Mumbai,Mumbai
 Mumbai,Bombay
+Mumbai,Mumbai
 Myanmar,Myanmar
 Mónaco,Monaco
 Namibia,Namibia
-Noruega,Norway
 Noruega,Kingdom of Norway
-Paquistán,Pakistan
+Noruega,Norway
 Paquistán,Islamic Republic of Pakistan
+Paquistán,Pakistan
 Polonia,Poland
 Portugal,Portugal
 Qatar,Qatar
 República Checa,Czech Republic
 República Checa,Czechia
-República Democrática del Congo,Democratic Republic of the Congo
 República Democrática del Congo,Congo-Kinshasa
+República Democrática del Congo,Democratic Republic of the Congo
 Revolución Francesa,French Revolution
 Saturnu,Saturn
 Senegal,Senegal
@@ -194,27 +194,27 @@ Sri Lanka,Sri Lanka
 Sudán,Sudan
 Suecia,Sweden
 Suiza,Switzerland
-Timor Oriental,East Timor
 Timor Oriental,Democratic Republic of Timor-Leste
+Timor Oriental,East Timor
 Togo,Togo
 Turquía,Turkey
-Uganda,Uganda
 Uganda,Republic of Uganda
-Vaticano,Vatican City
-Vaticano,The Holy See
+Uganda,Uganda
 Vaticano,State of the Vatican City
+Vaticano,The Holy See
+Vaticano,Vatican City
 Xamaica,Jamaica
 Xapón,Japan
 Xapón,State of Japan
 Xibraltar,Gibraltar
-Xordania,Jordan
 Xordania,Hashemite Kingdom of Jordan
+Xordania,Jordan
 Xorxa,Georgia
 Xunión Europea,EU
 Xunión Europea,European Union
 Xéminis,Gemini
-Zambia,Zambia
 Zambia,Republic of Zambia
+Zambia,Zambia
 abeya,bee
 acuariu,aquarium
 agostu,August
@@ -229,10 +229,11 @@ arroz,rice
 asamés,Assamese
 asamés,Assamese
 astronomía,astronomy
+asturian,english
+asturianu,Astur
 asturianu,Astur-Leonese
 asturianu,Asturian
 asturianu,Asturian-Leonese
-asturianu,Astur
 axetivu,adjective
 axetivu,describing word
 azufre,sulphur
@@ -260,8 +261,8 @@ castellanu,Spanish
 castellanu,Spanish
 catalán,Catalan
 catalán,Catalan
-categoría gramatical,part of speech
 categoría gramatical,lexical category
+categoría gramatical,part of speech
 cebada,barley
 chacal,jackal
 cinc,zinc
@@ -274,8 +275,10 @@ escandiu,scandium
 esperanto,Esperanto
 esperanto,Esperanto
 estañu,tin
-estrañu,strange
 estrañu,odd
+estrañu,strange
+eusquera,Basque
+eusquera,Basque
 fame,hunger
 fame,hunger
 fame,hunger
@@ -296,11 +299,11 @@ heliu,helium
 hidróxenu,hydrogen
 hiperónimu,broader term
 hiperónimu,broader terms
-hiperónimu,hypernym
 hiperónimu,holonym
+hiperónimu,hypernym
 hipónimu,hyponym
-hipónimu,narrower terms
 hipónimu,narrower term
+hipónimu,narrower terms
 idioma oficial,official language
 inglés,English
 italianu,Italian
@@ -309,14 +312,14 @@ judo,judo
 litiu,lithium
 llei,law
 llingüística,linguistics
-lluna,moon
 lluna,Luna
 lluna,Moon
+lluna,moon
 llunes,Monday
 magnesiu,magnesium
 maltés,Maltese
-mar Exéu,Aegean Sea
 mar Exea,Aegean Sea
+mar Exéu,Aegean Sea
 martes,Tuesday
 masa,mass
 miércoles,Wednesday
@@ -331,8 +334,8 @@ neón,neon
 nitróxenu,nitrogen
 ontoloxía,ontology
 oxíxenu,oxygen
-palomba,pigeon
 palomba,dove
+palomba,pigeon
 pavu,turkey
 pañal,nappy
 península,peninsula
@@ -349,8 +352,8 @@ pragmática,pragmatics
 primavera,spring
 pumarina,butterfly
 páxaru,bird
-ropa,clothing
 ropa,apparel
+ropa,clothing
 semántica,semantics
 sicilianu,Sicilian
 sicilianu,Sicilian
@@ -379,8 +382,6 @@ ununtriu,ununtrium
 vanadiu,vanadium
 vascu,Basque
 vascu,Basque
-eusquera,Basque
-eusquera,Basque
 vienres,Friday
 xampán,champagne
 xineru,January
@@ -390,4 +391,3 @@ xunu,June
 Åland,Åland Islands
 árabe,Arabic
 árabe,Standard Arabic
-asturian,english

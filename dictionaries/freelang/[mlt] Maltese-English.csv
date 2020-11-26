@@ -16,8 +16,8 @@ abbanduna,desert
 abbandunat,derelict
 abbazija,abbey
 abbiss,abyss
-abbli,capable
 abbli,"able, capable"
+abbli,capable
 abbona,subscribe
 abbonat,subscriber
 abbord,aboard
@@ -90,9 +90,9 @@ ahna rajna,we saw
 ahna sirna,we became
 ahna tajna,we gave
 ahna wasalna,we arrived
-ahrax,"harsh, stern, atrocious, austere, coarse"
 ahrax,"grim, vehement"
 ahrax,hard
+ahrax,"harsh, stern, atrocious, austere, coarse"
 ajjut!,help!
 ajkla,eagle
 ajruplan,"plane, airplane"
@@ -145,8 +145,8 @@ anki,"even, too (also), too, also"
 ankra,anchor
 annimal,animal
 annulla,"repeal, cancel"
-anqas,more
 anqas,less
+anqas,more
 ansjeta',anxiety
 antenat,ancestor
 antibijotiku,antibiotic
@@ -238,13 +238,13 @@ attiv,active
 attur,"player, actor"
 avanza,advance
 avolja,"even, although"
+avukat,"advocate, lawyer, counsel"
 avukat,barrister
 avukat,"barrister-at-law, attorney"
 avukat,"counsel, solicitor"
-avukat,"advocate, lawyer, counsel"
 avukat,"intercessor, lawyer"
-avvanza,promote
 avvanza,proceed
+avvanza,promote
 avvelenament,poisoning
 avvelenamnet ta l-ikel,food poisoning
 avvent,advent
@@ -377,8 +377,8 @@ bejkin u bajd,bacon & eggs
 bejn,"between, within, among"
 bejt,roof
 bejta,"bird nest, nest, den"
-beka,"weep, deplore"
 beka,"wail, cry"
+beka,"weep, deplore"
 bekbek,swig
 bela,swallow
 belgha,swig
@@ -394,8 +394,8 @@ bena,"build, construct, erect"
 beneficcju,benefit
 bennej,builder
 benniena,cot
-benniena,crib
 benniena,cradle
+benniena,crib
 beraq,lightning
 berbaq,"waste, squander"
 berbieqi,prodigal
@@ -440,6 +440,7 @@ bies,kiss
 biex,to
 biezel,"energetic, active, diligent"
 bikkem,"dumbfound, stupefy"
+bil galleriya,with a balcony
 bil-banju,with a bath
 bil-buri,"glum, sulky"
 bil-galbu,tidy
@@ -452,12 +453,11 @@ bil-kemm,hardly
 bil-kliem,verbal
 bil-konoxxenza,pleased to meet you
 bil-lejl,at night
-bil-maqlub,vice-versa
 bil-maqlub,upside down
+bil-maqlub,vice-versa
 bil-mixi,on foot
 bil-mohbi,underhand
 bil-qawwa,strongly
-bil galleriya,with a balcony
 bilanc,balance
 biljett,"ticket, card"
 bin,son
@@ -466,8 +466,8 @@ bini,"estate, structure, building"
 bint,daughter
 bir,well
 bir-rih,windy
-birra,beer
 birra,ale
+birra,beer
 birra bajda,ale
 birthday,birthday
 biskott,cookie
@@ -592,8 +592,8 @@ c.irasa,cherry
 c.par,"fog, mist"
 caccarun,charlatan
 caghqa,pebble
-cahad,disown
 cahad,"disclaim, refuse, renounce, repudiate, deny"
+cahad,disown
 cahhad,deprive
 cajta,jest
 cajta,"joke, prank, trick, crack"
@@ -616,8 +616,8 @@ cavetta,key
 caw,so long
 caw!,good bye!
 cawlun,crow
-ccargja,to charge money
 ccargja,"charge car battery, charge"
+ccargja,to charge money
 cekk,check
 cekk persunali,personal check
 cekkbuk,checkbook
@@ -762,8 +762,8 @@ delikat,"squeamish, dainty, delicate"
 delinkwent,delinquent
 delitt,crime
 delizzjuz,delicious
-dell,shadow
 dell,shade
+dell,shadow
 delu,"bucket, pail"
 demb,tail
 demel,"dung, manure, muck"
@@ -983,8 +983,8 @@ epilettiku,epileptic
 episodju,episode
 epitaffju,epitaph
 epoka,epoch
-erba' mija,400
 erba kelmiet,four words
+erba' mija,400
 erbatax,fourteen
 erbgha,four
 erbghin,"forty, fourty"
@@ -1042,10 +1042,10 @@ f'nofs,amid
 f'sahhtu,"fit, heathy"
 f'sena,in 1 year
 f'wicc l-ilma,afloat
-fabbli,kind
 fabbli,affable
 fabbli,friendly
 fabbli,good-natured
+fabbli,kind
 fabbrika,factory
 faccata,facade
 faccata tal-bahar,facing the sea
@@ -1066,8 +1066,8 @@ falla,fail
 fallut,bankrupt
 falsifikat,counterfeit
 falz,"false, hollow, insincere, counterfeit"
-fama,reputation
 fama,renown
+fama,reputation
 familja,family
 fanatku,"bigot, zealot"
 fanfru,swank
@@ -1086,8 +1086,8 @@ farrak,"grind, wreck, crash, crush"
 fartas,bald
 fatam,"wean, deprive"
 favur,favor
-faxx,stripe
 faxx,streak
+faxx,stripe
 faxxa,"bandage, strip"
 fazola,"french bean, green bean, beans"
 fdal,"residue, wreckage"
@@ -1175,8 +1175,8 @@ fidil,staunch
 fiducja,"trust, confidence"
 fieq,"heal, recover"
 fiera,"fair, stab"
-fieragh,futile
 fieragh,"frivolous, inane, trivial, vain, void"
+fieragh,futile
 fiergha,coquette
 fietel,temperate
 fietel,tepid
@@ -1279,12 +1279,12 @@ fost,among
 fotografija,photography
 fotokopja,photocopy
 fqir,"miserable, poor"
-frag.li,brittle
 frag.li,breakable
+frag.li,brittle
 frag.li,fragile
 fragli,frail
-franc.iz,french language
 franc.iz,french
+franc.iz,french language
 franc.iz,frenchman
 franciz,french
 franciza,french
@@ -1351,8 +1351,8 @@ g.emel,camel
 g.ennien,gardener
 g.ewnah-,wing
 g.ild,leather
-g.lata,frost
 g.lata,freezing cold
+g.lata,frost
 g.nien,garden
 g.obna,cheese
 g.obon,cheese
@@ -1414,8 +1414,8 @@ gdid,new
 gdida,new
 gebbed,stretch
 gebla,stone
-gedded,renew
 gedded,refresh
+gedded,renew
 geddidli,renew for me
 geddum,"jaw, chin"
 geghilhom,he compelled them
@@ -1466,8 +1466,8 @@ ggwida,lead
 gh-ajn,eye
 gh-ama,blindness
 gh-ani,"affluent, rich, wealthy, well-off"
-gh-aref,"sage, wise"
 gh-aref,sagacious
+gh-aref,"sage, wise"
 gh-arqub,heel
 gh-era,nakedness
 gh-era,nudity
@@ -1483,8 +1483,8 @@ ghad-deni,a fever
 ghada,"tomorrow, usage"
 ghadba,wrath
 ghadd,to count
-ghadda,"exceed, iron, transcend, transfer, traverse"
 ghadda,"elapse, approve"
+ghadda,"exceed, iron, transcend, transfer, traverse"
 ghadda,"excel, transfer"
 ghadda 'l-quddiem,thrive
 ghadda z-zmien,entertain
@@ -1645,8 +1645,8 @@ gharukaza,disgrace
 gharus,"fiance, groom, bridegroom"
 gharusa,"fiancee, bride"
 gharwen,"disrobe, strip"
-gharwien,nude
 gharwien,naked
+gharwien,nude
 ghas-sola,a cough
 ghasar,"press, squeeze, squash"
 ghasel,"honey, treacle"
@@ -1711,8 +1711,8 @@ ghogbok?,do you like it?
 ghogob,"gratify, like"
 ghogol,"steer, calf"
 ghola,leap
-gholi,"high, tall, expensive"
 gholi,"height, loud, aloud"
+gholi,"high, tall, expensive"
 gholja,"hill, mountain, expensive"
 gholjin,expensive
 gholla,"exalt, promote, raise"
@@ -1740,8 +1740,8 @@ gidra,turnip
 gie,"to come, he came, come"
 gieb,"fetch, produce"
 gieb fix-xejn,undo
-gieghel,induce
 gieghel,impel
+gieghel,induce
 gieh,"merit, renown, reputation"
 gifa,coward
 gijer,gear
@@ -1766,8 +1766,8 @@ glandola,"gland, bland"
 glata,frost
 glekk,"jacket, coat"
 glied,discord
-glieda,"struggle, brawl, combat, conflict"
 glieda,"strife, tiff, tussle, wrangle"
+glieda,"struggle, brawl, combat, conflict"
 gmiel,"beauty, glamor"
 gnien,garden
 gnien botaniku,botanical garden
@@ -1775,8 +1775,8 @@ go,in
 godda,new
 godli,"plumpy, stout, sturdy"
 gods,pile
-goff,"gruff, uncouth, awkward, clumsy, coarse"
 goff,"gross, brusque, crude, cumbersome"
+goff,"gruff, uncouth, awkward, clumsy, coarse"
 goga,joint
 gogging,jogging
 gogils,goggles
@@ -1790,8 +1790,8 @@ gomma,eraser
 gost,"enjoyment, pleasure, delight"
 gozz,heap
 grad,"rank, degree"
-grajja,event
 grajja,"episode, chronicle"
+grajja,event
 gramm,gram
 grammatika,grammar book
 granc,crab
@@ -1840,13 +1840,13 @@ gwida turistika,guidebook
 gz.ira,island
 gzejjer,islands
 gzira,island
+h-abrieki,diligent
 h-abrieki,"hardworking, diligent"
 h-abrieki,industrious
-h-abrieki,diligent
 h-add,chin
-h-addiem,"labourer, worker, hand"
 h-addiem,"hand, operative"
 h-addiem,laborer
+h-addiem,"labourer, worker, hand"
 h-adid,iron
 h-afif,easy
 h-afif,facile
@@ -1855,8 +1855,8 @@ h-alib,milk
 h-alliel,thief
 h-ass,lettuce
 h-awh-a,peach
-h-axix,herb
 h-axix,grass
+h-axix,herb
 h-az.in,"bad, miserable, nasty, poor"
 h-elsien,freedom
 h-elu,"gentle, soft, sweet, tender"
@@ -1915,8 +1915,8 @@ haffer,"excavate, to dig, dig"
 hafi,barefoot
 hafif,"easy, light, swift, agile"
 hafifa,light
-hafna,"mass (quantity), numerous"
 hafna,"many, plenty, very, a lot, much, and you?"
+hafna,"mass (quantity), numerous"
 hafna; u inti?,and you?
 haga,"stuff, thing"
 haga mohgaga,puzzle
@@ -1932,8 +1932,8 @@ hajra,desire
 hajt,"yarn, fence, wall"
 hajta,thread
 hakem,restrain
-hakem,subject
 hakem,subdue
+hakem,subject
 hakk,itch
 halaq,create
 halef,"swear, curse"
@@ -2028,8 +2028,8 @@ hataf; qabad,grasp
 hatar,"elect, stick, appoint, choose"
 hatba,log
 haten,brother-in-law
-hati,culprit
 hati,convict
+hati,culprit
 hatt,"unburden, undo, unload, demolish"
 hawha,peach
 hawli,sterile
@@ -2062,8 +2062,8 @@ hazzem,brace
 hazzez,draw
 hdan,"bosom, breast"
 hdax,eleven
-hdejn,"next to, by"
 hdejn,"nearby, near"
+hdejn,"next to, by"
 hdejn il-bahar,near the sea
 hdejn it-tieqa,by the window
 heba,"hide, conceal"
@@ -2073,9 +2073,9 @@ hedla,lethargy
 hedlajt,headlight
 heffa,"haste, swiftness"
 hegga,"eagerness, energy, enthusiasm, verve"
+heggeg,encourage
 heggeg,excite
 heggeg,exhort
-heggeg,encourage
 heja,relieve
 hejja,"lay, prepare"
 hejjem,indulge
@@ -2102,8 +2102,8 @@ hemmhekk,"over there, yonder, there"
 hena,pleasure
 henjja,arch
 hewdieni,delirious
-hexa,"to fuck, defile"
 hexa,fornicate
+hexa,"to fuck, defile"
 hfief,light
 hi,she
 hi fixklet,she obstructed
@@ -2141,8 +2141,8 @@ hieles,free (liberty)
 hiemed,"peaceful, still"
 hieni,"happy, content"
 hiere,going out
-hiet,"stitch, to sew"
 hiet,stitch
+hiet,"stitch, to sew"
 hija,she
 hija kitbet,she wrote
 hija tikteb,she writes
@@ -2281,9 +2281,9 @@ ibghatuhuli,send it to me
 ibierkek,he blesses you
 iblah,"foolish, daft"
 ibleh,"fool, nincompoop, asinine"
-ibqa' sejjer dritt,go straight ahead
 ibqa fuq il-linja!,hold on!
 ibqa sejjer dritt,go straight
+ibqa' sejjer dritt,go straight ahead
 ic-cavetta; jekk joghgbok,the key; please
 ic-centru,the town center
 ic-cirku,the circle
@@ -2294,8 +2294,8 @@ iccajta,to joke
 iccanga,pave
 iccaqlaq,budge
 iccara,"unravel, clarify"
-iccargja,to charge money
 iccargja,"charge car battery, charge"
+iccargja,to charge money
 iccelebera,celebrate
 iccensura,censure
 iccirkula,circulate
@@ -2374,8 +2374,8 @@ ikh-al,blue
 ikhal,blue
 ikkaguna,provoke
 ikkalma,"allay, appease, calm, cool"
-ikkalzra,incarcerate
 ikkalzra,imprison
+ikkalzra,incarcerate
 ikkapulja,chop
 ikkarga,charge
 ikkastiga,"punish, chastize"
@@ -2436,6 +2436,7 @@ iktbulna,write to us
 ikteb,write (imperative)
 iktibha jekk joghgbok,write it down please!
 il,the
+il fuq,upwards
 il-bekkejja,weeping-willow
 il-bierah,yesterday
 il-boghod,far
@@ -2480,7 +2481,6 @@ il-qamar,the moon
 il-quddiesa,the mass
 il-vespri,vespers
 il-vit qed iqattar,the faucet is dripping
-il fuq,upwards
 ilbies,"vestments, clothes"
 ilellex,"flashy, gaudy"
 ileqq,"glossy, bright"
@@ -2507,8 +2507,8 @@ ilvent,"lively, swift"
 imbaccac,chubby
 imbaghad,then
 imbarazz,"dump, junk, litter"
-imbarazza,encumber
 imbarazza,embarrass
+imbarazza,encumber
 imbarka,embark
 imbazza',afraid
 imbecilli,imbecile
@@ -2616,8 +2616,8 @@ infezzjoni,infection
 infirex,it was spread
 infjammazzjoni,inflammation
 influwenza,"flu, influenza"
-informazzjoni,inquiry
 informazzjoni,information
+informazzjoni,inquiry
 infurmat,aware
 ingagga,enlist
 ingann,treachery
@@ -2734,8 +2734,8 @@ interjuri,entrails
 internazzjonali,international
 interpreta,interpret
 interpretu,interpreter
-intervall,intermission
 intervall,interlude
+intervall,intermission
 intervista,interview
 intesa,he was forgotten
 intestini,intestines
@@ -2861,13 +2861,13 @@ irridha ghal gurnata,i'd like it for a day
 irridha ghal xahar,i'd like it for a month
 irriduca,reduce
 irrifera,refer
-irrifjuta,repudiate
 irrifjuta,"refuse, withhold"
+irrifjuta,repudiate
 irrifletta,reflect
 irrigetta,reject
 irrikmanda,recommend
-irrikorra,resort
 irrikorra,refer
+irrikorra,resort
 irrimborza,refund
 irrimetta,vomit
 irrinunzja,"renounce, waive"
@@ -2906,13 +2906,13 @@ isahhar,"enchanting, alluring"
 isem,"first name, name, renown"
 isem iehor,alias
 isfar,"yellow, yolk"
-isfel,downstairs
 isfel,down
+isfel,downstairs
 iskot!,hush!
 islifhomli,lend them to me
 ismar,tan
-ispanjol,spanish language
 ispanjol,spaniard
+ispanjol,spanish language
 isqof,bishop
 issa,now
 issalda,weld
@@ -2923,8 +2923,8 @@ issellef,he borrowed
 issepara,divide
 issieheb,join
 issielet,wrangle
-issikka,stretch
 issikka,"squeeze, tighten, clench"
+issikka,stretch
 issinkronizza,synchronize
 issoggetta,subject
 issogra,"venture, dare"
@@ -3095,11 +3095,11 @@ jowgurt,yoghurt
 jum,day
 jumejn,two days
 jumejn ilu,2 days ago
-kabbar,expand
-kabbar,exaggerate
 kabbar,enhance
 kabbar,"enlarge, increase, magnify, he enlarged"
 kabbar,enrich
+kabbar,exaggerate
+kabbar,expand
 kabina,cabin
 kabina tat-telefon,"phone booth, telephone booth"
 kabocca,cabbage
@@ -3177,8 +3177,8 @@ karkar,"drag, crawl"
 karnival,carnival
 karozza,"a car, car"
 karozza tal-linja,bus
-karrakka,"junk heap, clunker"
 karrakka,jalopy
+karrakka,"junk heap, clunker"
 karrettun,cart
 karriera,career
 karrozza,automobile
@@ -3222,8 +3222,8 @@ kazbar,he reviled
 kazin,club
 kazzola,"trowel, casserole"
 kbar,"big, large"
-kbir,"great, huge, vast, large"
 kbir,"big, large, enormous"
+kbir,"great, huge, vast, large"
 kbira,"big, large"
 kburi,"haughty, proud, uppish"
 kburija,pride
@@ -3363,8 +3363,8 @@ kollu,"entire, thorough, total, whole, all"
 kolonja,colony
 kolonna,"pillar, column"
 kolp,coup
-komdu,cosy
 komdu,convenient
+komdu,cosy
 komfort,welfare
 komiku,"funny, comic"
 komjuter,computer
@@ -3448,8 +3448,8 @@ ksur,"wreck, breach"
 ktieb,"book, text"
 ktieb tal-but,paperback
 kubrit,"brimstone, sulphur"
-kuccarina,teaspoon
 kuccarina,tea spoon
+kuccarina,teaspoon
 kuccarun,"ladle, laden"
 kugin,cousin
 kugina,cousin
@@ -3479,8 +3479,8 @@ kunfidenza,confidence
 kunjat,brother-in-law
 kunjom,last name
 kunsens,consent
-kunsill,counsel
 kunsill,council
+kunsill,counsel
 kuntatt,contact
 kuntent,"glad, happy, content"
 kuntistabbli,cop
@@ -3608,22 +3608,22 @@ lejl,night
 lejlet,eve
 lejn,"to, towards"
 lemha,glance
-lemin,right!
 lemin,right
+lemin,right!
 lenbuba,truncheon
 lenbut,funnel
 lenti,lens
 lenti tal-kontakt,contact lens
-lest,ready
 lest,prompt
+lest,ready
 lesta,prepare
 lewa,swerve
 lewn,"hue, tint"
 lewz,almonds
 lewza,almond
 lezzjoni,lesson
-lhudi,jewish
 lhudi,jew
+lhudi,jewish
 li ghandhu z-zmien,which has time
 libbra,pound (weight)
 libertin,"licentious, profligate"
@@ -3714,7 +3714,6 @@ m'hux...,it isn't...
 m'intix,you are not
 m'intomx,you are not (pl)
 ma,with
-ma',with
 ma (verb)+x,not
 ma dhaltx,i didn't go in
 ma fadax,mistrust
@@ -3749,6 +3748,7 @@ ma qabilx,disagree
 ma taqtax,dull
 ma toqghodx fuqu,unfounded
 ma torbotx fuqu,unreliable
+ma',with
 macc,match (sport)
 macedonja tal-frott,fruit cocktail
 madankollu,however
@@ -3821,9 +3821,9 @@ maqlugha,earned
 maqlughin,earned
 maqsum,broken
 mar,"get to, to go, depart"
-mar-ragel,my husband
 mar ghall-kacca,hunt
 mar lura,withdraw
+mar-ragel,my husband
 mara,"woman, female, wife"
 mara xiha,an old woman
 marda,"disease, illness, malady"
@@ -3842,8 +3842,8 @@ mart il-missier,step mother
 martell,hammer
 marzu,march
 maskara,mascara
-masklu,mussels
 masklu,mussel
+masklu,mussels
 matematka,mathematics
 materjal,"material, stuff"
 matra,target
@@ -3879,8 +3879,8 @@ mehuda,taken
 mehudin,taken
 mejda,table
 mejjel,tilt
-mejjet,deceased
 mejjet,dead
+mejjet,deceased
 mejju,may
 mejkapp,make-up
 mejt,"dizziness, vertigo"
@@ -3891,10 +3891,10 @@ melankoniku,gloomy
 melh,salt
 melles,caress
 menu',menu
-meqjus,prudent
 meqjus,prim
-mera,mirror
+meqjus,prudent
 mera,looking-glass
+mera,mirror
 meravilja,marvel
 meraviljuz,wonderful
 merhba,welcome
@@ -3908,8 +3908,8 @@ mermer,rotten
 merqdux,marjoram
 mertu,merit
 mesah,wipe
-mess,"touching, affect"
 mess,"he touched, concern"
+mess,"touching, affect"
 messagg,message
 messaggier,envoy
 meta,when
@@ -4032,10 +4032,10 @@ mimsus,touched
 mimsusa,touched
 mimsusin,touched
 min,who
-min-nofs,through
 min hi l-mara tieghu?,who is his wife?
 min kien ... ?,who was the ... ?
 min qed jitkellem?,who is speaking?
+min-nofs,through
 min?,who?
 mina,tunnel
 minacca,threat
@@ -4050,7 +4050,6 @@ minjiera,mine
 minjiera tal-faham,coalmine
 minkeb,elbow
 minn,"from, than, by"
-minn-naha ghall-ohra,across
 minn fejn int?,where are you from?
 minn fejn int?,where are you from?
 minn fejn inti?,where do you come from?
@@ -4059,6 +4058,7 @@ minn fejn nista ngibu?,where can i get one?
 minn naha ghall-ohra,through
 minn rajh,wilful
 minn taghna,nice
+minn-naha ghall-ohra,across
 minnufih,immediately
 mintix,you are not
 mintomx,you are not
@@ -4082,10 +4082,10 @@ misterjuz,uncanny
 misteru,mystery
 misthi,"bashful, timid, ashamed, coy"
 mistieden,guest
-mistoqsija,question
 mistoqsija,query
-mistrieh,rest
+mistoqsija,question
 mistrieh,repose
+mistrieh,rest
 mit,myth
 mitejn,two hundred
 mitfi,"off lights, off"
@@ -4150,8 +4150,8 @@ mrewha,fan
 msaren,"bowels, gut"
 mtappan,dense
 mudell,"example, standard"
-mudlam,"dim, dark"
 mudlam,dark
+mudlam,"dim, dark"
 mudullun,marrow
 multa,fine
 mument,"instant, jiffy, moment, while"
@@ -4230,9 +4230,9 @@ nefha,"lump, swelling, cyst"
 nefqa,expense
 negativ,negative
 neguzjant,merchant
+nehha,"efface, delete"
 nehha,"eliminate, remove, repeal"
 nehha,"erase, take away"
-nehha,"efface, delete"
 nehha l-armi,disarm
 nehha l-maskra,unmask
 nehha l-velu,unveil
@@ -4264,8 +4264,8 @@ niedi,"moist, damp"
 niedi imxarrab,wet
 niehdu,i'll take it
 niek,fuck
-nieqa,cradle
 nieqa,cot
+nieqa,cradle
 nieqes,"missing, absent, devoid"
 nies,people
 niexef,"dry, stale, arid"
@@ -4285,13 +4285,13 @@ nisa,women
 nisel,"lineage, origin, progeny, root"
 nisrani,christian
 nissel,"breed, derive"
-nista' nghinek?,can i help you?
-nista' nkellem 'il...,can i speak to...
 nista nhallas b'dan,can i pay with this
 nista nhallas bil-kredit kard?,can i pay by credit card?
 nista niehu ritratti?,is it all right to take photo?
 nista nintroducilek ... ?,may i introduce ...?
 nista nippruvah?,can i try it on?
+nista' nghinek?,can i help you?
+nista' nkellem 'il...,can i speak to...
 nitfa,pinch
 nittien,"womanizer, dong"
 nixfa,drought
@@ -4319,13 +4319,13 @@ nizel,"get off, go down, descend"
 nkaxxa,cash
 nobbli,"of noble birth, noble"
 nofs,"half, middle"
-nofs-in-nhar,noon
 nofs flixkun,half a bottle
 nofs il-lejl,"midnight, it's midnight"
 nofs in-nhar,it's noon
 nofs prezz,half price
 nofs tuzzana,half a dozen
 nofs tuzzana bajd,half dozen eggs
+nofs-in-nhar,noon
 nokkla,curl
 noll,freight
 noqghod l-amerika,i live in the u.s
@@ -4438,8 +4438,8 @@ parlatorju,visiting hours
 parrocca,parish
 parrokka,wig
 partat,"exchange, change, swap"
-parti,"piece, share"
 parti,"part, share, party, detail"
+parti,"piece, share"
 pass,step
 pass pass,step by step
 passaport,passport
@@ -4548,8 +4548,8 @@ poezija,poem
 pogga,"install, lie, put, to sit, cohabit"
 politku,political
 polz,pulse
-pompa,pump
 pompa,pomp
+pompa,pump
 pompa tal-petrol,gas station
 pompuz,pompous
 poni,pony
@@ -4740,8 +4740,8 @@ qarmec,he crunched
 qarn,horn
 qarnita,octopus
 qarr,confess
-qarraq,"feign, mislead, swindle"
 qarraq,"fake, cheat, deceive, defraud"
+qarraq,"feign, mislead, swindle"
 qarrieqi,"insincere, treacherous, deceptive"
 qarwez,clip
 qasam,"estate, farm, traverse, break, crack, cross"
@@ -4829,8 +4829,8 @@ rabat,"bind, engage, tie, brace, connect"
 rabba,"nurture, breed"
 rabta,"bond, tie"
 rada',suck
-radd,render
 radd,reciprocate
+radd,render
 radda',suckle
 radjatur,radiator
 radju,radio
@@ -4948,8 +4948,8 @@ rig.el,leg
 rig.el,paw
 riga,ruler
 rigal,"gift, present, tribute"
-rigel,leg
 rigel,foot
+rigel,leg
 rigoruz,stern
 rigoruz,strict
 rih,"wind, cold"
@@ -5010,9 +5010,9 @@ sa,till
 sa meta,till
 sab,"discover, find, detect"
 saba,finger
-saba',finger
 saba l-kbir,thumb
 saba tas-sieq,toe
+saba',finger
 sabar,patience
 sabbar,console
 sabbat,to stab
@@ -5122,8 +5122,8 @@ sejjah ghajnuna malajr,get help quickly
 sejjah pulizija,call the police
 sejjah tabib,get a doctor
 sejjah tabib malajr,call a doctor quickly
-seklu,century
 seklu,centennial
+seklu,century
 sekonda,second
 seksek,pry
 self,loan
@@ -5297,8 +5297,8 @@ skuncertat,upset
 skur,"dull, dark"
 skura,dark
 skutella,bowl
-skuza,exempt
 skuza,"excuse, apology, subterfuge"
+skuza,exempt
 skuzani,sorry
 skuzani!,sorry!
 skuzi!,"excuse me, i'm sorry!"
@@ -5313,8 +5313,8 @@ smin,chubby
 snaturali,far-fetched
 socjeta',company
 sod,steadfast
-sod,sturdy
 sod,"stiff, sturdy"
+sod,sturdy
 sodda,bed
 sodda doppja,double bed
 sodisfatt,content
@@ -5352,8 +5352,8 @@ sparixxa,disappear
 specjalment,especially
 spejjez,expenses
 speranza,hope
-spicca,"fail, terminate, cease"
 spicca,"expire, conclude"
+spicca,"fail, terminate, cease"
 spicca lesta,finish
 spid,velocity
 spinaci,spinach
@@ -5397,8 +5397,8 @@ stazzjon tal-petrol,filling station
 stazzjonarju,stationary
 stedina,invitation
 stejdjum,stadium
-stejg,stop (bus)
 stejg,stage
+stejg,stop (bus)
 stejg tal-karozza,bus stop
 stejk,steak
 stejxiner,stationer
@@ -5439,25 +5439,25 @@ stqarrija,testimony
 strajk,strike
 stramb,"bizarre, droll, eccentric, queer, strange, weird"
 strangier,foreign
-straordinarju,extravagant
 straordinarju,extraordinary
+straordinarju,extravagant
 strat,layer
 strategija,strategy
 stress,stress
-strett,stringent
 strett,strict
-strieh,rest
+strett,stringent
 strieh,relax
-strixxa,strip
+strieh,rest
 strixxa,streak
+strixxa,strip
 strofa,verse
 strument,instrument
 struttura,structure
 student,student
 studentessa,i'm a student
 stuffat,stew
-stupidu,"dummy, dull"
 stupidu,"dull, dummy"
+stupidu,"dummy, dull"
 stupru,rape
 sturdament,"dizziness, vertigo"
 sturjun,sturgeon
@@ -5509,6 +5509,10 @@ swicc,switch
 swidija,blackness
 swied,he grew black
 ta,"give, of, he gave"
+ta bis-sieq,kick
+ta htija,blame
+ta kura,care
+ta pjacir,amuse
 ta',to give
 ta' fehma wahda,unanimous
 ta' gewwa,intimate
@@ -5516,17 +5520,13 @@ ta' ghamla wahda,uniform
 ta' kull gimgha,weekly
 ta' kull jum,daily
 ta' l-ahhar,"ultimate, up-to-date"
-ta' l-ghageb,extravagant
 ta' l-ghageb,"extraordinary, amazing"
+ta' l-ghageb,extravagant
 ta' l-vernic,varnish
 ta' qima,respect
 ta' taht fuq,"topsy-turvy, upside down"
 ta' xebgha,thrash
 ta' xejn.,you're welcome!
-ta bis-sieq,kick
-ta htija,blame
-ta kura,care
-ta pjacir,amuse
 tabakk,tobacco
 tabba,defile
 tabba',tarnish
@@ -5540,8 +5540,8 @@ tadama,tomato
 tafa',toss
 tafagh,he threw
 tafal,clay
-taffa,alleviate
 taffa,allay
+taffa,alleviate
 tagen,frying-pan
 taghbija,"burden, cargo"
 taghha,"her, its, hers"
@@ -5556,13 +5556,13 @@ tahraq,to burn
 tahrig,practice
 tahsel,to wash
 tahsir,decay
-taht,"beneath, under"
 taht,"below, underneath"
+taht,"beneath, under"
 taht l-art,underground
 tahwid,disorder
 tahwida,"jumble, mess, tangle, chaos"
-tajba,"very well; thanks, good"
 tajba,"good, correct"
+tajba,"very well; thanks, good"
 tajbin,good
 tajer,tire
 tajer mifqugh,flat tire
@@ -5620,8 +5620,8 @@ tapizzerija,upholstery
 tapp,"tap, cork"
 taptap,"patter, tap"
 taptipa,tap
-taqbida,"struggle, tussle"
 taqbida,"strife, combat"
+taqbida,"struggle, tussle"
 taqbila,combination
 taqqab,pierce
 taqqali,"bulky, cumbersome"
@@ -5666,8 +5666,8 @@ tebgha,"blemish, stain"
 tebgha,blot
 tebut,"casket, coffin"
 tedjuz,"tedious, tiresome"
-tefa',"dump, throw"
 tefa',"dump, extinguish"
+tefa',"dump, throw"
 tefgha,throw
 teftifa,trifle
 tejjeb,ameliorate
@@ -5751,8 +5751,8 @@ thaddet,to talk
 thakk,to rub
 thanfas,resent
 thanfes,sulk
-thassar,"deplore, decay"
 thassar,decay
+thassar,"deplore, decay"
 thasseb,doubt
 theddida,threat
 tiben,straw
@@ -5774,8 +5774,8 @@ tifla,"girl, lass, wench, child"
 tifsira,description
 tiftix,research
 tifun,typhoon
-tig.ieg.a,fowl
 tig.ieg.a,chicken
+tig.ieg.a,fowl
 tigbed,to pull
 tigieg,poultry
 tigiega,hen
@@ -5817,10 +5817,6 @@ tisliba,crossword puzzle
 tislija,greeting
 tislijiet,regards
 tislima,bow
-tista' tghidli?,can you tell me?
-tista' tghinni?,can you help me?
-tista' tirrepeti dak?,could you repeat that?
-tista' turini?,can you show me?
 tista ggibilna taxi?,can you get us a taxi?
 tista ggibli ftit...,may i have some...
 tista ssibli bejbisiter,can you find me a babysitter?
@@ -5838,6 +5834,10 @@ tista titkellem bilmod?,can you speak slowly?
 tista tittraducili dan?,can you translate this for me?
 tista tpoggi sodda zejda,could you put an extra bed
 tista ttina mejda,could we have a table
+tista' tghidli?,can you tell me?
+tista' tghinni?,can you help me?
+tista' tirrepeti dak?,could you repeat that?
+tista' turini?,can you show me?
 tiswija,repair
 titfa',to throw
 tithanxel,coquette
@@ -5933,15 +5933,15 @@ tqancic,stinginess
 tqanna,tolerate
 tqanqila,"emotion, thrill, upheaval, urge"
 tqil,"difficult, unwieldy"
-tqil,"inconvenient, hard, heavy"
 tqil,"hard, heavy, difficult, inconvenient"
+tqil,"inconvenient, hard, heavy"
 tqila,"pregnant, heavy"
 trab,"dust, powder"
 tracca,trace
 tradiment,treachery
 tradiment,treason
-traditur,treacherous
 traditur,traitor
+traditur,treacherous
 tradizzjoni,tradition
 traffiku,traffic
 tragedja,tragedy
@@ -5973,8 +5973,8 @@ trieghed,vibrate
 trijanglu,triangle
 trijonf,triumph
 triplu,triple
-triq,"route, street"
 triq,"road, way"
+triq,"route, street"
 trivjali,trivial
 trobbija,upbringing
 trofew,trophy
@@ -6146,8 +6146,8 @@ vizzeru,swiss
 vizzju,vice
 vjagg,"journey, tour, trip, voyage"
 vjagg ta biznis,business trip
-vjagga,travel
 vjagga,tour
+vjagga,travel
 vjola,"purple, violet"
 vjolent,vehement
 vjolenza,violence
@@ -6155,8 +6155,8 @@ vjolin,violin
 vlegga,arrow
 vojt,"empty, hollow, void, devoid"
 vokabularju,vocabulary
-vokali,vowel
 vokali,vocal
+vokali,vowel
 vokazzjoni,vocation
 volontarju,wilful
 volpi,fox
@@ -6165,8 +6165,8 @@ volum,volume
 voluntier,volunteer
 votant,voter
 votazzjoni,"ballot, poll"
-vuc.i,vote
 vuc.i,voice
+vuc.i,vote
 vulgari,gross
 vulkan,volcano
 vultagg,voltage
@@ -6188,8 +6188,8 @@ waqfa,"intermission, truce"
 waqgha,drop
 waqqa',"to drop, topple, drop"
 waqqa' ghac-cajt,"mock, deride"
-waqqaf,"establish, halt, interrupt, erect"
 waqqaf,erect
+waqqaf,"establish, halt, interrupt, erect"
 waqt,"instant, while"
 wara,"behind, rear, after"
 wara nofs in-nhar,in the afternoon
@@ -6323,8 +6323,8 @@ xehet barra,"dispel, expel"
 xehha,stinginess
 xehta,throw
 xejjen,destroy
-xejjer,wield
 xejjer,"wave, brandish"
+xejjer,wield
 xejn,nil
 xejn,none
 xejn,"nothing, zero"
@@ -6386,8 +6386,8 @@ ximpanzi,chimpanzee
 xipli,delicate
 xirka,company
 xita,rain
-xitan,devil
 xitan,demon
+xitan,devil
 xitla,plant
 xitwa,winter
 xitwi,wintry
@@ -6413,8 +6413,8 @@ xorob,"to drink, imbibe, drink"
 xort'ohra,different
 xorta,kind
 xorti,"fate, fortune, luck, destiny"
-xortih hazina,unlucky
 xortih hazina,unfortunate
+xortih hazina,unlucky
 xott,"curt, dry"
 xotta,dry
 xpruna,stirrup
@@ -6519,8 +6519,8 @@ zmattat,unkempt
 zmerald,emerald
 zmien,"epoch, age, time"
 znuber,fir
-zobb,penis
 zobb,"pecker, dong"
+zobb,penis
 zoblings,many penises
 zodjaku,zodiac
 zokk,"log, stem, trunk"

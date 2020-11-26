@@ -1,8 +1,9 @@
 Other,English
 View lemma information,cobweb
-जाल,cobweb
+hindi,english
+אסאמית,Assamese
+אסאמית,Assamese
 תזמורת,orchestra
-गानवाद्य-मंडली,orchestra
 अंगूठा,thumb
 अंग्रेज़ी,English
 अंदाज़ा,estimate
@@ -12,10 +13,8 @@ View lemma information,cobweb
 अज़रबैजान,Azerbaijan
 अज़रबैजान,Republic of Azerbaijan
 अनाथ,orphan
-यतीम,orphan
 अनार,pomegranate
 अनीश्वरवादी,atheist
-नास्तिक,atheist
 अनुमान,assumption
 अनुमान,supposition
 अनुवाद,translation
@@ -27,16 +26,17 @@ View lemma information,cobweb
 अफ़र,Afar
 अफ़र,Afar
 अफ्रीकांस,Afrikaans
-अभियुक्त,defendant
 अभियुक्त,accused
+अभियुक्त,defendant
+अमरीकी संयुक्त राष्ट्र,America
+अमरीकी संयुक्त राष्ट्र,States
+अमरीकी संयुक्त राष्ट्र,U.S.
+अमरीकी संयुक्त राष्ट्र,U.S. of A.
+अमरीकी संयुक्त राष्ट्र,U.S.A.
+अमरीकी संयुक्त राष्ट्र,US
 अमरीकी संयुक्त राष्ट्र,United States
 अमरीकी संयुक्त राष्ट्र,United States of America
-अमरीकी संयुक्त राष्ट्र,America
-अमरीकी संयुक्त राष्ट्र,US
-अमरीकी संयुक्त राष्ट्र,U.S.
-अमरीकी संयुक्त राष्ट्र,U.S.A.
-अमरीकी संयुक्त राष्ट्र,U.S. of A.
-अमरीकी संयुक्त राष्ट्र,States
+अमोल,valuable
 अरबी,Arabic
 अरबी,Standard Arabic
 अर्जेन्टीना,Argentina
@@ -50,10 +50,6 @@ View lemma information,cobweb
 असममित,asymmetrical
 असमिया,Assamese
 असमिया,Assamese
-אסאמית,Assamese
-אסאמית,Assamese
-आसामी,Assamese
-आसामी,Assamese
 अस्थि-पंजर,skeleton
 अस्पर्शी उपगामी रेखा,asymptote
 अहिफेन,opium
@@ -72,11 +68,11 @@ View lemma information,cobweb
 आरमीनियन,Armenian
 आर्गॉन,argon
 आर्मीनिया,Armenia
+आलस्य,languor
 आलस्य,lethargy
 आलस्य,sluggishness
-आलस्य,languor
-आलू,potato
 आलू,patato
+आलू,potato
 आल्प्स,Alps
 आशा,hope
 आशावाद,optimism
@@ -86,6 +82,8 @@ View lemma information,cobweb
 आशावाद,optimism
 आशावाद,optimism
 आशावाद,optimism
+आसामी,Assamese
+आसामी,Assamese
 इंटरलिंगुआ,Interlingua
 इंटरलिंगुआ,"Interlingua, ""Simplified"" Latin"
 इंटरलिंगुआ,"Interlingua, ""Simplified"" Latin"
@@ -110,6 +108,7 @@ View lemma information,cobweb
 उंगली,finger
 उच्चारण,pronunciation
 उन्मूलनवादी,abolitionist
+उपार्जन,acquisition
 उर्दू भाषा,Urdu
 उर्दू भाषा,Urdu
 उष्मागतिशास्त्र,thermodynamics
@@ -135,8 +134,8 @@ View lemma information,cobweb
 ऑस्ट्रेलिया,Commonwealth of Australia
 ओजोन,ozone
 ओषजन,oxygen
-औपसर्गिक रोग,infectious disease
 औपसर्गिक रोग,communicable diseases
+औपसर्गिक रोग,infectious disease
 औषधकारक,chemist
 औषधकारक,pharmacist
 कज़ाख़स्तान,Kazakhstan
@@ -145,8 +144,8 @@ View lemma information,cobweb
 कथा,novel
 कन्नड,Kannada
 कन्नड,Kannada
-कबूतर,pigeon
 कबूतर,dove
+कबूतर,pigeon
 कम्बोडिया,Cambodia
 कम्बोडिया,Kingdom of Cambodia
 करना,do
@@ -159,7 +158,6 @@ View lemma information,cobweb
 क़ाज़ाक़,Kazakh
 क़ाहिरा,Cairo
 क़ीमती,valuable
-अमोल,valuable
 काडमियम,cadmium
 कार्बन,carbon
 काल्सियम,calcium
@@ -174,6 +172,7 @@ View lemma information,cobweb
 कोबाल्ट,cobalt
 कोरियन,Korean
 कोरियन,Korean
+कोश,dictionary
 क्यूबा,Cuba
 क्यूबा,Republic of Cuba
 क्रिप्टन,krypton
@@ -186,23 +185,25 @@ View lemma information,cobweb
 क्षितिज,horizon
 खगोलशास्त्री,astronomer
 ख़रगोश,rabbit
+ख़ाली,empty
 खाद्य,edible
 खाना,eat
 खिड़की,window
 खेडी,placenta
-ख्मेर,Khmer
 ख्मेर,Central Khmer
+ख्मेर,Khmer
 गड़ेरिया,shepherd
 गन्धक,sulphur
-गर्भाधान,fertilisation
 गर्भाधान,fecundation
+गर्भाधान,fertilisation
 गवाह,witness
+गानवाद्य-मंडली,orchestra
 गाम्बिया,Gambia
 गाम्बिया,Gambia
 गाम्बिया,Gambia
 गाम्बिया,Gambia
-गाम्बिया,The Gambia
 गाम्बिया,Republic of The Gambia
+गाम्बिया,The Gambia
 गाय,cow
 गालियम,gallium
 गीजर,geyser
@@ -234,8 +235,8 @@ View lemma information,cobweb
 घाना,Ghana
 घाना,Republic of Ghana
 घृणा करना,abhor
-घृणा करना,loathe
 घृणा करना,detest
+घृणा करना,loathe
 घोड़ा,horse
 चप्पल,slipper
 चाय,tea
@@ -244,8 +245,8 @@ View lemma information,cobweb
 चिली,Chile
 चिली,Republic of Chile
 चींटी,ant
-चीन,People's Republic of China
 चीन,China
+चीन,People's Republic of China
 चेक,Czech
 चेक,Czech
 चेचेन,Chechen
@@ -256,24 +257,25 @@ View lemma information,cobweb
 छाला,blister
 छूट,discount
 जंतर-मंतर,observatory
-जकार्ता,Jakarta
-जकार्ता,Djakarta
 जकार्ता,DKI Jakarta
+जकार्ता,Djakarta
+जकार्ता,Jakarta
 जनवरी,January
 जर्कोनियम,zirconium
 जर्मेनियम,germanium
-ज़ाम्बिया,Zambia
 ज़ाम्बिया,Republic of Zambia
+ज़ाम्बिया,Zambia
 ज़ूलू,Zulu
-जादूगर,wizard
-जादूगर,sorcerer
 जादूगर,magician
+जादूगर,sorcerer
+जादूगर,wizard
 जापान,Japan
 जापान,State of Japan
 जापानी,Japanese
 जापानी,Japanese
-जाला,web
+जाल,cobweb
 जाला,spider web
+जाला,web
 जाहिल,illiterate
 जिर्योजियन,Georgian
 जिर्योजियन,Georgian
@@ -290,6 +292,8 @@ View lemma information,cobweb
 टर्की,turkey
 टाइटानियम,titanium
 टेक्निशियम,technetium
+टेलीफ़ोन,phone
+टेलीफ़ोन,telephone
 टेलुरियम,tellurium
 टैगालौग,Tagalog
 टोगो,Togo
@@ -300,11 +304,11 @@ View lemma information,cobweb
 डेनिश,Danish
 डॉल्फ़िन,dolphin
 डोमिनिकन गणराज्य,Dominican Republic
-ढालना,arrange
+ढालना,accommodate
 ढालना,adapt
 ढालना,adjust
+ढालना,arrange
 ढालना,conform
-ढालना,accommodate
 ढालना,suit
 ढोंग,fraud
 तंज़ानिया,Tanzania
@@ -321,9 +325,9 @@ View lemma information,cobweb
 तातार,Tatar
 ताम्र,copper
 तिल्ली,spleen
-तुर्की,Turkish
-तुर्की,Turkish
 तुर्की,Turkey
+तुर्की,Turkish
+तुर्की,Turkish
 तेलुगु,Telugu
 तेलुगु,Telugu
 तेहरान,Tehran
@@ -342,13 +346,11 @@ View lemma information,cobweb
 दाल,lentil
 दिवालियापन,bankruptcy
 दिसम्बर,December
-दूतावास,embassy
 दूतावास,diplomatic mission
+दूतावास,embassy
 दूध,milk
 दूरभाष,phone
 दूरभाष,telephone
-टेलीफ़ोन,phone
-टेलीफ़ोन,telephone
 धन्यवाद,thank you
 धमनी,artery
 धर्म,religion
@@ -356,8 +358,8 @@ View lemma information,cobweb
 धान्य,harvest
 धूल,dust
 नक्षत्र,constellation
-नज़ला,influenza
 नज़ला,flu
+नज़ला,influenza
 नथुना,nostril
 नया साल,New Year
 नया साल,New Year's Day
@@ -372,9 +374,10 @@ View lemma information,cobweb
 नाभि,omphalus
 नाभि,umbilicus
 नामे लिखना,debit
-नारियल,kokosnoot
 नारियल,coconut
+नारियल,kokosnoot
 नाश्ता,breakfast
+नास्तिक,atheist
 निकारागुआ,Nicaragua
 निकेल,nickel
 नियोन,neon
@@ -387,24 +390,23 @@ View lemma information,cobweb
 नेपाली,Nepali
 नैपकिन,napkin
 नैमीबिया,Namibia
-नॉर्वे,Norway
 नॉर्वे,Kingdom of Norway
+नॉर्वे,Norway
 न्यूज़ीलैंड,New Zealand
 पड़ोसी,neighbour
 पड़ोसी,vecino
 परंपरागत,traditional
 परिच्छेद,chapter
-परिसंपति,property
 परिसंपति,asset
+परिसंपति,property
 पलाडियम,palladium
 पशुचिकित्सक,veterinarian
-पशुचिकित्सक,veterinary
 पशुचिकित्सक,veterinarian
+पशुचिकित्सक,veterinary
 पांव,leg
-पैर,leg
-पाया,leg
-पाकिस्तान,Pakistan
 पाकिस्तान,Islamic Republic of Pakistan
+पाकिस्तान,Pakistan
+पाया,leg
 पारद,mercury
 पाल-नौका,sailing ship
 पित्त,bile
@@ -412,14 +414,10 @@ View lemma information,cobweb
 पीना,gulp
 पीना,quaff
 पीना,sip
-सोखना,drink
-सोखना,gulp
-सोखना,quaff
-सोखना,sip
 पुच्छल तारा,comet
 पुर्तगाल,Portugal
-पूर्वी टीमोर,East Timor
 पूर्वी टीमोर,Democratic Republic of Timor-Leste
+पूर्वी टीमोर,East Timor
 पेच,screw
 पेड़,tree
 पेन्गुइन,penguin
@@ -429,7 +427,7 @@ View lemma information,cobweb
 पेरू,Republic of Peru
 पेशगी,advance
 पेशाब,urine
-मूत,urine
+पैर,leg
 पैराशूट,parachute
 पोटासियम,potassium
 पोरच्युगीज,Portuguese
@@ -442,10 +440,9 @@ View lemma information,cobweb
 प्रदुषण,pollution
 प्रयत्न,effort
 प्रयत्न,exertion
-प्रसूति,motherhood
 प्रसूति,maternity
+प्रसूति,motherhood
 प्राप्ति,acquisition
-उपार्जन,acquisition
 प्रेक्षण,observation
 प्लुटोनियम,plutonium
 प्लुटोनियम,plutonium
@@ -457,9 +454,9 @@ View lemma information,cobweb
 प्लुटोनियम,plutonium
 प्लुटोनियम,plutonium
 फव्वारा,fountain
+फ़ारसी,Farsi
 फ़ारसी,Persian
 फ़ारसी,Western Farsi
-फ़ारसी,Farsi
 फ़िजी,Fiji
 फ़िजी,Republic of the Fiji Islands
 फ़िनलैंड,Finland
@@ -512,8 +509,8 @@ View lemma information,cobweb
 ब्रुनेई,Negara Brunei Darussalam
 ब्रोमिन,bromine
 ब्लॉग,blog
-ब्लॉग,weblog
 ब्लॉग,web log
+ब्लॉग,weblog
 भूटान,Bhutan
 भूटान,Kingdom of Bhutan
 भेड़,sheep
@@ -532,7 +529,6 @@ View lemma information,cobweb
 मसजिद,mosque
 मसूरिका,smallpox
 महल-सरा,harem
-हरम-सरा,harem
 महापौर,mayor
 माइक्रोफ़ोन,microphone
 माओरी,Maori
@@ -543,13 +539,14 @@ View lemma information,cobweb
 माल्टा,Malta
 माल्टा,Republic of Malta
 मिलानो,Milan
-मिस्र,Egypt
 मिस्र,Arab Republic of Egypt
+मिस्र,Egypt
 मुखर,explicit
-मुम्बई,Mumbai
 मुम्बई,Bombay
-मृत्युदंड,death penalty
+मुम्बई,Mumbai
+मूत,urine
 मृत्युदंड,capital punishment
+मृत्युदंड,death penalty
 मृत्युदंड,death sentence
 मेदुरता,obesity
 मैडागास्कर,Madagascar
@@ -563,11 +560,13 @@ View lemma information,cobweb
 मोलिब्डेनम,molybdenum
 मोल्दाविया,Moldova
 म्यान्मार,Myanmar
+यतीम,orphan
 याचिका,petition
-यार्दन,Jordan
+यात्रा करना,travel
 यार्दन,Hashemite Kingdom of Jordan
-युगांडा,Uganda
+यार्दन,Jordan
 युगांडा,Republic of Uganda
+युगांडा,Uganda
 युद्धविराम,armistice
 यूरोपीय संघ,EU
 यूरोपीय संघ,European Union
@@ -581,7 +580,6 @@ View lemma information,cobweb
 राज्यपाल,governor
 राशिचक्र,zodiac
 रीता,empty
-ख़ाली,empty
 रुथेनियम,ruthenium
 रुबिडियम,rubidium
 रुमाल,handkerchief
@@ -591,20 +589,21 @@ View lemma information,cobweb
 रेलगाड़ी,train
 रेशम,silk
 रोम,Rome
-रोमनी,Romanian
 रोमनी,Romanaian
+रोमनी,Romanian
 लकड़हारा,lumberjack
 लक्डी,wood
 लाइबेरिया,Liberia
 लाइबेरिया,Republic of Liberia
 लाइब्रेरियन,librarian
-लाओस,Laos
 लाओस,Lao People's Democratic Republic
+लाओस,Laos
 लागोस,Lagos
 लातविया,Latvia
 लातविया,Republic of Latvia
 लातवी,Latvian
 लातवी,Latvian
+लालची,avaricious
 लालटेन,lantern
 लिखाई,calligraphy
 लिथियम,lithium
@@ -613,14 +612,13 @@ View lemma information,cobweb
 लिस्बन,Lisbon
 लीप वर्ष,leap year
 लोलुप,avaricious
-लालची,avaricious
 लोहम्,iron
 वंशावली,genealogy
 वङ्गम्,zinc
 वनडियम,vanadium
 वनस्पति-विज्ञान,botany
-वनस्पति-विज्ञान,phytology
 वनस्पति-विज्ञान,botany
+वनस्पति-विज्ञान,phytology
 वयोवृद्ध,veteran
 वालरस,walrus
 वाशिंगटन,Washington
@@ -635,29 +633,28 @@ View lemma information,cobweb
 विश्व युद्,world war
 विस्फोट,explosion
 वैक्क्यूम क्लीनर,vacuum cleaner
-वैटिकन शहर,Vatican City
-वैटिकन शहर,The Holy See
 वैटिकन शहर,State of the Vatican City
+वैटिकन शहर,The Holy See
+वैटिकन शहर,Vatican City
 व्यंजन,consonant
 व्यवसाय,career
-व्याकरण,grammer
 व्याकरण,grammar
+व्याकरण,grammer
 व्हील चेयर,wheelchair
 व्हेल,whale
-शक्य,viable
-शक्य,viable
 शक्य,feasible
+शक्य,viable
+शक्य,viable
 शतरंज,chess
 शतावरी,asparagus
 शनि,Saturn
 शब्दकोश,dictionary
-कोश,dictionary
 शल्य चिकित्सक,surgeon
 शहनाई,clarinet
-शुञ,zero
 शुञ,null
-शुभ बड़ा दिन,Merry Christmas
+शुञ,zero
 शुभ क्रिस्मस,Merry Christmas
+शुभ बड़ा दिन,Merry Christmas
 श्रीलंका,Sri Lanka
 संक्षिप्तीकरण,abbreviation
 संखिया,arsenic
@@ -665,12 +662,11 @@ View lemma information,cobweb
 संज्ञा,substantive
 संस्कृत,Sanskrit
 संस्कृत,Sanskrit
-सऊदी अरब,Saudi Arabia
 सऊदी अरब,Kingdom of Saudi Arabia
+सऊदी अरब,Saudi Arabia
 सक्रियतावादी,activist
 सप्ताहांत,weekend
 सफर करना,travel
-यात्रा करना,travel
 सब्ज़ी,vegetable
 समस्या,problem
 समान,analogous
@@ -688,8 +684,8 @@ View lemma information,cobweb
 सायकिल,bicycle
 सायकिल,bike
 सायकिल,cycle
-सास,mother-in-law
 सास,mother in law
+सास,mother-in-law
 साहसिक कार्य,adventure
 सिएरा लिओने,Sierra Leone
 सिन्धी,Sindhi
@@ -704,6 +700,10 @@ View lemma information,cobweb
 सेनेगल,Senegal
 सेब,apple
 सेलेनियम,selenium
+सोखना,drink
+सोखना,gulp
+सोखना,quaff
+सोखना,sip
 सोच-विचार,consideration
 सोडियम,sodium
 सोना,gold
@@ -711,8 +711,8 @@ View lemma information,cobweb
 सोमाली,somali
 स्काण्डियम,scandium
 स्ट्रोन्सियम,strontium
-स्थान,place
 स्थान,location
+स्थान,place
 स्पेन,Spain
 स्पैनिश,Castilian
 स्पैनिश,Spanish
@@ -741,6 +741,7 @@ View lemma information,cobweb
 हड़पना,usurp
 हन्गेरियन,Hungarian
 हमेशा,anytime
+हरम-सरा,harem
 हरिण,deer
 हाइड्रोजन,hydrogen
 हाजमा,digestion
@@ -752,4 +753,3 @@ View lemma information,cobweb
 हीलियम,helium
 हॉण्डुरास,Honduras
 हॉण्डुरास,Republic of Honduras
-hindi,english

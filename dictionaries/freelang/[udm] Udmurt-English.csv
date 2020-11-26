@@ -8,9 +8,9 @@ adj-,look
 adž-,look
 aiy,father
 aj,"father, front part"
+ajjï-,look
 ajë,father
 ajï,father
-ajjï-,look
 al,lap
 al-vël,lap
 andes,chin
@@ -26,25 +26,25 @@ ares,year
 aresk-,year
 arm-,year
 az,front part
-až,front part
 az-dor,valley
+až,front part
 ažin,front part
 bad-pu,a k. of willow
 ber,behind
 bergal-,revolve
 berno,box
-bëšk-,to pierce
-bëž,tail
 bichk-,to pierce
-bïchk-,to pierce
 bin-,winding
 binï-,winding
 biž,tail
-bïž,tail
 bord,edge
 bordi,edge
 bordin,edge
 bur,good
+bëšk-,to pierce
+bëž,tail
+bïchk-,to pierce
+bïž,tail
 celti-,to pull out
 cepili,fingertip
 cepïltï-,fingertip
@@ -53,19 +53,13 @@ ch. përi,small
 ch.piri,small
 chališ karini,to cut
 chališti-,to cut
-chapkë-,chop
 chapki-,chop
-chärnä,bark
-chärnä,bark
-chärnä,bark
+chapkë-,chop
 cheg-,to break
 chej in pi-chej,woodworm
 cheli,little finger
 chelt-,to pull out
-chëng,smoke
 chepilt-,fingertip
-chër,small
-chëri,small
 chetchi-,hop
 chež,wild duck
 chig-,to break
@@ -77,10 +71,9 @@ chilal-,glitter
 chili-vali,shine
 chilk-ak,whole
 chin,smoke
-chinë,finger
 ching,smoke
-chïng,smoke
 chini,finger
+chinë,finger
 chip-,engrave
 chipet,engrave
 chiri,small
@@ -92,11 +85,10 @@ chonari-botos,to catch with a net
 chonari-votes,to catch with a net
 chorig-lim,soup
 chož,a certain time
-chóž,wild duck
 chum,temporary shelter
-chunë,a k. of animal
 chuni,a k. of animal
 chuni-kich,eagle
+chunë,a k. of animal
 chup-,engrave
 churit,hard
 chut,to limp
@@ -105,6 +97,14 @@ chutï-,to limp
 chuž,"uncle, yellow"
 chuž-,to rub off
 chužjem,barley
+chärnä,bark
+chärnä,bark
+chärnä,bark
+chëng,smoke
+chër,small
+chëri,small
+chïng,smoke
+chóž,wild duck
 cib,drinking vessel made of birch
 cigi-,to break
 ciijo,finger
@@ -112,33 +112,28 @@ cinï,finger
 cop,to drip
 coplal-,to drip
 cukges,bend
-cúlco,a k. of bird
 curët,hard
 curït,hard
+cúlco,a k. of bird
+d'u,grain
+d'umal,sweet
+d'un,strong
 d'ëdë,grain
 d'ër,root end
 d'ërjë-,to gnaw
-d'u,grain
 d'ú,grain
-d'umal,sweet
-d'un,strong
 das,ten
 de,girdle
-dër-së,hair
 dera,cloth
-dëš-,to perceive
 dez-,to tear
 dibirt-,to throw with a boom
 dibirti-,to throw with a boom
-dïmbïrtï-,to throw with a boom
 din,end of trunk
-dïn,end of trunk
 ding,end of trunk
 dira,cloth
 diš-,to perceive
 djec-lï,part
 do,ice
-dóchërat-,tremble
 dol-dol,full
 dolak,full
 domišti-,to chew
@@ -151,63 +146,50 @@ dugdy-,stop
 dun,price
 dur,shore
 durmek,marten
-dúrmek,marten
 duš,perch
+dër-së,hair
+dëš-,to perceive
+dïmbïrtï-,to throw with a boom
+dïn,end of trunk
+dóchërat-,tremble
+dúrmek,marten
 dúz,a k. of vessel
 džech,good
 džuchë,fox
 e-che,this (1)
-ëb-,shoot
-ëche,this (1)
 edi,heat
 edjal-,heat
-ëko,old woman
-ëkoa,old woman
 eksei,king
 ekt-,to dance
 ekti-,to dance
-ël,humid
-ëm,hole
 emej,raspberry
 emez,raspberry
 er,"lowland, lowland"
-ërgon,copper
 es,door
 esk-,spit
-ëskal,cow
 eski-,spit
 est-,to heat
-ëštër,foot bindings
 estï-,to heat
-ëž,sheep
 ezël-,to heat
 gach,convex
 gachkes,convex
 gaš,convex
 ger,thin snow
-gër-pung,elbow
 gerd,thread
-gërëk,hollow
-gëžë,nail
 gi,wave
 gial-,wave
 gibed,wave
 giji,knot
 gilid,slippery
 gilit,slippery
-gïlït,slippery
 gir,hollow vessel
 gir-pum,elbow
 girez,large
 girik,hollow
 girk,hollow
-gïrt,hollow
 giž,sand
-gïžë,sand
-gïzen-pu,a k. of plant
 giži,"sand, nail"
 gižï,"sand, nail"
-gïži,sand
 gob,mushroom
 gož-tolez,warmth
 gur,open stone oven
@@ -215,10 +197,18 @@ gur,throat
 gur-ul,throat
 gurdo chež,a k. of wild duck
 gurj-,vomit
-gúrj-,vomit
 guzem-pu,a k. of plant
 guzem-pu,a k. of plant
 gužem-pu,a k. of plant
+gër-pung,elbow
+gërëk,hollow
+gëžë,nail
+gïlït,slippery
+gïrt,hollow
+gïzen-pu,a k. of plant
+gïži,sand
+gïžë,sand
+gúrj-,vomit
 i-che,this (1)
 ib-,shoot
 ibi-,shoot
@@ -229,44 +219,36 @@ ici,small
 ici-men,"daughter-in-law, few"
 il,humid
 im,hole
-ïm,hole
 im-tirpi,muzzle
-in,"tent, place"
 in,"place, mother, sky"
-iñ,"place, mother"
-ïn,tent
+in,"tent, place"
 in',sky
 in'm-,sky
 inm-,"tent, sky"
 ino,large
-ïno,much
+inšir,threshing-floor
+inšir,threshing-floor
 inšër,threshing-floor
-inšir,threshing-floor
-inšir,threshing-floor
 iskal,cow
 iskem,to call
-iški-,to press (1)
-ištir,foot bindings
-ïštir,foot bindings
-iž,sheep
-ïž,sheep
-izë,hat
 izi,hat
 iziskem,to call
 izkem,to call
+izë,hat
+iñ,"place, mother"
+iški-,to press (1)
+ištir,foot bindings
+iž,sheep
 jag,pine forest
 je,girdle
 je,ice
-jé,girdle
 jeccïratï-,tremble
 jedi,grain
 jek,stump
-jëk,old woman
 jel,tree sap
 jer,deep place in water
 jichi,fox
 jici,fox
-jïci,fox
 jidi,grain
 jijol,a k. of pallet
 jir,root end
@@ -292,26 +274,29 @@ jucki-,unbind
 jui-,to drink
 juk,"porridge, crowd"
 juk-,to divide
-jükä.,old woman
 juktal-,to drink
 jumal,sweet
 jun,strong
 junm-,strong
 jurisk-,damn
 juriskï-,damn
-jurïskï-,damn
 jurmek,marten
 jurt-,comrade
 jurtti-,comrade
+jurïskï-,damn
 jus,swan
-juš,perch
-jús,swan
 jusis,sharp stick
 jusk-,unbind
 juskï-,unbind
 juwal-,to ask
 juz,cool
+juš,perch
 juž,hard snow surface
+jé,girdle
+jëk,old woman
+jïci,fox
+jús,swan
+jükä.,old woman
 kad,method
 kaj,net trap
 kal,rope
@@ -322,145 +307,95 @@ kanil,light
 kapchi,light
 kapci,light
 karei,a k. of fish
-kärtni-waž,a k. of metal
 kaz,net trap
 ke,stone
-këch-pë,birch tree
 keche,who
-këche,who
-këcho,variegated
-kej,worm
 kej,fat
-kéj,worm
-këj,snake
+kej,worm
 kejeg,to become cold
-këk-,two
 keki,cradle
 kel,intestinal worm
-kël,language
-kël,evil spirit
 kel-,spend a night
-kël-,"stay, to peel"
 kelan,testicle(s)
-këlchin,mother
 keldi,bread insipid
 keli-,spend a night
-këllë-,to lie
 kelt-,stay
 keltï-,stay
-këm,cold
-këmes kimit,turned over
-këmin,turned over
 kemj-,lust
 ken-men,daughter-in-law
 kenem,hemp
 kenjali,lizard
-kënm-,cold
 kenos-kož,hole
 kenž-,lust
 kenžal'i,lizard
 kenžali,lizard
-kër-,to dig
-kërëm,handful
-kërez,a musical instrument
 kert-,thread
 kertti-,thread
 kerttï-,thread
 kerty-,to bind
 kes,dry
-keš,bitter
-këš,circle
 kes-,rip
-kës-,to extinguish
 kesal,rip
-këset,to hang
 ket,belly
-këtën,which
-këtkë-,to bind
 ketki-,to bind
-këz,"to urinate, fir, twenty"
-këz-,to cough
-këzal-,to urinate
+keš,bitter
 kežeg,fever
 ki,hand
 ki-,plait
 ki-baš,to work
 kich,circle
 kich-pë,birch tree
-kïche,who
 kichil,bent
-kïcho,variegated
 kid,"seed, fog"
 kij,"to urinate, snake"
-kïj,snake
-kïj-kaj,a k. of bird
-kïj-kaj,young bird
 kij-pu,birch tree
 kijal-,to urinate
 kiji,where
 kijili,star
 kijni-,to sneeze
 kik,two
-kïk,two
 kik-,two
 kikt-,two
-kïkt-,two
-kil,skin
 kil,evil spirit
 kil,language
 kil,membrane
-kïl,language
-kïl,evil spirit
+kil,skin
 kil'chin,mother
 kil-,"stay, to peel, to hear"
 kiletä-,to tickle
-kïlï-,"stay, to hear"
 kilitä-,to tickle
 killi-,to lie
-kïllï-,to lie
 kim,thin snow
-kïm,cold
 kim-,turned over
 kimes,turned over
 kimin,turned over
-kïmïs,turned over
 kin,"cold, who"
 kin',who
 kin',who
 kin-,blink
-kïn-,blink
-kïnm-,cold
 kipi,a k. of tree
-kïpï,a k. of tree
 kir,"a k. of woodpecker, bark"
 kir-,to dig
 kirej,a musical instrument
 kirim,handful
-kiš,circle
 kis-,to extinguish
 kis-pë,"birch tree, wood"
-kišet,to hang
-kïšet,to hang
 kisi-,to extinguish
 kisk-,strew
 kismal-,to ripen
 kist-,strew
-kïtïn,which
 kitki-,to bind
-kïtkï-,to bind
 kiz,"to urinate, fir, twenty, thick"
-kiž,illness
-kïz,twenty
-kïž,illness
 kiz-,to cough
-kïz-,to cough
 kiz-pu,birch tree
-kizä,where
 kizi-,to cough
-kïziï,where
 kizili,star
 kiznë-,to sneeze
 kizomisk-,thick
+kizä,where
+kiš,circle
+kišet,to hang
+kiž,illness
 ko,stone
 koj,fat
 koj,worm
@@ -488,18 +423,14 @@ kuat,six
 kuch,eagle
 kuchk-,to search
 kucho,variegated
-kúcho,variegated
 kud,"who, which"
 kudi,blueberry
-kudïz,which
 kudiz kitin,which
 kudo,basket
-kuï-,plait
+kudïz,which
 kuin,three
 kuj,"fibre, scoop"
-kúj,scoop
 kuj-,plait
-kúj-,plait
 kujal,rotten
 kujal-,to throw
 kujan,rotten
@@ -516,9 +447,9 @@ kumel,crust
 kumiz,an onion-like plant
 kumiz',an onion-like plant
 kun,three
-kunël,armpit
 kunm- kwin',three
 kunul,armpit
+kunël,armpit
 kur,"to dig, bark"
 kur-,to ask
 kural-,to ask
@@ -527,41 +458,38 @@ kurdal-,to be afraid
 kurdat-,scared
 kurek-pëz,nest
 kuri,circle
-kurï-,to ask
 kurit,bitter
-kurït,bitter
 kurjal-,scratch
 kurtchi-,to bite
+kurï-,to ask
+kurït,bitter
 kus,rump
-kuš,bald
-kús,rump
-kuši-,to accuse
 kusip,interval
-kusïp,interval
 kusk-,rump
-kušk-,to search
-kúsk-,rump
 kuslal-,skin from the paws of animals
+kusïp,interval
 kut,ant
 kut-,push
 kuti-,push
-kuz,"rotten, long"
 kuz,folk
-kuž,fibre
-kúz,"folk, long"
+kuz,"rotten, long"
 kuz-kilak,rotten
-kuzëm,present
-kužëm,strength
-kuzët,rotten
 kuzili,ant
+kuzo,folk
+kuzëm,present
+kuzët,rotten
+kuï-,plait
+kuš,bald
+kuši-,to accuse
+kušk-,to search
+kuž,fibre
 kužim,strength
 kužm-,strength
-kuzo,folk
-kúzo,folk
+kužëm,strength
 kvakal-,be torn
 kwa-la,house
-kwa-mën,a certain quantity
 kwa-min,a certain quantity
+kwa-mën,a certain quantity
 kwa-mïn,a certain quantity
 kwachkal-,be torn
 kwachkat-,be torn
@@ -579,6 +507,63 @@ kwinm-,three
 kyk,two
 kyl,tongue
 kyšet,to hang
+kärtni-waž,a k. of metal
+kéj,worm
+këch-pë,birch tree
+këche,who
+këcho,variegated
+këj,snake
+këk-,two
+kël,evil spirit
+kël,language
+kël-,"stay, to peel"
+këlchin,mother
+këllë-,to lie
+këm,cold
+këmes kimit,turned over
+këmin,turned over
+kënm-,cold
+kër-,to dig
+kërez,a musical instrument
+kërëm,handful
+kës-,to extinguish
+këset,to hang
+këtkë-,to bind
+këtën,which
+këz,"to urinate, fir, twenty"
+këz-,to cough
+këzal-,to urinate
+këš,circle
+kïche,who
+kïcho,variegated
+kïj,snake
+kïj-kaj,a k. of bird
+kïj-kaj,young bird
+kïk,two
+kïkt-,two
+kïl,evil spirit
+kïl,language
+kïllï-,to lie
+kïlï-,"stay, to hear"
+kïm,cold
+kïmïs,turned over
+kïn-,blink
+kïnm-,cold
+kïpï,a k. of tree
+kïtkï-,to bind
+kïtïn,which
+kïz,twenty
+kïz-,to cough
+kïziï,where
+kïšet,to hang
+kïž,illness
+kúcho,variegated
+kúj,scoop
+kúj-,plait
+kús,rump
+kúsk-,rump
+kúz,"folk, long"
+kúzo,folk
 l'uk,crowd
 lag,pine forest
 laj-,to knead
@@ -586,56 +571,42 @@ laji-,to knead
 langes,a k. of vessel made of birch
 langez,a k. of vessel made of birch
 latin-kaj,young bird
-lë,bone
 lechkal-,to lull
-lëd,to count
 ledi-,to throw
-lëdï-,to throw
-lëdž-,to count
-lëgž-,to count
-lëkt-,to go away
-lem,glue
 lem,birdcherry
-lëm,soup
-lëmë,snow
+lem,glue
 lepet,lid
-lës,leaf of a conifer
 lesal-,to order
 lez-,release
-lež-,release
 lezi-,release
+lež-,release
 li,bone
 li,tree juice
-lï,bone
 lid,to count
-lïd,to count
 liddji-,to count
 lidž-,to count
 likt-,to go away
 likti-,to go away
 lim,soup
 limi,snow
-lïmï,snow
 lip-,lid
 lipet,lid
 lipi-,lid
 lis,leaf of a conifer
-lïs,leaf of a conifer
 lob-,fly
 lobal-,fly
 lom,"scab, birdcherry"
 los,lowland
 losk-,lowland
 lu-,to be
-lú-,to be
 lub,spleen
 lud,lowland
 lui-,to be
 luk,crowd
 luk-,to divide
 lukit,dense
-lukït,dense
 luktal-,to drink
+lukït,dense
 lul,soul
 lul-pu,alder
 lum,midge
@@ -648,122 +619,120 @@ luz,fly
 luž,fly
 ly,bone
 lymy,snow
+lë,bone
+lëd,to count
+lëdï-,to throw
+lëdž-,to count
+lëgž-,to count
+lëkt-,to go away
+lëm,soup
+lëmë,snow
+lës,leaf of a conifer
+lï,bone
+lïd,to count
+lïmï,snow
+lïs,leaf of a conifer
+lú-,to be
 ma,thing
 mad,feel
 mad-,feel
 majalt-,feel
 mar,thing
 mate,hut
-matën mat'is,hut
 matin,hut
 matis,hut
+matën mat'is,hut
 matïs,hut
 med,sell
-mëd,that
-mëd,that
-mel,"swelling, breast"
 mel,milk
-mél,breast
-mël,"reason, breast"
+mel,"swelling, breast"
 mela,breast
 melá,breast
-méla,breast
-mën-,to go
-mënda,thirty
-mërë,farrow
-mësk-,to wash
-mëškëndë,fist
 mi,we
 mic-,to sweep
 mich-,to sweep
-mïch-,to sweep
 mid,that
 mid,that
 mij,beaver
-mïj,beaver
 miji,beaver
 mil,reason
-mïl,reason
 mili,swelling
 min-,to go
 min-min seregda,to laugh
 minda,thirty
-mïnda,thirty
-mïnï-,to go
-miš,a curved body part
 misk-,to wash
-mišk-,a curved body part
-mísk-,to wash
 miskï-,to wash
+miš,a curved body part
+mišk-,a curved body part
 miž,a k. of disease
-mïž,a k. of disease
 mog,ring
 mola gurez,breast
 molë,a k. of berry
 mon,I
 mort,person
 mu,"land, earth, mead"
-mú,mead
 much,heap
 much',heap
 mud-,dig
-múla,breast
 muli,a k. of berry
 mulï,a k. of berry
 mures,something elevated
 muret,something elevated
 muri,farrow
-múri,farrow
 murt,person
 mus,liver
 muš,bee
-múš,bee
-muškëndo,fist
 muškundo,fist
+muškëndo,fist
 mysjkyni,to wash
+mél,breast
+méla,breast
+mëd,that
+mëd,that
+mël,"reason, breast"
+mën-,to go
+mënda,thirty
+mërë,farrow
+mësk-,to wash
+mëškëndë,fist
+mísk-,to wash
+mïch-,to sweep
+mïj,beaver
+mïl,reason
+mïnda,thirty
+mïnï-,to go
+mïž,a k. of disease
+mú,mead
+múla,breast
+múri,farrow
+múš,bee
 naal-,look
 naj-,to knead
 nalik,trap
 nališ,steep
 nalk,trap
-nalmët,steep
 nalmit,steep
+nalmët,steep
 nan-turij,piece
 nar,hairless skin
 naz,marten
 naz-,to knead
-nëd,shaft
 neky,sour cream
-nël,be slippery
-nël,daughter
-nel-,to swallow
 nel-,be slippery
-nël-,to swallow
-nël-pë,a k. of fir-tree
-nëlal-,be slippery
-nëld-,be slippery
+nel-,to swallow
 nem,name
-nënal,midday
-nëpë,burden
 ner,shoot
-nër,snout
-nërjal-,to scratch
 ni,already
 nid,shaft
-nïd,shaft
 nii-,to flay
 nij,blunt
 nij-,to flay
 nil,daughter
 nil,four
-nïl,daughter
-nïl,four
 nil-,to swallow
 nil-pu,a k. of fir-tree
-nïl-pu,a k. of fir-tree
 nilal-,be slippery
 nild-,be slippery
-nïlï-,to swallow
 nilzi-,steep
 nim,name
 nimi,"a small fly, midge"
@@ -779,15 +748,10 @@ niskilal-,to snuff
 niskillal-,to snuff
 niz,marten
 niž,blunt
-nïž,blunt
 niž nui-,to be stretched
 njyl,four
-nöpal,this
-nöpäl,this
-nór,shoot
 nožjal-,slow
 nu-,carry
-nú-,carry
 nuchï,blackjack
 nujal-,to stretch
 nujt-,to stretch
@@ -795,51 +759,69 @@ nuk,curved
 nul,four
 nul-,to lick
 nules,a k. of fir-tree
-nulï-,to lick
 nulo,elm
+nulï-,to lick
 numpel,this
 nunal,midday
-núnal,midday
 nupäl,this
-nüpäl,this
 nur,swamp
-núr,swamp
 nurt,sleigh
-nušë,blackjack
 nuši,blackjack
+nušë,blackjack
 nuž-nuž,to be stretched
-núž kiskal- nušt-,to be stretched
 nyd,shaft
 nyl,girl
+nëd,shaft
+nël,be slippery
+nël,daughter
+nël-,to swallow
+nël-pë,a k. of fir-tree
+nëlal-,be slippery
+nëld-,be slippery
+nënal,midday
+nëpë,burden
+nër,snout
+nërjal-,to scratch
+nïd,shaft
+nïl,daughter
+nïl,four
+nïl-pu,a k. of fir-tree
+nïlï-,to swallow
+nïž,blunt
+nór,shoot
+nöpal,this
+nöpäl,this
+nú-,carry
+núnal,midday
+núr,swamp
+núž kiskal- nušt-,to be stretched
+nüpäl,this
 o.be,closed
 o.tïn,that
 odig,one
-odïg,one
 odik,one
 odug,one
+odïg,one
 og,one
 ok,one
 omir,flame
 omirt-,to scoop
 or,"lowland, lowland"
-ór-,rip
-oš,bull
-ós,door
 os-,spit
-ošjal-,to praise
 osk-,to believe
-oskë-,to believe
 oski-,to believe
+oskë-,to believe
 ot'i,that (1)
 oti,that (1)
 otin,that
 otis,that
 otïs,that (1)
-ötis,that
 oz,that (1)
-ožë,that (1)
 ozi,that (1)
+oš,bull
+ošjal-,to praise
 oži,that (1)
+ožë,that (1)
 paja,a k. of fish
 paki-,mould
 pal,side
@@ -847,31 +829,27 @@ palez,a k. of berry
 palež,a k. of berry
 paljan,left
 pallan,left
-panërt-,to press
 pangat-,to press
 pangk,a k. of mushroom
 pangx,a k. of mushroom
 pangxät-,a k. of mushroom
-parës,piglet
+panërt-,to press
 paris,piglet
 pars,piglet
 pars,piglet
+parës,piglet
 pas,hole
-paskët,hole
 paskit,hole
+paskët,hole
 paskït,hole
-pëchal-,to become wet
-ped-,be suffocated
 ped pal,surface
-pëdes,floor
+ped-,be suffocated
 pedi-,be suffocated
 pejmït- penmët,dark
 pekla,stomach
 pel,ear
 pel'i,thumb
 pel'mit-,dark
-pëlachk-,wash
-pëlat-,wash (1)
 peli,"inside, thumb"
 peli,thumb
 pelin,inside
@@ -879,35 +857,23 @@ pelis,inside
 pelmit,dark
 pen,ashes
 pen-,place
-pën-,plait
 penm-,ashes
 penmal-,ashes
 penmit,dark
-penmït,dark
 penmitti-,to become dark
+penmït,dark
 penon,whetstone
 per,bunch
-për,to bore
-për-,to come in
 pera,swamp
-përak,time
 peres,old
-përi,small piece
 pertem,to fall down
 pes,sweat
-pëš,row
-pëski,swallow
-pëž,ship
-pëž-,"to roast, cook"
-pëzërt,to press
 pi,boy
 pi,breast (1)
-pi-pë,asp
 pi-pu,asp
+pi-pë,asp
 pichal-,to become wet
-pïchal-,to become wet
 pides,"floor, elbow"
-pïdes,floor
 piges,elbow
 pij,breast (1)
 pikmi-,mould
@@ -918,29 +884,24 @@ pild-,cloud
 pilem,cloud
 pili-,to split
 pin,tooth
-pir,to bore
 pir,time
-pïr,to bore
-pir-,to enter
+pir,to bore
 pir-,to come in
+pir-,to enter
 pir-ak,time
 piri,small piece
-pïrï-,to come in
 piricha,to bore
-piš,row
-pïš,row
 piwaski-,wash
 piz,flour
+pizir,to press
+piznal-,flour
+piznalo,flour
+piš,row
 piž,ship
-pïz,flour
-pïž,ship
 piž-,"to roast, cook"
 pižes,elbow
 piži-,to roast
-pizir,to press
 pižirt-,to press
-piznal-,flour
-piznalo,flour
 plachk- pilaski-,wash
 plat-,wash (1)
 pod-,cover
@@ -948,21 +909,19 @@ podi-,cover
 pog,tuber
 pol,time
 pole,inside
-polë,thumb
 polin,inside
 polis,inside
-põly,thumb
+polë,thumb
 pon-,place
 pongk pangkäl-,a k. of mushroom
 ponï-,place
-poš,inside (1)
-pós,sweat
 pos-,to hit
-pošk-,inside (1)
-poskë,swallow
 poski,swallow
+poskë,swallow
 poskï,swallow
 post-,to frazzle
+poš,inside (1)
+pošk-,inside (1)
 pož,nasty
 prak,time
 pri,small piece
@@ -971,38 +930,37 @@ pu-cej,woodworm
 pu-céj,woodworm
 puch,"stake, inside"
 puchi,willow
-puchï,willow
 puchk-,inside (1)
+puchï,willow
 puci,willow
 pud,bouquet
 pud,stalk
 puj,sack
-pujë,sack
 puji,sack
+pujë,sack
 puk-,to sit
-pukëš,arrow
-pukï-,to sit
 pukich,arrow
-pukïch,arrow with a blunt tip
 pukiš,arrow
 pukt-,to sit
 puktë-,to sit
-pükte-,to sit
 puktï-,to sit
+pukëš,arrow
+pukï-,to sit
+pukïch,arrow with a blunt tip
 pul,board
 puli-,to be afraid
 pum,head
 pumel,fir tree
 pumi-,to meet
 pun-,plait
-punë,spoon
 pung,head
 pung-,to meet
 puni,spoon
+punë,spoon
 punï,spoon
 punï-,plait
-pur,float
 pur,bunch
+pur,float
 pur-,to bite
 puri-,to bite
 purj-,snowstorm
@@ -1010,58 +968,70 @@ puromi-,to burn
 purti,vessel made of birch bark
 purtï,vessel made of birch bark
 purž-,snowstorm
-puš,to dry
-puš,stake
-puš-pu,hazelnut
-pušji-,to sprout
 puwi-,to be afraid
 puz,nest
-puž,sieve
-púž,sieve
 puz-kar,nest
-pužë,variegated
+puš,stake
+puš,to dry
+puš-pu,hazelnut
+pušji-,to sprout
+puž,sieve
 pužej,young of deer
-pužëm,conifer
 puži,variegated
-pužï,variegated
 pužim,conifer
-pužïm,conifer
 pužmer,dew
 pužni-,sieve
 pužym,pine-tree
+pužë,variegated
+pužëm,conifer
+pužï,variegated
+pužïm,conifer
+pëchal-,to become wet
+pëdes,floor
+pëlachk-,wash
+pëlat-,wash (1)
+pën-,plait
+për,to bore
+për-,to come in
+përak,time
+përi,small piece
+pëski,swallow
+pëzërt,to press
+pëš,row
+pëž,ship
+pëž-,"to roast, cook"
+pïchal-,to become wet
+pïdes,floor
+pïr,to bore
+pïrï-,to come in
+pïz,flour
+pïš,row
+pïž,ship
+pós,sweat
+põly,thumb
+púž,sieve
+pükte-,to sit
 saj,shadow
 saje,sleeve
 sal,"bark, to spit"
 salal-,to spit
-šëd,a k. of thin meal
 sees,sleeve
-šeg,dry branch
 sejes,sleeve
 sektal-,to eat
-sël-,to stand
-sëlal,salt
 sem,fish scales
-šem,sour
-šém,sour
 sen,sinew
-sën,to comb
-sënal-,to comb
 sengës,yarn
 senka,tree fungus
-senkë,tree fungus
 senki,tree fungus
+senkë,tree fungus
 senkï,tree fungus
 sep,gall
 sep,gall
-sép,gall
-sepës,sack
 sepis,sack
+sepës,sack
 ser,tar
-šer,"whetstone, rare"
-šër,mouse
-ser-,to break
 ser-,splinter
-šër-,divide
+ser-,to break
 seral-,to separate
 serekjal-,to laugh
 serektal-,to laugh
@@ -1070,52 +1040,36 @@ serer,nits
 seri-,to break
 sermet,halter
 ses,dirty
-sësk-,chew
 si,"hair, annual ring"
-ši,tip
 si-,to eat
-ši-waž,a k. of metal
-ši-wož,a k. of metal
-šid,a k. of thin meal
-šïd,a k. of thin meal
-sië-,to eat
 sies,neck
 sii-,to eat
-siï-,to eat
 sijal-,"cold, glitter"
 sik,fast
-sïkal,cow
 sikt-,to plait
 siktal-,to plait
 sil,"meat, neck"
-sïl,"meat, fathom"
 sil',neck
 sil-,to stand
 sil-sil,to melt
 silal,salt
-sïlal,salt
 silal-,glitter
 sili-,to stand
 silmi-,to melt
 sim,eye
 simm-,eye
 sin,"eye, to comb"
-sïn,to comb
 sin-,"black, to diminish"
-sin-këli,tear
 sin-kili,tear
+sin-këli,tear
 sinal-,to comb
 singa-,to comb
 singis,yarn
 sinis,yarn
-sinïs,yarn
 sinm-,eye
 sinomi-,black
-sïnomï-,black
+sinïs,yarn
 sir,tar
-šir,mouse
-šïr,mouse
-šir-,divide
 sir-pu,a k. of tree
 sis,to rot
 sisk-,chew
@@ -1126,139 +1080,119 @@ sitan,shit
 siz,woodpecker
 sizel,autumn
 sizem,seven
-sizëm,seven
 sizil,autumn
-sizïl,autumn
 sizim,seven
-sizïm,seven
 sizjym,seven
+sizëm,seven
+sizïl,autumn
+sizïm,seven
+sië-,to eat
+siï-,to eat
 sjor,marten
 sju,hundred
 sjurs,thousand
 skal,cow
 slal,salt
-so,she
-so,it
 so,he
+so,it
+so,she
 som,fish scales
-šom,sour
 son,a k. of fish
 son-chorig,a k. of fish
-šoner,healthy
 sor,wild animal
-sór-,to break
-šort,yarn
-sót-,to let come
 sou,smoke
 su,"rust, hundred"
-sú,hundred
-šu,elder
-šu-,speak
-šú-,speak
 su-ez kwasme,mouth
 su-kas,"bristle, mouth"
 suam,to eat
 subed,narrow
 subeg,narrow
-šudjam,rotten
-šug,narrow
-šui-,speak
-šúi-,speak
 suj,"clay, sleeve"
-súj,clay
-šujjam,rotten
 suk gurdo,a k. of wild duck
 sul,"buckle, intestine"
 sul,"tree bark, fathom"
 sulem,heart
-sulës,vessel
 suli,a k. of duck
-sulì,a k. of duck
 sulis,vessel
 sult-,to stand
 sultï-,to stand
+sulës,vessel
+sulì,a k. of duck
 sum,lowland
 suma-,sorry
 sumal-,thirst
-sumëk,wooden vessel
 sumem,thirst
 sumik,wooden vessel
-šunal-,warm
+sumëk,wooden vessel
 sup,gall
-šupal-,to dry
 supeg,narrow
 sur,horn
-súr,horn
-šur,"brook, stream"
 sur-,splinter
-šurd-,evil spirit
-šurdët,evil spirit
-šurdit,evil spirit
 sures,narrow
-surës,thousand
-súres,narrow
 suri,pole
-súri,pole
 surmi-,dry
 surs,thousand
+surës,thousand
 sus,wax
-sús,wax
 susi-pu,pine
 susi-pú,pine
-susï-pu,pine
 suso,wax
 sustal-,wax
 susto,wax
+susï-pu,pine
 sut-,to let come
-šut-,to sour
 suter,currant
-šutetsk-,to rest
-suž,hollow hand
 suz-,to reach
-suž-,to reach
-súz-,to reach
 suzer,sister
 suzi,soft
+suž,hollow hand
+suž-,to reach
+sép,gall
+sël-,to stand
+sëlal,salt
+sën,to comb
+sënal-,to comb
+sësk-,chew
+sïkal,cow
+sïl,"meat, fathom"
+sïlal,salt
+sïn,to comb
+sïnomï-,black
+sór-,to break
+sót-,to let come
+sú,hundred
+súj,clay
+súr,horn
+súres,narrow
+súri,pole
+sús,wax
+súz-,to reach
 ta,this
 tap-,to stamp with feet
 tara,to open
-tëbër,spine
 tej,louse
 tekchë-,hop
 tel,wind
-tël,fire
-tëlë,wing
-tënad,thou
-tëpë,oak
 ter,tip
-tër,full
 ter-,find place
 teri-,find place
 terï-,find place
-tërpë,muzzle
 tetchi-,hop
+ti,lung
 ti,pond
 ti,you
-ti,lung
-tï,pond
 ti-pi,oak
 tibir,spine
 tijal-,to break
 tijalt-,to bow
 til,fire
-tïl,fire
 til-omir,flame
 tili,wing
-tïlï,wing
 tilis,hut
-tïlïs,hut
 timet,patch
 tinad,thou
-tïnad,thou
-tïpï,oak
 tir,full
 tir,tip
-tïr,full
 tiš,axe
 tišk-,axe
 tjamys,eight
@@ -1266,95 +1200,103 @@ to,pond
 to-lon,this
 tod,to feel
 tod-,to feel
-todï-,to feel
 todmaski-,to feel
+todï-,to feel
 tol,winter
-tól,wind
 ton,"you, thou"
 tora,to open
 tu,that
-tú,lung
 tu-pala,that
 tud-vu,spring
 tug,fringe
 tuj,birch bark
-túj,birch bark
 tuj-,stick into
 tuj-,stick into
-túj-,stick into
-túj-,stick into
 tujis,birch bark
 tujiskon-gër,hollow vessel
 tul,peg
-tulës,spring
 tulim,top
 tulis,spring
+tulës,spring
 tulïs,spring
 tunal-,to get accustomed
 tuno,to get accustomed
 tunoci,to get accustomed
 tupit,dense
 tur,black-cock
-turëm,hay
 turi,crane
 turim,hay
 turin,hay
+turëm,hay
 turïn,hay
-tuš,protruding
-túš,protruding
 tutini vitini-,gather
 tuwis,spring
+tuš,protruding
+tëbër,spine
+tël,fire
+tëlë,wing
+tënad,thou
+tëpë,oak
+tër,full
+tërpë,muzzle
+tï,pond
+tïl,fire
+tïlï,wing
+tïlïs,hut
+tïnad,thou
+tïpï,oak
+tïr,full
+tól,wind
+tú,lung
+túj,birch bark
+túj-,stick into
+túj-,stick into
+túš,protruding
 uckil-,step
 ud-,to give
 ud-nan,young grass
 udur,hollow of breast
 uj,night
-új,night
 uj-,"to swim, chase"
-új-,"to swim, chase"
 ujal-,to swim
 ujasa vetlë-,to swim
 uji,younger brother
 ujï-,chase
-ukmës,one
 ukmis,one
-ukmÏs,one (1)
 ukmys,nine
+ukmÏs,one (1)
+ukmës,one
 ul,"branch, space below something"
 ul-,"chase, to live"
-ulën,space below something
 uli-,to live
+ulën,space below something
 ulïn,space below something
 umoj,property
-ünc,hind
 uno,"much, large"
-úno,"much, large"
 ur,"lowland, lowland"
 ur-,rip
 urd,flank
-urd-lë,flank
 urd-li,flank
+urd-lë,flank
 urt-,young grass
 urt-nan,young grass
 us-,to fall
-ús-,to fall
-usë,branch
 usi,branch
+usë,branch
 usï,branch
-ušjal-,to praise
 ut'-,look
 ut'ï-,look
 ut-,to bark
 uti-,to bark
 uwti-,to bark
-už,stallion
+uzi,"berry, younger brother"
+uzir,prince
 uzë,berry
 uzër,prince
-uzi,"berry, younger brother"
 uzï,berry
-úzi,hat
-uzir,prince
 uzïr,prince
+ušjal-,to praise
+už,stallion
 vaci,a k. of duck
 vaiž,axle
 vaj,early
@@ -1363,8 +1305,8 @@ vajer,fang
 vaji-,carry
 vajij,axle
 vajiž,axle
-vajïž,axle
 vajj,axle
+vajïž,axle
 vajž,axle
 val,a large animal
 val-,place for lying
@@ -1377,48 +1319,36 @@ vas,stomach
 vask-,fall
 vati,a k. of duck
 vaz,early
-važ,axle
-važer,fang
 vazi-,fall
 vazki-,fall
+važ,axle
+važer,fang
 vej,fat
-vëj-,to sink
 vekchi,thin
-vël,on top
 vel-,shave
-vël-,become
 veli-,to peel bark
-velï-,to peel bark
 velit,even
+velï-,to peel bark
 ver,blood
-vër,mountain
 ver-ser,root
-vëškë,trough
 vez-,to disappear
-vëž-,to step over
-vëžë,root
-vï,to kill
 vi-,to kill
 vic,whole
 vic-ak,whole
-vij-,to step over
 vij-,to kill
 vij-,to sink
-vijëm,brain
+vij-,to step over
 viji,root
-vïjï-,to sink
 vijim,brain
+vijëm,brain
 viki,trough
 vil,new
 vil,on top
-vïl,new
-vïl,on top
 vil-,become
 vili-,become
 vim,brain
 vir,blood
 vir,mountain
-vïr,mountain
 vir-ser,root
 vis,interval
 vis-,tired
@@ -1432,28 +1362,26 @@ voj,fat
 voj-,look
 vojit,shame
 vol-,shave
-volët,even
 volit,even
+volët,even
 vonal,extend
 vord-,raise
+votes,to catch with a net
+voz-,look
+vozit,shame
+vozët,shame
 vošjal-,interval
 vošjal-,interval
 vošt-,to exchange
 vošti-,to exchange
-votes,to catch with a net
 vož,oblique
 vož,poison
-voz-,look
-vozët,shame
-vozit,shame
 vu,water
 vu-,to come
-vú-,to come
 vu-kenjali,lizard
 vu-ko,house
 vug,handle of vessels
 vugez,curved wood
-vuï-,to come
 vuj,curved wood
 vunet-,to be forgotten
 vuneti-,to be forgotten
@@ -1463,37 +1391,111 @@ vur-,to sew
 vural-,place
 vuri-,to sew
 vuris,to sew
-vušt-,rub
 vuz,trade
-vuž,old
-vuž,curved wood
 vuzal-,trade
 vuzes,trade
+vuï-,to come
+vušt-,rub
+vuž,curved wood
+vuž,old
+vëj-,to sink
+vël,on top
+vël-,become
+vër,mountain
+vëškë,trough
+vëž-,to step over
+vëžë,root
+vï,to kill
+vïjï-,to sink
+vïl,new
+vïl,on top
+vïr,mountain
+vú-,to come
 wal-,place for lying
 wales,place for lying
 war,slave
 waz,early
 wažer,fang
-žec,good
-žech,good
-žechirat-,tremble
-žëkal-,stifle
-žëkët,stifle
-zëng,taste
 zer,a k. of plant
-zër-,stroke
-zërëm,snot
-žesk-j,good
 zez-,to tear
-žez-,to tear
 zezh-,to tear
-žëžol,a k. of pallet
 zim,taste
 zin,taste
 zir,a k. of plant
 zir-,stroke
 zirim,snot
+zu,bristle
+zu,stem
+zud,manure
+zum-,"submerge, to come in"
+zumi-,submerge
+zëng,taste
+zër-,stroke
+zërëm,snot
 zïrïm,snot
+ëb-,shoot
+ëche,this (1)
+ëko,old woman
+ëkoa,old woman
+ël,humid
+ëm,hole
+ërgon,copper
+ëskal,cow
+ëštër,foot bindings
+ëž,sheep
+ïm,hole
+ïn,tent
+ïno,much
+ïštir,foot bindings
+ïž,sheep
+ór-,rip
+ós,door
+ötis,that
+új,night
+új-,"to swim, chase"
+úno,"much, large"
+ús-,to fall
+úzi,hat
+ünc,hind
+šeg,dry branch
+šem,sour
+šer,"whetstone, rare"
+ši,tip
+ši-waž,a k. of metal
+ši-wož,a k. of metal
+šid,a k. of thin meal
+šir,mouse
+šir-,divide
+šom,sour
+šoner,healthy
+šort,yarn
+šu,elder
+šu-,speak
+šudjam,rotten
+šug,narrow
+šui-,speak
+šujjam,rotten
+šunal-,warm
+šupal-,to dry
+šur,"brook, stream"
+šurd-,evil spirit
+šurdit,evil spirit
+šurdët,evil spirit
+šut-,to sour
+šutetsk-,to rest
+šém,sour
+šëd,a k. of thin meal
+šër,mouse
+šër-,divide
+šïd,a k. of thin meal
+šïr,mouse
+šú-,speak
+šúi-,speak
+žec,good
+žech,good
+žechirat-,tremble
+žesk-j,good
+žez-,to tear
 žochi,fox
 žog,"warm, steam"
 žok,stump
@@ -1502,16 +1504,14 @@ zïrïm,snot
 žomit,colour
 žomït,colour
 žopi,smoke hole
-zu,bristle
-zu,stem
 žu,fog
 žu,"heat, fog"
 žuchiz,sharp stick
-zud,manure
 žuj,moss
-žujë,moss
-žújë,moss
 žuji,moss
+žujë,moss
 žuk,porridge
-zum-,"submerge, to come in"
-zumi-,submerge
+žëkal-,stifle
+žëkët,stifle
+žëžol,a k. of pallet
+žújë,moss

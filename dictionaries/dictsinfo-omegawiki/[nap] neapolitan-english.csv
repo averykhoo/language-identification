@@ -13,6 +13,22 @@ Albania,Albania
 Albania,Republic of Albania
 Algeria,Algeria
 Algeria,People's Democratic Republic of Algeria
+Ammereca,America
+Ammereca,States
+Ammereca,U.S.
+Ammereca,U.S. of A.
+Ammereca,U.S.A.
+Ammereca,US
+Ammereca,United States
+Ammereca,United States of America
+Ammerica,America
+Ammerica,States
+Ammerica,U.S.
+Ammerica,U.S. of A.
+Ammerica,U.S.A.
+Ammerica,US
+Ammerica,United States
+Ammerica,United States of America
 Amèrica do Nord,North America
 Argentina,Argentina
 Argentina,Argentine Republic
@@ -33,18 +49,18 @@ Camera d''e Deputate,Lower House
 Canadà,Canada
 Cile,Chile
 Cile,Republic of Chile
-Cina,People's Republic of China
 Cina,China
-Cità d' 'o Vaticano,Vatican City
-Cità d' 'o Vaticano,The Holy See
+Cina,People's Republic of China
 Cità d' 'o Vaticano,State of the Vatican City
+Cità d' 'o Vaticano,The Holy See
+Cità d' 'o Vaticano,Vatican City
 Crapecuorno,Capricorn
 Danemarca,Denmark
 Danemarca,Kingdom of Denmark
 Europa,Europe
 Franza,France
-Germania,Germany
 Germania,Federal Republic of Germany
+Germania,Germany
 Ghana,Ghana
 Ghana,Republic of Ghana
 Giappone,Japan
@@ -55,10 +71,10 @@ Israele,Israel
 Israele,State of Israel
 Italia,Italian Republic
 Italia,Italy
-Laos,Laos
 Laos,Lao People's Democratic Republic
-Libbia,Libya
+Laos,Laos
 Libbia,Great Socialist People's Libyan Arab Jamahiriya
+Libbia,Libya
 Lituania,Lithuania
 Lituania,Republic of Lithuania
 Mali,Mali
@@ -67,46 +83,30 @@ Milano,Milan
 Monaco 'e Baviera,Munich
 Mongolia,Mongolia
 Montenegro,Montenegro
-Naggitto,Egypt
 Naggitto,Arab Republic of Egypt
+Naggitto,Egypt
 Napule,Naples
 Ndorra,Andorra
 Ndorra,Principality of Andorra
 Paraguay,Paraguay
 Pulonnia,Poland
 Purtuallo,Portugal
+Regno Aunito,UK
 Regno Aunito,United Kingdom
 Regno Aunito,United Kingdom of Great Britain and Northern Ireland
-Regno Aunito,UK
 Romma,Rome
 San Marino,San Marino
 Serbia,Serbia
 Sguizzera,Switzerland
 Spagna,Spain
+State Aunite,America
+State Aunite,States
+State Aunite,U.S.
+State Aunite,U.S. of A.
+State Aunite,U.S.A.
+State Aunite,US
 State Aunite,United States
 State Aunite,United States of America
-State Aunite,America
-State Aunite,US
-State Aunite,U.S.
-State Aunite,U.S.A.
-State Aunite,U.S. of A.
-State Aunite,States
-Ammerica,United States
-Ammerica,United States of America
-Ammerica,America
-Ammerica,US
-Ammerica,U.S.
-Ammerica,U.S.A.
-Ammerica,U.S. of A.
-Ammerica,States
-Ammereca,United States
-Ammereca,United States of America
-Ammereca,America
-Ammereca,US
-Ammereca,U.S.
-Ammereca,U.S.A.
-Ammereca,U.S. of A.
-Ammereca,States
 Tokio,Tokyo
 Turchia,Turkey
 Turchía,Turkey
@@ -116,14 +116,11 @@ Ulanna,The Netherlands
 Venezia,Venice
 View lemma information,creativity
 View lemma information,inventiveness
-criatività,creativity
-criatività,inventiveness
-abba,water
 abba,body of water
+abba,water
 abbrile,April
 accurciamiento,abbreviation
 accà,here
-ccà,here
 acqua,water
 acìto,vinegar
 addizzione,addition
@@ -132,36 +129,33 @@ aeropuórto,airport
 affrunto,abasement
 afrikaans,Afrikaans
 aggrisso,conflict
-scuntro,conflict
 airone,heron
+airuplano,aeroplane
+airuplano,bird
+airuplano,plane
 alluvione,alluvion
 alluvione,flood
-alluvione,overflowing
 alluvione,inundation
+alluvione,overflowing
 ammenestrazzione,administration
 ammenestrazzione,direction
 ammenestrazzione,management
 anglo,angel
-anno,year
 anno,solar year
+anno,year
 apparècchio,aeroplane
 apparècchio,bird
 apparècchio,plane
-arioplàno,aeroplane
-arioplàno,bird
-arioplàno,plane
-airuplano,aeroplane
-airuplano,bird
-airuplano,plane
 arabbo,Arabic
 arabbo,Standard Arabic
-sarracino,Arabic
-sarracino,Standard Arabic
 aragonese,Aragonese
 aragonese,Aragonese
 arco,eyebrow
 argiento,silver
 aria,air
+arioplàno,aeroplane
+arioplàno,bird
+arioplàno,plane
 armeno,Armenian
 arrampecàta,takeover
 arte,art
@@ -176,41 +170,44 @@ azzione,act
 azzione,deed
 aùsto,August
 banana,banana
-barbiére,hairdresser
 barbiére,barber
+barbiére,hairdresser
 battarìa,drum kit
 biodeverzetà,biodiversity
-biologgìa,biology
 biologgìa,biological science
+biologgìa,biology
 bon Nàtale,Merry Christmas
 bulgaro,Bulgarian
 bulgaro,Bulgarian
 cacarella,diarrhea
-sciorda,diarrhea
 calannario greguriano,Gregorian calendar
 calannàrio,calendar
 cane,dog
-ccane,dog
 capa,head
 capille,hair
 carciòffula,artichoke
+carna,meat
 catalano,Catalan
 catalano,Catalan
 cauzariéllo,sock
-cazettino,sock
 cavelesciore,cauliflower
+cazettino,sock
+ccane,dog
+cco,alongside
+cco,amongst
+cco,with
+ccà,here
 ceco,Czech
 ceco,Czech
 cellibbato,celibacy
 cepólla,onion
 ceròggeno,candle
 chieno,full
-chioggia aceto,acid rain
 chioggia aceta,acid rain
+chioggia aceto,acid rain
 chiuvaruolo,blacksmith
 chímmeca,chemistry
 ciacella,meat
-carna,meat
 ciardeniére,gardener
 cità,city
 computer,computer
@@ -218,31 +215,23 @@ coreano,Korean
 coreano,Korean
 corta,short
 corta,small
-curto,short
-curto,small
-piccerella,short
-piccerella,small
-piccirillo,short
-piccirillo,small
 coscia,leg
-gamma,leg
+criatività,creativity
+criatività,inventiveness
 criatura,child
 criatura,child
-ninno,child
-piccerillo,child
 cristallo,crystal
 crisòmmola,apricot
 cu,alongside
 cu,amongst
 cu,with
-cco,alongside
-cco,amongst
-cco,with
 cultura,culture
 cumpetizione,competition
 cuméta,comet
-cunto,story
 cunto,account
+cunto,story
+curto,short
+curto,small
 cusetore,tailor
 cìnco,five
 còsere,sew
@@ -254,11 +243,13 @@ dichiarazzione,declaration
 dichiarazzione,statement
 diente,molar
 diente,tooth
+dito piccerillo,little finger
+dito piccerillo,pinkie
 dizziunario,dictionary
 documentazzione,documentation
 doje,two
-dùje,two
 durmuta,sleep
+dùje,two
 emergenza,emergency
 esperanto,Esperanto
 esperanto,Esperanto
@@ -266,8 +257,8 @@ estate,summer
 estone,Estonian
 evoluzzione,evolution
 facele,easy
-facele,piece of cake
 facele,like shooting fish in a barrel
+facele,piece of cake
 famme,hunger
 famme,hunger
 famme,hunger
@@ -277,22 +268,23 @@ famme,hunger
 famme,hunger
 famme,hunger
 famme,hunger
-faméglia,family
 famméglia,family
+faméglia,family
 felice anno nuovo,Happy New Year
-tante augurie 'e buon anno nuovo,Happy New Year
+femmena,female
+femmena,woman
 feróne,dolphin
 film,film
 finlannese,Finnish
-fotografía,photography
-fotografía,photo
-fotografía,photograph
 foto,photo
 foto,photograph
+fotografía,photo
+fotografía,photograph
+fotografía,photography
 franzese,French
 franzese,French
-fravecatòre,mason
 fravecatòre,bricklayer
+fravecatòre,mason
 fravecatòre,stonemason
 fravula,strawberry
 frevaro,February
@@ -313,14 +305,13 @@ furmícula,ant
 fuòssele,fossil
 fémmena,female
 fémmena,woman
-femmena,female
-femmena,woman
 físeca,physics
 fùngio,mushroom
 gallaria,tunnel
 gallarínio,turkey
 gallese,Welsh
 gallese,Welsh
+gamma,leg
 gavina,gull
 gelato,ice cream
 gemello,twin
@@ -330,10 +321,7 @@ georgiano,Georgian
 germanese,German
 geruggeco,surgeon
 ghianco,white
-ianco,white
 ghianco,white
-ianco,white
-janco,white
 giallo,yellow
 giapponese,Japanese
 giapponese,Japanese
@@ -343,9 +331,10 @@ giugrafìa fìseca,physical geography
 giugrafìa pulitica,political geography
 giùgno,June
 gliàndra,acorn
-iànna,acorn
-grammateca,grammer
+gnora,mother in law
+gnora,mother-in-law
 grammateca,grammar
+grammateca,grammer
 granato,pomegranate
 granne,big
 granne,large
@@ -363,23 +352,28 @@ gujarati,Gujarati
 gujarati,Gujarati
 hindi,Hindi
 hindi,Hindi
+ianco,white
+ianco,white
 iggiene,hygiene
 indonesiano,Indonesian
+innipennenza,independence
 io,I
 irlannese,Irish
 irlannese,Irish
-irlannese,Irish Gaelic
 irlannese,Irish
+irlannese,Irish Gaelic
 islannese,Icelandic
 iudío,Hebrew
 iuórno,day
 iuórno,daytime
-juórno,day
-juórno,daytime
-iònta,joint
+iànna,acorn
 iònta,articulation
+iònta,joint
+janco,white
 jennaro,January
 juoco,game
+juórno,day
+juórno,daytime
 jì,go
 lacertèlla,lizard
 latino,Latin
@@ -392,40 +386,41 @@ lavoro,occupation
 lavoro,work
 lavoro,work
 leggenda,myth
+lemmìccula,lentil
 lenga,tongue
 lengua,language
 lescìa,lye
-liscìa,lye
 libbertà,freedom
 libbertà,liberty
 libbraria,library
 limone,lemon
+liscìa,lye
 luglio,July
-luna,moon
-luna,moon
-luna,satelite
-luna,satelite
-luna,moon
 luna,Luna
 luna,Moon
-luoco,place
+luna,moon
+luna,moon
+luna,moon
+luna,satelite
+luna,satelite
 luoco,location
+luoco,place
 luttarìa,lottery
 lèttone,Latvian
 lèttone,Latvian
-magaro,wizard
-magaro,sorcerer
 magaro,magician
+magaro,sorcerer
+magaro,wizard
 maggio,May
-magnà,eat
 magnà,consume
+magnà,eat
 magnà,eat
 magnà,swallow
 maistrale,mistral
 mamma,mother
-mannarino,mandarin
 mannarino,Mandarin
 mannarino,Standard Mandarin
+mannarino,mandarin
 mantesino,apron
 mare,sea
 marito,husband
@@ -435,28 +430,26 @@ mercato,market
 mercato,marketplace
 mignulìllo,little finger
 mignulìllo,pinkie
-dito piccerillo,little finger
-dito piccerillo,pinkie
 mmasciatore,ambassador
 mpiéreco,obstacle
 mpiéreco,obstruction
 muccatúro,handkerchief
 mudèllo,model
-mugliera,wife
 mugliera,spouse
+mugliera,wife
 mulino,mill
 munno,world
 muntagna,mountain
 munéta,coin
 munéta,money
-muséca,music
-múseca,music
 museca,music
+muséca,music
 màrzo,March
 mèuza,spleen
 méla,apple
 méla,apple
 méla,apple tree
+múseca,music
 napulitano,Neapolitan
 napulitano,Neapolitan
 nasiéllo,anise
@@ -464,30 +457,30 @@ naso,nose
 ncenniatóre,arsonist
 nciclopedìa,encyclopaedia
 ndepennenza,independence
-innipennenza,independence
+neapolitan,english
 nemmìcculo,lentil
-lemmìccula,lentil
 nemmìco,enemy
 nepote,grandson
 neva,snow
 nfromma,info
 nfromma,information
+nfruenza,flu
+nfruenza,influenza
 nfurmazione,info
 nfurmazione,information
-nfruenza,influenza
-nfruenza,flu
 ngrese,English
+ninno,child
 niro,black
 nomme,name
 nomme,proper name
 nomme,proper noun
+nova,new
+nova,novel
 nuje,nosotros
 nuje,we
 nun,not
 nuovo,new
 nuovo,novel
-nova,new
-nova,novel
 nuvembre,November
 nuvola,cloud
 olannese,Dutch
@@ -498,20 +491,20 @@ pace,peace
 pannulino,nappy
 parola,word
 partecipazzione,participation
-patana,potato
 patana,patato
+patana,potato
 pate,father
 patre,father
 pediatra,paediatrician
-pena 'e morte,death penalty
 pena 'e morte,capital punishment
+pena 'e morte,death penalty
 pena 'e morte,death sentence
-pena capitale,death penalty
 pena capitale,capital punishment
+pena capitale,death penalty
 pena capitale,death sentence
+perziano,Farsi
 perziano,Persian
 perziano,Western Farsi
-perziano,Farsi
 perzona,person
 pesante,heavy
 pessimismo,pessmism
@@ -519,6 +512,11 @@ petizzione,petition
 pianta,plant
 pianta mericinale,medicinal plant
 pianèlla,slipper
+piccerella,short
+piccerella,small
+piccerillo,child
+piccirillo,short
+piccirillo,small
 piemontese,Piedmontese
 piemontese,Piedmontese
 piemontese,Piemontese
@@ -527,14 +525,14 @@ porvera,dust
 prencepe,prince
 presidente,president
 preta,stone
-primmo,first
 primma,first
+primmo,first
 processo,case
 processo,lawsuit
 processo,trial
 prublèma,problem
-prugietto,project
 pruggetto,project
+prugietto,project
 prununzia,pronunciation
 pruvincia,province
 pulacco,Polish
@@ -558,24 +556,28 @@ recetta,recipe
 rentìsta,dentist
 rirere,laugh
 riso,rice
-rumeno,Romanian
 rumeno,Romanaian
+rumeno,Romanian
 ràreca,root
 récchia,ear
 sale,salt
 sarda,sardine
+sarracino,Arabic
+sarracino,Standard Arabic
 sarviètta,napkin
 scarfatura,gonorrhea
 scarrafóne,cockroach
+sciorda,diarrhea
 sciummo,river
-scióre,flower
+scióre,bloom
 scióre,bloom
 scióre,blossom
-scióre,flower
-scióre,bloom
 scióre,blossom
+scióre,flower
+scióre,flower
 scola,school
 scrivere,write
+scuntro,conflict
 scurmo,mackerel
 semmenta,seed
 seta,thirst
@@ -605,29 +607,28 @@ svedese,Swedish
 sànghe,blood
 sèrpe,snake
 sìnnaco,mayor
-sòcra,mother-in-law
 sòcra,mother in law
-gnora,mother-in-law
-gnora,mother in law
+sòcra,mother-in-law
 taggíco,Tajik
 tailannese,Thai
 tailannese,Thai
 taliano,Italian
 taliano,Italian
+tante augurie 'e buon anno nuovo,Happy New Year
 tappeto,carpet
 telèfono,phone
 telèfono,telephone
 tempesta,storm
 tempesta,tempest
+tempo,time
 terapia,therapy
-terra,earth
-terra,Earth
-terra,the world
 terra,Blue Planet
+terra,Earth
+terra,earth
+terra,the world
 terrurismo,terrorism
 test nucleare,nuclear test
 tiempo,time
-tempo,time
 toro,bull
 tradizzionale,traditional
 traduzzione,translation
@@ -663,19 +664,18 @@ vuje,you
 vuje,you lot
 vuje,yous
 vèspera,wasp
-zampana,musquito
 zampana,mosquito
+zampana,musquito
 àbacco,abacus
 àrbero,tree
 èrba,grass
 èreva,grass
 èrva,grass
-èvera,grass
 èteca,ethics
+èvera,grass
 ìsso,he
 òmmo,male
 òmmo,man
 óvo,egg
 ùno,one
 सहारा,sahara
-neapolitan,english

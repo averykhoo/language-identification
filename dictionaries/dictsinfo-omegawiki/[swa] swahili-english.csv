@@ -29,8 +29,8 @@ Chile,Republic of Chile
 Desemba,December
 El Salvador,El Salvador
 El Salvador,Republic of El Salvador
-Eneo la Uingereza katika Bahari Hindi,British Indian Ocean Territory
 Eneo la Uingereza katika Bahari Hindi,BIOT
+Eneo la Uingereza katika Bahari Hindi,British Indian Ocean Territory
 Eritrea,Eritrea
 Februari,February
 Gaborone,Gaborone
@@ -46,9 +46,9 @@ Honduras,Republic of Honduras
 Iceland,Iceland
 Iceland,Republic of Iceland
 Ijumaa,Friday
-Jakarta,Jakarta
-Jakarta,Djakarta
 Jakarta,DKI Jakarta
+Jakarta,Djakarta
+Jakarta,Jakarta
 Jamaika,Jamaica
 Jamhuri ya Dominika,Dominican Republic
 Jamhuri ya Kenya,Kenya
@@ -90,8 +90,8 @@ Kijapani,Japanese
 Kijapani,Japanese
 Kikatalan,Catalan
 Kikatalan,Catalan
-Kikhmeri,Khmer
 Kikhmeri,Central Khmer
+Kikhmeri,Khmer
 Kikroashia,Croatian
 Kikroashia,Croation
 Kikyrili,Cyrillic alphabet
@@ -101,10 +101,10 @@ Kipolandi,Polish
 Kipolandi,Polish
 Kireno,Portuguese
 Kireno,Portuguese
-Kirgizia,Kyrgyzstan
 Kirgizia,Kyrgyz Republic
-Kiromania,Romanian
+Kirgizia,Kyrgyzstan
 Kiromania,Romanaian
+Kiromania,Romanian
 Kirusi,Russian
 Kirusi,Russian
 Kislovakia,Slovak
@@ -120,32 +120,32 @@ Kiukrania,Ukrainian
 Kiukrania,Ukrainian
 Kiyahudi,Hebrew
 Kizulu,Zulu
-Lesotho,Lesotho
 Lesotho,Kingdom of Lesotho
+Lesotho,Lesotho
 Liberia,Liberia
 Liberia,Republic of Liberia
-Libya,Libya
 Libya,Great Socialist People's Libyan Arab Jamahiriya
+Libya,Libya
 Machi,March
 Malaysia,Malaysia
 Martinique,Martinique
-Mauritania,Mauritania
 Mauritania,Islamic Republic of Mauritania
+Mauritania,Mauritania
 Mei,May
-Misri,Egypt
 Misri,Arab Republic of Egypt
+Misri,Egypt
 Montenegro,Montenegro
-Moroko,Morocco
 Moroko,Kingdom of Morocco
+Moroko,Morocco
 Myanmar,Myanmar
 Nairobi,Nairobi
 Namibia,Namibia
-Norwei,Norway
 Norwei,Kingdom of Norway
+Norwei,Norway
 Novemba,November
 Oktoba,October
-Pakistan,Pakistan
 Pakistan,Islamic Republic of Pakistan
+Pakistan,Pakistan
 Pasaka,Easter
 Poland,Poland
 Qatar,Qatar
@@ -156,35 +156,35 @@ Slovakia,Slovakia
 Sri Lanka,Sri Lanka
 Sudan,Sudan
 Tanzania,Tanzania
-Timor ya Mashariki,East Timor
 Timor ya Mashariki,Democratic Republic of Timor-Leste
+Timor ya Mashariki,East Timor
 Togo,Togo
 Uajemi,Iran
 Uajemi,Islamic Republic of Iran
 Ubelgiji,Belgium
 Ubelgiji,Kingdom of Belgium
 Ufaransa,France
-Uganda,Uganda
 Uganda,Republic of Uganda
+Uganda,Uganda
 Ugiriki,Greece
 Ugiriki,Hellenic Republic
 Uholanzi,Holland
 Uholanzi,Kingdom of the Netherlands
 Uholanzi,The Netherlands
-Ujerumani,Germany
 Ujerumani,Federal Republic of Germany
+Ujerumani,Germany
 Unguja,Zanzibar
 Ureno,Portugal
 Uswidi,Sweden
 Uswisi,Switzerland
 Uturuki,Turkey
-Vatikani,Vatican City
-Vatikani,The Holy See
 Vatikani,State of the Vatican City
-Wallis na Futuna,Wallis and Futuna
+Vatikani,The Holy See
+Vatikani,Vatican City
 Wallis na Futuna,Territory of the Wallis and Futuna Islands
-Zambia,Zambia
+Wallis na Futuna,Wallis and Futuna
 Zambia,Republic of Zambia
+Zambia,Zambia
 a tunu,valuable
 adui,enemy
 afisi ya posta,post office
@@ -213,7 +213,6 @@ bia,beer
 bilauri,glass
 bismuthi,bismuth
 bofulo,bread
-mkate,bread
 boroni,boron
 bromi,bromine
 buibui,spider
@@ -239,8 +238,6 @@ darmstadti,darmstadtium
 dhahabu,gold
 dhoruba,storm
 dhoruba,tempest
-tufani,storm
-tufani,tempest
 dini,religion
 dirisha,window
 duka,shop
@@ -248,9 +245,9 @@ duka la madawa,chemist's
 duka la madawa,chemist's shop
 duka la madawa,pharmacy
 embe,mango
+emeli,e-mail
 emeli,electronic mail
 emeli,email
-emeli,e-mail
 fanya,do
 fedha,silver
 filimbi,clarinet
@@ -258,8 +255,9 @@ florini,fluorine
 fransi,francium
 fundisha,teach
 gali,gallium
-gari,car
 gari,automobile
+gari,car
+garimoshi,train
 gerimani,germanium
 gugu,weed
 hafni,hafnium
@@ -280,6 +278,7 @@ jirani,neighbour
 jirani,vecino
 jivu,ash
 joto,heat
+juma,week
 kali,potassium
 kalisi,calcium
 kamaflaji,camouflage
@@ -292,17 +291,17 @@ kazi,employment
 kazi,employment
 kazi,job
 kazi,job
+kazi,labour
 kazi,occupation
 kazi,work
 kazi,work
-kazi,labour
 kelele,noise
 kelele,"noise, vibrations"
 kelele,racket
 kesho,tomorrow
 kiatu,shoe
-kiazi,potato
 kiazi,patato
+kiazi,potato
 kichwa,head
 kidole,finger
 kidonda,wound
@@ -311,7 +310,6 @@ kifaru,rhino
 kifaru,rhinoceros
 kijiji,village
 kijiko,spoon
-mwiko,spoon
 kikombe,trophy
 kilima,colina
 kilima,hill
@@ -319,10 +317,12 @@ kilima,loma
 kilithuania,Lithuanian
 kilithuania,Lithuanian
 kilogramu,kilogram
-kinyozi,hairdresser
 kinyozi,barber
+kinyozi,hairdresser
 kinywa,beak
 kinywa,mouth
+kinywaji,beverage
+kinywaji,drink
 kipaji,donation
 kisa,story
 kisima,water well
@@ -341,8 +341,8 @@ kitovu,omphalus
 kitovu,umbilicus
 kitunguu,onion
 kiu,thirst
-kiungo,joint
 kiungo,articulation
+kiungo,joint
 kizuio,obstacle
 kizuio,obstruction
 kobalti,cobalt
@@ -356,8 +356,6 @@ kula,eat
 kula,swallow
 kununua,buy
 kununua,purchase
-nunua,buy
-nunua,purchase
 kunywa,drink
 kunywa,gulp
 kunywa,quaff
@@ -383,11 +381,10 @@ mbuni,ostrich
 mbwa,dog
 mbweha,jackal
 mchanga,sand
-mchawi,wizard
-mchawi,sorcerer
 mchawi,magician
+mchawi,sorcerer
+mchawi,wizard
 mchele,rice
-mpunga,rice
 mchezo,game
 mchungaji,shepherd
 mdudu,insect
@@ -403,18 +400,20 @@ miwani,glasses
 miwani,spectacles
 mji,city
 mji mkuu,capital
-mke,wife
+mkate,bread
 mke,spouse
+mke,wife
 mlango,door
+mlevi,boozer
 mlevi,drunk
 mlevi,drunkard
-mlevi,boozer
 mlima,mountain
 mlio,sound
 mmomonyoko,erosion
 mnyama,animal
 moto,fire
 mpiga muziki,musician
+mpunga,rice
 mshahara,salary
 mshale,arrow
 mshona,tailor
@@ -424,13 +423,13 @@ mti,tree
 mto,river
 mtoto,child
 mtu,man
-mwanadamu,man
 mume,husband
 mume,spouse
 muziki,music
 mvua,rain
 mvulana,boy
 mwalimu,teacher
+mwanadamu,man
 mwanamke,female
 mwanamke,woman
 mwanamume,male
@@ -442,11 +441,12 @@ mwezi,moon
 mwezi,moon
 mwezi,satelite
 mwezi,satelite
+mwiko,spoon
 mwokaji,baker
 mzinga,beehive
 natiri,sodium
-nazi,kokosnoot
 nazi,coconut
+nazi,kokosnoot
 ndege,aircraft
 ndizi,banana
 neoni,neon
@@ -455,9 +455,11 @@ ngozi,leather
 nikeli,nickel
 niobi,niobium
 nitrojeni,nitrogen
+nunua,buy
+nunua,purchase
 nyama,meat
-nyani,gorilla
 nyani,baboon
+nyani,gorilla
 nyanya,tomato
 nyoka,snake
 nyuki,wasp
@@ -469,25 +471,24 @@ nzige,locust
 oksijeni,oxygen
 paka,cat
 pakia,export
-safirisha,export
 paladi,palladium
 papa,shark
 pembetatu,triangle
-pikipiki,motorcycle
 pikipiki,motorbike
+pikipiki,motorcycle
 platini,platinum
 poloni,polonium
 posferi,phosphorus
 pua,nose
 pumkini,napkin
-punda,donkey
 punda,ass
+punda,donkey
 pwani,coast
 radi,radium
 radoni,radon
-rangi,colour
-rangi,colour
 rangi,colo(u)r
+rangi,colour
+rangi,colour
 redio,radio
 risasi,lead
 rodi,rhodium
@@ -496,15 +497,16 @@ rutherfordi,rutherfordium
 saa,hour
 sabuni,soap
 safiri,travel
+safirisha,export
 samaki,fish
 seleni,selenium
 shaba,copper
+shamba,acre
+shamba,farm
 shamba,field
 shamba,land
 shamba,land
-shamba,acre
 shamba,patch
-shamba,farm
 shukrani,thank you
 shule,school
 siagi,butter
@@ -517,11 +519,9 @@ simu,telephone
 sirinji,syringe
 sisimizi,ant
 soda,beverage
-soda,drink
 soda,beverage
 soda,drink
-kinywaji,beverage
-kinywaji,drink
+soda,drink
 soko,square
 soma,read
 stani,tin
@@ -530,6 +530,7 @@ sukari,sugar
 sulfuri,sulphur
 sumu,poison
 suruali,trousers
+swahili,english
 swali,question
 tafsiri,translation
 tali,thallium
@@ -541,14 +542,15 @@ theluji,snow
 titani,titanium
 topito,torpedo
 treni,train
-garimoshi,train
+tufani,storm
+tufani,tempest
 twiga,giraffe
-ua,flower
 ua,bloom
 ua,blossom
+ua,flower
+ugonjwa,affliction
 ugonjwa,disease
 ugonjwa,illness
-ugonjwa,affliction
 uhuru,freedom
 uhuru,liberty
 ujaa,hunger
@@ -566,13 +568,12 @@ urani,uranium
 usi,eyebrow
 usingizi,sleep
 uso,face
-utambi,web
 utambi,spider web
+utambi,web
 uza,sell
 vanadi,vanadium
 watu,people
 wiki,week
-juma,week
 wikiendi,weekend
 wino,ink
 xenoni,xenon
@@ -582,4 +583,3 @@ zebaki,mercury
 zinki,zinc
 zirikoni,zirconium
 ziwa,lake
-swahili,english

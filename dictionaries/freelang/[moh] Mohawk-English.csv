@@ -36,9 +36,9 @@ Other,English
 -teweyenhstha',practice (v.)
 -tkahthos,see (.v)
 -tkarhatenyes,turn around (v.)
--tkènse's,taste (v.)
 -tketskwas,get up (v.)
 -tkwenyes,win (v.)
+-tkènse's,taste (v.)
 -torats,hunt (v.)
 -toris,drive (v.)
 -torishenks,rest (v.)
@@ -46,10 +46,37 @@ Other,English
 -tstha',use (v.)
 -tyars,sit down (v.)
 -werons,pour (v.)
--yàten's,fall (v.)
 -yen'a,son
 -yenahs,receive (v.)
 -yenthokwas,harvest (v.)
+-yàten's,fall (v.)
+Ahsenhatont,Wednesday
+Atirontaks,Algonquin nation
+Ennihska,February
+Ennihskowa,March
+Kahnyen'kehàka,Mohawk nation
+Kayerihatont,Thursday
+Kayonkwe'hàka,Cayuga nation
+Kentenha,October
+Kentenhkowa,November
+Ohyariha,June
+Ohyarihkowa,July
+Onenyotehàka,Oneida nation
+Onerahtokha,April
+Onerahtokkowa,May
+Ononhsatokenhti,church
+Ononta'kehàka,Onondaga nation
+Ratirhakonha,Cree nation
+Sehske'kowa,September
+Sehskeha,August
+Shotinontowane'hàka,Seneca nation
+Tekenihatont,Tuesday
+Tsi yenaktohares,Saturday
+Tsyothorha,December
+Tsyothorkowa,January
+Wishkatont,Friday
+Yawentatokenhton,Sunday
+Yawententa'onh,Monday
 a'are,net
 a'enna,bow
 a'nowara,turtle
@@ -62,14 +89,13 @@ ahsen-niwahsen,thirty
 ahsen-tewen'nyawe'ehseron,three thousand
 ahsen-tewn'nyawer,three hundred
 ahsen-yawenre,thirteen
-Ahsenhatont,Wednesday
 ahseriye',string
-ahsìkwara,spear
 ahsikwe,fork
 ahsire,blanket
 ahskwa,roof
 ahsonhta,wall
 ahsonthen,midnight
+ahsìkwara,spear
 ahta',shoes
 ahtahkwa'onwe,moccasins
 ahtatshera,quiver
@@ -82,16 +108,14 @@ atenentshanha,bracelet
 atenentshawi'tanha,armband
 atenentshawìtha,wristband
 ateniyonta,apron
-atennàtshera,groceries
 atenneha,plantain
 atennits,cane
+atennàtshera,groceries
 atenonhwaranha,headband
 aterahwènta,snowsnake
 athahsteren',pants
 athenno',ball
-àthere,basket
 atiron,raccoon
-Atirontaks,Algonquin nation
 atkahranha,glasses
 atkerothiya,comb
 atkònsera,pillow
@@ -106,7 +130,6 @@ atya'tanha,belt
 atyàtawi',coat
 awerahsa,moss
 aweryahsa,heart
-àyok,huckleberries
 ehnskat-tewn'nyawer,one hundred
 ehsa,black ash tree
 eksa'a,child
@@ -116,8 +139,6 @@ enhnekeri,grain
 enhskat,one
 enhskat-tewen'nyawe'ehseron,one thousand
 enhskat-yawenre,eleven
-Ennihska,February
-Ennihskowa,March
 ennihsnonhsawi',ring
 ennihtyakstha,necklace
 ennitskwàra,chair
@@ -128,17 +149,13 @@ eri,cherry
 eris,puppy
 ewennahnotha',learn (v.)
 ka'wahrakehrìta,fried meat
-kàaere',car
 kahehta,field
-kahènta,meadow
 kahik,fruit
 kahneka'shatste,liquor
 kahnekakon,soda
 kahnenna'takehrìta,fried potatoes
-Kahnyen'kehàka,Mohawk nation
 kahonre,gun
 kahontaksen,weed
-kahòntsi,black
 kahontya'ks,lawn mower
 kahonweya,boat
 kahsherhonni,doughnuts
@@ -146,12 +163,14 @@ kahstowa,headdress
 kahtha'kenra,soft maple tree
 kahwatsire,family
 kahwe,coffee
-kahwènkare,snowshoes
 kahwetsheronnyàtha,coffee pot
 kahwihsta'eks,clock
+kahwènkare,snowshoes
 kahyatonhsera,book
 kahyonha,stream
 kahyonhowanen,river
+kahènta,meadow
+kahòntsi,black
 kakhare,skirt
 kakhwa,food
 kakhwawihstonhtha,refrigerator
@@ -160,13 +179,11 @@ kaksowanen,platter
 kanahskwa,domestic animal
 kanakta,bed
 kanata,town
-kanàtaronk,bread
 kanathen,downtown
 kanatowanen,city
-kanàtsyonk,bucket
-kanekòta,ladder
 kanekwenhtarahòntsi,dark red
 kanekwenhtararaken,light red
+kanekòta,ladder
 kanen,seed
 kanerahta'kerha,loose-leaf tea
 kaneron,white ash tree
@@ -181,10 +198,12 @@ kanon'tihsa,buttermilk
 kanonhsa,house
 kanonhsehs,longhouse
 kanonnya,dance
-kanòntara,soup
-kanòntat,milking cow
 kanontatsi,caterpillar
 kanyatare,lake
+kanàtaronk,bread
+kanàtsyonk,bucket
+kanòntara,soup
+kanòntat,milking cow
 karenna,song
 karhakonha,hawk
 karhakonha,hawk
@@ -208,27 +227,24 @@ kawera'shatste,strong wind
 kaya'takeras,goat
 kaya'tarha,television
 kaya'tonni,doll
-kayàtare,photograph
-kayènkwire,arrow
 kayeri,four
 kayeri-niwahsen,forty
 kayeri-yawenre,fourteen
-Kayerihatont,Thursday
-Kayonkwe'hàka,Cayuga nation
+kayàtare,photograph
+kayènkwire,arrow
 kenh wenhniserate,today
 kenhkwitène',in the spring
 kenhnàta,purse
 kenraken,white
-Kentenha,October
-Kentenhkowa,November
 kentskare,carpet
 kentsyokwas,heron
-kènye',oil
 kerhite,tree
 kohsera'kène,winter: in the ~
 kontihshehstonnis,honey bees
 kwa'yenha,rabbit
 kweskwes,pig
+kàaere',car
+kènye',oil
 nikahyonha'ah,creek
 niyohontehsha,strawberries
 o'kènra,dirt
@@ -237,8 +253,8 @@ o'nhonhsa,nose
 o'sora,spruce tree
 o'tara,clay
 o'wahràse,fresh meat
-o'wàronk,meat
 o'whahsa,dress
+o'wàronk,meat
 ohaha,road
 ohahsa,upper part of leg
 ohahsera,lamp
@@ -264,33 +280,31 @@ ohshehs,honey
 ohsherha,dough
 ohsina,leg
 ohsinekòta,ankle
-ohsíta,foot
 ohskawiyak,bass
 ohskennonton,deer
 ohsnonhse,hand
-ohsòkwa,nut
 ohstyen',bone
 ohswa,back
 ohswakaront,whale
 ohsyehònta,stomach
+ohsíta,foot
+ohsòkwa,nut
 ohtera,roots
 ohwihsta,money
 ohwihstakenra,silver
 ohwihstanoron,gold
 ohwihstanoronhson'a,jewelry
 ohyakwira,toe
-Ohyariha,June
-Ohyarihkowa,July
 ohyohsa,elbow
 ohyotsha,chin
 okahrehta,eyelash
 okahrìtshera,game
-okàra,eye
 okonhsa,face
 okonkwara,forehead
 okwaho,wolf
 okwire,bush
 okwitsha,knee
+okàra,eye
 onahsakenra,goose
 onake,canoe
 onawatsta,mud
@@ -307,15 +321,11 @@ onenha,corn seed
 onenharatase,grape
 onenhste,corn
 onenhsto,corn soup
-onènta,evergreen
 onentsha,arm
 onentshawìtha,wrist
 onenya,stone
-Onenyotehàka,Oneida nation
 onerahtakate,lettuce
 onerahte,leaf
-Onerahtokha,April
-Onerahtokkowa,May
 onhwentsya,earth
 onkwe,person
 onon'onhsera,squash
@@ -324,14 +334,13 @@ onon'onhserakahte,watermelon
 onon'onhseràri,cooked squash
 onon'tahson'a,dairy
 ononhkwise,hair
-Ononhsatokenhti,church
-onònta,milk
-Ononta'kehàka,Onondaga nation
 onontsi,head
-onònwara,brain
-onyàra,back of the neck
 onyare,snake
+onyàra,back of the neck
 onyàta,front of the neck
+onènta,evergreen
+onònta,milk
+onònwara,brain
 orenhsa,lower part of the leg
 orhen'kème,morning: in the ~
 orhotsheri,string beans
@@ -347,28 +356,24 @@ otsikhèta,candy
 otsinekwar,yellow
 otsinekwar ohtera,carrots
 otsisera,window pane
-otsìtsya,flower
 otstènra,rock
+otsìtsya,flower
 otyaren'ta'a,canary
 otyarènta,orange
 oweyonhkara,thumb
 owihstohsera,butter
 owira,baby
 owise,"glass, ice"
-oyàta,body
 oyenhèta,perch
 oyente,wood
 oyeri,ten
-Ratirhakonha,Cree nation
+oyàta,body
 ratorats,hunter
 rone,spouse
-Sehske'kowa,September
-Sehskeha,August
 sewahyowane,apple
 sha'tekon,eight
 sha'tekon-yawenre,eighteen
 shiyòkarahs,last night
-Shotinontowane'hàka,Seneca nation
 siksik,sheep
 ska'nyonhsa,moose
 skakahrakseen,pickerel
@@ -388,7 +393,6 @@ tekeni,two
 tekeni-tewen'nyawe'ehseron,two thousand
 tekeni-tewn'nyawer,two hundred
 tekeni-yawenre,twelve
-Tekenihatont,Tuesday
 tewahsen,twenty
 tewahsen-ahsen,twenty-three
 tewahsen-enhskat,twenty-one
@@ -405,7 +409,6 @@ teyo'seretsheràka,train
 teyontenyàteren',scarf
 thetenre,yesterday
 toanhtaneken,jackrabbit
-tsi'tenha,bird
 tsi kanhokàronte,doorway
 tsi kanonhsiyo,living room
 tsi kenhyenahninons,gas station
@@ -416,13 +419,13 @@ tsi yakoheyon'tayentahkwa,hospital
 tsi yekhonnyàtha,kitchen
 tsi yekhwahninons,grocery store
 tsi yeksayentahkwa,cupboard
-Tsi yenaktohares,Saturday
 tsi yetskwa'ehstha,barn
 tsi yohsonhtakàronte,window
 tsi yohswen'karènton,hotel
 tsi yonnonhwetstha,bedroom
 tsi yontenhninontha,store
 tsi yotahshetahkwen,bathroom
+tsi'tenha,bird
 tsihskoko,robin
 tsihstarare,grasshopper
 tsihstekeri,owl
@@ -437,10 +440,8 @@ tsyatak-niwahsen,seventy
 tsyatak-yawenre,seventeen
 tsyennìto,beaver
 tsyerakewahtha,eraser
-tsyòkawe,crow
-Tsyothorha,December
-Tsyothorkowa,January
 tsyowatstakawe,seagull
+tsyòkawe,crow
 tyohton,nine
 tyohton-niwahsen,ninety
 tyohton-yawenre,nineteen
@@ -463,7 +464,6 @@ watenon'onhseronte,baked squash
 watya'tarahkwa,envelope
 wehsènrate,pink
 wihson kahik,plum
-Wishkatont,Friday
 wisk,five
 wisk-niwahsen,fifty
 wisk-niwahsen-wisk,fifty-five
@@ -471,8 +471,6 @@ wisk-yawenre,fifteen
 yakohonhtariks,bat
 yakohsatens,horse
 yaote,windy: it is ~
-Yawentatokenhton,Sunday
-Yawententa'onh,Monday
 yayak,six
 yayak-niwahsen,sixty
 yayak-yawenre,sixteen
@@ -523,3 +521,5 @@ yotitsheronnyàtha,teapot
 yotsihkwatskàra,radish
 yoweron,thundering: it is ~
 yowisarhon,sleeting: it is ~
+àthere,basket
+àyok,huckleberries

@@ -39,10 +39,10 @@ Bolifia,Bolivia
 Bolifia,Republic of Bolivia
 Bosna a Hercegovina,Bosnia and Herzegovina
 Bosna a Hercegovina,Republic of Bosnia and Herzegovina
-Bosnia a Hertsegofina,Bosnia and Herzegovina
-Bosnia a Hertsegofina,Republic of Bosnia and Herzegovina
 Bosna-Hercegovina,Bosnia and Herzegovina
 Bosna-Hercegovina,Republic of Bosnia and Herzegovina
+Bosnia a Hertsegofina,Bosnia and Herzegovina
+Bosnia a Hertsegofina,Republic of Bosnia and Herzegovina
 Brasil,Brazil
 Brunei,Brunei
 Brunei,Negara Brunei Darussalam
@@ -73,18 +73,17 @@ Cymraeg,Welsh
 Cymru,Wales
 Cyprus,Cyprus
 Cyprus,Republic of Cyprus
-Côte d'Ivoire,Ivory Coast
 Côte d'Ivoire,Cote d'Ivoire
+Côte d'Ivoire,Ivory Coast
 Côte d'Ivoire,Republic of Cote d'Ivoire
 Damcaniaeth Sapir-Whorf,Sapir–Whorf hypothesis
-Hypothesis Sapir-Whorf,Sapir–Whorf hypothesis
 Daneg,Danish
 Denmarc,Denmark
 Denmarc,Kingdom of Denmark
 Djeyordjyin,Georgian
 Djeyordjyin,Georgian
-Dwyrain Timor,East Timor
 Dwyrain Timor,Democratic Republic of Timor-Leste
+Dwyrain Timor,East Timor
 Efrog Newydd,New York
 Eidal,Italian Republic
 Eidal,Italy
@@ -98,14 +97,13 @@ Estonia,Estonia
 Estonia,Republic of Estonia
 Ethiopia,Ethiopia
 Ethiopia,Federal Democratic Republic of Ethiopia
-Ffaroes,Faroese
 Ffaroes,Faeroese
+Ffaroes,Faroese
 Ffindir,Finland
 Ffindir,Republic of Finland
 Fflandrys,Flanders
 Fflandrys,Flemish region
 Ffliwt,flute
-ffliwt,flute
 Ffrainc,France
 Ffrangeg,French
 Ffrangeg,French
@@ -125,21 +123,23 @@ Georgia,Georgia
 Ghana,Ghana
 Ghana,Republic of Ghana
 Groeg,Greece
+Groeg,Greek
+Groeg,Greek
 Groeg,Hellenic Republic
-Groeg,Greek
-Groeg,Greek
 Grønland,Greenland
 Guatemala,Guatemala
 Guatemala,Republic of Guatemala
 Gwener,Venus
+Gweriniaeth Iwerddon,Ireland
+Gweriniaeth Iwerddon,Republic of Ireland
 Gweriniaeth Tsiec,Czech Republic
 Gweriniaeth Tsiec,Czechia
 Gwjarati,Gujarati
 Gwjarati,Gujarati
 Gwlad Belg,Belgium
 Gwlad Belg,Kingdom of Belgium
-Gwlad Iorddonen,Jordan
 Gwlad Iorddonen,Hashemite Kingdom of Jordan
+Gwlad Iorddonen,Jordan
 Gwlad Pwyl,Poland
 Gwlad yr Iâ,Iceland
 Gwlad yr Iâ,Republic of Iceland
@@ -149,6 +149,7 @@ Honduras,Republic of Honduras
 Hwngareg,Hungarian
 Hwngari,Hungary
 Hwngari,Republic of Hungary
+Hypothesis Sapir-Whorf,Sapir–Whorf hypothesis
 Iddewiaeth,Judaism
 India,India
 India,Republic of India
@@ -168,8 +169,6 @@ Iwcranaidd,Ukrainian
 Iwcranaidd,Ukrainian
 Iwerddon,Ireland
 Iwerddon,Republic of Ireland
-Gweriniaeth Iwerddon,Ireland
-Gweriniaeth Iwerddon,Republic of Ireland
 Jamaica,Jamaica
 Japan,Japan
 Japan,State of Japan
@@ -180,14 +179,14 @@ Kenya,Republic of Kenya
 Khartoum,Khartoum
 Kiribati,Kiribati
 Kiribati,Republic of Kiribati
-Kyrgyzstan,Kyrgyzstan
 Kyrgyzstan,Kyrgyz Republic
+Kyrgyzstan,Kyrgyzstan
 Latfia,Latvia
 Latfia,Republic of Latvia
 Latfieg,Latvian
 Latfieg,Latvian
-Lesotho,Lesotho
 Lesotho,Kingdom of Lesotho
+Lesotho,Lesotho
 Liberia,Liberia
 Liberia,Republic of Liberia
 Lithwaneg,Lithuanian
@@ -198,8 +197,6 @@ Lladin,Latin
 Lladin,Latin
 Llydaweg,Breton
 Llydaweg,Breton
-llydaweg,Breton
-llydaweg,Breton
 Macedoneg,Macedonian
 Macedoneg,Macedonian
 Macedonia,Macedonia
@@ -214,25 +211,24 @@ Mecca,Mecca
 Mehefin,June
 Monaco,Monaco
 Montenegro,Montenegro
-Moroco,Morocco
 Moroco,Kingdom of Morocco
+Moroco,Morocco
 Myanmar,Myanmar
 Môr Adria,Adriatic Sea
+Môr Aegea,Aegean Sea
 Môr Aegeaidd,Aegean Sea
 Môr Egeaidd,Aegean Sea
-Môr Aegea,Aegean Sea
 Nadolig Llawen,Merry Christmas
 Namibia,Namibia
 Neifion,Neptune
 Nepali,Nepali
 Nepali,Nepali
-Norwy,Norway
 Norwy,Kingdom of Norway
+Norwy,Norway
 Novial,Novial
 Ofari,ovary
-ofari,ovary
-Pakistan,Pakistan
 Pakistan,Islamic Republic of Pakistan
+Pakistan,Pakistan
 Panamá,Panama
 Pasg,Easter
 Periw,Peru
@@ -240,22 +236,23 @@ Periw,Republic of Peru
 Portiwgal,Portugal
 Portiwgaleg,Portuguese
 Portiwgaleg,Portuguese
-Punjabi,Punjabi
 Punjabi,Panjabi
+Punjabi,Punjabi
 Pwyleg,Polish
 Pwyleg,Polish
 Qatar,Qatar
 Rhagfyr,December
-Rwmaneg,Romanian
 Rwmaneg,Romanaian
+Rwmaneg,Romanian
 Rwmania,Romania
 Rwsieg,Russian
 Rwsieg,Russian
 Sadwrn,Saturn
+Saesneg,English
 Sansgrit,Sanskrit
 Sansgrit,Sanskrit
-Saudi Arabia,Saudi Arabia
 Saudi Arabia,Kingdom of Saudi Arabia
+Saudi Arabia,Saudi Arabia
 Sbaen,Spain
 Sbaeneg,Castilian
 Sbaeneg,Spanish
@@ -292,60 +289,53 @@ Tchad,Republic of Chad
 Togo,Togo
 Tsieceg,Czech
 Tsieceg,Czech
-Tsieina,People's Republic of China
 Tsieina,China
+Tsieina,People's Republic of China
 Twrceg,Turkish
 Twrceg,Turkish
 Twrci,Turkey
 Undeb Ewropeaidd,EU
 Undeb Ewropeaidd,European Union
+Unol Daleithiau America,America
+Unol Daleithiau America,States
+Unol Daleithiau America,U.S.
+Unol Daleithiau America,U.S. of A.
+Unol Daleithiau America,U.S.A.
+Unol Daleithiau America,US
 Unol Daleithiau America,United States
 Unol Daleithiau America,United States of America
-Unol Daleithiau America,America
-Unol Daleithiau America,US
-Unol Daleithiau America,U.S.
-Unol Daleithiau America,U.S.A.
-Unol Daleithiau America,U.S. of A.
-Unol Daleithiau America,States
 Venezuela,Venezuela
-Wganda,Uganda
 Wganda,Republic of Uganda
+Wganda,Uganda
 Wiciadur,Wiktionary
 Wicipedia,Wikipedia
 Wranws,Uranus
+Y Deyrnas Unigol,UK
 Y Deyrnas Unigol,United Kingdom
 Y Deyrnas Unigol,United Kingdom of Great Britain and Northern Ireland
-Y Deyrnas Unigol,UK
 Y Swistir,Switzerland
 Ynys Bouvet,Bouvet Island
 Ynysoedd Balearig,Balearic Islands
-Yr Aifft,Egypt
 Yr Aifft,Arab Republic of Egypt
+Yr Aifft,Egypt
 Yr Ariannin,Argentina
 Yr Ariannin,Argentine Republic
 Yr Iseldiroedd,Holland
 Yr Iseldiroedd,Kingdom of the Netherlands
 Yr Iseldiroedd,The Netherlands
-Zambia,Zambia
 Zambia,Republic of Zambia
-Zimbabwe,Zimbabwe
+Zambia,Zambia
 Zimbabwe,Republic of Zimbabwe
+Zimbabwe,Zimbabwe
 acwariwm,aquarium
-addasu,arrange
+addasu,accommodate
 addasu,adapt
 addasu,adjust
+addasu,arrange
 addasu,conform
-addasu,accommodate
 addasu,suit
-cymhwyso,arrange
-cymhwyso,adapt
-cymhwyso,adjust
-cymhwyso,conform
-cymhwyso,accommodate
-cymhwyso,suit
 afal,apple
 afanc,beaver
-llostlydan,beaver
 agoraffobia,agoraphobia
 agoraffobia,agoraphobia
 agoraffobia,agoraphobia
@@ -369,8 +359,8 @@ annibyniaeth,independence
 antimoni,antimony
 anturiaeth,adventure
 apostol,apostle
-archaeolegwr,archeologist
 archaeolegwr,archaeologist
+archaeolegwr,archeologist
 archfarchnad,supermarket
 argon,argon
 argyfwng,emergency
@@ -387,6 +377,7 @@ babwn,baboon
 banana,banana
 bannod,article
 bara,bread
+barlys,barley
 baromedr,barometer
 beic,bicycle
 beic,bike
@@ -400,14 +391,12 @@ bioamrywiaeth,biodiversity
 biocemeg,biochemistry
 bismwth,bismuth
 blog,blog
-blog,weblog
 blog,web log
+blog,weblog
 blwyddyn naid,leap year
 boron,boron
 brawychaeth,terrorism
-terfysgaeth,terrorism
 brawychwr,terrorist
-terfysgwr,terrorist
 brechiad,vaccination
 brecwast,breakfast
 brenhines,queen
@@ -437,7 +426,6 @@ cerddoriaeth,music
 cesail,armpit
 cesiwm,caesium
 ceuffordd,tunnel
-twnnel,tunnel
 cewyn,nappy
 chwistrell,syringe
 ci,dog
@@ -448,8 +436,8 @@ cobalt,cobalt
 coed,wood
 coeden,tree
 coeden Nadolig,Christmas tree
-colomen,pigeon
 colomen,dove
+colomen,pigeon
 comiwnyddiaeth,communism
 condom,condom
 condom,prophylactic
@@ -458,8 +446,8 @@ condom,safe
 condom,safety
 copr,copper
 corryn,spider
-cosb marwolaeth,death penalty
 cosb marwolaeth,capital punishment
+cosb marwolaeth,death penalty
 cosb marwolaeth,death sentence
 creadigrwydd,creativity
 creadigrwydd,inventiveness
@@ -467,21 +455,26 @@ crefydd,religion
 crëyr,heron
 cuddliw,camouflage
 cwch,boat
+cweryl,argument
 cwmwl,cloud
 cwningen,rabbit
 cwrw,beer
 cydweddiad,analogy
 cyfieithiad,translation
-trosiad,translation
 cyfraniad,donation
 cyfrif,account
 cyfrin,secret
-dirgel,secret
 cyfriniol,mysterious
 cyhydedd,equator
 cylchfa amser,timezone
-cymal,joint
 cymal,articulation
+cymal,joint
+cymhwyso,accommodate
+cymhwyso,adapt
+cymhwyso,adjust
+cymhwyso,arrange
+cymhwyso,conform
+cymhwyso,suit
 cymydog,neighbour
 cymydog,vecino
 cymynwr,lumberjack
@@ -498,31 +491,32 @@ datganiad,statement
 deintydd,dentist
 deiseb,petition
 demograffeg,demography
-dewin,wizard
-dewin,sorcerer
 dewin,magician
+dewin,sorcerer
+dewin,wizard
 dienyddiwr,executioner
 diffiniad,Definition
 diffiniad,definition
-diffynnydd,defendant
 diffynnydd,accused
+diffynnydd,defendant
 diheintydd,disinfectant
 diod,beverage
 diod,drink
 diolch,thank you
 diplomydd,diplomat
+dirgel,secret
 diwinyddiaeth,theology
 dod,come
-dyfod,come
 dolffin,dolphin
 dolur rhydd,diarrhea
 draenog,hedgehog
 drws,door
 drymiau,drum kit
 dwfr,water
+dyfod,come
 dŵr,water
-eiddo,property
 eiddo,asset
+eiddo,property
 einsteiniwm,einsteinium
 eisberg,iceberg
 enfys,rainbow
@@ -541,13 +535,17 @@ fferyllfa,chemist's shop
 fferyllfa,pharmacy
 ffesant,pheasant
 ffin,boundary
-ffliw,influenza
 ffliw,flu
+ffliw,influenza
+ffliwt,flute
 fflworin,fluorine
 ffosfforws,phosphorus
 ffosil,fossil
+ffoto,photo
+ffoto,photograph
+ffotograff,photo
+ffotograff,photograph
 ffrae,argument
-cweryl,argument
 ffransiwm,francium
 ffroen,nostril
 ffrwydrad,explosion
@@ -574,16 +572,16 @@ gormesol,aggressive
 gorwel,horizon
 gostyngiad,discount
 grawnafal,pomegranate
-gwaedlif,haemorrhage
 gwaedlif,bleeding
+gwaedlif,haemorrhage
 gwanwyn,spring
-gwe pryf cop,web
 gwe pryf cop,spider web
+gwe pryf cop,web
 gwely,bed
 gwenith,wheat
 gwenynen,bee
-gwenynwr,beekeeper
 gwenynwr,apiculturist
+gwenynwr,beekeeper
 gwerthfawr,valuable
 gwinllan,vineyard
 gwyddbwyll,chess
@@ -600,7 +598,9 @@ haearn,iron
 hafaliad,equation
 haffniwm,hafnium
 haidd,barley
-barlys,barley
+hawdd,easy
+hawdd,like shooting fish in a barrel
+hawdd,piece of cake
 heddychwr,pacifist
 heliwm,helium
 hierarchiaeth,hierarchy
@@ -622,40 +622,36 @@ jacal,jackal
 jad,jade
 jazz,jazz
 krupton,krypton
-lafant,lavender
 lafant,lavander
+lafant,lavender
 lantern,lantern
 lanthanwm,lanthanum
 lawrenciwm,lawrencium
 lipstic,lipstick
 lithiwm,lithium
 llaeth,milk
-llefrith,milk
 llaswyr,rosary
 llawfeddyg,surgeon
 llawn,full
-lle,place
 lle,location
-llecyn,place
+lle,place
 llecyn,location
-man,place
-man,location
-mangre,place
-mangre,location
+llecyn,place
+llefrith,milk
+llopan,slipper
 llosgwr,arsonist
+llostlydan,beaver
 llun,photo
 llun,photograph
-ffotograff,photo
-ffotograff,photograph
-ffoto,photo
-ffoto,photograph
-llusen,huckleberry
 llusen,blueberry
+llusen,huckleberry
+llydaweg,Breton
+llydaweg,Breton
 llyfrgell,library
 llyfrgellydd,librarian
 llygad,eye
-llygredd,pollution
 llygredd,corruption
+llygredd,pollution
 llysgennad,ambassador
 llysieuyn,vegetable
 llysysydd,herbivore
@@ -668,18 +664,21 @@ madredd,gangrene
 magnesiwm,magnesium
 malaria,malaria
 malwr cnau,nutcracker
+man,location
+man,place
 manganîs,manganese
+mangre,location
+mangre,place
 marchog,knight
 marchog,knight
 meddiant,possession
-perchnogaeth,possession
+meicroffon,microphone
 mel,honey
 mendelefiwm,mendelevium
 mercwri,mercury
 methdaliad,bankruptcy
 metronom,metronome
 microffon,microphone
-meicroffon,microphone
 mil,thousand
 milfeddyg,veterinarian
 milfeddyg,veterinary
@@ -688,8 +687,8 @@ mochyn cwta,guinea pig
 molybdenwm,molybdenum
 morfil,whale
 morgrugyn,ant
-mosgito,musquito
 mosgito,mosquito
+mosgito,musquito
 munud,minute
 mwyalchen,blackbird
 mynawyd y bugail,geranium
@@ -702,6 +701,7 @@ niobiwm,niobium
 nitrogen,nitrogen
 nobeliwm,nobelium
 ocsiwn,auction
+ofari,ovary
 offeryn cerdd,instrument
 offeryn cerdd,musical instrument
 opiwm,opium
@@ -721,18 +721,19 @@ paleontoleg,palaeontology
 parasiwt,parachute
 pediatrydd,paediatrician
 pen blwydd,birthday
-penbwl,tadpole
 penbwl,polliwog
+penbwl,tadpole
 penderfyniad,decision
 penglog,skull
 pengwin,penguin
 pennod,chapter
 pensaernïaeth,architecture
+perchnogaeth,possession
 perinëwm,perineum
 pesimistiaeth,pessmism
 pibau,bagpipes
-pinwydden,pino
 pinwydden,pine
+pinwydden,pino
 platinwm,platinum
 plwm,lead
 plwtoniwm,plutonium
@@ -750,27 +751,24 @@ porslen,porcelain
 postmon,postman
 praseodiwm,praseodymium
 prelad,prelate
-prifysgol,university
-prifysgol,university
+prifysgol,academy
 prifysgol,academy
 prifysgol,university
 prifysgol,university
-prifysgol,academy
+prifysgol,university
+prifysgol,university
 problem,problem
 prostad,prostate
 protoactiniwm,protactinium
 reis,rice
 rheniwm,rhenium
-rhif cysefin,prime number
 rhif cysefin,prime
+rhif cysefin,prime number
 rhodiwm,rhodium
 rhuddem,ruby
 rhwydd,easy
-rhwydd,piece of cake
 rhwydd,like shooting fish in a barrel
-hawdd,easy
-hawdd,piece of cake
-hawdd,like shooting fish in a barrel
+rhwydd,piece of cake
 rhwystr,obstacle
 rhwystr,obstruction
 rhyddid,freedom
@@ -781,7 +779,6 @@ rwbidiwm,rubidium
 rwtheniwm,ruthenium
 rysáit,recipe
 saesneg,English
-Saesneg,English
 saethydd,archer
 saethydd,archer
 samariwm,samarium
@@ -793,20 +790,17 @@ seryddiaeth,astronomy
 seryddwr,astronomer
 sidan,silk
 sidydd,zodiac
-sigarét,cigarette
 sigaret,cigarette
+sigarét,cigarette
 silicon,silicon
 sinc,zinc
 sindrom,syndrome
 siocled,chocolate
 sliper,slipper
-llopan,slipper
 sodiwm,sodium
 stori,story
 storm,storm
 storm,tempest
-ystorm,storm
-ystorm,tempest
 strategol,strategic
 strontiwm,strontium
 swyddfa'r post,post office
@@ -815,8 +809,8 @@ sylfaenol,fundamental
 sylffwr,sulphur
 sylw,observation
 synnu,surprise
-system dreulio,gastrointestinal tract
 system dreulio,alimentary canal
+system dreulio,gastrointestinal tract
 talfyriad,abbreviation
 tantalwm,tantalum
 taran,thunder
@@ -824,6 +818,8 @@ te,tea
 technetiwm,technetium
 tegeirian,orchid
 tegell,kettle
+terfysgaeth,terrorism
+terfysgwr,terrorist
 thaliwm,thallium
 theocrataeth,theocracy
 therapi,therapy
@@ -835,12 +831,14 @@ tomato,tomato
 toriad,fracture
 traddodiadol,traditional
 trigonometreg,trigonometry
-trofannau,tropics
 trofannau,torrid zone
+trofannau,tropics
+trosiad,translation
 trên,train
 tsimpansî,chimpanzee
 tun,tin
 twngsten,tungsten
+twnnel,tunnel
 twrci,turkey
 tybiaeth,assumption
 tybiaeth,supposition
@@ -851,6 +849,7 @@ tywyll,dark
 uchelgeisiol,ambitious
 unigolyn,individual
 walrws,walrus
+welsh,english
 wici,wiki
 winwynsyn,onion
 y Chwyldro Ffrengig,French Revolution
@@ -858,14 +857,15 @@ ymdrech,effort
 ymdrech,exertion
 ynganiad,pronunciation
 ysgariad,divorce
-ystrydeb,platitude
+ystorm,storm
+ystorm,tempest
 ystrydeb,cliche
 ystrydeb,cliché
+ystrydeb,platitude
 ystyriaeth,consideration
 ársenig,arsenic
 ïodin,iodine
 ócsigen,oxygen
 ŵyr,grandson
-Німеччина,Germany
 Німеччина,Federal Republic of Germany
-welsh,english
+Німеччина,Germany

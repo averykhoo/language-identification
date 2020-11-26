@@ -1,7 +1,7 @@
 Other,English
 1.,come
-آمدن,come
 ordak,duck
+persian,english
 آب,water
 آبدان,blister
 آبراهام لینکلن,Abraham Lincoln
@@ -129,13 +129,13 @@ ordak,duck
 آبسنگ,atoll
 آبی,blue
 آتش‌بازی,firework
-آجرچين,mason
 آجرچين,bricklayer
+آجرچين,mason
 آجرچين,stonemason
 آخر هفته,weekend
+آدم مست,boozer
 آدم مست,drunk
 آدم مست,drunkard
-آدم مست,boozer
 آذربایجان,Azerbaijan
 آذربایجان,Republic of Azerbaijan
 آرزومندی,thirst
@@ -151,8 +151,8 @@ ordak,duck
 آسامی,Assamese
 آسامی,Assamese
 آسان,easy
-آسان,piece of cake
 آسان,like shooting fish in a barrel
+آسان,piece of cake
 آسفالت,asphalt
 آسم,asthma
 آسمان,air
@@ -165,6 +165,7 @@ ordak,duck
 آلومینیوم,aluminium
 آلپ,Alps
 آلیاژ,alloy
+آمدن,come
 آموزش,training
 آناکوندا,anaconda
 آنتیموان,antimony
@@ -183,22 +184,19 @@ ordak,duck
 اتیوپی,Ethiopia
 اتیوپی,Federal Democratic Republic of Ethiopia
 اثاثيه‌,furniture
+اختر,star
 اخترشناسی,astronomy
 اخترفیزیک,astrophysics
 اختصار,abbreviation
-ادات سخن,part of speech
 ادات سخن,lexical category
+ادات سخن,part of speech
 ادرار,urine
-شاش,urine
-پیشاب,urine
 ارامگاه‌ بزرگ‌,mausoleum
 اربیوم,erbium
-اردن,Jordan
 اردن,Hashemite Kingdom of Jordan
+اردن,Jordan
 ارعاب گ,terrorist
-تروريست,terrorist
 اركست,orchestra
-گروه نوازندگان,orchestra
 ارمنستان,Armenia
 ارمنى,Armenian
 اریتره,Eritrea
@@ -214,8 +212,8 @@ ordak,duck
 استون,Estonian
 اسرائیل,Israel
 اسرائیل,State of Israel
-اسطوخودوس عادى,lavender
 اسطوخودوس عادى,lavander
+اسطوخودوس عادى,lavender
 اسقف,bishop
 اسقف,prelate
 اسلام,Islam
@@ -239,11 +237,12 @@ ordak,duck
 اسپرانتو,Esperanto
 اسپرانتو,Esperanto
 اسکاندیم,scandium
-اعداد اول,prime number
 اعداد اول,prime
+اعداد اول,prime number
 اف,horizon
 افریقای جنوبی,South Africa
 افيون,opium
+اكتساب,acquisition
 اكسيژن,oxygen
 الجزایر,Algeria
 الجزایر,People's Democratic Republic of Algeria
@@ -255,9 +254,9 @@ ordak,duck
 امریسیوم,americium
 امي,hope
 امير,prince
-امکان پذي,viable
-امکان پذي,viable
 امکان پذي,feasible
+امکان پذي,viable
+امکان پذي,viable
 انار,pomegranate
 انحلال,dissolution
 اندامک,organelle
@@ -273,6 +272,12 @@ ordak,duck
 انزواجويی,agoraphobia
 انسان شناس,anthropologist
 انسان شناسی,anthropology
+انطباق دادن,accommodate
+انطباق دادن,adapt
+انطباق دادن,adjust
+انطباق دادن,arrange
+انطباق دادن,conform
+انطباق دادن,suit
 انقلاب فرانسه,French Revolution
 انگبین,honey
 انگلستان,England
@@ -285,22 +290,22 @@ ordak,duck
 اوكراينى,Ukrainian
 اوکتاو,octave
 اوکراین,Ukraine
-اوگاندا,Uganda
 اوگاندا,Republic of Uganda
+اوگاندا,Uganda
+ايالات متحده امريک,America
+ايالات متحده امريک,States
+ايالات متحده امريک,U.S.
+ايالات متحده امريک,U.S. of A.
+ايالات متحده امريک,U.S.A.
+ايالات متحده امريک,US
 ايالات متحده امريک,United States
 ايالات متحده امريک,United States of America
-ايالات متحده امريک,America
-ايالات متحده امريک,US
-ايالات متحده امريک,U.S.
-ايالات متحده امريک,U.S.A.
-ايالات متحده امريک,U.S. of A.
-ايالات متحده امريک,States
 ايتاليايى,Italian
 ايتاليايى,Italian
 ايتاليايى,Russian
 ايتاليايى,Russian
-روسى,Russian
-روسى,Russian
+ايران,Iran
+ايران,Islamic Republic of Iran
 ايسلندى,Icelandic
 اينجا,here
 اپرا,opera
@@ -311,28 +316,33 @@ ordak,duck
 ایرلند,Republic of Ireland
 ایرلندی,Irish
 ایرلندی,Irish
-ایرلندی,Irish Gaelic
 ایرلندی,Irish
+ایرلندی,Irish Gaelic
 ایریدیوم,iridium
 ایسلند,Iceland
 ایسلند,Republic of Iceland
 ایندیوم,indium
 اینشتینیوم,einsteinium
-بارور کردن,fertilisation
 بارور کردن,fecundation
+بارور کردن,fertilisation
 باريوم,barium
 بازار,market
 بازار,marketplace
 بازرگان,merchant
-باستان شناس,archeologist
 باستان شناس,archaeologist
+باستان شناس,archeologist
 باغبان,gardener
 بالگرد,helicopter
 بحرین,Bahrain
 بخت آزمایی,lottery
 بدمینتون,badminton
-بدهکار کردن,debit
 بدهي,debit
+بدهکار کردن,debit
+براروسی,Belarusan
+براروسی,Belarusan
+براروسی,Belarusian
+براروسی,Belorussian
+براروسی,Byelorussian
 برتونی,Breton
 برتونی,Breton
 برج ایفل,Eiffel Tower
@@ -346,7 +356,6 @@ ordak,duck
 بریلیوم,beryllium
 بریلیوم,glucinium
 بزه,crime
-جرم,crime
 بستر,bed
 بلاروس,Belarus
 بلاروس,Republic of Belarus
@@ -355,11 +364,6 @@ ordak,duck
 بلروسى,Belarusian
 بلروسى,Belorussian
 بلروسى,Byelorussian
-براروسی,Belarusan
-براروسی,Belarusan
-براروسی,Belarusian
-براروسی,Belorussian
-براروسی,Byelorussian
 بلغارستان,Bulgaria
 بلغارستان,Republic of Bulgaria
 بلغاری,Bulgarian
@@ -370,8 +374,8 @@ ordak,duck
 بلور,crystal
 بلگراد,Belgrade
 بلیز,Belize
-بمبئی,Mumbai
 بمبئی,Bombay
+بمبئی,Mumbai
 بنيادى,fundamental
 بنگلادش,Bangladesh
 بنگلادش,People's Republic of Bangladesh
@@ -401,9 +405,10 @@ ordak,duck
 تاتار,Tatar
 تاجيکستان,Tajikistan
 تاجيکی,Tajik
-تار عنکبوت,web
-تار عنکبوت,spider web
 تار عنکبوت,cobweb
+تار عنکبوت,spider web
+تار عنکبوت,web
+تاكستان‌,vineyard
 تاميل,Tamil
 تاميل,Tamil
 تامين آب,water supply
@@ -412,7 +417,6 @@ ordak,duck
 تايلندى,Thai
 تايلندى,Thai
 تاکستان,vineyard
-تاكستان‌,vineyard
 تاگالوگ,Tagalog
 تایلند,Thailand
 تبل,drum kit
@@ -424,12 +428,14 @@ ordak,duck
 ترجمه,translation
 تركى,Turkish
 تركى,Turkish
+تروريست,terrorist
 تروريسم,terrorism
 ترومبون,trombone
 ترومپت,trumpet
 ترکیه,Turkey
 ترگمان,interpreter
 تسبیح,rosary
+تصميم,decision
 تقلا,effort
 تقلا,exertion
 تقویم گرگوری,Gregorian calendar
@@ -440,10 +446,10 @@ ordak,duck
 تنگستن,tungsten
 تهران,Tehran
 تهويه‌,ventilation
-ته‌رّاکوتّ,terracotta
-ته‌رّاکوتّ,terracotta
-ته‌رّاکوتّ,terracotta
 ته‌رّاکوتّ,terra cotta
+ته‌رّاکوتّ,terracotta
+ته‌رّاکوتّ,terracotta
+ته‌رّاکوتّ,terracotta
 تورب‌,peat
 تورنتو,Toronto
 تورینگن,Thuringia
@@ -459,22 +465,26 @@ ordak,duck
 تپه,loma
 تکنسیوم,technetium
 تیتانیوم,titanium
-تیر,arrow
 تیر,Mercury
-تیمور شرقی,East Timor
+تیر,arrow
 تیمور شرقی,Democratic Republic of Timor-Leste
+تیمور شرقی,East Timor
 ثعلب,orchid
+جادوگ,magician
+جادوگ,sorcerer
+جادوگ,wizard
 جاز,jazz
 جام,trophy
 جامائیکا,Jamaica
 جانورشناسی,zoology
 جاوايی,Javanese
-جايگاه,place
 جايگاه,location
-جاکارتا,Jakarta
-جاکارتا,Djakarta
+جايگاه,place
 جاکارتا,DKI Jakarta
+جاکارتا,Djakarta
+جاکارتا,Jakarta
 جبلالطارق,Gibraltar
+جرم,crime
 جزایر بالئارس,Balearic Islands
 جزیره بورنئو,Borneo
 جزیره بورنئو,Kalimantan
@@ -485,39 +495,30 @@ ordak,duck
 جمعيت,human population
 جمهوری اسلامی ايران,Iran
 جمهوری اسلامی ايران,Islamic Republic of Iran
-ايران,Iran
-ايران,Islamic Republic of Iran
-جمهوری دموکراتیک کنگو,Democratic Republic of the Congo
 جمهوری دموکراتیک کنگو,Congo-Kinshasa
+جمهوری دموکراتیک کنگو,Democratic Republic of the Congo
 جمهوری دومینیکن,Dominican Republic
 جمهوری چک,Czech Republic
 جمهوری چک,Czechia
 جنس شناسی,sexology
 جنوبگان,Antarctica
 جنون سرقت,kleptomania
+جنگ ايست,armistice
 جهان,world
 جودو,judo
-حادوگر,wizard
-حادوگر,sorcerer
 حادوگر,magician
-شخصی که کار هایش,wizard
-شخصی که کار هایش,sorcerer
-شخصی که کار هایش,magician
-نابغه,wizard
-نابغه,sorcerer
-نابغه,magician
-جادوگ,wizard
-جادوگ,sorcerer
-جادوگ,magician
+حادوگر,sorcerer
+حادوگر,wizard
 حراج,auction
+حرم,harem
 حريص,avaricious
 حری,harem
-حرم,harem
 حساب,account
 حنوکا,Hannukah
 حواری,apostle
 خارجی,foreign
 خارطوم,Khartoum
+خالی,empty
 خانه,home
 خانه,home
 خانه,house
@@ -526,18 +527,16 @@ ordak,duck
 خانِه,house
 خرس قطبی,polar bear
 خريد,acquisition
-اكتساب,acquisition
-خرگوش,rabbit
-خریدن,buy
-خریدن,purchase
 خريد,buy
 خريد,purchase
-خریدن,buy
-خریدن,purchase
 خريدن,buy
 خريدن,purchase
+خرگوش,rabbit
+خریدن,buy
+خریدن,buy
+خریدن,purchase
+خریدن,purchase
 خصوصيت,characteristic
-شخصيت,characteristic
 خوابیدن,sleep
 خواندن,read
 خوراکی,edible
@@ -547,9 +546,9 @@ ordak,duck
 خوشنويسی,calligraphy
 خون‌شناسی,haematology
 خوک هندی,guinea pig
+دارايی,asset
 دارايی,possession
 دارايی,property
-دارايی,asset
 دارمشتادیوم,darmstadtium
 داروخانه,chemist's
 داروخانه,chemist's shop
@@ -559,12 +558,12 @@ ordak,duck
 دامپزشک,veterinarian
 دامپزشک,veterinary
 دانشمند,scientist
-دانشگاه,university
-دانشگاه,university
+دانشگاه,academy
 دانشگاه,academy
 دانشگاه,university
 دانشگاه,university
-دانشگاه,academy
+دانشگاه,university
+دانشگاه,university
 دانماركى,Danish
 دانمارک,Denmark
 دانمارک,Kingdom of Denmark
@@ -576,23 +575,23 @@ ordak,duck
 دریای آدریاتیک,Adriatic Sea
 دریای کارائیب,Caribbean Sea
 دستمال,handkerchief
-دستگاه گوارش,gastrointestinal tract
 دستگاه گوارش,alimentary canal
+دستگاه گوارش,gastrointestinal tract
 دفنگاه زباله,landfill
-دلسوزی,pity
 دلسوزی,compassion
+دلسوزی,pity
 دلفين,dolphin
 دم پايی,slipper
-دمپايی,slipper
 دمل,acne
+دمپايی,slipper
 دندانساز,dentist
 دهش,donation
 دو قلو,twin
 دوبنیوم,dubnium
 دوتریم,deuterium
 دوجانبه,bilateral
-دوطرف,bilateral
 دوره زندگ,career
+دوطرف,bilateral
 دولت‌زدائی,anarchism
 دوچرخه,bicycle
 دوچرخه,bike
@@ -601,7 +600,6 @@ ordak,duck
 ديپلمات,diplomat
 دِرَخت,tree
 دژ,castle
-قلعه‌,castle
 دگرشکلی,allotropy
 دیدن,see
 دیرین‌شناسی,palaeontology
@@ -610,14 +608,13 @@ ordak,duck
 رادون,radon
 راديوم,radium
 رادیوم,rhodium
-راه شیری,Milky Way
 راه شیری,Galaxy
+راه شیری,Milky Way
 راهبردی,strategic
-سوق الجيشی,strategic
 راى,ballot
+رخوت,languor
 رخوت,lethargy
 رخوت,sluggishness
-رخوت,languor
 رصدخانه,observatory
 رعد,thunder
 رم,Rome
@@ -628,18 +625,20 @@ ordak,duck
 روبیدیوم,rubidium
 روتنیوم,ruthenium
 روز نامه,newspaper
+روسى,Russian
+روسى,Russian
 روسیه,Russia
 روسیه,Russian Federation
 روش,method
 روشنايي,lighting
 روكش‌,coating
-رومانى,Romanian
 رومانى,Romanaian
+رومانى,Romanian
 رومانی,Romania
 روی,zinc
 رَفتَن,go
-زامبیایا,Zambia
 زامبیایا,Republic of Zambia
+زامبیایا,Zambia
 زبان آلمانی,German
 زبان اردو,Urdu
 زبان اردو,Urdu
@@ -650,39 +649,36 @@ ordak,duck
 زبان میانجی,"Interlingua, ""Simplified"" Latin"
 زحل,Saturn
 زرافه,giraffe
-زغال‌ اخته‌,huckleberry
 زغال‌ اخته‌,blueberry
+زغال‌ اخته‌,huckleberry
 زلاند نو,New Zealand
 زمین‌ریخت‌شناسی,geomorphology
 زن,female
 زن,woman
+زنجير مارکوف,Markoff chain
+زنجير مارکوف,Markov chain
 زهره دان,gallbladder
 زیتون,olive
 زیرکونیوم,zirconium
-زیمبابوه,Zimbabwe
 زیمبابوه,Republic of Zimbabwe
-ساحل عاج,Ivory Coast
+زیمبابوه,Zimbabwe
 ساحل عاج,Cote d'Ivoire
+ساحل عاج,Ivory Coast
 ساحل عاج,Republic of Cote d'Ivoire
 ساحل‌,coast
 ساردین,sardine
 ساز,instrument
 ساز,musical instrument
-سازگار کردن,arrange
+سازگار كردن,adjust
+سازگار کردن,accommodate
 سازگار کردن,adapt
 سازگار کردن,adjust
+سازگار کردن,arrange
 سازگار کردن,conform
-سازگار کردن,accommodate
 سازگار کردن,suit
-انطباق دادن,arrange
-انطباق دادن,adapt
-انطباق دادن,adjust
-انطباق دادن,conform
-انطباق دادن,accommodate
-انطباق دادن,suit
 ساعت شماطه اى,alarm clock
-سال خورشيدي,year
 سال خورشيدي,solar year
+سال خورشيدي,year
 سال نو مبارک,Happy New Year
 سالگرد,anniversary
 ساماریوم,samarium
@@ -693,7 +689,6 @@ ordak,duck
 ساکسوفون,saxophone
 سبزيجات,vegetable
 ستاره,star
-اختر,star
 ستاره دنباله دار,comet
 سخت,difficult
 سدس,sextant
@@ -708,8 +703,8 @@ ordak,duck
 سلام,hey
 سلام,hi
 سلام,howdy
-سلمانی,hairdresser
 سلمانی,barber
+سلمانی,hairdresser
 سلنیوم,selenium
 سن پترزبورگ,Leningrad
 سن پترزبورگ,Petrograd
@@ -734,75 +729,82 @@ ordak,duck
 سودان,Sudan
 سودمند,useful
 سوزاک,gonorrhea
+سوق الجيشی,strategic
 سوپرمارکت,supermarket
 سيلاب,alluvion
 سيلاب,flood
-سيلاب,overflowing
 سيلاب,inundation
+سيلاب,overflowing
 سيماب,mercury
 سِفيد,white
-سپاسگزارى,thank you
 سپاس گزارم,thank you
+سپاسگزارى,thank you
 سگ,dog
 سیب,apple
-سیب زمینی,potato
 سیب زمینی,patato
+سیب زمینی,potato
+شاش,urine
 شامپاین,champagne
 شاهد,witness
-شـــاهد,witness
+شبان,shepherd
 شباهت,analogy
 شبكه راهي,road network
 شبه جزیره,peninsula
 شتر,dromedary
 شجره النسب,genealogy
+شخصيت,characteristic
+شخصی که کار هایش,magician
+شخصی که کار هایش,sorcerer
+شخصی که کار هایش,wizard
 شراب,wine
 شرايط و خصوصيات آتشفشانی,volcanism
-شركت,firm
+شركت,company
 شركت,corporation
 شركت,enterprise
-شركت,company
+شركت,firm
 شركت,venture
 شطرنج,chess
 شغال,jackal
+شـــاهد,witness
 شكار,hunting
 شمشیر,sword
 شمع,candle
 شمعدانی عطرى,geranium
-شهاب,meteor
-شهاب,meteor
-شهاب,meteor
-شهاب,meteor
-شهاب,meteor
-شهاب,shooting star
+شهاب,falling star
+شهاب,falling star
+شهاب,falling star
+شهاب,falling star
 شهاب,falling star
 شهاب,meteor
 شهاب,meteor
 شهاب,meteor
 شهاب,meteor
 شهاب,meteor
-شهاب,shooting star
-شهاب,falling star
+شهاب,meteor
+شهاب,meteor
+شهاب,meteor
+شهاب,meteor
+شهاب,meteor
+شهاب,meteor
+شهاب,meteor
+شهاب,meteor
+شهاب,meteor
+شهاب,meteor
+شهاب,meteor
+شهاب,meteor
+شهاب,meteor
+شهاب,meteor
+شهاب,meteor
 شهاب,meteor
 شهاب,meteor
 شهاب,meteor
 شهاب,meteor
 شهاب,meteor
 شهاب,shooting star
-شهاب,falling star
-شهاب,meteor
-شهاب,meteor
-شهاب,meteor
-شهاب,meteor
-شهاب,meteor
 شهاب,shooting star
-شهاب,falling star
-شهاب,meteor
-شهاب,meteor
-شهاب,meteor
-شهاب,meteor
-شهاب,meteor
 شهاب,shooting star
-شهاب,falling star
+شهاب,shooting star
+شهاب,shooting star
 شهابسنگ,meteorite
 شيرماهی,walrus
 شَخص,person
@@ -812,7 +814,6 @@ ordak,duck
 صبحانه,breakfast
 صحرا,sahara
 صحنه,stage
-منصة,stage
 صربستان و مونته‌نگر,Serbia and Montenegro
 صريح,explicit
 صفت,adjective
@@ -821,50 +822,47 @@ ordak,duck
 صفرا,bile
 صلح جو,pacifist
 صلح موقّت,armistice
-جنگ ايست,armistice
 صورت فلکی,constellation
 صَفحِه,page
-صِفر,zero
 صِفر,null
+صِفر,zero
 طبقه,category
 طبقه زي,basement
+طلا,gold
 طلاق,divorce
 ط‌لا,gold
-طلا,gold
 عبرى,Hebrew
 عراق,Iraq
 عراق,Republic of Iraq
-عربستان سعودی,Saudi Arabia
 عربستان سعودی,Kingdom of Saudi Arabia
+عربستان سعودی,Saudi Arabia
 عربى,Arabic
 عربى,Standard Arabic
 عزم,decision
-تصميم,decision
 عصب‌شناسی,neurology
 عفونت,infection
 عيد پاک,Easter
 عینک,glasses
 عینک,spectacles
 غير مستعمل,obsolete
+فارسی,Farsi
 فارسی,Persian
 فارسی,Western Farsi
-فارسی,Farsi
 فانوس,lantern
 فاگوت,bassoon
 فرار کردن,abhor
-فرار کردن,loathe
 فرار کردن,detest
+فرار کردن,loathe
 فرانسه,France
 فرانسوى,French
 فرانسوى,French
 فرانسوى,francium
 فرانسیوم,francium
-فرایند مارکف,Markov chain
 فرایند مارکف,Markoff chain
-زنجير مارکوف,Markov chain
-زنجير مارکوف,Markoff chain
+فرایند مارکف,Markov chain
 فردا,tomorrow
 فرزند خواندگي,adoption
+فرش,carpet
 فرض,assumption
 فرض,supposition
 فرماندار,governor
@@ -891,7 +889,6 @@ ordak,duck
 قاصدک,dandelion
 قاطر,mule
 قالی,carpet
-فرش,carpet
 قانقاري,gangrene
 قاهره,Cairo
 قایق,boat
@@ -901,15 +898,18 @@ ordak,duck
 قدرت خلاق,inventiveness
 قربانی,sacrifice
 قرض,debt
-قرقیزستان,Kyrgyzstan
 قرقیزستان,Kyrgyz Republic
+قرقیزستان,Kyrgyzstan
 قره‌باغ,Nagorno-Karabakh
 قزاقستان,Kazakhstan
 قزاقستان,Republic of Kazakhstan
 قطار,train
 قلع,tin
+قلعه‌,castle
 قوزک پا,ankle
 قوزک پا,talocrural joint
+كاج‌,pine
+كاج‌,pino
 كارب,user
 كاف,heathen
 كاف,infidel
@@ -920,15 +920,15 @@ ordak,duck
 كر,deaf
 كشت,cultivation
 كشت,tillage
-كليشه,platitude
 كليشه,cliche
 كليشه,cliché
-كودتا,putsch
+كليشه,platitude
 كودتا,coup d'état
+كودتا,putsch
 كوره,oven
 كوره‌,furnace
-لائوس,Laos
 لائوس,Lao People's Democratic Republic
+لائوس,Laos
 لائوسی,Lao
 لائوسی,Lao
 لاتویا,Latvia
@@ -940,8 +940,8 @@ ordak,duck
 لاک‌پشت,tortoise
 لاگوس,Lagos
 لبخند,smile
-لسوتو,Lesotho
 لسوتو,Kingdom of Lesotho
+لسوتو,Lesotho
 لغتنامه,dictionary
 لغوطلب,abolitionist
 لنگر,anchor
@@ -951,13 +951,13 @@ ordak,duck
 لوکوموتي,locomotive
 ليتوانيايی,Lithuanian
 ليتوانيايی,Lithuanian
-ليمبورگی,Limburgish
 ليمبورگی,Limburgian
+ليمبورگی,Limburgish
 لیبرالیسم,liberalism
 لیبریا,Liberia
 لیبریا,Republic of Liberia
-لیبی,Libya
 لیبی,Great Socialist People's Libyan Arab Jamahiriya
+لیبی,Libya
 لیتوانی,Lithuania
 لیتوانی,Republic of Lithuania
 لیتیوم,lithium
@@ -965,10 +965,10 @@ ordak,duck
 مائورى,Maori
 ماداگاسکار,Madagascar
 ماداگاسکار,Republic of Madagascar
-مادرزن,mother-in-law
 مادرزن,mother in law
-مادرى,motherhood
+مادرزن,mother-in-law
 مادرى,maternity
+مادرى,motherhood
 مالاري,malaria
 مالاوی,Malawi
 مالاوی,Republic of Malaŵi
@@ -985,8 +985,8 @@ ordak,duck
 مایونز,mayonnaise
 متافیزیک,metaphysics
 متانول,methanol
-متهم,defendant
 متهم,accused
+متهم,defendant
 مثبت گرایی,optimism
 مثبت گرایی,optimism
 مثبت گرایی,optimism
@@ -999,8 +999,8 @@ ordak,duck
 مجارستان,Hungary
 مجارستان,Republic of Hungary
 مجارستانى,Hungarian
-مجازات اعدام,death penalty
 مجازات اعدام,capital punishment
+مجازات اعدام,death penalty
 مجازات اعدام,death sentence
 مجله,journal
 مجله,mag
@@ -1009,43 +1009,45 @@ ordak,duck
 محصول,harvest
 مداد,pencil
 مديريت,management
-مراکش,Morocco
 مراکش,Kingdom of Morocco
+مراکش,Morocco
 مرتع‌,pasture
 مرغ,chicken
-مركب,compound
 مركب,chemical compound
+مركب,compound
 مس,copper
 مساعده,advance
 مسکو,Moscow
-مشاجره,argument
 مشاجرة,argument
+مشاجره,argument
 مشاهده,observation
+مشروب,beverage
+مشروب,drink
 مشک,problem
-گرفتاری,problem
-مص,Egypt
 مص,Arab Republic of Egypt
+مص,Egypt
 مصالحِ ساختنِ بنا,covering
 مصالحِ ساختنِ بنا,roofing
 معادله,equation
 معمار,architect
-مفصل,joint
 مفصل,articulation
+مفصل,joint
 مقاطعه کار,entrepreneur
 مقدونی,Macedonian
 مقدونی,Macedonian
 ملاحظه,consideration
 ملقمه,amalgam
-مملکت المان,Germany
 مملکت المان,Federal Republic of Germany
+مملکت المان,Germany
 مندلویوم,mendelevium
+منصة,stage
 منطقه زمانی,timezone
 مننژیت,meningitis
 منگنز,manganese
 منیزیوم,magnesium
 مورچه,ant
-موریتانی,Mauritania
 موریتانی,Islamic Republic of Mauritania
+موریتانی,Mauritania
 موز,banana
 موزامبیک,Mozambique
 مولداوی,Moldova
@@ -1054,7 +1056,6 @@ ordak,duck
 مونته‌نگرو,Montenegro
 ميز,table
 ميزان كردن,adjust
-سازگار كردن,adjust
 ميكروفون,microphone
 ميمون آدموار,chimpanzee
 ميکروسکوپ,macroscopic
@@ -1065,6 +1066,9 @@ ordak,duck
 میتنریوم,meitnerium
 میلاد مسیح مبارک باد,Merry Christmas
 نئودیمیم,neodymium
+نابغه,magician
+نابغه,sorcerer
+نابغه,wizard
 ناتالی,Zulu
 ناف,belly button
 ناف,bellybutton
@@ -1076,10 +1080,10 @@ ordak,duck
 نانوا,baker
 ناهی,Venus
 نت,note
-نروژ,Norway
 نروژ,Kingdom of Norway
-نشانه‌شناسی,semiotics
+نروژ,Norway
 نشانه‌شناسی,semiology
+نشانه‌شناسی,semiotics
 نغمه,melody
 نغمه,tune
 نقره,silver
@@ -1087,8 +1091,6 @@ ordak,duck
 نوشتن,write
 نوشيدنی,beverage
 نوشيدنی,drink
-مشروب,beverage
-مشروب,drink
 نوه,grandson
 نپال,Nepal
 نپتون,Neptune
@@ -1108,6 +1110,7 @@ ordak,duck
 هافنیوم,hafnium
 هاکی روی یخ,ice hockey
 هرويين,heroin
+هرگز,anytime
 هستی‌شناسی,ontology
 هض,digestion
 هلند,Holland
@@ -1118,21 +1121,19 @@ ordak,duck
 هم,ohm
 همساي,neighbour
 همساي,vecino
-همه‌پرسی,referendum
 همه‌پرسی,plebiscite
+همه‌پرسی,referendum
 همیشه,anytime
-هرگز,anytime
 هند,India
 هند,Republic of India
 هندوراس,Honduras
 هندوراس,Republic of Honduras
-هندی,Hindi
-هندی,Hindi
 هندى,Hindi
 هندى,Hindi
+هندی,Hindi
+هندی,Hindi
 هواسنج,barometer
 هورمن,hormone
-ورمون,hormone
 هولمیوم,holmium
 هِزار,thousand
 هیدروژن,hydrogen
@@ -1143,11 +1144,14 @@ ordak,duck
 والوونی,Walloon
 والیبال,volleyball
 وانادیوم,vanadium
+واژه,word
+واژِه,word
 وایومینگ,Wyoming
 وب نوشت,blog
-وب نوشت,weblog
 وب نوشت,web log
+وب نوشت,weblog
 ورشكستگی,bankruptcy
+ورمون,hormone
 ورود,enter
 وظيفه,assignment
 ولاپوک,Volapük
@@ -1165,10 +1169,9 @@ ordak,duck
 يونانى,Greek
 پا,leg
 پاراشوت,parachute
-چتر نجات,parachute
 پاناما,Panama
-پاکستان,Pakistan
 پاکستان,Islamic Republic of Pakistan
+پاکستان,Pakistan
 پتاسیم,potassium
 پذيرش,acceptance
 پذيرش,credence
@@ -1181,8 +1184,8 @@ ordak,duck
 پرو,Republic of Peru
 پروانه,butterfly
 پروتاکتینیوم,protactinium
-پرورنده زنبور عسل,beekeeper
 پرورنده زنبور عسل,apiculturist
+پرورنده زنبور عسل,beekeeper
 پرومتیوم,promethium
 پزشك متخصص اطفال,paediatrician
 پستخانه,post office
@@ -1204,7 +1207,6 @@ ordak,duck
 پوشاک بچه,nappy
 پولونیوم,polonium
 پوچ,empty
-خالی,empty
 پيش بند,apron
 پيه مونته ای,Piedmontese
 پيه مونته ای,Piedmontese
@@ -1214,21 +1216,22 @@ ordak,duck
 پُر,full
 پیاز,onion
 پیتزا,pizza
+پیشاب,urine
 پیچ,screw
 چاد,Chad
 چاد,Republic of Chad
 چاى,tea
 چای,tea
+چتر نجات,parachute
 چشم,eye
 چكى,Czech
 چكى,Czech
 چوب ب,lumberjack
 چوپان,shepherd
-شبان,shepherd
 چچنی,Chechen
 چچنی,Chechen
-چین,People's Republic of China
 چین,China
+چین,People's Republic of China
 ژاپن,Japan
 ژاپن,State of Japan
 ژاپنى,Japanese
@@ -1239,10 +1242,8 @@ ordak,duck
 ژورنالیسم,journalism
 کاتالاتی,Catalan
 کاتالاتی,Catalan
-کاج,pino
 کاج,pine
-كاج‌,pino
-كاج‌,pine
+کاج,pino
 کادمیوم,cadmium
 کاراته,karate
 کاستاریکا,Costa Rica
@@ -1254,15 +1255,15 @@ ordak,duck
 کامرون,Cameroon
 کامرون,Republic of Cameroon
 کانادا,Canada
-کانبزی,Khmer
 کانبزی,Central Khmer
+کانبزی,Khmer
 کانّادا,Kannada
 کانّادا,Kannada
 کانی‌شناسی,mineralogy
 کاکتوس,cactus
 کبالت,cobalt
-کبوتر,pigeon
 کبوتر,dove
+کبوتر,pigeon
 کتابدار,librarian
 کربن,carbon
 کرهای,Korean
@@ -1287,10 +1288,8 @@ ordak,duck
 کوب,Republic of Cuba
 کوریوم,curium
 کَردَن,do
-کُن,do
 کَلَمِه,word
-واژِه,word
-واژه,word
+کُن,do
 کیسه‌داران,marsupial
 کیلوگرم,kilogram
 کیمیاگری,alchemy
@@ -1310,8 +1309,10 @@ ordak,duck
 گرجستان,Georgia
 گرجستانى,Georgian
 گرجستانى,Georgian
+گرفتاری,problem
 گرو,hostage
 گروه فرشتگان نه گانه,hierarchy
+گروه نوازندگان,orchestra
 گرگ,wolf
 گرینلند,Greenland
 گزنون,xenon
@@ -1349,4 +1350,3 @@ ordak,duck
 یونان,Hellenic Republic
 ﻡﻬﺒﻤ,mysterious
 ﻭﺠﻩﻁﻠﺴ,aggressive
-persian,english

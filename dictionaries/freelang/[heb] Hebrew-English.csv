@@ -1,43 +1,6 @@
 Other,English
-adam,blush
-afa,bake
-ahav,"love (vb.), like (vb.)"
-akhal,"eat, consume"
-amar,say
-amets,"be strong, be brave, strong: be ~, brave: be ~"
-arakh,"last (vb.), take time"
-arav,"lie in wait, lurk"
-asaf,"gather, add, collect"
-asar,"jail (vb.) arrest, forbid, ban (vb.)"
-asham,"be guilty, be found guilty, guilty: be (found) ~"
-asham (b-),"be guilty, guilty: be ~"
-ava,"be willing, want, willing: be ~"
-avad,perish
-aval,"grieve, mourn"
-ayav,"be hostile, hostile: be ~"
-eh'er (l-),"be late, late: be ~"
-ibed,"destroy, lose"
-izen,balance (vb.)
-ala	cost (vb.),"ascend, go up"
-ala harbe,cost much
-amad (l-),"be about to, about: be ~ to"
-ana,"answer (vb.), reply (vb.)"
-ana al she'ela,answer a question
-aqaf,"bypass, overtake"
-arakh,"arrange, edit, organise"
-asa,"do, make"
-asha,"do, make"
-ashaq,"exploit, oppress, maltreat"
-atsar,"stop (vb. trans.), arrest (vb.), restrain"
-avad,work
-avar,"pass over, transgress"
-ayef,"be tired, tired: be ~"
-azar,"help (vb.), assist"
-azav,"leave, abandon"
-ikev,delay (vb.)
-irel (al),"appeal against, undermine"
-('),"(stands for ""alef"")"
 "("")","(stands for ""ayin"")"
+('),"(stands for ""alef"")"
 (h'),"(stands for ""h'et"")"
 (h),"(stands for ""he"")"
 (k),"(stands for ""kaf"")"
@@ -75,12 +38,13 @@ irel (al),"appeal against, undermine"
 aba,"dad, daddy"
 abir,knight
 ad,"as far as, until"
-ad-yedey,"by, by (author / creator)"
 ad ki,until
 ad she,until
+ad-yedey,"by, by (author / creator)"
+adam,blush
 adam,"man, mankind, Adam"
-adama,"earth, ground, soil, land"
 adama,"Earth, ground"
+adama,"earth, ground, soil, land"
 adamdam,reddish
 adayin,"still, yet"
 adayin lo,not yet
@@ -89,6 +53,7 @@ adom,red
 adon,"Mr., Sir, Gentleman, master"
 af,nose
 "af pa""am lo",never
+afa,bake
 afar,dust
 afarseq,peach
 afel,dark
@@ -123,7 +88,9 @@ ah'uzza,"property, possession"
 ah'va,"fraternity, brotherhood"
 ah'yan,nephew
 ah'yanit,niece
+ahav,"love (vb.), like (vb.)"
 akh,but
+akhal,"eat, consume"
 akhbar,mouse
 akhshav,now
 akhshayv,now
@@ -132,6 +99,8 @@ al ken,therefore
 al lo davar!,"you are welcome!, welcome: you are ~ !"
 al pe,"by heart, orally"
 al yad,"near, by the side of, next to"
+ala	cost (vb.),"ascend, go up"
+ala harbe,cost much
 aliya,immigration (to Israel)
 alligator,alligator
 alluf,tribal chief
@@ -143,16 +112,21 @@ alqey,moose
 aluf,"champion, general (n.)"
 am,"people, nation"
 am yisra'el,"the people of Israel, people: the ~ of Israel"
+amad (l-),"be about to, about: be ~ to"
+amar,say
 amen,"Amen, so be it"
 ameriqa,America
 ameriqani,American (adj.)
 ameriqanit,American (n.)
 amet,"fidelity, truth"
+amets,"be strong, be brave, strong: be ~, brave: be ~"
 amharit,Amharic (language)
 amits,brave
 amna,truly
 amud,"page, pillar, column"
+ana,"answer (vb.), reply (vb.)"
 ana,please
+ana al she'ela,answer a question
 anaf,branch
 anah'a,sight
 anakh,vertical
@@ -171,13 +145,17 @@ anya,ship
 aon,"offense, guilt"
 apim,noses
 april,April
+aqaf,"bypass, overtake"
 arabit,Arabic (language)
+arakh,"arrange, edit, organise"
+arakh,"last (vb.), take time"
 aramit,Aramaic (language)
 arar,curse (vb.)
+arav,"lie in wait, lurk"
 "arav hassa""udit",Saudi Arabia
 "arba""","four (f.), 4"
-"arba""-esre","fourteen (f.), 14"
 "arba"" me'ot",400
+"arba""-esre","fourteen (f.), 14"
 "arba""a","four (m.), 4"
 "arba""a-asar","fourteen (m.), 14"
 "arba""at alafim",4000
@@ -198,11 +176,18 @@ aruh'at-erev,dinner
 arukh,long
 arvut,bail
 arye,lion
+asa,"do, make"
 asaf,collect
+asaf,"gather, add, collect"
+asar,"jail (vb.) arrest, forbid, ban (vb.)"
 asar,"jail, arrest"
 asara,"ten (m.), 10"
 asefa,meeting
 aseret alafim,"10000, ten thousand"
+asha,"do, make"
+asham,"be guilty, be found guilty, guilty: be (found) ~"
+asham (b-),"be guilty, guilty: be ~"
+ashaq,"exploit, oppress, maltreat"
 ashem,guilty
 asher,"that, which, who, whom"
 ashir,rich
@@ -222,6 +207,7 @@ aten,you (fem. pl.)
 atid,"future (n.), future tense"
 atidi,furute (adj.)
 atsar,accumulate
+atsar,"stop (vb. trans.), arrest (vb.), restrain"
 atsel,lazy
 atsira,arrest (n.)
 atsma,herself
@@ -238,8 +224,13 @@ atsmo,himself
 atsuv,sad
 av,father
 av h'odeg,step-father
+ava,"be willing, want, willing: be ~"
+avad,perish
+avad,work
 aval,"but, however"
+aval,"grieve, mourn"
 avaq,dust
+avar,"pass over, transgress"
 avar,"past, past tense"
 avats,zinc
 aven,trouble
@@ -248,18 +239,22 @@ avir,air
 aviv,spring
 avoda,"job, work, service"
 ayal,"deer, elk"
+ayav,"be hostile, hostile: be ~"
 aye,where
+ayef,"be tired, tired: be ~"
 ayf,tired
 ayin,eye
 ayit,eagle
 az,"so, then, therefore, thus, at that point"
+azar,"help (vb.), assist"
+azav,"leave, abandon"
 aziqim,handcuffs (pl.)
 azkhara,memorial
-ba',come
 "ba""al","husband, owner, possessor"
 "ba""al malon",innkeeper
 "ba""ar","comsume, burn"
 "ba""at",kick (vb.)
+ba',come
 babayt,"at home, home, in the house"
 bad,cloth
 badaq,"inspect, check (vb.), verify"
@@ -306,9 +301,9 @@ bashana haba'a,next year
 bashavua' haba',next week
 bashel,mature
 bat,"daughter, girl, maiden"
-bat-dod,cousin (f.)
 bat kama at?,How old are you (f.)?
 bat kama... ?,how old is ...? (f.)
+bat-dod,cousin (f.)
 batey,houses of
 batey-kneset,synagogues
 batey-sefer,schools
@@ -322,12 +317,12 @@ bayn,interval
 bayt,"house, home, family"
 baza,despise
 bazaz,"loot (vb.), plunder (vb.), pillage (vb.)"
-be'emet,"indeed, really, trully"
-be'er,well (of water)
-"be'oto harega""",at that moment
 "be""ad",in exchange for
 "be""aya",problem
 "be""eyney",in the eyes of
+be'emet,"indeed, really, trully"
+be'er,well (of water)
+"be'oto harega""",at that moment
 bedil,tin
 bedolah',crystal
 begafo,on his own
@@ -337,10 +332,10 @@ behatslah'a,Good luck!
 behatslah'a!,good luck!
 beliz,Belize
 ben,son
-ben-dod,cousin (m.)
 ben kama ata?,How old are you (m.)?
 ben kama...?,how old is ...? (m.)
 ben nekhar,foreigner
+ben-dod,cousin (m.)
 beqarov,"soon, shortly"
 beqerev,among
 beqol,aloud
@@ -424,8 +419,8 @@ bshimh'a raba,"with great joy, gladly"
 bul,stamp
 bur,cirstern
 commandment,mitsva
-da'ag (l-),care
 "da""at",knowledge
+da'ag (l-),care
 dafaq,"knock (vb.), beat (vb.)"
 dag,fish (n.)
 dalaq,burn (intransitive)
@@ -458,10 +453,10 @@ diney mishpah'a,family law
 diqduq,grammar
 dira,apartment
 do'ar,"mail, post"
-do'ar-avir,air mail
 do'ar eleqtroni,e-mail
 do'ar eqspres,express mail
 do'ar rashum,certified mail
+do'ar-avir,air mail
 dod,"uncle, beloved (n. m.), lover"
 doda,aunt
 doktor,doctor
@@ -483,6 +478,7 @@ egel,calf
 egoz,nut
 egrof,fist
 eh'ad,"one (m.), 1"
+eh'er (l-),"be late, late: be ~"
 el,"God, Lord"
 elef,"one thousand, 1000, thousand"
 elil,"God, god"
@@ -507,8 +503,8 @@ eshet-mekhirot,saleswoman
 esrim,"twenty (m. & f.), 20"
 esrim ve'eh'ad,"twenty-one (m.), 21"
 essim ve'ah'at,"twenty-one (f.), 21"
-et,"with, pen, time"
 et,(sign of the definite accustaive)
+et,"with, pen, time"
 etmol,yesterday
 ets,"tree, wood"
 etsa,advice
@@ -631,8 +627,8 @@ h'am,"hot, warm"
 h'amal,"show compassion, spare (vb.), pity (vb.)"
 h'amas,violence
 h'amesh,"five (f.), 5"
-h'amesh-esre,"fifteen (f.), 15"
 h'amesh me'ot,500
+h'amesh-esre,"fifteen (f.), 15"
 h'ameshet alafim,5000
 h'amisha,"five (m.), 5"
 h'amisha-asar,"fifteen (m.), 15"
@@ -770,16 +766,16 @@ haya,"be, be alive, alive: be ~, live"
 haya (l-),become
 hayom,today
 haza,"see, look at"
-he'emin (b-),believe
-he'eshim,"accuse, blame (vb.)"
-he'ezin,"listen to, heed"
-he'ir,"illuminate, throw light on"
 "he""edif",prefer
 "he""eniq","grant (vb.), give"
 "he""epil (l-)",climb
 "he""erikh","appreciate, evaluate"
 "he""ez (l-)",dare
 "he""id","give evidence, bear witness"
+he'emin (b-),believe
+he'eshim,"accuse, blame (vb.)"
+he'ezin,"listen to, heed"
+he'ir,"illuminate, throw light on"
 hefer,"break (vb.), invalidate"
 heh'elit,decide
 heh'erid,"terrify, startle"
@@ -858,15 +854,15 @@ histir,"hide, conceal"
 histiyem,come to an end
 historiya,history
 hisva,camouflage
-hit'abed,commit suicide
-hit'ahev,fall in love
-hit'akhzer,"be cruel, cruel: be ~"
-hit'assef,"assemble, collect"
 "hit""alel (b-)","abuse (vb.), maltreat"
 "hit""alem (mi-)",ignore
 "hit""anen","become overcast, overcast: become ~"
 "hit""arev (b-)",interfere
 "hit""arev (im / al)",bet (vb.)
+hit'abed,commit suicide
+hit'ahev,fall in love
+hit'akhzer,"be cruel, cruel: be ~"
+hit'assef,"assemble, collect"
 hitbalbel,"become confused, confused: become ~"
 hitgorer,"live at a place, dwell, reside"
 hith'abe',"hide oneself, hide (refl.)"
@@ -949,9 +945,11 @@ i,"ile, island"
 i efshar,"it is impossible, impossible: it is ~"
 iarash,"inherit, take possession of"
 ibed,destroy
+ibed,"destroy, lose"
 ih'sun,storage
 ih'ulim,greetings
 ikar,"farmer, peasant"
+ikev,delay (vb.)
 ikev,delay (vb.)
 ilem,mute
 ilu,if (past or wish)
@@ -965,11 +963,12 @@ ina,"torment, torture"
 iparon,pencil
 ir,"city, town"
 "ir""ur",appeal
+irel (al),"appeal against, undermine"
 irland,Ireland
 ish,"man, person"
-ish-mekhirot,salesman
 ish nakhri,foreigner
 ish sheleg,snowman
+ish-mekhirot,salesman
 isha,"woman, wife"
 island,Iceland
 ita,with her
@@ -991,17 +990,18 @@ ivri,Hebrew (adj.)
 ivrit,Hebrew (language)
 iyey-bahama,Bahamas
 izen,balance
+izen,balance (vb.)
+"ka""as",be angry
+"ka""as (al)","be angry, angry: be ~"
 ka'asher,"when, at the time that..."
 ka'ele,such (m. & f. pl.)
 ka'n,here
-"ka""as",be angry
-"ka""as (al)","be angry, angry: be ~"
 kad,pitcher
 kaddursal,basketball
 kaf,"palm, tablespoon"
+kaf yad,palm
 kaf-regel,foot
 kaf-yad,"hand, palm"
-kaf yad,palm
 kafaf,bend (vb.)
 kafar,"deny, disbelieve"
 kafit,teaspoon
@@ -1150,10 +1150,6 @@ lule,if not (past)
 luv,Libya
 m-,from
 ma,"what, which"
-ma'akhal,food
-ma'as,"loathe, despise"
-ma'i,May
-ma'or,"source of light, light"
 "ma ha""inyanim?",How are things?
 "ma hasha""a?","what time is it?, time: what ~ is it?"
 "ma nishma""?",How are things?
@@ -1175,6 +1171,10 @@ ma tov!,How good!
 "ma""boret",ferry
 "ma""boret-h'alal",space shuttle
 "ma""iyan","well (n.), spring (of water), fountain"
+ma'akhal,food
+ma'as,"loathe, despise"
+ma'i,May
+ma'or,"source of light, light"
 mad'an,scientist
 madad,"measure (vb.), try on"
 "madua""",why? for what reason?
@@ -1262,6 +1262,12 @@ mazzal-sartan,Cancer (astr.)
 mazzal-shor,Taurus (astr.)
 mazzal-tale,Aries (astr.)
 mazzal-te'omim,Gemini (astr.)
+"me""anyen",interesting
+"me""at","a little, little (adv.)"
+"me""atim",few (m.)
+"me""atot",few (f.)
+"me""il","coat, jacket"
+"me""unan",cloudy
 me'a,"one hundred, 100, hundred"
 me'amen,"trainer, coach"
 me'an,"where from, from where"
@@ -1270,12 +1276,6 @@ me'od,very
 me'uh'ar,late (adj & adv.)
 me-,from
 me-az,"from then on, ever since"
-"me""anyen",interesting
-"me""at","a little, little (adv.)"
-"me""atim",few (m.)
-"me""atot",few (f.)
-"me""il","coat, jacket"
-"me""unan",cloudy
 medina,state (political)
 medinat yisra'el,State of Israel
 mefaqed,commander
@@ -1306,8 +1306,8 @@ met,"dead, die"
 metsah',forhead
 meyman,hydrogen
 meyuh'ad,special
-mezeg-avir,weather
 "mezeg ha""avir",weather
+mezeg-avir,weather
 mi,who
 mi-,from
 mida,measurement
@@ -1428,7 +1428,6 @@ mutar,"permissible, permitted"
 muziqa,music
 mzuman,cash
 na,please
-na'af,commit adultery
 "na""al","shoe, put on (shoes / sandals / boots)"
 "na""aley-hit""amlut","sneakers, tennis shoes"
 "na""am","be pleasant, pleasant: be ~"
@@ -1437,6 +1436,7 @@ na'af,commit adultery
 "na""arha","girl, teenager"
 "na""im",pleasant
 "na""im me'od",Nice meeting you!
+na'af,commit adultery
 nadah',"drive out, banish"
 nadar,"vow (vb.), make a vow"
 nafal,fall (vb.)
@@ -1474,11 +1474,11 @@ natsig,repreentative
 navah',bark (vb.)
 navi,prophet
 nazon (al),"be fed, fed: be ~"
-ne'eman,"be faithful, be steady, faithful: be ~"
-ne'um,declaration
 "ne""edar","be missing, missing: be ~"
 "ne""elam",disappear
 "ne""elav","be insulted, insulted: be ~"
+ne'eman,"be faithful, be steady, faithful: be ~"
+ne'um,declaration
 "nega""","stroke, plague"
 neged,"against, opposite, before"
 negev,"Negeb, south"
@@ -1520,8 +1520,8 @@ niqhal,"assemble, convene"
 niquda,"point, dot, full stop, decimal point"
 nir'a,appear
 nisgar,"be closed, closed: be ~"
-nish'ar,"remain, be left over"
 "nish""an (al)",lean (vb.)
+nish'ar,"remain, be left over"
 nishh'at,"be corrupt, be spoiled, corrupt: be ~, spoiled: be"
 nishika,kiss (n.)
 nishmad,"be destroyed, destroyed: be ~"
@@ -1600,12 +1600,12 @@ oyev,enemy
 oz,strength
 ozen,ear
 "pa""al","do, make"
-"pa""am","once, one time"
 "pa""am","once, instance; once upon a time"
+"pa""am","once, one time"
 pada,"redeem, pay a ransom"
 "paga""","meet, hit (vb.), insult"
-pagra,vacation
 pagra,holidays
+pagra,vacation
 pah'ad,fear (vb.). be afraid
 pah'ar,fear (n.)
 pah'ot,"less, minus"
@@ -1625,8 +1625,8 @@ patah',open (vb.)
 patent,patent
 patuah',open (adj. & part.)
 pe,mouth
-pe'a,"side, edge"
 pe eh'ad,"unanimously, all at once"
+pe'a,"side, edge"
 pelah',slice
 pele,"wonder, miracle"
 pen,"lest, so that not"
@@ -1677,9 +1677,9 @@ qana,buy
 qanada,Canada
 qar,"cold, chilly"
 qara,happen
+"qara""","tear (vb.), rip"
 qara',read
 qara' (l-),"call, name"
-"qara""","tear (vb.), rip"
 qarav,draw near
 qarav (el),approach
 qarban,gift
@@ -1730,8 +1730,6 @@ qtoret,incense
 qupat h'olim,"sick fund, health fund"
 qvura,burial
 qvutsa,"group, team"
-ra'a,see
-ra'shim,heads
 "ra""","bad, evil"
 "ra""a",graze livestock
 "ra""a""","be bad, bad: be ~, be evil, evil: be ~"
@@ -1740,6 +1738,8 @@ ra'shim,heads
 "ra""av","hunger, famine, starvation"
 "ra""ev","hungry, be hungry"
 "ra""yon",idea
+ra'a,see
+ra'shim,heads
 rabi,rabbi
 rabim,many (m.)
 rabot,many (f.)
@@ -1771,8 +1771,8 @@ raqdan,dancer (m.)
 raqdanit,dancer (f.)
 raqevel,"cable car, funicular"
 raqun,raccon
-rasha'i,"permissible, permitted"
 "rasha""","villain, act wickedly"
+rasha'i,"permissible, permitted"
 rasham,registrar
 rasham h'evrot,registrar of companies
 rasham patentim,registrar of trademarks
@@ -1805,8 +1805,8 @@ rishona,"first (f.), 1st"
 rishyon,"license, permit"
 rishyon nehiga,"driver's license, license: driver's ~"
 riv,"strife, contention"
-ro'sh,head
 "ro""e",shepherd
+ro'sh,head
 "roa""","badness, wickedness"
 rofe,"physician, doctor"
 roh'av,width
@@ -1879,11 +1879,11 @@ sfarad,Spain
 sfaradit,Spanish (language)
 sfatayim,lips (usually pl.)
 sfina,"ship, boat"
-sha'af,"aspire, strive, inhale"
-sha'al,ask
 "sha""a","hour, time"
 "sha""ar","gate, gateway"
 "sha""on","clock, watch"
+sha'af,"aspire, strive, inhale"
+sha'al,ask
 shabbat,Sabbath
 shad,breast
 shadad,"destroy, spoil, ruin"
@@ -1894,8 +1894,8 @@ shah'or,black
 shah'qan,"actor, player (m.)"
 shah'qanit,"actress, player (f.)"
 shakhah',forget
-shakhav,lie down
 shakhav,"lay down, lay"
+shakhav,lie down
 shakhen,"neighbour, inhabitantdwell"
 shalah',"send, send away, stretch out"
 shalal,booty
@@ -2084,16 +2084,16 @@ sus,horse
 susa,mare
 sveder,sweater
 svedya,Sweden
-ta'arikh,"date, day of the month"
 "ta""a","err, make a mistake, go astray"
 "ta""an","claim (vb.), allege, charge battery, load (vb.)"
 "ta""im",tasty
+ta'arikh,"date, day of the month"
 tafas,"catch, seize"
 tah'ana,"station, stop"
 tah'anat h'alal,space station
 tah'at,"under, instead of, underneath, beneath"
-tah'azit mezeg ha'avir,weather forecast
 "tah'azit mezeg ha""avir","weather forecast, forecast: weather ~"
+tah'azit mezeg ha'avir,weather forecast
 tahar,"become clean, clean: become ~"
 takhshit,"jewel, jewelry"
 talmid,student (m.)
@@ -2126,16 +2126,16 @@ tayar,tourist (m.)
 tayeret,tourist (f.)
 taznut,fornication
 te,tea
-te'avon,appetite
-te'o,buffalo
-te'omim,twins (boys)
-te'omot,twins (girls)
 "te""uda",certificate
 "te""udat bagrut","matriculation certificate, registration certif."
 "te""udat leyda",birth certificate
 "te""udat mishloah'",bill of landing
 "te""udat ole","immigrant card, card: immigrant ~"
 "te""udat zehut","identity card, ID, card: identity ~"
+te'avon,appetite
+te'o,buffalo
+te'omim,twins (boys)
+te'omot,twins (girls)
 tel,hill
 telefon,"telephone, phone"
 telesqop,telescope
@@ -2176,8 +2176,8 @@ tkhelet,"light blue, blue: light ~"
 tluna,complaint
 tmanun,octopus
 tmuna,"picture, painting, image"
-to'ar,degree
 "to""eva",abomination
+to'ar,degree
 toda,"thank, thanks"
 toda b-,"admit, confess, thank"
 toda la'el!,Thank God!
@@ -2217,8 +2217,8 @@ tsalah',"succeed, prosper"
 tsallah'at,"plate, saucer"
 tsama,thirst
 tsamah',grow (plants) (tranz.)
-tsame',thirsty
 tsame',"be thirsty, thirsty: be"
+tsame',thirsty
 tsar,"enemy, narrow"
 tsara,"trouble, misfortune"
 tsaraf,"refine metal, smelt, test (vb.)"
@@ -2275,10 +2275,10 @@ where from,me'ayin
 where to,le'an
 which (f. s.),ezo
 which (m. s.),eze
-ya'khta,yacht
 "ya""an",because
 "ya""ar","forest, woods"
 "ya""ats (l-)",advise
+ya'khta,yacht
 yabasha,continent; dry land
 yabeshet,continent; dry land
 yabeshet-ant'arqtiqa,Antarctica
@@ -2342,7 +2342,6 @@ yitseg,represent
 yofi,"beauty, splendour"
 yofi!,"beautiful!, splendid!"
 yom,day
-yom-huledet,birthday
 yom h'amishi,Thursday
 yom h'ol,weekday
 "yom ha""atsma'ut",Independence Day
@@ -2353,6 +2352,7 @@ yom sheni,Monday
 yom shishi,Friday
 yom shlishi,Tuesday
 yom tov!,"Good afternoon! (lit. ""good day""), Hello!"
+yom-huledet,birthday
 yona,"dove, pigeon"
 yoresh,guilty
 yoter,more
@@ -2377,9 +2377,9 @@ zavah',slaughter
 zayt,olive
 zaz,move
 ze,"this is (m.), this (m.)"
+ze ah'arey ze,"one by one (m.), one after another (m.)"
 ze'ev,"wolf, he-wolf"
 ze'eva,"she-wolf, wolf: she-~"
-ze ah'arey ze,"one by one (m.), one after another (m.)"
 zebra,zebra
 zekher,remembrance
 "zera""","seed, descendants"
@@ -2393,9 +2393,9 @@ zkhuyot,rights
 zman,"time, tense, era"
 zman-ma,"some time, a short while"
 znut,fornication
+zo ah'arey zo,"one by one (f.), one after another (f.)"
 zo'ologiya,zoology
 zo't,"this is (f.), this (f.)"
-zo ah'arey zo,"one by one (f.), one after another (f.)"
 "zroa""",arm
 zug,"pair, couple"
 zul,cheap

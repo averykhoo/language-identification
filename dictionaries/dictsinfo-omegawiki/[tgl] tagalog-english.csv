@@ -5,8 +5,8 @@ Albania,Republic of Albania
 Aleman,German
 Aleman (Austria),German (Austria)
 Aleman (Switzerland),German (Switzerland)
-Alemanya,Germany
 Alemanya,Federal Republic of Germany
+Alemanya,Germany
 Algeria,Algeria
 Algeria,People's Democratic Republic of Algeria
 Andorra,Andorra
@@ -15,12 +15,11 @@ Angola,Angola
 Angola,Republic of Angola
 Antarctica,Antarctica
 Antigua at Barbuda,Antigua and Barbuda
-Arabyang Saudi,Saudi Arabia
 Arabyang Saudi,Kingdom of Saudi Arabia
+Arabyang Saudi,Saudi Arabia
 Arhentina,Argentina
 Arhentina,Argentine Republic
 Armenia,Armenia
-ประเทศอาร์เมเนีย,Armenia
 Aruba,Aruba
 Australia,Australia
 Australia,Commonwealth of Australia
@@ -35,6 +34,7 @@ Belgrado,Belgrade
 Belize,Belize
 Bhutan,Bhutan
 Bhutan,Kingdom of Bhutan
+Birmanya,Myanmar
 Bolivia,Bolivia
 Bolivia,Republic of Bolivia
 Borneo,Borneo
@@ -61,13 +61,16 @@ Chile,Chile
 Chile,Republic of Chile
 Cyprus,Cyprus
 Cyprus,Republic of Cyprus
-Côte d’Ivoire,Ivory Coast
 Côte d’Ivoire,Cote d'Ivoire
+Côte d’Ivoire,Ivory Coast
 Côte d’Ivoire,Republic of Cote d'Ivoire
 Dagat Adriatic,Adriatic Sea
 El Salvador,El Salvador
 El Salvador,Republic of El Salvador
 Eritrea,Eritrea
+Espanyol,Castilian
+Espanyol,Spanish
+Espanyol,Spanish
 Ethiopia,Ethiopia
 Ethiopia,Federal Democratic Republic of Ethiopia
 Finland,Finland
@@ -78,8 +81,8 @@ Gambia,Gambia
 Gambia,Gambia
 Gambia,Gambia
 Gambia,Gambia
-Gambia,The Gambia
 Gambia,Republic of The Gambia
+Gambia,The Gambia
 Georgia,Georgia
 Gresya,Greece
 Gresya,Hellenic Republic
@@ -98,10 +101,14 @@ Hungary,Republic of Hungary
 Hunyo,June
 Iceland,Iceland
 Iceland,Republic of Iceland
+Indonesia,DKI Jakarta
+Indonesia,Djakarta
 Indonesia,Indonesia
+Indonesia,Jakarta
 Indonesia,Republic of Indonesia
 Indya,India
 Indya,Republic of India
+Ingles,English
 Iran,Iran
 Iran,Islamic Republic of Iran
 Irák,Iraq
@@ -110,54 +117,47 @@ Israel,Israel
 Israel,State of Israel
 Italya,Italian Republic
 Italya,Italy
-Jakarta,Jakarta
-Jakarta,Djakarta
 Jakarta,DKI Jakarta
-Indonesia,Jakarta
-Indonesia,Djakarta
-Indonesia,DKI Jakarta
+Jakarta,Djakarta
+Jakarta,Jakarta
 Jamaica,Jamaica
-Jordan,Jordan
 Jordan,Hashemite Kingdom of Jordan
+Jordan,Jordan
 Kapuluang Balear,Balearic Islands
 Kastila,Castilian
 Kastila,Spanish
 Kastila,Spanish
-Espanyol,Castilian
-Espanyol,Spanish
-Espanyol,Spanish
 Kazakhstan,Kazakhstan
 Kazakhstan,Republic of Kazakhstan
 Kiribati,Kiribati
 Kiribati,Republic of Kiribati
-Kyrgyzstan,Kyrgyzstan
 Kyrgyzstan,Kyrgyz Republic
+Kyrgyzstan,Kyrgyzstan
 Latvia,Latvia
 Latvia,Republic of Latvia
-Lesotho,Lesotho
 Lesotho,Kingdom of Lesotho
+Lesotho,Lesotho
 Liberia,Liberia
 Liberia,Republic of Liberia
-Libya,Libya
 Libya,Great Socialist People's Libyan Arab Jamahiriya
-Lungsod ng Vatica,Vatican City
-Lungsod ng Vatica,The Holy See
+Libya,Libya
 Lungsod ng Vatica,State of the Vatican City
+Lungsod ng Vatica,The Holy See
+Lungsod ng Vatica,Vatican City
 Malawi,Malawi
 Malawi,Republic of Malaŵi
 Malaysia,Malaysia
 Maligayang Bagong Taon,Happy New Year
 Malta,Malta
 Malta,Republic of Malta
-Mauritania,Mauritania
 Mauritania,Islamic Republic of Mauritania
+Mauritania,Mauritania
 Mayotte,Mayotte
 Monaco,Monaco
 Montenegro,Montenegro
-Morocco,Morocco
 Morocco,Kingdom of Morocco
+Morocco,Morocco
 Myanmar,Myanmar
-Birmanya,Myanmar
 Namibia,Namibia
 Netherlands,Holland
 Netherlands,Kingdom of the Netherlands
@@ -166,8 +166,8 @@ New York,New York
 New Zealand,New Zealand
 Nicaragua,Nicaragua
 Olandes,Dutch
-Pakistan,Pakistan
 Pakistan,Islamic Republic of Pakistan
+Pakistan,Pakistan
 Panama,Panama
 Poland,Poland
 Portugal,Portugal
@@ -175,14 +175,14 @@ Pranses,French
 Pranses,French
 Pransya,France
 Qatar,Qatar
-Republika ng Congo,Republic of the Congo
 Republika ng Congo,Congo-Brazzaville
+Republika ng Congo,Republic of the Congo
 Satúrno,Saturn
 Senegal,Senegal
 Serbia at Montenegro,Serbia and Montenegro
 Serbya,Serbia
-Silangang Timor,East Timor
 Silangang Timor,Democratic Republic of Timor-Leste
+Silangang Timor,East Timor
 Slovakia,Slovakia
 Sri Lanka,Sri Lanka
 Sudan,Sudan
@@ -191,14 +191,14 @@ Switzerland,Switzerland
 Tagalog,Tagalog
 Tanzania,Tanzania
 Togo,Togo
-Uganda,Uganda
 Uganda,Republic of Uganda
-Zambia,Zambia
+Uganda,Uganda
 Zambia,Republic of Zambia
+Zambia,Zambia
 [olimero,polymer
 abseso,abscess
-agiw,web
 agiw,spider web
+agiw,web
 alapaap,cloud
 alkimiya,alchemy
 anime,anime
@@ -213,40 +213,43 @@ bahay,home
 bahay,home
 bahay,house
 balyéna,whale
+basahin,read
 beatipikasyon,beatification
 biyokimika,biochemistry
-biyolohiya,biology
 biyolohiya,biological science
+biyolohiya,biology
 bukas,tomorrow
 bulutong,smallpox
 bumasa,read
-basahin,read
 ekwador,equator
 embahada,ambassador
 etika,ethics
 gansa,goose
 gatas,milk
 glikolisis,glycolysis
+guyam,ant
 historiograpiya,historiography
 ilong,nose
 ingles,English
-Ingles,English
-kalapati,pigeon
+inumin,drink
+inumin,gulp
+inumin,quaff
+inumin,sip
 kalapati,dove
+kalapati,pigeon
 kalayaan,freedom
 kalayaan,liberty
 katakataka,mysterious
-kompuwesto,compound
 kompuwesto,chemical compound
+kompuwesto,compound
 langgam,ant
-guyam,ant
 mabalagsik,aggressive
 makina nang tren,locomotive
 maligayang pasko,Merry Christmas
+mayk,microphone
 medyas,sock
 metapisika,metaphysics
 mikrópono,microphone
-mayk,microphone
 museo,museum
 oksigéno,oxygen
 opisyal na wika,official language
@@ -256,8 +259,8 @@ pamilihan,supermarket
 panyo,handkerchief
 parakaida,parachute
 parol,lantern
-parusang kamatayan,death penalty
 parusang kamatayan,capital punishment
+parusang kamatayan,death penalty
 parusang kamatayan,death sentence
 pilosopiya,philosophy
 pisyolohiya,physiology
@@ -265,20 +268,17 @@ pulut-pukyutan,honey
 puno,tree
 siko,elbow
 suka,vinegar
+tagalog,english
 tiyan,stomach
-tropiko,tropics
 tropiko,torrid zone
+tropiko,tropics
 túbig,water
 ulila,orphan
 uminom,drink
 uminom,gulp
 uminom,quaff
 uminom,sip
-inumin,drink
-inumin,gulp
-inumin,quaff
-inumin,sip
 uranyo,uranium
 ópyo,opium
 புரோமித்தியம்,promethium
-tagalog,english
+ประเทศอาร์เมเนีย,Armenia

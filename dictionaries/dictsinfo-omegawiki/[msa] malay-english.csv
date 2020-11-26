@@ -17,8 +17,8 @@ Algeria,People's Democratic Republic of Algeria
 Anguilla,Anguilla
 Antartika,Antarctica
 Antigua dan Barbuda,Antigua and Barbuda
-Arab Saudi,Saudi Arabia
 Arab Saudi,Kingdom of Saudi Arabia
+Arab Saudi,Saudi Arabia
 Argentina,Argentina
 Argentina,Argentine Republic
 Armenia,Armenia
@@ -72,19 +72,19 @@ Kemboja,Cambodia
 Kemboja,Kingdom of Cambodia
 Kiribati,Kiribati
 Kiribati,Republic of Kiribati
-Kota Vatican,Vatican City
-Kota Vatican,The Holy See
 Kota Vatican,State of the Vatican City
-Kyrgyzstan,Kyrgyzstan
+Kota Vatican,The Holy See
+Kota Vatican,Vatican City
 Kyrgyzstan,Kyrgyz Republic
-Lesotho,Lesotho
+Kyrgyzstan,Kyrgyzstan
 Lesotho,Kingdom of Lesotho
+Lesotho,Lesotho
 Liberia,Liberia
 Liberia,Republic of Liberia
-Libya,Libya
 Libya,Great Socialist People's Libyan Arab Jamahiriya
-Maghribi,Morocco
+Libya,Libya
 Maghribi,Kingdom of Morocco
+Maghribi,Morocco
 Malawi,Malawi
 Malawi,Republic of Malaŵi
 Monaco,Monaco
@@ -93,10 +93,10 @@ Myanmar,Myanmar
 Namibia,Namibia
 New York,New York
 Nicaragua,Nicaragua
-Norway,Norway
 Norway,Kingdom of Norway
-Pakistan,Pakistan
+Norway,Norway
 Pakistan,Islamic Republic of Pakistan
+Pakistan,Pakistan
 Panama,Panama
 Portugal,Portugal
 Pulau Krismas,Christmas Island
@@ -110,16 +110,16 @@ Sri Lanka,Sri Lanka
 Sudan,Sudan
 Switzerland,Switzerland
 Tanzania,Tanzania
-Timor Leste,East Timor
 Timor Leste,Democratic Republic of Timor-Leste
+Timor Leste,East Timor
 Togo,Togo
 Turki,Turkey
-Uganda,Uganda
 Uganda,Republic of Uganda
+Uganda,Uganda
 Yunani,Greece
 Yunani,Hellenic Republic
-Zambia,Zambia
 Zambia,Republic of Zambia
+Zambia,Zambia
 Zuhal,Saturn
 ais,ice
 aktinium,actinium
@@ -133,6 +133,7 @@ arsenik,arsenic
 basikal,bicycle
 basikal,bike
 basikal,cycle
+belerang,sulphur
 berilium,beryllium
 berilium,glucinium
 besi,iron
@@ -140,7 +141,6 @@ bismut,bismuth
 boneka,doll
 boron,boron
 candu,opium
-madat,opium
 einsteinium,einsteinium
 emas,gold
 europium,europium
@@ -169,10 +169,12 @@ kromium,chromium
 lanthanum,lanthanum
 lebah,bee
 lutetium,lutetium
+madat,opium
 magnesium,magnesium
 makan,consume
 makan,eat
 makan,swallow
+malay,english
 mangan,manganese
 mendelevium,mendelevium
 merkuri,mercury
@@ -212,7 +214,6 @@ sesium,caesium
 silikon,silicon
 strontium,strontium
 sulfur,sulphur
-belerang,sulphur
 talium,thallium
 tantalum,tantalum
 teknetium,technetium
@@ -220,4 +221,3 @@ teologi,theology
 xenon,xenon
 zirkonium,zirconium
 കലപ്പ,plough
-malay,english

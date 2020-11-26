@@ -11,8 +11,8 @@ Carelyin,Karelian
 Cornike,Cornish
 Djibraltar,Gibraltar
 El Caire,Cairo
-Faerowès,Faroese
 Faerowès,Faeroese
+Faerowès,Faroese
 Finlande,Finland
 Finlande,Republic of Finland
 Finwès,Finnish
@@ -32,13 +32,13 @@ Malayalam,Malayalam
 Male,Malta
 Male,Republic of Malta
 Maltès,Maltese
-Marok,Morocco
 Marok,Kingdom of Morocco
+Marok,Morocco
 Mawori,Maori
-Moritanreye,Mauritania
 Moritanreye,Islamic Republic of Mauritania
-Norvedje,Norway
+Moritanreye,Mauritania
 Norvedje,Kingdom of Norway
+Norvedje,Norway
 Nouve Zelande,New Zealand
 Polonès,Polish
 Polonès,Polish
@@ -50,6 +50,11 @@ Sint Petersbork,Saint Petersburg
 Sint Petersbork,St. Petersburg
 Somalyin,Somali
 Somalyin,somali
+Stoelacêyes,Asteraceae
+Stoelacêyes,Compositae
+Stoelacêyes,aster family
+Stoelacêyes,daisy family
+Stoelacêyes,sunflower family
 Tadjik,Tajik
 Tatår,Tatar
 Tatår,Tatar
@@ -69,15 +74,15 @@ Vietnamyin,Vietnamese
 Vietnamyin,Vietnamese
 Walès,Welsh
 Walès,Welsh
-Xhmer,Khmer
 Xhmer,Central Khmer
+Xhmer,Khmer
 aiwe,water
 alfabet grek,Greek alphabet
 aroke,obstacle
 aroke,obstruction
-aréncrén,web
-aréncrén,spider web
 aréncrén,cobweb
+aréncrén,spider web
+aréncrén,web
 astronomeye,astronomy
 awousse,August
 balinne,whale
@@ -87,35 +92,30 @@ bwèsson,drink
 caligrafeye,calligraphy
 carbone,carbon
 compôzêyes,Asteraceae
-compôzêyes,sunflower family
 compôzêyes,Compositae
-compôzêyes,daisy family
 compôzêyes,aster family
-Stoelacêyes,Asteraceae
-Stoelacêyes,sunflower family
-Stoelacêyes,Compositae
-Stoelacêyes,daisy family
-Stoelacêyes,aster family
+compôzêyes,daisy family
+compôzêyes,sunflower family
 djanvî,January
 djun,June
 fornourixhaedje,obesity
 franciom,francium
 furmi,ant
 grangrin,gangrene
-gripe,influenza
 gripe,flu
+gripe,influenza
 håsse,auction
 idrodjinne,hydrogen
 istwêre,story
 laecea,milk
 lingaedje oficire,official language
 litiom,lithium
+lussimbordjwès,Luxembourgian
 lussimbordjwès,Luxembourgish
 lussimbordjwès,Luxemburgish
-lussimbordjwès,Luxembourgian
-macrea,wizard
-macrea,sorcerer
 macrea,magician
+macrea,sorcerer
+macrea,wizard
 muzike,music
 norèt,handkerchief
 noûmot,neologism
@@ -150,10 +150,10 @@ terrorisse,terrorism
 traduk'sion,translation
 trin,train
 voyale,vowel
+walloon,english
 walon,Walloon
 walon,Walloon
 wesse,wasp
 zonôze,zoonosis
 Årmenyin,Armenian
 èspwêr,hope
-walloon,english

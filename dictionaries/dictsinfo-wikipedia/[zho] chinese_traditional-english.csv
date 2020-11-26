@@ -1,25 +1,4 @@
 Other,English
-交通,Transportation
-人口統計之學,Demography
-代數,Algebra
-史,History
-宗教,Religion
-幾何,Geometry
-德國史,Germany
-戰爭,War
-技術,Technology
-拓撲學,Topology
-政治,Politics
-教育,Education
-數學,Mathematics
-果,Fruit
-社稷,Society
-紀年,Chronology
-藝術,Arts
-計學,Economics
-釋義,Disambiguation
-類,Fundamental
-香港,Hong Kong
 chinese_traditional,english
 三角函數,Trigonometric function
 三角形,Triangle
@@ -35,10 +14,13 @@ chinese_traditional,english
 亞細亞洲,Asia
 亡,Death
 交換群,Abelian group
+交通,Transportation
 交集,Intersection
 京,Capital
 人口,Population
+人口統計之學,Demography
 仁川,Incheon
+代數,Algebra
 代數學,Algebra
 代數數,Algebraic number
 伊比利半島,Iberian Peninsula
@@ -69,6 +51,8 @@ chinese_traditional,english
 南海,South China Sea
 印度,India
 印度尼西亞,Indonesia
+史,History
+史,History
 史,History
 同性戀,Homosexuality
 向日葵,Sunflower
@@ -107,11 +91,13 @@ chinese_traditional,english
 夫妻,Marriage
 姓,Family name
 威爾斯王妃黛安娜,Diana
+子,Philosophy
 子集,Subset
 孔子,Confucius
 孫文,Sun Yat-sen
 宇宙,Universe
 安達曼海,Andaman Sea
+宗教,Religion
 官話,Mandarin
 實數,Real number
 尼亞加拉瀑布,Niagara Falls
@@ -129,21 +115,31 @@ chinese_traditional,english
 席德,El Cid
 平壤,Pyongyang
 幾何,Geometry
+幾何,Geometry
 度量空間,Metric space
 形而上學,Metaphysics
 征夷大將軍,Shogun
 德國,Germany
+德國史,Germany
 德語,German language
 恒星,Star
+戰爭,War
+技術,Technology
+拓撲學,Topology
 拓撲學,Topology
 捷克,Czech Republic
+政治,Politics
 教廷諸屬國,Papal States
+教育,Education
 整數,Integer
+數學,Mathematics
+數學,Mathematics
 數學,Mathematics
 文藝復興,Renaissance
 斯密亞丹,Adam Smith
 斯巴達,Sparta
 新疆,Xinjiang
+方誌,Geography
 日,Sun
 日本,Japan
 日本海,Sea of Japan
@@ -161,6 +157,7 @@ chinese_traditional,english
 木衛四,Callisto
 李斯特,Franz Liszt
 東,East
+果,Fruit
 查士丁尼一世,Justinian I
 柬埔寨,Cambodia
 格致,Science
@@ -209,6 +206,7 @@ chinese_traditional,english
 盲文,Braille
 直積,Cartesian product
 眼鏡,Glasses
+社稷,Society
 秋,Autumn
 科科斯（基林）群島,Cocos  Islands
 科西嘉,Corsica
@@ -217,6 +215,7 @@ chinese_traditional,english
 符節,Password
 粵語,Cantonese
 精靈,Fairy
+紀年,Chronology
 納米科技,Nanotechnology
 絕對值,Absolute value
 羅賓漢,Robin Hood
@@ -247,6 +246,7 @@ chinese_traditional,english
 蒜,Garlic
 蕭伯納,George Bernard Shaw
 薩達姆·海珊,Saddam Hussein
+藝術,Arts
 蝴蝶效應,Butterfly effect
 行星,Planet
 複數,Complex number
@@ -254,6 +254,7 @@ chinese_traditional,english
 西班牙,Spain
 西里爾字母,Cyrillic alphabet
 角,Angle
+計學,Economics
 詹姆斯·庫克,James Cook
 語法,Grammar
 語法學,Syntax
@@ -268,15 +269,12 @@ chinese_traditional,english
 農,Agriculture
 迦太基,Carthage
 鄂圖曼帝國,Ottoman Empire
+釋義,Disambiguation
 釋迦牟尼,Gautama Buddha
 金星,Venus
 金邊,Phnom Penh
 長城,Great Wall of China
 長毛象,Mammoth
-史,History
-子,Philosophy
-數學,Mathematics
-方誌,Geography
 阿兹特克,Aztec
 阿拉伯語,Arabic language
 阿貝爾·塔斯曼,Abel Tasman
@@ -284,8 +282,10 @@ chinese_traditional,english
 集,Set
 集論,Set theory
 離子,Ion
+類,Fundamental
 首爾,Seoul
 首長,Mayor
+香港,Hong Kong
 香港,Hong Kong
 馬丁·路德,Martin Luther
 馬來西亞,Malaysia

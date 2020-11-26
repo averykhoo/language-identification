@@ -2,30 +2,22 @@ Other,English
 -თან,alongside
 -თან,amongst
 -თან,with
--ით,alongside
--ით,amongst
--ით,with
-ერთად,alongside
-ერთად,amongst
-ერთად,with
 -თან ერთად,alongside
 -თან ერთად,amongst
 -თან ერთად,with
+-ით,alongside
+-ით,amongst
+-ით,with
 Georgia,Georgia
-ჯორჯია,Georgia
+georgian,english
 ג'אז,jazz
-ჯაზი,jazz
 აალებადი ნივთიერება,inflammable substance
 აბიჯანი,Abidjan
-აბლაბუდა,web
-აბლაბუდა,spider web
-ობობას ქსელი,web
-ობობას ქსელი,spider web
 აბლაბუდა,cobweb
-ობობას ქსელი,cobweb
+აბლაბუდა,spider web
+აბლაბუდა,web
 აბრეშუმი,silk
 აბსოლუტურად,absolutely
-უდავოდ,absolutely
 აბუჯა,Abuja
 აგვისტო,August
 აგორაფობია,agoraphobia
@@ -34,30 +26,25 @@ Georgia,Georgia
 აგორაფობია,agoraphobia
 აგრესიული,aggressive
 აგური,brick
+ადამიანი,man
 ადამიანი,person
 ადამიანის სხეული,human body
-ადგილი,place
 ადგილი,location
+ადგილი,place
 ადგილობრივი რესურსების გამოყენება,local resource utilisation
 ადვილი,easy
-ადვილი,piece of cake
 ადვილი,like shooting fish in a barrel
-იოლი,easy
-იოლი,piece of cake
-იოლი,like shooting fish in a barrel
+ადვილი,piece of cake
 ადვოკატი,lawyer
+ადმინისტრაცია,administration
+ადმინისტრაცია,direction
+ადმინისტრაცია,management
 ადრე,early
 ადრიატიკის ზღვა,Adriatic Sea
 აეროპორტი,airport
+ავადმყოფობა,affliction
 ავადმყოფობა,disease
 ავადმყოფობა,illness
-ავადმყოფობა,affliction
-სენი,disease
-სენი,illness
-სენი,affliction
-დაავადება,disease
-დაავადება,illness
-დაავადება,affliction
 ავაზა,cheetah
 ავაზა,chetah
 ავარია,accident
@@ -78,8 +65,8 @@ Georgia,Georgia
 აზერბაიჯანი,Azerbaijan
 აზერბაიჯანი,Republic of Azerbaijan
 აზერბაიჯანული,Azerbaijani
-აზერბაიჯანული,Azeri
 აზერბაიჯანული,Azerbaijani Cluster
+აზერბაიჯანული,Azeri
 აზია,Asia
 აზოტი,nitrogen
 აზრი,opinion
@@ -91,14 +78,13 @@ Georgia,Georgia
 აინშტაინიუმი,einsteinium
 აირადი მდგომარეობა,gaseous state
 აირი,gas
-გაზი,gas
 აისბერგი,iceberg
 აკვამარინი,aquamarine
 აკვარიუმი,aquarium
 აკვედუკი,aqueduct
 აკორდეონი,accordion
-აკორდეონი,squeeze box
 აკორდეონი,piano accordion
+აკორდეონი,squeeze box
 აკუმულატორი,accumulator
 აკუსტიკა,acoustics
 აკუსტიკური ფილტრი,acoustic filter
@@ -121,24 +107,23 @@ Georgia,Georgia
 ალჟირი,Algeria
 ალჟირი,People's Democratic Republic of Algeria
 ალუმინი,aluminium
+ალუმინის ჟანგი,alumina
 ალქიმია,alchemy
 ალქიმიკოსი,alchemist
 ამალგამა,amalgam
 ამბავი,story
-ისტორია,story
 ამბიციური,ambitious
-პატივმოყვარე,ambitious
 ამეთვისტო,amethyst
 ამერიკა,Americas
 ამერიკის სამოა,American Samoa
+ამერიკის შეერთებული შტატები,America
+ამერიკის შეერთებული შტატები,States
+ამერიკის შეერთებული შტატები,U.S.
+ამერიკის შეერთებული შტატები,U.S. of A.
+ამერიკის შეერთებული შტატები,U.S.A.
+ამერიკის შეერთებული შტატები,US
 ამერიკის შეერთებული შტატები,United States
 ამერიკის შეერთებული შტატები,United States of America
-ამერიკის შეერთებული შტატები,America
-ამერიკის შეერთებული შტატები,US
-ამერიკის შეერთებული შტატები,U.S.
-ამერიკის შეერთებული შტატები,U.S.A.
-ამერიკის შეერთებული შტატები,U.S. of A.
-ამერიკის შეერთებული შტატები,States
 ამერიკული ფეხბურთი,American football
 ამერიკული ფეხბურთი,American football
 ამერიციუმი,americium
@@ -148,6 +133,7 @@ Georgia,Georgia
 ამსტერდამი,Amsterdam
 ამფიბია,amphibian
 ამფითეატრი,amphitheatre
+ან,or
 ანაგრამა,anagram
 ანაკონდა,anaconda
 ანალიზი,assay
@@ -160,9 +146,10 @@ Georgia,Georgia
 ანგილია,Anguilla
 ანგოლა,Angola
 ანგოლა,Republic of Angola
+ანდა,or
+ანდაზა,maxim
 ანდაზა,proverb
 ანდაზა,saying
-ანდაზა,maxim
 ანდორა,Andorra
 ანდორა,Principality of Andorra
 ანდორის სამთავრო,Andorra
@@ -175,8 +162,8 @@ Georgia,Georgia
 ანტარქტიკის ეკოსისტემა,Antarctic ecosystem
 ანტიბიოტიკი,antibiotic
 ანტიგუა და ბარბუდა,Antigua and Barbuda
-ანტილოპები,antelope
 ანტილოპა,antelope
+ანტილოპები,antelope
 ანტისხეული,antibody
 ანტონიმი,antonym
 ანწლი,elder
@@ -185,8 +172,6 @@ Georgia,Georgia
 აპართეიდი,apartheid
 აპრილი,April
 არ,not
-ვერ,not
-ნუ,not
 არა,no
 არაბეთის გაერთიანებული საამიროები,United Arab Emirates
 არაბული,Arabic
@@ -203,8 +188,6 @@ Georgia,Georgia
 არგონი,argon
 არდადეგები,holiday
 არდადეგები,opor-garai
-შვებულება,holiday
-შვებულება,opor-garai
 არიზონა,Arizona
 არითმეტიკა,arithmetic
 არითმეტიკა,arithmetics
@@ -215,8 +198,8 @@ Georgia,Georgia
 არტიკლი,article
 არტიშოკი,artichoke
 არუბა,Aruba
-არქეოლოგი,archeologist
 არქეოლოგი,archaeologist
+არქეოლოგი,archeologist
 არქეოლოგია,archaeology
 არქეოლოგია,archeology
 არქეოლოგია,archæology
@@ -224,10 +207,9 @@ Georgia,Georgia
 არქივი,archive
 არქიპელაგი,archipelago
 არქიტექტორი,architect
-ხუროთმოძღვარი,architect
 არქიტექტურა,architecture
-ხუროთმოძღვრება,architecture
 არქტიკის ეკოსისტემა,Arctic ecosystem
+არქტიკის ოკეანე,Arctic Ocean
 არწივი,Aquila
 არხი,canal
 ასაკი,age
@@ -244,10 +226,10 @@ Georgia,Georgia
 ასტრონომი,astronomer
 ასტრონომია,astronomy
 ასტროფიზიკა,astrophysics
+ასტურიული,Astur
 ასტურიული,Astur-Leonese
 ასტურიული,Asturian
 ასტურიული,Asturian-Leonese
-ასტურიული,Astur
 ატლანტიკის ოკეანე,Atlantic Ocean
 ატლასი,atlas
 ატმოსფერო,atmosphere
@@ -274,17 +256,17 @@ Georgia,Georgia
 აქტი,act
 აქტი,deed
 აქტინიუმი,actinium
-აღდგენა,återställande
 აღდგენა,rehabilitation
-რეაბილიტაცია,återställande
-რეაბილიტაცია,rehabilitation
+აღდგენა,återställande
 აღდგომა,Easter
-აღმოსავლეთი აზია,Eastern Asia
+აღმართი,slope
 აღმოსავლეთი აზია,East Asia
+აღმოსავლეთი აზია,Eastern Asia
 აღმოსავლეთი აფრიკა,East Africa
 აღმოსავლეთი ევროპა,Eastern Europe
-აღმოსავლეთი ტიმორი,East Timor
 აღმოსავლეთი ტიმორი,Democratic Republic of Timor-Leste
+აღმოსავლეთი ტიმორი,East Timor
+აღორძინების ხანა,renaissance
 აჩქარება,acceleration
 აცრა,vaccination
 ახალი,new
@@ -295,8 +277,8 @@ Georgia,Georgia
 ახალი წელი,New Year
 ახალი წელი,New Year's Day
 ბაბუა,grandfather
-პაპა,grandfather
 ბაბუინი,baboon
+ბაგე,lip
 ბადმინტონი,badminton
 ბავარია,Bavaria
 ბავშვი,child
@@ -310,18 +292,15 @@ Georgia,Georgia
 ბალეარის კუნძულები,Balearic Islands
 ბალი,cherry
 ბამბა,cotton
-ბანაკი,camp
-ბანაკი,military camp
 ბანაკი,army camp
+ბანაკი,camp
 ბანაკი,campsite
-სამხედრო ბანაკი,camp
-სამხედრო ბანაკი,military camp
-სამხედრო ბანაკი,army camp
-სამხედრო ბანაკი,campsite
+ბანაკი,military camp
 ბანანი,banana
 ბანგლადეში,Bangladesh
 ბანგლადეში,People's Republic of Bangladesh
 ბარბადოსი,Barbados
+ბარგი-ბარხანა,goods
 ბარიუმი,barium
 ბარომეტრი,barometer
 ბასკური,Basque
@@ -333,14 +312,14 @@ Georgia,Georgia
 ბაღლინჯო,bug
 ბაღლინჯო,põrnikas
 ბაყაყი,frog
+ბაჰამის კუნძულები,Bahama Islands
 ბაჰამის კუნძულები,Bahamas
 ბაჰამის კუნძულები,Commonwealth of the Bahamas
-ბაჰამის კუნძულები,Bahama Islands
 ბაჰრეინი,Bahrain
 ბგერა,sound
 ბებერა,blister
-ბეით-ლაჰმი,Bethlehem
 ბეთლემი,Bethlehem
+ბეით-ლაჰმი,Bethlehem
 ბეისბოლი,baseball
 ბეისბოლი,baseball game
 ბელარუსი,Belarus
@@ -377,15 +356,14 @@ Georgia,Georgia
 ბერძნული ანბანი,Greek alphabet
 ბერძნული დამწერლობა,Greek alphabet
 ბეტონი,concrete
+ბზიკი,wasp
 ბიბლიოთეკა,library
 ბიზნესი,business
-კომერციული საქმიანობა,business
 ბილიკი,footpath
 ბინა,dwelling
-საცხოვრებელი,dwelling
 ბინით უზრუნველყოფის პროგრამა,housing programme
-ბიოლოგია,biology
 ბიოლოგია,biological science
+ბიოლოგია,biology
 ბიოლოგიური ანალიზი,biological analysis
 ბიოლოგიური განვითარება,biological development
 ბიოლოგიური იარაღი,biological weapon
@@ -409,19 +387,21 @@ Georgia,Georgia
 ბიუროკრატიზაცია,bureaucratisation
 ბიუჯეტი,budget
 ბიჭი,boy
-ყმაწვილი,boy
 ბლოგი,blog
-ბლოგი,weblog
 ბლოგი,web log
+ბლოგი,weblog
 ბლოკფლეიტა,recorder
 ბნელი,black
 ბნელი,dark
+ბოლი,smoke
 ბოლივია,Bolivia
 ბოლივია,Republic of Bolivia
+ბომბეი,Bombay
+ბომბეი,Mumbai
 ბორა,red kite
 ბორანი,ferry
-ბორი,boron
 ბორი,bohrium
+ბორი,boron
 ბორიუმი,bohrium
 ბორცვი,colina
 ბორცვი,hill
@@ -438,12 +418,14 @@ Georgia,Georgia
 ბოცვერი,rabbit
 ბოჭკო,fibre
 ბრაზილია,Brazil
+ბრალდებული,accused
+ბრალდებული,defendant
 ბრატისლავა,Bratislava
 ბრეტონული,Breton
 ბრეტონული,Breton
 ბრინჯი,rice
-ბრიტანეთის ინდოეთის ოკეანის ტერიტორია,British Indian Ocean Territory
 ბრიტანეთის ინდოეთის ოკეანის ტერიტორია,BIOT
+ბრიტანეთის ინდოეთის ოკეანის ტერიტორია,British Indian Ocean Territory
 ბრიუსელი,Brussels
 ბრმა,blind
 ბროკოლი,broccoli
@@ -451,10 +433,7 @@ Georgia,Georgia
 ბროწეული,pomegranate
 ბრუნეი,Brunei
 ბრუნეი,Negara Brunei Darussalam
-ნეგარა-ბრუნეი-დარუსალამის სახელმწიფო,Brunei
-ნეგარა-ბრუნეი-დარუსალამის სახელმწიფო,Negara Brunei Darussalam
 ბრძანება,order
-განკარგულება,order
 ბუვეს კუნძული,Bouvet Island
 ბულგარეთი,Bulgaria
 ბულგარეთი,Republic of Bulgaria
@@ -470,6 +449,7 @@ Georgia,Georgia
 ბურკინა ფასო,Burkina Faso
 ბურუნდი,Burundi
 ბურუნდი,Republic of Burundi
+ბურუსი,fog
 ბუტანი,Bhutan
 ბუტანი,Kingdom of Bhutan
 ბუქარესტი,Bucharest
@@ -480,29 +460,34 @@ Georgia,Georgia
 გაბონი,Gabonese Republic
 გაბორონე,Gaborone
 გაგონება,obey
-დაჯერება,obey
-დამორჩილება,obey
+გადაგვარება,degradation
+გადაზიდვა,transport
+გადაზიდვა,transportation
+გადათარგმნა,interpret
+გადათარგმნა,translate
 გადამუშავება,processing
 გადასახადი,tax
+გადატანა,transport
+გადატანა,transportation
+გადაყვანა,transport
+გადაყვანა,transportation
 გადაწყვეტილება,decision
+გადახურვა,covering
+გადახურვა,roofing
 გადოლინიუმი,gadolinium
+გაერთიანებული სამეფო,UK
 გაერთიანებული სამეფო,United Kingdom
 გაერთიანებული სამეფო,United Kingdom of Great Britain and Northern Ireland
-გაერთიანებული სამეფო,UK
-დიდი ბრიტანეთისა და ჩრდილოეთ ირლანდიის გაერთიანებული სამეფო,United Kingdom
-დიდი ბრიტანეთისა და ჩრდილოეთ ირლანდიის გაერთიანებული სამეფო,United Kingdom of Great Britain and Northern Ireland
-დიდი ბრიტანეთისა და ჩრდილოეთ ირლანდიის გაერთიანებული სამეფო,UK
-დიდი ბრიტანეთი,United Kingdom
-დიდი ბრიტანეთი,United Kingdom of Great Britain and Northern Ireland
-დიდი ბრიტანეთი,UK
 გავრცელება,distribution
 გაზაფხული,spring
 გაზეთი,newspaper
+გაზი,gas
+გათქვირებული,fat
+გათქვირებული,obese
 გაიანა,Guyana
 გაიანა,Republic of Guyana
+გაკერვა,sew
 გაკვირვება,surprise
-გაოცება,surprise
-განცვიფრება,surprise
 გაკოტრება,bankruptcy
 გალისიური,Galician
 გალისიური,Galician
@@ -515,30 +500,34 @@ Georgia,Georgia
 გამბია,Gambia
 გამბია,Gambia
 გამბია,Gambia
-გამბია,The Gambia
 გამბია,Republic of The Gambia
+გამბია,The Gambia
 გამოთქმა,pronunciation
 გამოკვლევა,research
 გამოკვლევა,test
+გამომწვარი თიხა,terra cotta
+გამომწვარი თიხა,terracotta
+გამომწვარი თიხა,terracotta
+გამომწვარი თიხა,terracotta
 გამონაკლისი,exception
+გამოსვლა,speech
+გამოსხივება,radiation
+გამოსხივება,radiations
 გამოქვაბული,cave
-მღვიმე,cave
 გამტარობა,conductivity
 გამტარობა,electrical conductivity
-ელექტროგამტარობა,conductivity
-ელექტროგამტარობა,electrical conductivity
+გამწვანება,afforestation
+გამწვანება,afforestment
+გამწვანება,tree planting
 განა,Ghana
 განა,Republic of Ghana
 განათება,lighting
 განათლება,education
-განაყოფიერება,fertilisation
 განაყოფიერება,fecundation
+განაყოფიერება,fertilisation
+განაჩენი,judgement
 განაჩენი,judgement (sentence)
 განაჩენი,sentence
-განაჩენი,judgement
-მსჯავრი,judgement (sentence)
-მსჯავრი,sentence
-მსჯავრი,judgement
 განაწილება,allocation
 განაწილება,allotment
 განაწილება,resource allotment
@@ -547,37 +536,37 @@ Georgia,Georgia
 განგაში,warning
 განგრენა,gangrene
 განვითარების მოდელი,development model
+განკარგულება,order
 განსაზღვრება,Definition
 განსაზღვრება,definition
 განტოლება,equation
+განცვიფრება,surprise
 განცხადება,declaration
 განცხადება,statement
+გაოცება,surprise
 გაჟღენთა,soaking
 გარაჟი,garage
 გარგარი,apricot
 გარემოს დაცვის ორგანიზაცია,environmental protection organisation
 გარემოს დაცვის პროგრამა,environmental programme
 გარეული ფრინველი,game
-ნადირი,game
 გარეული ცხოველი,wild animal
+გართობა,game
 გატყიანება,afforestation
-გატყიანება,tree planting
 გატყიანება,afforestment
-ტყის გაშენება,afforestation
-ტყის გაშენება,tree planting
-ტყის გაშენება,afforestment
-გამწვანება,afforestation
-გამწვანება,tree planting
-გამწვანება,afforestment
+გატყიანება,tree planting
+გაუმაძღარი,avaricious
 გაღარიბება,impoverishment
 გაყიდვა,sell
 გაყოფა,division
 გაყრა,divorce
+გაცინება,laugh
 გახსნა,dissolution
+გდრ,GDR
+გდრ,German Democratic Republic
 გეიზერი,geyser
 გემი,boat
 გემი,ship
-ხომალდი,ship
 გენეალოგია,genealogy
 გენერალი,general
 გენეტიკა,genetics
@@ -588,12 +577,10 @@ Georgia,Georgia
 გეომეტრია,geometry
 გეომორფოლოგია,geomorphology
 გერმანელი,German
-გერმანია,Germany
 გერმანია,Federal Republic of Germany
+გერმანია,Germany
 გერმანიის დემოკრატიული რესპუბლიკა,GDR
 გერმანიის დემოკრატიული რესპუბლიკა,German Democratic Republic
-გდრ,GDR
-გდრ,German Democratic Republic
 გერმანიუმი,germanium
 გერმანული,German
 გვადელუპა,Guadeloupe
@@ -616,10 +603,13 @@ Georgia,Georgia
 გიტარა,guitar
 გლაუკომა,glaucoma
 გლიკოლიზი,glycolysis
+გმადლობთ,cheers
+გმადლობთ,thank you
+გმადლობთ,thanks
 გოგირდი,sulphur
+გოგირდის დიოქსიდი,sulphur dioxide
 გოგირდის კონცენტრაცია,sulphur concentration
 გოგირდის ორჟანგი,sulphur dioxide
-გოგირდის დიოქსიდი,sulphur dioxide
 გოგო,girl
 გოგონა,girl
 გოლფი,golf
@@ -629,8 +619,8 @@ Georgia,Georgia
 გორილა,gorilla
 გრავირება,etching
 გრავიტონი,graviton
-გრამატიკა,grammer
 გრამატიკა,grammar
+გრამატიკა,grammer
 გრანიტი,granite
 გრდემლი,anvil
 გრენადა,Grenada
@@ -638,98 +628,92 @@ Georgia,Georgia
 გრენლანდიური,Kalaallisut
 გრიგალი,storm
 გრიგალი,tempest
-ქარიშხალი,storm
-ქარიშხალი,tempest
 გრიგორიანული კალენდარი,Gregorian calendar
-გრიპი,influenza
 გრიპი,flu
+გრიპი,influenza
 გუამი,Guam
 გუამი,Guam
 გუამი,Guam
 გუბე,pool
 გუბე,puddle
 გუბე,puddle
-ტბორი,pool
-ტბორი,puddle
-ტბორი,puddle
 გუბერნატორი,governor
 გუბურა,pond
-წყალსატევი,pond
 გუდასტვირი,bagpipes
 გულ-სისხლძარღვთა სისტემა,cardiovascular system
 გული,heart
 გუჯარათული,Gujarati
 გუჯარათული,Gujarati
 და,and
+და,and
 და,as well as
 და,in addition to
 და,together with
 და,too
-და,and
+დაავადება,affliction
+დაავადება,disease
+დაავადება,illness
+დაახლოებითი გაანგარიშება,estimate
 დაბადების დღე,birthday
 დაბინძურება,pollution
 დაბრკოლება,obstacle
 დაბრკოლება,obstruction
 დაგეგმვა,planning
+დადუღება,fermentation
+დავა,argument
 დაზიანება,injury
-ტრავმა,injury
 დაზღვევა,insurance
 დათვი,bear
 დათვისებრნი,ursid
 დაკარი,Dakar
 დაკვირვება,observation
 დაკრძალვა,funeral
-დალაქი,hairdresser
 დალაქი,barber
-პარიკმახერი,hairdresser
-პარიკმახერი,barber
+დალაქი,hairdresser
 დალევა,drink
 დალევა,gulp
 დალევა,quaff
 დალევა,sip
-სმა,drink
-სმა,gulp
-სმა,quaff
-სმა,sip
 დამახასიათებელი თვისება,characteristic
+დამორჩილება,obey
 დამოუკიდებლობა,independence
 დანა,knife
 დანაშაული,crime
+დანახვა,see
 დანია,Denmark
 დანია,Kingdom of Denmark
 დანიური,Danish
 დარიშხანი,arsenic
 დარმშტატიუმი,darmstadtium
 დარღვევა,infraction
-დასავლეთი აზია,Western Asia
 დასავლეთი აზია,Southwest Asia
+დასავლეთი აზია,Western Asia
 დასავლეთი ევროპა,Western Europe
 დასიზმრება,dream
 დაუნის სინდრომი,Down syndrome
 დაუნის სინდრომი,Down’s syndrome
+დაფარვა,coating
+დაქანება,slope
 დაღესტანი,Dagestan
 დაღმართი,slope
-აღმართი,slope
-ფერდობი,slope
-დაქანება,slope
 დაშლა,decomposition
+დაჯერება,obey
 დებეტირება,debit
 დეგრადაცია,degradation
-გადაგვარება,degradation
 დედა,mother
-დედამთილი,mother-in-law
 დედამთილი,mother in law
-სიდედრი,mother-in-law
-სიდედრი,mother in law
-დედამიწა,earth
-დედამიწა,Earth
-დედამიწა,the world
+დედამთილი,mother-in-law
 დედამიწა,Blue Planet
+დედამიწა,Earth
+დედამიწა,earth
+დედამიწა,the world
 დედამიწის მეცნიერება,earth science
 დედამიწის რელიეფი,relief (land)
 დედაქალაქი,capital
 დედოფალი,queen
 დეზინფექცია,disinfection
+დეზოქსირიბონუკლეინის მჟავა,DNA
+დეზოქსირიბონუკლეინის მჟავა,deoxyribonucleic acid
 დეიტერიუმი,deuterium
 დეკემბერი,December
 დეკრეტი,decree
@@ -737,32 +721,33 @@ Georgia,Georgia
 დელტა,delta
 დელფინი,dolphin
 დემოკრატია,democracy
+დენის ძაბვა,voltage
 დერმატოლოგია,dermatology
 დეფლაცია,deflation
 დეცენტრალიზაცია,decentralisation
 დეციბელი,decibel
 დიალექტი,dialect
+დიაცი,female
+დიაცი,woman
 დიახ,aye
 დიახ,yeah
 დიახ,yep
 დიახ,yes
-კი,aye
-კი,yeah
-კი,yep
-კი,yes
-ჰო,aye
-ჰო,yeah
-ჰო,yep
-ჰო,yes
 დიდი,big
 დიდი,large
-დიდი ბრიტანეთი,Great Britain
 დიდი ბრიტანეთი,Britain
+დიდი ბრიტანეთი,Great Britain
+დიდი ბრიტანეთი,UK
+დიდი ბრიტანეთი,United Kingdom
+დიდი ბრიტანეთი,United Kingdom of Great Britain and Northern Ireland
+დიდი ბრიტანეთისა და ჩრდილოეთ ირლანდიის გაერთიანებული სამეფო,UK
+დიდი ბრიტანეთისა და ჩრდილოეთ ირლანდიის გაერთიანებული სამეფო,United Kingdom
+დიდი ბრიტანეთისა და ჩრდილოეთ ირლანდიის გაერთიანებული სამეფო,United Kingdom of Great Britain and Northern Ireland
 დიდი ქოფაკი,Canis Major
-დიზელი,diesel fuel
 დიზელი,diesel
-დიზელის საწვავი,diesel fuel
+დიზელი,diesel fuel
 დიზელის საწვავი,diesel
+დიზელის საწვავი,diesel fuel
 დიპლომატი,diplomat
 დისკრიმინაცია,discrimination
 დისპერსია,dispersion
@@ -770,30 +755,27 @@ Georgia,Georgia
 დიფუზია,diffusion
 დნმ,DNA
 დნმ,deoxyribonucleic acid
-დეზოქსირიბონუკლეინის მჟავა,DNA
-დეზოქსირიბონუკლეინის მჟავა,deoxyribonucleic acid
 დნობა,melting
 დოზა,dosage
-დომინიკა,Dominica
 დომინიკა,Commonwealth of Dominica
+დომინიკა,Dominica
 დომინიკელთა რესპუბლიკა,Dominican Republic
 დრო,time
 დროებითი ზავი,armistice
-ზავი,armistice
 დუბლინი,Dublin
 დღე,day
 დღე,daytime
 დღიური,diary
 ებრაული,Hebrew
 ეგეოსის ზღვა,Aegean Sea
-ეგვიპტე,Egypt
 ეგვიპტე,Arab Republic of Egypt
+ეგვიპტე,Egypt
 ევოლუცია,evolution
 ევროპა,Europe
 ევროპის კავშირი,EU
 ევროპის კავშირი,European Union
-ევროპის სავალუტო სისტემა,European Monetary System
 ევროპის სავალუტო სისტემა,EMS
+ევროპის სავალუტო სისტემა,European Monetary System
 ევროპიუმი,europium
 ეთანოლი,ethanol
 ეთერი,ether
@@ -814,19 +796,21 @@ Georgia,Georgia
 ელემენტთა პერიოდული სისტემა,periodic table
 ელენთა,spleen
 ელექტრობა,electricity
+ელექტროგამტარობა,conductivity
+ელექტროგამტარობა,electrical conductivity
 ელექტროენერგია,electric power
 ელექტრომაგნიტიზმი,electromagnetism
 ელექტრონი,electron
 ელექტრონიკა,electronics
+ელექტრონული ფოსტა,e-mail
 ელექტრონული ფოსტა,electronic mail
 ელექტრონული ფოსტა,email
-ელექტრონული ფოსტა,e-mail
 ელჩი,ambassador
+ემბრიონი,embryo
 ემულსია,emulsion
 ენა,language
 ენა,tongue
 ენათმეცნიერება,linguistics
-ლინგვისტიკა,linguistics
 ენდოკრინოლოგია,endocrinology
 ენერგეტიკული რესურსი,energy resource
 ენერგია,energy
@@ -845,7 +829,10 @@ Georgia,Georgia
 ერბიუმი,erbium
 ერევანი,Erevan
 ერევანი,Yerevan
+ერთად,alongside
+ერთად,amongst
 ერთად,together
+ერთად,with
 ერთი,one
 ერთკუზიანი აქლემი,dromedary
 ერიტრეა,Eritrea
@@ -860,12 +847,13 @@ Georgia,Georgia
 ესტონეთი,Republic of Estonia
 ესტონური,Estonian
 ესტუარი,estuary
+ეფექტი,effect
 ექსპორტის ლიცენზია,export licence
 ვადუცი,Vaduz
 ვაიომინგი,Wyoming
 ვალი,debt
-ვალისი და ფუტუნა,Wallis and Futuna
 ვალისი და ფუტუნა,Territory of the Wallis and Futuna Islands
+ვალისი და ფუტუნა,Wallis and Futuna
 ვალონური,Walloon
 ვალონური,Walloon
 ვალუტა,currency
@@ -876,13 +864,9 @@ Georgia,Georgia
 ვარაუდი,supposition
 ვარდი,rose
 ვარსკვლავი,star
-მნათობი,star
-ვატიკანი,Vatican City
-ვატიკანი,The Holy See
 ვატიკანი,State of the Vatican City
-ქალაქი-სახელმწიფო ვატიკანი,Vatican City
-ქალაქი-სახელმწიფო ვატიკანი,The Holy See
-ქალაქი-სახელმწიფო ვატიკანი,State of the Vatican City
+ვატიკანი,The Holy See
+ვატიკანი,Vatican City
 ვაშინგტონი,Washington
 ვაშლი,apple
 ვაშლის ხე,apple
@@ -894,11 +878,11 @@ Georgia,Georgia
 ველოსიპედი,cycle
 ვენა,Vienna
 ვენახი,vineyard
-ზვარი,vineyard
 ვენერა,Venus
 ვენესუელა,Venezuela
 ვენეცია,Venice
 ვენტილაცია,ventilation
+ვერ,not
 ვერცხლი,silver
 ვერცხლისწყალი,mercury
 ვერძი,Aries
@@ -912,10 +896,8 @@ Georgia,Georgia
 ვიეტნამური,Vietnamese
 ვიკი,wiki
 ვიკიპედია,Wikipedia
-ვირი,donkey
 ვირი,ass
-სახედარი,donkey
-სახედარი,ass
+ვირი,donkey
 ვირუსი,virus
 ვირუსოლოგია,virology
 ვიტამინი,vitamin
@@ -923,12 +905,12 @@ Georgia,Georgia
 ვოლაპუკი,Volapük
 ვოლგა,Volga
 ვოლტაჟი,voltage
-დენის ძაბვა,voltage
 ვოლფრამი,tungsten
 ვულკანი,volcano
 ვულკანიზაცია,vulcanisation
-ზამბია,Zambia
+ზავი,armistice
 ზამბია,Republic of Zambia
+ზამბია,Zambia
 ზამთარი,winter
 ზარალი,loss
 ზაფხული,summer
@@ -936,16 +918,19 @@ Georgia,Georgia
 ზედსართავი სახელი,adjective
 ზედსართავი სახელი,describing word
 ზეთისხილი,olive
+ზეცა,heaven
+ზეცა,sky
+ზვავი,avalanche
+ზვავი,avalanche
 ზვავი,snowslide
-ზვავი,avalanche
-ზვავი,avalanche
-მეწყერი,avalanche
+ზვარი,vineyard
 ზვიგენი,shark
 ზიანი,damage
-ზიმბაბვე,Zimbabwe
 ზიმბაბვე,Republic of Zimbabwe
+ზიმბაბვე,Zimbabwe
 ზმნა,verb
 ზმნიზედა,adverb
+ზოგადი,general
 ზოდიაქო,zodiac
 ზოოლოგია,zoology
 ზოოპარკი,zoological garden
@@ -962,29 +947,28 @@ Georgia,Georgia
 თავი,head
 თავის ქალა,skull
 თავისუფლება,freedom
-თავისუფლება,liberty
 თავისუფლება,freedom
-თავკომბალა,tadpole
+თავისუფლება,liberty
 თავკომბალა,polliwog
+თავკომბალა,tadpole
 თავფეხიანები,cephalopod
 თათბირი,consultation
 თათრული,Tatar
 თათრული,Tatar
 თალიუმი,thallium
 თამაში,game
-გართობა,game
 თამბაქო,tobacco
-თუთუნი,tobacco
 თანავარსკვლავედი,constellation
+თანამგზავრი,moon
+თანამგზავრი,moon
+თანამგზავრი,satelite
+თანამგზავრი,satelite
 თანამგზავრი,satellite
-სატელიტი,satellite
 თანამშრომლობა,co-operation
 თანამშრომლობის პოლიტიკა,co-operation policy
 თარგმანი,translation
-თარგმნა,translate
 თარგმნა,interpret
-გადათარგმნა,translate
-გადათარგმნა,interpret
+თარგმნა,translate
 თარჯიმანი,interpreter
 თაფლი,honey
 თაღლითობა,fraud
@@ -996,7 +980,11 @@ Georgia,Georgia
 თეთრი,white
 თეთრი დათვი,polar bear
 თეირანი,Tehran
+თემა,subject
+თემა,topic
 თეოკრატია,theocracy
+თეოლოგია,theology
+თერაპია,therapy
 თერმოდინამიკა,thermodynamics
 თერძი,tailor
 თესლი,seed
@@ -1012,17 +1000,16 @@ Georgia,Georgia
 თიურინგია,Thuringia
 თიხა,clay
 თიხამიწა,alumina
-ალუმინის ჟანგი,alumina
 თმა,hair
 თოვლი,snow
 თოლია,gull
 თორიუმი,thorium
 თოჯინა,doll
+თრიაქი,opium
 თუ,or
-ან,or
-ანდა,or
 თუთია,zinc
 თუთიყუში,parrot
+თუთუნი,tobacco
 თუთქი,lye
 თულიუმი,thulium
 თურქეთი,Turkey
@@ -1035,6 +1022,7 @@ Georgia,Georgia
 თქვენ,yous
 თქმა,say
 თხევადი მდგომარეობა,liquid state
+თხელი ნისლი,mist
 თხის რქა,Capricorn
 თხრილი,ditch
 იაგუარი,jaguar
@@ -1048,15 +1036,16 @@ Georgia,Georgia
 იაპონური,Japanese
 იარაღი,weapon
 იახტა,yacht
+იგი,he
 იდაყვი,elbow
 იდეოლოგია,ideology
 იდიში,Yiddish
 იდო,Ido
 იდო,Ido
-იდუმალი,mysterious
 იდუმალებით მოცული,mysterious
-იემენი,Yemen
+იდუმალი,mysterious
 იემენი,Republic of Yemen
+იემენი,Yemen
 იერარქია,hierarchy
 ივლისი,July
 ივნისი,June
@@ -1076,6 +1065,7 @@ Georgia,Georgia
 ინდონეზია,Indonesia
 ინდონეზია,Republic of Indonesia
 ინდონეზიური,Indonesian
+ინდუსტრია,industry
 ინდუსტრიალიზაცია,industrialisation
 ინერტული გაზი,element of group 0
 ინერტული გაზი,noble gas
@@ -1083,32 +1073,32 @@ Georgia,Georgia
 ინსპექცია,inspection
 ინსტრუმენტი,instrument
 ინსტრუმენტი,musical instrument
-მუსიკალური ინსტრუმენტი,instrument
-მუსიკალური ინსტრუმენტი,musical instrument
-საკრავი,instrument
-საკრავი,musical instrument
 ინტერლინგუა,Interlingua
 ინტერლინგუა,"Interlingua, ""Simplified"" Latin"
 ინტერლინგუა,"Interlingua, ""Simplified"" Latin"
 ინტერნეტი,Internet
 ინფექცია,infection
-ინფექციური დაავადებები,infectious disease
-ინფექციური დაავადებები,communicable diseases
-ინფექციური დაავადება,infectious disease
 ინფექციური დაავადება,communicable diseases
+ინფექციური დაავადება,infectious disease
+ინფექციური დაავადებები,communicable diseases
+ინფექციური დაავადებები,infectious disease
 ინფლაცია,inflation
-ინფორმატიკა,informatics
 ინფორმატიკა,computer science
+ინფორმატიკა,informatics
 ინფორმატიკა,information science
 ინფორმაცია,info
 ინფორმაცია,information
 იოდი,iodine
+იოლი,easy
+იოლი,like shooting fish in a barrel
+იოლი,piece of cake
 იონი,ion
-იორდანია,Jordan
 იორდანია,Hashemite Kingdom of Jordan
+იორდანია,Jordan
 ირანი,Iran
 ირანი,Islamic Republic of Iran
 ირემი,deer
+ირიგაცია,irrigation
 ირიდიუმი,iridium
 ირლანდია,Ireland
 ირლანდია,Republic of Ireland
@@ -1116,14 +1106,11 @@ Georgia,Georgia
 ირლანდიის რესპუბლიკა,Republic of Ireland
 ირლანდიური,Irish
 ირლანდიური,Irish
-ირლანდიური,Irish Gaelic
 ირლანდიური,Irish
-ირმის ნახტომი,Milky Way
+ირლანდიური,Irish Gaelic
 ირმის ნახტომი,Galaxy
-რძიანი გზა,Milky Way
-რძიანი გზა,Galaxy
+ირმის ნახტომი,Milky Way
 ის,he
-იგი,he
 ისარი,arrow
 ისლამი,Islam
 ისლანდია,Iceland
@@ -1133,6 +1120,7 @@ Georgia,Georgia
 ისრაელი,Israel
 ისრაელი,State of Israel
 ისტორია,history
+ისტორია,story
 ისტორიოგრაფია,historiography
 ისტორიული ცენტრი,historic centre
 ისტორიული ძეგლი,historical monument
@@ -1148,6 +1136,8 @@ Georgia,Georgia
 იუპიტერი,Jupiter
 იურისდიქცია,jurisdiction
 იურისპრუდენცია,jurisprudence
+იურისპრუდენცია,law
+იურისპრუდენცია,law (science)
 იუტა,Utah
 იღლია,armpit
 იხვი,duck
@@ -1156,18 +1146,16 @@ Georgia,Georgia
 კაბელი,cable
 კაბო ვერდე,Cape Verde
 კაბო ვერდე,Republic of Cape Verde
-მწვანე კონცხის რესპუბლიკა,Cape Verde
-მწვანე კონცხის რესპუბლიკა,Republic of Cape Verde
 კადმიუმი,cadmium
 კაიმანის კუნძულები,Cayman Islands
 კაირო,Cairo
-კაკლის სატეხი,nutcracker
 კაკლის სამტვრევი,nutcracker
+კაკლის სატეხი,nutcracker
 კალა,tin
 კალათბურთი,basketball
 კალათბურთი,basketball game
-კალატოზი,mason
 კალატოზი,bricklayer
+კალატოზი,mason
 კალატოზი,stonemason
 კალენდარი,calendar
 კალია,grasshopper
@@ -1184,16 +1172,18 @@ Georgia,Georgia
 კამათელი,die
 კამათელი,die
 კამათი,argument
-დავა,argument
 კამბოჯა,Cambodia
 კამბოჯა,Kingdom of Cambodia
 კამერუნი,Cameroon
 კამერუნი,Republic of Cameroon
+კამუფლაჟი,camouflage
 კანადა,Canada
 კანადა,Kannada
 კანადა,Kannada
+კანი,skin
 კანიონი,canyon
 კანონი,law
+კაჟბადი,silicon
 კარატე,karate
 კარაქი,butter
 კარბონატი,carbonate
@@ -1205,8 +1195,8 @@ Georgia,Georgia
 კარიერი,quarry
 კარტოგრაფია,cartography
 კარტოგრაფია,mapping
-კარტოფილი,potato
 კარტოფილი,patato
+კარტოფილი,potato
 კასიოპეა,Cassiopeia
 კასპიის ზღვა,Caspian Sea
 კატა,cat
@@ -1215,12 +1205,10 @@ Georgia,Georgia
 კატარი,Qatar
 კატასტროფა,catastrophe
 კაქტუსი,cactus
-კაცი,man
-ადამიანი,man
+კაშხალი,dam
 კაცი,male
 კაცი,man
-მამაკაცი,male
-მამაკაცი,man
+კაცი,man
 კბილი,molar
 კბილი,tooth
 კბილის ექიმი,dentist
@@ -1231,31 +1219,28 @@ Georgia,Georgia
 კენია,Kenya
 კენია,Republic of Kenya
 კენჭისყრა,ballot
-ხმის მიცემა,ballot
 კენჭისყრა,voting
-ხმის მიცემა,voting
 კერამიკა,ceramics
 კერვა,sew
-გაკერვა,sew
-მიკერება,sew
-შეკერვა,sew
 კვამლი,fume
 კვამლი,smoke
-ბოლი,smoke
 კვერნა,mustelid
 კვერნისებრნი,mustelid
 კვერცხი,egg
 კვიპროსი,Cyprus
 კვიპროსი,Republic of Cyprus
+კვირა,Sunday
 კვირა,week
 კვირადღე,Sunday
-კვირა,Sunday
 კვლევითი ცენტრი,research centre
+კი,aye
+კი,yeah
+კი,yep
+კი,yes
 კიბო,cancer
 კიბოსნაირნი,crustacean
 კითხვა,question
 კითხვა,read
-წაკითხვა,read
 კილოგრამი,kilogram
 კირი,lime
 კირიბატი,Kiribati
@@ -1270,38 +1255,45 @@ Georgia,Georgia
 კლდე,cliff
 კლეპტომანია,kleptomania
 კლიმატი,climate
-კლიმატის ცვლილება,climatic change
 კლიმატის ცვლილება,climate change
+კლიმატის ცვლილება,climatic change
 კლიტორი,button
 კლიტორი,clit
 კლიტორი,clitoris
-კლიშე,platitude
 კლიშე,cliche
 კლიშე,cliché
+კლიშე,platitude
 კობალტი,cobalt
 კოვზი,spoon
 კოლუმბია,Colombia
 კოლუმბია,Republic of Colombia
 კომერციალიზაცია,commercialisation
+კომერციული საქმიანობა,business
 კომეტა,comet
 კომორის კუნძულები,Comoros
 კომორის კუნძულები,Union of the Comoros
+კომპანია,company
+კომპანია,corporation
+კომპანია,enterprise
+კომპანია,firm
+კომპანია,venture
 კომპანიის პოლიტიკა,company policy
 კომპიუტერი,computer
 კომუნიზმი,communism
 კომუნიკაციის საშუალებები,means of communication
-კონგოს დემოკრატიული რესპუბლიკა,Democratic Republic of the Congo
-კონგოს დემოკრატიული რესპუბლიკა,Congo-Kinshasa
-კონგო-კინშასა,Democratic Republic of the Congo
-კონგო-კინშასა,Congo-Kinshasa
-კონგოს რესპუბლიკა,Republic of the Congo
-კონგოს რესპუბლიკა,Congo-Brazzaville
-კონგო-ბრაზავილი,Republic of the Congo
 კონგო-ბრაზავილი,Congo-Brazzaville
-კონდენსაცია,condensation (process)
+კონგო-ბრაზავილი,Republic of the Congo
+კონგო-კინშასა,Congo-Kinshasa
+კონგო-კინშასა,Democratic Republic of the Congo
+კონგოს დემოკრატიული რესპუბლიკა,Congo-Kinshasa
+კონგოს დემოკრატიული რესპუბლიკა,Democratic Republic of the Congo
+კონგოს რესპუბლიკა,Congo-Brazzaville
+კონგოს რესპუბლიკა,Republic of the Congo
 კონდენსაცია,condensation
+კონდენსაცია,condensation (process)
 კონსტიტუცია,constitution
 კონტინენტი,continent
+კონტრაქტი,contract
 კონფერენცია,conference
 კონცხი,headland
 კოპენჰაგენი,Copenhagen
@@ -1309,28 +1301,38 @@ Georgia,Georgia
 კორეული,Korean
 კორნუოლური,Cornish
 კორპი,cork
+კორპორაცია,company
+კორპორაცია,corporation
+კორპორაცია,enterprise
+კორპორაცია,firm
+კორპორაცია,venture
 კორსიკული,Corsican
 კორსიკული,Corsican
 კორუფცია,corruption
 კორფუ,Corfu
 კოსმოლოგია,cosmology
+კოსმოსი,interplanetary space
+კოსმოსი,space
+კოსმოსი,space
+კოსმოსი,space (interplanetary)
+კოსმოსური სივრცე,interplanetary space
+კოსმოსური სივრცე,space
+კოსმოსური სივრცე,space
+კოსმოსური სივრცე,space (interplanetary)
 კოსოვო,Kosovo
 კოსტა-რიკა,Costa Rica
 კოსტა-რიკა,Republic of Costa Rica
-კოტ-დივუარი,Ivory Coast
 კოტ-დივუარი,Cote d'Ivoire
+კოტ-დივუარი,Ivory Coast
 კოტ-დივუარი,Republic of Cote d'Ivoire
-სპილოს ძვლის ნაპირი,Ivory Coast
-სპილოს ძვლის ნაპირი,Cote d'Ivoire
-სპილოს ძვლის ნაპირი,Republic of Cote d'Ivoire
 კოფეინი,caffeine
-კოღო,musquito
 კოღო,mosquito
+კოღო,musquito
 კრაზანა,wasp
-ბზიკი,wasp
-კრაკოვი,Krakow
 კრაკოვი,Cracow
+კრაკოვი,Krakow
 კრედიტი,credit
+კრემნიუმი,silicon
 კრიალოსანი,rosary
 კრიპტონი,krypton
 კრისტალიზაცია,crystallisation
@@ -1350,53 +1352,55 @@ Georgia,Georgia
 კურო,Taurus
 კუჭი,stomach
 კუჭქვეშა ჯირკვალი,pancreas
-კხმერული,Khmer
 კხმერული,Central Khmer
+კხმერული,Khmer
 ლაბორატორია,laboratory
 ლაგოსი,Lagos
 ლაგუნა,lagoon
-ლავანდა,lavender
 ლავანდა,lavander
-ლაზერი,laser
+ლავანდა,lavender
 ლაზერი,Light Amplification by Stimulated Emission of Radiation
+ლაზერი,laser
 ლათინური,Latin
 ლათინური,Latin
 ლალი,ruby
+ლამი,silt
 ლამპა,lamp
 ლამპა,light
 ლანთანი,lanthanum
-ლაოსი,Laos
 ლაოსი,Lao People's Democratic Republic
+ლაოსი,Laos
 ლაოსური,Lao
 ლაოსური,Lao
 ლატარია,lottery
 ლატვია,Latvia
+ლატვია,Latvian
+ლატვია,Latvian
 ლატვია,Republic of Latvia
-ლატვია,Latvian
-ლატვია,Latvian
 ლატვიური,Latvian
 ლატვიური,Latvian
 ლაურენსიუმი,lawrencium
 ლეიკემია,leukaemia
 ლეოპარდი,leopard
 ლერწამი,reed
-ლესოთო,Lesotho
 ლესოთო,Kingdom of Lesotho
+ლესოთო,Lesotho
 ლექსიკონი,dictionary
-ლიბანი,Lebanon
 ლიბანი,Lebanese Republic
+ლიბანი,Lebanon
 ლიბერალიზმი,liberalism
 ლიბერია,Liberia
 ლიბერია,Republic of Liberia
-ლიბია,Libya
 ლიბია,Great Socialist People's Libyan Arab Jamahiriya
+ლიბია,Libya
 ლითიუმი,lithium
 ლითონი,metal
-ლიმბურგული,Limburgish
 ლიმბურგული,Limburgian
+ლიმბურგული,Limburgish
 ლიმნოლოგია,limnology
 ლიმონი,lemon
 ლიმფური სისტემა,lymphatic system
+ლინგვისტიკა,linguistics
 ლინზა,lens
 ლიონი,Lyon
 ლისაბონი,Lisbon
@@ -1409,10 +1413,11 @@ Georgia,Georgia
 ლიხტენშტაინი,Principality of Liechtenstein
 ლობიო,bean
 ლობიო,edible bean
+ლოგინი,bed
 ლოზანა,Lausanne
+ლოთი,boozer
 ლოთი,drunk
 ლოთი,drunkard
-ლოთი,boozer
 ლოკომოტივი,locomotive
 ლომთევზი,walrus
 ლომი,lion
@@ -1420,13 +1425,12 @@ Georgia,Georgia
 ლტოლვილი,refugee
 ლუდი,beer
 ლურჯი,blue
-ცისფერი,blue
 ლუტეციუმი,lutetium
-ლუქსემბურგი,Luxembourg
 ლუქსემბურგი,Grand Duchy of Luxembourg
+ლუქსემბურგი,Luxembourg
+ლუქსემბურგული,Luxembourgian
 ლუქსემბურგული,Luxembourgish
 ლუქსემბურგული,Luxemburgish
-ლუქსემბურგული,Luxembourgian
 ლუქსი,lux
 მაგიდა,table
 მაგნეტიზმი,magnetism
@@ -1434,20 +1438,17 @@ Georgia,Georgia
 მადაგასკარი,Madagascar
 მადაგასკარი,Republic of Madagascar
 მადანი,ore
-მადლობა,thank you
 მადლობა,cheers
 მადლობა,thank you
+მადლობა,thank you
 მადლობა,thanks
-გმადლობთ,cheers
-გმადლობთ,thank you
-გმადლობთ,thanks
 მავზოლეუმი,mausoleum
 მავრიკი,Mauritius
 მავრიკი,Republic of Mauritius
 მავრიკია,Mauritius
 მავრიკია,Republic of Mauritius
-მავრიტანია,Mauritania
 მავრიტანია,Islamic Republic of Mauritania
+მავრიტანია,Mauritania
 მათემატიკა,mathematics
 მაიონეზი,mayonnaise
 მაიოტი,Mayotte
@@ -1458,6 +1459,8 @@ Georgia,Georgia
 მაკედონიური,Macedonian
 მაკედონური,Macedonian
 მაკედონური,Macedonian
+მაკეტი,model
+მაკრელი,mackerel
 მაკროსკოპული,macroscopic
 მალავი,Malawi
 მალავი,Republic of Malaŵi
@@ -1469,49 +1472,43 @@ Georgia,Georgia
 მალდივის კუნძულები,Republic of the Maldives
 მალდივის რესპუბლიკა,Maldives
 მალდივის რესპუბლიკა,Republic of the Maldives
+მალვინის კუნძულები,Falkland Islands
 მალი,Mali
 მალი,Republic of Mali
 მალტა,Malta
 მალტა,Republic of Malta
 მალტური,Maltese
 მამა,father
+მამაკაცი,male
+მამაკაცი,man
+მამული,acre
 მამული,field
 მამული,land
 მამული,land
-მამული,acre
 მამული,patch
-მიწის ნაკვეთი,field
-მიწის ნაკვეთი,land
-მიწის ნაკვეთი,land
-მიწის ნაკვეთი,acre
-მიწის ნაკვეთი,patch
+მანგანუმი,manganese
 მანგო,mango
-მანდარინი,mandarin
 მანდარინი,Mandarin
 მანდარინი,Standard Mandarin
-სტანდარტული ჩინური,mandarin
-სტანდარტული ჩინური,Mandarin
-სტანდარტული ჩინური,Standard Mandarin
+მანდარინი,mandarin
 მანსარდა,attic
-სხვენი,attic
-მანქანა,car
 მანქანა,automobile
+მანქანა,car
 მაორული,Maori
 მარაგის შენახვა,stocking
 მარათი,Marathi
-მარათი,Marāthi
-მარათი,Marāthi
 მარათი,MarÄthi
+მარათი,Marāthi
+მარათი,Marāthi
 მარგანეცი,manganese
-მანგანუმი,manganese
 მართვა,management
 მარილი,salt
 მარმარილო,marble
-მაროკო,Morocco
 მაროკო,Kingdom of Morocco
+მაროკო,Morocco
 მარტი,March
-მარტივი რიცხვი,prime number
 მარტივი რიცხვი,prime
+მარტივი რიცხვი,prime number
 მარტინიკა,Martinique
 მარტორქა,rhino
 მარტორქა,rhinoceros
@@ -1522,7 +1519,6 @@ Georgia,Georgia
 მარცვალი,grain
 მარცვლეული,grain
 მარწყვი,strawberry
-ხენდრო,strawberry
 მარჯანი,coral
 მარჯნის რიფი,coral reef
 მასა,mass
@@ -1536,9 +1532,9 @@ Georgia,Georgia
 მაღალი მთა,high mountain
 მაღარო,mine
 მაღვიძარა,alarm clock
-მაცივარი,refrigerator
-მაცივარი,refrigerator
 მაცივარი,fridge
+მაცივარი,refrigerator
+მაცივარი,refrigerator
 მგალობელი ფრინველი,songbird
 მგელი,wolf
 მდელო,meadow
@@ -1554,6 +1550,7 @@ Georgia,Georgia
 მეზობელი,vecino
 მეთანოლი,methanol
 მეთოდი,method
+მეთონე,baker
 მეიტნერიუმი,meitnerium
 მელანი,ink
 მელოდია,melody
@@ -1564,30 +1561,29 @@ Georgia,Georgia
 მენორა,menorah
 მერკური,Mercury
 მერწყული,Aquarius
+მესაკუთრე,owner
 მეტაფიზიკა,metaphysics
 მეტაფორა,metaphor
+მეტეორი,falling star
 მეტეორი,meteor
 მეტეორი,meteor
 მეტეორი,meteor
 მეტეორი,meteor
 მეტეორი,meteor
 მეტეორი,shooting star
-მეტეორი,falling star
-მოწყვეტილი ვარსკვლავი,meteor
-მოწყვეტილი ვარსკვლავი,meteor
-მოწყვეტილი ვარსკვლავი,meteor
-მოწყვეტილი ვარსკვლავი,meteor
-მოწყვეტილი ვარსკვლავი,meteor
-მოწყვეტილი ვარსკვლავი,shooting star
-მოწყვეტილი ვარსკვლავი,falling star
 მეტეორიტი,meteorite
 მეტრო,underground railway
 მეტრონომი,metronome
 მეტროს მატარებელი,underground train
-მეტყველების ნაწილი,part of speech
 მეტყველების ნაწილი,lexical category
-მეფუტკრე,beekeeper
+მეტყველების ნაწილი,part of speech
+მეურნეობა,farm
+მეუღლე,husband
+მეუღლე,spouse
+მეუღლე,spouse
+მეუღლე,wife
 მეფუტკრე,apiculturist
+მეფუტკრე,beekeeper
 მეფუტკრეობა,apiculture
 მეფუტკრეობა,beekeeping
 მექა,Mecca
@@ -1600,91 +1596,89 @@ Georgia,Georgia
 მეცნიერება ადამიანის შესახებ,human science
 მეცნიერი,scientist
 მეცნიერული გამოკვლევა,scientific research
+მეცხვარე,shepherd
 მეძებარი ძაღლები,Canes Venatici
 მეწარმე,entrepreneur
-საქმოსანი,entrepreneur
+მეწყერი,avalanche
+მეხანძრე,fire fighter
+მეხანძრე,fire-eater
 მეხანძრე,firefighter
 მეხანძრე,fireman
 მეხანძრე,firewoman
-მეხანძრე,fire fighter
-მეხანძრე,fire-eater
 მზის ენერგია,solar energy
 მზის ენერგიის გამოყენების ტექნოლოგია,solar energy technology
 მთა,mountain
+მთა ფუძი,Mount Fuji
 მთაგრეხილი,mountain range
-მთვარე,moon
 მთვარე,Luna
 მთვარე,Moon
 მთვარე,moon
 მთვარე,moon
+მთვარე,moon
 მთვარე,satelite
 მთვარე,satelite
-თანამგზავრი,moon
-თანამგზავრი,moon
-თანამგზავრი,satelite
-თანამგზავრი,satelite
 მთიანი ყარაბაღი,Nagorno-Karabakh
 მიანმარი,Myanmar
 მითი,myth
+მიკერება,sew
 მიკოლოგია,mycology
-მიკრონეზია,Micronesia
 მიკრონეზია,Federated States of Micronesia
+მიკრონეზია,Micronesia
 მიკროორგანიზმი,micro-organism
 მიკროსკოპია,microscopy
 მიკროფონი,microphone
 მილანი,Milan
+მილი,chimney
 მილი,pipe
 მილსადენი,pipe
-მილი,chimney
-საკვამლე მილი,chimney
 მიმატება,add
 მიმომფრენი ფრინველი,migratory bird
 მინა,glass
-შუშა,glass
 მინარევები,additive
 მინერალი,mineral
 მინერალიზაცია,mineralisation
 მინერალური ნივთიერება,mineral matter
 მინერალური წყალი,mineral water
 მინისტრის კომპეტენცია,minister competence
-მისადაგება,arrange
+მისადაგება,accommodate
 მისადაგება,adapt
 მისადაგება,adjust
-მისადაგება,conform
-მისადაგება,accommodate
-მისადაგება,suit
-შეწყობა,arrange
-შეწყობა,adapt
-შეწყობა,adjust
-შეწყობა,conform
-შეწყობა,accommodate
-შეწყობა,suit
 მისადაგება,adjust
-შეწყობა,adjust
-მორგება,adjust
+მისადაგება,arrange
+მისადაგება,conform
+მისადაგება,suit
+მიტანა,bring
 მიუნხენი,Munich
+მიყვანა,bring
 მიწა,land
+მიწის ნაკვეთი,acre
+მიწის ნაკვეთი,field
+მიწის ნაკვეთი,land
+მიწის ნაკვეთი,land
+მიწის ნაკვეთი,patch
 მიწისძვრა,earthquake
+მიჯნა,boundary
 მკლავი,arm
 მკურნალობა,therapy
-თერაპია,therapy
+მმართველობა,administration
+მმართველობა,direction
+მმართველობა,management
+მნათობი,star
 მოგება,profit
-შემოსავალი,profit
-სარგებელი,profit
 მოდელი,model
-მაკეტი,model
 მოედანი,square
 მოზამბიკი,Mozambique
 მოზრდილი,adult
+მოთხოვნილება,need
 მოლდოვა,Moldova
 მოლეკულური ბიოლოგია,molecular biology
 მოლიბდენი,molybdenum
 მოლუსკი,mollusc
 მომზადება,training
-წვრთნა,training
 მომთაბარე,nomad
 მომხმარებელი,user
 მონაკო,Monaco
+მონაპოვარი,acquisition
 მონაცემთა ბაზა,database
 მონაცემთა ცენტრი,data centre
 მონაწილეობა,participation
@@ -1697,73 +1691,87 @@ Georgia,Georgia
 მოპარვა,bag
 მოპარვა,pocket
 მოპარვა,steal
-მოპასუხე,defendant
 მოპასუხე,accused
-ბრალდებული,defendant
-ბრალდებული,accused
+მოპასუხე,defendant
+მოპირკეთება,coating
+მორგება,adjust
 მორფიუმი,morphine
 მორფოლოგია,morphology
 მორწყვა,irrigation
-ირიგაცია,irrigation
 მოსავალი,harvest
 მოსავალი,yield
 მოსახლეობა,human population
-მოსვლა,come
 მოსვლა,arrival
-ჩამოსვლა,arrival
+მოსვლა,come
 მოსკოვი,Moscow
 მოტანა,bring
-მიტანა,bring
-მოყვანა,bring
-მიყვანა,bring
 მოტეტი,motet
 მოტეხილობა,fracture
+მოულოდნელი,abrupt
+მოულოდნელი,precipitous
+მოულოდნელი,sudden
 მოქანდაკე,sculptor
+მოყვანა,bring
+მოშენება,breeding
 მოშენება,cultivation
 მოშენება,tillage
-მოშენება,breeding
-მოცვი,huckleberry
 მოცვი,blueberry
+მოცვი,huckleberry
 მოწმე,witness
-მოწონება,approval
 მოწონება,approbation
+მოწონება,approval
+მოწყვეტილი ვარსკვლავი,falling star
+მოწყვეტილი ვარსკვლავი,meteor
+მოწყვეტილი ვარსკვლავი,meteor
+მოწყვეტილი ვარსკვლავი,meteor
+მოწყვეტილი ვარსკვლავი,meteor
+მოწყვეტილი ვარსკვლავი,meteor
+მოწყვეტილი ვარსკვლავი,shooting star
 მჟავა,acid
 მრავალმხრივი შეთანხმება,multilateral agreement
 მრეწველობა,industry
-ინდუსტრია,industry
 მსოფლიო,world
 მსოფლიო ომი,world war
-მსოფლიო ქსელი,World Wide Web
 მსოფლიო ქსელი,WWW
+მსოფლიო ქსელი,World Wide Web
 მსუქანი,fat
 მსუქანი,obese
-გათქვირებული,fat
-გათქვირებული,obese
 მსხალი,pear
 მსხვერპლი,sacrifice
+მსჯავრი,judgement
+მსჯავრი,judgement (sentence)
+მსჯავრი,sentence
 მტაცებელი,predator
 მტაცებელი ფრინველი,bird of prey
 მტერი,enemy
 მტვერი,dust
 მტვერი,pollen
-ყვავილის მტვერი,pollen
 მტვერსასრუტი,vacuum cleaner
 მტკნარი წყალი,freshwater
-მტრედი,pigeon
 მტრედი,dove
+მტრედი,pigeon
 მუზეუმი,museum
-მუმბაი,Mumbai
 მუმბაი,Bombay
-ბომბეი,Mumbai
-ბომბეი,Bombay
+მუმბაი,Mumbai
 მუნჯი,dumb
 მუსიკა,music
+მუსიკალური ინსტრუმენტი,instrument
+მუსიკალური ინსტრუმენტი,musical instrument
 მუსიკოსი,musician
+მუშახელი,labour force
 მუცელფეხიანები,gastropod
 მუხა,oak
+მფლობელი,owner
+მღვიმე,cave
 მღრღნელი,rodent
 მყინვარი,glacier
 მშვიდობა,peace
+მშვიდობით,adieu
+მშვიდობით,bye
+მშვიდობით,cheerio
+მშვიდობით,farewell
+მშვიდობით,good day
+მშვიდობით,goodbye
 მშვილდი,bow
 მშვილდოსანი,Sagittarius
 მშობიარობა,birth
@@ -1772,29 +1780,35 @@ Georgia,Georgia
 მშობიარობა,childbirth
 მშობიარობა,childbirth
 მშობიარობა,childbirth
-მშობიარობა,parturition
 მშობიარობა,deliver
+მშობიარობა,parturition
 მშრალი,dry
 მცენარე,plant
 მცენარეული ბოჭკო,plant textile fibre
 მცენარეული ზეთი,vegetable oil
+მცირე,short
+მცირე,small
 მძევალი,hostage
 მძიმე,heavy
 მძიმე ლითონი,heavy metal
 მწერი,insect
 მწერიჭამია,insectivore
+მწვანე კონცხის რესპუბლიკა,Cape Verde
+მწვანე კონცხის რესპუბლიკა,Republic of Cape Verde
 მწყემსი,shepherd
-მეცხვარე,shepherd
 მჭედელი,blacksmith
 მხატვარი,artist
 მხატვარი,creative person
-ხელოვანი,artist
-ხელოვანი,creative person
 მხედარი,knight
 მხედარი,knight
 ნაგავსაყრელი,waste dump
+ნაგებობა,building
+ნადირი,game
 ნადირი,nadir
 ნადირობა,hunting
+ნადირობის ლიცენზია,hunting licence
+ნაერთი,chemical compound
+ნაერთი,compound
 ნავთი,kerosene
 ნავთობი,petroleum
 ნავიგაცია,navigation
@@ -1802,14 +1816,13 @@ Georgia,Georgia
 ნათლისღება,Epiphany
 ნაირობი,Nairobi
 ნაკადული,brook
-რუ,brook
+ნაკელი,manure
 ნაკიანი წელიწადი,leap year
 ნალექი,sediment
 ნამიბია,Namibia
 ნაპირზე,ashore
 ნაპირი,bank
 ნაპირი,coast
-სანაპირო,coast
 ნარჩენები,waste
 ნატრიუმი,sodium
 ნაურუ,Nauru
@@ -1820,10 +1833,12 @@ Georgia,Georgia
 ნაყოფი,fruit
 ნაშიერი,young
 ნაცარი,ash
-ფერფლი,ash
 ნაციონალიზაცია,nationalisation
 ნაწილაკი,particle
 ნაწლავღრუიანები,coelenterate
+ნახაზი,design
+ნახაზი,design (project)
+ნახაზი,project design
 ნახევარგამტარი,semiconductor
 ნახევარკუნძული,peninsula
 ნახვამდის,adieu
@@ -1832,22 +1847,17 @@ Georgia,Georgia
 ნახვამდის,farewell
 ნახვამდის,good day
 ნახვამდის,goodbye
-მშვიდობით,adieu
-მშვიდობით,bye
-მშვიდობით,cheerio
-მშვიდობით,farewell
-მშვიდობით,good day
-მშვიდობით,goodbye
 ნახშირბადი,carbon
 ნახშირბადის მონოქსიდი,carbon monoxide
 ნახშირი,coal
-ქვანახშირი,coal
 ნახშირორჟანგი,carbon dioxide
 ნახშირწყალბადი,hydrocarbon
 ნახშირწყალი,carbohydrate
 ნეაპოლი,Naples
 ნეაპოლური,Neapolitan
 ნეაპოლური,Neapolitan
+ნეგარა-ბრუნეი-დარუსალამის სახელმწიფო,Brunei
+ნეგარა-ბრუნეი-დარუსალამის სახელმწიფო,Negara Brunei Darussalam
 ნედლეული,raw material
 ნევროლოგია,neurology
 ნეკი,little finger
@@ -1867,7 +1877,6 @@ Georgia,Georgia
 ნერვული სისტემა,nervous system
 ნესტო,nostril
 ნეხვი,manure
-ნაკელი,manure
 ნიადაგი,soil
 ნიადაგის გაპატივება,soil fertilisation
 ნიადაგის ნაყოფიერება,soil fertility
@@ -1878,31 +1887,30 @@ Georgia,Georgia
 ნიდერლანდი,Holland
 ნიდერლანდი,Kingdom of the Netherlands
 ნიდერლანდი,The Netherlands
-ჰოლანდია,Holland
-ჰოლანდია,Kingdom of the Netherlands
-ჰოლანდია,The Netherlands
 ნიკარაგუა,Nicaragua
 ნიკელი,nickel
 ნილსბორიუმი,dubnium
 ნიობიუმი,niobium
 ნისლი,fog
-ბურუსი,fog
 ნისლი,mist
-თხელი ნისლი,mist
 ნიტრატი,nitrate
 ნიუ-იორკი,New York
 ნიუე,Niue
 ნობელიუმი,nobelium
 ნოემბერი,November
-ნორვეგია,Norway
 ნორვეგია,Kingdom of Norway
+ნორვეგია,Norway
 ნორვეგიული,Norwegian
-ნოტი,note
 ნოტა,note
-ნული,zero
+ნოტი,note
+ნუ,not
 ნული,null
+ნული,zero
 ნუში,almond
 ობობა,spider
+ობობას ქსელი,cobweb
+ობობას ქსელი,spider web
+ობობას ქსელი,web
 ობოლი,orphan
 ოზონი,ozone
 ოზონის შრე,ozone layer
@@ -1910,10 +1918,10 @@ Georgia,Georgia
 ოთხკუთხედი,quadrilateral
 ოთხშაბათი,Wednesday
 ოთხშაბათი,quarta-feira
-ოკეანე,ocean
-ოკეანე,sea
 ოკეანე,body of water
 ოკეანე,bounding main
+ოკეანე,ocean
+ოკეანე,sea
 ოკეანია,Oceania
 ოკეანოგრაფია,oceanography
 ოკლაჰომა,Oklahoma
@@ -1922,8 +1930,8 @@ Georgia,Georgia
 ომანი,Oman
 ომანი,Sultanate of Oman
 ომეგა,omega
-ომი,war
 ომი,ohm
+ომი,war
 ომონიმი,homonym
 ონკოლოგია,oncology
 ონლაინ მომსახურება,on-line service
@@ -1934,7 +1942,6 @@ Georgia,Georgia
 ონტოლოგია,ontology
 ოპერა,opera
 ოპიუმი,opium
-თრიაქი,opium
 ოპტიკა,optics
 ორაგული,salmon
 ორგანიზაცია,organisation (law)
@@ -1952,6 +1959,7 @@ Georgia,Georgia
 ოროგრაფია,orography
 ორსულობა,pregnancy
 ორფრთიანები,dipteran
+ორქიდეა,orchid
 ორშაბათი,Monday
 ოსლო,Oslo
 ოსმიუმი,osmium
@@ -1965,8 +1973,8 @@ Georgia,Georgia
 ოჯახი,family
 ოჯახი,household
 პათოლოგია,pathology
-პაკისტანი,Pakistan
 პაკისტანი,Islamic Republic of Pakistan
+პაკისტანი,Pakistan
 პალადიუმი,palladium
 პალაუ,Palau
 პალეოეკოლოგია,palaeoecology
@@ -1977,8 +1985,8 @@ Georgia,Georgia
 პამიდორი,tomato
 პანამა,Panama
 პანდემია,pandemic
+პაპა,grandfather
 პაპი,pope
-რომის პაპი,pope
 პაპუა-ახალი გვინეა,Papua New Guinea
 პარაბოლა,parabola
 პარაგვაი,Paraguay
@@ -1986,20 +1994,19 @@ Georgia,Georgia
 პარასკევი,Friday
 პარაშუტი,parachute
 პარიზი,Paris
+პარიკმახერი,barber
+პარიკმახერი,hairdresser
 პატარა,short
 პატარა,small
-მცირე,short
-მცირე,small
 პატარა ქოფაკი,Canis Minor
+პატივმოყვარე,ambitious
 პატრონი,owner
-მფლობელი,owner
-მესაკუთრე,owner
 პაციფისტი,pacifist
 პედაგოგიკა,pedagogy
 პედიატრი,paediatrician
 პეკინი,Beijing
-პენჯაბური,Punjabi
 პენჯაბური,Panjabi
+პენჯაბური,Punjabi
 პეპელა,butterfly
 პერუ,Peru
 პერუ,Republic of Peru
@@ -2060,25 +2067,30 @@ Georgia,Georgia
 პრობლემა,problem
 პროგრამა,programme
 პროგრამული უზრუნველყოფა,software
-პროექტი,design (project)
 პროექტი,design
+პროექტი,design (project)
 პროექტი,project design
-ნახაზი,design (project)
-ნახაზი,design
-ნახაზი,project design
 პრომეთიუმი,promethium
 პროსტატა,prostate
 პროსტიტუცია,prostitution
 პროტაქტინიუმი,protactinium
+პროტეინი,poly peptide
+პროტეინი,protein
 პროტესტი,objection
-შეპასუხება,objection
+პროფესია,employment
+პროფესია,employment
+პროფესია,job
+პროფესია,job
+პროფესია,occupation
+პროფესია,work
+პროფესია,work
 პროფკავშირი,trades union
 პროცენტი,interest
 პუერტო-რიკო,Puerto Rico
 პური,bread
 პურის მცხობელი,baker
-ხაბაზი,baker
-მეთონე,baker
+პუტჩი,coup d'état
+პუტჩი,putsch
 ჟანგბადი,oxygen
 ჟანგი,oxide
 ჟესტების ენა,sign language
@@ -2093,60 +2105,64 @@ Georgia,Georgia
 რაბინი,rabbi
 რადიაცია,radiation
 რადიაცია,radiations
-გამოსხივება,radiation
-გამოსხივება,radiations
 რადიო პროგრამა,radio programme
 რადიოლოგია,radiology
 რადიუმი,radium
 რადონი,radon
 რამადანი,Ramadan
+რეაბილიტაცია,rehabilitation
+რეაბილიტაცია,återställande
 რეალობა,reality
-სინამდვილე,reality
+რეზერვუარი,reservoir
 რეზერფორდიუმი,rutherfordium
+რეზულტატი,effect
 რეკლამა,advertisement
 რეკლამა,promotion
 რელიგია,religion
 რენესანსი,renaissance
-აღორძინების ხანა,renaissance
 რენიუმი,rhenium
 რესურსების გამოყენება,resource utilisation
 რესურსი,resource
 რესურსი,resources
-რეფერენდუმი,referendum
 რეფერენდუმი,plebiscite
+რეფერენდუმი,referendum
 რეცეპტი,recipe
 რვა,eight
 რვაფეხა,octopus
 რიფი,reef
 რკინა,iron
 რკინიგზა,railway
-რკინიგზის ვაგონი,railroad vehicle
 რკინიგზის ვაგონი,carriage
+რკინიგზის ვაგონი,railroad vehicle
 რკინიგზის ვაგონი,wagon
 რკო,acorn
 როდიუმი,rhodium
 რომანი,novel
-რომბი,rhombus
 რომბი,rhomb
+რომბი,rhombus
 რომი,Rome
+რომის პაპი,pope
 რონა,Rhône
+რუ,brook
 რუბიდიუმი,rubidium
 რუთენიუმი,ruthenium
 რუკა,map
 რუმინეთი,Romania
-რუმინული,Romanian
 რუმინული,Romanaian
+რუმინული,Romanian
 რუსეთი,Russia
 რუსეთი,Russian Federation
 რუსული,Russian
 რუსული,Russian
 რჩევა,advice
 რძე,milk
-რძის პროდუქტი,dairy product
+რძიანი გზა,Galaxy
+რძიანი გზა,Milky Way
 რძის ნაწარმი,dairy product
+რძის პროდუქტი,dairy product
 რწყილი,flea
-საავადმყოფო,hospital
 საავადმყოფო,clinic
+საავადმყოფო,hospital
 საავტომობილო გზების ქსელი,road network
 საათი,hour
 საანგარიშე,abacus
@@ -2156,8 +2172,6 @@ Georgia,Georgia
 საბურავი,tyre
 საგანი,subject
 საგანი,topic
-თემა,subject
-თემა,topic
 საგანმანათლებლო სისტემა,educational system
 საგარეო ვაჭრობა,foreign trade
 სადაზღვევო ბიზნესი,insurance business
@@ -2168,41 +2182,39 @@ Georgia,Georgia
 სადილი,lunch
 სადილი,luncheon
 სადოკუმენტაციო ცენტრი,documentation centre
-საელჩო,embassy
 საელჩო,diplomatic mission
+საელჩო,embassy
 საერთაშორისო დახმარება,international assistance
 საერთაშორისო თანამშრომლობა,international co-operation
 საერთაშორისო ორგანიზაცია,international organisation
 საერთაშორისო ურთიერთობები,international relations
 საერთო,general
-ზოგადი,general
 სავაჭრო ცენტრი,shopping centre
 სავსე,full
-საზოგადოება,society
 საზოგადოება,public
-საზოგადოებრიობა,public
+საზოგადოება,society
 საზოგადოებრივი აზრი,public opinion
 საზოგადოებრივი ქცევა,social behaviour
-სოციალური ქცევა,social behaviour
+საზოგადოებრიობა,public
+საზრდო,food
 საზღვარი,border
 საზღვარი,boundary
-მიჯნა,boundary
 სათხილამურო სპორტი,skiing
 საიდუმლო,secret
 საინსპექციო სამსახური,inspection service
 საინფორმაციო ცენტრი,information centre
 საირიგაციო სისტემა,irrigation system
+საკვამლე მილი,chimney
 საკვები,fodder
-საკვები,provender
+საკვები,food
 საკვები,forage
-ფურაჟი,fodder
-ფურაჟი,provender
-ფურაჟი,forage
+საკვები,provender
+საკვები პროდუქტი,foodstuff
 საკვერცხე,ovary
-საკუთრება,property
+საკრავი,instrument
+საკრავი,musical instrument
 საკუთრება,asset
-ქონება,property
-ქონება,asset
+საკუთრება,property
 სალათა,lettuce
 სალამანდრა,salamander
 სალვადორი,El Salvador
@@ -2210,8 +2222,6 @@ Georgia,Georgia
 სამართალი,law
 სამართალი,law
 სამართალი,law (science)
-იურისპრუდენცია,law
-იურისპრუდენცია,law (science)
 სამარიუმი,samarium
 სამეცნიერო თანამშრომლობა,scientific co-operation
 სამთავრობო პოლიტიკა,government policy
@@ -2221,8 +2231,11 @@ Georgia,Georgia
 სამკურნალო მცენარე,medicinal plant
 სამოა,Samoa
 სამოთხის ჩიტი,Apus
+სამოსი,apparel
+სამოსი,clothing
 სამოქალაქო სამართალი,civil law
 სამრეწველო ეკონომიკა,industrial economics
+სამსახური,employment
 სამსახური,employment
 სამსახური,employment
 სამსახური,job
@@ -2237,35 +2250,29 @@ Georgia,Georgia
 სამუშაო,occupation
 სამუშაო,work
 სამუშაო,work
-პროფესია,employment
-პროფესია,employment
-პროფესია,job
-პროფესია,job
-პროფესია,occupation
-პროფესია,work
-პროფესია,work
-სამსახური,employment
-საქმიანობა,employment
 სამუშაო ადგილი,workplace
 სამუშაო ძალა,labour force
-მუშახელი,labour force
 სამშაბათი,Tuesday
 სამშენებლო მასალა,building material
 სამშენებლო მოედანი,building site
+სამხედრო ბანაკი,army camp
+სამხედრო ბანაკი,camp
+სამხედრო ბანაკი,campsite
+სამხედრო ბანაკი,military camp
 სამხრეთ აფრიკის რესპუბლიკა,South Africa
 სამხრეთ-აღმოსავლეთი აზია,Southeast Asia
-სამხრეთი აზია,Southern Asia
 სამხრეთი აზია,South Asia
+სამხრეთი აზია,Southern Asia
 სამხრეთი ამერიკა,South America
-სამხრეთი კორეა,South Korea
 სამხრეთი კორეა,Republic of Korea
+სამხრეთი კორეა,South Korea
 სამხრეთის ოკეანე,Antarctic Ocean
 სამხრეთის ოკეანე,Southern Ocean
 სან-მარინო,San Marino
 სანადირო ლიცენზია,hunting licence
-ნადირობის ლიცენზია,hunting licence
-სანერგე,nursery (plant breeding)
+სანაპირო,coast
 სანერგე,nursery
+სანერგე,nursery (plant breeding)
 სანერგე,plant nursery
 სანთელი,candle
 სანსკრიტი,Sanskrit
@@ -2275,23 +2282,24 @@ Georgia,Georgia
 სანქტ-პეტერბურგი,Saint Petersburg
 სანქტ-პეტერბურგი,St. Petersburg
 საპონი,soap
+სარგებელი,profit
 სარდაფი,basement
 სარდინი,sardine
 სარეველა,weed
 სასაათო სარტყელი,timezone
-სასაკლაო,slaughterhouse
-სასაკლაო,slaughter-house
 სასაკლაო,abattoir
 სასაკლაო,butchery
 სასაკლაო,shambles
+სასაკლაო,slaughter-house
+სასაკლაო,slaughterhouse
 სასამართლო,court
 სასამართლო გარჩევა,case
 სასამართლო გარჩევა,lawsuit
 სასამართლო გარჩევა,trial
+სასამართლო დავა,litigation
 სასამართლო პროცესი,case
 სასამართლო პროცესი,lawsuit
 სასამართლო პროცესი,trial
-სასამართლო დავა,litigation
 სასარგებლო,useful
 სასმელი,beverage
 სასმელი,drink
@@ -2302,24 +2310,29 @@ Georgia,Georgia
 სასწრაფო დახმარების მანქანა,ambulance
 სატაცური,asparagus
 სატელევიზიო პროგრამა,television programme
+სატელიტი,satellite
 სატრანსპორტო საშუალება,vehicle
 სატურნი,Saturn
-საუდის არაბეთი,Saudi Arabia
 საუდის არაბეთი,Kingdom of Saudi Arabia
+საუდის არაბეთი,Saudi Arabia
 საუზმე,breakfast
 საფირონი,sapphire
 საფრანგეთი,France
 საფრანგეთის გვიანა,French Guiana
 საფრანგეთის რევოლუცია,French Revolution
 საფრანგეთის სამხრეთი პოლარული მიწები,French Southern Territories
-საფრანგეთის სამხრეთი პოლარული მიწები,French Southern and Antarctic LandsA
 საფრანგეთის სამხრეთი პოლარული მიწები,French Southern and Antarctic Lands
+საფრანგეთის სამხრეთი პოლარული მიწები,French Southern and Antarctic LandsA
 საფრანგეთის სამხრეთი პოლარული მიწები,Territory of the French Southern and Antarctic Lands
 საფრთხე,hazard
-საშიშროება,hazard
 საფუარი,yeast
+საფუნთუშე,baker
+საფუნთუშე,bakery
 საქართველო,Georgia
+საქმიანობა,employment
 საქმის მოსმენა,official hearing
+საქმოსანი,entrepreneur
+საქონელი,goods
 საქსონია,Saxony
 საქსოფონი,saxophone
 საღამო მშვიდობისა,good evening
@@ -2327,66 +2340,67 @@ Georgia,Georgia
 საღებავი,paint
 საყვირი,trumpet
 საყოფაცხოვრებო ტექნიკა,domestic appliance
+საშიშროება,hazard
 საშობაო ნაძვის ხე,Christmas tree
 საშუალო განათლება,secondary education
 საცურაო აუზი,swimming pool
+საცხოვრებელი,dwelling
 საცხოვრებელი სახლი ფერმაში,farm building
-საძოვარი,pasture
 საძოვარი,grazing
+საძოვარი,pasture
+საწამლავი,poison
 საწოლი,bed
-ლოგინი,bed
 საჭიროება,need
-მოთხოვნილება,need
 საჭმელი,food
-საკვები,food
-საზრდო,food
 საჭმლის მონელება,digestion
-სახალინი,Sakhalin
 სახალინი,Saghalien
+სახალინი,Sakhalin
 სახამებელი,starch
 სახე,face
+სახედარი,ass
+სახედარი,donkey
 სახელი,name
 სახელი,proper name
 სახელი,proper noun
 სახელმწიფო,country
 სახელმწიფო,nation
 სახელმწიფო,state
-სახელმწიფო გადატრიალება,putsch
 სახელმწიფო გადატრიალება,coup d'état
-პუტჩი,putsch
-პუტჩი,coup d'état
+სახელმწიფო გადატრიალება,putsch
 სახელმწიფო ენა,official language
 სახეობა,species
 სახლი,home
 სახლი,home
 სახლი,house
 სახრახნისი,screwdriver
-სახსარი,joint
 სახსარი,articulation
-სახურავი,roof
-სახურავი,roof
-სახურავი,roof
+სახსარი,joint
 სახურავი,covering
+სახურავი,roof
+სახურავი,roof
+სახურავი,roof
 სახურავი,roofing
-გადახურვა,covering
-გადახურვა,roofing
 საჰაერო ხომალდი,aircraft
 საჰარა,sahara
-სეიშელის კუნძულები,Seychelles
 სეიშელის კუნძულები,Republic of Seychelles
-სეიშელის რესპუბლიკა,Seychelles
+სეიშელის კუნძულები,Seychelles
 სეიშელის რესპუბლიკა,Republic of Seychelles
+სეიშელის რესპუბლიკა,Seychelles
 სელენი,selenium
+სელშეკრულება,agreement
 სემანტიკა,semantics
-სემიოტიკა,semiotics
 სემიოტიკა,semiology
+სემიოტიკა,semiotics
 სენ-პიერი და მიკელონი,Saint-Pierre and Miquelon
 სენა,Seine
 სენეგალი,Senegal
-სერბია,Serbia
+სენი,affliction
+სენი,disease
+სენი,illness
 სერბეთი,Serbia
-სერბია და მონტენეგრო,Serbia and Montenegro
 სერბეთი და მონტენეგრო,Serbia and Montenegro
+სერბია,Serbia
+სერბია და მონტენეგრო,Serbia and Montenegro
 სერბული,Serbian
 სერბული,Serbian
 სერვერი,server
@@ -2395,34 +2409,26 @@ Georgia,Georgia
 სექსოლოგია,sexology
 სექსტანტი,sextant
 სექტემბერი,September
-სიარული,go
-წასვლა,go
 სვლა,go
+სიარული,go
 სიბორგიუმი,seaborgium
 სიბრტყე,plane
 სიგარა,cigar
 სიგარეტი,cigarette
+სიდედრი,mother in law
+სიდედრი,mother-in-law
 სიერა ლეონე,Sierra Leone
+სივრცე,interplanetary space
 სივრცე,space
 სივრცე,space
 სივრცე,space (interplanetary)
-სივრცე,interplanetary space
-კოსმოსური სივრცე,space
-კოსმოსური სივრცე,space
-კოსმოსური სივრცე,space (interplanetary)
-კოსმოსური სივრცე,interplanetary space
-კოსმოსი,space
-კოსმოსი,space
-კოსმოსი,space (interplanetary)
-კოსმოსი,interplanetary space
 სითბო,heat
 სითხე,liquid
-სიკვდილით დასჯა,death penalty
 სიკვდილით დასჯა,capital punishment
+სიკვდილით დასჯა,death penalty
 სიკვდილით დასჯა,death sentence
+სილა,sand
 სილიციუმი,silicon
-კრემნიუმი,silicon
-კაჟბადი,silicon
 სიმაგრე,hardness
 სიმართლე,truth
 სიმაღლე,altitude
@@ -2433,7 +2439,7 @@ Georgia,Georgia
 სიმფონია,symphony
 სინაგოგა,synagogue
 სინათლე,light
-შუქი,light
+სინამდვილე,reality
 სინგაპური,Singapore
 სინდრომი,syndrome
 სინდური,Sindhi
@@ -2442,24 +2448,22 @@ Georgia,Georgia
 სირაქლემა,ostrich
 სირია,Syria
 სირია,Syrian Arab Republic
-სისხლდენა,haemorrhage
+სისწრაფე,rate
 სისხლდენა,bleeding
+სისხლდენა,haemorrhage
 სისხლი,blood
 სისხლის პლაზმა,blood plasma
 სისხლის სამართალი,criminal law
-სიტყვა,word
 სიტყვა,speech
-გამოსვლა,speech
+სიტყვა,word
 სიფილისი,syphilis
 სიღარიბე,poverty
 სიღატაკე,poverty
 სიყვარული,love
-სიჩქარე,speed
 სიჩქარე,rate
-სისწრაფე,rate
+სიჩქარე,speed
 სიცივე,cold
 სიცილი,laugh
-გაცინება,laugh
 სიცილიური,Sicilian
 სიცილიური,Sicilian
 სიძულვილი,hate
@@ -2469,20 +2473,23 @@ Georgia,Georgia
 სკანდიუმი,scandium
 სკოლა,school
 სკუმბრია,mackerel
-მაკრელი,mackerel
 სლავიანური,Slovene
 სლავიანური,Slovenian
 სლავიანური,Slovenian
-სლოვენური,Slovene
-სლოვენური,Slovenian
-სლოვენური,Slovenian
 სლოვაკეთი,Slovakia
 სლოვაკური,Slovak
 სლოვაკური,Slovak
 სლოვენია,Slovenia
+სლოვენური,Slovene
+სლოვენური,Slovenian
+სლოვენური,Slovenian
+სმა,drink
+სმა,gulp
+სმა,quaff
+სმა,sip
 სმენა,hearing
-სოკო,mushroom
 სოკო,fungus
+სოკო,mushroom
 სოლომონის კუნძულები,Solomon Islands
 სომალური,Somali
 სომალური,somali
@@ -2496,17 +2503,27 @@ Georgia,Georgia
 სოფლის მეურნეობა,agriculture
 სოციალური დაცვა,social protection
 სოციალური კეთილდღეობა,social welfare
+სოციალური ქცევა,social behaviour
 სოციოლინგვისტიკა,sociolinguistics
 სოციოლინგვისტიკა,sociology of language
 სოჭი,Sochi
+სპარსული,Farsi
+სპარსული,Persian
+სპარსული,Western Farsi
 სპილენძი,copper
 სპილო,elephant
 სპილოს ძვალი,ivory
+სპილოს ძვლის ნაპირი,Cote d'Ivoire
+სპილოს ძვლის ნაპირი,Ivory Coast
+სპილოს ძვლის ნაპირი,Republic of Cote d'Ivoire
 სპორტი,sport
 სპორტული თევზაობა,angling
 სპორტული თევზაობა,fishing
 სპორტული თევზაობა,line-fishing
 სტანდარტი,standard
+სტანდარტული ჩინური,Mandarin
+სტანდარტული ჩინური,Standard Mandarin
+სტანდარტული ჩინური,mandarin
 სტერილიზაცია,sterilisation
 სტიბიუმი,antimony
 სტიქიური უბედურება,natural disaster
@@ -2520,44 +2537,44 @@ Georgia,Georgia
 სუპერნოვა,supernova
 სურინამი,Suriname
 სურსათი,foodstuff
-საკვები პროდუქტი,foodstuff
 სფინქსი,sphinx
-სქესი,sex
 სქესი,gender
+სქესი,sex
 სცენა,stage
 სწავლა,learn
 სწავლება,teach
 სწავლება,teaching
+სხვენი,attic
 ტაგალოგი,Tagalog
-ფილიპინური,Tagalog
 ტაივანი,Taiwan
 ტაილანდი,Thailand
-ტაიური,Thai
-ტაიური,Thai
 ტაილანდური,Thai
 ტაილანდური,Thai
+ტაიური,Thai
+ტაიური,Thai
 ტალახი,mud
 ტალახი,sludge
 ტამილური,Tamil
 ტამილური,Tamil
 ტანზანია,Tanzania
+ტანისამოსი,apparel
+ტანისამოსი,clothing
 ტანკერი,tanker
 ტანკერი,tanker (ship)
-ტანსაცმელი,clothing
 ტანსაცმელი,apparel
-ტანისამოსი,clothing
-ტანისამოსი,apparel
-სამოსი,clothing
-სამოსი,apparel
+ტანსაცმელი,clothing
 ტანტალი,tantalum
 ტარაკანი,cockroach
 ტაქსონომია,taxonomy
 ტაჯიკეთი,Tajikistan
 ტაჯიკური,Tajik
 ტბა,lake
+ტბორი,pool
+ტბორი,puddle
+ტბორი,puddle
 ტელევიზორი,television
-ტელეკომუნიკაცია,telecommunications
 ტელეკომუნიკაცია,telecommunication
+ტელეკომუნიკაცია,telecommunications
 ტელემეტრია,telemetry
 ტელეფონი,phone
 ტელეფონი,telephone
@@ -2567,14 +2584,10 @@ Georgia,Georgia
 ტემპერატურა,temperature
 ტენესი,Tennessee
 ტენი,moisture
-ტერაკოტა,terracotta
-ტერაკოტა,terracotta
-ტერაკოტა,terracotta
 ტერაკოტა,terra cotta
-გამომწვარი თიხა,terracotta
-გამომწვარი თიხა,terracotta
-გამომწვარი თიხა,terracotta
-გამომწვარი თიხა,terra cotta
+ტერაკოტა,terracotta
+ტერაკოტა,terracotta
+ტერაკოტა,terracotta
 ტერბიუმი,terbium
 ტერიტორია,territory
 ტერმინოლოგია,terminology
@@ -2598,14 +2611,9 @@ Georgia,Georgia
 ტოქსიკოლოგია,toxicology
 ტოქსიკური ნივთიერება,toxic substance
 ტრაექტორია,trajectory
+ტრავმა,injury
 ტრანსპორტირება,transport
 ტრანსპორტირება,transportation
-გადაყვანა,transport
-გადაყვანა,transportation
-გადატანა,transport
-გადატანა,transportation
-გადაზიდვა,transport
-გადაზიდვა,transportation
 ტრიგონომეტრია,trigonometry
 ტროლეიბუსი,trolley bus
 ტროლეიბუსი,trolleybus
@@ -2618,29 +2626,28 @@ Georgia,Georgia
 ტურბინა,turbine
 ტურიზმი,tourism
 ტუჩი,lip
-ბაგე,lip
 ტყავი,leather
 ტყავი,skin
-კანი,skin
 ტყე,forest
 ტყე,wood
-ტყვია,lead
 ტყვია,bullet
+ტყვია,lead
 ტყის აღდგენა,reforestation
+ტყის გაშენება,afforestation
+ტყის გაშენება,afforestment
+ტყის გაშენება,tree planting
 ტყუპი,twin
 უბე,creek
-უგანდა,Uganda
 უგანდა,Republic of Uganda
+უგანდა,Uganda
 უდაბნო,desert
+უდავოდ,absolutely
 უელსი,Wales
 უელსური,Welsh
 უელსური,Welsh
-უეცარი,sudden
 უეცარი,abrupt
 უეცარი,precipitous
-მოულოდნელი,sudden
-მოულოდნელი,abrupt
-მოულოდნელი,precipitous
+უეცარი,sudden
 უკანონო ქმედება,wrongful act
 უკეთესი,better
 უკრაინა,Ukraine
@@ -2650,22 +2657,22 @@ Georgia,Georgia
 უნგრეთი,Hungary
 უნგრეთი,Republic of Hungary
 უნგრული,Hungarian
-უნივერსიტეტი,university
-უნივერსიტეტი,university
 უნივერსიტეტი,academy
-ურანი,uranium
+უნივერსიტეტი,university
+უნივერსიტეტი,university
 ურანი,Uranus
+ურანი,uranium
 ურბანიზაცია,urbanisation
 ურდუ,Urdu
 ურდუ,Urdu
+ურთიერთშეთანხმება,agreement
 უსაფრთხოების ზომა,safety measure
-უცნაური,strange
 უცნაური,odd
+უცნაური,strange
 უცხოელი,foreign
 უცხოური,foreign
 უძრავი ქონების გაქირავება,estate rental
 უწიგნური,illiterate
-წერა-კითხვის უცოდინარი,illiterate
 უხერხემლო,invertebrate
 უჯრედი,cell
 უჯრედი,cell
@@ -2675,32 +2682,28 @@ Georgia,Georgia
 ფანჯარა,window
 ფარანი,lantern
 ფარერის კუნძულები,Faroe Islands
-ფარერული,Faroese
 ფარერული,Faeroese
+ფარერული,Faroese
 ფარისებრი ჯირკვალი,thyroid
 ფარმაკოლოგია,pharmacology
 ფარმაცევტი,chemist
 ფარმაცევტი,pharmacist
+ფარსიული,Farsi
 ფარსიული,Persian
 ფარსიული,Western Farsi
-ფარსიული,Farsi
-სპარსული,Persian
-სპარსული,Western Farsi
-სპარსული,Farsi
 ფასი,price
 ფაუნა,fauna
 ფაღარათი,diarrhea
 ფაშატი,mare
-ჭაკი,mare
 ფაშიზმი,fascism
-ფერი,colour
-ფერი,colour
+ფერდობი,slope
 ფერი,colo(u)r
+ფერი,colour
+ფერი,colour
 ფერმა,farm
-მეურნეობა,farm
 ფერმენტაცია,fermentation
-დადუღება,fermentation
 ფერმიუმი,fermium
+ფერფლი,ash
 ფესვი,root
 ფეტვი,millet
 ფეხბურთი,football
@@ -2708,12 +2711,14 @@ Georgia,Georgia
 ფეხის თითი,toe
 ფეხსაცმელი,shoe
 ფეხსახსრიანები,arthropod
+ფთორი,fluorine
 ფიზიკა,physics
 ფიზიკური გეოგრაფია,physical geography
 ფიზიკური პროცესი,physical process
 ფიზიკური ქიმია,physical chemistry
 ფიზიოლოგია,physiology
 ფილიპინები,Philippines
+ფილიპინური,Tagalog
 ფილმი,film
 ფილოლოგია,philology
 ფილოსოფია,philosophy
@@ -2722,23 +2727,13 @@ Georgia,Georgia
 ფინეთი,Republic of Finland
 ფინური,Finnish
 ფირი,film
-ფირმა,firm
+ფირმა,company
 ფირმა,corporation
 ფირმა,enterprise
-ფირმა,company
+ფირმა,firm
 ფირმა,venture
-კომპანია,firm
-კომპანია,corporation
-კომპანია,enterprise
-კომპანია,company
-კომპანია,venture
-კორპორაცია,firm
-კორპორაცია,corporation
-კორპორაცია,enterprise
-კორპორაცია,company
-კორპორაცია,venture
-ფიჭვი,pino
 ფიჭვი,pine
+ფიჭვი,pino
 ფიჯი,Fiji
 ფიჯი,Republic of the Fiji Islands
 ფიჯის კუნძულების რესპუბლიკა,Fiji
@@ -2748,13 +2743,12 @@ Georgia,Georgia
 ფლანდრია,Flemish region
 ფლევოლანდი,Flevoland
 ფლეიტა,flute
-ფლორა,flora (biology)
 ფლორა,flora
+ფლორა,flora (biology)
 ფოთლები,foliage
 ფოთოლი,leaf
 ფოლადი,steel
 ფოლკლენდის კუნძულები,Falkland Islands
-მალვინის კუნძულები,Falkland Islands
 ფონეტიკა,phonetics
 ფონი,ford
 ფორთოხალი,orange
@@ -2778,54 +2772,54 @@ Georgia,Georgia
 ფრენბურთი,volleyball
 ფრიზული,Frisian
 ფრიზული,Western Frisian
+ფრინველი,bird
 ფსიქიატრი,psychiatrist
 ფსიქოლოგია,psychology
 ფტორი,fluorine
-ფთორი,fluorine
+ფუნდამენტური,fundamental
+ფურაჟი,fodder
+ფურაჟი,forage
+ფურაჟი,provender
 ფურნე,baker
 ფურნე,bakery
-საფუნთუშე,baker
-საფუნთუშე,bakery
 ფუტკარი,bee
 ფუძე,base
 ფუძი,Mount Fuji
-მთა ფუძი,Mount Fuji
 ქათამი,chicken
 ქათმისნაირნი,gallinacean
 ქალაქი,city
+ქალაქი-სახელმწიფო ვატიკანი,State of the Vatican City
+ქალაქი-სახელმწიფო ვატიკანი,The Holy See
+ქალაქი-სახელმწიფო ვატიკანი,Vatican City
 ქალაქის ცენტრი,city centre
 ქალი,female
 ქალი,woman
-დიაცი,female
-დიაცი,woman
 ქანი,rock
 ქაოსის თეორია,chaos theory
 ქართული,Georgian
 ქართული,Georgian
-グルジア語,Georgian
-グルジア語,Georgian
 ქარი,wind
 ქარის წისქვილი,windmill
 ქარიშხალი,hurricane
+ქარიშხალი,storm
+ქარიშხალი,tempest
 ქაღალდი,paper
 ქერი,barley
 ქერცლფრთიანები,lepidopteran
 ქვა,stone
+ქვანახშირი,coal
 ქვემო საქსონია,Lower Saxony
 ქვეწარმავალი,reptile
 ქვეწარმავალი,reptile
 ქვეწარმავალი,reptile
 ქვიშა,sand
-სილა,sand
 ქიმია,chemistry
 ქიმიკატი,chemical
 ქიმიური ანალიზი,chemical analysis
 ქიმიური ელემენტი,chemical element
 ქიმიური ელემენტი,element
-ქიმიური ნაერთი,compound
 ქიმიური ნაერთი,chemical compound
-ნაერთი,compound
-ნაერთი,chemical compound
+ქიმიური ნაერთი,compound
 ქიმიური სასუქი,chemical fertiliser
 ქირურგი,surgeon
 ქირურგია,surgery
@@ -2833,34 +2827,33 @@ Georgia,Georgia
 ქლოროფილი,chlorophyll
 ქმარი,husband
 ქმარი,spouse
-მეუღლე,husband
-მეუღლე,spouse
 ქოლესტერინი,cholesterol
+ქონება,asset
 ქონება,goods
-საქონელი,goods
-ბარგი-ბარხანა,goods
+ქონება,property
 ქორდიანები,chordate
-ქოქოსი,kokosnoot
 ქოქოსი,coconut
+ქოქოსი,kokosnoot
 ქრომი,chromium
 ქრომოსომა,chromosome
 ქსენონი,xenon
 ქსილოფონი,xylophone
 ქსოვილი,fabric
 ქსოვილი,tissue
+ქუხილი,thunder
 ქცევა,behaviour
 ღაზას სექტორი,Gaza Strip
 ღვთისმეტყველება,theology
-თეოლოგია,theology
 ღვინო,wine
 ღვიძლი,liver
 ღიმილი,smile
 ღირებულება,cost
+ღირებული,valuable
 ღრიანკალი,Scorpio
 ღრუბელი,cloud
 ღუზა,anchor
-ღუმელი,oven
 ღუმელი,furnace
+ღუმელი,oven
 ღუმელი,stove
 ყავა,coffee
 ყაზახეთი,Kazakhstan
@@ -2870,10 +2863,11 @@ Georgia,Georgia
 ყანჩა,heron
 ყარყატი,stork
 ყასაბი,butcher
-ყვავილი,flower
 ყვავილი,bloom
 ყვავილი,blossom
+ყვავილი,flower
 ყვავილი,smallpox
+ყვავილის მტვერი,pollen
 ყვავილოვანი კომბოსტო,cauliflower
 ყვავილოვანი მცენარე,angiosperm
 ყვავილოვანი მცენარე,flowering plant
@@ -2881,14 +2875,11 @@ Georgia,Georgia
 ყვითელი,yellow
 ყიდვა,buy
 ყიდვა,purchase
-შეძენა,buy
-შეძენა,purchase
-შესყიდვა,buy
-შესყიდვა,purchase
 ყინული,ice
 ყინულის ჰოკეი,ice hockey
-ყირგიზეთი,Kyrgyzstan
 ყირგიზეთი,Kyrgyz Republic
+ყირგიზეთი,Kyrgyzstan
+ყმაწვილი,boy
 ყოველთვის,anytime
 ყრუ,deaf
 ყურე,bay
@@ -2906,84 +2897,89 @@ Georgia,Georgia
 შაქარი,sugar
 შედარება,comparison
 შედეგი,effect
-რეზულტატი,effect
-ეფექტი,effect
 შეთანხმება,agreement
-ურთიერთშეთანხმება,agreement
-ხელშეკრულება,agreement
-სელშეკრულება,agreement
 შეიარაღებული ძალები,armed forces
+შეკერვა,sew
 შეკრება,addition
 შემოდგომა,autumn
 შემოკლება,abbreviation
 შემოსავალი,income
+შემოსავალი,profit
 შემოსავალი,yield
 შემოსვლა,enter
-შესვლა,enter
 შენადნობი,alloy
 შენაძენი,acquisition
-მონაპოვარი,acquisition
 შენაწირი,donation
-შესაწირი,donation
-შეწირულობა,donation
 შენიღბვა,camouflage
-კამუფლაჟი,camouflage
 შენობა,building
-ნაგებობა,building
+შეპასუხება,objection
+შესაწირი,donation
+შესვლა,enter
+შესყიდვა,buy
+შესყიდვა,purchase
 შეფასება,appraisal
-შეფასება,evaluation
 შეფასება,estimate
-დაახლოებითი გაანგარიშება,estimate
+შეფასება,evaluation
 შეღებვა,coating
-დაფარვა,coating
-მოპირკეთება,coating
 შეშის მჭრელი,lumberjack
+შეძენა,buy
+შეძენა,purchase
+შეწირულობა,donation
+შეწყობა,accommodate
+შეწყობა,adapt
+შეწყობა,adjust
+შეწყობა,adjust
+შეწყობა,arrange
+შეწყობა,conform
+შეწყობა,suit
+შვებულება,holiday
+შვებულება,opor-garai
 შვედეთი,Sweden
-შვეცია,Sweden
 შვედური,Swedish
 შვეიცარია,Switzerland
 შვეულმფრენი,helicopter
-შვილება,adoption
+შვეცია,Sweden
 შვილად აყვანა,adoption
-შვილიშვილი,grandson
+შვილება,adoption
 შვილიშვილი,grandchild
+შვილიშვილი,grandson
 შთამომავლობა,posterity
 შიდსი,AIDS
 შიმპანზე,chimpanzee
-შიმშილი,hunger
-შიმშილი,hunger
-შიმშილი,hunger
 შიმშილი,famine
-შინაური ცხოველი,pet
+შიმშილი,hunger
+შიმშილი,hunger
+შიმშილი,hunger
 შინაური ცხოველი,domesticated animal
+შინაური ცხოველი,pet
 შლამი,silt
-ლამი,silt
 შობა,Christmas
 შობის კუნძული,Christmas Island
 შოკოლადი,chocolate
 შორის,between
-შუა,between
 შოტლანდია,Scotland
 შპრიცი,syringe
 შრი-ლანკა,Sri Lanka
 შრომა,labour
 შრომის ბაზარი,labour market
 შრომის კანონი,labour law
+შუა,between
 შუბი,pike
 შუბი,spear
+შუქი,light
+შუშა,glass
 შხამი,poison
-საწამლავი,poison
 ჩადი,Chad
 ჩადი,Republic of Chad
 ჩაი,tea
 ჩაიდანი,kettle
+ჩამოსვლა,arrival
 ჩანასახი,embryo
-ემბრიონი,embryo
 ჩანგალი,fork
 ჩანთოსანი,marsupial
 ჩანჩქერი,waterfall
-ჩაცმა,dress
 ჩაცმა,clothe
+ჩაცმა,dress
 ჩეჩნური,Chechen
 ჩეჩნური,Chechen
 ჩეხეთი,Czech Republic
@@ -2996,34 +2992,30 @@ Georgia,Georgia
 ჩვენ,we
 ჩილე,Chile
 ჩილე,Republic of Chile
-ჩინეთი,People's Republic of China
 ჩინეთი,China
+ჩინეთი,People's Republic of China
 ჩინური,Chinese
 ჩიტი,bird
-ფრინველი,bird
 ჩიუაუა,Chihuahua
 ჩლიქოსნები,ungulate
 ჩოგბურთი,tennis
 ჩონჩხი,skeleton
 ჩრდილოეთ ყინულოვანი ოკეანე,Arctic Ocean
-არქტიკის ოკეანე,Arctic Ocean
 ჩრდილოეთი ამერიკა,North America
 ჩრდილოეთი აფრიკა,North Africa
 ჩრდილოეთი ირლანდია,Northern Ireland
-ჩრდილოეთი კორეა,North Korea
 ჩრდილოეთი კორეა,Democratic People's Republic of Korea
+ჩრდილოეთი კორეა,North Korea
 ჩრდილოეთის ირემი,reindeer
+ჩუვაშური,Chavash
+ჩუვაშური,Chovash
+ჩუვაშური,Chttash
 ჩუვაშური,Chuvash
 ჩუვაშური,Chuvash
 ჩუვაშური,Chuwash
-ჩუვაშური,Chovash
-ჩუვაშური,Chavash
-ჩუვაშური,Chttash
 ჩუსტი,slipper
 ცა,heaven
 ცა,sky
-ზეცა,heaven
-ზეცა,sky
 ცარიელი,empty
 ცარცი,chalk
 ცეზიუმი,caesium
@@ -3038,19 +3030,16 @@ Georgia,Georgia
 ცერიუმი,cerium
 ცეცხლი,fire
 ციანიდი,cyanide
-ცილა,protein
 ცილა,poly peptide
-პროტეინი,protein
-პროტეინი,poly peptide
+ცილა,protein
 ცირკონიუმი,zirconium
 ცისარტყელა,rainbow
+ცისფერი,blue
 ციტოლოგია,cytology
 ციხე-დარბაზი,castle
 ციხე-სიმაგრე,castle
-ცოლი,wife
 ცოლი,spouse
-მეუღლე,wife
-მეუღლე,spouse
+ცოლი,wife
 ცუნამი,seismic sea wave
 ცუნამი,tsunami
 ცხელი წყალი,hot water
@@ -3062,36 +3051,39 @@ Georgia,Georgia
 ცხოველი,animal
 ცხრა,9
 ცხრა,nine
-ძალა,power (physics)
 ძალა,power
+ძალა,power (physics)
 ძალისხმევა,effort
 ძალისხმევა,exertion
 ძაღლი,dog
 ძაღლისებრნი,canid
 ძვირფასი,valuable
-ღირებული,valuable
 ძილი,sleep
 ძირითადი,fundamental
-ფუნდამენტური,fundamental
 ძიუდო,judo
 ძმარი,vinegar
 ძნელი,difficult
 ძრავა,engine
 ძროხა,cow
+ძუნწი,avaricious
 ძუძუმწოვარი,mammal
 წაბლი,chestnut
+წაკითხვა,read
 წარბი,eyebrow
 წარმართი,heathen
 წარმართი,infidel
 წარმართი,pagan
-წელი,year
+წასვლა,go
 წელი,solar year
-წელიწადი,year
+წელი,year
 წელიწადი,solar year
+წელიწადი,year
 წელიწადის დრო,season
 წერა,write
+წერა-კითხვის უცოდინარი,illiterate
 წვიმა,rain
 წვიმის წყალი,rain water
+წვრთნა,training
 წიაღისეული,fossil
 წიაღისეული საწვავი,fossil fuel
 წიგნი,book
@@ -3110,17 +3102,17 @@ Georgia,Georgia
 წყალგამყოფი,watershed
 წყალდიდობა,alluvion
 წყალდიდობა,flood
-წყალდიდობა,overflowing
-წყალდიდობა,inundation
 წყალდიდობა,flood
-წყალი,water
-წყალი,water
+წყალდიდობა,inundation
+წყალდიდობა,overflowing
 წყალი,body of water
+წყალი,water
+წყალი,water
 წყალმცენარე,alga
+წყალსატევი,pond
+წყალსაცავი,reservoir
 წყალსაცავი,retaining reservoir
 წყალსაცავი,water reservoir
-წყალსაცავი,reservoir
-რეზერვუარი,reservoir
 წყარო,spring
 წყარო,"spring (hydrology, land)"
 წყაროს წყალი,spring water
@@ -3135,15 +3127,15 @@ Georgia,Georgia
 წყურვილი,thirst
 ჭა,well
 ჭადრაკი,chess
-ჭამა,eat
+ჭაკი,mare
 ჭამა,consume
 ჭამა,eat
+ჭამა,eat
 ჭამა,swallow
-ჭაობი,fen
-ჭაობი,bog
 ჭანჭრობი,bog
+ჭაობი,bog
+ჭაობი,fen
 ჭექა,thunder
-ქუხილი,thunder
 ჭიანჭველა,ant
 ჭიაყელა,earthworm
 ჭიპი,belly button
@@ -3154,39 +3146,33 @@ Georgia,Georgia
 ჭიპი,umbilicus
 ჭირხლი,frost
 ჭრილობა,wound
+ხაბაზი,baker
 ხავსი,moss
 ხავსურა,lichen
 ხალხი,people
 ხამანწკა,oyster
 ხარბი,avaricious
-გაუმაძღარი,avaricious
-ძუნწი,avaricious
 ხართუმი,Khartoum
 ხარი,bull
 ხარჯი,expenditure
 ხახვი,onion
 ხე,tree
 ხედვა,see
-დანახვა,see
 ხელისგული,palm
 ხელმძღვანელობა,administration
 ხელმძღვანელობა,direction
 ხელმძღვანელობა,management
-მმართველობა,administration
-მმართველობა,direction
-მმართველობა,management
-ადმინისტრაცია,administration
-ადმინისტრაცია,direction
-ადმინისტრაცია,management
+ხელოვანი,artist
+ხელოვანი,creative person
 ხელოვნება,art
-ხელოვნური ენა,constructed language
 ხელოვნური ენა,artificial language
+ხელოვნური ენა,constructed language
 ხელსახოცი,napkin
 ხელფასი,salary
-ჯამაგირი,salary
 ხელფრთიანები,chiropteran
+ხელშეკრულება,agreement
 ხელშეკრულება,contract
-კონტრაქტი,contract
+ხენდრო,strawberry
 ხეობა,valley
 ხერხემლიანი ცხოველი,vertebrate
 ხეხილი,fruit tree
@@ -3201,8 +3187,11 @@ Georgia,Georgia
 ხმაური,racket
 ხმელთაშუა ზღვა,Mediterranean Sea
 ხმელთაშუა ზღვის რეგიონი,Mediterranean Area
+ხმის მიცემა,ballot
+ხმის მიცემა,voting
 ხმის სიმაღლე,loudness
 ხმოვანი,vowel
+ხომალდი,ship
 ხორბალი,wheat
 ხორვატია,Croatia
 ხორვატია,Republic of Croatia
@@ -3218,24 +3207,27 @@ Georgia,Georgia
 ხსნადობა,solubility
 ხუთი,five
 ხუთშაბათი,Thursday
+ხუროთმოძღვარი,architect
+ხუროთმოძღვრება,architecture
 ჯადვარი,orchid
-ორქიდეა,orchid
-ჯადოქარი,wizard
-ჯადოქარი,sorcerer
 ჯადოქარი,magician
+ჯადოქარი,sorcerer
+ჯადოქარი,wizard
+ჯაზი,jazz
 ჯალათი,executioner
+ჯამაგირი,salary
 ჯანმრთელობა,health
 ჯარიმა,fine
 ჯებირი,dam
-კაშხალი,dam
-ჯერსი,Jersey
 ჯერსი,Bailiwick of Jersey
+ჯერსი,Jersey
 ჯვარცმა,crucifix
 ჯიბუტი,Djibouti
 ჯიბუტი,Republic of Djibouti
 ჯილდო,trophy
 ჯირკვალი,gland
 ჯორი,mule
+ჯორჯია,Georgia
 ჰაერი,air
 ჰაერის ტემპერატურა,air temperature
 ჰაიტი,Haiti
@@ -3255,10 +3247,18 @@ Georgia,Georgia
 ჰინდი,Hindi
 ჰინდი,Hindi
 ჰიპოფიზი,pituitary gland
+ჰო,aye
+ჰო,yeah
+ჰო,yep
+ჰო,yes
+ჰოლანდია,Holland
+ჰოლანდია,Kingdom of the Netherlands
+ჰოლანდია,The Netherlands
 ჰოლანდიური,Dutch
 ჰოლმიუმი,holmium
 ჰონდურასი,Honduras
 ჰონდურასი,Republic of Honduras
 ჰორიზონტი,horizon
 ჰორმონი,hormone
-georgian,english
+グルジア語,Georgian
+グルジア語,Georgian

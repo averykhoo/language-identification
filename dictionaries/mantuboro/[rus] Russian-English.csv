@@ -1023,8 +1023,8 @@ Other,English
 блистательный,resplendent
 блистающий,fulgent
 блок,"trochlea, bloc, pulley, sheave"
-блок-схема,flowchart
 блок веретена,whorl
+блок-схема,flowchart
 блокада,blockade
 блокировать,interlock
 блокировка,"blockage, blocking"
@@ -1411,10 +1411,10 @@ Other,English
 был,was
 быстрая невнятная речь,gibber
 быстро,"apace, pronto, quickly"
-быстро-быстро,chop-chop
 быстро движущийся,clipping
 быстро замораживать,quick-freeze
 быстро сжигать или сгорать,deflagrate
+быстро-быстро,chop-chop
 быстрое движение,career
 быстроногий,"wing-footed, tripping"
 быстрота,"legerity, celerity"
@@ -1456,7 +1456,6 @@ Other,English
 бюст,bust
 бюстгальтер,"bra, brasserie, brassiere"
 в,"into, to"
-в-третьих,thirdly
 в верхней части города,uptown
 в верхнем этаже,upstairs
 в виде полумесяца,lunate
@@ -1527,6 +1526,7 @@ Other,English
 в шутку,in play
 в этом,herein
 в ярости,frenzied
+в-третьих,thirdly
 ваал,baal
 вагинизм,vaginismus
 вагон,wagon
@@ -2157,11 +2157,11 @@ Other,English
 внушающий недоверие,misgiving
 внушающий ужас,horrific
 внушительный,"commanding, imposing"
-во-вторых,secondly
-во-первых,"imprimis, firstly"
 во всем,all along the line
 во всех отношениях,"throughout, every"
 во всяком случае,at any rate
+во-вторых,secondly
+во-первых,"imprimis, firstly"
 вовлекать,"draw in, involve, implicate"
 вовлечение,implication
 вогнутая поверхность,concavity
@@ -2948,9 +2948,9 @@ Other,English
 высокий,"tall, high"
 высокий детский стульчик,highchair
 высокий комод,"tallboy, highboy"
+высоко ценящий,appreciative
 высоко-кучевые облака,altocumulus
 высоко-слоистые облака,altostratus
-высоко ценящий,appreciative
 высокое положение,eminence
 высокомерный,"uppity, arrogant, overweening, high and mighty"
 высокопарность,grandiloquence
@@ -3154,10 +3154,10 @@ Other,English
 гвоздь,hobnail
 гвоздь без шляпки,brad
 гвоздь с плоской шляпкой,clout
-где-нибудь,"somewhere, someplace, anywhere"
-где-нибудь в другом месте,elsewhere
 где бы ни,wherever
 где заключают пари,poolroom
+где-нибудь,"somewhere, someplace, anywhere"
+где-нибудь в другом месте,elsewhere
 гегемония,hegemony
 геенна,gehenna
 гейзер,geyser
@@ -3518,8 +3518,8 @@ Other,English
 горный хрусталь,rhinestone
 горняк,miner
 город,"town, burg"
-город-гигант,megalopolis
 город алжир,algiers
+город-гигант,megalopolis
 городская жизнь,urbanity
 городская ласточка,martin
 городской,"municipal, urban"
@@ -3832,8 +3832,8 @@ Other,English
 давний,long ago
 давнишний,lingering
 давнопрошедший,pluperfect
-давным-давно,lang
 давным давно,yore
+давным-давно,lang
 даже,tho
 далеко идущий,far-reaching
 далматский,dalmatian
@@ -5928,9 +5928,9 @@ Other,English
 зудящий,"itchy, itching"
 зулусский,zulu
 зяблик,"finch, chaffinch"
-и-не логическая операция,nand
 и т д,etc
 и так далее,"et cetera, etcetera"
+и-не логическая операция,nand
 иберийский,iberian
 ибис,ibis
 ива,"osier, willow"
@@ -6285,8 +6285,8 @@ Other,English
 инвариантный,invariant
 ингалятор,"inhaler, inhalant"
 индеец,"redskin, injun"
-индеец-могавк,mohawk
 индеец из племени могикан,mohican
+индеец-могавк,mohawk
 индейский ребенок,papoose
 индекс,"index, subscript"
 индексы,indices
@@ -6657,7 +6657,6 @@ Other,English
 кайзер,kaiser
 кайман,cayman
 как,"as, how"
-как-нибудь,"anyhow, somehow"
 как бишь его,thingumabob
 как будто,"quasi, kind of"
 как бы ни,"however, howsoever"
@@ -6666,6 +6665,7 @@ Other,English
 как дела,"how, s tricks"
 как подобает девушке,maidenly
 как раз,"even as, bang"
+как-нибудь,"anyhow, somehow"
 какаду,cockatoo
 какао,"cocoa, cacao"
 какемоно,kakemono
@@ -6722,8 +6722,8 @@ Other,English
 каменщик,"bricklayer, stonemason"
 камень,stone
 камень для перехода,steppingstone
-камера-люсида,camera lucida
 камера хранения,cloakroom
+камера-люсида,camera lucida
 камергер,chamberlain
 камердинер,"dresser, valet"
 камертон,tonometer
@@ -6812,8 +6812,8 @@ Other,English
 карабинер,"carabineer, carbineer"
 карабканье,clamber
 караван,caravan
-караван-сарай,serai
 караван сарай,khan
+караван-сарай,serai
 каракатица,"cuttlefish, cuttle"
 каракулевая овца,caracul
 каракули,scrawl
@@ -6913,8 +6913,8 @@ Other,English
 каучуковое дерево,rubber tree
 каучуконос,rubber plant
 кафе,"cafe, teahouse, teashop, coffeehouse"
-кафе-кондитерская,tearoom
 кафе экспресс,espresso
+кафе-кондитерская,tearoom
 кафедра,"pulpit, rostrum, lectern"
 кафедральный собор,minster
 кафель,"dalle, tile"
@@ -7061,8 +7061,8 @@ Other,English
 кисточка,tassel
 кисть,"raceme, cluster, paintbrush"
 кит,whale
-кит-полосатик,finback
 кит полосатик,rorqual
+кит-полосатик,finback
 китаеведение,sinology
 китаец,chinaman
 китаист,sinologue
@@ -7208,8 +7208,8 @@ Other,English
 ковш,ladle
 ковылять,"toddle, totter"
 когда,when
-когда-нибудь,sometime
 когда бы ни,whenever
+когда-нибудь,sometime
 кого,whom
 коготь,claw
 кода,coda
@@ -7815,9 +7815,9 @@ Other,English
 крепостной вал,rampart
 крепость,"citadel, stronghold, fortress, presidio"
 кресло,"recliner, armchair"
-кресло-качалка,"rocker, rocking chair"
 кресло вмещающее двоих,love seat
 кресло инвалидное,wheelchair
+кресло-качалка,"rocker, rocking chair"
 кресс водяной,watercress
 крестец,sacrum
 крестить,"christen, baptize"
@@ -7981,8 +7981,6 @@ Other,English
 ксилография,"xylography, woodcutting"
 ксилофон,xylophone
 кто,who
-кто-нибудь,"someone, anybody"
-кто-то,somebody
 кто бы ни,"whoso, whosoever, whoever"
 кто бьет,beater
 кто ведет дневник,diarist
@@ -7992,6 +7990,8 @@ Other,English
 кто порицает,reprover
 кто приходит,comer
 кто шлепает,spanker
+кто-нибудь,"someone, anybody"
+кто-то,somebody
 ку-клукс-клан,ku klux klan
 куб,"vat, cube"
 кубик,tessera
@@ -8893,8 +8893,8 @@ Other,English
 матрос,seaman
 матрос-индиец,lascar
 мать,mother
-мать-и-мачеха,coltsfoot
 мать семейства,matron
+мать-и-мачеха,coltsfoot
 маузер,mauser
 мафический,mafic
 мафия,mafia
@@ -9658,8 +9658,8 @@ Other,English
 мудрость,wisdom
 мудрый,"sapient, wise"
 муж,"helpmeet, husband, helpmate"
-муж-рогоносец,cuckold
 муж дочери,son-in-law
+муж-рогоносец,cuckold
 муженек,hubby
 мужеподобная,mannish
 мужеподобная женщина,amazon
@@ -10281,7 +10281,6 @@ Other,English
 наэлектризованный,electrified
 наяда,naiad
 не,"not, non"
-не-,a-
 не в духе,out of sorts
 не в ногу,out of step
 не в своем уме,cuckoo
@@ -10366,6 +10365,7 @@ Other,English
 не удовлетворять,dissatisfy
 не уплатив долгов,levant
 не шумите,keep quiet
+не-,a-
 неадекватность,inadequacy
 неаккредитованный,unaccredited
 неанглийский,un-english
@@ -13005,8 +13005,8 @@ Other,English
 пальмовый сахар-сырец,jaggery
 пальмовый сок,toddy
 пальто,"coat, topcoat, greatcoat, overcoat"
-пальто-реглан,raglan
 пальто свободного покроя,ulster
+пальто-реглан,raglan
 пальцевидный,"digitate, digital"
 палящий,parching
 памфлет,pamphlet
@@ -13231,8 +13231,8 @@ Other,English
 певец,"bard, minstrel, vocalist, songster, singer"
 певица,songstress
 певчая птица,"songbird, warbler"
-певчий-солист,cantor
 певчий дрозд,"throstle, mavis"
+певчий-солист,cantor
 пегас,pegasus
 пегий,"pinto, skewbald, piebald"
 пегматит,pegmatite
@@ -15000,8 +15000,8 @@ Other,English
 поштучно,apiece
 поэзия,poetry
 поэт,poet
-поэт-лирик,lyricist
 поэт озерной школы,laker
+поэт-лирик,lyricist
 поэтесса,poetess
 поэтизировать,"poetize, poeticize"
 поэтика,poetics
@@ -16191,8 +16191,8 @@ Other,English
 птерозавр,pterosaur
 птилиан,ptyalin
 птица,bird
-птица-лира,lyrebird
 птица рух,roc
+птица-лира,lyrebird
 птицеводство,"aviculture, poultry"
 птицелов,birder
 птичка,birdie
@@ -16397,12 +16397,12 @@ Other,English
 рабочее колесо,rotor
 рабочие брюки,dungarees
 рабочий,"roustabout, workman, operative, worker"
-рабочий-металлист,ironworker
 рабочий депо или парка,yardman
 рабочий комбинезон,coverall
 рабочий на сенокосе,haymaker
 рабочий на ферме,cowman
 рабочий сцены,stagehand
+рабочий-металлист,ironworker
 рабство,"slavery, servitude, captivity, bondage"
 раввин,"rabbi, rabbin"
 раввинистический,rabbinic
@@ -17396,8 +17396,8 @@ Other,English
 ручной мяч,handball
 рушиться с треском,crash
 рыба,fish
-рыба-самец,milter
 рыба из семейства тресковых,gadoid
+рыба-самец,milter
 рыбак,"fisher, fisherman"
 рыбацкий,"piscatory, piscatorial"
 рыбачья плоскодонная лодка,dory
@@ -17529,8 +17529,8 @@ Other,English
 сакэ,sake
 саламандра,salamander
 салат,salad
-салат-латук,lettuce
 салат ромэн,cos
+салат-латук,lettuce
 салициловая кислота,salicylic acid
 салициловый,salicylic
 салический,salic
@@ -18461,8 +18461,8 @@ Other,English
 слесарь,"locksmith, fitter"
 слесарь-монтер,millwright
 слива,plum
-слива-венгерка,greengage
 слива колючая,blackthorn
+слива-венгерка,greengage
 сливающийся,"confluent, joining"
 сливки,cream
 сливки с вином и сахаром,"sillabub, syllabub"
@@ -19766,8 +19766,8 @@ Other,English
 таким же образом,ditto
 таким образом,"thus, thereby, hereby"
 такой,such
-такой-то,so-and-so
 такой то,so and so
+такой-то,so-and-so
 такса,dachshund
 такси,"taxicab, taxi, cab"
 такси-малолитражка,minicab
@@ -22044,17 +22044,17 @@ Other,English
 чтец,lector
 чтить,revere
 что,"whereas, insomuch"
+что бы ни,whatever
+что и требовалось доказать,q.e.d.
+что и требовалось сделать,q.e.f.
+что пролито,spilth
+что угодно,anything
 что-л. мимолетное,ephemera
 что-л. недостающее,desideratum
 что-л. неудачное,misfit
 что-л. перестроенное,reconstruction
 что-либо,something
 что-либо сомнительное,tossup
-что бы ни,whatever
-что и требовалось доказать,q.e.d.
-что и требовалось сделать,q.e.f.
-что пролито,spilth
-что угодно,anything
 чтобы не,lest
 чувственность,"eroticism, sensuality, animalism"
 чувственный,"carnal, sensuous, sensual"
@@ -22657,8 +22657,8 @@ Other,English
 яйцеклетка,"ovulum, ovum, ovule"
 яйцеобразный,oviform
 яйцо,egg
-яйцо-пашот,poached egg
 яйцо мухи,flyblow
+яйцо-пашот,poached egg
 як,yak
 якобит,jacobite
 якорная стоянка,anchorage
@@ -22681,8 +22681,8 @@ Other,English
 яркая спортивная куртка,blazer
 яркий,bright
 ярко,bedizen
-ярко-красный,vermillion
 ярко горящий,blazing
+ярко-красный,vermillion
 яркость,brightness
 ярлык,"label, tag"
 ярмарка-карнавал,kermis

@@ -1,17 +1,17 @@
 Other,English
 View lemma information,calendar
-पंचांग,calendar
+marathi,english
 strops,beehive
 अँटिमोनी,antimony
 अंटार्क्टिका,Antarctica
 अक्शर,letter
-अचानक,sudden
 अचानक,abrupt
 अचानक,precipitous
-अज़रबैजान \,Azerbaijan
-अज़रबैजान \,Republic of Azerbaijan
+अचानक,sudden
 अज़रबैजान,Azerbaijan
 अज़रबैजान,Republic of Azerbaijan
+अज़रबैजान \,Azerbaijan
+अज़रबैजान \,Republic of Azerbaijan
 अणु,atom
 अत्याचार,anarchy
 अदमासें,estimate
@@ -159,15 +159,15 @@ strops,beehive
 आगमन,arrival
 आधारभूत,fundamental
 आयोडिन,iodine
-आरोपी,defendant
 आरोपी,accused
+आरोपी,defendant
 आर्मीनिया,Armenia
 आलार्म घड़ियाळ,alarm clock
 आशा,hope
 इक्वेडोर,Ecuador
 इक्वेडोर,Republic of Ecuador
-इजिप्त,Egypt
 इजिप्त,Arab Republic of Egypt
+इजिप्त,Egypt
 इटली,Italian Republic
 इटली,Italy
 इथियोपिया,Ethiopia
@@ -186,10 +186,10 @@ strops,beehive
 ऑगस्ट,August
 ऑस्ट्रिया,Austria
 ऑस्ट्रिया,Republic of Austria
-ऑस्ट्रेलिया (,Australia
-ऑस्ट्रेलिया (,Commonwealth of Australia
 ऑस्ट्रेलिया,Australia
 ऑस्ट्रेलिया,Commonwealth of Australia
+ऑस्ट्रेलिया (,Australia
+ऑस्ट्रेलिया (,Commonwealth of Australia
 ओक्लाहोमा,Oklahoma
 कंदील,lantern
 कंबोडिया,Cambodia
@@ -207,8 +207,6 @@ strops,beehive
 किरिबाटी,Kiribati
 किरिबाटी,Republic of Kiribati
 किल्ला,castle
-दुर्ग,castle
-गड,castle
 कुत्रा,dog
 कॅनडा,Canada
 कॅलिफोर्नियम,californium
@@ -217,12 +215,13 @@ strops,beehive
 कोम्डा,chicken
 कोरीयन,Korean
 कोरीयन,Korean
-कोळ्याचें जाळें,web
 कोळ्याचें जाळें,spider web
+कोळ्याचें जाळें,web
 क्षितिज,horizon
 खिडकी,window
-गर्भाधान,fertilisation
+गड,castle
 गर्भाधान,fecundation
+गर्भाधान,fertilisation
 गहू,wheat
 गांधीलमाशी,wasp
 गाय,cow
@@ -239,8 +238,8 @@ strops,beehive
 चिम्पांज़ी,chimpanzee
 चिली,Chile
 चिली,Republic of Chile
-चीन,People's Republic of China
 चीन,China
+चीन,People's Republic of China
 चेक प्रजासत्ताक,Czech Republic
 चेक प्रजासत्ताक,Czechia
 जन्म,birth
@@ -253,9 +252,10 @@ strops,beehive
 जपान,Japan
 जपान,State of Japan
 जर्मन भाषा,German
-जादुगर,wizard
-जादुगर,sorcerer
+जल,water
 जादुगर,magician
+जादुगर,sorcerer
+जादुगर,wizard
 जानेवारी,January
 जापानी,Japanese
 जापानी,Japanese
@@ -263,8 +263,8 @@ strops,beehive
 जून,June
 जॉर्जियन,Georgian
 जॉर्जियन,Georgian
-जॉर्डन,Jordan
 जॉर्डन,Hashemite Kingdom of Jordan
+जॉर्डन,Jordan
 ज्योतिषी,astrologer
 झाड,tree
 झिंक,zinc
@@ -299,14 +299,15 @@ strops,beehive
 थाई,Thai
 दम्याचा रोग,asthma
 दरवाजा,door
-दार,door
 दान,donation
+दार,door
 दारु,wine
+दारुड्या,boozer
 दारुड्या,drunk
 दारुड्या,drunkard
-दारुड्या,boozer
 दिवाळखोरी,bankruptcy
 दुराचार,corruption
+दुर्ग,castle
 दृष्टिभ्रम,hallucination
 धमनी,artery
 धर्म,religion
@@ -316,8 +317,8 @@ strops,beehive
 नाकपुडी,nostril
 नामिबिया,Namibia
 नायट्रोजन,nitrogen
-नारळ,kokosnoot
 नारळ,coconut
+नारळ,kokosnoot
 निकेल,nickel
 नियॉन,neon
 निर्णय,decision
@@ -327,16 +328,16 @@ strops,beehive
 नोबेलियम,nobelium
 न्याहारी,breakfast
 न्यू झीलँड,New Zealand
+पंचांग,calendar
 पक्षीशास्त्र,ornithology
 पचनशक्ति,digestion
 परंपरागत,traditional
 परराष्ट्रीय वकील,ambassador
 पशुचिकित्सक,veterinarian
 पशुचिकित्सक,veterinary
-पाकिस्तान,Pakistan
 पाकिस्तान,Islamic Republic of Pakistan
+पाकिस्तान,Pakistan
 पाणी,water
-जल,water
 पाय,leg
 पारा,mercury
 पालेभाजी,vegetable
@@ -352,10 +353,10 @@ strops,beehive
 प्रदुषण,pollution
 प्रयास,effort
 प्रयास,exertion
-प्रसूति,motherhood
 प्रसूति,maternity
-प्राणदंड,death penalty
+प्रसूति,motherhood
 प्राणदंड,capital punishment
+प्राणदंड,death penalty
 प्राणदंड,death sentence
 प्रोमेथियम,promethium
 प्लीहा,spleen
@@ -367,8 +368,8 @@ strops,beehive
 फांसा,die
 फांसा,die
 फांसा,die
-फारोईझ,Faroese
 फारोईझ,Faeroese
+फारोईझ,Faroese
 फिनलंड,Finland
 फिनलंड,Republic of Finland
 फॉस्फरस,phosphorus
@@ -378,6 +379,8 @@ strops,beehive
 फ्रेंच भाषा,French
 फ्रेंच राज्यक्रांती,French Revolution
 फ्लोरिन,fluorine
+बम्बई,Bombay
+बम्बई,Mumbai
 बयाणा,advance
 बहरीन,Bahrain
 बहिरा,deaf
@@ -404,9 +407,9 @@ strops,beehive
 भुगोल,geography
 मंदस्मित,smile
 मराठी,Marathi
-मराठी,Marāthi
-मराठी,Marāthi
 मराठी,MarÄthi
+मराठी,Marāthi
+मराठी,Marāthi
 मलगी,daughter
 मलेरिया,malaria
 महिना,month
@@ -416,13 +419,11 @@ strops,beehive
 मान्यता,acceptance
 मान्यता,credence
 मार्च,March
-मालमत्ता,property
 मालमत्ता,asset
+मालमत्ता,property
 मुंगी,ant
-मुंबई,Mumbai
 मुंबई,Bombay
-बम्बई,Mumbai
-बम्बई,Bombay
+मुंबई,Mumbai
 मुखर,explicit
 मॅसेच्युसेट्स,Massachusetts
 मेणबत्ती,candle
@@ -456,6 +457,7 @@ strops,beehive
 विघ्न,obstruction
 विचार,consideration
 विपत्काल,emergency
+विश्वकोष,dictionary
 विषुववृत्त,equator
 विहारनौका,yacht
 वॉटर पोलो,water polo
@@ -465,46 +467,45 @@ strops,beehive
 शंभर,hundred
 शनिवार-रविवार,weekend
 शब्दकोष,dictionary
-विश्वकोष,dictionary
 शल्यचिकित्सक,surgeon
 शिसे,lead
 शीड नौका,sailing ship
-शीतकपाटगृह,refrigerator
 शीतकपाटगृह,fridge
+शीतकपाटगृह,refrigerator
 शेजारी,neighbour
 शेजारी,vecino
 श्रीलंका,Sri Lanka
-संक्रामक रोग,infectious disease
 संक्रामक रोग,communicable diseases
+संक्रामक रोग,infectious disease
 संगीत वाद्यवृंद,orchestra
 संपूर्णपणे,absolutely
-संभवनीय,viable
-संभवनीय,viable
 संभवनीय,feasible
+संभवनीय,viable
+संभवनीय,viable
 संस्कृत,Sanskrit
 संस्कृत,Sanskrit
 समस्या,problem
 समुद्राश्व,walrus
-सर्दी,influenza
 सर्दी,flu
+सर्दी,influenza
 सल्फर,sulphur
 सह,alongside
 सह,amongst
 सह,with
 साक्षी माणूस,witness
-सासू,mother-in-law
 सासू,mother in law
+सासू,mother-in-law
 सिझियम,caesium
 सिलिकॉन,silicon
 सुपर मार्केट,supermarket
 सुरुंग,tunnel
 सुलभ,easy
-सुलभ,piece of cake
 सुलभ,like shooting fish in a barrel
+सुलभ,piece of cake
 सुविधा,facility
+सुस्ती,languor
 सुस्ती,lethargy
 सुस्ती,sluggishness
-सुस्ती,languor
 सूट,discount
 सेंट पीटर्सबर्,Leningrad
 सेंट पीटर्सबर्,Petrograd
@@ -518,8 +519,8 @@ strops,beehive
 स्कॅन्डियम,scandium
 स्फोट,explosion
 स्वातंत्र्य,freedom
-स्वातंत्र्य,liberty
 स्वातंत्र्य,independence
+स्वातंत्र्य,liberty
 स्वाहिली,Swahili
 स्वित्झर्लंड,Switzerland
 हंगेरी,Hungary
@@ -537,4 +538,3 @@ strops,beehive
 हैती,Republic of Haiti
 होल्मियम,holmium
 救急車,ambulance
-marathi,english

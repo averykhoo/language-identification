@@ -36,8 +36,6 @@ Other,English
 -ru,plural
 -ru,some cases perfect
 -s:a,suffix of adjectives
--š:a,elative
--š:a-l,elative
 -t:u,plural
 -ta-l,plural
 -u,imperative
@@ -50,9 +48,11 @@ Other,English
 -x:u-n,dative II
 -x:uraw,really?
 -x:wa,but
+-š:a,elative
+-š:a-l,elative
 =a-n,to make
-=a=ca-n,thaw
 =a=ca-n,stand
+=a=ca-n,thaw
 =a=ch:a-n,become curved
 =a=ch:i-n,become curved
 =a=chi-,to full
@@ -62,26 +62,26 @@ Other,English
 =a=qi-n,to close in
 =a=s:a-n,melt
 =a=t:a-n,to beat
+=aI=q:i-,catch cold
+=aIjqi-n,to be lost
+=aIlaqa-n,to rejoice
+=aIx:i-n,shovel up
+=aIx:i-n,wash away
 =ach=a-,empty
 =achi-n,be heading
 =aci-n,to steal
 =aha-n,to fall
 =aha-n,to quarrel
-=aI=q:i-,catch cold
-=aIjqi-n,to be lost
-=aIlaqa-n,to rejoice
-=aIx:i-n,wash away
-=aIx:i-n,shovel up
 =aj-š:u-,go away
 =aja-n,hear
 =ajiIl-s:a,sharp
 =aqi-n,to lead
-=aš:a-n,"to close tightly, to become cloudy"
-=aš:i-n,"to close tightly, to become cloudy"
-=aši-n,to sweep
 =ati-n,to gather
 =ax:a-na =an,to change
 =ax=a-s:a,suitable
+=aš:a-n,"to close tightly, to become cloudy"
+=aš:i-n,"to close tightly, to become cloudy"
+=aši-n,to sweep
 =i-ja,to be
 =i=cha-,to kill
 =i=chi-,to throw
@@ -96,8 +96,8 @@ Other,English
 =is:u-n,to wash
 =it:u-n,pick
 =ita-n,leave
-=ix:a-n,to dig
 =ix:a-n,slaughter
+=ix:a-n,to dig
 =iza-n,to stand up
 =u-r,to be
 =u=cha-,to come
@@ -112,12 +112,12 @@ Other,English
 =u=ti-n,to pour
 =u=x:a-n,to enter
 =u=x:i-n,take away
+=uIqa-n,to swallow
+=uIx:a-n,to comb
 =uca-n,to mow
 =uch-s:a,thick
 =uchi-s:a,fitting
 =uci-n,weigh
-=uIqa-n,to swallow
-=uIx:a-n,to comb
 =uk:i-n,to read
 =uka-,eat
 =ulu-n,give
@@ -128,22 +128,14 @@ Other,English
 =uru-ga-n,to look
 =uru=x:a-n,to swell
 =urux:a-n,to sew
-=uš:i-n,to plaster
 =uti-n,offend
-=ux:i-n,to win
 =ux:Ii-n,to spin
+=ux:i-n,to win
+=uš:i-n,to plaster
 a',eye
 a'hušiwu; mai; a,grease
 a't'ul,red
 a=aqa-n,to gape
-ac'an,stand
-ach,ten
-achi,half
-adimina,man
-adiminal insan,person
-ag'u,anger
-agar,if
-ahal-chu,bridegroom's kinsman
 aI=ja-n,to rot
 aImu,trough
 aInaki,hen
@@ -153,12 +145,20 @@ aIral,troops
 aIrch:a-s:a,lame
 aIrch:ap,food made of barley flour
 aIrkin-s:a,to be necessary
-aIrš:i,earth
-aIrš:i,earth
 aIrx:i,journey
+aIrš:i,earth
+aIrš:i,earth
+aItara,mountain stream
 aIš,mark
 aIš,narrow stripe
-aItara,mountain stream
+ac'an,stand
+ach,ten
+achi,half
+adimina,man
+adiminal insan,person
+ag'u,anger
+agar,if
+ahal-chu,bridegroom's kinsman
 amma,but
 anka-tun,slumber
 anma,but
@@ -171,19 +171,18 @@ argh,prime of life
 ars,son
 arul,seven
 arx-s:a,far
-ärx:i,path
 as,nobility
 atil-s:a,wet
 b,3d class sing.
 b-achi,half
-baba,mummy
-bach'i,claw
-bachi,small paw
 baI'a,ram
-baian,to hear
 baIr,pond
 baIrch,calf
 baIrchalu,snail
+baba,mummy
+bach'i,claw
+bachi,small paw
+baian,to hear
 bajlax:i,grindstone
 bak',head
 bak'ar,not
@@ -205,17 +204,17 @@ barzunt:iw,mountains
 batul-s:a,separate
 bich'an,die
 bich:i,anxiety
-biši,"flesh, muscle"
 bizanu,mountain pasture
-buch'an,come
-bucur,barrier
-bughi,fine
-buhpa,big
+biši,"flesh, muscle"
 buIchin,dry leaves of leguminous
 buIrna,pillar of a building
 buIrni,deer
 buIrü,thistle
 buIx-t:ul-s:a,tall
+buch'an,come
+bucur,barrier
+bughi,fine
+buhpa,big
 bukan,to eat
 bulun,give
 buq,sloe
@@ -258,9 +257,9 @@ ch:antu,haycock
 ch:arlu,kidney
 ch:at,bread
 ch:at:i,food made of butter
-ch:ich:i,meat
 ch:iIx,diarrhea
 ch:iIx ika-n,slip
+ch:ich:i,meat
 ch:ik:u,cuckoo
 ch:in,threshing board
 ch:iq:a,snipe
@@ -272,14 +271,14 @@ ch:uch'an,burn
 ch:wa-n,love
 cha,if
 cha-gu,and if
-chacha,flea
-chah,breeze
-chaha,cane
 chaI-u-s:a,many
 chaIj-s:a,red-haired
 chaIpa,palm of hand
 chaIpti,whip
 chaIwqa,heavy rain
+chacha,flea
+chah,breeze
+chaha,cane
 chak,prayer
 chaku,kid
 chali,ear of corn
@@ -302,9 +301,9 @@ chavaq',fish
 chaw,cheek
 chi,lamb
 chi=i-s:a,small
-chialan,to see
 chiIlmu,bird small
 chiInt,spray
+chialan,to see
 chila,knife
 chimuchali,butterfly
 chira,wall
@@ -313,9 +312,9 @@ chitu,swallow
 chiw-ark,people
 chu,sound
 chu=ja-n,contract
-chucha,small stone
 chuIj,tower
 chuIn,beads
+chucha,small stone
 chul,kaolin
 chula,log
 chulü,leather strip
@@ -347,8 +346,8 @@ cuIlq:a-s:a,maimed
 cuku,goat
 culcha,fox
 cullu-s:a,healthy
-cun,spout of a vessel
 cun,navel
+cun,spout of a vessel
 cup uchin,to suck
 cuša,bear
 cwa,who
@@ -357,9 +356,9 @@ d-,2d class sing
 d-,4th class sing.-plur.
 da,hey
 da'rq:u,cold
+daI,middle
 dachu,sting
 dahani,mirror
-daI,middle
 daidiqu,root
 dak,heart
 dak:awu,popular assembly
@@ -404,8 +403,8 @@ halha t'un,say
 hallibilli,wooden device for transporting
 halq:a-s:a,high
 halu,grove
-han,shady slope of a mountain
 han,alcoholic drink
+han,shady slope of a mountain
 hanna,seed
 hant:a,day
 hanu,foundation
@@ -414,8 +413,8 @@ harch:ala,trouser's leg
 harkw,carriage wheel axle
 harza,many
 hat,loop
-haw,grave
 haw,cold wind
+haw,grave
 hawa,fish
 hawk:u-ri,dumplings
 heli,warm
@@ -440,23 +439,23 @@ huru,fleece
 hutru,lung
 huzu-n,to swim
 huzun,swim
-ia,eye
 iIch:u,cock's comb
 iIn,thong
 iIqi han,flow
+ia,eye
 il,hey
 ina,"you, thou"
 ini-kma,flour
 insan,"person, human"
 int,spring
-isu,owl
 isu,boundary stone
+isu,owl
 it:a-cani,eyebrow
 itargu,kite
-ivchian,to kill
 ivchian,"to die, to kill"
-ja,wheel
+ivchian,to kill
 ja,eye
+ja,wheel
 ja-t:u,sheep-flock
 ja=iši-,to open wide
 jaIti,larva
@@ -480,8 +479,8 @@ k:ark,edge
 k:aši,hunger
 k:iri,bark
 k:iri,"skin, shell"
-k:uk:u,seed
 k:uk:u,"breasts, nipple, fruit-stone"
+k:uk:u,seed
 k:unuk,egg
 k:up:i,earthenware jug
 k:ur uchin,to roll
@@ -495,12 +494,12 @@ k:urt:u,caftan
 k:ut,burrow
 ka,"hand, soot, that"
 ka-nu,chair
+kaIla-hi,birch
+kaIla-s:a,white
 kac,bundle
 kaca,puppy
 kacha-s:a,bare
 kacu,chin
-kaIla-hi,birch
-kaIla-s:a,white
 kalaš,charcoal
 kama,handle
 kanan,eat
@@ -525,13 +524,13 @@ ku,"paunch, ram"
 ku,ram
 ku-s:a,heavy
 ku-š:i-n,to urinate
-kuc,form
-kucha,bitch
-kuchi-n,screen
 kuIj,handle
 kuIla-,thin
 kuInta,small pit
 kuIru,nest
+kuc,form
+kucha,bitch
+kuchi-n,screen
 kuklu-s:a,"light of weight, soft"
 kul-s:a,knowing
 kula,key
@@ -539,12 +538,12 @@ kulu,mouse
 kunca,marsh
 kunkur,cauldron
 kunt,dot
-kunu,wire
 kunu,"lot, wire"
+kunu,wire
 kurmati,pommel
 kurx,sprout
-kut,malt
 kut,hank
+kut,malt
 kuta-s:a,short
 kutin,rash
 kuw,soot
@@ -555,9 +554,15 @@ l-iIš:a-n,to extinguish
 l-itu-n,to die
 la,medicinal absinth
 la=qa-,to increase
-la=š:a-n,look alike
 la=su-n,to take
 la=x:a-n,to put on
+la=š:a-n,look alike
+laI=qa-n,arise
+laI=uk:a-n,to grow
+laIki-n,to press oneself to
+laIp,a moment
+laIqa,stomach
+laIxcha-baIrchalu,a petrified snail
 lach:i,garlic
 lacha,wheat
 lachu-,cling
@@ -565,12 +570,6 @@ lachu-n,"to catch fire, to rain"
 lachu-n,to rain
 lag-ma,in the vicinity
 lah-s:a,low
-laI=qa-n,arise
-laI=uk:a-n,to grow
-laIki-n,to press oneself to
-laIp,a moment
-laIqa,stomach
-laIxcha-baIrchalu,a petrified snail
 lak,Laki
 lak:u,Laki
 laki-ja,fuel
@@ -579,7 +578,6 @@ lal,pus
 lamu,bridge
 lanca tun,to lick
 lant:u,hem of a kerchief
-läq'a,belly
 laq'issa,long
 laqi,long
 laqi-s:a,long
@@ -591,15 +589,15 @@ lelux:i,bird
 lex:an,fly
 li=k:a-n,stand still
 li=qa-,to run away
-lich'i xun,die
-lich:a,bone
-lici-n,settle of liquid
 liI=cha-n,to run
 liI=qa-n,to be destroyed
 liI=x:a-n,fly
 liIlu:i,bird
-liqan,walk
+lich'i xun,die
+lich:a,bone
+lici-n,settle of liquid
 liqan,kill
+liqan,walk
 lis:u,slice
 lis:u-s:a,narrow
 lix:aIwu,alarm
@@ -610,49 +608,50 @@ luhi-s:a,black
 luq'i,black
 luw,below
 luxch:i,"earth, land"
+läq'a,belly
 ma,"come on!, a prohibitive particle"
-mach,meadow on a hill slope
+maId,sperm
+maIj-a,eight
+maIq,thirst
+maIr,nail
+maIx:i,mould
 mach,coarse calico
+mach,meadow on a hill slope
 mach:a,kinsman
 mah,tail
 maha,tale
 mahi,ceiling
 mahija,bilberry
 mai,"fat, bolt"
-maId,sperm
-maIj-a,eight
-maIq,thirst
-maIr,nail
-maIx:i,mould
 maizilbu,long
 maj,fat
 maj,nose
 mak,dream
 mak,softwood
 mamari,blackberry
-maq,word
 maq,tear
+maq,word
 marc-s:a,clean
 march,wind
 marku,farm-hand
 marq,poles for planking the ceiling
 marqw,a woolen thread
-marš:a,meadow on slope of a hill
 marx:a,root
 marx:ala,snow
+marš:a,meadow on slope of a hill
 mas,boiled fermented milk
-maš:i,farmstead
-maša,trade
 mati,knot
 max,flap
 max-s:a,tame
 may,nose
 maz,tongue
 mazu,nipple by animals
-mic,point
+maš:i,farmstead
+maša,trade
 miIch,nettle
 miIha,burdock's root
 miIkiIkiIj,pine cone
+mic,point
 mik,hail
 miq',fingernail
 mirx,sickle
@@ -660,13 +659,13 @@ mix,nail
 mound,hillock
 mu,that near to the listener
 mu'rš:i,small
+muIrš-,small
+muIrš:i-,small (1)
 much:uch,a k. of field grass
 muh,sickle
 muhali,rapid brook
 muhi,seeking hand in marriage
 muhlu,belt
-muIrš-,small
-muIrš:i-,small (1)
 mulcu,wild oats
 muq,four
 muqa-w,on the back
@@ -678,26 +677,26 @@ murx,tree
 musi,gold
 na,I
 na-n,to go
+naI,brain
+naIk-s:a,blue
+naIku,dragonfly
 nac,louse
 nac',louse
 nach,shame
 nacu-s:a,sweet
 nah,butter
-naI,brain
-naIk-s:a,blue
-naIku,dragonfly
 naj,bee
 nak,cubit
 nak,milk
 naq,broth
 nax,chaff
-nic,ox
-nih,fright
 niInt:a-bak,forehead
 niIqa,oats
 niIrza,bees' nectar
 niIta,face
 niIx,river
+nic,ox
+nih,fright
 nik,knee
 nika,a leathern noose
 ninu,mother
@@ -717,8 +716,8 @@ o',blood
 o't:u,blood
 p:a,awl
 p:aj,kiss
-p:al,sheep's wool
 p:al,cattle-shed
+p:al,sheep's wool
 p:ap:a,bread
 p:iIllu,wooden part of the reed-pipe
 p:ip:i-s:alah,ladybird
@@ -746,13 +745,15 @@ q'ach'an,drink
 q'awq'un,dry
 q'azam,breast
 q'ulbas,hand
+q:Iaca,pincers
+q:Iachi,flat earthenware vessel
 q:a,not
 q:a-r,is not
-q:achu,sheepskin coat
 q:aI,rumour
 q:aIcha,bull-calf
 q:aIda,crow
 q:aIghu,jackdaw
+q:achu,sheepskin coat
 q:ama,corn
 q:aq:ari,neck
 q:aqla,load
@@ -761,17 +762,14 @@ q:ar,udder
 q:at:a,room
 q:ata,"shrub, trap"
 q:aw,sheaf
-q:Iaca,pincers
-q:Iachi,flat earthenware vessel
-q:icha,door-bolt
 q:iIp:a,beak
 q:iIri,net
+q:icha,door-bolt
 q:int:a,back of head
 q:ip:a,nose
 q:iti,uvula
-q:ubi,deep pit
 q:uImaj,bunch
-q:ük',heart
+q:ubi,deep pit
 q:uma-s:a,cramped
 q:un,sand
 q:unchu,lock
@@ -786,21 +784,26 @@ q:uruqu,fallow
 q:usa,spoon
 q:uw,thunder
 q:wata,comb
+q:ük',heart
+qIarži,top of boot
+qIu,sheaves stacked
+qIunuqIaj-šat:a,worm
+qIuršlu,ankle-bone
 qa,barley
-qa,"wing, oath"
 qa,rug
+qa,"wing, oath"
 qa-q-s:a,dry
-qac,"locust, mouth"
-qach,shoulder
-qacha,wineskin
-qachi,worm
-qah,dry cough
 qaInqa-,rigid
 qaInša,end of loaf
 qaIpa,cap
 qaIrqala,third stomach
 qaIrqi,dirt
 qaIža,goose-foot
+qac,"locust, mouth"
+qach,shoulder
+qacha,wineskin
+qachi,worm
+qah,dry cough
 qaj,thing(s)
 qaja,horse radish
 qali,barrel
@@ -824,20 +827,14 @@ qat,"palm of hand, community"
 qata,large intestine
 qazam,"breasts, breast"
 qi,horn
-qiachian,to drink
-qIarži,top of boot
 qiIt,beak
+qiachian,to drink
 qini,day
 qiri,land
 qit,flour dust
-qIu,sheaves stacked
-qIunuqIaj-šat:a,worm
-qIuršlu,ankle-bone
-qu,twenty
 qu,field
+qu,twenty
 qu=qi-n,to end
-quch,spleen
-qucuru,small sack made of sheepskin
 quI,yard
 quI=qi-n,to become cheaper
 quInuqi,strawberry
@@ -846,6 +843,8 @@ quIrchu,heifer
 quIrt,pear
 quIru,pea(s)
 quItilu,hammer
+quch,spleen
+qucuru,small sack made of sheepskin
 quli,puppy
 qun,boulder
 qun-,big
@@ -855,8 +854,8 @@ quncha,calf
 qunqula,lock
 qunta,pit
 qurchi-s:a,bitter
-quru,drinking-horn
 quru,brisket
+quru,drinking-horn
 quruq,crane
 qut,dung
 quti-n,pierce
@@ -866,69 +865,30 @@ r,2d class sing
 r,4th class sing.-plur.
 r-ihi-n,to copulate
 ra=xi-n,hit
-rah,hollow
 raIx=a,six
+rah,hollow
 rat,river-bed
 rik,axe
 ruk,yoke
-š:a' bik'an,sit
 s:a-,what obl. base
-š:a-ra-n,seethe
-š:aI,below
-š:aIlu,ground
-š:aItal,woollen footwear
-š:aj-ini,whey
-š:al-la,all
-š:ala,all
-š:ama,road metal
 s:an,pad
-š:ar,"woman, wife, village"
-š:aš:a-n,to weave
 s:aw,sky
 s:i,anger
 s:i,lamb
-š:i-,who
 s:ih,vapour
-š:ik,hoof of a sheep
-š:in,water
-š:ina,chisel
-š:iq:i,ink
-š:ira,ascarid
 s:iru,young pods of peas
 s:u,sister
-š:u'lli,green
-š:uIlli-s:a,green
-š:uIwt,whistle
 s:uli,wild turkey
-š:ulü,dung of sheep
-š:unš:u-mati,"snout, muzzle"
 s:uraqu,first cousin
-š:uru-n,to turn round
 s:ut,autumn
-š:wa,line
-ša,step
-ša-nu,bed
-ša=ša-n,to boil
-šaIra,street
-šaIra,running nose
 salsi,cockle
-šam=a,three
-šana-n,sleep
-šanan,sleep
-šäp'i,claw
-šašal,sack
-šat:a,snake
-ši,millet
-šin,year
-sina,gum in mouth
 sina,glue
+sina,gum in mouth
 su,granary
 suc,tick
-šuIši-n,to wash
-sun,sunny side
 sun,straw
+sun,sunny side
 sunü,pome-granate
-süra,mint
 surssu,stomach
 surü,shroud
 sus,rye
@@ -936,9 +896,7 @@ sus:,bride
 sus:,bride
 sut,tick
 sut,tick
-šwa,mown crops
-šwaj,guelder rose
-šwal,honeycombs
+süra,mint
 t'imu,feather
 t:-ihi-n,to reap
 t:-iqi-n,to suck
@@ -987,8 +945,6 @@ tuti,grape
 tuxum,seed
 u,"a sp. of barley, 1st (masc.) class marker"
 u-t:a-,wide
-uc,full
-uchi-n,to say
 uI(t:u),blood
 uI=chi-n,to invite
 uIk:i-s:a,bad
@@ -997,14 +953,16 @@ uIl,cow
 uIncu,mucus from the nose
 uInqu,stink
 uInqu-s:urs:u,nasopharynx
-uInta,small earthenware vessel
 uInta,hollow
+uInta,small earthenware vessel
 uIrch,child
 uIrchi-lu,corn-cob
 uIrchi-s:a,variegated
 uIru-,brown
 uIrwati,frog
 uIt,faeces
+uc,full
+uchi-n,to say
 uk:a-n,to play
 ula,shelf
 ulch:a,burdock
@@ -1017,8 +975,8 @@ ux,lower part
 w,1st (masc.) class marker
 w-alka tun,stagger
 wa,"this, and"
-waca,forest
 waIrq:u,magpie
+waca,forest
 waraq:i,copper jug for water
 wi-,thou
 wi-s:a,convinced
@@ -1053,14 +1011,14 @@ x:iIm,dew
 x:iIw,breeze
 x:inchu,jaw
 x:ini,palate
-x:iri,sea
 x:iri,lime-tree
+x:iri,sea
 x:it,dust
 x:u-wajs:a,badger
-x:ui,good
 x:uI=a,five
 x:uIl,road metal
 x:uIt:u,intestine
+x:ui,good
 x:uj-s:a,good
 x:ullu,"path, road"
 x:ulü,hay
@@ -1095,14 +1053,56 @@ zig bulun,to rain
 zimiz,fly
 zini,brewer's yeast
 zu,you
-žu,we
 zu-n,to work
 zuk:a,spindle
 zulü,pile
 zuma,mouth
-žunaw,cornel
 zunklu,stone plate for fastening roof
 zunt:u,mountain
 zuru-q:aIni,icicle
 zurzu,quiver
 zwal,god
+ärx:i,path
+š:a' bik'an,sit
+š:a-ra-n,seethe
+š:aI,below
+š:aIlu,ground
+š:aItal,woollen footwear
+š:aj-ini,whey
+š:al-la,all
+š:ala,all
+š:ama,road metal
+š:ar,"woman, wife, village"
+š:aš:a-n,to weave
+š:i-,who
+š:ik,hoof of a sheep
+š:in,water
+š:ina,chisel
+š:iq:i,ink
+š:ira,ascarid
+š:u'lli,green
+š:uIlli-s:a,green
+š:uIwt,whistle
+š:ulü,dung of sheep
+š:unš:u-mati,"snout, muzzle"
+š:uru-n,to turn round
+š:wa,line
+ša,step
+ša-nu,bed
+ša=ša-n,to boil
+šaIra,running nose
+šaIra,street
+šam=a,three
+šana-n,sleep
+šanan,sleep
+šat:a,snake
+šašal,sack
+ši,millet
+šin,year
+šuIši-n,to wash
+šwa,mown crops
+šwaj,guelder rose
+šwal,honeycombs
+šäp'i,claw
+žu,we
+žunaw,cornel

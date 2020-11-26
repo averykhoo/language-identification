@@ -1,7 +1,7 @@
 Other,English
--yek,an
 (kurteya adult) filmên qedexe bo kesên ji 16-salî kêmtir,a
 (kurteya atomic) atomî,a
+-yek,an
 a (li fêrgehan baştirîn pile),a
 a/ê wî,his
 abone,subscriber
@@ -28,13 +28,13 @@ agahî,data
 agahî,information
 agir,fever
 agir,fire
-agirê pûş,quick passing flame or passion
-agirê qoçan,lasting passion
-agirê qoçan,slow burning fire
 agirkujîn,fire car
 agirkûjîn,fire department
 agirsongî,fire car
 agirsongî,fire department
+agirê pûş,quick passing flame or passion
+agirê qoçan,lasting passion
+agirê qoçan,slow burning fire
 ajans,agency
 ajda,sprout
 ajnekirin,float
@@ -43,9 +43,9 @@ ajo,incentive
 ajo,motive
 ajotin,drive
 akar,ethics
+aktrîs,actress
 akêr,load fixing bars
 akêra sinriyê,axle holding pins
-aktrîs,actress
 al,banner
 al,flag
 al,standard
@@ -58,7 +58,6 @@ alan dan,resound
 alandin,tangle
 alandin,tie
 alastin,lick
-alaşkirin,covering of the joists
 alatên çandiniyê,agricultural instruments
 alatên çandiniyê,tools
 alav,agricultural instruments
@@ -68,9 +67,15 @@ alav,instrument
 alav,tool
 alav,tools
 alayî,regiment
+alaşkirin,covering of the joists
 alfabe,alphabet
 alifê vala,familiy without a head
 alifê vala,woman after the menopause
+alos,tangle
+alos,tie
+aloz,broken
+aloz,haywire
+alozî,chaos
 alî,course
 alî,direction
 alî,side
@@ -79,15 +84,10 @@ alîgir,supporter
 alîkar,aide
 alîkarî,help
 alîsor,pear
-alos,tangle
-alos,tie
-aloz,broken
-aloz,haywire
-alozî,chaos
-alûçe,sloe
 alûs,dressy
 alûs,elegant
 alûs,fashionable
+alûçe,sloe
 amade,ready
 amajekirin,explain
 amajekirin,state
@@ -160,12 +160,6 @@ aran,desert (land)
 ard,flour
 ardû,fuel
 argûn,stove
-arî,cinder
-arîkar,aide
-arîkarî,aid
-arîse,issue
-arîse,problem
-arîşan,morale
 armanc,aim
 armanc,destination
 armanc,end
@@ -174,22 +168,28 @@ armanc,object
 armanc,purpose
 armanc,target
 arsim,flu (disease)
-arû (sor.),cucumber
 arvan,flour
+arî,cinder
+arîkar,aide
+arîkarî,aid
+arîse,issue
+arîse,problem
+arîşan,morale
+arû (sor.),cucumber
 asa,normal
 asan,facile
 asan,plain
 asan,simple
 asayî,normal
+aso,horizon
+aso,horizon
+ast,level
+asteng,difficulty
 asê,steep
 asêkirin,lock
 asêkirin,shut
 asîman,heaven
 asîman,sky
-aso,horizon
-aso,horizon
-ast,level
-asteng,difficulty
 asûde,calm
 asûde,easeful
 asûde,halcyon
@@ -200,12 +200,6 @@ asûde,still
 asûde,stilly
 asûde,tranquil
 asûde,unruffled
-aş,food
-aşartin,admit
-aşartin,confess
-aşopî,virtual
-aştixwaz,peace seeker
-aştî,peace
 av,water
 avahî,edifice
 avahî,establishment
@@ -219,16 +213,8 @@ avakirin,plant
 avdan,water
 avdestxane,toilet
 avend,courtesy
-avêtin,chuck
-avêtin,dash
-avêtin,fling
-avêtin,pitch
-avêtin,throw
-avêtin,toss
 avis,pregnant
 avisbûn,pregnancy
-avîje,clean
-avîje,cleanly
 avjen,swimmer
 avjenîkirin,float
 avjenîkirin,swimming
@@ -239,6 +225,14 @@ avraz,mount up
 avrêj,toilet
 avrêjgeh,estuary
 avrû,honor
+avêtin,chuck
+avêtin,dash
+avêtin,fling
+avêtin,pitch
+avêtin,throw
+avêtin,toss
+avîje,clean
+avîje,cleanly
 awa,method
 awa,style
 awa,tune
@@ -250,12 +244,12 @@ awat,hope
 awat,wish
 awaz,melody
 awaz,tune
+awir,point of view
+awir,viewpoint
 awêne,evident
 awêne,glass
 awêne,mirror
 awêne,reflector
-awir,point of view
-awir,viewpoint
 ax,ground
 ax,land
 ax,soil
@@ -278,9 +272,15 @@ azadî,freedom
 azadî,liberty
 azadîxwaz,freedom seeker
 azeb,single
-azîne,method
 azwerî,love
 azwerî,passion
+azîne,method
+aş,food
+aşartin,admit
+aşartin,confess
+aşopî,virtual
+aştixwaz,peace seeker
+aştî,peace
 b,b
 ba,rheumatism
 ba,wind
@@ -308,8 +308,8 @@ bahor,cold
 bahorî,flu (disease)
 bajar,city
 bajar,town
-bajarî,urban
 bajarok,town
+bajarî,urban
 bajen,fan
 bakur,north
 bakur,northern
@@ -352,36 +352,30 @@ bare,subject
 bare,theme
 bare,topic
 baregeh,camp
+barkirin,charge
+barkirin,load
 barîdox,condition
 barîdox,position
 barîdox,posture
 barîdox,situation
 barîdox,state
 barîdox,status
-barkirin,charge
-barkirin,load
 basark,air-condition
 basark,airconditioner
-basîn (efrîn),complaint
-basîn (efrîn),nagging
 bask,arm
 bask,department
 bask,wing
-baş,fair
-baş,fine
-baş,good
-baş,okay
-baş,right
-baş,well
+basîn (efrîn),complaint
+basîn (efrîn),nagging
 bav,father
 bav,sire
 baw,normal
+bawerkirin,believe
 bawerî,belief
 bawerî,believe
 bawerî,credence
 bawerî,faith
 bawerîpêanîn,believe
-bawerkirin,believe
 baweşîn,fan
 baweşînk,fan
 baz,race
@@ -398,6 +392,12 @@ bazirganî,trade
 bazne,axis
 bazne,hub
 bazne,pivot
+baş,fair
+baş,fine
+baş,good
+baş,okay
+baş,right
+baş,well
 bed,evil
 bed,ill
 bed,nasty
@@ -424,7 +424,6 @@ bedewî,pulchritude
 bednav,disrepute
 behane,cover
 behicandin,irritate
-behîv,almond
 behr,sea
 behreme,auger
 behreme,borer
@@ -432,6 +431,7 @@ behreme,drill
 behreme,wimble
 behremendî,flair
 behremendî,talent
+behîv,almond
 bejn,length
 belam,but
 belam,however
@@ -439,8 +439,6 @@ belavkirin,dispense
 belavkirin,distribute
 belengaz,poor
 belengaztir,poorer
-belê,yea
-belê,yes
 belge,document
 belikandin,anesthetization
 belikandin,anesthetize
@@ -450,6 +448,8 @@ beliyandin,confirm
 belkî,maybe
 beloq,eccentric
 beloq,peculiar
+belê,yea
+belê,yes
 ben,rope
 benckirin,anesthetization
 benckirin,anesthetize
@@ -478,8 +478,6 @@ berber,rival
 berberî,enmity
 bercestekirin,embody
 bercestekirin,incarnation
-berçav,concrete
-berçavk,eyeglasses
 berdan,abandon
 berdan,allow
 berdan,desert
@@ -511,9 +509,6 @@ berevan,advocate
 berevan,apologist
 berevan,attorney
 berevanî,apologia
-berê,ago
-berê,before
-berê,former
 berf,snow
 berg,cover (e.g mobile coverage)
 bergeh,outlook
@@ -531,7 +526,6 @@ berhem,writing
 berhevkirin,assemble
 berhevkirin,compile
 berhevok,compilation
-berî,plain
 berjeng,evidence
 berkar,reaction
 bernac,cunning
@@ -550,8 +544,8 @@ bersiv,answer
 bersiv,reply
 bersiv,response
 bersiv da,replied
-bersîv,response
 berstûk,collar
+bersîv,response
 bertek,reaction
 bertek,response
 berwar,declivity
@@ -559,6 +553,12 @@ berx,lamb
 berxwedêr,stubborn
 berzebûn,lose
 berzile,skirt
+berçav,concrete
+berçavk,eyeglasses
+berê,ago
+berê,before
+berê,former
+berî,plain
 bes,but
 bes,enough
 bes,just
@@ -569,11 +569,6 @@ best,afflatus
 beste,abstract
 beste,figurative
 bestenî,ice
-beş,chapter
-beş,part
-beş,section
-beş,sections
-beşdarî bûn,join
 betal,invalid
 betal,null
 betal,unemployed
@@ -609,6 +604,234 @@ beyanî,morning
 beytû,idle
 beytû,indolent
 beytû,workless
+beş,chapter
+beş,part
+beş,section
+beş,sections
+beşdarî bûn,join
+bi,by
+bi,with
+bi ... re,with
+bi giştî,generally
+bi giştî,in general
+bi hev re,together
+bi hêrs,ambitious
+bi hêrs,angry
+bi hêsanî,easily
+bi hêsanî,with ease
+bi kar anîn,use
+bi kar tîne,uses
+bi kinahî,briefly
+bi kinahî,in brief
+bi kinayî,in short
+bi kinayî,shortly
+bi kotekî,by force
+bi kotekî,forcibly
+bi kurtasî,in short
+bi kurtasî,shortly
+bi lez û bez,in a hurry
+bi lez û bez,in a rush
+bi min,i think...
+bi piranî,mostly
+bi pêş ve,forward
+bi rastî,actually
+bi rastî,indeed
+bi rastî,really
+bi taybet,particularly
+bi taybetî,especially
+bi taybetî,particularly
+bi tenê,only
+bi têpan ketin,fit
+bi vî awayî,in that way
+bi vî awayî,in this way
+bi vî rengî,so
+bi vî rengî,with this color
+bi xêr hatî,welcome
+bi şev,in the night
+bi şev,with the night
+bibandûr,effective
+biborîne,sorry
+bibîrxistin,remind
+bicihanîn,fulfill
+bicihanîn,implement
+bicihkirin,locate
+bicihkirin,place
+bicûk,minor
+bidawîbûn,conclusion
+bidawîbûn,end
+bidawîbûn,termination
+bidawîkirin,conclude
+bidawîkirin,end
+bidawîkirin,terminate
+bidil,volunteer
+biha,charge
+biha,cost
+biha,expensive
+biha,price
+biha,value
+bihabûn,expensiveness
+bihabûn,price increase
+bihane,cover
+bihar,spring
+bihar,springtide
+bihar,springtime
+bihevşabûn,caressing each other
+bihevşabûn,lovemaking
+bihistin,hear
+bihêz,intense
+bihêz,mighty
+bihêz,potent
+bihêz,powerful
+bihêz,robust
+bihêz,strong
+bijang,eyelash
+bijare,eminent
+bijarte,select
+bijî,long live!
+bijî,well done!
+bijîşk,doctor
+bikaranîn,dispose
+bikaranîn,employ
+bikaranîn,use
+bikarhêner,user
+bikuj,assassin
+bikêrhatî,beneficial
+bikêrhatî,useful
+bila be,allright!
+bila be,ok!
+bilbil,nightingale
+bilind,high
+bilind,tall
+bilindahî,height
+bilindbûn,ascension
+bilindbûn,elevation
+bilindbûn,rise
+bilindkirin,elevate heighten
+bilindkirin,hoist
+bilindkirin,lift
+bilindkirin,raise
+bilyan (efrîn),awake
+bilyan (efrîn),conscious
+bilêz,fast
+bin,base
+bin,below
+bin,bottom
+bin,floor
+bin,ground
+bin,under
+bin,underneath
+binar,versant
+binavkirin,characterize
+binavkirin,describe
+binavkirin,name
+binavûdeng,celebrated
+binavûdeng,famous
+binavûdeng,illustrious
+binavûdeng,well known
+bindest bûn,be under rules or control of someone by force
+bindestî,under rules or control of someone by force
+binema,bases
+binema,component
+bingeh,base
+bingeh,basis
+bingeh,ground
+bingehî,fundamentally
+bingehîn,basic
+binpêkirin,violate
+binyad,base
+binyad,basis
+binyad,bottom
+binyad,master
+binyad,root
+binçavkirin,arrest
+binçavkirin,take into custody
+binçavî,arrest
+binî,base
+binî,bottom
+binî,floor
+binî,ground
+binî,underneath
+bir,piece
+bir,segment
+biran,die out
+biran,extinction
+birek,saw
+birin,carry
+birinc,rice
+biriqandin,burnish
+biriqandin,furbish
+biriqandin,polish
+biriqîn,beam
+biryar,decision
+biryar standin,decide
+birêk,systematically
+birêkirin,forward
+birêkirin,send
+birêkirin,transmit
+birêkûpêk,methodical
+birêkûpêk,orderly
+birêkûpêk,steady
+birêkûpêk,tidy
+birêvebirin,administer
+birêvebirin,govern
+birêveçûn,walk
+birêxistinkirin,organize
+birêz,sir
+birîn,cut
+birîndar,wounded
+biserkeftî,successful
+biserketî,successful
+biserûber,methodical
+biserûber,steady
+bivir,ax
+bivir,axe
+bixêrî,chimney
+bixêrî,funnel
+biyan,bizarre
+biyan,strange
+biyanî,alien
+biyanî,exotic
+biyanî,foreign
+biyanû,excuse
+biyanû,pretext
+biyolojî,biology
+bizav,action
+bizav,activity
+bizav,motion
+bizav,move
+bizav,movement
+bizav,stir
+bizdonek,coward
+bizin,goat
+bizmar,nail
+biçûk,little
+biçûk,minor
+biçûk,small
+biçûkahî,childhood
+biçûkahî,littleness
+biçûkahî,smallness
+biçûktir,smaller
+bişirîn,smile
+bişkoj,button
+bobelat,accident
+bobelat,disaster
+bobelat,harm
+bobelat,misadventure
+bomb,bombs
+borî,passed
+borîn,outdo
+borîn,surpass
+boyax,color
+boyax,paint
+boyaxkirin,paint
+boçûn,attitude
+brûsk,bolt
+brûsk,telegram
+brûsk,wire
+buha,charge
+buha,cost
+buha,price
+burs,scholarship
 bê,without
 bê-ol,heathen
 bê-ol,idolater
@@ -641,8 +864,8 @@ bêje,word
 bêjing,sieve
 bêjingkirin,sieve
 bêjingkirin,sift
-bêjî,illegal son (result of an illegal sexual intercourse)
 bêjn,size
+bêjî,illegal son (result of an illegal sexual intercourse)
 bêkes,lone
 bêkes,lonely
 bêkes,orphan
@@ -662,7 +885,6 @@ bêserûber,untidy
 bêsiûd,hapless
 bêsiûd,unhappy
 bêsiûd,unlucky
-bêş,ransom
 bêtar,cataclysm
 bêtar,catastrophe
 bêtar,disaster
@@ -670,218 +892,15 @@ bêvil,nose
 bêxanî,homeless
 bêxem,carefree
 bêxem,untroubled
-bêyî ku,before
 bêyom,ill-omened
 bêyom,ominous
+bêyî ku,before
 bêzandin,abhor
 bêzandin,scorn
 bêzirav,coward
 bêzirav,fearful person
 bêzirav,shy
-bi,by
-bi,with
-bi ... re,with
-bi giştî,generally
-bi giştî,in general
-bi hev re,together
-bi hêrs,ambitious
-bi hêrs,angry
-bi hêsanî,easily
-bi hêsanî,with ease
-bi kar anîn,use
-bi kar tîne,uses
-bi kinahî,briefly
-bi kinahî,in brief
-bi kinayî,in short
-bi kinayî,shortly
-bi kotekî,by force
-bi kotekî,forcibly
-bi kurtasî,in short
-bi kurtasî,shortly
-bi lez û bez,in a hurry
-bi lez û bez,in a rush
-bi min,i think...
-bi pêş ve,forward
-bi piranî,mostly
-bi rastî,actually
-bi rastî,indeed
-bi rastî,really
-bi şev,in the night
-bi şev,with the night
-bi taybet,particularly
-bi taybetî,especially
-bi taybetî,particularly
-bi tenê,only
-bi têpan ketin,fit
-bi vî awayî,in that way
-bi vî awayî,in this way
-bi vî rengî,so
-bi vî rengî,with this color
-bi xêr hatî,welcome
-bibandûr,effective
-bibîrxistin,remind
-biborîne,sorry
-bicihanîn,fulfill
-bicihanîn,implement
-bicihkirin,locate
-bicihkirin,place
-bicûk,minor
-biçûk,little
-biçûk,minor
-biçûk,small
-biçûkahî,childhood
-biçûkahî,littleness
-biçûkahî,smallness
-biçûktir,smaller
-bidawîbûn,conclusion
-bidawîbûn,end
-bidawîbûn,termination
-bidawîkirin,conclude
-bidawîkirin,end
-bidawîkirin,terminate
-bidil,volunteer
-biha,charge
-biha,cost
-biha,expensive
-biha,price
-biha,value
-bihabûn,expensiveness
-bihabûn,price increase
-bihane,cover
-bihar,spring
-bihar,springtide
-bihar,springtime
-bihevşabûn,caressing each other
-bihevşabûn,lovemaking
-bihêz,intense
-bihêz,mighty
-bihêz,potent
-bihêz,powerful
-bihêz,robust
-bihêz,strong
-bihistin,hear
-bijang,eyelash
-bijare,eminent
-bijarte,select
-bijî,long live!
-bijî,well done!
-bijîşk,doctor
-bikaranîn,dispose
-bikaranîn,employ
-bikaranîn,use
-bikarhêner,user
-bikêrhatî,beneficial
-bikêrhatî,useful
-bikuj,assassin
-bila be,allright!
-bila be,ok!
-bilbil,nightingale
-bilêz,fast
-bilind,high
-bilind,tall
-bilindahî,height
-bilindbûn,ascension
-bilindbûn,elevation
-bilindbûn,rise
-bilindkirin,elevate heighten
-bilindkirin,hoist
-bilindkirin,lift
-bilindkirin,raise
-bilyan (efrîn),awake
-bilyan (efrîn),conscious
-bin,base
-bin,below
-bin,bottom
-bin,floor
-bin,ground
-bin,under
-bin,underneath
-binar,versant
-binavkirin,characterize
-binavkirin,describe
-binavkirin,name
-binavûdeng,celebrated
-binavûdeng,famous
-binavûdeng,illustrious
-binavûdeng,well known
-binçavî,arrest
-binçavkirin,arrest
-binçavkirin,take into custody
-bindest bûn,be under rules or control of someone by force
-bindestî,under rules or control of someone by force
-binema,bases
-binema,component
-bingeh,base
-bingeh,basis
-bingeh,ground
-bingehî,fundamentally
-bingehîn,basic
-binî,base
-binî,bottom
-binî,floor
-binî,ground
-binî,underneath
-binpêkirin,violate
-binyad,base
-binyad,basis
-binyad,bottom
-binyad,master
-binyad,root
-bir,piece
-bir,segment
-biran,die out
-biran,extinction
-birek,saw
-birêk,systematically
-birêkirin,forward
-birêkirin,send
-birêkirin,transmit
-birêkûpêk,methodical
-birêkûpêk,orderly
-birêkûpêk,steady
-birêkûpêk,tidy
-birêvebirin,administer
-birêvebirin,govern
-birêveçûn,walk
-birêxistinkirin,organize
-birêz,sir
-birin,carry
-birinc,rice
-biriqandin,burnish
-biriqandin,furbish
-biriqandin,polish
-biriqîn,beam
-birîn,cut
-birîndar,wounded
-biryar,decision
-biryar standin,decide
-biserkeftî,successful
-biserketî,successful
-biserûber,methodical
-biserûber,steady
-bişirîn,smile
-bişkoj,button
-bivir,ax
-bivir,axe
-bixêrî,chimney
-bixêrî,funnel
-biyan,bizarre
-biyan,strange
-biyanî,alien
-biyanî,exotic
-biyanî,foreign
-biyanû,excuse
-biyanû,pretext
-biyolojî,biology
-bizav,action
-bizav,activity
-bizav,motion
-bizav,move
-bizav,movement
-bizav,stir
-bizdonek,coward
-bizin,goat
-bizmar,nail
+bêş,ransom
 bîber,pepper
 bîhok,quince
 bîn,smell
@@ -899,25 +918,6 @@ bîryar,decisions
 bîsk,moment
 bîst,twenty
 bîşe,jungle
-bobelat,accident
-bobelat,disaster
-bobelat,harm
-bobelat,misadventure
-boçûn,attitude
-bomb,bombs
-borî,passed
-borîn,outdo
-borîn,surpass
-boyax,color
-boyax,paint
-boyaxkirin,paint
-brûsk,bolt
-brûsk,telegram
-brûsk,wire
-buha,charge
-buha,cost
-buha,price
-burs,scholarship
 bû,became
 bû,been
 bû,was
@@ -968,7 +968,6 @@ cerge,circle
 ceribandin,attempt
 ceribandin,experience
 ceribandin,try
-cêr,pottery
 cih,location
 cih,locus
 cih,place
@@ -983,21 +982,39 @@ cir,conversation
 cir,talk
 cis,lime
 civak,society
-civakî,social
 civaknas,sociologist
 civaknasî,sociology
+civakî,social
 civat,community
 civîn,convention
 civîn,convocation
 ciwan,young
+ciwantir,younger
 ciwanî,adolescence
 ciwanî,youth
-ciwantir,younger
 ciyawaz,adverse
 ciyawaz,antonymous
 ciyawaz,apposite
 ciyawaz,different
 ciyok,synonymous
+co,canal
+co,channel
+co,duct
+cok,canal
+cok,channel
+cok,ditch
+cok,duct
+cok,trench
+cot,couple
+cot,pair
+cot,twosome
+cotgeh,farm
+cotkar,farmer
+coşî,emotion
+cuda,different
+cur,sort
+cure,sort
+cêr,pottery
 cî,place
 cî,position
 cî,site
@@ -1012,194 +1029,11 @@ cîh,site
 cîhan,earth
 cîhan,world
 cîwar,zone
-co,canal
-co,channel
-co,duct
-cok,canal
-cok,channel
-cok,ditch
-cok,duct
-cok,trench
-coşî,emotion
-cot,couple
-cot,pair
-cot,twosome
-cotgeh,farm
-cotkar,farmer
-cuda,different
-cur,sort
-cure,sort
 cûre,sort
 cûre,species
 cûzandin,chaos
 cûzandin,tumult
 cûzandin,turmoil
-çak,fair
-çak,fine
-çak,handsome
-çak,well
-çalak,active
-çalak,living
-çalakiyan,activities
-çalakiyên,activities
-çalakî,action
-çalakî,actions
-çalakî,activities
-çalakî,activity
-çand,culture
-çap,edition
-çap,press
-çapemenî,basin
-çapkirin,print
-çapxane,press
-çaremîn,fourth
-çarenûs,destiny
-çarenûs,fate
-çarenûs,karma
-çarenûs,kismet
-çarenûs,lot
-çareserî,solution
-çareserkirin,detach
-çareserkirin,dissolve
-çareserkirin,loosen
-çareserkirin,solve
-çareserkirin,unfasten
-çareserkirin,unfix
-çat (efrîn),station or parting on a long road
-çav,eye
-çav,eyes
-çavfireh,bounteous
-çavfireh,freehanded
-çavfireh,generous
-çavkanî,fount
-çavkanî,fountain
-çavkanî,source
-çavkanî,spring
-çavkanî,wellspring
-çavsor,cruel
-çavsor,unkind
-çavteng,mean
-çaw,bar
-çaw,rod
-çawa,how
-çawanî,quality
-çax,time
-çax,while
-çay,tea
-çekbend,vest
-çekên navokî,atomic weapons
-çeleng,bold
-çeleng,brave
-çeleng,courageous
-çeleng,gamy
-çeleng,gritty
-çeleng,plucky
-çelqandin,agitate
-çem,river
-çembil,handle
-çembil,helve
-çembil,stalk
-çembil,stem
-çemçûs,illiberal
-çemçûs,tightfisted
-çemçûs,ungenerous
-çemek,logic
-çemik,principle
-çend,several
-çend,some
-çendînî,quantity
-çenebaz,garrulous
-çep,left
-çepel,black
-çepel,dingy
-çepel,dirty
-çepel,foul
-çepel,impure
-çepel,smutty
-çepel,sordid
-çepel,squalid
-çeprew,leftist (political)
-çerm,integument
-çerm,skin
-çert,exclude
-çerx,period
-çespandin,adhere
-çespandin,establish
-çespandin,stick to
-çespandin,stick
-çewal,bag
-çewal,sack
-çewsandin,bruise
-çewsîner,tyrant
-çewt,wrong
-çexer,foot
-çê,fine
-çê,made
-çê,well
-çêbûn,grow
-çêbûn,happen
-çêbûn,transpire
-çêj,flavor
-çêj,savor
-çêj,taste
-çêker,maker
-çêkirin,build
-çêkirin,perform
-çêkirin,produce
-çêlek,cow
-çêre,grass
-çêre,herbage
-çêregeh,pasture
-çêrlêkirin,curse
-çêrlêkirin,swear
-çêşt,taste
-çêtir,better
-çi,what
-çi be (jî),whatever
-çilfisandin,cabbage
-çilfisandin,heist
-çilfisandin,snitch
-çilfisandin,swipe
-çilîçilî,bat
-çilmisî,pale
-çilmisî,pallid
-çilmisî,sallow
-çilmisî,wan
-çilpik,drop
-çima,why
-çimkî,since
-çir,dense
-çir,intensive
-çira,lamp
-çirav,quagmire
-çirav,quagmire
-çirav,swamp
-çirçir,hearsay
-çirçir,rumour
-çirişî,gleam
-çirişî,glitter
-çirk,second
-çirke,second (clock)
-çirûsîn,beam
-çivîk,sparrow
-çiya,mount
-çîn,category
-çîn,class
-çîn,classes
-çîn,grade
-çîrok,story
-çîrok,tale
-ço,bar
-ço,rod
-çogan,rod
-çong,knee
-çopandin,extort
-çort,liar
-çû,gone
-çûn,go
-çûn,going
-çûn,went
-çûyîn,going
 d,d
 da,gave
 da,mother
@@ -1208,11 +1042,11 @@ dab,snare
 dab,trap
 dabeşkirin,distribute
 dabeşkirin,divide
+dabir,apostrophe
 dabêlandin,devour
 dabêlandin,engulf
 dabêlandin,gobble
 dabêlandin,swallow
-dabir,apostrophe
 dabîn,confirm
 dabîn,guarantee
 dabînkirin,guarantee
@@ -1227,10 +1061,10 @@ dadyane,just
 dagirtin,fill
 dahatû,future
 dahatû,futurity
-dahênan,create
-dahêner,inventor
 dahol,drum
 daholjen,drummer
+dahênan,create
+dahêner,inventor
 dahûrandin,analyze
 dakûdolabî n,collusion
 daliqandin,hang
@@ -1248,6 +1082,7 @@ dane,seed
 danezan,declaration
 daniş,intellectual
 daniş,sophisticated
+danzanîn,tell
 danîn,lay
 danîn,place
 danîn,put
@@ -1255,7 +1090,6 @@ danîn,set
 danîn,stick
 danîştin,session
 danûstandin,dialogue
-danzanîn,tell
 dapî,ownership bill
 dapî,possession bill
 daqurtandin,devour
@@ -1265,13 +1099,13 @@ dar,tree
 dara,rich
 dara,wealthy
 darbest,coffin
-darêjtin,create
 daring,materials for studying
 daristan,forest
+darizandin,judge
 darişt,boon
 darişt,well-being
 dariştin,arrange
-darizandin,judge
+darêjtin,create
 das,sickle
 daw,skirt
 dawer,arbitrator
@@ -1404,16 +1238,12 @@ derhûde,guarantee
 derhûde,security
 derizandin,fissure
 derizandin,split
-derî,door
 derkenar,anecdote
 derketin,exit
 derkirin,excretion
 derkirin,expel
 dermanfiroş,druggist
 dernexon (efrîn),upside down
-derûder,entourage
-derûder,environs
-derûnî,psychic
 derve,out
 derve,outside
 derve,without
@@ -1425,6 +1255,10 @@ derveyî,extrinsic
 derveyî,outward
 derwarkirin,displace
 derya,sea
+derî,door
+derûder,entourage
+derûder,environs
+derûnî,psychic
 deskîş,espionage
 deskîş,spy
 dest,hand
@@ -1471,24 +1305,13 @@ dexes,envious
 dexes,envy
 dexl,corn
 dexl,grain
-dê,mother
-dê,shall
-dêhn,attention
-dêlemar,lizard
-dêlî,grapevine
-dêlî,vine
-dêm,cheek
-dêman,native
-dêr,church
-dêrîn,noble
-dêxûn,waist
 di ... de,in
 di demê nêzîk de,soon
 di nav de,within
 dibe ku,perhaps
-dibêje,says
 dibistan,school
 dibistan,schools
+dibêje,says
 difikire,think
 difn,nose
 digel,common
@@ -1499,9 +1322,9 @@ dij,contra
 dijber,against
 dijber,versus
 dijmin,foe
-dijûn,cuss
 dijwar,difficult
 dijwar,tough
+dijûn,cuss
 dik,scene
 dik,stage
 dikare,can
@@ -1525,14 +1348,6 @@ dilbikul,sorry
 dilbikul,woeful
 dildarî,love
 dildarî,passion
-dilîn,emotion
-dilîn,feel
-dilîn,feeling
-dilîn,sensation
-dilîn,sense
-dilîn,sentiment
-dilînî,emotional
-dilînî,sentimental
 dilkirin,claim
 dilkirin,demand
 dilkirin,postulate
@@ -1544,6 +1359,14 @@ dilsoz,devoted
 dilsoz,faithful
 dilsoz,trusty
 dilteng,impatient
+dilîn,emotion
+dilîn,feel
+dilîn,feeling
+dilîn,sensation
+dilîn,sense
+dilîn,sentiment
+dilînî,emotional
+dilînî,sentimental
 din,another
 din,other
 dinya,world
@@ -1573,28 +1396,75 @@ diwaroj,future
 diwaroj,futurity
 dixwîne,reads
 diyar,apparent
+diyar,apparent
 diyar,broad
 diyar,clear
 diyar,conspicuous
 diyar,evident
 diyar,manifest
 diyar,obvious
-diyar,apparent
 diyar,obvious
 diyarde,phenomena
 diyarde,phenomenon
-diyarî,gift
-diyarî,present
 diyarkirin,explain
 diyarok,job
 diyarok,rank
 diyarok,standing
+diyarî,gift
+diyarî,present
 dizane,knows
 dizîn,cabbage
 dizîn,heist
 dizîn,pilfer
 dizîn,purloin
 dizîn,steal
+do,yesterday
+dol,valley
+dolmendî,opulence
+dolmendî,wealth
+doman,operation
+doman,process
+domdar,always
+domdar,constant
+domdar,permanent
+domîn,continue
+domîn,last
+dor,entourage
+doran,horizon
+dorankirin,alter
+dorpêçkirin,encircle
+dorî,nearly
+dost,friend
+dostanî,amity
+dot,girl
+doz,case
+doz,contest
+doz,fight
+doz,struggle
+dozîn,instinct
+dubare,repetition
+ducan,pregnant
+dudil,irresolute
+dudilî,indecision
+duh,yesterday
+dukar,rumor
+durist,proper
+duristkirin,make
+duristkirin,perform
+durûtî,hypocrisy
+duyemîn,second
+duçerxe,bicycle
+dê,mother
+dê,shall
+dêhn,attention
+dêlemar,lizard
+dêlî,grapevine
+dêlî,vine
+dêm,cheek
+dêman,native
+dêr,church
+dêrîn,noble
+dêxûn,waist
 dîk,chanticleer
 dîk,cock
 dîk,rooster
@@ -1611,9 +1481,9 @@ dînkirin,madden
 dîrok,date
 dîrok,history
 dîrok,story
+dîroknas,historian
 dîrokî,historic
 dîrokî,historical
-dîroknas,historian
 dîsa,again
 dît,found
 dît,saw
@@ -1626,42 +1496,6 @@ dîtin,spot
 dîtin,view
 dîtî,seen
 dîwar,wall
-do,yesterday
-dol,valley
-dolmendî,opulence
-dolmendî,wealth
-doman,operation
-doman,process
-domdar,always
-domdar,constant
-domdar,permanent
-domîn,continue
-domîn,last
-dor,entourage
-doran,horizon
-dorankirin,alter
-dorî,nearly
-dorpêçkirin,encircle
-dost,friend
-dostanî,amity
-dot,girl
-doz,case
-doz,contest
-doz,fight
-doz,struggle
-dozîn,instinct
-dubare,repetition
-ducan,pregnant
-duçerxe,bicycle
-dudil,irresolute
-dudilî,indecision
-duh,yesterday
-dukar,rumor
-durist,proper
-duristkirin,make
-duristkirin,perform
-durûtî,hypocrisy
-duyemîn,second
 dû,back
 dû,fume
 dû car,twice
@@ -1725,17 +1559,15 @@ erd,site
 erdhej,earthquake
 erdnasî,geology
 erdnîgarî,geography
-erê,yes
-erêkirin,approve
-erênî,affirmative
-erênî,positive
 erk,duty
 erk,part
 erk,task
 erzan,cheap
 erzan,inexpensive
-eşkere,clear
-eşkere,evident
+erê,yes
+erêkirin,approve
+erênî,affirmative
+erênî,positive
 etax,espionage
 etax,spy
 ev,he
@@ -1752,10 +1584,10 @@ ewlehî,trust
 ewlekarî,security
 ewr,cloud
 ewrawî,cloudy
-ewşandî,forbidden
 ewtîn,bark
 ewtîn,bay
 ewtîn,yip
+ewşandî,forbidden
 extirme,booty
 extirme,pillage
 eyan,evident
@@ -1777,19 +1609,12 @@ ezmûn,trial
 ezmûngeh,laboratory
 ezmûnî,expertise
 ezperest,selfish
-êmîş,fruit
-êrîş,aggression
-êrîş,assault
-êrîş,attack
-êrîşkirin,aggress
-êrîşkirin,assault
-êrîşkirin,attack
-êşîn,ache
-êzing,wood
+eşkere,clear
+eşkere,evident
 fa,fa
 fare,rat
-fayîz,interest (finance)
 fayke,sweater
+fayîz,interest (finance)
 fedî,shame
 fedîkirin,blush
 fehmkirin,apprehend
@@ -1817,6 +1642,29 @@ ferman,prescription
 fermî,official
 fesal,form
 fesal,shape
+fikir,idea
+fikir,ideas
+fikirîn,consider
+fikirîn,plan
+fikirîn,thinking
+find,candle
+firaq,pots and pans
+fireh,broad
+fireh,wide
+firehtir,wider
+firehî,area
+firehî,latitude
+firk,scarce
+firk,seldom
+firkandin,chafe
+firoke,helicopter
+firotin,sell
+firotin,vend
+fistan,dress
+fisû,skunk
+fodil (efrîn),charming
+fodil (efrîn),pretty
+fotografî,photography
 fêkî,fruit
 fêmkirin,apprehend
 fêmkirin,savvy
@@ -1829,26 +1677,6 @@ fêrbûn <fêr...b>,become accustomed
 fêrbûn <fêr...b>,get used to
 fêrgeh,school
 fêrname,certification
-fikir,idea
-fikir,ideas
-fikirîn,consider
-fikirîn,plan
-fikirîn,thinking
-find,candle
-firaq,pots and pans
-fireh,broad
-fireh,wide
-firehî,area
-firehî,latitude
-firehtir,wider
-firk,scarce
-firk,seldom
-firkandin,chafe
-firoke,helicopter
-firotin,sell
-firotin,vend
-fistan,dress
-fisû,skunk
 fîlm,film
 fîqerojk,mushroom
 fîrma,firm
@@ -1856,9 +1684,6 @@ fîskanî,little
 fîskanî,petite
 fîskanî,picayune
 fîskanî,small
-fodil (efrîn),charming
-fodil (efrîn),pretty
-fotografî,photography
 ga,bullock
 gale,storm
 galtefis,lazy
@@ -1870,9 +1695,9 @@ gav,era
 gav,instant
 gav,moment
 gav,time
+gaztîn,club
 gazî,call
 gazîkirin,call
-gaztîn,club
 ged,cavity
 ged,feature
 ged,gap
@@ -1899,12 +1724,12 @@ gelemper,generic
 gelemper,public
 gelemperî,common
 gelemperî,public
-gelêrî,anonymous
-gelêrî,popular
 gelhe,population
-gelî,gully
 gelwaz,sequence
 gelwaz,succession
+gelêrî,anonymous
+gelêrî,popular
+gelî,gully
 gemar,black
 gemar,dingy
 gemar,dirty
@@ -1934,26 +1759,18 @@ gerdûnî,universal
 geremolî,chaos
 geremolî,turmoil
 gerisandin,bruise
-gerînende,director
-gerînende,manager
 germayî,heat
 germjimêr,thermometer
-geşedanî,blossom
-geşedanî,inflorescence
+gerînende,director
+gerînende,manager
 gevîn,threat
 gewre,ample
 gewre,big
 gewre,grand
 gewre,great
 gewre,large
-gêj,disturbed
-gêjenge,eddy
-gêjenge,whirlpool
-gêjkirin,bewilder
-gêjkirin,fuddle
-gêrkirin,delay
-gêrkirin,put off
-gêzer,carrot
+geşedanî,blossom
+geşedanî,inflorescence
 gihan,arrive
 gihan,attain
 gihan,get
@@ -1971,8 +1788,6 @@ giran,hard
 giran,heavy
 giranbiha,expensive
 giredan,link
-girêdayî,bound
-girêk,knurl
 girfan,pocket
 girgîn,angry
 girgîn,furious
@@ -1981,12 +1796,6 @@ giringahî,importance
 giringahî,value
 giringî,importance
 giringî,value
-girîn,cry
-girîng,big
-girîng,important
-girîng,momentous
-girîng,weighty
-girîngtî,urgency
 girnijîn,smile
 girov,evidence
 girover,rotund
@@ -2012,18 +1821,21 @@ girtî,off
 girtî,taken
 girtîgeh,jail
 girtîgeh,prison
-giştî,common
-giştî,general
+girêdayî,bound
+girêk,knurl
+girîn,cry
+girîng,big
+girîng,important
+girîng,momentous
+girîng,weighty
+girîngtî,urgency
 giya,grass
 giya,herbage
 giyan,esprit
 giyan,ghost
 giyandar,living
-gîrokirin,defer
-gîrokirin,postpone
-gîrokirin,suspend
-gîsk (efrîn),young female goat
-goçavik,eyeglasses
+giştî,common
+giştî,general
 gon,color
 gong,obscure
 gong,vague
@@ -2048,23 +1860,24 @@ gotin,talk
 gotin,word
 gotî,told
 govan li dadgehê,witness in court
+goçavik,eyeglasses
 guhar,earring
 guharin,change
 guhart,changed
 guhartin,change
 guhdar kirin,listen
 guherandin,change
-guherîn,alter
-guherîn,change
 guherrandin,changed
 guherrî,changed
+guherîn,alter
+guherîn,change
+guhlêbûn,hear
+guhorrand,changed
+guhorrî,changed
 guhêztin,carry
 guhêztin,convey
 guhêztin,relay
 guhêztin,transmit
-guhlêbûn,hear
-guhorrand,changed
-guhorrî,changed
 gulebûk,weasel
 guman,doubt
 gumanbarbûn,doubt
@@ -2098,6 +1911,18 @@ gurçik,kidney
 gurî,bald
 gustîl,ring
 guzvan,thimble
+gêj,disturbed
+gêjenge,eddy
+gêjenge,whirlpool
+gêjkirin,bewilder
+gêjkirin,fuddle
+gêrkirin,delay
+gêrkirin,put off
+gêzer,carrot
+gîrokirin,defer
+gîrokirin,postpone
+gîrokirin,suspend
+gîsk (efrîn),young female goat
 gû,feces
 gûn,color
 gûzan,razor
@@ -2131,11 +1956,11 @@ hefte,weeks
 hejandin,agitate
 hejandin,rock
 hejandin,shake
-hejîn,quake
 hejmar,number
 hejmar,numbers
 hejmartin,count
 hejmartin,reckon
+hejîn,quake
 heke,if
 helal,lawful
 helal,legitimate
@@ -2145,11 +1970,11 @@ helandin,dissolve
 helbest,poem
 helbest,verse
 helbest,verse
-helîn,fuse
-helîn,melt
 helo,eagle
 helperist,opportunist
 helwest,attitude
+helîn,fuse
+helîn,melt
 hem,also
 hema çi be (jî),whatever
 hember,against
@@ -2175,14 +2000,14 @@ heraş,maturity of female
 herem,area
 heremî,local
 heremî,regional
+herikîn,flow
+herweha,thus
 herêm,realm
 herêmkî,regional
-herikîn,flow
 herî,mud
 herî baş,best
 herî mezin,largest
 herî xirab,worst
-herweha,thus
 hes,emotion
 hes,feel
 hes,feeling
@@ -2202,22 +2027,19 @@ hesp,horse
 hest,emotion
 hest,feeling
 hest,sentiment
+hestpêkirin,feel
 hestî,bone
 hestîn,feel
-hestpêkirin,feel
-heşt,eight
 heta,by
-hetîketî,scandal
 hetwan,ointment
 hetwan,unguent
+hetîketî,scandal
 heval,companion
 heval,friend
 heval,friends
 hevalê xort,boyfriend
 hevbeş,common
 hevbeş,joint
-hevçerx,contemporary
-hevçerx,modern
 hevdem,contemporary
 hevdem,modern
 hevdîtin,meet
@@ -2229,13 +2051,15 @@ hevpar,contribution
 hevpar,copartner
 hevpar,partner
 hevparî,contribution
-hevser,competent
 hevser,capable
+hevser,competent
 hevser,competent
 hevsojî,sympathy
 hevsojî,sympathy
 hevyaz,preference
 hevyaz,preponderance
+hevçerx,contemporary
+hevçerx,modern
 hewa,air
 hewce,necessary
 hewce,need
@@ -2251,61 +2075,17 @@ heya,by
 heyam,period
 heyber,material
 heyber,topic
-heyî,given
-heyşt,eight
 heyv,moon
 heyveron,moonlight
+heyî,given
+heyşt,eight
 hez,love
 hez,passion
 hez dike,loves
 hezandin,shake
 hezkirin,like
 hezkirin,love
-hê,still
-hêcet,cover
-hêdî,slow
-hêdîtir,slower
-hêk,egg
-hêk,ovum
-hêl,side
-hêlan <hêl>,allow
-hêlan <hêl>,permit
-hêldan,permission
-hêlî,glass
-hêlî,mirror
-hêlî,reflector
-hêlîn,nest
-hêma,symbol
-hêman,component
-hêman,constituent
-hêman,element
-hêman,facto
-hêmî,humidity
-hêmî,wet
-hêncet,cover
-hênik,chilly
-hênik,cool
-hênikkirin,cool
-hêrs,nerve
-hêsabûn,repose
-hêsabûn,rest
-hêsan,cushy
-hêsan,facile
-hêsir,tear
-hêş,beach
-hêş,seaside
-hêviş,end
-hêviş,finish
-hêvî,hope
-hêwî,humidity
-hêwî,wet
-hêz,energy
-hêz,force
-hêz,power
-hêz,strength
-hêz,vigor
-hêz,vis
-hêzên asayîş,security forces
+heşt,eight
 hibr,ink
 hikûmet,government
 hilanîn,cache
@@ -2341,22 +2121,13 @@ hinguv,honey
 hinkuf,capable
 hinkuf,competent
 hiqûq,law
-hirî,wool
 hirmî,pear
-hişk,firm
-hişk,hard
+hirî,wool
 hizir,sensation
 hizrîn,consider
 hizrîn,plan
-hîç,never
-hîdrojen,hydrogen
-hîm,base
-hîm,basic
-hîm,basis
-hîn,still
-hîn,yet
-hîna,still
-hîv,moon
+hişk,firm
+hişk,hard
 hogir,friend
 hoker,adverb (gra.)
 hoker,situation
@@ -2376,6 +2147,60 @@ huner,dexterity
 huner,skill
 huner,trick
 hunerwer,skillful
+hê,still
+hêcet,cover
+hêdî,slow
+hêdîtir,slower
+hêk,egg
+hêk,ovum
+hêl,side
+hêlan <hêl>,allow
+hêlan <hêl>,permit
+hêldan,permission
+hêlî,glass
+hêlî,mirror
+hêlî,reflector
+hêlîn,nest
+hêma,symbol
+hêman,component
+hêman,constituent
+hêman,element
+hêman,facto
+hêmî,humidity
+hêmî,wet
+hêncet,cover
+hênik,chilly
+hênik,cool
+hênikkirin,cool
+hêrs,nerve
+hêsabûn,repose
+hêsabûn,rest
+hêsan,cushy
+hêsan,facile
+hêsir,tear
+hêviş,end
+hêviş,finish
+hêvî,hope
+hêwî,humidity
+hêwî,wet
+hêz,energy
+hêz,force
+hêz,power
+hêz,strength
+hêz,vigor
+hêz,vis
+hêzên asayîş,security forces
+hêş,beach
+hêş,seaside
+hîdrojen,hydrogen
+hîm,base
+hîm,basic
+hîm,basis
+hîn,still
+hîn,yet
+hîna,still
+hîv,moon
+hîç,never
 hûr,little
 hûr,petite
 hûr,picayune
@@ -2387,20 +2212,33 @@ im,am
 irq,descent
 irq,genealogy
 irq,lineage
-î,are
-îcad,invention
-îlahiyat,theology
-îlon,september
-îmze,signature
-îmzekirî,signed
-înkar,renounce
-îro,today
-îsot,pepper
-îspat,evidence
 jan,pain
 jehr,poison
 jehrîn,venomous
 jeolojî,geology
+ji,from
+ji,of
+ji,than
+ji ... re,to
+ji ber ku,because
+ji ber vê,therefore
+ji bo,for
+ji bîr kirin,forget
+jidil,serious
+jidil,staid
+jimar,number
+jimar,numbers
+jimare,figure
+jimare,number
+jin,wife
+jin,woman
+jin,women
+jixwe,already
+jiyan,life
+jiyî,lived
+jiyîn,exist
+jor,above
+jor,up
 jê kirin,cut
 jêbartin,compensation
 jêbir,rubber
@@ -2417,27 +2255,6 @@ jêr,bottom
 jêr,down
 jêr,under
 jêrîn,down
-ji,from
-ji,of
-ji,than
-ji ... re,to
-ji ber ku,because
-ji ber vê,therefore
-ji bîr kirin,forget
-ji bo,for
-jidil,serious
-jidil,staid
-jimar,number
-jimar,numbers
-jimare,figure
-jimare,number
-jin,wife
-jin,woman
-jin,women
-jixwe,already
-jiyan,life
-jiyî,lived
-jiyîn,exist
 jî,also
 jî,life
 jî,lifetime
@@ -2451,8 +2268,6 @@ jîr,bright
 jîr,intelligent
 jîrî,brain
 jîrî,mind
-jor,above
-jor,up
 jûnî,knee
 jûr,room
 jûvan,regret
@@ -2494,13 +2309,13 @@ kargerî,management
 karistan,factory
 karistan,mill
 karistan,plant
+karker,workers
+kart,card
+kartol,potatoes
+kartêkirin,influence
 karîger,effective
 karîger,efficacious
 karîger,potent
-karker,workers
-kart,card
-kartêkirin,influence
-kartol,potatoes
 karûbar,employment
 karûbar,job
 karûbar,ministration
@@ -2508,8 +2323,6 @@ karûbar,office
 karûbar,service
 karûbar,task
 kaselîs,mercenary
-kaş,ascent
-kaş,mount up
 kat,time
 kat,times
 kat,while
@@ -2518,10 +2331,8 @@ katjmêr,hour
 kavil,ruins
 kavir (efrîn),young female sheep
 kaxiz,paper
-keç,daughter
-keç,girl
-keçbanû,unmarried woman
-keçel,bald
+kaş,ascent
+kaş,mount up
 ked,labor
 ked,work
 kedî,domestic
@@ -2558,7 +2369,6 @@ ker,donkey
 kerane,rich
 kerane,wealthy
 kerisandin (efrîn),tantalize
-kerî,herd
 kert,piece
 kertek,abundant
 kertek,ample
@@ -2570,6 +2380,7 @@ kertek,right
 kertek,unsparing
 kertek,very
 kerxur,vulture
+kerî,herd
 kes,person
 kes,someone
 keser,woe
@@ -2585,6 +2396,12 @@ ketwar,actuality
 ketwar,reality
 keval,table
 kevan,bracket
+kevjal,crab
+kevn,ancient
+kevn,old
+kevnare,antique
+kevneşopî,tradition
+kevok,pigeon
 kevî,border
 kevî,brim
 kevî,edge
@@ -2592,12 +2409,6 @@ kevî,fringe
 kevî,margin
 kevî,side
 kevî,verge
-kevjal,crab
-kevn,ancient
-kevn,old
-kevnare,antique
-kevneşopî,tradition
-kevok,pigeon
 kew,partridge
 kewar,store
 kewar,storehouse
@@ -2606,51 +2417,10 @@ key,king
 keya,chief (for villages)
 keya,mayor
 keybanû,queen
-kêç,flea
-kêf,delight
-kêf,pleasure
-kêf,treat
-kêlek,beside
-kêlek,side
-kêlîk,era
-kêlîk,moment
-kêlîk,time
-kêm,defect
-kêm,few
-kêm,inadequate
-kêm,insufficient
-kêm kirin,reduce
-kêmasî,blemish
-kêmasî,defect
-kêmasî,error
-kêmasî,failing
-kêmasî,fault
-kêmasî,flaw
-kêmasî,mistake
-kêmasî,shortcoming
-kêmasî,slip
-kêmî,deficiency
-kêmkirin,abate
-kêmkirin,attenuate
-kêmkirin,decrease
-kêmkirin,derogate
-kêmkirin,diminish
-kêmkirin,lessen
-kêmkirin,reduce
-kêmtir,less
-kêmzêde,average
-kêr,function
-kêr,suitable
-kêr,suitable
-kêrsek (efrîn),block
-kêrsek (efrîn),hunk
-kêrsek (efrîn),lump
-kês,suitable
-kêşa,agony
-kêşa,torment
-kêşa,agony
-kêşa,torment
-kêşan,weight
+keç,daughter
+keç,girl
+keçbanû,unmarried woman
+keçel,bald
 kilam,ballad
 kilam,song
 kils,lime
@@ -2661,10 +2431,16 @@ kin,compendious
 kin,short
 kinc,dress
 kincjixwekirin,strip
+kingê,when
 kinêzet,series
 kinêzet,succession
-kingê,when
 kir,did
+kirin,do
+kirin,make
+kirin,perform
+kirin,produce
+kiryar,application
+kiryar,exercise
 kirêt,black
 kirêt,dingy
 kirêt,dirty
@@ -2673,27 +2449,11 @@ kirêt,impure
 kirêt,smutty
 kirêt,sordid
 kirêt,squalid
-kirin,do
-kirin,make
-kirin,perform
-kirin,produce
 kirî,done
 kirîn,buy
-kiryar,application
-kiryar,exercise
 kizav,effort
 kizav,effort
-kîjan,what
-kîjan,which
-kîl,dough of pottery
-kîn,malice
-kîn,spite
-kîr,penis
-kîs,billfold
-kîs,wallet
-kîte,paragraph
 klavye,keyboard
-koç,transmigration
 kolan,avenue
 kolan,street
 koldan,compromise
@@ -2709,7 +2469,6 @@ komel,society
 komele,association
 komele,club
 komeleyatî,social
-komîsyon,commission
 komkirin,collect
 komkirin,cumulate
 komkirin,garner
@@ -2717,6 +2476,7 @@ komkirin,gather
 komkirin,save
 komputer,computer
 komunîzm,communism
+komîsyon,commission
 kone,cunning
 kone,cute
 kone,foxy
@@ -2738,6 +2498,7 @@ kovik,funnel
 kovî,feral
 kovî,savage
 kovî,wild
+koç,transmigration
 kredî,credit
 ku,that
 ku,where
@@ -2748,12 +2509,12 @@ kulab,claw
 kulab,hook
 kulek,chimney
 kulek,funnel
+kulm,fist
 kulî,grasshopper
 kulî,locust
-kulîçe,cake
 kulîlk,flower
 kulîn,limp
-kulm,fist
+kulîçe,cake
 kum,cap
 kumbet,peak
 kumbet,summit
@@ -2800,14 +2561,68 @@ kutan,whack
 kutuk,profile for persons
 kuvark,mushroom
 kuxik,cough
-kûçe,avenue
-kûçe,street
-kûçik,dog
+kêf,delight
+kêf,pleasure
+kêf,treat
+kêlek,beside
+kêlek,side
+kêlîk,era
+kêlîk,moment
+kêlîk,time
+kêm,defect
+kêm,few
+kêm,inadequate
+kêm,insufficient
+kêm kirin,reduce
+kêmasî,blemish
+kêmasî,defect
+kêmasî,error
+kêmasî,failing
+kêmasî,fault
+kêmasî,flaw
+kêmasî,mistake
+kêmasî,shortcoming
+kêmasî,slip
+kêmkirin,abate
+kêmkirin,attenuate
+kêmkirin,decrease
+kêmkirin,derogate
+kêmkirin,diminish
+kêmkirin,lessen
+kêmkirin,reduce
+kêmtir,less
+kêmzêde,average
+kêmî,deficiency
+kêr,function
+kêr,suitable
+kêr,suitable
+kêrsek (efrîn),block
+kêrsek (efrîn),hunk
+kêrsek (efrîn),lump
+kês,suitable
+kêç,flea
+kêşa,agony
+kêşa,agony
+kêşa,torment
+kêşa,torment
+kêşan,weight
+kîjan,what
+kîjan,which
+kîl,dough of pottery
+kîn,malice
+kîn,spite
+kîr,penis
+kîs,billfold
+kîs,wallet
+kîte,paragraph
 kûlîlk,flowers
 kûr,deep
 kûrahî,depth
 kûrahî,profundity
 kûtî,dog
+kûçe,avenue
+kûçe,street
+kûçik,dog
 la (not),a (mus.)
 laf,talk
 laf (efrîn),big lie
@@ -2816,17 +2631,17 @@ laqir,jock
 laqir,prank
 laqir,waggery
 lar,feeble
-lar,weak
 lar,feeble
+lar,weak
 lar,weak
 lasakirin,imitate
 lasakirin,mimic
 laser,flood
-laş,body
 lawij,ballad
 lawij,song
 lawik,boy
 lazer,laser
+laş,body
 lebat,motion
 lebat,move
 lebat,movement
@@ -2843,7 +2658,6 @@ lepik,glove
 lerizîn,quake
 lerizîn,quiver
 lerizîn,vibrate
-leş,bodies
 lewitandin,pollute
 lewitandin,soil
 lewre,because
@@ -2851,6 +2665,27 @@ lewre,since
 leyîstin,games
 leyîstin,play
 leyîstok,toy
+leş,bodies
+li,at
+li ku derê,where
+li vê derê,here
+li wê derê,there
+lib,unit
+libergerîn,pray
+lidarxistin,organize
+ligel,common
+ligel,together
+lihevcivîn,assemble
+lihevcivîn,meet
+lijne,commission
+ling,leg
+ling,legs
+liq,section
+liq,segment
+lorî,lullaby
+lotik,jump
+lotik,skip
+lotik,spring
 lê,but
 lê,however
 lê,just
@@ -2869,8 +2704,6 @@ lêbezîn,pommel
 lêbezîn,whack
 lêborîn,excuse
 lêborîn,pardon
-lêçûn,expenditure
-lêçûn,expense
 lêdan,batter
 lêdan,beat
 lêdan,knock
@@ -2902,22 +2735,8 @@ lêxistin,whack
 lêz,speed
 lêzim,relation
 lêzim,relative
-li,at
-li ku derê,where
-li vê derê,here
-li wê derê,there
-lib,unit
-libergerîn,pray
-lidarxistin,organize
-ligel,common
-ligel,together
-lihevcivîn,assemble
-lihevcivîn,meet
-lijne,commission
-ling,leg
-ling,legs
-liq,section
-liq,segment
+lêçûn,expenditure
+lêçûn,expense
 lîk,mucus
 lîmon,lemon
 lîst,played
@@ -2928,10 +2747,6 @@ lîstok,game
 lîstok,plaything
 lîstok,toy
 lîz,game
-lorî,lullaby
-lotik,jump
-lotik,skip
-lotik,spring
 lûtke,apex
 lûtke,cusp
 lûtke,peak
@@ -3020,12 +2835,11 @@ mesqelkirin,burnish
 mesqelkirin,polish
 mest,drunken
 mest,drunken
-meşe,jungle
 metal,metal
-metîn,daybreak
 metod,manner
 metod,procedure
 metre,metre
+metîn,daybreak
 mewda,distance
 meynevî,morale
 meyrek,larva
@@ -3040,6 +2854,56 @@ mezinbûn,increase
 mezinbûn,wax
 mezintir,greater
 mezixandin,corruption
+meşe,jungle
+miftî,free
+miftî,free
+mijar,issue
+mijar,subject
+mijar,theme
+mijar,topic
+mil,arm
+mil,shoulder
+mildan,surrender
+mildan,yield
+min,me
+min,my
+minet,an interest
+minet,care of
+minê,investigate
+minê,search
+mir,died
+mirin,death
+mirov,human
+mirov,man
+mirtik,dregs
+mirtik,sediment
+mirî,dead
+misoger,confirm
+misoger,guarantee
+mist,handful
+misîn,pitcher
+mixtar,chief (for villages)
+mixtar,mayor
+mizgeft,mosque
+mişar,basin
+mişk,mice
+mon,serious
+mon,staid
+monarşî,monarchy
+mone,abhor
+mone,detest
+morî,ant
+mozan,honey
+mujikî,black
+mujikî,dingy
+mujikî,dirty
+mujikî,foul
+mujikî,impure
+mujikî,smutty
+mujikî,sordid
+mujikî,squalid
+muzîk,music
+muzîkjen,musician
 mêd,mood
 mêj,ancient
 mêj,anterior
@@ -3069,55 +2933,23 @@ mêrxas,gamy
 mêrxas,gritty
 mêrxas,plucky
 mêrxas,valiant
+mêtin,absorb
+mêtin,imbibe
+mêvan,guest
+mêze kirin,look
 mêş,action
 mêş,bee
 mêş,energy
 mêş,fly
 mêş,vim
-mêtin,absorb
-mêtin,imbibe
-mêvan,guest
-mêze kirin,look
-miftî,free
-miftî,free
-mijar,issue
-mijar,subject
-mijar,theme
-mijar,topic
-mil,arm
-mil,shoulder
-mildan,surrender
-mildan,yield
-min,me
-min,my
-minet,an interest
-minet,care of
-minê,investigate
-minê,search
-mir,died
-mirin,death
-mirî,dead
-mirov,human
-mirov,man
-mirtik,dregs
-mirtik,sediment
-misîn,pitcher
-misoger,confirm
-misoger,guarantee
-mist,handful
-mişar,basin
-mişk,mice
-mixtar,chief (for villages)
-mixtar,mayor
-mizgeft,mosque
 mîgel,herd
 mîna,akin
+mîna,alike
 mîna,alike
 mîna,as
 mîna,like
 mîna,same
 mîna,similar
-mîna,alike
 mînak,example
 mînak,instance
 mînak,model
@@ -3132,28 +2964,11 @@ mîrza,prince
 mîsoger,certain
 mîsoger,sure
 mîsoger,surely
-mon,serious
-mon,staid
-monarşî,monarchy
-mone,abhor
-mone,detest
-morî,ant
-mozan,honey
-mujikî,black
-mujikî,dingy
-mujikî,dirty
-mujikî,foul
-mujikî,impure
-mujikî,smutty
-mujikî,sordid
-mujikî,squalid
-muzîk,music
-muzîkjen,musician
-mûçe,fee
-mûçe,wage
 mûle,mud
 mûze,antique
 mûze,masterpiece
+mûçe,fee
+mûçe,wage
 na,no
 nadar,disown
 nadar,renounce
@@ -3169,9 +2984,9 @@ nankor,disloyal
 nankor,ungrateful
 nanpêj,baker
 naqos,bell
-nasîn,recognize
 nasyar,friend
 nasyarî,amity
+nasîn,recognize
 nav,among
 nav,inside
 nav,into
@@ -3197,11 +3012,11 @@ naverast,middle
 naverok,contents
 navhatiyek,nominator
 navik,paunch
-navîn,middle
 navlêk,term
 navnîşan,address
 navok,atomic
 navteng,flank
+navîn,middle
 nax,bottom
 ne,not
 ne wek,unlike
@@ -3241,8 +3056,6 @@ neqandin,gather
 neqandin,pick
 nerin,look
 nerm,soft
-neşayîst,ill-gotten
-neşayîst,taboo
 netewe,nation
 neteweyî,national
 netêw,invalid
@@ -3261,27 +3074,18 @@ nexwe,then
 nexweş,patients
 neyar,enemy
 neyar,foe
-neyênî,negative
 neynûk,nail
+neyênî,negative
 nezirkirin,dedicate
 nezirkirin,devote
-nezîk,near
 nezok,infertile
-nêr,masculine
-nêreng,juggler
-nêreng,magician
-nêrevanî,reconnoiter
-nêrin,views
-"nêrî (ramanî, heawyî, avî)","current (political, water, air)"
-nêrîn,look
-nêrîn,view
-nêrîn,watch
-nêzî,nearly
-nêzîktir,closer
+nezîk,near
+neşayîst,ill-gotten
+neşayîst,taboo
 nifir,curse
 nifir,malediction
-nifş,generation
 niftik,match
+nifş,generation
 niha,just
 niha,now
 niha,presently
@@ -3304,9 +3108,6 @@ niqutîn,drip
 niqutîn,drop
 nirx,value
 nirx,values
-nişîv,declivity
-nişîv,slope
-niştecî,population
 nitir,embroidery
 nivandin,hypnotizing
 nivar,modern
@@ -3321,6 +3122,30 @@ niximandin,cover
 nixumandin,cover
 nizm,low
 nizmandin,lower
+niştecî,population
+nişîv,declivity
+nişîv,slope
+nola,as
+nola,like
+nolî,as
+nolî,like
+normal,normal
+not,note
+not,notes
+nuwaze,excellent
+nuwaze,miraculous
+nuwaze,wonderful
+nêr,masculine
+nêreng,juggler
+nêreng,magician
+nêrevanî,reconnoiter
+nêrin,views
+"nêrî (ramanî, heawyî, avî)","current (political, water, air)"
+nêrîn,look
+nêrîn,view
+nêrîn,watch
+nêzî,nearly
+nêzîktir,closer
 nîgah,inspiration
 nîgah,revelation
 nîgar,draw
@@ -3333,48 +3158,34 @@ nîjadperestî,racism
 nîqaş,debate
 nîqaş,discussion
 nîsk,lentil
-nîşan,mark
-nîşan da,showed
-nîşan dan,show
 nîv,half
 nîvqadbir,equater
 nîvreng,fade
 nîvreng,weared out
-nola,as
-nola,like
-nolî,as
-nolî,like
-normal,normal
-not,note
-not,notes
-nuwaze,excellent
-nuwaze,miraculous
-nuwaze,wonderful
+nîşan,mark
+nîşan da,showed
+nîşan dan,show
 nû,fresh
 nû,modern
 nû,new
 nû,novel
 nû,original
 nû,recent
-nûçe,news
 nûjen,modern
 nûrkirin,fold
 nûser,author
 nûser,writer
+nûçe,news
 ode,chamber
 ode,room
 ode,service
 ofîs,office
 ol,faith
 ol,religion
-olçim,garrulous
 oldar,religious
+olçim,garrulous
 operasyon,operations
 pace,window
-paçkirin,buss
-paçkirin,kiss
-paçvan,interpreter
-paîz,fall
 pak,clean
 pak,cleanly
 pakar,servant
@@ -3403,16 +3214,6 @@ par,share
 parastin,guard
 parastin,protect
 parastin,secure
-parçe,section
-parçe,share
-parêz,diet
-parêz,regimen
-parêzer,advocate
-parêzer,attorney
-parêzer,barrister
-parêzer,lawyer
-parêzgeh,province
-parêzname,apologia
 parkirin,distribute
 parkirin,divide
 parsek,beggar
@@ -3425,12 +3226,17 @@ parzîn,purify
 parzîn,refine
 parzûn,filter
 parzûn,strainer
+parçe,section
+parçe,share
+parêz,diet
+parêz,regimen
+parêzer,advocate
+parêzer,attorney
+parêzer,barrister
+parêzer,lawyer
+parêzgeh,province
+parêzname,apologia
 pastîn,collar
-paş,back
-paşêroj,past
-paşve,back
-paşveanîn,bring back
-paşveanîn,take back
 pat,equal
 paydar,partner
 paydoz,holiday
@@ -3439,6 +3245,7 @@ paye,degree
 paye,grade
 paye,rank
 payiz,fall
+paytext,capital
 payîn,anticipate
 payîn,await
 payîn,expect
@@ -3446,10 +3253,17 @@ payîn,stay
 payîn,wait
 payîz,autumn
 payîz,fall
-paytext,capital
+paçkirin,buss
+paçkirin,kiss
+paçvan,interpreter
+paîz,fall
+paş,back
+paşve,back
+paşveanîn,bring back
+paşveanîn,take back
+paşêroj,past
 pehîn,kick
 pehîz,fall
-peî,fall
 pel,sheet
 pelandin,feeling
 pelandin,touch
@@ -3465,8 +3279,6 @@ penîr,cheese
 perav,beach
 perav,seaside
 perav,strand
-perçe,section
-perçe,share
 pere,money
 peresîn,blossom
 peresîn,development
@@ -3474,14 +3286,16 @@ peresîn,inflorescence
 pergal,order
 pergal,system
 perol,password
+perwerdehî,education
+perwerdekar,governess
+perçe,section
+perçe,share
 perû,remuneration
 perû,reward
 perû,tip
 perûk,antique
 perûk,masterpiece
 perûkxane,museum
-perwerdehî,education
-perwerdekar,governess
 pesartin (xwe bi yekî bipesêre),count on
 pesartin (xwe bi yekî bipesêre),depend on
 pesartin (xwe bi yekî bipesêre),rely
@@ -3498,7 +3312,6 @@ pey,back
 peya,pedestrian
 peyam,message
 peyivîn,talk
-peyîz,fall
 peyker,sculpture
 peyman,agreement
 peyman,deal
@@ -3513,10 +3326,85 @@ peywir,commission
 peywir,duty
 peywir,mission
 peywir,task
+peyîz,fall
+peî,fall
+pidû,palate
+pil,degree
+pile,degree
+pile,degree
+piling,tiger
+pindar,delusion
+pindar,illusion
+pindar,phantom
+pindar,specter
+pingirî,annoyance
+pingirî,get angry
+pir,bridge
+pir,frequently
+pir,many
+pir,much
+pir,very
+piranî,majority
+piranî,most
+pirr,lot
+pirs,query
+pirs,question
+pirs,request
+pirs kir,asked
+pirs kirin,ask
+pirsgirêk,business
+pirsgirêk,issue
+pirsgirêk,problem
+pirsgirêk,problems
+pirsgirêk,trouble
+pirsiyarkirin,query
+pirsjêkirin,query
+pirsîn,demand
+pirsîn,query
+pirtûk,book
+pirç,hair
+pispor,adept
+pispor,authority
+pispor,expert
+pispor,specialist
+pisportî,expertise
+pisîk,cat
+pitpit,pulse
+pitpit,throb
+piyale,glass
+piyan,salver
+piyan,tray
+pişrast,confirm
+pişrast,guarantee
+pişt,back
+piştgirî,solidarity
+piştkul,dodgy
+piştkul,elusive
+piştkul,evasive
+piştkul,sly
+piştkulî,dodgyness
+piştkulî,elusiveness
+piştkulî,evasiveness
+piştkulî,slyness
+piştre,later
+piştî,after
+plan,plan
+plan,plans
+pol,steel
+polat,steel
+polîs,police
+ponjîn,notion
+ponjîn,think
+por,hair
+poz,nose
+poz,tip
+pozberî,competition
+pozbilind,conceited
+proje,project
+proje,projects
 pê,feet
 pê,foot
 pê,leg
-pêçan,enclose
 pêdivî,demand
 pêdivî,necessary
 pêdivî,necessity
@@ -3538,27 +3426,6 @@ pêngav,advance
 pêngav,leap
 pêngav,measure
 pêrew,follower
-pêş,ahead
-pêş,front
-pêş ve,next
-pêşangeh,exhibition
-pêşangeh,exposition
-pêşber,attendant
-pêşber,spectators
-pêşbînî,assumption
-pêşbînnasî,astrology
-pêşe,poem
-pêşe,verse
-pêşe,verse
-pêşeroj,future
-pêşîn,antecedent
-pêşîn,before
-pêşketin,development
-pêşketin,evolution
-pêşkêş kirin,offer
-pêşkî,priority
-pêşkî,priority
-pêşrêzkirin,browse
 pêt,fire
 pêt,flame
 pêvajo,operation
@@ -3575,66 +3442,28 @@ pêwîstî,necessity
 pêwîstî,need
 pêwîstî,want
 pêzewarî,materialism
-pidû,palate
-pil,degree
-pile,degree
-pile,degree
-piling,tiger
-pindar,delusion
-pindar,illusion
-pindar,phantom
-pindar,specter
-pingirî,annoyance
-pingirî,get angry
-pir,bridge
-pir,frequently
-pir,many
-pir,much
-pir,very
-piranî,majority
-piranî,most
-pirç,hair
-pirr,lot
-pirs,query
-pirs,question
-pirs,request
-pirs kir,asked
-pirs kirin,ask
-pirsgirêk,business
-pirsgirêk,issue
-pirsgirêk,problem
-pirsgirêk,problems
-pirsgirêk,trouble
-pirsiyarkirin,query
-pirsîn,demand
-pirsîn,query
-pirsjêkirin,query
-pirtûk,book
-pisîk,cat
-pispor,adept
-pispor,authority
-pispor,expert
-pispor,specialist
-pisportî,expertise
-pişrast,confirm
-pişrast,guarantee
-pişt,back
-piştgirî,solidarity
-piştî,after
-piştkul,dodgy
-piştkul,elusive
-piştkul,evasive
-piştkul,sly
-piştkulî,dodgyness
-piştkulî,elusiveness
-piştkulî,evasiveness
-piştkulî,slyness
-piştre,later
-pitpit,pulse
-pitpit,throb
-piyale,glass
-piyan,salver
-piyan,tray
+pêçan,enclose
+pêş,ahead
+pêş,front
+pêş ve,next
+pêşangeh,exhibition
+pêşangeh,exposition
+pêşber,attendant
+pêşber,spectators
+pêşbînnasî,astrology
+pêşbînî,assumption
+pêşe,poem
+pêşe,verse
+pêşe,verse
+pêşeroj,future
+pêşketin,development
+pêşketin,evolution
+pêşkêş kirin,offer
+pêşkî,priority
+pêşkî,priority
+pêşrêzkirin,browse
+pêşîn,antecedent
+pêşîn,before
 pî,arm
 pîn,kick
 pîne,patch
@@ -3647,23 +3476,6 @@ pîvîn,gage
 pîvîn,gauge
 pîvîn,measure
 pîvîn,quantify
-plan,plan
-plan,plans
-pol,steel
-polat,steel
-polîs,police
-ponjîn,notion
-ponjîn,think
-por,hair
-poz,nose
-poz,tip
-pozberî,competition
-pozbilind,conceited
-proje,project
-proje,projects
-pûç,bad
-pûç,corrupt
-pûç,putrid
 pûjan,peppermint
 pûkêş,armoured
 pûnijîn,thinking
@@ -3673,6 +3485,9 @@ pûte,interested
 pûtî,heathen
 pûtî,idolater
 pûtî,pagan
+pûç,bad
+pûç,corrupt
+pûç,putrid
 qad,locus
 qad,place
 qad,site
@@ -3717,7 +3532,6 @@ qerf,joke
 qerf,prank
 qerf,waggery
 qerzdar,indebted
-qeş,ill-omen
 qetandin,disrupt
 qetandin,rupture
 qetandin,tear
@@ -3732,10 +3546,12 @@ qeyran,crisis
 qez,silk
 qezaz,tailor
 qezenc,win
+qeş,ill-omen
 qidûm,form
 qidûm,shape
 qijil (ji por re),scorch (for hair)
 qijil (ji por re),singe
+qiloç,horn
 qilêr,black
 qilêr,dingy
 qilêr,dirt
@@ -3747,13 +3563,12 @@ qilêr,impure
 qilêr,smutty
 qilêr,sordid
 qilêr,squalid
-qiloç,horn
 qinare,slaughterhouse
+qinyat,belief
 qinût,illiberal
 qinût,mean
 qinût,tightfisted
 qinût,ungenerous
-qinyat,belief
 qirêj,dirt
 qirêj,filth
 qirêj,grime
@@ -3761,9 +3576,6 @@ qirên,contention
 qirên,dispute
 qirên,quarrel
 qirên,wrangle
-qîq,skeleton
-qîret (efrîn),vigor
-qoçan (efrîn),registration bill for animals
 qor,consecution
 qor,file
 qor,line
@@ -3771,6 +3583,7 @@ qor,rank
 qor,row
 qor,succession
 qorik,haunch
+qoçan (efrîn),registration bill for animals
 qufilîn,convulsion
 qufilîn,spasm
 qul,hole
@@ -3787,14 +3600,13 @@ qutifî,appaled
 qutifî,astounded
 qutifî,shocked
 qutifî,stunned
+qîq,skeleton
+qîret (efrîn),vigor
 qûm,gravel
 qûm,sand
 rabûn,arise
 rabûn,rise
 rabûn,uprise
-raçavkirin,sentinel
-raçavkirin,target
-raçavkirin,watch
 radan,insert
 rade,degree
 rade,grade
@@ -3817,9 +3629,9 @@ ragirtin,recognition
 ragirtin,sustain
 rahatî,common
 rahatî,communal
-rahêjandin,suddenly overthrown
 rahiştin,scrimmage
 rahiştin,tussle
+rahêjandin,suddenly overthrown
 raje,service
 rakirin,annul
 raman,idea
@@ -3830,15 +3642,15 @@ raman,thinking
 raman,thought
 raman,thoughts
 ramedîn,lie
+ramyarî,policy
+ramyarî,political
 ramîn,thinking
 ramûsan,kiss
 ramûsîn,buss
 ramûsîn,kiss
-ramyarî,policy
-ramyarî,political
 raperîn,rebellion
-rapêçan,enclose
 rapor,report
+rapêçan,enclose
 rast,accurate
 rast,exact
 rast,proper
@@ -3876,6 +3688,9 @@ rayek,sex
 raz,secret
 razan,sleep
 razber,abstract
+raçavkirin,sentinel
+raçavkirin,target
+raçavkirin,watch
 reben,indigent
 reben,needy
 reben,poor
@@ -3912,6 +3727,25 @@ resen,noble
 resen,origin
 resen,original
 resen,sex
+revok,runaway
+revîn,abscond
+revîn,escape
+revîzyon,revision
+rewanbêj,eloquent
+rewanbêj,fluent
+rewneq,grace
+rewneqdar,magnificent
+rewneqdar,splendid
+rewrewk,mirage
+rewt,current (air)
+rewîşt,character
+rewîşt,nature
+rewş,situation
+rex,beside
+rex,course
+rex,direction
+rex,side
+rexne,critique
 reş,black
 reşek,draft
 reşk,envious
@@ -3919,25 +3753,64 @@ reşkirin,cancel
 reşkirin,eliminate
 reşkirin,erase
 reşnivîs,original
-revîn,abscond
-revîn,escape
-revîzyon,revision
-revok,runaway
-rewanbêj,eloquent
-rewanbêj,fluent
-rewîşt,character
-rewîşt,nature
-rewneq,grace
-rewneqdar,magnificent
-rewneqdar,splendid
-rewrewk,mirage
-rewş,situation
-rewt,current (air)
-rex,beside
-rex,course
-rex,direction
-rex,side
-rexne,critique
+ricifîn,quake
+ricifîn,quiver
+ricifîn,vibrate
+rih,beard
+rih,nerve
+rihakirin,recover
+rihakirin,rescue
+rihakirin,save
+rijandin,diffuse
+rijandin,effuse
+rijid,envious
+rijî,coal
+rik,malice
+rik,spite
+rind,fine
+rind,handsome
+rindî,beauty
+rindî,pulchritude
+rist,apparatus
+rist,part
+rist,tool
+rivîn,flame
+riwal,maturity of male
+rizgarkirin,recover
+rizgarkirin,rescue
+rizgarkirin,save
+rizgarî,salvation
+roj,day
+roj,days
+roja din,the day after
+roja din,the next day
+rojane,daily
+rojane,workaday
+rojava,west
+rojava,western
+rojev,agenda
+rojgar,planet
+rojgeran,planet
+rojhilat,east
+rojname,gazette
+rojname,newspaper
+rojname,paper
+rojnamevan,journalist
+rojnivîsk,journal
+roket,missile
+rol,role
+roman,roman
+ron,limpid
+ron,liquid
+ron,lucent
+ron,transparent
+ronahî,daylight
+ronahî,light
+ronak,light
+rondik,tear
+ronî,light
+rovî,bowel
+rovî,fox
 rê,method
 rê,path
 rê,road
@@ -3950,9 +3823,6 @@ rêbaz,method
 rêbaz,policy
 rêbaz,principle
 rêber,guide
-rêç,sign
-rêç,trace
-rêç,vestige
 rêgez,principle
 rêje,proportion
 rêje,rate
@@ -3993,65 +3863,10 @@ rêzik,strain
 rêziman,grammar
 rêzimanî,grammatical
 rêzkirin,arrange
-ricifîn,quake
-ricifîn,quiver
-ricifîn,vibrate
-rih,beard
-rih,nerve
-rihakirin,recover
-rihakirin,rescue
-rihakirin,save
-rijandin,diffuse
-rijandin,effuse
-rijid,envious
-rijî,coal
-rik,malice
-rik,spite
-rind,fine
-rind,handsome
-rindî,beauty
-rindî,pulchritude
-rist,apparatus
-rist,part
-rist,tool
-rivîn,flame
-riwal,maturity of male
-rizgarî,salvation
-rizgarkirin,recover
-rizgarkirin,rescue
-rizgarkirin,save
+rêç,sign
+rêç,trace
+rêç,vestige
 rîsk,risk
-roj,day
-roj,days
-roja din,the day after
-roja din,the next day
-rojane,daily
-rojane,workaday
-rojava,west
-rojava,western
-rojev,agenda
-rojgar,planet
-rojgeran,planet
-rojhilat,east
-rojname,gazette
-rojname,newspaper
-rojname,paper
-rojnamevan,journalist
-rojnivîsk,journal
-roket,missile
-rol,role
-roman,roman
-ron,limpid
-ron,liquid
-ron,lucent
-ron,transparent
-ronahî,daylight
-ronahî,light
-ronak,light
-rondik,tear
-ronî,light
-rovî,bowel
-rovî,fox
 rû,face
 rûbar,area
 rûbarî,confrontation
@@ -4088,16 +3903,16 @@ sax,live
 sax,living
 saz,structure
 sazdêran,concert
-sazî,association
-sazî,structure
-sazîn,adaptation
-sazîn,coordination
 sazkirin,build
 sazkirin,establish
 sazkirin,found
 sazkirin,institute
 sazkirin,organize
 sazkirin,plant
+sazî,association
+sazî,structure
+sazîn,adaptation
+sazîn,coordination
 sazûman,association
 sazûman,foundation
 se,dog
@@ -4189,8 +4004,6 @@ sergîn,manure
 serhişk,obstinate
 serhişk,stubborn
 serinc,attention
-serî,apex
-serî,cusp
 serjimar,population
 serjimar,statistic
 serjimêr,statistics
@@ -4214,6 +4027,8 @@ serpeyî,improvise
 serpêçî,rebellion
 sersar,negligent
 serxwebûn,independence
+serî,apex
+serî,cusp
 sewal,animal
 sewal,beast
 sewal,brute
@@ -4234,17 +4049,6 @@ seyran,picnic
 seza,penalty
 seza,punishment
 seza laşî,corporal punishment
-sê,three
-sênber,concrete
-sênî,salver
-sênî,tray
-sêrek (efrîn),rare
-sêrek (efrîn),scarce
-sêwak,vagabond
-sêwiran,design
-sêwiran,plan
-sêwî,orphan
-sêyemîn,third
 sibe,morning
 sibe,tomorrow
 sifir,copper
@@ -4266,27 +4070,13 @@ sir,breeze
 sirgûn,exile
 sirt (efrîn),top of the hill
 siruşt,nature
+sirwe,breeze
 sirûş,inspiration
 sirûş,revelation
-sirwe,breeze
 sitrandî,paste
 sivik,light
 sivik,lightweight
 siwe,vertical angle
-sî,shade
-sîma,appearance
-sîma,mien
-sînahî,ray of light
-sînor,border
-sînor,boundary
-sînor,frontier
-sînor,limit
-sîr,garlic
-sîsark,vulture
-sîvan,umbrella
-sîxor,espionage
-sîxor,spy
-sîxur,spy
 soberîkirin,float
 sol,shoe
 soma,eyeball
@@ -4321,14 +4111,14 @@ stargeh,cover
 starkirin,appease
 stemkar,cruel
 stemkar,unkind
-stêrk,star
-stêrnasî,astrology
 stirî,horn
 stirî,spine
-stî,lady
-stîl,style
 strandin,guard
 stratêjîk,strategy
+stêrk,star
+stêrnasî,astrology
+stî,lady
+stîl,style
 stû,neck
 stûn,thick
 stûr,fat
@@ -4336,6 +4126,31 @@ stûr,rude
 stûv,witness
 stûvdan,witness
 suruştî,natural
+sê,three
+sênber,concrete
+sênî,salver
+sênî,tray
+sêrek (efrîn),rare
+sêrek (efrîn),scarce
+sêwak,vagabond
+sêwiran,design
+sêwiran,plan
+sêwî,orphan
+sêyemîn,third
+sî,shade
+sîma,appearance
+sîma,mien
+sînahî,ray of light
+sînor,border
+sînor,boundary
+sînor,frontier
+sînor,limit
+sîr,garlic
+sîsark,vulture
+sîvan,umbrella
+sîxor,espionage
+sîxor,spy
+sîxur,spy
 sûd,benefit
 sûd,profit
 sûd,utility
@@ -4346,60 +4161,6 @@ sûtal,silly
 sûtal,trivial
 sûtar,ill-mannered
 sûtar,impudent
-şad,enjoyment
-şadî,fun
-şan,feature
-şan,trait
-şandin,send
-şandin,sent
-şane,cell
-şanek,notice
-şano,stage
-şareza,skillful
-şaş,wrong
-şaşî,error
-şaşî,fault
-şax,division
-şayist,lawful
-şayist,legitimate
-şayist,permitted
-şe,comb
-şekl,form
-şeng,alive
-şeng,cheerful
-şeng,gay
-şepal,desert (land)
-şepal,desert (terrain)
-şeqam,cuss
-şer,fight
-şer,war
-şeref,honor
-şert,conditions
-şervan,fighter
-şev,night
-şevpest,nightmare
-şewitandin,burn
-şewitîn,burn
-şexsî,personal
-şeytan,devil
-şêwaz,style
-şikand,broke
-şikeft,cave
-şil,damp
-şirket,company
-şixul,performance
-şiyan,ability
-şiyan,power
-şîrove,commentary
-şîv,dinner
-şkandin,crack
-şkandin,crash
-şkestî,broken
-şop,track
-şû,husband
-şûn,location
-şûnda,since
-şûr,blade
 ta,until
 tac,crown
 tagîr,supporter
@@ -4443,8 +4204,8 @@ tay (efrîn),match
 taybet,particular
 taybet,private
 taybet,special
-taybetî,particular
 taybetmendî,character
+taybetî,particular
 taykirin (efrîn),compare
 tebat,patience
 tebatî,stability
@@ -4469,8 +4230,6 @@ temirandin,quench
 temîz,clear
 tendurust,sound
 tendurustî,health
-tenê,alone
-tenê,merely
 teng,narrow
 teng,tight
 tengezarî,annoyance
@@ -4481,6 +4240,8 @@ tenik,slight
 tenik,tenuous
 tenik,transparent
 tenişt,beside
+tenê,alone
+tenê,merely
 tep,deceit
 tep,fraud
 tep,hoax
@@ -4499,16 +4260,13 @@ teqîn,detonate
 teqîn,explode
 teqîn,explosion
 terane,play
-terî,tail
 terz,manner
 terz,strain
 terz,style
 terz,way
+terî,tail
 tesîr,effects
 tesîr,influence
-teşe,figure
-teşe,form
-teşe,shape
 tev,all
 tev,complete
 tev,total
@@ -4536,31 +4294,9 @@ teyisîn,beam
 teze,fresh
 teze,new
 teze,recent
-têbinî,memorandum
-têbinî,note
-têgih,conception
-têgih,term
-têgihiştin,apprehend
-têgihiştin,understand
-têgihiştin,understanding
-têgîn,conception
-têgîn,notion
-têgîn,term
-têgîn,think
-têketin,sign in
-têkildar,related
-têkoşîn,fight
-têkurk,ambitious
-têkurk,aspirant
-têved,impulse
-têved,incentive
-têved,motive
-têvel,several
-têwerdan,agitate
-têxistin,lay
-têxistin,place
-têxistin,put
-têxistin,stick
+teşe,figure
+teşe,form
+teşe,shape
 tif,spit
 tifing,gun
 tijî,fraught
@@ -4577,8 +4313,8 @@ tirakî (efrîn),dressy
 tirakî (efrîn),elegant
 tirakî (efrîn),fashionable
 tiral,lazy
-tiral,sluggard
 tiral,lazy
+tiral,sluggard
 tirimbêl,car
 tirs,anxiety
 tirs,apprehension
@@ -4595,36 +4331,15 @@ tirsonek,shy
 tirş,acid
 tise,rascal
 tise,scorn
-tişt,thing
-tişt,things
-tiştek,something
 tivil,crust
 tivil,peel
 tivir,radish
 tixub,border
 tixub,boundary
 tixub,frontier
-tî,athirst
-tî,thirsty
-tîjmar,worm
-tîl,smooth
-tîl,soft
-tîl,smooth
-tîl,soft
-tîmar,cure
-tîmar kirin,remedy
-tîmargeh,dispensary
-tîmargeh,infirmary
-tîmarkirin,cure
-tîn,caloric
-tîn,heat
-tîn,warmth
-tîp,gale
-tîp,letter
-tîp,storm
-tîrî,intensity
-tîş,smooth
-tîş,soft
+tişt,thing
+tişt,things
+tiştek,something
 tol,retaliation
 tol,revenge
 tolaz,vagabond
@@ -4650,6 +4365,52 @@ tu,you
 tund,severe
 tund,strict
 tunebûn,absence
+têbinî,memorandum
+têbinî,note
+têgih,conception
+têgih,term
+têgihiştin,apprehend
+têgihiştin,understand
+têgihiştin,understanding
+têgîn,conception
+têgîn,notion
+têgîn,term
+têgîn,think
+têketin,sign in
+têkildar,related
+têkoşîn,fight
+têkurk,ambitious
+têkurk,aspirant
+têved,impulse
+têved,incentive
+têved,motive
+têvel,several
+têwerdan,agitate
+têxistin,lay
+têxistin,place
+têxistin,put
+têxistin,stick
+tî,athirst
+tî,thirsty
+tîjmar,worm
+tîl,smooth
+tîl,smooth
+tîl,soft
+tîl,soft
+tîmar,cure
+tîmar kirin,remedy
+tîmargeh,dispensary
+tîmargeh,infirmary
+tîmarkirin,cure
+tîn,caloric
+tîn,heat
+tîn,warmth
+tîp,gale
+tîp,letter
+tîp,storm
+tîrî,intensity
+tîş,smooth
+tîş,soft
 tûj,acrid
 tûj,acute
 tûj,keen
@@ -4659,9 +4420,8 @@ tûj,trenchant
 tûjandin,verification
 tûjik,provocation
 tûr,sack
-tûş,coincidence
 tûtya,zinc
-û,and
+tûş,coincidence
 vala,empty
 valahî,space
 valahî,vacuum
@@ -4677,9 +4437,9 @@ vebîn,exploration
 vebîn,explore
 vedizîn,hide
 vegerin,return
-vegerîn,turn
 vegerriya,returned
 vegerrî,returned
+vegerîn,turn
 vegotin,relate
 vegotin,report
 vegotin,statement
@@ -4705,17 +4465,17 @@ venasîn,admit
 venasîn,confess
 veqetandin,disassociate
 veqetandin,dissociate
-veşartgeh,cover
-veşartin,conceal
 vewestan,rest
 vewestan,stop
 vexwarin,drink
 vezel,sweater
 vezîr,ministers
+veşartgeh,cover
+veşartin,conceal
+viyan,demand
 vê demê,then
 vêt,willing
 vêt,wish
-viyan,demand
 vî,him
 vîn,willing
 vîn,wish
@@ -4738,15 +4498,15 @@ wek,same
 wekhev,equal
 wekhev,same
 wekhevî,same
-wekî,as
-wekî,like
-wekî din,else
 wekok,copy
 wekok,example
 wekok,instance
 wekok,paradigm
 wekok,sample
 wekok,specimen
+wekî,as
+wekî,like
+wekî din,else
 welat,countries
 welat,country
 welat,land
@@ -4757,33 +4517,24 @@ weranîn,get
 werar,development
 werar,evolution
 werdigire,takes
-werê,so
 werger,translation
 wergerandin,translate
-wergêr,interpreter
-wergêr,translator
 wergirtin,dress
 wergirtin,receive
 wergirtin,take
+wergêr,interpreter
+wergêr,translator
 werse,muscle
 werz,season
+werê,so
 wesek,testament
 westandin,fatigue
 westandin,tire
-weşand,published
-weşandin,emit
 wext,time
 wezaret,ministry
 wezîr,minister
-wê,her
-wê,will
-wêne,painting
-wêne,photo
-wêne,picture
-wêne,pictures
-wêrek,bold
-wêrek,fearless
-wêrîn,dare
+weşand,published
+weşandin,emit
 wiha,such
 wilo,so
 wilo,such
@@ -4793,6 +4544,15 @@ windakirî,lost
 wird,prayer
 wisa,so
 wize,energy
+wê,her
+wê,will
+wêne,painting
+wêne,photo
+wêne,picture
+wêne,pictures
+wêrek,bold
+wêrek,fearless
+wêrîn,dare
 wî,her
 wîze,energy
 xak,land
@@ -4870,11 +4630,6 @@ xewn,dream
 xeyal,phantom
 xeyal,specter
 xezal,gazelle
-xêv,memory
-xêvik,asinine
-xêvik,stupid
-xêz,line
-xêzkirin,draw
 xilt,mole
 xirab,wrong
 xirandin,cheat
@@ -4894,12 +4649,6 @@ xizan,needy
 xizan,poor
 xizm,relative
 xizmet,service
-xîm,base
-xîm,basic
-xîret,effort
-xîret,honesty
-xîret,honor
-xîz,sand
 xof,anxiety
 xof,apprehension
 xof,fear
@@ -4908,10 +4657,10 @@ xof,trepidation
 xort,boy
 xortanî,adolescence
 xortanî,youth
-xoşewîst,popular
-xoştivî,popular
 xoza,automatically
 xoza,spontaneously
+xoşewîst,popular
+xoştivî,popular
 xubar,dust
 xubar,powder
 xule,minute
@@ -4923,9 +4672,6 @@ xurt,potent
 xurt,powerful
 xurt,robust
 xurt,strong
-xû,blood
-xûjal,bright
-xûjal,intelligent
 xwar,bad
 xwarin,eat
 xwarin,food
@@ -4975,24 +4721,38 @@ xwestin,require
 xwestin,want
 xwestin,will
 xwestin,wish
-xweş,fine
-xweşdivî,popular
-xweştivî,popular
 xweza,nature
 xwezayi,natural
 xwezayî,natural
+xweş,fine
+xweşdivî,popular
+xweştivî,popular
+xwiya bû,appeared
+xwişk,sister
 xwê,salt
 xwêdan,perspiration
 xwêdan,perspire
 xwêdan,sweat
 xwêdan,transpire
-xwişk,sister
-xwiya bû,appeared
 xwîn,blood
 xwîn,gore
 xwîngerm,simpatico
 xwîngiran,rude
 xwînjêhatin,bleed
+xêv,memory
+xêvik,asinine
+xêvik,stupid
+xêz,line
+xêzkirin,draw
+xîm,base
+xîm,basic
+xîret,effort
+xîret,honesty
+xîret,honor
+xîz,sand
+xû,blood
+xûjal,bright
+xûjal,intelligent
 ya te,your
 ya wan,theirs
 ya we,your
@@ -5010,8 +4770,6 @@ yek,single
 yekem tîpa alfabeya inglîzî,a
 yekemîn,first
 yekgirtî,standard
-yekîne,unit
-yekîtî,union
 yeknesakî,same
 yekpare,all
 yekpare,entire
@@ -5024,6 +4782,8 @@ yekser,instant
 yekser,instantaneous
 yekser,instanter
 yekser,pronto
+yekîne,unit
+yekîtî,union
 yeqînkirin,believe
 yê ku,who
 yê te,your
@@ -5075,9 +4835,9 @@ zeb,stern
 zeb,stiff
 zebirandin,control
 zeblok,plain
+zebze,vegetable
 zebûn,desperate
 zebûn,frustrated
-zebze,vegetable
 zeftkirin,catch
 zeftkirin,take
 zehf,lot
@@ -5099,13 +4859,13 @@ zeng,rust
 zengil,bell
 zenî,chin
 zepkirin (efrîn),control
+zerya,sea
 zerî,beauteous
 zerî,beautiful
 zerî,fair
 zerî,fine
 zerî,goodly
 zerî,lovely
-zerya,sea
 zevilkirin (efrîn),imitate
 zevilkirin (efrîn),mimic
 zevlek,muscle
@@ -5123,11 +4883,6 @@ zexm,solid
 zexm,steady
 zexm,substantial
 zexmet,hard
-zêdekirin,add
-zêdetir,more
-zêdetir,rather
-zêr,aurum
-zêstan,menstruation (woman)
 zibare,donation
 ziha,dragon
 zikêşe,jealousy
@@ -5152,10 +4907,10 @@ zirav,tenuous
 zirav,thin
 zirehpûş,armored vehicle
 zirnezîq,seesaw
-zivêr,annoyed
-zivêr,upset
 zivirandin,turn
 zivirînek,turn
+zivêr,annoyed
+zivêr,upset
 ziwa,arid
 ziwa,dry
 zix,gravel
@@ -5166,33 +4921,6 @@ ziyan,disadvantage
 ziyan,disservice
 ziyan,harm
 ziyan,mischief
-zîn,saddle
-zînde,living
-zîper,nape
-zîper,scruff
-zîq,perpendicular
-zîq,upright
-zîranî,curiosity
-zîrek,clever
-zîrek,intelligent
-zîrek,neat
-zîrek,sagacious
-zîrek,shrewd
-zîrek,clever
-zîrevan,clever
-zîrevan,intellectual
-zîrve,peak
-zîrve,summit
-zîrve,zenith
-zîv,gold
-zîvar,piece
-zîvar,fragment
-zîvar,piece
-zîvirîn,turn
-zîz,excitement
-zîz,sensible
-zîz,sensitive
-zîz,tender
 zo,couple
 zo,twosome
 zom,region
@@ -5203,7 +4931,279 @@ zordar,unkind
 zordest,cruel
 zordest,unkind
 zozan,plateau
+zêdekirin,add
+zêdetir,more
+zêdetir,rather
+zêr,aurum
+zêstan,menstruation (woman)
+zîn,saddle
+zînde,living
+zîper,nape
+zîper,scruff
+zîq,perpendicular
+zîq,upright
+zîranî,curiosity
+zîrek,clever
+zîrek,clever
+zîrek,intelligent
+zîrek,neat
+zîrek,sagacious
+zîrek,shrewd
+zîrevan,clever
+zîrevan,intellectual
+zîrve,peak
+zîrve,summit
+zîrve,zenith
+zîv,gold
+zîvar,fragment
+zîvar,piece
+zîvar,piece
+zîvirîn,turn
+zîz,excitement
+zîz,sensible
+zîz,sensitive
+zîz,tender
 zû,early
 zû,haste
-zûrab,someone who rises early
 zûrab,person who wakes up early (shepherds)
+zûrab,someone who rises early
+çak,fair
+çak,fine
+çak,handsome
+çak,well
+çalak,active
+çalak,living
+çalakiyan,activities
+çalakiyên,activities
+çalakî,action
+çalakî,actions
+çalakî,activities
+çalakî,activity
+çand,culture
+çap,edition
+çap,press
+çapemenî,basin
+çapkirin,print
+çapxane,press
+çaremîn,fourth
+çarenûs,destiny
+çarenûs,fate
+çarenûs,karma
+çarenûs,kismet
+çarenûs,lot
+çareserkirin,detach
+çareserkirin,dissolve
+çareserkirin,loosen
+çareserkirin,solve
+çareserkirin,unfasten
+çareserkirin,unfix
+çareserî,solution
+çat (efrîn),station or parting on a long road
+çav,eye
+çav,eyes
+çavfireh,bounteous
+çavfireh,freehanded
+çavfireh,generous
+çavkanî,fount
+çavkanî,fountain
+çavkanî,source
+çavkanî,spring
+çavkanî,wellspring
+çavsor,cruel
+çavsor,unkind
+çavteng,mean
+çaw,bar
+çaw,rod
+çawa,how
+çawanî,quality
+çax,time
+çax,while
+çay,tea
+çekbend,vest
+çekên navokî,atomic weapons
+çeleng,bold
+çeleng,brave
+çeleng,courageous
+çeleng,gamy
+çeleng,gritty
+çeleng,plucky
+çelqandin,agitate
+çem,river
+çembil,handle
+çembil,helve
+çembil,stalk
+çembil,stem
+çemek,logic
+çemik,principle
+çemçûs,illiberal
+çemçûs,tightfisted
+çemçûs,ungenerous
+çend,several
+çend,some
+çendînî,quantity
+çenebaz,garrulous
+çep,left
+çepel,black
+çepel,dingy
+çepel,dirty
+çepel,foul
+çepel,impure
+çepel,smutty
+çepel,sordid
+çepel,squalid
+çeprew,leftist (political)
+çerm,integument
+çerm,skin
+çert,exclude
+çerx,period
+çespandin,adhere
+çespandin,establish
+çespandin,stick
+çespandin,stick to
+çewal,bag
+çewal,sack
+çewsandin,bruise
+çewsîner,tyrant
+çewt,wrong
+çexer,foot
+çi,what
+çi be (jî),whatever
+çilfisandin,cabbage
+çilfisandin,heist
+çilfisandin,snitch
+çilfisandin,swipe
+çilmisî,pale
+çilmisî,pallid
+çilmisî,sallow
+çilmisî,wan
+çilpik,drop
+çilîçilî,bat
+çima,why
+çimkî,since
+çir,dense
+çir,intensive
+çira,lamp
+çirav,quagmire
+çirav,quagmire
+çirav,swamp
+çirişî,gleam
+çirişî,glitter
+çirk,second
+çirke,second (clock)
+çirçir,hearsay
+çirçir,rumour
+çirûsîn,beam
+çivîk,sparrow
+çiya,mount
+ço,bar
+ço,rod
+çogan,rod
+çong,knee
+çopandin,extort
+çort,liar
+çê,fine
+çê,made
+çê,well
+çêbûn,grow
+çêbûn,happen
+çêbûn,transpire
+çêj,flavor
+çêj,savor
+çêj,taste
+çêker,maker
+çêkirin,build
+çêkirin,perform
+çêkirin,produce
+çêlek,cow
+çêre,grass
+çêre,herbage
+çêregeh,pasture
+çêrlêkirin,curse
+çêrlêkirin,swear
+çêtir,better
+çêşt,taste
+çîn,category
+çîn,class
+çîn,classes
+çîn,grade
+çîrok,story
+çîrok,tale
+çû,gone
+çûn,go
+çûn,going
+çûn,went
+çûyîn,going
+êmîş,fruit
+êrîş,aggression
+êrîş,assault
+êrîş,attack
+êrîşkirin,aggress
+êrîşkirin,assault
+êrîşkirin,attack
+êzing,wood
+êşîn,ache
+î,are
+îcad,invention
+îlahiyat,theology
+îlon,september
+îmze,signature
+îmzekirî,signed
+înkar,renounce
+îro,today
+îsot,pepper
+îspat,evidence
+û,and
+şad,enjoyment
+şadî,fun
+şan,feature
+şan,trait
+şandin,send
+şandin,sent
+şane,cell
+şanek,notice
+şano,stage
+şareza,skillful
+şax,division
+şayist,lawful
+şayist,legitimate
+şayist,permitted
+şaş,wrong
+şaşî,error
+şaşî,fault
+şe,comb
+şekl,form
+şeng,alive
+şeng,cheerful
+şeng,gay
+şepal,desert (land)
+şepal,desert (terrain)
+şeqam,cuss
+şer,fight
+şer,war
+şeref,honor
+şert,conditions
+şervan,fighter
+şev,night
+şevpest,nightmare
+şewitandin,burn
+şewitîn,burn
+şexsî,personal
+şeytan,devil
+şikand,broke
+şikeft,cave
+şil,damp
+şirket,company
+şixul,performance
+şiyan,ability
+şiyan,power
+şkandin,crack
+şkandin,crash
+şkestî,broken
+şop,track
+şêwaz,style
+şîrove,commentary
+şîv,dinner
+şû,husband
+şûn,location
+şûnda,since
+şûr,blade

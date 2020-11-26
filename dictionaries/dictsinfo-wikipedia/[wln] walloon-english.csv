@@ -1,11 +1,11 @@
 Other,English
 11 di nôvimbe,November 11
 11 di setimbe,September 11
-12 di fevrî,February 12
 12 d' octôbe,October 12
+12 di fevrî,February 12
+14 d' avri,April 14
 14 di djun,June 14
 14 di fevrî,February 14
-14 d' avri,April 14
 15 d' awousse,August 15
 17 di måss,March 17
 17 di setimbe,September 17
@@ -24,9 +24,9 @@ Other,English
 21 di djun,June 21
 22 d' fevrî,February 22
 23 d' djun,June 23
+24 d' octôbe,October 24
 24 di djun,June 24
 24 di may,May 24
-24 d' octôbe,October 24
 25 di måss,March 25
 29 di djun,June 29
 29 di fevrî,February 29
@@ -35,8 +35,8 @@ Other,English
 31 di decimbe,December 31
 4 di djulete,July 4
 5 di nôvimbe,November 5
-6 di djanvî,January 6
 6 d' awousse,August 6
+6 di djanvî,January 6
 8 di decimbe,December 8
 A,Garlic
 Abondroet d' oteur,Copyright
@@ -52,7 +52,9 @@ Afrike bijhrece,North Africa
 Afrike coûtchantrece,West Africa
 Agaesse,European Magpie
 Agricoûteure,Agriculture
+Agricoûteure,Agriculture
 Aite,Cemetery
+Aldjereye,Algeria
 Aldjereye,Algeria
 Alfabet,Alphabet
 Alfabet arabe,Arabic alphabet
@@ -60,10 +62,11 @@ Alfabet grek,Greek alphabet
 Algorisse,Algorithm
 Ali,Ali
 Almagne,Germany
+Almagne,Germany
 Almand,German language
 Amanite touwe-moxhe,Amanita muscaria
-Amponî,Rubus idaeus
 Amponî,Raspberry
+Amponî,Rubus idaeus
 Antartike,Antarctica
 Antécri,Antichrist
 Anweye,Eel
@@ -94,26 +97,33 @@ Arabe,Arabic language
 Arkeyolodjeye,Archaeology
 Aspirene,Aspirin
 Astronomeye,Astronomy
+Astronomeye,Astronomy
+Aviedje,Mary
 Avoenne,Oat
 Avri,April
 Avéns,Advent
 Awousse,August
+Azeye,Asia
 Bactereye,Bacteria
 Balalayca,Balalaika
 Barbåde,Barbados
+Bas Payis,Netherlands
 Bas Payis,Netherlands
 Bascolidîs,Mustelidae
 Bassidiomicete,Basidiomycota
 Bateme,Baptism
 Beldjike,Belgium
+Beldjike,Belgium
 Belès letes,Literature
 Betchteu waibe,Web browser
 Beyôle,Birch
+Bibe,Bible
 Bibioteke,Library
 Biciclete,Bicycle
 Biesse ås tetes,Mammal
 Bijhe,North
 Bire,Beer
+Biyolodjeye,Biology
 Blouze,Blues
 Bole,Planet
 Bon vénrdi,Good Friday
@@ -124,108 +134,24 @@ Boûkete,Buckwheat
 Braezi,Brazil
 Brussele,Brussels
 Bulgåreye,Bulgaria
+Bulgåreye,Bulgaria
 CDP,Commonwealth of Independent States
 Cabutreces,Brassicaceae
 Calcaedje,Loanword
 Californeye,California
 Caligrafeye,Calligraphy
 Calindrî grigoryin,Gregorian calendar
+Canada,Canada
 Canon,Cannon
 Carbone,Carbon
 Caricateure,Caricature
-Agricoûteure,Agriculture
-Aldjereye,Algeria
-Almagne,Germany
-Astronomeye,Astronomy
-Azeye,Asia
-Bas Payis,Netherlands
-Beldjike,Belgium
-Bibe,Bible
-Biyolodjeye,Biology
-Bulgåreye,Bulgaria
-Canada,Canada
-Cinema,Film
-Climat,Climate
-Congo,Democratic Republic of the Congo
-Crustinnisse,Christianity
-Cuba,Cuba
-Cérudjeye,Surgery
-Danse,Dance
-Djapon,Japan
-Djenocides,Genocide
-Djeus olimpikes,Olympics
-Djeyografeye,Geography
-Djeyolodjeye,Geology
-Djudayisse,Judaism
-Ecolodjeye,Ecology
-Enerdjeye,Energy
-Espagne,Spain
-Estats Unis,United States
-Filozofeye,Philosophy
-Fotbale,Football
-France,France
-Gana,Ghana
-Grece,Greece
-Guere di 1914-1918,World War I
-Gueres et årmêyes,Military
-Inde,India
-Indjenioreye,Engineering
-Israyel,Israel
-Kazaxhtan,Kazakhstan
-Linwince,Linguistics
-Litwaneye,Lithuania
-Lussimbork,Luxembourg
-Male,Malta
-Manoyes,Currency
-Marok,Morocco
-Matematike,Mathematics
-Mecanike,Mechanics
-Meteyo,Meteorology
-Microbiyolodjeye,Microbiology
-Mitolodjeye greke,Greek mythology
-Mitolodjeye rominne,Roman mythology
-Moirt,Death
-Moritanreye,Mauritania
-Mousseures,Clothing
-Muzike,Music
-Namibeye,Namibia
-Nidjeria,Nigeria
-Norvedje,Norway
-Nouve Zelande,New Zealand
-Noyé,Christmas
-Omonimeye,Disambiguation
-Oucrinne,Ukraine
-Palestene,Palestine
-Politike,Politics
-Pondeure,Painting
-Portugal,Portugal
-Powezeye,Poetry
-Programes infôrmatikes,Software
-Rilidjons,Religion
-Rilomêyès djins,People
-Roumaneye,Romania
-Rûsseye,Russia
-Sara coûtchantrece,Western Sahara
-Sicolodjeye,Psychology
-Sistinme solrece,Solar System
-Suwede,Sweden
-Syinces,Science
-Séndjes,Primates
-Taeyes,Taxation
-Tanzaneye,Tanzania
-Televuzion,Television
-Teyåte,Theatre
-Transpôrt,Transportation
-Urope,Europe
-Vietnam,Vietnam
-atôtchance,Communication
-gueres,War
-Årts,Arts
 Catolicisse,Catholicism
 Ceke polaire artike,Arctic Circle
 Ceréjhe,Cherry
 Ceziom,Caesium
 Charles Darwin,Charles Darwin
+Cinema,Film
+Climat,Climate
 Clorofile,Chlorophyll
 Clotche,Bell
 Clå,Nail
@@ -234,6 +160,7 @@ Coleur,Color
 Comedeye,Comedy
 Compôzeu d' muzike,Composer
 Congo,Congo
+Congo,Democratic Republic of the Congo
 Continint,Continent
 Copiutrece,Computer
 Cossina,Treaty
@@ -248,12 +175,16 @@ Crompire,Potato
 Cronzoxh,Vertebra
 Cronzoxhî,Vertebrate
 Crustinnisse,Christianity
+Crustinnisse,Christianity
+Cuba,Cuba
 Curitiba,Curitiba
 Cwadran solaire,Sundial
 Céncweme,Pentecost
+Cérudjeye,Surgery
 Daegne,Earth
 Daegntoele,Internet
 Damjheles et monsieus,Odonata
+Danse,Dance
 Danse,Dance
 Decimbe,December
 Depårtumint des Årdenes,Ardennes
@@ -267,16 +198,23 @@ Diyocside di carbone,Carbon dioxide
 Diyonizosse,Dionysus
 Diè Ra,Ra
 Djanvî,January
+Djapon,Japan
 Djeneze,Genesis
 Djenocide,Genocide
+Djenocides,Genocide
+Djermon,Stub
 Djeruzalem,Jerusalem
 Djeus olimpikes,Olympic Games
+Djeus olimpikes,Olympics
 Djeyografeye,Geography
+Djeyografeye,Geography
+Djeyolodjeye,Geology
 Djeyolodjeye,Geology
 Djibraltar,Gibraltar
 Djirofe,Clove
 Djordin,Jordan River
 Djouwet,Toy
+Djudayisse,Judaism
 Djudi,Thursday
 Djule Cezår,Julius Caesar
 Djulete,July
@@ -288,17 +226,21 @@ Drapea,Flag
 ETA,ETA
 Ecawêyès glumiantès biesses,Salamander
 Eciclopedeye,Encyclopedia
+Ecolodjeye,Ecology
 Edjipe,Egypt
 Eglijhe,Church
 Eglijhe anglicane,Church of England
 El Caire,Cairo
 Emey tchapele,A cappella
 Emile,E-mail
+Enerdjeye,Energy
 Enerdjeye nawearinne,Nuclear power
 Epicure,Epicurus
 Escô,Scheldt
 Escôswès,Scottish Gaelic
+Espagne,Spain
 Esperanto,Esperanto
+Estats Unis,United States
 Estats Unis,United States
 Etimolodjeye,Etymology
 Eucariote,Eukaryote
@@ -315,6 +257,7 @@ Fevrî,February
 Fiesse,Holiday
 Fiesse des mames,Mother's Day
 Filozofeye,Philosophy
+Filozofeye,Philosophy
 Fime,Film
 Finlande,Finland
 Five,Fever
@@ -324,6 +267,8 @@ Floriconte,Fairy tale
 Foclore,Folklore
 Fornourixhaedje,Obesity
 Fotbale,Football
+Fotbale,Football
+France,France
 France,France
 Franciom,Francium
 Frumint,Wheat
@@ -332,6 +277,7 @@ Fåcon,Falcon
 Fås no,Pseudonym
 Fåve di djåzantès biesses,Fable
 Fåve do vî vî tins,Legend
+Gana,Ghana
 Gana,Ghana
 Gaztî,Journalist
 Georges Simenon,Georges Simenon
@@ -342,12 +288,15 @@ Google,Google
 Gotama Bouda,Gautama Buddha
 Gouangdong,Guangdong
 Grande-Dutcheye do Lussimbork,Luxembourg
+Grece,Greece
 Grossès aiwes,Flood
 Guepard,Cheetah
 Guere,War
 Guere civile,Civil war
 Guere civile espagnole,Spanish Civil War
 Guere di 1870,Franco-Prussian War
+Guere di 1914-1918,World War I
+Gueres et årmêyes,Military
 Guillaume Apollinaire,Guillaume Apollinaire
 Gåle,Gaul
 Harpe,Harp
@@ -362,6 +311,8 @@ Impreur Ågusse,Augustus
 Imådjete,Logo
 Incronzoxhî,Invertebrate
 Inde,India
+Inde,India
+Indjenioreye,Engineering
 Indouwisse,Hinduism
 Inseke,Insect
 Irlande,Republic of Ireland
@@ -369,11 +320,13 @@ Irtish,Irtysh River
 Isadora Duncan,Isadora Duncan
 Islam,Islam
 Israyel,Israel
+Israyel,Israel
 Itåleye,Italy
 Ivier,Winter
 Jean de La Fontaine,Jean de La Fontaine
 Johannes Gutenberg,Johannes Gutenberg
 Katowice,Katowice
+Kazaxhtan,Kazakhstan
 Kiwi,Kiwi
 Laecea,Milk
 Latén,Latin
@@ -385,69 +338,87 @@ Liken,Lichen
 Limero del posse,Postal code
 Lingaedje,Language
 Linwince,Linguistics
+Linwince,Linguistics
 Litiom,Lithium
+Litwaneye,Lithuania
 Litwaneye,Lithuania
 Live,Book
 Lodjike,Logic
 Londi,Monday
 Loumire,Light
 Lune,Moon
+Lussimbork,Luxembourg
 Lussimbork veye,Luxembourg
 Magnant må,Cancer
 Magneu d' tchå,Carnivore
 Magnåve bolet,Boletus edulis
 Male,Malta
+Male,Malta
 Maltès,Maltese language
 Mandarin,Mandarin
 Mannixhance,Pollution
+Manoyes,Currency
 Manoyince,Numismatics
 Mao Tsétoung,Mao Zedong
 Margougnaedje des prijhnîs,Torture
 Mariaedje,Marriage
 Marok,Morocco
+Marok,Morocco
 Mascaråde,Carnival
+Matematike,Mathematics
 May,May
+Mecanike,Mechanics
 Medcene,Medicine
 Mer,Sea
 Mer d' Aral,Aral Sea
 Messe,Mass
+Meteyo,Meteorology
 Meteyorolodjeye,Meteorology
 Micolodjeye,Mycology
+Microbiyolodjeye,Microbiology
 Mierkidi,Wednesday
 Mierplake,Single
 Minêyolodjince,Epidemiology
+Mitolodjeye greke,Greek mythology
+Mitolodjeye rominne,Roman mythology
 Mitolodjeye rominne,Roman mythology
 Mixhail Sergeyevitch Gorbatchyov,Mikhail Gorbachev
-Djermon,Stub
+Moirt,Death
 Mont,Mons
 Mopliyaedje,Reproduction
 Morfinme,Morpheme
 Moritanreye,Mauritania
+Moritanreye,Mauritania
 Moscou,Moscow
 Mossirea,Moss
 Motî,Dictionary
-Aviedje,Mary
-euro,Euro
 Moulet,Mule
+Mousseures,Clothing
 Mouze,Meuse River
 Moxhon d' toet,House Sparrow
 Moyinådje,Middle Ages
+Muzike,Music
 Muzike,Music
 Muzike a boke,Harmonica
 Muzike classike,Classical music
 Mwaisse lwè,Constitution
 Mårdi,Tuesday
-Måss,Mars
 Måss,March
+Måss,Mars
 Måvi,Blackbird
 Måwete,Gull
 Mîtrinne Mer,Mediterranean Sea
 Nameur,Namur
+Namibeye,Namibia
 Nawatl,Nahuatl
+Nidjeria,Nigeria
 Nidjeria,Nigeria
 No d' famile,Family name
 Norvedje,Norway
+Norvedje,Norway
 Nouve Zelande,New Zealand
+Nouve Zelande,New Zealand
+Noyé,Christmas
 Noyé,Christmas
 Noûmot,Neologism
 Nîmegue,Nijmegen
@@ -460,16 +431,19 @@ Oceyan Pacifike,Pacific Ocean
 Octôbe,October
 Ofinsive da Von Rundstedt,Battle of the Bulge
 Oidje,Barley
+Omonimeye,Disambiguation
 Operå,Opera
 Organizåcion des Nåcions uneyes,United Nations
 Ortografeye,Orthography
 Otisse,Autism
 Otto von Bismarck,Otto von Bismarck
 Oucrinne,Ukraine
+Oucrinne,Ukraine
 Oujhea,Bird
 Ouve des Apoisses,Acts of the Apostles
 Oyon,Phoneme
 Pablo Neruda,Pablo Neruda
+Palestene,Palestine
 Palestene,Palestine
 Paleyozoyike,Paleozoic
 Pandjêye,Pangaea
@@ -486,12 +460,17 @@ Platon,Plato
 Poere,Pear
 Poere di cwin,Quince
 Poes d' souke,Chickpea
+Politike,Politics
 Polurêyes,Lamiaceae
+Pondeure,Painting
 Porea,Wart
+Portugal,Portugal
 Portugal,Portugal
 Potassiom,Potassium
 Powezeye,Poetry
+Powezeye,Poetry
 Prijhon,Prison
+Programes infôrmatikes,Software
 Prono,Pronoun
 Protozowaire,Protozoa
 Prumire croejhåde,First Crusade
@@ -512,6 +491,8 @@ Rawiant,Rodent
 Republike democratike do Congo,Democratic Republic of the Congo
 Revintreye,Revolution
 Rilidjons,Religion
+Rilidjons,Religion
+Rilomêyès djins,People
 Rinne,Frog
 Rinåd,Fox
 Rivowe,Magazine
@@ -521,13 +502,16 @@ Rodje ninte,Red dwarf
 Roman,Novel
 Romantisse,Romanticism
 Roumaneye,Romania
+Roumaneye,Romania
 Roumantche,Romansh
 Rowe,Wheel
 Rubidiom,Rubidium
 Rôzacêyes,Rosaceae
 Rûsseye,Russia
+Rûsseye,Russia
 Santos,Santos
 Sara,Sahara
+Sara coûtchantrece,Western Sahara
 Sara coûtchantrece,Western Sahara
 Sawoura,Taste
 Scoirpion,Scorpion
@@ -539,11 +523,13 @@ Senegal,Senegal
 Setimbe,September
 Sibereye,Siberia
 Sichouan,Sichuan
+Sicolodjeye,Psychology
 Sinonimeye,Synonym
 Sint,Saint
 Sint Esprit,Holy Spirit
 Sint Impire Romin Djermanike,Holy Roman Empire
 Sint Petersbork,Saint Petersburg
+Sistinme solrece,Solar System
 Sistinme solrece,Solar System
 Sitoele,Star
 Sitoelreye,Constellation
@@ -557,14 +543,19 @@ Spamaedje,Spam
 Stoelacêyes,Asteraceae
 Sud,South
 Sumô,Sumo
+Suwede,Sweden
 Swele,Rye
 Syince,Science
+Syinces,Science
 Såjhon,Season
 Såme,Psalms
 Såvaedje mariolinne,Oregano
+Séndjes,Primates
 Taekwondo,Taekwondo
 Taesson,Eurasian Badger
+Taeyes,Taxation
 Tank,Tank
+Tanzaneye,Tanzania
 Tchad,Chad
 Tchampion,Fungus
 Tchampion,Mushroom
@@ -584,9 +575,12 @@ Tchår Pôcet,Ursa Major
 Tchårlumagne,Charlemagne
 Tchômaedje,Unemployment
 Telefone,Telephone
+Televuzion,Television
 Terorisse,Terrorism
 Texhou,Tissue
+Teyåte,Theatre
 Tourisse,Tourism
+Transpôrt,Transportation
 Tronnmint d' tere,Earthquake
 Troufe,Peat
 Trén,Train
@@ -595,7 +589,9 @@ Tåvlea periodike des elemints,Periodic table
 Ufrate,Euphrates
 Union Uropeyinne,European Union
 Urope,Europe
+Urope,Europe
 Vedje canadyinne,Yard
+Vietnam,Vietnam
 Vietnam,Vietnam
 Vincent van Gogh,Vincent van Gogh
 Virûsse del gripe,Influenza
@@ -614,7 +610,10 @@ Yangtzé,Yangtze River
 Yesse,Yeast
 Younnan,Yunnan
 Zivenbork,Transylvania
+atôtchance,Communication
 epopêye,Epic poetry
+euro,Euro
+gueres,War
 tchén,Dog
 virûsse,Virus
 walloon,english
@@ -623,6 +622,7 @@ walloon,english
 Årmenyin,Armenian language
 Årmonak,Almanac
 Årt,Art
+Årts,Arts
 Åwidîs,Anatidae
 Åxhe,Aachen
 Ôre des Djezwites,Society of Jesus

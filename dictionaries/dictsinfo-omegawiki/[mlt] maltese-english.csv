@@ -16,8 +16,8 @@ Bulgarija,Republic of Bulgaria
 Bulgaru,Bulgarian
 Bulgaru,Bulgarian
 Epifanija,Epiphany
-Fawriż,Faroese
 Fawriż,Faeroese
+Fawriż,Faroese
 Finlandiż,Finnish
 Franċiż,French
 Franċiż,French
@@ -27,10 +27,11 @@ Grieg,Greek
 Grieg,Greek
 Għid il-Kbir,Easter
 Gżejjer Baleariċi,Balearic Islands
+Ingliż,English
 Iżrael,Israel
 Iżrael,State of Israel
-Kirgiżistan,Kyrgyzstan
 Kirgiżistan,Kyrgyz Republic
+Kirgiżistan,Kyrgyzstan
 Korniku,Cornish
 L-Unjoni Ewropea,EU
 L-Unjoni Ewropea,European Union
@@ -38,19 +39,19 @@ Lisbona,Lisbon
 Lulju,July
 Malta,Malta
 Malta,Republic of Malta
-Repubblika ta' Malta,Malta
-Repubblika ta' Malta,Republic of Malta
 Malti,Maltese
 Mjanmar,Myanmar
 Monako,Monaco
 Novial,Novial
 Olandiż,Dutch
-Pollakk.,Polish
-Pollakk.,Polish
-Pollakk,Polish
-Pollakk,Polish
-Polonja,Poland
 Poland,Poland
+Pollakk,Polish
+Pollakk,Polish
+Pollakk.,Polish
+Pollakk.,Polish
+Polonja,Poland
+Repubblika ta' Malta,Malta
+Repubblika ta' Malta,Republic of Malta
 Rivoluzzjoni Franċiża,French Revolution
 Serbja,Serbia
 Sloven,Slovene
@@ -112,7 +113,6 @@ ilju,helium
 indipendenza,independence
 indjum,indium
 ingliż,English
-Ingliż,English
 iridju,iridium
 isqof,bishop
 ittrijum,yttrium
@@ -139,17 +139,17 @@ litjum,lithium
 lutizjum,lutetium
 magniżjum,magnesium
 maktur,handkerchief
+maltese,english
 malvizz iswed,blackbird
 manganiż,manganese
 mendelevjum,mendelevium
 merkurju,mercury
 mnieħer,nose
-molibdenum,molybdenum
-molibdenum,molybdenum
 molibdenu,molybdenum
+molibdenum,molybdenum
+molibdenum,molybdenum
 mużew,museum
 nagħma,ostrich
-ostriċ,ostrich
 nagħġa,sheep
 najtroġin,nitrogen
 nemla,ant
@@ -161,13 +161,14 @@ nobeljum,nobelium
 oksiġin,oxygen
 ostaklu,obstacle
 ostaklu,obstruction
+ostriċ,ostrich
 ożmju,osmium
 palladju,palladium
 papocc,slipper
 pessimizmu,pessmism
 petizjoni,petition
-post,place
 post,location
+post,place
 praseodimjum,praseodymium
 promizjum,promethium
 protaktinjum,protactinium
@@ -176,9 +177,9 @@ rinjum,rhenium
 rodjum,rhodium
 rutinjum,ruthenium
 sahara,sahara
-sahhar,wizard
-sahhar,sorcerer
 sahhar,magician
+sahhar,sorcerer
+sahhar,wizard
 samarjum,samarium
 sarvetta,napkin
 silikon,silicon
@@ -194,8 +195,8 @@ tantalju,tantalum
 teknezju,technetium
 terremot,earthquake
 tewmi,twin
-traduci,translate
 traduci,interpret
+traduci,translate
 traduzzjoni,translation
 trofew,trophy
 tuzurpa,usurp
@@ -216,10 +217,9 @@ xark,shark
 Ħindi,Hindi
 ħadid,iron
 ħalib,milk
-ħamiema,pigeon
 ħamiema,dove
+ħamiema,pigeon
 żebbuġa,olive
 żirkonju,zirconium
 żunżan,bumblebee
 пингвин,penguin
-maltese,english

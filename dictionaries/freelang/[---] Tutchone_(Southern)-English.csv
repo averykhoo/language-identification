@@ -1,4 +1,11 @@
 Other,English
+Irene uuye ich'e,my name is Irene
+Kwanlin-u,Whitehorse
+Kwanlin-u ninje,i live in Whitehorse
+Linde uye ach'e,her name is Linda
+Shotana uyizhi ch'e,his name is Shothana
+Shutin ku kwats'an ishral,i'm walking to Shutin's house
+Taa'an Man may ninje,i live beside Lake Laberge
 a,my
 adalal,it is springtime
 adich'ar,i am fishing
@@ -145,7 +152,6 @@ dak'ana ch'e,it is a boy
 dak'wan yinla uk'ink'a,she gafted four salmon
 dakhawan chu ada!,you guys drink some water!
 daku,our house
-dákù,your house (pl)
 dakwanech'i ch'i zhan?,what color is this?
 dama daw di umbur daw,so he can make tea for mom
 dan janittha'a,i understand native language
@@ -158,6 +164,7 @@ dannch'e,how are you?
 dashan,stick
 dashan aghanchi,give me the stick
 dasua k'anata,she's watching her grandma
+dazhan John ch'e,this is John
 dazhan aghajan ch'e,this is a woman
 dazhan aghajel ach'e,this is a woman
 dazhan aghajela ach'e,this is a girl
@@ -186,7 +193,6 @@ dazhan guk'a ach'e,this is a cup
 dazhan gwala ach'e,this is a butterfly
 dazhan gyu ach'e,"this is a king salmon, this is a plant"
 dazhan itl'at nach'i?,is this a lowbush cranberry?
-dazhan John ch'e,this is John
 dazhan kusi ach'e,this is a spider
 dazhan lu ach'e,this is a fish
 dazhan medhiach'e,this is an owl
@@ -277,6 +283,7 @@ dzemu,daytime
 dzemu kwach'e,it is daytime
 dzenu shawkwathan,it is really nice day
 dzhan gyu ach'e,this is a worm
+dákù,your house (pl)
 eda,she is sitting
 edethal,warming up
 edhal,it is hot
@@ -319,12 +326,12 @@ gwank'a shaw ja?,where is the big gun?
 gwank'a shaw zhaw ata,here is the big gun
 gwank'a tthe aghannle,hand me the bullets
 gyu,"king salmon, worm"
-gyù,plant
 gyu ch'e,it is a king salmon
 gyu k'anaju,the worm is crawling around
 gyu utla kwali,there is a lot of plants
 gyu yannli,he wants salmon
 gyu ye da'ia?,what is the worm doing?
+gyù,plant
 hanay,moose
 hanay dhu ach'e,this is a moose hide
 hanay ghra ni'i,i see a small moose
@@ -339,7 +346,6 @@ idli,i am cold
 ili,i am dancing
 ime kwach'e,it is summertime
 indlia?,are you cold?
-Irene uuye ich'e,my name is Irene
 isay,i am crying
 it'ay,when leaves come out
 it'ay zhra,may
@@ -384,7 +390,6 @@ khanay dak'an na'i,the moose sees the man
 khel ja?,where are the traps?
 kruda dhu ech'e,this is an otter hide
 ku,house
-kù,their
 ku yu,at home
 kuk'an,northern lights
 kuk'an zhra,january
@@ -410,11 +415,10 @@ kwan kwalu nla,he finally found some matches
 kwan may ada,he is sitting by the fire
 kwan sothan dik'a,fire is burning really good
 kwanachish,thank you
-Kwanlin-u,Whitehorse
-Kwanlin-u ninje,i live in Whitehorse
 kwata,"bush, the camping"
 kwata ninje,i live in the bush
 kwata ts'an daya,he is going into the bush
+kù,their
 ladiiya,i am going hunting
 lajadaya,he is going hunting
 lajadiiya,i am going hunting
@@ -423,7 +427,6 @@ laki thel ni'i,i see two stars
 law,quit it
 lech'i,one
 lech'i thel ni'i,i see one star
-Linde uye ach'e,her name is Linda
 lu,fish
 lu ch'e,it is a fish
 lu daatla k'inch'ar?,how many fish has he caught?
@@ -560,7 +563,6 @@ shawthan dek'annta,take care
 shek'a kwak'u,it is still cold
 shek'a nishra,it is still raining
 shich'a dakwach'e?,how is it outside?
-Shotana uyizhi ch'e,his name is Shothana
 shothana chu akal,shothana carries water
 shothana ku,shothana's house
 shothana sur alel,shotana brings wood
@@ -572,7 +574,6 @@ shra kwalia?,is it sunny?
 shra ni'i,i see the sun
 shra nisha,it is raining
 shra nishraa?,is it raining?
-Shutin ku kwats'an ishral,i'm walking to Shutin's house
 spada chal kay shachi,spada sleeps on the mat
 sugnen ch'u shu kethuh,they are also eating bannock
 sugunen ch'u shu kethu,they are also eating bannock
@@ -584,7 +585,6 @@ sunen ch'u tsu lekan,the bannock smells good
 sur,firewood
 sur ninch'ia?,do you have firewood?
 sur shaw alu,he is pulling a big stick
-Taa'an Man may ninje,i live beside Lake Laberge
 taa'n may ninje,i live at Laberge
 tadech'e,three
 tadech'e thel kwali,there are three stars
@@ -624,8 +624,8 @@ tl'ek'wan,socks
 tl'ek'wan ich'i,i have socks
 tl'ekhet ja?,where is the tent?
 tl'el,matches
-tl'el ich'i,i have matches
 tl'el ich'i,i don't have matches
+tl'el ich'i,i have matches
 tl'el n-ch'ia?,do you have matches?
 tlaya ch'aw dambat,he is really hungry
 tli,dog
@@ -711,11 +711,11 @@ ye yanlia?,what does he want?
 ye ye ach'u?,what is he using?
 ye zhur ach'i zhan?,what berry is this?
 ye zua ach'i?,what bird is this?
+yen Nch'ia uta ch'e,this is Nch'ia's father
 yen nch'ia ch'e,this is nch'ia
 yen nch'ia ujua ch'e,this' nch'ia's younger sister
 yen nch'ia uma ch'e,this is nch'ia's mother
 yen nch'ia umbada ch'e,this is nch'ia's older sister
-yen Nch'ia uta ch'e,this is Nch'ia's father
 yuk'e kwach'e,it is winter
 yuk'e kwale,it is getting to be winter
 zhan ni'ia,look at this

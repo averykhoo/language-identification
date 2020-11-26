@@ -1,115 +1,14 @@
 Other,English
-afrika,africa
-afrikalı,african
-alman,german
-almanya,germany
-amerika,unitedstatesofamerica
-amerika,usa
-amerikalı,american
-amerikan timsahı,alligator
-anadolu,anatolia
-anadolu,asiaminor
-ankara,angora
-ankara,ankara
-arap,arab
-arjantin,argentina
-arnavut,albanian
-arnavutluk,albania
-asya,asia
-atlas okyanusu,atlantic
-atlas okyanusu,atlanticocean
-avrupalı,european
-avustralya,australia
-avustralyalı,australian
-avusturya,austria
-avusturyalı,austrian
-belçika,belgium
-belçikalı,belgian
-birleşik devletler,unitedstatesofamerica
-birleşik devletler,usa
-boğaziçi,bosporus
-brezilya,brazil
-brezilyalı,brazilian
-britanya,britain
-britanya,greatbritain
-bulgaristan,bulgaria
-büyük okyanus,pacific
-büyük okyanus,pacificocean
-cezayir,algeria
-cezayirli,algerian
-danimarka,denmark
-danimarkalı,dane
-filistin,palestine
-finlandiya,finland
-fransa,france
-fransız,french
-habeşistan,abyssinia
-habeşistan,ethiopia
-hindistan,india
-hintli,indian
-hollanda,holland
-hollanda,thenetherlands
-hollandalı,dutchman
-hollandalı,hollander
-hollandalı,dutch
-hıristiyan,christian
-japonca,japanese
-japonya,japan
-japonyalı,japanese
-kanada,canada
-kanadalı,canadian
-kıbrıs,cyprus
-kıbrıslı,cypriot
-kızılderili,indian
-kızılderili,americanindian
-lübnan,lebanon
-macaristan,hungary
-muhammet,mohammed
-muhammet,muhammad
-musevi,jew
-müslüman,mohammedan
-müslüman,moslem
-müslüman,muslim
-müslüman,mussulman
-mısır,egypt
-mısırlı,egyptian
-noel,christmas
-noel,yule
-norveç,norway
-norveçce,norwegian
-norveçli,norwegian
-paskalya,easter
-polonya,poland
-polonyalı,polish
-polonyalı,pole
-portekiz,portugal
-portekizli,portuguese
-ren,rhine
-romanya,romania
-rumanya,romania
-rumca,greek
-rus,russian
-rusya,russia
-rusça,russian
-suriye,syria
-suriyeli,syrian
-türkiye,turkey
-yahudi,jew
-yugoslav,yugoslav
-yugoslav,yugoslavian
-yugoslavya,yugoslavia
-yunanistan,greece
-yunanlı,greek
 abajur,lamp‐shade
 abartmak,exaggerate
-abes,absurd
 abes,abortive
-abes,useless
+abes,absurd
 abes,futile
+abes,useless
 abes,vain
 abide,monument
-abla,sister
 abla,eldersister
+abla,sister
 abluka,blockade
 abluka etmek,block
 abluka etmek,blockade
@@ -119,42 +18,42 @@ abuk sabuk,nonsense
 acayip,odd
 acayip,peculiar
 acayip,strange
-acele,hurried
-acele,haste
 acele,fast
+acele,haste
+acele,hurried
 acele,quick
 acele,rapid
 acele,speedy
 acele,swift
 acemi,beginner
-acemi,novice
 acemi,inexperienced
+acemi,novice
 acente,agent
 acil,pressing
 acil,urgent
 aciz,faint
+aciz,helpless
 aciz,light
 aciz,weak
-aciz,helpless
 acı,acerbic
-acı,bitter
 acı,ache
+acı,bitter
 acı,pain
 acı,sadness
 acı,sorrow
 acıklı,affecting
-acıklı,moving
-acıklı,touching
 acıklı,dismal
+acıklı,dreary
 acıklı,gaunt
 acıklı,miserable
+acıklı,moving
 acıklı,sad
+acıklı,touching
 acıklı,tragedy
 acıklı,tragic
-acıklı,dreary
+acıkmak,behungry
 acıkmak,besorryabout
 acıkmak,regret
-acıkmak,behungry
 acılık,acerbity
 acılık,bitterness
 acımak,ache
@@ -165,11 +64,13 @@ acıtmak,hurt
 ad,appellation
 ad,name
 ada,island
-adam,man
 adam,humanbeing
+adam,man
 adres,address
 af,actofgrace
 af,amnesty
+afrika,africa
+afrikalı,african
 akasya,acacia
 akordeon,accordion
 akrobat,acrobat
@@ -180,8 +81,8 @@ akvaryum,aquarium
 akümülatör,accumulator
 akümülatör,battery
 akümülatör,storagebattery
-akşam,evening
 akıl,brain
+akşam,evening
 alay,irony
 alaşım,alloy
 albay,colonel
@@ -202,21 +103,29 @@ alkışlamak,acclaim
 alkışlamak,applaud
 alkışlamak,clap
 almak,get
+almak,have
 almak,layholdof
 almak,pickup
-almak,take
-almak,have
 almak,receive
+almak,take
+alman,german
 almanak,almanac
+almanya,germany
 altı,six
 alüminyum,aluminium
 alüminyum,aluminum
 amatör,amateur
 amatör,fancier
+amerika,unitedstatesofamerica
+amerika,usa
 amerikalı,american
+amerikalı,american
+amerikan timsahı,alligator
 amiral,admiral
 amonyak,ammonia
 amper,ampère
+anadolu,anatolia
+anadolu,asiaminor
 anahtar,key
 anahtar,wrench
 anarşi,anarchy
@@ -227,8 +136,10 @@ ancak,hardly
 ancak,onlyjust
 ancak,scarcely
 anemi,anaemia
-anlamak,understand
+ankara,angora
+ankara,ankara
 anlamak,realize
+anlamak,understand
 anne,mother
 anonim,anonymous
 anonim,nameless
@@ -244,12 +155,16 @@ apse,abscess
 aralık,december
 aramak,lookfor
 aramak,seek
+arap,arab
 arasında,among
 arasında,between
 arena,arena
+arjantin,argentina
 arkadaş,friend
-arkasından,behind
 arkasından,after
+arkasından,behind
+arnavut,albanian
+arnavutluk,albania
 arpa,barley
 arzu,appetite
 arı,bee
@@ -264,6 +179,7 @@ astronot,spaceman
 astım,asthma
 astım,shortnessofbreath
 astım,wheeziness
+asya,asia
 asır,centennial
 asır,century
 at,horse
@@ -271,6 +187,8 @@ ata,forefather
 atardamar,artery
 ateş,fire
 atlas,atlas
+atlas okyanusu,atlantic
+atlas okyanusu,atlanticocean
 atlet,athlete
 atmak,throw
 atmosfer,atmosphere
@@ -278,8 +196,13 @@ atom,atom
 avantaj,advantage
 avantaj,benefit
 avantajlı,advantageous
-ay,moon
+avrupalı,european
+avustralya,australia
+avustralyalı,australian
+avusturya,austria
+avusturyalı,austrian
 ay,month
+ay,moon
 ayak bileği,ankle
 ayak parmağı,toe
 aç,hungry
@@ -288,10 +211,10 @@ açmak,open
 açmak,openup
 açık,bright
 açık,clear
-açık,light
 açık,distinct
-açık,plain
+açık,light
 açık,open
+açık,plain
 açık,vacant
 açıkgöz,clever
 açıkgöz,cunning
@@ -300,8 +223,8 @@ açıkgöz,smart
 açıklama,account
 açıklama,explanation
 açıklamak,accountfor
-açıklamak,explain
 açıklamak,clarify
+açıklamak,explain
 açıklamak,publish
 açıklamak,reveal
 açıkça,clearly
@@ -339,9 +262,9 @@ batıya ait,western
 baykuş,owl
 bayrak,banner
 bayrak,flag
-başka,other
 başka,another
 başka,else
+başka,other
 başlamak,begin
 başlamak,commence
 başlamak,start
@@ -349,11 +272,13 @@ bebek,baby
 beden,body
 beden yapısı,anatomy
 beklemek,abide
+beklemek,await
 beklemek,expect
 beklemek,wait
-beklemek,await
 beklemek,waitfor
 belkemiği,spine
+belçika,belgium
+belçikalı,belgian
 benzin,gasolene
 benzin,gasoline
 benzin,petrol
@@ -361,50 +286,58 @@ berber,barber
 beygir,horse
 beyin,brain
 bez,cloth
-beş,five
-beğenmek,approve
 beğenmek,appreciate
+beğenmek,approve
 beğenmek,like
-biftek,steak
+beş,five
 biftek,beefsteak
+biftek,steak
 bilardo,billiards
 bilet,bill
-bilet,ticket
 bilet,note
+bilet,ticket
 bilezik,bracelet
 bilgisinde,adjective
 bilmek,know
 bilmek,knowhow
 bina,building
-bir,one
 bir,a
 bir,an
+bir,one
+bir daha,another
+bir daha,else
+bir daha,other
+bir uzvu kesmek,amputate
 bira,ale
 bira,beer
 birader,brother
 biriktirmek,collect
 biriktirmek,gather
 biriktirmek,pickup
+birleşik devletler,unitedstatesofamerica
+birleşik devletler,usa
 birlik,unity
-bir daha,other
-bir daha,another
-bir daha,else
-bir uzvu kesmek,amputate
+bisiklet,bicycle
 bisiklet,bike
 bisiklet,cycle
-bisiklet,bicycle
 biz,us
 biz,we
 biçak,knife
 boksör,boxer
 bomba,bomb
+boğa güreşi alanı,arena
+boğaziçi,bosporus
 boş,empty
 boş,void
-boğa güreşi alanı,arena
+brezilya,brazil
+brezilyalı,brazilian
+britanya,britain
+britanya,greatbritain
 broşür,leaflet
 broşür,pamphlet
 broşür,paperback
 bugün,today
+bulgaristan,bulgaria
 bulmak,find
 bulunmayış,absence
 bulut,cloud
@@ -423,6 +356,8 @@ büyük,great
 büyük,large
 büyük elçi,ambassador
 büyük kilise,cathedral
+büyük okyanus,pacific
+büyük okyanus,pacificocean
 büyük zil,cymbal
 bırakmak,absentonself
 bırakmak,depart
@@ -432,8 +367,8 @@ cadde,street
 cambaz,acrobat
 cami,mosque
 cebir,algebra
-cephane,munition
 cephane,ammunition
+cephane,munition
 cevap,answer
 cevap,reply
 cevap vermek,answer
@@ -441,6 +376,8 @@ cevap vermek,reply
 cevap vermek,respond
 ceviz,walnut
 ceylan,gazelle
+cezayir,algeria
+cezayirli,algerian
 coğrafya,geography
 cuma,friday
 cumartesi,sabbath
@@ -460,6 +397,8 @@ daima,ever
 daire,circle
 damat,son‐in‐law
 dana,calf
+danimarka,denmark
+danimarkalı,dane
 dans,dance
 dans etmek,dance
 dar,narrow
@@ -495,9 +434,9 @@ diplomat,diplomat
 dirsek,elbow
 diyalog,dialogue
 diz,knee
-diğer bir,other
 diğer bir,another
 diğer bir,else
+diğer bir,other
 dokuz,nine
 dolar,dollar
 domuz,hog
@@ -518,8 +457,8 @@ doğum günü,birthday
 doğuya ait,eastern
 doğuya ait,oriental
 duka,duke
-durmak,halt
 durmak,cometoahalt
+durmak,halt
 durmak,stop
 dört,four
 dük,duke
@@ -558,19 +497,19 @@ etmek,act
 etmek,do
 etmek,make
 etmek,perform
-evet,yes
 ev kadını,housewife
+evet,yes
 eylül,september
-eş,wife
-eşek,ass
-eşek,donkey
-eşkiya,bandit
-eşlik etmek,accompany
 eğer,if
 eğer,providedthat
 eğlence,amusement
 eğlence,fun
 eğlendirmek,amuse
+eş,wife
+eşek,ass
+eşek,donkey
+eşkiya,bandit
+eşlik etmek,accompany
 fakat,but
 falı,horoscope
 fare,mouse
@@ -592,10 +531,14 @@ fikir vermek,advise
 fikir vermek,counsel
 fil,elephant
 fildişi,ivory
+filistin,palestine
+finlandiya,finland
 fizik,physics
 fizikçi,physicist
 formül,formula
 fotoğraf,photograph
+fransa,france
+fransız,french
 fren,brake
 fıkra,anecdote
 fındık,nut
@@ -615,8 +558,8 @@ geriye doğru,backward
 geriye doğru,backwards
 getirmek,bring
 getirmek,fetch
-girmek,goin
 girmek,enter
+girmek,goin
 girmek,perform
 gitar,guitar
 gitmek,go
@@ -643,14 +586,16 @@ güzel,beautiful
 güzel,fine
 güzel,handsome
 güzel,lovely
-güzellik,beauty
 güzel koku,aroma
 güzel koku,flavour
 güzel sanat,art
+güzellik,beauty
 güç,energy
 haber vermek,advertise
 haber vermek,announce
 haber vermek,givenotice
+habeşistan,abyssinia
+habeşistan,ethiopia
 hafta,week
 hala,aunt
 halihazırda,already
@@ -689,19 +634,26 @@ her zaman,ever
 hesap,account
 heyet,committee
 hikâye,anecdote
+hindistan,india
+hintli,indian
 hiçbir yerde,nowhere
 hiçbir şey,nothing
+hollanda,holland
+hollanda,thenetherlands
+hollandalı,dutch
+hollandalı,dutchman
+hollandalı,hollander
 horoz,cock
 horoz,rooster
 hortlak,ghost
 hortlak,phantom
 hoş,agreeable
 hoş,enjoyable
+hoş,gentle
 hoş,lovely
 hoş,nice
 hoş,pleasant
 hoş,pretty
-hoş,gentle
 hoş,soft
 hoş,sweet
 hoş,tender
@@ -710,6 +662,7 @@ hücum,aggression
 hücum,attack
 hürmet göstermek,honor
 hürmet göstermek,honour
+hıristiyan,christian
 hırslı,ambitious
 hırsızlık,abstraction
 hırsızlık,theft
@@ -769,20 +722,51 @@ izin vermek,allow
 izin vermek,permit
 içilen şey,beverage
 içilen şey,drink
-içmek,smoke
 içmek,drink
+içmek,smoke
+iş,achievement
+iş,act
+iş,action
 iş,affair
 iş,business
 iş,businessdeal
 iş,case
-iş,matter
-iş,achievement
-iş,act
-iş,action
 iş,job
+iş,matter
 iş,work
 işitmek,hear
 iştah,appetite
+i̇ncil,bible
+i̇ngiliz,british
+i̇ngiliz,english
+i̇ngiliz,englishman
+i̇ngiliz,sassenach
+i̇ngiliz kamışı,bamboo
+i̇ngilizce,english
+i̇ngiltere,england
+i̇ran,iran
+i̇ran,persia
+i̇ranlı,iranian
+i̇rlanda,ireland
+i̇rlandalı,irish
+i̇rlandalı,irishman
+i̇sa,christ
+i̇slam,islam
+i̇spanya,spain
+i̇spanyol,spaniard
+i̇srail,israel
+i̇stanbul,istanbul
+i̇sveç,sweden
+i̇sveçli,swede
+i̇sveçli,swedish
+i̇sviçre,switzerland
+i̇sviçreli,swiss
+i̇talya,italy
+i̇talyan,italian
+i̇talyanca,italian
+japonca,japanese
+japonya,japan
+japonyalı,japanese
 jeoloji,geology
 kabul edilebilir,acceptable
 kabul etmek,accept
@@ -796,6 +780,8 @@ kalay,tin
 kalori,calorie
 kalça,thigh
 kan,blood
+kanada,canada
+kanadalı,canadian
 kanal,canal
 kanal,channel
 kanarya,canary
@@ -822,30 +808,30 @@ kart,map
 kart,menu
 kartal,eagle
 kartpostal,postcard
-karşı,acrossfrom
-karşı,against
-karşı,inexchangefor
-karşı,opposedto
-karşı,opposite
-karşı,upon
 karı,wife
 karın,abdomen
 karın,belly
 karın,tummy
 karınca,ant
 karınca,emmet
+karşı,acrossfrom
+karşı,against
+karşı,inexchangefor
+karşı,opposedto
+karşı,opposite
+karşı,upon
 kas,muscle
 kasap,butcher
 kasım,november
 kasırga,cyclone
-katalog,catalogue
-katalog,directory
-kategori,category
-katolik,catholic
 kat'î,accurate
 kat'î,ontime
 kat'î,prompt
 kat'î,punctual
+katalog,catalogue
+katalog,directory
+kategori,category
+katolik,catholic
 kaybetmek,lose
 kaynana,mother‐in‐law
 kayık,boat
@@ -910,8 +896,8 @@ kriz,emergency
 krom,chromium
 kulak,ear
 kullanmak,employ
-kullanmak,use
 kullanmak,makeuseof
+kullanmak,use
 kulübe,cabin
 kulübe,hut
 kulübe,shack
@@ -933,13 +919,15 @@ kuyruklu yıldız,comet
 kuzey,north
 kuzey,north
 kuzeye ait,northern
-kuş,bird
 kuğu,swan
+kuş,bird
 kyruk,tail
+kâtip,clerk
+kâğıt para,bank‐note
 köknar,fir
 köpek,dog
-köpek kulübesi,kennel
 köpek kulübesi,dog‐kennel
+köpek kulübesi,kennel
 köprü,bridge
 kötü,bad
 kötü,miserable
@@ -949,10 +937,10 @@ köşeli,gaunt
 küe,earring
 kül,ash
 kül,cinder
-kültür,culture
 kül tablası,ashtray
-kâtip,clerk
-kâğıt para,bank‐note
+kültür,culture
+kıbrıs,cyprus
+kıbrıslı,cypriot
 kılıç,sword
 kırlangıç,swallow
 kısaltmak,abbreviate
@@ -967,10 +955,12 @@ kız,daughter
 kız,girl
 kız,lass
 kız,wench
+kız evlat,daughter
 kızgın,angry
 kızgın,cross
 kızgın,hot
-kız evlat,daughter
+kızılderili,americanindian
+kızılderili,indian
 kıç,bottom
 kıç,foundation
 kıç,ground
@@ -979,9 +969,11 @@ lahana,cabbage
 lehçe,dialect
 limon,lemon
 limonata,lemonade
+lübnan,lebanon
 maaş,salary
 maaş,wage
 maaş,wages
+macaristan,hungary
 macera,affair
 macera,business
 macera,businessdeal
@@ -1022,6 +1014,8 @@ motel,motel
 motor,engine
 motor,motor
 motosiklet,motorcycle
+muhammet,mohammed
+muhammet,muhammad
 muharebe,action
 muharebe,battle
 muharebe,scuffle
@@ -1031,6 +1025,7 @@ muhteris,ambitious
 muktedir,able
 muktedir,capable
 mum,candle
+musevi,jew
 mutfak,kitchen
 mutlaka,absolutely
 muvafakat etmek,accede
@@ -1048,14 +1043,20 @@ müsaade etmek,admit
 müsaade etmek,afford
 müsaade etmek,allow
 müsaade etmek,permit
+müslüman,mohammedan
+müslüman,moslem
+müslüman,muslim
+müslüman,mussulman
 müvekkil,client
 müvekkil,customer
 müşteri,client
 müşteri,customer
 mısır,corn
+mısır,egypt
 mısır,indiancorn
 mısır,maize
 mısır,mealies
+mısırlı,egyptian
 mızrak,lance
 mızrak,spear
 nakletmek,carry
@@ -1073,11 +1074,16 @@ nefes almak,breathe
 nefis,pretty
 nehir,river
 nisan,april
+noel,christmas
+noel,yule
 normal,normal
+norveç,norway
+norveçce,norwegian
+norveçli,norwegian
 o,he
+o,her
 o,him
 o,it
-o,her
 o,she
 ocak ayı,january
 ok,arrow
@@ -1086,17 +1092,17 @@ okumak,read
 olay,accident
 olmak,become
 olmak,comeabout
+olmak,get
 olmak,grow
 olmak,happen
-olmak,get
 on,ten
 on bır,eleven
 ordu,army
 orospu,hooker
 orospu,whore
 otel,hotel
-otobüs,bus
 otobüs,autobus
+otobüs,bus
 otobüs,omnibus
 otomatik,automatic
 otomobil,car
@@ -1109,6 +1115,7 @@ palyaço,clown
 papatya,daisy
 para,money
 pars,leopard
+paskalya,easter
 patates,potato
 patron,boss
 patron,chief
@@ -1130,25 +1137,37 @@ piç,bastard
 plaj,beach
 polis,police
 politikacı,politician
+polonya,poland
+polonyalı,pole
+polonyalı,polish
 porsuk,badger
 portakal,orange
+portekiz,portugal
+portekizli,portuguese
 puro,cigar
 pusula,compass
 rahibe,nun
 rejim,diet
 reklam,ad
 reklam,advertisement
+ren,rhine
 renk,colour
 renk,dye
 ressam,artist
 revolver,revolver
 roman,novel
+romanya,romania
+rumanya,romania
+rumca,greek
+rus,russian
+rusya,russia
+rusça,russian
 rüzgar,wind
 saat,clock
-saat,watch
 saat,hour
 saat,o'clock
 saat,time
+saat,watch
 sabah,morning
 sabah kahvaltısı,breakfast
 sadaka,alms
@@ -1204,8 +1223,8 @@ sene,year
 sepet,basket
 sertlik,acerbity
 sertlik,bitterness
-sesli harf,vowel
 ses düzeni,acoustics
+sesli harf,vowel
 sevmek,love
 seçmek,choose
 seçmek,elect
@@ -1214,9 +1233,9 @@ sidik torbası,bladder
 sidik torbası,bubble
 sigar,cigar
 sigara,cigarette
-silah,weapon
 silah,gun
 silah,rifle
+silah,weapon
 silindir,cylinder
 silindir,roller
 simetri,symmetry
@@ -1233,9 +1252,9 @@ solucan,worm
 solumak,breathe
 som balığı,salmon
 sonbahar,autumn
-sonra,behind
 sonra,after
 sonra,afterwards
+sonra,behind
 sonra,next
 sonra,subsequently
 sonraları,afterwards
@@ -1250,6 +1269,8 @@ soğuk,cold
 sporcu,athlete
 su,water
 sultan,sultan
+suriye,syria
+suriyeli,syrian
 susamiş,thirsty
 susuzluk,thirst
 suçlama,accusal
@@ -1274,18 +1295,18 @@ sıgır eti,beef
 sınıf,category
 sıra,bench
 sıtma,malaria
-takdire değer,admirable
 takdir etmek,acclaim
 takdir etmek,applaud
 takdir etmek,clap
+takdire değer,admirable
 taksi,taxi
 takvim,almanac
 takvim,calendar
 tam,accurate
 tam,ontime
+tam,precise
 tam,prompt
 tam,punctual
-tam,precise
 tamamen,absolutely
 tanımak,beacquaintedwith
 tanımak,know
@@ -1298,8 +1319,8 @@ tatlı,soft
 tatlı,sweet
 tatlı,tender
 tavan,ceiling
-tavşan,rabbit
 tavşan,hare
+tavşan,rabbit
 tayyare,aeroplane
 tayyare,airplane
 tayyare,plane
@@ -1329,14 +1350,14 @@ tertip etmek,fixup
 terzi,tailor
 teyze,aunt
 tezgâh,bench
-teşekkür,thankyou
 teşekkür,thanks
+teşekkür,thankyou
 tilki,fox
 timsah,crocodile
 tiyatro,theatre
+top,cannon
 top,gun
 top,rifle
-top,cannon
 toplamak,collect
 toplamak,gather
 toplamak,pickup
@@ -1356,6 +1377,7 @@ tuğla,brick
 tören,ceremony
 tüfek,gun
 tüfek,rifle
+türkiye,turkey
 tütün,tobacco
 tırmanmak,climb
 tırtıl,caterpillar
@@ -1376,9 +1398,9 @@ uzak,distant
 uzak,far
 uzak,remote
 uçak,aeroplane
+uçak,aircraft
 uçak,airplane
 uçak,plane
-uçak,aircraft
 uçaklar,aircraft
 uçmak,fly
 vapur,steamship
@@ -1389,11 +1411,12 @@ vermek,give
 vestiyer,cloakroom
 virgül,apostrophe
 virgül,comma
-viski,whisky
 viski,whiskey
+viski,whisky
 volkan,volcano
 vücut,body
 yaban eşeği,zebra
+yahudi,jew
 yakında,soon
 yalan,lie
 yalan,tellalie
@@ -1416,10 +1439,10 @@ yatak odası,bedroom
 yavru kedi,kitten
 yazar,author
 yazmak,write
+yağ,oil
 yaş,age
 yaşamak,bealive
 yaşamak,live
-yağ,oil
 yedi,seven
 yemin,oath
 yeni,new
@@ -1429,9 +1452,9 @@ yeryüzü,land
 yeryüzü,soil
 yetişkin,accrue
 yetişkin,grow
-yeşil,green
-yeğen,niece
 yeğen,nephew
+yeğen,niece
+yeşil,green
 yine,afresh
 yine,again
 yine,alloveragain
@@ -1444,8 +1467,13 @@ yollamak,transmit
 yonca,clover
 yonca,shamrock
 yonca,trefoil
+yugoslav,yugoslav
+yugoslav,yugoslavian
+yugoslavya,yugoslavia
 yulaf,oats
 yumurta,egg
+yunanistan,greece
+yunanlı,greek
 yunus baliğı,dolphin
 yüksek okul,college
 yün,wool
@@ -1467,12 +1495,12 @@ yıllık,annual
 yıllık,yearly
 zabıta,police
 zambak,lily
-zarf,adverb
-zarif,elegant
 zar zor,barely
 zar zor,hardly
 zar zor,onlyjust
 zar zor,scarcely
+zarf,adverb
+zarif,elegant
 zebra,zebra
 zehir,poison
 zeki,clever
@@ -1483,39 +1511,6 @@ zeytin,olive
 zincir,chain
 zooloji,zoology
 zürafa,giraffe
-ürdün,jordan
-öfkeli,angry
-öfkeli,cross
-öldürmek,kill
-öldürmek,liquidate
-öldürmek,slay
-ölmek,die
-ölmek,expire
-ölmek,passaway
-ölmüş,dead
-ölü,dead
-önlük,apron
-ördek,duck
-örümcek ağı,spiderweb
-özel,particular
-özel,special
-özerklik,autonomy
-öğleden sonra,afternoon
-öğle vakti,midday
-öğle vakti,noon
-öğrenmek,learn
-öğüt,advice
-öğüt,counsel
-öğüt vermek,advise
-öğüt vermek,counsel
-ülkücü,idealist
-üniversite,university
-üç,three
-çek,czech
-çekoslovakya,czechoslovakia
-çin,china
-şeytan,lucifer
-şeytan,satan
 çakı,knife
 çalar saat,alarm
 çalar saat,alarmclock
@@ -1533,18 +1528,21 @@ zürafa,giraffe
 çay,tea
 çek,check
 çek,cheque
+çek,czech
 çekmek,drag
 çekmek,draw
 çekmek,haul
 çekmek,pull
 çekmek,tug
+çekoslovakya,czechoslovakia
+çene,chin
 çene,jaw
 çene,jawbone
-çene,chin
 çeşme,fountain
 çikolata,chocolate
 çilek,strawberry
 çimento,cement
+çin,china
 çingene,gypsy
 çingene,gypsy
 çinko,zinc
@@ -1565,6 +1563,36 @@ zürafa,giraffe
 çünkü,since
 çıkmak,exit
 çıkmak,goout
+öfkeli,angry
+öfkeli,cross
+öldürmek,kill
+öldürmek,liquidate
+öldürmek,slay
+ölmek,die
+ölmek,expire
+ölmek,passaway
+ölmüş,dead
+ölü,dead
+önlük,apron
+ördek,duck
+örümcek ağı,spiderweb
+özel,particular
+özel,special
+özerklik,autonomy
+öğle vakti,midday
+öğle vakti,noon
+öğleden sonra,afternoon
+öğrenmek,learn
+öğüt,advice
+öğüt,counsel
+öğüt vermek,advise
+öğüt vermek,counsel
+ülkücü,idealist
+üniversite,university
+ürdün,jordan
+üç,three
+ılık,warm
+ırmak,river
 şapka,hat
 şarap,wine
 şarkı,song
@@ -1573,6 +1601,8 @@ zürafa,giraffe
 şeref,honor
 şeref,honour
 şey,thing
+şeytan,lucifer
+şeytan,satan
 şiddetli,acerbic
 şiddetli,bitter
 şikayet etmek,complain
@@ -1583,33 +1613,3 @@ zürafa,giraffe
 şoför,chauffeur
 şoför,driver
 şubat,february
-ılık,warm
-ırmak,river
-i̇ncil,bible
-i̇ngiliz,english
-i̇ngiliz,englishman
-i̇ngiliz,sassenach
-i̇ngiliz,british
-i̇ngilizce,english
-i̇ngiliz kamışı,bamboo
-i̇ngiltere,england
-i̇ran,iran
-i̇ran,persia
-i̇ranlı,iranian
-i̇rlanda,ireland
-i̇rlandalı,irish
-i̇rlandalı,irishman
-i̇sa,christ
-i̇slam,islam
-i̇spanya,spain
-i̇spanyol,spaniard
-i̇srail,israel
-i̇stanbul,istanbul
-i̇sveç,sweden
-i̇sveçli,swedish
-i̇sveçli,swede
-i̇sviçre,switzerland
-i̇sviçreli,swiss
-i̇talya,italy
-i̇talyan,italian
-i̇talyanca,italian

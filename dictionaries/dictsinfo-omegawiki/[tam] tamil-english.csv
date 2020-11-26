@@ -1,4 +1,5 @@
 Other,English
+tamil,english
 ஃவுளூரின்,fluorine
 ஃவூஜி மலை,Mount Fuji
 அகரமுதலி,dictionary
@@ -15,8 +16,6 @@ Other,English
 அலுமினியம்,aluminium
 அவுஸ்திரேலியா,Australia
 அவுஸ்திரேலியா,Commonwealth of Australia
-ஆஸ்திரேலியா,Australia
-ஆஸ்திரேலியா,Commonwealth of Australia
 ஆகஸ்டு,August
 ஆக்ஸிஜன்,oxygen
 ஆங்கிலம்,English
@@ -27,6 +26,8 @@ Other,English
 ஆல்ப்ஸ்,Alps
 ஆஸ்திரியா,Austria
 ஆஸ்திரியா,Republic of Austria
+ஆஸ்திரேலியா,Australia
+ஆஸ்திரேலியா,Commonwealth of Australia
 இசுரேல்,Israel
 இசுரேல்,State of Israel
 இசைக்கருவி,instrument
@@ -50,10 +51,10 @@ Other,English
 ஈயம்,lead
 ஈரான்,Iran
 ஈரான்,Islamic Republic of Iran
-உகாண்டா,Uganda
 உகாண்டா,Republic of Uganda
-உடை,clothing
+உகாண்டா,Uganda
 உடை,apparel
+உடை,clothing
 உருது,Urdu
 உருது,Urdu
 எறும்பு,ant
@@ -66,8 +67,6 @@ Other,English
 ஒஸ்மியம்,osmium
 கடு௩்கோபம்,storm
 கடு௩்கோபம்,tempest
-புயல்,storm
-புயல்,tempest
 கடோலினியம்,gadolinium
 கட்டார்,Qatar
 கணையம்,pancreas
@@ -97,8 +96,8 @@ Other,English
 கிரேக்கம்,Greek
 குதிரை,horse
 குரோமியம்,chromium
-குறியியல்,semiotics
 குறியியல்,semiology
+குறியியல்,semiotics
 குளோரின்,chlorine
 குவாம்,Guam
 குவாம்,Guam
@@ -117,13 +116,13 @@ Other,English
 சமஸ்கிருதம்,Sanskrit
 சமஸ்கிருதம்,Sanskrit
 சமாரியம்,samarium
-சவூதி அரேபியா,Saudi Arabia
 சவூதி அரேபியா,Kingdom of Saudi Arabia
+சவூதி அரேபியா,Saudi Arabia
 சஹாரா,sahara
 சாம்பலியம்,germanium
 சிபிலிசு,syphilis
-சிம்பாப்வே,Zimbabwe
 சிம்பாப்வே,Republic of Zimbabwe
+சிம்பாப்வே,Zimbabwe
 சிம்ப்பன்சி,chimpanzee
 சிலி,Chile
 சிலி,Republic of Chile
@@ -138,6 +137,7 @@ Other,English
 சுலொவேனியன,Slovenian
 சுலொவேனியன,Slovenian
 சுவிஸர்லாந்து,Switzerland
+சுவீடிய மொழ,Swedish
 சூடான்,Sudan
 சூழ்பொருளியல்,pragmatics
 செக,Czech
@@ -182,8 +182,8 @@ Other,English
 துருவக் கரட,polar bear
 துர்கிஷ்,Turkish
 துர்கிஷ்,Turkish
-தென்னாபிரிக்கா,South Africa
 தென்னாபிக்க குடியரச,South Africa
+தென்னாபிரிக்கா,South Africa
 தெலுங்கு,Telugu
 தெலுங்கு,Telugu
 தேன்,honey
@@ -205,10 +205,10 @@ Other,English
 நேர வலயம,timezone
 நைட்ரஜன்,nitrogen
 நோபெலியம்,nobelium
-நோர்வே,Norway
 நோர்வே,Kingdom of Norway
-பஞ்சாபி,Punjabi
+நோர்வே,Norway
 பஞ்சாபி,Panjabi
+பஞ்சாபி,Punjabi
 படகு,boat
 படிகம,crystal
 பட்டாம்பூச்சி,butterfly
@@ -216,8 +216,8 @@ Other,English
 பப்புவா நியூ கினி,Papua New Guinea
 பலேடியம்,palladium
 பஹ்ரேய்ன்,Bahrain
-பாகிஸ்தான்,Pakistan
 பாகிஸ்தான்,Islamic Republic of Pakistan
+பாகிஸ்தான்,Pakistan
 பாசாணம்,arsenic
 பாதரசம்,mercury
 பார்லி,barley
@@ -236,6 +236,8 @@ Other,English
 பிரேசில்,Brazil
 பிஸ்மத்,bismuth
 பீவர்,beaver
+புயல்,storm
+புயல்,tempest
 புருண்டி,Burundi
 புருண்டி,Republic of Burundi
 புரொட்டக்டினியம்,protactinium
@@ -268,9 +270,9 @@ Other,English
 மடகாஸ்கர்,Republic of Madagascar
 மரம்,tree
 மராத்தி,Marathi
-மராத்தி,Marāthi
-மராத்தி,Marāthi
 மராத்தி,MarÄthi
+மராத்தி,Marāthi
+மராத்தி,Marāthi
 மலாவி,Malawi
 மலாவி,Republic of Malaŵi
 மலேசியா,Malaysia
@@ -287,8 +289,8 @@ Other,English
 மிலன்,Milan
 மிளிரியம்,lutetium
 முட்டை,egg
-மும்பை,Mumbai
 மும்பை,Bombay
+மும்பை,Mumbai
 மூத்திரபிண்டம்,kidney
 மெண்டலேவியம்,mendelevium
 மென்வெள்ளி,cobalt
@@ -311,17 +313,17 @@ Other,English
 ருஸ்சியன்,Russian
 ரெனியம்,rhenium
 ரேடியம்,radium
-ரொமேனியன,Romanian
 ரொமேனியன,Romanaian
+ரொமேனியன,Romanian
 ரொறன்ரோ,Toronto
 ரோடியம்,rhodium
 லாந்த்தனம்,lanthanum
 லித்தியம்,lithium
 வங்காளதேசம்,Bangladesh
 வங்காளதேசம்,People's Republic of Bangladesh
-வத்திக்கான் நகர,Vatican City
-வத்திக்கான் நகர,The Holy See
 வத்திக்கான் நகர,State of the Vatican City
+வத்திக்கான் நகர,The Holy See
+வத்திக்கான் நகர,Vatican City
 வனேடியம்,vanadium
 வன்தங்கம்,zirconium
 வரிக்குதிரை,zebra
@@ -354,7 +356,6 @@ Other,English
 ஸ்பேனிஷ,Spanish
 ஸ்பேனிஷ,Spanish
 ஸ்வீடிஷ,Swedish
-சுவீடிய மொழ,Swedish
 ஹங்கேரியன்,Hungarian
 ஹப்னியம்,hafnium
 ஹஸ்ஸியம்,hassium
@@ -366,4 +367,3 @@ Other,English
 ஹொல்மியம்,holmium
 ภาษาอาหรับ,Arabic
 ภาษาอาหรับ,Standard Arabic
-tamil,english

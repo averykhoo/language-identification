@@ -3,9 +3,9 @@ acacia,acacia
 acajou,mahogany
 acanthe,acanthus
 acarpe,acarpous
-acétoselle,wood-sorrel
 aconite,aconite
 acotylédone,acotyledonous (adj)
+acétoselle,wood-sorrel
 adné,adnate
 adonide,"adonis, pheasant's eyes"
 agar-agar,agar-agar
@@ -20,8 +20,8 @@ alaterne,alaternus
 albergie,alberge-tree
 alcée,hollyshock
 algue,"sea-weed, alga"
-alise,sorb-aplle
 alise,beam-tree berry
+alise,sorb-aplle
 alisier,whitebeam
 alisme,water-plantain
 alkékenge,winter-sherry
@@ -49,18 +49,18 @@ ancolie,columbine
 anis,anise
 anone,"anona, custard-apple"
 ansérine,"goose-foot, wild spinach"
-anthémis,anthemis
 anthère,"anthere, tip"
+anthémis,anthemis
 anthéridie,antheridium
 antiar,"antiare, upas-tree"
 apalachine,"appalachian tea, emetic holly"
-apétale (adj),apetalousness
 aphylle,aphyllous
 apocin,apocynum
 apocyn,apocynum
 apocyn gobemouches,dog-bane
 apoxynacées,dog-bane family
 aptère,apterous
+apétale (adj),apetalousness
 aquatile,aquatil
 aquifoliacées,aquifoliaceae
 arachide,"earth-nut, pea-nut, arachis"
@@ -77,16 +77,16 @@ arbustif-e (adj),pertaining to bushes
 arbustive (adj),pertaining to bushes
 archégone,sporangium
 arec,"areca, areca-nut"
-aréquier,"areca, areca-nut"
 argoutine,silver-weed
 armoise,"artemisia, wormwood"
 arnica,arnica
 artocarpe,bread-fruit tree
 arum,"arum, cuckoopint"
-aspérule,"asperula, woodruff"
+aréquier,"areca, areca-nut"
 asphodèle,asphodel
 aspic,spike-lavander
 aspidistra,aspidistra
+aspérule,"asperula, woodruff"
 aster,"aster, starwort"
 athaea,"marsh-mallow, athaea"
 aubier,"sapwood, alburnum"
@@ -94,9 +94,9 @@ aulne,alder-tree
 aune,alder-tree
 aveline,fibert
 avelinier,filbert-tree
-azédarac,bead-tree
 azerole,"azarola, neapolitan medlar"
 azerolier,azarole-tree
+azédarac,bead-tree
 bacifère (adj),"baciferous, berry-bearing"
 bactériacées,bacteriacea
 baguenaude,bladder-nut
@@ -118,12 +118,10 @@ bardane,burdock
 baselle,"basella, malabar nightshade"
 basilic,sweet-basil
 baumier,"balsam-tree, amyris"
-bédegar,"bedeguar, rose-gall"
-bégonia,begonia
 belladone,belladonna
-belle-dame,belladonna
 belle de jour,convolvulus tricolor
 belle de nuit,marvel of Peru
+belle-dame,belladonna
 bellis,field-daisy
 bellotte,barabry-oak
 belte,beet
@@ -134,8 +132,6 @@ berce,cow-parsnip
 bergamote,"bergamot pean, bergamot orange"
 bergamotier,bergamot-orange tree
 berle,skirret
-bétel,betel
-bétoine,betony
 betterave,beetroot
 betterave fourragère,"mangold-wurzel, mangel-wurzel"
 bigarade,bitter orange
@@ -156,13 +152,17 @@ brugnon,"nectarine, clingstone"
 bruyère,"heath, heather"
 bryon,tree-moss
 bryone,bryony
+bédegar,"bedeguar, rose-gall"
+bégonia,begonia
+bétel,betel
+bétoine,betony
 cacahuète,ground-nut
 cacao,cacao
 cacaotier,cacao-tree
 cacaoyer,cacao-tree
 cactacées,cactacea
-cactées,cactacea
 cactus,cactus
+cactées,cactacea
 cade,cade
 caduc,"caducous, cacdeciduous"
 caféier,coffee-tree
@@ -188,8 +188,6 @@ canillée,duckweed
 canna,"canna, indian shot"
 canniever,cinnamon-tree
 capitule,"capitulum, flower-head"
-câpre,pickled nasturium seed
-câprier,caper
 caprifiguier,"wild fig-tree, goat fig-tree"
 capron,hautboy strawberry
 capronier,hautboy strawberry plant
@@ -198,8 +196,8 @@ caracolle,snail-flower
 carapa,"carapa, crabwood"
 cardamine,"cardamine, meadow-cress"
 cardamone,cardamon
-cardère,teasel
 cardon,cardoon
+cardère,teasel
 carmabolier,"carambola, averrhoa, east-india wood sorrel"
 caroubier,"carob, carob-tree"
 carouge,St John's bread
@@ -219,20 +217,20 @@ catalpa,catalpa
 cerfeuil,chervil
 cerisette,morel
 chanvre,hemp
-châtaignier,chestnut-tree
 chataire,catmint
 chaton,catkin
 chausse-trape,star-thiste
-chélidoine,celandine
-chélone,chelone
-chénevis,hemp
-chérimolier,"cherimoya, peruvian custard-apple"
 chervis,skirret
-chèvrefeuille,honeysuckle
 chicon,cos lettuce
 chlorophylle,chlorophyll
 chromulr,chromule
 chrysanthème,chrysantenum
+châtaignier,chestnut-tree
+chèvrefeuille,honeysuckle
+chélidoine,celandine
+chélone,chelone
+chénevis,hemp
+chérimolier,"cherimoya, peruvian custard-apple"
 ciboule,"welsh onion, cibol, chibol"
 ciboulette,chives
 cicutaire [adj],water-hemlock
@@ -251,10 +249,10 @@ citronnier,"citron-tree, lime-tree, lemon-tree"
 cive,chives
 civette,chives
 clavaire [adj],"clavaria, club-shaped fungus"
-clémature,clematis
 clou,clove
 clusiacées,clusiacea
 clusie,"balsam-tree, clusia"
+clémature,clematis
 cobé [adj],cobaea
 coca,coca
 cochenellier,"cochineal plant, nopal"
@@ -263,30 +261,25 @@ cocotier,coconut-palm
 cognasse,wild quince
 coing,quince
 colchique,colchicum
+câpre,pickled nasturium seed
+câprier,caper
 diatomées,platomaceae
 dictame,dittany
-dioïque,dioecious
 dionée,"dionea, venus's fly-trap"
+dioïque,dioecious
 dragonnier,dragon-tree
 drosère,sundew
-ébénacées,ebenaceae
-ébenier,ebony-tree
 edelweiss,edelweiss
-égalntine,"wild-rose, dog-rose"
 emarginé-e [adj],emarginate
 engainant-e [adj],sheating
-éperonnière,larkspur
-épervière,hawk-weed
-épicéa,spruce
-épigyne,epyginous-part
 fabagelle,bean-caper
 fabago,fabago
-faîne,beech-nut
 farouch,crimson-clover
-hélianthe,"sunflower, helianthus"
-hémécoralle,"hemecorallis, daylily"
+faîne,beech-nut
 heptagyne (adj),"heptagynian, hepatgynous"
 heptandre (adj),"heptandrian, heptandrous"
+hélianthe,"sunflower, helianthus"
+hémécoralle,"hemecorallis, daylily"
 hêtraie,beech-grove
 hêtre,"beech, beech-tree"
 igname,yam
@@ -313,3 +306,10 @@ lantanier,"lantana, wild sage"
 larix,larch-tree
 noix d'acajou,cashew nut
 noix de kola,cola-nut
+ébenier,ebony-tree
+ébénacées,ebenaceae
+égalntine,"wild-rose, dog-rose"
+éperonnière,larkspur
+épervière,hawk-weed
+épicéa,spruce
+épigyne,epyginous-part

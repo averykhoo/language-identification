@@ -50,11 +50,11 @@ Camerún,Republic of Cameroon
 Chihuahua,Chihuahua
 Chile,Chile
 Chile,Republic of Chile
-Cidade do Vaticano,Vatican City
-Cidade do Vaticano,The Holy See
 Cidade do Vaticano,State of the Vatican City
-Costa do Marfil,Ivory Coast
+Cidade do Vaticano,The Holy See
+Cidade do Vaticano,Vatican City
 Costa do Marfil,Cote d'Ivoire
+Costa do Marfil,Ivory Coast
 Costa do Marfil,Republic of Cote d'Ivoire
 Cuba,Cuba
 Cuba,Republic of Cuba
@@ -66,8 +66,8 @@ Estonia,Estonia
 Estonia,Republic of Estonia
 Etiopía,Ethiopia
 Etiopía,Federal Democratic Republic of Ethiopia
-Exipto,Egypt
 Exipto,Arab Republic of Egypt
+Exipto,Egypt
 Flandres,Flanders
 Flandres,Flemish region
 Francia,France
@@ -81,9 +81,9 @@ Guam,Guam
 Guam,Guam
 Honduras,Honduras
 Honduras,Republic of Honduras
-Iacarta,Jakarta
-Iacarta,Djakarta
 Iacarta,DKI Jakarta
+Iacarta,Djakarta
+Iacarta,Jakarta
 Illas Baleares,Balearic Islands
 Illas Caimán,Cayman Islands
 Ilíada,Iliad
@@ -95,31 +95,31 @@ Irán,Iran
 Irán,Islamic Republic of Iran
 Khartún,Khartoum
 Lagos,Lagos
-Lesoto,Lesotho
 Lesoto,Kingdom of Lesotho
+Lesoto,Lesotho
 Liberia,Liberia
 Liberia,Republic of Liberia
-Libia,Libya
 Libia,Great Socialist People's Libyan Arab Jamahiriya
+Libia,Libya
 Lión,Lyon
 Macedonia,Macedonia
 Macedonia,Republic of Macedonia
 Malaui,Malawi
 Malaui,Republic of Malaŵi
+Malta,Malta
+Malta,Republic of Malta
 Mar Exeo,Aegean Sea
-Marrocos,Morocco
 Marrocos,Kingdom of Morocco
+Marrocos,Morocco
 Martinica,Martinique
-Mauritania,Mauritania
 Mauritania,Islamic Republic of Mauritania
+Mauritania,Mauritania
 Mayotte,Mayotte
 Monte Fuji,Mount Fuji
 Montenegro,Montenegro
 Myanmar,Myanmar
 Málta,Malta
 Málta,Republic of Malta
-Malta,Malta
-Malta,Republic of Malta
 Mónaco,Monaco
 Namibia,Namibia
 Nicaragua,Nicaragua
@@ -127,8 +127,8 @@ Niue,Niue
 Nova Celandia,New Zealand
 O Salvador,El Salvador
 O Salvador,Republic of El Salvador
-Paquistán,Pakistan
 Paquistán,Islamic Republic of Pakistan
+Paquistán,Pakistan
 Países Baixos,Holland
 Países Baixos,Kingdom of the Netherlands
 Países Baixos,The Netherlands
@@ -140,8 +140,8 @@ Portugal,Portugal
 Qatar,Qatar
 Quiribati,Kiribati
 Quiribati,Republic of Kiribati
-República Democrática do Congo,Democratic Republic of the Congo
 República Democrática do Congo,Congo-Kinshasa
+República Democrática do Congo,Democratic Republic of the Congo
 República Dominicana,Dominican Republic
 Ródano,Rhône
 San Petersburgo,Leningrad
@@ -154,27 +154,27 @@ Sochi,Sochi
 Sri Lanka,Sri Lanka
 Suecia,Sweden
 Suíza,Switzerland
-Territorio Británico do Océano Índico,British Indian Ocean Territory
 Territorio Británico do Océano Índico,BIOT
-Timor Leste,East Timor
+Territorio Británico do Océano Índico,British Indian Ocean Territory
 Timor Leste,Democratic Republic of Timor-Leste
+Timor Leste,East Timor
 Togo,Togo
 Toronto,Toronto
 Turinxia,Thuringia
 Turquía,Turkey
-Uganda,Uganda
 Uganda,Republic of Uganda
+Uganda,Uganda
 Unión Europea,EU
 Unión Europea,European Union
 Volga,Volga
-Wallis e Futuna,Wallis and Futuna
 Wallis e Futuna,Territory of the Wallis and Futuna Islands
+Wallis e Futuna,Wallis and Futuna
 Xamaica,Jamaica
 Xapón,Japan
 Xapón,State of Japan
 Xibraltar,Gibraltar
-Zambia,Zambia
 Zambia,Republic of Zambia
+Zambia,Zambia
 abella,bee
 abolicionista,abolitionist
 abreviación,abbreviation
@@ -185,8 +185,8 @@ aceptación,acceptance
 aceptación,credence
 actinio,actinium
 activista,activist
-acusado,defendant
 acusado,accused
+acusado,defendant
 acuífero,aquifer
 adquisición,acquisition
 aforismo,aphorism
@@ -227,8 +227,8 @@ apartheid,apartheid
 apatía,apathy
 apoptose,apoptosis
 apóstolo,apostle
-arandeira,huckleberry
 arandeira,blueberry
+arandeira,huckleberry
 argono,argon
 armisticio,armistice
 arquetipo,archetype
@@ -269,8 +269,8 @@ bohrio,bohrium
 bonsai,bonsai
 boro,boron
 botánica,botany
-botánica,phytology
 botánica,botany
+botánica,phytology
 bromo,bromine
 burocracia,bureaucracy
 cacto,cactus
@@ -283,9 +283,8 @@ calibre,caliber
 californio,californium
 caligrafía,calligraphy
 can,dog
-cuzo,dog
-cantroxo,lavender
 cantroxo,lavander
+cantroxo,lavender
 capítulo,chapter
 característico,characteristic
 carbono,carbon
@@ -308,6 +307,7 @@ chegada,arrival
 chihuahua,Chihuahua
 chihuahua,chihuahua
 chumbo,lead
+cinc,zinc
 cirurxián,surgeon
 cloro,chlorine
 clítoris,button
@@ -315,12 +315,12 @@ clítoris,clit
 clítoris,clitoris
 cobalto,cobalt
 cobre,copper
-coco,kokosnoot
 coco,coconut
+coco,kokosnoot
 coello,rabbit
 cometa,comet
-composto,compound
 composto,chemical compound
+composto,compound
 comunismo,communism
 cranio,skull
 creatividade,creativity
@@ -329,6 +329,7 @@ cripton,krypton
 cromo,chromium
 cueiro,nappy
 curio,curium
+cuzo,dog
 cámara fotográfica,camera
 córnico,Cornish
 darmstadtio,darmstadtium
@@ -338,24 +339,23 @@ desaparafusador,screwdriver
 despertador,alarm clock
 dialecto,dialect
 diarrea,diarrhea
-disco ríxido,hard disk drive
-disco ríxido,hard disk
-disco ríxido,HD
-disco duro,hard disk drive
-disco duro,hard disk
 disco duro,HD
+disco duro,hard disk
+disco duro,hard disk drive
+disco ríxido,HD
+disco ríxido,hard disk
+disco ríxido,hard disk drive
 dislexia,dyslexia
 disprosio,dysprosium
 divorcio,divorce
 dióxido de carbono,carbon dioxide
 dromedario,dromedary
 døv,deaf
-xordo,deaf
 ecuación,equation
 efímero,ephemeral
 einstenio,einsteinium
-embaixada,embassy
 embaixada,diplomatic mission
+embaixada,embassy
 embaixador,ambassador
 embigo,belly button
 embigo,bellybutton
@@ -380,17 +380,17 @@ europio,europium
 exaculación,ejaculation
 excepción,exception
 explícito,explicit
-factible,viable
-factible,viable
 factible,feasible
+factible,viable
+factible,viable
 fagot,bassoon
 farmacia,chemist's
 farmacia,chemist's shop
 farmacia,pharmacy
 feliz aninovo,Happy New Year
 fermio,fermium
-feroés,Faroese
 feroés,Faeroese
+feroés,Faroese
 ferreiro,blacksmith
 filosofía,philosophy
 flúor,fluorine
@@ -409,6 +409,7 @@ gadolinio,gadolinium
 gaita,bagpipes
 galego,Galician
 galego,Galician
+galician,english
 galio,gallium
 ganso,goose
 garaxe,garage
@@ -417,15 +418,15 @@ glándula,gland
 gobernador,governor
 gong,gong
 gorila,gorilla
-gramática,grammer
 gramática,grammar
+gramática,grammer
 granito,granite
 gravitón,graviton
 grazas,cheers
 grazas,thank you
 grazas,thanks
-gripe,influenza
 gripe,flu
+gripe,influenza
 hafnio,hafnium
 haiku,haiku
 hassio,hassium
@@ -434,8 +435,8 @@ hidróxeno,hydrogen
 hiena,hyena
 homonymie,homonym
 horizonte,horizon
-ideolingua,constructed language
 ideolingua,artificial language
+ideolingua,constructed language
 ideoloxía,ideology
 incendiario,arsonist
 independencia,independence
@@ -454,32 +455,31 @@ lanterna,lantern
 latín,Latin
 latín,Latin
 laurencio,lawrencium
+letargo,languor
 letargo,lethargy
 letargo,sluggishness
-letargo,languor
 leñador,lumberjack
 liberdade,freedom
 liberdade,liberty
-limburgués,Limburgish
 limburgués,Limburgian
+limburgués,Limburgish
 litio,lithium
 locomotora,locomotive
 longo,long
 lotaría,lottery
-lugar,place
 lugar,location
+lugar,place
 lutecio,lutetium
 magnesi,magnesium
-mago,wizard
-mago,sorcerer
 mago,magician
+mago,sorcerer
+mago,wizard
 malaria,malaria
-paludismo,malaria
 manganeso,manganese
 mar Caribe,Caribbean Sea
 mar das Antillas,Caribbean Sea
-maternidade,motherhood
 maternidade,maternity
+maternidade,motherhood
 mendelevio,mendelevium
 meninxite,meningitis
 mercurio,mercury
@@ -491,20 +491,20 @@ millafre real,red kite
 moeda,currency
 morfina,morphine
 morsa,walrus
-mosquito,musquito
 mosquito,mosquito
+mosquito,musquito
 mottetto,motet
 mudo,dumb
 músico,musician
 nadir,nadir
 neodimio,neodymium
-neptunium,neptunium
-neptunioa,neptunium
 neptunio,neptunium
+neptunioa,neptunium
+neptunium,neptunium
 niobio,niobium
 nitróxeno,nitrogen
-nivelliitos,joint
 nivelliitos,articulation
+nivelliitos,joint
 nobelio,nobelium
 non,no
 níquel,nickel
@@ -535,15 +535,16 @@ pagán,heathen
 pagán,infidel
 pagán,pagan
 paladio,palladium
+paludismo,malaria
 pano,handkerchief
 pavo,turkey
 peixe,fish
 pel,skin
-pena capital,death penalty
 pena capital,capital punishment
+pena capital,death penalty
 pena capital,death sentence
-pena de morte,death penalty
 pena de morte,capital punishment
+pena de morte,death penalty
 pena de morte,death sentence
 península,peninsula
 petición,petition
@@ -563,8 +564,8 @@ polbo,octopus
 pole,pollen
 polonio,polonium
 polución,pollution
-pomba,pigeon
 pomba,dove
+pomba,pigeon
 porcelana,porcelain
 positrón,positron
 posteridade,posterity
@@ -600,7 +601,6 @@ semántica,semantics
 sextante,sextant
 silicio,silicon
 sinc,zinc
-cinc,zinc
 sintaxe,syntax
 sociolingüística,sociolinguistics
 sociolingüística,sociology of language
@@ -651,6 +651,7 @@ xerarquía,hierarchy
 xermanio,germanium
 xiringa,syringe
 xofre,sulphur
+xordo,deaf
 xornalista,journalist
 xuño,June
 xémeo,twin
@@ -658,4 +659,3 @@ xémeo,twin
 árbore,tree
 ética,ethics
 óptica,optics
-galician,english

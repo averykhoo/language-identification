@@ -1,10 +1,9 @@
 Other,English
 1728,1728
+1728,1728
 Airbus,Airbus
 Apple Macintosh,Macintosh
-Համակարգիչներ,Computing
-Հասարակություն,Society
-Տեխնոլոգիա,Technology
+Bot,Bot
 Dell,Dell
 IPod,IPod
 Linux,Linux
@@ -20,8 +19,9 @@ armenian,english
 Ադիս Աբեբա,Addis Ababa
 Ադոլֆ Հիտլեր,Adolf Hitler
 Ադրբեջան,Azerbaijan
-Ազնվամորի,Rubus idaeus
+Ադրբեջան,Azerbaijan
 Ազնվամորի,Raspberry
+Ազնվամորի,Rubus idaeus
 Ազոտ,Nitrogen
 Աթենք,Athens
 Ալաբամա,Alabama
@@ -59,18 +59,23 @@ armenian,english
 Անդորրա,Andorra
 Անիվ,Wheel
 Անկարա,Ankara
+Անձեր,People
+Անվտանգություն,Security
 Անտանանարիվո,Antananarivo
 Անտուան Լորան Լավուազիե,Antoine Lavoisier
+Աշխարհագրություն,Geography
 Աշխարհագրություն,Geography
 Աուտիզմ,Autism
 Ապրիլ,April
 Ապրիլի 14,April 14
+Ասիա,Asia
 Ասիա,Asia
 Ասմարա,Asmara
 Աստանա,Astana
 Աստատ,Astatine
 Աստղագիտություն,Astronomy
 Աստղագուշակություն,Astrology
+Աստվածաշունչ,Bible
 Աստվածաշունչ,Bible
 Ավգուստին Երանելի,Augustine of Hippo
 Ավետարան ըստ Ղուկասի,Gospel of Luke
@@ -94,6 +99,7 @@ armenian,english
 Արև,Sun
 Արևմտյան Վիրջինիա,West Virginia
 Աֆղանստան,Afghanistan
+Աֆրիկա,Africa
 Աֆրիկանս,Afrikaans
 Բաբելոն,Babylon
 Բազել,Basel
@@ -128,12 +134,14 @@ armenian,english
 Բլեզ Պասկալ,Blaise Pascal
 Բհութան,Bhutan
 Բնություն,Nature
+Բնություն,Nature
 Բոթսվանա,Botswana
 Բոսնիա և Հերցեգովինա,Bosnia and Herzegovina
 Բոր,Boron
 Բորիում,Bohrium
 Բուդապեշտ,Budapest
 Բուդդա,Buddha
+Բուդդայականություն,Buddhism
 Բուդդայականություն,Buddhism
 Բուենոս Այրես,Buenos Aires
 Բուժումբուրա,Bujumbura
@@ -186,6 +194,7 @@ armenian,english
 Եմեն,Yemen
 Եվրասիա,Eurasia
 Եվրոպա,Europe
+Եվրոպա,Europe
 Եվրոպական Միություն,European Union
 Եվրոպիում,Europium
 Երեքշաբթի,Tuesday
@@ -193,6 +202,7 @@ armenian,english
 Երկիր,Earth
 Երկուշաբթի,Monday
 Երկրաշարժ,Earthquake
+Երկրորդ Համաշխարհային Պատերազմ,World War II
 Երկրորդ Համաշխարհային Պատերազմ,World War II
 Երևան,Yerevan
 Եւրօ,Euro
@@ -202,6 +212,7 @@ armenian,english
 Էթիկա,Ethics
 Էկվադոր,Ecuador
 Էյնշտեյնիում,Einsteinium
+Էսպերանտո,Esperanto
 Էսպերանտո,Esperanto
 Էվկլիդես,Euclid
 Էրբիում,Erbium
@@ -222,8 +233,10 @@ armenian,english
 Թուրին,Turin
 Թուրինգիա,Thuringia
 Թուրքիա,Turkey
+Թուրքիա,Turkey
 Թուրքմենիստան,Turkmenistan
 Թոքախտ,Tuberculosis
+Ժամանակ,Time
 Ժան Ժակ Ռուսո,Jean-Jacques Rousseau
 Ժան Փոլ Սարթր,Jean-Paul Sartre
 Ժնև,Geneva
@@ -246,6 +259,7 @@ armenian,english
 Իտալիա,Italy
 Իտերբիում,Ytterbium
 Իտրիում,Yttrium
+Իրան,Iran
 Իրան,Iran
 Իրաք,Iraq
 Իրիդիում,Iridium
@@ -297,51 +311,15 @@ armenian,english
 Կալիֆորնիում,Californium
 Կալցիում,Calcium
 Կահիրա,Cairo
-Bot,Bot
 Կամերուն,Cameroon
 Կամպալա,Kampala
+Կանադա,Canada
 Կանադա,Canada
 Կանբերա,Canberra
 Կանզաս,Kansas
 Կապար,Lead
 Կառլ Մարքս,Karl Marx
 Կասպից ծով,Caspian Sea
-1728,1728
-Ադրբեջան,Azerbaijan
-Անձեր,People
-Անվտանգություն,Security
-Աշխարհագրություն,Geography
-Ասիա,Asia
-Աստվածաշունչ,Bible
-Աֆրիկա,Africa
-Բնություն,Nature
-Բուդդայականություն,Buddhism
-Եվրոպա,Europe
-Երկրորդ Համաշխարհային Պատերազմ,World War II
-Էսպերանտո,Esperanto
-Թուրքիա,Turkey
-Ժամանակ,Time
-Իրան,Iran
-Կանադա,Canada
-Կովկաս,Caucasus
-Կրթություն,Education
-Կրոն,Religion
-Հայաստան,Armenia
-Հիմնարար,Fundamental
-Շվեդիա,Sweden
-Սլովակիա,Slovakia
-Սովետական Միություն,Soviet Union
-Վրաստան,Georgia
-Տեխնիկական գիտություններ,Engineering
-Ցեղասպանություն,Genocide
-Փիլիսոփայություն,Philosophy
-Քաղաքականություն,Politics
-Ֆիզիկա,Physics
-Ֆուտբոլ,Football
-Ֆուտբոլային ակումբներ,Football  clubs
-Ֆրանսիա,France
-Ֆրանսիայի պատմություն,French Revolution
-Ֆրանսիացիներ,French people
 Կատմանդու,Kathmandu
 Կատովիցե,Katowice
 Կենտուկի,Kentucky
@@ -365,21 +343,27 @@ Bot,Bot
 Կոստա Րիկա,Costa Rica
 Կոստանդնուպոլիս,Constantinople
 Կովկաս,Caucasus
+Կովկաս,Caucasus
 Կուալա Լումպուր,Kuala Lumpur
 Կուբա,Cuba
 Կուրիտիբա,Curitiba
+Կրթություն,Education
 Կրիպտոն,Krypton
+Կրոն,Religion
 Կրոն,Religion
 Հալեպ,Aleppo
 Համակարգիչ,Computer
+Համակարգիչներ,Computing
 Համաս,Hamas
 Համացանց,Internet
 Համբույր,Kiss
 Համբուրգ,Hamburg
 Հայաստան,Armenia
+Հայաստան,Armenia
 Հայերեն,Armenian language
 Հայր Մեր,Lord's Prayer
 Հաննիբալ,Hannibal
+Հասարակություն,Society
 Հասիում,Hassium
 Հավայան կղզիներ,Hawaii
 Հարավային Դակոտա,South Dakota
@@ -390,6 +374,7 @@ Bot,Bot
 Հելսինկի,Helsinki
 Հենրի Կավենդիշ,Henry Cavendish
 Հերոդոտոս,Herodotus
+Հիմնարար,Fundamental
 Հին Կտակարան,Old Testament
 Հինգշաբթի,Thursday
 Հիպոկրատես,Hippocrates
@@ -539,6 +524,7 @@ Bot,Bot
 Շառլ դե Գոլ,Charles de Gaulle
 Շոկոլադ,Chocolate
 Շվեդիա,Sweden
+Շվեդիա,Sweden
 Շվեյցարիա,Switzerland
 Շրի Լանկա,Sri Lanka
 Ոսկի,Gold
@@ -548,8 +534,8 @@ Bot,Bot
 Ուլան Բատոր,Ulan Bator
 Ուկրաինա,Ukraine
 Ուսամա բեն Լադեն,Osama bin Laden
-Ուրան,Uranus
 Ուրան,Uranium
+Ուրան,Uranus
 Ուրբաթ,Friday
 Ուրց,Thyme
 Ուփսալա,Uppsala
@@ -645,12 +631,14 @@ Bot,Bot
 Սինգապուր,Singapore
 Սիրիա,Syria
 Սլովակիա,Slovakia
+Սլովակիա,Slovakia
 Սլովենիա,Slovenia
 Սկանդիում,Scandium
 Սկոպյե,Skopje
 Սյուրռեալիզմ,Surrealism
 Սնդիկ,Mercury
 Սոկրատես,Socrates
+Սովետական Միություն,Soviet Union
 Սուրճ,Coffee
 Սոֆիա,Sofia
 Սպահան,Esfahan
@@ -688,6 +676,7 @@ Bot,Bot
 Վոլֆգանգ Ամադեուս Մոցարտ,Wolfgang Amadeus Mozart
 Վոլֆրամ,Tungsten
 Վրաստան,Georgia
+Վրաստան,Georgia
 Տալլին,Tallinn
 Տանտալ,Tantalum
 Տաջիկստան,Tajikistan
@@ -695,6 +684,8 @@ Bot,Bot
 Տեխաս,Texas
 Տեխնեցիում,Technetium
 Տեխնիկա,Technology
+Տեխնիկական գիտություններ,Engineering
+Տեխնոլոգիա,Technology
 Տիբեր,Tiber
 Տիգրիս,Tigris
 Տիտան,Titanium
@@ -707,6 +698,7 @@ Bot,Bot
 Ցար,Tsar
 Ցեզիում,Caesium
 Ցեղասպանություն,Genocide
+Ցեղասպանություն,Genocide
 Ցերիում,Cerium
 Ցինկ,Zinc
 Ցիրկոնիում,Zirconium
@@ -715,8 +707,10 @@ Bot,Bot
 Փետրվարի 2,February 2
 Փետրվարի 29,February 29
 Փիլիսոփայություն,Philosophy
+Փիլիսոփայություն,Philosophy
 Փոլ Մաքքարթնի,Paul McCartney
 Քաբուլ,Kabul
+Քաղաքականություն,Politics
 Քամբոջա,Cambodia
 Քատար,Qatar
 Քեյփ Վերդե,Cape Verde
@@ -748,14 +742,20 @@ Bot,Bot
 Ֆերմիում,Fermium
 Ֆիդել Կաստրո,Fidel Castro
 Ֆիզիկա,Physics
+Ֆիզիկա,Physics
 Ֆիլադելֆիա,Philadelphia
 Ֆինլանդիա,Finland
 Ֆլորիդա,Florida
 Ֆյոդոր Դոստոևսկի,Fyodor Dostoevsky
 Ֆոսֆոր,Phosphorus
+Ֆուտբոլ,Football
+Ֆուտբոլային ակումբներ,Football  clubs
 Ֆրանկֆուրտ,Frankfurt
 Ֆրանսիա,France
+Ֆրանսիա,France
 Ֆրանսիական հեղափոխություն,French Revolution
+Ֆրանսիայի պատմություն,French Revolution
+Ֆրանսիացիներ,French people
 Ֆրանցիսկո Գոյա,Francisco Goya
 Ֆրասիում,Francium
 "Ֆրեզնո, Կալիֆորնիա",Fresno

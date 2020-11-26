@@ -3,8 +3,8 @@ Other,English
 -0,nominative
 -0-,in empty series
 -a,essive
--a-,in empty series
 -a (monosyll.),aorist
+-a-,in empty series
 -ba,desiderative
 -che-,obl. stem plural
 -chiš,conditional
@@ -32,21 +32,18 @@ Other,English
 -nchiš,conditional
 -om,plural
 -ot,plural
--qi,future
 -qI-,in filled series
 -qI-an,denominative nominal
--r,present
+-qi,future
 -r,imper. plur.
--r-,imperfective infix
+-r,present
 -r-,ad series
+-r-,imperfective infix
 -r-an,denominative nominal
 -r-gi,imper. plur.
 -rche-,obl. stem plural
 -rgi,prohibitive
 -s,dative
--š,elative
--ši,"lative, gerund"
--šu-l,obl. stem plural
 -t,4th class marker
 -t:-,series Super
 -t:e,present gerund
@@ -62,20 +59,22 @@ Other,English
 -u (1t conj.),aorist
 -xu-,loc. suffix
 -xu-r,from behind
-=ac:a-,to plough
+-š,elative
+-ši,"lative, gerund"
+-šu-l,obl. stem plural
+0,4th class marker
 =ac:a-,to milk
+=ac:a-,to plough
 =ac:a-r,to be ill
 =ak:i-,to go away
 =ak:u-,to see
 =aq:a-s,to leave
-=áqIa-,crumple
 =arx:in-,to scatter
 =as:a-,to tremble
 =at:a-,to butt
-=áta-,to crush
-=ec:a-,to pour into
 =eIch:a-,to sharpen
 =eIha-,to copulate
+=ec:a-,to pour into
 =el:a-,to sweep
 =eq:a-,bite
 =erx:Ia-,to scoop up
@@ -87,7 +86,8 @@ Other,English
 =ot:a-,to pluck
 =ubla-s,to put on
 =uxa-,to suck
-0,4th class marker
+=áqIa-,crumple
+=áta-,to crush
 a=a-,to make
 a=ch:a-,to kill
 a=ka-,to destroy
@@ -98,10 +98,8 @@ a=sin-,weigh
 a=ta-,to cut
 a=ti-,leave
 a=xa-,to lie
-ab-t:u,father
-áca-t:ut,full
-ácha-tu-,empty
 aInš,apple
+ab-t:u,father
 ak:on,light
 al:,meat
 amk,sweat
@@ -121,21 +119,21 @@ axI,enough
 axu kes,to sleep
 b,plur. class marker
 b-eca-,to be able
-babca-,to plane
-bablw,intestine(s)
-babx:Ia-,to swell
-bac,month
-bac,rowan
 baIk,ram
 baIki,heap
 baIkon,rope
 baIršu,badger
 baIš,hundred
 baIš:a-tu,hundred
+babca-,to plane
+bablw,intestine(s)
+babx:Ia-,to swell
+bac,month
+bac,rowan
 bakw,side
 bal,rennet
-baqari,lamb
 baqIa-,to return
+baqari,lamb
 barq,sun
 bars:on,rib
 basa,when
@@ -145,14 +143,14 @@ bex:Iet:ut,black
 bi,blood
 bich-ni,corner of a sack
 biqw,place
-biš,calf
 bisni,burdock
+biš,calf
 bo-,say
 boIl:,boar
 bok,malt
 bos,mountain goat
-bošor,husband
 boxI,mountain goat
+bošor,husband
 buq,barley
 burk,hammer
 buwa,mother
@@ -168,10 +166,10 @@ cegw-du-,bitter
 cha-,to lick
 cha-,to wind
 cha:Ira-,wet
-chach:i,trough for grain winnowing
 chaIn-,squeeze
 chaIpi,eye secretion
 chaIri,hair
+chach:i,trough for grain winnowing
 chaqw,spoon
 char-,to bake
 chat,word
@@ -186,8 +184,8 @@ chimich,hoof
 chon,wine
 chot,leather strip
 chu-,to come in
-chub:un,short rain
 chuIba-t:ut,white
+chub:un,short rain
 chwal,tassel
 chwati,dry dung
 chwelchä-bos,to gnaw
@@ -195,8 +193,8 @@ chwim,span
 ci,threshing-floor
 cimicäla,butterfly
 cix-dí,secretly
-cor,urine
 cor,name
+cor,urine
 cum-,to sift
 cum-mus,to sift
 cut,stone pillar
@@ -205,7 +203,6 @@ d-abla-,to unlock
 d-aq:Ia-,fasten
 d-axa as,to open
 daI=šin-,to become cloudy
-dál-kes,to beat
 dal:,door
 dali,long stick
 daxi-s,to beat
@@ -222,33 +219,34 @@ dilw,cloud
 diq,soup
 diqI,ashes
 diš-du-r,newborn daughter
-dogi,donkey
 doIz,big
+dogi,donkey
 dori,place for community meetings
 došdur,sister
 duhIu-ni,rope made of plant stalks
 dul:ur,bridle
+dál-kes,to beat
 e-mi-,demonstrative pronoun
 e=,to be
-e=ka-,to fall
 e=ka-,to choose
+e=ka-,to fall
 e=l:a-,to put
 e=l:in-,to make an ablution
-e=la-,to wake up
 e=la-,bury
-e=qi-,to reach
+e=la-,to wake up
 e=qIwin-,be afraid
+e=qi-,to reach
 e=qwVn-,stab
 e=tin-,bind
 e=x:a-,to stay
 e=xin-,to forget
+eIch,mark
 ebq,four
 ebqa-,four
-eIch,mark
 ej-t:ur,mother
 eqen,until
-exa-s,raise
 exI,cheek
+exa-s,raise
 exin-,to catch fire
 exin-,to hang
 exmus,to catch fire
@@ -258,15 +256,15 @@ gak:i,tube
 gamgi,cake
 gatu,cat
 gert:i,arc
-ghat:ära,herd of cattle
 ghIemghIä-bos,to grumble
-ghu-du,that
+ghat:ära,herd of cattle
 ghu-du,demonstr. pronoun
+ghu-du,that
 gik:u,cuckoo
 gu-du,that
 gu-du,that
-guk:ä bos,to itch
 guk:i,round
+guk:ä bos,to itch
 guli-t:u=,hidden
 gwa-s,to bend
 gwat,kidney
@@ -300,26 +298,26 @@ iq,day
 iq:Ia-t:u=,to be hungry
 iqIw,heavy
 irxwin-,to work
-iš,night
 ixI,joke
+iš,night
 ja-mu,demonstrative pronoun
 ja-t,demonstrative pronoun
-já=xIa-,to dig
-jáha-,to winnow
 jam,wolf
 jarxIi,mountain pass
 jat,above
 jaxw,foundation
 jixal,rat
 joki,summer pasture
+já=xIa-,to dig
+jáha-,to winnow
 k:och:I,door lock
 kacha,penis of a boy
 kachi,leaf
 kadi,measure for flour
 kalat:ut,thin
 kam-,to throw
-kan,jackdaw
 kan,bottom
+kan,jackdaw
 karti,head
 kati,wooden shovel
 ke-,to be
@@ -341,8 +339,8 @@ kunchul,stick for playing tip-cat
 kunkum,cauldron
 kup-ar,dried and pressed dung
 kurch,of sheep
-kurkuni,damson
 kurkuni,a k. of fancy bread
+kurkuni,damson
 kurta,hammer
 kus,habit
 kutan,plough
@@ -359,7 +357,6 @@ l:aIma-t:u-,liquid
 l:al,lamb
 l:an,"to want, water"
 l:e-t:u-t,late
-l:él:u,a k. of worm
 l:erum-kul,lock
 l:i,who
 l:i-li,who
@@ -371,11 +368,12 @@ l:on:ol,woman
 l:un-,to run away
 l:wa,together
 l:wa-k,near
-l:wána-t:u-,similar
 l:we-jtu,five
 l:wem,edible berries
 l:win,seed
 l:wit,manure
+l:wána-t:u-,similar
+l:él:u,a k. of worm
 labx-an,much
 lac:ut,iron
 lagum,song
@@ -387,7 +385,6 @@ lamca,bog
 laml,damp
 lap:us,to throw
 lax,grain peelings
-láxa,long
 leb,three
 lek:i,bone
 lele,men
@@ -405,13 +402,14 @@ lul,hope
 lun-,to pull
 lur,eye
 lwa-,to cut
+láxa,long
 mac,tongue
 macat:ut,new
 mach,nettle
 mach,place
 macha,dark
-maj,fat
 maj,brain
+maj,fat
 mal:i,winter pasture
 mam,breast
 mam=uxa-,to suck
@@ -420,13 +418,13 @@ marchi,all
 marqIw,nail
 mars:i,long rag
 marx:äla,snow
-mas,price
 mas,bed
+mas,price
 max,stripe of mown grass
-maxa,barley
 maxIu,tale
-mec:e,corner
+maxa,barley
 meI,whey
+mec:e,corner
 mele,eight
 melle,male
 mesé,a k. of weed
@@ -440,8 +438,8 @@ mol:or,birch
 molol,old dry grass
 mosol,tomb-stone
 moxor,breast meat
-much,beak
 muIl,snot
+much,beak
 muka,pastor's lettuce
 mul,mountain
 mul:á-l:,icy water
@@ -450,27 +448,25 @@ muqIu,small
 mus:al,wild turkey
 muš:ur,backbone
 mušu,caraway
-nabk,dream
-nabq,tear
-nac,louse
 naIL-du-,blue
 naIl:,milk
 naIl:u,gadfly
+nabk,dream
+nabq,tear
+nac,louse
 naqw,earth
 nat,nit
 naxw,chaff
 nen,we
-noc,sparrow
 noI-choI,food made of colostrum
 noIš,horse
+noc,sparrow
 nol:,room
 noqIon,mouse
 o=c:i-,to stand
 o=l:a-,to be silent
 o=q:Ia-,be defeated
 o=qi-,to ripen
-obl. stem+0,ergative
-oc,"ring stone, fire"
 oI=chin-,to clear up of weather
 oI=ša-,untie
 oIch,tail
@@ -478,6 +474,8 @@ oIch-lek:i,neck
 oInt,head
 oIrchu-,right
 oIti,short-eared ram
+obl. stem+0,ergative
+oc,"ring stone, fire"
 oj,ear
 ok,bilberry
 ok:a-s,burn
@@ -489,18 +487,33 @@ ors:a-,to dip
 orxIi,salt
 os,one
 pa-bos,to kiss
-pach,cabin
 paIrti,one of the large intestines
 paIt:ä-la,trousers
+pach,cabin
 paq:ut,bark
-parä-la,lightning
 parx bos,fly
+parä-la,lightning
 pil,ramson
 pil:w,a k. of umbelliferous plant
 pilw,a k. of plant
 poImp,knee
-purš:ä-qat,bellows
 purx,diarrhea
+purš:ä-qat,bellows
+qIa-,to divide
+qIabghI-du,dirty
+qIan,pregnant
+qIaq:Ii,top of boot
+qIarti,rolling-pin
+qIe-s,to go
+qIin,bridge
+qIipi-xIan,crow
+qIipi-xIan,raven
+qIit:-iq,summer
+qIun,shoulder
+qIut,vagina
+qIwe,two
+qIweni,a ball-shaped bush
+qIwib,tuber
 qa,twenty
 qa-t:u,below
 qala,bitter
@@ -510,23 +523,8 @@ qanta,dock-tailed
 qaqära,throat
 qas,shelf for dishes
 qe-,get cold
-qe-bus,to dance
 qe-bus,to butt
-qIa-,to divide
-qIabghI-du,dirty
-qIan,pregnant
-qIaq:Ii,top of boot
-qIarti,rolling-pin
-qIe-s,to go
-qIin,bridge
-qIipi-xIan,raven
-qIipi-xIan,crow
-qIit:-iq,summer
-qIun,shoulder
-qIut,vagina
-qIwe,two
-qIweni,a ball-shaped bush
-qIwib,tuber
+qe-bus,to dance
 qonk,dumpling
 qonq,sheep-skin
 qoq,back
@@ -537,8 +535,8 @@ qur,carrot
 qure,dry
 quši,a cone-shaped basket
 qwachi,wineskin
-qwan,palm of hand
 qwan,big flat stone
+qwan,palm of hand
 qwil,cliff
 r,2d class marker
 s-,general verbal prefix
@@ -548,27 +546,18 @@ s:am,gall
 s:an,year
 s:an-ghi,yesterday
 s:ap,ramson
-š:eIn-,to knead dough
 s:en-,thaw
-š:ibux:al,weasel
 s:ob,mouth
 s:ol,fox
 s:on,back
-š:u-,to take
 s:us:ä-bos,to smear
-š:wit-bos,whistle
 sa-,to catch
 sa=k:a-,to look
 saqa-t:u=,sickly
-še-ker-t:u,first cousin
-šeI-,to rot
-šeI-,to run away
 sesa-,roast grain
 sob,mountain pasture
 sot,tooth
 sot:-aqI,autumn
-šut:a,tomorrow
-šwaIš,last year
 t-ugh-du-,thick of liquids
 t-uq,thick of liquids
 taInkuli,head of a spindle
@@ -588,12 +577,11 @@ tunl:,weasel
 tux-,wither
 u,1st (masc.) class marker
 uch,nine
-ücha-tu,nine
 ul-du,herdsman
 un,thou
 urk:i,nettle
-ušdu,brother
 ux,field
+ušdu,brother
 w,1st (masc.) class marker
 w-it,thou
 wic,ten
@@ -601,16 +589,16 @@ wil,seven
 wila-tu,seven
 winisi,bed-bug
 wix-taš,suddenly
+x:Iel,rain
+x:Iele-t:u,guest
+x:Iili,bull-calf
+x:Ioro=x:Ii-,to change
 x:a-,to stand up
 x:al,load
 x:at,beam
 x:e-,to carry
 x:em-,to knit
-x:Iel,rain
-x:Iele-t:u,guest
-x:Iili,bull-calf
 x:ik,fist
-x:Ioro=x:Ii-,to change
 x:on,trap
 x:ono,palate
 x:u-bus,to gulp down
@@ -618,16 +606,6 @@ x:ux:u-bos,to saw
 x:wa,gutter
 x:wak,forest
 x:wan,northern slope of a mountain
-xa-,to sing
-xa-bus,to sing
-xal,nest
-xala-ci,sleeve
-xala-t:u-,old person
-xam,wax
-xan,bead(s)
-xaxat:ut,yellow
-xe-,to win
-xi-r,behind
 xI:anaxI,dimming of eye-sight
 xI:ološ-qIan,star
 xIa-,to drag
@@ -641,6 +619,16 @@ xIor,village
 xIorchi,heifer
 xIošon-erx:i,third stomach
 xIurxIu,belly
+xa-,to sing
+xa-bus,to sing
+xal,nest
+xala-ci,sleeve
+xala-t:u-,old person
+xam,wax
+xan,bead(s)
+xaxat:ut,yellow
+xe-,to win
+xi-r,behind
 xo-,to find
 xol,hand
 xom,women
@@ -655,6 +643,18 @@ xwimc,tick
 xwinc,tick
 zimzi,ant
 zimzu,ant
-žinžru,leech
 zon,I
+áca-t:ut,full
+ácha-tu-,empty
+ücha-tu,nine
+š:eIn-,to knead dough
+š:ibux:al,weasel
+š:u-,to take
+š:wit-bos,whistle
+še-ker-t:u,first cousin
+šeI-,to rot
+šeI-,to run away
+šut:a,tomorrow
+šwaIš,last year
+žinžru,leech
 žwe-n,you

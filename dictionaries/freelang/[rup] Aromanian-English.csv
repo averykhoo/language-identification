@@ -1,7 +1,29 @@
 Other,English
--njos,below
 (f.) Armãnã,Aromanian (person)
 (m.) Armãn,Aromanian (person)
+-njos,below
+Armãneashce,Aromanian (language)
+Buna dzuã!,Greetings!
+Ciao!,Bye!
+Cum eshci? (informal),How are you?
+Cum hits? (formal),How are you?
+Cum ti chljamã?,What's your name?
+Da,Yes
+Haristo,Thank you
+Iu easte toaletlu?,Where's the bathroom?
+Iu iasti mardzina di amare?,Where is the beach?
+Iu iasti uda a mea?,Where is my room?
+Iu potu s'aflu una beari?,Where can I find a drink?
+Iu potu s'aflu una beari?,Where is the bar?
+Limba armãneascã,Aromanian (language)
+Mine escu studentu,I am a student
+Nu achicãsescu,I don't understand
+Nu mi cartea aclo!,Don't touch me there!
+S-nã videm cu ghine!,Goodbye!
+Ti-plãcãrsescu (informal),Please
+Tsi fats?,What are you doing?
+Vã-plãcãrsescu (formal),Please
+Zburats anglicheashce?,Do you speak English?
 a featiljei,to the girl
 a fratelui,to the brother
 a fratslor,to the brothers
@@ -15,55 +37,37 @@ a steaoljei,to the star
 ac,needle
 aclo,there
 actsii,action
-ãdreptu,straight
 adzâ,today
-aestâ,this
 aestu,this
+aestâ,this
 afla,find
 aflâ,find
 agudescu,to hit
 ai,to have
 aibâ,to have (1)
 aistu,this
-albã,white
 albu,white
+albã,white
 alghinã,bee
-altâ,other
 alti,other
 altsâ,other
 altu,other
+altâ,other
 am,"have, but, to have"
 amalãmã,gold
 amare,sea
 amirã,king
 an,year
-ãn,in
-ânchisi,entire
 ancoa,to here
-ândreptu,right
 anghil,angel
-ãngljatsã,ice
-ãngljets,to freeze
 anj,year
-Ãnj-easte jale,Sorry
-ânjos,below
 anjurdzescu,to smell
-ântribâ,ask
-ântribâm,ask
-ãntribare,question
-ântribari,question
 anu,year
-ãnveastã,wife
 aoa,here
-apã,water
 aparnjitâ,begining
-ãplinu,full
 aproape,near
-arãdu,to laugh
-arão,river
+apã,water
 aratse,cold
-arãu,river
-arãu,bad
 arbineascâ,albanian
 arbinescu,albanian
 arbore,tree
@@ -74,19 +78,22 @@ ari,to have
 arinã,sand
 ariz,barley
 armân,aromanian
-armãn,stay
-armânâ,remain
 armâneascâ,aromanian
-Armãneashce,Aromanian (language)
 armâneashti,aromanian
 armânescu,aromanian
 armâni,remain
 armânji,aromanian
 armânu,remain
+armânâ,remain
+armãn,stay
 arosh,red
 arpã,wing
 arthima,arrow
 aruc,to throw
+arãdu,to laugh
+arão,river
+arãu,bad
+arãu,river
 ascuchiu,to spit
 asearã,yesterday
 ashcergu,to wipe
@@ -101,22 +108,18 @@ aush,old (not young)
 avdi,hear
 avdu,"to hear, hear"
 avdzâm,hear
-avea,to have (1)
 avea,to have
+avea,to have (1)
 avea mãcatã,she had eaten
 aveai,to have
 aveam,"had, to have"
 aveatâ,to have (1)
 avem,to have
 avgustu,august
-azã,today
 azboairã,to fly
+azã,today
 banã,life
-bânâtor,citizen
 barbã,beard
-bãrbat,husband
-bãrbat,"man (adult male), man"
-bârbatu,man
 beau,to drink
 biduclju,flea
 birã,beer
@@ -132,13 +135,13 @@ buf,owl
 bumbac,cotton
 bun,good
 bunâ,good
-Buna dzuã!,Greetings!
 buric,belly
+bânâtor,citizen
+bârbatu,man
+bãrbat,husband
+bãrbat,"man (adult male), man"
 ca,like
-câ,that
-cã,because
 cad,to fall
-cãfe,coffee
 cafi,each
 cafiringhie,brown
 cai,who
@@ -146,37 +149,26 @@ cal,horse
 caldu,warm
 cale,road
 canâ,no one
-cãndu,when
-cãne,dog
-cânti,sing
-cãntu,"to sing, sing"
 cap,head
 caprã,goat
 cara,if
-cãrbune,coal
 cari,"who, which"
 carne,meat
-carte,paper
 carte,letter (mail)
-cârunâ,marriage
-casã,house
-cãsãbã,town
+carte,paper
 cash,cheese
-câstânj,chestnut
-cãtsut,knife
-cãtushe,cat
+casã,house
 ceae,tea
-cheatrã,stone
 cheatrã,rock
+cheatrã,stone
 cheptu,breast
 chiale,skin
 chiatrã,stone
 chicutã,drop
-chiro,weather
 chiro,time
-Ciao!,Bye!
-cicior,leg
+chiro,weather
 cicior,foot
+cicior,leg
 cileche,steel
 cinushe,"ash, ash(es)"
 cireashe,cherry
@@ -192,13 +184,22 @@ cu,with
 cuinã,kitchen
 culã,tower
 cum,"how, as"
-Cum eshci? (informal),How are you?
-Cum hits? (formal),How are you?
-Cum ti chljamã?,What's your name?
 cumshat,neighbor
 cunoscu,know
 cur,to flow
-Da,Yes
+câ,that
+cânti,sing
+cârunâ,marriage
+câstânj,chestnut
+cã,because
+cãfe,coffee
+cãndu,when
+cãne,dog
+cãntu,"to sing, sing"
+cãrbune,coal
+cãsãbã,town
+cãtsut,knife
+cãtushe,cat
 dadã,mother
 dau,"to give, give"
 dauâ,two
@@ -222,15 +223,15 @@ dumatã,tomato
 dumnidzã,god
 dupâ,under
 dushman,enemy
-dzâc,to say
-dzâcâ,to say
 dzalê,day
-dzãnuclju,knee
-dzâtsemu,to say
-dzâtsi,to say
 dzeadzit,finger
 dzenuclju,knee
 dzuã,day
+dzâc,to say
+dzâcâ,to say
+dzâtsemu,to say
+dzâtsi,to say
+dzãnuclju,knee
 eali,they
 eara,to be
 earau,to be
@@ -245,51 +246,49 @@ eshti,to be
 evropa,europe
 exceptsie,exception
 familia,family
-fârâ,without
-fãrinã,flour
-fãrmatse,poison
 fatsã,face
 feata,the girl
 firidã,window
 fitur,butterfly
-flâmburâ,flag
 floare,flower
+flâmburâ,flag
 foale,belly
 foame,hunger
 foc,fire
-frãndzã,"leaf, page"
 frate,"the brother, brother"
 fratslji,the brothers
 frec,to rub
 fricã,fear
 frigã,cold
+frãndzã,"leaf, page"
 fug,run
 fum,smoke
 fumelj,child
 fune,rope
 furnigã,ant
 furtunã,storm
+fârâ,without
+fãrinã,flour
+fãrmatse,poison
 gae,crow
 galbin,yellow
 galbinã,yellow
-gãljinã,hen
-gãrdinã,garden
-gãscã,goose
 gherman,german
 ghermanâ,german
 ghini,well
 giungu,bull
 gljets,ice
 gortsu,pear
-grãshac,pea
 greu,heavy
 gros,thick
-gurã,mouth
+grãshac,pea
 gurguljat,round
+gurã,mouth
+gãljinã,hen
+gãrdinã,garden
+gãscã,goose
 hair,hair
 halcumã,copper
-Haristo,Thank you
-hãvae,air
 her,iron
 hibâ,to be
 hicat,liver
@@ -298,27 +297,21 @@ hilje,daughter
 hiljli,the sons
 hiljlu,the son
 hoarã,village
-iarâ,and
+hãvae,air
 iarbã,grass
 iarnã,winter
+iarâ,and
 icã,or
 imnu,to walk
-îndultescu,sweeten
 inimã,heart
 insulã,island
 io,I
 iou,me
 irinje,peace
 iu,where
-Iu easte toaletlu?,Where's the bathroom?
-Iu iasti mardzina di amare?,Where is the beach?
-Iu iasti uda a mea?,Where is my room?
-Iu potu s'aflu una beari?,Where can I find a drink?
-Iu potu s'aflu una beari?,Where is the bar?
 la,"at, by"
 lac,lake
 lae,black
-lãnã,wool
 lapte,milk
 lapti,milk
 largu,wide
@@ -327,9 +320,8 @@ lemnu,tree
 liberi,free
 liberu,free
 lilice,flower
-limbã,"tongue, language"
-Limba armãneascã,Aromanian (language)
 limbi,languages
+limbã,"tongue, language"
 lingurã,spoon
 lipseascâ,should
 lipseashti,should
@@ -341,35 +333,32 @@ lucreadzâ,work
 lucredzu,work
 lume,world
 lumi,world
-lunã,moon
 lungu,long
+lunã,moon
 lup,wolf
+lãnã,wool
 ma,many
 ma,many
-mãc,to eat
 machiduneascâ,macedonian
 machidunescu,macedonian
 maimun,monkey
 mamã,mother
-mãnã,hand
-mãne,tomorrow
 mare,big
-masã,table
 mascur,man (adult male)
 mash,just
+masã,table
 matsã,guts
 me anvãrtescu,to turn
 meare,apple
 mes,month
 mese,middle
-mi-batu,to fight
-mi-culcu,to lie
 mi gioc,to play
 mi umflu,to swell
+mi-batu,to fight
+mi-culcu,to lie
 mielmã,swan
 minduiescu,to think
 mine,I
-Mine escu studentu,I am a student
 mini,me
 mintsime,louse
 minutã,minute
@@ -377,20 +366,19 @@ mor,"to die, die"
 morte,death
 muljare,woman
 muljarea,the woman
-multâ,many
 multi,many
 multsã,many
 multu,many
+multâ,many
 munte,mountain
 murdar,dirty
 murnu,blue
 muzicã,music
-nãndreptu,right
-não,new
+mãc,to eat
+mãne,tomorrow
+mãnã,hand
 napoi,back
 nare,nose
-nãs,he
-nãsh,they
 naturã,nature
 ndreptu,right
 neao,snow
@@ -411,11 +399,13 @@ nor,cloud
 nostru,our
 ntribâ,ask
 nu,"not, No"
-Nu achicãsescu,I don't understand
-Nu mi cartea aclo!,Don't touch me there!
-numã,name
 nume,name
 numir,"to count, number"
+numã,name
+nãndreptu,right
+não,new
+nãs,he
+nãsh,they
 oae,sheep
 oaie,sheep
 oaminj,person
@@ -424,25 +414,17 @@ oclju,eye
 odã,room
 olivã,olive
 om,"man (human being), human being, man, person"
-orã,hour
 ornje,eagle
+orã,hour
 os,bone
 ospit,friend
 ospit,guest
 ou,egg
-pãdhure,forest
-pãdure,forest
 padzinâ,page
-pãmpore,"boat, ship"
-pânâ,up to
-pãne,bread
 pangu,spider
-pâni,bread
-pãradz,money
-pãrumbu,pigeon
-patã,duck
 patatã,potato
 patru,four
+patã,duck
 peanã,feather
 per,hair
 pescu,fish
@@ -454,18 +436,17 @@ piper lae,pepper
 pisti,through
 pistipsi,hope
 pistipsim,hope
-plãcãrsire,prayer
 planetã,planet
 platâ,money
 ploae,rain
-poatâ si scrii,it is possible to write
+plãcãrsire,prayer
 poati,be able to
+poatâ si scrii,it is possible to write
 polim,war
 popul,people
 porcu,pig
 pot,be able to
 potsi,be able to
-prãvdã,animal
 pri,in
 pri,in
 primuvearã,spring(time)
@@ -473,19 +454,23 @@ prit,through
 prochiatã,near
 prublemâ,problem
 prufit,prophet
+prãvdã,animal
 pulju,bird
 punte,bridge
 purnã,plum
 puscã,vinegar
 putsãn,few
+pâni,bread
+pânâ,up to
+pãdhure,forest
+pãdure,forest
+pãmpore,"boat, ship"
+pãne,bread
+pãradz,money
+pãrumbu,pigeon
 relighia,religion
 revistâ,magazine
-S-nã videm cu ghine!,Goodbye!
-sãndzã,blood
-sândze,blood
-sãndze,blood
 sapu,to dig
-sãpune,soap
 sare,salt
 scarchinu,to scratch
 scriem,write
@@ -494,14 +479,13 @@ scriu,write
 sculie,school
 searã,evening
 secundã,second
-šedu,sit
 semnu,symbol
 sezonã di an,season
 sharpe,snake
 shasi,six
 shciu,to know
-shcurtâ,short
 shcurtu,short
+shcurtâ,short
 shed,to sit
 shi,"and, too"
 shoaric,mouse
@@ -528,8 +512,6 @@ sorã,sister
 sots,friend
 spel,to wash
 spun,to say
-stãmãnã,week
-stãngu,left
 stat,state
 stati,state
 stau,to stand
@@ -537,74 +519,76 @@ stau cãlcatã,to lie in a bed
 steale,the stars
 steao,"star, the star"
 stizmã,wall
-strãmtu,narrow
 stringu,to squeeze
+strãmtu,narrow
+stãmãnã,week
+stãngu,left
 subtsãre,thin
 sucache,street
 suflu,to blow
 sug,to suck
 suntu,to be
+sândze,blood
+sãndze,blood
+sãndzã,blood
+sãpune,soap
 taifâ,family
-tãljat,sharp
 talju,to cut
 tatã,father
 ti,of
-Ti-plãcãrsescu (informal),Please
 tigru,tiger
 tine,you
 tini,you
 tinir,young
 tomnã,autumn
-trâ,in order to
 trag,to pull
 trandafilã,rose
 trei,three
 tru,in
-tsãn,to hold
+trâ,in order to
 tsarâ,country
 tseapã,onion
 tser,"sky, candle"
 tseru,heaven
 tsi,what
-Tsi fats?,What are you doing?
 tsintsi,five
 tsitâtsenii,nationality
-tsivilâ,civil
 tsivilu,civil
+tsivilâ,civil
 tsupatã,axe
+tsãn,to hold
 tu,in
 tut,all
-tutâ,every
 tuti,every
 tuts,every
 tutu,every
 tutune,tobacco
+tutâ,every
+tãljat,sharp
 ud,wet
 un,"one, an"
-unâ,one
-unâ,an
 unglje,fingernail
 universitate,university
 untulemnu,oil
 unu,one
+unâ,an
+unâ,one
 ureaclje,ear
 urechljã,ear
 ursã,bear
 va,will
-vâ,you all
-Vã-plãcãrsescu (formal),Please
-va s-cãntã,they will sing
-va s-cãntã,she will sing
-va s-cãntãm,we will sing
 va s-cãntats,you (pl.) will sing
 va s-cãntsã,you (sg.) will sing
 va s-cãntu,I will sing
+va s-cãntã,she will sing
+va s-cãntã,they will sing
+va s-cãntãm,we will sing
 vacã,cow
 vale,valley
 variantã,variant
 vatãm,to kill
-vearã,summer
 vearde,green
+vearã,summer
 veclju,old (not new)
 ved,"to see, see"
 vimtu,wind
@@ -616,25 +600,41 @@ vrea,want
 vrei,want
 vremu,want
 vulpe,fox
-yãmilã,camel
+vâ,you all
 yermu,worm
 yilie,mirror
 yin,"to come, wine, come"
-yinâ,come
 yini,come
 yinim,come
 yinu,come
+yinâ,come
 yiptu,wheat
 yramã,letter (alphabet)
 yrunj,chin
 yumar,donkey
+yãmilã,camel
 zahare,sugar
+zboarâ,words
+zbor,word
+zburascu,speak
+zburashi,speak
+zburâm,speak
 zãmbacã,tulip
 zãrdeo,peach
 zãrtsinã,root
-zboarâ,words
-zbor,word
-zburâm,speak
-zburascu,speak
-zburashi,speak
-Zburats anglicheashce?,Do you speak English?
+Ãnj-easte jale,Sorry
+ânchisi,entire
+ândreptu,right
+ânjos,below
+ântribari,question
+ântribâ,ask
+ântribâm,ask
+ãdreptu,straight
+ãn,in
+ãngljatsã,ice
+ãngljets,to freeze
+ãntribare,question
+ãnveastã,wife
+ãplinu,full
+îndultescu,sweeten
+šedu,sit

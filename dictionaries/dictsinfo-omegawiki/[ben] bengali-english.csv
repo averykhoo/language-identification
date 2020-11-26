@@ -1,10 +1,7 @@
 Other,English
+bengali,english
 অংগীকর,acceptance
 অংগীকর,credence
-বিশ্বাস,acceptance
-বিশ্বাস,credence
-আস্থা,acceptance
-আস্থা,credence
 অংধার,anarchy
 অক্টোবর,October
 অক্সিজেন,oxygen
@@ -15,14 +12,15 @@ Other,English
 অধ্যায,chapter
 অনুবাদ,translation
 অনুমান,assumption
-অনুমান,supposition
 অনুমান,estimate
+অনুমান,supposition
 অন্তঃস্রাববিদ্যা,endocrinology
 অন্ধ,blind
 অপবাদ,exception
 অপ্রচলিত,obsolete
-অভিযুক্ত,defendant
 অভিযুক্ত,accused
+অভিযুক্ত,defendant
+অমূল্য,valuable
 অলান্দ দ্বীপপুঞ্জ,Åland Islands
 অসমিয়াম,osmium
 অস্ট্রিয়া,Austria
@@ -37,15 +35,15 @@ Other,English
 অ্যালুমিনিয়াম,aluminium
 আইনস্টাইনিয়াম,einsteinium
 আইফেল টাওয়ার,Eiffel Tower
-আইভরি কোস্ট,Ivory Coast
 আইভরি কোস্ট,Cote d'Ivoire
+আইভরি কোস্ট,Ivory Coast
 আইভরি কোস্ট,Republic of Cote d'Ivoire
 আইসল্যান্ড,Iceland
 আইসল্যান্ড,Republic of Iceland
-আজারবাইজান (,Azerbaijan
-আজারবাইজান (,Republic of Azerbaijan
 আজারবাইজান,Azerbaijan
 আজারবাইজান,Republic of Azerbaijan
+আজারবাইজান (,Azerbaijan
+আজারবাইজান (,Republic of Azerbaijan
 আপারঠাইট,apartheid
 আপেল,apple
 আপেল,apple
@@ -184,10 +182,12 @@ Other,English
 আলকেমি,alchemy
 আলজেরিয়া,Algeria
 আলজেরিয়া,People's Democratic Republic of Algeria
+আলিশ,languor
 আলিশ,lethargy
 আলিশ,sluggishness
-আলিশ,languor
 আশা,hope
+আস্থা,acceptance
+আস্থা,credence
 ইউনানসেপটিয়াম,ununseptium
 ইউনানহেক্সিয়াম,ununhexium
 ইউনুনকোয়াডিয়াম,ununquadium
@@ -253,16 +253,16 @@ Other,English
 ক্ষতিপূরণ,compensation for damage
 খনিজ তেল,petroleum
 খরেগাশ,rabbit
-গণতান্ত্রিক কঙ্গো প্রজাতন,Democratic Republic of the Congo
 গণতান্ত্রিক কঙ্গো প্রজাতন,Congo-Kinshasa
+গণতান্ত্রিক কঙ্গো প্রজাতন,Democratic Republic of the Congo
 গন্ধক,sulphur
 গরূ,cow
 গাম্বিয়া,Gambia
 গাম্বিয়া,Gambia
 গাম্বিয়া,Gambia
 গাম্বিয়া,Gambia
-গাম্বিয়া,The Gambia
 গাম্বিয়া,Republic of The Gambia
+গাম্বিয়া,The Gambia
 গীটার,guitar
 গ্যাডোলিনিয়াম,gadolinium
 গ্যাবন,Gabon
@@ -272,8 +272,8 @@ Other,English
 গ্রিক বর্ণমালা,Greek alphabet
 গ্রীস,Greece
 গ্রীস,Hellenic Republic
-গ্রেট বৃটেন,Great Britain
 গ্রেট বৃটেন,Britain
+গ্রেট বৃটেন,Great Britain
 চাদ,Chad
 চাদ,Republic of Chad
 চিলি,Chile
@@ -283,24 +283,24 @@ Other,English
 ছিপি,cork
 জন্ম দিন,birthday
 জর্জিয়া,Georgia
-জর্দান,Jordan
 জর্দান,Hashemite Kingdom of Jordan
+জর্দান,Jordan
 জল,water
 জলের প্রবাহ,flowing water
-জাকার্তা,Jakarta
-জাকার্তা,Djakarta
 জাকার্তা,DKI Jakarta
+জাকার্তা,Djakarta
+জাকার্তা,Jakarta
 জাপান,Japan
 জাপান,State of Japan
 জামাইকা,Jamaica
-জাম্বিয়া,Zambia
 জাম্বিয়া,Republic of Zambia
+জাম্বিয়া,Zambia
 জার্মেনিয়াম,germanium
-জাল,web
-জাল,spider web
 জাল,cobweb
-জিম্বাবুয়ে,Zimbabwe
+জাল,spider web
+জাল,web
 জিম্বাবুয়ে,Republic of Zimbabwe
+জিম্বাবুয়ে,Zimbabwe
 জিরাফ,giraffe
 জেনন,xenon
 জেবরা,zebra
@@ -310,6 +310,8 @@ Other,English
 টারবিয়াম,terbium
 টিন,tin
 টেকনেটিয়াম,technetium
+টেলিফোন,phone
+টেলিফোন,telephone
 টেলুরিয়াম,tellurium
 ট্যানটালাম,tantalum
 ট্রোফি,trophy
@@ -330,14 +332,13 @@ Other,English
 থ্যালিয়াম,thallium
 দক্ষিণ আফ্রিকা,South Africa
 দামী,valuable
-অমূল্য,valuable
 ধূমকেতু,comet
 নাইওবিয়াম,niobium
 নাইট্রোজেন,nitrogen
 নাক,nose
 নামিবিয়া,Namibia
-নারেকল,kokosnoot
 নারেকল,coconut
+নারেকল,kokosnoot
 নিওডিমিয়াম,neodymium
 নিকেল,nickel
 নিয়ন,neon
@@ -346,11 +347,12 @@ Other,English
 নোবেলিয়াম,nobelium
 নৌকা,boat
 পটাশিয়াম,potassium
-পাকিস্তান,Pakistan
 পাকিস্তান,Islamic Republic of Pakistan
-পাচনতন্ত্র,gastrointestinal tract
+পাকিস্তান,Pakistan
 পাচনতন্ত্র,alimentary canal
+পাচনতন্ত্র,gastrointestinal tract
 পারদ,mercury
+পিপীলিকা,ant
 পোলোনিয়াম,polonium
 প্যালাডিয়াম,palladium
 প্রমিথিয়াম,promethium
@@ -376,11 +378,10 @@ Other,English
 ফ্লুরিন,fluorine
 বই,book
 বড় েদাকান,supermarket
-মহাবাজার,supermarket
 বতসোয়ানা,Botswana
 বতসোয়ানা,Republic of Botswana
-বস্ত্র,clothing
 বস্ত্র,apparel
+বস্ত্র,clothing
 বাংলা,Bengali
 বাংলা,Bengali
 বাংলাদেশ,Bangladesh
@@ -389,6 +390,8 @@ Other,English
 বাজার,marketplace
 বাহরাইন,Bahrain
 বিছানা,bed
+বিশ্বাস,acceptance
+বিশ্বাস,credence
 বিসমাথ,bismuth
 বুরুন্ডি,Burundi
 বুরুন্ডি,Republic of Burundi
@@ -409,34 +412,35 @@ Other,English
 ভারত,Republic of India
 ভুটান,Bhutan
 ভুটান,Kingdom of Bhutan
-ভ্যাটিকান সিটি,Vatican City
-ভ্যাটিকান সিটি,The Holy See
 ভ্যাটিকান সিটি,State of the Vatican City
+ভ্যাটিকান সিটি,The Holy See
+ভ্যাটিকান সিটি,Vatican City
 ভ্যানাডিয়াম,vanadium
 মঙ্গলবার,Tuesday
 মন্টিনিগ্রো,Montenegro
-মরোক্কো,Morocco
 মরোক্কো,Kingdom of Morocco
+মরোক্কো,Morocco
 মলিবডেনাম,molybdenum
+মহাবাজার,supermarket
 মায়ানমার,Myanmar
 মালয়েশিয়া,Malaysia
-মুম্বাই,Mumbai
 মুম্বাই,Bombay
+মুম্বাই,Mumbai
 মৃগী,epilepsy
 মেইটনেরিয়াম,meitnerium
 মেন্ডেলেভিয়াম,mendelevium
-মৌরিতানিয়া,Mauritania
 মৌরিতানিয়া,Islamic Republic of Mauritania
+মৌরিতানিয়া,Mauritania
 মৌসুম,season
 ম্যাগনেসিয়াম,magnesium
 ম্যাঙ্গানিজ,manganese
 ম্যাসাচুসেট্‌স,Massachusetts
 যাদুঘর,museum
+যুক্তরাজ্য,UK
 যুক্তরাজ্য,United Kingdom
 যুক্তরাজ্য,United Kingdom of Great Britain and Northern Ireland
-যুক্তরাজ্য,UK
-যৌগিক পদার্থ,compound
 যৌগিক পদার্থ,chemical compound
+যৌগিক পদার্থ,compound
 রশ্মি বিচ্ছুরণ,radiation
 রশ্মি বিচ্ছুরণ,radiations
 রাদারফোর্ডিয়াম,rutherfordium
@@ -455,23 +459,23 @@ Other,English
 লরেনসিয়াম,lawrencium
 লিথিয়াম,lithium
 লিথোগ্রাফি,lithography
-লিবিয়া,Libya
 লিবিয়া,Great Socialist People's Libyan Arab Jamahiriya
+লিবিয়া,Libya
 লুটেটিয়াম,lutetium
 লোহা,iron
 ল্যান্থানাম,lanthanum
 শক্তি উৎপাদন,energy production
 শনশ্চর,Saturn
 শারীরবৃত্ত,physiology
-শুন,zero
 শুন,null
+শুন,zero
 শুশুক,dolphin
 শৃগাল,jackal
 শ্রীলঙ্কা,Sri Lanka
-সংকেতবিজ্ঞান,semiotics
 সংকেতবিজ্ঞান,semiology
-সংক্রামক ব্যাধি,infectious disease
+সংকেতবিজ্ঞান,semiotics
 সংক্রামক ব্যাধি,communicable diseases
+সংক্রামক ব্যাধি,infectious disease
 সমীকরণ,equation
 সাংস্কৃতিক ভাষাতত্ত্ব,philology
 সাইপ্রাস,Cyprus
@@ -488,15 +492,15 @@ Other,English
 সেলেনিয়াম,selenium
 সোডিয়াম,sodium
 সোনা,gold
-সৌদি আরব,Saudi Arabia
 সৌদি আরব,Kingdom of Saudi Arabia
+সৌদি আরব,Saudi Arabia
 স্ক্যানডিয়াম,scandium
 স্ট্রনশিয়াম,strontium
 স্পেন,Spain
 হংসী,goose
 হলমিয়াম,holmium
-হাঁপািন,asthma
 হাঁপানি,asthma
+হাঁপািন,asthma
 হাঁস,duck
 হাইড্রোজেন,hydrogen
 হাইতি,Haiti
@@ -509,9 +513,5 @@ Other,English
 হিলিয়াম,helium
 হ্যাফনিয়াম,hafnium
 িপপীিলকা,ant
-পিপীলিকা,ant
 েটিলেফান,phone
 েটিলেফান,telephone
-টেলিফোন,phone
-টেলিফোন,telephone
-bengali,english

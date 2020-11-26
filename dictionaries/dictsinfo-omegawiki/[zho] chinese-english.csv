@@ -1,7 +1,14 @@
 Other,English
 DDT,DDT
 DDT,dichloro-diphenyl-trichloroethane
+H5N1病毒,A(H5N1)
+H5N1病毒,H5N1
+H5N1病毒,Influenza A virus subtype H5N1
+H5N1禽流感,A(H5N1)
+H5N1禽流感,H5N1
+H5N1禽流感,Influenza A virus subtype H5N1
 ISO标准,ISO standard
+chinese,english
 一,one
 一月,January
 七月,July
@@ -17,11 +24,6 @@ ISO标准,ISO standard
 与,in addition to
 与,together with
 与,too
-和,and
-和,as well as
-和,in addition to
-和,together with
-和,too
 专名,name
 专名,proper name
 专名,proper noun
@@ -31,11 +33,10 @@ ISO标准,ISO standard
 世界语,Esperanto
 世界语,Esperanto
 东京,Tokyo
-東京,Tokyo
 丝,silk
 个人,individual
-中国,People's Republic of China
 中国,China
+中国,People's Republic of China
 丹麦,Denmark
 丹麦,Kingdom of Denmark
 丹麦语,Danish
@@ -43,8 +44,8 @@ ISO标准,ISO standard
 乌克兰语,Ukrainian
 乌尔都语,Urdu
 乌尔都语,Urdu
-乌干达,Uganda
 乌干达,Republic of Uganda
+乌干达,Uganda
 乍得,Chad
 乍得,Republic of Chad
 乐观主义,optimism
@@ -55,8 +56,8 @@ ISO标准,ISO standard
 乐观主义,optimism
 乐观主义,optimism
 九月,September
-也门,Yemen
 也门,Republic of Yemen
+也门,Yemen
 书,book
 买,buy
 买,purchase
@@ -66,13 +67,12 @@ ISO标准,ISO standard
 五月,May
 亚美尼亚语,Armenian
 京都,Kyoto
-人,person
 人,male
 人,man
 人,man
-人類,man
-智人,man
+人,person
 人类学,anthropology
+人類,man
 介系词,preposition
 介词,preposition
 以色列,Israel
@@ -85,7 +85,6 @@ ISO标准,ISO standard
 伊朗,Iran
 伊朗,Islamic Republic of Iran
 会,conference
-讲座,conference
 会议,conference
 伦敦,London
 佐治亚州,Georgia
@@ -106,19 +105,19 @@ ISO标准,ISO standard
 俳句,haiku
 做,do
 光化学氧化剂,photochemical oxidant
-克拉可夫,Krakow
 克拉可夫,Cracow
+克拉可夫,Krakow
 克罗地亚语,Croatian
 克罗地亚语,Croation
 兔,rabbit
 八,eight
 八月,August
-公民投票,referendum
 公民投票,plebiscite
+公民投票,referendum
 六月,June
 兰,orchid
-关节,joint
 关节,articulation
+关节,joint
 兽医,veterinarian
 兽医,veterinary
 内罗毕,Nairobi
@@ -126,10 +125,15 @@ ISO标准,ISO standard
 冈比亚,Gambia
 冈比亚,Gambia
 冈比亚,Gambia
-冈比亚,The Gambia
 冈比亚,Republic of The Gambia
+冈比亚,The Gambia
+再见,adieu
+再见,bye
+再见,cheerio
+再见,farewell
+再见,good day
+再见,goodbye
 写,write
-寫,write
 冠词,article
 冬,winter
 冰岛,Iceland
@@ -147,27 +151,27 @@ ISO标准,ISO standard
 加纳,Republic of Ghana
 加蓬,Gabon
 加蓬,Gabonese Republic
-加里西亞語,Galician
-加里西亞語,Galician
 加里西亚语,Galician
 加里西亚语,Galician
+加里西亞語,Galician
+加里西亞語,Galician
 动物,animal
 动脉,artery
-動脈,artery
 动词,verb
+動脈,artery
 匈牙利,Hungary
 匈牙利,Republic of Hungary
 匈牙利语,Hungarian
 匕,spoon
-化合物,compound
 化合物,chemical compound
-化学,chemistry
+化合物,compound
 化学,chemical
+化学,chemistry
 化学性质,chemical property
 北京,Beijing
 北京市,Beijing
-医院,hospital
 医院,clinic
+医院,hospital
 十一月,November
 十二月,December
 十月,October
@@ -180,8 +184,8 @@ ISO标准,ISO standard
 博茨瓦纳,Republic of Botswana
 卡纳达语,Kannada
 卡纳达语,Kannada
-卢森堡,Luxembourg
 卢森堡,Grand Duchy of Luxembourg
+卢森堡,Luxembourg
 卤素,element of group VII
 卤素,halogen
 印地语,Hindi
@@ -197,9 +201,9 @@ ISO标准,ISO standard
 古吉拉特语,Gujarati
 古巴,Cuba
 古巴,Republic of Cuba
-可行的,viable
-可行的,viable
 可行的,feasible
+可行的,viable
+可行的,viable
 史学史,historiography
 吃,consume
 吃,eat
@@ -208,12 +212,17 @@ ISO标准,ISO standard
 吉娃娃,chihuahua
 名词,noun
 名词,substantive
+后宫,harem
 吵架,argument
 吸尘器,vacuum cleaner
 吸血鬼,vampire
 周年,anniversary
 周年,birthday
-生日,birthday
+和,and
+和,as well as
+和,in addition to
+和,together with
+和,too
 咖啡,coffee
 哈博罗内,Gaborone
 哈萨克语,Kazakh
@@ -235,8 +244,8 @@ ISO标准,ISO standard
 圣皮埃尔和密克隆群岛,Saint-Pierre and Miquelon
 圣诞快乐,Merry Christmas
 圣诞节,Christmas
-埃及,Egypt
 埃及,Arab Republic of Egypt
+埃及,Egypt
 塔加洛语,Tagalog
 塔吉克斯坦,Tajikistan
 塞内加尔,Senegal
@@ -258,23 +267,21 @@ ISO标准,ISO standard
 天文学,astronomy
 太阳王,Sun King
 头,head
-首,head
 头子,head
 奥斯陆,Oslo
 女人,female
 女人,woman
+女儿,daughter
 女性,female
 女性,woman
-女儿,daughter
 妻妾,harem
-后宫,harem
 威尔士,Wales
 威尔士语,Welsh
 威尔士语,Welsh
 字母,alphabet
 字母,letter
-孟买,Mumbai
 孟买,Bombay
+孟买,Mumbai
 孟加拉语,Bengali
 孟加拉语,Bengali
 季節,season
@@ -285,6 +292,7 @@ ISO标准,ISO standard
 安德尔省,Indre
 官方语言,official language
 富士山,Mount Fuji
+寫,write
 小说,novel
 尼加拉瓜,Nicaragua
 尼泊尔语,Nepali
@@ -294,8 +302,8 @@ ISO标准,ISO standard
 岛,isle
 巴伐利亚,Bavaria
 巴伐利亞,Bavaria
-巴基斯坦,Pakistan
 巴基斯坦,Islamic Republic of Pakistan
+巴基斯坦,Pakistan
 巴斯克语,Basque
 巴斯克语,Basque
 巴林,Bahrain
@@ -308,10 +316,8 @@ ISO标准,ISO standard
 希腊,Hellenic Republic
 希腊语,Greek
 希腊语,Greek
-现代希腊语,Greek
-现代希腊语,Greek
-库页岛,Sakhalin
 库页岛,Saghalien
+库页岛,Sakhalin
 建筑师,architect
 弗莱福兰省,Flevoland
 形容词,adjective
@@ -322,18 +328,14 @@ ISO标准,ISO standard
 德意志民主共和国,German Democratic Republic
 德意志民主共和國,GDR
 德意志民主共和國,German Democratic Republic
-民主德国,GDR
-民主德国,German Democratic Republic
-民主德國,GDR
-民主德國,German Democratic Republic
 德语,German
 忮,aggressive
 意大利,Italian Republic
 意大利,Italy
 意大利语,Italian
 意大利语,Italian
-感谢,thank you
 感谢,appreciate
+感谢,thank you
 慕尼黑,Munich
 慢,slow
 我,I
@@ -349,8 +351,8 @@ ISO标准,ISO standard
 拍卖,auction
 拿坡里语,Neapolitan
 拿坡里语,Neapolitan
-挪威,Norway
 挪威,Kingdom of Norway
+挪威,Norway
 挪威语,Norwegian
 捐赠,donation
 捷克,Czech Republic
@@ -372,18 +374,18 @@ ISO标准,ISO standard
 新年快乐,Happy New Year
 新词,neologism
 新陈代谢,metabolism
-旁遮普语,Punjabi
 旁遮普语,Panjabi
+旁遮普语,Punjabi
 旅游业,tourism
 无政府状态,anarchy
 无机化学,inorganic chemistry
 无神论者,atheist
 日本,Japan
 日本,State of Japan
-日本國,Japan
-日本國,State of Japan
 日本国,Japan
 日本国,State of Japan
+日本國,Japan
+日本國,State of Japan
 日语,Japanese
 日语,Japanese
 星,star
@@ -403,19 +405,11 @@ ISO标准,ISO standard
 晚安,farewell
 晚安,good day
 晚安,goodbye
-再见,adieu
-再见,bye
-再见,cheerio
-再见,farewell
-再见,good day
-再见,goodbye
-普通话,mandarin
 普通话,Mandarin
 普通话,Standard Mandarin
-现代标准汉语,mandarin
-现代标准汉语,Mandarin
-现代标准汉语,Standard Mandarin
+普通话,mandarin
 晶体,crystal
+智人,man
 智利,Chile
 智利,Republic of Chile
 月,month
@@ -425,10 +419,11 @@ ISO标准,ISO standard
 朝鲜语,Korean
 朝鲜语,Korean
 来,come
+東京,Tokyo
 東南亞國協,ASEAN
 東南亞國協,Association of Southeast Asian Nations
-林堡语,Limburgish
 林堡语,Limburgian
+林堡语,Limburgish
 柏林,Berlin
 柔道,judo
 柠檬,lemon
@@ -444,26 +439,25 @@ ISO标准,ISO standard
 棒球,baseball
 棒球,baseball game
 森林,forest
+楚瓦什语,Chavash
+楚瓦什语,Chovash
+楚瓦什语,Chttash
 楚瓦什语,Chuvash
 楚瓦什语,Chuvash
 楚瓦什语,Chuwash
-楚瓦什语,Chovash
-楚瓦什语,Chavash
-楚瓦什语,Chttash
-步行街,pedestrian zone
-步行街,pedestrian area
-步行街,car-free zone
 步行街,auto-free zone
+步行街,car-free zone
+步行街,pedestrian area
+步行街,pedestrian zone
 步行街,pedestrianised zone
-行人专区,pedestrian zone
-行人专区,pedestrian area
-行人专区,car-free zone
-行人专区,auto-free zone
-行人专区,pedestrianised zone
 殖民地,colony
 比利时,Belgium
 比利时,Kingdom of Belgium
 毛利语,Maori
+民主德国,GDR
+民主德国,German Democratic Republic
+民主德國,GDR
+民主德國,German Democratic Republic
 气 压 计,barometer
 气压计,barometer
 氖,neon
@@ -477,9 +471,8 @@ ISO标准,ISO standard
 水星,Mercury
 水资源保护法,water protection legislation
 汉诺威,Hanover
-漢諾威,Hanover
-汽车,car
 汽车,automobile
+汽车,car
 法国,France
 法国大革命,French Revolution
 法国的,Frenchman
@@ -489,12 +482,12 @@ ISO标准,ISO standard
 波兰语,Polish
 波兰语,Polish
 波恩,Bonn
-波昂,Bonn
 波斯尼亚语,Bosnian
 波斯尼亚语,Bosnian
+波斯语,Farsi
 波斯语,Persian
 波斯语,Western Farsi
-波斯语,Farsi
+波昂,Bonn
 泰卢固语,Telugu
 泰卢固语,Telugu
 泰米尔语,Tamil
@@ -510,12 +503,13 @@ ISO标准,ISO standard
 海王星,Neptune
 海豚,dolphin
 海鸥,gull
+消防员,fire fighter
+消防员,fire-eater
 消防员,firefighter
 消防员,fireman
 消防员,firewoman
-消防员,fire fighter
-消防员,fire-eater
 溶剂,solvent
+漢諾威,Hanover
 烟花,firework
 热分解,pyrolysis
 热力学,thermodynamics
@@ -524,8 +518,8 @@ ISO标准,ISO standard
 爱尔兰,Republic of Ireland
 爱尔兰语,Irish
 爱尔兰语,Irish
-爱尔兰语,Irish Gaelic
 爱尔兰语,Irish
+爱尔兰语,Irish Gaelic
 爱沙尼亚,Estonia
 爱沙尼亚,Republic of Estonia
 爱沙尼亚语,Estonian
@@ -540,25 +534,25 @@ ISO标准,ISO standard
 玉,jade
 王子,prince
 玫瑰花,rose
+现代希腊语,Greek
+现代希腊语,Greek
+现代标准汉语,Mandarin
+现代标准汉语,Standard Mandarin
+现代标准汉语,mandarin
 玻利维亚,Bolivia
 玻利维亚,Republic of Bolivia
 瑞典,Sweden
 瑞典语,Swedish
 瑞士,Switzerland
-瓦利斯及富圖納群島,Wallis and Futuna
 瓦利斯及富圖納群島,Territory of the Wallis and Futuna Islands
+瓦利斯及富圖納群島,Wallis and Futuna
+生日,birthday
 生物,organism
-生物学,biology
 生物学,biological science
+生物学,biology
+甲型流感病毒H5N1亚型,A(H5N1)
 甲型流感病毒H5N1亚型,H5N1
 甲型流感病毒H5N1亚型,Influenza A virus subtype H5N1
-甲型流感病毒H5N1亚型,A(H5N1)
-H5N1病毒,H5N1
-H5N1病毒,Influenza A virus subtype H5N1
-H5N1病毒,A(H5N1)
-H5N1禽流感,H5N1
-H5N1禽流感,Influenza A virus subtype H5N1
-H5N1禽流感,A(H5N1)
 电脑,computer
 病毒,virus
 登革热,dengue fever
@@ -581,13 +575,13 @@ H5N1禽流感,A(H5N1)
 硫,sulphur
 硼,boron
 碱,base
-碱土金属,element of group II (alkaline earth metals)
 碱土金属,alkaline earth metal
 碱土金属,element of group II
-碱金属,alkaline
-碱金属,element of group I
-碱金属,alkaline metal
+碱土金属,element of group II (alkaline earth metals)
 碱金属,alkali metal
+碱金属,alkaline
+碱金属,alkaline metal
+碱金属,element of group I
 社会语言学,sociolinguistics
 社会语言学,sociology of language
 祖鲁语,Zulu
@@ -597,9 +591,10 @@ H5N1禽流感,A(H5N1)
 稀有气体,element of group 0
 稀有气体,noble gas
 稻,rice
+稻米,rice
 空气,air
-窗户,window
 窗仔门,window
+窗户,window
 立陶宛,Lithuania
 立陶宛,Republic of Lithuania
 立陶宛语,Lithuanian
@@ -609,12 +604,11 @@ H5N1禽流感,A(H5N1)
 篮球,basketball
 篮球,basketball game
 米,rice
-稻米,rice
 类金属,semi-metal
 索契,Sochi
 紫水晶,amethyst
-约旦,Jordan
 约旦,Hashemite Kingdom of Jordan
+约旦,Jordan
 纳米比亚,Namibia
 细胞,cell
 细胞,cell
@@ -624,8 +618,8 @@ H5N1禽流感,A(H5N1)
 网球,tennis
 罗马,Rome
 罗马尼亚,Romania
-罗马尼亚语,Romanian
 罗马尼亚语,Romanaian
+罗马尼亚语,Romanian
 置换,replacement
 美国式足球,American football
 美国式足球,American football
@@ -633,22 +627,22 @@ H5N1禽流感,A(H5N1)
 老挝语,Lao
 老挝语,Lao
 耳,ear
+肾,kidney
 胆固醇,cholesterol
 胆汁,bile
 脑炎,encephalitis
 脚,foot
 脭颅脳脫,atom
 腎,kidney
-肾,kidney
 腹泻,diarrhea
 自杀,suicide
 艾菲爾鐵塔,Eiffel Tower
 芬兰,Finland
 芬兰,Republic of Finland
 芬兰语,Finnish
-花,flower
 花,bloom
 花,blossom
+花,flower
 花栗鼠,chipmunk
 苍颅,bismuth
 苏丹,Sudan
@@ -660,8 +654,8 @@ H5N1禽流感,A(H5N1)
 荷兰,Kingdom of the Netherlands
 荷兰,The Netherlands
 荷兰语,Dutch
-莱索托,Lesotho
 莱索托,Kingdom of Lesotho
+莱索托,Lesotho
 萵苣,lettuce
 葡萄园,vineyard
 葡萄牙,Portugal
@@ -672,11 +666,16 @@ H5N1禽流感,A(H5N1)
 薩丕爾-沃夫假說,Sapir–Whorf hypothesis
 虎,tiger
 蚂蚁,ant
-蛋白质,protein
 蛋白质,poly peptide
+蛋白质,protein
 蜂蜜,honey
 蜘蛛网,cobweb
 蝴蝶,butterfly
+行人专区,auto-free zone
+行人专区,car-free zone
+行人专区,pedestrian area
+行人专区,pedestrian zone
+行人专区,pedestrianised zone
 行星,planet
 西班牙,Spain
 西班牙语,Castilian
@@ -685,18 +684,19 @@ H5N1禽流感,A(H5N1)
 西西里语,Sicilian
 西西里语,Sicilian
 记者,journalist
+讲座,conference
 设施,facility
 词,word
 译员,interpreter
-谚语,proverb
-谚语,saying
-谚语,maxim
-谢谢,cheers
-谢谢,thank you
-谢谢,thanks
 请,cheers
 请,thank you
 请,thanks
+谚语,maxim
+谚语,proverb
+谚语,saying
+谢谢,cheers
+谢谢,thank you
+谢谢,thanks
 贝尔格莱德,Belgrade
 货币,currency
 越南语,Vietnamese
@@ -709,8 +709,8 @@ H5N1禽流感,A(H5N1)
 过渡金属,transition element
 过渡金属,transition metal
 过滤,filtration
-迷你裙,miniskirt
 迷你裙,mini-skirt
+迷你裙,miniskirt
 那不勒斯,Naples
 都柏林,Dublin
 酸,acid
@@ -736,13 +736,14 @@ H5N1禽流感,A(H5N1)
 钢琴,pianoforte
 钷,promethium
 铝,aluminium
-银河系,Milky Way
 银河系,Galaxy
+银河系,Milky Way
 锂,lithium
 锌,zinc
 锕系元素,actinide
 键盘,keyboard
 镥,lutetium
+长笛,flute
 长颈鹿,giraffe
 門,door
 门,door
@@ -751,8 +752,8 @@ H5N1禽流感,A(H5N1)
 阿塞拜疆,Azerbaijan
 阿塞拜疆,Republic of Azerbaijan
 阿塞拜疆语,Azerbaijani
-阿塞拜疆语,Azeri
 阿塞拜疆语,Azerbaijani Cluster
+阿塞拜疆语,Azeri
 阿姆斯特丹,Amsterdam
 阿尔及利亚,Algeria
 阿尔及利亚,People's Democratic Republic of Algeria
@@ -763,10 +764,10 @@ H5N1禽流感,A(H5N1)
 阿拉伯语,Standard Arabic
 阿拉贡语,Aragonese
 阿拉贡语,Aragonese
+阿斯图里亚斯语,Astur
 阿斯图里亚斯语,Astur-Leonese
 阿斯图里亚斯语,Asturian
 阿斯图里亚斯语,Asturian-Leonese
-阿斯图里亚斯语,Astur
 阿根廷,Argentina
 阿根廷,Argentine Republic
 阿法尔语,Afar
@@ -774,37 +775,38 @@ H5N1禽流感,A(H5N1)
 阿萨姆语,Assamese
 阿萨姆语,Assamese
 雅典,Athens
-雅加达,Jakarta
-雅加达,Djakarta
 雅加达,DKI Jakarta
+雅加达,Djakarta
+雅加达,Jakarta
 雨,rain
-零,zero
 零,null
+零,zero
 雷声,thunder
 霧,fog
-非金屬,non-metal
 非金属,non-metal
 非金属元素,non-metal
+非金屬,non-metal
 韵母,vowel
 预算政策,budget policy
 颕,actinium
 颪,hafnium
+首,head
 首都,capital
 馬提尼克,Martinique
-马 尔 可 夫 链,Markov chain
 马 尔 可 夫 链,Markoff chain
-马尔可夫链,Markov chain
-马尔可夫链,Markoff chain
+马 尔 可 夫 链,Markov chain
 马其顿,Macedonia
 马其顿,Republic of Macedonia
 马其顿语,Macedonian
 马其顿语,Macedonian
+马尔可夫链,Markoff chain
+马尔可夫链,Markov chain
 马拉亚拉姆语,Malayalam
 马拉亚拉姆语,Malayalam
 马拉提语,Marathi
-马拉提语,Marāthi
-马拉提语,Marāthi
 马拉提语,MarÄthi
+马拉提语,Marāthi
+马拉提语,Marāthi
 马耳他,Malta
 马耳他,Republic of Malta
 马耳他语,Maltese
@@ -812,14 +814,14 @@ H5N1禽流感,A(H5N1)
 马达加斯加,Republic of Madagascar
 高尔夫球,golf
 鱼,fish
-鳟鱼,trout
 鳟,trout
+鳟鱼,trout
 鳥,bird
-鸟,bird
 鴨,duck
+鸟,bird
 鸭,duck
-鸽子,pigeon
 鸽子,dove
+鸽子,pigeon
 鹅,goose
 鹦鹉,parrot
 麥加,Mecca
@@ -829,5 +831,3 @@ H5N1禽流感,A(H5N1)
 黄蜂,wasp
 鼠标,mouse
 龠,flute
-长笛,flute
-chinese,english

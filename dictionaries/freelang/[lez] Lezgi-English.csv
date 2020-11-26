@@ -1,7 +1,8 @@
 Other,English
 'äl,sheaves ready for threshing
--0,nominative
+(obl. stem) + 0,ergative
 -0,"essive, imperative"
+-0,nominative
 -ac,denominative suffix
 -aj,elative
 -ak,denominative suffix
@@ -31,15 +32,15 @@ Other,English
 -l,series Super
 -la,temporal gerund
 -mir,a prohibitive particle
--n,"suffix of abstract nouns, masdar"
 -n,genitive
+-n,"suffix of abstract nouns, masdar"
 -na,perfect
 -naj,past perfect
 -ni-,oblative stem
 -q,suffix of a locative case
 -q-an,suffix of profession
--r,suffix of deverbal nouns
 -r,past participle
+-r,suffix of deverbal nouns
 -ra-,obl. stem
 -re-,obl. stem
 -ta,conditional
@@ -49,14 +50,17 @@ Other,English
 -vi,man
 -wal,denominative nominal
 -z,infinitive
-(obl. stem) + 0,ergative
+Allah,God
+Allahdi req gajit'a,if God gives way
+Rura,pus
+Rüch,moth
 [jaz,being
 a,"that, demonstrative pronoun"
-a-m,demonstrative pronoun
-a-ta,that
 a ch'avuz,at that time
 a kas,that person
 a vaxtunda,at that time
+a-m,demonstrative pronoun
+a-ta,that
 abad,prosperous
 abi,"blue light, blue"
 abur,decency
@@ -143,8 +147,6 @@ alcurarun,to deceive
 aldatmishun,to deceive
 alim,scholar
 alk'un,sticks to
-Allah,God
-Allahdi req gajit'a,if God gives way
 alt'ushun,to gather
 altadun,strokes with
 altun,gold
@@ -287,11 +289,11 @@ bilbil,nightingale
 bine,foundation
 birdan,suddenly
 bishi,deaf
-biši,deaf
 bizar xhun,to be fed up
 bizarun,to bore
 bizh,illegitimate child
 bizhre,illegitimate child
+biši,deaf
 buba,father
 buffalo,gamish
 bugh,steam
@@ -305,14 +307,14 @@ bul,abundant
 bulax,source
 bulut,cloud
 buran,pumpkin
-bürqü,secretion in the eye
 burzh,debt
 burzhuni,debt
 bush,empty
 bustan,garden
-büt-rük,grub
 byrq'y,blind
 bywel,swelling
+bürqü,secretion in the eye
+büt-rük,grub
 c'a,fire
 c'aj,"fever, fire"
 c'ajar,fire
@@ -334,21 +336,20 @@ c'urunana,to melt
 c'urur,to melt
 c'wel,temple
 c-uq-,to sew
-c:a-,to pour into
 c:a-,to plough
+c:a-,to pour into
 c:av,sky
 c:az,prick
 c:e,give
 c:egw,ant
 c:emc:er,mulberry
 c:if,cloud
+c:ur,"glazed frost, cattle-shed"
+c:war,urine
 c:ük,millet
 c:ül,sheaf
 c:ülez,spleen
-c:ur,"glazed frost, cattle-shed"
 c:ür,cattle-shed
-ç:uru,beard
-c:war,urine
 cacuni,thorn
 caj,fire
 cajlapan,lightning
@@ -438,8 +439,8 @@ chat,bread
 chaw,time
 chaxchax,gristle
 chaz,we
-cheb,themselves
 cheb,clay
+cheb,themselves
 chekme,boot
 chem,butter
 chemer-uk,bow
@@ -447,8 +448,8 @@ chenedin qhil,chin
 chenk-er,trap
 chepedi,clay
 chepeluqh,butterfly
-chere,vine
 chere,eaves
+chere,vine
 cheshme,spring
 cheshne,specimen
 chetin,difficult
@@ -488,18 +489,16 @@ chrana,to bake
 chraz,to bake
 chuban,shepherd
 chubaruk,swallow
-chüdrü,mint
 chuk'ul,knife
 chuk'un,to dissolve
 chukul,knife
 chukurun,to chase
-chul,leather strip
 chul,ceiling beam
+chul,leather strip
 chulaw,black
 chumal,Cornelian cherry
 chun,we
 chuplax,naked
-chüqwe-,rumple
 chur,pasture
 churchul,lizard
 churu,beard
@@ -507,7 +506,6 @@ churun,to bake
 chut,flea
 chux,"burning, urine"
 chux,urine
-chüxü-,to wash
 chuxun,to scratch
 chuxvana,to scratch
 chuxvaz,to scratch
@@ -525,6 +523,9 @@ chyxvena,to wash
 chyxver,pear
 chyxyn,to wash
 chyxynyz,to wash
+chüdrü,mint
+chüqwe-,rumple
+chüxü-,to wash
 ci,water
 cic,grasshopper
 cic'ib,chicken
@@ -549,7 +550,6 @@ cu-d,ten
 cuc,spout of a tea-pot
 cucul,marten
 cuk,fire-brand
-cük,flower
 cum,shin-bone
 cun,to sew
 cun,to strew
@@ -574,6 +574,7 @@ cyk'yn,saliva
 cykedi,flower
 cykver,flower
 cyryxym,soursweet
+cük,flower
 daban,heel
 dad,taste
 daduni,taste
@@ -595,7 +596,6 @@ dar,narrow
 darix,bored
 darman,medicine
 davamarun,to continue to
-däve,war
 dax,"brother, dad, father"
 daxa,brother
 daxdi,dad
@@ -624,12 +624,9 @@ dinzh,comfortable
 diqet,attention
 diri,lively
 dishehli,woman
-düa,prayer
-düd-ghwer,butter
-düd-ghwer,butter
 dughri,reliable
-dugun,valley
 dugun,"to be beautiful, valley"
+dugun,valley
 duguna,valley
 dugunar,valley
 duguni,valley
@@ -647,6 +644,10 @@ dynja,world
 dyshysh,coincidence
 dyz,exactly
 dzul,autumn
+däve,war
+düa,prayer
+düd-ghwer,butter
+düd-ghwer,butter
 ec:-ig-,to put
 ecaeghun,to push
 ech',waist
@@ -703,8 +704,8 @@ erch'i,right-hand
 erchi,right
 ereq',vodka
 erkek,"male, man"
-erž,mark
 erzh,scar
+erž,mark
 eser,impression
 esillah,at all
 eski,old of things
@@ -714,8 +715,8 @@ ever,appeal
 evez avun,to replace
 evich'un,to get off
 evlenmishun,to marry off
-exh,yes
 exIä-d,harrow
+exh,yes
 exir,after all
 exirimzhi,last
 exirni,finally
@@ -835,8 +836,8 @@ ghec,young goat
 gheci,sledge
 ghed,"fish, star"
 ghejrat,dignity
-ghejri,beside
 ghejri,alien
+ghejri,beside
 ghel,"sledge, sleigh"
 ghelerar,sledge
 ghen,yard
@@ -853,10 +854,8 @@ ghucari,god
 ghud,fist
 ghugh awun,to grumble
 ghul,wicker sledge body
-ghül,husband
 ghun,to bring
 ghura,pus
-ghürch,hunting
 ghutu,fist
 ghvar,leaven
 ghvarci,leaven
@@ -877,7 +876,8 @@ ghyrche,hunting
 ghyrcheqhan,hunter
 ghyrghy,weak
 ghyry,flour
-giç:in,small earthenware jug
+ghül,husband
+ghürch,hunting
 gichin,jug
 gila,now
 giligun,to connect
@@ -888,14 +888,13 @@ gimish,silver
 gin,front hem of a garment
 giraw,rennet
 gishin,hungry
-gišinval,hunger
 git,boiled wheat
 gizhi avun,to deafen
+giç:in,small earthenware jug
+gišinval,hunger
 gu-,give
-gü-,to reap
 guja,as if
 gul,pole
-gül,flower
 gum,smoke
 gumadi,smoke
 gumrah,cheerful
@@ -905,10 +904,8 @@ gung,tube
 gur-ar,ladder
 gurar,stairs
 gurc'ul,puppy
-gürc:el,door-jamb
 gurcul,puppy
 gurd,stump
-gütü,narrow
 guz,to give
 guzh,strength
 guzha,strength
@@ -937,6 +934,10 @@ gyzel,beautiful
 gyzetun,to wait for
 gyzgy,mirror
 gzaf,much
+gü-,to reap
+gül,flower
+gürc:el,door-jamb
+gütü,narrow
 ha,oh!
 ha,"that, a deictic emphatic stem"
 haed jugh,Sunday
@@ -973,7 +974,6 @@ harajun,to scream
 haram,forbidden
 harf,"letter of alphabet, letter (alphabet)"
 harfuni,letter of alphabet
-härqü,wide
 hasaetda,immediately
 hatta,even
 hatun,to get
@@ -1004,7 +1004,6 @@ hiss,feeling
 hissdi,feeling
 hucar,god
 hukumat,government
-hül,sea
 huldan,steel
 huzhum,attack
 hyl,sea
@@ -1015,6 +1014,8 @@ hyrmet,esteem
 hyrs,irritation
 hyrsyni,irritation
 hyzhet,quarrel
+härqü,wide
+hül,sea
 i,"this, demonstrative pronoun"
 i-m,demonstrative pronoun
 i-vi,blood
@@ -1083,7 +1084,6 @@ irid,seven
 irs,inheritance
 irsini,inheritance
 isaetda,now
-iše xun,to weep
 ishara,sign
 ishel,crying
 isheli,crying
@@ -1105,12 +1105,13 @@ ixtibar,confidence
 ixtijar,permission
 ixtilat,conversation
 izin,permission
+iše xun,to weep
 ja,"to be, is, are, or, vocative particle 'hey!'"
 ja',mother
 jab,ear
 jab akalun,listens to
-jac,"trunk, bull"
 jac,"ox, bull"
+jac,"trunk, bull"
 jac'u,fat
 jacra,bull
 jad,water
@@ -1185,8 +1186,8 @@ jolka,fir
 jug,threshing
 jugh,day
 juk,cubit
-juldaš,friend
 juldash,spouse
+juldaš,friend
 juq,waist
 juq',"loin, middle"
 juq'va,middle
@@ -1212,8 +1213,8 @@ k'an xhunna,it's necessary to
 k'anch',block
 k'anch'uni,block
 k'aner,bottom
-k'ani,desirable
 k'ani,bottom
+k'ani,desirable
 k'anik,under
 k'anikaj,from under
 k'ap'al,crowd
@@ -1275,8 +1276,8 @@ k'wel,temple
 k'yd,nine
 k-is-,to be silent
 k-su-,to sleep
-k-ük-ün-,burn
 k-utun-,bind
+k-ük-ün-,burn
 k:ac,cat
 k:ac:a,hoe
 k:aci-,cat
@@ -1293,18 +1294,17 @@ k:ug,pumpkin
 k:uk:u,fried egg
 k:uk:up,cuckoo
 k:ul,besom
-k:ül,sheaf
-k:üleg,lock
 k:uni,bee
-k:ünü,whetstone
 k:ur,basin
-k:ürü,short
 k:wa xun,to itch
 k:wan,bag of a hunter
 k:war,a big jar
 k:warg,spine
+k:ül,sheaf
+k:üleg,lock
+k:ünü,whetstone
+k:ürü,short
 kac,"button, cat"
-kaç,bitch
 kacer,cat
 kach,bitch
 kaci,cat
@@ -1324,26 +1324,27 @@ kamal,intelligence
 kamuni,step
 kan,"dandruff, bottom"
 kan xun,to want
-kanç,stump
 kant,big knife
+kanç,stump
 kap,"prayer, palm of the hand"
 kapal,group
 kapaš,hand
 kapu,palm of the hand
 kar,"rolling pin, thing"
 karab,bone
-karç,horn
 karch,horn
 kard,falcon
 kardi,thing
 kartuf,potato
 kartufar,potato
+karç,horn
 kas,"person, human being"
-kaš,hammer
 kash,hunger
 kasun,to bite
 katra,falcon
 katun,to run
+kaç,bitch
+kaš,hammer
 kcha,bitch
 kcheh,brain
 kcheh,"skull, brain"
@@ -1367,7 +1368,6 @@ kfadi,foam
 kfar,foam
 ki-lig-,to look
 kic,dog
-kiç,fright
 kic',dog
 kich,fear
 kich'e,afraid
@@ -1380,8 +1380,8 @@ kilfet,family
 kiligna,in view of
 kiligun,to look at
 kim,village square
-kimi,village square
 kimi,insufficient
+kimi,village square
 kir,hook
 kirs,crooked
 kise,purse
@@ -1390,6 +1390,7 @@ kisun,to be silent
 kit'iz,to rot
 kitkiz,to get used to
 kixel,scraper
+kiç,fright
 kk'ana,to stick to
 kk-lam,tick
 kkal,small stone
@@ -1410,8 +1411,6 @@ ktab,book
 ktadun,to mix
 ktkana,to get used to
 kty-r,scoop
-kü-d,nine
-kü-n,you (plural)
 kuc,appearance
 kuchukun,to bury
 kud,basket for hay
@@ -1428,16 +1427,15 @@ kukra,worm
 kukvar,worm
 kul,"branch, toe, bush, whisk"
 kulak,wind
-küleg,key
-kuluni,whisk
 kuluni,bush
+kuluni,whisk
 kun,"wedge, to burn"
 kunana,to burn
 kunc,bundle
-kunç,bunch
 kunt,hillock
 kunuk,ankle
 kunuz,to burn
+kunç,bunch
 kup,dried and pressed dung
 kur,hoof
 kurkur,blister
@@ -1445,7 +1443,6 @@ kushkush,whisper
 kut'un,to rot
 kut'unun,to attach
 kuta,hammer
-küten,plough
 kutkuk,to get used to
 kutkun,to get used to
 kutkuniz,gets used to
@@ -1463,11 +1460,11 @@ kvatun,wake up
 kvaxhun,to disappear
 kvaz,even
 kvech,what?
-kwaç,leg
 kwak,worm
 kwar,raven
 kwarkwalag,woodpecker
 kwat,clew
+kwaç,leg
 kwe-zer,gall
 kxhin,to write
 kxhinena,to write
@@ -1485,6 +1482,10 @@ kyry,short
 kytaeghun,to finish
 kyten,plow
 kyvuch,what?
+kü-d,nine
+kü-n,you (plural)
+küleg,key
+küten,plough
 labar,anchor
 lac:u,white
 lacadi,china clay
@@ -1541,24 +1542,24 @@ luhuz,to say
 luj,clay for plastering walls
 luk',slave
 luk'ra,slave
-lükün-,to speak
-lütkve,boat
 luv,wing
 luva,wing
 luw,wing
 luw; lyw,wing
 lux,to a large extent
 luž,flock
-lyç,heifer
 lys,sorrel
 lytkve,boat
 lyw,wing
+lyç,heifer
+lükün-,to speak
+lütkve,boat
+maR,tale
 mad,still
 madni,more
 maeden,mine
 maehkem,strong
 maehtel,wonderful
-mähle,street
 mahrum avun,to deprive
 mahsul,crop
 majdan,place
@@ -1581,16 +1582,15 @@ maq'am,melody
 maq:u-n t:ar,alder-tree
 maqala,article
 mar,ploughshare
-maR,tale
+marRal,snow-drift
+marRw,stripe of mown grass
 marc:-ar,bird-cherry
-marçil,pebble
 marf,rain
 marfadi,rain
 markuni,stack of hay
 markv,stack of hay
-marRal,snow-drift
-marRw,stripe of mown grass
 marvard cük,rose
+marçil,pebble
 mas,price
 masa,other
 masa gun,to sell
@@ -1605,6 +1605,7 @@ maxuni,fairy tale
 mazhal,time
 mazhbur,obliged
 mažw,a k. of thorny grass
+meRw,oak-tree
 meci,tongue
 med,syrup
 meft,brain
@@ -1628,7 +1629,6 @@ merdimazar,harmful
 mere,blackberry
 merhemet,leniency
 merteba,storey
-meRw,oak-tree
 mes,bed
 mes'ela,question
 mesela,for example
@@ -1640,9 +1640,7 @@ met'i,knee
 metleb,wish
 mez,tongue
 mezhlis,parliament
-miç:-ar,edible herbs
 mich'i,dark
-miçi,dark
 milajim,gentle
 millet,people
 minara,tower
@@ -1657,10 +1655,11 @@ misk'al,riddle
 misk'in,mosque
 mixek,brown
 mixhi,clean
+miç:-ar,edible herbs
+miçi,dark
 muallim,teacher
 mubarak,congratulation
 mug,nest
-mügh,bridge
 mugka,nest
 muhman,guest
 muk'rat',scissors
@@ -1678,12 +1677,10 @@ muq'val-muq'val,often
 muq'vara,soon
 muqajat,careful
 muqu-w,near
-mür,bridge
 murad,purpose
 murdar,unclean
 murk,ice
 murk'adi,ice
-mürq,rust
 murs,mould
 murt,corner
 murz,blade
@@ -1693,7 +1690,6 @@ musurman,Muslim
 mut'laq',stingy
 mux,barley
 muxa,barley
-müžü-d,eight
 muzyka,music
 mygh,bridge
 myhtezh,need
@@ -1708,7 +1704,13 @@ myt'ygh,obedient to
 myxc,barn
 myxcy,barn
 myzhyd,eight
+mähle,street
+mügh,bridge
+mür,bridge
+mürq,rust
+müžü-d,eight
 na luhudi,as if
+naRw,"chaff, tear"
 nabat,sugar
 nabut,disabled
 nac,cane
@@ -1721,7 +1723,6 @@ nahaq',in vain
 nahaq'a,in vain
 namazh,prayer
 namus,honor
-näni,evening
 naq',yesterday
 naq'v,earth
 naq'vadi,earth
@@ -1729,7 +1730,6 @@ naqvadi,tear
 naqw,earth
 narar,nostrils
 narazi,dissatisfied
-naRw,"chaff, tear"
 nasu,cheese
 naxut',pea
 nazik,weak
@@ -1766,12 +1766,13 @@ nizam,order
 nomer,number
 nubat,order
 nughat,dialect
-nük,sparrow
 numer,number
 nur,light
 nurdi,light
 nyk',small bird
 nyk're,small bird
+näni,evening
+nük,sparrow
 ostrov,island
 p'ah,kiss
 p'ah gun,to kiss
@@ -1796,8 +1797,8 @@ p:el,forehead
 p:ep:e,beetle
 p:eq,crow
 p:eš,leaf
-p:iç,navel
 p:ik,cylindrical wooden vessel
+p:iç,navel
 p:u-d,three
 p:yx,faeces
 pab,wife
@@ -1932,8 +1933,8 @@ q'ile tuxun,to carry out
 q'ili,head
 q'iliv,near
 q'iliz aqudun,to fulfill
-q'in,vow
 q'in,to die
+q'in,vow
 q'ine,vow
 q'isa,legend
 q'isas,revenge
@@ -1951,7 +1952,6 @@ q'urun,to become dry
 q'urunana,to become dry
 q'urunaz,to become dry
 q'ushun,army
-q'üzhü,old
 q'van,as much as
 q'vanni,at least
 q've seferda,twice
@@ -1972,9 +1972,11 @@ q'ynty,elbow
 q'yxver,groin
 q'yxy,groin
 q'yzy,old
+q'üzhü,old
 q:-achu-,to take
 q:-arsa-,to tremble
 q:-exün-,to quarrel
+q:Iäc,pincers
 q:a-d,twenty
 q:ac:u,green
 q:al,noise
@@ -1987,25 +1989,23 @@ q:en,intestines
 q:eni,pregnant
 q:er,the inner side of the thigh
 q:ew,tuber
-q:Iäc,pincers
 q:ib,frog
 q:ibriš,gooseberry
 q:ul,hearth
-q:ül,wheat
-q:ün,shoulder
 q:unt,mound
 q:uq:rum,thunder
 q:ur,stalk
-q:ür,hare
 q:wa-z,to rain
 q:wal,side
 q:wan,stone
 q:we-,to come
+q:ül,wheat
+q:ün,shoulder
+q:ür,hare
 qa-,to take
 qab,vessel
 qaban,wild-boar
 qac,notch
-qaç,"stem, grass"
 qachu,to take
 qachun,to take
 qachuna,to take
@@ -2058,6 +2058,7 @@ qazanmishun,to earn
 qazhghan,kettle
 qazra,goose
 qazunun,to tear
+qaç,"stem, grass"
 qe,today
 qe-zil,light
 qeb,cradle
@@ -2071,14 +2072,14 @@ qejd,remark
 qejdi,remark
 qel,"anger, salt"
 qele,fortress
-qeleç,thin
 qelem,pen
+qeleç,thin
 qen,internal organs
 qene,inside
 qener,pluck
 qenfet,candy
-qeni,"internal organs, good"
 qeni,good
+qeni,"internal organs, good"
 qepe,big sheepskin hat
 qeqech'un,to go away
 qeqvej,curved
@@ -2150,8 +2151,8 @@ qhyt'y,winter
 qhyt'yz,in winter
 qhytyl,good-natured
 qi-,kill
-qib,yolk of egg
 qib,frog
+qib,yolk of egg
 qic:iq,sheep-skin
 qil,"ear of corn, head"
 qilix,character
@@ -2167,17 +2168,13 @@ qu'nt',snot
 qu-d,four
 quana,to play
 quc,mortar
-qüc:ügan,pillow
-qüch,armpit
 qudghunun,to jump
 qudrat,might
 qugh,to become cold
 qughun,to play
 qughvaz,to play
 quj,particle used in wishes
-qük,pitchfork
 qul,"board, fireplace"
-qül,kick
 qula,fireplace
 qula-k,in one's bosom
 qulaj,comfortable
@@ -2187,18 +2184,13 @@ qum,sand
 qumadi,sand
 qumral,dark-skinned
 qun,to become cold
-qüngür,hedgehog
 qunshi,neighboring
-qünt,elbow
 quq,bustard
-qüq:-üm,craw
 quraj,dry
 qurband,sacrifice
-qüre-,to laugh
 qurmishun,to set up
 qurq,inner membrane of stomach
 qurulush,structure
-qüRür,hedgehog
 quruš,dirt
 qurxulu,frightful
 qush,bird
@@ -2236,6 +2228,15 @@ qyny,shoulder
 qyr,hare
 qyre,hare
 qyry,blunt
+qüRür,hedgehog
+qüc:ügan,pillow
+qüch,armpit
+qük,pitchfork
+qül,kick
+qüngür,hedgehog
+qünt,elbow
+qüq:-üm,craw
+qüre-,to laugh
 rab,needle
 rac'am,eyebrow
 rachuni,grain
@@ -2256,10 +2257,9 @@ raq',iron
 raq'u,iron
 raq'uni,iron
 raqini,sun
-rarghar,throat
 rarRar,throat
+rarghar,throat
 rasalmish xhun,to meet
-raši,dark yellow
 rasu,"brown, red"
 rasun,to construct
 rat,threshing-floor
@@ -2269,9 +2269,10 @@ raxa-,to speak
 raxun,to talk
 raxunaz,to talk
 raxununa,to talk
-raž,winter-stock of grain
 razh,grain
 razi,agreeing with
+raši,dark yellow
+raž,winter-stock of grain
 rc'am,eyebrow
 rcam,eyebrow
 re-ghü,udder
@@ -2311,7 +2312,6 @@ rik'ini,door
 riqI-äj,leaf
 rishvet,bribe
 riti-,to become astringent
-Rüch,moth
 rucha-,to make a warp
 rufun,"stomach, belly"
 rufuni,belly
@@ -2323,22 +2323,21 @@ rugul,male child
 rugun,to cook
 ruk,wood
 rukvadi,dust
-rülär,snake
-rüq,ashes
-Rura,pus
-ruš,daughter
-ruša-,make a warp
 rush,girl
 rusha,girl
 rusvah avun,to soil
 rusz,daughter
 rusza,daughter
 ruxwajar,son
+ruš,daughter
+ruša-,make a warp
 ryfyn,stomach
 rygh,spirit
 ryqh,ashes
 ryqhvedi,ashes
 ryxvajar,sons
+rülär,snake
+rüq,ashes
 sa,one
 sa shumud,several
 sa t'imil,a little
@@ -2360,7 +2359,6 @@ sajagh,way
 saki,almost
 sal,garden
 sala,garden
-šalam,shoe
 salam viridaz,hello to everyone
 salavat,prayer
 sam,straw
@@ -2369,24 +2367,17 @@ samuni,straw
 san-hisab,quantity
 sanal,together
 sar,year
-šar,helminth
 sara,incisor
-šarag,cub
 sarar,incisor
-šaratul,lizard
-šarkunt,young of a donkey
 sas,"tooth, fang, incisor"
-sät,hour
 savad,writing
 savq'vat,present
 saw,oat flour
-šaz,last year
 seb,gall
 sebeb,cause
 sechki,election
 sefer,time
 sefil,sad
-šefteli,peach
 seher,dawn
 sekin,quiet
 sekunda,second
@@ -2402,7 +2393,6 @@ sergki,garlic
 serhaet,border
 serin,shade
 ses,voice
-šešel,sack
 sesini,voice
 sev,bear
 sevre,bear
@@ -2456,7 +2446,6 @@ sik're,fox
 sil,rye
 sili,rye
 sim,wire
-šim,road metal
 simini,wire
 sin,edge
 sinif,class
@@ -2469,10 +2458,7 @@ siv,mouth
 sivi,mouth
 sivin,child
 siw,mouth
-šiw,steed
-škola,school
 spel,moustache
-šqaq,gum
 st'al,drop
 stal,drop
 stol,table
@@ -2480,7 +2466,6 @@ stxa,brother
 sual,question
 subut,proof
 sufra,table-cloth
-šükü,narrow
 sulur,throat
 sunt,point-tool
 sur,"old, ramson, grave"
@@ -2491,9 +2476,6 @@ suru,grave
 susa,bride
 susamishwal,thirst
 susar,bride
-šut,bed-bug
-šutk-,to sweep
-šütrü,brown
 suv,mountain
 suva,mountain
 suvar,holiday
@@ -2505,13 +2487,14 @@ suxvar,molar tooth
 svas,bride
 svax,molar tooth
 swal,wild turkey
-swas,daughter-in-law
 swas,bride
+swas,daughter-in-law
 swax,molar tooth
 syhbet,conversation
 syhyr,sorcery
 syret,picture
 syry,flock of sheep
+sät,hour
 t'a xhun,to hurt
 t'a xhun,to hurt
 t'ab,block
@@ -2553,10 +2536,10 @@ t:-,not
 t:am,wood
 t:ar,tree
 t:exw,back of head
-t:üd,gullet
 t:um,tail
 t:wa-,to shave
 t:war,grain
+t:üd,gullet
 ta'min avun,to provide
 ta'sir,impression
 ta-,"to let, ache"
@@ -2642,7 +2625,6 @@ ttaexw,back of the head
 ttum,tail
 ttyd,throat
 ttym,tail
-tü-n,to eat
 tub,finger
 tuk'un,to cut
 tuk'una,to cut
@@ -2650,8 +2632,8 @@ tuk'vaz,to cut
 tul,plateau
 tum,"seed, tail"
 tumazh,leather
-tumuni,tail
 tumuni,seed
+tumuni,tail
 tun,"manger, to let, to put"
 tuna,to let
 tuna,to put
@@ -2661,13 +2643,12 @@ tup'u,finger
 tupuni,ball
 tur,"spoon, pimple, to let, to put, sword"
 tush,is not
-tušun-,to knead dough
-tütün,tobacco
 tux,satisfied
 tuxul,lung
 tuxun,to bring
 tuxuz,to bring
 tuxvana,to bring
+tušun-,to knead dough
 tvar,grain
 tvar,grain
 tvari,grain
@@ -2689,8 +2670,8 @@ tykven,shop
 tynt,hot-tempered
 tyq'yl,bitter
 tyretmishun,to create
-ücü,salty
-ücwe-,to go to ruin
+tü-n,to eat
+tütün,tobacco
 ughri,thief
 ujax,watchful
 ujun,trick
@@ -2699,7 +2680,6 @@ umud,hope
 umud avun,to hope
 umumi,general
 umun,mild
-ümür; saghlugh,life
 un,yes
 urus,Russian
 usal,lean
@@ -2715,7 +2695,6 @@ vac',river
 vac'-u,river
 vacra,moon
 vad,five
-väde,time (1)
 vaede,time
 vaez,sermon
 vaezini,sermon
@@ -2770,8 +2749,8 @@ vinel,above
 vini,upper
 viniz,up
 vir,lake
-viri,whole
 viri,lake
+viri,whole
 virina,everywhere
 virt,honey
 virt'edi,honey
@@ -2790,6 +2769,7 @@ vun,you
 vun atuj,welcome
 vuna,you
 vuzh,"who?, who"
+väde,time (1)
 wa',bumble-bee
 wa-d,five
 wak,boar
@@ -2925,7 +2905,6 @@ xtul,grandchild
 xtun,to return
 xtuni,bead
 xu-,to become
-xü-,preserve
 xuk,stomach
 xukvadi,stomach
 xumu-l,drizzle
@@ -2936,13 +2915,11 @@ xup,mouthful
 xup',particle used in exclamations
 xupI ier!,how beautiful!
 xur,breast
-xür,village
 xuralaj,by heart
 xurt,foam
 xuru,breast
 xurun,to weave
 xush,pleasant
-xüšre-kan,spider
 xut'unun,to take off clothes
 xutaxun,to carry back
 xutul,grandchild
@@ -2959,8 +2936,8 @@ xwa,son
 xwa-,to drink
 xwal,furrow
 xwar,mare
-xwax,trough
 xwax,big stone
+xwax,trough
 xwel,boil
 xwel,furuncle
 xwex,walnut
@@ -2972,6 +2949,9 @@ xyshrekan,spider
 xyz,to keep
 xzan,family
 xzhan,family
+xü-,preserve
+xür,village
+xüšre-kan,spider
 yc'vena,to be destroyed
 yc'vez,to be destroyed
 yc'y,salty
@@ -2989,14 +2969,11 @@ ytkvem,bold
 yzym,grapes
 za,I
 zajif,sickly
-žak-um,muscle
 zalan,heavy
-žalan,wattle-fence
 zalum,despotic
 zalzala,earthquake
 zaman,era
 zapun,soap
-žaqwa-,to gnaw
 zarafat,joke
 zarar,detriment
 zarb,quickness
@@ -3005,14 +2982,12 @@ zat',thing
 zat'uni,thing
 zaval,defect
 zaz vun akvazva,I see you
-že-,to be
 zeher,poison
 zehmet,trouble
 zejtun,olive
 zeng,bell
 zeng jaghun,to call
 zengini,bell
-žeqi,piglet
 zerif,beautiful
 zhal,question particle of surprise
 zhamana,time (1)
@@ -3063,14 +3038,10 @@ zhyre,sort
 zhyreba-zhyre,varied
 zijan,damage
 zijarat,pilgrimage
-žiki,sweetbrier
-žimi,liquid
 zirek,clever
-žiw,snow
 zul,autumn
 zulu,autumn
 zulum,oppression
-žum,quince
 zun,I
 zur,half
 zur,threat
@@ -3081,7 +3052,6 @@ zurza-,to tremble
 zurzun,to tremble
 zurzunaz,to tremble
 zurzununa,to tremble
-žuw,oneself
 zval,boiling
 zver,twisting
 zverci,twisting
@@ -3089,3 +3059,33 @@ zverun,to run
 zwar,spinning
 zwer,running
 zyrne,zurna (musical instrument)
+ç:uru,beard
+ücwe-,to go to ruin
+ücü,salty
+ümür; saghlugh,life
+šalam,shoe
+šar,helminth
+šarag,cub
+šaratul,lizard
+šarkunt,young of a donkey
+šaz,last year
+šefteli,peach
+šešel,sack
+šim,road metal
+šiw,steed
+škola,school
+šqaq,gum
+šut,bed-bug
+šutk-,to sweep
+šükü,narrow
+šütrü,brown
+žak-um,muscle
+žalan,wattle-fence
+žaqwa-,to gnaw
+že-,to be
+žeqi,piglet
+žiki,sweetbrier
+žimi,liquid
+žiw,snow
+žum,quince
+žuw,oneself

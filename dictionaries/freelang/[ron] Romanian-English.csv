@@ -1,4 +1,86 @@
 Other,English
+Africa,Africa
+Africa de Sud,South Africa
+Albania,Albania
+Alpi,Alps
+America,America
+America de Nord,North America
+America de Sud,South America
+Anglia,England
+Ardealul,Transylvania
+Argentina,Argentina
+Asia,Asia
+Australia,Australia
+Austria,Austria
+Banatul,Banat
+Belgia,Belgium
+Brazilia,Brazil
+Bulgaria,Bulgaria
+Canada,Canada
+Cehia,Czech Republic
+China,China
+Crăciun,Christmas
+Danemarca,Denmark
+Decembrie,December
+Domnul,Lord
+Dumnezeu,God
+Dunărea,Danube
+Egipt,Egypt
+Elveţia,Switzerland
+Eu sânt în Europa,I am in Europe
+Europa,Europe
+Februarie,February
+Finlanda,Finland
+Franţa,France
+Genmania,Germany
+Grecia,Greece
+I-am dat cheie.,I gave him the key.
+India,India
+Iran,Iran
+Irlanda,Ireland
+Islanda,Iceland
+Israel,Israel
+Italia,Italy
+Iugoslavia,Yugoslavia
+Japonia,Japan
+Londra,London
+Marea Britanie,Great Britain
+Mexic,Mexico
+Moldova,Moldavia
+Moscova,Moscow
+Moş Crăciun,Father Christmas
+Muntenia,Muntenia
+Munţii Carpaţi,Carpathian mountains
+Norvegia,Norway
+Noua Zeelandă,New Zealand
+Olanda,Holland
+Organizaţia Naţiunilor Unite,United Nations
+Orientul,Middle East
+Pakistan,Pakistan
+Paris,Paris
+Paşti,Easter
+Polonia,Poland
+Portugalia,Portugal
+Regatul Unit,United Kingdom
+Rinul,Rhine
+Roma,Rome
+România,Romania
+Romînia,Romania
+Rusia,Russia
+Scoţia,Scotland
+Slovacia,Slovakia
+Spania,Spain
+Statele Unite,United States
+Suedia,Sweden
+Tamisa,Thames
+Transilvania,Tnansylvania
+Turcia,Turkey
+Ucraina,Ukraine
+Ungaria,Hungary
+Uniunea Europeană,European Union
+Uniunea Sovietică,Soviet Union
+Vlad Dracul,VIad the Devil
+Vlad Ţepel,Viad The Impaler
 a fost,was
 a fost secretar,was the secretary
 a putea,can
@@ -6,7 +88,6 @@ a ţine dreapta,keep right
 abajur,lampshade
 abandona,abandon
 abatere,deviation
-abătut,sad
 aberaţie,abberation
 abia,hardly
 abil,smart
@@ -19,6 +100,7 @@ absolvi,graduate
 absorbi,absorb
 abundent,abundant
 abur,steam
+abătut,sad
 ac,needle
 acasă,at home
 accelera,accelerate
@@ -44,7 +126,6 @@ acord,agreement
 acorda,grant
 acru,sour
 act,act
-acţiona,act
 activitate,activity
 actor,actor
 actual,current
@@ -52,17 +133,12 @@ acum,now
 acum o oră,an hour ago
 acuza,accuse
 acuzativ,accusative
-adăpost,shelter
-adăposti,shelter
+acţiona,act
 adapta,adapt
-adăuga,add
-adăugat,added
 adesea,often
 adevăr,truth
 adevărat,true
 adică,that is to say
-adînc,deep
-adîncime,depth
 adineauri,just now
 adjectiv,adjective
 administraţie,administration
@@ -77,6 +153,12 @@ aduna,gather
 adunare,assembly
 adus,brought
 adverb,adverb
+adînc,deep
+adîncime,depth
+adăpost,shelter
+adăposti,shelter
+adăuga,add
+adăugat,added
 aer,air
 aeroport,airport
 afacere,business
@@ -86,13 +168,10 @@ afirma,assert
 afiş,poster
 afla,find
 afluent,tributary
-Africa,Africa
-Africa de Sud,South Africa
 afumat,smoked
 afunda,plunge
 agale,slowly
 agasa,worry
-agăţa,hang up
 agendă,diary
 agent,agent
 agenţie,agency
@@ -100,6 +179,7 @@ agenţie de turism,travel agency
 agita,agitate
 aglomerat,crowded
 agricol,agricultural
+agăţa,hang up
 ai,you have
 aici,here
 aiurit,scatter brained
@@ -115,14 +195,12 @@ al treilea,third
 al una sutălea,one hundreth
 al zecelea,tenth
 alaltăieri,day before yesterday
-alături,beside
 alb,white
-Albania,Albania
 albastru,blue
 albină,bee
 album,album
-alcătui,form
 alcool,alcohol
+alcătui,form
 alee,lane
 alege,choose
 alerga,run
@@ -132,25 +210,23 @@ aliment,food
 alimentară,grocer's
 alinta,caress
 alo,hello on telephone
-Alpi,Alps
 alpin,alpine
 alpinism,climbing
 alt,another
-altădată,some other time
 altar,altar
 altceva,something else
 altcineva,somebody else
 altfel,otherwise
 altminteri,otherwise
+altădată,some other time
 aluat,dough
-alună,hazelnut
 aluneca,slip
+alună,hazelnut
+alături,beside
 am,I have
 am chef să,I feel like
 amabil,amiable
-amănunt,detail
 amar,bitten
-amărît,downcast
 ambasadă,embassy
 ambii,both
 ambiţios,ambitious
@@ -158,24 +234,22 @@ ame nucleare,nuclear weapons
 amenda,to fine
 amendă,a fine
 ameninţa,threaten
-America,America
-America de Nord,North America
-America de Sud,South America
 american,American
 amesteca,mix
 amfiteatru,amphitheatre
 amiază,noon
 amic,friend
-amîndoi,both
 aminti,remind
 amintire,memory
 amor,love affair
 amurg,twilight
+amîndoi,both
+amănunt,detail
+amărît,downcast
 an,year
 an bisect,leap year
 anapoda,topsy-turvy
 anecdotă,anecdote
-Anglia,England
 animal,animal
 aniversare,anniversary
 anotimp,season
@@ -185,17 +259,11 @@ antinevralgic,headache pill
 anume,namely
 anumit,a certain
 anunţa,announce
-apă,water
-apă minerală,mineral water
-apăra,defend
 aparat,device
 aparat de fotografiat,camera
-apărea,appear
 apariţie,publication
 apartament,flat
 aparţine,belong to
-apărut,appeared
-apăsa,press
 apoi,then
 aprecia,appreciate
 apreciat,highly regarded
@@ -209,47 +277,45 @@ apropo,by the way
 apuca,seize
 apune,set (the sun)
 apus,set
+apă,water
+apă minerală,mineral water
+apăra,defend
+apărea,appear
+apărut,appeared
+apăsa,press
 ara,to plough
 aramă,copper
 aranja,arrange
 aranjament,arrangement
-arăta,show
 arbone,tree
 arde,burn
-Ardealul,Transylvania
 ardei,pepper
 ardei gras,green pepper
 ardei iute,chilli pepper
 are,he has
-Argentina,Argentina
 argint,silver
 arhitectură,architecture
 aripă,wing
 aritmetică,arithmetic
-armă,weapon
 armată,army
+armă,weapon
 ars,burnt
-artă,art
 articol,article
 articol de fond,editorial
 artist,artist
 artizanat,handicraft
+artă,art
 arunca,throw
-aşa,so
-aşa că,so that
-aşa şi aşa,so so
-aşadar,therefore
+arăta,show
 ascensiune,climb
 asculta,listen to
 ascunde,hide
 ascuns,hidden
 ascuţi,sharpen
 ascuţit,sharp
-asemănare,resemblance
 asemenea,such
-aşeza,lay
+asemănare,resemblance
 asfinţit,sunset
-Asia,Asia
 asigura,assure
 asigurare,insurance
 asociaţie,association
@@ -257,36 +323,33 @@ aspect,aspect
 aspirator,vacuum cleaner
 aspirină,aspirin
 aspru,rough
-astăzi,today
-aştepta,wait
-aşternut,bedspread
 astfel,thus
+astăzi,today
 asupra,on
 ataca,attack
 atare,such
 ataş,side car
 atent,attentive
 atentat,attempt
-atenţie,attention
 atenua,attenuate
+atenţie,attention
 ateriza,land
 atinge,touch
 atins,touched
-aţipi,doze
-atîrna,hang
-atît,so much
 atitudine,attitude
 atlas,atlas
 atlet,athlete
 atom,atom
 atomic,atomic
 atracţie,attraction
-atrăgător,attractive
 atrage,attract
 atras,attracted
 atroce,atrocious
+atrăgător,attractive
 atu,trump
 atunci,at that time
+atîrna,hang
+atît,so much
 au,they have
 auditiv,auditory
 auditoriu,audience
@@ -299,8 +362,6 @@ auriu,gold-coloured
 auroră,dawn
 austeritate,austerity
 austral,southern
-Australia,Australia
-Austria,Austria
 autentic,authentic
 autobuz,bus
 autohton,native
@@ -321,42 +382,37 @@ avion,plane
 avocat,lawyer
 avut,had
 azi,today
+aşa,so
+aşa că,so that
+aşa şi aşa,so so
+aşadar,therefore
+aşeza,lay
+aştepta,wait
+aşternut,bedspread
+aţipi,doze
 babă,old woman
-băga,put in
 bagaj,luggage
-băiat,boy
 baie,bathroom
 balcon,balcony
 baltă,pool
 ban,one hundreth of a leu
 banană,banana
-Banatul,Banat
 banc,joke
-bancă,bench
 bancnotă,banknote
+bancă,bench
 bandă,tape
 bani,money
-bănui,suspect
 bar,bar
 barbă,beard
-bărbat,man
-bărbie,chin
-bărbier,barber
 barcă,boat
 basma,kerchief
-băţ,stick
-bătaie,beating
 bate,knock
-bătrîn,old
-băut,drunk
-băutură,drink
 baza,base
-bază,base
 bazin de înot,swimming pool
+bază,base
 bea,drink
 bec,light bulb
 bej,beige
-Belgia,Belgium
 belşug,abundance
 benzină,petrol
 bere,beer
@@ -376,8 +432,8 @@ bine aţi venit,welcome
 bine că,good thing that
 binecuvîntare,blessing
 binefacere,charity
-bineînţeles,of course
 binevenit,welcome
+bineînţeles,of course
 binişor,fairly well
 birou,study
 birui,defeat
@@ -386,10 +442,10 @@ bisect,leap
 biserică,church
 blană,fur
 blestema,curse
-blînd,gentle
 bloc,block of flats
 blond,fair
 blugi,blue jeans
+blînd,gentle
 boabă,berry
 boală,illness
 bogat,rich
@@ -405,32 +461,31 @@ bot,snout
 boteza,baptise
 bou,ox
 brad,fir tree
-braţ,arm
 bravo,well done
-brăzda,to furrow
-Brazilia,Brazil
+braţ,arm
 brichetă,lighter
-brînză,cheese
 britanic,British
 broască,frog
-broşă,brooch
 broşură,booklet
+broşă,brooch
 brusc,sudden
 bruse,sudden
 brut,raw
 brutărie,bakery
+brînză,cheese
+brăzda,to furrow
 bubui,thunder
 buburuză,ladybird
-bucată,piece
-bucătăreasă,female cook
-bucătărie,kitchen
 bucate,food
+bucată,piece
 buchet,bouquet
 bucla,curl
-buclă,curl
 bucluc,trouble
+buclă,curl
 bucurie,joy
 bucuros,glad
+bucătăreasă,female cook
+bucătărie,kitchen
 bufni,bang
 bufon,fool
 buget,budget
@@ -438,70 +493,63 @@ buimac,dizzy
 buletin,identity card
 buletin de ştiri,news bulletin
 bulevard,boulevard
-Bulgaria,Bulgaria
 bun,good
 bun venit,welcome
+bunic,grandfather
+bunică,grandmother
 bună dimineaţa,good morning
 bună seara,good evening
 bună ziua,hello
 bunătate,kindness
-bunic,grandfather
-bunică,grandmother
 burete,sponge
 burtă,belly
 butelie,bottle
 butoi,cask
 buton,cuff-link
 butuc,log
-buză,lip
 buzunar,pocket
+buză,lip
+băga,put in
+băiat,boy
+bănui,suspect
+bărbat,man
+bărbie,chin
+bărbier,barber
+bătaie,beating
+bătrîn,old
+băut,drunk
+băutură,drink
+băţ,stick
 ca,than
-că,than
 ca de exemplu,such as
 ca să,so as to
 ca/ca de,as
 cabană,chalet
 cabinet,surgery
-căci,because
-căciulă,fur cap
-cădea,fall
 cadou,present
 cadru,frame
 cafea,coffee
 caiet,note book
 caisă,apricot
 cal,horse
-călător,traveller
-călători,travel
-călătorie,journey
 calculator,calculator
 cald,warmth
-căldură,heat
 cale,street
 calitate,qualitz
 calorifer,radiator
 cam,rather
-cămară,cupboard
-cămaşă,shirt
 cameră,room
-cămin,hostel
-cană,jug
-Canada,Canada
 canal,channel
 cantină,refectory
 cantitate,quantity
+cană,jug
 cap,head
-capăt,end
-căpăta,obtain
 capitală,capital
 capitol,chapter
 capră,goat
-căprui,brown
-căpşună,strawberry
 capta,catch
+capăt,end
 car,cart
-cărare,path
-cărbune,coal
 care,which
 carne,flesh
 carnet,book of tickets
@@ -510,10 +558,8 @@ carte poştală,postcard
 cartier,borough
 cartof,potato
 carton,cardboard
-casă,house
-căsătorie,marriage
-casetă,cassette
 casetofon,cassette player
+casetă,cassette
 casier,cashier
 casieriţă,cashier (female)
 casnic,domestic
@@ -521,10 +567,8 @@ castan,chestnut tree
 castaniu,chestnut
 castel,castle
 castravete,cucumber
+casă,house
 categoric,categorical
-către,towards
-căuta,look for
-căutare,search
 cauză,cause
 caz,case
 cazan,cauldron
@@ -536,19 +580,17 @@ ce mai faceţi,how are you
 ce mai faci?,how are you?
 ceai,tea
 ceapă,onion
-ceară,wax
 ceartă,quarrel
+ceară,wax
 ceas,watch
 ceaşcă,cup
 ceaţă,fog
 cec,cheque
 ceda,give up
 ceh,Czech
-Cehia,Czech Republic
 cel,the
 cel mai bine,best of all
 cel mai bun,the best
-celălalt,other
 celebra,celebrate
 celebritate,fame
 celebru,famous
@@ -556,6 +598,7 @@ celest,heavenly
 celiatar,bachelor
 celibatară,spinster
 celulă,cell
+celălalt,other
 central,central
 centru,centre
 centură,belt
@@ -574,18 +617,18 @@ ceresc,heavenly
 cerinţa,need
 cerne,sift
 cerneală,ink
-cerşetoare,beggar
-cerşetor,beggar
-cerşi,beg
 cert,sure
 certa,rebuke
 certifica,certify
 cerui,wax
 cerut,requested
+cerşetoare,beggar
+cerşetor,beggar
+cerşi,beg
 cetate,citadel
 cetăţean,citizen
-ceţos,misty
 ceva,something
+ceţos,misty
 chef,party
 chei,quay
 cheie,key
@@ -597,16 +640,12 @@ chiar,even
 chibrit,match
 chiflă,roll
 chimie,chemistry
-China,China
 chinui,torture
 chioşc,kiosk
 chip,image
 chitanţă,receipt
 ci,but (after negative)
 cifră,figure
-cîine,dog
-cîmp,field
-cîmpie,plain
 cincea,fifth
 cinci,five
 cinci sute,five hundred
@@ -618,38 +657,26 @@ cincisprezecelea,fifteenth
 cincizecea,fiftieth
 cincizeci,fifty
 cincizecilea,fiftieth
-cînd,when
 cine,who
 cinema,cinema
 cinematograf,cinema
 cineva,somebody
 cinste,honour
 cinstit,honest
-cînta,sing
-cîntar,scales
-cîntec,song
 cioban,shepherd
 cioc,beak
-ciocîrlie,skylark
 ciocolată,chocolate
+ciocîrlie,skylark
 ciorbă,borsch
 circ,circus
 circula,move about
 circulaţie,traffic
 cireaşă,cherry
-cîrnat,sausage
-cîştiga,earn
-cît,how much
-cît e ceasul,what is the time
-cît e ora,what is the time
-cîteodata,sometimes
 citi,read
-cîţi,how many
 cititor,reader
-cîţiva,some
 citronadă,lemonade
-ciudă,anger
 ciudat,strange
+ciudă,anger
 ciupercă,mushroom
 cizmă,boot
 clar,clear
@@ -664,9 +691,9 @@ coafa,have one’s hair styled
 coafor,ladies’ hairdresser
 coajă,peel
 coapsă,thigh
-coasă,scythe
 coase,sew
 coastă,coast
+coasă,scythe
 coborî,alight
 cocor,crane
 cocoş,cock
@@ -708,16 +735,12 @@ consiliu,council
 consola,comfort
 consolida,strengthen
 constata,notice
-conştient,conscious
-conştiincios,conscientious
-conştiinţă,conscience
 construi,construct
 cont,account
 conta pe,count on
 contabil,accountant
 contemporan,contemporary
 continua,continue
-conţinut,contents
 contra,against
 contrast,contrast
 contrazice,contradict
@@ -728,6 +751,10 @@ conversaţie,conversation
 convinge,persuade
 convins,persuaded
 convorbire,talk
+conştient,conscious
+conştiincios,conscientious
+conştiinţă,conscience
+conţinut,contents
 copac,tree
 copie,copy
 copii,children
@@ -742,13 +769,12 @@ coridor,corridor
 corn,horn
 corp,body
 cort,tent
-coş,basket
-costă,costs
 costum,suit
+costă,costs
 cot,elbow
 cotizaţie,subscription
 covor,carpet
-Crăciun,Christmas
+coş,basket
 cratiţă,saucepan
 cravată,tie
 crea,create
@@ -760,10 +786,10 @@ creier,brain
 creion,pencil
 cremă,cream
 crescut,grown
-creşte,grow
-creştin,Christian
 cretin,idiot
 crezut,believed
+creşte,grow
+creştin,Christian
 cric,winch
 crimă,serious crime
 crin,lily
@@ -776,8 +802,8 @@ cronometra,time
 cruce,cross
 crud,cruel
 crunt,savage
-cruţa,spare
 cruzime,cruelty
+cruţa,spare
 cu,with
 cu bucata,by the piece
 cu grijă,carefully
@@ -795,8 +821,8 @@ cules,picked
 culme,summit
 culoare,colour
 cultiva,cultivate
-cultură,culture
 cultural,cultural
+cultură,culture
 cum,how
 cum se spune pe româneşte,how do you say in Romanian
 cuminte,well-behaved
@@ -813,54 +839,84 @@ cuprins,contained
 cuptor,oven
 curaj,courage
 curat,clean
-curăţa,peel
 curea,belt
 curent,current
 curge,flow
-curînd,soon
 curios,odd
 curs,lesson
 curte,yard
+curînd,soon
+curăţa,peel
 cusur,defect
 cutare,so and so
 cutie,box
 cutie poştală,post box
-cuţit,knife
 cutremur,earthquake
 cuvenit,fitting
 cuvînt,word
+cuţit,knife
+cîine,dog
+cîmp,field
+cîmpie,plain
+cînd,when
+cînta,sing
+cîntar,scales
+cîntec,song
+cîrnat,sausage
+cît,how much
+cît e ceasul,what is the time
+cît e ora,what is the time
+cîteodata,sometimes
+cîştiga,earn
+cîţi,how many
+cîţiva,some
+că,than
+căci,because
+căciulă,fur cap
+cădea,fall
+căldură,heat
+călător,traveller
+călători,travel
+călătorie,journey
+cămară,cupboard
+cămaşă,shirt
+cămin,hostel
+căprui,brown
+căpăta,obtain
+căpşună,strawberry
+cărare,path
+cărbune,coal
+căsătorie,marriage
+către,towards
+căuta,look for
+căutare,search
 da,yes
-dă,gives
 da frîu liber,give rein to
 da greş,fail
 da un telefon,phone
 da voie,allow
+dactilografă,typist
 dacă,if
 dacă nu vă supăraţi,if you do not mind
-dactilografă,typist
 dai,you give
-dăm,we give
-Danemarca,Denmark
 dar,but
-dărîma,demolish
 dat,given
-daţi,give
 dativ,dative
 datora,owe
 datorie,duty
 datorită,due to
 dau,they give
+daţi,give
 de,of
-de-a lungul,along
 de aceea,therefore
 de ajuns,sufficient
 de altfel,as a matter of fact
 de asemenea,similarly
 de atunci,since then
 de bun augur,favourable
-de către,by
 de ce,why
 de cînd,since when
+de către,by
 de demult,former
 de dinapoi,hind
 de la,from
@@ -872,18 +928,18 @@ de puţin timp,not very long
 de rău augur,ominous
 de unde,where from
 de vînzare,for sale
+de-a lungul,along
 deal,hill
 deasupra,above
 debit de tutun,tobacconist's kiosk
-decădere,decadence
-Decembrie,December
 deci,so
 decide,decide
 decis,decided
-decît,than
 declara,declare
 decor,setting
 decret,decree
+decît,than
+decădere,decadence
 defect,defect
 degeaba,in vain
 deget,finger
@@ -895,8 +951,8 @@ deltă,delta
 demnitate,dignity
 demola,demolish
 demonstra,prove
-demonstraţie,demonstration
 demonstrativ,demonstrative
+demonstraţie,demonstration
 demonta,dismantle
 demult,long ago
 denatura,distort
@@ -917,15 +973,9 @@ deopotrivă,equally
 deosebi,distinguish
 deosebire,difference
 deosebit,special
-depăna,spin
-departă,remove
-depărta,remove
-depărtare,distance
-depărtat,distant
 departe,far
+departă,remove
 depaşi,outrun
-depăşi,outrun
-depăşire,overtaking
 dependent,dependent
 dependenţă,dependence
 depinde de,depend on
@@ -933,8 +983,8 @@ deplasa,displace
 deplasare,change of place
 deplasat,improper
 deplin,full
-deplînge,lament
 deplorabil,lamentable
+deplînge,lament
 deporta,deport
 depou,depot
 depozit,warehouse
@@ -946,9 +996,14 @@ deprecia,depreciate
 deprima,depress
 depune,deposit
 depus,deposited
+depăna,spin
+depărta,remove
+depărtare,distance
+depărtat,distant
+depăşi,outrun
+depăşire,overtaking
 deranja,upset
 des,often
-descărca,unload
 deschide,open
 deschis,open
 descoperi,discover
@@ -956,19 +1011,16 @@ descrie,describe
 descris,described
 desculţ,barefoot
 descurca,disentangle
+descărca,unload
 desen,drawing
 deseori,often
 desert,dessert
 desface,undo
 desfiinţa,abolish
-deşi,although
 desigur,certainly
-despărţi,separate
 despica,split
 despre,about
-deştept,clever
-deştepta,wake up
-deşteptător,alarm clock
+despărţi,separate
 destul,enough
 detesta,detest
 deunăzi,the other day
@@ -992,6 +1044,10 @@ dezinteres,lack of interest
 dezlega,untie
 dezvolta,develop
 dezvoltare,development
+deşi,although
+deştept,clever
+deştepta,wake up
+deşteptător,alarm clock
 dialog,dialogue
 diavol,devil
 dicţionar,dictionary
@@ -1002,12 +1058,12 @@ dimineaţă,morning
 din,from (in) (de + în)
 din cînd in,from time to time
 din greşeala,by mistake
-din întîmplare,by chance
 din nou,again
-din păcate,unfortunately
 din partea,on behalf of
+din păcate,unfortunately
 din senin,out of the blue
 din tot sufletul,from the bottom of one's heart
+din întîmplare,by chance
 dinadins,on purpose
 dinaintea,before
 dinamic,dynamic
@@ -1016,7 +1072,6 @@ dinamită,dynamite
 dinapoi,behind
 dinapoia,behind
 dinastie,dynasty
-dinăuntru,inside
 dincoace,here
 dincolo,there
 dincolo de,beyond
@@ -1024,10 +1079,11 @@ dineu,dinner party
 dinspre,from the direction of
 dinte,tooth
 dinte de lapte,milk tooth
-dintîi,first
 dintre,between
-diplomă,diploma
+dintîi,first
+dinăuntru,inside
 diplomat,diplomat
+diplomă,diploma
 direct,direct
 direcţie,direction
 dirijor,conductor
@@ -1036,9 +1092,9 @@ discordie,discord
 discret,discrete
 discuta,discuss
 discuţie,discussion
+dispus,inclined
 dispărea,disappear
 dispărut,disappeared
-dispus,inclined
 distanţă,distance
 distinge,distinguish
 distins,distinguished
@@ -1048,9 +1104,9 @@ divan,sofa
 divide,divide
 doamnă,lady
 doar,only
-dobîndă,interest (money)
-dobîndi,acquire
 dobitoc,blockhead
+dobîndi,acquire
+dobîndă,interest (money)
 doctor,doctor
 doctorie,medicine
 doctoriţa,woman doctor
@@ -1066,9 +1122,8 @@ doliu,grief
 domn,gentleman
 domni,rule
 domnie,reign
-domnişoară,miss
 domnitor,ruler
-Domnul,Lord
+domnişoară,miss
 dop,cork
 dor,longing
 dori,wish
@@ -1092,11 +1147,8 @@ douăzecilea,twentieth
 dovadă,proof
 dovedi,prove
 drac,devil
-drăcui,curse
 drag,dear
-drăgălaş,sweet
 dragoste,love
-drăguţ,kind
 dramaturg,playwright
 dreapta,right
 dreaptă,right hand
@@ -1118,6 +1170,9 @@ drojdie,yeast
 drum,journey
 drum bun,bon voyage
 drumeţ,traveller
+drăcui,curse
+drăguţ,kind
+drăgălaş,sweet
 dubios,doubtful
 dubiu,doubt
 dubla,double
@@ -1136,15 +1191,13 @@ dumnealor,they
 dumnealui,he
 dumneata,you
 dumneavoastră,you
-Dumnezeu,God
-Dunărea,Danube
 dungă,stripe
 după,"after, to"
-după-masă,in the afternoon
 după aceea,afterwards
 după amiază,afternoon
-după câte ştiu,to my knowledge
 după ce,after
+după câte ştiu,to my knowledge
+după-masă,in the afternoon
 dura,last
 durea,hurt
 durere,pain
@@ -1152,6 +1205,9 @@ duş,shower
 duşman,enemy
 duşmăni,hate
 duşumea,floor
+dă,gives
+dăm,we give
+dărîma,demolish
 e,is
 e departe pînă la Bucureşti,it is a long way to Bucharest
 e târziu,it is late
@@ -1165,17 +1221,16 @@ echilateral,equilateral
 echilibru,equilibrium
 echinocţiu,equinox
 echipa,equip
-echipă,team
 echipaj,crew
 echipament,equipment
+echipă,team
 ecou,echo
 ecran,screen
-ediţie,edition
 editură,publishing house
+ediţie,edition
 efect,effect
 efort,effort
 egalitate,equality
-Egipt,Egypt
 ei,"they, her"
 el,"he, him"
 ele,they
@@ -1185,7 +1240,6 @@ element,element
 elev,schoolboy
 elevă,schoolgirl
 elibera,free
-Elveţia,Switzerland
 emigra,emigrate
 emoţie,excitement
 emoţionat,excited
@@ -1198,19 +1252,16 @@ enorm,enormous
 episcop,bishop
 epocă,epoch
 epuizat,out of stock
-eră,era
 era plecată,she was out
 erou,hero
+eră,era
 est,east
 este,is
-eşti,you are
 etaj,floor
 etaj - la,upstairs
 etichetă,label
 eu,I
 eu înţeleg,I understand
-Eu sânt în Europa,I am in Europe
-Europa,Europe
 evada,escape
 eveniment,event
 eventual,possible
@@ -1229,6 +1280,7 @@ explica,explain
 expresie,expression
 exterior,exterior
 extern,foreign
+eşti,you are
 fabrică,factory
 fac,I do
 face,do
@@ -1241,20 +1293,13 @@ face un duş,have a shower
 face un număr,dial a number
 facem,we do
 facultate,faculty
-făcut,done
 fag,beech tree
-făgădui,promise
 faimă,fame
-făină,flour
 familie,family
 fapt,fact
-faptă,deed
 fapte diverse,news in brief
+faptă,deed
 far,lighthouse
-fără,without
-fără dinţi,toothless
-fără greş,faultlessly
-fără limită,unlimited
 farda,make oneslf up
 farfurie,plate
 farmacie,pharmacy
@@ -1263,11 +1308,9 @@ farmacistă,female pharmacist
 farmec,charm
 fasole,beans
 fată,girl
+fazan,pheasant
 faţă,face
 faţă de masă,tablecloth
-făţiş,openly .
-fazan,pheasant
-Februarie,February
 fecior,boy
 fel,kind
 felicita,congratulate
@@ -1303,8 +1346,6 @@ fileu,net
 film,film
 filtrare,filtration
 fină,goddaughter
-Finlanda,Finland
-fîntînă,fountain
 fir,thread
 fire,nature
 firesc,natural
@@ -1313,9 +1354,9 @@ firmă,firm
 fiu,son
 fix,exactly
 flacără,flame
-flămînd,hungry
 floare,flower
 fluviu,river
+flămînd,hungry
 foaie,leaf
 foame,hunger
 foarte,very
@@ -1330,17 +1371,16 @@ fonetică,phonetics
 fora,to drill
 foraj,drilling
 forma,form
-formă,form
 formal,formal
 formaţie,group
 formular,form
+formă,form
 forţă,force
 fost,former
 fotbal,football
 fotografie,photograph
 fotoliu,armchair
 francez,French
-Franţa,France
 franţuzesc,French
 franţuzeşte,in French
 frate,brother
@@ -1351,14 +1391,8 @@ frică,fear
 frig,cold
 frige,roast
 frigider,fridge
-frîna,brake
-frînă,nrake
-frînge,break
-frînghie,rope
-frînt,broken
 fript,roast
 friptură,roast meat
-frîu,rein
 frizer,barber
 frizerie,hairdresser’s
 frontieră,frontier
@@ -1367,6 +1401,12 @@ frumos,beautiful
 frumuseţe,beauty
 frunte,forehead
 frunză,leaf
+frîna,brake
+frînge,break
+frînghie,rope
+frînt,broken
+frînă,nrake
+frîu,rein
 fugi,flee .
 fular,scarf
 fulg,flake
@@ -1381,16 +1421,22 @@ furculiţă,fork
 furie,fury
 furnică,ant
 fustă,skirt
+fîntînă,fountain
+făcut,done
+făgădui,promise
+făină,flour
+fără,without
+fără dinţi,toothless
+fără greş,faultlessly
+fără limită,unlimited
+făţiş,openly .
 galben,yellow
-găleată,bucket
 galerie,gallery
-gară,station
 garanţie,guarantee
 gard,fence
 gardă,guard
-găsi,find
+gară,station
 gata,ready
-găti,cook
 gaz,gas
 gazdă,host
 geam,window pane
@@ -1399,7 +1445,6 @@ geană,eyelash
 gem,jam
 general,general
 genitiv,genitive
-Genmania,Germany
 genunchi,knee
 geografic,geographic
 geografie,geography
@@ -1410,85 +1455,68 @@ ghici,guess
 ghid,guidebook
 ghinion,misfortune
 ghişeu,position
-gîdila,tickle
-gînd,thought
-gîndac,beetle
-gîndi,think
-gîndire,thought
-gînditor,thinker
 ginere,son-in-law
-gînguri,babble
-gîscă,goose
-gît,neck
 glas,voice
 gloată,crowd
 glob,globe
 global,global
 glonţ,bullet
 glorie,glory
-glumă,joke
 glumi,joke
+glumă,joke
 gogoaşă,doughnut
 gol,empty
 golf,gulf
 goli,empty
 goni,chase away
 grabă,haste
-grăbit,in a hurry
 grad,grade
-grădină,garden
 grai,speech
 gram,gram
-grămadă,heap
 gramatică,grammar
-grănicer,passport officer
 graniţă,frontier
 gras,fat
-grăsime,fat
-grătar,grill
-graţia,pardon
 gratie,bar
-graţie,thanks to
-graţiere,pardon
 gratifacaţie,bonus
 gratis,free of charge
 gratuit,free
 graur,starling
 grav,serious
 grava,engrave
-gravidă,pregnant
 graviditate,pregnancy
+gravidă,pregnant
 gravita,gravitate
 gravitate,gravity
 gravitaţie,gravity
+graţia,pardon
+graţie,thanks to
+graţiere,pardon
 greacă,Greek
 greaţă,disgust
 grebla,rake
 greblă,rake
 grec,Greek
-Grecia,Greece
 grecoaică,Greek woman
 grefa,graft
 grenadă,grenade
 greoi,heavy
 grepfrut,grapefruit
 gresa,oil
+greu,heavy
+greutate,weight
 greşeală,mistake
 greşi,make a mistake
 greşi drumul,take the wrong road
 greşi ţinta,miss the target
-greu,heavy
-greutate,weight
 gri,grey
 grijă,care
 grimasă,grimace
 grindă,beam
 gripă,influenza
 griş,semolina
-grîu,wheat
 groapă,ditch
-groază,fear
 groaznic,terrible
+groază,fear
 gros,thick
 grosime,thickness
 grozav,terrific
@@ -1497,6 +1525,13 @@ grozăvie,horror
 grumaz,neck
 grup,group
 grupă,group
+grîu,wheat
+grăbit,in a hurry
+grădină,garden
+grămadă,heap
+grănicer,passport officer
+grăsime,fat
+grătar,grill
 guler,collar
 gunoi,dirt
 gură,mouth
@@ -1506,6 +1541,18 @@ gustare,snack
 gustos,tasty
 guturai,runny nose
 guvern,government
+gîdila,tickle
+gînd,thought
+gîndac,beetle
+gîndi,think
+gîndire,thought
+gînditor,thinker
+gînguri,babble
+gîscă,goose
+gît,neck
+găleată,bucket
+găsi,find
+găti,cook
 hai,come on
 haide,come on
 haidem,come on
@@ -1522,26 +1569,25 @@ haotic,chaotic
 harnic,industrious
 hartă,map
 haz,joy
-hîrtie,paper
 hohot,loud burst (laughter or tears)
 hol,hall
 horă,round dance
-hoţ,thief
 hotar,border
+hotel,hotel
 hotărî,decide
 hotărîre,decision
-hotel,hotel
+hoţ,thief
 hrană,food
 hrăni,feed
-I-am dat cheie.,I gave him the key.
+hîrtie,paper
 ia,takes
 iad,hell
 iahnie,ragout
 ianuarie,January
 iar,and
-iarăşi,again
 iarbă,grass
 iarnă,winter
+iarăşi,again
 iată,look!
 iaurt,yoghurt
 ibric,pot
@@ -1557,197 +1603,44 @@ ierta,forgive
 iese,goes out
 ieşi,go out
 ieşire,exit
-îi/i-,him
-îl/-l/l-,him
 imagina,imagine
 imagine,image
-îmbăta - se,get drunk
-îmbătrîni,get old
-îmbogăti,enrich
-îmbrăca,dress
-îmbrăcăminte,clothing
-îmbrăţişa,embrace
-îmbunătăţi,improve
 imediat,straightaway
 imens,immense
-îmi,to me
-îmi pare bine,I am glad
-îmi pare rău,I am sorry
 imita,imitate
-împăca,reconcile
 impacheta,pack
-împărat,emperor
-împărţi,divide
 imperiu,empire
-împiedica,hinder
-împinge,push
-împins,pushed
-împletici,stagger
-împlini,accomplish
 impodobi,adorn
 important,important
 importanţă,importance
 impotniva,against
 impozit,tax
-împrejur,round
-împrejurare,circumstance
-împrejurul,around
 impresie,impression
-împreună,together
-împrumut,loan
-împrumuta,lend
-impunător,impressive
 impune,impose
+impunător,impressive
 impus,imposed
-împuşca,shoot
 in,flax
-în,in
-în drum spre,on the way to
-în general,in general
-în jur,around
-în jurul,around
-în loc de,instead of
-în pace,in peace
-în pace şi linişte,in peace and quiet
-în străinătate,abroad
 in timpul,during
-în total,altogether
-înaintat,advanced
-înainte,beforehand
-înainte de,before
-înaintea,in front of
-înalt,tall
-înălţime,height
 inamic,enemy
-înapoi,backwards
-înăuntru,in
-inăuntrul,inside
-încă,yet
-încălca,infringe
-încălca legea,break the law
-încălcare,violation
-încălzi,warm up
-încăpea,fit into
-încăput,fitted into
-încărca,load
-începe,begin
-început,begun
-încerca,try
-încercare,attempt
-încet,slowly
-înceta,cease
-încheia,close
-încheiere,conclusion
-închide,close
-închina,toast
-închipui,imagine
-închis,closed
-închisoare,prison
-incît,that
-înclinaţie,inclination
-încoace,hither
-încolo,thither
-înconjura,surround
-încotro,whither
-încredere,confidence
-încredinţa,entrust
-încuia,lock up
 incultură,lack of education
-încuraja,encourage
-încurca,tangle
-îndată,immediately
-îndatorat,indebted
-îndelungat,protracted
-îndemn,insistence
-îndemna,urge
-îndeosebi,especially
-îndepărtat,distant
+incît,that
 independent,independence
-îndeplini,fulfil
-India,India
 individ,guy
-îndoi,fold
-îndoială,doubt
-îndrăzni,dare
-îndrepta,put right
-îndreptăţit,justified
-îndruma,guide
-îneca,drown
 inel,ring
-înfăţişa,present
-înfige,stick in
-ínfiinţa,establish
-înfiorător,frightful
-înflori,flourish
-înfloritor,flourishing
 influent,influential
 influenţa,influence
 informaţie,information
-înfrînge,defeat
-înfrînt,defeated
-înfrunta,confront
-înfuria,make furious
-înger,angel
-îngheţa,freeze
-îngheţată,ice-cream
-înghiţi,swallow
 inginer,engineer
-îngriji,look after
-îngrijit,careful
-îngrijorat,worried
-îngropa,bury
-îngrozi,terrify
-îngrozit,terrified
-îngust,narrow
 inimă,heart
 iniţiativă,initiative
-înjosi,humble
-înjosire,degradation
-înjositor,humiliating
-înjunghia,stab
-înlocui,replace
-înlocuire,substitution
-înmuia,dip
-înmulţi,multiply
-înnebuni,go mad
-înnoda,tie
-înot,swimming
-înota,swim
-înregistra,record
-înrobi,enslave
-înrobire,enslavement
-înrobitor,enslaving
-înrola,enlist
-înroşi,blush
-înrudi,be related to
-înrudire,relationship. relation
-înrudit,related
-însă,however
-însăila,stitch
-înscrie,enrol
-înscriere,enrolment
-înscris,enrolled
-însemna,mean
 insemnat,important
-însemnatate,importance
-însetat,thirsty
 insista,insist
-înspre,towards
-înspre prinz,towards midday
 instala,install
 instalator,plumber
-înştiinţa,inform
 instrument,instrument
 insulă,island
-întări,strengthen
-întelege,understand
-înţelege,understand
-înţelept,wise
-înţeles,understood
 inteligent,intelligent
-întemeia,found
 intenţie,intention
-înţepeni,become stiff
 interes,interest
 interesa,interest
 interesant,interesting
@@ -1756,66 +1649,33 @@ interpret,interpreter
 interveni,intervene
 interzice,forbid
 interzis,forbidden
-intîi,first.
-întîia,first
-întîiul,first
-întîlni,meet
-întinde,stretch
-întins,spread
-întîrzia,be late
-intîrziere,delay
-întoarce,return
-întotdeauna,always
 intra,enter
 intrare,entrance
-între,between
-între timp,meanwhile
-întreba,ask
-întrebare,question
-întreg,whole
-întreprindere,enterprise
-întrerupe,interrupt
-întrerupt,interrupted
-întrista,sadden
 introduce,introduce
 introducere,introduction
 introdus,introduced
-întrucît,inasmuch as
-întuneca,darken
-întunecat,dark
+intîi,first.
+intîrziere,delay
 inunda,flood
 inutil,useless
 invada,invade
-învălui,envelop
-învăţa,learn
-învăţămînt,education
-învăţător,teacher
 invazie,invasion
-înveli,cover over
-înviere,resurrection
-învinge,defeat
-învins,defeated
-învinui,accuse
-învîrti,spin
 invita,invite
 invitaţie,invitation
-Iran,Iran
-Irlanda,Ireland
+inăuntrul,inside
 iscoadă,lookout
 iscodi,pry into
 iscoditor,prying
 iscusinţă,skill
 iscusit,skilful
-Islanda,Iceland
 islaz,common
-ispăşi,atone for
-ispăşire,expatiation
-ispită,temptation
 ispiti,tempt
 ispititor,tempting
+ispită,temptation
 ispravă,success
 isprăvi,terminate
-Israel,Israel
+ispăşi,atone for
+ispăşire,expatiation
 istoric,historian
 istorie,history
 istorisi,narrate
@@ -1823,12 +1683,10 @@ istorisire,narration
 istovi,exhaust
 istovit,exhausted
 istovitor,exhausting
-Italia,Italy
 italian,Italian
 iubi,love
 iubire,love
 iubit,lover
-Iugoslavia,Yugoslavia
 iulie,July
 iunie,June
 iute,quickly
@@ -1837,7 +1695,6 @@ izbucni,break out
 izola,isolate
 izvor,spring
 jale,sadness
-Japonia,Japan
 jefui,plunder
 jertfă,sacrifice
 jigni,offend
@@ -1864,37 +1721,22 @@ la nord,in the North
 la parter,downstairs
 la pat,in bed
 la revedere,goodbye
-la sărbătoare,to the festival
 la sud,in the south
+la sărbătoare,to the festival
 la timp,on time
 labă,paw
 lac,lake
-lăcătuş,locksmith
-lăcomie,greed
 lacrimă,tear
-lăcui,varnish
-lăcustă,grasshopper
 ladă,box
-lamă,blade
 lampă,lamp
-lămuri,elucidate
+lamă,blade
 lan,field
 lanţ,chain
 lapte,milk
 larg,wide
-lărgi,widen
-lărgime,width
-laş,coward
-lăsa,leave
 lat,wide
-lăţi,widen
-lăţime,width
-lăţos,shaggy
-lătra,bark
-lătrat,barking
 laudă,praise
-lăudabil,laudable
-lăutar,gipsy fiddler
+laş,coward
 leac,remedy
 leafă,salary
 leal,loyal
@@ -1906,29 +1748,25 @@ lega,tie
 legal,legal
 legalitate,legality
 legaliza,legalize
-legăna,swing
 legatar,heir
-legătură,connection
 lege,law
-legendă,legend
 legendar,legendary
-legislaţie,legislation
+legendă,legend
 legislativ,legislative
+legislaţie,legislation
 legitim,legitimate
 legumă,vegetable
+legăna,swing
+legătură,connection
 lemn,wood
 lene,laziness
 leneş,lazy
 lent,slow
 lentilă,lens
 leoaică,lioness
-lepăda,drop
-lepră,leprosy
 lepros,leper
-leş,corpse
-leşie,lye
-leşin,swoon
-leşina,faint
+lepră,leprosy
+lepăda,drop
 lesne,easily
 lesnicios,easy
 lespede,slab
@@ -1936,6 +1774,10 @@ lest,ballast
 letargie,lethargy
 letopişet,chroicle
 leu,lion
+leş,corpse
+leşie,lye
+leşin,swoon
+leşina,faint
 liber,free
 libera,free
 libertate,freedom
@@ -1943,22 +1785,20 @@ librărie,bookshop
 liceu,secondary school
 lichid,liquid
 lift,lift
-limbă,language
 limbaj,language
 limbut,chatterbox
+limbă,language
 limfă,lymph
 limita,limit
-limită,limit
 limitare,limitationþ
 limitat,limited
+limită,limit
 limonadă,lemonade
 limpede,clear
 limpezi,clarify
 lin,gently
-lînă,wool
-lîngă,beside
-lingură,spoon
 linguriţă,teaspoon
+lingură,spoon
 linguşi,flatter
 linguşire,flattery
 linguşitor,flattering
@@ -1974,8 +1814,8 @@ lipi,stick
 lipsi,be missing
 liră sterlină,pound sterling
 listă,list
-literă,letter
 literatură,literature
+literă,letter
 litoral,seaside
 litru,litre
 liturghie,liturgy
@@ -1988,12 +1828,10 @@ locuinţă,household
 locuitor,inhabitant
 logodnic,fiance
 logodnică,fiancee
-Londra,London
 lor,their
 lovi,hit
 lua,take
 lua masă,hava a meal
-luăm,wetake
 luaţi,you take
 luci,sparkle
 lucra,work
@@ -2003,20 +1841,34 @@ lui,"his, him"
 lume,people
 lumină,light
 lumînare,candle
-lună,moon
 lung,long
 lungime,length
 luni,Monday
+lună,moon
 lup,wolf
 lupta,to fight
 luptă,fight
-mă bucur mult de cunoştintă,pleased to meet you
-măduvă,marrow
-măgar,ass
+luăm,wetake
+lîngă,beside
+lînă,wool
+lăcomie,greed
+lăcui,varnish
+lăcustă,grasshopper
+lăcătuş,locksmith
+lămuri,elucidate
+lărgi,widen
+lărgime,width
+lăsa,leave
+lătra,bark
+lătrat,barking
+lăudabil,laudable
+lăutar,gipsy fiddler
+lăţi,widen
+lăţime,width
+lăţos,shaggy
 magazin,shop
 maghiar,Hungarian
 magnetofon,tape recorder
-măguli,flatter
 mahala,seedy district
 mai,May
 mai ales,especially
@@ -2024,33 +1876,19 @@ mai mult,more
 maică,mother
 mal,bank
 mamă,mother
-mămăligă,polenta
-mănăstire,monastery
 manual,text book
-mănuşă,glove
 manuscris,manuscript
-măr,apple
 mare,big
-Marea Britanie,Great Britain
 marfă,goods
 margine,edge
-mări,increase
-mărime,size
 maro,brown
-marţi,Tuesday
 martie,March
-mărturisi,confess
-masă,table
+marţi,Tuesday
 masculin,masculine
-maşină,car
-măslină,olive
-măsură,measure
-mătase,silk
+masă,table
 matematică,maths
-mătura,sweep
-mătură,broom
-mătuşă,aunt
 mazăre,peas
+maşină,car
 mea,my
 medic,doctor
 medicament,medicine
@@ -2070,12 +1908,11 @@ merita,deserve
 mers,gone
 mesaj,message
 meserie,trade
-meşter,foreman
-meşteşug,handicraft
 metru,metre
 meu,my
-Mexic,Mexico
 mezeluri,wurst
+meşter,foreman
+meşteşug,handicraft
 mia,thousandth
 miazănoapte,north
 miazăzi,south
@@ -2088,50 +1925,41 @@ miere,honey
 mierlă,blackbird
 miez,middle
 migdală,almond
-mîine,tomorrow
 mijloc,middle
-milă,mile
 miliard,thousand million
 milion,million
-mînă,hand
-mînca,eat
-mîncare,food
+milă,mile
 mincinos,deceitful
 minciună,lie
-mîndrie,pride
-mîndru,proud
 mineral,mineral
 minge,ball
-mîngîia,caress
-mînie,anger
 minister,ministry
 ministru,minister
 minoritate,minority
 minte,mind
-minţi,lie
 minuna,astonish
 minunat,wonderful
 minune,miracle
 minut,minute
+minţi,lie
 mirare,astonishment
 mire,bridegroom
 mireasă,bride
 mirosi,smell
+mitropolit,metropolitan bishop
 mişca,move
 mişcare,movement
-mitropolit,metropolitan bishop
 mlaştina,marsh
 moale,soft
-moară,mill
 moarte,death
+moară,mill
 mobilă,furniture
 mod,manner
-modă,fashion
 model,pattern
 modern,modern
 modifica,modify
+modă,fashion
 moi,soft
-Moldova,Moldavia
 moment,moment
 mondial,world
 monedă,coin
@@ -2142,16 +1970,7 @@ morcov,carrot
 mormînt,tomb
 mort,dead
 morun,sturgeon
-moş,old man
-Moş Crăciun,Father Christmas
-Moscova,Moscow
-moşie,estate
-moşteni,inherit
-moştenitoare,heiress
-moştenitor,heir
-moţ,tuft
 motan,tomcat
-moţat,crested
 motiv,reason
 motiva,motivate
 motivare,motivation
@@ -2161,6 +1980,13 @@ motor,engine
 motorină,diesel oil
 mototoli,crumple
 mov,mauve
+moş,old man
+moşie,estate
+moşteni,inherit
+moştenitoare,heiress
+moştenitor,heir
+moţ,tuft
+moţat,crested
 muc,end
 mucalit,funny
 muced,mouldy
@@ -2177,72 +2003,89 @@ mulţumesc,thank you
 mulţumi,thank
 mulţumit,satisfied
 mulţumită,thanks to
-muncă,worlclabour
 munci,work hard
 muncitoare,female worker
 muncitor,worker
+muncă,worlclabour
 munte,mountain
-Muntenia,Muntenia
-Munţii Carpaţi,Carpathian mountains
 murdar,dirty
 muri,die
 muri de foame,die of hunger
 musafir,guest
 muscă,fly
-muşca,bite
-muşchi,sirloin steak
-muştar,mustard
 mustaţă,moustache
 mustra,scold
 mut,dumb
 muta,move
 muzeu,museum
 muzică,music
-nadă,bait
-nădejde,hope
+muşca,bite
+muşchi,sirloin steak
+muştar,mustard
+mîine,tomorrow
+mînca,eat
+mîncare,food
+mîndrie,pride
+mîndru,proud
+mîngîia,caress
+mînie,anger
+mînă,hand
+mă bucur mult de cunoştintă,pleased to meet you
+măduvă,marrow
+măgar,ass
+măguli,flatter
+mămăligă,polenta
+mănuşă,glove
+mănăstire,monastery
+măr,apple
+mări,increase
+mărime,size
+mărturisi,confess
+măslină,olive
+măsură,measure
+mătase,silk
+mătura,sweep
+mătură,broom
+mătuşă,aunt
 nadir,nadir
-năduşi,sweat
+nadă,bait
 nai,pan pipe
 nailon,nylon
 naiv,naive
 nalbă,mallow
 namilă,giant
-nămol,mud
 nap,turnip
 nară,nostril
 nas,nose
-naş,godfather
-naşă,godmother
-născut,born
-naşte,give birth
-naştere,birth
 nasture,button
 natalitate,birthrate
+natriu,sodium
+natural,natural
+natură,nature
+naş,godfather
+naşte,give birth
+naştere,birth
+naşă,godmother
 naţional,national
 naţiune,nation
-natriu,sodium
-natură,nature
-natural,natural
-năvăli,attack
 nea,snow
 neam,people
 neamţ,German
 neapărat,without fail
 neascultätor,disobedient
-neaşteptat,unexpected
 neastîmpărat,restless
+neaşteptat,unexpected
 nebun,mad
 nebunie,madness
-necăji,vextrouble
 necaz,trouble
 necesar,necessary
+necăji,vextrouble
 nedreptate,injustice
 nedumerire,surprise
 nefolositor,useless
 negru,black
 negură,mist
 negustor,dealer
-neîntrecut,unsurpassed
 nemaipomenit,unprecedented
 nemţeşte,in German
 nenorocire,misfortune
@@ -2255,21 +2098,22 @@ nesimţitor,inconsiderate
 neted,smooth
 neutru,neutral
 nevastă,wife
-nevăzut,unseen
 nevinovat,innocent
 nevoie,need
-nicăieri,nowhere
+nevăzut,unseen
+neîntrecut,unsurpassed
 nici,nor
 nici nu... nici,neither... nor
 niciodată,never
 niciunul,none
+nicăieri,nowhere
 nimeni,nobody
 nimic,nothing
 ninge,snow
 ninsoare,falling snow
 nisip,sand
-nişte,some
 nivel,level
+nişte,some
 noapte,night
 noapte bună,goodnight
 nod,knot
@@ -2277,12 +2121,11 @@ noi,we
 noiembrie,November
 nominativ,nominative
 nor,cloud
-noră,daughter-in-law
 nord,north
 nord-vest,north west
 noroc,cheers
 noroi,mud
-Norvegia,Norway
+noră,daughter-in-law
 nostim,nice
 nostru,our
 nota,note
@@ -2291,7 +2134,6 @@ nou,new
 noua,ninth
 nouă,nine
 nouă sute,nine hundred
-Noua Zeelandă,New Zealand
 nouălea,ninth
 nouăsprezece,nineteen
 nouăsprezecea,nineteenth
@@ -2304,40 +2146,45 @@ nu am chef,I don't feel like it
 nu avea dreptate,be wrong
 nuanţa,shade
 nuc,walnut tree
-nucă,walnut
 nucleu,nuclear
+nucă,walnut
 nud,nude
 nufăr,water lily
 nuia,rod
 nul,draw
 numai,only
 numaidecît,immediately
+nume,name
 număr,number
 număra,count
-nume,name
 nuntă,wedding
 nurcă,mink
 nutri,cherish
 nutritiv,nourishing
-nuvelă,short story
 nuvelist,story teller
+nuvelă,short story
+nădejde,hope
+năduşi,sweat
+nămol,mud
+născut,born
+năvăli,attack
 o,a
 o dată,once
 oacheş,swarthy
 oaie,sheep
 oală,bowl
 oameni,men
-oară,occasion
 oarecum,a certain extent
+oară,occasion
 obicei,custom
-obidă,bitterness
 obidi,oppress
+obidă,bitterness
 obiect,object
 obişnui - se,get accustomed
 obişnuit,usual
 obliga,oblige
-obligaţie,obligation
 obligatoriu,obligatory
+obligaţie,obligation
 oblitera,rase
 obosi,tire
 obosit,tired
@@ -2360,10 +2207,9 @@ odinioară,formerly
 odor,jewel
 oferi,offer
 oficiu poştal,post office
-oglindă,mirror
 oglindi,reflect
+oglindă,mirror
 oi,sheep
-Olanda,Holland
 olog,lame
 om,man
 om de afaceri,businessman
@@ -2394,7 +2240,6 @@ optzecea,eightieth
 optzeci,eighty
 optzecilea,eightieth
 opus,opposite
-oră,hour
 orar,timetable
 oraş,town
 orb,blind
@@ -2403,33 +2248,29 @@ orchestră,orchestra
 ordine,order
 ordona,give an order to
 orez,rice
-Organizaţia Naţiunilor Unite,United Nations
 organizaţie,organisation
 orgolios,conceited
 ori - ori,either... or
 oricare,any
 orice,any
-oricînd,anytime
 oricine,anyone
-Orientul,Middle East
+oricînd,anytime
 origine,origin
 orizont,horizon
 ortodox,Orthodox
 orz,barley
+oră,hour
 os,bone
-osîndi,condemn
 ospitalier,hospitable
-oţet,vinegar
+osîndi,condemn
 otravă,poison
 ou,egg
 ovăz,oats
-păcat,sin
+oţet,vinegar
 pace,peace
 pachebot,steamboat
 pachet,packet
 pacient,patient
-păduche,louse
-pădure,forest
 pagină,page
 pagubă,loss
 pahar,glass
@@ -2437,84 +2278,62 @@ pai,straw
 paisprezece,fourteen
 paisprezecea,fourteenth
 paisprezecelea,fourteenth
-Pakistan,Pakistan
 pal,pale
-pălărie,hat
 palat,palace
-palmă,palm
 palmares,record
+palmă,palm
 palpita,thrill
 palton,overcoat
-pămînt,earth
-pană,feather
-până,to
-până la capăt,to the end
 pancreas,pancreas
 panică,panic
 panou,panel
 pansa,dress
 pansament,dressing
-pantă,slope
 pantaloni,trousers
 pantof,shoe
 pantofar,shoemaker
+pantă,slope
+pană,feather
 papetărie,stationer’s
 papuc,slipper
-păpuşă,doll
 par,pole
-păr,hair
 para,penny
-pară,pear
-părăsi,abandon
 parc,park
 parca,park
 parcă,probably
 pardesiu,light overcoat
-părea,seem
-părere,opinion
-părinte,parent
-Paris,Paris
 parte,part
 parter,ground floor
 participa,participate
 particular,private
 partid,political party
-părut,appeared
+pară,pear
 pas,pace
 pasager,passenger
-paşaport,passport
-pasăre,bird
-paşnic,peaceful
 pastă,paste
-Paşti,Easter
-păstra,keep
+pasăre,bird
 pat,bed
-pată,stain
-păta,stain
-păţi,endure
 patinaj,skating
 patra,fourth
-pătrat,square
 patrie,fatherland
-pătrime,one fourth
 patru,four
 patru sute,four hundred
 patrulea,fourth
-pătrunde,penetrate
-pătruns,penetrated
 patruzecea,fortieth
 patruzeci,forty
 patruzecilea,fortieth
+pată,stain
 pauză,pause
-păzi,guard
+paşaport,passport
+paşnic,peaceful
 pe,on
 pe curînd,see you soon
 pe la,about
 pe lîngă,as well as
 pe rind,in turn
 pe rînd,in turn
-pe şleau,plainly
 pe urmă,then
+pe şleau,plainly
 pedeapsă,punishment
 peisaj,landscape
 pensie,pension
@@ -2534,54 +2353,42 @@ pernă,pillow
 peron,platform
 persoană,person
 peste,over
-peşte,fish
 petrece,spend (time)
 petrecere,party
 petrecut,spent (time)
 petrol,oil
-piaţă,square
+peşte,fish
 piatră,stone
+piaţă,square
 pica,drop
-picătură,drop
 picior,leg
 pictură,picture
 picup,record player
+picătură,drop
 piele,skin
 piept,chest
-pieptăna,comb
 pieptene,comb
+pieptăna,comb
 pierde,lose
 pierdut,lost
 piersică,peach
 piesă,play
 pieton,pedestrian
-pîine,bread
 pildă,model
 pilulă,pill
 pin,pine tree
-pînă,until
-pînă cînd,until
-pînă Ia,as far as
-pînă le,as far as
-pînză,cloth
 piper,pepper
 pisică,cat
 pistol,pistol
 pix,ballpoint pen
-plăcea,like
-pläcere,pleasure
-plăcere,pleasure
-plăcut,pleasant
 plafon,ceiling
 plajă,beach
-plămîn,lung
 plan,plan
 plans,cried
 planta,to plant
 plantă,plant
 plapumă,quilt
 plată,payment
-plăti,pay
 pleca,leave
 plecare,departure
 plecat,out
@@ -2589,68 +2396,69 @@ plic,envelope
 plictisitor,boring
 plimbare,walk
 plin,full
-plînge,cry
 ploaie,rain
 ploua,rain
 plural,plural
 pluti,float
+pläcere,pleasure
+plînge,cry
+plăcea,like
+plăcere,pleasure
+plăcut,pleasant
+plămîn,lung
+plăti,pay
 poartă,gate
 pod,bridge
 podea,floor
 poezie,poem
-poftă,appetite
 pofti,invite
 poftim,pardon
 poftim?,pardon?
 poftiţi,here you are
+poftă,appetite
 poimîine,day after tomorrow
 policlinică,clinic
 politeţe,politeness
-politică,politics
 politicos,polite
+politică,politics
 poliţist,policeman
-Polonia,Poland
 pom,tree
 pomeni,mention
 pompier,fireman
-popă,pope
 popor,people
 populaţie,population
+popă,pope
 porc,pig
 poreclit,nicknamed
 porni,set out
 port,port
 portocală,orange
 portofel,wallet
-Portugalia,Portugal
 porumb,corn
 poruncă,order
 posibil,possible
-poşta,to post
-poştă,post
 potrivit,suitable
 poveste,story
 povesti,relate
-poză,photograph
 poziţie,position
+poză,photograph
+poşta,to post
+poştă,post
 praf,dust
-prăji,fry
-prăjitură,cake
-prăvălie,shop
 prea,too
 prefera,prefer
 pregăti,prepare
 prelungi,prolong
 premiu,reward
 preot,priest
-presă,press
-preşidinte,president
 prestigiu,prestige
 presupune,suppose
 presupus,supposed
-preţ,price
+presă,press
 pretutindeni,everywhere
 prezenta,introduce
+preşidinte,president
+preţ,price
 pricepe,understand
 priceput,understood
 pricină,reason
@@ -2659,17 +2467,16 @@ prietenie,friendship
 prim,first
 prima,first
 primar,mayor
-primăvarä,spring
-primăvară,spring
 primejdie,danger
 primi,receive
 primul,first
+primăvarä,spring
+primăvară,spring
 prin,through
 prin avion,by air mail
 prinde,catch
 prins,caught
 printre,among
-prînz,lunch
 privelişte,view
 privi,look at
 privinţă,respect
@@ -2701,6 +2508,10 @@ prost,poorly
 prostie,stupidity
 provincie,province
 prună,plum
+prînz,lunch
+prăji,fry
+prăjitură,cake
+prăvălie,shop
 public,public
 publicitate,publicity
 puhoi,torrent
@@ -2718,57 +2529,57 @@ purice,flea
 purta,wean
 purtare,behaviour
 pus,put
-puşcă,rifle
 pustiu,desert
 putea,be able
 putere,power
 puternic,powerful
+putrezit,rotten
+puşcă,rifle
 puţin,a little
 puţin/pic,little
 puţini,few
-putrezit,rotten
-răbdare,patience
-răceală,cold
+până,to
+până la capăt,to the end
+pîine,bread
+pînză,cloth
+pînă,until
+pînă Ia,as far as
+pînă cînd,until
+pînă le,as far as
+păcat,sin
+păduche,louse
+pădure,forest
+pălărie,hat
+pămînt,earth
+păpuşă,doll
+păr,hair
+părea,seem
+părere,opinion
+părinte,parent
+părut,appeared
+părăsi,abandon
+păstra,keep
+păta,stain
+pătrat,square
+pătrime,one fourth
+pătrunde,penetrate
+pătruns,penetrated
+păzi,guard
+păţi,endure
 rachetă,rocket
-răci,catch cold
-răcoare,coolness
-rădăcină,root
 rade,shave
 radiator,radiator
 radio,radio
 raft,shelf
 rai,paradise
-ramă,frame
-rămîne,remain
 ramură,branch
-rănit,injured
+ramă,frame
 raport,report
 rar,rare
 ras,shave
-răsări,rise
-răsărit,east
-răscoală,uprising
-răspîndi,spread
-răspîndit,widespread
-răsplată,reward
-răspunde,reply
-răspundere,responsibility
-răspuns,response
-răspunzător,responsible
-răstălmăci,distort
-răstigni,crucify
-răstimp,interval
-răstit,rude
-răsturna,turn over
-raţă,duck
-rătăci,wander
-raţiune,reason
-rău,bad
-răutate,wickedness
 rază,ray
-răzbate,make one's way
-război,war
-răzgîndi - se,change one's mind
+raţiune,reason
+raţă,duck
 reacţie,reaction
 realitate,reality
 realmente,really
@@ -2778,18 +2589,17 @@ reclamă,advertisement
 recomanda,recommend
 recomandat,registered
 recunoaşte,recognise
-recunoscător,grateful
 recunoscut,recognised
+recunoscător,grateful
 reduce,reduce
 redus,reduced
-Regatul Unit,United Kingdom
 rege,king
 regim,diet
 regină,queen
 regiune,region
-regulă,rule
 regularitate,regularity
 regulat,regular
+regulă,rule
 relaţie,relation
 relief,relief
 relua,take up
@@ -2808,16 +2618,12 @@ reproş,reproach
 reproşa,reproach
 reptilă,reptile
 republica,republic
-reşou,electric ring
 respinge,reject
 respins,rejected
 respira,breath
 rest,change
 restaurant,restaurant
 resursă,resource
-reţetă,prescription
-reţine,retain
-reţinut,retained
 retrage,withdraw
 retras,withdrawn
 reuşi,succeed
@@ -2827,126 +2633,99 @@ rezerva,reserve
 rezervat,reserved
 rezolva,solve
 rezultat,result
+reşou,electric ring
+reţetă,prescription
+reţine,retain
+reţinut,retained
 ridica,lift up
-rînd,row
 rinichi,kidney
-Rinul,Rhine
 ris,laughed
-rîs,laughter
 risc,risk
 risca,risk
 rob,slave
 rochie,a dress
 rod,fruit
 rol,role
-Roma,Rome
 roman,novel
 român,Romanian
 românesc,Romanian
 româneşte,in Romanian
-România,Romania
 romîn,Romanian man
 romîncă,Romanian woman
 romînesc,Romanian
 romîneşte,in Romanian
-Romînia,Romania
-roşie,tomato
 rost,meaning
-roşu,red
 rotund,round
 rouă,dew
 roz,pink
+roşie,tomato
+roşu,red
 rudă,relative
 ruga,ask (to do)
+rugină,rust
 rugăciune,prayer
 rugăminte,request
-rugină,rust
 rujul ei,her lipstick
 rus,Russian man
 rusesc,Russian
 ruseşte,in Russian
-Rusia,Russia
 ruşine,shame
-şa,saddle
+rînd,row
+rîs,laughter
+răbdare,patience
+răceală,cold
+răci,catch cold
+răcoare,coolness
+rădăcină,root
+rămîne,remain
+rănit,injured
+răscoală,uprising
+răsplată,reward
+răspunde,reply
+răspundere,responsibility
+răspuns,response
+răspunzător,responsible
+răspîndi,spread
+răspîndit,widespread
+răstigni,crucify
+răstimp,interval
+răstit,rude
+răsturna,turn over
+răstălmăci,distort
+răsări,rise
+răsărit,east
+rătăci,wander
+rău,bad
+răutate,wickedness
+răzbate,make one's way
+război,war
+răzgîndi - se,change one's mind
 sac,sack
 sacoşă,grip bag
-şaisprezece,sixteen
-şaisprezecea,sixteenth
-şaisprezecelea,sixteenth
-şaizecea,sixtieth
-şaizeci,sixty
-şaizecilea,sixtieth
-sală,hail
 salam,salami
 salariat,employee
 salariu,salary
 salată verde,lettuce
-sălbatic,wild
 salcie,willow tree
 salon,drawing room
 salt,leap
 saluta,greet
 salva,save
-sămînţă,seed
-şampanie,champagne
-sănătate,health
-sănătos,healthy
+sală,hail
 sanie,sledge
-sânt,am
-şanţ,ditch
 sapă,hoe
-săpa,dig
-săptămînă,week
-şapte,seven
-şapte sute,seven hundred
-şaptea,seventh
-şaptelea,seventh
-şaptesprezece,seventeen
-şaptesprezecea,seventeenth
-şaptesprezecelea,seventeenth
-şaptezecea,seventieth
-şaptezeci,seventy
-şaptezecilea,seventieth
-săpun,soap
-sărac,poor
-sărăcie,poverty
-sărbătoare,celebration
-sărbători,celebrate
 sarcină,burden
 sare,salt
-sări,jump
-şarpe,snake
-săruta,kiss
-şase,six
-şase sute,six hundred
-şasea,sixth
-şaselea,sixth
-şasezeci,sixty
 sat,village
-sătul,satiated
 sau,or
-său,his
 sau... sau,either... or
-scădea,reduce
-scădere,diminuation
-scăfîrlie,skull
-scălda,bathe
-scămoşa,fray
-scămoşat,frayed
 scandal,scandal
-scăpa,escape
-scăpăra,send out
-scăpare,escape
-scăpăta,grow poor
 scară,ladder
-scărpina,scratch
-scărpinat,scratching
 scaun,chair
-scăzut,reduced
 scelerat,criminal
-scenă,scene
 scenariu,scenario
 scenetă,sketch
+scenă,scene
 sceptru,sceptre
 schelă,scaffolding
 schelărie,scaffolding
@@ -2959,12 +2738,9 @@ schijă,splinter
 schilod,cripple
 schimb,exchange
 schimba,change
-scînteia,sparkle
-şcoală,school
 scoate,get out
 scop,purpose
 scos,taken out
-Scoţia,Scotland
 scrie,write
 scriitor,writer
 scris,written
@@ -2975,8 +2751,22 @@ scund,low
 scurt,short
 scurta,shorten
 scutura,shake
-scuză,excuse
 scuzaţi,sorrz
+scuză,excuse
+scînteia,sparkle
+scădea,reduce
+scădere,diminuation
+scăfîrlie,skull
+scălda,bathe
+scămoşa,fray
+scămoşat,frayed
+scăpa,escape
+scăpare,escape
+scăpăra,send out
+scăpăta,grow poor
+scărpina,scratch
+scărpinat,scratching
+scăzut,reduced
 se aburi,steam up
 se adresa,address oneself to
 se afla,be situated
@@ -2986,10 +2776,10 @@ se apropria,approach
 se aşeza,sit down
 se bronza,get a tan
 se bucura,be glad
-se căsători,get married
 se coafa,have one’s hair styled
 se concentra,concentrate
 se culca,go to bed
+se căsători,get married
 se depărta,move off
 se descurca,manage
 se dezbrăca,get undressed
@@ -2997,156 +2787,121 @@ se dezlega,come undone
 se distra,enjoy oneself
 se duce,go
 se fofila în,steal into
-se găsi,be available
-se gîndi,think
 se grăbi,hurry
+se gîndi,think
+se găsi,be available
 se holba,stare
 se hotărî,decide
-se îmbogăti,grow rich
-se îmbolnăvi,fall ill
-se îmbrăca,get dressed
-se încălzi,get warm
-se închina,make the sign of the cross
-se încurca,get confused
-se îndoi,doubt
-se îngrozi,be terrified
-se înjosi,humble oneself
-se înmuia,thaw
-se înscrie,enrol
-se însura,marry (men)
-se întîlni,meet
 se intîlni cu,meet (up with)
-se întîmpla,happen
-se întoarce,return
-se întreba,wonder
-se întuneca,become dark
-se învecina cu,be bordered by
-se învîrti,spin
 se ivi,appear
 se juca,play
-se lăbărţa,get out of shape
-se lărgi,expand
 se legăna,swing
 se lepăda de un obicei,get out of a habit
 se limita,limit oneself
 se logodi,become engaged
 se lupta,fight
+se lăbărţa,get out of shape
+se lărgi,expand
 se minuna,be astonished
 se mişca,move
 se naşte,be born
 se numi,be named
 se odihni,rest
 se opri,stop
-se părea,seem
 se petrece,take place
 se plimba,go for a walk
 se plînge,complain
 se prieptăna,comb hair
+se părea,seem
 se rade,shave
+se ruga,pray
 se răspîndi,spread
 se răsti,shout
 se rătăci,wander
-se ruga,pray
-se sătura,have enough
-se scălda,bath
 se scula,get up
 se scumpi,become more expensive
 se scutura,shake
+se scălda,bath
 se simţi,feel
 se spăla,wash
+se sătura,have enough
 se teme,fear
 se topi,melt
 se trezi,wake up
 se tunde,have a haircut
 se uita,look at
 se urca,climb
+se îmbogăti,grow rich
+se îmbolnăvi,fall ill
+se îmbrăca,get dressed
+se închina,make the sign of the cross
+se încurca,get confused
+se încălzi,get warm
+se îndoi,doubt
+se îngrozi,be terrified
+se înjosi,humble oneself
+se înmuia,thaw
+se înscrie,enrol
+se însura,marry (men)
+se întoarce,return
+se întreba,wonder
+se întuneca,become dark
+se întîlni,meet
+se întîmpla,happen
+se învecina cu,be bordered by
+se învîrti,spin
 seară,evening
 sec,dry
 secară,rye
 secera,reap
 secol,century
-şedea,sit
-şedinţă,meeting
-şef,chief
-şei,saddles
 semafor,traffic lights
-semăna,resemble
-şemineu,fireplace
 semn,sign
 semna,sign
-şenilă,caterpillar
+semăna,resemble
 senin,bright blue
 sentiment,feeling
-şeptel,livestock
 septembrie,September
-şerb,serf
 serie,series
-şerif,sheriff
 serios,serious
-şerveţel,napkin
 servi,serve
 serviciu,job
-şes,plain
 sesiune,session
 sete,thirst
-şezlong,deck chair
-şezut,sat
-sfătui,advise
 sfeclă,beetroot
 sfert,quarter
-sfînt,holy
-sfîrşit,end
 sflare,breathing
 sforăi,snore
-şi,and
-şi ... şi,both ... and
-şi aduce,remember
-şi aminti,remember
-şi arăta dinţii,show one's teeth
-şi drege glasul,clear oneîs throat
-şi frînge mîinile,wring one's hands
-şi imagina,imagine
-şi lua răspunderea,assume responsibility
-şi... şi,both... and
-şic,elegant
+sfînt,holy
+sfîrşit,end
+sfătui,advise
 sifon,soda water
 sigur,certain
 siguranţă,safety
 sili,force
-sîmbătă,Saturday
-sîmbure,pip
 simpatic,nice
 simplu,simple
 simţ,feeling
 simţi,feel
-sîn,bosom
 sincer,sincere
 sindicat,union
-sînge,blood
 singular,singular
 singur,single
 singuratic,lonely
-sînt,they are
-sîntem,we are
-sînteţi,you are
-şir,series
 sirop,syrup
 sirop de tuse,cough syrup
 sistem,system
 situat,situated
 situaţie,situation
 slab,weak
+slavă,glory
+slujbă,religious service
 slăbi,lose weight
 slăbiciune,weakness
-slavă,glory
-Slovacia,Slovakia
-slujbă,religious service
-smîntînă,sour cream
 smochină,fig
-şniţel,schnitzel
+smîntînă,sour cream
 soacră,mother-in-law
 soare,sun
-şoarece,mouse
 soartă,fate
 sobă,stove
 social,social
@@ -3155,19 +2910,14 @@ socoteală,calculation
 socoti,reckon
 socri,parents in law
 socru,father in law
-şofer,driver
 soldat,soldier
 somn,sleep
-soră,sister
 sorbi,sip
-şosea,main road
+soră,sister
 sosi,arrive
 soţ,husband
 soţie,wife
 spaimă,dread
-spăla,wash
-spălat,washing
-Spania,Spain
 sparge,break
 spart,broken
 spate,back
@@ -3187,7 +2937,6 @@ sperjur,perjuror
 spin,thorn
 spinare,back
 spinos,thorny
-spînzura,hang
 spirit,spirit
 spiritual,witty
 spirt,spirit
@@ -3203,63 +2952,54 @@ sporovăi,chatter
 sport,sport
 spre,towards
 sprijini,support
-sprînceană,eyebrow
 sprinten,agile
-şpriţ,Spritz
+sprînceană,eyebrow
 spulbera,sweep off
-spumă,foam
 spumega,foam
+spumă,foam
 spune,say
 spus,said
+spînzura,hang
+spăla,wash
+spălat,washing
 sta,stand
 sta jos,sit down
 stabili,establish
-ştampila,stamp
-stăpîni,control
 stare,state
 stat,state
-Statele Unite,United States
+statuie,statue
 staţie,bus stop
 staţiune,holiday resort
-statuie,statue
 stea,star
 steag,flag
-ştecăr,electric plug
 stejar,oak tree
-şterge,wipe
-şters,wiped
-şti,know
 sticlă,bottle
-ştiinţă,science
 stil,style
 stilou,fountain pen
-stimă,respect
 stimat,esteemed
-stîng,left
-stînga,left side
+stimă,respect
 stinge,put out
 stins,extinguished
-ştire,news item
-ştiri,news
-ştiut,known
 stoarce,squeeze
 stofă,cloth
 stomac,stomach
-străbun,ancestor
 stradă,street
-străin,foreign
-ştrand,swimming pool (open-air)
 strica,damage
 striga,call out
+strop,drop
+strugure,grape
 strîmba din nas,turn up one's nose
 strîmt,narrow
 strînge,gather
 strîns,gathered
-strop,drop
-strugure,grape
+străbun,ancestor
+străin,foreign
 student,student
 studentă,female student
 studiu,study
+stîng,left
+stînga,left side
+stăpîni,control
 sub,under
 subiect,subject
 substantiv,noun
@@ -3279,7 +3019,6 @@ suda,solder
 sudoare,sweat
 suedez,Swede
 suedeză,Swedish woman
-Suedia,Sweden
 suferi,suffer
 suferind,invalid
 suferinţă,suffering
@@ -3288,93 +3027,90 @@ suflet,soul
 sufragerie,dining room
 suge,suck
 sui,climb
-şuiera,whistle
 sumă,sum
 suna,ring
-şuncă,ham
 suntem,we are
 sunteţi,you are
-supă,soup
-supăra,annoy
 suprafaţă,surface
 supt,sucked
+supă,soup
+supăra,annoy
 surd,deaf
-surîde,smile
-surîs,smiled
 surprinde,surprise
 surprins,surprised
 surpriză,surprise
+surîde,smile
+surîs,smiled
 sus,up
 suta,hundredth
 sută,hundred
 sutălea,hundredth
+sânt,am
+sîmbure,pip
+sîmbătă,Saturday
+sîn,bosom
+sînge,blood
+sînt,they are
+sîntem,we are
+sînteţi,you are
+sălbatic,wild
+sămînţă,seed
+sănătate,health
+sănătos,healthy
+săpa,dig
+săptămînă,week
+săpun,soap
+sărac,poor
+sărbătoare,celebration
+sărbători,celebrate
+sări,jump
+săruta,kiss
+sărăcie,poverty
+sătul,satiated
+său,his
 tablou,painting
 taburet,stool
-tăcea,be quiet
-tăcere,silence
 tacîm,cover
-tăia,cut
 taină,secret
 talent,talent
 talentat,talented
-Tamisa,Thames
-ţară,country
-Ţara Galilor,Wales
-Ţara Romînească,Wallachia
-ţăran,peasant
 tare,strong
-tărie,strength
-ţărm,coast
 tată,father
-tău,your
 taur,bull
 tavan,ceiling
-taxă,tax
 taxi,taxi
+taxă,tax
 te rog,please
 teamă,fear
 teatru,theatre
 tehnic,technical
-ţel,aim
 teleferic,cable railway
 telefon,telephone
 telefona,telephone
 telegramă,telegram
 televiziune,television
 televizor,television
-temă,theme
 temei,basis
 temperat,temperate
 temperatură,temperature
 temut,feared
+temă,theme
 tendinţă,tendency
 teritoriu,territory
 termen,term
 termina,finish
-ţese,weave
-ţesut,woven
 text,text
-ţigan,gipsy
-ţigară,cigarette
 tigru,tiger
 timbru,stamp
 timp,time
-tînăr,young
-ţine,hold
-ţine minte,remember
 tinereţe,youth
-ţinut,region
-ţipa,scream
 tipări,print
-ţipăt,scream
-tîrg,market
-tîrziu,late
 titlu,title
 toaletă,dressing table
 toamnă,autumn
+toate,all
 toată,all
 toată lumea,everzbody
-toate,all
 toc,fountain pen
 tocană,goulash
 tocmai,exactly
@@ -3383,25 +3119,21 @@ tonă,ton
 topi,melt
 tort,cake
 tot,also
-toţi,all
 totodată,at the same time
 totuşi,nevertheless
 tovarăş,comrade
+toţi,all
 tradiţie,tradition
 tradiţional,traditional
 traduce,translate
 traducere,translation
 tradus,translated
 trage,pull
-trăi,live
 tramvai,tram
 trandafir,rose
 transforma,transform
-Transilvania,Tnansylvania
 transmite,pass on
 tras,pulled
-trăsătură,characteristic
-trăsnet,thunderbolt
 trata,treat
 tratament,treatment
 traversa,cross
@@ -3434,23 +3166,31 @@ tristeţe,sadness
 troleibuz,trolley
 trompetă,trumpet
 trup,body
+trăi,live
+trăsnet,thunderbolt
+trăsătură,characteristic
 tu,you
-ţuică,plum brandy
 tun,cannon
 tuns,haircut
 turc,Turk
-Turcia,Turkey
 turist,tourist
 turn,tower
 turna,pour
-tuşi,cough
 tutun,tobacco
 tutungerie,tobacconist’s
+tuşi,cough
+tînăr,young
+tîrg,market
+tîrziu,late
+tăcea,be quiet
+tăcere,silence
+tăia,cut
+tărie,strength
+tău,your
 ucenic,apprentice
 ucide,kill
 ucigaş,murderer
 ucis,killed
-Ucraina,Ukraine
 ud,wet
 uda,wet
 uimi,surprise
@@ -3462,12 +3202,12 @@ ulei de floarea soarelui,sunflower oil
 ultim,last
 ultimul,the last
 uman,human
-umăr,shoulder
 umbla,walk
 umbră,shadow
 umed,damp
 umfla,inflate
 umil,humble
+umăr,shoulder
 un,a
 un milion,one million
 un pic un pic,little by little
@@ -3475,18 +3215,15 @@ una,first
 una mie,one thousand
 una sută de mii,one hundred thousand
 unchi,uncle
-undă,wave
 unde,where
 undeva,somewhere
+undă,wave
 uneori,sometimes
-Ungaria,Hungary
 unge,oil
 uni,unite
 unic,unique
 unii,some
 unire,union
-Uniunea Europeană,European Union
-Uniunea Sovietică,Soviet Union
 universal,worldwide
 universitate,university
 uns,oiled
@@ -3497,34 +3234,29 @@ unt,butter
 untdelemn,edible oil
 unu,one
 ura,wish
-ură,hate
 urca,climb
 ureche,ear
 urgent,urgent
-urî,hate
 uriaş,giant
-urît,ugly
 urma,follow
-urmă,track
 urmare - prin,consequently
+urmă,track
 urmări,follow
 următor,following
 următorul,the next
 urs,bear
-uşă,door
+urî,hate
+urît,ugly
+ură,hate
 usca,dry
 uscat,dry
-uşor,light
 usturoi,garlic
 util,useful
-vă,you
-vă rog,please
-vacă,cow
+uşor,light
+uşă,door
 vacanţă,holiday
+vacă,cow
 vad,ford
-văd,I see
-vădit,obvious
-văduv,widower
 vagon,carriage
 vagon restaurant,restaurant car
 val,wave
@@ -3533,17 +3265,14 @@ vale,valley
 valiză,suitcase
 valoare,value
 valută,hand currency
-vamă,customs control
 vameş,customs officer
+vamă,customs control
 vapor,ship
-văr,cousin
-vară,summer
 variabil,changeable
 variat,varied
-vărsa,spill
 varză,cabbage
+vară,summer
 vată,cotton wool
-văzut,seen
 veac,century
 vechi,old
 vecin,neighbour
@@ -3553,43 +3282,35 @@ veni,come
 venin,poison
 verde,green
 vesel,joyful
-veşnic,eternal
 vest,west
 veste,piece of news
 vestit,renowned
+veşnic,eternal
 viaţă,life
 vie,vineyard
 vierme,worm
 viitor,future
 vilă,villa
 vin,wine
-vină,blame
-vîna,hunt
 vinde,sell
-vîndut,sold
 vine,he comes
 vineri,Friday
 vinovat,guilty
-vînt,wind
-vînzătoare,sales assistant
+vină,blame
 vioară,violin
-vîrf,peak
 virgulă,comma
-vîrstă,age
 visa,dream
 viscol,blizzard
-vişină,morello cherry
-vită,cattle
 viteaz,brave
-viţel,calf
 viteză,speed
+vită,cattle
 viu,alive
-viză,visa
 vizavi de,opposite
 vizita,visit
 vizită,visit
-Vlad Dracul,VIad the Devil
-Vlad Ţepel,Viad The Impaler
+viză,visa
+vişină,morello cherry
+viţel,calf
 vocabular,vocabulary
 vocativ,vocative
 voce,voice
@@ -3601,27 +3322,35 @@ volum,volume
 voma,vomit
 vopsi,paint
 vor,they want
-vorbă,word
 vorbesc,I speak
 vorbi,speak
 vorbi greceşte,speak Greek
 vorbi pe şleau,speak plainly
 vorbiţi româneşte,do you speak Romanian
+vorbă,word
 vostru,your
 vrea,want
 vreme,time
 vrut,wanted
 vulpe,fox
 vultur,eagle
-zăcea,lie
+vîna,hunt
+vîndut,sold
+vînt,wind
+vînzătoare,sales assistant
+vîrf,peak
+vîrstă,age
+vă,you
+vă rog,please
+văd,I see
+vădit,obvious
+văduv,widower
+văr,cousin
+vărsa,spill
+văzut,seen
 zahăr,sugar
 zahăr tos,castor sugar
-zăpăci,confuse
-zăpăcit,absent-minded
-zăpadă,snow
-zări,catch sight
 zarzavat,green vegetables
-zău,really!
 zbor,flight
 zbura,fly
 zdrobi,crush
@@ -3630,9 +3359,9 @@ zecea,tenth
 zecelea,tenth
 zero,zero
 zeu,God
-zgîria,scratch
 zgomot,noise
 zgomotos,noisy
+zgîria,scratch
 zi,day
 zi de naştere,birthday
 ziar,newspaper
@@ -3640,7 +3369,6 @@ zice,say
 zidi,build
 zile,days
 zilnic,daily
-zîmbi,smile
 zis,said
 ziua,during the day
 ziuă,day
@@ -3648,3 +3376,275 @@ zmeură,raspberries
 zonă,zone
 zugrăvi,paint
 zvon,rumour
+zîmbi,smile
+zăcea,lie
+zăpadă,snow
+zăpăci,confuse
+zăpăcit,absent-minded
+zări,catch sight
+zău,really!
+ínfiinţa,establish
+îi/i-,him
+îl/-l/l-,him
+îmbogăti,enrich
+îmbrăca,dress
+îmbrăcăminte,clothing
+îmbrăţişa,embrace
+îmbunătăţi,improve
+îmbăta - se,get drunk
+îmbătrîni,get old
+îmi,to me
+îmi pare bine,I am glad
+îmi pare rău,I am sorry
+împiedica,hinder
+împinge,push
+împins,pushed
+împletici,stagger
+împlini,accomplish
+împrejur,round
+împrejurare,circumstance
+împrejurul,around
+împreună,together
+împrumut,loan
+împrumuta,lend
+împuşca,shoot
+împăca,reconcile
+împărat,emperor
+împărţi,divide
+în,in
+în drum spre,on the way to
+în general,in general
+în jur,around
+în jurul,around
+în loc de,instead of
+în pace,in peace
+în pace şi linişte,in peace and quiet
+în străinătate,abroad
+în total,altogether
+înaintat,advanced
+înainte,beforehand
+înainte de,before
+înaintea,in front of
+înalt,tall
+înapoi,backwards
+începe,begin
+început,begun
+încerca,try
+încercare,attempt
+încet,slowly
+înceta,cease
+încheia,close
+încheiere,conclusion
+închide,close
+închina,toast
+închipui,imagine
+închis,closed
+închisoare,prison
+înclinaţie,inclination
+încoace,hither
+încolo,thither
+înconjura,surround
+încotro,whither
+încredere,confidence
+încredinţa,entrust
+încuia,lock up
+încuraja,encourage
+încurca,tangle
+încă,yet
+încălca,infringe
+încălca legea,break the law
+încălcare,violation
+încălzi,warm up
+încăpea,fit into
+încăput,fitted into
+încărca,load
+îndatorat,indebted
+îndată,immediately
+îndelungat,protracted
+îndemn,insistence
+îndemna,urge
+îndeosebi,especially
+îndeplini,fulfil
+îndepărtat,distant
+îndoi,fold
+îndoială,doubt
+îndrepta,put right
+îndreptăţit,justified
+îndruma,guide
+îndrăzni,dare
+îneca,drown
+înfige,stick in
+înfiorător,frightful
+înflori,flourish
+înfloritor,flourishing
+înfrunta,confront
+înfrînge,defeat
+înfrînt,defeated
+înfuria,make furious
+înfăţişa,present
+înger,angel
+îngheţa,freeze
+îngheţată,ice-cream
+înghiţi,swallow
+îngriji,look after
+îngrijit,careful
+îngrijorat,worried
+îngropa,bury
+îngrozi,terrify
+îngrozit,terrified
+îngust,narrow
+înjosi,humble
+înjosire,degradation
+înjositor,humiliating
+înjunghia,stab
+înlocui,replace
+înlocuire,substitution
+înmuia,dip
+înmulţi,multiply
+înnebuni,go mad
+înnoda,tie
+înot,swimming
+înota,swim
+înregistra,record
+înrobi,enslave
+înrobire,enslavement
+înrobitor,enslaving
+înrola,enlist
+înroşi,blush
+înrudi,be related to
+înrudire,relationship. relation
+înrudit,related
+înscrie,enrol
+înscriere,enrolment
+înscris,enrolled
+însemna,mean
+însemnatate,importance
+însetat,thirsty
+înspre,towards
+înspre prinz,towards midday
+însă,however
+însăila,stitch
+întelege,understand
+întemeia,found
+întinde,stretch
+întins,spread
+întoarce,return
+întotdeauna,always
+între,between
+între timp,meanwhile
+întreba,ask
+întrebare,question
+întreg,whole
+întreprindere,enterprise
+întrerupe,interrupt
+întrerupt,interrupted
+întrista,sadden
+întrucît,inasmuch as
+întuneca,darken
+întunecat,dark
+întîia,first
+întîiul,first
+întîlni,meet
+întîrzia,be late
+întări,strengthen
+înveli,cover over
+înviere,resurrection
+învinge,defeat
+învins,defeated
+învinui,accuse
+învîrti,spin
+învălui,envelop
+învăţa,learn
+învăţămînt,education
+învăţător,teacher
+înălţime,height
+înăuntru,in
+înştiinţa,inform
+înţelege,understand
+înţelept,wise
+înţeles,understood
+înţepeni,become stiff
+şa,saddle
+şaisprezece,sixteen
+şaisprezecea,sixteenth
+şaisprezecelea,sixteenth
+şaizecea,sixtieth
+şaizeci,sixty
+şaizecilea,sixtieth
+şampanie,champagne
+şanţ,ditch
+şapte,seven
+şapte sute,seven hundred
+şaptea,seventh
+şaptelea,seventh
+şaptesprezece,seventeen
+şaptesprezecea,seventeenth
+şaptesprezecelea,seventeenth
+şaptezecea,seventieth
+şaptezeci,seventy
+şaptezecilea,seventieth
+şarpe,snake
+şase,six
+şase sute,six hundred
+şasea,sixth
+şaselea,sixth
+şasezeci,sixty
+şcoală,school
+şedea,sit
+şedinţă,meeting
+şef,chief
+şei,saddles
+şemineu,fireplace
+şenilă,caterpillar
+şeptel,livestock
+şerb,serf
+şerif,sheriff
+şerveţel,napkin
+şes,plain
+şezlong,deck chair
+şezut,sat
+şi,and
+şi ... şi,both ... and
+şi aduce,remember
+şi aminti,remember
+şi arăta dinţii,show one's teeth
+şi drege glasul,clear oneîs throat
+şi frînge mîinile,wring one's hands
+şi imagina,imagine
+şi lua răspunderea,assume responsibility
+şi... şi,both... and
+şic,elegant
+şir,series
+şniţel,schnitzel
+şoarece,mouse
+şofer,driver
+şosea,main road
+şpriţ,Spritz
+ştampila,stamp
+ştecăr,electric plug
+şterge,wipe
+şters,wiped
+şti,know
+ştiinţă,science
+ştire,news item
+ştiri,news
+ştiut,known
+ştrand,swimming pool (open-air)
+şuiera,whistle
+şuncă,ham
+Ţara Galilor,Wales
+Ţara Romînească,Wallachia
+ţară,country
+ţel,aim
+ţese,weave
+ţesut,woven
+ţigan,gipsy
+ţigară,cigarette
+ţine,hold
+ţine minte,remember
+ţinut,region
+ţipa,scream
+ţipăt,scream
+ţuică,plum brandy
+ţăran,peasant
+ţărm,coast

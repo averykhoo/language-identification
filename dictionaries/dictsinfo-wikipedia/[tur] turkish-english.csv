@@ -11,6 +11,8 @@ Other,English
 10,10
 10,10
 100,100
+100,100
+1000,1000
 1000,1000
 101,101
 105,105
@@ -23,6 +25,7 @@ Other,English
 115,115
 12,12
 12,12
+12,12
 12 Ekim,October 12
 12 Şubat,February 12
 120,120
@@ -31,6 +34,7 @@ Other,English
 13,13
 130,130
 135,135
+14,14
 14,14
 14 Haziran,June 14
 14 Nisan,April 14
@@ -43,21 +47,45 @@ Other,English
 150,150
 155,155
 16,16
+16,16
 160,160
 165,165
+17,17
 17,17
 17 Eylül,September 17
 17 Mart,March 17
 170,170
 1728,1728
+1728,1728
 175,175
+1750'ler,1750s
+1760'lar,1760s
+1770'ler,1770s
+1780'ler,1780s
+1790'lar,1790s
 18,18
 180,180
+1820'ler,1820s
+1830'lar,1830s
+1840'lar,1840s
+1860'lar,1860s
+1870'ler,1870s
+1880'ler,1880s
+1890'lar,1890s
 19,19
 19,19
 19 Mart,March 19
 19 Ocak,January 19
 190,190
+1900'ler,1900s
+1920'ler,1920s
+1930'lar,1930s
+1940'lar,1940s
+1950'ler,1950s
+1960'lar,1960s
+1970'ler,1970s
+1980'ler,1980s
+1990'lar,1990s
 2,2
 2,2
 2 Kasım,November 2
@@ -123,6 +151,7 @@ Other,English
 5 Kasım,November 5
 50,50
 500,500
+500,500
 51,51
 52,52
 53,53
@@ -186,8 +215,8 @@ Other,English
 99,99
 A,A
 A,A
-A vitamini,Vitamin A
 A vitamini,Retinol
+A vitamini,Vitamin A
 ABC,ABC
 ABD Anayasası,United States Constitution
 ABD Doları,United States dollar
@@ -211,6 +240,7 @@ Abadan,Abadan
 Abartıcılık,Hyperbole
 Abel Tasman,Abel Tasman
 Aberdeen,Aberdeen
+Abhazya,Abkhazia
 Abhazya,Abkhazia
 Abican,Abidjan
 Abraham Lincoln,Abraham Lincoln
@@ -246,8 +276,10 @@ Aerosol,Aerosol
 Afalina,Bottlenose Dolphin
 Afazi,Aphasia
 Afganistan,Afghanistan
+Afganistan,Afghanistan
 Aforizma,Aphorism
 Aforoz,Excommunication
+Afrika,Africa
 Afrika,Africa
 Afrikaans,Afrikaans
 Afrikalı Scipio,Scipio Africanus
@@ -262,9 +294,10 @@ Agra,Agra
 Ahit Sandığı,Ark of the Covenant
 Ahlak,Morality
 Ahtapot,Octopus
-Ahududu,Rubus idaeus
 Ahududu,Raspberry
+Ahududu,Rubus idaeus
 Aikido,Aikido
+Aile,Family
 Ain,Ain
 Aineias,Aeneid
 Aiolos,Aeolus
@@ -278,6 +311,7 @@ Akasya,Acacia
 Akciğer,Lung
 Akciğer kanseri,Lung cancer
 Akciğerli balıklar,Lungfish
+Akdeniz,Mediterranean
 Akdeniz,Mediterranean Sea
 Akhenaton,Akhenaten
 Akhilleus,Achilles
@@ -298,6 +332,7 @@ Aktör,Actor
 Akuamarin,Aquamarine
 Akupunktur,Acupuncture
 Akustik,Acoustics
+Akustik,Acoustics
 Akvaryum,Aquarium
 "Akyar, Kırım",Sevastopol
 Akçaağaç,Maple
@@ -308,11 +343,13 @@ Al Capone,Al Capone
 Al Gore,Al Gore
 Alabalıkgiller,Salmonidae
 Alabama,Alabama
+Alabama,Alabama
 Alaca baykuş,Tawny Owl
 Alageyik,Fallow Deer
 Alan,Area
 Alan Turing,Alan Turing
 Alanin,Alanine
+Alaska,Alaska
 Alaska,Alaska
 Alay,Regiment
 Alaşım,Alloy
@@ -365,13 +402,16 @@ Alman Çoban Köpeği,German Shepherd Dog
 Almanak,Almanac
 Almanca,German language
 Almanya,Germany
+Almanya,Germany
 Almatı,Almaty
+Alpler,Alps
 Alpler,Alps
 Alsace,Alsace
 Altair,Altair
 Altar,Altar
 Altay Dağları,Altay Mountains
 Alternatif akım,Alternating current
+Alternatif tıp,Alternative medicine
 Alternatif tıp,Alternative medicine
 Altkültür,Subculture
 Altmış,60
@@ -389,6 +429,7 @@ Amazon Nehri,Amazon River
 Amedeo Avogadro,Amedeo Avogadro
 Amelia Earhart,Amelia Earhart
 Amerigo Vespucci,Amerigo Vespucci
+Amerika Birleşik Devletleri,United States
 Amerika Birleşik Devletleri,United States
 Amerika Birleşik Devletleri Hava Kuvvetleri,United States Air Force
 Amerika Birleşik Devletleri devlet başkanları,President of the United States
@@ -417,8 +458,10 @@ Amonyak,Ammonia
 Amper,Ampere
 Ampermetre,Ammeter
 Amsterdam,Amsterdam
+Amsterdam,Amsterdam
 Amun,Amun
 Amur,Amur
+Ana kategoriler,Fundamental
 Anagram,Anagram
 Anaksagoras,Anaxagoras
 Anaksimandros,Anaximander
@@ -427,8 +470,10 @@ Analitik geometri,Analytic geometry
 Ananas,Pineapple
 Anaokulu,Kindergarten
 Anarşizm,Anarchism
+Anarşizm,Anarchism
 Anason,Anise
 Anatole France,Anatole France
+Anatomi,Anatomy
 Anatomi,Anatomy
 Anayasa,Constitution
 "Anchorage, Alaska",Anchorage
@@ -436,6 +481,7 @@ And Dağları,Andes
 Andaman Denizi,Andaman Sea
 Anders Celsius,Anders Celsius
 Andhra Pradesh,Andhra Pradesh
+Andorra,Andorra
 Andorra,Andorra
 Andrea Palladio,Andrea Palladio
 Andrew Jackson,Andrew Jackson
@@ -453,13 +499,16 @@ Anemometre,Anemometer
 Anestezi,Anesthesia
 Anglikanizm,Anglicanism
 Angola,Angola
+Angola,Angola
 Anguilla,Anguilla
 Anguilliformes,Eel
 Anilin,Aniline
 Animasyon,Animation
 Anime,Anime
+Anime,Anime
 Animizm,Animism
 Ankara,Ankara
+Anlam ayrımı,Disambiguation
 Annapurna,Annapurna
 Anne,Mother
 Anne Boleyn,Anne Boleyn
@@ -473,14 +522,17 @@ Antalya,Antalya
 Antananarivo,Antananarivo
 Antares,Antares
 Antarktika,Antarctica
+Antarktika,Antarctica
 Anthony Hopkins,Anthony Hopkins
 Antibiyotik,Antibiotic
 Antigone,Antigone
 Antigua ve Barbuda,Antigua and Barbuda
+Antik tarih,Ancient history
 Antikor,Antibody
 Antimadde,Antimatter
 Antimon,Antimony
 Antioksidan,Antioxidant
+Antisemitizm,Antisemitism
 Antisemitizm,Antisemitism
 Antlaşma,Treaty
 Antlia,Antlia
@@ -490,6 +542,7 @@ Anton Bruckner,Anton Bruckner
 Anton Çehov,Anton Chekhov
 Antonim,Antonym
 Antonio Vivaldi,Antonio Vivaldi
+Antropoloji,Anthropology
 Antroposofi,Anthroposophy
 Anubis,Anubis
 Anvers,Antwerp
@@ -501,6 +554,7 @@ Apaçi,Apache
 Apia,Apia
 Apollo,Apollo
 Apollo Projesi,Apollo program
+Apollo Projesi,Apollo program
 Apollon,Apollo
 Apoptozis,Apoptosis
 Apple Macintosh,Macintosh
@@ -510,8 +564,8 @@ Aquarius,Aquarius
 Aquila,Aquila
 Ara,Ara
 Arafura Denizi,Arafura Sea
-Aragona,Aragon
 Aragon'lu Catherine,Catherine of Aragon
+Aragona,Aragon
 Aral Gölü,Aral Sea
 Aralık,December
 Aram İlyiç Haçaturyan,Aram Khachaturian
@@ -531,11 +585,16 @@ Aristo,Aristotle
 Aristofanes,Aristophanes
 Aristokrasi,Aristocracy
 Aritmetik,Arithmetic
+Aritmetik,Arithmetic
 Arius,Arius
 Arizona,Arizona
+Arizona,Arizona
+Arjantin,Argentina
 Arjantin,Argentina
 Arkadya,Arcadia
 Arkansas,Arkansas
+Arkansas,Arkansas
+Arkeoloji,Archaeology
 Arkeoloji,Archaeology
 Arketip,Archetype
 Arkeyan Devir,Archean
@@ -543,6 +602,7 @@ Arktik,Arctic
 Armadillo,Armadillo
 Armonika,Harmonica
 Armut,Pear
+Arnavutluk,Albania
 Arnavutluk,Albania
 Arno Nehri,Arno River
 Arnold Schönberg,Arnold Schoenberg
@@ -563,9 +623,11 @@ Artrit,Arthritis
 Arturo Toscanini,Arturo Toscanini
 Artık yıl,Leap year
 Aruba,Aruba
+Aruba,Aruba
 Arya,Aria
 Aryanizm,Arianism
 Arı,Bee
+Arıcılık,Beekeeping
 Arşimet,Archimedes
 Arşiv,Archive
 Asal sayılar,Prime number
@@ -578,6 +640,7 @@ Aseton,Acetone
 Asfalt,Asphalt
 Asit,Acid
 Asit yağmuru,Acid rain
+Askeriye,Military
 Asklepios,Asclepius
 Aslan,Lion
 Asmara,Asmara
@@ -585,15 +648,20 @@ Aspartam,Aspartame
 Assisili Francesco,Francis of Assisi
 Astana,Astana
 Astatin,Astatine
+Asteraceae,Asteraceae
 Asteroit,Asteroid
 Asteroit kuşağı,Asteroid belt
 Astrofizik,Astrophysics
 Astroloji,Astrology
+Astroloji,Astrology
+Astronomi,Astronomy
 Astronomik birim,Astronomical unit
 Astım,Asthma
 Asur,Assyria
+Asur,Assyria
 Asurbanipal,Ashurbanipal
 Asvan,Aswan
+Asya,Asia
 Asya,Asia
 Asya yaban köpeği,Dhole
 Asıl sırtlanlar,Hyena
@@ -616,11 +684,13 @@ Atlantis,Atlantis
 Atlas,Atlas
 Atlas Dağları,Atlas Mountains
 Atlas Okyanusu,Atlantic Ocean
+Atlas Okyanusu,Atlantic Ocean
 Atletizm,Athletics
 Atmacagiller,Accipitridae
 Atmosfer,Atmosphere
 Atom,Atom
 Atom bombası,Nuclear weapon
+Atom fiziği,Atomic physics
 Atom kütlesi,Atomic mass
 Atom numarası,Atomic number
 Atomik kütle birimi,Atomic mass unit
@@ -647,16 +717,20 @@ Avokado,Avocado
 Avrasya,Eurasia
 Avro,Euro
 Avrupa,Europe
+Avrupa,Europe
+Avrupa Birliği,European Union
 Avrupa Birliği,European Union
 Avrupa Merkez Bankası,European Central Bank
 Avrupa Topluluğu,European Community
 Avrupa saksağanı,European Magpie
 Avukat,Lawyer
 Avustralya,Australia
+Avustralya,Australia
+Avusturya,Austria
 Avusturya,Austria
 Avusturya-Macaristan İmparatorluğu,Austria-Hungary
-Ay,Moon
 Ay,Month
+Ay,Moon
 Ay tutulması,Lunar eclipse
 Ayasofya Müzesi,Hagia Sophia
 Ayn Rand,Ayn Rand
@@ -668,6 +742,7 @@ Ayva,Quince
 Ayçiçeği,Sunflower
 Ayıgiller,Bear
 Azak Denizi,Sea of Azov
+Azerbaycan,Azerbaijan
 Azerbaycan,Azerbaijan
 Azimut,Azimuth
 Aziz George,Saint George
@@ -704,7 +779,9 @@ Badem,Almond
 Badminton,Badminton
 Baffin Adası,Baffin Island
 Baffin Körfezi,Baffin Bay
+Bahama,Bahamas
 Baharat,Spice
+Bahreyn,Bahrain
 Bahreyn,Bahrain
 Bahri,Great Crested Grebe
 Baja California,Baja California
@@ -719,6 +796,7 @@ Balalayka,Balalaika
 Balaton Gölü,Lake Balaton
 Balder,Baldr
 Bale,Ballet
+Bale,Ballet
 Balear Adaları,Balearic Islands
 Balinalar,Cetacea
 Balinalar,Whale
@@ -730,15 +808,19 @@ Balta,Axe
 Baltık Denizi,Baltic Sea
 Balık,Fish
 Balık kartalı,Osprey
+Balıklar,Fish
 Balıkçılgiller,Heron
+Balıkçılık,Fishing
 Bamako,Bamako
 Bambu,Bamboo
 Bangalore,Bangalore
 Bangkok,Bangkok
 Bangladeş,Bangladesh
+Bangladeş,Bangladesh
 Bangui,Bangui
 Banjul,Banjul
 Banka,Bank
+Bankalar,Banks
 Banknot,Banknote
 Baobab,Adansonia
 Bar,Bar
@@ -763,6 +845,7 @@ Basiliscus,Basiliscus
 Basilisk,Basilisk
 Bask Vatanı ve Özgürlüğü,ETA
 Basketbol,Basketball
+Basketbol,Basketball
 Basra,Basra
 Basra Körfezi,Persian Gulf
 Bast,Bast
@@ -783,6 +866,7 @@ Batı Virginia,West Virginia
 Batı Şeria,West Bank
 Bauhaus,Bauhaus
 Bavyera,Bavaria
+Bavyera,Bavaria
 Bayağı arı şahini,Honey Buzzard
 Bayağı doğan,Peregrine Falcon
 Bayağı ispinoz,Chaffinch
@@ -800,8 +884,8 @@ Bazilika,Basilica
 Bazitli mantarlar,Basidiomycota
 Bağ doku,Connective tissue
 Bağdat,Baghdad
-Bağımlılık,Drug addiction
 Bağımlılık,Addiction
+Bağımlılık,Drug addiction
 Bağımsız Devletler Topluluğu,Commonwealth of Independent States
 Bağımsız Samoa Devleti,Samoa
 Bağımsızlık,Independence
@@ -831,9 +915,12 @@ Belirti,Symptom
 Belisarius,Belisarius
 Belit,Axiom
 Belize,Belize
+Belize,Belize
+Belçika,Belgium
 Belçika,Belgium
 Benelüks,Benelux
 Bengal Körfezi,Bay of Bengal
+Benin,Benin
 Benin,Benin
 Benito Mussolini,Benito Mussolini
 Benjamin Britten,Benjamin Britten
@@ -850,6 +937,8 @@ Bering Boğazı,Bering Strait
 Bering Denizi,Bering Sea
 Berkelyum,Berkelium
 Berlin,Berlin
+Berlin,Berlin
+Bermuda,Bermuda
 Bermuda,Bermuda
 Bermuda Şeytan Üçgeni,Bermuda Triangle
 Bern,Berne
@@ -858,12 +947,14 @@ Bernhard Riemann,Bernhard Riemann
 Bertolt Brecht,Bertolt Brecht
 Bertrand Russell,Bertrand Russell
 Besin zinciri,Food chain
+Beslenme,Nutrition
 Besteci,Composer
 Beta çözünmesi,Beta decay
 Betelgeuse,Betelgeuse
 Beton,Concrete
 Bette Davis,Bette Davis
 Bey,Bey
+Beyaz Rusya,Belarus
 Beyaz Rusya,Belarus
 Beyaz Saray,White House
 Beyaz balina,Beluga
@@ -890,13 +981,18 @@ Bileşik sayı,Composite number
 Bilgi,Knowledge
 Bilgicilik,Sophism
 Bilgisayar,Computer
+Bilgisayar,Computing
 Bilgisayar ağları,Computer network
+Bilgisayar bilimi,Computer science
+Bilgisayar donanımları,Computer hardware
 Bilgisayar donanımı,Computer hardware
 Bilgisayar mimarisi,Computer architecture
 Bilgisayar programcılığı,Programmer
 Bilgisayar virüsü,Computer virus
 Bilgisayarlı tomografi,Computed tomography
 Bilim,Science
+Bilim,Science
+Bilim kurgu,Science fiction
 Bilim kurgu,Science fiction
 Bilişim bilimi,Computer science
 Bilişsel Bilim,Cognitive science
@@ -913,13 +1009,17 @@ Birinci Haçlı seferi,First Crusade
 Birinci Konsil,First Council of Nicaea
 Birleşik Arap Cumhuriyeti,United Arab Republic
 Birleşik Arap Emirlikleri,United Arab Emirates
+Birleşik Arap Emirlikleri,United Arab Emirates
+Birleşik Krallık,United Kingdom
 Birleşik Krallık,United Kingdom
 Birleşik Krallık Virgin Adaları,British Virgin Islands
+Birleşmiş Milletler,United Nations
 Birleşmiş Milletler,United Nations
 "Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü",UNESCO
 Birleşmiş Milletler Çocuklara Yardım Fonu,United Nations Children's Fund
 Biseksüellik,Bisexuality
 Bisiklet,Bicycle
+Bisiklet,Cycling
 Bisiklet,Cycling
 Biskay Körfezi,Bay of Biscay
 Bismarck,Bismarck
@@ -930,14 +1030,20 @@ Bitkiler,Plant
 Biyocoğrafya,Biogeography
 Biyofizik,Biophysics
 Biyografi,Biography
+Biyografi,Biography
+Biyokimya,Biochemistry
 Biyokimya,Biochemistry
 Biyokütle,Biomass
+Biyoloji,Biology
+Biyoloji,Biology
 Biyoloji,Biology
 Biyom,Biome
 Biyometri,Biometrics
 Biyopsi,Biopsy
 Biyoteknoloji,Biotechnology
+Biyoteknoloji,Biotechnology
 Biyotin,Biotin
+Bizans,Byzantine Empire
 Bizmut,Bismuth
 Biçimbirim,Morpheme
 Bişkek,Bishkek
@@ -958,6 +1064,7 @@ Boks,Boxing
 Bokser,Boxer
 Boksit,Bauxite
 Bolivya,Bolivia
+Bolivya,Bolivia
 Bollywood,Bollywood
 Bolonya,Bologna
 Bolzano,Bolzano
@@ -973,9 +1080,13 @@ Boris Pasternak,Boris Pasternak
 Boris Spassky,Boris Spassky
 Borneo,Borneo
 Bosna-Hersek,Bosnia and Herzegovina
+Bosna-Hersek,Bosnia and Herzegovina
 Boston Çay Partisi,Boston Tea Party
 "Boston, Massachusetts",Boston
+Bot,Bot
 Botanik,Botany
+Botanik,Botany
+Botsvana,Botswana
 Botsvana,Botswana
 Bouvet Adası,Bouvet Island
 Bovling,Bowling
@@ -985,6 +1096,7 @@ Boz ayı,Brown Bear
 Boz kaz,Greylag Goose
 Bozkır,Steppe
 Bozon,Boson
+Boğazlar,Straits
 Boşanma,Divorce
 Braga,Braga
 Brahma,Brahma
@@ -997,6 +1109,7 @@ Brazavil,Brazzaville
 Bremen,Bremen
 Bretanya,Bretagne
 Brezilya,Brazil
+Brezilya,Brazil
 Bridgetown,Bridgetown
 Brindisi,Brindisi
 Brisbane,Brisbane
@@ -1004,6 +1117,7 @@ Bristol,Bristol
 Britanya Kolombiyası,British Columbia
 Britanya Savaşı,Battle of Britain
 Britanya İmparatorluğu,British Empire
+Britanyalılar,British people
 Briç,Contract bridge
 Brno,Brno
 Broadway,Broadway
@@ -1013,6 +1127,7 @@ Brooklyn,Brooklyn
 Brooklyn Köprüsü,Brooklyn Bridge
 Brown hareketi,Brownian motion
 Bruce Lee,Bruce Lee
+Brunei,Brunei
 Bruney,Brunei
 Brüj,Bruges
 Brüksel,Brussels
@@ -1021,9 +1136,11 @@ Buckminster Fuller,Buckminster Fuller
 Buda,Buddha
 Budapeşte,Budapest
 Budizm,Buddhism
+Budizm,Buddhism
 Buenos Aires,Buenos Aires
 Bujumbura,Bujumbura
 Bulanık Mantık,Fuzzy logic
+Bulgaristan,Bulgaria
 Bulgaristan,Bulgaria
 Bulut,Cloud
 Bumerang,Boomerang
@@ -1031,9 +1148,12 @@ Burgonya,Bourgogne
 Burjuvazi,Bourgeoisie
 Burka,Burqa
 Burkina Faso,Burkina Faso
+Burkina Faso,Burkina Faso
 Bursa,Bursa
 Burun,Nose
+Burundi,Burundi
 Buster Keaton,Buster Keaton
+Butan,Bhutan
 Buz,Ice
 Buz Hokeyi,Ice hockey
 Buzdağı,Iceberg
@@ -1054,6 +1174,7 @@ Büyük Alfred,Alfred the Great
 Büyük Antiller,Greater Antilles
 Büyük Göller,Great Lakes
 Büyük Melekler,Archangel
+Büyük Okyanus,Pacific Ocean
 Büyük Okyanus,Pacific Ocean
 Büyük Patlama,Big Bang
 Büyük Perhiz,Lent
@@ -1117,6 +1238,7 @@ Cayenne,Cayenne
 Cayman Adaları,Cayman Islands
 Caz,Jazz
 Cebelitarık,Gibraltar
+Cebelitarık,Gibraltar
 Cebelitarık Boğazı,Strait of Gibraltar
 Cebir,Algebra
 Cebrâîl,Gabriel
@@ -1138,9 +1260,12 @@ Ceres,Ceres
 Ceres,Ceres
 Ceres,Ceres
 Cerrahi,Surgery
+Cerrahi,Surgery
 Cetus,Cetus
 Ceviz,Walnut
+Ceza hukuku,Criminal law
 Cezaevi,Prison
+Cezayir,Algeria
 Cezayir,Algeria
 Cezayir,Algiers
 Chamaeleon,Chamaeleon
@@ -1166,14 +1291,15 @@ Christiaan Huygens,Christiaan Huygens
 Christopher Marlowe,Christopher Marlowe
 Chuck Berry,Chuck Berry
 Cibuti,Djibouti
+Cibuti,Djibouti
 Cidde,Jeddah
 Cihad,Jihad
 Cilalı Taş Devri,Neolithic
 Cilt,Skin
 Cin,Genie
 Cins,Genus
-Cinsel ilişki,Sexual intercourse
 Cinsel ilişki,Sex
+Cinsel ilişki,Sexual intercourse
 Cinsel yolla bulaşan hastalıklar,Sexually transmitted disease
 Cinsiyetçilik,Sexism
 Circinus,Circinus
@@ -1194,6 +1320,7 @@ Columbus,Columbus
 Coma Berenices,Coma Berenices
 Commedia dell'Arte,Commedia dell'arte
 Connecticut,Connecticut
+Connecticut,Connecticut
 Coriolis kuvveti,Coriolis effect
 Cornwall,Cornwall
 Corona Borealis,Corona Borealis
@@ -1202,6 +1329,8 @@ Cotopaxi,Cotopaxi
 Coulomb,Coulomb
 Coulomb yasası,Coulomb's law
 Country,Country music
+Coğrafya,Geography
+Coğrafya,Geography
 Coğrafya,Geography
 Crater,Crater
 Crocodilia,Crocodilia
@@ -1243,6 +1372,8 @@ Daniel Bernoulli,Daniel Bernoulli
 Daniel Defoe,Daniel Defoe
 Daniel Ortega,Daniel Ortega
 Danimarka,Denmark
+Danimarka,Denmark
+Dans,Dance
 Dans,Dance
 Dante Alighieri,Dante Alighieri
 Darfur,Darfur
@@ -1269,6 +1400,7 @@ Defne,Bay Laurel
 Deimos,Deimos
 Deizm,Deism
 Delaware,Delaware
+Delaware,Delaware
 Delfi,Delphi
 Delft,Delft
 Dell,Dell
@@ -1279,8 +1411,10 @@ Demeter,Demeter
 Demir,Iron
 Demir Çağı,Iron Age
 Demografi,Demography
+Demografi,Demography
 Demokrasi,Democracy
 Demokratik Almanya Cumhuriyeti,East Germany
+Demokratik Kongo Cumhuriyeti,Democratic Republic of the Congo
 Demokratik Kongo Cumhuriyeti,Democratic Republic of the Congo
 Demokratik Parti,Democratic Party
 Demokritos,Democritus
@@ -1347,9 +1481,12 @@ Diktatörlük,Dictatorship
 Dil,Language
 Dil,Tongue
 Dil bilgisi,Grammar
+Dil bilgisi,Grammar
 Dil bilimi,Linguistics
+Dilbilim,Linguistics
 Dimitri Mendeleyev,Dmitri Mendeleev
 Dimitri Şostakoviç,Dmitri Shostakovich
+Din,Religion
 Din,Religion
 Dinamik,Dynamics
 Dinamit,Dynamite
@@ -1359,6 +1496,7 @@ Dinyeper,Dnieper River
 Diocletianus,Diocletian
 Diofizit,Nestorianism
 Dionysos,Dionysus
+Diplomasi,Diplomacy
 Diplomasi,Diplomacy
 Dire Straits,Dire Straits
 Direnç,Resistor
@@ -1379,6 +1517,7 @@ Dizüstü bilgisayar,Laptop
 Diğerkâmlık,Altruism
 Diş,Tooth
 Diş fırçalama,Toothbrush
+Diş hekimliği,Dentistry
 Dişli çark,Gear
 Doberman,Doberman Pinscher
 Dodo,Dodo
@@ -1389,12 +1528,14 @@ Doktor,Physician
 Doku,Tissue
 Doku bilimi,Histology
 Dolar,Dollar
+Dolaşım sistemi,Cardiovascular system
 Dolaşım sistemi,Circulatory system
 Dolly,Dolly
 Dolmen,Dolmen
 Dolu,Hail
 Domain,Domain name
 Domates,Tomato
+Dominik Cumhuriyeti,Dominican Republic
 Dominik Cumhuriyeti,Dominican Republic
 Dominika,Dominica
 Domitian,Domitian
@@ -1414,6 +1555,7 @@ Dosya aktarım iletişim kuralı,File Transfer Protocol
 Douglas MacArthur,Douglas MacArthur
 Down sendromu,Down syndrome
 Doğa,Nature
+Doğa,Nature
 Doğa bilimleri,Natural science
 Doğal dil işleme,Natural language processing
 Doğal gaz,Natural gas
@@ -1426,6 +1568,7 @@ Doğrultucu,Rectifier
 Doğrusal denklem,Linear equation
 Doğu,East
 Doğu Bloğu,Iron Curtain
+Doğu Timor,East Timor
 Doğu Timor,East Timor
 Doğu Çin Denizi,East China Sea
 Doğum kontrolü,Birth control
@@ -1463,6 +1606,7 @@ Dünya Ticaret Merkezi,World Trade Center
 Dünya Ticaret Örgütü,World Trade Organization
 Dünya nüfusu,Population
 Dünya Çapında Ağ,World Wide Web
+Dünya Çapında Ağ,World Wide Web
 Düğün çiçeğigiller,Ranunculaceae
 Düşünce,Thought
 Dışavurumculuk,Expressionism
@@ -1476,6 +1620,8 @@ Ebegümecigiller,Malvaceae
 Ebola,Ebola
 Ebro,Ebro
 Eclipse,Eclipse
+Edebiyat,Literature
+Edebiyat,Literature
 Edebiyat,Literature
 Eden,Garden of Eden
 Edgar Allan Poe,Edgar Allan Poe
@@ -1509,7 +1655,9 @@ Ekinoks,Equinox
 Eklem bacaklılar,Arthropod
 Ekmek,Bread
 Ekoloji,Ecology
+Ekoloji,Ecology
 Ekonometri,Econometrics
+Ekonomi,Economics
 Ekosistem,Ecosystem
 Eksantriklik,Eccentricity
 Ekvador,Ecuador
@@ -1522,6 +1670,7 @@ El Hamra Sarayı,Alhambra
 El Kaide,Al-Qaeda
 "El Paso, Teksas",El Paso
 El Salvador,El Salvador
+El Salvador,El Salvador
 El bombası,Hand grenade
 Elam İmparatorluğu,Elam
 Elbe Nehri,Elbe
@@ -1529,20 +1678,25 @@ Elealı Zeno,Zeno of Elea
 Eleanor Roosevelt,Eleanor Roosevelt
 Elektra,Electra
 Elektrik,Electricity
+Elektrik,Electricity
 Elektrik akımı,Electric current
 Elektrik motoru,Electric motor
+Elektrik mühendisliği,Electrical engineering
 Elektrik santrali,Power station
 Elektriksel alan,Electric field
 Elektriksel yük,Electric charge
 Elektro gitar,Electric guitar
 Elektrokardiyografi,Electrocardiogram
+Elektrokimya,Electrochemistry
 Elektroliz,Electrolysis
 Elektromanyetik kuvvet,Electromagnetism
 Elektromanyetik tayf,Electromagnetic spectrum
 Elektromanyetik ışın,Electromagnetic radiation
+Elektromanyetizma,Electromagnetism
 Elektron,Electron
 Elektronegatiflik,Electronegativity
 Elektronik,Electrical engineering
+Elektronik,Electronics
 Elektronik posta,E-mail
 Element,Chemical element
 Elf,Elf
@@ -1567,10 +1721,14 @@ Emülsiyon,Emulsion
 Endemik,Endemism
 Endokrin sistem,Endocrine system
 Endokrinoloji,Endocrinology
+Endokrinoloji,Endocrinology
+Endonezya,Indonesia
 Endonezya,Indonesia
 Endüljans,Indulgence
 Endülüs Özerk Bölgesi,Andalusia
 Endüstri,Industry
+Endüstri,Industry
+Enerji,Energy
 Enerji,Energy
 Enerji,Energy
 Enerjinin Korunumu,Conservation of energy
@@ -1585,6 +1743,7 @@ Enrico Caruso,Enrico Caruso
 Enrico Fermi,Enrico Fermi
 Ensest,Incest
 Entalpi,Enthalpy
+Entomoloji,Entomology
 Entomoloji,Entomology
 Entropi,Entropy
 Enzim,Enzyme
@@ -1616,6 +1775,7 @@ Eris,Eris
 Erivan,Yerevan
 Ermenice,Armenian language
 Ermenistan,Armenia
+Ermenistan,Armenia
 Ernest Hemingway,Ernest Hemingway
 Ernest Rutherford,Ernest Rutherford
 Ernesto Che Guevara,Che Guevara
@@ -1640,14 +1800,18 @@ Esrar,Cannabis
 Essen,Essen
 Ester,Ester
 Estetik,Aesthetics
+Estonya,Estonia
 Et,Meat
 Etanol,Ethanol
 Ethernet kartı,Ethernet
 Etik,Ethics
+Etik,Ethics
 Etilen,Ethylene
 Etimoloji,Etymology
 Etiyopya,Ethiopia
+Etiyopya,Ethiopia
 Etna,Mount Etna
+Etnoloji,Ethnology
 Etoloji,Ethology
 Etyemezlik,Vegetarianism
 Etçil,Carnivore
@@ -1664,6 +1828,7 @@ Everest Dağı,Mount Everest
 Evlilik,Marriage
 Evren,Universe
 Evrenbilim,Cosmology
+Evrenbilim,Cosmology
 Evrim,Evolution
 Evripides,Euripides
 Evropiyum,Europium
@@ -1676,6 +1841,8 @@ Eyre Gölü,Lake Eyre
 Ezop,Aesop
 Ezra Pound,Ezra Pound
 Eğitim,Education
+Eğitim,Education
+Eğlence,Entertainment
 Eşcinsellik,Homosexuality
 Eşek,Donkey
 Eşgüdümlü Evrensel Zaman,Coordinated Universal Time
@@ -1696,10 +1863,14 @@ Farad,Farad
 Fare,Mouse
 Fare,Mouse
 Farmakoloji,Pharmacology
+Farmakoloji,Pharmacology
+Faroe Adaları,Faroe Islands
+Fas,Morocco
 Fas,Morocco
 Fauna,Fauna
 Fay,Fault
 Faydacılık,Utilitarianism
+Faşizm,Fascism
 Faşizm,Fascism
 Federal Bureau of Investigation,Federal Bureau of Investigation
 Federasyon,Federation
@@ -1708,6 +1879,9 @@ Fedora Core,Fedora
 Feldspat,Feldspar
 Felix Mendelssohn Bartholdy,Felix Mendelssohn
 Felsefe,Philosophy
+Felsefe,Philosophy
+Felsefe,Philosophy
+Feminizm,Feminism
 Feminizm,Feminism
 Feng Şui,Feng shui
 Fenike,Phoenicia
@@ -1732,26 +1906,36 @@ Fibonacci serisi,Fibonacci number
 Fidel Castro,Fidel Castro
 Fiil,Verb
 Fiji,Fiji
-Fil,Elephant
+Fiji,Fiji
 Fil,Bishop
+Fil,Elephant
+Filateli,Philately
 Filateli,Philately
 Fildişi,Ivory
 Filibe,Plovdiv
 Filipinler,Philippines
+Filipinler,Philippines
 Filippo Brunelleschi,Filippo Brunelleschi
+Filistin,Palestine
 Filistin,Palestine
 Filistin Kurtuluş Örgütü,Palestine Liberation Organization
 Filistin Ulusal Yönetimi,Palestinian National Authority
 Film,Film
 Filoloji,Philology
 Finans,Finance
+Finans,Finance
+Finlandiya,Finland
 Finlandiya,Finland
 Finlandiya Körfezi,Gulf of Finland
 Firavun,Pharaoh
 Fisyon,Nuclear fission
 Fiyord,Fjord
 Fizik,Physics
+Fizik,Physics
+Fizik,Physics
 Fiziksel kimya,Physical chemistry
+Fiziksel kimya,Physical chemistry
+Fizyoloji,Physiology
 Fizyoloji,Physiology
 Flamenko,Flamenco
 Flamingo,Flamingo
@@ -1759,10 +1943,12 @@ Flaş bellek,Flash memory
 Floransa,Florence
 Florence Nightingale,Florence Nightingale
 Florida,Florida
+Florida,Florida
 Flüt,Flute
 Fobi,Phobia
 Fokgiller,Earless seal
 Folik asit,Folic acid
+Folklor,Folklore
 Folklor,Folklore
 Fonem,Phoneme
 Formik asit,Formic acid
@@ -1775,6 +1961,7 @@ Fosil yakıtlar,Fossil fuel
 Foton,Photon
 Fotosentez,Photosynthesis
 Fotoğraf makinesi,Camera
+Fotoğrafçılık,Photography
 Fotoğrafçılık,Photography
 Foucault sarkacı,Foucault pendulum
 Fovizm,Fauvism
@@ -1790,13 +1977,18 @@ Frank Lloyd Wright,Frank Lloyd Wright
 Frank Sinatra,Frank Sinatra
 "Frankfort, Kentucky",Frankfort
 Frankfurt,Frankfurt
+Frankfurt,Frankfurt
 Frankfurt am Main,Frankfurt
 Franklin Pierce,Franklin Pierce
 Frans Hals,Frans Hals
 Fransa,France
+Fransa,France
 Fransiyum,Francium
 Fransız Devrimi,French Revolution
 Fransız Polinezyası,French Polynesia
+Fransız Polinezyası,French Polynesia
+Fransız İhtilali,French Revolution
+Fransızlar,French people
 Franz Joseph Haydn,Joseph Haydn
 Franz Kafka,Franz Kafka
 Franz Liszt,Franz Liszt
@@ -1823,6 +2015,9 @@ Fuji Dağı,Mount Fuji
 Fundagiller,Ericaceae
 Funk,Funk
 Futbol,Football
+Futbol,Football
+Futbol kulüpleri,Football  clubs
+Futbolcular,Football  players
 Fyodor Mihayloviç Dostoyevski,Fyodor Dostoevsky
 Füg,Fugue
 Fütürizm,Futurism
@@ -1838,6 +2033,7 @@ GMT,Greenwich Mean Time
 GNOME,GNOME
 GNU,GNU
 GPS,Global Positioning System
+Gabon,Gabon
 Gabon,Gabon
 Gaborone,Gaborone
 Gadolinyum,Gadolinium
@@ -1858,6 +2054,7 @@ Gam,Musical scale
 Gama ışınları,Gamma ray
 Gambiya,The Gambia
 Gana,Ghana
+Gana,Ghana
 Ganeşa,Ganesha
 Ganimedes,Ganymede
 Ganj Nehri,Ganges
@@ -1872,6 +2069,7 @@ Gayri safi yurtiçi hasıla,Gross domestic product
 Gaz,Gas
 Gaz devleri,Gas giant
 Gazetecilik,Journalism
+Gazetecilik,Journalism
 Gazyağı,Kerosene
 Gazze,Gaza
 Gazze Şeridi,Gaza Strip
@@ -1879,14 +2077,15 @@ Geb,Geb
 Gebelik,Pregnancy
 Gelgit,Tide
 Gelişimsel psikoloji,Developmental psychology
-Gemi,Ship
 Gemi,Boat
+Gemi,Ship
 Gemini,Gemini
 Gen,Gene
 Gence,Ganja
 Genel Ağ,Internet
 Genel görelilik kuramı,General relativity
 General,General Officer
+Genetik,Genetics
 Genetik,Genetics
 Genetik mühendisliği,Genetic engineering
 Genitif,Genitive case
@@ -1895,6 +2094,7 @@ Genom,Genome
 Genotip,Genotype
 Gent,Ghent
 Geoffrey Chaucer,Geoffrey Chaucer
+Geometri,Geometry
 Geometri,Geometry
 Georg Philipp Telemann,Georg Philipp Telemann
 Georg Wilhelm Friedrich Hegel,Georg Wilhelm Friedrich Hegel
@@ -1916,6 +2116,7 @@ Georges Braque,Georges Braque
 Georges Simenon,Georges Simenon
 "Georgetown, Guyana",Georgetown
 Georgia,Georgia
+Georgia,Georgia
 Gerald Ford,Gerald Ford
 Gergedan,Rhinoceros
 Geri besleme,Feedback
@@ -1936,6 +2137,7 @@ Gezegenimsi bulutsular,Planetary nebula
 Giacomo Puccini,Giacomo Puccini
 Gigabayt,Gigabyte
 Gine,Guinea
+Gine,Guinea
 Gine Bissau,Guinea-Bissau
 Gine Körfezi,Gulf of Guinea
 Giordano Bruno,Giordano Bruno
@@ -1945,10 +2147,12 @@ Giovanni Boccaccio,Giovanni Boccaccio
 Girit,Crete
 Girit Uygarlığı,Minoan civilization
 Girişim,Interference
+Girişimciler,Businesspeople
 Girolamo Savonarola,Girolamo Savonarola
 Gitar,Guitar
 Giuseppe Garibaldi,Giuseppe Garibaldi
 Giuseppe Verdi,Giuseppe Verdi
+Giyim,Clothing
 Giyotin,Guillotine
 Giza,Giza
 Glasgow,Glasgow
@@ -1971,6 +2175,7 @@ Golf,Golf
 Golgi cisimciği,Golgi apparatus
 Goncourt Akademisi Edebiyat Ödülü,Prix Goncourt
 Google,Google
+Google,Google
 Googol,Googol
 Gorgonlar,Gorgon
 Goril,Gorilla
@@ -1978,6 +2183,7 @@ Gotthold Ephraim Lessing,Gotthold Ephraim Lessing
 Grace Kelly,Grace Kelly
 Gradyan,Gradient
 Graffiti,Graffiti
+Grafik tasarım,Graphic design
 Grafik tasarım,Graphic design
 Grafiksel kullanıcı arayüzü,Graphical user interface
 Grafit,Graphite
@@ -2001,12 +2207,14 @@ Grozni,Grozny
 Grup kuramı,Group theory
 Grus,Grus
 Grönland,Greenland
+Grönland,Greenland
 Grönland Denizi,Greenland Sea
 Guadeloupe,Guadeloupe
 Guam,Guam
 Guangdong,Guangdong
 Guanin,Guanine
 Guano,Guano
+Guatemala,Guatemala
 Guatemala,Guatemala City
 Gucerat,Gujarat
 Guernsey,Guernsey
@@ -2021,22 +2229,28 @@ Gustave Flaubert,Gustave Flaubert
 Gut hastalığı,Gout
 Guy Fawkes,Guy Fawkes
 Guy de Maupassant,Guy de Maupassant
+Guyana,Guyana
 Gök Küre,Celestial sphere
 Gök balina,Blue Whale
 Gök bilimi,Astronomy
 Gök mekaniği,Celestial mechanics
+Gök mekaniği,Celestial mechanics
 Gökada,Galaxy
+Gökbilim,Astronomy
 Gökbilimci,Astronomer
 Gökdelen,Skyscraper
+Gökfiziği,Astrophysics
 Gökkuzgunları,Coraciiformes
 Gökkuşağı,Rainbow
 Göknar,Fir
 Göl,Lake
 Görecilik,Relativism
+Görelilik,Relativity
 Görelilik ilkesi,Principle of relativity
 Görelilik kuramı,Theory of relativity
 Görüngübilim,Phenomenology
 Göteborg,Gothenburg
+Göz,Eye
 Göz,Eye
 Gözlemevi,Observatory
 Göçebe,Nomad
@@ -2049,7 +2263,10 @@ Gün,Day
 Gündönümü,Solstice
 Güney,South
 Güney Adası,South Island
+Güney Afrika Cumhuriyeti,South Africa
 Güney Amerika,South America
+Güney Amerika,South America
+Güney Dakota,South Dakota
 Güney Dakota,South Dakota
 Güney Karolina,South Carolina
 Güney Kore,South Korea
@@ -2060,12 +2277,15 @@ Güney Çin Denizi,South China Sea
 Güneydoğu Asya,Southeast Asia
 Güneş,Sun
 Güneş Sistemi,Solar System
+Güneş Sistemi,Solar System
 Güneş enerjisi,Solar energy
 Güneş rüzgârı,Solar wind
 Güneş tutulması,Eclipse
 Güneş tutulması,Solar eclipse
 Gürcistan,Georgia
+Gürcistan,Georgia
 Güvercingiller,Columbidae
+Güvercinler,Columbiformes
 Güvercinler,Columbiformes
 Güç,Power
 Güçlü etkileşim,Strong interaction
@@ -2092,6 +2312,7 @@ Hafniyum,Hafnium
 Hafta,Week
 Haham,Rabbi
 Haiku,Haiku
+Haiti,Haiti
 Haiti,Haiti
 Halep,Aleppo
 Halife,Caliph
@@ -2137,11 +2358,13 @@ Hava,Weather
 Hava meydanı,Airport
 Hava taşıtı,Aircraft
 Havacılık,Aviation
+Havacılık,Aviation
 Havan topu,Mortar
 Havana,Havana
 Havuç,Carrot
 Havyar,Caviar
 Havza,Drainage basin
+Hawaii,Hawaii
 Hawaii,Hawaii
 Hayalî karakter,Fictional character
 Haydarabad,Hyderabad
@@ -2152,6 +2375,7 @@ Hayvanlar,Animal
 Hazar Denizi,Caspian Sea
 Hazcılık,Hedonism
 Haziran,June
+Heavy metal,Heavy metal
 Heavy metal,Heavy metal music
 Hebe,Hebe
 Hebridler,Hebrides
@@ -2170,6 +2394,7 @@ Helmut Schmidt,Helmut Schmidt
 Helsinki,Helsinki
 Helyum,Helium
 Hematoloji,Hematology
+Hematoloji,Hematology
 Hemofili,Haemophilia
 Hemoglobin,Hemoglobin
 Henri Becquerel,Henri Becquerel
@@ -2186,9 +2411,10 @@ Henry Miller,Henry Miller
 Henry Purcell,Henry Purcell
 Hephaistos,Hephaestus
 Hera,Hera
-Herakles,Hercules
 Herakles,Heracles
+Herakles,Hercules
 Heraklitos,Heraclitus
+Heraldik,Heraldry
 Heraldik,Heraldry
 Herat,Herat
 Herbert C. Hoover,Herbert Hoover
@@ -2208,6 +2434,7 @@ Hertz,Hertz
 Hesiodos,Hesiod
 Hesperidler,Hesperides
 Hessen,Hesse
+Hessen,Hesse
 Hestia,Hestia
 Heteroseksüellik,Heterosexuality
 Heterotrof,Heterotroph
@@ -2220,14 +2447,18 @@ Hidrojen,Hydrogen
 Hidrojen bağı,Hydrogen bond
 Hidrokarbon,Hydrocarbon
 Hidroliz,Hydrolysis
+Hidroloji,Hydrology
 Hieronymus Bosch,Hieronymus Bosch
 Hilafet,Caliphate
 Himalaya Dağları,Himalayas
 Hindistan,India
+Hindistan,India
 Hindistan cevizi,Coconut
 Hindiçin,Indochina
 Hinduizm,Hinduism
+Hinduizm,Hinduism
 Hindukuş Dağları,Hindu Kush
+Hint Okyanusu,Indian Ocean
 Hint Okyanusu,Indian Ocean
 Hint tapiri,Malayan Tapir
 Hipnoz,Hypnosis
@@ -2241,6 +2472,7 @@ Hirohito,Hirohito
 Hiroşima,Hiroshima
 Hispanyola,Hispaniola
 Histidin,Histidine
+Histoloji,Histology
 Histon,Histone
 Hizbullah,Hezbollah
 Hiççilik,Nihilism
@@ -2250,7 +2482,9 @@ Hobart,Hobart
 Hobi,Hobby
 Hokusai,Hokusai
 Hollanda,Netherlands
+Hollanda,Netherlands
 Hollanda Antilleri,Netherlands Antilles
+Hollandalılar,Dutch people
 Hollywood,Hollywood
 Holmiyum,Holmium
 Homeopati,Homeopathy
@@ -2260,6 +2494,8 @@ Homo erectus,Homo erectus
 Homo habilis,Homo habilis
 Homofobi,Homophobia
 Honduras,Honduras
+Honduras,Honduras
+Hong Kong,Hong Kong
 Hong Kong,Hong Kong
 "Honolulu, Hawaii",Honolulu
 Hoparlör,Loudspeaker
@@ -2272,9 +2508,11 @@ Horus,Horus
 House,House
 "Houston, Teksas",Houston
 Howard Carter,Howard Carter
+Hristiyanlık,Christianity
 Huang He,Yellow River
 Hudson Körfezi,Hudson Bay
 Hugo Grotius,Hugo Grotius
+Hukuk,Law
 Hukuk,Law
 Huma kuşu,Phoenix
 Humerus,Humerus
@@ -2294,12 +2532,13 @@ Hücre,Cell
 Hücre duvarı,Cell wall
 Hücre zarı,Cell membrane
 Hücre çekirdeği,Cell nucleus
-Hükümdar,Monarchy
 Hükümdar,Monarch
+Hükümdar,Monarchy
 Hümanizm,Humanism
 Hürmüz Boğazı,Strait of Hormuz
 Hüsnü Mübarek,Hosni Mubarak
 Hıristiyanlık,Christianity
+Hırvatistan,Croatia
 Hırvatistan,Croatia
 Hıyar,Cucumber
 Hıyarcıklı veba,Bubonic plague
@@ -2307,7 +2546,9 @@ Hız,Velocity
 I,I
 I. Constantinus,Constantine I
 I. Dünya Savaşı,World War I
+I. Dünya Savaşı,World War I
 I. Theodosius,Theodosius I
+II. Dünya Savaşı,World War II
 II. Dünya Savaşı,World War II
 II. Filip,Philip II of Macedon
 II. Ramses,Ramesses II
@@ -2318,8 +2559,10 @@ Ian Fleming,Ian Fleming
 Iapetos,Iapetus
 Iapetus,Iapetus
 Idaho,Idaho
+Idaho,Idaho
 Ieoh Ming Pei,I. M. Pei
 Ihlamur,Tilia
+Illinois,Illinois
 Illinois,Illinois
 Immanuel Kant,Immanuel Kant
 Indiana,Indiana
@@ -2331,8 +2574,10 @@ Ingrid Bergman,Ingrid Bergman
 Internet Explorer,Internet Explorer
 Iowa,Iowa
 Irak,Iraq
+Irak,Iraq
 Iraklık açısı,Parallax
 Irk,Race
+Irkçılık,Racism
 Irkçılık,Racism
 Iron Maiden,Iron Maiden
 Irza geçme,Rape
@@ -2362,6 +2607,7 @@ Jacques Offenbach,Jacques Offenbach
 Jaguar,Jaguar
 Jainizm,Jainism
 Jamaika,Jamaica
+Jamaika,Jamaica
 James A. Garfield,James A. Garfield
 James Bond,James Bond
 James Buchanan,James Buchanan
@@ -2384,6 +2630,7 @@ Janis Joplin,Janis Joplin
 Janus,Janus
 Japon Denizi,Sea of Japan
 Japonya,Japan
+Japonya,Japan
 Java,Java
 Java,Java
 Jawaharlal Nehru,Jawaharlal Nehru
@@ -2399,7 +2646,11 @@ Jean-Paul Sartre,Jean-Paul Sartre
 Jeanne d'Arc,Joan of Arc
 Jefferson Davis,Jefferson Davis
 Jena,Jena
+Jeodezi,Geodesy
+Jeofizik,Geophysics
 Jeokimya,Geochemistry
+Jeoloji,Geology
+Jeomorfoloji,Geomorphology
 Jeopolitik coğrafya,Geopolitics
 Jeremy Bentham,Jeremy Bentham
 Jerez de la Frontera,Jerez de la Frontera
@@ -2468,6 +2719,7 @@ Jülyen takvimi,Julian calendar
 Jüpiter,Jupiter
 Jüpiter,Jupiter
 Jüpiter,Jupiter
+Jüpiter,Jupiter
 Jüstinianos,Justinian I
 K,K
 K vitamini,Vitamin K
@@ -2487,7 +2739,9 @@ Kafadan bacaklılar,Cephalopod
 Kafein,Caffeine
 Kafkas Dağları,Caucasus Mountains
 Kafkasya,Caucasus
+Kafkasya,Caucasus
 Kahire,Cairo
+Kahve,Coffee
 Kahve,Coffee
 Kahverengi,Brown
 Kaju,Cashew
@@ -2499,10 +2753,11 @@ Kalahari Çölü,Kalahari Desert
 Kalay,Tin
 Kaldera,Caldera
 Kaldıraç,Lever
-Kale,Rook
 Kale,Castle
+Kale,Rook
 Kaleci,Goalkeeper
 Kalem,Pencil
+Kaliforniya,California
 Kaliforniya,California
 Kaliforniyum,Californium
 Kalkan,Shield
@@ -2517,9 +2772,11 @@ Kalsiyum,Calcium
 Kalsiyum oksit,Calcium oxide
 Kalvenizm,Calvinism
 Kamboçya,Cambodia
+Kamboçya,Cambodia
 Kambriyen dönem,Cambrian
 Kambriyen öncesi,Precambrian
 Kambur balina,Humpback Whale
+Kamerun,Cameroon
 Kamerun,Cameroon
 Kamikaze,Kamikaze
 Kampala,Kampala
@@ -2531,11 +2788,13 @@ Kan,Blood
 Kan grubu,Blood type
 Kan plazması,Blood plasma
 Kanada,Canada
+Kanada,Canada
 Kanarya Adaları,Canary Islands
 Kanberra,Canberra
 Kandahar,Kandahar
 Kanguru,Kangaroo
 Kanola,Rapeseed
+Kansas,Kansas
 Kansas,Kansas
 Kansas City,Kansas City
 Kanser,Cancer
@@ -2547,8 +2806,8 @@ Kapalı tohumlular,Flowering plant
 Kapasite,Capacitance
 Kapitalizm,Capitalism
 Kaplan,Tiger
-Kaplumbağa,Turtle
 Kaplumbağa,Tortoise
+Kaplumbağa,Turtle
 Kapı,Door
 Kar,Snow
 Kara,Black
@@ -2566,6 +2825,7 @@ Karabiber,Black pepper
 Karabuğday,Buckwheat
 Karaca,Roe Deer
 Karadağ,Montenegro
+Karadağ,Montenegro
 Karadeniz,Black Sea
 Karakas,Caracas
 Karakulak,Caracal
@@ -2578,6 +2838,7 @@ Karat,Carat
 Karatavuk,Blackbird
 Karate,Karate
 Karayip Denizi,Caribbean Sea
+Karayipler,Caribbean
 Karayipler,Caribbean
 Karaçi,Karachi
 Karboksilik asit,Carboxylic acid
@@ -2610,6 +2871,7 @@ Karpuz,Watermelon
 Kartaca,Carthage
 Kartal,Eagle
 Kartezyen koordinat sistemi,Cartesian coordinate system
+Kartografi,Cartography
 Karın,Abdomen
 Karınca,Ant
 Karından bacaklılar,Gastropoda
@@ -2624,584 +2886,9 @@ Katafrakt,Cataphract
 Katalizör,Catalysis
 Katalonya,Catalonia
 Katar,Qatar
+Katar,Qatar
 Katarakt,Cataract
 Katedral,Cathedral
-100,100
-1000,1000
-12,12
-14,14
-16,16
-17,17
-1728,1728
-1750'ler,1750s
-1760'lar,1760s
-1770'ler,1770s
-1780'ler,1780s
-1790'lar,1790s
-1820'ler,1820s
-1830'lar,1830s
-1840'lar,1840s
-1860'lar,1860s
-1870'ler,1870s
-1880'ler,1880s
-1890'lar,1890s
-1900'ler,1900s
-1920'ler,1920s
-1930'lar,1930s
-1940'lar,1940s
-1950'ler,1950s
-1960'lar,1960s
-1970'ler,1970s
-1980'ler,1980s
-1990'lar,1990s
-500,500
-Abhazya,Abkhazia
-Afganistan,Afghanistan
-Afrika,Africa
-Aile,Family
-Akdeniz,Mediterranean
-Akustik,Acoustics
-Alabama,Alabama
-Alaska,Alaska
-Almanya,Germany
-Alpler,Alps
-Alternatif tıp,Alternative medicine
-Amerika Birleşik Devletleri,United States
-Amsterdam,Amsterdam
-Ana kategoriler,Fundamental
-Anarşizm,Anarchism
-Anatomi,Anatomy
-Andorra,Andorra
-Angola,Angola
-Anime,Anime
-Anlam ayrımı,Disambiguation
-Antarktika,Antarctica
-Antik tarih,Ancient history
-Antisemitizm,Antisemitism
-Antropoloji,Anthropology
-Apollo Projesi,Apollo program
-Aritmetik,Arithmetic
-Arizona,Arizona
-Arjantin,Argentina
-Arkansas,Arkansas
-Arkeoloji,Archaeology
-Arnavutluk,Albania
-Aruba,Aruba
-Arıcılık,Beekeeping
-Askeriye,Military
-Asteraceae,Asteraceae
-Astroloji,Astrology
-Asur,Assyria
-Asya,Asia
-Atlas Okyanusu,Atlantic Ocean
-Atom fiziği,Atomic physics
-Avrupa,Europe
-Avrupa Birliği,European Union
-Avustralya,Australia
-Avusturya,Austria
-Azerbaycan,Azerbaijan
-Bahama,Bahamas
-Bahreyn,Bahrain
-Bale,Ballet
-Balıklar,Fish
-Balıkçılık,Fishing
-Bangladeş,Bangladesh
-Bankalar,Banks
-Basketbol,Basketball
-Bavyera,Bavaria
-Belize,Belize
-Belçika,Belgium
-Benin,Benin
-Berlin,Berlin
-Bermuda,Bermuda
-Beslenme,Nutrition
-Beyaz Rusya,Belarus
-Bilgisayar,Computing
-Bilgisayar bilimi,Computer science
-Bilgisayar donanımları,Computer hardware
-Bilim,Science
-Bilim kurgu,Science fiction
-Birleşik Arap Emirlikleri,United Arab Emirates
-Birleşik Krallık,United Kingdom
-Birleşmiş Milletler,United Nations
-Bisiklet,Cycling
-Biyokimya,Biochemistry
-Biyoloji,Biology
-Biyoteknoloji,Biotechnology
-Bizans,Byzantine Empire
-Bolivya,Bolivia
-Bosna-Hersek,Bosnia and Herzegovina
-Botanik,Botany
-Botsvana,Botswana
-Boğazlar,Straits
-Brezilya,Brazil
-Britanyalılar,British people
-Brunei,Brunei
-Budizm,Buddhism
-Bulgaristan,Bulgaria
-Burkina Faso,Burkina Faso
-Burundi,Burundi
-Butan,Bhutan
-Büyük Okyanus,Pacific Ocean
-Cebelitarık,Gibraltar
-Cerrahi,Surgery
-Ceza hukuku,Criminal law
-Cezayir,Algeria
-Cibuti,Djibouti
-Connecticut,Connecticut
-Coğrafya,Geography
-Danimarka,Denmark
-Dans,Dance
-Delaware,Delaware
-Demografi,Demography
-Demokratik Kongo Cumhuriyeti,Democratic Republic of the Congo
-Dil bilgisi,Grammar
-Dilbilim,Linguistics
-Din,Religion
-Diplomasi,Diplomacy
-Diş hekimliği,Dentistry
-Dolaşım sistemi,Cardiovascular system
-Dominik Cumhuriyeti,Dominican Republic
-Doğa,Nature
-Doğu Timor,East Timor
-Dünya Çapında Ağ,World Wide Web
-Edebiyat,Literature
-Ekoloji,Ecology
-Ekonomi,Economics
-El Salvador,El Salvador
-Elektrik,Electricity
-Elektrik mühendisliği,Electrical engineering
-Elektrokimya,Electrochemistry
-Elektromanyetizma,Electromagnetism
-Elektronik,Electronics
-Endokrinoloji,Endocrinology
-Endonezya,Indonesia
-Endüstri,Industry
-Enerji,Energy
-Entomoloji,Entomology
-Ermenistan,Armenia
-Estonya,Estonia
-Etik,Ethics
-Etiyopya,Ethiopia
-Etnoloji,Ethnology
-Evrenbilim,Cosmology
-Eğitim,Education
-Eğlence,Entertainment
-Farmakoloji,Pharmacology
-Faroe Adaları,Faroe Islands
-Fas,Morocco
-Faşizm,Fascism
-Felsefe,Philosophy
-Feminizm,Feminism
-Fiji,Fiji
-Filateli,Philately
-Filipinler,Philippines
-Filistin,Palestine
-Finans,Finance
-Finlandiya,Finland
-Fizik,Physics
-Fiziksel kimya,Physical chemistry
-Fizyoloji,Physiology
-Florida,Florida
-Folklor,Folklore
-Fotoğrafçılık,Photography
-Frankfurt,Frankfurt
-Fransa,France
-Fransız Polinezyası,French Polynesia
-Fransız İhtilali,French Revolution
-Fransızlar,French people
-Futbol,Football
-Futbol kulüpleri,Football  clubs
-Futbolcular,Football  players
-Gabon,Gabon
-Gana,Ghana
-Gazetecilik,Journalism
-Genetik,Genetics
-Geometri,Geometry
-Georgia,Georgia
-Gine,Guinea
-Girişimciler,Businesspeople
-Giyim,Clothing
-Google,Google
-Grafik tasarım,Graphic design
-Grönland,Greenland
-Guatemala,Guatemala
-Guyana,Guyana
-Gök mekaniği,Celestial mechanics
-Gökbilim,Astronomy
-Gökfiziği,Astrophysics
-Görelilik,Relativity
-Göz,Eye
-Güney Afrika Cumhuriyeti,South Africa
-Güney Amerika,South America
-Güney Dakota,South Dakota
-Güneş Sistemi,Solar System
-Gürcistan,Georgia
-Güvercinler,Columbiformes
-Haiti,Haiti
-Havacılık,Aviation
-Hawaii,Hawaii
-Heavy metal,Heavy metal
-Hematoloji,Hematology
-Heraldik,Heraldry
-Hessen,Hesse
-Hidroloji,Hydrology
-Hindistan,India
-Hinduizm,Hinduism
-Hint Okyanusu,Indian Ocean
-Histoloji,Histology
-Hollanda,Netherlands
-Hollandalılar,Dutch people
-Honduras,Honduras
-Hong Kong,Hong Kong
-Hristiyanlık,Christianity
-Hukuk,Law
-Hırvatistan,Croatia
-I. Dünya Savaşı,World War I
-II. Dünya Savaşı,World War II
-Idaho,Idaho
-Illinois,Illinois
-Irak,Iraq
-Irkçılık,Racism
-Jamaika,Jamaica
-Japonya,Japan
-Jeodezi,Geodesy
-Jeofizik,Geophysics
-Jeoloji,Geology
-Jeomorfoloji,Geomorphology
-Jüpiter,Jupiter
-Kafkasya,Caucasus
-Kahve,Coffee
-Kaliforniya,California
-Kamboçya,Cambodia
-Kamerun,Cameroon
-Kanada,Canada
-Kansas,Kansas
-Karadağ,Montenegro
-Karayipler,Caribbean
-Kartografi,Cartography
-Katar,Qatar
-Kayıngiller,Fagaceae
-Kazakistan,Kazakhstan
-Kazsılar,Anseriformes
-Kentucky,Kentucky
-Kenya,Kenya
-Kimya,Chemistry
-Kiribati,Kiribati
-Kitab-ı Mukaddes,Bible
-Kişiler,People
-Klimatoloji,Climatology
-Kolombiya,Colombia
-Kolorado,Colorado
-Komor,Comoros
-Komünizm,Communism
-Kore,Korea
-Kore Cumhuriyeti,South Korea
-Kosova,Kosovo
-Kriminalistik,Law enforcement
-Kriminoloji,Criminology
-Kriptoloji,Cryptography
-Kristalografi,Crystallography
-Kronoloji,Chronology
-Kudüs,Jerusalem
-Kutsal Roma Cermen İmparatorluğu,Holy Roman Empire
-Kuvantum mekaniği,Quantum mechanics
-Kuveyt,Kuwait
-Kuzey Amerika,North America
-Kuzey Dakota,North Dakota
-Kuzey Karolina,North Carolina
-Kuzey İrlanda,Northern Ireland
-Köprüler,Bridges
-Küba,Cuba
-Kültür,Culture
-Kümeler teorisi,Set theory
-Kürdistan,Kurdistan
-Kıbrıs,Cyprus
-Kırgızistan,Kyrgyzstan
-Kış Olimpiyatları,Winter Olympic Games
-Letonya,Latvia
-Libya,Libya
-Lihtenştayn,Liechtenstein
-Lineer cebir,Linear algebra
-Linux,Linux
-Litvanya,Lithuania
-Londra,London
-Louisiana,Louisiana
-Lübnan,Lebanon
-Lüksemburg,Luxembourg
-Macaristan,Hungary
-Madagaskar,Madagascar
-Magnoliopsida,Magnoliopsida
-Maine,Maine
-Makine mühendisliği,Mechanical engineering
-Maldivler,Maldives
-Malezya,Malaysia
-Mali,Mali
-Malta,Malta
-Mantık,Logic
-Manyetizma,Magnetism
-Marksizm,Marxism
-Mars,Mars
-Marshall Adaları,Marshall Islands
-Maryland,Maryland
-Massachusetts,Massachusetts
-Matematik,Mathematics
-Matematiksel mantık,Mathematical logic
-Mauritius,Mauritius
-Maymunlar,Primates
-Mekanik,Mechanics
-Meksika,Mexico
-Metafizik,Metaphysics
-Metalürji,Metallurgy
-Meteoroloji,Meteorology
-Meyve,Fruit
-Mezopotamya,Mesopotamia
-Michigan,Michigan
-Mikoloji,Mycology
-Mikrobiyoloji,Microbiology
-Mikronezya Federal Devletleri,Federated States of Micronesia
-Milliyetçilik,Nationalism
-Mimarlık,Architecture
-Mineraloji,Mineralogy
-Minnesota,Minnesota
-Mississippi,Mississippi
-Missouri,Missouri
-Mitoloji,Mythology
-Mizah,Humor
-Moda,Fashion
-Moldova,Moldova
-Moleküler biyoloji,Molecular biology
-Monako,Monaco
-Monarşi,Monarchy
-Montana,Montana
-Moskova,Moscow
-Moğolistan,Mongolia
-Muhasebe,Accountancy
-Myanmar,Burma
-Myanmar,Myanmar
-Mühendislik,Engineering
-Müzik,Music
-Mısır,Egypt
-NATO,NATO
-Namibya,Namibia
-Nasyonal Sosyalizm,Nazism
-Nauru,Nauru
-Nazi Almanyası,Nazi Germany
-Nebraska,Nebraska
-Nepal,Nepal
-Nevada,Nevada
-New Hampshire,New Hampshire
-New Mexico,New Mexico
-New York,New York City
-New York,New York
-Nijerya,Nigeria
-Nobel Ödülleri,Nobel Prize
-Noel,Christmas
-Norveç,Norway
-Nöroloji,Neurology
-Nümismatik,Numismatics
-Ohio,Ohio
-Oklahoma,Oklahoma
-Okyanusbilim,Oceanography
-Okyanusya,Oceania
-Olimpiyat Oyunları,Olympics
-Onkoloji,Oncology
-Optik,Optics
-Oregon,Oregon
-Organik kimya,Organic chemistry
-Ornitoloji,Ornithology
-Orta Amerika,Central America
-Orta Doğu,Middle East
-Orta Çağ,Middle Ages
-Osmanlı Devleti,Ottoman Empire
-Pakistan,Pakistan
-Palau,Palau
-Paleontoloji,Paleontology
-Papua Yeni Gine,Papua New Guinea
-Para birimleri,Currency
-Paraguay,Paraguay
-Paris,Paris
-Parçacık fiziği,Particle physics
-Patlıcangiller,Solanaceae
-Pazarlama,Marketing
-Pedagoji,Pedagogy
-Pennsylvania,Pennsylvania
-Peru,Peru
-Politika,Politics
-Polonya,Poland
-Portekiz,Portugal
-Porto Riko,Puerto Rico
-Prehistorya,Prehistory
-Programlama,Computer programming
-Protista,Protista
-Psikiyatri,Psychiatry
-Psikoloji,Psychology
-Quebec,Quebec
-Radyo,Radio
-Resim,Painting
-Retorik,Rhetoric
-Rhode Island,Rhode Island
-Rock müzik,Rock music
-Roma,Rome
-Roma mitolojisi,Roman mythology
-Romanya,Romania
-Ruanda,Rwanda
-Rusya,Russia
-Saint Vincent ve Grenadinler,Saint Vincent and the Grenadines
-Saksonya,Saxony
-Samoa,Samoa
-San Marino,San Marino
-Sanat,Arts
-Sanat tarihi,Art history
-Satranç,Chess
-Satürn,Saturn
-Savaş,War
-Sayılar,Numbers
-Sağlık,Health
-Semantik,Semantics
-Senegal,Senegal
-Sesbilim,Phonetics
-Seyir,Navigation
-Seyşel Adaları,Seychelles
-Sicilya,Sicily
-Sierra Leone,Sierra Leone
-Simya,Alchemy
-Sindirim sistemi,Digestive system
-Sinema,Film
-Singapur,Singapore
-Sinir sistemi,Nervous system
-Sismoloji,Seismology
-Siyaset bilimi,Political science
-Slovakya,Slovakia
-Slovenya,Slovenia
-Solomon Adaları,Solomon Islands
-Sosyalizm,Socialism
-Sovyet Sosyalist Cumhuriyetler Birliği,Soviet Union
-Soybilim,Genealogy
-Soykırımlar,Genocide
-Soğuk Savaş,Cold War
-Sri Lanka,Sri Lanka
-Su,Water
-Sudan,Sudan
-Suriye,Syria
-Suudi Arabistan,Saudi Arabia
-Svaziland,Swaziland
-Sözdebilim,Pseudoscience
-Sırbistan,Serbia
-Sırbistan-Karadağ,Serbia and Montenegro
-Tacikistan,Tajikistan
-Takvim,Days
-Tarih,History
-Tasarım,Design
-Tavuksular,Galliformes
-Tayland,Thailand
-Tayvan,Taiwan
-Teknik direktörler,Football  managers
-Teknoloji,Technology
-Teksas,Texas
-Televizyon,Television
-Tenis,Tennis
-Tennessee,Tennessee
-Teoloji,Theology
-Termodinamik,Thermodynamics
-Terör,Terrorism
-Thüringen,Thuringia
-Tibet,Tibet
-Ticaret,Commerce
-Tipografi,Typography
-Tiyatro,Theatre
-Tonga,Tonga
-Toplum,Society
-Toplum bilimi,Sociology
-Topoloji,Topology
-Trigonometri,Trigonometry
-Trinidad ve Tobago,Trinidad and Tobago
-Tunus,Tunisia
-Turizm,Tourism
-Tuvalu,Tuvalu
-Türkiye,Turkey
-Türkmenistan,Turkmenistan
-Tıp,Medicine
-Ukrayna,Ukraine
-Ulaşım,Transportation
-Uluslararası hukuk,International law
-Umman,Oman
-Unix,Unix
-Uruguay,Uruguay
-Utah,Utah
-Uçaklar,Aircraft
-Vanuatu,Vanuatu
-Vatikan,Vatican City
-Vaşington,Washington
-Venezuela,Venezuela
-Vergiler,Taxation
-Vermont,Vermont
-Vietnam,Vietnam
-Virjinya,Virginia
-Viyana,Vienna
-Voleybol,Volleyball
-Wisconsin,Wisconsin
-Wyoming,Wyoming
-Yahudilik,Judaism
-Yanardağbilimi,Volcanology
-Yapay zeka,Artificial intelligence
-Yarasalar,Bats
-Yazılım,Software
-Yaşam,Life
-Yemen,Yemen
-Yeni Zelanda,New Zealand
-Yer,Earth
-Yugoslavya,Yugoslavia
-Yunan alfabesi,Greek alphabet
-Yunan mitolojisi,Greek mythology
-Yunanistan,Greece
-Yüzme,Swimming
-Zaman,Time
-Zimbabve,Zimbabwe
-Ziraat,Agriculture
-Zooloji,Zoology
-Çad,Chad
-Çay,Tea
-Çek Cumhuriyeti,Czech Republic
-Çekoslovakya,Czechoslovakia
-Çevre,Environment
-Çeçenya,Chechnya
-Çin,China
-Çöller,Deserts
-Ölçüm,Measurement
-Ölüm,Death
-Ötücü kuşlar,Passeriformes
-Özbekistan,Uzbekistan
-Ülkelere göre futbol,Football  by country
-Ürdün,Jordan
-İklim,Climate
-İletişim,Communication
-İmmünoloji,Immunology
-İngilizce,English language
-İngilizler,English people
-İngiltere,England
-İnorganik kimya,Inorganic chemistry
-İnternet,Internet
-İran,Iran
-İrlanda,Ireland
-İrlanda Cumhuriyeti,Republic of Ireland
-İrlandalılar,Irish people
-İskandinav mitolojisi,Norse mythology
-İskandinavya,Scandinavia
-İskelet,Skeletal system
-İslam,Islam
-İspanya,Spain
-İspanyollar,Spanish people
-İsrail,Israel
-İstanbul,Istanbul
-İstatistik,Statistics
-İsveç,Sweden
-İsviçre,Switzerland
-İsviçreliler,Swiss people
-İtalya,Italy
-İzlanda,Iceland
-Şiir,Poetry
-Şili,Chile
 Katharine Hepburn,Katharine Hepburn
 Katharizm,Catharism
 Katil balina,Orca
@@ -3222,10 +2909,13 @@ Kaynak kodu,Source code
 Kaynama noktası,Boiling point
 Kaynaç,Geyser
 Kayın,Beech
+Kayıngiller,Fagaceae
 Kayısı,Apricot
 Kazablanka,Casablanca
 Kazakistan,Kazakhstan
+Kazakistan,Kazakhstan
 Kazan,Kazan
+Kazsılar,Anseriformes
 Kazsılar,Anseriformes
 Kedi,Cat
 Kedigiller,Felidae
@@ -3244,6 +2934,8 @@ Kemiriciler,Rodent
 Kemoterapi,Chemotherapy
 Kenevir,Cannabis
 Kentucky,Kentucky
+Kentucky,Kentucky
+Kenya,Kenya
 Kenya,Kenya
 Kerberos,Cerberus
 Kereviz,Celery
@@ -3270,6 +2962,8 @@ Kilobayt,Kilobyte
 Kilometre,Kilometre
 Kimono,Kimono
 Kimya,Chemistry
+Kimya,Chemistry
+Kimya,Chemistry
 Kimya mühendisliği,Chemical engineering
 Kimyasal Savaş,Chemical warfare
 Kimyasal bağlar,Chemical bond
@@ -3281,11 +2975,14 @@ Kinşasa,Kinshasa
 Kipleme,Modulation
 Kireç taşı,Limestone
 Kiribati,Kiribati
+Kiribati,Kiribati
 Kiril Abecesi,Cyrillic alphabet
 Kirki,Circe
 Kitab-ı Mukaddes,Bible
+Kitab-ı Mukaddes,Bible
 Kitap,Book
 Kivi,Kiwi
+Kişiler,People
 Kişniş,Coriander
 Klarnet,Clarinet
 Klasik batı müziği,Classical music
@@ -3293,6 +2990,7 @@ Klasik mekanik,Classical mechanics
 Klavsen,Harpsichord
 Klavye,Keyboard
 Kleio,Clio
+Klimatoloji,Climatology
 Klinik depresyon,Clinical depression
 Klitoris,Clitoris
 Klonlama,Cloning
@@ -3323,13 +3021,17 @@ Kolezyum,Colosseum
 Kollajen,Collagen
 Kolloid,Colloid
 Kolombiya,Colombia
+Kolombiya,Colombia
 Kolombo,Colombo
 Koloni,Colony
 Kolorado,Colorado
+Kolorado,Colorado
 Komedi,Comedy
 Komitet Gosudarstvennoy Bezopasnosti,KGB
+Komor,Comoros
 Komorlar,Comoros
 Kompozit malzemeler,Composite material
+Komünizm,Communism
 Komünizm,Communism
 Konakri,Conakry
 Kondansatör,Capacitor
@@ -3352,6 +3054,8 @@ Kooperatif,Cooperative
 Kopenhag,Copenhagen
 Kordalılar,Chordate
 Kore,Korea
+Kore,Korea
+Kore Cumhuriyeti,South Korea
 Kore Savaşı,Korean War
 Korint,Corinth
 Kornea,Cornea
@@ -3359,6 +3063,7 @@ Korno,Horn
 Korozyon,Corrosion
 Korsika,Corsica
 Korvet,Corvette
+Kosova,Kosovo
 Kosova,Kosovo
 Kosta Rika,Costa Rica
 Kovalent bağ,Covalent bond
@@ -3370,9 +3075,13 @@ Krebs döngüsü,Citric acid cycle
 Kremlin,Kremlin
 Kretase,Cretaceous
 Kriket,Cricket
+Kriminalistik,Law enforcement
+Kriminoloji,Criminology
 Kriptografi,Cryptography
+Kriptoloji,Cryptography
 Kripton,Krypton
 Kristal şeker,Sugar
+Kristalografi,Crystallography
 Kristalografi,Crystallography
 Kristof Kolomb,Christopher Columbus
 Krişna,Krishna
@@ -3380,6 +3089,7 @@ Krom,Chromium
 Kromatin,Chromatin
 Kromatografi,Chromatography
 Kromozom,Chromosome
+Kronoloji,Chronology
 Kronos,Cronus
 Ksenofanes,Xenophanes
 Ksenofon,Xenophon
@@ -3392,6 +3102,7 @@ Kuark,Quark
 Kuasar,Quasar
 Kubbe,Dome
 Kubilay Han,Kublai Khan
+Kudüs,Jerusalem
 Kudüs,Jerusalem
 Kuiper kuşağı,Kuiper belt
 Kukumav,Little Owl
@@ -3417,12 +3128,15 @@ Kuru yemiş,Nut
 Kurşun,Lead
 Kutsal Kâse,Holy Grail
 Kutsal Roma Cermen İmparatorluğu,Holy Roman Empire
+Kutsal Roma Cermen İmparatorluğu,Holy Roman Empire
 Kutup Yıldızı,Polaris
 Kutup ayısı,Polar bear
 Kutup tilkisi,Arctic fox
 Kutup ışıkları,Aurora
+Kuvantum mekaniği,Quantum mechanics
 Kuvars,Quartz
 Kuvaterner,Quaternary
+Kuveyt,Kuwait
 Kuveyt,Kuwait
 Kuveyt,Kuwait City
 Kuvvet,Force
@@ -3433,16 +3147,20 @@ Kuzey,North
 Kuzey Adası,North Island
 Kuzey Afrika,North Africa
 Kuzey Amerika,North America
+Kuzey Amerika,North America
 Kuzey Atlantik Antlaşması Örgütü,NATO
 Kuzey Buz Denizi,Arctic Ocean
 Kuzey Dakota,North Dakota
+Kuzey Dakota,North Dakota
 Kuzey Denizi,North Sea
+Kuzey Karolina,North Carolina
 Kuzey Karolina,North Carolina
 Kuzey Kore,North Korea
 Kuzey Kutbu,North Pole
 Kuzey Kutup Dairesi,Arctic Circle
 Kuzey Mariana Adaları,Northern Mariana Islands
 Kuzey Yarımküre,Northern Hemisphere
+Kuzey İrlanda,Northern Ireland
 Kuzey İrlanda,Northern Ireland
 Kuzeybatı Toprakları,Northwest Territories
 Kuğu,Swan
@@ -3461,16 +3179,21 @@ Köpek,Dog
 Köpek balığı,Shark
 Köpekgiller,Canidae
 Köprü,Bridge
+Köprüler,Bridges
 Körlük,Blindness
 Köy,Village
+Küba,Cuba
 Küba,Cuba
 Küba Bağımsızlık Savaşı,Spanish-American War
 Kübizm,Cubism
 Kükürt,Sulfur
 Külkedisi,Cinderella
+Kültür,Culture
 Kültürler,Culture
 Küme,Set
+Kümeler teorisi,Set theory
 Küp,Cube
+Kürdistan,Kurdistan
 Kürdistan,Kurdistan
 Kürdistan İşçi Partisi,Kurdistan Workers Party
 Küre,Sphere
@@ -3485,6 +3208,7 @@ Küçük Antiller,Lesser Antilles
 Küçük insansı maymunlar,Gibbon
 Küçük karga,Jackdaw
 Küçük panda,Red Panda
+Kıbrıs,Cyprus
 Kıbrıs Cumhuriyeti,Cyprus
 Kıbrıslı Zenon,Zeno of Citium
 Kıkırdaklı balıklar,Chondrichthyes
@@ -3492,6 +3216,7 @@ Kılıç,Sword
 Kın kanatlılar,Beetle
 Kır kurdu,Coyote
 Kır kırlangıcı,Barn Swallow
+Kırgızistan,Kyrgyzstan
 Kırgızistan,Kyrgyzstan
 Kırk altı,46
 Kırk beş,45
@@ -3516,6 +3241,7 @@ Kızıl tilki,Red Fox
 Kızılağaç,Alder
 Kızıldeniz,Red Sea
 Kış,Winter
+Kış Olimpiyatları,Winter Olympic Games
 Kış Olimpiyatları,Winter Olympic Games
 Kış uykusu,Hibernation
 L,L
@@ -3572,6 +3298,7 @@ Lepus,Lepus
 Lesoto,Lesotho
 Leto,Leto
 Letonya,Latvia
+Letonya,Latvia
 Lev Troçki,Leon Trotsky
 Levant,Levant
 Levha hareketleri,Plate tectonics
@@ -3590,9 +3317,11 @@ Libra,Libra
 Libretto,Libretto
 Libreville,Libreville
 Libya,Libya
+Libya,Libya
 Lidya,Lydia
 Ligurya,Liguria
 Ligurya Denizi,Ligurian Sea
+Lihtenştayn,Liechtenstein
 Lihtenştayn,Liechtenstein
 Likenler,Lichen
 Likör,Liqueur
@@ -3608,14 +3337,17 @@ Limousin,Limousin
 Lincoln,Lincoln
 Lincolnshire,Lincolnshire
 Lineer cebir,Linear algebra
+Lineer cebir,Linear algebra
 Lingua franca,Lingua franca
 Linus Pauling,Linus Pauling
+Linux,Linux
 Linux,Linux
 Linz,Linz
 Lipit,Lipid
 Lise Meitner,Lise Meitner
 Lisp,Lisp
 Litre,Litre
+Litvanya,Lithuania
 Litvanya,Lithuania
 Lityum,Lithium
 "Liverpool, İngiltere",Liverpool
@@ -3632,6 +3364,7 @@ Lokomotif,Locomotive
 Lolita,Lolita
 Lombardiya,Lombardy
 Londra,London
+Londra,London
 Londra Kulesi,Tower of London
 Lorraine,Lorraine
 "Los Angeles, Kaliforniya",Los Angeles
@@ -3639,6 +3372,7 @@ Louis Aragon,Louis Aragon
 Louis Armstrong,Louis Armstrong
 Louis Braille,Louis Braille
 Louis Pasteur,Louis Pasteur
+Louisiana,Louisiana
 Louisiana,Louisiana
 "Louisville, Kentucky",Louisville
 Louvre Müzesi,Louvre
@@ -3667,6 +3401,8 @@ Lyra,Lyra
 Lökosit,White blood cell
 Lösemi,Leukemia
 Lübnan,Lebanon
+Lübnan,Lebanon
+Lüksemburg,Luxembourg
 Lüksemburg,Luxembourg
 Lüksemburg,Luxembourg
 M,M
@@ -3678,10 +3414,12 @@ MS-DOS,MS-DOS
 Maas nehri,Meuse River
 Mabet ağacı,Ginkgo
 Macaristan,Hungary
+Macaristan,Hungary
 Macbeth,Macbeth
 Macellan Boğazı,Strait of Magellan
 Mach sayısı,Mach number
 Machu Picchu,Machu Picchu
+Madagaskar,Madagascar
 Madagaskar,Madagascar
 Madde,Matter
 Maddecilik,Materialism
@@ -3696,10 +3434,12 @@ Mafya,Mafia
 Magma,Magma
 Magna Carta,Magna Carta
 Magnezyum,Magnesium
+Magnoliopsida,Magnoliopsida
 Magrip,Maghreb
 Maharaştra,Maharashtra
 Mahayana,Mahayana
 Mahkeme,Court
+Maine,Maine
 Maine,Maine
 Maitreya,Maitreya
 Majino Hattı,Maginot Line
@@ -3710,6 +3450,7 @@ Makedonya,Macedonia
 Makine,Machine
 Makine dili,Machine code
 Makine mühendisliği,Mechanical engineering
+Makine mühendisliği,Mechanical engineering
 Makineli tüfek,Machine gun
 Makroekonomi,Macroeconomics
 Malahit,Malachite
@@ -3717,8 +3458,12 @@ Malavi Gölü,Lake Malawi
 Malay Yarımadası,Malay Peninsula
 Malcolm X,Malcolm X
 Maldivler,Maldives
+Maldivler,Maldives
+Malezya,Malaysia
 Malezya,Malaysia
 Mali,Mali
+Mali,Mali
+Malta,Malta
 Malta,Malta
 Maltaca,Maltese language
 Maltoz,Maltose
@@ -3742,9 +3487,11 @@ Manto,Mantle
 Mantra,Mantra
 Mantua,Mantua
 Mantık,Logic
+Mantık,Logic
 Mantıksal kapılar,Logic gate
 Manuel de Falla,Manuel de Falla
 Manyetik alan,Magnetic field
+Manyetizma,Magnetism
 Mançurya,Manchuria
 Manş Denizi,English Channel
 Manş Tüneli,Channel Tunnel
@@ -3773,11 +3520,14 @@ Marilyn Monroe,Marilyn Monroe
 Mario Vargas Llosa,Mario Vargas Llosa
 Mark Twain,Mark Twain
 Marksizm,Marxism
+Marksizm,Marxism
 Marlene Dietrich,Marlene Dietrich
 Marmara Denizi,Sea of Marmara
 Marquis de Sade,Marquis de Sade
 Mars,Mars
 Mars,Mars
+Mars,Mars
+Marshall Adaları,Marshall Islands
 Marshall Planı,Marshall Plan
 Marsilya,Marseille
 Mart,March
@@ -3792,6 +3542,7 @@ Martı,Gull
 Mary Shelley,Mary Shelley
 Mary Wollstonecraft,Mary Wollstonecraft
 Maryland,Maryland
+Maryland,Maryland
 Marşal Adaları,Marshall Islands
 Masa,Table
 Masa tenisi,Table tennis
@@ -3800,14 +3551,18 @@ Maseru,Maseru
 Maskat,Muscat
 Masonluk,Freemasonry
 Massachusetts,Massachusetts
+Massachusetts,Massachusetts
 Massachusetts Teknoloji Enstitüsü,Massachusetts Institute of Technology
 Mata Hari,Mata Hari
 Matbaacılık,Printing
 Matematik,Mathematics
+Matematik,Mathematics
 Matematiksel beklenti,Expected value
+Matematiksel mantık,Mathematical logic
 Matematiksel mantık,Mathematical logic
 Matematiksel tanıt,Mathematical proof
 Maurice Ravel,Maurice Ravel
+Mauritius,Mauritius
 Mauritius,Mauritius
 Mavi,Blue
 Max Born,Max Born
@@ -3820,6 +3575,7 @@ Maxwell denklemleri,Maxwell's equations
 Maya,Yeast
 Maydanoz,Parsley
 Maydanozgiller,Apiaceae
+Maymunlar,Primates
 Mayorka,Majorca
 Mayoz bölünme,Meiosis
 Mayıs,May
@@ -3838,7 +3594,9 @@ Megabayt,Megabyte
 Meister Eckhart,Meister Eckhart
 Meitneriyum,Meitnerium
 Mekanik,Mechanics
+Mekanik,Mechanics
 Mekke,Mecca
+Meksika,Mexico
 Meksika,Mexico
 Meksika Körfezi,Gulf of Mexico
 Mektup,Mail
@@ -3846,8 +3604,8 @@ Mel Gibson,Mel Gibson
 Melanezya,Melanesia
 Melek,Angel
 Melek Şelalesi,Angel Falls
-Melez,Larch
 Melez,Hybrid
+Melez,Larch
 Melpomene,Melpomene
 Meme,Breast
 Meme kanseri,Breast cancer
@@ -3879,14 +3637,17 @@ Messina,Messina
 Messina Boğazı,Strait of Messina
 Metabolizma,Metabolism
 Metafizik,Metaphysics
+Metafizik,Metaphysics
 Metal,Metal
 Metalik bağ,Metallic bond
+Metalürji,Metallurgy
 Metalürji,Metallurgy
 Metamfetamin,Methamphetamine
 Metanol,Methanol
 Metastaz,Metastasis
 Meteor,Meteorite
 Meteor yağmuru,Meteor shower
+Meteoroloji,Meteorology
 Meteoroloji,Meteorology
 Methadon,Methadone
 Metiyonin,Methionine
@@ -3897,8 +3658,10 @@ Mevsim,Season
 Mexico,Mexico City
 Meyan,Liquorice
 Meyve,Fruit
+Meyve,Fruit
 Mezarlık,Cemetery
 Mezon,Meson
+Mezopotamya,Mesopotamia
 Mezopotamya,Mesopotamia
 Mezosfer,Mesosphere
 Mezozoik,Mesozoic
@@ -3907,6 +3670,7 @@ Meşhed,Mashhad
 "Miami, Florida",Miami
 Michael Faraday,Michael Faraday
 Michelangelo Buonarroti,Michelangelo
+Michigan,Michigan
 Michigan,Michigan
 Michigan Gölü,Lake Michigan
 Mick Jagger,Mick Jagger
@@ -3922,6 +3686,8 @@ Mike Tyson,Mike Tyson
 Miki Fare,Mickey Mouse
 Mikolaj Kopernik,Nicolaus Copernicus
 Mikoloji,Mycology
+Mikoloji,Mycology
+Mikrobiyoloji,Microbiology
 Mikrobiyoloji,Microbiology
 Mikrodalga,Microwave
 Mikrodalga fırın,Microwave oven
@@ -3929,6 +3695,7 @@ Mikroekonomi,Microeconomics
 Mikrofon,Microphone
 Mikroişlemciler,Microprocessor
 Mikronezya,Micronesia
+Mikronezya Federal Devletleri,Federated States of Micronesia
 Mikronezya Federal Devletleri,Federated States of Micronesia
 Mikroorganizma,Microorganism
 Mikroskop,Microscope
@@ -3942,33 +3709,42 @@ Millard Fillmore,Millard Fillmore
 Millet,Nation
 Milletler Cemiyeti,League of Nations
 Milliyetçilik,Nationalism
+Milliyetçilik,Nationalism
 Millî Park,National park
 Milton Friedman,Milton Friedman
 Milwaukee,Milwaukee
 Milyon,Million
 Mimarlık,Architecture
+Mimarlık,Architecture
 Minare,Minaret
 Mineral,Mineral
+Mineraloji,Mineralogy
 Mineraloji,Mineralogy
 Ming Hanedanı,Ming Dynasty
 Minimalizm,Minimalism
 Minneapolis,Minneapolis
 Minnesota,Minnesota
+Minnesota,Minnesota
 Minos,Minos
 Minotor,Minotaur
 Minsk,Minsk
 Mirket,Meerkat
+Mississippi,Mississippi
 Mississippi Nehri,Mississippi River
+Missouri,Missouri
 Missouri,Missouri
 Missouri Irmağı,Missouri River
 Mistisizm,Mysticism
 Mitokondri,Mitochondrion
 Mitoloji,Mythology
+Mitoloji,Mythology
 Miyopi,Myopia
+Mizah,Humor
 Mizah,Humour
 Mişna,Mishnah
 Mnemosyne,Mnemosyne
 Mobilya,Furniture
+Moda,Fashion
 Modem,Modem
 Modernizm,Modernism
 Modest Mussorgsky,Modest Mussorgsky
@@ -3976,13 +3752,17 @@ Mogadişu,Mogadishu
 Mohandas Karamçand Gandi,Mahatma Gandhi
 Mol,Mole
 Moldova,Moldova
+Moldova,Moldova
 Molekül,Molecule
+Moleküler biyoloji,Molecular biology
 Moleküler biyoloji,Molecular biology
 Molibden,Molybdenum
 Molise,Molise
 Molotof kokteyli,Molotov cocktail
 Momentum,Momentum
 Monako,Monaco
+Monako,Monaco
+Monarşi,Monarchy
 Monica Seles,Monica Seles
 Monitör,Computer display
 Monizm,Monism
@@ -3991,6 +3771,7 @@ Monosakkarit,Monosaccharide
 Monroe doktrini,Monroe Doctrine
 Monrovia,Monrovia
 Mont Blanc,Mont Blanc
+Montana,Montana
 Montana,Montana
 Monte Carlo,Monte Carlo
 Montevideo,Montevideo
@@ -4007,15 +3788,18 @@ Mors,Walrus
 Mors Alfabesi,Morse code
 Morötesi,Ultraviolet
 Moskova,Moscow
+Moskova,Moscow
 Mossad,Mossad
 Motosiklet,Motorcycle
 Mozaik,Mosaic
 Mozambik,Mozambique
 Moğolistan,Mongolia
+Moğolistan,Mongolia
 Moşe Dayan,Moshe Dayan
 Muhafazakârlık,Conservatism
 Muhammed Ali,Muhammad Ali
 Muhammed bin Abdullah,Muhammad
+Muhasebe,Accountancy
 Muhasebe,Accountancy
 Muhrip,Destroyer
 Multipl skleroz,Multiple sclerosis
@@ -4037,11 +3821,15 @@ Mutluluk,Happiness
 Muz,Banana
 Muz,Musa
 Myanmar,Burma
+Myanmar,Burma
+Myanmar,Myanmar
 Myriapoda,Myriapoda
 Müezzin,Muezzin
 Mühendislik,Engineering
+Mühendislik,Engineering
 Münih,Munich
 Müze,Museum
+Müzik,Music
 Müzik,Music
 Müzik Enstrümanları Dijital Arabirimi,Musical Instrument Digital Interface
 Müzik bilimi,Musicology
@@ -4049,11 +3837,14 @@ Müzler,Muse
 Mıknatıs,Magnet
 Mıknatıslık,Magnetism
 Mısır,Egypt
+Mısır,Egypt
 Mısır,Maize
 Mısır lirası,Egyptian pound
 Mısırbilim,Egyptology
 N,N
+N'Djamena,N'Djamena
 NASDAQ,NASDAQ
+NATO,NATO
 NSDAP,Nazi Party
 Nadine Gordimer,Nadine Gordimer
 Nagasaki,Nagasaki
@@ -4062,6 +3853,7 @@ Nahuatl dili,Nahuatl
 Nairobi,Nairobi
 Namaz,Salah
 Namib Çölü,Namib Desert
+Namibya,Namibia
 Namibya,Namibia
 Nancy,Nancy
 Nane,Mentha
@@ -4077,10 +3869,14 @@ Narenciye,Citrus
 Nargile,Hookah
 Narkissos,Narcissus
 Nassau,Nassau
+Nasyonal Sosyalizm,Nazism
 Nasıra,Nazareth
 Nauru,Nauru
+Nauru,Nauru
+Nazi Almanyası,Nazi Germany
 Nazi Almanyası,Nazi Germany
 Neandertal adamı,Neanderthal
+Nebraska,Nebraska
 Nebraska,Nebraska
 Nebukadnezar,Nebuchadrezzar II
 Nebula,Nebula
@@ -4098,6 +3894,7 @@ Neodimyum,Neodymium
 Neon,Neon
 Neoplatonizm,Neoplatonism
 Nepal,Nepal
+Nepal,Nepal
 Neptün,Neptune
 Neptünyum,Neptunium
 Nergisgiller,Amaryllidaceae
@@ -4107,15 +3904,20 @@ Nesir,Prose
 Nesne Yönelimli Programlama,Object-oriented programming
 Neva Nehri,Neva River
 Nevada,Nevada
+Nevada,Nevada
 Neville Chamberlain,Neville Chamberlain
 New Brunswick,New Brunswick
 New England,New England
 New Hampshire,New Hampshire
+New Hampshire,New Hampshire
 New Jersey,New Jersey
 New Mexico,New Mexico
+New Mexico,New Mexico
 New Orleans,New Orleans
-New York,New York City
 New York,New York
+New York,New York
+New York,New York City
+New York,New York City
 Newfoundland ve Labrador,Newfoundland and Labrador
 Newport,Newport
 Newton,Newton
@@ -4127,6 +3929,7 @@ Niels Bohr,Niels Bohr
 Niels Henrik Abel,Niels Henrik Abel
 Nijer,Niger
 Nijer Nehri,Niger River
+Nijerya,Nigeria
 Nijerya,Nigeria
 Nikaragua,Nicaragua
 Nike,Nike
@@ -4148,8 +3951,10 @@ Nitrogliserin,Nitroglycerin
 Niyasin,Niacin
 Nişasta,Starch
 Noam Chomsky,Noam Chomsky
+Nobel Ödülleri,Nobel Prize
 Nobel Ödülü,Nobel Prize
 Nobelyum,Nobelium
+Noel,Christmas
 Noel,Christmas
 Noel ağacı,Christmas tree
 Nohut,Chickpea
@@ -4163,6 +3968,7 @@ Normandiya,Normandy
 Norn,Norn
 Norse mitolojisi,Norse mythology
 Norveç,Norway
+Norveç,Norway
 Norveç Kronu,Norwegian krone
 Nostradamus,Nostradamus
 Nota,Note
@@ -4170,7 +3976,7 @@ Nouakchott,Nouakchott
 Novaya Zemlya,Novaya Zemlya
 Nuh,Noah
 Nunavut,Nunavut
-N'Djamena,N'Djamena
+Nöroloji,Neurology
 Nöroloji,Neurology
 Nörotransmitterler,Neurotransmitter
 Nötron,Neutron
@@ -4178,6 +3984,7 @@ Nötron yıldızı,Neutron star
 Nükleer enerji,Nuclear power
 Nükleik asit,Nucleic acid
 Nükleotit,Nucleotide
+Nümismatik,Numismatics
 Nümismatik,Numismatics
 Nürnberg,Nuremberg
 O,O
@@ -4197,6 +4004,7 @@ Odysseia,Odyssey
 Oedipus,Oedipus
 Ofsayt,Offside
 Ohio,Ohio
+Ohio,Ohio
 Ohm,Ohm
 Ohm Kanunu,Ohm's law
 Ohotsk Denizi,Sea of Okhotsk
@@ -4204,6 +4012,7 @@ Okaliptüs,Eucalyptus
 Okapi,Okapi
 Okeanidler,Oceanid
 Okeanos,Oceanus
+Oklahoma,Oklahoma
 Oklahoma,Oklahoma
 Oksijen,Oxygen
 Oksimoron,Oxymoron
@@ -4213,6 +4022,8 @@ Oktoberfest,Oktoberfest
 Okul,School
 Okuryazarlık,Literacy
 Okyanus,Ocean
+Okyanusbilim,Oceanography
+Okyanusya,Oceania
 Okyanusya,Oceania
 Olasılık,Probability
 Olasılık kuramı,Probability theory
@@ -4221,6 +4032,7 @@ Oligopoli,Oligopoly
 Oligosen,Oligocene
 Olimpiya,Olympia
 Olimpiyat Oyunları,Olympic Games
+Olimpiyat Oyunları,Olympics
 Olimpos,Mount Olympus
 Oliver Cromwell,Oliver Cromwell
 Oliver Stone,Oliver Stone
@@ -4235,6 +4047,7 @@ Omurilik,Spinal cord
 On Emir,Ten Commandments
 Onega Gölü,Lake Onega
 Oniki Ada,Dodecanese
+Onkoloji,Oncology
 Onomastik,Onomastics
 Ons,Ounce
 Ontario,Ontario
@@ -4247,6 +4060,7 @@ Opera,Opera
 Opera,Opera
 Ophiuchus,Ophiuchus
 Optik,Optics
+Optik,Optics
 Optimizasyon,Optimization
 Orak ve çekiç,Hammer and sickle
 Oral seks,Oral sex
@@ -4257,11 +4071,13 @@ Oratoryo,Oratorio
 Ordovisyen,Ordovician
 Ordu,Army
 Oregon,Oregon
+Oregon,Oregon
 Orestes,Orestes
 Orfe,Orpheus
 Org,Organ
 Organ,Organ
 Organel,Organelle
+Organik kimya,Organic chemistry
 Organik kimya,Organic chemistry
 Organizma,Organism
 Orgazm,Orgasm
@@ -4272,11 +4088,15 @@ Orkestra,Orchestra
 "Orlando, Florida",Orlando
 Orman,Forest
 Ornitoloji,Ornithology
+Ornitoloji,Ornithology
 Ornitorenk,Platypus
 Orson Welles,Orson Welles
 Orta Afrika Cumhuriyeti,Central African Republic
 Orta Amerika,Central America
+Orta Amerika,Central America
 Orta Doğu,Middle East
+Orta Doğu,Middle East
+Orta Çağ,Middle Ages
 Orta Çağ,Middle Ages
 Ortodoksluk,Eastern Orthodox Church
 Ortografi,Orthography
@@ -4286,6 +4106,7 @@ Oscar Wilde,Oscar Wilde
 Osiris,Osiris
 Oslo,Oslo
 Osman Gazi,Osman I
+Osmanlı Devleti,Ottoman Empire
 Osmanlı Devleti,Ottoman Empire
 Osmiyum,Osmium
 Osteoporoz,Osteoporosis
@@ -4322,10 +4143,13 @@ Pablo Neruda,Pablo Neruda
 Pablo Picasso,Pablo Picasso
 Paganlık,Paganism
 Pakistan,Pakistan
+Pakistan,Pakistan
 Paladyum,Palladium
 Palamut,Acorn
 Palanga,Pulley
 Palau,Palau
+Palau,Palau
+Paleontoloji,Paleontology
 Paleontoloji,Paleontology
 Paleosen,Paleocene
 Paleozoik zaman,Paleozoic
@@ -4352,12 +4176,15 @@ Papağan,Parrot
 Papirüs,Papyrus
 Papirüsgiller,Cyperaceae
 Papua Yeni Gine,Papua New Guinea
+Papua Yeni Gine,Papua New Guinea
 Para,Money
+Para birimleri,Currency
 Parabol,Parabola
 Paracelsus,Paracelsus
 Paradigma,Paradigm
 Paradoks,Paradox
 Parafili,Paraphilia
+Paraguay,Paraguay
 Paraguay,Paraguay
 Paralelkenar,Parallelogram
 Paramaribo,Paramaribo
@@ -4365,6 +4192,7 @@ Paranoya,Paranoia
 Parapsikoloji,Parapsychology
 Paraşüt,Parachute
 Parfüm,Perfume
+Paris,Paris
 Paris,Paris
 Paris,Paris
 Parlamento,Parliament
@@ -4379,6 +4207,7 @@ Partenon,Parthenon
 Partlar,Parthia
 Parvati,Parvati
 Parçacık fiziği,Particle physics
+Parçacık fiziği,Particle physics
 Pasaport,Passport
 Pascal,Pascal
 Pascal,Pascal
@@ -4391,6 +4220,7 @@ Patagonya,Patagonia
 Patates,Potato
 Patent,Patent
 Patlıcan,Eggplant
+Patlıcangiller,Solanaceae
 Patlıcangiller,Solanaceae
 Patoloji,Pathology
 Patras,Patras
@@ -4408,8 +4238,10 @@ Pavlus,Paul the Apostle
 Pavo,Pavo
 Pazar,Sunday
 Pazarlama,Marketing
+Pazarlama,Marketing
 Pazartesi,Monday
 "Pearl Harbor, Hawaii",Pearl Harbor
+Pedagoji,Pedagogy
 Pederimiz,Lord's Prayer
 Pediatri,Pediatrics
 Pedofili,Pedophilia
@@ -4422,6 +4254,7 @@ Pencere,Window
 Penelope,Penelope
 Penguen,Penguin
 Penisilin,Penicillin
+Pennsylvania,Pennsylvania
 Pensilvanya,Pennsylvania
 Pentagram,Pentagram
 Pentakostalizm,Pentecostalism
@@ -4443,6 +4276,7 @@ Persepolis,Persepolis
 Perseus,Perseus
 Perseus,Perseus
 Perth,Perth
+Peru,Peru
 Peru,Peru
 Perşembe,Thursday
 Peter Sellers,Peter Sellers
@@ -4522,8 +4356,10 @@ Polimer,Polymer
 Polinezya,Polynesia
 Polinom,Polynomial
 Polis,Police
+Politika,Politics
 Polivinil klorür,Polyvinyl chloride
 Polo,Polo
+Polonya,Poland
 Polonya,Poland
 Polonyum,Polonium
 Polymnia,Polyhymnia
@@ -4540,20 +4376,12 @@ Porsuk,Eurasian Badger
 Port of Spain,Port of Spain
 Port-au-Prince,Port-au-Prince
 Portakal,Orange
-Astronomi,Astronomy
-Biyografi,Biography
-Biyoloji,Biology
-Coğrafya,Geography
-Edebiyat,Literature
-Felsefe,Philosophy
-Fizik,Physics
-Kimya,Chemistry
-Sinema,Film
-Tarih,History
+Portekiz,Portugal
 Portekiz,Portugal
 Portland,Portland
 "Portland, Oregon",Portland
 Porto,Porto
+Porto Riko,Puerto Rico
 Porto Riko,Puerto Rico
 Posiedon,Poseidon
 Posta kodu,Postal code
@@ -4566,6 +4394,7 @@ Pozitron,Positron
 Praetor,Praetor
 Prag,Prague
 Prehistorya,Prehistory
+Prehistorya,Prehistory
 Prens Edward Adası,Prince Edward Island
 "Prens Philip, Edinburgh Dükü",Prince Philip
 Presesyon,Precession
@@ -4576,6 +4405,7 @@ Primatlar,Primate
 Princeton Üniversitesi,Princeton University
 Prion,Prion
 Profesör,Professor
+Programlama,Computer programming
 Programlama,Computer programming
 Programlama dilleri,Programming language
 Progressive rock,Progressive rock
@@ -4590,6 +4420,7 @@ Prostat,Prostate
 Protein,Protein
 Proterozoik Devir,Proterozoic
 Protestanlık,Protestantism
+Protista,Protista
 Protistler,Protist
 Proton,Proton
 Protonopia,Color blindness
@@ -4599,6 +4430,8 @@ Prunus,Prunus
 Prusya,Prussia
 Psikanaliz,Psychoanalysis
 Psikiyatri,Psychiatry
+Psikiyatri,Psychiatry
+Psikoloji,Psychology
 Psikoterapi,Psychotherapy
 Psikoz,Psychosis
 Ptah,Ptah
@@ -4616,6 +4449,7 @@ Pyxis,Pyxis
 Q,Q
 Quaestor,Quaestor
 Quebec,Quebec
+Quebec,Quebec
 Quebec Şehri,Quebec City
 Quechua,Quechua
 Queensland,Queensland
@@ -4632,6 +4466,7 @@ Rabindranath Tagore,Rabindranath Tagore
 Rachel Carson,Rachel Carson
 Radar,Radar
 Radon,Radon
+Radyo,Radio
 Radyo teleskop,Radio telescope
 Radyoaktivite,Radioactive decay
 Radyokarbon tarihleme yöntemi,Radiocarbon dating
@@ -4667,11 +4502,14 @@ Renk,Color
 Renyum,Rhenium
 Requiem,Requiem
 Resesyon,Recession
+Resim,Painting
 Reticulum,Reticulum
 Retina,Retina
 Retorik,Rhetoric
+Retorik,Rhetoric
 Rezene,Fennel
 Rheia,Rhea
+Rhode Island,Rhode Island
 Rhode Island,Rhode Island
 Rhythm and Blues,Rhythm and blues
 Riboflavin,Riboflavin
@@ -4707,6 +4545,7 @@ Robin Hood,Robin Hood
 Robot,Robot
 Rock and Roll,Rock and roll
 Rock müzik,Rock music
+Rock müzik,Rock music
 Rodos Adası,Rhodes
 Rodos Heykeli,Colossus of Rhodes
 Rodyum,Rhodium
@@ -4714,14 +4553,17 @@ Roger Bacon,Roger Bacon
 Rok,Castling
 Roket,Rocket
 Rokoko,Rococo
+Roma,Rome
 Roma Cumhuriyeti,Roman Republic
 Roma Hukuku,Roman law
 Roma lejyonu,Roman legion
+Roma mitolojisi,Roman mythology
 Roma mitolojisi,Roman mythology
 Roma İmparatorluğu,Roman Empire
 "Roma, İtalya",Rome
 Roman,Novel
 Romantizm akımı,Romanticism
+Romanya,Romania
 Romanya,Romania
 Romanş,Romansh
 Ronald Reagan,Ronald Reagan
@@ -4734,6 +4576,7 @@ Ross Denizi,Ross Sea
 Rostock,Rostock
 Rotterdam,Rotterdam
 Ruanda,Rwanda
+Ruanda,Rwanda
 Rubidyum,Rubidium
 Ruby,Ruby
 Rudolf Diesel,Rudolf Diesel
@@ -4745,6 +4588,7 @@ Ruhban sınıfı,Clergy
 Rupert Murdoch,Rupert Murdoch
 Rus Ortodoks Kilisesi,Russian Orthodox Church
 Rushmore Dağı,Mount Rushmore
+Rusya,Russia
 Rusya,Russia
 Rutenyum,Ruthenium
 Rutherford B. Hayes,Rutherford B. Hayes
@@ -4775,10 +4619,12 @@ Saint Kitts ve Nevis,Saint Kitts and Nevis
 Saint Lawrence Nehri,Saint Lawrence River
 Saint Lucia,Saint Lucia
 Saint Vincent ve Grenadinler,Saint Vincent and the Grenadines
+Saint Vincent ve Grenadinler,Saint Vincent and the Grenadines
 Sake,Sake
 Sakrament,Sacrament
 Saksafon,Saxophone
 Saksağan,Magpie
+Saksonya,Saxony
 Saksonya eyaleti,Saxony
 Sakız,Chewing gum
 Sakız Adası,Chios
@@ -4794,6 +4640,7 @@ Samanyolu,Milky Way
 Samara,Samara
 Samaryum,Samarium
 Sami dil ailesi,Semitic
+Samoa,Samoa
 Samuel Beckett,Samuel Beckett
 Samuel Morse,Samuel F. B. Morse
 Samuel Taylor Coleridge,Samuel Taylor Coleridge
@@ -4804,11 +4651,14 @@ San Francisco,San Francisco
 "San Jose, Kaliforniya",San Jose
 San Juan,San Juan
 San Marino,San Marino
+San Marino,San Marino
 San Marino şehri,San Marino
 San Salvador,San Salvador
 Sanal bellek,Virtual memory
 Sanal gerçeklik,Virtual reality
 Sanat,Art
+Sanat,Arts
+Sanat tarihi,Art history
 Sanat tarihi,Art history
 Sanayi Devrimi,Industrial Revolution
 Sandro Botticelli,Sandro Botticelli
@@ -4840,12 +4690,15 @@ Saskatchewan,Saskatchewan
 Satanizm,Satanism
 Satir,Satyr
 Satranç,Chess
+Satranç,Chess
 Satranç açılışları,Chess opening
+Satürn,Saturn
 Satürn,Saturn
 Satürn,Saturn
 Saul Bellow,Saul Bellow
 Saul Hudson,Slash
 Savan,Savanna
+Savaş,War
 Savaş,War
 Savaş Topu,Cannon
 Savaş Tutsağı,Prisoner of war
@@ -4853,10 +4706,12 @@ Savaş suçu,War crime
 Sayı,Number
 Sayı boncuğu,Abacus
 Sayılar,Book of Numbers
+Sayılar,Numbers
 Sayısal fotoğrafçılık,Digital photography
 Sazangiller,Cyprinid
 Sazansılar,Cypriniformes
 Saç,Hair
+Sağlık,Health
 Sağlık,Health
 Scheme,Scheme
 Scientoloji,Scientology
@@ -4877,6 +4732,7 @@ Selene,Selene
 Selenyum,Selenium
 Selüloz,Cellulose
 Semantik,Semantics
+Semantik,Semantics
 Semender,Salamander
 Semerkand,Samarkand
 Semiyotik,Semiotics
@@ -4884,6 +4740,7 @@ Sen Nehri,Seine
 Senato,Senate
 Sendika,Syndicate
 Sendika,Trade union
+Senegal,Senegal
 Senegal,Senegal
 Senfoni,Symphony
 Senozoik,Cenozoic
@@ -4903,12 +4760,15 @@ Servigiller,Cupressaceae
 Seryum,Cerium
 Ses,Sound
 Sesbilim,Phonetics
+Sesbilim,Phonetics
 Sessiz kuğu,Mute Swan
 Set,Set
 Seul,Seoul
 Sevgililer Günü,Valentine's Day
 Sevilla,Seville
 Seyir,Navigation
+Seyir,Navigation
+Seyşel Adaları,Seychelles
 Seyşel Adaları,Seychelles
 Sezyum,Caesium
 Seçim,Election
@@ -4919,8 +4779,10 @@ Sibirya,Siberia
 Sibirya kurdu,Siberian Husky
 Sichuan,Sichuan
 Sicilya,Sicily
+Sicilya,Sicily
 Sicim Kuramı,String theory
 Sidney,Sydney
+Sierra Leone,Sierra Leone
 Sierra Leone,Sierra Leone
 Sigara,Cigarette
 Sigmund Freud,Sigmund Freud
@@ -4938,18 +4800,24 @@ Siluriformes,Catfish
 Silüryen,Silurian
 Simone de Beauvoir,Simone de Beauvoir
 Simya,Alchemy
+Simya,Alchemy
 Sina Yarımadası,Sinai Peninsula
 Sinagog,Synagogue
 Sincan Uygur Özerk Bölgesi,Xinjiang
 Sincap,Sciuridae
 Sincap,Squirrel
 Sinclair Lewis,Sinclair Lewis
+Sindirim sistemi,Digestive system
 Sindirim sistemi,Gastrointestinal tract
 Sinek kuşu,Hummingbird
 Sinek mantarı,Amanita muscaria
+Sinema,Film
+Sinema,Film
 Sinestezi,Synesthesia
 Singapur,Singapore
+Singapur,Singapore
 Sinir hücresi,Neuron
+Sinir sistemi,Nervous system
 Sinir sistemi,Nervous system
 Sinonim,Synonym
 Siraküza,Syracuse
@@ -4958,6 +4826,7 @@ Sirk,Circus
 Sirke,Vinegar
 Siroz,Cirrhosis
 Sisifos,Sisyphus
+Sismoloji,Seismology
 Sismoloji,Seismology
 Sistem,System
 Sistine Şapeli,Sistine Chapel
@@ -4969,6 +4838,7 @@ Sivrisinek,Mosquito
 Siyanobakteri,Cyanobacteria
 Siyanür,Cyanide
 Siyaset,Politics
+Siyaset bilimi,Political science
 Siyasi Bilimler,Political science
 Siyasi Parti,Political party
 Siyonizm,Zionism
@@ -4979,6 +4849,8 @@ Skylab,Skylab
 Slayer,Slayer
 Slogan,Motto
 Slovakya,Slovakia
+Slovakya,Slovakia
+Slovenya,Slovenia
 Slovenya,Slovenia
 Smolensk,Smolensk
 Snooker,Snooker
@@ -4989,6 +4861,7 @@ Sofokles,Sophocles
 Sofya,Sofia
 Sokrates,Socrates
 Solaklık,Left-handed
+Solomon Adaları,Solomon Islands
 Solomon Adaları,Solomon Islands
 Solon,Solon
 Solucan,Worm
@@ -5006,15 +4879,20 @@ Soru işareti,Question mark
 Sos,Sauce
 Sosyal psikoloji,Social psychology
 Sosyalizm,Socialism
+Sosyalizm,Socialism
+Sovyet Sosyalist Cumhuriyetler Birliği,Soviet Union
 Sovyet Sosyalist Cumhuriyetler Birliği,Soviet Union
 Soy tükenmesi,Extinction
 Soya,Soybean
+Soybilim,Genealogy
 Soygaz,Noble gas
 Soykırım,Genocide
+Soykırımlar,Genocide
 Soyut dışavurumculuk,Abstract expressionism
 Soyut sanat,Abstract art
 Soyutlama,Abstraction
 Soğan,Onion
+Soğuk Savaş,Cold War
 Soğuk Savaş,Cold War
 Soğutma çevrimi,Heat engine
 Sparta,Sparta
@@ -5024,6 +4902,7 @@ Sperm,Spermatozoon
 Spin,Spin
 Split,Split
 Spor,Sport
+Sri Lanka,Sri Lanka
 Sri Lanka,Sri Lanka
 St. Helens Dağı,Mount St. Helens
 "St. Louis, Missouri",St. Louis
@@ -5057,12 +4936,14 @@ Stronsiyum,Strontium
 Sturmabteilung,Sturmabteilung
 Stuttgart,Stuttgart
 Su,Water
+Su,Water
 Su ayıları,Tardigrade
 Su bilimi,Hydrology
 Su topu,Water polo
 Su yosunları,Algae
 Suaygırı,Hippopotamus
 Sucre,Sucre
+Sudan,Sudan
 Sudan,Sudan
 Sudoku,Sudoku
 Sufizm,Sufism
@@ -5078,9 +4959,11 @@ Superman,Superman
 Sure,Sura
 Surinam,Suriname
 Suriye,Syria
+Suriye,Syria
 Surrey,Surrey
 Susan Sontag,Susan Sontag
 Sutyen,Brassiere
+Suudi Arabistan,Saudi Arabia
 Suudi Arabistan,Saudi Arabia
 Suç,Crime
 Suç bilimi,Criminology
@@ -5088,10 +4971,12 @@ Suşi,Sushi
 Svalbard,Svalbard
 Svastika,Swastika
 Svaziland,Swaziland
+Svaziland,Swaziland
 Sylvia Plath,Sylvia Plath
 Synthesizer,Synthesizer
 Söylence,Legend
 Sözcük,Word
+Sözdebilim,Pseudoscience
 Sözdebilim,Pseudoscience
 Sözlük,Dictionary
 Söğüt,Willow
@@ -5117,6 +5002,8 @@ Sınıf,Class
 Sıradağ,Mountain range
 Sıralama algoritması,Sorting algorithm
 Sırbistan,Serbia
+Sırbistan,Serbia
+Sırbistan-Karadağ,Serbia and Montenegro
 Sırbistan-Karadağ,Serbia and Montenegro
 Sıtma,Malaria
 Sıvı,Liquid
@@ -5134,6 +5021,7 @@ Tabu,Taboo
 Tabur,Battalion
 Tac Mahal,Taj Mahal
 Tacikistan,Tajikistan
+Tacikistan,Tajikistan
 Tacitus,Tacitus
 Tahiti,Tahiti
 Tahran,Tehran
@@ -5146,6 +5034,7 @@ Taksici,Taxicab
 Takson,Taxon
 Taksonomi,Taxonomy
 Takvim,Calendar
+Takvim,Days
 Takım,Order
 Takımyıldız,Constellation
 Taliban,Taliban
@@ -5174,18 +5063,25 @@ Taraklılar,Ctenophore
 Taraxacum,Dandelion
 Tarayıcı,Image scanner
 Tarih,History
+Tarih,History
+Tarih,History
 Tartarus,Tartarus
 Tartu,Tartu
 Tarım,Agriculture
 Tasarım,Design
+Tasarım,Design
+Taslak,Stub
 Taurus,Taurus
 Tavla,Backgammon
 Tavuk,Chicken
 Tavuksular,Galliformes
+Tavuksular,Galliformes
 Tavus kuşu,Peafowl
 Tavşanımsılar,Lagomorpha
 Tayland,Thailand
+Tayland,Thailand
 Tayland Körfezi,Gulf of Thailand
+Tayvan,Taiwan
 Tayvan,Taiwan
 Tazman Denizi,Tasman Sea
 Tazmanya,Tasmania
@@ -5208,8 +5104,11 @@ Tekerlekli hayvanlar,Rotifer
 Tekila,Tequila
 Tekli,Single
 Teknesyum,Technetium
+Teknik direktörler,Football  managers
 Tekno müzik,Techno
 Teknoloji,Technology
+Teknoloji,Technology
+Teksas,Texas
 Teksas,Texas
 Tekstil,Textile
 Tektanrıcılık,Monotheism
@@ -5222,6 +5121,7 @@ Telepati,Telepathy
 Telescopium,Telescopium
 Teleskop,Telescope
 Televizyon,Television
+Televizyon,Television
 Telgraf,Telegraphy
 Telif hakkı,Copyright
 Tellür,Tellurium
@@ -5229,6 +5129,8 @@ Temel kuvvetler,Fundamental interaction
 Temmuz,July
 Tenerife,Tenerife
 Tenis,Tennis
+Tenis,Tennis
+Tennessee,Tennessee
 Tennessee,Tennessee
 Tennessee Williams,Tennessee Williams
 Tenor,Tenor
@@ -5236,15 +5138,18 @@ Tenzing Norgay,Tenzing Norgay
 Teodolit,Theodolite
 Teokrasi,Theocracy
 Teoloji,Theology
+Teoloji,Theology
 Teorem,Theorem
 Terbiyum,Terbium
 Tereyağı,Butter
 Termit,Termite
 Termodinamik,Thermodynamics
+Termodinamik,Thermodynamics
 Termofil Savaşı,Battle of Thermopylae
 Termometre,Thermometer
 Terpsikhore,Terpsichore
 Tertullianus,Tertullian
+Terör,Terrorism
 Terörizm,Terrorism
 Tesalya,Thessaly
 Tescilli marka,Trademark
@@ -5282,10 +5187,13 @@ Thomas Young,Thomas Young
 Thor,Thor
 Thoth,Thoth
 Thüringen,Thuringia
+Thüringen,Thuringia
 Tiber Nehri,Tiber
 Tiberius,Tiberius
 Tibet,Tibet
+Tibet,Tibet
 Tibet sığırı,Yak
+Ticaret,Commerce
 Tiencin,Tianjin
 Tiflis,Tbilisi
 Tikino,Ticino
@@ -5295,6 +5203,7 @@ Timin,Thymine
 Timor,Timor
 Timsahgiller,Crocodile
 Timur,Timur
+Tipografi,Typography
 Tipografi,Typography
 "Tiran, Arnavutluk",Tirana
 Tiren Denizi,Tyrrhenian Sea
@@ -5309,6 +5218,7 @@ Titus Flavius Vespasianus,Titus
 Titus Livius,Livy
 Tiyamin,Thiamine
 Tiyatro,Theatre
+Tiyatro,Theatre
 Tiziano Vecellio,Titian
 Togo,Togo
 Tohum,Seed
@@ -5321,13 +5231,17 @@ Tom Hanks,Tom Hanks
 Tom ve Jerry,Tom and Jerry
 Ton,Tonne
 Tonga,Tonga
+Tonga,Tonga
 Toni Morrison,Toni Morrison
 Tony Blair,Tony Blair
 Top,Ball
 Topaz,Topaz
 "Topeka, Kansas",Topeka
 Toplardamar,Vein
+Toplum,Society
 Toplum bilimi,Sociology
+Toplum bilimi,Sociology
+Topoloji,Topology
 Topoloji,Topology
 Toprak,Soil
 Torino,Turin
@@ -5360,7 +5274,9 @@ Trias,Triassic
 Triceratops,Triceratops
 Trier,Trier
 Trigonometri,Trigonometry
+Trigonometri,Trigonometry
 Trilobita,Trilobite
+Trinidad ve Tobago,Trinidad and Tobago
 Trinidad ve Tobago,Trinidad and Tobago
 Trinitrotoluen,Trinitrotoluene
 Triptofan,Tryptophan
@@ -5389,18 +5305,21 @@ Tukididis,Thucydides
 Tulumlular,Tunicate
 Tuna Nehri,Danube
 Tundra,Tundra
-Tunus,Tunisia
 Tunus,Tunis
+Tunus,Tunisia
+Tunus,Tunisia
 Tunç,Bronze
 Tunç Çağı,Bronze Age
 Turbofan,Jet engine
 Turing makinesi,Turing machine
+Turizm,Tourism
 Turizm,Tourism
 Turnagiller,Crane
 Turnamsılar,Gruiformes
 Turpgiller,Brassicaceae
 Turuncu,Orange
 Tutulum,Ecliptic
+Tuvalu,Tuvalu
 Tuvalu,Tuvalu
 Tux,Tux
 Tuz,Salt
@@ -5419,8 +5338,11 @@ Türbin,Turbine
 Türev,Derivative
 Türk daması,Draughts
 Türkiye,Turkey
+Türkiye,Turkey
+Türkmenistan,Turkmenistan
 Türkmenistan,Turkmenistan
 Tütün,Tobacco
+Tıp,Medicine
 Tıp,Medicine
 Tırnak,Nail
 U,U
@@ -5430,7 +5352,9 @@ Ufa,Ufa
 Ufuk,Horizon
 Uganda,Uganda
 Ukrayna,Ukraine
+Ukrayna,Ukraine
 Ulan Batur,Ulan Bator
+Ulaşım,Transportation
 Ulster,Ulster
 Ultrason,Ultrasound
 Ulusal Güvenlik Teşkilatı,National Security Agency
@@ -5439,12 +5363,15 @@ Uluslararası Adalet Divanı,International Court of Justice
 Uluslararası Atom Enerji Ajansı,International Atomic Energy Agency
 Uluslararası Para Fonu,International Monetary Fund
 Uluslararası Sivil Havacılık Örgütü,International Civil Aviation Organization
+Uluslararası hukuk,International law
 Uluslararası Çalışma Örgütü,International Labour Organization
 Ulysses S. Grant,Ulysses S. Grant
 Umbria,Umbria
 Umman,Oman
+Umman,Oman
 Umman Denizi,Arabian Sea
 Umman Körfezi,Gulf of Oman
+Unix,Unix
 Ununbiyum,Ununbium
 Ununheksiyum,Ununhexium
 Ununkuadyum,Ununquadium
@@ -5462,7 +5389,9 @@ Urduca,Urdu
 Ursa Major,Ursa Major
 Ursa Minor,Ursa Minor
 Uruguay,Uruguay
+Uruguay,Uruguay
 Usame bin Ladin,Osama bin Laden
+Utah,Utah
 Utah,Utah
 Utrecht,Utrecht
 Utrecht,Utrecht
@@ -5477,6 +5406,7 @@ Uzayadamı,Astronaut
 Uzun atlama,Long jump
 Uzunluk birimleri,Length
 Uçak gemisi,Aircraft carrier
+Uçaklar,Aircraft
 Uğur böceği,Coccinellidae
 V,V
 Vadi,Valley
@@ -5495,6 +5425,7 @@ Vampir,Vampire
 Vanadyum,Vanadium
 "Vancouver, Britanya Kolumbiyası",Vancouver
 Vandallık,Vandalism
+Vanuatu,Vanuatu
 Vanuatu Cumhuriyeti,Vanuatu
 Varna,Varna
 Varoluşçuluk,Existentialism
@@ -5503,6 +5434,8 @@ Varşova,Warsaw
 Vasiliy Kandinskiy,Wassily Kandinsky
 Vatandaşlık,Citizenship
 Vatikan,Vatican City
+Vatikan,Vatican City
+Vaşington,Washington
 Vaşington,Washington
 "Vaşington, DC",Washington
 Vega,Vega
@@ -5511,16 +5444,19 @@ Vela,Vela
 Venedik,Venice
 Veneto,Veneto
 Venezuela,Venezuela
+Venezuela,Venezuela
 Venüs,Venus
 Venüs,Venus
 Venüs,Venus
 Verem,Tuberculosis
 Vergi,Tax
+Vergiler,Taxation
 Veri madenciliği,Data mining
 Veri tabanı,Database
 Veri yapıları,Data structure
 Veritabanı yönetim sistemi,Database management system
 Veriyolu,Bus
+Vermont,Vermont
 Vermont,Vermont
 Verona,Verona
 Versailles Barış Antlaşması,Treaty of Versailles
@@ -5542,6 +5478,7 @@ Vida,Screw
 Video,Video
 Video oyunu,Video game
 Vietnam,Vietnam
+Vietnam,Vietnam
 Vietnam Savaşı,Vietnam War
 Vika,Wicca
 Vikingler,Viking
@@ -5554,6 +5491,7 @@ Virginia Woolf,Virginia Woolf
 Virgo,Virgo
 Virgül,Comma
 Virjinya,Virginia
+Virjinya,Virginia
 Virüs,Virus
 Viski,Whisky
 Viskozite,Viscosity
@@ -5564,6 +5502,7 @@ Vittorio De Sica,Vittorio De Sica
 Vitus Bering,Vitus Bering
 Vivien Leigh,Vivien Leigh
 Viyana,Vienna
+Viyana,Vienna
 Viyolonsel,Cello
 Vişnu,Vishnu
 Vladimir Nabokov,Vladimir Nabokov
@@ -5571,6 +5510,7 @@ Vladimir Putin,Vladimir Putin
 Vladimir İlyiç Lenin,Vladimir Lenin
 Vladivostok,Vladivostok
 Volans,Volans
+Voleybol,Volleyball
 Voleybol,Volleyball
 Volfram,Tungsten
 Volgograd,Volgograd
@@ -5621,15 +5561,18 @@ Windhoek,Windhoek
 Winnipeg,Winnipeg
 Winston Churchill,Winston Churchill
 Wisconsin,Wisconsin
+Wisconsin,Wisconsin
 Wolfgang Amadeus Mozart,Wolfgang Amadeus Mozart
 Wolfgang Pauli,Wolfgang Pauli
 Woody Allen,Woody Allen
 Wuhan,Wuhan
 Wyoming,Wyoming
+Wyoming,Wyoming
 X,X
 X ışını,X-ray
 Y,Y
 Yaban kedisi,Wildcat
+Yahudilik,Judaism
 Yahya,John the Baptist
 Yakup,Jacob
 Yakut,Ruby
@@ -5643,16 +5586,19 @@ Yalta Konferansı,Yalta Conference
 Yamaç paraşütü,Paragliding
 Yanardağ,Volcano
 Yanardağbilimi,Volcanology
+Yanardağbilimi,Volcanology
 Yangoon,Yangon
 Yangtze,Yangtze River
 Yanya Denizi,Ionian Sea
 Yapay uydular,Satellite
+Yapay zeka,Artificial intelligence
 Yapay zekâ,Artificial intelligence
 Yaprak,Leaf
 Yapraklı karayosunları,Moss
 Yapısalcılık,Structuralism
 Yapısöküm,Deconstruction
 Yarasa,Bat
+Yarasalar,Bats
 Yarda,Yard
 Yarı iletken,Semiconductor
 Yarı metal,Metalloid
@@ -5671,10 +5617,12 @@ Yazar,Author
 Yazar,Writer
 Yazı sistemleri,Writing system
 Yazılım,Computer software
+Yazılım,Software
 Yağ asidi,Fatty acid
 Yağmur,Rain
 Yağmurkuşları,Charadriiformes
 Yağış,Precipitation
+Yaşam,Life
 Yaşam,Life
 Yehova,Jehovah
 Yehova,Yahweh
@@ -5686,6 +5634,7 @@ Yellowstone Milli Parkı,Yellowstone National Park
 Yemek borusu,Esophagus
 Yemek tuzu,Salt
 Yemen,Yemen
+Yemen,Yemen
 Yengeç,Crab
 Yengeç Bulutsusu,Crab Nebula
 Yengeç Dönencesi,Tropic of Cancer
@@ -5696,10 +5645,12 @@ Yeni Gine,New Guinea
 Yeni Güney Galler,New South Wales
 Yeni Kaledonya,New Caledonia
 Yeni Zelanda,New Zealand
+Yeni Zelanda,New Zealand
 Yeni İskoçya,Nova Scotia
 Yenileşim,Innovation
 Yenisey Irmağı,Yenisei River
 Yeniçeri,Janissary
+Yer,Earth
 Yer bilimi,Geology
 Yer bilimleri,Earth science
 Yer fiziği,Geophysics
@@ -5728,16 +5679,20 @@ Yoğun Disk,Compact Disc
 Yoğunluk,Density
 Yoğurt,Yoghurt
 Yuan Hanedanı,Yuan Dynasty
+Yugoslavya,Yugoslavia
 Yukarı Normandiya,Haute-Normandie
 Yukon,Yukon
-Yulaf,Oat
 Yulaf,Avena
+Yulaf,Oat
 Yumurta,Egg
 Yumurta,Ovum
 Yumurtalık,Ovary
 Yumuşakçalar,Mollusca
 Yunan alfabesi,Greek alphabet
+Yunan alfabesi,Greek alphabet
 Yunan mitolojisi,Greek mythology
+Yunan mitolojisi,Greek mythology
+Yunanistan,Greece
 Yunanistan,Greece
 Yunnan,Yunnan
 Yunus,Dolphin
@@ -5756,6 +5711,7 @@ Yüzey bilimi,Geomorphology
 Yüzey gerilimi,Surface tension
 Yüzgeçayaklılar,Pinniped
 Yüzme,Swimming
+Yüzme,Swimming
 Yüzyıl,Century
 Yıl,Year
 Yılan,Snake
@@ -5768,6 +5724,7 @@ Yığın ileti,Spam
 Z,Z
 Zachary Taylor,Zachary Taylor
 Zagreb,Zagreb
+Zaman,Time
 Zaman,Time
 Zambezi Nehri,Zambezi
 Zambiya,Zambia
@@ -5795,10 +5752,13 @@ Zeytin,Olive
 Zeytinyağı,Olive oil
 Ziggurat,Ziggurat
 Zimbabve,Zimbabwe
+Zimbabve,Zimbabwe
 Zincifre,Cinnabar
+Ziraat,Agriculture
 Zirkonyum,Zirconium
 Zodyak,Zodiac
 Zombi,Zombie
+Zooloji,Zoology
 Zooloji,Zoology
 Zümrüt,Emerald
 Zürafa,Giraffe
@@ -5821,6 +5781,7 @@ turkish,english
 Âlet,Tool
 Århus,Aarhus
 Çad,Chad
+Çad,Chad
 Çad Gölü,Lake Chad
 Çakmak,Lighter
 Çakır kuşu,Goshawk
@@ -5840,11 +5801,14 @@ turkish,english
 Çatı,Roof
 Çavdar,Rye
 Çay,Tea
+Çay,Tea
 Çek,Cheque
+Çek Cumhuriyeti,Czech Republic
 Çek Cumhuriyeti,Czech Republic
 Çekirdek,Kernel
 Çekirdek fiziği,Nuclear physics
 Çekiç,Hammer
+Çekoslovakya,Czechoslovakia
 Çekoslovakya,Czechoslovakia
 Çelik,Steel
 Çelyabinsk,Chelyabinsk
@@ -5854,6 +5818,8 @@ turkish,english
 Çernobil,Chernobyl
 Çevirici diller,Assembly language
 Çevre,Environment
+Çevre,Environment
+Çeçenya,Chechnya
 Çeçenya,Chechnya
 Çeşme,Fountain
 Çift hörgüçlü deve,Bactrian Camel
@@ -5864,6 +5830,7 @@ turkish,english
 Çilek,Strawberry
 Çim hokeyi,Field hockey
 Çimento,Cement
+Çin,China
 Çin,China
 Çin Cumhuriyeti,Republic of China
 Çin Halk Cumhuriyeti,People's Republic of China
@@ -5881,6 +5848,7 @@ turkish,english
 Çorba,Soup
 Çubuklu balinalar,Baleen whale
 Çöl,Desert
+Çöller,Deserts
 Çöp,Waste
 Çörek mantarı,Boletus edulis
 Çözelti,Solution
@@ -5892,7 +5860,9 @@ turkish,english
 Öklid,Euclid
 Öklid Bağıntıları,Euclidean geometry
 Ölçüm,Measurement
+Ölçüm,Measurement
 Ölü Deniz parşömenleri,Dead Sea scrolls
+Ölüm,Death
 Ölüm,Death
 Önbellek,Cache
 Ördek,Duck
@@ -5900,9 +5870,11 @@ turkish,english
 Örümcek,Spider
 Örümceğimsiler,Arachnid
 Ötanazi,Euthanasia
+Ötücü kuşlar,Passeriformes
 Ötücü kuşlar,Passerine
 Öykünce,Fable
 Öykünme,Emulator
+Özbekistan,Uzbekistan
 Özbekistan,Uzbekistan
 Özel görelilik kuramı,Special relativity
 Özgür irade,Free will
@@ -5911,11 +5883,13 @@ turkish,english
 Özyineleme,Recursion
 Öğrenci,Student
 Ülke,Country
+Ülkelere göre futbol,Football  by country
 Ülker,Pleiades
 Ümit Burnu,Cape of Good Hope
 Üniversite,University
 Ünlem,Interjection
 Ünlem işareti,Exclamation mark
+Ürdün,Jordan
 Ürdün,Jordan
 Üre,Urea
 Üreme,Reproduction
@@ -5952,11 +5926,13 @@ turkish,english
 İkinci Haçlı seferi,Second Crusade
 İkisellik,Dualism
 İklim,Climate
+İklim,Climate
 İklimbilim,Climatology
 İktisat,Economics
 İktisat,Economy
 İlahi,Hymn
 İlaç,Medication
+İletişim,Communication
 İletişim,Communication
 İlk yardım,First aid
 İlkbahar,Spring
@@ -5964,6 +5940,7 @@ turkish,english
 İlmen Gölü,Lake Ilmen
 İlyada,Iliad
 İlyas,Elijah
+İmmünoloji,Immunology
 İmmünoloji,Immunology
 İmparator penguen,Emperor Penguin
 İmparatorluk,Empire
@@ -5982,10 +5959,14 @@ turkish,english
 İngiliz kornosu,Cor anglais
 İngiliz İç Savaşı,English Civil War
 İngilizce,English language
+İngilizce,English language
 İngilizler,English people
+İngilizler,English people
+İngiltere,England
 İngiltere,England
 İnme,Stroke
 İnnsbruck,Innsbruck
+İnorganik kimya,Inorganic chemistry
 İnorganik kimya,Inorganic chemistry
 İnsan,Human
 İnsan belleği,Memory
@@ -5994,6 +5975,7 @@ turkish,english
 İnsülin,Insulin
 İntegral,Integral
 İnterlingua,Interlingua
+İnternet,Internet
 İnternet sayfası,Web page
 İntihal,Plagiarism
 İntranet,Intranet
@@ -6005,13 +5987,17 @@ turkish,english
 İpek Yolu,Silk Road
 İpek böceği,Bombyx mori
 İran,Iran
+İran,Iran
 İran-Irak Savaşı,Iran-Iraq War
 İreneyus,Irenaeus
 İridyum,Iridium
-İrlanda,Republic of Ireland
 İrlanda,Ireland
+İrlanda,Ireland
+İrlanda,Republic of Ireland
 İrlanda Cumhuriyet Ordusu,Irish Republican Army
+İrlanda Cumhuriyeti,Republic of Ireland
 İrlanda Denizi,Irish Sea
+İrlandalılar,Irish people
 İroni,Irony
 İrredantizm,Irredentism
 İrtifa dümeni,Elevator
@@ -6023,25 +6009,38 @@ turkish,english
 İsis,Isis
 İskambil oyunları,Card game
 İskandinav Yarımadası,Scandinavian Peninsula
+İskandinav mitolojisi,Norse mythology
 İskandinavya,Scandinavia
+İskandinavya,Scandinavia
+İskelet,Skeletal system
 İskenderiye,Alexandria
 İskoçya,Scotland
 İskoçça,Scottish Gaelic
 İslam,Islam
+İslam,Islam
 İslamabad,Islamabad
 İsmail,Ishmael
 İspanya,Spain
+İspanya,Spain
 İspanya Veraset Savaşları,War of the Spanish Succession
 İspanya İç Savaşı,Spanish Civil War
+İspanyollar,Spanish people
 İspermeçet balinası,Sperm Whale
 İsrafil,Raphael
 İsrail,Israel
+İsrail,Israel
+İstanbul,Istanbul
 İstanbul,Istanbul
 İstanbul Boğazı,Bosporus
 İstatistik,Statistics
+İstatistik,Statistics
 İstemci-sunucu,Client-server
 İsveç,Sweden
+İsveç,Sweden
 İsviçre,Switzerland
+İsviçre,Switzerland
+İsviçreliler,Swiss people
+İtalya,Italy
 İtalya,Italy
 İtalya Yarımadası,Italian Peninsula
 İterbiyum,Ytterbium
@@ -6058,6 +6057,7 @@ turkish,english
 İyot,Iodine
 İzcilik,Scouting
 İzlanda,Iceland
+İzlanda,Iceland
 İzlenimcilik,Impressionism
 İzomer,Isomer
 İzotop,Isotope
@@ -6066,13 +6066,11 @@ turkish,english
 İşaret dili,Sign language
 İşkence,Torture
 İşletim sistemi,Operating system
-İşletme,Management
 İşletme,Business
+İşletme,Management
 İşlev,Function
 İşsizlik,Unemployment
 İşçi Partisi,Labour Party
-Bot,Bot
-Taslak,Stub
 Şah,King
 Şam,Damascus
 Şamanizm,Shamanism
@@ -6094,8 +6092,10 @@ Taslak,Stub
 Şeytan,Satan
 Şiddet,Violence
 Şiir,Poetry
+Şiir,Poetry
 Şikago Üniversitesi,University of Chicago
 "Şikago, Illinois",Chicago
+Şili,Chile
 Şili,Chile
 Şimşek ve Yıldırım,Lightning
 Şinto,Shinto

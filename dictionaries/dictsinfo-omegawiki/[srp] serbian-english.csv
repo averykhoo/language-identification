@@ -14,8 +14,6 @@ Albanija,Albania
 Albanija,Republic of Albania
 Alžir,Algeria
 Alžir,People's Democratic Republic of Algeria
-Narodna Demokratska Republika Alžir,Algeria
-Narodna Demokratska Republika Alžir,People's Democratic Republic of Algeria
 Američka Samoa,American Samoa
 Andora,Andorra
 Andora,Principality of Andorra
@@ -39,9 +37,9 @@ Avganistan,Afghanistan
 Avganistan,Transitional Islamic State of Afghanistan
 Azerbejdžan,Azerbaijan
 Azerbejdžan,Republic of Azerbaijan
+Bahami,Bahama Islands
 Bahami,Bahamas
 Bahami,Commonwealth of the Bahamas
-Bahami,Bahama Islands
 Bahrein,Bahrain
 Bangladeš,Bangladesh
 Bangladeš,People's Republic of Bangladesh
@@ -64,8 +62,8 @@ Bocvana,Republic of Botswana
 Bogojavljenje,Epiphany
 Bolivija,Bolivia
 Bolivija,Republic of Bolivia
-Bombaj,Mumbai
 Bombaj,Bombay
+Bombaj,Mumbai
 Bosna i Hercegovina,Bosnia and Herzegovina
 Bosna i Hercegovina,Republic of Bosnia and Herzegovina
 Božić,Christmas
@@ -85,20 +83,26 @@ Crna Gora,Montenegro
 Dablin,Dublin
 Dagestan,Dagestan
 Delaver,Delaware
-Demokratska Republika Kongo,Democratic Republic of the Congo
 Demokratska Republika Kongo,Congo-Kinshasa
+Demokratska Republika Kongo,Democratic Republic of the Congo
 Donja Saksonija,Lower Saxony
-Džakarta,Jakarta
-Džakarta,Djakarta
 Džakarta,DKI Jakarta
-Džersi,Jersey
+Džakarta,Djakarta
+Džakarta,Jakarta
 Džersi,Bailiwick of Jersey
+Džersi,Jersey
 Džordžija,Georgia
 Egejsko more,Aegean Sea
-Egipat,Egypt
 Egipat,Arab Republic of Egypt
+Egipat,Egypt
 Engleska,England
+Erebuni,Erevan
+Erebuni,Yerevan
+Erevan,Erevan
+Erevan,Yerevan
 Eritreja,Eritrea
+Erivan,Erevan
+Erivan,Yerevan
 Estonija,Estonia
 Estonija,Republic of Estonia
 Etiopija,Ethiopia
@@ -115,8 +119,8 @@ Finska,Republic of Finland
 Fobos,Phobos
 Francuska,France
 Francuska Gvajana,French Guiana
-Francyska Polinezija,French Polynesia
 Francuska Polinezija,French Polynesia
+Francyska Polinezija,French Polynesia
 Gabon,Gabon
 Gabon,Gabonese Republic
 Gaborone,Gaborone
@@ -124,8 +128,8 @@ Gambija,Gambia
 Gambija,Gambia
 Gambija,Gambia
 Gambija,Gambia
-Gambija,The Gambia
 Gambija,Republic of The Gambia
+Gambija,The Gambia
 Gana,Ghana
 Gana,Republic of Ghana
 Gibraltar,Gibraltar
@@ -135,22 +139,17 @@ Grčka,Greece
 Grčka,Hellenic Republic
 Gvineja Bisao,Guinea-Bissau
 Gvineja Bisao,Republic of Guinea-Bissau
+H5N1,A(H5N1)
 H5N1,H5N1
 H5N1,Influenza A virus subtype H5N1
-H5N1,A(H5N1)
 Hag,The Hague
 Haiti,Haiti
 Haiti,Republic of Haiti
-Hemačka,Germany
 Hemačka,Federal Republic of Germany
-Nemačka,Germany
-Nemačka,Federal Republic of Germany
+Hemačka,Germany
 Holandija,Holland
 Holandija,Kingdom of the Netherlands
 Holandija,The Netherlands
-Nizozemska,Holland
-Nizozemska,Kingdom of the Netherlands
-Nizozemska,The Netherlands
 Honduras,Honduras
 Honduras,Republic of Honduras
 Hrvatska,Croatia
@@ -168,8 +167,8 @@ Iran,Islamic Republic of Iran
 Irska,Ireland
 Irska,Republic of Ireland
 Istočna Evropa,Eastern Europe
-Istočni Timor,East Timor
 Istočni Timor,Democratic Republic of Timor-Leste
+Istočni Timor,East Timor
 Italija,Italian Republic
 Italija,Italy
 Izrael,Israel
@@ -177,27 +176,24 @@ Izrael,State of Israel
 Jamajka,Jamaica
 Japan,Japan
 Japan,State of Japan
-Jemen,Yemen
 Jemen,Republic of Yemen
+Jemen,Yemen
 Jerevan,Erevan
 Jerevan,Yerevan
-Erevan,Erevan
-Erevan,Yerevan
-Erivan,Erevan
-Erivan,Yerevan
-Erebuni,Erevan
-Erebuni,Yerevan
-Jordan,Jordan
+Jermenija,Armenia
 Jordan,Hashemite Kingdom of Jordan
+Jordan,Jordan
 Jugoslavija,Yugoslavia
 Jupiter,Jupiter
 Juta,Utah
 Južin okean,Antarctic Ocean
 Južin okean,Southern Ocean
+Južna Afrika,South Africa
+Južna Koreja,Republic of Korea
+Južna Koreja,South Korea
 Južni okean,Antarctic Ocean
 Južni okean,Southern Ocean
-Južna Koreja,South Korea
-Južna Koreja,Republic of Korea
+Južnoafrička Republika,South Africa
 Kairo,Cairo
 Kajmanska ostrva,Cayman Islands
 Kalifornija,California
@@ -212,12 +208,16 @@ Kazahstan,Kazakhstan
 Kazahstan,Republic of Kazakhstan
 Kenija,Kenya
 Kenija,Republic of Kenya
-Kina,People's Republic of China
 Kina,China
+Kina,People's Republic of China
 Kipar,Cyprus
 Kipar,Republic of Cyprus
-Kirgizija,Kyrgyzstan
 Kirgizija,Kyrgyz Republic
+Kirgizija,Kyrgyzstan
+Kneževina Lihtenštajn,Liechtenstein
+Kneževina Lihtenštajn,Principality of Liechtenstein
+Kneževina Líhtenštajn,Liechtenstein
+Kneževina Líhtenštajn,Principality of Liechtenstein
 Kolumbija,Colombia
 Kolumbija,Republic of Colombia
 Kosovo i Metohija,Kosovo
@@ -229,46 +229,40 @@ Kuba,Cuba
 Kuba,Republic of Cuba
 Kuvajt,Kuwait
 Kuvajt,State of Kuwait
-Laos,Laos
 Laos,Lao People's Democratic Republic
-Lesoto,Lesotho
+Laos,Laos
 Lesoto,Kingdom of Lesotho
+Lesoto,Lesotho
 Letonija,Latvia
 Letonija,Republic of Latvia
 Liberija,Liberia
 Liberija,Republic of Liberia
 Lihtenštajn,Liechtenstein
 Lihtenštajn,Principality of Liechtenstein
-Kneževina Líhtenštajn,Liechtenstein
-Kneževina Líhtenštajn,Principality of Liechtenstein
-Kneževina Lihtenštajn,Liechtenstein
-Kneževina Lihtenštajn,Principality of Liechtenstein
 Litvanija,Lithuania
 Litvanija,Republic of Lithuania
 Lozana,Lausanne
 Majot,Mayotte
 Makedonija,Macedonia
 Makedonija,Republic of Macedonia
-Markovljev lanac,Markov chain
 Markovljev lanac,Markoff chain
-Maroko,Morocco
+Markovljev lanac,Markov chain
 Maroko,Kingdom of Morocco
+Maroko,Morocco
 Maršalska ostrva,Marshall Islands
 Maršalska ostrva,Republic of the Marshall Islands
-Mauritanija,Mauritania
 Mauritanija,Islamic Republic of Mauritania
+Mauritanija,Mauritania
 Mađarska,Hungary
 Mađarska,Republic of Hungary
-Ugarska,Hungary
-Ugarska,Republic of Hungary
 Meka,Mecca
 Meksiko,Mexico
 Meksiko,United Mexican States
 Merkur,Mercury
 Mijanmar,Myanmar
 Milano,Milan
-Mlecni put,Milky Way
 Mlecni put,Galaxy
+Mlecni put,Milky Way
 Moldavija,Moldova
 Monako,Monaco
 Mongolija,Mongolia
@@ -277,17 +271,24 @@ Moskva,Moscow
 Nagorno-Karabah,Nagorno-Karabakh
 Najrobi,Nairobi
 Namibija,Namibia
+Narodna Demokratska Republika Alžir,Algeria
+Narodna Demokratska Republika Alžir,People's Democratic Republic of Algeria
+Nemačka,Federal Republic of Germany
+Nemačka,Germany
 Nepal,Nepal
 Neptun,Neptune
 Nigerija,Nigeria
 Nijue,Niue
+Nizozemska,Holland
+Nizozemska,Kingdom of the Netherlands
+Nizozemska,The Netherlands
 Njujork,New York
-Norveška,Norway
 Norveška,Kingdom of Norway
+Norveška,Norway
 Nova Kaledonija,New Caledonia
 Novi Zeland,New Zealand
-Obala Slonovače,Ivory Coast
 Obala Slonovače,Cote d'Ivoire
+Obala Slonovače,Ivory Coast
 Obala Slonovače,Republic of Cote d'Ivoire
 Olandska Ostrva,Åland Islands
 Oman,Oman
@@ -302,12 +303,10 @@ Peru,Peru
 Peru,Republic of Peru
 Pojas Gaze,Gaza Strip
 Poljska,Poland
-Republika Kongo,Republic of the Congo
-Republika Kongo,Congo-Brazzaville
-Respublika Južna Afrika,South Africa
-Južna Afrika,South Africa
-Južnoafrička Republika,South Africa
 Republika Južna Afrika,South Africa
+Republika Kongo,Congo-Brazzaville
+Republika Kongo,Republic of the Congo
+Respublika Južna Afrika,South Africa
 Rim,Rome
 Rumunija,Romania
 Rusija,Russia
@@ -321,21 +320,21 @@ Sankt Peterburg,Saint Petersburg
 Sankt Peterburg,St. Petersburg
 Sapir-Vorfova hipoteza,Sapir–Whorf hypothesis
 Saturn,Saturn
-Saudijska Arabija,Saudi Arabia
 Saudijska Arabija,Kingdom of Saudi Arabia
+Saudijska Arabija,Saudi Arabia
 Senegal,Senegal
 Severna Irska,Northern Ireland
 Singapur,Singapore
 Sirija,Syria
 Sirija,Syrian Arab Republic
+Sjedinjene Američke Države,America
+Sjedinjene Američke Države,States
+Sjedinjene Američke Države,U.S.
+Sjedinjene Američke Države,U.S. of A.
+Sjedinjene Američke Države,U.S.A.
+Sjedinjene Američke Države,US
 Sjedinjene Američke Države,United States
 Sjedinjene Američke Države,United States of America
-Sjedinjene Američke Države,America
-Sjedinjene Američke Države,US
-Sjedinjene Američke Države,U.S.
-Sjedinjene Američke Države,U.S.A.
-Sjedinjene Američke Države,U.S. of A.
-Sjedinjene Američke Države,States
 Slovačka,Slovakia
 Slovenija,Slovenia
 Slovenië,Slovene
@@ -358,67 +357,58 @@ Tihi okean,Pacific Ocean
 Tiringija,Thuringia
 Turkmenistan,Turkmenistan
 Turska,Turkey
-Uganda,Uganda
 Uganda,Republic of Uganda
+Uganda,Uganda
+Ugarska,Hungary
+Ugarska,Republic of Hungary
 Ujedinjeni Arapski Emirati,United Arab Emirates
+Ujedinjeno Kraljevstvo,UK
 Ujedinjeno Kraljevstvo,United Kingdom
 Ujedinjeno Kraljevstvo,United Kingdom of Great Britain and Northern Ireland
-Ujedinjeno Kraljevstvo,UK
+Ujedinjeno Kraljevstvo Velike Britanije i Severne Irske,UK
 Ujedinjeno Kraljevstvo Velike Britanije i Severne Irske,United Kingdom
 Ujedinjeno Kraljevstvo Velike Britanije i Severne Irske,United Kingdom of Great Britain and Northern Ireland
-Ujedinjeno Kraljevstvo Velike Britanije i Severne Irske,UK
 Ukrajina,Ukraine
 Uran,Uranus
 Vaduc,Vaduz
 Vajoming,Wyoming
-Valis i Futuna,Wallis and Futuna
 Valis i Futuna,Territory of the Wallis and Futuna Islands
+Valis i Futuna,Wallis and Futuna
 Vaskrs,Easter
-Vatikanski Grad,Vatican City
-Vatikanski Grad,The Holy See
-Vatikanski Grad,State of the Vatican City
-Vatikan,Vatican City
-Vatikan,The Holy See
 Vatikan,State of the Vatican City
+Vatikan,The Holy See
+Vatikan,Vatican City
+Vatikanski Grad,State of the Vatican City
+Vatikanski Grad,The Holy See
+Vatikanski Grad,Vatican City
 Vašington,Washington
-Velika Britanija,Great Britain
 Velika Britanija,Britain
+Velika Britanija,Great Britain
 Vels,Wales
 Venecija,Venice
 Venecuela,Venezuela
 Venera,Venus
 Vijetnamski,Vietnamese
 Vijetnamski,Vietnamese
-vijetnamski,Vietnamese
-vijetnamski,Vietnamese
-вијетнамски,Vietnamese
-вијетнамски,Vietnamese
 Vikipedija,Wikipedia
 Vikirečnik,Wiktionary
 Yermeniya,Armenia
-Jermenija,Armenia
-Zambija,Zambia
 Zambija,Republic of Zambia
+Zambija,Zambia
 Zapadna Evropa,Western Europe
-Zemlja,earth
-Zemlja,Earth
-Zemlja,the world
 Zemlja,Blue Planet
-Zimbabve,Zimbabwe
+Zemlja,Earth
+Zemlja,earth
+Zemlja,the world
 Zimbabve,Republic of Zimbabwe
+Zimbabve,Zimbabwe
 abolicionista,abolitionist
-adaptirati,arrange
+adaptirati,accommodate
 adaptirati,adapt
 adaptirati,adjust
+adaptirati,arrange
 adaptirati,conform
-adaptirati,accommodate
 adaptirati,suit
-prilagoditi,arrange
-prilagoditi,adapt
-prilagoditi,adjust
-prilagoditi,conform
-prilagoditi,accommodate
-prilagoditi,suit
 afar,Afar
 afar,Afar
 aforizam,aphorism
@@ -435,8 +425,8 @@ algebra,algebra
 alhemija,alchemy
 alhemičar,alchemist
 aluminijum,aluminium
-ambasada,embassy
 ambasada,diplomatic mission
+ambasada,embassy
 ambasador,ambassador
 americijum,americium
 američki fudbal,American football
@@ -453,7 +443,6 @@ anis,anise
 antimon,antimony
 aparthejd,apartheid
 apatija,apathy
-апатија,apathy
 apoptoza,apoptosis
 apoteka,chemist's
 apoteka,chemist's shop
@@ -488,23 +477,24 @@ bicikl,cycle
 biofizika,biophysics
 biogeografija,biogeography
 biohemija,biochemistry
-biologija,biology
 biologija,biological science
+biologija,biology
 birokratija,bureaucracy
 bizmut,bismuth
 blizanac,twin
 blog,blog
-blog,weblog
 blog,web log
+blog,weblog
 boginje,smallpox
 bonsai,bonsai
+bosanski,Bosnian
+bosanski,Bosnian
 bosnjački,Bosnian
 bosnjački,Bosnian
 bošnjački,Bosnian
 bošnjački,Bosnian
-bosanski,Bosnian
-bosanski,Bosnian
 božićno drvo,Christmas tree
+bremenitost,pregnancy
 brokoli,broccoli
 bubnjevi,drum kit
 bubreg,kidney
@@ -525,17 +515,16 @@ delfin,dolphin
 demografija,demography
 demokratija,democracy
 dete,child
+detonacija,explosion
 deuterijum,deuterium
 dezoksiribonukleinska kiselina,DNA
 dezoksiribonukleinska kiselina,deoxyribonucleic acid
 difuzija,diffusion
 dijareja,diarrhea
-прољев,diarrhea
-proliv,diarrhea
-proljev,diarrhea
 diskriminacija,discrimination
 dlan,palm
 dobro veče,good evening
+dodati,add
 dodavanje,addition
 dokumenat,document
 dokument,document
@@ -543,26 +532,27 @@ dokumentacija,documentation
 dokumentarni film,documentary film
 doneti,bring
 doručak,breakfast
+dražica,button
+dražica,clit
+dražica,clitoris
 dromedar,dromedary
 drvo,tree
-stablo,tree
 duvan,tobacco
 džamija,mosque
 džez,jazz
 džudo,judo
+e-pošta,e-mail
+e-pošta,electronic mail
+e-pošta,email
 ekofiziologija,ecophysiology
 ekotoksikologija,ecotoxicology
 eksplicitan,explicit
 eksplozija,explosion
-detonacija,explosion
 ekvator,equator
 elektromagnetizam,electromagnetism
+elektronska pošta,e-mail
 elektronska pošta,electronic mail
 elektronska pošta,email
-elektronska pošta,e-mail
-e-pošta,electronic mail
-e-pošta,email
-e-pošta,e-mail
 endokrinologija,endocrinology
 energija,energy
 engleski,English
@@ -575,6 +565,9 @@ etnografija,ethnography
 europijum,europium
 fagot,bassoon
 familija,family
+farsi,Farsi
+farsi,Persian
+farsi,Western Farsi
 fazan,pheasant
 fašizam,fascism
 februar,February
@@ -594,8 +587,6 @@ francuski,French
 francuski,French
 fudbal,football
 fundamentalan,fundamental
-temeljni,fundamental
-osnovni,fundamental
 gadolinijum,gadolinium
 galeb,gull
 galicijski,Galician
@@ -615,41 +606,40 @@ gitara,guitar
 glagol,verb
 glaukom,glaucoma
 gljiva,mushroom
-golub,pigeon
 golub,dove
+golub,pigeon
 gonoreja,gonorrhea
-gramatika,grammer
 gramatika,grammar
+gramatika,grammer
 grenlandski,Kalaallisut
-grip,influenza
 grip,flu
+grip,influenza
 grmljavina,thunder
+gruzijski,Georgian
+gruzijski,Georgian
 grčki,Greek
 grčki,Greek
+gušterača,pancreas
 hafnijum,hafnium
 harem,harem
 harmonika,accordion
-harmonika,squeeze box
 harmonika,piano accordion
+harmonika,squeeze box
 hasijum,hassium
 hebrejski,Hebrew
 hegemonija,hegemony
 helijum,helium
 hemija,chemistry
-kemija,chemistry
-hemijsko jedinjenje,compound
 hemijsko jedinjenje,chemical compound
+hemijsko jedinjenje,compound
 herc,heart
 heroin,heroin
 hindi,Hindi
 hindi,Hindi
 hipofiza,pituitary gland
 hiponim,hyponym
-hiponim,narrower terms
 hiponim,narrower term
-uži pojmovi,hyponym
-uži pojmovi,narrower terms
-uži pojmovi,narrower term
+hiponim,narrower terms
 hirurgija,surgery
 holandski,Dutch
 holesterol,cholesterol
@@ -657,6 +647,7 @@ holmijum,holmium
 horizont,horizon
 hrvatski,Croatian
 hrvatski,Croation
+ikra,caviar
 ime,name
 ime,proper name
 ime,proper noun
@@ -664,8 +655,8 @@ indijum,indium
 infekcija,infection
 informacija,info
 informacija,information
-informatika,informatics
 informatika,computer science
+informatika,informatics
 informatika,information science
 interlingva,Interlingua
 interlingva,"Interlingua, ""Simplified"" Latin"
@@ -674,15 +665,13 @@ internet,Internet
 iridijum,iridium
 irski,Irish
 irski,Irish
-irski,Irish Gaelic
 irski,Irish
+irski,Irish Gaelic
 irvas,reindeer
 islam,Islam
 istina,truth
 italijanski,Italian
 italijanski,Italian
-talijanski,Italian
-talijanski,Italian
 iterbijum,ytterbium
 ići,go
 jaguar,jaguar
@@ -691,6 +680,7 @@ jajnici,ovary
 januar,January
 japanski,Japanese
 japanski,Japanese
+java,reality
 javnost,public
 jermenski,Armenian
 jestiv,edible
@@ -710,10 +700,9 @@ kanada,Kannada
 karfiol,cauliflower
 karijera,career
 kavijar,caviar
-ikra,caviar
 kecelja,apron
 kelner,waiter
-konobar,waiter
+kemija,chemistry
 kineski,Chinese
 kiseonik,oxygen
 kiša,rain
@@ -724,9 +713,6 @@ kleptomanija,kleptomania
 klitoris,button
 klitoris,clit
 klitoris,clitoris
-dražica,button
-dražica,clit
-dražica,clitoris
 književnost,literature
 kokain,cocaine
 komunikacija,communications
@@ -737,6 +723,7 @@ kondom,rubber
 kondom,safe
 kondom,safety
 konj,horse
+konobar,waiter
 koreanski,Korean
 koreanski,Korean
 korisnik,user
@@ -744,7 +731,6 @@ kornjača,tortoise
 kos,blackbird
 kosmologija,cosmology
 kostur,skeleton
-skelet,skeleton
 kovač,blacksmith
 košarka,basketball
 košarka,basketball game
@@ -755,21 +741,22 @@ kreativnost,creativity
 kreativnost,inventiveness
 kreda,chalk
 krečnjak,limestone
-krompir,potato
 krompir,patato
+krompir,potato
 krov,roof
 krov,roof
 krov,roof
 krvna plazma,blood plasma
 ksilofon,xylophone
+kunić,rabbit
+kupovina,acquisition
 kuća,home
 kuća,home
 kuća,house
 lak,easy
-lak,piece of cake
 lak,like shooting fish in a barrel
+lak,piece of cake
 lala,tulip
-tulipan,tulip
 lantan,lanthanum
 latinski,Latin
 latinski,Latin
@@ -790,31 +777,29 @@ ljudsko zdravlje,human health
 lobanja,skull
 lorencijum,lawrencium
 losos,salmon
-luk,onion
 luk,bow
+luk,onion
 lukostrelac,archer
 lukostrelac,archer
-лукострелац,archer
-лукострелац,archer
 luks,lux
+luksemburgški,Luxembourgian
 luksemburgški,Luxembourgish
 luksemburgški,Luxemburgish
-luksemburgški,Luxembourgian
 lutecijum,lutetium
 lutrija,lottery
 magla,fog
 magnezijum,magnesium
 maj,May
 majka,mother
-majoneza,mayonnaise
 majonez,mayonnaise
+majoneza,mayonnaise
 makedonski,Macedonian
 makedonski,Macedonian
 makroskopsko,macroscopic
 malarija,malaria
-mandarinski,mandarin
 mandarinski,Mandarin
 mandarinski,Standard Mandarin
+mandarinski,mandarin
 mangan,manganese
 maramica,handkerchief
 mart,March
@@ -832,41 +817,41 @@ mendeljejevijum,mendelevium
 menora,menorah
 mesec,month
 metak,bullet
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,shooting star
+meteor,falling star
+meteor,falling star
+meteor,falling star
+meteor,falling star
 meteor,falling star
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
-meteor,shooting star
-meteor,falling star
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,shooting star
-meteor,falling star
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
 meteor,shooting star
-meteor,falling star
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
 meteor,shooting star
-meteor,falling star
+meteor,shooting star
+meteor,shooting star
 meteorit,meteorite
 mikrobiologija,microbiology
 mineral,mineral
@@ -879,7 +864,6 @@ mitnerijum,meitnerium
 mitoza,mitosis
 mleko,milk
 mokraća,urine
-pišaća,urine
 molibden,molybdenum
 more,sea
 morfijum,morphine
@@ -890,7 +874,6 @@ mržnja,hate
 mržnja,hatred
 muzika,music
 nabavka,acquisition
-kupovina,acquisition
 nada,hope
 nakovanj,anvil
 naočare,glasses
@@ -898,7 +881,6 @@ naočare,spectacles
 nar,pomegranate
 narandža,orange
 narodni norveški,Nynorsk
-ninorsk,Nynorsk
 nauka,science
 ne,not
 nebo,heaven
@@ -914,9 +896,7 @@ neurologija,neurology
 neznabožac,heathen
 neznabožac,infidel
 neznabožac,pagan
-paganin,heathen
-paganin,infidel
-paganin,pagan
+ninorsk,Nynorsk
 niobijum,niobium
 nobelijum,nobelium
 noga,leg
@@ -925,18 +905,18 @@ norveški,Norwegian
 nosorog,rhino
 nosorog,rhinoceros
 nota,note
-нота,note
 novembar,November
 nuklearna fizika,nuclear physics
-nula,zero
 nula,null
+nula,zero
 oblak,cloud
 odbojka,volleyball
-okean,ocean
-okean,sea
 okean,body of water
 okean,bounding main
+okean,ocean
+okean,sea
 okeanografija,oceanography
+okno,window
 oko,eye
 oktobar,October
 oligarhija,oligarchy
@@ -946,27 +926,30 @@ onkologija,oncology
 ontologija,ontology
 opera,opera
 opereta,operetta
-oplođenje,fertilisation
 oplođenje,fecundation
-optuženi,defendant
+oplođenje,fertilisation
 optuženi,accused
+optuženi,defendant
 oralni seks,oral sex
 organ,organ
 organizacija,organisation (law)
 orhideja,orchid
 orkestar,orchestra
 osmijum,osmium
+osnovni,fundamental
 otac,father
-tata,father
 ovca,sheep
 ovde,here
 pacifist,pacifist
 padijum,radium
+paganin,heathen
+paganin,infidel
+paganin,pagan
+paladijum,palladium
 paleontologija,palaeontology
 palindromi,palindrome
 palma,palm
 pankreas,pancreas
-gušterača,pancreas
 pantalone,trousers
 papa,pope
 papir,paper
@@ -975,8 +958,8 @@ paradajz,tomato
 parametar,parameter
 pas,dog
 pastrmka,trout
-patka,duck
 patak,duck
+patka,duck
 pađanje,birth
 pađanje,birth
 pađanje,birth
@@ -985,15 +968,12 @@ pađanje,childbirth
 pađanje,childbirth
 pađanje,parturition
 pedijatar,paediatrician
-perzijski,Persian
-perzijski,Western Farsi
-perzijski,Farsi
-farsi,Persian
-farsi,Western Farsi
-farsi,Farsi
+persijski,Farsi
 persijski,Persian
 persijski,Western Farsi
-persijski,Farsi
+perzijski,Farsi
+perzijski,Persian
+perzijski,Western Farsi
 pesimizam,pessmism
 petak,Friday
 pile,chicken
@@ -1003,16 +983,17 @@ piti,drink
 piti,gulp
 piti,quaff
 piti,sip
-planski jezici,constructed language
+pišaća,urine
 planski jezici,artificial language
-planski jezik,constructed language
+planski jezici,constructed language
 planski jezik,artificial language
+planski jezik,constructed language
 plava,blue
 plug,plough
 podrum,basement
 poklon,donation
-pol,sex
 pol,gender
+pol,sex
 poljski,Polish
 poljski,Polish
 polonijum,polonium
@@ -1022,47 +1003,52 @@ porcelan,porcelain
 portugalski,Portuguese
 portugalski,Portuguese
 posedovanje,possession
+poslovica,maxim
 poslovica,proverb
 poslovica,saying
-poslovica,maxim
 posteljica,placenta
 potomstvo,posterity
 pošta,post office
 prazan,empty
 prazeodijum,praseodymium
 prelat,prelate
+preovladati,takeover
 prepreka,obstacle
 prepreka,obstruction
 pretpostavka,assumption
 pretpostavka,supposition
 preuzeti,takeover
-preovladati,takeover
-prevesti,translate
 prevesti,interpret
+prevesti,translate
 prevod,translation
+prilagoditi,accommodate
+prilagoditi,adapt
+prilagoditi,adjust
+prilagoditi,arrange
+prilagoditi,conform
+prilagoditi,suit
 primanje,acceptance
 primanje,credence
 prirodna nauka,natural science
 prirodni kamen,natural stone
-prirodno kamenje,natural stone
-природно камење,natural stone
 prirodni materijal,natural material
+prirodno kamenje,natural stone
 problem,problem
 prodati,sell
-trgovati,sell
+proliv,diarrhea
+proljev,diarrhea
 prometijum,promethium
 pronevera,fraud
-prost broj,prime number
 prost broj,prime
+prost broj,prime number
 prostitucija,prostitution
 protaktinijum,protactinium
 prozor,window
-okno,window
+prst,finger
+prst,finger
 prst,toe
-prst,finger
-prst,finger
-punoglavac,tadpole
 punoglavac,polliwog
+punoglavac,tadpole
 pupak,belly button
 pupak,bellybutton
 pupak,navel
@@ -1075,9 +1061,10 @@ ramazan,Ramadan
 rano,early
 razvod braka,divorce
 računar,computer
+realnost,reality
 recept,recipe
-referendum,referendum
 referendum,plebiscite
+referendum,referendum
 reka,river
 renijum,rhenium
 rentgenijum,roentgenium
@@ -1091,11 +1078,9 @@ ruski,Russian
 ruski,Russian
 rutenijum,ruthenium
 sabrati,add
-dodati,add
 sahara,sahara
 saksofon,saxophone
 salata,lettuce
-zelena salata,lettuce
 samarijum,samarium
 samoubistvo,suicide
 san,sleep
@@ -1103,13 +1088,14 @@ sanjati,dream
 sanskrit,Sanskrit
 sanskrit,Sanskrit
 sapun,soap
-sažaljenje,pity
 sažaljenje,compassion
+sažaljenje,pity
 sedimentologija,sedimentology
 seme,seed
-semiologija,semiotics
 semiologija,semiology
+semiologija,semiotics
 septembar,September
+serbian,english
 server,server
 sfinga,sphinx
 siborgijum,seaborgium
@@ -1125,13 +1111,14 @@ siva čaplja,heron
 skakač,knight
 skakač,knight
 skandijum,scandium
+skelet,skeleton
 skraćenje,abbreviation
 sladoled,ice cream
 slovački,Slovak
 slovački,Slovak
 službeni jezik,official language
-smrtna kazna,death penalty
 smrtna kazna,capital punishment
+smrtna kazna,death penalty
 smrtna kazna,death sentence
 socialna grupa,social group
 sociolingvistika,sociolinguistics
@@ -1142,15 +1129,16 @@ sreda,Wednesday
 sreda,quarta-feira
 srpski,Serbian
 srpski,Serbian
+stablo,tree
 sterilizacija,sterilisation
 stol,table
 stolica,chair
 strela,arrow
 stvarnost,reality
-realnost,reality
-java,reality
 subota,Saturday
 sumpor dioksid,sulphur dioxide
+supruga,spouse
+supruga,wife
 sutra,tomorrow
 svahili,Swahili
 svađa,argument
@@ -1159,10 +1147,13 @@ svila,silk
 tajanstven,mysterious
 tajlandski,Thai
 tajlandski,Thai
+talijanski,Italian
+talijanski,Italian
 tamilski,Tamil
 tamilski,Tamil
 tantal,tantalum
 tastatura,keyboard
+tata,father
 tehnicijum,technetium
 telefon,phone
 telefon,telephone
@@ -1170,6 +1161,7 @@ televizija,television
 televizor,television
 tema,subject
 tema,topic
+temeljni,fundamental
 tenis,tennis
 teokratija,theocracy
 terorizam,terrorism
@@ -1180,28 +1172,30 @@ topologija,topology
 torbari,marsupial
 torijum,thorium
 torpedo,torpedo
+transport,transport
+trgovati,sell
 trigonometrija,trigonometry
 trolejbus,trolley bus
 trolejbus,trolleybus
 trombon,trombone
 truba,trumpet
 trudnoća,pregnancy
-bremenitost,pregnancy
 tulijum,thulium
+tulipan,tulip
 tunel,tunnel
 turski,Turkish
 turski,Turkish
 ugljenik,carbon
 uho,ear
-uvo,ear
 ukranski,Ukrainian
 ukranski,Ukrainian
-univerzitet,university
-univerzitet,university
+ulaziti,enter
+univerzitet,academy
 univerzitet,academy
 univerzitet,university
 univerzitet,university
-univerzitet,academy
+univerzitet,university
+univerzitet,university
 ununbijum,ununbium
 ununheksijum,ununhexium
 ununoktijum,ununoctium
@@ -1211,10 +1205,13 @@ usna,lip
 ustav,constitution
 utorak,Tuesday
 uvek,anytime
+uvo,ear
 ući,enter
-ulaziti,enter
-učiti,teach
 učiti,learn
+učiti,teach
+uži pojmovi,hyponym
+uži pojmovi,narrower term
+uži pojmovi,narrower terms
 vakcinacija,vaccination
 valonski,Walloon
 valonski,Walloon
@@ -1231,6 +1228,8 @@ vi,you
 vi,you lot
 vi,yous
 vijak,screw
+vijetnamski,Vietnamese
+vijetnamski,Vietnamese
 viki,wiki
 vinograd,vineyard
 voda,water
@@ -1250,16 +1249,16 @@ zdravo,hello
 zdravo,hey
 zdravo,hi
 zdravo,howdy
-ćao,hello
-ćao,hey
-ćao,hi
-ćao,howdy
 zec,rabbit
-kunić,rabbit
+zelena salata,lettuce
 zemljotres,earthquake
 zlato,gold
 zubar,dentist
 zvezda,star
+ćao,hello
+ćao,hey
+ćao,hi
+ćao,howdy
 ćuran,turkey
 Čad,Chad
 Čad,Republic of Chad
@@ -1277,16 +1276,14 @@ zvezda,star
 čivav,Chihuahua
 čivav,chihuahua
 čokolada,chocolate
+čuvaški,Chavash
+čuvaški,Chovash
+čuvaški,Chttash
 čuvaški,Chuvash
 čuvaški,Chuvash
 čuvaški,Chuwash
-čuvaški,Chovash
-čuvaški,Chavash
-čuvaški,Chttash
 đorđijski,Georgian
 đorđijski,Georgian
-gruzijski,Georgian
-gruzijski,Georgian
 Šarant,Charente
 Škotska,Scotland
 Španija,Spain
@@ -1296,25 +1293,28 @@ gruzijski,Georgian
 šah,chess
 širi pojmovi,broader term
 širi pojmovi,broader terms
-širi pojmovi,hypernym
 širi pojmovi,holonym
+širi pojmovi,hypernym
 španski,Castilian
 španski,Spanish
 španski,Spanish
 špric,syringe
 štitasta,thyroid
 žena,female
-žena,woman
-žena,wife
 žena,spouse
-supruga,wife
-supruga,spouse
+žena,wife
+žena,woman
 žeđ,thirst
 živa,mercury
 žurnalist,journalist
+апатија,apathy
+вијетнамски,Vietnamese
+вијетнамски,Vietnamese
+лукострелац,archer
+лукострелац,archer
 маслачак,dandelion
+нота,note
 паладијум,palladium
-paladijum,palladium
+природно камење,natural stone
+прољев,diarrhea
 транспорт,transport
-transport,transport
-serbian,english

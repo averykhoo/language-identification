@@ -1,7 +1,7 @@
 Other,English
+Augustus,August
 Cataria,Qatar
 Helium,helium
-helium,helium
 Ianuarius,January
 India,India
 India,Republic of India
@@ -12,14 +12,14 @@ Mare Caribaeum,Caribbean Sea
 Mare Hadriaticum,Adriatic Sea
 Mare Mediterraneum,Mediterranean Sea
 Mare Nostrum,Mediterranean Sea
-Mauretania,Mauritania
 Mauretania,Islamic Republic of Mauritania
+Mauretania,Mauritania
 Neapolis,Naples
 Roma,Rome
 Togum,Togo
 Yttrium,yttrium
-Zambia,Zambia
 Zambia,Republic of Zambia
+Zambia,Zambia
 actinium,actinium
 agoraphobia,agoraphobia
 agoraphobia,agoraphobia
@@ -30,6 +30,8 @@ amare,love
 americium,americium
 amor,love
 anísum,anise
+apparatus digestorius,alimentary canal
+apparatus digestorius,gastrointestinal tract
 aqua,water
 aratrum,plough
 arbor,tree
@@ -40,7 +42,6 @@ arsenicum,arsenic
 asparagus,asparagus
 astatinum,astatine
 augustus,August
-Augustus,August
 aurum,gold
 autumnus,autumn
 axilla,armpit
@@ -88,6 +89,7 @@ giraffa,giraffe
 glacies,ice
 hafnium,hafnium
 hassium,hassium
+helium,helium
 hydrargyrus,mercury
 hydrogenium,hydrogen
 ideologia,ideology
@@ -99,6 +101,7 @@ iridium,iridium
 kalium,potassium
 krypton,krypton
 lanthanum,lanthanum
+latin,english
 lawrencium,lawrencium
 lingua Anglica,English
 lingua Arabica,Arabic
@@ -112,12 +115,12 @@ lingua Latina,Latin
 lingua Latina,Latin
 lingua Lusitana,Portuguese
 lingua Lusitana,Portuguese
+lingua Luxemburgica,Luxembourgian
 lingua Luxemburgica,Luxembourgish
 lingua Luxemburgica,Luxemburgish
-lingua Luxemburgica,Luxembourgian
 lingua Sinica,Chinese
-lingua artificiosa,constructed language
 lingua artificiosa,artificial language
+lingua artificiosa,constructed language
 linteum,nappy
 lithium,lithium
 lutetium,lutetium
@@ -173,10 +176,8 @@ thallium,thallium
 theologia,theology
 thorium,thorium
 titanium,titanium
-tractus digestivus,gastrointestinal tract
 tractus digestivus,alimentary canal
-apparatus digestorius,gastrointestinal tract
-apparatus digestorius,alimentary canal
+tractus digestivus,gastrointestinal tract
 umbilicus,belly button
 umbilicus,bellybutton
 umbilicus,navel
@@ -198,4 +199,3 @@ xenon,xenon
 ytterbium,ytterbium
 zincum,zinc
 zirconium,zirconium
-latin,english

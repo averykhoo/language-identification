@@ -1,18 +1,17 @@
 Other,English
 *ključ??,key
 *zid,wall
-зид??,wall
-*šina??,track
 *šina??,rail
 *šina??,rails
 *šina??,runway
+*šina??,track
 *пиво??,beer
-GB,United Kingdom
-GB,UK
-GB,U.K.
 GB,Britain
-GB,United Kingdom of Great Britain and Northern Ireland
 GB,Great Britain
+GB,U.K.
+GB,UK
+GB,United Kingdom
+GB,United Kingdom of Great Britain and Northern Ireland
 automatski,automatic
 bolestan,ill
 bolestan,sick
@@ -21,33 +20,33 @@ bolnica,infirmary
 brava,lock
 bunar,well
 cipela,shoe
+devojka,fille
 devojka,girl
 devojka,miss
 devojka,missy
 devojka,young lady
 devojka,young woman
-devojka,fille
 dečak,boy
 dečak,male child
-dobiti,get
 dobiti,acquire
+dobiti,get
 doručak,breakfast
 dugme,button
-dugme,push button
 dugme,push
+dugme,push button
 efekat staklene bašte,greenhouse effect
 efekat staklene bašte,greenhouse warming
 fakt,fact
 gladak,smooth
-glas,voice
-glas,vocalization
+glas,phonation
 glas,vocalisation
 glas,vocalism
-glas,phonation
+glas,vocalization
+glas,voice
 glas,vox
-granica,limit
 granica,bound
 granica,boundary
+granica,limit
 grom,thunder
 hladan,cold
 igla,needle
@@ -58,19 +57,19 @@ iznenađenje,surprise
 iznenađenje,surprise
 jabuka,apple
 javnost,public
-jedini,simply
-jedini,merely
-jedini,just
-jedini,only
 jedini,but
+jedini,just
+jedini,merely
+jedini,only
+jedini,simply
 jednak,equal
+jezik,language
+jezik,oral communication
 jezik,speech
 jezik,speech communication
 jezik,spoken communication
 jezik,spoken language
-jezik,language
 jezik,voice communication
-jezik,oral communication
 kadgod,whenever
 kaput,coat
 kašljati,cough
@@ -85,59 +84,59 @@ kopirati,copy
 kopirati,re-create
 košulja,shirt
 koža,leather
-kuka,hook
 kuka,claw
+kuka,hook
 kutija,box
 lanac,chain
 lep,beautiful
 let,flight
 let,flying
 limun,lemon
+list,foliage
 list,leaf
 list,leafage
-list,foliage
 ljudi,people
 loš,bad
 majmun,monkey
 medicinski,medical
-mesec,month
 mesec,calendar month
+mesec,month
 miran,still
-mlad,young
 mlad,immature
+mlad,young
 moguć,possible
 molim,sorry
 munja,lightning
 muva,fly
 narandža,orange
 narandža,orangish
-ne,not
 ne,non
+ne,not
 ne znam,I don't know
 nema na čemu,you're welcome
 noga,foot
 noga,human foot
-noga,pes
 noga,leg
-note,note
+noga,pes
 note,musical note
+note,note
 note,tone
 nov,new
 novine,newspaper
 novine,paper
 obala,bank
-običan,usual
 običan,common
-oblik,shape
-oblik,form
+običan,usual
 oblik,cast
+oblik,form
+oblik,shape
 obrok,meal
 obrok,repast
 okret,turn
-onda,then
-onda,so
 onda,and so
 onda,and then
+onda,so
+onda,then
 opasnost,danger
 opet,again
 opet,once again
@@ -151,64 +150,64 @@ pad,tumble
 pamuk,cotton
 paralela,parallel
 pero,feather
-pero,plume
 pero,plumage
+pero,plume
 pirinač,rice
 piti,drink
 piti,imbibe
-piće,drink
 piće,beverage
+piće,drink
 piće,drinkable
 piće,potable
 plav,blue
-plav,bluish
 plav,blueish
+plav,bluish
 plaža,beach
-pokret,move
 pokret,displace
-pokret,movement
 pokret,motion
+pokret,move
+pokret,movement
 polagan,slow
 politički,political
-poljubac,kiss
-poljubac,snog
 poljubac,buss
+poljubac,kiss
 poljubac,osculate
+poljubac,snog
 poseta,visit
-pravilo,rule
 pravilo,regulation
+pravilo,rule
 pravo,right
 prodaja,sale
-prostor,space
 prostor,infinite
+prostor,space
 ran,early
 ran,early on
 rano,early
-rat,war
 rat,state of war
+rat,war
 razaranje,destruction
 razaranje,devastation
-razlog,reason
 razlog,ground
+razlog,reason
 recikliranje,recycling
 reka,river
 revolver,gun
-ritam,rhythm
 ritam,beat
 ritam,musical rhythm
+ritam,rhythm
 rudnik,mine
 sadašnjost,present
 savet,council
-sekunda,second
-sekunda,2nd
 sekunda,2d
-sluga,servant
+sekunda,2nd
+sekunda,second
 sluga,retainer
+sluga,servant
 slučaj,case
-slučaj,instance
 slučaj,example
-snop,package
+slučaj,instance
 snop,bundle
+snop,package
 snop,packet
 snop,parcel
 soba,room
@@ -216,222 +215,224 @@ spreman,ready
 srebro,silver
 strana,side
 sudija,judge
-sudija,justice
 sudija,jurist
+sudija,justice
 suknja,skirt
 sumnja,doubt
-sumnja,uncertainty
-sumnja,incertitude
-sumnja,dubiety
 sumnja,doubtfulness
+sumnja,dubiety
 sumnja,dubiousness
+sumnja,incertitude
+sumnja,uncertainty
 supa,soup
 suv,dry
-svinja,pig
-svinja,hog
-svinja,grunter
-svinja,squealer
 svinja,Sus scrofa
+svinja,grunter
+svinja,hog
+svinja,pig
+svinja,squealer
 tanak,thin
-tačka,point
 tačka,dot
+tačka,point
 tečnost,liquid
 topao,warm
 ukočen,rigid
 ukočen,stiff
 umoran,tired
 unutra,in
-unutra,inwards
 unutra,inward
+unutra,inwards
 uzak,narrow
 vek,age
 veličina,size
 viljuška,fork
 vrednost,value
 vreća,bag
-zadatak,project
-zadatak,undertaking
-zadatak,task
 zadatak,labor
+zadatak,project
+zadatak,task
+zadatak,undertaking
 zakon,law
 zivio ziveli,cheers
 ćerka,daughter
 ćerka,girl
 šta,what
 štap,stick
-šum,noise
 šum,dissonance
+šum,noise
 šum,racket
 ženski,female
 žica,wire
-Јануар,January
 Јануар,Jan
+Јануар,January
 Јапан,Japan
-Јапан,Nippon
 Јапан,Nihon
+Јапан,Nippon
 Јул,July
 Јун,June
-Април,April
 Април,Apr
-Децембар,December
+Април,April
 Децембар,Dec
+Децембар,December
 Енглески језик,English
 Енглески језик,English language
 Земља,Earth
 Земља,earth
-Земља,world
 Земља,globe
+Земља,world
+Индија,Bharat
 Индија,India
 Индија,Republic of India
-Индија,Bharat
-Италија,Italy
-Италија,Italian Republic
 Италија,Italia
+Италија,Italian Republic
+Италија,Italy
 Италијански,Italian
-Кина,China
-Кина,People's Republic of China
-Кина,mainland China
-Кина,Communist China
-Кина,Red China
-Кина,PRC
 Кина,Cathay
-Недеља,Sunday
-Недеља,Lord's Day
+Кина,China
+Кина,Communist China
+Кина,PRC
+Кина,People's Republic of China
+Кина,Red China
+Кина,mainland China
 Недеља,Dominicus
+Недеља,Lord's Day
 Недеља,Sun
-Немачка,Germany
-Немачка,Federal Republic of Germany
+Недеља,Sunday
 Немачка,Deutschland
 Немачка,FRG
+Немачка,Federal Republic of Germany
+Немачка,Germany
 Немачки језик,German
-Немачки језик,High German
 Немачки језик,German language
-Новембар,November
+Немачки језик,High German
 Новембар,Nov
-Октобар,October
+Новембар,November
 Октобар,Oct
-Петак,Friday
+Октобар,October
 Петак,Fri
-Понедељак,Monday
+Петак,Friday
 Понедељак,Mon
-Септембар,September
+Понедељак,Monday
 Септембар,Sep
 Септембар,Sept
-Среда,Wednesday
+Септембар,September
 Среда,Midweek
 Среда,Wed
-Субота,Saturday
+Среда,Wednesday
 Субота,Sabbatum
 Субота,Sat
+Субота,Saturday
+Сједињене Америчке Државе,America
+Сједињене Америчке Државе,U.S.
+Сједињене Америчке Државе,U.S.A.
+Сједињене Америчке Државе,US
+Сједињене Америчке Државе,USA
 Сједињене Америчке Државе,United States
 Сједињене Америчке Државе,United States of America
-Сједињене Америчке Државе,America
 Сједињене Америчке Државе,the States
-Сједињене Америчке Државе,US
-Сједињене Америчке Државе,U.S.
-Сједињене Америчке Државе,USA
-Сједињене Америчке Државе,U.S.A.
-Уторак,Tuesday
 Уторак,Tues
-Фебруар,February
+Уторак,Tuesday
 Фебруар,Feb
+Фебруар,February
 Француска,France
 Француска,French Republic
 Хинди,Hindi
-Четвртак,Thursday
 Четвртак,Th
+Четвртак,Thursday
 Чешка Република,Czech Republic
-Шпанија,Spain
-Шпанија,Kingdom of Spain
 Шпанија,Espana
-август,August
+Шпанија,Kingdom of Spain
+Шпанија,Spain
 август,Aug
-аеродром,airport
-аеродром,airdrome
+август,August
 аеродром,aerodrome
+аеродром,airdrome
+аеродром,airport
 аеродром,drome
-ананас,pineapple
 ананас,ananas
+ананас,pineapple
 аргумент,argument
 аргумент,statement
 армија,army
-армија,regular army
 армија,ground forces
-атмосфера,atmosphere
+армија,regular army
 атмосфера,air
-аутобус,bus
+атмосфера,atmosphere
 аутобус,autobus
-аутобус,coach
+аутобус,bus
 аутобус,charabanc
+аутобус,coach
 аутобус,double-decker
 аутобус,jitney
 аутобус,motorbus
 аутобус,motorcoach
 аутобус,omnibus
 аутобус,passenger vehicle
-аутомобил,car
 аутомобил,auto
 аутомобил,automobile
+аутомобил,car
 аутомобил,machine
 аутомобил,motorcar
+аутор,author
+аутор,writer
+ауторитет,authorisation
 ауторитет,authority
 ауторитет,authorization
-ауторитет,authorisation
-ауторитет,potency
 ауторитет,dominance
+ауторитет,potency
 ауторитет,say-so
 банана,banana
 башта,garden
-бели лук,garlic
 бели лук,ail
+бели лук,garlic
 бео,white
 бејзбол,baseball
 бејзбол,baseball game
 библиотека,library
-биологија,biology
 биологија,biological science
+биологија,biology
 биоскоп,cinema
+биоскоп,movie house
 биоскоп,movie theater
 биоскоп,movie theatre
-биоскоп,movie house
 биоскоп,picture palace
-бицикл,bike
 бицикл,bicycle
-бицикл,wheel
+бицикл,bike
 бицикл,cycle
+бицикл,wheel
 бич,whip
-биће,existence
 биће,being
 биће,beingness
+биће,existence
 благовести,announcement
-благовести,proclamation
 благовести,annunciation
 благовести,declaration
-бол,pain
+благовести,proclamation
 бол,hurting
+бол,pain
 болест,disease
 боца,bottle
 боје,color
-боје,colour
 боје,coloring material
+боје,colour
 боје,colouring material
 брак,marriage
 брак,matrimony
-брак,union
 брак,spousal relationship
+брак,union
 брак,wedlock
 браон,brown
 браон,brownish
 браон,chocolate-brown
 браон,dark-brown
-брат,brother
 брат,blood brother
+брат,brother
 бресква,peach
 брод,ship
 број,number
 будућност,future
-будућност,hereafter
 будућност,futurity
+будућност,hereafter
 будућност,time to come
 ваздух,air
 валуте,money
@@ -439,86 +440,86 @@ zivio ziveli,cheers
 ватра,flame
 ватра,flaming
 век,century
-венчање,wedding
 венчање,marriage
 венчање,marriage ceremony
-вера,religion
+венчање,wedding
 вера,faith
+вера,religion
 вера,religious belief
-ветар,wind
 ветар,air current
 ветар,current of air
-вече,evening
+ветар,wind
 вече,eve
 вече,even
+вече,evening
 вече,eventide
-вино,wine
 вино,vino
-влада,government
+вино,wine
 влада,authorities
+влада,government
 влада,regime
-вода,water
 вода,H2O
-воз,train
+вода,water
 воз,railroad train
+воз,train
 војска,military
-воља,will
 воља,volition
+воља,will
 воће,fruit
-врат,neck
 врат,cervix
+врат,neck
 врата,door
-време,time
+време,atmospheric condition
+време,conditions
 време,fourth dimension
+време,time
 време,weather
 време,weather condition
-време,conditions
-време,atmospheric condition
 вуна,wool
-гвожђе,iron
 гвожђе,Fe
 гвожђе,atomic number 26
-ген,gene
+гвожђе,iron
 ген,cistron
 ген,factor
-генерал,general
+ген,gene
 генерал,full general
-глава,head
+генерал,general
 глава,caput
+глава,head
 главни град,capital
 глобално загревање,global warming
-година,year
 година,twelvemonth
+година,year
 година,yr
 голф,golf
 голф,golf game
 град,city
 град,metropolis
-град,urban center
 град,town
+град,urban center
 грађевина,building
 грађевина,edifice
-грешка,mistake
 грешка,error
 грешка,fault
-дан,day
-дан,twenty-four hours
-дан,twenty-four hour period
+грешка,mistake
 дан,24-hour interval
-дан,solar day
+дан,day
 дан,mean solar day
+дан,solar day
+дан,twenty-four hour period
+дан,twenty-four hours
 дар,present
-деведесет,ninety
 деведесет,90
+деведесет,ninety
 деведесет,xc
-девет,nine
 девет,9
 девет,ix
-деда,grandfather
+девет,nine
 деда,gramps
-деда,granddad
 деда,grandad
+деда,granddad
 деда,granddaddy
+деда,grandfather
 деда,grandpa
 департман,department
 департман,section
@@ -526,39 +527,39 @@ zivio ziveli,cheers
 добар дан,good day
 догађај,event
 доле,down
-домаћи коњ,horse
 домаћи коњ,Equus caballus
+домаћи коњ,horse
 дрво,tree
 дрво,wood
 држава,state
 друштво,society
 дуга,rainbow
-еволуција,evolution
 еволуција,development
-екологија,ecology
+еволуција,evolution
 екологија,bionomics
+екологија,ecology
 екологија,environmental science
 ексер,nail
 енергетика,energy
 енергетика,free energy
 еснаф,club
-еснаф,social club
-еснаф,society
-еснаф,guild
 еснаф,gild
+еснаф,guild
 еснаф,lodge
 еснаф,order
-ждрело,throat
+еснаф,social club
+еснаф,society
 ждрело,pharynx
-желудац,stomach
-желудац,tummy
-желудац,tum
+ждрело,throat
 желудац,breadbasket
-жена,woman
+желудац,stomach
+желудац,tum
+желудац,tummy
 жена,adult female
+жена,woman
+жеља,want
 жеља,wish
 жеља,wishing
-жеља,want
 живац,nerve
 живац,nervus
 живот,life
@@ -570,45 +571,46 @@ zivio ziveli,cheers
 животиња,fauna
 животна средина,environment
 животна средина,environs
-животна средина,surroundings
 животна средина,surround
+животна средина,surroundings
+жут,xanthous
 жут,yellow
 жут,yellowish
-жут,xanthous
-забава,entertainment
 забава,amusement
-задовољство,pleasure
+забава,entertainment
 задовољство,pleasance
+задовољство,pleasure
 замак,castle
-запад,west
-запад,due west
-запад,westward
 запад,W
+запад,due west
+запад,west
+запад,westward
 застава,flag
 звезда,star
 звоно,bell
 звук,sound
 здравље,health
 здравље,wellness
+зелен,dark-green
 зелен,green
 зелен,greenish
 зелен,light-green
-зелен,dark-green
 земља,country
-земља,state
-земља,land
 земља,earth
 земља,ground
+земља,land
+земља,state
+зид??,wall
 зима,winter
 зима,wintertime
-злато,gold
 злато,Au
 злато,atomic number 79
-змија,snake
-змија,serpent
+злато,gold
 змија,ophidian
-знање,knowledge
+змија,serpent
+змија,snake
 знање,cognition
+знање,knowledge
 знање,noesis
 зуб,tooth
 и,and
@@ -619,27 +621,27 @@ zivio ziveli,cheers
 име,name
 индустрија,industry
 индустрија,manufacture
-институција,institution
 институција,establishment
+институција,institution
 интервју,interview
+интернет,cyberspace
 интернет,internet
 интернет,net
-интернет,cyberspace
-исток,east
-исток,due east
-исток,eastward
 исток,E
+исток,due east
+исток,east
+исток,eastward
 историја,history
 истраживање,research
-казна,punishment
-казна,penalty
-казна,penalization
 казна,penalisation
+казна,penalization
+казна,penalty
+казна,punishment
 како си,how are you
 камата,interest
-кап,drop
 кап,drib
 кап,driblet
+кап,drop
 капитал,capital
 капитал,working capital
 карта,card
@@ -649,28 +651,28 @@ zivio ziveli,cheers
 кашаљ,coughing
 кашика,spoon
 кајсија,apricot
-квадрат,square
 квадрат,foursquare
-кисела киша,acid rain
+квадрат,square
 кисела киша,acid precipitation
+кисела киша,acid rain
 киселина,acid
+кожни систем,cutis
 кожни систем,skin
 кожни систем,tegument
-кожни систем,cutis
-колено,knee
-колено,knee joint
-колено,human knee
 колено,articulatio genus
 колено,genu
+колено,human knee
+колено,knee
+колено,knee joint
 контаминација,pollution
+контроверза,arguing
 контроверза,argument
-контроверза,controversy
 контроверза,contention
 контроверза,contestation
-контроверза,disputation
+контроверза,controversy
 контроверза,disceptation
+контроверза,disputation
 контроверза,tilt
-контроверза,arguing
 корен,root
 коса,hair
 коса,pilus
@@ -678,39 +680,39 @@ zivio ziveli,cheers
 кост,os
 крава,cow
 крава,moo-cow
-кравата,tie
 кравата,necktie
+кравата,tie
 краставац,cucumber
 краставац,cuke
+краљ,Rex
 краљ,king
 краљ,male monarch
-краљ,Rex
 крв,blood
 кревет,bed
 крива,curve
 крива,curved shape
 крило,wing
 криминал,crime
-криминал,offense
-криминал,criminal offense
 криминал,criminal offence
-криминал,offence
+криминал,criminal offense
 криминал,law-breaking
+криминал,offence
+криминал,offense
 кров,roof
-кромпир,potato
-кромпир,white potato
 кромпир,Irish potato
 кромпир,murphy
+кромпир,potato
 кромпир,spud
 кромпир,tater
+кромпир,white potato
 кружница,circle
 крушка,pear
 "кувати, припремати јела",cook
-култура,culture
-култура,civilization
 култура,civilisation
-купатило,bathroom
+култура,civilization
+култура,culture
 купатило,bath
+купатило,bathroom
 купина,blackberry
 купус,cabbage
 купус,chou
@@ -718,17 +720,17 @@ zivio ziveli,cheers
 кућа,house
 књига,book
 књига,volume
-лав,lion
-лав,king of beasts
 лав,Panthera leo
+лав,king of beasts
+лав,lion
 лаж,lie
 лаж,prevarication
-лекар,doctor
-лекар,doc
-лекар,physician
-лекар,MD
 лекар,Dr.
+лекар,MD
+лекар,doc
+лекар,doctor
 лекар,medico
+лекар,physician
 лепак,glue
 лепак,gum
 лепак,mucilage
@@ -753,38 +755,38 @@ zivio ziveli,cheers
 мачак,true cat
 машина,machine
 мај,May
-мајка,mother
 мајка,female parent
+мајка,mother
 медвед,bear
 медицинска сестра,nurse
-менструација,menstruation
-менструација,menses
-менструација,menstruum
 менструација,catamenia
-менструација,period
 менструација,flow
+менструација,menses
+менструација,menstruation
+менструација,menstruum
+менструација,period
+мерење,measure
 мерење,measurement
 мерење,measuring
-мерење,measure
 мерење,mensuration
 месец,Moon
 месец,moon
 месо,meat
-метал,metallic element
 метал,metal
-министар,minister
+метал,metallic element
 министар,government minister
-минут,minute
+министар,minister
 минут,min
+минут,minute
 мир,peace
 млеко,milk
-мобилни телефон,cellphone
-мобилни телефон,cellular telephone
-мобилни телефон,cellular phone
 мобилни телефон,cell
+мобилни телефон,cellphone
+мобилни телефон,cellular phone
+мобилни телефон,cellular telephone
 мобилни телефон,mobile phone
-модни часопис,magazine
 модни часопис,mag
+модни часопис,magazine
 мозак,brain
 мозак,encephalon
 море,sea
@@ -800,144 +802,142 @@ zivio ziveli,cheers
 мраз,rime
 музеј,museum
 музика,music
-мушкарац,man
 мушкарац,adult male
+мушкарац,man
 наелектрисање,charge
 наелектрисање,electric charge
+намештај,article of furniture
 намештај,furniture
 намештај,piece of furniture
-намештај,article of furniture
-народ,nation
-народ,land
 народ,country
+народ,land
+народ,nation
 наука,science
 наука,scientific discipline
+нафта,crude
+нафта,crude oil
+нафта,fossil oil
 нафта,oil
 нафта,petroleum
-нафта,crude oil
-нафта,crude
 нафта,rock oil
-нафта,fossil oil
 небо,sky
-ништа,nothing
-ништа,nil
-ништа,nix
-ништа,nada
-ништа,null
 ништа,aught
 ништа,cipher
 ништа,cypher
 ништа,goose egg
+ништа,nada
 ништа,naught
+ништа,nil
+ништа,nix
+ништа,nothing
+ништа,null
 ништа,zero
 ништа,zilch
 ништа,zip
 ништа,zippo
 новинар,journalist
-новорођенче,baby
 новорођенче,babe
+новорођенче,baby
 новорођенче,infant
 нож,knife
 нокти,nail
 нос,nose
 нос,olfactory organ
+ноћ,dark
 ноћ,night
 ноћ,nighttime
-ноћ,dark
-обавеза,date
 обавеза,appointment
+обавеза,date
 обавеза,engagement
 облак,cloud
-образовање,education
-образовање,education
-образовање,instruction
-образовање,teaching
-образовање,pedagogy
 образовање,didactics
+образовање,education
+образовање,education
 образовање,educational activity
+образовање,instruction
+образовање,pedagogy
+образовање,teaching
 овца,sheep
 огледало,mirror
-одбрана,defense
 одбрана,defence
-одбрана,defense force
 одбрана,defence force
+одбрана,defense
+одбрана,defense force
 оделење,class
+оделење,course
 оделење,form
 оделење,grade
-оделење,course
-одећа,clothing
 одећа,article of clothing
+одећа,clothing
+одећа,habiliment
 одећа,vesture
 одећа,wear
 одећа,wearable
-одећа,habiliment
 озон,ozone
 око,eye
 око,oculus
 око,optic
 оловка,pencil
-олово,lead
 олово,Pb
 олово,atomic number 82
+олово,lead
 олуја,storm
 олуја,violent storm
 опека,brick
 опруга,spring
 орашасти плодови,nut
 оркестар,orchestra
-ормар,cupboard
 ормар,closet
-осамдесет,eighty
+ормар,cupboard
 осамдесет,80
-осамдесет,lxxx
+осамдесет,eighty
 осамдесет,fourscore
+осамдесет,lxxx
 осећај,feeling
 острво,island
+отац,begetter
 отац,father
 отац,male parent
-отац,begetter
 отпад,waste
 отпад,waste material
 отпад,waste matter
 отпад,waste product
 отров,poison
-отров,toxicant
 отров,poisonous substance
-пажња,attention
+отров,toxicant
 пажња,attending
-палац,thumb
+пажња,attention
 палац,pollex
+палац,thumb
 памћење,memory
 памћење,retention
 памћење,retentiveness
 памћење,retentivity
 папир,paper
 парадајз,tomato
-парк,park
-парк,commons
 парк,common
+парк,commons
 парк,green
+парк,park
+пас,Canis familiaris
 пас,dog
 пас,domestic dog
-пас,Canis familiaris
 пасош,passport
 пасуљ,bean
 пасуљ,edible bean
-пашканат,parsnip
 пашканат,Pastinaca sativa
-педесет,fifty
+пашканат,parsnip
 педесет,50
+педесет,fifty
 педесет,l
 песак,sand
 песма,song
 песма,vocal
-пет,five
 пет,5
+пет,five
 пет,v
-писац,writer
 писац,author
-аутор,writer
-аутор,author
+писац,writer
 план,plan
 план,program
 план,programme
@@ -947,27 +947,27 @@ zivio ziveli,cheers
 површина,surface area
 под,floor
 под,flooring
-поезија,poetry
 поезија,poesy
+поезија,poetry
 поезија,verse
+позориште,house
 позориште,theater
 позориште,theatre
-позориште,house
 пол,sex
-полиција,police
-полиција,police force
 полиција,constabulary
 полиција,law
+полиција,police
+полиција,police force
 поморанџа,orange
 понашање,behavior
-понашање,demeanor
-понашање,demeanour
 понашање,behaviour
 понашање,conduct
+понашање,demeanor
+понашање,demeanour
 понашање,deportment
+порез,revenue enhancement
 порез,tax
 порез,taxation
-порез,revenue enhancement
 породица,family
 породица,family unit
 послеподне,afternoon
@@ -975,15 +975,15 @@ zivio ziveli,cheers
 потреба,need
 пошта,mail
 пошта,mail service
-пошта,postal service
 пошта,post
-поштанска марка,stamp
+пошта,postal service
 поштанска марка,postage
 поштанска марка,postage stamp
+поштанска марка,stamp
 поштанско писмо,letter
 поштанско писмо,missive
-пољубац,kiss
 пољубац,buss
+пољубац,kiss
 пољубац,osculation
 права,line
 прашина,dust
@@ -993,73 +993,73 @@ zivio ziveli,cheers
 природни језици,language
 природни језици,natural language
 природни језици,tongue
+притисак,force per unit area
 притисак,pressure
 притисак,pressure level
-притисак,force per unit area
 пријатељ,friend
-проблем,trouble
 проблем,problem
+проблем,trouble
 прозор,window
 пролеће,spring
 пролеће,springtime
-профит,profit
-профит,net income
-профит,net
-профит,net profit
-профит,lucre
-профит,profits
 профит,earnings
+профит,lucre
+профит,net
+профит,net income
+профит,net profit
+профит,profit
+профит,profits
+проценат,pct
+проценат,per centum
 проценат,percent
 проценат,percentage
-проценат,per centum
-проценат,pct
 пројекат,project
 пројекат,projection
 прст,finger
-прстен,ring
 прстен,band
-психа,mind
-психа,head
+прстен,ring
 психа,brain
-психа,psyche
+психа,head
+психа,mind
 психа,nous
+психа,psyche
 птица,bird
 пумпа,pump
 пут,road
 пут,route
 путер,butter
 пчела,bee
-равница,plain
-равница,field
 равница,champaign
+равница,field
+равница,plain
 "рачунар, компјутер",computer
-"рачунар, компјутер",computing machine
 "рачунар, компјутер",computing device
+"рачунар, компјутер",computing machine
 "рачунар, компјутер",data processor
 "рачунар, компјутер",electronic computer
 "рачунар, компјутер",information processing system
-рачунарски програм,program
-рачунарски програм,programme
 рачунарски програм,computer program
 рачунарски програм,computer programme
-реклама,advertisement
+рачунарски програм,program
+рачунарски програм,programme
 реклама,ad
-реклама,advertizement
-реклама,advertising
-реклама,advertizing
 реклама,advert
-религија,religion
+реклама,advertisement
+реклама,advertising
+реклама,advertizement
+реклама,advertizing
 религија,faith
 религија,organized religion
+религија,religion
 реп,tail
+република,commonwealth
 република,democracy
 република,republic
-република,commonwealth
 рерна,oven
-ресторан,restaurant
+ресторан,eatery
 ресторан,eating house
 ресторан,eating place
-ресторан,eatery
+ресторан,restaurant
 реч,word
 реченица,sentence
 речник,dictionary
@@ -1070,124 +1070,124 @@ zivio ziveli,cheers
 роса,dew
 ротквица,radish
 рођење,birth
-рођење,nativity
-рођење,nascency
 рођење,nascence
+рођење,nascency
+рођење,nativity
 рука,arm
-руковођење,management
 руковођење,direction
+руковођење,management
 сабирање,addition
-сабирање,summation
 сабирање,plus
+сабирање,summation
 сан,sleep
 сан,slumber
 сапун,soap
-састанак,meeting
 састанак,coming together
+састанак,meeting
+сат,60 minutes
 сат,hour
 сат,hr
-сат,60 minutes
-сат,watch
 сат,ticker
+сат,watch
 свет,world
 светлост,light
 светлост,visible light
 светлост,visible radiation
 свила,silk
-север,north
-север,due north
-север,northward
 север,N
-седамдесет,seventy
+север,due north
+север,north
+север,northward
 седамдесет,70
 седамдесет,lxx
-седмица,week
+седамдесет,seventy
 седмица,calendar week
-секунд,second
-секунд,sec
+седмица,week
 секунд,s
+секунд,sec
+секунд,second
 семе,seed
-сестра,sister
 сестра,sis
+сестра,sister
 сив,gray
+сив,grayish
 сив,grey
 сив,greyish
-сив,grayish
-сила,strength
 сила,force
 сила,forcefulness
-син,son
+сила,strength
 син,boy
+син,son
 сир,cheese
-систем,system
 систем,scheme
+систем,system
 скуп,set
 сладак,sweet
 слика,painting
 слика,picture
+слово,alphabetic character
 слово,letter
 слово,letter of the alphabet
-слово,alphabetic character
 слон,elephant
 смрт,death
 снег,snow
+со,common salt
 со,salt
 со,table salt
-со,common salt
-спаваћа соба,bedroom
-спаваћа соба,sleeping room
-спаваћа соба,sleeping accommodation
-спаваћа соба,chamber
 спаваћа соба,bedchamber
-способност,skill
+спаваћа соба,bedroom
+спаваћа соба,chamber
+спаваћа соба,sleeping accommodation
+спаваћа соба,sleeping room
 способност,science
-сребро,silver
+способност,skill
 сребро,Ag
 сребро,atomic number 47
+сребро,silver
 срце,heart
 срце,pump
 срце,ticker
 став,attitude
 став,mental attitude
 стакло,glass
-стан,flat
 стан,apartment
+стан,flat
 станица,station
 становништво,population
-стене,stone
 стене,rock
+стене,stone
 сто,table
 столица,chair
 страх,fear
 страх,fearfulness
 страх,fright
-студент,student
-студент,pupil
 студент,educatee
-сугестија,suggestion
-сугестија,proposition
+студент,pupil
+студент,student
 сугестија,proffer
+сугестија,proposition
+сугестија,suggestion
 суд,court
-суд,tribunal
 суд,judicature
-сунце,sun
+суд,tribunal
 сунце,Sun
+сунце,sun
 суштина,center
-суштина,kernel
-суштина,substance
-суштина,core
 суштина,centre
+суштина,core
 суштина,essence
 суштина,gist
 суштина,heart
 суштина,heart and soul
 суштина,inwardness
+суштина,kernel
 суштина,marrow
 суштина,meat
+суштина,nitty-gritty
 суштина,nub
 суштина,pith
+суштина,substance
 суштина,sum
-суштина,nitty-gritty
 табела,table
 табела,tabular array
 тањир,plate
@@ -1196,23 +1196,23 @@ zivio ziveli,cheers
 текстил,fabric
 текстил,material
 текстил,textile
-тенис,tennis
 тенис,lawn tennis
+тенис,tennis
 теорија,theory
 тепих,carpet
-тепих,rug
 тепих,carpeting
-тестамент,will
+тепих,rug
 тестамент,testament
-технологија,technology
+тестамент,will
 технологија,engineering
-тоалет,toilet
-тоалет,lavatory
-тоалет,lav
+технологија,technology
+тоалет,bathroom
 тоалет,can
 тоалет,john
+тоалет,lav
+тоалет,lavatory
 тоалет,privy
-тоалет,bathroom
+тоалет,toilet
 торзо,body
 торзо,torso
 торзо,trunk
@@ -1221,13 +1221,13 @@ zivio ziveli,cheers
 трговина,trade
 трешња,cherry
 тржиште,market
-тржиште,marketplace
 тржиште,market place
-три,three
+тржиште,marketplace
 три,3
 три,iii
-тридесет,thirty
+три,three
 тридесет,30
+тридесет,thirty
 тридесет,xxx
 угао,angle
 угаљ,coal
@@ -1242,50 +1242,50 @@ zivio ziveli,cheers
 уста,oral fissure
 уста,rima oris
 ухо,ear
-учитељ,teacher
 учитељ,instructor
+учитељ,teacher
 уље,oil
 фабрика,factory
-фабрика,mill
-фабрика,manufacturing plant
 фабрика,manufactory
+фабрика,manufacturing plant
+фабрика,mill
 фаза,phase
 фаза,stage
 фарма,farm
-филм,movie
 филм,film
-филм,picture
-филм,moving picture
-филм,moving-picture show
+филм,flick
 филм,motion picture
 филм,motion-picture show
-филм,picture show
+филм,movie
+филм,moving picture
+филм,moving-picture show
 филм,pic
-филм,flick
+филм,picture
+филм,picture show
 фиока,drawer
 фосилна горива,fossil fuel
-фотограф,photographer
 фотограф,lensman
-функција,purpose
+фотограф,photographer
 функција,function
+функција,purpose
 функција,role
 функција,use
-хемија,chemistry
 хемија,chemical science
+хемија,chemistry
 хемијска оловка,pen
 хемијска супстанца,chemical
 хемијска супстанца,chemical substance
 хемијски елемент,chemical element
 хемијски елемент,element
-хиљаду,thousand
-хиљаду,one thousand
 хиљаду,1000
-хиљаду,M
-хиљаду,K
-хиљаду,chiliad
 хиљаду,G
+хиљаду,K
+хиљаду,M
+хиљаду,chiliad
 хиљаду,grand
+хиљаду,one thousand
 хиљаду,thou
+хиљаду,thousand
 хиљаду,yard
 хлеб,bread
 хлеб,breadstuff
@@ -1301,57 +1301,57 @@ zivio ziveli,cheers
 црква,church
 црква,church building
 црн,black
+црни лук,Allium cepa
 црни лук,onion
 црни лук,onion plant
-црни лук,Allium cepa
 чамац,boat
 часовник,clock
 чајеви,tea
 чвор,knot
-чек,check
 чек,bank check
+чек,check
 чек,cheque
 чекић,hammer
 челик,steel
-чета,company
 чета,companionship
+чета,company
 чета,fellowship
 чета,society
 четка,brush
-четрдесет,forty
 четрдесет,40
-четрдесет,xl
+четрдесет,forty
 четрдесет,twoscore
-човек,human
+четрдесет,xl
 човек,homo
-човек,man
+човек,human
 човек,human being
+човек,man
 чоколада,chocolate
 шака,hand
 шака,manus
 шака,mitt
 шака,paw
+шаргарепа,Daucus carota sativa
 шаргарепа,carrot
 шаргарепа,cultivated carrot
-шаргарепа,Daucus carota sativa
-шездесет,sixty
 шездесет,60
 шездесет,lx
+шездесет,sixty
 шездесет,threescore
-шест,six
 шест,6
-шест,vi
 шест,half dozen
 шест,half-dozen
-шећер,sugar
+шест,six
+шест,vi
 шећер,refined sugar
-шибица,match
-шибица,lucifer
+шећер,sugar
 шибица,friction match
+шибица,lucifer
+шибица,match
 школа,school
 школа,schoolhouse
-шок,shock
 шок,daze
+шок,shock
 шок,stupor
 шума,forest
 шума,wood
@@ -1359,30 +1359,30 @@ zivio ziveli,cheers
 шљива,plum
 јагода,strawberry
 јајe,egg
-једанаест,eleven
 једанаест,11
+једанаест,eleven
 једанаест,xi
 језеро,lake
+језик,clapper
+језик,glossa
 језик,language
+језик,lingua
 језик,linguistic communication
 језик,tongue
-језик,lingua
-језик,glossa
-језик,clapper
 јесен,autumn
 јесен,fall
-југ,south
-југ,due south
-југ,southward
 југ,S
-јутро,morning
-јутро,morn
-јутро,morning time
+југ,due south
+југ,south
+југ,southward
 јутро,forenoon
+јутро,morn
+јутро,morning
+јутро,morning time
 љубав,love
-љубичаст,violet
 љубичаст,purple
 љубичаст,purplish
+љубичаст,violet
 њива,field
 ћелија,cell
 ћуприја,bridge

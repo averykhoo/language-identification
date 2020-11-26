@@ -1,13 +1,34 @@
 Other,English
 1 ta' Jannar,January 1
 1 ta' Mejju,May 1
+1750s,1750s
+1760s,1760s
+1770s,1770s
+1790s,1790s
+1820s,1820s
+1830s,1830s
+1840s,1840s
+1860s,1860s
+1870s,1870s
+1880s,1880s
+1890s,1890s
 19 ta' Marzu,March 19
+1900s,1900s
+1920s,1920s
+1930s,1930s
+1940s,1940s
+1950s,1950s
+1960s,1960s
+1970s,1970s
+1980s,1980s
+1990s,1990s
 23 ta' Ġunju,June 23
 60,60
 AIDS,AIDS
 Adolf Hitler,Adolf Hitler
 Affiss,Affix
 Afrika,Africa
+Agrikoltura,Agriculture
 Akille,Achilles
 Alan Turing,Alan Turing
 Albanija,Albania
@@ -17,15 +38,20 @@ Alla,Allah
 Andorra,Andorra
 Andrea Palladio,Andrea Palladio
 Antropoloġija,Anthropology
+Antropoloġija,Anthropology
 Apollo,Apollo
 April,April
 Aristotile,Aristotle
+Arkeoloġija,Archaeology
 Arkimede,Archimedes
+Arkitettura,Architecture
 Art,Earth
 Asja,Asia
 Asterojde,Asteroid
 Astroloġija,Astrology
 Astronomija,Astronomy
+Astronomija,Astronomy
+Ateiżmu,Atheism
 Atti ta' l-Appostli,Acts of the Apostles
 Awissu,August
 Awstralja,Australia
@@ -46,83 +72,19 @@ Berlin,Berlin
 Bibbja,Bible
 Bijoloġija,Biology
 Bill Gates,Bill Gates
+Bioloġija,Biology
 Bit,Bit
 Blogg,Blog
 Bolonja,Bologna
 Bolzano,Bolzano
+Botanika,Botany
 Bratislava,Bratislava
 Brendi,Brandy
 Brimba,Spider
 Buddiżmu,Buddhism
+Buddiżmu,Buddhism
 Bulgarija,Bulgaria
 Casablanca,Casablanca
-1750s,1750s
-1760s,1760s
-1770s,1770s
-1790s,1790s
-1820s,1820s
-1830s,1830s
-1840s,1840s
-1860s,1860s
-1870s,1870s
-1880s,1880s
-1890s,1890s
-1900s,1900s
-1920s,1920s
-1930s,1930s
-1940s,1940s
-1950s,1950s
-1960s,1960s
-1970s,1970s
-1980s,1980s
-1990s,1990s
-Agrikoltura,Agriculture
-Antropoloġija,Anthropology
-Arkeoloġija,Archaeology
-Arkitettura,Architecture
-Astronomija,Astronomy
-Ateiżmu,Atheism
-Bioloġija,Biology
-Botanika,Botany
-Buddiżmu,Buddhism
-Diżambigwazzjoni,Disambiguation
-Ekoloġija,Ecology
-Elettriċità,Electricity
-Elettronika,Electronics
-Entomoloġija,Entomology
-Ewropa,Europe
-Filosofija,Philosophy
-Finanza,Finance
-Fiżika,Physics
-Futbol,Football
-Induiżmu,Hinduism
-Islam,Islam
-Italja,Italy
-Kimika,Chemistry
-Kristjaneżmu,Christianity
-Letteratura,Literature
-Lingwistika,Linguistics
-Malta,Malta
-Matematika,Mathematics
-Mużika,Music
-Politika,Politics
-Polonja,Poland
-Psikoloġija,Psychology
-Reliġjon,Religion
-Sistema solari,Solar System
-Skultura,Sculpture
-Slovakkja,Slovakia
-Soċjoloġija,Sociology
-Stati Uniti,United States
-Storja,History
-Teatru,Theatre
-Televiżjoni,Television
-Teoloġija,Theology
-Trasport,Transportation
-Xjenza,Science
-Ġeografija,Geography
-Ġermanja,Germany
-Ġudaiżmu,Judaism
 Claudio Monteverdi,Claudio Monteverdi
 Cork,Cork
 Curitiba,Curitiba
@@ -132,15 +94,20 @@ Demenzja,Dementia
 Demm,Blood
 Dgħajsa,Boat
 Diċembru,December
+Diżambigwazzjoni,Disambiguation
 Dominju,Domain
 Dublin,Dublin
 Dugongu,Dugong
 Eklissi,Eclipse
 Eklissi solari,Solar eclipse
+Ekoloġija,Ecology
 Ekwazzjonijiet Differenzjali,Differential equation
 Element Kimiku,Chemical element
+Elettriċità,Electricity
+Elettronika,Electronics
 Enea,Aeneas
 Enejide,Aeneid
+Entomoloġija,Entomology
 Entomoloġija,Entomology
 Enċiklopedija,Encyclopedia
 Era,Hera
@@ -150,17 +117,22 @@ Ettore,Hector
 Ewklide,Euclid
 Ewro,Euro
 Ewropa,Europe
+Ewropa,Europe
 Familja,Family
 Faxxa ta' Kuiper,Kuiper belt
 Fencing,Fencing
 Feniċi,Phoenicia
+Filosofija,Philosophy
+Finanza,Finance
 Finlandja,Finland
+Fiżika,Physics
 Fonoloġija,Phonology
 Francisco Goya,Francisco Goya
 Franz Schubert,Franz Schubert
 Franza,France
 Frar,February
 Funzjonijiet,Function
+Futbol,Football
 Futbol,Football
 Galileo Galilei,Galileo Galilei
 Galway,Galway
@@ -183,10 +155,13 @@ Imperu Brittanniku,British Empire
 Imperu Ottoman,Ottoman Empire
 Imperu Ruman,Roman Empire
 Indja,India
+Induiżmu,Hinduism
 Irlanda ta' Fuq,Northern Ireland
 Isfar,Yellow
 Islam,Islam
+Islam,Islam
 Iswed,Black
+Italja,Italy
 Italja,Italy
 Iżlanda,Iceland
 Jannar,January
@@ -202,6 +177,8 @@ Kartaġiniżi,Carthage
 Katowice,Katowice
 Kilwa,Kidney
 Kimika,Chemistry
+Kimika,Chemistry
+Kimika,Chemistry
 Kimika Organika,Organic chemistry
 Kolera,Cholera
 Kometa,Comet
@@ -209,6 +186,7 @@ Kompjuter,Computer
 Kompożitur,Composer
 Korea t'Isfel,South Korea
 Kostellazzjoni,Constellation
+Kristjaneżmu,Christianity
 Kristjaneżmu,Christianity
 Kristofru Kolombu,Christopher Columbus
 Kroazja,Croatia
@@ -219,13 +197,16 @@ Lamantin,Manatee
 Lega Anżejatika,Hanseatic League
 Leonardo da Vinci,Leonardo da Vinci
 Letteratura,Literature
+Letteratura,Literature
 Lingwa Ido,Ido
 Lingwa Maltija,Maltese language
+Lingwistika,Linguistics
 Lingwistika,Linguistics
 Litwanja,Lithuania
 Ludwig van Beethoven,Ludwig van Beethoven
 Lulju,July
 Malarja,Malaria
+Malta,Malta
 Malta,Malta
 Mammiferu,Mammal
 Mara,Woman
@@ -234,6 +215,8 @@ Marokk,Morocco
 Marrara,Gallbladder
 Marte,Mars
 Marzu,March
+Matematika,Mathematics
+Matematika,Mathematics
 Matematika,Mathematics
 Mediċina,Medicine
 Mejju,May
@@ -251,6 +234,7 @@ Moldova,Moldova
 Mosul,Mosul
 Muħammed,Muhammad
 Mużew,Museum
+Mużika,Music
 Mużika,Music
 Neolitiku,Neolithic
 New Zealand,New Zealand
@@ -273,11 +257,12 @@ Pawlu minn Tarsu,Paul the Apostle
 Pesta s-Sewda,Black Death
 Pjaneta,Planet
 Plovdiv,Plovdiv
+Politika,Politics
 Polonja,Poland
-Kimika,Chemistry
-Matematika,Mathematics
+Polonja,Poland
 Portugall,Portugal
 Praga,Prague
+Psikoloġija,Psychology
 Psikoloġija,Psychology
 Pulmun,Lung
 Pulu,Polo
@@ -286,6 +271,7 @@ Qamar,Moon
 Qattus,Cat
 Qlugħ,Sail
 Rabat,Rabat
+Reliġjon,Religion
 Reliġjon,Religion
 Renju Unit,United Kingdom
 Repubblika ta' l-Irlanda,Republic of Ireland
@@ -308,22 +294,32 @@ Settembru,September
 Sfera ċelesti,Celestial sphere
 Sistema Solari,Solar System
 Sistema diġestiva,Gastrointestinal tract
+Sistema solari,Solar System
 Skultura,Sculpture
+Skultura,Sculpture
+Slovakkja,Slovakia
 Slovenja,Slovenia
+Soċjoloġija,Sociology
 Soċjoloġija,Sociology
 Spanja,Spain
 Speċi,Species
 Sport,Sport
 Stati Uniti,United States
+Stati Uniti,United States
+Storja,History
 Storja,History
 Supernova,Supernova
 Takson,Taxon
 Tavla Perjodika,Periodic table
 Teatru,Theatre
+Teatru,Theatre
+Televiżjoni,Television
+Teoloġija,Theology
 Tieni Gwerra Dinjija,World War II
 Tifel,Child
 Titan,Titan
 Toqba sewda,Black hole
+Trasport,Transportation
 Trojja,Troy
 Tuberkulożi,Tuberculosis
 Unjoni Ewropea,European Union
@@ -337,6 +333,7 @@ WK,Anno Domini
 Wolfgang Amadeus Mozart,Wolfgang Amadeus Mozart
 Xemx,Sun
 Xjenza,Science
+Xjenza,Science
 Xjenza Naturali,Natural science
 Zagreb,Zagreb
 maltese,english
@@ -345,12 +342,15 @@ maltese,english
 Ġebla tal-ġir,Limestone
 Ġeneru,Genus
 Ġeografija,Geography
+Ġeografija,Geography
+Ġermanja,Germany
 Ġermanja,Germany
 Ġesù Kristu,Jesus
 Ġnus Magħquda,United Nations
 Ġometrija,Geometry
 Ġove,Jupiter
 Ġove,Jupiter
+Ġudaiżmu,Judaism
 Ġunju,June
 Ġunone,Juno
 Ħadid,Iron

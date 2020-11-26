@@ -22,12 +22,15 @@ Argentina,Argentine Republic
 Arizona,Arizona
 Azores,Azores
 Ba Lan,Poland
+Ba Lê,Paris
 Bahrain,Bahrain
 Bangladesh,Bangladesh
 Bangladesh,People's Republic of Bangladesh
 Belarus,Belarus
 Belarus,Republic of Belarus
 Belize,Belize
+Bombay,Bombay
+Bombay,Mumbai
 Borneo,Borneo
 Borneo,Kalimantan
 Bosna và Hercegovina,Bosnia and Herzegovina
@@ -47,9 +50,10 @@ Bắc Kinh,Beijing
 Bỉ,Belgium
 Bỉ,Kingdom of Belgium
 Bồ Đào Nha,Portugal
-Bờ Biển Ngà,Ivory Coast
 Bờ Biển Ngà,Cote d'Ivoire
+Bờ Biển Ngà,Ivory Coast
 Bờ Biển Ngà,Republic of Cote d'Ivoire
+CSDL,database
 Ca Li,California
 California,California
 Cameroon,Cameroon
@@ -61,10 +65,10 @@ Chile,Republic of Chile
 Châu Nam Cực,Antarctica
 Colombia,Colombia
 Colombia,Republic of Colombia
-Cộng hoà Congo,Republic of the Congo
 Cộng hoà Congo,Congo-Brazzaville
-Cộng hoà Dân chủ Congo,Democratic Republic of the Congo
+Cộng hoà Congo,Republic of the Congo
 Cộng hoà Dân chủ Congo,Congo-Kinshasa
+Cộng hoà Dân chủ Congo,Democratic Republic of the Congo
 Cộng hòa Nam Phi,South Africa
 El Salvador,El Salvador
 El Salvador,Republic of El Salvador
@@ -79,8 +83,8 @@ Gambia,Gambia
 Gambia,Gambia
 Gambia,Gambia
 Gambia,Gambia
-Gambia,The Gambia
 Gambia,Republic of The Gambia
+Gambia,The Gambia
 Georgia,Georgia
 Ghana,Ghana
 Ghana,Republic of Ghana
@@ -91,43 +95,20 @@ Guadeloupe,Guadeloupe
 Guam,Guam
 Guam,Guam
 Guam,Guam
+H5N1,A(H5N1)
 H5N1,H5N1
 H5N1,Influenza A virus subtype H5N1
-H5N1,A(H5N1)
 Haiti,Haiti
 Haiti,Republic of Haiti
+Hoa Kỳ,America
+Hoa Kỳ,States
+Hoa Kỳ,U.S.
+Hoa Kỳ,U.S. of A.
+Hoa Kỳ,U.S.A.
+Hoa Kỳ,US
 Hoa Kỳ,United States
 Hoa Kỳ,United States of America
-Hoa Kỳ,America
-Hoa Kỳ,US
-Hoa Kỳ,U.S.
-Hoa Kỳ,U.S.A.
-Hoa Kỳ,U.S. of A.
-Hoa Kỳ,States
-nước Mỹ,United States
-nước Mỹ,United States of America
-nước Mỹ,America
-nước Mỹ,US
-nước Mỹ,U.S.
-nước Mỹ,U.S.A.
-nước Mỹ,U.S. of A.
-nước Mỹ,States
-Hợp Chúng Quốc Hoa Kỳ,United States
-Hợp Chúng Quốc Hoa Kỳ,United States of America
-Hợp Chúng Quốc Hoa Kỳ,America
-Hợp Chúng Quốc Hoa Kỳ,US
-Hợp Chúng Quốc Hoa Kỳ,U.S.
-Hợp Chúng Quốc Hoa Kỳ,U.S.A.
-Hợp Chúng Quốc Hoa Kỳ,U.S. of A.
-Hợp Chúng Quốc Hoa Kỳ,States
-Mỹ,United States
-Mỹ,United States of America
-Mỹ,America
-Mỹ,US
-Mỹ,U.S.
-Mỹ,U.S.A.
-Mỹ,U.S. of A.
-Mỹ,States
+Hoa Thịnh Đốn,Washington
 Honduras,Honduras
 Honduras,Republic of Honduras
 Hy Lạp,Greece
@@ -135,11 +116,20 @@ Hy Lạp,Hellenic Republic
 Hà Lan,Holland
 Hà Lan,Kingdom of the Netherlands
 Hà Lan,The Netherlands
+Hải Vương Tinh,Neptune
 Họ Cúc,Asteraceae
-Họ Cúc,sunflower family
 Họ Cúc,Compositae
-Họ Cúc,daisy family
 Họ Cúc,aster family
+Họ Cúc,daisy family
+Họ Cúc,sunflower family
+Hợp Chúng Quốc Hoa Kỳ,America
+Hợp Chúng Quốc Hoa Kỳ,States
+Hợp Chúng Quốc Hoa Kỳ,U.S.
+Hợp Chúng Quốc Hoa Kỳ,U.S. of A.
+Hợp Chúng Quốc Hoa Kỳ,U.S.A.
+Hợp Chúng Quốc Hoa Kỳ,US
+Hợp Chúng Quốc Hoa Kỳ,United States
+Hợp Chúng Quốc Hoa Kỳ,United States of America
 Iceland,Iceland
 Iceland,Republic of Iceland
 Iliad,Iliad
@@ -151,12 +141,12 @@ Iran,Iran
 Iran,Islamic Republic of Iran
 Israel,Israel
 Israel,State of Israel
-Jakarta,Jakarta
-Jakarta,Djakarta
 Jakarta,DKI Jakarta
+Jakarta,Djakarta
+Jakarta,Jakarta
 Jamaica,Jamaica
-Jordan,Jordan
 Jordan,Hashemite Kingdom of Jordan
+Jordan,Jordan
 Kazakhstan,Kazakhstan
 Kazakhstan,Republic of Kazakhstan
 Kenya,Kenya
@@ -167,83 +157,88 @@ Kiribati,Kiribati
 Kiribati,Republic of Kiribati
 Kypros,Cyprus
 Kypros,Republic of Cyprus
-Kyrgyzstan,Kyrgyzstan
 Kyrgyzstan,Kyrgyz Republic
+Kyrgyzstan,Kyrgyzstan
 La Hay,The Hague
 La Mã,Rome
-Rôma,Rome
-Roma,Rome
 Lagos,Lagos
 Latvia,Latvia
 Latvia,Republic of Latvia
-Lesotho,Lesotho
 Lesotho,Kingdom of Lesotho
+Lesotho,Lesotho
 Liberia,Liberia
 Liberia,Republic of Liberia
-Libya,Libya
 Libya,Great Socialist People's Libyan Arab Jamahiriya
+Libya,Libya
 Liên minh châu Âu,EU
 Liên minh châu Âu,European Union
 Luân Đôn,London
 Lạp Khuyển,Canes Venatici
 Lễ Phục Sinh,Easter
-Lục Xâm Bảo,Luxembourg
 Lục Xâm Bảo,Grand Duchy of Luxembourg
+Lục Xâm Bảo,Luxembourg
 Ma Kiết,Capricorn
 Malawi,Malawi
 Malawi,Republic of Malaŵi
-Maroc,Morocco
 Maroc,Kingdom of Morocco
-Mauritanie,Mauritania
+Maroc,Morocco
+Matxcơva,Moscow
 Mauritanie,Islamic Republic of Mauritania
+Mauritanie,Mauritania
 Milano,Milan
 Monaco,Monaco
 Montenegro,Montenegro
-Mumbai,Mumbai
-Mumbai,Bombay
-Bombay,Mumbai
-Bombay,Bombay
-Myanma,Myanmar
-Mạc Tư Khoa,Moscow
 Moskva,Moscow
+Mumbai,Bombay
+Mumbai,Mumbai
+Myanma,Myanmar
 Mát-xcơ-va,Moscow
 Mátxcơva,Moscow
-Matxcơva,Moscow
+Mạc Tư Khoa,Moscow
 Mục Phu,Boötes
-Na Uy,Norway
+Mỹ,America
+Mỹ,States
+Mỹ,U.S.
+Mỹ,U.S. of A.
+Mỹ,U.S.A.
+Mỹ,US
+Mỹ,United States
+Mỹ,United States of America
 Na Uy,Kingdom of Norway
+Na Uy,Norway
 Namibia,Namibia
 New York,New York
-Nữu Ước,New York
 New Zealand,New Zealand
-Ngân Hà,Milky Way
 Ngân Hà,Galaxy
+Ngân Hà,Milky Way
 Nhật Bản,Japan
 Nhật Bản,State of Japan
 Nicaragua,Nicaragua
 Niedersachsen,Lower Saxony
 Núi Phú Sĩ,Mount Fuji
+Nữu Ước,New York
 Orléans,Orleans
-Pakistan,Pakistan
+Pa-ri,Paris
 Pakistan,Islamic Republic of Pakistan
+Pakistan,Pakistan
 Panama,Panama
 Papua Tân Guinea,Papua New Guinea
-Paris,Paris
-Ba Lê,Paris
-Pa-ri,Paris
 Pari,Paris
+Paris,Paris
 Peru,Peru
 Peru,Republic of Peru
 Pháp,France
 Phần Lan,Finland
 Phần Lan,Republic of Finland
 Phổi,lung
-phổi,lung
 Puerto Rico,Puerto Rico
 Qatar,Qatar
+Quốc tế ngữ,Esperanto
+Quốc tế ngữ,Esperanto
+Roma,Rome
+Rôma,Rome
 Samoa thuộc Mỹ,American Samoa
 Sao Hải Vương,Neptune
-Hải Vương Tinh,Neptune
 Slovakia,Slovakia
 Song Tử,Gemini
 Sri Lanka,Sri Lanka
@@ -259,9 +254,9 @@ Thiên Hạt,Scorpio
 Thiên Xứng,Libra
 Thiên Yến,Apus
 Thiên Ưng,Aquila
-Thành Vatican,Vatican City
-Thành Vatican,The Holy See
 Thành Vatican,State of the Vatican City
+Thành Vatican,The Holy See
+Thành Vatican,Vatican City
 Thái Lan,Thailand
 Thánh Giá,crucifix
 Tháp Eiffel,Eiffel Tower
@@ -291,8 +286,8 @@ Tiếng Oa-lon,Walloon
 Tiếng Oa-lon,Walloon
 Tiếng Pháp,French
 Tiếng Pháp,French
-Tiếng Ru-ma-ni,Romanian
 Tiếng Ru-ma-ni,Romanaian
+Tiếng Ru-ma-ni,Romanian
 Tiếng Séc,Czech
 Tiếng Séc,Czech
 Tiếng Thuỵ-điển,Swedish
@@ -302,10 +297,6 @@ Tiếng U-kren,Ukrainian
 Tiếng U-kren,Ukrainian
 Tiếng Việt,Vietnamese
 Tiếng Việt,Vietnamese
-tiếng Việt,Vietnamese
-tiếng Việt,Vietnamese
-Việt ngữ,Vietnamese
-Việt ngữ,Vietnamese
 Tiếng Zulu,Zulu
 Tiếng Ý,Italian
 Tiếng Ý,Italian
@@ -313,37 +304,37 @@ Tiếng Đan-mạch,Danish
 Tiểu Khuyển,Canis Minor
 Togo,Togo
 Tokyo,Tokyo
-Đông Kinh,Tokyo
 Tonga,Tonga
 Tế bào nhiên liệu,fuel cell
-Uganda,Uganda
 Uganda,Republic of Uganda
+Uganda,Uganda
 Utah,Utah
 Vanađi,vanadium
 Venezia,Venice
 Venezuela,Venezuela
 Viên,Vienna
+Việt ngữ,Vietnamese
+Việt ngữ,Vietnamese
 Volga,Volga
 Washington,Washington
-Hoa Thịnh Đốn,Washington
-Web,World Wide Web
 Web,WWW
+Web,World Wide Web
 Wikipedia,Wikipedia
 Wyoming,Wyoming
 Xanh Pê-téc-bua,Leningrad
 Xanh Pê-téc-bua,Petrograd
 Xanh Pê-téc-bua,Saint Petersburg
 Xanh Pê-téc-bua,St. Petersburg
-Xanh Pêtécbua,Leningrad
-Xanh Pêtécbua,Petrograd
-Xanh Pêtécbua,Saint Petersburg
-Xanh Pêtécbua,St. Petersburg
 Xanh Pêtecbua,Leningrad
 Xanh Pêtecbua,Petrograd
 Xanh Pêtecbua,Saint Petersburg
 Xanh Pêtecbua,St. Petersburg
-Zambia,Zambia
+Xanh Pêtécbua,Leningrad
+Xanh Pêtécbua,Petrograd
+Xanh Pêtécbua,Saint Petersburg
+Xanh Pêtécbua,St. Petersburg
 Zambia,Republic of Zambia
+Zambia,Zambia
 agon,argon
 anh đào,cherry
 anime,anime
@@ -356,20 +347,18 @@ berili,glucinium
 bia,beer
 bismut,bismuth
 blog,blog
-blog,weblog
 blog,web log
+blog,weblog
 bo,boron
 brôm,bromine
 buôn bán,trade
-bàn phím,keyboard
 bàn chữ,keyboard
+bàn phím,keyboard
 bào quan,organelle
 bách khoa toàn thư,encyclopaedia
-từ điển bách khoa,encyclopaedia
 bán đảo,peninsula
 bánh mì,bread
 báo,newspaper
-tờ báo,newspaper
 báo đốm Mỹ,jaguar
 béo phì,obesity
 bí mật,secret
@@ -377,12 +366,8 @@ bóng đá,football
 bạc,silver
 bạch phiến,heroin
 bệnh sốt rét,malaria
-sốt rét,malaria
-sốt cơn,malaria
-bệnh viện,hospital
 bệnh viện,clinic
-nhà thương,hospital
-nhà thương,clinic
+bệnh viện,hospital
 bồ công anh,dandelion
 bộ gene,genome
 bụng,stomach
@@ -390,26 +375,26 @@ bữa ăn trưa,lunch
 bữa ăn trưa,lunch
 bữa ăn trưa,lunch
 bữa ăn trưa,lunch
-bữa ăn trưa,luncheon
+bữa ăn trưa,lunch
+bữa ăn trưa,lunch
+bữa ăn trưa,lunch
+bữa ăn trưa,lunch
+bữa ăn trưa,lunch
+bữa ăn trưa,lunch
+bữa ăn trưa,lunch
+bữa ăn trưa,lunch
+bữa ăn trưa,lunch
+bữa ăn trưa,lunch
+bữa ăn trưa,lunch
+bữa ăn trưa,lunch
 bữa ăn trưa,lunch
 bữa ăn trưa,lunch
 bữa ăn trưa,lunch
 bữa ăn trưa,lunch
 bữa ăn trưa,luncheon
-bữa ăn trưa,lunch
-bữa ăn trưa,lunch
-bữa ăn trưa,lunch
-bữa ăn trưa,lunch
 bữa ăn trưa,luncheon
-bữa ăn trưa,lunch
-bữa ăn trưa,lunch
-bữa ăn trưa,lunch
-bữa ăn trưa,lunch
 bữa ăn trưa,luncheon
-bữa ăn trưa,lunch
-bữa ăn trưa,lunch
-bữa ăn trưa,lunch
-bữa ăn trưa,lunch
+bữa ăn trưa,luncheon
 bữa ăn trưa,luncheon
 cacbon,carbon
 caffein,caffeine
@@ -421,7 +406,6 @@ chanh,lemon
 chanh xanh,lime
 chim,bird
 cholesterol,cholesterol
-côlexterola,cholesterol
 chuyện,story
 chuối,banana
 chuột,mouse
@@ -433,9 +417,9 @@ chưng khô,pyrolysis
 chương,chapter
 chương trình phục vụ,server
 chương trình phục vụ,server
-máy chủ,server
 chấn tâm,epicentre
 chủ nghĩa cộng sản,communism
+chủ tịch,president
 clo,chlorine
 coban,cobalt
 crom,chromium
@@ -446,13 +430,10 @@ cá mòi,sardine
 cân bằng nội môi,homeostasis
 cây,tree
 cây đàn,guitar
-ghi-ta,guitar
-ghi ta,guitar
-ghita,guitar
 có ích,useful
+côlexterola,cholesterol
 cúp,trophy
 cơ sở dữ liệu,database
-CSDL,database
 cần tây,celery
 cầu lông,badminton
 cỏ,grass
@@ -464,13 +445,13 @@ dao,knife
 dâu tây,strawberry
 dược lý học,pharmacology
 dạy,teach
-dạy học,teach
 dạy bảo,teach
 dạy dỗ,teach
-dịch,translate
+dạy học,teach
 dịch,interpret
-dừa,kokosnoot
+dịch,translate
 dừa,coconut
+dừa,kokosnoot
 ensteni,einsteinium
 europi,europium
 flo,fluorine
@@ -479,6 +460,9 @@ gali,gallium
 gan,liver
 gađolini,gadolinium
 gecmani,germanium
+ghi ta,guitar
+ghi-ta,guitar
+ghita,guitar
 gia đình,family
 giang mai,syphilis
 giao thông công cộng,public transport
@@ -487,54 +471,56 @@ giáo phận,diocese
 giáp trạng,thyroid
 giường,bed
 giảm phát,deflation
-giờ,time
 giờ,hour
-tiếng đồng hồ,hour
-tiếng hồ,hour
+giờ,time
 gà,chicken
 gạch,brick
 gần,almost
 hafini,hafnium
 haiku,haiku
 hiđrô,hydrogen
+hiệu trưởng,president
 hoa lơ,cauliflower
 holmi,holmium
+hoá học,chemistry
+hoá sinh học,biochemistry
 hy vọng,hope
 hình học,geometry
-hình thoi,rhombus
 hình thoi,rhomb
+hình thoi,rhombus
 hòn đảo,island
 hòn đảo,isle
-đảo,island
-đảo,isle
 hóa học,chemistry
-hoá học,chemistry
 hóa sinh học,biochemistry
-hoá sinh học,biochemistry
+hạt,county
 hải dương học,oceanography
-hệ tiêu hóa,gastrointestinal tract
 hệ tiêu hóa,alimentary canal
+hệ tiêu hóa,gastrointestinal tract
 hồng ngọc,ruby
 hội chứng,syndrome
 hội âm,perineum
-hợp chất,compound
+hột le,button
+hột le,clit
+hột le,clitoris
 hợp chất,chemical compound
+hợp chất,compound
 in thạch bản,lithography
 indi,indium
 iriđi,iridium
 iốt,iodine
 kali,potassium
 karate,karate
-khoai tây,potato
 khoai tây,patato
+khoai tây,potato
 khó khăn,difficult
-khảo cổ học,archaeology
-khảo cổ học,archeology
-khảo cổ học,archæology
 khảo cổ,archaeology
 khảo cổ,archeology
 khảo cổ,archæology
+khảo cổ học,archaeology
+khảo cổ học,archeology
+khảo cổ học,archæology
 kilôgam,kilogram
+kinh đô,capital
 kiếm,sword
 kiến,ant
 krypton,krypton
@@ -546,8 +532,8 @@ kẽm,zinc
 lantan,lanthanum
 liti,lithium
 loài,species
-loại từ,part of speech
 loại từ,lexical category
+loại từ,part of speech
 loạn năng đọc,dyslexia
 luteti,lutetium
 lux,lux
@@ -560,6 +546,7 @@ lưỡi,tongue
 lậu mủ,gonorrhea
 lịch,calendar
 lịch Gregory,Gregorian calendar
+lựu,pomegranate
 magiê,magnesium
 mangan,manganese
 mayonnaise,mayonnaise
@@ -567,6 +554,7 @@ menđelevi,mendelevium
 molypđen,molybdenum
 máy bơm,pump
 máy chụp hình,camera
+máy chủ,server
 máy truyền hình,television
 mèo,cat
 mêgabyte,megabyte
@@ -575,6 +563,9 @@ mơ,apricot
 mạo từ,article
 mắt,eye
 mặt,plane
+mồng đốc,button
+mồng đốc,clit
+mồng đốc,clitoris
 natri,sodium
 neon,neon
 neođim,neodymium
@@ -583,7 +574,6 @@ nghèo,poverty
 ngoại khoa,surgery
 ngón tay,finger
 ngôn ngữ,language
-tiếng,language
 ngôn ngữ học,linguistics
 người dùng,user
 người đưa thư,postman
@@ -593,6 +583,8 @@ nho,grape
 nhà,home
 nhà,home
 nhà,house
+nhà thương,clinic
+nhà thương,hospital
 nhân loại học,anthropology
 nhân sư,sphinx
 nhóm tin,newsgroup
@@ -608,23 +600,28 @@ nobeli,nobelium
 "năm mới, tết",New Year's Day
 nĩa,fork
 nước,water
+nước Mỹ,America
+nước Mỹ,States
+nước Mỹ,U.S.
+nước Mỹ,U.S. of A.
+nước Mỹ,U.S.A.
+nước Mỹ,US
+nước Mỹ,United States
+nước Mỹ,United States of America
 nữ hoàng,queen
 ohm,ohm
-ôm,ohm
 oligarchy,oligarchy
 osimi,osmium
-oải hương,lavender
 oải hương,lavander
+oải hương,lavender
 palađi,palladium
 phó từ,adverb
-trạng từ,adverb
 phút,minute
 phốtpho,phosphorus
+phổi,lung
 phụ âm,consonant
 pianô,piano
 pianô,pianoforte
-đàn,piano
-đàn,pianoforte
 polyme,polymer
 prazeođim,praseodymium
 prometi,promethium
@@ -632,6 +629,8 @@ protactini,protactinium
 quang học,optics
 quyển astheno,asthenosphere
 quả táo,apple
+quận,county
+quận hạt,county
 radon,radon
 reni,rhenium
 rođi,rhodium
@@ -640,62 +639,62 @@ ruteni,ruthenium
 rừng,wood
 sa mạc Sahara,sahara
 samari,samarium
-sao băng,meteor
-sao băng,meteor
-sao băng,meteor
-sao băng,meteor
-sao băng,meteor
-sao băng,shooting star
+sao băng,falling star
+sao băng,falling star
+sao băng,falling star
+sao băng,falling star
 sao băng,falling star
 sao băng,meteor
 sao băng,meteor
 sao băng,meteor
 sao băng,meteor
 sao băng,meteor
-sao băng,shooting star
-sao băng,falling star
+sao băng,meteor
+sao băng,meteor
+sao băng,meteor
+sao băng,meteor
+sao băng,meteor
+sao băng,meteor
+sao băng,meteor
+sao băng,meteor
+sao băng,meteor
+sao băng,meteor
+sao băng,meteor
+sao băng,meteor
+sao băng,meteor
+sao băng,meteor
+sao băng,meteor
 sao băng,meteor
 sao băng,meteor
 sao băng,meteor
 sao băng,meteor
 sao băng,meteor
 sao băng,shooting star
-sao băng,falling star
-sao băng,meteor
-sao băng,meteor
-sao băng,meteor
-sao băng,meteor
-sao băng,meteor
 sao băng,shooting star
-sao băng,falling star
-sao băng,meteor
-sao băng,meteor
-sao băng,meteor
-sao băng,meteor
-sao băng,meteor
 sao băng,shooting star
-sao băng,falling star
+sao băng,shooting star
+sao băng,shooting star
 sao chổi,comet
 sao đôi,binary star
 scandi,scandium
 siemens,siemens
 silic,silicon
-sinh vật học,biology
-sinh vật học,biological science
-sinh học,biology
 sinh học,biological science
+sinh học,biology
+sinh vật học,biological science
+sinh vật học,biology
 siêu hình học,metaphysics
 stronti,strontium
 sáo ngang,flute
 sâm panh,champagne
 sắt,iron
-số không,zero
 số không,null
-zêrô,zero
-zêrô,null
-số nguyên tố,prime number
+số không,zero
 số nguyên tố,prime
+số nguyên tố,prime number
 sốt Dengue,dengue fever
+sốt cơn,malaria
+sốt rét,malaria
 sữa,milk
 sự có thai,pregnancy
 sự tặng,donation
@@ -719,26 +718,28 @@ tháng sáu,June
 tháng tám,August
 thìa,spoon
 thư viện,library
+thư điện tử,e-mail
 thư điện tử,electronic mail
 thư điện tử,email
-thư điện tử,e-mail
 thương mại,trade
 thạch lựu,pomegranate
-lựu,pomegranate
 thảm,carpet
 thần bí,mysterious
 thị trưởng,mayor
+thủ phủ,capital
+thủ đô,capital
 thủy lôi,torpedo
 thực vật học,botany
 thực vật học,phytology
 tim,heart
 tinh thể,crystal
 titan,titanium
+tiếng,language
 tiếng A-rập,Arabic
 tiếng A-rập,Standard Arabic
+tiếng Ba Tư,Farsi
 tiếng Ba Tư,Persian
 tiếng Ba Tư,Western Farsi
-tiếng Ba Tư,Farsi
 tiếng Bê-la-rút,Belarusan
 tiếng Bê-la-rút,Belarusan
 tiếng Bê-la-rút,Belarusian
@@ -748,54 +749,54 @@ tiếng Bồ Đào Nha,Portuguese
 tiếng Bồ Đào Nha,Portuguese
 tiếng Etperantô,Esperanto
 tiếng Etperantô,Esperanto
-Quốc tế ngữ,Esperanto
-Quốc tế ngữ,Esperanto
 tiếng Hin-đi,Hindi
 tiếng Hin-đi,Hindi
+tiếng Hàn,Korean
+tiếng Hàn,Korean
+tiếng Hàn Quốc,Korean
+tiếng Hàn Quốc,Korean
 tiếng Hê-brơ,Hebrew
-tiếng Khơ-Me,Khmer
 tiếng Khơ-Me,Central Khmer
+tiếng Khơ-Me,Khmer
 tiếng Nga,Russian
 tiếng Nga,Russian
 tiếng Phần-lant,Finnish
-tiếng Triều tiên,Korean
-tiếng Triều tiên,Korean
 tiếng Triều Tiên,Korean
 tiếng Triều Tiên,Korean
-tiếng Hàn Quốc,Korean
-tiếng Hàn Quốc,Korean
-tiếng Đại Hàn,Korean
-tiếng Đại Hàn,Korean
-tiếng Hàn,Korean
-tiếng Hàn,Korean
+tiếng Triều tiên,Korean
+tiếng Triều tiên,Korean
 tiếng Trung Quốc,Chinese
 tiếng Tây Ban Nha,Castilian
 tiếng Tây Ban Nha,Spanish
 tiếng Tây Ban Nha,Spanish
+tiếng Việt,Vietnamese
+tiếng Việt,Vietnamese
+tiếng Xen-tơ Ai-len,Irish
 tiếng Xen-tơ Ai-len,Irish
 tiếng Xen-tơ Ai-len,Irish
 tiếng Xen-tơ Ai-len,Irish Gaelic
-tiếng Xen-tơ Ai-len,Irish
+tiếng hồ,hour
+tiếng Đại Hàn,Korean
+tiếng Đại Hàn,Korean
 tiếng Đức,German
+tiếng đồng hồ,hour
 tiền tệ,currency
 tiểu thuyết,novel
 tiệm,shop
 tiệm bánh mì,baker
 tiệm bánh mì,bakery
-toán học,mathematics
 toán,mathematics
+toán học,mathematics
 triết học,philosophy
 triết lý học,philosophy
 trombone,trombone
-trường đại học,university
-trường đại học,university
+trường đại học,academy
 trường đại học,academy
 trường đại học,university
 trường đại học,university
-trường đại học,academy
-đại học,university
-đại học,university
-đại học,academy
+trường đại học,university
+trường đại học,university
+trạng từ,adverb
 tuyết,snow
 táo,apple
 táo,apple tree
@@ -804,10 +805,10 @@ tính từ,adjective
 tính từ,describing word
 tô pô,topology
 tô pô học,topology
-tù binh,prisoner of war
 tù binh,POW
-tù binh,PoW
 tù binh,PW
+tù binh,PoW
+tù binh,prisoner of war
 tơ,silk
 tạp chí,journal
 tạp chí,mag
@@ -816,13 +817,13 @@ tạp chí,periodical
 tốt hơn,better
 tổ chức,organisation (law)
 tổng thống,president
-chủ tịch,president
-hiệu trưởng,president
+tờ báo,newspaper
 tụy,pancreas
 từ viết tắt,abbreviation
 từ điển,dictionary
-tử hình,death penalty
+từ điển bách khoa,encyclopaedia
 tử hình,capital punishment
+tử hình,death penalty
 tử hình,death sentence
 tự do ngôn luận,freedom of speech
 tự do ngôn luận,freedom of speech
@@ -832,14 +833,15 @@ uống,drink
 uống,gulp
 uống,quaff
 uống,sip
+vietnamese,english
 viêm màng não,meningitis
 viêm não,encephalitis
 volfram,tungsten
 vàng,gold
 vô chính phû,anarchy
 văn hiến học,philology
-vật lý học,physics
 vật lí học,physics
+vật lý học,physics
 xe lăn,wheelchair
 xe đạp,bicycle
 xe đạp,bike
@@ -847,51 +849,50 @@ xe đạp,cycle
 xenon,xenon
 xâm lược,aggressive
 xêzi,caesium
-xích Markov,Markov chain
 xích Markov,Markoff chain
+xích Markov,Markov chain
 xứ,county
 xứ,county
-quận,county
-hạt,county
-quận hạt,county
 ziriconi,zirconium
+zêrô,null
+zêrô,zero
 Áo,Austria
 Áo,Republic of Austria
 áo dài,dress
 âm vật,button
 âm vật,clit
 âm vật,clitoris
-hột le,button
-hột le,clit
-hột le,clitoris
-mồng đốc,button
-mồng đốc,clit
-mồng đốc,clitoris
 ô-xy,oxygen
+ôm,ohm
 Đài Loan,Taiwan
-Đông Timor,East Timor
+Đông Kinh,Tokyo
 Đông Timor,Democratic Republic of Timor-Leste
+Đông Timor,East Timor
 Đại Khuyển,Canis Major
 điện thoại,phone
 điện thoại,telephone
+đàn,piano
+đàn,pianoforte
 đàn xếp,accordion
-đàn xếp,squeeze box
 đàn xếp,piano accordion
+đàn xếp,squeeze box
 đá lửa,flint
 đá lửa,flintstone
 đô,capital
-thủ đô,capital
-kinh đô,capital
-thủ phủ,capital
+đại học,academy
+đại học,university
+đại học,university
 đại số học,algebra
-địa lý học,geology
-địa lý,geology
-địa chất học,geology
+đảo,island
+đảo,isle
 địa chất,geology
-địa lý học,geography
-địa lý,geography
-địa lí học,geography
+địa chất học,geology
 địa lí,geography
+địa lí học,geography
+địa lý,geography
+địa lý,geology
+địa lý học,geography
+địa lý học,geology
 địa mạo học,geomorphology
 đồng,copper
 động vật học,zoology
@@ -900,4 +901,3 @@ thủ phủ,capital
 Ấn Độ,India
 Ấn Độ,Republic of India
 ống tiêm,syringe
-vietnamese,english

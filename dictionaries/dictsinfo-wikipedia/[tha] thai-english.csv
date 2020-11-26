@@ -97,9 +97,8 @@ AU,Au
 Asynchronous Transfer Mode,Asynchronous Transfer Mode
 B,B
 Bash,Bash
+Bot,Bot
 C,C
-คอมพิวเตอร์,Computing
-ประชากร,Demography
 Ceres,Ceres
 Charmed,Charmed
 D,D
@@ -146,6 +145,7 @@ thai,english
 กฎของโอห์ม,Ohm's law
 กฎข้อที่สองของอุณหพลศาสตร์,Second law of thermodynamics
 กฎทรงพลังงาน,Conservation of energy
+กฎหมาย,Law
 กฎหมาย,Law
 กฎหมายอาญา,Criminal law
 กนู,GNU
@@ -307,6 +307,7 @@ thai,english
 กอร์กอน,Gorgon
 กอลจิ คอมเพล็กซ์,Golgi apparatus
 กอล์ฟ,Golf
+กอล์ฟ,Golf
 กะรัต,Carat
 กะรัต,Carat
 กะอฺบะหฺ,Kaaba
@@ -319,29 +320,39 @@ thai,english
 กาฐมาณฑุ,Kathmandu
 กามิกาเซ่,Kamikaze
 กายวิภาคศาสตร์,Anatomy
+กายวิภาคศาสตร์,Anatomy
 การกลายพันธุ์,Mutation
 การก่อการร้าย,Terrorism
 การก้าวหน้าเรขาคณิต,Geometric progression
 การก้าวหน้าเลขคณิต,Arithmetic progression
+การขนส่ง,Transportation
 การขริบหนังหุ้มปลายอวัยวะเพศ,Circumcision
 การข่มขืน,Rape
 การคลอด,Childbirth
 การคุมกำเนิด,Birth control
 การคูณ,Multiplication
+การค้า,Commerce
 การค้าขาย,Trade
 การจัดสวน,Gardening
 การตกปลา,Fishing
 การตรวจอัลตร้าซาวด์,Ultrasound
 การตรึงกางเขน,Crucifixion
+การตลาด,Marketing
 การตั้งครรภ์,Pregnancy
 การถ่ายภาพ,Photography
+การถ่ายภาพ,Photography
 การถ่ายภาพรังสีส่วนตัดอาศัยคอมพิวเตอร์,Computed tomography
+การทหาร,Military
 การทำอาหาร,Cooking
 การทำเหมืองข้อมูล,Data mining
 การทำเหมืองแร่,Mining
 การทูต,Diplomacy
 การท่องเที่ยว,Tourism
+การท่องเที่ยว,Tourism
 การบวก,Addition
+การบัญชี,Accountancy
+การบันเทิง,Entertainment
+การบิน,Aviation
 การปฏิรูปศาสนาของนิกายโปรเตสแตนต์,Protestant Reformation
 การปฏิวัติ,Revolution
 การปฏิวัติทางวัฒนธรรม,Cultural Revolution
@@ -359,19 +370,24 @@ thai,english
 การภาวนาของศาสนาคริสต์,Lord's Prayer
 การยกกำลัง,Exponentiation
 การยับยั้ง,Veto
+การยึดชาติพันธุ์เป็นเกณฑ์,Racism
 การย่อยอาหาร,Digestion
 การระเหิด,Sublimation
 การร่วมเพศ,Sexual intercourse
 การลบ,Subtraction
 การลูกเสือ,Scouting
+การวัด,Measurement
 การวิเคราะห์และออกแบบระบบ,System
 การว่ายน้ำ,Swimming
+การว่ายน้ำ,Swimming
+การศึกษา,Education
 การศึกษา,Education
 การสมรส,Marriage
 การสัก,Tattoo
 การสังเคราะห์ด้วยแสง,Photosynthesis
 การสำเร็จความใคร่,Masturbation
 การสืบพันธุ์,Reproduction
+การสื่อสาร,Communication
 การสื่อสาร,Communication
 การสูญพันธุ์,Extinction
 การหมุนควง,Precession
@@ -384,17 +400,22 @@ thai,english
 การุณยฆาต,Euthanasia
 การเขียนคำทับศัพท์,Transliteration
 การเขียนโปรแกรม,Computer programming
+การเขียนโปรแกรม,Computer programming
 การเขียนโปรแกรมเชิงวัตถุ,Object-oriented programming
 การเคลื่อนที่,Motion
 การเงิน,Finance
+การเงิน,Finance
 การเชื่อมโลหะ,Welding
+การเต้น,Dance
 การเต้นรำ,Dance
+การเมือง,Politics
 การเมือง,Politics
 การเรียงสับเปลี่ยน,Permutation
 การเรียน,Learning
 การเลือกตั้ง,Election
 การเลื่อนไหลของทวีป,Continental drift
 การเล่นแร่แปรธาตุ,Alchemy
+การแก้ความกำกวม,Disambiguation
 การแขวนคอ,Hanging
 การแข่งขัน,Competition
 การแท้ง,Abortion
@@ -407,6 +428,7 @@ thai,english
 กาหลิบ,Caliph
 กาฬโรคระบาดในยุโรป,Black Death
 กาเลน,Galen
+กาแฟ,Coffee
 กาแฟ,Coffee
 กำมะถัน,Sulfur
 กำแพงเมืองจีน,Great Wall of China
@@ -422,6 +444,7 @@ thai,english
 กิโลไบต์,Kilobyte
 กิ้งกือ,Millipede
 กิ้งก่า,Lizard
+กีฏวิทยา,Entomology
 กีฏวิทยา,Entomology
 กีตาร์,Guitar
 กีตาร์เบส,Bass guitar
@@ -474,14 +497,40 @@ thai,english
 ข้าวโอ๊ต,Oat
 คณาธิปไตย,Oligarchy
 คณิตตรรกศาสตร์,Mathematical logic
+คณิตตรรกศาสตร์,Mathematical logic
+คณิตศาสตร์,Mathematics
+คณิตศาสตร์,Mathematics
 คณิตศาสตร์,Mathematics
 คณิตศาสตร์ประยุกต์,Applied mathematics
+ครอบครัว,Family
 คริกเกต,Cricket
 คริปทอน,Krypton
+คริสต์ทศวรรษ 1750,1750s
+คริสต์ทศวรรษ 1760,1760s
+คริสต์ทศวรรษ 1770,1770s
+คริสต์ทศวรรษ 1780,1780s
+คริสต์ทศวรรษ 1790,1790s
+คริสต์ทศวรรษ 1820,1820s
+คริสต์ทศวรรษ 1830,1830s
+คริสต์ทศวรรษ 1840,1840s
+คริสต์ทศวรรษ 1860,1860s
 คริสต์ทศวรรษ 1870,1870s
+คริสต์ทศวรรษ 1870,1870s
+คริสต์ทศวรรษ 1880,1880s
+คริสต์ทศวรรษ 1890,1890s
+คริสต์ทศวรรษ 1900,1900s
+คริสต์ทศวรรษ 1920,1920s
+คริสต์ทศวรรษ 1930,1930s
+คริสต์ทศวรรษ 1940,1940s
+คริสต์ทศวรรษ 1950,1950s
+คริสต์ทศวรรษ 1960,1960s
+คริสต์ทศวรรษ 1970,1970s
+คริสต์ทศวรรษ 1980,1980s
+คริสต์ทศวรรษ 1990,1990s
 คริสต์มาส,Christmas
 คริสต์ศักราช,Anno Domini
 คริสต์ศาสนปราชญ์,Doctor of the Church
+คริสต์ศาสนา,Christianity
 คริสต์ศาสนา,Christianity
 คริสเตียน ดิออร์,Christian Dior
 คริสโตเฟอร์ โคลัมบัส,Christopher Columbus
@@ -532,6 +581,9 @@ thai,english
 คอนราด อเดเนาร์,Konrad Adenauer
 คอนหยัก,Cognac
 คอมพิวเตอร์,Computer
+คอมพิวเตอร์,Computing
+คอมพิวเตอร์กราฟิกส์,Computer graphics
+คอมมิวนิสต์,Communism
 คอรันดัม,Corundum
 คอร์ซิกา,Corsica
 คอลลอยด์,Colloid
@@ -588,6 +640,7 @@ thai,english
 ค้อน,Hammer
 ค้อนเคียว,Hammer and sickle
 ค้างคาว,Bat
+ค้างคาว,Bats
 งบดุล,Balance sheet
 งานกระจกสี,Stained glass
 งานอดิเรก,Hobby
@@ -644,6 +697,7 @@ thai,english
 จาวา,Java
 จาโกโม ปุชชีนี,Giacomo Puccini
 จำนวน,Number
+จำนวน,Numbers
 จำนวนคู่และจำนวนคี่,Parity
 จำนวนจริง,Real number
 จำนวนตรรกยะ,Rational number
@@ -660,6 +714,8 @@ thai,english
 จิตรกรรมฝาผนัง,Fresco
 จิตรกรรมสีน้ำมัน,Oil painting
 จิตวิทยา,Psychology
+จิตวิทยา,Psychology
+จิตเวชศาสตร์,Psychiatry
 จิตเวชศาสตร์,Psychiatry
 จิมมี คาร์เตอร์,Jimmy Carter
 จิ้งจอกแดง,Red Fox
@@ -668,12 +724,14 @@ thai,english
 จุด,Point
 จุดจอมดิน,Nadir
 จุดจอมฟ้า,Zenith
-จุดมืดดวงอาทิตย์,Sunspot
 จุดมืดดวงอาทิตย์,Facula
+จุดมืดดวงอาทิตย์,Sunspot
 จุดสุดยอดทางเพศ,Orgasm
 จุดหลอมเหลว,Melting point
 จุดเดือด,Boiling point
 จุดไข่ปลา,Ellipsis
+จุลกายวิภาคศาสตร์,Histology
+จุลชีววิทยา,Microbiology
 จุลชีววิทยา,Microbiology
 จุลภาค,Comma
 จุลินทรีย์,Microorganism
@@ -704,7 +762,9 @@ thai,english
 ชาร์ลี แชปลิน,Charlie Chaplin
 ชาร์เลอมาญ,Charlemagne
 ชาลส์ ดาร์วิน,Charles Darwin
+ชาวสเปน,Spanish people
 ชาวอังกฤษ,English people
+ชาวเนเธอร์แลนด์,Dutch people
 ชาเปลซิสติน,Sistine Chapel
 ชาแมน,Shamanism
 ชิคาโก,Chicago
@@ -712,12 +772,15 @@ thai,english
 ชินโต,Shinto
 ชีวประวัติ,Biography
 ชีววิทยา,Biology
+ชีววิทยา,Biology
 ชีวิต,Life
+ชีวเคมี,Biochemistry
 ชีวเคมี,Biochemistry
 ชูลส์ แวร์น,Jules Verne
 ช็อกโกแลต,Chocolate
 ช่องคลอด,Vagina
 ช่องสังวาส,Vulva
+ช่องแคบ,Straits
 ช่องแคบมาเจลลัน,Strait of Magellan
 ช่องแคบยิบรอลตาร์,Strait of Gibraltar
 ช่องแคบอังกฤษ,English Channel
@@ -725,6 +788,7 @@ thai,english
 ช้างแมมมอธ,Mammoth
 ซอฟต์บอล,Softball
 ซอฟต์แวร์,Computer software
+ซอฟต์แวร์,Software
 ซอฟต์แวร์สอดแนม,Spyware
 ซอมบี้,Zombie
 ซอร์สโค้ด,Source code
@@ -789,12 +853,14 @@ thai,english
 ญิฮาด,Jihad
 ฐานข้อมูล,Database
 ดนตรี,Music
+ดนตรี,Music
 ดนตรีคลาสสิก,Classical music
 ดนตรีประชัน,Concerto
 ดมีตรี เมนเดเลเยฟ,Dmitri Mendeleev
 ดรรชนีหักเห,Refractive index
 ดรามา,Drama
 ดวงจันทร์,Moon
+ดวงอาทิตย์,Sun
 ดวงอาทิตย์,Sun
 ดอกเบี้ย,Interest
 ดอกไม้,Flower
@@ -816,6 +882,8 @@ thai,english
 ดาราจักร,Galaxy
 ดาราจักรชนิดก้นหอย,Spiral galaxy
 ดาราจักรแอนดรอเมดา,Andromeda Galaxy
+ดาราศาสตร์,Astronomy
+ดาราศาสตร์,Astronomy
 ดาราศาสตร์,Astronomy
 ดาร์มสแทดเทียม,Darmstadtium
 ดาวคาโนปัส,Canopus
@@ -871,9 +939,10 @@ thai,english
 ตลาดหลักทรัพย์นิวยอร์ก,New York Stock Exchange
 ตะกั่ว,Lead
 ตะวันออกกลาง,Middle East
+ตะวันออกกลาง,Middle East
 ตะวันออกไกล,Far East
-ตัน,Tonne
 ตัน,Ton
+ตัน,Tonne
 ตับอักเสบ,Hepatitis
 ตัมเปเร,Tampere
 ตัวต้านทาน,Resistor
@@ -881,6 +950,7 @@ thai,english
 ตัวหารร่วมมาก,Greatest common divisor
 ตัวเก็บประจุ,Capacitor
 ตัวแปลโปรแกรม,Compiler
+ตา,Eye
 ตา,Eye
 ตาบอด,Blindness
 ตารางงาน,Spreadsheet
@@ -896,8 +966,8 @@ thai,english
 ตุลาคม,October
 ตุ่นปากเป็ด,Platypus
 ตูร์เดอฟรองซ์,Tour de France
-ต่อมหมวกไต,Endocrine system
 ต่อมหมวกไต,Adrenal gland
+ต่อมหมวกไต,Endocrine system
 ต่อมใต้สมอง,Pituitary gland
 ต่อมไทรอยด์,Thyroid
 ต้นไม้,Tree
@@ -929,22 +999,26 @@ thai,english
 ทฤษฎีความน่าจะเป็น,Probability theory
 ทฤษฎีวัตถุนิยมวิภาษ,Dialectical materialism
 ทฤษฎีสตริง,String theory
-ทฤษฎีสัมพัทธภาพ,Theory of relativity
 ทฤษฎีสัมพัทธภาพ,Principle of relativity
+ทฤษฎีสัมพัทธภาพ,Theory of relativity
 ทฤษฎีสัมพัทธภาพทั่วไป,General relativity
 ทฤษฎีสัมพัทธภาพพิเศษ,Special relativity
 ทฤษฎีสารสนเทศ,Information theory
 ทฤษฎีเกม,Game theory
 ทฤษฎีเซต,Set theory
+ทฤษฎีเซต,Set theory
 ทฤษฎีแม่เหล็กไฟฟ้า,Electromagnetism
 ทวารหนัก,Anus
 ทวีป,Continent
+ทวีปยุโรป,Europe
 ทวีปยุโรป,Europe
 ทวีปยูเรเชีย,Eurasia
 ทวีปอเมริกาเหนือ,North America
 ทวีปอเมริกาใต้,South America
 ทวีปเอเชีย,Asia
+ทวีปเอเชีย,Asia
 ทวีปแอนตาร์กติกา,Antarctica
+ทวีปแอฟริกา,Africa
 ทวีปแอฟริกา,Africa
 ทศวรรษ,Decade
 ทหารปืนใหญ่,Artillery
@@ -966,6 +1040,7 @@ thai,english
 ทะเลจีนใต้,South China Sea
 ทะเลดำ,Black Sea
 ทะเลทราย,Desert
+ทะเลทราย,Deserts
 ทะเลทรายซาฮารา,Sahara
 ทะเลทรายนามิบ,Namib Desert
 ทะเลทรายอาตากามา,Atacama Desert
@@ -991,9 +1066,11 @@ thai,english
 ทังสเตน,Tungsten
 ทัชมาฮาล,Taj Mahal
 ทันตกรรม,Dentistry
+ทันตกรรม,Dentistry
 ทับทิม,Pomegranate
 ทับทิม,Ruby
 ทัลก์,Talc
+ทัศนศาสตร์,Optics
 ทางช้างเผือก,Milky Way
 ทาชเคนต์,Tashkent
 ทานตะวัน,Sunflower
@@ -1007,6 +1084,7 @@ thai,english
 ทิศเหนือ,North
 ทิศใต้,South
 ทิเชียน,Titian
+ทิเบต,Tibet
 ทีตา,Theta
 ทีเอ็นที,Trinitrotoluene
 ทีโอดอร์ รูสเวลต์,Theodore Roosevelt
@@ -1019,8 +1097,11 @@ thai,english
 ธนาคาร,Bank
 ธนาคารโลก,World Bank
 ธรณีฟิสิกส์,Geophysics
+ธรณีฟิสิกส์,Geophysics
+ธรณีวิทยา,Geology
 ธรณีวิทยา,Geology
 ธรณีสัณฐานวิทยา,Geomorphology
+ธรรมชาติ,Nature
 ธรรมชาติ,Nature
 ธัญพืช,Cereal
 ธันวาคม,December
@@ -1065,6 +1146,8 @@ thai,english
 นักบุญปีเตอร์,Saint Peter
 นักบุญเจอโรม,Jerome
 นักบุญแอนดรูว์,Saint Andrew
+นักฟุตบอล,Football  players
+นักมวย,Boxers
 นักวิทยาศาสตร์,Scientist
 นักเขียน,Author
 นักเขียน,Writer
@@ -1094,6 +1177,7 @@ thai,english
 นิพพาน,Nirvana
 นิมฟ์,Nymph
 นิยายวิทยาศาสตร์,Science fiction
+นิยายวิทยาศาสตร์,Science fiction
 นิรุกติศาสตร์,Philology
 นิว,Nu
 นิวคลีโอไทด์,Nucleotide
@@ -1105,6 +1189,7 @@ thai,english
 นิวเดลี,New Delhi
 นิวแคลิโดเนีย,New Caledonia
 นิเวศวิทยา,Ecology
+นิเวศวิทยา,Ecology
 นิโคติน,Nicotine
 นิโคลา เทสลา,Nikola Tesla
 นิโคเลาส์ โคเปอร์นิคัส,Nicolaus Copernicus
@@ -1114,6 +1199,7 @@ thai,english
 นีลส์ เฮนริก อาเบล,Niels Henrik Abel
 นีออน,Neon
 นีโอดิเมียม,Neodymium
+น้ำ,Water
 น้ำ,Water
 น้ำดี,Bile
 น้ำตก,Waterfall
@@ -1135,6 +1221,7 @@ thai,english
 น้ำเลือด,Blood plasma
 น้ำแร่,Mineral water
 น้ำโคล่า,Cola
+บทความหลัก,Main
 บรรณานุกรม,Bibliography
 บรรณารักษศาสตร์และสารนิเทศศาสตร์,Library science
 บรรพชีวินวิทยา,Paleontology
@@ -1157,6 +1244,7 @@ thai,english
 บักมินสเตอร์ ฟุลเลอร์,Buckminster Fuller
 บัญญัติ 10 ประการ,Ten Commandments
 บัตรเอทีเอ็ม,Automated teller machine
+บันเทิงคดี,Fiction
 บัฟฟาโล,Buffalo
 บัว,Nymphaeaceae
 บัวโนสไอเรส,Buenos Aires
@@ -1166,6 +1254,7 @@ thai,english
 บามาโก,Bamako
 บารอมิเตอร์,Barometer
 บาร์เซโลนา,Barcelona
+บาสเกตบอล,Basketball
 บาสเกตบอล,Basketball
 บาเลนเซีย,Valencia
 บิกแบง,Big Bang
@@ -1178,6 +1267,7 @@ thai,english
 บิ๊กเบน,Clock Tower
 บีตา,Beta
 บีเกิ้ล,Beagle
+บุคคล,People
 บุหรี่,Cigarette
 บูดาเปสต์,Budapest
 บ็อบ มาร์เลย์,Bob Marley
@@ -1196,6 +1286,7 @@ thai,english
 ประกาศก,Prophet
 ประจำเดือน,Menstruation
 ประจุไฟฟ้า,Electric charge
+ประชากร,Demography
 ประชากร,Population
 ประชาธิปไตย,Democracy
 ประติมากรรม,Sculpture
@@ -1203,9 +1294,14 @@ thai,english
 ประธานาธิบดีแห่งสหรัฐอเมริกา,President of the United States
 ประมุขแห่งรัฐ,Head of state
 ประวัติศาสตร์,History
+ประวัติศาสตร์,History
+ประวัติศาสตร์,History
+ประสาทวิทยา,Neurology
 ประสาทวิทยา,Neurology
 ประเทศ,Country
 ประเทศกรีซ,Greece
+ประเทศกรีซ,Greece
+ประเทศกัมพูชา,Cambodia
 ประเทศกัมพูชา,Cambodia
 ประเทศกาตาร์,Qatar
 ประเทศกานา,Ghana
@@ -1220,51 +1316,73 @@ thai,english
 ประเทศคีร์กีซสถาน,Kyrgyzstan
 ประเทศคูเวต,Kuwait
 ประเทศจอร์เจีย,Georgia
+ประเทศจอร์เจีย,Georgia
 ประเทศจอร์แดน,Jordan
 ประเทศจาเมกา,Jamaica
+ประเทศจีน,China
 ประเทศจีน,People's Republic of China
 ประเทศชาด,Chad
 ประเทศชิลี,Chile
+ประเทศชิลี,Chile
 ประเทศซานมารีโน,San Marino
 ประเทศซามัว,Samoa
+ประเทศซาอุดีอาระเบีย,Saudi Arabia
 ประเทศซาอุดีอาระเบีย,Saudi Arabia
 ประเทศซิมบับเว,Zimbabwe
 ประเทศซีเรีย,Syria
 ประเทศซูดาน,Sudan
 ประเทศซูรินาเม,Suriname
 ประเทศญี่ปุ่น,Japan
+ประเทศญี่ปุ่น,Japan
 ประเทศตรินิแดดและโตเบโก,Trinidad and Tobago
 ประเทศตองกา,Tonga
 ประเทศติมอร์ตะวันออก,East Timor
+ประเทศติมอร์ตะวันออก,East Timor
+ประเทศตุรกี,Turkey
 ประเทศตุรกี,Turkey
 ประเทศตูนิเซีย,Tunisia
 ประเทศตูวาลู,Tuvalu
 ประเทศทาจิกิสถาน,Tajikistan
 ประเทศนอร์เวย์,Norway
+ประเทศนอร์เวย์,Norway
+ประเทศนามิเบีย,Namibia
 ประเทศนามิเบีย,Namibia
 ประเทศนาอูรู,Nauru
 ประเทศนิการากัว,Nicaragua
 ประเทศนิวซีแลนด์,New Zealand
+ประเทศนิวซีแลนด์,New Zealand
 ประเทศบราซิล,Brazil
+ประเทศบราซิล,Brazil
+ประเทศบรูไนดารุสซาลาม,Brunei
 ประเทศบรูไนดารุสซาลาม,Brunei
 ประเทศบอตสวานา,Botswana
 ประเทศบอสเนียและเฮอร์เซโกวีนา,Bosnia and Herzegovina
 ประเทศบังกลาเทศ,Bangladesh
+ประเทศบังกลาเทศ,Bangladesh
+ประเทศบัลแกเรีย,Bulgaria
 ประเทศบัลแกเรีย,Bulgaria
 ประเทศบาร์เบโดส,Barbados
 ประเทศบาห์เรน,Bahrain
 ประเทศบูร์กินาฟาโซ,Burkina Faso
 ประเทศปากีสถาน,Pakistan
+ประเทศปากีสถาน,Pakistan
 ประเทศปานามา,Panama
 ประเทศปาปัวนิวกินี,Papua New Guinea
 ประเทศปารากวัย,Paraguay
+ประเทศปารากวัย,Paraguay
 ประเทศปาเลา,Palau
 ประเทศฝรั่งเศส,France
+ประเทศฝรั่งเศส,France
 ประเทศพม่า,Burma
+ประเทศพม่า,Burma
+ประเทศพม่า,Myanmar
 ประเทศฟลานเดอส์,Flanders
 ประเทศฟิจิ,Fiji
 ประเทศฟินแลนด์,Finland
+ประเทศฟินแลนด์,Finland
 ประเทศฟิลิปปินส์,Philippines
+ประเทศฟิลิปปินส์,Philippines
+ประเทศภูฏาน,Bhutan
 ประเทศภูฏาน,Bhutan
 ประเทศมองโกเลีย,Mongolia
 ประเทศมอนเตเนโกร,Montenegro
@@ -1276,46 +1394,71 @@ thai,english
 ประเทศมาดากัสการ์,Madagascar
 ประเทศมาลี,Mali
 ประเทศมาเลเซีย,Malaysia
+ประเทศมาเลเซีย,Malaysia
 ประเทศยูกันดา,Uganda
 ประเทศยูเครน,Ukraine
+ประเทศยูเครน,Ukraine
 ประเทศรวันดา,Rwanda
+ประเทศรัสเซีย,Russia
 ประเทศรัสเซีย,Russia
 ประเทศลักเซมเบิร์ก,Luxembourg
 ประเทศลัตเวีย,Latvia
 ประเทศลาว,Laos
+ประเทศลาว,Laos
 ประเทศลิกเตนสไตน์,Liechtenstein
+ประเทศลิทัวเนีย,Lithuania
 ประเทศลิทัวเนีย,Lithuania
 ประเทศลิเบีย,Libya
 ประเทศวานูอาตู,Vanuatu
 ประเทศศรีลังกา,Sri Lanka
+ประเทศศรีลังกา,Sri Lanka
 ประเทศสวาซิแลนด์,Swaziland
 ประเทศสวิตเซอร์แลนด์,Switzerland
+ประเทศสวิตเซอร์แลนด์,Switzerland
+ประเทศสวีเดน,Sweden
 ประเทศสวีเดน,Sweden
 ประเทศสิงคโปร์,Singapore
+ประเทศสิงคโปร์,Singapore
+ประเทศสเปน,Spain
 ประเทศสเปน,Spain
 ประเทศสโลวาเกีย,Slovakia
 ประเทศสโลวีเนีย,Slovenia
 ประเทศออสเตรีย,Austria
+ประเทศออสเตรีย,Austria
+ประเทศออสเตรเลีย,Australia
 ประเทศออสเตรเลีย,Australia
 ประเทศอันดอร์รา,Andorra
 ประเทศอัฟกานิสถาน,Afghanistan
+ประเทศอัฟกานิสถาน,Afghanistan
+ประเทศอาร์เจนตินา,Argentina
 ประเทศอาร์เจนตินา,Argentina
 ประเทศอาร์เมเนีย,Armenia
+ประเทศอาร์เมเนีย,Armenia
+ประเทศอาเซอร์ไบจาน,Azerbaijan
 ประเทศอาเซอร์ไบจาน,Azerbaijan
 ประเทศอิตาลี,Italy
+ประเทศอิตาลี,Italy
 ประเทศอินเดีย,India
+ประเทศอินเดีย,India
+ประเทศอินโดนีเซีย,Indonesia
 ประเทศอินโดนีเซีย,Indonesia
 ประเทศอิรัก,Iraq
 ประเทศอิสราเอล,Israel
 ประเทศอิหร่าน,Iran
+ประเทศอิหร่าน,Iran
 ประเทศอิเควทอเรียลกินี,Equatorial Guinea
+ประเทศอียิปต์,Egypt
 ประเทศอียิปต์,Egypt
 ประเทศอุซเบกิสถาน,Uzbekistan
 ประเทศอุรุกวัย,Uruguay
+ประเทศอุรุกวัย,Uruguay
 ประเทศฮอนดูรัส,Honduras
+ประเทศฮังการี,Hungary
 ประเทศฮังการี,Hungary
 ประเทศเกาหลี,Korea
 ประเทศเกาหลีเหนือ,North Korea
+ประเทศเกาหลีเหนือ,North Korea
+ประเทศเกาหลีใต้,South Korea
 ประเทศเกาหลีใต้,South Korea
 ประเทศเคนยา,Kenya
 ประเทศเคปเวิร์ด,Cape Verde
@@ -1323,63 +1466,85 @@ thai,english
 ประเทศเซนต์ลูเซีย,Saint Lucia
 ประเทศเซนต์วินเซนต์และเกรนาดีนส์,Saint Vincent and the Grenadines
 ประเทศเซอร์เบีย,Serbia
+ประเทศเซอร์เบีย,Serbia
 ประเทศเซอร์เบียและมอนเตเนโกร,Serbia and Montenegro
 ประเทศเซียร์ราลีโอน,Sierra Leone
 ประเทศเซเชลส์,Seychelles
 ประเทศเซเนกัล,Senegal
 ประเทศเดนมาร์ก,Denmark
+ประเทศเดนมาร์ก,Denmark
 ประเทศเติร์กเมนิสถาน,Turkmenistan
 ประเทศเนปาล,Nepal
+ประเทศเนปาล,Nepal
+ประเทศเนเธอร์แลนด์,Netherlands
 ประเทศเนเธอร์แลนด์,Netherlands
 ประเทศเบนิน,Benin
 ประเทศเบลารุส,Belarus
 ประเทศเบลีซ,Belize
 ประเทศเบลเยียม,Belgium
+ประเทศเบลเยียม,Belgium
+ประเทศเปรู,Peru
 ประเทศเปรู,Peru
 ประเทศเม็กซิโก,Mexico
+ประเทศเม็กซิโก,Mexico
+ประเทศเยอรมนี,Germany
 ประเทศเยอรมนี,Germany
 ประเทศเยอรมนีตะวันตก,West Germany
 ประเทศเยอรมนีตะวันออก,East Germany
 ประเทศเยเมน,Yemen
 ประเทศเลบานอน,Lebanon
+ประเทศเลบานอน,Lebanon
 ประเทศเลโซโท,Lesotho
 ประเทศเวียดนาม,Vietnam
+ประเทศเวียดนาม,Vietnam
 ประเทศเวียดนามใต้,South Vietnam
+ประเทศเวเนซุเอลา,Venezuela
 ประเทศเวเนซุเอลา,Venezuela
 ประเทศเอกวาดอร์,Ecuador
 ประเทศเอธิโอเปีย,Ethiopia
 ประเทศเอลซัลวาดอร์,El Salvador
 ประเทศเฮติ,Haiti
+ประเทศเฮติ,Haiti
 ประเทศแกมเบีย,The Gambia
+ประเทศแคนาดา,Canada
 ประเทศแคนาดา,Canada
 ประเทศแคเมอรูน,Cameroon
 ประเทศแซมเบีย,Zambia
 ประเทศแทนซาเนีย,Tanzania
 ประเทศแองโกลา,Angola
 ประเทศแอนติกาและบาร์บูดา,Antigua and Barbuda
+ประเทศแอฟริกาใต้,South Africa
 ประเทศแอลจีเรีย,Algeria
 ประเทศแอลเบเนีย,Albania
 ประเทศโครเอเชีย,Croatia
+ประเทศโคลอมเบีย,Colombia
 ประเทศโคลอมเบีย,Colombia
 ประเทศโซมาเลีย,Somalia
 ประเทศโดมินิกา,Dominica
 ประเทศโตโก,Togo
 ประเทศโบลิเวีย,Bolivia
 ประเทศโปรตุเกส,Portugal
+ประเทศโปรตุเกส,Portugal
+ประเทศโปแลนด์,Poland
 ประเทศโปแลนด์,Poland
 ประเทศโมซัมบิก,Mozambique
 ประเทศโมนาโก,Monaco
 ประเทศโมร็อกโก,Morocco
 ประเทศโรมาเนีย,Romania
+ประเทศโรมาเนีย,Romania
 ประเทศโอมาน,Oman
 ประเทศไซปรัส,Cyprus
+ประเทศไซปรัส,Cyprus
+ประเทศไทย,Thailand
 ประเทศไทย,Thailand
 ประเทศไนจีเรีย,Nigeria
 ประเทศไนเจอร์,Niger
 ประเทศไมโครนีเซีย,Federated States of Micronesia
 ประเทศไลบีเรีย,Liberia
 ประเทศไอซ์แลนด์,Iceland
+ประเทศไอร์แลนด์,Republic of Ireland
 ประเพณี,Tradition
+ปรัชญา,Philosophy
 ปรัชญา,Philosophy
 ปรัศนี,Question mark
 ปรัสเซีย,Prussia
@@ -1388,6 +1553,7 @@ thai,english
 ปรากฏการณ์โลกร้อน,Global warming
 ปริซึม,Prism
 ปริพันธ์,Integral
+ปลา,Fish
 ปลา,Fish
 ปลากระดูกอ่อน,Chondrichthyes
 ปลาฉลาม,Shark
@@ -1404,6 +1570,7 @@ thai,english
 ปักกิ่ง,Beijing
 ปัญญาจารย์,Ecclesiastes
 ปัญญาประดิษฐ์,Artificial intelligence
+ปัญญาประดิษฐ์,Artificial intelligence
 ปัสกา,Passover
 ปั๊มน้ำ,Pump
 ปานามาซิตี,Panama City
@@ -1412,6 +1579,7 @@ thai,english
 ปาล์ม,Arecaceae
 ปาสคาล,Pascal
 ปาสคาล,Pascal
+ปาเลสไตน์,Palestine
 ปาเลสไตน์,Palestine
 ปาโบล ปีกัสโซ,Pablo Picasso
 ปิซา,Pisa
@@ -1428,6 +1596,7 @@ thai,english
 ปืนสั้น,Handgun
 ปืนไฟ,Arquebus
 ปุราณวิทยา,Mythology
+ปุราณวิทยา,Mythology
 ปู,Crab
 ป็อป,Pop music
 ป่าชายเลน,Mangrove
@@ -1438,6 +1607,7 @@ thai,english
 ผลิกศาสตร์,Crystallography
 ผลิตภัณฑ์มวลรวมภายในประเทศ,Gross domestic product
 ผลึก,Crystal
+ผลไม้,Fruit
 ผลไม้,Fruit
 ผัก,Vegetable
 ผิวหนัง,Skin
@@ -1469,6 +1639,7 @@ thai,english
 พ.ศ. 554,11
 พ.ศ. 555,12
 พ.ศ. 556,13
+พ.ศ. 557,14
 พ.ศ. 557,14
 พ.ศ. 558,15
 พ.ศ. 559,16
@@ -1628,6 +1799,7 @@ thai,english
 พริทอเรีย,Pretoria
 พรีออน,Prion
 พฤกษศาสตร์,Botany
+พฤกษศาสตร์,Botany
 พฤศจิกายน,November
 พฤษภาคม,May
 พลวง,Antimony
@@ -1674,6 +1846,7 @@ thai,english
 พิพิธภัณฑ์,Museum
 พิพิธภัณฑ์ลูฟร์,Louvre
 พิษวิทยา,Toxicology
+พีชคณิต,Algebra
 พีชคณิต,Algebra
 พีชคณิตเชิงเส้น,Linear algebra
 พีชคณิตแบบบูล,Boolean algebra
@@ -1724,6 +1897,9 @@ thai,english
 ฟาโรห์อเคนาเตน,Akhenaten
 ฟินเซนต์ ฟาน ก็อกฮ์,Vincent van Gogh
 ฟิสิกส์,Physics
+ฟิสิกส์,Physics
+ฟิสิกส์,Physics
+ฟิสิกส์ดาราศาสตร์,Astrophysics
 ฟิสิกส์ดาราศาสตร์,Astrophysics
 ฟิสิกส์นิวเคลียร์,Nuclear physics
 ฟิสิกส์พลังงานสูง,Particle physics
@@ -1739,8 +1915,11 @@ thai,english
 ฟุกุโอะกะ,Fukuoka
 ฟุต,Foot
 ฟุตบอล,Football
+ฟุตบอล,Football
 ภัตตาคาร,Restaurant
 ภาคตัดกรวย,Conic section
+ภาพยนตร์,Film
+ภาพยนตร์,Film
 ภาพยนตร์,Film
 ภาพลวงตา,Optical illusion
 ภาพเหมือน,Portrait
@@ -1763,6 +1942,7 @@ thai,english
 ภาษารูบี้,Ruby
 ภาษาละติน,Latin
 ภาษาลิสป์,Lisp
+ภาษาศาสตร์,Linguistics
 ภาษาศาสตร์,Linguistics
 ภาษาศาสตร์เชิงคำนวณ,Computational linguistics
 ภาษาสันสกฤต,Sanskrit
@@ -1787,6 +1967,7 @@ thai,english
 ภาษาโปรแกรม,Programming language
 ภาษาไพทอน,Python
 ภาษีอากร,Tax
+ภูมิศาสตร์,Geography
 ภูมิศาสตร์,Geography
 ภูเขา,Mountain
 ภูเขาน้ำแข็ง,Iceberg
@@ -1813,27 +1994,35 @@ thai,english
 มลพิษ,Pollution
 มลรัฐคอนเนตทิคัต,Connecticut
 มลรัฐจอร์เจีย,Georgia
+มลรัฐจอร์เจีย,Georgia
 มลรัฐนอร์ทดาโคตา,North Dakota
 มลรัฐนอร์ทแคโรไลนา,North Carolina
+มลรัฐนิวยอร์ก,New York
 มลรัฐนิวยอร์ก,New York
 มลรัฐนิวเจอร์ซีย์,New Jersey
 มลรัฐนิวเม็กซิโก,New Mexico
 มลรัฐนิวแฮมป์เชียร์,New Hampshire
+มลรัฐฟลอริดา,Florida
 มลรัฐฟลอริดา,Florida
 มลรัฐมอนแทนา,Montana
 มลรัฐมิชิแกน,Michigan
 มลรัฐมินนิโซตา,Minnesota
 มลรัฐมิสซูรี,Missouri
 มลรัฐยูทาห์,Utah
+มลรัฐยูทาห์,Utah
 มลรัฐลุยเซียนา,Louisiana
 มลรัฐวอชิงตัน,Washington
+มลรัฐวอชิงตัน,Washington
 มลรัฐวิสคอนซิน,Wisconsin
+มลรัฐออริกอน,Oregon
 มลรัฐออริกอน,Oregon
 มลรัฐอะแลสกา,Alaska
 มลรัฐอาร์คันซอ,Arkansas
 มลรัฐอินดีแอนา,Indiana
 มลรัฐอิลลินอยส์,Illinois
 มลรัฐฮาวาย,Hawaii
+มลรัฐฮาวาย,Hawaii
+มลรัฐเคนทักกี,Kentucky
 มลรัฐเคนทักกี,Kentucky
 มลรัฐเซาท์ดาโคตา,South Dakota
 มลรัฐเซาท์แคโรไลนา,South Carolina
@@ -1846,8 +2035,12 @@ thai,english
 มลรัฐเมน,Maine
 มลรัฐเวสต์เวอร์จิเนีย,West Virginia
 มลรัฐเวอร์จิเนีย,Virginia
+มลรัฐเวอร์จิเนีย,Virginia
+มลรัฐเวอร์มอนต์,Vermont
 มลรัฐเวอร์มอนต์,Vermont
 มลรัฐแคนซัส,Kansas
+มลรัฐแคนซัส,Kansas
+มลรัฐแคลิฟอร์เนีย,California
 มลรัฐแคลิฟอร์เนีย,California
 มลรัฐแมริแลนด์,Maryland
 มลรัฐแมสซาชูเซตส์,Massachusetts
@@ -1856,9 +2049,11 @@ thai,english
 มลรัฐโคโลราโด,Colorado
 มลรัฐโรดไอแลนด์,Rhode Island
 มลรัฐโอคลาโฮมา,Oklahoma
+มลรัฐโอคลาโฮมา,Oklahoma
 มลรัฐโอไฮโอ,Ohio
 มลรัฐไวโอมิง,Wyoming
 มลรัฐไอดาโฮ,Idaho
+มลรัฐไอโอวา,Iowa
 มลรัฐไอโอวา,Iowa
 มวยสากล,Boxing
 มวล,Mass
@@ -1884,7 +2079,10 @@ thai,english
 มหาสมุทร,Ocean
 มหาสมุทรอาร์กติก,Arctic Ocean
 มหาสมุทรอินเดีย,Indian Ocean
+มหาสมุทรอินเดีย,Indian Ocean
 มหาสมุทรแปซิฟิก,Pacific Ocean
+มหาสมุทรแปซิฟิก,Pacific Ocean
+มหาสมุทรแอตแลนติก,Atlantic Ocean
 มหาสมุทรแอตแลนติก,Atlantic Ocean
 มอดุลัสของยัง,Young's modulus
 มอนต์เซอร์รัต,Montserrat
@@ -1921,6 +2119,7 @@ thai,english
 มาดอนน่า,Madonna
 มาตราวัดความยาว,Length
 มานากัว,Managua
+มานุษยวิทยา,Anthropology
 มานุษยวิทยา,Anthropology
 มาปูโต,Maputo
 มาริลิน มอนโร,Marilyn Monroe
@@ -1967,6 +2166,7 @@ thai,english
 มุม,Angle
 มุมไบ,Mumbai
 มุฮัมมัด,Muhammad
+มูลฐาน,Fundamental
 ม้วนหนังสือแห่งทะเลสาบเดดซี,Dead Sea scrolls
 ม้า,Horse
 ม้า,Knight
@@ -2048,14 +2248,19 @@ thai,english
 ระบบการเขียน,Writing system
 ระบบจัดการฐานข้อมูล,Database management system
 ระบบทศนิยมดิวอี้,Dewey Decimal Classification
+ระบบทางเดินอาหาร,Digestive system
 ระบบนิเวศ,Ecosystem
 ระบบปฏิบัติการ,Operating system
+ระบบประสาท,Nervous system
 ระบบประสาท,Nervous system
 ระบบประสาทกลาง,Central nervous system
 ระบบพิกัดคาร์ทีเซียน,Cartesian coordinate system
 ระบบย่อยอาหาร,Gastrointestinal tract
 ระบบสุริยะ,Solar System
+ระบบสุริยะ,Solar System
 ระบบเส้นใยของเซลล์,Cytoskeleton
+ระบบโครงกระดูก,Skeletal system
+ระบบไหลเวียนโลหิต,Cardiovascular system
 ระบบไหลเวียนโลหิต,Circulatory system
 ระบอบเผด็จการ,Dictatorship
 ระบาดวิทยา,Epidemiology
@@ -2104,6 +2309,7 @@ thai,english
 รา,Ra
 รางวัลออสการ์,Academy Award
 รางวัลโนเบล,Nobel Prize
+รางวัลโนเบล,Nobel Prize
 ราชวงศ์,Dynasty
 ราชวงศ์ฉิน,Qin Dynasty
 ราชวงศ์ชิง,Qing Dynasty
@@ -2133,6 +2339,7 @@ thai,english
 รูดอล์ฟ ดีเซล,Rudolf Diesel
 รูทีเนียม,Ruthenium
 รูบิเดียม,Rubidium
+รูปทรงเรขาคณิต,Geometry
 รูปวงกลม,Circle
 รูปสัญลักษณ์,Icon
 รูปสามเหลี่ยม,Triangle
@@ -2175,6 +2382,7 @@ thai,english
 ลัทธิฟาสซิสต์,Fascism
 ลัทธิมนุษยนิยม,Humanism
 ลัทธิมอนโร,Monroe Doctrine
+ลัทธิมาร์กซ,Marxism
 ลัทธิมาร์กซ,Marxism
 ลัทธิวูดู,Voodoo
 ลัทธิสโตอิก,Stoicism
@@ -2231,10 +2439,11 @@ thai,english
 วงศ์กะเพรา,Lamiaceae
 วงศ์ปลาตะเพียน,Cyprinid
 วงศ์เสือและแมว,Felidae
-วงศ์แมวน้ำ,Earless seal
 วงศ์แมวน้ำ,Eared seal
+วงศ์แมวน้ำ,Earless seal
 วงออร์เคสตรา,Orchestra
 วงโคจร,Orbit
+วรรณกรรม,Literature
 วรรณกรรม,Literature
 วลาดิมีร์ ปูติน,Vladimir Putin
 วลาดิมีร์ เลนิน,Vladimir Lenin
@@ -2246,17 +2455,20 @@ thai,english
 วอลนัต,Walnut
 วอลรัส,Walrus
 วอลเลย์บอล,Volleyball
+วอลเลย์บอล,Volleyball
 วอลแตร์,Voltaire
 วะฮาบีย์,Wahhabism
 วัคซีน,Vaccine
 วัฏจักรกรดซิตริก,Citric acid cycle
 วัฏจักรคาร์บอน,Carbon cycle
 วัฒนธรรม,Culture
+วัฒนธรรม,Culture
 วัฒนธรรมย่อย,Subculture
 วัณโรค,Tuberculosis
 วัตต์,Watt
 วัตถุดำ,Black body
 วัน,Day
+วัน,Days
 วันขอบคุณพระเจ้า,Thanksgiving
 วันขอบคุณพระเจ้า,Thanksgiving
 วันขอบคุณพระเจ้า,Thanksgiving
@@ -2280,6 +2492,7 @@ thai,english
 วากยสัมพันธ์,Syntax
 วาทกรรม,Discourse
 วาทยกร,Conducting
+วารสารศาสตร์,Journalism
 วาลคิรี,Valkyrie
 วาฬ,Whale
 วาฬหลังค่อม,Humpback Whale
@@ -2298,12 +2511,16 @@ thai,english
 วิตามินอี,Tocopherol
 วิตามินเอ,Vitamin A
 วิทยาการคอมพิวเตอร์,Computer science
+วิทยาการคอมพิวเตอร์,Computer science
 วิทยาการเข้ารหัสลับ,Cryptography
 วิทยาภูมิคุ้มกัน,Immunology
+วิทยามะเร็ง,Oncology
+วิทยาศาสตร์,Science
 วิทยาศาสตร์,Science
 วิทยาศาสตร์ธรรมชาติ,Natural science
 วิทยาศาสตร์พุทธิปัญญา,Cognitive science
 วิทยาศาสตร์โลก,Earth science
+วิทยาแผ่นดินไหว,Seismology
 วิทยาแผ่นดินไหว,Seismology
 วินด์ฮุก,Windhoek
 วินสตัน เชอร์ชิลล์,Winston Churchill
@@ -2316,10 +2533,12 @@ thai,english
 วิลเลียม โรวัน แฮมิลตัน,William Rowan Hamilton
 วิวัฒนาการ,Evolution
 วิศวกร,Engineer
+วิศวกรรม,Engineering
 วิศวกรรมศาสตร์,Engineering
 วิศวกรรมเคมี,Chemical engineering
 วิศวกรรมเครื่องกล,Mechanical engineering
 วิศวกรรมโลหการ,Metallurgy
+วิศวกรรมไฟฟ้า,Electrical engineering
 วิศวกรรมไฟฟ้า,Electrical engineering
 วิษุวัต,Equinox
 วิสกี้,Whisky
@@ -2333,18 +2552,24 @@ thai,english
 ศอลาฮุดดีน,Saladin
 ศักดินา,Feudalism
 ศัพทมูลวิทยา,Etymology
+ศัลยกรรม,Surgery
 ศัลยศาสตร์,Surgery
 ศาล,Court
 ศาลยุติธรรมระหว่างประเทศ,International Court of Justice
 ศาสตราจารย์,Professor
 ศาสนา,Religion
+ศาสนา,Religion
 ศาสนาพราหมณ์-ฮินดู,Hinduism
+ศาสนายูดาย,Judaism
 ศาสนายูดาย,Judaism
 ศาสนาสิกข์,Sikhism
 ศาสนาอิสลาม,Islam
+ศาสนาอิสลาม,Islam
+ศาสนาฮินดู,Hinduism
 ศาสนาเชน,Jainism
 ศาสนาโซโรอัสเตอร์,Zoroastrianism
 ศิลปะ,Art
+ศิลปะ,Arts
 ศิลปะบาโรก,Baroque
 ศิลปะอิมเพรสชันนิสม์,Impressionism
 ศิลปะโรโคโค,Rococo
@@ -2354,10 +2579,13 @@ thai,english
 สกรู,Screw
 สกอตต์ ฟิตซ์เจอรัลด์,F. Scott Fitzgerald
 สกอตแลนด์,Scotland
+สกอตแลนด์,Scotland
 สกินเฮด,Skinhead
 สกุล,Genus
 สกุลส้ม,Citrus
 สกุลเงิน,Currency
+สกุลเงิน,Currency
+สงคราม,War
 สงคราม,War
 สงครามกลางเมือง,Civil war
 สงครามกลางเมืองสเปน,Spanish Civil War
@@ -2372,9 +2600,12 @@ thai,english
 สงครามเกาหลี,Korean War
 สงครามเมืองทรอย,Trojan War
 สงครามเย็น,Cold War
+สงครามเย็น,Cold War
 สงครามเวียดนาม,Vietnam War
 สงครามโลก,World war
 สงครามโลกครั้งที่สอง,World War II
+สงครามโลกครั้งที่สอง,World War II
+สงครามโลกครั้งที่หนึ่ง,World War I
 สงครามโลกครั้งที่หนึ่ง,World War I
 สตราโทสเฟียร์,Stratosphere
 สตอกโฮล์ม,Stockholm
@@ -2382,20 +2613,15 @@ thai,english
 สตีเวน สปีลเบิร์ก,Steven Spielberg
 สถานะ,Phase
 สถานะออกซิเดชัน,Oxidation state
-คณิตศาสตร์,Mathematics
-ดาราศาสตร์,Astronomy
-ประวัติศาสตร์,History
-ฟิสิกส์,Physics
-ภาพยนตร์,Film
-เคมี,Chemistry
-โลกวรรณศิลป์,Literature
 สถานีรถไฟ,Train station
 สถาบัน,Institution
 สถาบันเทคโนโลยีแมสซาชูเซตส์,Massachusetts Institute of Technology
 สถาปนิก,Architect
 สถาปัตยกรรม,Architecture
+สถาปัตยกรรม,Architecture
 สถาปัตยกรรมกอธิค,Gothic architecture
 สถาปัตยกรรมคอมพิวเตอร์,Computer architecture
+สถิติศาสตร์,Statistics
 สถิติศาสตร์,Statistics
 สทรอนเทียม,Strontium
 สนธิสัญญาแวร์ซายส์,Treaty of Versailles
@@ -2433,8 +2659,10 @@ thai,english
 สมเสร็จ,Malayan Tapir
 สระ,Vowel
 สรีรวิทยา,Physiology
+สรีรวิทยา,Physiology
 สวนพฤกษศาสตร์,Botanical garden
 สวนลอยบาบิโลน,Hanging Gardens of Babylon
+สวนศาสตร์,Acoustics
 สวนศาสตร์,Acoustics
 สวนสัตว์,Zoo
 สวนอีเด็น,Garden of Eden
@@ -2444,26 +2672,35 @@ thai,english
 สสารมืด,Dark matter
 สหกรณ์,Cooperative
 สหประชาชาติ,United Nations
+สหประชาชาติ,United Nations
+สหภาพยุโรป,European Union
 สหภาพยุโรป,European Union
 สหภาพแรงงาน,Syndicate
 สหภาพแรงงาน,Trade union
 สหภาพโซเวียต,Soviet Union
+สหภาพโซเวียต,Soviet Union
 สหรัฐอาหรับเอมิเรตส์,United Arab Emirates
 สหรัฐอเมริกา,United States
+สหรัฐอเมริกา,United States
+สหราชอาณาจักร,United Kingdom
 สหราชอาณาจักร,United Kingdom
 สหัสวรรษ,Millennium
 สะพาน,Bridge
+สะพาน,Bridges
 สะพานบรูคลิน,Brooklyn Bridge
 สะพานโกลเดนเกต,Golden Gate Bridge
 สะเก็ดดาว,Meteoroid
 สังกะสี,Zinc
 สังคม,Society
+สังคม,Society
 สังคมนิยม,Socialism
+สังคมวิทยา,Sociology
 สังคมวิทยา,Sociology
 สังสารวัฏ,Samsara
 สัญลักษณ์,Symbol
 สัญลักษณ์แฝงคติ,Allegory
 สัณฐานวิทยา,Morphology
+สัตววิทยา,Zoology
 สัตววิทยา,Zoology
 สัตว์,Animal
 สัตว์กินเนื้อ,Carnivore
@@ -2475,6 +2712,7 @@ thai,english
 สัตว์เลี้ยงลูกด้วยน้ำนม,Mammal
 สัตว์เลื้อยคลาน,Reptile
 สัตว์ไม่มีกระดูกสันหลัง,Invertebrate
+สัทศาสตร์,Phonetics
 สัทศาสตร์,Phonetics
 สันติภาพ,Peace
 สันนิบาตชาติ,League of Nations
@@ -2526,6 +2764,7 @@ thai,english
 สีเหลือง,Yellow
 สีแดง,Red
 สุขภาพ,Health
+สุขภาพ,Health
 สุญญากาศ,Vacuum
 สุนทรียศาสตร์,Aesthetics
 สุนัข,Dog
@@ -2564,277 +2803,6 @@ thai,english
 หน่วยพันธุกรรม,Gene
 หน่วยมวลอะตอม,Atomic mass unit
 หน่วยเอสไอ,International System of Units
-กฎหมาย,Law
-กอล์ฟ,Golf
-กายวิภาคศาสตร์,Anatomy
-การขนส่ง,Transportation
-การค้า,Commerce
-การตลาด,Marketing
-การถ่ายภาพ,Photography
-การทหาร,Military
-การท่องเที่ยว,Tourism
-การบัญชี,Accountancy
-การบันเทิง,Entertainment
-การบิน,Aviation
-การยึดชาติพันธุ์เป็นเกณฑ์,Racism
-การวัด,Measurement
-การว่ายน้ำ,Swimming
-การศึกษา,Education
-การสื่อสาร,Communication
-การเขียนโปรแกรม,Computer programming
-การเงิน,Finance
-การเต้น,Dance
-การเมือง,Politics
-การแก้ความกำกวม,Disambiguation
-กาแฟ,Coffee
-กีฏวิทยา,Entomology
-คณิตตรรกศาสตร์,Mathematical logic
-คณิตศาสตร์,Mathematics
-ครอบครัว,Family
-คริสต์ทศวรรษ 1750,1750s
-คริสต์ทศวรรษ 1760,1760s
-คริสต์ทศวรรษ 1770,1770s
-คริสต์ทศวรรษ 1780,1780s
-คริสต์ทศวรรษ 1790,1790s
-คริสต์ทศวรรษ 1820,1820s
-คริสต์ทศวรรษ 1830,1830s
-คริสต์ทศวรรษ 1840,1840s
-คริสต์ทศวรรษ 1860,1860s
-คริสต์ทศวรรษ 1870,1870s
-คริสต์ทศวรรษ 1880,1880s
-คริสต์ทศวรรษ 1890,1890s
-คริสต์ทศวรรษ 1900,1900s
-คริสต์ทศวรรษ 1920,1920s
-คริสต์ทศวรรษ 1930,1930s
-คริสต์ทศวรรษ 1940,1940s
-คริสต์ทศวรรษ 1950,1950s
-คริสต์ทศวรรษ 1960,1960s
-คริสต์ทศวรรษ 1970,1970s
-คริสต์ทศวรรษ 1980,1980s
-คริสต์ทศวรรษ 1990,1990s
-คริสต์ศาสนา,Christianity
-คอมพิวเตอร์กราฟิกส์,Computer graphics
-คอมมิวนิสต์,Communism
-ค้างคาว,Bats
-จำนวน,Numbers
-จิตวิทยา,Psychology
-จิตเวชศาสตร์,Psychiatry
-จุลกายวิภาคศาสตร์,Histology
-จุลชีววิทยา,Microbiology
-ชาวสเปน,Spanish people
-ชาวเนเธอร์แลนด์,Dutch people
-ชีววิทยา,Biology
-ชีวเคมี,Biochemistry
-ช่องแคบ,Straits
-ซอฟต์แวร์,Software
-ดนตรี,Music
-ดวงอาทิตย์,Sun
-ดาราศาสตร์,Astronomy
-ตะวันออกกลาง,Middle East
-ตา,Eye
-ทฤษฎีเซต,Set theory
-ทวีปยุโรป,Europe
-ทวีปเอเชีย,Asia
-ทวีปแอฟริกา,Africa
-ทะเลทราย,Deserts
-ทันตกรรม,Dentistry
-ทัศนศาสตร์,Optics
-ทิเบต,Tibet
-ธรณีฟิสิกส์,Geophysics
-ธรณีวิทยา,Geology
-ธรรมชาติ,Nature
-นักฟุตบอล,Football  players
-นักมวย,Boxers
-นิยายวิทยาศาสตร์,Science fiction
-นิเวศวิทยา,Ecology
-น้ำ,Water
-บันเทิงคดี,Fiction
-บาสเกตบอล,Basketball
-บุคคล,People
-ประวัติศาสตร์,History
-ประสาทวิทยา,Neurology
-ประเทศกรีซ,Greece
-ประเทศกัมพูชา,Cambodia
-ประเทศจอร์เจีย,Georgia
-ประเทศจีน,China
-ประเทศชิลี,Chile
-ประเทศซาอุดีอาระเบีย,Saudi Arabia
-ประเทศญี่ปุ่น,Japan
-ประเทศติมอร์ตะวันออก,East Timor
-ประเทศตุรกี,Turkey
-ประเทศนอร์เวย์,Norway
-ประเทศนามิเบีย,Namibia
-ประเทศนิวซีแลนด์,New Zealand
-ประเทศบราซิล,Brazil
-ประเทศบรูไนดารุสซาลาม,Brunei
-ประเทศบังกลาเทศ,Bangladesh
-ประเทศบัลแกเรีย,Bulgaria
-ประเทศปากีสถาน,Pakistan
-ประเทศปารากวัย,Paraguay
-ประเทศฝรั่งเศส,France
-ประเทศพม่า,Burma
-ประเทศพม่า,Myanmar
-ประเทศฟินแลนด์,Finland
-ประเทศฟิลิปปินส์,Philippines
-ประเทศภูฏาน,Bhutan
-ประเทศมาเลเซีย,Malaysia
-ประเทศยูเครน,Ukraine
-ประเทศรัสเซีย,Russia
-ประเทศลาว,Laos
-ประเทศลิทัวเนีย,Lithuania
-ประเทศศรีลังกา,Sri Lanka
-ประเทศสวิตเซอร์แลนด์,Switzerland
-ประเทศสวีเดน,Sweden
-ประเทศสิงคโปร์,Singapore
-ประเทศสเปน,Spain
-ประเทศออสเตรีย,Austria
-ประเทศออสเตรเลีย,Australia
-ประเทศอัฟกานิสถาน,Afghanistan
-ประเทศอาร์เจนตินา,Argentina
-ประเทศอาร์เมเนีย,Armenia
-ประเทศอาเซอร์ไบจาน,Azerbaijan
-ประเทศอิตาลี,Italy
-ประเทศอินเดีย,India
-ประเทศอินโดนีเซีย,Indonesia
-ประเทศอิหร่าน,Iran
-ประเทศอียิปต์,Egypt
-ประเทศอุรุกวัย,Uruguay
-ประเทศฮังการี,Hungary
-ประเทศเกาหลีเหนือ,North Korea
-ประเทศเกาหลีใต้,South Korea
-ประเทศเซอร์เบีย,Serbia
-ประเทศเดนมาร์ก,Denmark
-ประเทศเนปาล,Nepal
-ประเทศเนเธอร์แลนด์,Netherlands
-ประเทศเบลเยียม,Belgium
-ประเทศเปรู,Peru
-ประเทศเม็กซิโก,Mexico
-ประเทศเยอรมนี,Germany
-ประเทศเลบานอน,Lebanon
-ประเทศเวียดนาม,Vietnam
-ประเทศเวเนซุเอลา,Venezuela
-ประเทศเฮติ,Haiti
-ประเทศแคนาดา,Canada
-ประเทศแอฟริกาใต้,South Africa
-ประเทศโคลอมเบีย,Colombia
-ประเทศโปรตุเกส,Portugal
-ประเทศโปแลนด์,Poland
-ประเทศโรมาเนีย,Romania
-ประเทศไซปรัส,Cyprus
-ประเทศไทย,Thailand
-ประเทศไอร์แลนด์,Republic of Ireland
-ปรัชญา,Philosophy
-ปลา,Fish
-ปัญญาประดิษฐ์,Artificial intelligence
-ปาเลสไตน์,Palestine
-ปุราณวิทยา,Mythology
-ผลไม้,Fruit
-พ.ศ. 557,14
-พฤกษศาสตร์,Botany
-พีชคณิต,Algebra
-ฟิสิกส์,Physics
-ฟิสิกส์ดาราศาสตร์,Astrophysics
-ฟุตบอล,Football
-ภาพยนตร์,Film
-ภาษาศาสตร์,Linguistics
-ภูมิศาสตร์,Geography
-มลรัฐจอร์เจีย,Georgia
-มลรัฐนิวยอร์ก,New York
-มลรัฐฟลอริดา,Florida
-มลรัฐยูทาห์,Utah
-มลรัฐวอชิงตัน,Washington
-มลรัฐออริกอน,Oregon
-มลรัฐฮาวาย,Hawaii
-มลรัฐเคนทักกี,Kentucky
-มลรัฐเวอร์จิเนีย,Virginia
-มลรัฐเวอร์มอนต์,Vermont
-มลรัฐแคนซัส,Kansas
-มลรัฐแคลิฟอร์เนีย,California
-มลรัฐโอคลาโฮมา,Oklahoma
-มลรัฐไอโอวา,Iowa
-มหาสมุทรอินเดีย,Indian Ocean
-มหาสมุทรแปซิฟิก,Pacific Ocean
-มหาสมุทรแอตแลนติก,Atlantic Ocean
-มานุษยวิทยา,Anthropology
-มูลฐาน,Fundamental
-ระบบทางเดินอาหาร,Digestive system
-ระบบประสาท,Nervous system
-ระบบสุริยะ,Solar System
-ระบบโครงกระดูก,Skeletal system
-ระบบไหลเวียนโลหิต,Cardiovascular system
-รางวัลโนเบล,Nobel Prize
-รูปทรงเรขาคณิต,Geometry
-ลัทธิมาร์กซ,Marxism
-วรรณกรรม,Literature
-วอลเลย์บอล,Volleyball
-วัฒนธรรม,Culture
-วัน,Days
-วารสารศาสตร์,Journalism
-วิทยาการคอมพิวเตอร์,Computer science
-วิทยามะเร็ง,Oncology
-วิทยาศาสตร์,Science
-วิทยาแผ่นดินไหว,Seismology
-วิศวกรรม,Engineering
-วิศวกรรมไฟฟ้า,Electrical engineering
-ศัลยกรรม,Surgery
-ศาสนา,Religion
-ศาสนายูดาย,Judaism
-ศาสนาอิสลาม,Islam
-ศาสนาฮินดู,Hinduism
-ศิลปะ,Arts
-สกอตแลนด์,Scotland
-สกุลเงิน,Currency
-สงคราม,War
-สงครามเย็น,Cold War
-สงครามโลกครั้งที่สอง,World War II
-สงครามโลกครั้งที่หนึ่ง,World War I
-สถาปัตยกรรม,Architecture
-สถิติศาสตร์,Statistics
-สรีรวิทยา,Physiology
-สวนศาสตร์,Acoustics
-สหประชาชาติ,United Nations
-สหภาพยุโรป,European Union
-สหภาพโซเวียต,Soviet Union
-สหรัฐอเมริกา,United States
-สหราชอาณาจักร,United Kingdom
-สะพาน,Bridges
-สังคม,Society
-สังคมวิทยา,Sociology
-สัตววิทยา,Zoology
-สัทศาสตร์,Phonetics
-สุขภาพ,Health
-อะนิเมะ,Anime
-อังกฤษ,England
-อากาศยาน,Aircraft
-อารมณ์,Emotion
-อินเทอร์เน็ต,Internet
-อุตุนิยมวิทยา,Meteorology
-อุทกวิทยา,Hydrology
-อเมริกันฟุตบอล,American football
-ฮ่องกง,Hong Kong
-เกษตรกรรม,Agriculture
-เกาะซิซิลี,Sicily
-เคมี,Chemistry
-เครื่องแต่งกาย,Clothing
-เทคโนโลยี,Technology
-เทนนิส,Tennis
-เบสบอล,Baseball
-เบอร์ลิน,Berlin
-เบียร์,Beer
-เภสัชวิทยา,Pharmacology
-เลขคณิต,Arithmetic
-เวลส์,Wales
-เวลา,Time
-เศรษฐศาสตร์,Economics
-แบคทีเรีย,Bacteria
-แพทยศาสตร์,Medicine
-แฟชั่น,Fashion
-แสตมป์,Philately
-โทรทัศน์,Television
-โลก,Earth
-โลหิตวิทยา,Hematology
-ไต้หวัน,Taiwan
-ไวน์,Wine
 หมัด,Flea
 หมากรุกสากล,Chess
 หมากล้อม,Go
@@ -2957,6 +2925,7 @@ thai,english
 อะตอม,Atom
 อะธีนา,Athena
 อะนิเมะ,Anime
+อะนิเมะ,Anime
 อะพาไทต์,Apatite
 อะมาเตระสุ,Amaterasu
 อะลีย์,Ali
@@ -2973,6 +2942,7 @@ thai,english
 อักษรฮีบรู,Hebrew alphabet
 อักษรเบรลล์,Braille
 อังกฤษ,England
+อังกฤษ,England
 อังกลิคัน,Anglicanism
 อัญมณี,Gemstone
 อัฒภาค,Semicolon
@@ -2984,8 +2954,8 @@ thai,english
 อัตราเร็วของแสง,Speed of light
 อันดับปลาหนัง,Catfish
 อันดับลิง,Primate
-อันดับวาฬและโลมา,Cetacea
 อันดับวาฬและโลมา,Baleen whale
+อันดับวาฬและโลมา,Cetacea
 อันตานานาริโว,Antananarivo
 อันเดรอา ปัลลาดีโอ,Andrea Palladio
 อันโตนีโอ วีวัลดี,Antonio Vivaldi
@@ -3010,6 +2980,7 @@ thai,english
 อัสตานา,Astana
 อาการ,Symptom
 อากาศยาน,Aircraft
+อากาศยาน,Aircraft
 อากิระ คุโรซาวา,Akira Kurosawa
 อาคาร,Building
 อาณาจักร,Kingdom
@@ -3018,6 +2989,7 @@ thai,english
 อาบูจา,Abuja
 อายะตุลลอหฺ,Ayatollah
 อายัน,Solstice
+อารมณ์,Emotion
 อารูบา,Aruba
 อาร์,Are
 อาร์กติก,Arctic
@@ -3058,6 +3030,7 @@ thai,english
 อินเซคทิวอรา,Insectivora
 อินเดียม,Indium
 อินเทอร์เน็ต,Internet
+อินเทอร์เน็ต,Internet
 อินเทอร์เน็ตเอกซ์พลอเรอร์,Internet Explorer
 อินโดจีน,Indochina
 อิบุน รัชด์,Averroes
@@ -3092,7 +3065,9 @@ thai,english
 อุณหภูมิ,Temperature
 อุตสาหกรรม,Industry
 อุตุนิยมวิทยา,Meteorology
+อุตุนิยมวิทยา,Meteorology
 อุทกภัย,Flood
+อุทกวิทยา,Hydrology
 อุทยานแห่งชาติเยลโลว์สโตน,Yellowstone National Park
 อุทยานแห่งชาติโยเซมิตี,Yosemite National Park
 อุปกรณ์คอมพิวเตอร์,Computer hardware
@@ -3107,6 +3082,7 @@ thai,english
 อูลานบาตอร์,Ulan Bator
 อู่ฮั่น,Wuhan
 อเมริกันซามัว,American Samoa
+อเมริกันฟุตบอล,American football
 อเมริกันฟุตบอล,American football
 อเมริกากลาง,Central America
 อเมริโก เวสปุชชี,Amerigo Vespucci
@@ -3153,6 +3129,7 @@ thai,english
 ฮิโระชิมะ,Hiroshima
 ฮีเลียม,Helium
 ฮีโมโกลบิน,Hemoglobin
+ฮ่องกง,Hong Kong
 เกม,Game
 เกมคอมพิวเตอร์และวิดีโอเกม,Video game
 เกมเศรษฐี,Monopoly
@@ -3167,11 +3144,13 @@ thai,english
 เกลือ,Salt
 เกวตซัลโกอัตล์,Quetzalcoatl
 เกษตรกรรม,Agriculture
+เกษตรกรรม,Agriculture
 เกอิชา,Geisha
 เกาลัด,Chestnut
 เกาะ,Island
 เกาะชวา,Java
 เกาะชิโกะกุ,Shikoku
+เกาะซิซิลี,Sicily
 เกาะซิซิลี,Sicily
 เกาะซูลาเวซี,Sulawesi
 เกาะนอร์ฟอล์ก,Norfolk Island
@@ -3199,6 +3178,8 @@ thai,english
 เคมบริดจ์,Cambridge
 เคมบริดจ์,Cambridge
 เคมี,Chemistry
+เคมี,Chemistry
+เคมี,Chemistry
 เคมีฟิสิกส์,Physical chemistry
 เคมีอนินทรีย์,Inorganic chemistry
 เคมีอินทรีย์,Organic chemistry
@@ -3221,6 +3202,7 @@ thai,english
 เครื่องหมายวรรคตอน,Punctuation
 เครื่องเคลือบดินเผา,Porcelain
 เครื่องเทศ,Spice
+เครื่องแต่งกาย,Clothing
 เคลวิน,Kelvin
 เควซาร์,Quasar
 เคอร์เนล,Kernel
@@ -3300,8 +3282,8 @@ thai,english
 เตหะราน,Tehran
 เตาอบไมโครเวฟ,Microwave oven
 เติ้ง เสี่ยวผิง,Deng Xiaoping
-เต่า,Turtle
 เต่า,Tortoise
+เต่า,Turtle
 เต้านม,Breast
 เต้าหู้,Tofu
 เถรวาท,Theravada
@@ -3309,8 +3291,10 @@ thai,english
 เทควันโด,Taekwondo
 เทคโน,Techno
 เทคโนโลยี,Technology
+เทคโนโลยี,Technology
 เทคโนโลยีชีวภาพ,Biotechnology
 เทคโนโลยีสารสนเทศ,Information technology
+เทนนิส,Tennis
 เทนนิส,Tennis
 เทนนิสแกรนด์สแลม,Grand Slam
 เทพนิยาย,Fairy tale
@@ -3364,12 +3348,15 @@ thai,english
 เบวูล์ฟ,Beowulf
 เบส,Base
 เบสบอล,Baseball
+เบสบอล,Baseball
 เบอร์คีเลียม,Berkelium
 เบอร์ทรานด์ รัสเซิลล์,Bertrand Russell
 เบอร์มิวดา,Bermuda
 เบอร์ลิน,Berlin
+เบอร์ลิน,Berlin
 เบอร์ลินตะวันตก,West Berlin
 เบาหวาน,Diabetes mellitus
+เบียร์,Beer
 เบียร์,Beer
 เบี้ย,Pawn
 เบเนลักซ์,Benelux
@@ -3398,6 +3385,7 @@ thai,english
 เฟอร์ดินันด์ มาเจลลัน,Ferdinand Magellan
 เฟอร์เมียม,Fermium
 เฟิร์มแวร์,Firmware
+เภสัชวิทยา,Pharmacology
 เภสัชวิทยา,Pharmacology
 เมกะไบต์,Megabyte
 เมฆ,Cloud
@@ -3448,6 +3436,7 @@ thai,english
 เรเดียม,Radium
 เร้กเก้,Reggae
 เลขคณิต,Arithmetic
+เลขคณิต,Arithmetic
 เลขฐานสิบ,Decimal
 เลขฐานสิบหก,Hexadecimal
 เลขฐานแปด,Octal
@@ -3467,6 +3456,8 @@ thai,english
 เลโอนาร์โด ดา วินชี,Leonardo da Vinci
 เวนิส,Venice
 เวลส์,Wales
+เวลส์,Wales
+เวลา,Time
 เวลา,Time
 เวลามาตรฐานกรีนิช,Greenwich Mean Time
 เวลาสากลเชิงพิกัด,Coordinated Universal Time
@@ -3481,6 +3472,7 @@ thai,english
 เว็บเพจ,Web page
 เว็บแคม,Webcam
 เว็บไซต์,Website
+เศรษฐศาสตร์,Economics
 เศรษฐศาสตร์,Economics
 เศรษฐศาสตร์,Economy
 เศรษฐศาสตร์จุลภาค,Microeconomics
@@ -3634,6 +3626,7 @@ thai,english
 แนสแด็ก,NASDAQ
 แบกแดด,Baghdad
 แบคทีเรีย,Bacteria
+แบคทีเรีย,Bacteria
 แบดมินตัน,Badminton
 แบตเตอรี่,Battery
 แบทแมน,Batman
@@ -3649,6 +3642,7 @@ thai,english
 แผ่นดินไหว,Earthquake
 แผ่นเปลือกโลก,Plate tectonics
 แพทยศาสตร์,Medicine
+แพทยศาสตร์,Medicine
 แพทย์,Physician
 แพนด้ายักษ์,Giant Panda
 แพนด้าแดง,Red Panda
@@ -3658,6 +3652,7 @@ thai,english
 แพลเลเดียม,Palladium
 แพะ,Goat
 แฟกทอเรียล,Factorial
+แฟชั่น,Fashion
 แฟชั่น,Fashion
 แฟนตาซี,Fantasy
 แฟรงก์ ลอยด์ ไรต์,Frank Lloyd Wright
@@ -3706,9 +3701,6 @@ thai,english
 แม่น้ำโวลก้า,Volga River
 แม่น้ำโอรีโนโก,Orinoco
 แม่น้ำไนล์,Nile
-Bot,Bot
-บทความหลัก,Main
-โครง,Stub
 แรง,Force
 แรงเสียดทาน,Friction
 แรด,Rhinoceros
@@ -3724,6 +3716,7 @@ Bot,Bot
 แวน,Wide area network
 แวมไพร์,Vampire
 แสง,Light
+แสตมป์,Philately
 แสตมป์,Postage stamp
 แหลมคานาเวอรัล,Cape Canaveral
 แหลมฮอร์น,Cape Horn
@@ -3770,6 +3763,7 @@ Bot,Bot
 โกลกาตา,Kolkata
 โคดีอีน,Codeine
 โคบอลต์,Cobalt
+โครง,Stub
 โครงการ,Project
 โครงการอะพอลโล,Apollo program
 โครงการแมนฮัตตัน,Manhattan Project
@@ -3818,6 +3812,7 @@ Bot,Bot
 โทมัส ฮอบส์,Thomas Hobbes
 โทมัส เอดิสัน,Thomas Edison
 โทรคมนาคม,Telecommunication
+โทรทัศน์,Television
 โทรทัศน์,Television
 โทรลล์,Troll
 โทรศัพท์,Telephone
@@ -3901,6 +3896,8 @@ Bot,Bot
 โรเบิร์ต เรดฟอร์ด,Robert Redford
 โรเบิร์ต เอ. ไฮน์ไลน์,Robert A. Heinlein
 โลก,Earth
+โลก,Earth
+โลกวรรณศิลป์,Literature
 โลกาภิวัตน์,Globalization
 โลกาวินาศ,Eschatology
 โลกิ,Loki
@@ -3911,6 +3908,7 @@ Bot,Bot
 โลหะ,Metal
 โลหะผสม,Alloy
 โลหะแอลคาไล,Alkali metal
+โลหิตวิทยา,Hematology
 โลหิตวิทยา,Hematology
 โวลต์,Volt
 โวล์ฟกัง อะมาเดอุส โมซาร์ท,Wolfgang Amadeus Mozart
@@ -3966,6 +3964,7 @@ Bot,Bot
 ไดโอดเปล่งแสง,Light-emitting diode
 ไต,Kidney
 ไต้หวัน,Taiwan
+ไต้หวัน,Taiwan
 ไททัน,Titan
 ไทฟอน,Typhon
 ไทมีน,Thymine
@@ -4007,6 +4006,7 @@ Bot,Bot
 ไลเคน,Lichen
 ไวกิง,Viking
 ไวทัส เบริ่ง,Vitus Bering
+ไวน์,Wine
 ไวน์,Wine
 ไวยากรณ์,Grammar
 ไวรัส,Virus

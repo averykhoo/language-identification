@@ -19,16 +19,16 @@ Araibis,Standard Arabic
 Asaimis,Assamese
 Asaimis,Assamese
 Asarbaiseáinis,Azerbaijani
-Asarbaiseáinis,Azeri
 Asarbaiseáinis,Azerbaijani Cluster
+Asarbaiseáinis,Azeri
+Astúiris,Astur
 Astúiris,Astur-Leonese
 Astúiris,Asturian
 Astúiris,Asturian-Leonese
-Astúiris,Astur
 Bascais,Basque
 Bascais,Basque
-Bealach na Bó Finne,Milky Way
 Bealach na Bó Finne,Galaxy
+Bealach na Bó Finne,Milky Way
 Bealarúisis,Belarusan
 Bealarúisis,Belarusan
 Bealarúisis,Belarusian
@@ -54,21 +54,20 @@ Cairéilis,Karelian
 Cannadais,Kannada
 Cannadais,Kannada
 Cartúm,Khartoum
+Casacais,Kazakh
+Casacais,Kazakh
 Catalóinis,Catalan
 Catalóinis,Catalan
 Cazakho,Kazakh
 Cazakho,Kazakh
-Casacais,Kazakh
-Casacais,Kazakh
-Ciméiris,Khmer
 Ciméiris,Central Khmer
+Ciméiris,Khmer
 Coirnis,Cornish
 Corsaicis,Corsican
 Corsaicis,Corsican
 Cróitis,Croatian
 Cróitis,Croation
 Cáisc,Easter
-an Cháisc,Easter
 Cóiréis,Korean
 Cóiréis,Korean
 Danmhairgis,Danish
@@ -77,8 +76,11 @@ Eanáir,January
 Eastóinis,Estonian
 Esperanto,Esperanto
 Esperanto,Esperanto
-Faro,Faroese
+Fairsis,Farsi
+Fairsis,Persian
+Fairsis,Western Farsi
 Faro,Faeroese
+Faro,Faroese
 Fionlainnis,Finnish
 Flóndras,Flanders
 Flóndras,Flemish region
@@ -89,15 +91,13 @@ Freaslainnis,Western Frisian
 Gaborone,Gaborone
 Gaeilge,Irish
 Gaeilge,Irish
-Gaeilge,Irish Gaelic
 Gaeilge,Irish
+Gaeilge,Irish Gaelic
 Gailísis,Galician
 Gailísis,Galician
 Gearmáinis,German
 Georgiano,Georgian
 Georgiano,Georgian
-Seoirsis,Georgian
-Seoirsis,Georgian
 Giúdais,Yiddish
 Gréigis,Greek
 Gréigis,Greek
@@ -119,27 +119,27 @@ Laidin,Latin
 Laidin,Latin
 Laitvis,Latvian
 Laitvis,Latvian
-Liombuirgis,Limburgish
 Liombuirgis,Limburgian
+Liombuirgis,Limburgish
 Liotuáinis,Lithuanian
 Liotuáinis,Lithuanian
+Lucsambuirgis,Luxembourgian
 Lucsambuirgis,Luxembourgish
 Lucsambuirgis,Luxemburgish
-Lucsambuirgis,Luxembourgian
 Lúnasa,August
 Macadóinis,Macedonian
 Macadóinis,Macedonian
 Mailéalaimis,Malayalam
 Mailéalaimis,Malayalam
-Mandairínis,mandarin
 Mandairínis,Mandarin
 Mandairínis,Standard Mandarin
-Maoris,Maori
+Mandairínis,mandarin
 Maorais,Maori
+Maoris,Maori
 Maraitis,Marathi
-Maraitis,Marāthi
-Maraitis,Marāthi
 Maraitis,MarÄthi
+Maraitis,Marāthi
+Maraitis,Marāthi
 Monacó,Monaco
 Muir na Cairibe,Caribbean Sea
 Máirt,Tuesday
@@ -150,26 +150,25 @@ Naiplis,Neapolitan
 Neipeailis,Nepali
 Neipeailis,Nepali
 Neiptiún,Neptune
-Nollaig,December
 Nollaig,Christmas
+Nollaig,December
 Nollaig Shona,Merry Christmas
 Nua-Ghuine Phapua,Papua New Guinea
 Nua-Ioruais,Nynorsk
 Ollainnis,Dutch
+Peirsis,Farsi
 Peirsis,Persian
 Peirsis,Western Farsi
-Peirsis,Farsi
-Fairsis,Persian
-Fairsis,Western Farsi
-Fairsis,Farsi
+Poblacht na hÉireann,Ireland
+Poblacht na hÉireann,Republic of Ireland
 Polainnis,Polish
 Polainnis,Polish
 Portaingéilis,Portuguese
 Portaingéilis,Portuguese
-Puinseáibis,Punjabi
 Puinseáibis,Panjabi
-Rómáinis,Romanian
+Puinseáibis,Punjabi
 Rómáinis,Romanaian
+Rómáinis,Romanian
 Rúisis,Russian
 Rúisis,Russian
 Sead,Chad
@@ -182,6 +181,8 @@ Seirbis,Serbian
 Seirbis,Serbian
 Seisnis,Chechen
 Seisnis,Chechen
+Seoirsis,Georgian
+Seoirsis,Georgian
 Serbia,Serbia
 Serbia e Montenegro,Serbia and Montenegro
 Sicilis,Sicilian
@@ -198,21 +199,21 @@ Somáilis,somali
 Spáinnis,Castilian
 Spáinnis,Spanish
 Spáinnis,Spanish
+Stáit Aontaithe Mheiriceá,America
+Stáit Aontaithe Mheiriceá,States
+Stáit Aontaithe Mheiriceá,U.S.
+Stáit Aontaithe Mheiriceá,U.S. of A.
+Stáit Aontaithe Mheiriceá,U.S.A.
+Stáit Aontaithe Mheiriceá,US
 Stáit Aontaithe Mheiriceá,United States
 Stáit Aontaithe Mheiriceá,United States of America
-Stáit Aontaithe Mheiriceá,America
-Stáit Aontaithe Mheiriceá,US
-Stáit Aontaithe Mheiriceá,U.S.
-Stáit Aontaithe Mheiriceá,U.S.A.
-Stáit Aontaithe Mheiriceá,U.S. of A.
-Stáit Aontaithe Mheiriceá,States
 Sualainnis,Swedish
+Suvais,Chavash
+Suvais,Chovash
+Suvais,Chttash
 Suvais,Chuvash
 Suvais,Chuvash
 Suvais,Chuwash
-Suvais,Chovash
-Suvais,Chavash
-Suvais,Chttash
 Suáinis,Tswana
 Svahaílis,Swahili
 Súlú,Zulu
@@ -236,10 +237,10 @@ Vallúnais,Walloon
 Vallúnais,Walloon
 Vicipéid,Wikipedia
 Vicífhoclóir,Wiktionary
-Vítneamais,Vietnamese
-Vítneamais,Vietnamese
 Vítneaimis,Vietnamese
 Vítneaimis,Vietnamese
+Vítneamais,Vietnamese
+Vítneamais,Vietnamese
 Xhosa,Xhosa
 abair,say
 achtainiam,actinium
@@ -267,6 +268,7 @@ airsnic,arsenic
 aistriúchán,translation
 almóinn,almond
 alúmanam,aluminium
+an Cháisc,Easter
 an Sahára,sahara
 ancaire,anchor
 antropólaíocht,anthropology
@@ -275,10 +277,10 @@ argón,argon
 arán,bread
 aspairín,aspirin
 athair,father
-athbhliain faoi mhaise daoibh,Happy New Year
 athbhliain faoi mhaise,Happy New Year
-athrú aeráide,climatic change
+athbhliain faoi mhaise daoibh,Happy New Year
 athrú aeráide,climate change
+athrú aeráide,climatic change
 bainne,milk
 balbh,dumb
 banana,banana
@@ -290,7 +292,6 @@ beirilliam,beryllium
 beirilliam,glucinium
 beoir,beer
 bhríste,trousers
-bríste,trousers
 biosmat,bismuth
 bliosán,artichoke
 bodhar,deaf
@@ -298,15 +299,15 @@ briathar,verb
 bricfeasta,breakfast
 brocailí,broccoli
 bréagbhrandáil,phishing
-bríceadóir,mason
 bríceadóir,bricklayer
+bríceadóir,mason
 bríceadóir,stonemason
+bríste,trousers
 bróimín,bromine
 buachaill,boy
 bunúsach,fundamental
 báicéir,baker
 báisteach,rain
-fearthainn,rain
 bán,white
 béabhar,beaver
 bó,cow
@@ -316,8 +317,8 @@ caidmiam,cadmium
 caighdeán,standard
 cailleach,witch
 cairdín,accordion
-cairdín,squeeze box
 cairdín,piano accordion
+cairdín,squeeze box
 caora,sheep
 capall,horse
 cat,cat
@@ -333,14 +334,14 @@ clóirín,chlorine
 cnóire,nutcracker
 codlaidín,opium
 coinín,rabbit
-colm,pigeon
 colm,dove
+colm,pigeon
 comharsa,neighbour
 comharsa,vecino
 comhdháil,conference
 cos,leg
-cosantóir,defendant
 cosantóir,accused
+cosantóir,defendant
 cothromóid,equation
 crann,tree
 crann Nollag,Christmas tree
@@ -363,9 +364,9 @@ deoch,drink
 dobhriathar,adverb
 domhan,world
 doras,door
-draíodóir,wizard
-draíodóir,sorcerer
 draíodóir,magician
+draíodóir,sorcerer
+draíodóir,wizard
 dromodaire,dromedary
 duaithníocht,camouflage
 déan,do
@@ -378,24 +379,22 @@ eoraipiam,europium
 fadhb,problem
 faoileán,gull
 farae,fodder
-farae,provender
 farae,forage
+farae,provender
 fear,male
 fear,man
 fear an phoist,postman
+fearthainn,rain
 feic,see
 fiaclóir,dentist
-fliú,influenza
 fliú,flu
-ulpóg,influenza
-ulpóg,flu
+fliú,influenza
 focal,word
 foclóir,dictionary
 foiche,wasp
 folamh,empty
 folúsghlantóir,vacuum cleaner
 formica,ant
-seangán,ant
 fosfar,phosphorus
 fuinneog,window
 fásach,desert
@@ -418,15 +417,16 @@ haifniam,hafnium
 hoilmiam,holmium
 héiliam,helium
 iaidín,iodine
-iarann,iron
 iarann,fluorine
+iarann,iron
 iasc,fish
 innealtóir,engineer
 ionsaitheach,aggressive
 iridiam,iridium
+irish,english
 ith,eat
-labhandar,lavender
 labhandar,lavander
+labhandar,lavender
 lacha,duck
 lantainam,lanthanum
 le,alongside
@@ -445,38 +445,38 @@ luchóg,mouse
 lán,full
 léaslíne,horizon
 líomóid,lemon
-líon,web
 líon,spider web
+líon,web
 lúitéitiam,lutetium
 madra,dog
 maicréal,mackerel
 maignéisiam,magnesium
 mangainéis,manganese
-maoin,property
 maoin,asset
+maoin,property
 mearcair,mercury
 meindiléiviam,mendelevium
 mel,honey
 micreafón,microphone
 miongháire,smile
-molaibdéineam,molybdenum
-muiscít,musquito
-muiscít,mosquito
-máthair,mother
-máthair chéile,mother-in-law
-máthair chéile,mother in law
-mé,I
 mise,I
+molaibdéineam,molybdenum
+muiscít,mosquito
+muiscít,musquito
+máthair,mother
+máthair chéile,mother in law
+máthair chéile,mother-in-law
+mé,I
 múinteoir,teacher
-neamhní,zero
 neamhní,null
-nialas,zero
-nialas,null
+neamhní,zero
 neamhspleáchas,independence
 neiptiúiniam,neptunium
 neoidimiam,neodymium
 neon,neon
 niaibiam,niobium
+nialas,null
+nialas,zero
 nua,new
 nua,novel
 níl,no
@@ -496,8 +496,8 @@ pallaidiam,palladium
 paraisiút,parachute
 peann luaidhe,pencil
 piasún,pheasant
-pionós báis,death penalty
 pionós báis,capital punishment
+pionós báis,death penalty
 pionós báis,death sentence
 platanam,platinum
 pléascadh,explosion
@@ -506,16 +506,16 @@ plútóiniam,plutonium
 plútóiniam,plutonium
 potaisiam,potassium
 praiséidimiam,praseodymium
-pratai,potato
 pratai,patato
+pratai,potato
 próméitiam,promethium
 prótachtainiam,protactinium
 páiste,child
 péire,pear
 píb mhála,bagpipes
 píotsa,pizza
-rann cainte,part of speech
 rann cainte,lexical category
+rann cainte,part of speech
 realta,star
 rosualt,walrus
 réabhlóid na Fraince,French Revolution
@@ -532,6 +532,15 @@ saoirse,liberty
 sceimhlitheoir,terrorist
 scéal,story
 seacláid,chocolate
+seangán,ant
+sibh,y'all
+sibh,you
+sibh,you lot
+sibh,yous
+sibhse,y'all
+sibhse,you
+sibhse,you lot
+sibhse,yous
 sileacan,silicon
 silín,cherry
 sioc,frost
@@ -562,14 +571,14 @@ teiripe,therapy
 teorainn,boundary
 tiúilip,tulip
 toirneach,thunder
-torbán,tadpole
 torbán,polliwog
+torbán,tadpole
 traein,train
 triantánacht,trigonometry
 trumpa,trumpet
 tréidlia,veterinarian
-tréidlia,veterinary
 tréidlia,veterinarian
+tréidlia,veterinary
 tuinnín,tunafish
 turcaí,turkey
 téigh,go
@@ -578,24 +587,16 @@ tú,y'all
 tú,you
 tú,you lot
 tú,yous
-sibh,y'all
-sibh,you
-sibh,you lot
-sibh,yous
-sibhse,y'all
-sibhse,you
-sibhse,you lot
-sibhse,yous
 uisce,water
+ulpóg,flu
+ulpóg,influenza
 Éire,Ireland
 Éire,Republic of Ireland
-Poblacht na hÉireann,Ireland
-Poblacht na hÉireann,Republic of Ireland
 Íoslainnis,Icelandic
 Úcráinis,Ukrainian
 Úcráinis,Ukrainian
-áit,place
 áit,location
+áit,place
 éigeandáil,emergency
 éinstéiniam,einsteinium
 íoslach,basement
@@ -606,4 +607,3 @@ Poblacht na hÉireann,Republic of Ireland
 ól,sip
 ór,gold
 úsáideoir,user
-irish,english

@@ -28,24 +28,24 @@ Bulgarije,Republic of Bulgaria
 Bûtan,Bhutan
 Bûtan,Kingdom of Bhutan
 Deensk,Danish
-Demokratyske Republyk Kongo,Democratic Republic of the Congo
 Demokratyske Republyk Kongo,Congo-Kinshasa
+Demokratyske Republyk Kongo,Democratic Republic of the Congo
 Denemark,Denmark
 Denemark,Kingdom of Denmark
 Dútsk,German
-Dútslân,Germany
 Dútslân,Federal Republic of Germany
-East Timor,East Timor
+Dútslân,Germany
 East Timor,Democratic Republic of Timor-Leste
+East Timor,East Timor
 Eastenryk,Austria
 Eastenryk,Republic of Austria
-Egypte,Egypt
 Egypte,Arab Republic of Egypt
+Egypte,Egypt
 Estlân,Estonia
 Estlân,Republic of Estonia
-Fatikaanstêd,Vatican City
-Fatikaanstêd,The Holy See
 Fatikaanstêd,State of the Vatican City
+Fatikaanstêd,The Holy See
+Fatikaanstêd,Vatican City
 Finlân,Finland
 Finlân,Republic of Finland
 Finsk,Finnish
@@ -78,15 +78,15 @@ Israel,Israel
 Israel,State of Israel
 Italjaansk,Italian
 Italjaansk,Italian
-Ivoarkust,Ivory Coast
 Ivoarkust,Cote d'Ivoire
+Ivoarkust,Ivory Coast
 Ivoarkust,Republic of Cote d'Ivoire
 Japansk,Japanese
 Japansk,Japanese
 Jeropeeske Uny,EU
 Jeropeeske Uny,European Union
-Jordaanje,Jordan
 Jordaanje,Hashemite Kingdom of Jordan
+Jordaanje,Jordan
 Kambodja,Cambodia
 Kambodja,Kingdom of Cambodia
 Kanada,Canada
@@ -95,31 +95,31 @@ Katalaansk,Catalan
 Katar,Qatar
 Kazakstan,Kazakhstan
 Kazakstan,Republic of Kazakhstan
-Kirgyzje,Kyrgyzstan
 Kirgyzje,Kyrgyz Republic
+Kirgyzje,Kyrgyzstan
 Koreaansk,Korean
 Koreaansk,Korean
 Korfoe,Corfu
 Kroätysk,Croatian
 Kroätysk,Croation
 Kryst,Christmas
-Laos,Laos
 Laos,Lao People's Democratic Republic
+Laos,Laos
 Letlân,Latvia
 Letlân,Republic of Latvia
 Letsk,Latvian
 Letsk,Latvian
-Limburchsk,Limburgish
 Limburchsk,Limburgian
+Limburchsk,Limburgish
 Maleizje,Malaysia
 Malta,Malta
 Malta,Republic of Malta
-Marokko,Morocco
 Marokko,Kingdom of Morocco
+Marokko,Morocco
 Masedoanje,Macedonia
 Masedoanje,Republic of Macedonia
-Mauritaanje,Mauritania
 Mauritaanje,Islamic Republic of Mauritania
+Mauritaanje,Mauritania
 Moldaavje,Moldova
 Monako,Monaco
 Montenegro,Montenegro
@@ -128,11 +128,11 @@ Nederlân,Kingdom of the Netherlands
 Nederlân,The Netherlands
 Nederlânsk,Dutch
 Nedersaksen,Lower Saxony
-Noarwegen,Norway
 Noarwegen,Kingdom of Norway
+Noarwegen,Norway
 Novial,Novial
-Pakistan,Pakistan
 Pakistan,Islamic Republic of Pakistan
+Pakistan,Pakistan
 Panama,Panama
 Peaske,Easter
 Poalen,Poland
@@ -141,11 +141,11 @@ Poalsk,Polish
 Portegal,Portugal
 Portugeesk,Portuguese
 Portugeesk,Portuguese
-Rûmeensk,Romanian
 Rûmeensk,Romanaian
+Rûmeensk,Romanian
 Saturnus,Saturn
-Saûdy-Araabje,Saudi Arabia
 Saûdy-Araabje,Kingdom of Saudi Arabia
+Saûdy-Araabje,Saudi Arabia
 Sege in't nije jier,Happy New Year
 Servje,Serbia
 Servje en Montenegro,Serbia and Montenegro
@@ -187,8 +187,8 @@ beam,tree
 beryllium,beryllium
 beryllium,glucinium
 bever,beaver
-bier,beer
 bier,bee
+bier,beer
 biogemy,biochemistry
 bismut,bismuth
 blau,blue
@@ -212,7 +212,6 @@ eigenskipswurd,adjective
 eigenskipswurd,describing word
 einsteinium,einsteinium
 er,he
-hy,he
 europium,europium
 evener,equator
 fazant,pheasant
@@ -225,11 +224,15 @@ flear,elderberry
 fluor,fluorine
 follybal,volleyball
 forel,trout
+frisian,english
+fysiology,physiology
 gadolinium,gadolinium
 gallium,gallium
 gear,together
 geheim,secret
 germanium,germanium
+geslacht,gender
+geslacht,sex
 gloor,chlorine
 goes,goose
 haadwurd,noun
@@ -239,6 +242,7 @@ hassium,hassium
 helium,helium
 holmium,holmium
 hout,wood
+hy,he
 hynder,horse
 hûn,dog
 hûs,home
@@ -252,7 +256,6 @@ iridium,iridium
 joadium,iodine
 july,July
 juny,June
-simmermoanne,June
 kalinder,calendar
 kalkoen,turkey
 kalsium,calcium
@@ -288,17 +291,16 @@ niobium,niobium
 nobelium,nobelium
 noflike krystdagen,Merry Christmas
 novimber,November
-nul,zero
 nul,null
-oersette,translate
+nul,zero
 oersette,interpret
+oersette,translate
 oester,oyster
 osmium,osmium
 palladium,palladium
 pantoffel,slipper
 par,pear
 physiologie,physiology
-fysiology,physiology
 pink,little finger
 pink,pinkie
 poatlead,pencil
@@ -317,14 +319,13 @@ rys,rice
 samarium,samarium
 servet,napkin
 silisium,silicon
+simmermoanne,June
 sitroen,lemon
 skiep,sheep
 skonk,leg
 skrikkeljier,leap year
-slachte,sex
 slachte,gender
-geslacht,sex
-geslacht,gender
+slachte,sex
 soerstof,oxygen
 stikstof,nitrogen
 stjer,star
@@ -353,4 +354,3 @@ yttrium,yttrium
 zirkonium,zirconium
 ôfsluting,obstacle
 ôfsluting,obstruction
-frisian,english

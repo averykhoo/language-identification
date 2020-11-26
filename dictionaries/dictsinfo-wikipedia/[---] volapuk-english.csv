@@ -64,7 +64,9 @@ Bakı,Baku
 Baltimore,Baltimore
 Bangalore,Bangalore
 Bangladejän,Bangladesh
+Bangladejän,Bangladesh
 Banjul,Banjul
+Barbadeän,Barbados
 Barbadeän,Barbados
 Barcelona,Barcelona
 Bari,Bari
@@ -75,9 +77,13 @@ Baton Rouge,Baton Rouge
 Bayonne,Bayonne
 Bayän,Bavaria
 Belarusän,Belarus
+Belarusän,Belarus
+Belgän,Belgium
 Belgän,Belgium
 Belisän,Belize
+Belisän,Belize
 Belo Horizonte,Belo Horizonte
+Beninän,Benin
 Beninän,Benin
 Beograd,Belgrade
 Bergen,Bergen
@@ -90,16 +96,18 @@ Birmingham,Birmingham
 Bismarck,Bismarck
 Bismarck,Bismarck
 Blaise Pascal,Blaise Pascal
-Marx,Marx Brothers
 Bloemfontein,Bloemfontein
 Boise,Boise
+Bolit,Politics
 Bolivän,Bolivia
 Bologna,Bologna
 Bolzano,Bolzano
 Bonn,Bonn
 Bordeaux,Bordeaux
 Bosnän e Härzegovän,Bosnia and Herzegovina
+Bosnän e Härzegovän,Bosnia and Herzegovina
 Boston,Boston
+Bot,Bot
 Braga,Braga
 Brandänburgän,Brandenburg
 Brasilän,Brazil
@@ -126,6 +134,7 @@ Buffalo,Buffalo
 Bulgarän,Bulgaria
 Burkinän,Burkina Faso
 Bursa,Bursa
+Butän,Bhutan
 Butän,Bhutan
 Bydgoszcz,Bydgoszcz
 Bängasi,Benghazi
@@ -182,9 +191,11 @@ Curitiba,Curitiba
 Cusco,Cusco
 Cäsair,Algiers
 Cög,Chess
+Cög,Chess
 D,D
 Dallas,Dallas
 Dante Alighieri,Dante Alighieri
+Danän,Denmark
 Danän,Denmark
 Darwin,Darwin
 Daugavpils,Daugavpils
@@ -199,6 +210,7 @@ Delta,Delta
 Denver,Denver
 Des Moines,Des Moines
 Detroit,Detroit
+Deutän,Germany
 Deutän,Germany
 Devon,Devon
 Dhaka,Dhaka
@@ -277,6 +289,7 @@ Genealog,Genealogy
 Genova,Genoa
 Genève,Geneva
 Geoffrey Chaucer,Geoffrey Chaucer
+Geomet,Geometry
 Georg Friedrich Händel,George Frideric Handel
 Georg Philipp Telemann,Georg Philipp Telemann
 Georg Wilhelm Friedrich Hegel,Georg Wilhelm Friedrich Hegel
@@ -295,15 +308,18 @@ Graz,Graz
 Grenoble,Grenoble
 Grikän,Greece
 Grusiyän,Georgia
+Grusiyän,Georgia
 Guayaquil,Guayaquil
 Gustav Mahler,Gustav Mahler
 Gustul,August
 Gustul 1,August 1
 Gustul 15,August 15
 Gustul 6,August 6
+Gvatemän,Guatemala
 Göteborg,Gothenburg
 H,H
 Haidarabad,Hyderabad
+Haitiyän,Haiti
 Haitiyän,Haiti
 Halle,Halle
 Hamburg,Hamburg
@@ -379,11 +395,13 @@ Jveizän,Switzerland
 K,K
 Kabovärduäns,Cape Verde
 Kaenalav,Engineering
+Kaenav,Technology
 Kahirä,Cairo
 Kambocän,Cambodia
 Kambrium,Cambrian
 Kamerunän,Cameroon
 Kampala,Kampala
+Kanadän,Canada
 Kanadän,Canada
 Kansas,Kansas
 Kansas City,Kansas City
@@ -393,6 +411,7 @@ Kathmandau,Kathmandu
 Katowice,Katowice
 Kaunas,Kaunas
 Kazakistän,Kazakhstan
+Kazakistän,Kazakhstan
 Kazan,Kazan
 Kent,Kent
 Kentucky,Kentucky
@@ -401,61 +420,11 @@ Kharkiv,Kharkiv
 Kiemav,Chemistry
 Kingston,Kingston
 Kirgistän,Kyrgyzstan
-Kiribasuäns,Kiribati
-Bangladejän,Bangladesh
-Barbadeän,Barbados
-Belarusän,Belarus
-Belgän,Belgium
-Belisän,Belize
-Beninän,Benin
-Bolit,Politics
-Bosnän e Härzegovän,Bosnia and Herzegovina
-Butän,Bhutan
-Cög,Chess
-Danän,Denmark
-Deutän,Germany
-Geomet,Geometry
-Grusiyän,Georgia
-Gvatemän,Guatemala
-Haitiyän,Haiti
-Kaenav,Technology
-Kanadän,Canada
-Kazakistän,Kazakhstan
 Kirgistän,Kyrgyzstan
-Komoruäns,Comoros
-Kubeän,Cuba
-Largäntän,Argentina
-Larmeniyän,Armenia
-Lekans,Arts
-Linglän,England
-Lirän,Iran
-Litaliyän,Italy
-Lukrayän,Ukraine
-Lübän,Libya
-Mianmarän,Burma
-Musig,Music
-Namibiyän,Namibia
-Nikaraguvän,Nicaragua
-Norgän,Norway
-Pakistän,Pakistan
-Peruvän,Peru
-Polän,Poland
-Portugän,Portugal
-Samovuäns,Samoa
-Slovakiyän,Slovakia
-Sloveniyän,Slovenia
-Sulüda-Frikopän,South Africa
-Svedän,Sweden
-Säceluäns,Seychelles
-Särbän,Serbia
-Telplänovapads,Disambiguation
-Timastabäds,Time
-Vanuatuäns,Vanuatu
-Venesolän,Venezuela
-Vietnamän,Vietnam
-Yurop,Europe
+Kiribasuäns,Kiribati
 Kolkata,Kolkata
 Kolumbän,Colombia
+Komoruäns,Comoros
 Komoruäns,Comoros
 Kongoän,Democratic Republic of the Congo
 Kongoän,Republic of the Congo
@@ -466,12 +435,14 @@ Kovätän,Kuwait
 Kroasän,Croatia
 Kuala Lumpur,Kuala Lumpur
 Kubeän,Cuba
+Kubeän,Cuba
 Kuväyt,Kuwait City
 Kveatora-Gineyän,Equatorial Guinea
 Köln,Cologne
 København,Copenhagen
 Küyiv,Kiev
 L,L
+L'Aquila,L'Aquila
 La Habana,Havana
 La Paz,La Paz
 La Plata,La Plata
@@ -488,6 +459,8 @@ Lansing,Lansing
 Lantigeän e Barbudeän,Antigua and Barbuda
 Laosän,Laos
 Largäntän,Argentina
+Largäntän,Argentina
+Larmeniyän,Armenia
 Larmeniyän,Armenia
 Las Vegas,Las Vegas
 Lasärbäcän,Azerbaijan
@@ -501,6 +474,7 @@ Leeds,Leeds
 Leicester,Leicester
 Leiden,Leiden
 Leipzig,Leipzig
+Lekans,Arts
 Lekvadorän,Ecuador
 Lemiräns Pebalöl Larabänik,United Arab Emirates
 Leonardo da Vinci,Leonardo da Vinci
@@ -519,13 +493,16 @@ Lincolnshire,Lincolnshire
 Lindän,India
 Lindäna-Seänuäns,Indonesia
 Linglän,England
+Linglän,England
 Linglänapük,English language
 Linz,Linz
 Lirakän,Iraq
 Lireyän,Republic of Ireland
 Lirän,Iran
+Lirän,Iran
 Lisboa,Lisbon
 Lisladeän,Iceland
+Litaliyän,Italy
 Litaliyän,Italy
 Litayel,Light-year
 Liverpool,Liverpool
@@ -549,16 +526,17 @@ Ludwig van Beethoven,Ludwig van Beethoven
 Lugandayän,Uganda
 Luimneach,Limerick
 Lukrayän,Ukraine
+Lukrayän,Ukraine
 Lund,Lund
 Luruguyän,Uruguay
 Lusbekän,Uzbekistan
 Luxämburgän,Luxembourg
 Luzern,Lucerne
 Lyon,Lyon
-L'Aquila,L'Aquila
 Lägüptän,Egypt
 Lätiopän,Ethiopia
 Lösterän,Austria
+Lübän,Libya
 Lübän,Libya
 M,M
 Macarän,Hungary
@@ -585,6 +563,7 @@ Mark Twain,Mark Twain
 Marlene Dietrich,Marlene Dietrich
 Marokän,Morocco
 Marseille,Marseille
+Marx,Marx Brothers
 Maryland,Maryland
 Massachusetts,Massachusetts
 Mata Hari,Mata Hari
@@ -602,6 +581,7 @@ Memphis,Memphis
 Mesopotän,Mesopotamia
 Metafüd,Metaphysics
 Miami,Miami
+Mianmarän,Burma
 Mianmarän,Burma
 Michael Faraday,Michael Faraday
 Michelangelo,Michelangelo
@@ -629,6 +609,7 @@ Mosambikän,Mozambique
 Moskva,Moscow
 Mumbai,Mumbai
 Mun,Moon
+Musig,Music
 Mädinä,Medina
 Mäkkä,Mecca
 Mänamä,Manama
@@ -643,6 +624,7 @@ München,Munich
 N,N
 NBNL,NATO
 Nairobi,Nairobi
+Namibiyän,Namibia
 Namibiyän,Namibia
 Nancy,Nancy
 Nantes,Nantes
@@ -671,10 +653,12 @@ Niels Henrik Abel,Niels Henrik Abel
 Nigeriyän,Nigeria
 Nijmegen,Nijmegen
 Nikaraguvän,Nicaragua
+Nikaraguvän,Nicaragua
 Nikola Tesla,Nikola Tesla
 Nimav,Zoology
 Nolüda-Koreyän,North Korea
 Norfolk,Norfolk
+Norgän,Norway
 Norgän,Norway
 North Carolina,North Carolina
 North Dakota,North Dakota
@@ -714,6 +698,7 @@ P,P
 Pablo Picasso,Pablo Picasso
 Padova,Padua
 Pakistän,Pakistan
+Pakistän,Pakistan
 Palauvuäns,Palau
 Paleozoig,Paleozoic
 Palermo,Palermo
@@ -724,6 +709,7 @@ Paris,Paris
 Pennsylvania,Pennsylvania
 Perm,Perm
 Perth,Perth
+Peruvän,Peru
 Peruvän,Peru
 Peter Paul Rubens,Peter Paul Rubens
 Philadelphia,Philadelphia
@@ -740,6 +726,7 @@ Plovdiv,Plovdiv
 Plzeň,Pilsen
 Poitiers,Poitiers
 Polän,Poland
+Polän,Poland
 Port Louis,Port Louis
 Port Vila,Port Vila
 Port of Spain,Port of Spain
@@ -748,6 +735,7 @@ Portland,Portland
 Portland,Portland
 Porto,Porto
 Portsmouth,Portsmouth
+Portugän,Portugal
 Portugän,Portugal
 Potsdam,Potsdam
 Poyümot,Suffix
@@ -807,8 +795,8 @@ Saluda-Vinsenteän e Grenadineäns,Saint Vincent and the Grenadines
 Salvador,Salvador
 Salvadorän,El Salvador
 Salzburg,Salzburg
-Bot,Bot
 Samara,Samara
+Samovuäns,Samoa
 Samovuäns,Samoa
 Samuel Beckett,Samuel Beckett
 San Antonio,San Antonio
@@ -852,6 +840,8 @@ Siyop,Asia
 Skopje,Skopje
 Skotän,Scotland
 Slovakiyän,Slovakia
+Slovakiyän,Slovakia
+Sloveniyän,Slovenia
 Sloveniyän,Slovenia
 Sofiya,Sofia
 Sol,Sun
@@ -877,6 +867,7 @@ Stuttgart,Stuttgart
 Stän,Flag
 Sudän,Sudan
 Suluvän-Nataliän,KwaZulu-Natal
+Sulüda-Frikopän,South Africa
 Sulüda-Koreyän,South Korea
 Suomiyän,Finland
 Surinän,Suriname
@@ -884,8 +875,11 @@ Surrey,Surrey
 Sutuvän,Lesotho
 Svasiyän,Swaziland
 Svedän,Sweden
+Svedän,Sweden
 Sydney,Sydney
 Säceluäns,Seychelles
+Säceluäns,Seychelles
+Särbän,Serbia
 Särbän,Serbia
 Söul,Seoul
 Süriyän,Syria
@@ -905,11 +899,13 @@ Tayvän,Republic of China
 Tayän,Thailand
 Tbilisi,Tbilisi
 Tehran,Tehran
+Telplänovapads,Disambiguation
 Tennessee,Tennessee
 Texas,Texas
 Thessaloniki,Thessaloniki
 Thomas Aquinas,Thomas Aquinas
 Thomas Edison,Thomas Edison
+Timastabäds,Time
 Tirana,Tirana
 Tivoli,Tivoli
 Tjadän,Chad
@@ -955,10 +951,12 @@ Valencia,Valencia
 Valletta,Valletta
 Vancouver,Vancouver
 Vanuatuäns,Vanuatu
+Vanuatuäns,Vanuatu
 Var,Var
 Varna,Varna
 Vat,Water
 Vatikän,Vatican City
+Venesolän,Venezuela
 Venesolän,Venezuela
 Venezia,Venice
 Vermont,Vermont
@@ -971,6 +969,7 @@ Victoria,Victoria
 Victoria,Victoria
 Viengtjan,Vientiane
 Vienne,Vienne
+Vietnamän,Vietnam
 Vietnamän,Vietnam
 Vilnius,Vilnius
 Vincent van Gogh,Vincent van Gogh
@@ -1024,6 +1023,7 @@ Yunul 24,June 24
 Yunul 29,June 29
 Yunul 3,June 3
 Yuriy Gagarin,Yuri Gagarin
+Yurop,Europe
 Yämän,Yemen
 Z,Z
 Zagreb,Zagreb

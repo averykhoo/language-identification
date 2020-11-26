@@ -30,8 +30,8 @@ Antigua dan Barbuda,Antigua and Barbuda
 Apus,Apus
 Aquarius,Aquarius
 Aquila,Aquila
-Arab Saudi,Saudi Arabia
 Arab Saudi,Kingdom of Saudi Arabia
+Arab Saudi,Saudi Arabia
 Argentina,Argentina
 Argentina,Argentine Republic
 Aries,Aries
@@ -65,10 +65,10 @@ Bermuda,Bermuda
 Betlehem,Bethlehem
 Bhutan,Bhutan
 Bhutan,Kingdom of Bhutan
-Bima Sakti,Milky Way
 Bima Sakti,Galaxy
-Bimasakti,Milky Way
+Bima Sakti,Milky Way
 Bimasakti,Galaxy
+Bimasakti,Milky Way
 Birmingham,Birmingham
 Botswana,Botswana
 Botswana,Republic of Botswana
@@ -79,10 +79,10 @@ Brunei,Brunei
 Brunei,Negara Brunei Darussalam
 Bulgaria,Bulgaria
 Bulgaria,Republic of Bulgaria
-Bumi,earth
-Bumi,Earth
-Bumi,the world
 Bumi,Blue Planet
+Bumi,Earth
+Bumi,earth
+Bumi,the world
 Burundi,Burundi
 Burundi,Republic of Burundi
 Cancer,Cancer
@@ -112,8 +112,8 @@ Estonia,Estonia
 Estonia,Republic of Estonia
 Ethiopia,Ethiopia
 Ethiopia,Federal Democratic Republic of Ethiopia
-Faro,Faroese
 Faro,Faeroese
+Faro,Faroese
 Finlandia,Finland
 Finlandia,Republic of Finland
 Flevoland,Flevoland
@@ -126,8 +126,8 @@ Gambia,Gambia
 Gambia,Gambia
 Gambia,Gambia
 Gambia,Gambia
-Gambia,The Gambia
 Gambia,Republic of The Gambia
+Gambia,The Gambia
 Gemini,Gemini
 Georgia,Georgia
 Georgia,Georgian
@@ -143,9 +143,9 @@ Guam,Guam
 Guam,Guam
 Gunung Fuji,Mount Fuji
 Guyana Perancis,French Guiana
+H5N1,A(H5N1)
 H5N1,H5N1
 H5N1,Influenza A virus subtype H5N1
-H5N1,A(H5N1)
 Haiti,Haiti
 Haiti,Republic of Haiti
 Hercules,Hercules
@@ -166,16 +166,16 @@ Israel,Israel
 Israel,State of Israel
 Italia,Italian Republic
 Italia,Italy
-Jakarta,Jakarta
-Jakarta,Djakarta
 Jakarta,DKI Jakarta
+Jakarta,Djakarta
+Jakarta,Jakarta
 Jamaika,Jamaica
 Jepang,Japan
 Jepang,State of Japan
-Jerman,Germany
 Jerman,Federal Republic of Germany
-Jersey,Jersey
+Jerman,Germany
 Jersey,Bailiwick of Jersey
+Jersey,Jersey
 Jupiter,Jupiter
 Kairo,Cairo
 Kaledonia Baru,New Caledonia
@@ -189,12 +189,12 @@ Kenya,Kenya
 Kenya,Republic of Kenya
 Kepulauan Balears,Balearic Islands
 Kepulauan Cayman,Cayman Islands
+Kerajaan Inggris,UK
 Kerajaan Inggris,United Kingdom
 Kerajaan Inggris,United Kingdom of Great Britain and Northern Ireland
-Kerajaan Inggris,UK
 Khartoum,Khartoum
-Kirgizstan,Kyrgyzstan
 Kirgizstan,Kyrgyz Republic
+Kirgizstan,Kyrgyzstan
 Kiribati,Kiribati
 Kiribati,Republic of Kiribati
 Kroasia,Croatia
@@ -204,13 +204,13 @@ Lausanne,Lausanne
 Laut Aegea,Aegean Sea
 Laut Karibia,Caribbean Sea
 Leo,Leo
-Lesotho,Lesotho
 Lesotho,Kingdom of Lesotho
+Lesotho,Lesotho
 Liberia,Liberia
 Liberia,Republic of Liberia
 Libra,Libra
-Libya,Libya
 Libya,Great Socialist People's Libyan Arab Jamahiriya
+Libya,Libya
 Lithuania,Lithuania
 Lithuania,Republic of Lithuania
 Lyon,Lyon
@@ -219,16 +219,16 @@ Malawi,Republic of Malaŵi
 Malaysia,Malaysia
 Malta,Malta
 Malta,Republic of Malta
-Maroko,Morocco
 Maroko,Kingdom of Morocco
+Maroko,Morocco
 Martinique,Martinique
-Mauritania,Mauritania
 Mauritania,Islamic Republic of Mauritania
+Mauritania,Mauritania
 Mayotte,Mayotte
 Mekkah,Mecca
 Merkurius,Mercury
-Mesir,Egypt
 Mesir,Arab Republic of Egypt
+Mesir,Egypt
 Milan,Milan
 Milwaukee,Milwaukee
 Monako,Monaco
@@ -242,14 +242,14 @@ New York,New York
 Niedersachsen,Lower Saxony
 Nikaragua,Nicaragua
 Niue,Niue
-Norwegia,Norway
 Norwegia,Kingdom of Norway
+Norwegia,Norway
 Nuuk,Nuuk
 Orléans,Orleans
-Pakistan,Pakistan
 Pakistan,Islamic Republic of Pakistan
-Pantai Gading,Ivory Coast
+Pakistan,Pakistan
 Pantai Gading,Cote d'Ivoire
+Pantai Gading,Ivory Coast
 Pantai Gading,Republic of Cote d'Ivoire
 Papua Nugini,Papua New Guinea
 Paskah,Easter
@@ -267,8 +267,8 @@ Pulau Bouvet,Bouvet Island
 Pulau Christmas,Christmas Island
 Qatar,Qatar
 Raja Matahari,Sun King
-Republik Demokratik Kongo,Democratic Republic of the Congo
 Republik Demokratik Kongo,Congo-Kinshasa
+Republik Demokratik Kongo,Democratic Republic of the Congo
 Republik Dominika,Dominican Republic
 Rumania,Romania
 Sagittarius,Sagittarius
@@ -290,55 +290,56 @@ St. Petersburg,Petrograd
 St. Petersburg,Saint Petersburg
 St. Petersburg,St. Petersburg
 Sudan,Sudan
-Súdan,Sudan
 Sungai Seine,Seine
 Suriname,Suriname
 Swedia,Sweden
 Swiss,Switzerland
+Súdan,Sudan
+TTS,crossword
 Taiwan,Taiwan
 Tanzania,Tanzania
 Taurus,Taurus
 Tennessee,Tennessee
-Teritorial Britania di Samudra Hindia,British Indian Ocean Territory
 Teritorial Britania di Samudra Hindia,BIOT
+Teritorial Britania di Samudra Hindia,British Indian Ocean Territory
 Thailand,Thailand
 Thüringen,Thuringia
-Timor Timur,East Timor
 Timor Timur,Democratic Republic of Timor-Leste
+Timor Timur,East Timor
 Togo,Togo
 Tonga,Tonga
 Toronto,Toronto
 Turki,Turkey
-Uganda,Uganda
 Uganda,Republic of Uganda
+Uganda,Uganda
 Uni Eropa,EU
 Uni Eropa,European Union
 Uranus,Uranus
 Utah,Utah
 Vaduz,Vaduz
-Vatikan,Vatican City
-Vatikan,The Holy See
 Vatikan,State of the Vatican City
+Vatikan,The Holy See
+Vatikan,Vatican City
 Venesia,Venice
 Venezuela,Venezuela
 Venus,Venus
-Wallis dan Futuna,Wallis and Futuna
 Wallis dan Futuna,Territory of the Wallis and Futuna Islands
-Yordania,Jordan
+Wallis dan Futuna,Wallis and Futuna
 Yordania,Hashemite Kingdom of Jordan
+Yordania,Jordan
 Yunani,Greece
 Yunani,Hellenic Republic
-Zambia,Zambia
 Zambia,Republic of Zambia
+Zambia,Zambia
 Zanzibar,Zanzibar
-Zimbabwe,Zimbabwe
 Zimbabwe,Republic of Zimbabwe
+Zimbabwe,Zimbabwe
 aberikos,apricot
 agresif,aggressive
 air,water
 akordeon,accordion
-akordeon,squeeze box
 akordeon,piano accordion
+akordeon,squeeze box
 aktinium,actinium
 akuarium,aquarium
 akuntansi,accountancy
@@ -356,8 +357,6 @@ amplitudo,amplitude
 anarkisme,anarchism
 angin topan,storm
 angin topan,tempest
-badai,storm
-badai,tempest
 angsa,goose
 anjing,dog
 antropologi,anthropology
@@ -380,12 +379,16 @@ astrometri,astrometry
 atap,roof
 atap,roof
 atap,roof
+badai,storm
+badai,tempest
 bahasa Belanda,Dutch
+bahasa Indonesia,Indonesian
 bahasa Jawa,Javanese
 bahasa Jerman,German
 bahasa Yiddish,Yiddish
 bahasa resmi,official language
 balada,ballad
+bareng,together
 barium,barium
 barometer,barometer
 beatifikasi,beatification
@@ -393,21 +396,21 @@ bebek,duck
 beguk,mumps
 belerang,sulphur
 berani,audacious
-beri biru,huckleberry
 beri biru,blueberry
+beri biru,huckleberry
 berilium,beryllium
 berilium,glucinium
 berkelium,berkelium
 berpakaian,attire
 bersama,together
-bareng,together
 beruang kutub,polar bear
-berudu,tadpole
 berudu,polliwog
+berudu,tadpole
 berwenang,authoritative
 besi,iron
-bilangan prima,prime number
+bianglala,rainbow
 bilangan prima,prime
+bilangan prima,prime number
 bintang,star
 bioma,biome
 bir,beer
@@ -422,7 +425,6 @@ brokoli,broccoli
 brom,bromine
 buah pir,pear
 buat,do
-melakukan,do
 bulutangkis,badminton
 bungkul,cauliflower
 burung unta,ostrich
@@ -441,11 +443,6 @@ dan,as well as
 dan,in addition to
 dan,together with
 dan,too
-serta,and
-serta,as well as
-serta,in addition to
-serta,together with
-serta,too
 darurat,emergency
 demam berdarah,dengue fever
 demokrasi,democracy
@@ -476,8 +473,8 @@ galium,gallium
 gas,gas
 genom,genome
 germanium,germanium
-glikolisis,glycolysis
 glicolisi,glycolysis
+glikolisis,glycolysis
 gonorhea,gonorrhea
 guillotine,guillotine
 guillotine,guillotine
@@ -487,7 +484,6 @@ haiku,haiku
 halangangan,obstacle
 halangangan,obstruction
 hampir,almost
-nyaris,almost
 helikopter,helicopter
 helium,helium
 hematologi,haematology
@@ -495,14 +491,14 @@ heroin,heroin
 historiografi,historiography
 horison,horizon
 hormon,hormone
-hukuman mati,death penalty
 hukuman mati,capital punishment
+hukuman mati,death penalty
 hukuman mati,death sentence
 ibu jari,thumb
 ideologi,ideology
 indium,indium
+indonesian,english
 indónesíska,Indonesian
-bahasa Indonesia,Indonesian
 inflasi,inflation
 iridium,iridium
 itrium,yttrium
@@ -514,7 +510,6 @@ jari kelingking,pinkie
 jazz,jazz
 jendral,general
 jual,sell
-menjual,sell
 juni,June
 jurnalis,journalist
 jurnalisme,journalism
@@ -534,7 +529,6 @@ kata depan,preposition
 kata kerja,verb
 kayu,wood
 kecelakaan,accident
-musibah,accident
 kehamilan,pregnancy
 keheranan,astonishment
 kejahatan,crime
@@ -552,8 +546,8 @@ klitoris,button
 klitoris,clit
 klitoris,clitoris
 kobal,cobalt
-koelkas,refrigerator
 koelkas,fridge
+koelkas,refrigerator
 kolesterol,cholesterol
 komunisme,communism
 konferensi,conference
@@ -581,6 +575,7 @@ malaria,malaria
 mangan,manganese
 marsupial,marsupial
 mayones,mayonnaise
+melakukan,do
 melayani,attend
 memaksakan,assert
 membantu,assist
@@ -598,10 +593,11 @@ mengejutkan,astounding
 mengherankan,astonish
 mengikuti,attend
 mengumpulkan,assemble
-mengumpulkan,get together
 mengumpulkan,gather
+mengumpulkan,get together
 menguntungkan,auspicious
 meningkatkan,augment
+menjual,sell
 menugaskan,assign
 menyatakan,assert
 menyayangi,attached
@@ -609,45 +605,45 @@ menyembelih,slaughter
 menyetujui,assent
 menyukai,attachment
 merkurius,mercury
-merpati,pigeon
 merpati,dove
+merpati,pigeon
 mesjid,mosque
 metafisika,metaphysics
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,shooting star
+meteor,falling star
+meteor,falling star
+meteor,falling star
+meteor,falling star
 meteor,falling star
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
-meteor,shooting star
-meteor,falling star
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,shooting star
-meteor,falling star
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
 meteor,shooting star
-meteor,falling star
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
 meteor,shooting star
-meteor,falling star
+meteor,shooting star
+meteor,shooting star
 meteorit,meteorite
 mikrofon,microphone
 mineralogi,mineralogy
@@ -657,8 +653,8 @@ misterius,mysterious
 molibdenum,molybdenum
 morfin,morphine
 museum,museum
+musibah,accident
 nasi,rice
-padi,rice
 neodimium,neodymium
 neologisme,neologism
 neon,neon
@@ -667,12 +663,13 @@ neurologi,neurology
 nikel,nickel
 niobium,niobium
 nitrogen,nitrogen
-nol,zero
 nol,null
+nol,zero
+nyaris,almost
 obesitas,obesity
 oktaf,octave
-oligarhija,oligarchy
 oligarchia,oligarchy
+oligarhija,oligarchy
 oligopoli,oligopoly
 onkologi,oncology
 opera,opera
@@ -681,6 +678,7 @@ osmium,osmium
 otokrasi,autocracy
 otopsi,autopsy
 ovarium,ovary
+padi,rice
 pakaian,attire
 paladium,palladium
 palma,palm
@@ -688,7 +686,6 @@ pankreas,pancreas
 pedagang,merchant
 pedang,sword
 pelangi,rainbow
-bianglala,rainbow
 pembunuh,assassin
 pembunuh,assassinator
 pencernaan,digestion
@@ -697,12 +694,12 @@ penjaga,attendant
 penjagal,butcher
 pensil,pencil
 penuh,full
-penyakit menular,infectious disease
 penyakit menular,communicable diseases
+penyakit menular,infectious disease
 penyerang,aggressor
 penyerang,assailant
-penyerang,attacker
 penyerang,assaulter
+penyerang,attacker
 perak,silver
 perang dunia,world war
 perbatasan,boundary
@@ -747,15 +744,15 @@ radium,radium
 radon,radon
 rahasia,secret
 rantai makanan,food chain
-referendum,referendum
 referendum,plebiscite
+referendum,referendum
 renium,rhenium
 rhodium,rhodium
 ribu,thousand
 rijang,flint
 rijang,flintstone
-rok mini,miniskirt
 rok mini,mini-skirt
+rok mini,miniskirt
 rokok,cigarette
 roti,bread
 ruang dansa,ballroom
@@ -779,12 +776,17 @@ semenanjung,peninsula
 semut,ant
 seng,zinc
 sengaja,arson
-senyawa kimia,compound
 senyawa kimia,chemical compound
+senyawa kimia,compound
 sepeda,bicycle
 sepeda,bike
 sepeda,cycle
 serium,cerium
+serta,and
+serta,as well as
+serta,in addition to
+serta,together with
+serta,too
 sesium,caesium
 sifilis,syphilis
 siku,elbow
@@ -799,16 +801,15 @@ sphinx,sphinx
 stronsium,strontium
 sumbangan,donation
 supernova,supernova
-tahanan perang,prisoner of war
 tahanan perang,POW
-tahanan perang,PoW
 tahanan perang,PW
+tahanan perang,PoW
+tahanan perang,prisoner of war
 talium,thallium
 tanjakan,ascent
 tantalum,tantalum
 teh,tea
 teka-teki silang,crossword
-TTS,crossword
 teknesium,technetium
 telapak atas,instep
 telepon,phone
@@ -819,8 +820,8 @@ tengkorak,skull
 teokrasi,theocracy
 teologi,theology
 teori chaos,chaos theory
-terjemah,translate
 terjemah,interpret
+terjemah,translate
 terkejut,aback
 terkejut,astound
 terminologi,terminology
@@ -848,12 +849,12 @@ tuli,deaf
 tulip,tulip
 tuna,tunafish
 tupai chipmunk,chipmunk
-universitas,university
-universitas,university
+universitas,academy
 universitas,academy
 universitas,university
 universitas,university
-universitas,academy
+universitas,university
+universitas,university
 ununbium,ununbium
 ununoktium,ununoctium
 uranium,uranium
@@ -869,4 +870,3 @@ zebra,zebra
 zirkonium,zirconium
 zona waktu,timezone
 Åland,Åland Islands
-indonesian,english

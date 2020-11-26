@@ -1,5 +1,6 @@
 Other,English
 ....chin bin,in front of......
+HIV daai kwan je,HIV positive
 a si pat ling,aspirin
 ap gaak,pass
 ba bà,daddy
@@ -11,7 +12,6 @@ baak gap,pigeon
 baak yeung sue,poplar
 baan gung sat,office
 baan kau,cricket
-bàan mã sin,zebra crossing
 baat daat tung,octopus card
 baat jaau yue,octopus
 baau gwoh,parcel
@@ -33,8 +33,6 @@ be lei,pear
 bei,give
 bei choi,race(sport)
 bei choi yung daan ché,racing bike
-bëi mât,secret
-bëi sùe,secretary
 bei yan,contraception
 bei yan to,condoms
 beng,ill
@@ -45,14 +43,12 @@ bin lun,to argue
 bing bam kau,ping-pong
 bing bok,hail
 bo din,pudding
-bô fùng yÜe,storm
 bo him,insure(to)
 bo mo,babysitter
 bo sau,conservative
 bo woo,protect(to)
 boh,ball
 boh si,boss
-bôk,thin
 bok mat gwoon,museum
 bong mong,"aid(help), help"
 booi,cup
@@ -62,7 +58,11 @@ booi nong haak,backpacker
 boon cheung yau sik,interval
 boon do,pensinsula
 boon yé,midnight
-cëk mã,size
+bàan mã sin,zebra crossing
+bëi mât,secret
+bëi sùe,secretary
+bô fùng yÜe,storm
+bôk,thin
 cha,tea
 cha fa,camelia
 cha gàng,tea spoon
@@ -75,28 +75,21 @@ chaap so ta,plug
 chaat,brush
 chan chik,relatives
 chan ngaai,dust
-cháu,shame
 chau gwai,autumn
 chau yeung chang,ozone layer
 che,car
 che jai,rickshaw
 che lei ji,cherries
 che paai,driving licence
-chè tàai,tyre
-chëk mã,size
-chèng,please
 cheung,"gun, long"
 cheung gip,rob(to)
 chi,delay
+chi do,late
 chi dì gïn,see you later
 chi dì sìn,we'll see !
-chi do,late
 chi gàng,spoon
-chï jí,toilet paper
 chi sin,crazy
-chï sóh,toilet
 chim jing,visa
-chìm méng,signature
 chin bin,in front of
 chin min,ahead
 chin nin sùk se,youth hostel
@@ -109,9 +102,7 @@ cho wóo,tea pot
 cho yeuk,herbs
 cho yuek,herbs
 choh,wrong
-chõh,sit(to)
 choh ng,mistake
-chói,grass
 choi daan,menu
 choi hung,rainbow
 choi sik,colour(color)
@@ -126,15 +117,12 @@ chui chau jai,deodorant
 chui jai,hammer
 chui jik,new year's Eve
 chui siu,cancel(to)
-chùk dô,speed
-chùn gwäi,spring(season)
 chung,heavy
 chung fuk,repeat(to)
 chung leung fong,bathroom
 chung loi mo,never
 chung ming,intelligent
 chung moon,fill(to)
-chùng sàn,shower(bath)
 chut chau,exit
 chut faat,departure
 chut hui !,get out !
@@ -143,39 +131,43 @@ chut naap,cashier
 chut sai ji,birth certificate
 chut sang dei,place of birth
 chut sang nin yuet yat,date of birth
+cháu,shame
+chè tàai,tyre
+chèng,please
+chëk mã,size
+chìm méng,signature
+chï jí,toilet paper
+chï sóh,toilet
+chói,grass
+chõh,sit(to)
+chùk dô,speed
+chùn gwäi,spring(season)
+chùng sàn,shower(bath)
+cëk mã,size
 da,dozen
 da foh gei,lighter
 da jam,injection
 da so,cleaning
 daai,large
-dâai,big
 daai daat dei,public square
 daai gaam ga,on sale
 daai gau tong,cathedral
 daai goh daai,mobile phone
 daai haak chè,coach(bus)
-dâai hôk,university
 daai lo,main road
 daai seng,loud
 daai si gwoon,embassy
 daai yan,adult
 daai yeuk,about
-dàan,bill
-daan chè,bicycle
 daan ching lo,one way only (road)
+daan chè,bicycle
 daan duk,alone
-dàan dûk,single
-dàan sàn,single(person)
 daan yan chong,single bed
 daap sun fung che,hitchhike(to)
-dái,bottom
-dài,low
 dai dái,younger brother
 dai mei,last(colloquial)
 dai pin,film(negatives)
 dai yat,first
-dâi yî,second(place)
-dâk bït,special
 dang,chair
 dang gei,registration
 dang gei jing,boarding pass
@@ -188,77 +180,83 @@ dei chaan doi lei sèung,real estate agent
 dei jan,earthquake
 dei ji,address
 dei kau,earth
-dêi kùi,zone
 dei to,"map, atlas"
-dìk sí,taxi
-dìk sí jâam,taxi stand
 dim,OK
 dim a ?,how ?
 dim(choi),to order (a meal)
-dîn bö,telegram
-dîn chè,tramways
-dîn chè jâam,tram stop
-dîn chè jâam,train stop
 din chi,battery
 din lik,electricity
 din no,computer
-dîn wá,telephone
 din wa bo,"directory, phonebook"
-dîn wá hô mã,telephone number
 din wa kaat,phonecard
-dîn wá kàat,telephone card
-dîn wá ting,telephone booth
-dÏn wá ting,telephone booth
 din yau,"e-mail, petrol"
-dîn ying,movie
 ding fan,engagement
 dip,disk
-dîp,plate
 diu yue,fishing
-dó,island
-dô,to arrive
 do bok,gamble(to)
 do daat,arrivals
-dô gäau,taoism
 do gei,jealous
-dô gwöon,taoist temple
 do lo,road
 do maang huen,guide dog
 do yau,guide(person)
-dòh jê,thank you
-dòh sí lo,toast
 doi,bag
 doi haak,parking
 doi haak paak chè,parking service
-dòi jai,penknife
 doi lei,agency
-dúen,short
 dui fong foo foon,collect call
 dui m jue,excuse me
-düi m jüe,sorry
 duk ban,drug(recreational)
 duk faan,drug dealer
 duk yan,drug addiction
 dung,"cold, cold(adj)"
-dúng,east
 dung git,freeze
 dung mat,animals
-dûng mât yuen,zoo
 dung sui,cold water
 dung yuet,caves
+dÏn wá ting,telephone booth
+dàan,bill
+dàan dûk,single
+dàan sàn,single(person)
+dài,low
+dái,bottom
+dâai,big
+dâai hôk,university
+dâi yî,second(place)
+dâk bït,special
+dêi kùi,zone
+dìk sí,taxi
+dìk sí jâam,taxi stand
+dîn bö,telegram
+dîn chè,tramways
+dîn chè jâam,train stop
+dîn chè jâam,tram stop
+dîn wá,telephone
+dîn wá hô mã,telephone number
+dîn wá kàat,telephone card
+dîn wá ting,telephone booth
+dîn ying,movie
+dîp,plate
+dòh jê,thank you
+dòh sí lo,toast
+dòi jai,penknife
+dó,island
+dô,to arrive
+dô gwöon,taoist temple
+dô gäau,taoism
+dúen,short
+dúng,east
+dûng mât yuen,zoo
+düi m jüe,sorry
 fa,flower
 fa fai,cost(to)
 fa fan jing,hayfever
 fa jong,make-up
 fa sang,peanuts
-fà sî ling,vaseline
 fa yuen,garden
 faa di !,hurry up !
-fààan yîk,translation
 faai,"fast(adj), quick"
 faai ji,chopsticks
 faan hat,antinuclear
-fàan ké,tomato
 faan suen,junk(boat)
 faan ying,reaction
 faat lut,law
@@ -267,7 +265,6 @@ faat siu,fever
 faat yin,discover
 faat yueng diu,epileptic
 fai yung,fee
-fàn dûen,section
 fan jung,minute
 fat gaau,Buddhism
 fat lam,deforstation
@@ -280,9 +277,7 @@ fei gei,aeroplane
 fei lam,film(for camera)
 foh,fire
 foh chaai,matches
-fóh chè,train
 foh che jaam,railway station
-fóh chè jâam,train station
 foh gëi,waiter
 foh hôk gà,scientist
 foh juk a !,fire !
@@ -293,8 +288,6 @@ fong mân,visit(to)
 fong y^k jüe sê,vaccination
 fong yûk jüe sê,vaccination
 foo,bitter
-fóo,tiger
-föo,trousers
 foo boon,a copy
 foo chan,father
 foo gan,nearby
@@ -307,11 +300,18 @@ fung,"maple, sew(to)"
 fung him,risk(to)
 fung si,fan
 fung sin,fan
+fà sî ling,vaseline
+fàan ké,tomato
+fàn dûen,section
+fààan yîk,translation
+fóh chè,train
+fóh chè jâam,train station
+fóo,tiger
+föo,trousers
 g,cocktail party
 ga chin,price
 ga fe,coffee
 ga kei,holiday
-gä kei,vacation
 ga lei,curry
 ga nin wa,carnival
 ga ting,family
@@ -319,24 +319,18 @@ ga yau jaam,petrol station
 gaam laam,olive
 gaam yuk,jail
 gaap ban,deck(of ship)
-gäau jín,scissors
 gaau lin,coach(training)
-gäau sì,teacher
 gaau tong,church
-gàau tùng dàng,traffic signals
 gaau yuk,education
 gai mei jau wooi,cocktail party
 gai so gei,calculator
 gam,gold
 gam gok,feel(to)
 gam kui,restricted area
-gàm màan,tonight
 gam sau,feeling
-gàm yât,today
 gam yat ho yit,it's hot today
 gan,root
 gan gap,emergency
-gán gàp,urgent
 gang ho,better
 gang yi sat,changing room
 gap dung sik mat,frozen foods
@@ -344,8 +338,6 @@ gap gau,first aid
 gap gau seung,first aid box
 gat chuen,puncture
 gat po che,jeep
-gáu,dog
-gãu,enough
 gei,gay
 gei ba,gay bar
 gei cheung,airport
@@ -354,12 +346,9 @@ gei dak,to remember
 gei doh a ?,how many ?
 gei doh chin a ?,how much ?
 gei duk to,christian
-gèi hëi,"engine, machine"
-gëi nïm bán,souvenir
 gei woo,chance
 gei yan,gene
 geng,mirror
-gèng,scared
 geuk,foot
 gim yik,quarantine
 gin hong,health
@@ -378,24 +367,20 @@ ging yim,experience
 git fan,marry(to)
 git ta,guitar
 go,high
-gò,tall
 goh kek,opera
 goh sing,personality
 goi leung,improve(to)
 gon booi !,bottoms up !
 gong daai wa,lie(a)
 gong hau,"port, harbour"
-góng wäi,speak(to)
 goo,"drums, guess"
 goo dung,antiques
 goo jik,historical sites
 goo jue,employer
 goo lei,coolie
 goo yuen,employee
-gûi fùng,typhoon
 guk fa,chrysanthemum
 guk goo,cocoa
-gùng,toaist temple
 gung chi,public toilet
 gung chong,factory
 gung din,palace
@@ -409,7 +394,6 @@ gung man,citizenship
 gung ngon,policeman(in China)
 gung si,company
 gung sik,formula
-gùng wooi,unions
 gung yip,industry
 gung yuen,a park
 gwaan bai,close
@@ -418,7 +402,6 @@ gwaan sam,to care (about)
 gwaan waai,to care (for someone)
 gwai,expensive
 gwai bàn,VIP
-gwäi jït,seasons
 gwai jûng mât ban,valuables
 gwat,bone
 gwoh hui,past
@@ -427,12 +410,29 @@ gwoh kei,overdue
 gwoh man,allergy
 gwok jik,nationality
 gwong,"light(bright), bright"
-gwôoi,tired
 gwoon tau,a can
 gwoon tau do,can opener
+gwäi jït,seasons
+gwôoi,tired
+gàau tùng dàng,traffic signals
+gàm màan,tonight
+gàm yât,today
+gán gàp,urgent
+gáu,dog
+gãu,enough
+gä kei,vacation
+gäau jín,scissors
+gäau sì,teacher
+gèi hëi,"engine, machine"
+gèng,scared
+gëi nïm bán,souvenir
+gò,tall
+góng wäi,speak(to)
+gùng,toaist temple
+gùng wooi,unions
+gûi fùng,typhoon
 ha bin,"below, down"
 ha goh yuet,next month
-hâ gwäi,summer
 ha loh,hello
 haai,shoes
 haak woo,client
@@ -453,17 +453,13 @@ hat yi,beggar
 hau,mouth
 hau bin,behind
 hau fuk bei yan yuen,the pill
-háu höt,thirsty
 hau lung,throat
-hâu sàang,young
 hau si,oral exam
 hei kek,comedy
 hei mong,hope
 hei tung,gas cartridge
 hei yuen,cinema
-hèuh,boot(shoes)
 heung ban,champagne
-hèung chùen,village
 heung gong,hong-kong
 heung hau gaau,chewing gum
 heung sui,perfume
@@ -471,16 +467,12 @@ hing chui,"interest(hobby), hobbies"
 hing dai,brother
 hing fan,exciting
 hing juk,celebrate(to)
-HIV daai kwan je,HIV positive
 ho,oyester
-hó,good
 ho baan gei,flight number
 ho choi,lucky
 ho doh,many
-hó hèung,smells nice
 ho ma,number
 ho noi mo gin,long time no see
-hó s^k,tasty
 ho sik,delicious
 ho wan,good luck
 ho yau,oyster sauce
@@ -493,7 +485,6 @@ hoh pa,horrible
 hoh pa dik,awful
 hoh yo,can (to be able to)
 hoi,open
-hói,sea
 hoi chi,begin(to)
 hoi gwaan,customs
 hoi lok ying,heroin
@@ -508,8 +499,6 @@ huen go,to advise
 huet,blood
 hui,go
 hung,bear
-hùng,empty
-hùng gàan,space
 hung hei,air
 hung jeuk,peacock
 hung maau,panda
@@ -517,6 +506,17 @@ hung sap ji wooi,Red Cross
 hung sik,red
 hung tiu,air-conditioned
 hung wai,bra
+háu höt,thirsty
+hâ gwäi,summer
+hâu sàang,young
+hèuh,boot(shoes)
+hèung chùen,village
+hó,good
+hó hèung,smells nice
+hó s^k,tasty
+hói,sea
+hùng,empty
+hùng gàan,space
 jaak fat,punish(to)
 jaan seung,to admire
 jaap foh po,grocery store
@@ -525,18 +525,13 @@ jaap hau,gate(boarding)
 jaap ji,magazine
 jaau woon,exchange
 jaau woon dim,money exchange
-jâau yÜe,shower(rain)
-jái,son
 jai dim,hotel
 jak bin,beside
 jam,needle
 jam tau,pillow
 jam tau to,pillowcase
-jàm túng,syringe
 jan ga,increase
 jan hai ho la,it's great !
-jàn lËi,truth
-jàn sât,true
 jat beng,disease
 jat leung,quality
 jau,run(to)
@@ -545,7 +540,6 @@ jau hoi !,get lost !
 jau jing,alcohol
 jau nin gei nim,anniversary
 je,borrow
-jè,umbrella
 jeuk niu,bird
 jeung foo,husband
 jeung loi,future
@@ -560,22 +554,17 @@ ji foo,pay(to)
 ji gaak,qualifications
 ji gaan,between
 ji gaap kim,nail clippers
-jí gàn,tissues
 ji hau,after
 ji liu,heal(to)
 ji naam jam,compass
 ji piu,cheque
-jì piu,traveller's cheque
 ji sik,purple
 ji sun,information
 ji tung yeuk,painkiller
 ji yau,free
 jik hak,immediately
 jik yip,occupation
-jín,cut(to)
-jìn,blanket
 jin laam,exhibition
-jín sî,show
 jing,quiet
 jing choi !,fantastic!
 jing dong,party(political)
@@ -584,14 +573,9 @@ jing kok,right(correct)
 jing lau sui,distilled water
 jing sue,certificate
 jip sau,accept
-jîp säu,receive(to)
 jip sin sang,operator
 jit kau,discount
 jit yat,festival
-jíu jâak,swamp
-jó,early
-jò,rent(to)
-jô,"make(to), to do"
 jo chaan,breakfast
 jo foo,grand father
 jo jik,organise(to)
@@ -603,13 +587,9 @@ joi chi,again
 joi gin,goodbye
 joi seung,on
 jok ngau,nausea
-júe,cook(to)
-jùe,pig
 jue foo,housewife
 jue goo lik,chocolate
 jue jeung,insist(to)
-jûe wôo,tenant
-jüe yï,"mind(to), attention"
 jue yuk,pork
 juen daap,transit
 juen ging,respect
@@ -633,9 +613,29 @@ jung gwok,china
 jung juk,race(breed)
 jung juk kei si,racism
 jung lui,palm
-jùng tau,"hour, o'clock"
 jung yi,like
 jung yiu,important
+jàm túng,syringe
+jàn lËi,truth
+jàn sât,true
+jái,son
+jâau yÜe,shower(rain)
+jè,umbrella
+jì piu,traveller's cheque
+jìn,blanket
+jí gàn,tissues
+jín,cut(to)
+jín sî,show
+jíu jâak,swamp
+jîp säu,receive(to)
+jò,rent(to)
+jó,early
+jô,"make(to), to do"
+jùe,pig
+jùng tau,"hour, o'clock"
+júe,cook(to)
+jûe wôo,tenant
+jüe yï,"mind(to), attention"
 ka laai OK,karaoke
 ka sik luk yam daai,cassette
 kaat,card
@@ -646,11 +646,9 @@ kat,cough
 kau paak,racquet
 ke si,jockey
 kei,flag
-kéi,chess
 kei ngoh,penguin
 kei si,discrimination
 kei to,pray(to)
-kêk yúen,theatre
 keung gaan,rape
 kiu,bridghe
 kok ying,confirm(to)
@@ -663,8 +661,9 @@ kwan naan,difficult
 kwan yiu,annoying
 kwooi wa,paintings
 kwooi wa ngai sut,painting (art)
+kéi,chess
+kêk yúen,theatre
 laai,pull(to)
-làai lin,zipper
 laam,basket
 laam sik,blue
 laan,lazy
@@ -682,9 +681,6 @@ lei fan,divorced
 lei yau,reason
 lei yik,profit
 leng,beautiful
-lëng,pretty
-léng tàai,tie
-lËung chi,twice
 lin maai,included
 ling,"bring(to), zero"
 ling do,leader
@@ -697,15 +693,19 @@ long maan hei sik,romantic
 lui,thunder
 lui bin,inside
 lui ching,journey
-lÜi hang,travel
-lÛi hang sé,travel agency
 lui se dip,CD
 lui yau ji naam,guidebook
-lùk,deer
-lûk,green
 lung,deaf
 lung moon,goal(soccer)
 lut si,lawyer
+lËung chi,twice
+lÛi hang sé,travel agency
+lÜi hang,travel
+làai lin,zipper
+léng tàai,tie
+lëng,pretty
+lùk,deer
+lûk,green
 m gan yiu,it doesn't matter
 m ho,bad
 m hoh yi,cannot
@@ -723,7 +723,6 @@ maau daan,peony
 maau jai,kitten(cat)
 mak nga tong,malt sugar
 man,"to ask, smell(to)"
-mân,kiss
 man jue,democracy
 man juk,ethnic
 man ngai,arts
@@ -735,10 +734,9 @@ mat yuet,honeymoon
 mei faat si,hairdresser
 mei fan chai,fiancee
 mei fan foo,fiance
-mei sïu,smile(to)
 mei sut gwoon,art gallery
+mei sïu,smile(to)
 min,cotton
-mïn,face
 min baau,bread
 min baau po,bakery
 min fai,free of charge
@@ -748,7 +746,6 @@ ming bâak,understand(o)
 ming hin,obvious
 ming ling,order(to)
 ming sun pin,postcard
-míu,temple
 mo,"none, fog"
 mo chan,mother
 mo hoh nang,impossible
@@ -767,11 +764,13 @@ mooi nin,annual
 mooi yat,"every day, daily"
 mooi yat goh,each
 moon,door
+mung,dream
+mân,kiss
+míu,temple
+mïn,face
 môon,bored
 mõon,full
-mung,dream
 naa wai ching,embarassement
-nãai cha,tea with milk
 naai jui,"dummy(baby's), pacifier(dummy)"
 naai jun,feeding bottle
 naam,south
@@ -782,9 +781,6 @@ naan ming,incomprehensible
 naau jung,alarm clock
 nai,mud
 nang lik,"power, energy"
-náu,button
-nàu,angry
-nËi,you
 nei ho ma ?,how are you ?
 nei jo gan mat ye a ?,what are you doing ?
 nei yau mo.......?,do you have ....?
@@ -795,7 +791,6 @@ nga tung,toothache
 nga yi,dentist
 ngaam sek,rock
 ngaan,eye
-ngãan fän,sleepy
 ngaan geng,glasses
 ngaan jau,"noon, afternoon"
 ngaang,hard
@@ -811,9 +806,6 @@ ngau jau,europe
 ngau mei tong,ox tail soup
 ngau yaui,butter
 ngoh,"I, me"
-ngôh,hungry
-ngõh choh joh,I'm wrong
-ngõh dì ming,I see(understand)
 ngoh ho yit,I'm hot
 ngoh hoh yi jo,I can do it
 ngoh m hoh yi jo,I can't do it
@@ -830,17 +822,20 @@ ngoi to,coat
 ngoi yan,lover
 ngok,jaw
 ngok dui,band
-ngòn chuen,safe
-ngòn chuen dáai,seatbelt
 ngon moh,massage
 nguk kei,home
+ngãan fän,sleepy
+ngòn chuen,safe
+ngòn chuen dáai,seatbelt
+ngôh,hungry
+ngõh choh joh,I'm wrong
+ngõh dì ming,I see(understand)
 ni do,here
 nin,year
 nin ling,age
 ning mung,lemon
 niu pin,nappy
 noi gau,guilty feeling
-nôi yì,underwear
 nuen lo,heater
 nui,daughter
 nui jai,girl
@@ -849,6 +844,11 @@ nui sing,female
 nung cheung,farm
 nung man,farmer
 nung ngai,agriculture
+nËi,you
+nàu,angry
+náu,button
+nãai cha,tea with milk
+nôi yì,underwear
 pa,"fear, afraid"
 paai dui,queue
 paai jiu,licence
@@ -863,21 +863,16 @@ pin chap,editor
 pin tau tung,migraine
 ping gin,prejudice
 ping gwan,average
-pö táu,shop
 po tung,ordinary
 pong gwong yim,cystitis
 poon,tray
 pui ngaak,quota
+pö táu,shop
 sa mok,desert
 sa taan,beach
-sàaam põoi,triple
-sààan gùk,valley
-sàam geuk gá,tripod
-sàan,mountain
 saan bang,landslide
 saan deng,peak
 saan gong,hill
-sàan mak,mountain range
 saan yueng,goat
 saang,raw
 saang gwoh,fruit
@@ -886,14 +881,9 @@ saang yat faai lo,happy birthday !
 saat che,brake
 saat chung jai,insect repellent
 saat hoi,kill(to)
-säi,small
 sai beng,cake
-säi ló,younger brother(colloquial)
 sai lo goh,children
-säi móoi,younger sister(colloquial)
 sai yi po,laundry
-sàk chè,traffic jam
-sàm,"heart, deep"
 sam lam,forest
 san,god
 san bo daan,customs declaration
@@ -904,7 +894,6 @@ san sin,fresh
 san tai,body
 sap yuet,october
 sat noi,indoor
-sàt yîp,unemployed
 sau,hand
 sau bei,arm
 sau do,capital
@@ -917,18 +906,12 @@ sau ji,finger
 sau jing,repair(to)
 sau lung moon,goalkeeper
 sau ngai,crafts
-sâu pïu chüe,ticket office
 sau seung,injure
 sau to,gloves
 sau woon joh yan si,pensioner
 sau yam gei,radio
 se kwan,community
 sei,dead
-sëi fòng,suqare
-sêk tau,stone
-séung,think(to)
-sêung bîn,up
-sèung bìu,trademark
 seung chaan,disabled
 seung dang,equal
 seung faan,opposite
@@ -938,14 +921,12 @@ seung min,above
 seung mo haal wai,business class
 seung pin,photo
 seung pooi,double
-sèung sàm,sad
 seung yan,businessman
 seung yan chong,double bed
-sì,silk
 si cheung,market
 si faan,demonstration
-si gäan bíu,time table
 si gei,driver
+si gäan bíu,time table
 si heung beng,homestick
 si jeung,mayor
 si jong gung si,dress shop
@@ -957,41 +938,31 @@ sik,eat(to)
 sik gaai,food street
 sik hap,fit
 sik mat jung duk,food poisoning
-sîk yìn,smoke(to)
 sim,cicada
 sim din,lightning
 sin,rash
-sìng,star
-sïng bît,sex(m/f)
 sing daan faai lok,merry christmas
 sing daan jit,christmas
 sing daap,aboard
-sïng gám,sexy
 sing go chiu,orgasm
 sing gong gei,elevator
-sìng kei yî,tuesday
 sing ming,name
 sing sat,honest
 sing si,city
 sing sok,rope
 sing yàm,voice
-síu,"less, little, few"
 siu bà,van
 siu duk,antiseptic
 siu fa bat leung,indigestion
-síu ging,footpath
 siu nguk,hut
 siu sik dim,kiosk
 siu wa,joke
 so,count(to)
 so leung,quantity
 so sîk jé,vegetarian
-sóh,lock
-sòh,"hairbrush, comb"
 soh si,key
 soh tau,padlock
 sue,book
-süe,tree
 sue dim,bookshop
 sue fuk,comfortable
 sue jai,potato
@@ -1001,28 +972,54 @@ suen fung,cyclone
 suen gui,elections
 suen jaak,choose(to)
 suen lut,melody
-sùen nãai,yoghurt
-süet,ice
 suet ga,cigar
-süet gà,cigar
-süi,tax
 sui fong,bedroom
-suí ging,path
 sui seung,radiator(car)
 sui yiu,need(to)
 suk mai,corn
-sùk sùk,uncle
 sun,letter
 sun fung,envelope
 sun jing,pure
 sun lâai,trust
 sun sik,message
 sun yung kaat,credit card
+suí ging,path
+sàaam põoi,triple
+sàam geuk gá,tripod
+sàan,mountain
+sàan mak,mountain range
+sàk chè,traffic jam
+sàm,"heart, deep"
+sàt yîp,unemployed
+sààan gùk,valley
+sâu pïu chüe,ticket office
+säi,small
+säi ló,younger brother(colloquial)
+säi móoi,younger sister(colloquial)
+sèung bìu,trademark
+sèung sàm,sad
+séung,think(to)
+sêk tau,stone
+sêung bîn,up
+sëi fòng,suqare
+sì,silk
+sìng,star
+sìng kei yî,tuesday
+síu,"less, little, few"
+síu ging,footpath
+sîk yìn,smoke(to)
+sïng bît,sex(m/f)
+sïng gám,sexy
+sòh,"hairbrush, comb"
+sóh,lock
+sùen nãai,yoghurt
+sùk sùk,uncle
 sùt sàam,shirt
-täai yueng ngãan géng,sunglasses
-täai yueng yau,sunblock cream
+süe,tree
+süet,ice
+süet gà,cigar
+süi,tax
 taam sam,greedy
-tái,see(to)
 tai chui hang lei chue,baggage claim
 tai do,razor
 tai sue,reading
@@ -1033,15 +1030,10 @@ tau tung,headache
 tau wan,dizzy
 tek,kick
 teng,hear(to)
-tèng lei géi hó böh !,sounds great !
 tim dim,dessert
 tin jue gaau,catholic
 ting,stop
 ting che cheung,car park
-tìng hùng,sky
-tìng yât,tomorrow
-tìng yât gïn,see you tomorrow
-tìp sí,tip(gratuity)
 tiu,jump
 tiu jai gaai tiu hei,modem
 tiu mo,dancing
@@ -1052,12 +1044,9 @@ to hei,pottery
 to jong,dress
 to ngoh,diarrhoea
 to sue gwoon,library
-tói,table
 tong,sugar
 tong liu beng,diabetic
 tuen dûi gùng jök,team work
-túi,leg
-tùi,push(to)
 tui chin,refund
 tui fong,check-out(hotel)
 tui jin,to recommend
@@ -1066,6 +1055,17 @@ tung foh paang jeung,inflation
 tung maai,and
 tung sing luen,homosexual
 tung yi,agree
+tái,see(to)
+täai yueng ngãan géng,sunglasses
+täai yueng yau,sunblock cream
+tèng lei géi hó böh !,sounds great !
+tìng hùng,sky
+tìng yât,tomorrow
+tìng yât gïn,see you tomorrow
+tìp sí,tip(gratuity)
+tói,table
+tùi,push(to)
+túi,leg
 wa ga,painter
 wa long,gallery
 waai yan,pregnant
@@ -1077,8 +1077,6 @@ wai gàn,scraves
 wai jui,bib
 wai sat,lose(to)
 wan dai,faint
-wàn dô,temperature
-wân nèi na,vanilla
 wing chi,pool(swimming)
 wing yuen,forever
 woh ping,peace
@@ -1090,7 +1088,6 @@ woo jiu,passport
 woo jiu ho ma,passport number
 woo jo,dirty
 woo luen mong,internet
-wôo táu,taro
 woo yim,pollution
 woo ying,a fly
 wooi daap,answer
@@ -1099,6 +1096,9 @@ wooi lut,exchange rate
 wooi yuen,member
 woon,change
 woon bo paau,jogging
+wàn dô,temperature
+wân nèi na,vanilla
+wôo táu,taro
 wôon gûi,toys
 yam,drink
 yam ging,penis
@@ -1124,25 +1124,20 @@ yat,day
 yat baau (yin jai),a packet(of cigarettes)
 yat boon,half
 yat chi,once
-yät chùt,sunrise
 yat gei,diary
 yat gin,a piece
 yat jan,just a minute
 yat jik hui,go straight ahead
 yat lik,calendar
-yât lôk,sunset
-yât táu,sun
 yau,oil
-yáu,pomelo
-yãu,have(to)
 yau bin,right
 yau chaai,postman
 yau chat,paint(to)
 yau chui,funny
 yau doi guen,coupon
 yau guk,post office
-yau häak,tourist
 yau hei,game
+yau häak,tourist
 yau ja,diesel
 yau jing,mail
 yau mak,humour
@@ -1150,7 +1145,6 @@ yau pïu,stamp
 yau sai,advantage
 yau seung,mailbox
 yau yuet dik,excellent
-yãu yûng,useful
 yeuk,medecine
 yeuk fong,pharmacy
 yeuk yuen,pill
@@ -1169,14 +1163,12 @@ yin dau,pipe
 yin fooi gong,ashtray
 yin gam,cash
 yin jai,cigarette
-yìn sì,tobacco
 yin yuen,actor
 ying fa,cherry blossom
 ying hung,hero
 ying jun,handsome
 ying man,english
 ying mo,parrot
-yíng pín,films(movies)
 ying seung gei,camera
 ying yi,"infant, baby"
 ying yi ché,pram
@@ -1195,8 +1187,8 @@ yue gwai,rainy season
 yue gwoh,if
 yue lok,entertainment
 yue lok jai ban,dairy products
-yue sèung,bruise
 yue suen,budget
+yue sèung,bruise
 yue yeuk,appointment
 yue yi,raincoat
 yue yin,languages
@@ -1205,8 +1197,6 @@ yuek,drug(medical)
 yuek jai gwoh leung,overdose
 yuek jai si,chemist
 yuen,"round, end"
-yûen,soft
-yüen,far away
 yuen bat,pencil
 yuen ging,landscape
 yuen jong,original
@@ -1216,3 +1206,13 @@ yuet,moon
 yung gam,brave
 yung po,cuddle
 yung yi,easy
+yáu,pomelo
+yât lôk,sunset
+yât táu,sun
+yãu,have(to)
+yãu yûng,useful
+yät chùt,sunrise
+yìn sì,tobacco
+yíng pín,films(movies)
+yûen,soft
+yüen,far away

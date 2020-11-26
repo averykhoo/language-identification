@@ -1,8 +1,6 @@
 Other,English
 ADN,DNA
 ADN,deoxyribonucleic acid
-acide désoxyribonucléique,DNA
-acide désoxyribonucléique,deoxyribonucleic acid
 ANASE,ASEAN
 ANASE,Association of Southeast Asian Nations
 Abidjan,Abidjan
@@ -17,20 +15,14 @@ Afrique centrale,Central Africa
 Afrique de l'Est,East Africa
 Afrique du Nord,North Africa
 Afrique du Sud,South Africa
-République d’Afrique du Sud,South Africa
-République sud-africaine,South Africa
 Agence européenne pour l'environnement,European Environment Agency
 Aigle,Aquila
 Albanie,Albania
 Albanie,Republic of Albania
-République d’Albanie,Albania
-République d’Albanie,Republic of Albania
 Algérie,Algeria
 Algérie,People's Democratic Republic of Algeria
-République algérienne démocratique et populaire,Algeria
-République algérienne démocratique et populaire,People's Democratic Republic of Algeria
-Allemagne,Germany
 Allemagne,Federal Republic of Germany
+Allemagne,Germany
 Alpes,Alps
 Amsterdam,Amsterdam
 Amérique Centrale,Central America
@@ -44,38 +36,37 @@ Angola,Republic of Angola
 Anguilla,Anguilla
 Antarctique,Antarctica
 Antigua-et-Barbuda,Antigua and Barbuda
-Arabie saoudite,Saudi Arabia
-Arabie saoudite,Kingdom of Saudi Arabia
-Arabie Saoudite,Saudi Arabia
 Arabie Saoudite,Kingdom of Saudi Arabia
-Arabie Séoudite,Saudi Arabia
+Arabie Saoudite,Saudi Arabia
 Arabie Séoudite,Kingdom of Saudi Arabia
-Arabie séoudite,Saudi Arabia
+Arabie Séoudite,Saudi Arabia
+Arabie saoudite,Kingdom of Saudi Arabia
+Arabie saoudite,Saudi Arabia
 Arabie séoudite,Kingdom of Saudi Arabia
+Arabie séoudite,Saudi Arabia
 Argentine,Argentina
 Argentine,Argentine Republic
 Arizona,Arizona
 Arménie,Armenia
-République d'Arménie,Armenia
 Aruba,Aruba
 Asie,Asia
 Asie Centrale,Central Asia
-Asie de l'Est,Eastern Asia
 Asie de l'Est,East Asia
-Asie orientale,Eastern Asia
-Asie orientale,East Asia
-Asie de l'Ouest,Western Asia
+Asie de l'Est,Eastern Asia
 Asie de l'Ouest,Southwest Asia
-Asie occidentale,Western Asia
-Asie occidentale,Southwest Asia
-Asie du Sud,Southern Asia
+Asie de l'Ouest,Western Asia
 Asie du Sud,South Asia
+Asie du Sud,Southern Asia
 Asie du Sud-Est,Southeast Asia
+Asie occidentale,Southwest Asia
+Asie occidentale,Western Asia
+Asie orientale,East Asia
+Asie orientale,Eastern Asia
 Asteraceae,Asteraceae
-Asteraceae,sunflower family
 Asteraceae,Compositae
-Asteraceae,daisy family
 Asteraceae,aster family
+Asteraceae,daisy family
+Asteraceae,sunflower family
 Athènes,Athens
 Australie,Australia
 Australie,Commonwealth of Australia
@@ -83,28 +74,29 @@ Autriche,Austria
 Autriche,Republic of Austria
 Autriche-Hongrie,Austria-Hungary
 Autriche-Hongrie,Austro-Hungarian Empire
-Empire austro-hongrois,Austria-Hungary
-Empire austro-hongrois,Austro-Hungarian Empire
 Azerbaïdjan,Azerbaijan
 Azerbaïdjan,Republic of Azerbaijan
+Bahamas,Bahama Islands
 Bahamas,Bahamas
 Bahamas,Commonwealth of the Bahamas
-Bahamas,Bahama Islands
 Bahreïn,Bahrain
-Bailliage de Jersey,Jersey
 Bailliage de Jersey,Bailiwick of Jersey
+Bailliage de Jersey,Jersey
 Balance,Libra
+Baléares,Balearic Islands
 Bande de Gaza,Gaza Strip
 Bangladesh,Bangladesh
 Bangladesh,People's Republic of Bangladesh
 Barbade,Barbados
 Basse-Saxe,Lower Saxony
 Bavière,Bavaria
+Belarus,Belarus
+Belarus,Republic of Belarus
+Belau,Palau
 Belgique,Belgium
 Belgique,Kingdom of Belgium
 Belgrade,Belgrade
 Belize,Belize
-Bélize,Belize
 Belmopan,Belmopan
 Berlin,Berlin
 Bermudes,Bermuda
@@ -114,10 +106,13 @@ Bhoutan,Bhutan
 Bhoutan,Kingdom of Bhutan
 Bible,Bible
 Birmanie,Myanmar
-Myanmar,Myanmar
 Birmingham,Birmingham
+Biélorussie,Belarus
+Biélorussie,Republic of Belarus
 Bolivie,Bolivia
 Bolivie,Republic of Bolivia
+Bombay,Bombay
+Bombay,Mumbai
 Bonn,Bonn
 Bornéo,Borneo
 Bornéo,Kalimantan
@@ -143,16 +138,13 @@ Burundi,Burundi
 Burundi,Republic of Burundi
 Bélarus,Belarus
 Bélarus,Republic of Belarus
-Belarus,Belarus
-Belarus,Republic of Belarus
-Biélorussie,Belarus
-Biélorussie,Republic of Belarus
 Bélier,Aries
+Bélize,Belize
+Bénin,Benin
+Bénin,Benin
 Bénin,Benin
 Bénin,Benin
 Bénin,Republic of Benin
-Bénin,Benin
-Bénin,Benin
 Bénin,Republic of Benin
 CD ROM,CD-ROM
 CE écolabel,EC ecolabel
@@ -165,8 +157,8 @@ Canada,Canada
 Cap-Vert,Cape Verde
 Cap-Vert,Republic of Cape Verde
 Capricorne,Capricorn
-Caraïbes,Caribbean Area
 Caraïbes,Caribbean
+Caraïbes,Caribbean Area
 Cassiopée,Cassiopeia
 Chambre des Députés,Lower House
 Charente,Charente
@@ -174,8 +166,8 @@ Chiens de chasse,Canes Venatici
 Chihuahua,Chihuahua
 Chili,Chile
 Chili,Republic of Chile
-Chine,People's Republic of China
 Chine,China
+Chine,People's Republic of China
 Chypre,Cyprus
 Chypre,Republic of Cyprus
 Cologne,Cologne
@@ -186,7 +178,14 @@ Communautés européennes,European Communities
 Comores,Comoros
 Comores,Union of the Comoros
 Comète,comet
-comète,comet
+Congo,Congo-Brazzaville
+Congo,Congo-Kinshasa
+Congo,Democratic Republic of the Congo
+Congo,Republic of the Congo
+Congo-Brazzaville,Congo-Brazzaville
+Congo-Brazzaville,Republic of the Congo
+Congo-Kinshasa,Congo-Kinshasa
+Congo-Kinshasa,Democratic Republic of the Congo
 Conseil de l'UE,EU Council
 Conseil de l'Union Européenne,EU Council
 Conseil des ministres de la CE,EC Council of Ministers
@@ -194,28 +193,25 @@ Conseil des ministres de la Communauté Européenne,EC Council of Ministers
 Conseil européen de l'environnement,European Environmental Council
 Copenhague,Copenhagen
 Corfou,Corfu
-Corée du Nord,North Korea
 Corée du Nord,Democratic People's Republic of Korea
-Corée du Sud,South Korea
+Corée du Nord,North Korea
 Corée du Sud,Republic of Korea
+Corée du Sud,South Korea
 Costa Rica,Costa Rica
 Costa Rica,Republic of Costa Rica
 Cour de Justice Européenne,European Court of Justice
 Cour de justice,court of justice
 Cour de justice des communautés européennes,Court of Justice of the European Communities
 Cour internationale de justice,International Court of Justice
-Cracovie,Krakow
 Cracovie,Cracow
+Cracovie,Krakow
 Croatie,Croatia
 Croatie,Republic of Croatia
 Cuba,Cuba
 Cuba,Republic of Cuba
-Côte d'Ivoire,Ivory Coast
 Côte d'Ivoire,Cote d'Ivoire
+Côte d'Ivoire,Ivory Coast
 Côte d'Ivoire,Republic of Cote d'Ivoire
-République de la Côte d'Ivoire,Ivory Coast
-République de la Côte d'Ivoire,Cote d'Ivoire
-République de la Côte d'Ivoire,Republic of Cote d'Ivoire
 DDT,DDT
 DDT,dichloro-diphenyl-trichloroethane
 Daguestan,Dagestan
@@ -223,17 +219,19 @@ Dakar,Dakar
 Danemark,Denmark
 Danemark,Kingdom of Denmark
 Delaware,Delaware
+Djakarta,DKI Jakarta
+Djakarta,Djakarta
+Djakarta,Jakarta
 Djibouti,Djibouti
 Djibouti,Republic of Djibouti
-Dominique,Dominica
 Dominique,Commonwealth of Dominica
+Dominique,Dominica
 Dublin,Dublin
-EIE,EIA (local)
-Evaluation de l'impact sur l'environnement,EIA (local)
 EIE,EIA
+EIE,EIA (local)
 EIE,environmental impact assessment
-évaluation de l'impact sur l'environnement,EIA
-évaluation de l'impact sur l'environnement,environmental impact assessment
+Empire austro-hongrois,Austria-Hungary
+Empire austro-hongrois,Austro-Hungarian Empire
 Erevan,Erevan
 Erevan,Yerevan
 Espagne,Spain
@@ -243,24 +241,29 @@ Euratom,Euratom
 Europe,Europe
 Europe de l'Est,Eastern Europe
 Europe de l'Ouest,Western Europe
+Evaluation de l'impact sur l'environnement,EIA (local)
+FAI,ISP
+FAI,Internet access provider
+FAI,Internet service provider
+FAI,internet service provider
+FMI,IMF
+FMI,International Monetary Fund
 Fidji,Fiji
 Fidji,Republic of the Fiji Islands
-République des Îles Fidji,Fiji
-République des Îles Fidji,Republic of the Fiji Islands
 Finlande,Finland
 Finlande,Republic of Finland
 Flandre,Flanders
 Flandre,Flemish region
 Flevoland,Flevoland
-Fonds mondial pour la protection de l'environnement,Global Environment Facility
 Fonds mondial pour la protection de l'environnement,GEF
+Fonds mondial pour la protection de l'environnement,Global Environment Facility
 Fonds monétaire européen,European Monetary Fund
 Fonds monétaire international,IMF
 Fonds monétaire international,International Monetary Fund
-FMI,IMF
-FMI,International Monetary Fund
 France,France
 Français,Frenchman
+Fédération de Russie,Russia
+Fédération de Russie,Russian Federation
 Gabon,Gabon
 Gabon,Gabonese Republic
 Gaborone,Gaborone
@@ -268,50 +271,52 @@ Gambie,Gambia
 Gambie,Gambia
 Gambie,Gambia
 Gambie,Gambia
-Gambie,The Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
+Gambie,Gambia
 Gambie,Republic of The Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,The Gambia
 Gambie,Republic of The Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,The Gambia
 Gambie,Republic of The Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,The Gambia
 Gambie,Republic of The Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,The Gambia
 Gambie,Republic of The Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,The Gambia
 Gambie,Republic of The Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,Gambia
-Gambie,The Gambia
 Gambie,Republic of The Gambia
+Gambie,The Gambia
+Gambie,The Gambia
+Gambie,The Gambia
+Gambie,The Gambia
+Gambie,The Gambia
+Gambie,The Gambia
+Gambie,The Gambia
 Ghana,Ghana
 Ghana,Republic of Ghana
 Gibraltar,Gibraltar
 Grand Chien,Canis Major
-Grande-Bretagne,Great Britain
+Grand-Duché de Luxembourg,Grand Duchy of Luxembourg
+Grand-Duché de Luxembourg,Luxembourg
 Grande-Bretagne,Britain
+Grande-Bretagne,Great Britain
 Grenade,Grenada
 Groenland,Greenland
 Grèce,Greece
@@ -326,8 +331,6 @@ Guatémala,Guatemala
 Guatémala,Republic of Guatemala
 Guinée,Guinea
 Guinée,Republic of Guinea
-République de Guinée,Guinea
-République de Guinée,Republic of Guinea
 Guinée équatoriale,Equatorial Guinea
 Guinée équatoriale,Republic of Equatorial Guinea
 Guinée-Bissao,Guinea-Bissau
@@ -340,25 +343,27 @@ Guyane,French Guiana
 Guyane française,French Guiana
 Gémeaux,Gemini
 Géorgie,Georgia
+H5N1,A(H5N1)
 H5N1,H5N1
 H5N1,Influenza A virus subtype H5N1
-H5N1,A(H5N1)
+HLM,low-cost housing
 Hanoucca,Hannukah
 Hanovre,Hanover
 Haut-Karabagh,Nagorno-Karabakh
 Haïti,Haiti
 Haïti,Republic of Haiti
-République d'Haïti,Haiti
-République d'Haïti,Republic of Haiti
 Hercule,Hercules
 Hercule,Hercules
-Héraclès,Hercules
+Hollande,Holland
+Hollande,Kingdom of the Netherlands
+Hollande,The Netherlands
 Honduras,Honduras
 Honduras,Republic of Honduras
-République du Honduras,Honduras
-République du Honduras,Republic of Honduras
 Hongrie,Hungary
 Hongrie,Republic of Hungary
+Héraclès,Hercules
+Iles Baléares,Balearic Islands
+Iliade,Iliad
 Incitation financière à la protection de l'environnement,environmental incentive
 Inde,India
 Inde,Republic of India
@@ -367,12 +372,10 @@ Indonésie,Republic of Indonesia
 Indre,Indre
 Irak,Iraq
 Irak,Republic of Iraq
-Iraq,Iraq
-Iraq,Republic of Iraq
 Iran,Iran
 Iran,Islamic Republic of Iran
-République Islamique d' Iran,Iran
-République Islamique d' Iran,Islamic Republic of Iran
+Iraq,Iraq
+Iraq,Republic of Iraq
 Irlande,Ireland
 Irlande,Republic of Ireland
 Irlande du Nord,Northern Ireland
@@ -383,34 +386,30 @@ Israël,Israel
 Israël,State of Israel
 Italie,Italian Republic
 Italie,Italy
-Jakarta,Jakarta
-Jakarta,Djakarta
 Jakarta,DKI Jakarta
-Djakarta,Jakarta
-Djakarta,Djakarta
-Djakarta,DKI Jakarta
-Jamahiriya arabe libyenne,Libya
+Jakarta,Djakarta
+Jakarta,Jakarta
 Jamahiriya arabe libyenne,Great Socialist People's Libyan Arab Jamahiriya
-Libye,Libya
-Libye,Great Socialist People's Libyan Arab Jamahiriya
+Jamahiriya arabe libyenne,Libya
 Jamaïque,Jamaica
 Japon,Japan
 Japon,State of Japan
-Jordanie,Jordan
 Jordanie,Hashemite Kingdom of Jordan
-Joyeux Noël,Merry Christmas
+Jordanie,Jordan
 Joyeuses Fêtes,Merry Christmas
+Joyeux Noël,Merry Christmas
 Joyeux Noël et bonne année,Merry Christmas and a happy New Year
 Jupiter,Jupiter
+Kaledonia Berria,New Caledonia
 Kazakhstan,Kazakhstan
 Kazakhstan,Republic of Kazakhstan
 Kenya,Kenya
 Kenya,Republic of Kenya
 Khartoum,Khartoum
-Kirghizistan,Kyrgyzstan
 Kirghizistan,Kyrgyz Republic
-Kirghizstan,Kyrgyzstan
+Kirghizistan,Kyrgyzstan
 Kirghizstan,Kyrgyz Republic
+Kirghizstan,Kyrgyzstan
 Kiribati,Kiribati
 Kiribati,Republic of Kiribati
 Kosovo,Kosovo
@@ -418,53 +417,37 @@ Koweït,Kuwait
 Koweït,State of Kuwait
 Kyoto,Kyoto
 L'Iliade,Iliad
-Iliade,Iliad
 La Haye,The Hague
 La Mecque,Mecca
 Lagos,Lagos
-Laos,Laos
 Laos,Lao People's Democratic Republic
-République démocratique populaire lao,Laos
-République démocratique populaire lao,Lao People's Democratic Republic
-République démocratique populaire Lao,Laos
-République démocratique populaire Lao,Lao People's Democratic Republic
+Laos,Laos
 Lausanne,Lausanne
 Le Caire,Cairo
 Les Amériques,Americas
-Lesotho,Lesotho
 Lesotho,Kingdom of Lesotho
+Lesotho,Lesotho
 Lettonie,Latvia
 Lettonie,Republic of Latvia
-Liban,Lebanon
 Liban,Lebanese Republic
-République libanaise,Lebanon
-République libanaise,Lebanese Republic
-pays du Cèdre,Lebanon
-pays du Cèdre,Lebanese Republic
-pays du cèdre,Lebanon
-pays du cèdre,Lebanese Republic
+Liban,Lebanon
 Liberia,Liberia
 Liberia,Republic of Liberia
+Libye,Great Socialist People's Libyan Arab Jamahiriya
+Libye,Libya
 Liechtenstein,Liechtenstein
 Liechtenstein,Principality of Liechtenstein
-principauté de Liechtenstein,Liechtenstein
-principauté de Liechtenstein,Principality of Liechtenstein
 Lion,Leo
 Lisbonne,Lisbon
 Lituanie,Lithuania
 Lituanie,Republic of Lithuania
 Loi sur l'état d'urgence,emergency law
 Londres,London
-Luxembourg,Luxembourg
 Luxembourg,Grand Duchy of Luxembourg
-Grand-Duché de Luxembourg,Luxembourg
-Grand-Duché de Luxembourg,Grand Duchy of Luxembourg
+Luxembourg,Luxembourg
+Luxembourgeois,Luxembourgian
 Luxembourgeois,Luxembourgish
 Luxembourgeois,Luxemburgish
-Luxembourgeois,Luxembourgian
-luxembourgeois,Luxembourgish
-luxembourgeois,Luxemburgish
-luxembourgeois,Luxembourgian
 Lyon,Lyon
 Macédoine,Macedonia
 Macédoine,Republic of Macedonia
@@ -477,20 +460,17 @@ Maldives,Maldives
 Maldives,Republic of the Maldives
 Mali,Mali
 Mali,Republic of Mali
-République du Mali,Mali
-République du Mali,Republic of Mali
 Malouines,Falkland Islands
-îles Falkland,Falkland Islands
 Malte,Malta
 Malte,Republic of Malta
-Maroc,Morocco
 Maroc,Kingdom of Morocco
+Maroc,Morocco
 Martinique,Martinique
 Massachusetts,Massachusetts
 Maurice,Mauritius
 Maurice,Republic of Mauritius
-Mauritanie,Mauritania
 Mauritanie,Islamic Republic of Mauritania
+Mauritanie,Mauritania
 Mayotte,Mayotte
 Mer Adriatique,Adriatic Sea
 Mer méditerranée,Mediterranean Sea
@@ -498,10 +478,8 @@ Mer noire,Black Sea
 Mercure,Mercury
 Mexique,Mexico
 Mexique,United Mexican States
-Micronésie,Micronesia
 Micronésie,Federated States of Micronesia
-États Fédérés de Micronésie,Micronesia
-États Fédérés de Micronésie,Federated States of Micronesia
+Micronésie,Micronesia
 Milan,Milan
 Milwaukee,Milwaukee
 Moldavie,Moldova
@@ -512,21 +490,15 @@ Montserrat,Montserrat
 Monténégro,Montenegro
 Moscou,Moscow
 Mozambique,Mozambique
-Mumbai,Mumbai
 Mumbai,Bombay
-Bombay,Mumbai
-Bombay,Bombay
+Mumbai,Mumbai
 Munich,Munich
+Myanmar,Myanmar
 Nairobi,Nairobi
 Namibie,Namibia
-République de Namibie,Namibia
 Naples,Naples
 Nations Unies,UN
 Nations Unies,United Nations
-ONU,UN
-ONU,United Nations
-Organisation des Nations Unies,UN
-Organisation des Nations Unies,United Nations
 Nauru,Nauru
 Nauru,Republic of Nauru
 Neptune,Neptune
@@ -535,16 +507,15 @@ Nicaragua,Nicaragua
 Niger,Niger
 Nigeria,Nigeria
 Nioué,Niue
-Norvège,Norway
 Norvège,Kingdom of Norway
-Royaume de Norvège,Norway
-Royaume de Norvège,Kingdom of Norway
+Norvège,Norway
 Nouvelle-Calédonie,New Caledonia
-Kaledonia Berria,New Caledonia
 Nouvelle-Zélande,New Zealand
 Noël,Christmas
 Nuuk,Nuuk
 Népal,Nepal
+ONU,UN
+ONU,United Nations
 Océan Atlantique,Atlantic Ocean
 Océan Pacifique,Pacific Ocean
 Océan indien,Indian Ocean
@@ -553,15 +524,17 @@ Oiseau de paradis,Apus
 Oklahoma,Oklahoma
 Oman,Oman
 Oman,Sultanate of Oman
+Organisation des Nations Unies,UN
+Organisation des Nations Unies,United Nations
 Orléans,Orleans
 Oslo,Oslo
-Ouganda,Uganda
 Ouganda,Republic of Uganda
-Pakistan,Pakistan
+Ouganda,Uganda
+PIB,GDP
+PIB,gross domestic product
 Pakistan,Islamic Republic of Pakistan
+Pakistan,Pakistan
 Palaos,Palau
-Belau,Palau
-Pelew,Palau
 Panama,Panama
 Panamá,Panama
 Papouasie-Nouvelle-Guinée,Papua New Guinea
@@ -569,25 +542,20 @@ Paraguay,Paraguay
 Paris,Paris
 Parlement,Parliament
 Parlement Européen,European Parliament
+Pays d'outre-mer de la Polynesie Francaise,French Polynesia
+Pays d'outre-mer de la Polynésie Française,French Polynesia
 Pays de Galles,Wales
 Pays-Bas,Holland
 Pays-Bas,Kingdom of the Netherlands
 Pays-Bas,The Netherlands
-Royaume des Pays-Bas,Holland
-Royaume des Pays-Bas,Kingdom of the Netherlands
-Royaume des Pays-Bas,The Netherlands
-Hollande,Holland
-Hollande,Kingdom of the Netherlands
-Hollande,The Netherlands
+Pelew,Palau
 Petit Chien,Canis Minor
 Philadelphie,Philadelphia
 Philippines,Philippines
 Phobos,Phobos
 Pologne,Poland
 Polynesie Francaise,French Polynesia
-Pays d'outre-mer de la Polynesie Francaise,French Polynesia
 Polynésie française,French Polynesia
-Pays d'outre-mer de la Polynésie Française,French Polynesia
 Porto Rico,Puerto Rico
 Portugal,Portugal
 Pyrénées,Pyrenees
@@ -598,79 +566,110 @@ Pérou,Republic of Peru
 Qatar,Qatar
 RDA,GDR
 RDA,German Democratic Republic
-République démocratique allemande,GDR
-République démocratique allemande,German Democratic Republic
 Rhone,Rhône
 Rhône,Rhône
 Roi-Soleil,Sun King
 Rome,Rome
 Roumanie,Romania
+Royaume de Norvège,Kingdom of Norway
+Royaume de Norvège,Norway
+Royaume des Pays-Bas,Holland
+Royaume des Pays-Bas,Kingdom of the Netherlands
+Royaume des Pays-Bas,The Netherlands
+Royaume-Uni,UK
 Royaume-Uni,United Kingdom
 Royaume-Uni,United Kingdom of Great Britain and Northern Ireland
-Royaume-Uni,UK
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,UK
 Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,United Kingdom
 Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,United Kingdom of Great Britain and Northern Ireland
-Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,UK
 Russie,Russia
 Russie,Russian Federation
-Fédération de Russie,Russia
-Fédération de Russie,Russian Federation
-République Démocratique du Congo,Democratic Republic of the Congo
+République Arabe Syrienne,Syria
+République Arabe Syrienne,Syrian Arab Republic
 République Démocratique du Congo,Congo-Kinshasa
-Congo-Kinshasa,Democratic Republic of the Congo
-Congo-Kinshasa,Congo-Kinshasa
-République démocratique du Congo,Democratic Republic of the Congo
-République démocratique du Congo,Congo-Kinshasa
-Congo,Democratic Republic of the Congo
-Congo,Congo-Kinshasa
+République Démocratique du Congo,Democratic Republic of the Congo
+République Islamique d' Iran,Iran
+République Islamique d' Iran,Islamic Republic of Iran
+République algérienne démocratique et populaire,Algeria
+République algérienne démocratique et populaire,People's Democratic Republic of Algeria
 République centrafricaine,Central African Republic
+République d'Arménie,Armenia
+République d'Haïti,Haiti
+République d'Haïti,Republic of Haiti
+République de Guinée,Guinea
+République de Guinée,Republic of Guinea
+République de Namibie,Namibia
+République de la Côte d'Ivoire,Cote d'Ivoire
+République de la Côte d'Ivoire,Ivory Coast
+République de la Côte d'Ivoire,Republic of Cote d'Ivoire
+République des Îles Fidji,Fiji
+République des Îles Fidji,Republic of the Fiji Islands
 République dominicaine,Dominican Republic
-République du Congo,Republic of the Congo
 République du Congo,Congo-Brazzaville
-Congo-Brazzaville,Republic of the Congo
-Congo-Brazzaville,Congo-Brazzaville
-Congo,Republic of the Congo
-Congo,Congo-Brazzaville
+République du Congo,Republic of the Congo
+République du Honduras,Honduras
+République du Honduras,Republic of Honduras
+République du Mali,Mali
+République du Mali,Republic of Mali
+République démocratique allemande,GDR
+République démocratique allemande,German Democratic Republic
+République démocratique du Congo,Congo-Kinshasa
+République démocratique du Congo,Democratic Republic of the Congo
+République démocratique populaire Lao,Lao People's Democratic Republic
+République démocratique populaire Lao,Laos
+République démocratique populaire lao,Lao People's Democratic Republic
+République démocratique populaire lao,Laos
+République d’Afrique du Sud,South Africa
+République d’Albanie,Albania
+République d’Albanie,Republic of Albania
+République libanaise,Lebanese Republic
+République libanaise,Lebanon
+République sud-africaine,South Africa
+République tchèque,Czech Republic
+République tchèque,Czechia
 Révolution française,French Revolution
 SIDA,AIDS
 Sagittaire,Sagittarius
+Sahara,sahara
 Saint-Marin,San Marino
 Saint-Pierre-et-Miquelon,Saint-Pierre and Miquelon
-San Pedro e Miguelón,Saint-Pierre and Miquelon
 Saint-Pétersbourg,Leningrad
 Saint-Pétersbourg,Petrograd
 Saint-Pétersbourg,Saint Petersburg
 Saint-Pétersbourg,St. Petersburg
-Sakhaline,Sakhalin
+Saint-Siège,State of the Vatican City
+Saint-Siège,The Holy See
+Saint-Siège,Vatican City
 Sakhaline,Saghalien
+Sakhaline,Sakhalin
 Salvador,El Salvador
 Salvador,Republic of El Salvador
 Samoa,Samoa
 Samoa américaines,American Samoa
+San Pedro e Miguelón,Saint-Pierre and Miquelon
 Saturne,Saturn
 Saxe,Saxony
 Scorpion,Scorpio
 Seine,Seine
 Serbie,Serbia
 Serbie-et-Monténégro,Serbia and Montenegro
-Seychelles,Seychelles
 Seychelles,Republic of Seychelles
+Seychelles,Seychelles
 Sierra Leone,Sierra Leone
 Singapour,Singapore
 Slovaquie,Slovakia
 Slovénie,Slovenia
 Sotchi,Sochi
+Soudan,Sudan
 Sri Lanka,Sri Lanka
 Sudan,Sudan
-Soudan,Sudan
 Suisse,Switzerland
 Surinam,Suriname
 Suède,Sweden
 Syrie,Syria
 Syrie,Syrian Arab Republic
-République Arabe Syrienne,Syria
-République Arabe Syrienne,Syrian Arab Republic
 Sénégal,Senegal
+TGV,high-speed train
 Tadjikistan,Tajikistan
 Tanzanie,Tanzania
 Taureau,Taurus
@@ -679,25 +678,29 @@ Tchad,Chad
 Tchad,Republic of Chad
 Tchéquie,Czech Republic
 Tchéquie,Czechia
-République tchèque,Czech Republic
-République tchèque,Czechia
 Tennessee,Tennessee
+Terre,Blue Planet
+Terre,Earth
+Terre,earth
+Terre,the world
 Terres australes et antarctiques françaises,French Southern Territories
-Terres australes et antarctiques françaises,French Southern and Antarctic LandsA
 Terres australes et antarctiques françaises,French Southern and Antarctic Lands
+Terres australes et antarctiques françaises,French Southern and Antarctic LandsA
 Terres australes et antarctiques françaises,Territory of the French Southern and Antarctic Lands
-Territoire des Terres australes et antarctiques françaises,French Southern Territories
-Territoire des Terres australes et antarctiques françaises,French Southern and Antarctic LandsA
-Territoire des Terres australes et antarctiques françaises,French Southern and Antarctic Lands
-Territoire des Terres australes et antarctiques françaises,Territory of the French Southern and Antarctic Lands
-Territoire m britannique de l' Océan Indien,British Indian Ocean Territory
-Territoire m britannique de l' Océan Indien,BIOT
-Territoire britannique de l' Océan Indien,British Indian Ocean Territory
 Territoire britannique de l' Océan Indien,BIOT
+Territoire britannique de l' Océan Indien,British Indian Ocean Territory
+Territoire des Terres australes et antarctiques françaises,French Southern Territories
+Territoire des Terres australes et antarctiques françaises,French Southern and Antarctic Lands
+Territoire des Terres australes et antarctiques françaises,French Southern and Antarctic LandsA
+Territoire des Terres australes et antarctiques françaises,Territory of the French Southern and Antarctic Lands
+Territoire des îles Wallis-et-Futuna,Territory of the Wallis and Futuna Islands
+Territoire des îles Wallis-et-Futuna,Wallis and Futuna
+Territoire m britannique de l' Océan Indien,BIOT
+Territoire m britannique de l' Océan Indien,British Indian Ocean Territory
 Thaïlande,Thailand
 Thuringe,Thuringia
-Timor Oriental,East Timor
 Timor Oriental,Democratic Republic of Timor-Leste
+Timor Oriental,East Timor
 Togo,Togo
 Tokyo,Tokyo
 Tonga,Tonga
@@ -708,64 +711,64 @@ Turquie,Turkey
 Téhéran,Tehran
 UE,EU
 UE,European Union
+Ukraine,Ukraine
 Union européenne,EU
 Union européenne,European Union
-Ukraine,Ukraine
 Uranus,Uranus
 Ursidae,ursid
 Utah,Utah
 Vaduz,Vaduz
+Vatican,State of the Vatican City
+Vatican,The Holy See
+Vatican,Vatican City
 Venezuela,Venezuela
-Vénézuéla,Venezuela
-Vénézuéla,Venezuela
 Venise,Venice
 Verseau,Aquarius
 Vienne,Vienna
+View lemma information,languor
 View lemma information,lethargy
 View lemma information,sluggishness
-View lemma information,languor
-léthargie,lethargy
-léthargie,sluggishness
-léthargie,languor
-Voie lactée,Milky Way
 Voie lactée,Galaxy
+Voie lactée,Milky Way
 Volga,Volga
 Vénus,Venus
+Vénézuéla,Venezuela
+Vénézuéla,Venezuela
+Wallis-et-Futuna,Territory of the Wallis and Futuna Islands
+Wallis-et-Futuna,Wallis and Futuna
 Washington,Washington
-Web,World Wide Web
 Web,WWW
+Web,World Wide Web
 Wikipédia,Wikipedia
 Wiktionnaire,Wiktionary
 Wyoming,Wyoming
 Yougoslavie,Yugoslavia
-Yémen,Yemen
 Yémen,Republic of Yemen
-Zambie,Zambia
+Yémen,Yemen
 Zambie,Republic of Zambia
+Zambie,Zambia
 Zanzibar,Zanzibar
-Zimbabwe,Zimbabwe
 Zimbabwe,Republic of Zimbabwe
+Zimbabwe,Zimbabwe
 abaque,abacus
-boulier,abacus
 abattage,cutting
-abattoir,slaughterhouse
-abattoir,slaughter-house
 abattoir,abattoir
 abattoir,butchery
 abattoir,shambles
 abattoir,slaughter-house
+abattoir,slaughter-house
+abattoir,slaughterhouse
 abattre,slaughter
 abcès,abscess
 abeille,bee
 abhorrer,abhor
-abhorrer,loathe
 abhorrer,detest
+abhorrer,loathe
 abkhaze,Abkhaz
 abkhaze,Abkhazian
 abkhaze,Abkhazian
 abolitionniste,abolitionist
 abords,approach
-approche,approach
 abrasif,abrasive
 abri d'urgence,emergency shelter
 abri pour animaux,animal shelter
@@ -776,9 +779,13 @@ absolument,absolutely
 absorption,absorption
 absorption de polluant,pollutant absorption
 abstinence,celibacy
-chasteté,celibacy
+académie,academy
+académie,university
+académie,university
 acarien,mite
 acceptabilité,reasonableness
+acceptation,acceptance
+acceptation,credence
 accessoire,attachment
 accident,accident
 accident du travail,work accident
@@ -789,8 +796,8 @@ accord,agreement
 accord international,international agreement
 accord multilatéral,multilateral agreement
 accordéon,accordion
-accordéon,squeeze box
 accordéon,piano accordion
+accordéon,squeeze box
 accouchement,birth
 accouchement,birth
 accouchement,birth
@@ -798,54 +805,12 @@ accouchement,childbirth
 accouchement,childbirth
 accouchement,childbirth
 accouchement,parturition
-naissance,birth
-naissance,birth
-naissance,birth
-naissance,childbirth
-naissance,childbirth
-naissance,childbirth
-naissance,parturition
-naissance,birth
-naissance,birth
-naissance,birth
-naissance,childbirth
-naissance,childbirth
-naissance,childbirth
-naissance,parturition
-naissance,birth
-naissance,birth
-naissance,birth
-naissance,childbirth
-naissance,childbirth
-naissance,childbirth
-naissance,parturition
-parturition,birth
-parturition,birth
-parturition,birth
-parturition,childbirth
-parturition,childbirth
-parturition,childbirth
-parturition,parturition
-mise-bas,birth
-mise-bas,birth
-mise-bas,birth
-mise-bas,childbirth
-mise-bas,childbirth
-mise-bas,childbirth
-mise-bas,parturition
-mise-bas,birth
-mise-bas,birth
-mise-bas,birth
-mise-bas,childbirth
-mise-bas,childbirth
-mise-bas,childbirth
-mise-bas,parturition
 accoucher,deliver
 accroissement de la population,population growth
 accumulateur,accumulator
 accumulation de polluant,pollutant accumulation
-accusé,defendant
 accusé,accused
+accusé,defendant
 accès aux documents administratifs,access to administrative documents
 accès public aux terres,public access to land
 accès à l'information,access to information
@@ -862,6 +827,8 @@ acide aminé,amino acid
 acide chlorhydrique,hydrochloric acid
 acide chlorhydrique,muriatic acid
 acide dilué,diluted acid
+acide désoxyribonucléique,DNA
+acide désoxyribonucléique,deoxyribonucleic acid
 acide nucléïque,nucleic acid
 acidification,acidification
 acidité,acidity
@@ -870,7 +837,6 @@ acné,acne
 acoustique,acoustics
 acquisition,acquisition
 acquisition,takeover
-rachat,takeover
 acquisition des données,data acquisition
 acte,act
 acte,deed
@@ -896,18 +862,25 @@ activité terrestre,land-based activity
 activité économique,economic activity
 acuité auditive,hearing acuity
 adaptation écologique,ecological adaptation
-adapter,arrange
+adapter,accommodate
 adapter,adapt
 adapter,adjust
+adapter,arrange
 adapter,conform
-adapter,accommodate
 adapter,suit
 additif,additive
 additif pour carburants,fuel additive
 additifs alimentaires et colorants,food additive
 addition,addition
 addition chimique,chemical addition
+additionner,add
 adhésif,adhesive
+adieu,adieu
+adieu,bye
+adieu,cheerio
+adieu,farewell
+adieu,good day
+adieu,goodbye
 adjectif,adjective
 adjectif,describing word
 administration,administration
@@ -951,8 +924,8 @@ agoraphobie,agoraphobia
 agoraphobie,agoraphobia
 agresseur,aggressor
 agresseur,assailant
-agresseur,attacker
 agresseur,assaulter
+agresseur,attacker
 agressif,aggressive
 agriculture,agriculture
 agriculture,agriculture
@@ -976,8 +949,14 @@ aide humanitaire,humanitarian aid
 aide internationale,international assistance
 aide publique,public aid
 aide à la décision,decision making support
+aider,assist
 aigue-marine,aquamarine
 aimer,love
+ainsi que,and
+ainsi que,as well as
+ainsi que,in addition to
+ainsi que,together with
+ainsi que,too
 air,air
 air respiratoire,respiratory air
 aire de nidification,nesting area
@@ -987,48 +966,33 @@ alarme,alarm
 alarme,alert
 alarme,warning
 albinisme,albinism
-alcalins,alkaline
-alcalins,element of group I
-alcalins,alkaline metal
-alcalins,alkali metal
-éléments du groupe I,alkaline
-éléments du groupe I,element of group I
-éléments du groupe I,alkaline metal
-éléments du groupe I,alkali metal
-alcalin,alkaline
-alcalin,element of group I
-alcalin,alkaline metal
 alcalin,alkali metal
-élément du groupe I,alkaline
-élément du groupe I,element of group I
-élément du groupe I,alkaline metal
-élément du groupe I,alkali metal
+alcalin,alkaline
+alcalin,alkaline metal
+alcalin,element of group I
+alcalins,alkali metal
+alcalins,alkaline
+alcalins,alkaline metal
+alcalins,element of group I
 alcane,alkane
-alcane,paraffin
-alcane,methane series
 alcane,alkane series
+alcane,methane series
+alcane,paraffin
 alchimie,alchemy
 alchimiste,alchemist
 alcool,alcohol
 alcool-carburant,fuel alcohol
+alcoolique,boozer
 alcoolique,drunk
 alcoolique,drunkard
-alcoolique,boozer
-ivrogne,drunk
-ivrogne,drunkard
-ivrogne,boozer
 alcoolisme,alcoholism
 alerte au brouillard de fumée,smog warning
-algicide,algicide
 algicide,algaecide
+algicide,algicide
 algorithme,algorithm
 algue,alga
 algue bleue,blue-green alga
 algue bleue,cyanobacteria
-cyanobacteria,blue-green alga
-cyanobacteria,cyanobacteria
-cyanobactérie,blue-green alga
-cyanobactérie,cyanobacteria
 algèbre,algebra
 alibi,alibi
 alignement,alignment
@@ -1040,23 +1004,31 @@ alimentation en eau,water supply
 alimentation en gaz,gas supply
 aliments de base,staple food
 allemand,German
+allemand,German
+allemand,German
 allemand (Autriche),German (Austria)
 allemand (Suisse),German (Switzerland)
-allemand,German
-allemand,German
 allemande,German
 aller,go
 allergie,allergy
 allergène,allergen
 alliage,alloy
+allo,hello
+allo,hey
+allo,hi
+allo,howdy
 allocation,allowance
 allocation de terrain pour cultivation,land allotment
 allotropie,allotropy
 alluvion,alluvion
 alluvion,flood
-alluvion,overflowing
 alluvion,inundation
+alluvion,overflowing
 allégorie,allegory
+allô,hello
+allô,hey
+allô,hi
+allô,howdy
 almanach,almanac
 alphabet,alphabet
 alphabet cyrillique,Cyrillic alphabet
@@ -1071,8 +1043,8 @@ alvéole,alveolus
 amalgame,amalgam
 amalgame,amalgam
 amande,almond
-ambassade,embassy
 ambassade,diplomatic mission
+ambassade,embassy
 ambassadeur,ambassador
 ambitieux,ambitious
 ambre,amber
@@ -1081,6 +1053,7 @@ ambulance,ambulance
 amende,fine
 amendement de loi,law amendment
 amendement minéral,mineral conditioner
+amener,bring
 amiante,asbestos
 amidon,starch
 amine,amine
@@ -1093,7 +1066,6 @@ amphétamine,amphetamine
 amplitude,aAmplitude
 amplitude,amplitude
 ampoule,blister
-cloque,blister
 amélioration de l'efficacité,improvement of efficiency
 amélioration de l'image,image enhancement
 amélioration des logements,housing improvement
@@ -1110,10 +1082,8 @@ aménagement du territoire,land setup
 aménagement du territoire,land use planning
 américium,americium
 améthyste,amethyst
-an,year
 an,solar year
-année,year
-année,solar year
+an,year
 anaconda,anaconda
 anagramme,anagram
 analogie,analogy
@@ -1143,15 +1113,13 @@ ancre,anchor
 ange,angel
 angiospermes,angiosperm
 angiospermes,flowering plant
-plante à fleur,angiosperm
-plante à fleur,flowering plant
 anglais,English
 animal,animal
 animal aquatique,aquatic animal
 animal d'élevage,farm animal
 animal destiné à l'abattage,animal for slaughter
-animal domestique,pet
 animal domestique,domesticated animal
+animal domestique,pet
 animal sauvage,wild animal
 animal à fourrure,fur animal
 animal à sang chaud,warm-blooded animal
@@ -1160,18 +1128,16 @@ anion,anion
 anis,anise
 anniversaire,anniversary
 anniversaire,birthday
+année,solar year
+année,year
 année bissextile,leap year
 annélides,annelid
 antagonisme,antagonism
 antenne,aerial
-anthracite,black coal
-anthracite,black coal
-anthracite,black coal
 anthracite,anthracite coal
-houille,black coal
-houille,black coal
-houille,black coal
-houille,anthracite coal
+anthracite,black coal
+anthracite,black coal
+anthracite,black coal
 anthropologie,anthropology
 anthropologue,anthropologist
 antibiotique,antibiotic
@@ -1186,18 +1152,17 @@ août,August
 apartheid,apartheid
 apathie,apathy
 aphorisme,aphorism
-apiculteur,beekeeper
 apiculteur,apiculturist
+apiculteur,beekeeper
 apiculture,apiculture
 apiculture,beekeeping
 apoptose,apoptosis
 appareil d'analyse,analytical equipment
 appareil de chauffage,heater
 appareil de surveillance,monitoring equipment
-appareil photographique,camera
 appareil photo,camera
+appareil photographique,camera
 appareil volant,aircraft
-aéronef,aircraft
 appareil électro-ménager,domestic appliance
 appauvrissement,impoverishment
 appauvrissement de la couche d'ozone,ozone layer depletion
@@ -1207,10 +1172,10 @@ application de loi,law enforcement
 application du droit de l'environnement,environmental law enforcement
 apport de solution à un problème environnemental,environmental problem solving
 apporter,bring
-amener,bring
 apprendre,learn
-approbation,approval
 approbation,approbation
+approbation,approval
+approche,approach
 approvisionnement alimentaire approprié,adequate food supply
 approvisionnement en eau potable,drinking water supply
 approvisionnement en électricité,electric power supply
@@ -1231,8 +1196,8 @@ arbre,tree
 arbre de Noël,Christmas tree
 arbre fruitier,fruit tree
 arbre à feuilles caduques,deciduous tree
-arbuste,shrub
 arbrisseau,shrub
+arbuste,shrub
 arc,bow
 arc-en-ciel,rainbow
 archer,archer
@@ -1248,9 +1213,10 @@ archéologie,archaeology
 archéologie,archeology
 archéologie,archæology
 archéologique,archaeological
-archéologue,archeologist
 archéologue,archaeologist
+archéologue,archeologist
 archétype,archetype
+ardu,difficult
 argent,silver
 argile,clay
 argon,argon
@@ -1267,12 +1233,12 @@ armistice,armistice
 arménien,Armenian
 arrivée,arrival
 arrondissement minier,mining district
+arrêt,judgement
 arrêt,judgement (sentence)
 arrêt,sentence
-arrêt,judgement
+arrêt de justice,judgement
 arrêt de justice,judgement (sentence)
 arrêt de justice,sentence
-arrêt de justice,judgement
 arsenal,armoury
 arsenic,arsenic
 art,art
@@ -1281,10 +1247,10 @@ arthropodes,arthropod
 artichaut,artichoke
 article,article
 articulata,Articulata
-articulation,joint
 articulation,articulation
-artisanat,craft
+articulation,joint
 artisanat,arts and crafts
+artisanat,craft
 artisanat d'art,handicraft
 artiste,artist
 artiste,creative person
@@ -1292,6 +1258,7 @@ artère,artery
 arôme,flavouring
 asbestose,asbestosis
 ascendant,ascendancy
+ascension,ascent
 ascète,ascetic
 aspect global,global aspect
 aspect militaire,military aspects
@@ -1314,7 +1281,6 @@ assimilation,assimilation
 assimiler,assimilate
 assistance en matière de crédit,credit assistance
 assister,assist
-aider,assist
 assister à,attend
 association,association
 association de défense de l'environnement,environmental protection association
@@ -1336,10 +1302,10 @@ astrométrie,astrometry
 astronautique,astronautics
 astronome,astronomer
 astronomie,astronomy
+asturien,Astur
 asturien,Astur-Leonese
 asturien,Asturian
 asturien,Asturian-Leonese
-asturien,Astur
 astérisque,asterisk
 astéroïde,asteroid
 asymptote,asymptote
@@ -1362,10 +1328,10 @@ attentif,attentive
 attirer,attract
 attitude,attitude
 attitude NIMBY,NIMBY aptitude
-attitude NIMBY,NIMBY attitude
+attitude NIMBY,NIMBY aptitude
 attitude NIMBY,NIMBY aptitude
 attitude NIMBY,NIMBY attitude
-attitude NIMBY,NIMBY aptitude
+attitude NIMBY,NIMBY attitude
 attitude NIMBY,NIMBY attitude
 attribut,attribute
 attribut biologique,biological attribute
@@ -1376,18 +1342,6 @@ au revoir,cheerio
 au revoir,farewell
 au revoir,good day
 au revoir,goodbye
-salut,adieu
-salut,bye
-salut,cheerio
-salut,farewell
-salut,good day
-salut,goodbye
-adieu,adieu
-adieu,bye
-adieu,cheerio
-adieu,farewell
-adieu,good day
-adieu,goodbye
 audacieux,audacious
 audience officielle,official hearing
 audiovisuel,audiovisual media
@@ -1400,23 +1354,13 @@ augmentation des coûts,cost increase
 augmenter,augment
 auriculaire,little finger
 auriculaire,pinkie
-petit doigt,little finger
-petit doigt,pinkie
 auto caravane,mobile home
 autobus,bus
 autobus,coach
-bus,bus
-bus,coach
-car,bus
-car,coach
 autocratie,autocracy
 automne,autumn
-automobile,car
 automobile,automobile
-bagnole,car
-bagnole,automobile
-voiture,car
-voiture,automobile
+automobile,car
 autopsie,autopsy
 autorisation,authorisation
 autorisation,permission
@@ -1424,24 +1368,22 @@ autorisation administrative,administrative fiat
 autorisé,authoritative
 autoritaire,authoritarian
 autorité,authority body
-corps exécutif,authority body
 autorité de contrôle,controlling authority
 autorité fédérale,federal authority
 autorité législative,legislative authority
+autorité régionale,provincial authority
 autorité régionale,provincial/regional authority (D)
 autorité régionale,regional authority
-autorité régionale,provincial authority
 autorité régionale,regional authority
-autoroute,motorway
-autoroute,pike
 autoroute,expressway
 autoroute,freeway
+autoroute,highway
+autoroute,motorway
+autoroute,pike
 autoroute,state highway
 autoroute,superhighway
 autoroute,throughway
 autoroute,thruway
-autoroute,highway
-route,highway
 autoécologie,autoecology
 autruche,ostrich
 avalanche,avalanche
@@ -1449,12 +1391,6 @@ avalanche,snowslide
 avaler,consume
 avaler,eat
 avaler,swallow
-consommer,consume
-consommer,eat
-consommer,swallow
-manger,consume
-manger,eat
-manger,swallow
 avance,advance
 avare,avaricious
 avec,alongside
@@ -1467,6 +1403,9 @@ aviculture,aviculture
 avide,avid
 avifaune,avifauna
 avifaune aquatique,waterfowl
+avion,aeroplane
+avion,bird
+avion,plane
 avis,notice
 avocat,lawyer
 avril,April
@@ -1474,20 +1413,19 @@ axiome,axiom
 azote,nitrogen
 azote organique,organic nitrogen
 azéri,Azerbaijani
-azéri,Azeri
 azéri,Azerbaijani Cluster
+azéri,Azeri
 aération,aeration
 aération de l'eau,water aeration
 aérobiologie,aerobiology
+aéronef,aircraft
 aéroplane,aeroplane
 aéroplane,bird
 aéroplane,plane
-avion,aeroplane
-avion,bird
-avion,plane
 aéroport,airport
 aérosol,aerosol
 aérosol atmosphérique,atmospheric aerosol
+aïeul,grandfather
 babouin,baboon
 bacon,bacon
 bactéricide,bactericide
@@ -1495,6 +1433,8 @@ bactérie,bacterium
 bactérie fécale,faecal bacterium
 bactériologie,bacteriology
 badminton,badminton
+bagnole,automobile
+bagnole,car
 baie,bay
 bail,lease
 bains publics,public bath
@@ -1512,7 +1452,6 @@ baromètre,barometer
 baron,baron
 barrage,dam
 barrière,dyke
-digue,dyke
 barrière de confinement,oil boom
 baryum,barium
 base,base
@@ -1540,8 +1479,10 @@ bateau,ship
 bateau de pêche,fishing vessel
 batracien,amphibian
 batterie,battery
-belle-mère,mother-in-law
+baudet,ass
+baudet,donkey
 belle-mère,mother in law
+belle-mère,mother-in-law
 bengalî,Bengali
 bengalî,Bengali
 benthos,benthos
@@ -1549,7 +1490,6 @@ benzopyrène,benzopyrene
 benzène,benzene
 berge,bank
 berger,shepherd
-pasteur,shepherd
 berkélium,berkelium
 besoin,need
 besoin en énergie,energy demand
@@ -1562,12 +1502,6 @@ bibliothécaire,librarian
 bicyclette,bicycle
 bicyclette,bike
 bicyclette,cycle
-vélo,bicycle
-vélo,bike
-vélo,cycle
-petite reine,bicycle
-petite reine,bike
-petite reine,cycle
 bien de consommation,consumer goods
 bien non durable,non-durable goods
 bien-être social,social welfare
@@ -1588,13 +1522,14 @@ biocide,biocide
 bioclimatologie,bioclimatology
 biocénose,biocoenosis
 biodisponibilité,bio-availability
+biodiversité,biodiversity
 biodégradabilité,biodegradability
 biodégradation,biodegradation
 biofiltration,biofiltration
 biogaz,biogas
 biogéographie,biogeography
-biologie,biology
 biologie,biological science
+biologie,biology
 biologie animale,animal biology
 biologie estuarienne,estuarine biology
 biologie marine,marine biology
@@ -1633,14 +1568,12 @@ biélorussien,Byelorussian
 blanc,white
 blanchissage,laundering
 blennorragie,gonorrhea
-gonorrhée,gonorrhea
 blessure,injury
 blessure,wound
-plaie,wound
 bleu,blue
 blog,blog
-blog,weblog
 blog,web log
+blog,weblog
 blé,wheat
 bocage,bocage
 bohrium,bohrium
@@ -1652,69 +1585,40 @@ bois,wood
 bois méditerranéen,Mediterranean wood
 bois à usage de combustible,fuel wood
 boisement,afforestation
-boisement,tree planting
 boisement,afforestment
+boisement,tree planting
+boisson,beverage
 boisson,beverage
 boisson,drink
-boisson,beverage
 boisson,drink
-consommation,beverage
-consommation,drink
 bokmål,Bokmål
 bon appétit,enjoy your meal
 bon appétit,have a nice meal
 bon de livraison,advice
+bondé,full
+bondé,full
 bonhomme,male
 bonhomme,man
-gars,male
-gars,man
-homme,male
-homme,man
-mec,male
-mec,man
-type,male
-type,man
 bonjour,hello
 bonjour,hey
 bonjour,hi
 bonjour,howdy
-salut,hello
-salut,hey
-salut,hi
-salut,howdy
-allô,hello
-allô,hey
-allô,hi
-allô,howdy
-allo,hello
-allo,hey
-allo,hi
-allo,howdy
 bonne année,Happy New Year
 bonne femme,female
 bonne femme,woman
-femme,female
-femme,woman
-gonzesse,female
-gonzesse,woman
-meuf,female
-meuf,woman
-nana,female
-nana,woman
 bonne gestion,good management
 bonsaï,bonsai
 bonsoir,good evening
 bordure,border
 bordure,border
-frontière,border
 bore,boron
-bosnien,Bosnian
-bosnien,Bosnian
 bosniaque,Bosnian
 bosniaque,Bosnian
+bosnien,Bosnian
+bosnien,Bosnian
+botanique,botany
 botanique,botany
 botanique,phytology
-botanique,botany
 bouche,beak
 bouche,mouth
 boucher,butcher
@@ -1727,22 +1631,21 @@ boue digérée,digested sludge
 boue industrielle,industrial sludge
 boue résiduaire,residual waste sludge
 bougie,candle
-chandelle,candle
 bouilloire,kettle
 bouilloire,kettle
-marmite,kettle
 bouillotte,kettle
 boulanger,baker
 boulangerie,baker
 boulangerie,bakery
+boulier,abacus
 bourdon,bumblebee
+bourgmestre,mayor
 bourreau,executioner
-exécuteur des hautes-œuvres,executioner
+bourricot,ass
+bourricot,donkey
 bourse d'informations,information clearing-house
 bourse des valeurs environnementales,environmental stock exchange
 boutique,shop
-commerce,shop
-magasin,shop
 bouture,cutting
 bouture,cutting (vegetative propagation)
 branche,branch
@@ -1753,6 +1656,9 @@ breton,Breton
 breton,Breton
 brevet d'invention,patent
 brique,brick
+briqueteur,bricklayer
+briqueteur,mason
+briqueteur,stonemason
 brocoli,broccoli
 brome,bromine
 brouillard,fog
@@ -1762,9 +1668,6 @@ bruit,noise
 bruit,noise
 bruit,"noise, vibrations"
 bruit,racket
-"bruit, vibrations",noise
-"bruit, vibrations","noise, vibrations"
-"bruit, vibrations",racket
 bruit ambiant,environmental noise
 bruit aérien,airborne noise
 bruit aérodynamique,aerodynamic noise
@@ -1781,9 +1684,12 @@ bruit impulsif,impulsive noise
 bruit industriel,industrial noise
 bruit intermittent,intermittent noise
 bruit routier,traffic noise
+"bruit, vibrations",noise
+"bruit, vibrations","noise, vibrations"
+"bruit, vibrations",racket
 brumasse,mist
-brume,mist
 brume,haze
+brume,mist
 bryophites,bryophyte
 brûlage contrôlé,controlled burning
 brûlage à la torche,flaring
@@ -1796,6 +1702,8 @@ bulletin d'expédition,dispatch note
 bureau,office
 bureaucratie,bureaucracy
 bureaucratisation,bureaucratisation
+bus,bus
+bus,coach
 bâtiment,building
 bâtiment agricole,agricultural building
 bâtiment d'habitation,residential building
@@ -1816,11 +1724,10 @@ cactus,cactus
 cadastre,land register
 cadmium,cadmium
 cadre de vie,living environment
-cafards,cockroach
 cafard,cockroach
+cafards,cockroach
 café,coffee
 caféine,caffeine
-théine,caffeine
 cahier de documentation,information kit
 calamité agricole,agricultural disaster
 calanque,cove
@@ -1836,18 +1743,18 @@ calligraphie,calligraphy
 camion,lorry
 camion citerne,tanker
 camouflage,camouflage
-camp de vacances,holiday camp
-campement,camp
-campement,military camp
-campement,army camp
-campement,campsite
-camp,camp
-camp,military camp
 camp,army camp
+camp,camp
 camp,campsite
-camping,camping site
+camp,military camp
+camp de vacances,holiday camp
+campement,army camp
+campement,camp
+campement,campsite
+campement,military camp
 camping,camping
 camping,camping ground
+camping,camping site
 canal,canal
 canalisation,channelling
 canard,duck
@@ -1863,8 +1770,9 @@ capitale,capital
 captage,catchment
 capteur solaire,solar collector
 capture accessoire,by-catch
+car,bus
+car,coach
 caractère,letter
-lettre,letter
 caractéristiques des matériaux,properties of materials
 carbonate,carbonate
 carbone,carbon
@@ -1874,8 +1782,8 @@ carburant,motor fuel
 carburant non polluant,non-polluting fuel
 cardinal,cardinal
 cardiologie,cardiology
-carnivores,carnivore
 carnivore,carnivore
+carnivores,carnivore
 carrière,career
 carrière,quarry
 carré,square
@@ -1887,6 +1795,12 @@ cartographie de lichens,mapping of lichens
 carélien,Karelian
 cascade,waterfall
 casse-noix,nutcracker
+castillan,Castilian
+castillan,Castilian
+castillan,Spanish
+castillan,Spanish
+castillan,Spanish
+castillan,Spanish
 castor,beaver
 catalan,Catalan
 catalan,Catalan
@@ -1898,24 +1812,26 @@ catastrophe anthropogénique,human-made disaster
 catastrophe hydrologique,hydrologic disaster
 catastrophe météorologique,meteorological disaster
 catastrophe naturelle,natural disaster
-catastrophe écologique,ecocatastrophe
 catastrophe écologique,disaster
+catastrophe écologique,ecocatastrophe
 cation,cation
 catégorie,category
 catégorie d'espèce menacée d'extinction,category of endangered species
+catégorie grammaticale,lexical category
+catégorie grammaticale,part of speech
 cavalier,knight
 cavalier,knight
 caviar,caviar
 cavité creusée,excavated hole
+cellule,Galvanic cell
+cellule,cell
+cellule,cell
+cellule,cell
+cellule,cell
 cellule,cell
 cellule,electrochemical cell
 cellule,energy cell
-cellule,Galvanic cell
 cellule,στοιχείο
-cellule,cell
-cellule,cell
-cellule,cell
-cellule,cell
 cellule solaire,solar cell
 cellulose,cellulose
 cendre,ash
@@ -1955,23 +1871,25 @@ chacal,jackal
 chaise,chair
 chaleur,heat
 chameau,camel
+champ,acre
 champ,field
 champ,land
 champ,land
-champ,acre
 champ,patch
 champ d'un écoulement,flow field
 champ d'épandage,sewage farm
 champagne,champagne
-champignon,mushroom
 champignon,fungus
-changement climatique,climatic change
+champignon,mushroom
+chandelle,candle
 changement climatique,climate change
+changement climatique,climatic change
 changement climatique induit  par l'action humaine,man-made climate change
 changement de valeur,change in value
 changement écologique,environmental change
 chantier,building site
 chapitre,chapter
+characteristique,characteristic
 charbon,coal
 charbon actif,activated carbon
 charbon de bois,charcoal
@@ -1985,33 +1903,26 @@ charte,chart
 charte nautique,chart
 charte nautique,nautical chart
 chasse,hunting
+chasteté,celibacy
 chat,cat
-minou,cat
 chaudière,boiler
 chauffage,heating
 chauffage urbain,district heating
 chaussette,sock
 chausson,slipper
-pantoufle,slipper
 chaussure,shoe
-pompe,shoe
-soulier,shoe
-godasse,shoe
-grolle,shoe
-tatane,shoe
 chaux,lime
 chaîne alimentaire,food chain
-chaîne de Markov,Markov chain
 chaîne de Markov,Markoff chain
+chaîne de Markov,Markov chain
 chaîne pétrolière,oil production (chain)
+chemin de fer,railway
 cheminement des polluants,pollutant pathway
 cheminée,chimney
 cheptel sur pied,livestock
 cheval,horse
-cheveu,hair
-poil,hair
 chevelure,hair
-pelage,hair
+cheveu,hair
 cheville,ankle
 cheville,talocrural joint
 chien,dog
@@ -2040,8 +1951,9 @@ chlorophénol,chlorophenol
 chlorose,chlorosis
 chlorure,chloride
 chocolat,chocolate
-cholestérol,cholesterol
 cholestérine,cholesterol
+cholestérol,cholesterol
+cholécyste,gallbladder
 chordés,chordate
 chorologie,chorology
 chou-fleur,cauliflower
@@ -2059,7 +1971,6 @@ chômage,unemployment
 ciel,heaven
 ciel,sky
 cigare,cigar
-סיגר,cigar
 cigarette,cigarette
 cigogne,stork
 ciment,cement
@@ -2073,13 +1984,15 @@ circulation océanique,ocean circulation
 citoyen,citizen
 citron,lemon
 clarinette,clarinet
+classe lexicale,lexical category
+classe lexicale,part of speech
 classification,classification
 classification d'image,image classification
 classification de l'usage des sols,land use classification
 clavier,keyboard
-cliché,platitude
 cliché,cliche
 cliché,cliché
+cliché,platitude
 climat,climate
 climat continental,continental climate
 climat désertique,desert climate
@@ -2087,36 +2000,35 @@ climat montagnard,mountain climate
 climat méditerranéen,Mediterranean climate
 climat océanique,oceanic climate
 climat équatorial,equatorial climate
-climatisation,air conditioning
 climatisation,AC
+climatisation,air conditioning
 climatisation,air-conditioning
 climatologie,climatology
 climax,climax
-clitoris,button
-clitoris,clit
-clitoris,clitoris
 clito,button
 clito,clit
 clito,clitoris
+clitoris,button
+clitoris,clit
+clitoris,clitoris
 clonage,cloning
+cloque,blister
 co-incinération,co-incineration
 coagulation,coagulation
 cobalt,cobalt
 cobaye,guinea pig
-cochon d'Inde,guinea pig
 cocaïne,cocaine
+cochon d'Inde,guinea pig
 code,code
 code administratif,administrative body
 code administratif,administrative organ
-organe d'administration,administrative body
-organe d'administration,administrative organ
 code de mise en pratique,code of practice
 codification,codification
 codification OMCI,IMCO code
 coelentérés,coelenterate
 cogénération,cogeneration
-coiffeur,hairdresser
 coiffeur,barber
+coiffeur,hairdresser
 coke,coke
 colibacilles,coliform bacterium
 colle,glue
@@ -2125,8 +2037,8 @@ colline,colina
 colline,hill
 colline,loma
 colloïde,colloid
-colombe,pigeon
 colombe,dove
+colombe,pigeon
 colonie,colony
 colonisation,colonisation
 colorimétrie,colourimetry
@@ -2138,11 +2050,9 @@ combustible,fuel
 combustible fossile,fossil fuel
 combustible nucléaire,nuclear fuel
 comestible,edible
-consommable,edible
-mangeable,edible
+commerce,shop
 commerce,trade
 commerce,trade
-commercial,trade
 commerce Est-Ouest,East-West trade
 commerce d'alimentation,food commerce
 commerce des animaux,animal trade
@@ -2151,7 +2061,9 @@ commerce et consommation,trade and consumption
 commerce extérieur,foreign trade
 commerce international,international trade
 commerce intérieur,domestic trade
+commercial,trade
 commercialisation,commercialisation
+commerçant,merchant
 communauté végétale,plant community
 communauté écologique,ecological community
 commune,municipality
@@ -2167,10 +2079,11 @@ comparaison,comparison
 comparaison de produits,product comparison
 comparaison interlaboratoire,interlaboratory comparison
 comparaison internationale,international transaction
-compassion,pity
 compassion,compassion
+compassion,pity
 compensation,compensation
 complexation,complex formation
+compliqué,difficult
 comportement,behaviour
 comportement animal,animal behaviour
 comportement collectif,group behaviour
@@ -2189,15 +2102,13 @@ compost de boues résiduaires,refuse-sludge compost
 compostage,composting
 compostage par le producteur,composting by producer
 composts et engrais naturels,natural fertiliser
-composé,compound
 composé,chemical compound
-composé chimique,compound
-composé chimique,chemical compound
-corps composé,compound
-corps composé,chemical compound
+composé,compound
 composé alicyclic,alicyclic compound
 composé alkylique,alkyl compound
 composé aromatique,aromatic compound
+composé chimique,chemical compound
+composé chimique,compound
 composé de plomb,lead compound
 composé halogéné,halogenated compound
 composé nitré,nitro compound
@@ -2219,15 +2130,16 @@ comptabilité environnementale nationale,national environmental accounting
 comptabilité nationale,national accounting
 comptabilité écologique,ecological bookkeeping
 compte,account
-compétence administrative,administrative competence
 compétence administrative,administrative ability
+compétence administrative,administrative competence
 compétence législative,legislative competence
 compétition,competition
 compétition biologique,competition
+compétition économique,economic competition
 compétitivité,competitiveness
 compétitivité internationale,international competitiveness
 comuse,bagpipes
-cornemuse,bagpipes
+comète,comet
 concentration,concentration
 concentration de polluant,pollutant concentration
 concentration en soufre,sulphur concentration
@@ -2240,14 +2152,19 @@ concombre,cucumber
 concours,competitive examination
 concurrence,economic competition
 concurrence économique,economic competition
-compétition économique,economic competition
-condensation,condensation (process)
 condensation,condensation
+condensation,condensation (process)
 condition de vie,living condition
 condition physique,physical conditions
 conditionnement,preparation for market
+condom,condom
+condom,prophylactic
+condom,rubber
+condom,safe
+condom,safety
 conductivité,conductivity
 conductivité,electrical conductivity
+conduit,pipe
 conflit,conflict
 conflit d'intérêts,conflict of interests
 conflit d'objectifs,conflict of aims
@@ -2257,8 +2174,6 @@ conférence,conference
 congrès,congress
 congé,holiday
 congé,opor-garai
-vacances,holiday
-vacances,opor-garai
 conifère,conifer
 conifère,coniferous tree
 conjoncture,economic trend
@@ -2273,7 +2188,10 @@ conservation des ressources,resource conservation
 conservation des ressources naturelles,natural resource conservation
 conserve,preserve
 consideración,consideration
+consommable,edible
+consommation,beverage
 consommation,consumption
+consommation,drink
 consommation d'électricité,electricity consumption
 consommation d'énergie,energy consumption
 consommation d'énergie primaire,primary energy consumption
@@ -2281,6 +2199,9 @@ consommation de combustible,fuel consumption
 consommation de matières premières,raw material consumption
 consommation de pétrole,petroleum consumption
 consommation du paysage,landscape consumption
+consommer,consume
+consommer,eat
+consommer,swallow
 consonne,consonant
 constellation,constellation
 constitution,constitution
@@ -2288,15 +2209,12 @@ constitution,constitution
 construction avec des matériaux recyclés,construction with recycled material
 construction hydraulique,hydraulic construction
 consultation,consultation
-conséquence sur l'environnement,environmental consequence
 conséquence sur l'environnement,effect on the environment
 conséquence sur l'environnement,environmental consequence
-effet sur l'environnement,effect on the environment
-effet sur l'environnement,environmental consequence
+conséquence sur l'environnement,environmental consequence
 contaminant alimentaire,food pollutant
 contamination,contamination
 contamination,infection
-infection,infection
 contamination biologique,biological contamination
 contamination chimique,chemical contamination
 contamination des denrées alimentaires,food contamination
@@ -2334,7 +2252,11 @@ coquillage,shellfish
 coquillage,shellfish
 corail,coral
 cordon littoral,barrier beach
+cornemuse,bagpipes
 cornique,Cornish
+corps composé,chemical compound
+corps composé,compound
+corps exécutif,authority body
 corps humain,human body
 corps législatif,legislature
 correction atmosphérique,atmospheric correction
@@ -2357,34 +2279,29 @@ couche de couverture (décharge),landfill covering
 couche limite,boundary layer
 coude,elbow
 coudre,sew
-couleur,colour
-couleur,colour
+couleur,colo(u)r
+couleur,colo(u)r
 couleur,colo(u)r
 couleur,colour
 couleur,colour
-couleur,colo(u)r
 couleur,colour
 couleur,colour
-couleur,colo(u)r
-teinte,colour
-teinte,colour
-teinte,colo(u)r
-teinte,colour
-teinte,colour
-teinte,colo(u)r
+couleur,colour
+couleur,colour
 couloir d'animaux,animal corridor
 coulée verte,green corridor
+coup d'État,coup d'état
+coup d'État,putsch
+coup d'état,coup d'état
+coup d'état,putsch
 courant océanique,ocean current
 courbe de progression,progress line
-courrier électronique,electronic mail
-courrier électronique,email
-courrier électronique,e-mail
+courriel,e-mail
 courriel,electronic mail
 courriel,email
-courriel,e-mail
-mail,electronic mail
-mail,email
-mail,e-mail
+courrier électronique,e-mail
+courrier électronique,electronic mail
+courrier électronique,email
 cours d'eau international,international watercourse
 couteau,knife
 couvaison,brooding
@@ -2402,10 +2319,10 @@ craie,chalk
 crainte,awe
 crapaud,toad
 crayon,pencil
-creusement,excavation (process)
-creusement,excavation
-creusement,earthworks
 creusement,digging
+creusement,earthworks
+creusement,excavation
+creusement,excavation (process)
 crime,crime
 crime écologique,environmental crime
 criminalité,criminality
@@ -2429,22 +2346,20 @@ croisière de plaisance,pleasure cruising
 croissance démographique,demographic development
 croissance économique,economic growth
 croup spasmodique,spasmodic croup
+croute,Earth's crust
+croute,crust
+croute,earth's crust
+croute terrestre,Earth's crust
+croute terrestre,crust
+croute terrestre,earth's crust
 croyance,acceptance
 croyance,credence
-acceptation,acceptance
-acceptation,credence
-croûte terrestre,earth's crust
-croûte terrestre,crust
-croûte terrestre,Earth's crust
-croûte,earth's crust
-croûte,crust
 croûte,Earth's crust
-croute,earth's crust
-croute,crust
-croute,Earth's crust
-croute terrestre,earth's crust
-croute terrestre,crust
-croute terrestre,Earth's crust
+croûte,crust
+croûte,earth's crust
+croûte terrestre,Earth's crust
+croûte terrestre,crust
+croûte terrestre,earth's crust
 crucifix,crucifix
 crue,flood
 crustacé,crustacean
@@ -2458,10 +2373,11 @@ cuir,leather
 cuisson,firing
 cuivre,copper
 culture,cultivation
-culture,tillage
 culture,culture
+culture,tillage
 culture de champ,arable farming
 culture des bulbes,bulb cultivation
+culture en courbes de niveau,contour farming
 culture environnementale,environmental culture
 culture fourragère,forage crop
 culture fruitière,fruit cultivation
@@ -2470,11 +2386,14 @@ culture industrielle,cash crop
 culture industrielle,industrial crop
 culture irriguée,irrigation farming
 culture maraîchère,market gardening
-cultures selon les courbes de niveau,contour farming
 culture selon les courbes de niveau,contour farming
-culture en courbes de niveau,contour farming
+cultures selon les courbes de niveau,contour farming
 curium,curium
 cyanate,cyanate
+cyanobacteria,blue-green alga
+cyanobacteria,cyanobacteria
+cyanobactérie,blue-green alga
+cyanobactérie,cyanobacteria
 cyanure,cyanide
 cycle biogéochimique,biogeochemical cycle
 cycle biologique,biological cycle
@@ -2512,7 +2431,6 @@ de bon augure,auspicious
 degré d'acidité,acidity degree
 delta,delta
 demain,tomorrow
-lendemain,tomorrow
 demande,demand
 demande biochimique en oxygène,biochemical oxygen demand
 demande chimique en oxygène,chemical oxygen demand
@@ -2522,8 +2440,6 @@ dendrochronologie,dendrochronology
 dendrochronologie,tree-ring dating
 dendrométrie,dendrometry
 dengue,dengue fever
-grippe tropicale,dengue fever
-petit palu,dengue fever
 densité,density
 densité de l'habitat,housing density
 densité de population,population density
@@ -2532,14 +2448,14 @@ dent,tooth
 dentiste,dentist
 dermatologie,dermatology
 descendant,decay product
-dessalement de l'eau,water desalination
 dessalage de l'eau,water desalination
-dessin industriel ou architectural,design (project)
-dessin industriel ou architectural,design
-dessin industriel ou architectural,project design
-dessin industriel,design (project)
+dessalement de l'eau,water desalination
 dessin industriel,design
+dessin industriel,design (project)
 dessin industriel,project design
+dessin industriel ou architectural,design
+dessin industriel ou architectural,design (project)
+dessin industriel ou architectural,project design
 dessèchement,drying out
 destruction de bâtiment,building destruction
 destruction de l'habitat,habitat destruction
@@ -2554,22 +2470,19 @@ dialecte,dialect
 dialyse,dialysis
 diarrhée,diarrhea
 diatomées,diatom
-dictionnaire,dictionary
 dico,dictionary
+dictionnaire,dictionary
 didactique,didactics
+diesel,diesel
+diesel,diesel fuel
 difficile,difficult
-dur,difficult
-compliqué,difficult
-épineux,difficult
-ardu,difficult
-délicat,difficult
-malaisé,difficult
 diffusion,diffusion
 diffusion de polluant,pollutant dispersion
 différenciation,differentiation
 digesteur,digester
 digestion,digestion
 digitalisation,digitising
+digue,dyke
 dimanche,Sunday
 diminution de la quantité de polluants,pollutant reduction
 diminution du bruit,noise abatement
@@ -2601,9 +2514,9 @@ disponible,available
 dispositif d'épuration,purification facility
 dispositif d'évacuation,exhaust device
 dispute,argument
-disque dur,hard disk drive
-disque dur,hard disk
 disque dur,HD
+disque dur,hard disk
+disque dur,hard disk drive
 dissipation d'énergie,energy dissipation
 dissolution,dissolution
 dissuasif,deterrent
@@ -2617,7 +2530,6 @@ distribution commerciale,distributive trade
 distribution des polluants,pollutant distribution
 distribution internationale,international distribution
 diversité biologique,biodiversity
-biodiversité,biodiversity
 diversité génétique,genetic diversity
 division,division
 division internationale du travail,international division of labour
@@ -2628,8 +2540,6 @@ doctrine politique,political doctrine
 document,document
 documentation,documentation
 dodo,sleep
-repos,sleep
-sommeil,sleep
 doigt,finger
 doigt,finger
 domaine benthique,benthic division
@@ -2637,6 +2547,9 @@ domaine privé,private domain
 domaine public,public domain
 domaine public fluvial,public waterways domain
 domaine public maritime,public maritime domain
+domicile,home
+domicile,home
+domicile,house
 dommage,damage
 dommage dû au rayonnement,radiation damage
 dommages dus à des manoeuvres militaires,damage from military manoeuvres
@@ -2701,6 +2614,7 @@ dromadaire,dromedary
 dubnium,dubnium
 dune,dune
 dune de sable,sand dune
+dur,difficult
 dureté,hardness
 durée de l'ensoleillement,duration of sunshine
 dynamique de population,population dynamics
@@ -2720,18 +2634,18 @@ débroussaillement,bush clearing
 décantation,racking
 décembre,December
 décentralisation,decentralisation
+décharge,land disposal
 décharge,landfill
 décharge,waste dump
-décharge,land disposal
 décharge d'ordures ménagères,domestic waste landfill
 décharge de déchets dangereux,hazardous waste dump
 décharge de déchêts radioactifs,radioactive dumping
 décharge en haute mer,deep-sea disposal
 décharge industrielle,industrial dumping
 décharge municipale,municipal dumping
+décharge non contrôlée,dumping
 décharge non réglementaire,dumping
 décharge sauvage,dumping
-décharge non contrôlée,dumping
 déchet agricole,agricultural waste
 déchet animal,animal waste
 déchet chimique,chemical waste
@@ -2754,8 +2668,8 @@ déchet métallique,metal waste
 déchet organique,organic waste
 déchet pharmaceutique,pharmaceutical waste
 déchet pâteux,paste-like waste
-déchet radioactif,radioactive waste
 déchet radioactif,nuclear waste
+déchet radioactif,radioactive waste
 déchet urbain,municipal waste
 déchets,waste
 déchets assimilés aux ordures ménagères,consumer waste
@@ -2808,27 +2722,23 @@ déjeuner,lunch
 déjeuner,lunch
 déjeuner,lunch
 déjeuner,lunch
-déjeuner,luncheon
+déjeuner,lunch
+déjeuner,lunch
+déjeuner,lunch
+déjeuner,lunch
+déjeuner,lunch
+déjeuner,lunch
+déjeuner,lunch
+déjeuner,lunch
 déjeuner,lunch
 déjeuner,lunch
 déjeuner,lunch
 déjeuner,lunch
 déjeuner,luncheon
-déjeuner,lunch
-déjeuner,lunch
-déjeuner,lunch
-déjeuner,lunch
 déjeuner,luncheon
-déjeuner,lunch
-déjeuner,lunch
-déjeuner,lunch
-déjeuner,lunch
 déjeuner,luncheon
-repas du midi,lunch
-repas du midi,lunch
-repas du midi,lunch
-repas du midi,lunch
-repas du midi,luncheon
+déjeuner,luncheon
+délicat,difficult
 délit,wrongful act
 délits à l'encontre de l'environnement,environmental criminality
 délégation de pouvoir,devolution
@@ -2837,8 +2747,8 @@ démographie,demography
 démontrabilité,demonstrability
 dénitrification,denitrification
 dénitrification des effluents gazeux,denitrification of waste gas
-département (UK),county
 département,county
+département (UK),county
 dépense,expenditure
 dépense des ménages,household expenditure
 dépense publique,public expenditure
@@ -2855,6 +2765,7 @@ désastre géologique,geological disaster
 désastre pétrolier,oil disaster
 désencrage,de-inking
 désert,desert
+désert du Sahara,sahara
 désertification,desertification
 désinfectant,disinfectant
 désinfection,disinfection
@@ -2880,8 +2791,8 @@ développement régional,regional development
 développement économique,economic development
 déversement de pétrole,oil spill
 déversoir,overflow (outlet)
-dôme de confinement,containment (nuclear industry)
 dôme de confinement,containment
+dôme de confinement,containment (nuclear industry)
 eau,water
 eau chaude,hot water
 eau courante,flowing water
@@ -2909,8 +2820,8 @@ eau saumâtre,brackish water
 eau usée,waste water
 eau usée domestique,domestic waste water
 eau usée industrielle,industrial waste water
-eaux,water
 eaux,body of water
+eaux,water
 eaux côtières,coastal water
 eaux intérieures,inland water
 eaux souterraines,groundwater
@@ -2922,6 +2833,7 @@ effet,effect
 effet biologique,biological effect
 effet biologique de la pollution,biological effect of pollution
 effet climatique,climatic effect
+effet concomitant,side effect
 effet de combinaison,combination effect
 effet de pollution,pollution effect
 effet de report,carry-over effect
@@ -2933,7 +2845,8 @@ effet psychique,psychic effect
 effet psychologique,psychological effect
 effet psychosomatique,psychosomatic effect
 effet secondaire,side effect
-effet concomitant,side effect
+effet sur l'environnement,effect on the environment
+effet sur l'environnement,environmental consequence
 effet sur l'homme,effect on man
 effet sur la santé,effect on health
 effet sur le niveau de l'emploi,employment level effect
@@ -2961,31 +2874,11 @@ emploi,job
 emploi,occupation
 emploi,work
 emploi,work
-métier,employment
-métier,employment
-métier,job
-métier,job
-métier,occupation
-métier,work
-métier,work
-profession,employment
-profession,employment
-profession,job
-profession,job
-profession,occupation
-profession,work
-profession,work
-travail,employment
-travail,employment
-travail,job
-travail,job
-travail,occupation
-travail,work
-travail,work
 empoisonnement,poisoning
+empêchement,obstacle
+empêchement,obstruction
 encapsulation,encapsulation
 enchères,auction
-vente aux enchères,auction
 enclume,anvil
 encouragement et subventions écologiques,environmental subsidy
 encre,ink
@@ -3008,7 +2901,6 @@ enjeu économique de l'environnement,environmental economy issue
 ennemi,enemy
 ennemi,enemy
 enquête,detection
-investigation,detection
 enquête d'utilité publique,public benefit inquiry
 enquête publique,public inquiry
 enquête sociale,social survey
@@ -3046,27 +2938,27 @@ enzyme,enzyme
 erbium,erbium
 ergonomie,ergonomics
 escroquerie,fraud
-espace,space
-espace,space
-espace,space (interplanetary)
+espace,interplanetary space
 espace,interplanetary space
 espace,space
 espace,space
+espace,space
+espace,space
 espace,space (interplanetary)
-espace,interplanetary space
+espace,space (interplanetary)
+espace (interplanétaire),interplanetary space
 espace (interplanétaire),space
 espace (interplanétaire),space
 espace (interplanétaire),space (interplanetary)
-espace (interplanétaire),interplanetary space
+espace de loisirs,recreational area
+espace interplanétaire,interplanetary space
 espace interplanétaire,space
 espace interplanétaire,space
 espace interplanétaire,space (interplanetary)
-espace interplanétaire,interplanetary space
-espace de loisirs,recreational area
 espace naturel,natural area
 espace protégé,protected area
-espace périurbain,outer space (allocation plan)
 espace périurbain,outer space
+espace périurbain,outer space (allocation plan)
 espace périurbain,periurban space
 espace rural,rural area
 espace vert,green space
@@ -3074,27 +2966,10 @@ espace vital,living space
 espagnol,Castilian
 espagnol,Spanish
 espagnol,Spanish
-castillan,Castilian
-castillan,Spanish
-castillan,Spanish
-castillan,Castilian
-castillan,Spanish
-castillan,Spanish
 espoir,hope
-espérance,hope
-espèce,species
-espèce,part of speech
 espèce,lexical category
-nature,part of speech
-nature,lexical category
-parties du discours,part of speech
-parties du discours,lexical category
-partie du discours,part of speech
-partie du discours,lexical category
-catégorie grammaticale,part of speech
-catégorie grammaticale,lexical category
-classe lexicale,part of speech
-classe lexicale,lexical category
+espèce,part of speech
+espèce,species
 espèce animale,animal species
 espèce animale menacée,endangered animal species
 espèce d'avifaune,bird species
@@ -3105,6 +2980,7 @@ espèce rare,rare species
 espèce végétale,plant species
 espèce végétale menacée,endangered plant species
 espèce éteinte,extinct species
+espérance,hope
 espéranto,Esperanto
 espéranto,Esperanto
 essai nucléaire,nuclear test
@@ -3120,11 +2996,6 @@ et,as well as
 et,in addition to
 et,together with
 et,too
-ainsi que,and
-ainsi que,as well as
-ainsi que,in addition to
-ainsi que,together with
-ainsi que,too
 ethnographie,ethnography
 ethnologie,ethnology
 europium,europium
@@ -3140,17 +3011,17 @@ exploitation des océans,ocean exploitation
 exploitation des ressources,resource exploitation
 exploitation forestière,forest exploitation
 exploitation mixte,mixed farming
-exploitation à ciel ouvert,opencast mining
 exploitation à ciel ouvert,open-pit mining
+exploitation à ciel ouvert,opencast mining
 exploration,exploration
 exploration des ressources de gaz naturel,natural gas exploration
 exploration des ressources pétrolières,oil exploration
 explosif,explosive
 explosion,explosion
-explosion nucléaire (accident),nuclear explosion (accident)
-explosion nucléaire (accident),nuclear explosion
-explosion nucléaire,nuclear explosion (accident)
 explosion nucléaire,nuclear explosion
+explosion nucléaire,nuclear explosion (accident)
+explosion nucléaire (accident),nuclear explosion
+explosion nucléaire (accident),nuclear explosion (accident)
 exportation,export
 exportation de déchets dangereux,export of hazardous wastes
 exportation de produits chimiques dangereux,hazardous chemical export
@@ -3164,8 +3035,8 @@ expérience scientifique,experiment
 expérience sur le long terme,long-term experiment
 expérimentation animale,animal experiment
 externalité économique,externality
-extinction,extinction (ecological)
 extinction,extinction
+extinction,extinction (ecological)
 extraction,extraction
 extraction de charbon,coal mining
 extraction de gaz naturel,natural gas extraction
@@ -3175,13 +3046,12 @@ extraction de pétrole,oil extraction
 extraction de tourbe,peat extraction
 extraction des nutriments,nutrient removal
 extraction en mer,offshore mining
+exécuteur des hautes-œuvres,executioner
 fabrication industrielle,industrial manufacturing
 face,face
-figure,face
-visage,face
 facile,easy
-facile,piece of cake
 facile,like shooting fish in a barrel
+facile,piece of cake
 facteur,postman
 facteur abiotique,abiotic factor
 facteur biotique,biotic factor
@@ -3201,9 +3071,9 @@ faim,hunger
 faim,hunger
 faim,hunger
 faire,do
-faisable,viable
-faisable,viable
 faisable,feasible
+faisable,viable
+faisable,viable
 faisan,pheasant
 falaise,cliff
 famille,family
@@ -3212,17 +3082,21 @@ fascisme,fascism
 fauchage,mowing
 faune,fauna
 faune marine,marine fauna
+faune sauvage,wild animals
 faune sauvage,wild fauna
 faune sauvage,wildlife
-faune sauvage,wild animals
 fauteuil roulant,wheelchair
 favorable à l'environnement,environment friendly
+femme,female
+femme,spouse
+femme,wife
+femme,woman
 fenêtre,window
 fer,iron
-ferme (bâtiment),farm building
-ferme,farm building
-ferme (exploitation),farm
 ferme,farm
+ferme,farm building
+ferme (bâtiment),farm building
+ferme (exploitation),farm
 ferme avicole,poultry farming
 fermentation,fermentation
 fermeture,closing down
@@ -3234,8 +3108,8 @@ ferry,ferry
 fertilisation,soil fertilisation
 fertilité du sol,soil fertility
 feu,fire
-incendie,fire
 feu d'artifice,firework
+feu de forêt,forest fire
 feu de prairie,grass fire
 feuillage,foliage
 feuille,leaf
@@ -3246,10 +3120,12 @@ fibre minérale,mineral fibre
 fibre naturelle,natural fibre
 fibre textile végétale,plant textile fibre
 fiel,bile
-fille,girl
+figure,face
+fil d'araignée,spider web
+fil d'araignée,web
 fille,daughter
+fille,girl
 film,film
-pellicule,film
 film cinématographique,cinematographic film
 film documentaire,documentary film
 filtrage d'image,image filtering
@@ -3265,43 +3141,39 @@ finances locales,local finance
 finances publiques,public finance
 fine poussière,fine dust
 finnois,Finnish
-fioul,fuel oil
-fioul,diesel fuel
 fioul,diesel
-gazole,diesel fuel
-gazole,diesel
-diesel,diesel fuel
-diesel,diesel
-mazout,diesel fuel
-mazout,diesel
-naphte,diesel fuel
-naphte,diesel
-fuel,diesel fuel
-fuel,diesel
+fioul,diesel fuel
+fioul,fuel oil
 fioul domestique,domestic fuel
-firme,firm
+firme,company
 firme,corporation
 firme,enterprise
-firme,company
+firme,firm
 firme,venture
 firme multinationale,multinational firm
 fission nucléaire,nuclear fission
 fixation de l'azote,nitrogen fixation
+flamand,Dutch
+flamand,Dutch
 flamand,Flemish
-fleur,flower
+flaque,pool
+flaque,pool
+flaque,puddle
+flaque,puddle
+flaque,puddle
+flaque,puddle
 fleur,bloom
 fleur,blossom
+fleur,flower
 fleuve,river
-rivière,river
 floculant,flocculant
 floculation,flocculation
-flore,flora (biology)
 flore,flora
+flore,flora (biology)
 flore et faune sauvages,wildlife
 flore et faune sauvages,野生生物
 flottation,flotation
 flotte,rain
-pluie,rain
 fluidique,fluidics
 fluidisation,fluidisation
 fluor,fluorine
@@ -3329,6 +3201,7 @@ forces armées,armed forces
 forgeron,blacksmith
 format électronique de données géo-référencées,GIS digital format
 formation,training
+formation,upbringing
 formation continue,continuing education
 formation des polluants,pollutant formation
 formation en matière d'environnement,environmental training
@@ -3337,6 +3210,8 @@ formation pour adultes,adult education
 forme de gouvernement,form of government
 forme de marché,market form
 forme juridique de l'entreprise,legal form of organisations
+forte-piano,piano
+forte-piano,pianoforte
 forum,newsgroup
 forêt,forest
 forêt de conifères,coniferous forest
@@ -3359,27 +3234,23 @@ four industriel,furnace
 four tournant,rotary furnace
 fourchette,fork
 fourmi,ant
-fournisseur de services internet,internet service provider
-fournisseur de services internet,ISP
-fournisseur de services internet,Internet access provider
-fournisseur de services internet,Internet service provider
-fournisseur d'accès Internet,internet service provider
-fournisseur d'accès Internet,ISP
-fournisseur d'accès Internet,Internet access provider
-fournisseur d'accès Internet,Internet service provider
-fournisseur d'accès,internet service provider
 fournisseur d'accès,ISP
 fournisseur d'accès,Internet access provider
 fournisseur d'accès,Internet service provider
-FAI,internet service provider
-FAI,ISP
-FAI,Internet access provider
-FAI,Internet service provider
+fournisseur d'accès,internet service provider
+fournisseur d'accès Internet,ISP
+fournisseur d'accès Internet,Internet access provider
+fournisseur d'accès Internet,Internet service provider
+fournisseur d'accès Internet,internet service provider
+fournisseur de services internet,ISP
+fournisseur de services internet,Internet access provider
+fournisseur de services internet,Internet service provider
+fournisseur de services internet,internet service provider
 fourniture de chaleur,heat supply
 fourniture locale de chaleur,local heat supply
 fourrage,fodder
-fourrage,provender
 fourrage,forage
+fourrage,provender
 fourrière,headland
 fourrure,fur
 fracture,fracture
@@ -3389,37 +3260,40 @@ fraise,strawberry
 francium,francium
 français,French
 français,French
+french,english
 friche industrielle,industrial wasteland
 frison,Frisian
 frison,Western Frisian
 froid,cold
 fromage,cheese
+frontière,border
 frontière,boundary
 frontière nationale,national boundary
 fruit,fruit
 fréon,freon
 fréquentation du public,public attendance
+fuel,diesel
+fuel,diesel fuel
 fuite,leakage
 fumier,animal manure
 fumier,manure
 fumigation,fumigation
-fumée,smoke
 fumée,fume
+fumée,smoke
 funérailles,funeral
-obsèques,funeral
 furanne,furan
 fuseau horaire,timezone
 fusion,melting
 fusion du coeur,core meltdown
 fusion nucléaire,nuclear fusion
 futaie,timber forest
-fécondation,fertilisation
 fécondation,fecundation
+fécondation,fertilisation
 félidé,felid
-féroïen,Faroese
-féroïen,Faeroese
-féringien,Faroese
 féringien,Faeroese
+féringien,Faroese
+féroïen,Faeroese
+féroïen,Faroese
 février,February
 gadolinium,gadolinium
 galicien,Galician
@@ -3436,12 +3310,12 @@ garde-côtière,coastguard
 garder en stock,stocking
 gardien,attendant
 gare,station
-station,station
 gare ferroviaire,railway station
 gare routière,bus station
+gars,male
+gars,man
 garçon,boy
 garçon,waiter
-serveur,waiter
 gastéropode,gastropod
 gaz,gas
 gaz d'échappement,exhaust gas
@@ -3451,17 +3325,29 @@ gaz de combustion,combustion gas
 gaz de décharge,landfill gas
 gaz liquéfié,liquefied gas
 gaz naturel,natural gas
+gaz noble,element of group 0
+gaz noble,noble gas
+gaz nobles,element of group 0
+gaz nobles,noble gas
 gaz propulseur,propellant
+gaz rare,element of group 0
+gaz rare,noble gas
+gaz rares,element of group 0
+gaz rares,noble gas
 gaz à effet de serre,greenhouse gas
 gazoduc,gas pipeline
 gazohol,gasohol
+gazole,diesel
+gazole,diesel fuel
 gazéification,gasification
 gel,frost
-givre,frost
+genre,gender
+genre,sex
 gens,people
 germanium,germanium
 germe,germ
 germination,germination
+gestation,pregnancy
 gestion,management
 gestion agricole,agricultural management
 gestion commune des déchets banals et spéciaux,dual waste management
@@ -3487,6 +3373,7 @@ gibier,game
 gibier,game
 girafe,giraffe
 gisement,mineral deposit
+givre,frost
 glace,ice
 glace,ice cream
 glacier,glacier
@@ -3496,32 +3383,38 @@ gland,gland
 glande,gland
 glaucome,glaucoma
 glossaire,glossary
+glucide,carbohydrate
 glycolyse,glycolysis
+godasse,shoe
 golf,golf
 golfe,gulf
 gong,gong
+gonorrhée,gonorrhea
+gonzesse,female
+gonzesse,woman
 gorge,canyon
 gorille,gorilla
 gouvernement,government (cabinet)
 gouvernement fédéral,federal government
 gouverneur,governor
 goéland,gull
+grain de riz,rice
+grain de riz,rice
 graine,seed
 graisse alimentaire,edible fat
 graminée,graminaceous plant
-grammaire,grammer
 grammaire,grammar
+grammaire,grammer
+grand,big
+grand,big
+grand,large
+grand,large
 grand,long
-grand,big
-grand,large
-grand,big
-grand,large
-grande,big
-grande,large
 grand fond marin,deep sea
 grand gibier,big game
 grand-père,grandfather
-aïeul,grandfather
+grande,big
+grande,large
 grande installation de combustion,large combustion plant
 granite,granite
 granulométrie,granulometry
@@ -3534,13 +3427,16 @@ grec,Greek
 grenade,pomegranate
 grenier,attic
 grenouille,frog
-grippe,influenza
 grippe,flu
+grippe,influenza
+grippe tropicale,dengue fever
+grolle,shoe
+gros,fat
+gros,obese
 grossesse,pregnancy
-gestation,pregnancy
 grotte,cave
-groupe d'action,action group
 groupe d'action,action committee
+groupe d'action,action group
 groupe d'intérêt,interest group
 groupe de pression,pressure group
 groupe social,social group
@@ -3572,7 +3468,6 @@ génie génétique,genetic engineering
 génie hydraulique,hydraulic engineering
 génie marin,marine engineering
 génie électrique,electrical engineering
-électrotechnique,electrical engineering
 génocide,genocide
 génome,genome
 génotoxicité,genotoxicity
@@ -3597,23 +3492,25 @@ géotechnique,geotechnics
 géotechnologie,geotechnology
 géranium,geranium
 gîte rural,country lodge
+habillement,apparel
 habillement,attire
 habillement,clothing
-habillement,apparel
-habiller,dress
 habiller,clothe
+habiller,dress
 habitant,inhabitant
 habitat,habitat
 habitat animal,animal habitat
 habitat humain,human habitat
 habitation,dwelling
 habitation à loyer modéré,low-cost housing
-HLM,low-cost housing
 hafnium,hafnium
 haie,hedge
 haine,hate
 haine,hatred
 haloforme,haloform
+halogène,element of group VII
+halogène,halogen
+hameçonnage,phishing
 harem,harem
 haricot,bean
 haricot,edible bean
@@ -3629,24 +3526,28 @@ hauteur excessive des cheminées d'usine,excessive height of chimney stacks
 haïku,haiku
 herbe,grass
 herbicide,herbicide
-herbier,flora (document)
 herbier,flora
+herbier,flora (document)
 herbivore,herbivore
 herbivore,plant eater
 heure,hour
+hic,problem
 hindi,Hindi
 hindi,Hindi
 hindî,Hindi
 hindî,Hindi
-histoire,story
 histoire,history
+histoire,story
 histoire de l'écologie,environmental history
 historiographie,historiography
 hiver,winter
 hivernage,overwintering
 hiérarchie,hierarchy
 hockey sur glace,ice hockey
+hollandais,Dutch
 holmium,holmium
+homme,male
+homme,man
 homme,man
 homologation,homologation
 homologation d'installations,approval of installations
@@ -3658,19 +3559,22 @@ horizon,horizon
 hors site,off-site
 horticulture,horticulture
 horticulture en serre,greenhouse cultivation
+houille,anthracite coal
+houille,black coal
+houille,black coal
+houille,black coal
 huile de fond de cale,bilge oil
 huile de refroidissement,cooling oil
 huile minérale,mineral oil
 huile végétale,vegetable oil
 huit,eight
+huitre,oyster
 humidité,moisture
 humiliation,abasement
 humus,humus
 huître,oyster
-huitre,oyster
 hybridation,hybridisation
 hydrate de carbone,carbohydrate
-glucide,carbohydrate
 hydraulique,hydraulics
 hydraulique agricole,agricultural hydraulics
 hydro-écologie,aquatic ecology
@@ -3699,23 +3603,12 @@ hygiène du travail,occupational health
 hymenoptère,hymenopteran
 hyperonyme,broader term
 hyperonyme,broader terms
-hyperonyme,hypernym
 hyperonyme,holonym
-terme plus général,broader term
-terme plus général,broader terms
-terme plus général,hypernym
-terme plus général,holonym
-termes plus généraux,broader term
-termes plus généraux,broader terms
-termes plus généraux,hypernym
-termes plus généraux,holonym
+hyperonyme,hypernym
 hypertexte,hypertext
 hyponyme,hyponym
-hyponyme,narrower terms
 hyponyme,narrower term
-termes plus restreints,hyponym
-termes plus restreints,narrower terms
-termes plus restreints,narrower term
+hyponyme,narrower terms
 hypophyse,pituitary gland
 hypothèse Sapir-Whorf,Sapir–Whorf hypothesis
 hyène,hyena
@@ -3726,14 +3619,14 @@ hégémonie,hegemony
 hélicoptère,helicopter
 hélium,helium
 hématologie,haematology
-hémorragie,haemorrhage
 hémorragie,bleeding
+hémorragie,haemorrhage
 hérisson,hedgehog
 héron,heron
 héroïne,heroin
 hétérocycle,heterocyclic compound
-hôpital,hospital
 hôpital,clinic
+hôpital,hospital
 iceberg,iceberg
 ici,here
 identification de produits,product identification
@@ -3742,6 +3635,8 @@ ido,Ido
 idéologie,ideology
 idéologie politique,political ideology
 il,he
+ile,island
+ile,isle
 immeuble de grande hauteur,high-rise building
 immeuble en copropriété,apartment block
 immeuble ministériel,ministry
@@ -3771,9 +3666,9 @@ impôt,levy
 impôt sur le revenu,income tax
 in situ,in situ
 incendiaire,arsonist
+incendie,fire
 incendie criminel,arson
 incendie de forêt,forest fire
-feu de forêt,forest fire
 incinérateur,incinerator
 incinération,incineration
 incinération des déchets,incineration of waste
@@ -3852,19 +3747,17 @@ indutrie des biens électroménagers,electrical goods industry
 indépendance,independence
 inertage,inertisation
 infection,infection
+infection,infection
 infestation des aliments,infestation of food
 infestation des cultures,infestation of crops
 infestation parasitaire,pest infestation
 infestation parasitaire,pest infestation
-"infidèle,",heathen
-"infidèle,",infidel
-"infidèle,",pagan
 infidèle,heathen
 infidèle,infidel
 infidèle,pagan
-païen,heathen
-païen,infidel
-païen,pagan
+"infidèle,",heathen
+"infidèle,",infidel
+"infidèle,",pagan
 infiltration,infiltration
 inflation,inflation
 information,info
@@ -3879,18 +3772,17 @@ information législative,legislative information
 information préventive,preventive information
 information sur les produits,product information
 informations géoréférencées,geo-referenced information
-informatique,informatics
 informatique,computer science
+informatique,informatics
 informatique,information science
 informatique environnementale,environmental informatics
 infraction,infraction
 infrason,infrasound
 infrastructure,infrastructure
 infrastructure de l'information,information infrastructure
+ingénierie,engineering
 ingénieur,engineer
 ingéniérie,engineering
-ingénierie,engineering
-sciences de l'ingénieur,engineering
 ingéniérie de l'environnement,environmental engineering
 initiative du citoyen,citizen initiative
 initiative populaire,citizen initiative
@@ -3918,11 +3810,11 @@ instruction administrative,administrative instructions
 instruction administrative générale,general administrative order
 instrument,instrument
 instrument,musical instrument
-instrument de musique,instrument
-instrument de musique,musical instrument
 instrument de gestion de l'environnement,environmental policy instrument
 instrument de gestion économique,economic management instrument
 instrument de mesure,measuring instrument
+instrument de musique,instrument
+instrument de musique,musical instrument
 instrument financier,financial instrument
 instrument politique,policy instrument
 instrument économique,economic instrument
@@ -3940,6 +3832,8 @@ internalisation des coûts externes,internalisation of external costs
 internet,Internet
 interpolation,interpolation
 interprète,interpreter
+interpréter,interpret
+interpréter,translate
 intervention au niveau de la nature et des paysages,intervention in nature and landscape
 intervention sur les terres,intervention on land
 intoxication,intoxication
@@ -3955,6 +3849,7 @@ inventaire écologique,ecological stocktaking
 inversion,inversion
 inversion de l'impact,impact reversal
 invertébré,invertebrate
+investigation,detection
 investissement,investment
 investissement antipollution,pollution control investment
 investissement environnemental,environmental investment
@@ -3965,8 +3860,8 @@ ionosphère,ionosphere
 iridium,iridium
 irlandais,Irish
 irlandais,Irish
-irlandais,Irish Gaelic
 irlandais,Irish
+irlandais,Irish Gaelic
 irradiation,irradiation
 irradiation des aliments,food irradiation
 irrigation,irrigation
@@ -3979,17 +3874,15 @@ isotope,isotope
 italien,Italian
 italien,Italian
 itinéraire,route
-itsaso,ocean
-itsaso,sea
 itsaso,body of water
 itsaso,bounding main
-océan,ocean
-océan,sea
-océan,body of water
-océan,bounding main
+itsaso,ocean
+itsaso,sea
 ivoire,ivory
+ivrogne,boozer
+ivrogne,drunk
+ivrogne,drunkard
 j',I
-je,I
 jade,jade
 jaguar,jaguar
 jambe,leg
@@ -4006,11 +3899,17 @@ jardinier,gardener
 jaune,yellow
 javanais,Javanese
 jazz,jazz
+je,I
 jeu,game
+jeu d'échec,chess
 jeudi,Thursday
 jeune,young
 jour,day
 jour,daytime
+jour de l'an,New Year
+jour de l'an,New Year's Day
+jour du nouvel an,New Year
+jour du nouvel an,New Year's Day
 journal,diary
 journal,newspaper
 journalisme,journalism
@@ -4020,6 +3919,8 @@ juillet,July
 juin,June
 jumeau,twin
 jument,mare
+jupette,mini-skirt
+jupette,miniskirt
 juridiction,jurisdiction
 jurisprudence,jurisprudence
 justice,justice
@@ -4032,14 +3933,13 @@ karaté,karate
 karst,karst
 kazakh,Kazakh
 kazakh,Kazakh
-khmer,Khmer
 khmer,Central Khmer
+khmer,Khmer
 kilogramme,kilogram
 kleptomanie,kleptomania
 krypton,krypton
 kérosène,kerosene
 lLanthane,lanthanum
-lanthane,lanthanum
 laboratoire,laboratory
 laboratoire SIG,GIS laboratory
 lac,lake
@@ -4052,6 +3952,7 @@ laine,wool
 lait,milk
 lait maternel,breast milk
 laiterie,dairy farm
+laitue,lettuce
 lampe,lamp
 lampe,light
 lance,pike
@@ -4059,27 +3960,29 @@ lance,spear
 lande,heathland
 langue,language
 langue,tongue
-langue construite,constructed language
-langue construite,artificial language
-langue artificielle,constructed language
 langue artificielle,artificial language
+langue artificielle,constructed language
+langue construite,artificial language
+langue construite,constructed language
 langue des signes,sign language
 langue officielle,official language
 lanterne,lantern
+lanthane,lanthanum
 lao,Lao
 lao,Lao
 laotien,Lao
 laotien,Lao
 lapin,rabbit
 laque,lacquer
-laser,laser
 laser,Light Amplification by Stimulated Emission of Radiation
+laser,laser
 latin,Latin
 latin,Latin
 latitude,latitude
-lavande,lavender
 lavande,lavander
+lavande,lavender
 lawrencium,lawrencium
+lendemain,tomorrow
 lent,slow
 lente,slow
 lentille,lentil
@@ -4087,6 +3990,7 @@ les jambes écartées (debout),astride
 lessive,lye
 letton,Latvian
 letton,Latvian
+lettre,letter
 lettre d'informations,newsletter
 leucémie,leukaemia
 levure,yeast
@@ -4094,8 +3998,8 @@ levure chimique,baking powder
 lexique,lexicon
 libellule,dragonfly
 liberté,freedom
-liberté,liberty
 liberté,freedom
+liberté,liberty
 liberté d'expression,freedom of speech
 liberté d'expression,freedom of speech
 libre circulation des capitaux,free movement of capital
@@ -4103,10 +4007,9 @@ libre échange,free trade
 libéralisme,liberalism
 lichen,lichen
 lien,spleen
-rate,spleen
 lies d'huile,olive oil mill wastewater
-lieu,place
 lieu,location
+lieu,place
 lieu de travail,workplace
 ligne,line
 ligne de partage des eaux,watershed
@@ -4115,8 +4018,8 @@ ligne électrique,electric line
 ligne électrique,power line
 ligne électrique aérienne,overhead power line
 lignite,lignite
-limbourgeois,Limburgish
 limbourgeois,Limburgian
+limbourgeois,Limburgish
 limitation des immissions,immission limit
 limite acceptable d'exposition,permissible exposure limit
 limite administrative,administrative boundary
@@ -4178,8 +4081,8 @@ loisirs,leisure activity
 loisirs locaux,local recreation
 lombric,earthworm
 longitude,longitude
-losange,rhombus
 losange,rhomb
+losange,rhombus
 loterie,lottery
 loup,wolf
 lourd,heavy
@@ -4187,15 +4090,15 @@ lubrifiant,lubricant
 luminosité,luminosity
 lumière,light
 lundi,Monday
-lune,moon
 lune,Luna
 lune,Moon
 lune,moon
 lune,moon
-lune,satelite
-lune,satelite
 lune,moon
 lune,moon
+lune,moon
+lune,satelite
+lune,satelite
 lune,satelite
 lune,satelite
 lunettes,glasses
@@ -4209,6 +4112,9 @@ lutte contre les inondations,flood control
 lutte intégrée contre les nuisibles,integrated pest control
 lutétium,lutetium
 lux,lux
+luxembourgeois,Luxembourgian
+luxembourgeois,Luxembourgish
+luxembourgeois,Luxemburgish
 lysimétrie,lysimetry
 lèvre,lip
 législation,legislation
@@ -4238,9 +4144,15 @@ légume,vegetable
 légume vert,green vegetable
 léopard,leopard
 lépidoptère,lepidopteran
+léthargie,languor
+léthargie,lethargy
+léthargie,sluggishness
 lézard,lizard
 machine,machinery
 machine,mechanism
+machine agricole,agricultural equipment
+machine agricole,agricultural machinery
+machine agricole,farm machinery
 machinerie,machinery
 machinerie,mechanism
 macro-économie,macroeconomics
@@ -4248,47 +4160,55 @@ macrophyte,macrophyte
 macroscopique,macroscopic
 macédonien,Macedonian
 macédonien,Macedonian
+magasin,shop
 magasin de peinture,paint shop
+mage,magician
+mage,sorcerer
+mage,wizard
+magicien,magician
+magicien,sorcerer
+magicien,wizard
 magnésium,magnesium
 magnétisme,magnetism
 mai,May
+mail,e-mail
+mail,electronic mail
+mail,email
 maillage,gridding
 main-d'oeuvre,labour force
 main-d'oeuvre,manpower
-maintenance,maintenance (technical)
 maintenance,maintenance
+maintenance,maintenance (technical)
 maintenance de l'environnement,maintenance of environment
 maintien de la paix,peacekeeping
 maire,mayor
 maire,mayor
-bourgmestre,mayor
 maison,home
 maison,home
 maison,house
-domicile,home
-domicile,home
-domicile,house
+maladie,affliction
 maladie,disease
 maladie,illness
-maladie,affliction
 maladie animale,animal disease
 maladie cardiovasculaire,cardiovascular disease
 maladie due aux radiations,radiation sickness
 maladie humaine,human disease
 maladie ichtyologique,fish disease
 maladie immunologique,immunological disease
-maladie infectieuse,infectious disease
 maladie infectieuse,communicable diseases
+maladie infectieuse,infectious disease
 maladie infectieuse,infectious disease
 maladie liée au milieu environnant,environmentally related disease
 maladie professionnelle,occupational disease
 maladie psychosomatique,psychosomatic illness
 maladie pulmonaire,pulmonary disease
 maladie respiratoire,respiratory disease
-malayâlam,Malayalam
-malayâlam,Malayalam
+malaisé,difficult
+malaria,malaria
 malayalam,Malayalam
 malayalam,Malayalam
+malayâlam,Malayalam
+malayâlam,Malayalam
 malayî,Malayalam
 malayî,Malayalam
 malformation,malformation
@@ -4301,13 +4221,17 @@ mammifère terrestre,land mammal
 management environnemental,environmental management
 management environnemental,environmentally friendly management
 manchot,penguin
-mandarin,mandarin
 mandarin,Mandarin
 mandarin,Standard Mandarin
+mandarin,mandarin
 mandat,mandate
 mandat exécutif,executive order
 manganèse,manganese
+mangeable,edible
+manger,consume
 manger,eat
+manger,eat
+manger,swallow
 mangrove,mangrove
 mangue,mango
 manipulation génétique,reproductive manipulation
@@ -4315,22 +4239,16 @@ maori,Maori
 maquereau,mackerel
 maquis,maquis
 marais,marsh
-marécage,marsh
 marathe,Marathi
-marathe,Marāthi
-marathe,Marāthi
 marathe,MarÄthi
-marâthî,Marathi
-marâthî,Marāthi
-marâthî,Marāthi
-marâthî,MarÄthi
+marathe,Marāthi
+marathe,Marāthi
 marathi,Marathi
-marathi,Marāthi
-marathi,Marāthi
 marathi,MarÄthi
+marathi,Marāthi
+marathi,Marāthi
 marbre,marble
 marchand,merchant
-commerçant,merchant
 marché,market
 marché,marketplace
 marché de l'environnement,environment market
@@ -4345,18 +4263,22 @@ mardi,Tuesday
 mare,pool
 mare,puddle
 mare,puddle
-flaque,pool
-flaque,puddle
-flaque,puddle
-flaque,pool
-flaque,puddle
-flaque,puddle
+mari,husband
+mari,spouse
 mariculture,mariculture
 marine marchande,merchant shipping
+mariée,spouse
+mariée,wife
 marketing,marketing
+marmite,kettle
 marqueur,marker
 mars,March
 marsupiaux,marsupial
+marâthî,Marathi
+marâthî,MarÄthi
+marâthî,Marāthi
+marâthî,Marāthi
+marécage,marsh
 marée haute,high tide water
 marée noire,oil pollution
 marée rouge,red tide
@@ -4365,8 +4287,8 @@ mass media,mass media
 masse,mass
 masse atomique,atomic mass
 massif montagneux,mountain range
-maternité,motherhood
 maternité,maternity
+maternité,motherhood
 mathématiques,mathematics
 matière dangereuse,hazardous substance
 matière minérale,mineral matter
@@ -4375,23 +4297,23 @@ matière oxydable,oxidisable material
 matière polluée,polluted matter
 matière première,raw material
 matière première renouvelable,renewable raw material
-matière première végétale,industrial plant (organism)
 matière première végétale,industrial plant
+matière première végétale,industrial plant (organism)
 matière recyclée,recycled material
 matières brutes énergétiques,energy source material
 matières dangereuses,dangerous goods
+matérial naturel,natural material
 matériau,material
 matériau,materials
-matériaux,material
-matériaux,materials
 matériau alternatif,alternative material
 matériau de construction,building material
 matériau de remplissage,filling material
 matériau dragué,dredged material
 matériau industriel,industrial material
 matériau nouveau,new material
+matériaux,material
+matériaux,materials
 matériaux naturels,natural material
-matérial naturel,natural material
 matériel audiovisuel,audiovisual equipment
 matériel militaire,military equipment
 matériel mécanique,mechanical equipment
@@ -4399,23 +4321,25 @@ matériel électronique,electronic material
 mausolée,mausoleum
 mauvaise herbe,weed
 mayonnaise,mayonnaise
+mazout,diesel
+mazout,diesel fuel
 mazout de chauffage,domestic fuel oil
-maçon,mason
 maçon,bricklayer
+maçon,mason
 maçon,stonemason
-briqueteur,mason
-briqueteur,bricklayer
-briqueteur,stonemason
 maçonnerie,masonry
 maître nageur,lifeguard
+mec,male
+mec,man
+meilleur,better
 meitnerium,meitnerium
 membrane,membrane
 mendélévium,mendelevium
 mer,sea
 mer,sea
 mer caspienne,Caspian Sea
-mer des Caraïbes,Caribbean Sea
 mer des Antilles,Caribbean Sea
+mer des Caraïbes,Caribbean Sea
 mer Égée,Aegean Sea
 merci,cheers
 merci,thank you
@@ -4424,8 +4348,8 @@ mercredi,Wednesday
 mercredi,quarta-feira
 mercure,mercury
 merle,blackbird
-mesure (méthode analytique),measuring
 mesure,measuring
+mesure (méthode analytique),measuring
 mesure compensatoire,compensatory measure
 mesure d'aménagement du territoire,planning measure
 mesure d'atténuation,mitigation measure
@@ -4443,8 +4367,13 @@ mesure préventive en matière de santé,preventive health measure
 mesures de réduction de vitesse en zone résidentielle,residential area with traffic calmings
 metrónomo,metronome
 meubles,furniture
+meuf,female
+meuf,woman
 micro-ordinateur,microcomputer
 micro-organisme,micro-organism
+micro-électronique,microelectronics
+micro-électronique,microminiaturization
+micro-électronique,microsystem electronics
 microbiologie,microbiology
 microclimat,microclimate
 microclimatologie,microclimatology
@@ -4456,12 +4385,8 @@ microécosystème,microecosystem
 microélectronique,microelectronics
 microélectronique,microminiaturization
 microélectronique,microsystem electronics
-micro-électronique,microelectronics
-micro-électronique,microminiaturization
-micro-électronique,microsystem electronics
 miel,honey
 mieux,better
-meilleur,better
 migration animale,animal migration
 migration de polluant,pollutant migration
 migration des travailleurs,migrant labour
@@ -4471,8 +4396,8 @@ migration pendulaire,commuter traffic
 milan royal,red kite
 milieu abiotique,abiotic environment
 milieu aquatique,aquatic environment
-milieu de culture (microbiologie),nutrient medium
 milieu de culture,nutrient medium
+milieu de culture (microbiologie),nutrient medium
 milieu géophysique,geophysical environment
 milieu marin,marine environment
 milieu naturel,natural environment
@@ -4483,14 +4408,13 @@ mine de lignite,lignite mining
 minerai,ore
 mineral métallique,metallic mineral
 mineur,minor
-minijupe,miniskirt
 minijupe,mini-skirt
-jupette,miniskirt
-jupette,mini-skirt
+minijupe,miniskirt
 minimisation de l'impact,impact minimisation
 minimisation des dommages,minimisation of damage
 ministère,ministry
 minorité,minority
+minou,cat
 minute,minute
 minéral,mineral
 minéral non métallique,non-metallic mineral
@@ -4500,6 +4424,20 @@ miscibilité,miscibility
 mise en application commune,joint implementation
 mise en réserve de crédits pour la réduction des émissions,emission reduction banking
 mise en valeur des terres,land reclamation
+mise-bas,birth
+mise-bas,birth
+mise-bas,birth
+mise-bas,birth
+mise-bas,birth
+mise-bas,birth
+mise-bas,childbirth
+mise-bas,childbirth
+mise-bas,childbirth
+mise-bas,childbirth
+mise-bas,childbirth
+mise-bas,childbirth
+mise-bas,parturition
+mise-bas,parturition
 mission,assignment
 mistral,mistral
 mitose,mitosis
@@ -4511,7 +4449,6 @@ modification du paysage,landscape alteration
 modification génétique,genetic modification
 modèle,model
 modèle,model
-schéma,model
 modèle de comportement,behaviour pattern
 modèle de développement,development model
 modèle de développement,development pattern
@@ -4530,9 +4467,7 @@ monoxyde de carbone,carbon monoxide
 montagne,mountain
 montée,ascent
 montée,ascent
-ascension,ascent
 monument,monument
-mémorial,monument
 monument historique,historical monument
 monument naturel,natural monument
 morphine,morphine
@@ -4550,14 +4485,18 @@ moteur à combustion,combustion engine
 moteur à essence,gasoline engine
 moteur à gaz,gas engine
 moteur à quatre temps,four stroke engine
+moto,motorbike
+moto,motorcycle
+motocyclette,motorbike
+motocyclette,motorcycle
 mots croisés,crossword
 mouchoir,handkerchief
 moulin,mill
 moulin à eau,water mill
 moulin à vent,windmill
 mousse végétale,moss
-moustique,musquito
 moustique,mosquito
+moustique,musquito
 mouton,sheep
 mouvement de population,population movement
 mouvement planétaire des masses d'air,air movement
@@ -4571,7 +4510,6 @@ mulet,mule
 municipalité,local authority
 mur,wall
 musical,musical
-performance musicale,musical
 musicien,musician
 musique,music
 mustélidés,mustelid
@@ -4582,13 +4520,12 @@ mutation,mutation
 mycologie,mycology
 mycorhize,mycorrhiza
 mycète,mycete
-myrtille,huckleberry
 myrtille,blueberry
+myrtille,huckleberry
 mystérieux,mysterious
 mythe,myth
 mytiliculture,mussel farming
 mâle,bull
-taureau,bull
 mère,mother
 mécanique de précision,precision engineering
 médecine,medicine
@@ -4603,6 +4540,7 @@ mélange gazeux,gas mixture
 mélanger,mixing
 mélodie,melody
 mélodie,tune
+mémorial,monument
 ménage,household
 ménage particulier,private household
 méningite,meningitis
@@ -4611,18 +4549,22 @@ méta-informations,metainformation
 métabolisme,metabolism
 métabolite,metabolite
 métal,metal
+métal alcalino-terreux,alkaline earth metal
+métal alcalino-terreux,element of group II
+métal alcalino-terreux,element of group II (alkaline earth metals)
 métal lourd,heavy metal
 métal non ferreux,non-ferrous metal
 métal toxique,toxic metal
 métalloïde,non-metal
-non-métal,non-metal
 métalloïde,semi-metal
-semi-métal,semi-metal
 métallurgie,metallurgy
 métaphore,metaphor
 métaphysique,metaphysics
-méthane,methane
+métaux alcalino-terreux,alkaline earth metal
+métaux alcalino-terreux,element of group II
+métaux alcalino-terreux,element of group II (alkaline earth metals)
 méthane,marsh gas
+méthane,methane
 méthane,methyl hydride
 méthanisation,methanisation
 méthanol,methanol
@@ -4640,60 +4582,87 @@ méthode de mesure,measuring method
 méthode mathématique,mathematical method
 méthodes agricoles,agricultural method
 méthodologie,methodology
+métier,employment
+métier,employment
+métier,job
+métier,job
+métier,occupation
+métier,work
+métier,work
 métier de l'environnement,environmental occupation
 métro,underground railway
 métro,underground train
 métrologie,metrology
 métropole,metropolis
-météore,meteor
-météore,meteor
-météore,meteor
-météore,meteor
-météore,meteor
-météore,shooting star
+météore,falling star
+météore,falling star
+météore,falling star
+météore,falling star
 météore,falling star
 météore,meteor
 météore,meteor
 météore,meteor
 météore,meteor
 météore,meteor
-météore,shooting star
-météore,falling star
+météore,meteor
+météore,meteor
+météore,meteor
+météore,meteor
+météore,meteor
+météore,meteor
+météore,meteor
+météore,meteor
+météore,meteor
+météore,meteor
+météore,meteor
+météore,meteor
+météore,meteor
+météore,meteor
+météore,meteor
 météore,meteor
 météore,meteor
 météore,meteor
 météore,meteor
 météore,meteor
 météore,shooting star
-météore,falling star
-météore,meteor
-météore,meteor
-météore,meteor
-météore,meteor
-météore,meteor
 météore,shooting star
-météore,falling star
-météore,meteor
-météore,meteor
-météore,meteor
-météore,meteor
-météore,meteor
 météore,shooting star
-météore,falling star
-étoile filante,meteor
-étoile filante,meteor
-étoile filante,meteor
-étoile filante,meteor
-étoile filante,meteor
-étoile filante,shooting star
-étoile filante,falling star
+météore,shooting star
+météore,shooting star
 météorite,meteorite
 météorologie,meteorology
 nadir,nadir
+naissance,birth
+naissance,birth
+naissance,birth
+naissance,birth
+naissance,birth
+naissance,birth
+naissance,birth
+naissance,birth
+naissance,birth
+naissance,childbirth
+naissance,childbirth
+naissance,childbirth
+naissance,childbirth
+naissance,childbirth
+naissance,childbirth
+naissance,childbirth
+naissance,childbirth
+naissance,childbirth
+naissance,parturition
+naissance,parturition
+naissance,parturition
+nana,female
+nana,woman
+naphte,diesel
+naphte,diesel fuel
 napolitain,Neapolitan
 napolitain,Neapolitan
 nappe de pétrole,oil slick
 nationalisation,nationalisation
+nature,lexical category
+nature,part of speech
 nausée,nausea
 navigation,navigation
 navigation aérienne civile,civil air traffic
@@ -4702,19 +4671,19 @@ navigation fluviale,inland navigation
 navigation maritime,maritime navigation
 navire dépollueur,oil recovery vessel
 navire à voile,sailing ship
-voilier,sailing ship
 navire-citerne,tanker
 navire-citerne,tanker (ship)
 ne pas,not
 ne rien,nothing
-rien,nothing
 neige,snow
 neptunium,neptunium
 nettoiement des plages,beach cleansing
 nettoyage,cleaning up
 nettoyage à sec,dry cleaning
 neuf,9
+neuf,new
 neuf,nine
+neuf,novel
 neurologie,neurology
 neurotoxicité,neurotoxicity
 neutralisation,neutralisation
@@ -4743,42 +4712,28 @@ nobélium,nobelium
 noir,black
 noir,black
 noir,dark
-sombre,black
-sombre,dark
-obscure,black
-obscure,dark
-noix de coco,kokosnoot
 noix de coco,coconut
+noix de coco,kokosnoot
 nom,name
+nom,noun
 nom,proper name
 nom,proper noun
-nom,noun
 nom,substantive
-substantif,noun
-substantif,substantive
-substantiivi,noun
-substantiivi,substantive
 nomade,nomad
-nombre premier,prime number
 nombre premier,prime
+nombre premier,prime number
 nombril,belly button
 nombril,bellybutton
 nombril,navel
 nombril,omphalos
 nombril,omphalus
 nombril,umbilicus
-ombilic,belly button
-ombilic,bellybutton
-ombilic,navel
-ombilic,omphalos
-ombilic,omphalus
-ombilic,umbilicus
 nomenclature,nomenclature
 non,no
+non-métal,non-metal
 normalisation internationale,international standardisation
 norme,norm
 norme,standard
-standard,standard
 norme ISO,ISO standard
 norme de contrôle des pesticides,pesticide control standard
 norme de pollution,pollution norm
@@ -4799,16 +4754,10 @@ nouveau,new
 nouveau,novel
 nouvel,new
 nouvel,novel
-nouvelle,new
-nouvelle,novel
-neuf,new
-neuf,novel
 nouvel an,New Year
 nouvel an,New Year's Day
-jour de l'an,New Year
-jour de l'an,New Year's Day
-jour du nouvel an,New Year
-jour du nouvel an,New Year's Day
+nouvelle,new
+nouvelle,novel
 nouvelle communauté,new community
 nouvelle installation,new installation
 nouvelle technologie,new technology
@@ -4824,9 +4773,6 @@ nutrition appliquée,applied nutrition
 nynorsk,Nynorsk
 nécrose,necrosis
 néerlandais,Dutch
-hollandais,Dutch
-flamand,Dutch
-flamand,Dutch
 négociation informelle,informal negotiation
 nématodes,nematode
 néodyme,neodymium
@@ -4834,8 +4780,6 @@ néologisme,neologism
 néon,neon
 néoplasme,neoplasm
 néoplasme,tumour
-tumeur,neoplasm
-tumeur,tumour
 népalais,Nepali
 népalais,Nepali
 népotisme,nepotism
@@ -4847,22 +4791,25 @@ objection,objection
 obligation d'enregistrement,registration obligation
 obligation d'information,obligation to inform
 obligation d'étiquetage,obligation to label
+obscure,black
+obscure,dark
 observation,observation
 observatoire,observatory
 obsolète,obsolete
 obstacle,obstacle
 obstacle,obstruction
-empêchement,obstacle
-empêchement,obstruction
+obsèques,funeral
 obèse,fat
 obèse,obese
-gros,fat
-gros,obese
 obéir,obey
 obésité,obesity
 occupation du sol,land occupation
 octave,octave
 octobre,October
+océan,body of water
+océan,bounding main
+océan,ocean
+océan,sea
 océan antarctique,Antarctic Ocean
 océan antarctique,Southern Ocean
 océan arctique,Arctic Ocean
@@ -4871,13 +4818,13 @@ océanographie,oceanography
 odeur,odour
 odontologie,dentistry
 oeuf,egg
-œuf,egg
 offre,supply
 offre et demande,supply and demand
 ohm,ohm
 oie,goose
 oignon,onion
 oiseau,bird
+oiseau de proie,bird of prey
 oiseau migrateur,migratory bird
 oiseaux nicheurs,breeding bird
 oligarchie,oligarchy
@@ -4885,16 +4832,21 @@ oligopole,oligopoly
 olive,olive
 oléoduc,oil pipeline
 oléoduc,pipeline
-pipeline,pipeline
+ombilic,belly button
+ombilic,bellybutton
+ombilic,navel
+ombilic,omphalos
+ombilic,omphalus
+ombilic,umbilicus
 oméga,omega
 oncologie,oncology
 onde à hyperfréquences,microwave
 ongulé,ungulate
 ontogenèse,ontogenesis
 ontogenèse,ontogenesis
+ontogenèse,ontogenesis
+ontogenèse,ontogenesis
 ontogenèse,ontogeny
-ontogenèse,ontogenesis
-ontogenèse,ontogenesis
 ontogenèse,ontogeny
 ontologie,ontology
 ophtalmologie,ophthalmology
@@ -4956,6 +4908,7 @@ optique,optics
 opéra,opera
 opérette,operetta
 or,gold
+or noir,petroleum
 orage,thunderstorm
 orange,orange
 orchestre,orchestra
@@ -4970,6 +4923,8 @@ oreille,ear
 oreillon,mumps
 oreillons,mumps
 organe,organ
+organe d'administration,administrative body
+organe d'administration,administrative organ
 organe de conseil auprès du gouvernement,government advisory body
 organe judiciaire,judicial body
 organisation administrative,administrative organisation
@@ -5039,17 +4994,15 @@ palindrome,palindrome
 palladium,palladium
 palmier,palm
 paludisme,malaria
-malaria,malaria
 paléoclimatologie,palaeoclimatology
 paléontologie,palaeontology
 paléoécologie,palaeoecology
 pancréas,pancreas
 pandémie,pandemic
-panjâbî,Punjabi
 panjâbî,Panjabi
-penjâbî,Punjabi
-penjâbî,Panjabi
+panjâbî,Punjabi
 pantalon,trousers
+pantoufle,slipper
 pape,pope
 papier,paper
 papier recyclé,recycled paper
@@ -5073,53 +5026,80 @@ parc zoologique,zoological garden
 parcs et jardins publics,public park
 parquet,public prosecutor's office
 partenariat public / privé,public-private partnership
-parti politique,party
-parti politique,political party
 parti,party
 parti,political party
+parti politique,party
+parti politique,political party
 participation,participation
 participation active,active participation
 participation publique,public participation
 particule,particle
 particule atmosphérique,atmospheric particulate
 partie de la plante,plant component
+partie du discours,lexical category
+partie du discours,part of speech
+parties du discours,lexical category
+parties du discours,part of speech
+parturition,birth
+parturition,birth
+parturition,birth
+parturition,childbirth
+parturition,childbirth
+parturition,childbirth
+parturition,parturition
 passage,crossing place
 passereaux (passeriformes),songbird
+pasteur,shepherd
+patate,patato
+patate,patato
+patate,potato
+patate,potato
 pathologie,pathology
 pathologie végétale,plant disease
 patrimoine animal,animal heritage
 patrimoine biologique,biological heritage
 patrimoine culturel,cultural heritage
-patrimoine génétique,genetic pool
 patrimoine génétique,gene pool
+patrimoine génétique,genetic pool
 patrimoine naturel,natural heritage
 patrimoine végétal,plant heritage
 paume,palm
 pauvreté,poverty
 pavillon de complaisance,flag of convenience
+pays du Cèdre,Lebanese Republic
+pays du Cèdre,Lebanon
+pays du cèdre,Lebanese Republic
+pays du cèdre,Lebanon
 pays développé,developed country
 pays en développement,developing country
 pays moins avancé,less developed country
 paysage,landscape
 paysage cultivé,agricultural landscape
 paysage minier,landscape after mining
+païen,heathen
+païen,infidel
+païen,pagan
 peau,skin
-peine de mort,death penalty
-peine de mort,capital punishment
-peine de mort,death sentence
-peine capitale,death penalty
 peine capitale,capital punishment
+peine capitale,death penalty
 peine capitale,death sentence
+peine de mort,capital punishment
+peine de mort,death penalty
+peine de mort,death sentence
 peinture,paint
+pelage,hair
 pelleterie,furriery
-pelouse,open lawn
+pellicule,film
 pelouse,meadow
-pré,meadow
+pelouse,open lawn
 pelouse sèche,dry lawn
+penjâbî,Panjabi
+penjâbî,Punjabi
 pentachlorophénol,pentachlorophenol
 pente,slope
 perce-oreille,earwig
 perception de l'environnement,environmental perception
+performance musicale,musical
 permis applicable à l'environnement,environmental licence
 permis d'aménagement,planning permission
 permis d'exportation,export licence
@@ -5129,9 +5109,9 @@ permis de construire,building permit
 permis de pêche,fishing licence
 perméabilité,permeability
 perroquet,parrot
+persan,Farsi
 persan,Persian
 persan,Western Farsi
-persan,Farsi
 persistance,persistence
 persistance des pesticides,persistence of pesticides
 personne,person
@@ -5144,17 +5124,22 @@ pessimisme,pessmism
 pesticide,pesticide
 petit,short
 petit,small
+petit doigt,little finger
+petit doigt,pinkie
+petit palu,dengue fever
 petit-déjeuner,breakfast
-repas du matin,breakfast
 petit-enfant,grandchild
 petit-fils,grandson
+petite reine,bicycle
+petite reine,bike
+petite reine,cycle
 phanérogame,phanerogam
 phanérogame,spermatophyte
 pharmacie,chemist's
-pharmacie,chemist's shop
-pharmacie,pharmacy
 pharmacie,chemist's
 pharmacie,chemist's shop
+pharmacie,chemist's shop
+pharmacie,pharmacy
 pharmacie,pharmacy
 pharmacien,chemist
 pharmacien,pharmacist
@@ -5164,17 +5149,16 @@ phenol halogéné,halogenated phenol
 philologie,philology
 philosophie,philosophy
 phishing,phishing
-hameçonnage,phishing
 phobie,phobia
 phonétique,phonetics
 phosphate,phosphate
 phosphore,phosphorus
 photo,photo
 photo,photograph
-photographie,photo
-photographie,photograph
 photodécomposition,photodegradation
 photogrammétrie,photogrammetry
+photographie,photo
+photographie,photograph
 photographie,photography
 photographie aérienne,aerial photograph
 photographie aérienne,aerial photography
@@ -5198,23 +5182,23 @@ phénol,phenol
 phénomène atmosphérique,atmospheric process
 phénomène météorologique,meteorological phenomenon
 phérormone,pheromone
-piano-forte,piano
-piano-forte,pianoforte
-forte-piano,piano
-forte-piano,pianoforte
 piano,piano
 piano,pianoforte
+piano-forte,piano
+piano-forte,pianoforte
 pied,foot
 pierre,stone
 pierre naturelle,natural stone
+pieuvre,octopus
 pile alcaline,alkaline battery
 pile bouton,button-cell battery
 pile à combustible,fuel cell
 pile électrique,electric battery
 pilotage,pilotage
-pin,pino
 pin,pine
+pin,pino
 pinnipèdes,pinniped
+pipeline,pipeline
 pisciculture,fish farming
 piscine,swimming pool
 pissenlit,dandelion
@@ -5231,10 +5215,11 @@ piémontais,Piemontese
 place de stationnement,parking provision
 placenta,placenta
 plage,beach
+plaie,wound
 plaine,plain
 plaine alluviale,alluvial plain
-plan,plane
 plan,plan
+plan,plane
 plan cadre de l'agriculture,agriculture framework plan
 plan catastrophe,disaster contingency plan
 plan d'affectation,allocation plan
@@ -5260,18 +5245,20 @@ planification écologique,environmental planning
 planification économique,economic planning
 planning familial,family planning
 planning industriel,industrial planning
-plantation (d'arbres),planting
 plantation,planting
+plantation (d'arbres),planting
 plante,plant
 plante aquatique,aquatic plant
 plante cultivée,cultivated plant
 plante fourragère,fodder plant
-plante grimpante (mur),climbing plant (wall)
 plante grimpante (mur),climbing plant
+plante grimpante (mur),climbing plant (wall)
 plante médicinale,medicinal plant
 plante sauvage,wild plant
 plante textile,textile plant
 plante tropicale,tropical plant
+plante à fleur,angiosperm
+plante à fleur,flowering plant
 plante à fleur,flowering plant
 planète,planet
 plasma sanguin,blood plasma
@@ -5279,20 +5266,23 @@ plastique,plastic
 plastique recyclable,recyclable plastic
 plate-forme continentale,continental shelf
 plateau continental,continental shelf
+plateau piétonnier,auto-free zone
+plateau piétonnier,car-free zone
+plateau piétonnier,pedestrian area
+plateau piétonnier,pedestrian zone
+plateau piétonnier,pedestrianised zone
 platine,platinum
 plein,full
-bondé,full
-bondé,full
 plomb,lead
-saturne,lead
-plomberie (bâtiment),fitting (plumbing)
-plomberie (bâtiment),fitting
-plomberie (bâtiment),plumbing equipment
-plomberie (bâtiment),plumbing fixtures
-plomberie,fitting (plumbing)
 plomberie,fitting
+plomberie,fitting (plumbing)
 plomberie,plumbing equipment
 plomberie,plumbing fixtures
+plomberie (bâtiment),fitting
+plomberie (bâtiment),fitting (plumbing)
+plomberie (bâtiment),plumbing equipment
+plomberie (bâtiment),plumbing fixtures
+pluie,rain
 pluie acide,acid rain
 plume,feather
 plutonium,plutonium
@@ -5308,6 +5298,7 @@ pneu,tyre
 pneu d'automobile,car tyre
 pocessus anaérobie,anaerobic process
 poids,weight
+poil,hair
 point,point
 point d'ébullition,boiling point
 pointe de flèche,arrowhead
@@ -5317,8 +5308,8 @@ poisson,fish
 poisson migrateur,migratory fish
 polder,polder
 police,police
-politique,politics
 politique,policy
+politique,politics
 politique agricole,agricultural policy
 politique agricole commune,common agricultural policy
 politique agricole commune,common agricultural policy of the EU
@@ -5335,11 +5326,10 @@ politique de coopération,co-operation policy
 politique de crédit,credit policy
 politique de l'entreprise,business policy
 politique de l'environnement,environmental policy
-politique environnementale,environmental policy
-"politique de la ""bulle"" (permis d'émissions négociables)",bubble policy (emissions trading)
 "politique de la ""bulle"" (permis d'émissions négociables)",bubble policy
-politique de la bulle,bubble policy (emissions trading)
+"politique de la ""bulle"" (permis d'émissions négociables)",bubble policy (emissions trading)
 politique de la bulle,bubble policy
+politique de la bulle,bubble policy (emissions trading)
 politique de la communication,communications policy
 politique de la construction,construction policy
 politique de la pêche,fishery policy
@@ -5353,6 +5343,7 @@ politique des prix,prices policy
 politique des salaires,pay policy
 politique en matière d'éducation,education policy
 politique en matière de produits chimiques,chemical policy
+politique environnementale,environmental policy
 politique environnementale industrielle,industrial environmental policy
 politique forestière,forest policy
 politique gouvernementale,government policy
@@ -5382,9 +5373,8 @@ polluant sonore,noise pollutant
 pollution,pollution
 pollution accidentelle,incidental pollution
 pollution agricole,agricultural pollution
-pollution atmosphérique,atmospheric pollution
 pollution atmosphérique,air pollution
-pollution de l'air,air pollution
+pollution atmosphérique,atmospheric pollution
 pollution atmosphérique intérieure,indoor air pollution
 pollution automobile,motor vehicle pollution
 pollution bactériologique,bacteriological pollution
@@ -5392,6 +5382,7 @@ pollution biologique,biological pollution
 pollution chimique,chemical pollution
 pollution composite,composite pollution
 pollution d'estuaire,estuary pollution
+pollution de l'air,air pollution
 pollution de l'environnement,environmental pollution
 pollution de la mer,marine pollution
 pollution de lac,lake pollution
@@ -5424,24 +5415,21 @@ polymère,polymer
 polymérisation,polymerisation
 polyéthylène téréphtalate,polyethylene terephtalate
 pomme,apple
-pomme de terre,potato
 pomme de terre,patato
-patate,potato
-patate,patato
-patate,potato
-patate,patato
+pomme de terre,potato
 pommier,apple
 pommier,apple tree
 pompage,pumping
 pompe,pump
+pompe,shoe
 pompe à chaleur,heat pump
 pompe à eau,water pump
 pompes funèbres,disposal of the dead
+pompier,fire fighter
+pompier,fire-eater
 pompier,firefighter
 pompier,fireman
 pompier,firewoman
-pompier,fire fighter
-pompier,fire-eater
 pont,bridge
 population,human population
 population,population
@@ -5456,13 +5444,13 @@ port de plaisance,marina
 porte,door
 portugais,Portuguese
 portugais,Portuguese
-posidonie,posidonia
 posidonie,neptunegrass
+posidonie,posidonia
 positron,positron
 possession,possession
-post-combustion,afterburning
-post-combustion,afterburning
 post-combustion,afterburner
+post-combustion,afterburning
+post-combustion,afterburning
 post-traitement,post-treatment
 poste,post office
 poste aérienne,airmail
@@ -5476,7 +5464,6 @@ poubelle,waste bin
 pouce,thumb
 poulet,chicken
 poulpe,octopus
-pieuvre,octopus
 poumon,lung
 poupée,doll
 poursuite,prosecution
@@ -5498,6 +5485,8 @@ pression,pressure
 primates,primate
 prime,premium
 prince,prince
+principauté de Liechtenstein,Liechtenstein
+principauté de Liechtenstein,Principality of Liechtenstein
 principe de coopération,co-operation principle
 principe de durabilité,principle of sustainability
 principe de paiement communautaire,community-pays principle
@@ -5505,16 +5494,15 @@ principe de précaution,precautionary principle
 principe pollueur payeur,polluter-pays principle
 printemps,spring
 priorité environnementale,environmental priority
-prisonnier de guerre,prisoner of war
 prisonnier de guerre,POW
-prisonnier de guerre,PoW
 prisonnier de guerre,PW
+prisonnier de guerre,PoW
+prisonnier de guerre,prisoner of war
 privatisation,privatisation
 prix,price
 prix agricole,farm price
 prix de marché,market price
 problème,problem
-hic,problem
 proboscidiens,proboscidean
 procaryotes,procaryote
 processus aérobie,aerobic process
@@ -5547,13 +5535,13 @@ procédure pénale,criminal law procedure
 procédé chimique,chemical process
 procédé chimique de lutte contre les nuisibles,chemical pest control
 procédé discontinu,batch process
+production agricole,agricultural output
 production agricole,agricultural production
 production agricole,farm production
-production agricole,agricultural output
-production alimentaire (agriculture),food production (agriculture)
-production alimentaire (agriculture),food production
-production alimentaire,food production (agriculture)
 production alimentaire,food production
+production alimentaire,food production (agriculture)
+production alimentaire (agriculture),food production
+production alimentaire (agriculture),food production (agriculture)
 production animale,animal production
 production biologique,biological production
 production d'énergie,energy production
@@ -5582,8 +5570,6 @@ produit industriel,industrial product
 produit inflammable,flammable product
 produit intérieur brut,GDP
 produit intérieur brut,gross domestic product
-PIB,GDP
-PIB,gross domestic product
 produit laitier,dairy product
 produit minier,mining product
 produit métallique,metal product
@@ -5599,6 +5585,13 @@ produits divers,miscellaneous product
 produits intermédiaires,intermediate goods
 produits ménagers,household goods
 professeur,teacher
+profession,employment
+profession,employment
+profession,job
+profession,job
+profession,occupation
+profession,work
+profession,work
 profession administrative,administrative occupation
 profession d'écrivain,authorship
 profession de la santé,health care profession
@@ -5627,9 +5620,9 @@ prométhéum,promethium
 prononciation,pronunciation
 propreté,cleanliness
 propriétaire,owner
-propriété,property
 propriété,asset
 propriété,ownership
+propriété,property
 propriété acoustique,acoustic property
 propriété chimique,chemical property
 propriété foncière agricole,agricultural real estate
@@ -5674,17 +5667,18 @@ protection sociale,social protection
 protocole,protocol
 protoplasme des germes,germ plasm
 protozoaire,protozoan
-protéine,protein
 protéine,poly peptide
+protéine,protein
+proverbe,maxim
 proverbe,proverb
 proverbe,saying
-proverbe,maxim
 province,province
+pré,meadow
 précieux,valuable
-précipitation (chimique),precipitation
-précipitation (chimique),precipitation (chemical)
 précipitation,precipitation
 précipitation,precipitation (chemical)
+précipitation (chimique),precipitation
+précipitation (chimique),precipitation (chemical)
 précipitation atmosphérique,atmospheric precipitation
 précipitation atmosphérique,precipitation
 prédateur,predator
@@ -5697,11 +5691,6 @@ préservatif,prophylactic
 préservatif,rubber
 préservatif,safe
 préservatif,safety
-condom,condom
-condom,prophylactic
-condom,rubber
-condom,safe
-condom,safety
 préservation de la nature,nature conservation
 président,president
 prévenir,avert
@@ -5728,41 +5717,38 @@ psychologie environnementale,environmental psychology
 psychosociologie,social psychology
 pub,advertisement
 pub,promotion
+public,public
 publicité,advertisement
 publicité,promotion
-public,public
 publicité pour un produit,product advertising
 puce,flea
 puce d'eau,water flea
 puisage des eaux souterraines,groundwater extraction
-puissance,power (physics)
 puissance,power
+puissance,power (physics)
+puissance électrique,electric power
 puits,well
 puits d'eau,water well
 punaise,bug
 punaise,põrnikas
 purin,liquid manure
 purine,purin
-putsch,putsch
+putsch,coup d'état
 putsch,coup d'état
 putsch,putsch
-putsch,coup d'état
-coup d'état,putsch
-coup d'état,coup d'état
-coup d'État,putsch
-coup d'État,coup d'état
+putsch,putsch
 pyralène,pyralene
 pyrolyse,pyrolysis
-pâturage,pasture
 pâturage,grazing
+pâturage,pasture
 père,father
 pédagogie,pedagogy
 pédiatre,paediatrician
 pédosphère,pedosphere
 pénalité,penalty
 péninsule,peninsula
-pépinière,nursery (plant breeding)
 pépinière,nursery
+pépinière,nursery (plant breeding)
 pépinière,plant nursery
 périnée,perineum
 période d'adaptation,adaptation period
@@ -5770,14 +5756,9 @@ périodique,journal
 périodique,mag
 périodique,magazine
 périodique,periodical
-revue,journal
-revue,mag
-revue,magazine
-revue,periodical
 périphyton,periphyton
 pétition,petition
 pétrole,petroleum
-or noir,petroleum
 pétrole brut,crude oil
 pétrolier,oil tanker
 pêche,fishery
@@ -5804,14 +5785,13 @@ quantité résiduelle d'eau,residual amount of water
 quatre,four
 question,question
 rabais,discount
-remise,discount
-réduction,discount
 rabbin,rabbi
+rachat,takeover
 racine,root
 radar,radar
 radio,radio
-radioactivité,radioactivity
 radioactivité,radioactive decay
+radioactivité,radioactivity
 radioactivité naturelle,natural radioactivity
 radiologie,radiology
 radionucléide,radionuclide
@@ -5826,21 +5806,19 @@ raffinerie de pétrole,oil refinery
 raisin,grape
 ramadan,Ramadan
 rapace,bird of prey
-oiseau de proie,bird of prey
 rapport au ministre,report to the minister
 rapport de recyclage,recycling ratio
 rapport parlementaire,parliamentary report
 rapport sur l'environnement,environmental report
 rapport sur l'état de l'environnement,report on the state of the environment
 rassembler,assemble
-rassembler,get together
 rassembler,gather
+rassembler,get together
+rate,spleen
 ratio chaleur/ énergie fournie,power-heat relation
 raté,abortive
 rayonnement,radiation
 rayonnement,radiations
-rayonnements,radiation
-rayonnements,radiations
 rayonnement alpha,alpha radiation
 rayonnement ambiant,background radiation
 rayonnement beta,beta radiation
@@ -5851,11 +5829,13 @@ rayonnement ionisant,ionising radiation
 rayonnement non-ionisant,non-ionising radiation
 rayonnement solaire,solar radiation
 rayonnement ultraviolet,ultraviolet radiation
+rayonnements,radiation
+rayonnements,radiations
 raz de marée,seismic sea wave
 raz de marée,tsunami
 realité,reality
-reboisement,reforestation
 reboisement,local afforestation
+reboisement,reforestation
 recensement,census survey
 recette,recipe
 recherche,research
@@ -5898,23 +5878,31 @@ relations Est-Ouest,East-West relations
 relations Terre-Soleil,Earth-Sun relationship
 relations internationales pour l'environnement,international environmental relations
 relations économiques extérieures,foreign economic relations
-relief,relief (land)
 relief,landform
+relief,relief (land)
 religion,religion
 relogement,rehousing
 remblayage de mines,mine filling
 remembrement,land consolidation
 remerciement,thank you
+remise,discount
 remise en mouvement des polluants,pollutant remobilisation
-remise en état de sites miniers,mining site restoration
 remise en état de sites miniers,mine reclamation
+remise en état de sites miniers,mining site restoration
 remodelage de terrain,land forming
 renaissance,renaissance
 rendement,yield
 rendement de pêche,catch yield
 renforcement de digue,dyke reinforcement
 renne,reindeer
+repas du matin,breakfast
+repas du midi,lunch
+repas du midi,lunch
+repas du midi,lunch
+repas du midi,lunch
+repas du midi,luncheon
 reporter,journalist
+repos,sleep
 reproduction,reproduction
 reproduction animale,animal reproduction
 reproduction végétale,plant reproduction
@@ -5971,6 +5959,10 @@ retombée sèche,dry deposition
 retraitement du combustible irradié,reprocessing
 revendiquer,assert
 revenu,income
+revue,journal
+revue,mag
+revue,magazine
+revue,periodical
 revêtement,coating
 revêtement d'étanchéité,liner material
 rhinocéros,rhino
@@ -5978,6 +5970,7 @@ rhinocéros,rhinoceros
 rhodium,rhodium
 rhénium,rhenium
 richesse naturelle,natural value
+rien,nothing
 rinçage,flushing
 rire,laugh
 risque chimique,chemical risk
@@ -5993,10 +5986,9 @@ risque pour la santé,health hazard
 risque pour les eaux souterraines,groundwater endangering
 risque résiduel,residual risk
 risque écologique pour la santé,environmental health hazard
+rivière,river
 riz,rice
 riz,rice
-grain de riz,rice
-grain de riz,rice
 robe,dress
 roche,rock
 roentgenium,roentgenium
@@ -6007,8 +5999,9 @@ rose,rose
 roseau,reed
 rotation des cultures,crop rotation
 rouge à lèvres,lipstick
-roumain,Romanian
 roumain,Romanaian
+roumain,Romanian
+route,highway
 route,road
 route d'accès,access road
 rubidium,rubidium
@@ -6019,14 +6012,14 @@ russe,Russian
 rusé,artful
 rutherfordium,rutherfordium
 ruthénium,ruthenium
-règle de compensation àl'intérieur d'un groupe (permis d'émissions),netting policy (emissions trading)
 règle de compensation àl'intérieur d'un groupe (permis d'émissions),netting policy
+règle de compensation àl'intérieur d'un groupe (permis d'émissions),netting policy (emissions trading)
 règle générale,common agreement
 règle politique,policy guideline
 règlement,regulation
 règlement (CEE) en matière de management environnemental et d'audit,EC regulation on eco-management and audit
-règlement CEE en matière de management environnemental et d'audit,EC regulation on eco-management and audit
 règlement (CEE) en matière de substances chimiques existantes,EC regulation on existing chemicals
+règlement CEE en matière de management environnemental et d'audit,EC regulation on eco-management and audit
 règlement de la CE,EC regulation
 règlement judiciaire,judiciary rule
 règlement municipal,municipal law
@@ -6040,10 +6033,10 @@ réactif photochimique,photochemical agent
 réaction chimique,chemical reaction
 réaction nucléaire,nuclear reaction
 réaction photochimique,photochemical reaction
-réchauffement mondial,global warming
 réchauffement climatique,global warming
-réchauffement planétaire,global warming
 réchauffement global,global warming
+réchauffement mondial,global warming
+réchauffement planétaire,global warming
 récif,reef
 récif barrière,barrier reef
 récif corallien,coral reef
@@ -6051,6 +6044,7 @@ récipient à usage unique,non-returnable container
 récolte,harvest
 récréation,recreation
 récupération des résidus de pétrole,oil residue recuperation
+réduction,discount
 réduction (chimie),chemical reduction
 réduction d'émission,emission reduction
 réduction de la pollution,pollution abatement
@@ -6058,15 +6052,16 @@ réduction de la pollution par le pétrole,oil pollution abatement
 réduction de la surface boisée,forest cover destruction
 réduction des coûts,cost reduction
 réduction du bruit,noise reduction
+réflectométrie,reflectometry
 réflexion,reflection
 réfrigérant,refrigerant
-réfrigérateur,refrigerator
-réfrigérateur,refrigerator
 réfrigérateur,fridge
+réfrigérateur,refrigerator
+réfrigérateur,refrigerator
 réfrigération,refrigeration
 réfugié,refugee
-référendum,referendum
 référendum,plebiscite
+référendum,referendum
 régime d'écoulement,discharge regime
 régime foncier,land use regime
 régime hydrologique,hydrologic flow
@@ -6088,8 +6083,8 @@ réglementation sur la ferraille électronique,electronic scrap regulation
 régulation des naissances,birth control
 régénération,regeneration
 régénération naturelle,natural regeneration
-réhabilitation,återställande
 réhabilitation,rehabilitation
+réhabilitation,återställande
 réhabilitation du logement,installation restoration
 réintroduction,reintroduction
 réintroduction d'espèces animales,animal species reintroduction
@@ -6134,10 +6129,10 @@ résidu de combustion,combustion residue
 résidu de pesticide,residual pesticide
 résine,resin
 résineux,resinous plant
-résistance (biologique),resistance (biological)
-résistance (biologique),resistance
-résistance,resistance (biological)
 résistance,resistance
+résistance,resistance (biological)
+résistance (biologique),resistance
+résistance (biologique),resistance (biological)
 résolution,resolution
 résolution,resolution
 résolution,resolution (parameter)
@@ -6155,16 +6150,23 @@ s'occuper de,attend
 sable,sand
 sacrifice,sacrifice
 sahara,sahara
-Sahara,sahara
-désert du Sahara,sahara
 saisie,foreclosure
 saison,season
 salade,lettuce
-laitue,lettuce
 salaire,salary
 salamandre,salamander
 salissure,fouling growth
 salle de bal,ballroom
+salut,adieu
+salut,bye
+salut,cheerio
+salut,farewell
+salut,good day
+salut,goodbye
+salut,hello
+salut,hey
+salut,hi
+salut,howdy
 samarium,samarium
 samedi,Saturday
 sanction administrative,administrative sanction
@@ -6177,9 +6179,10 @@ santé humaine,human health
 santé publique,public health
 saphir,sapphire
 sardine,sardine
-satellite,satellite
 satellite,artificial satellite
+satellite,satellite
 satellite d'observation,observation satellite
+saturne,lead
 saule,willow
 saumon,salmon
 sauterelle,grasshopper
@@ -6188,6 +6191,7 @@ savon,soap
 saxophone,saxophone
 scandium,scandium
 scanner à spectres multiples,multispectral scanner
+schéma,model
 schéma régional,regional plan
 science,science
 science appliquée,applied science
@@ -6199,6 +6203,7 @@ science physique,physical science
 science économique,economic science
 science économique,economics
 sciences de l'environnement,environmental science
+sciences de l'ingénieur,engineering
 sciences de la terre,earth science
 sciences de la vie,life science
 sciences des matériaux,materials science
@@ -6214,7 +6219,6 @@ sculpteur,sculptor
 scène,stage
 seaborgium,seaborgium
 sec,dry
-sèche,dry
 secours d'urgence,emergency relief
 secours en cas de catastrophe,disaster relief
 secret,secret
@@ -6227,14 +6231,15 @@ secteur public,public sector
 secteur tertiaire,tertiary sector
 secteur économique,economic sector
 sel,salt
-sel de table,salt
 sel alimentaire,salt
-sel de cuisine,salt
 sel d'épandage,road salt
+sel de cuisine,salt
+sel de table,salt
 sels,salt
 semaine,week
 semence,seed
 semi-conducteur,semiconductor
+semi-métal,semi-metal
 sensibilisation du public,public awareness campaign
 sentier,path
 sentier de randonnée,hiking trail
@@ -6247,6 +6252,7 @@ serbe,Serbian
 seringue,syringe
 serpent,snake
 serveur,server
+serveur,waiter
 service d'incendie,fire service
 service d'information,information service
 service d'inspection,inspection service
@@ -6264,14 +6270,12 @@ service en ligne,on-line service
 service municipal de nettoyage,municipal cleansing service
 serviette,napkin
 servitude,easement
-sexe,sex
 sexe,gender
-genre,sex
-genre,gender
+sexe,sex
+sexe oral,oral sex
 sexologie,sexology
 sextant,sextant
 sexualité orale,oral sex
-sexe oral,oral sex
 sicilien,Sicilian
 sicilien,Sicilian
 sierain,nostril
@@ -6294,8 +6298,8 @@ site naturel protégé,protected landscape
 site pollué,polluted site
 situation de famille,marital status
 situation économique,economic situation
-skier,skiing
 ski,skiing
+skier,skiing
 slovaque,Slovak
 slovaque,Slovak
 slovène,Slovene
@@ -6306,8 +6310,8 @@ smog photochimique,photochemical smog
 sociolinguistique,sociolinguistics
 sociolinguistique,sociology of language
 sociologie,sociology
-société,society
 société,organisation (law)
+société,society
 société (organisme),organisation (law)
 société de conseil,consultancy
 société industrielle,industrial society
@@ -6324,26 +6328,24 @@ solvant,solvent
 solvant organique,organic solvent
 somali,Somali
 somali,somali
+sombre,black
+sombre,dark
+sommeil,sleep
 son,sound
-sondage d'opinion,public opinion polling
 sondage d'opinion,opinion survey
+sondage d'opinion,public opinion polling
 sonorité,loudness
-sorcier,wizard
-sorcier,sorcerer
 sorcier,magician
-magicien,wizard
-magicien,sorcerer
-magicien,magician
-mage,wizard
-mage,sorcerer
-mage,magician
+sorcier,sorcerer
+sorcier,wizard
 sorcière,witch
 sorption,sorption
 soudage,welding
-soudain,sudden
 soudain,abrupt
 soudain,precipitous
+soudain,sudden
 soufre,sulphur
+soulier,shoe
 source,spring
 source,"spring (hydrology, land)"
 source (d'émissions) ponctuelle,point source
@@ -6373,6 +6375,8 @@ spectre de bruit,noise spectrum
 sphinx,sphinx
 sport,sport
 squelette,skeleton
+standard,standard
+station,station
 station d'épuration,purification plant
 station de montagne,mountain resort
 station de référence de surveillance,baseline monitoring
@@ -6428,6 +6432,10 @@ substance radioactive,radioactive substance
 substance toxique,toxic substance
 substance volatile,volatile substance
 substances mutagènes,mutagen
+substantif,noun
+substantif,substantive
+substantiivi,noun
+substantiivi,substantive
 substitut du phosphate,phosphate substitute
 substitution,replacement
 subvention,subsidy
@@ -6436,11 +6444,8 @@ suicide,suicide
 suie,soot
 sujet,subject
 sujet,topic
-thème,subject
-thème,topic
 sulfure d'hydrogène,hydrogen sulphide
 summata,add
-additionner,add
 supermarché,supermarket
 supernova,supernova
 support de données,data carrier
@@ -6500,14 +6505,14 @@ système de secours,rescue system
 système documentaire,documentary system
 système endocrinien,endocrine system
 système expert,expert system
-système gastro-intestinal,gastrointestinal tract
 système gastro-intestinal,alimentary canal
+système gastro-intestinal,gastrointestinal tract
 système immunitaire,immune system
 système informatique,data processing system
 système judiciaire,legal system
 système lymphatique,lymphatic system
-système monétaire européen,European Monetary System
 système monétaire européen,EMS
+système monétaire européen,European Monetary System
 système municipal de distribution de l'eau,municipal water distribution system
 système musculaire,muscular system
 système nerveux,nervous system
@@ -6516,6 +6521,7 @@ système numérique de traitement d'images,image processing digital system
 système respiratoire,respiratory system
 système économique,economic system
 système éducatif,educational system
+sèche,dry
 séchage,drying
 sécheresse,drought
 sécurité,safety
@@ -6528,12 +6534,11 @@ sécurité internationale,international safety
 sécurité nucléaire,nuclear safety
 sécurité écologique,environmental security
 sédiment,sediment
-sédimentation,sedimentation (geology)
 sédimentation,sedimentation
+sédimentation,sedimentation (geology)
 sédimentologie,sedimentology
 séduisant,atractive
 séisme,earthquake
-tremblement de terre,earthquake
 sélection des plantes,plant breeding
 sélénium,selenium
 sémantique,semantics
@@ -6562,8 +6567,10 @@ tantale,tantalum
 tapis,carpet
 tarif douanier,customs tariff
 tas de déblai,excavation heap
+tatane,shoe
 tatar,Tatar
 tatar,Tatar
+taureau,bull
 taux,rate
 taux de plomb dans le sang,lead level in blood
 taxe,tax
@@ -6573,12 +6580,12 @@ taxe parafiscale,exceptional tax
 taxe sur le bruit,noise emission levy
 taxe sur le dioxyde de carbone,carbon dioxide tax
 taxonomie,taxonomy
+tchouvache,Chavash
+tchouvache,Chovash
+tchouvache,Chttash
 tchouvache,Chuvash
 tchouvache,Chuvash
 tchouvache,Chuwash
-tchouvache,Chovash
-tchouvache,Chavash
-tchouvache,Chttash
 tchèque,Czech
 tchèque,Czech
 tchétchène,Chechen
@@ -6602,8 +6609,8 @@ technologie de  lutte contre la pollution,pollution control technology
 technologie de base,low-level technology
 technologie de l'ADN recombinant,recombinant DNA technology
 technologie de l'environnement,environmental technology
-technologie de l'information,information technology
 technologie de l'information,IT
+technologie de l'information,information technology
 technologie de l'énergie solaire,solar energy technology
 technologie de protection de l'environnement,environmental protection technology
 technologie de protection environnementale intégrée,integrated environmental protection technology
@@ -6618,10 +6625,16 @@ technologie propre,clean technology
 technologie silencieuse,noise-free technology
 technologie énergétique,energy technology
 technétium,technetium
+teinte,colo(u)r
+teinte,colo(u)r
+teinte,colour
+teinte,colour
+teinte,colour
+teinte,colour
 teinture,dye
 tellure,tellurium
-temps,weather
 temps,time
+temps,weather
 temps (durée),time
 temps libre,leisure time
 température,temperature
@@ -6635,34 +6648,40 @@ teneur en nutriments,nutrient content
 teneur en oxygène,oxygen content
 tennis,tennis
 tension,voltage
-voltage,voltage
 tension de vapeur,vapour pressure
 tension superficielle,surface tension
 terbium,terbium
+terme plus général,broader term
+terme plus général,broader terms
+terme plus général,holonym
+terme plus général,hypernym
+termes plus généraux,broader term
+termes plus généraux,broader terms
+termes plus généraux,holonym
+termes plus généraux,hypernym
+termes plus restreints,hyponym
+termes plus restreints,narrower term
+termes plus restreints,narrower terms
 terminologie,terminology
 terminologie de l'environnement,environmental terminology
 termites,termite
 terrain de déblayement,excavation site
 terrain militaire désaffecté,disused military site
-terre,earth
-terre,Earth
-terre,the world
 terre,Blue Planet
-Terre,earth
-Terre,Earth
-Terre,the world
-Terre,Blue Planet
+terre,Earth
+terre,earth
+terre,the world
 terre agricole,agricultural land
 terre aride,arid land
-terre cuite,terracotta
-terre cuite,terracotta
-terre cuite,terracotta
 terre cuite,terra cotta
-terrecotta,terracotta
-terrecotta,terracotta
-terrecotta,terracotta
-terrecotta,terra cotta
+terre cuite,terracotta
+terre cuite,terracotta
+terre cuite,terracotta
 terre décolorante,bleaching clay
+terrecotta,terra cotta
+terrecotta,terracotta
+terrecotta,terracotta
+terrecotta,terracotta
 terres marginales,marginal land
 terreux,ashen
 territoire,land
@@ -6670,7 +6689,6 @@ territoire,territory
 terrorisme,terrorism
 terroriste,terrorist
 test,test
-tester,test
 test aléatoire,random test
 test biologique,biological test
 test climatique,climatic experiment
@@ -6683,6 +6701,7 @@ test immunologique,immunoassay
 test in vitro,in vitro assay
 test in vivo,in vivo assay
 test rapide,rapid test
+tester,test
 testostérone,testosterone
 texte juridique,legal text
 thallium,thallium
@@ -6695,8 +6714,11 @@ thon,tunafish
 thorium,thorium
 thulium,thulium
 thyroïde,thyroid
+thème,subject
+thème,topic
 thèse,thesis
 thé,tea
+théine,caffeine
 théocratie,theocracy
 théologie,theology
 théorie du chaos,chaos theory
@@ -6707,10 +6729,8 @@ tissu,fabric
 tissu,tissue
 titane,titanium
 toile d'araignée,cobweb
-toile d'araignée,web
 toile d'araignée,spider web
-fil d'araignée,web
-fil d'araignée,spider web
+toile d'araignée,web
 toit,roof
 toit,roof
 toit,roof
@@ -6747,10 +6767,8 @@ trachéophyte,vascular plant
 tradition populaire,folk tradition
 traditionnel,traditional
 traduction,translation
-traduire,translate
 traduire,interpret
-interpréter,translate
-interpréter,interpret
+traduire,translate
 trafic,traffic
 trafic aérien,air traffic
 trafic aérien militaire,military air traffic
@@ -6763,9 +6781,7 @@ trafic à grande vitesse,fast traffic
 train,train
 train interurbain rapide,rapid transit train
 train à grande vitesse,high-speed train
-TGV,high-speed train
 trait,characteristic
-characteristique,characteristic
 traitement,processing
 traitement anaérobie,anaerobic treatment
 traitement aérobie,aerobic treatment
@@ -6810,9 +6826,17 @@ transport maritime,maritime transport
 transport privé,private transport
 transport terrestre,land transportation
 transporteur,forwarding agent
+travail,employment
+travail,employment
+travail,job
+travail,job
 travail,labour
+travail,occupation
+travail,work
+travail,work
 travaux de construction,construction work
 travaux publics,public works
+tremblement de terre,earthquake
 trempage,soaking
 triangle,triangle
 tribunal,court
@@ -6824,13 +6848,15 @@ trolleybus,trolleybus
 trombone,trombone
 trompette,trumpet
 trophée,trophy
-tropiques,tropics
 tropiques,torrid zone
+tropiques,tropics
 trouble de l'audition,hearing impairment
 trouble du sommeil,sleep disturbance
 truite,trout
 tswana,Tswana
 tulipe,tulip
+tumeur,neoplasm
+tumeur,tumour
 tungstène,tungsten
 tunnel,tunnel
 turbidité,turbidity
@@ -6838,7 +6864,8 @@ turbine,turbine
 turc,Turkish
 turc,Turkish
 tuyau,pipe
-conduit,pipe
+type,male
+type,man
 type d'entreprise,business classification
 type d'écosystème,ecosystem type
 type d'énergie,energy type
@@ -6849,32 +6876,29 @@ typhon,typhoon
 télougou,Telugu
 télougou,Telugu
 télé,television
-télévision,television
-télécommunication,telecommunications
 télécommunication,telecommunication
+télécommunication,telecommunications
 télédétection,remote sensing
 télémétrie,telemetry
 téléphone,phone
 téléphone,telephone
 télévision,television
+télévision,television
 témoin,witness
-têtard,tadpole
 têtard,polliwog
+têtard,tadpole
 tête,head
 tôt,early
 ukrainien,Ukrainian
 ukrainien,Ukrainian
 un,one
 un moment,awhile
-université,university
-université,university
+université,academy
 université,academy
 université,university
 université,university
-université,academy
-académie,university
-académie,university
-académie,academy
+université,university
+université,university
 ununbium,ununbium
 ununhexium,ununhexium
 ununoctium,ununoctium
@@ -6894,11 +6918,13 @@ usine à gaz,gaswork
 usurper,usurp
 utile,useful
 utilisateur,user
-utilisation de l'énergie,energy utilisation
 utilisation de l'énergie,energy use
+utilisation de l'énergie,energy utilisation
 utilisation des ressources,resource utilisation
 utilisation des ressources locales,local resource utilisation
 utilisation du paysage,landscape utilisation
+vacances,holiday
+vacances,opor-garai
 vaccination,vaccination
 vache,cow
 valeur agronomique,agronomic value
@@ -6919,6 +6945,7 @@ vendre,sell
 vendredi,Friday
 venir,come
 vent,wind
+vente aux enchères,auction
 ventilation,ventilation
 verbe,verb
 verglas,glaze
@@ -6934,8 +6961,8 @@ vide,empty
 vie institutionnelle,institutional activity
 vietnamien,Vietnamese
 vietnamien,Vietnamese
-vignoble,vineyard
 vigne,vineyard
+vignoble,vineyard
 village,village
 ville,city
 vin,wine
@@ -6945,16 +6972,19 @@ virologie,virology
 virus,virus
 vis,screw
 vis de fixation,screw
+visage,face
 viscosité,viscosity
 vitamine,vitamin
 vitesse,speed
 vocabulaire,vocabulary
 voie ferrée,railway
-chemin de fer,railway
 voie ferrée à grande vitesse,high-speed railway
+voilier,sailing ship
 voir,see
 voisin,neighbour
 voisin,vecino
+voiture,automobile
+voiture,car
 voiture propre,clean air car
 vol spatial,space travel
 vol à basse altitude,low-level flight
@@ -6968,6 +6998,7 @@ voler,pocket
 voler,steal
 volière,aviary
 volley-ball,volleyball
+voltage,voltage
 vote,voting
 vous,y'all
 vous,you
@@ -6983,30 +7014,28 @@ véhicule abandonné,car wreck
 véhicule commercial,commercial vehicle
 véhicule de collecte des ordures,refuse collection vehicle
 véhicule de transport en commun,public transport vehicle
-véhicule ferroviaire,railroad vehicle
 véhicule ferroviaire,carriage
+véhicule ferroviaire,railroad vehicle
 véhicule ferroviaire,wagon
-wagon,railroad vehicle
-wagon,carriage
-wagon,wagon
 véhicule personnel,private car
 véhicule tout terrain,all-terrain vehicle
 véhicule à moteur,motor vehicle
 véhicule électrique,electric vehicle
-vélomoteur,motorcycle
+vélo,bicycle
+vélo,bike
+vélo,cycle
 vélomoteur,motorbike
-motocyclette,motorcycle
-motocyclette,motorbike
-moto,motorcycle
-moto,motorbike
+vélomoteur,motorcycle
 vérité,truth
 vésicule biliaire,gallbladder
-cholécyste,gallbladder
 vétéran,veteran
 vétérinaire,veterinarian
-vétérinaire,veterinary
 vétérinaire,veterinarian
+vétérinaire,veterinary
 vêtir,attire
+wagon,carriage
+wagon,railroad vehicle
+wagon,wagon
 wallon,Walloon
 wallon,Walloon
 water polo,water polo
@@ -7017,6 +7046,7 @@ xylophone,xylophone
 xénon,xenon
 yacht,yacht
 yak,yak
+yeux,eye
 yiddish,Yiddish
 ytterbium,ytterbium
 yttrium,yttrium
@@ -7049,26 +7079,21 @@ zone marine protégée,protected marine zone
 zone militaire,military zone
 zone méditerranéenne,Mediterranean Area
 zone peu construite,non-built-up area
-zone piétonnière,pedestrian zone
-zone piétonnière,pedestrian area
-zone piétonnière,car-free zone
-zone piétonnière,auto-free zone
-zone piétonnière,pedestrianised zone
-zone piétonne,pedestrian zone
-zone piétonne,pedestrian area
-zone piétonne,car-free zone
 zone piétonne,auto-free zone
+zone piétonne,car-free zone
+zone piétonne,pedestrian area
+zone piétonne,pedestrian zone
 zone piétonne,pedestrianised zone
-zone pour piétons,pedestrian zone
-zone pour piétons,pedestrian area
-zone pour piétons,car-free zone
+zone piétonnière,auto-free zone
+zone piétonnière,car-free zone
+zone piétonnière,pedestrian area
+zone piétonnière,pedestrian zone
+zone piétonnière,pedestrianised zone
 zone pour piétons,auto-free zone
+zone pour piétons,car-free zone
+zone pour piétons,pedestrian area
+zone pour piétons,pedestrian zone
 zone pour piétons,pedestrianised zone
-plateau piétonnier,pedestrian zone
-plateau piétonnier,pedestrian area
-plateau piétonnier,car-free zone
-plateau piétonnier,auto-free zone
-plateau piétonnier,pedestrianised zone
 zone préservée de l'estuaire,estuarine conservation area
 zone périphérique de parc,peripheral park area
 zone résidentielle,residential area
@@ -7080,71 +7105,57 @@ zoologie,zoology
 zoonose,zoonosis
 zoulou,Zulu
 zèbre,zebra
-zéro,zero
 zéro,null
+zéro,zero
 Écosse,Scotland
-Égypte,Egypt
 Égypte,Arab Republic of Egypt
+Égypte,Egypt
 Émirats Arabes Unis,United Arab Emirates
 Épiphanie,Epiphany
 Équateur,Ecuador
 Équateur,Republic of Ecuador
 Érythrée,Eritrea
-État de la Cité du Vatican,Vatican City
-État de la Cité du Vatican,The Holy See
 État de la Cité du Vatican,State of the Vatican City
-Vatican,Vatican City
-Vatican,The Holy See
-Vatican,State of the Vatican City
-Saint-Siège,Vatican City
-Saint-Siège,The Holy See
-Saint-Siège,State of the Vatican City
-États-Unis d'Amérique,United States
-États-Unis d'Amérique,United States of America
-États-Unis d'Amérique,America
-États-Unis d'Amérique,US
-États-Unis d'Amérique,U.S.
-États-Unis d'Amérique,U.S.A.
-États-Unis d'Amérique,U.S. of A.
-États-Unis d'Amérique,States
+État de la Cité du Vatican,The Holy See
+État de la Cité du Vatican,Vatican City
+États Fédérés de Micronésie,Federated States of Micronesia
+États Fédérés de Micronésie,Micronesia
+États-Unis,America
+États-Unis,States
+États-Unis,U.S.
+États-Unis,U.S. of A.
+États-Unis,U.S.A.
+États-Unis,US
 États-Unis,United States
 États-Unis,United States of America
-États-Unis,America
-États-Unis,US
-États-Unis,U.S.
-États-Unis,U.S.A.
-États-Unis,U.S. of A.
-États-Unis,States
+États-Unis d'Amérique,America
+États-Unis d'Amérique,States
+États-Unis d'Amérique,U.S.
+États-Unis d'Amérique,U.S. of A.
+États-Unis d'Amérique,U.S.A.
+États-Unis d'Amérique,US
+États-Unis d'Amérique,United States
+États-Unis d'Amérique,United States of America
 Éthiopie,Ethiopia
 Éthiopie,Federal Democratic Republic of Ethiopia
 Île Bouvet,Bouvet Island
 Île Christmas,Christmas Island
 Îles Baléares,Balearic Islands
-Iles Baléares,Balearic Islands
-Baléares,Balearic Islands
 Îles Caïmanes,Cayman Islands
 Îles Cook,Cook Islands
 Îles Féroé,Faroe Islands
 Îles Marshall,Marshall Islands
 Îles Marshall,Republic of the Marshall Islands
 Îles Salomon,Solomon Islands
-Îles Wallis et Futuna,Wallis and Futuna
 Îles Wallis et Futuna,Territory of the Wallis and Futuna Islands
-Wallis-et-Futuna,Wallis and Futuna
-Wallis-et-Futuna,Territory of the Wallis and Futuna Islands
-Territoire des îles Wallis-et-Futuna,Wallis and Futuna
-Territoire des îles Wallis-et-Futuna,Territory of the Wallis and Futuna Islands
+Îles Wallis et Futuna,Wallis and Futuna
 Îles Åland,Åland Islands
 à califourchon,astride
 à terre,ashore
 âcre,acrid
 âge,age
-âne,donkey
 âne,ass
-baudet,donkey
-baudet,ass
-bourricot,donkey
-bourricot,ass
+âne,donkey
 éboulement,landslide
 échange d'informations,information exchange
 échange d'ions,ion exchange
@@ -7152,20 +7163,18 @@ bourricot,ass
 échange de données informatisées,interchange of electronic data
 échangeur d'ions,ion exchanger
 échecs,chess
-jeu d'échec,chess
 échinoderme,echinoderm
 éclairage,lighting
 écluse,canal lock
-éco-audit,environmental statement (eco-audit)
-éco-audit,environmental statement
 éco-audit,eco-audit
+éco-audit,environmental statement
+éco-audit,environmental statement (eco-audit)
 éco-compatibilité,environmental compatibility
 écocitoyenneté,environmental citizenship
 écoindustrie,environmental industry
 écolabel,ecolabel
 écolabellisation,ecolabelling
 école,school
-établissement scolaire,school
 écologie,ecology
 écologie agricole,agricultural ecology
 écologie agricole,agroecology
@@ -7220,7 +7229,6 @@ jeu d'échec,chess
 éducation,education
 éducation,upbringing
 éducation (formation),upbringing
-formation,upbringing
 éducation à l'environnement,environmental education
 édulcorant,sweetener
 église,church
@@ -7233,6 +7241,7 @@ formation,upbringing
 électromagnétisme,electromagnetism
 électron,electron
 électronique,electronics
+électrotechnique,electrical engineering
 élevage,animal husbandry
 élevage de bétail,livestock breeding
 élevage de bétail,livestock farming
@@ -7243,56 +7252,48 @@ formation,upbringing
 élimination de polluant,pollutant elimination
 élimination des batteries,battery disposal
 élimination des matériels de guerre,disposal of warfare materials
-élément chimique,chemical element
-élément chimique,element
 élément,chemical element
 élément,element
+élément chimique,chemical element
+élément chimique,element
 élément de combustible nucléaire,nuclear fuel element
 élément de transition,transition element
 élément de transition,transition metal
+élément du groupe 0,element of group 0
+élément du groupe 0,noble gas
+élément du groupe I,alkali metal
+élément du groupe I,alkaline
+élément du groupe I,alkaline metal
+élément du groupe I,element of group I
+élément du groupe II,alkaline earth metal
+élément du groupe II,element of group II
+élément du groupe II,element of group II (alkaline earth metals)
+élément du groupe III,element of group III
+élément du groupe IV,element of group IV
+élément du groupe V,element of group V
+élément du groupe VI,element of group VI
+élément du groupe VII,element of group VII
+élément du groupe VII,halogen
 élément du paysage,landscape component
 élément trace,trace element
 éléments du groupe 0,element of group 0
 éléments du groupe 0,noble gas
-gaz nobles,element of group 0
-gaz nobles,noble gas
-gaz rares,element of group 0
-gaz rares,noble gas
-gaz noble,element of group 0
-gaz noble,noble gas
-gaz rare,element of group 0
-gaz rare,noble gas
-élément du groupe 0,element of group 0
-élément du groupe 0,noble gas
-éléments du groupe II (métaux alcalino-terreux),element of group II (alkaline earth metals)
-éléments du groupe II (métaux alcalino-terreux),alkaline earth metal
-éléments du groupe II (métaux alcalino-terreux),element of group II
-éléments du groupe II,element of group II (alkaline earth metals)
+éléments du groupe I,alkali metal
+éléments du groupe I,alkaline
+éléments du groupe I,alkaline metal
+éléments du groupe I,element of group I
 éléments du groupe II,alkaline earth metal
 éléments du groupe II,element of group II
-métaux alcalino-terreux,element of group II (alkaline earth metals)
-métaux alcalino-terreux,alkaline earth metal
-métaux alcalino-terreux,element of group II
-métal alcalino-terreux,element of group II (alkaline earth metals)
-métal alcalino-terreux,alkaline earth metal
-métal alcalino-terreux,element of group II
-élément du groupe II,element of group II (alkaline earth metals)
-élément du groupe II,alkaline earth metal
-élément du groupe II,element of group II
+éléments du groupe II,element of group II (alkaline earth metals)
+éléments du groupe II (métaux alcalino-terreux),alkaline earth metal
+éléments du groupe II (métaux alcalino-terreux),element of group II
+éléments du groupe II (métaux alcalino-terreux),element of group II (alkaline earth metals)
 éléments du groupe III,element of group III
-élément du groupe III,element of group III
 éléments du groupe IV,element of group IV
-élément du groupe IV,element of group IV
 éléments du groupe V,element of group V
-élément du groupe V,element of group V
 éléments du groupe VI,element of group VI
-élément du groupe VI,element of group VI
 éléments du groupe VII,element of group VII
 éléments du groupe VII,halogen
-halogène,element of group VII
-halogène,halogen
-élément du groupe VII,element of group VII
-élément du groupe VII,halogen
 éléphant,elephant
 élévation du niveau de la mer,rising sea level
 émancipation,emancipation
@@ -7315,7 +7316,6 @@ halogène,halogen
 énergie à base de charbon,coal-based energy
 énergie à base de pétrole,oil-based energy
 énergie électrique,electric power
-puissance électrique,electric power
 énergie éolienne,wind power
 éphémère,ephemeral
 épicentre,epicentre
@@ -7324,17 +7324,12 @@ puissance électrique,electric power
 épigramme,epigram
 épilepsie,epilepsy
 épinards,spinach
+épineux,difficult
 éponge,poriferan
-épouse,wife
 épouse,spouse
-femme,wife
-femme,spouse
-mariée,wife
-mariée,spouse
+épouse,wife
 époux,husband
 époux,spouse
-mari,husband
-mari,spouse
 épuration,purification
 épuration biologique,biological wastewater treatment
 épuration biologique des effluents gazeux,biological waste gas purification
@@ -7356,9 +7351,6 @@ mari,spouse
 équipement agricole,agricultural equipment
 équipement agricole,agricultural machinery
 équipement agricole,farm machinery
-machine agricole,agricultural equipment
-machine agricole,agricultural machinery
-machine agricole,farm machinery
 équipement collectif,community facility
 équipement collectif,public facility
 équipement culturel,cultural facility
@@ -7376,13 +7368,14 @@ machine agricole,farm machinery
 établir,ascertain
 établissement d'enseignement,educational institution
 établissement humain,human settlement
-établissement industriel (bâtiment),industrial plant (building)
-établissement industriel (bâtiment),industrial plant
-établissement industriel,industrial plant (building)
 établissement industriel,industrial plant
+établissement industriel,industrial plant (building)
+établissement industriel (bâtiment),industrial plant
+établissement industriel (bâtiment),industrial plant (building)
 établissement public,public institution
 établissement public à caractère administratif,public institution of administrative nature
 établissement public à caractère industriel et commercial,public institution of industrial and commercial nature
+établissement scolaire,school
 étain,tin
 étalonnage,calibration
 étanchéité de base de décharge,landfill base sealing
@@ -7404,19 +7397,25 @@ machine agricole,farm machinery
 étiquetage,labelling
 étoile,star
 étoile binaire,binary star
+étoile filante,falling star
+étoile filante,meteor
+étoile filante,meteor
+étoile filante,meteor
+étoile filante,meteor
+étoile filante,meteor
+étoile filante,shooting star
 étonnant,astonishing
 étonnement,astonishment
 étonner,astonish
 étonner,surprise
-étrange,strange
 étrange,odd
+étrange,strange
 étranger,foreign
 étude d'environnement,environmental study
 étude d'impact sur l'environnement,environmental impact study
 étude de bureau,desk study
 étude de danger,danger analysis
 étude de la lumière réfléchie,reflectometry
-réflectométrie,reflectometry
 étude de marché,market research
 étude de marché,market study
 étude de milieu,environmental analysis
@@ -7428,6 +7427,8 @@ réflectométrie,reflectometry
 évaluation,evaluation
 évaluation de l'impact,impact assessment
 évaluation de l'impact des conditions de vie sur la santé,environmental health impact assessment
+évaluation de l'impact sur l'environnement,EIA
+évaluation de l'impact sur l'environnement,environmental impact assessment
 évaluation de produits,product evaluation
 évaluation de technologie,evaluation of technology
 évaluation des dommages,damage assessment
@@ -7451,11 +7452,10 @@ réflectométrie,reflectometry
 évêque,bishop
 île,island
 île,isle
-ile,island
-ile,isle
 île de Man,Isle of Man
 île de Man,Isle of Mann
 île de Man,Mann
+îles Falkland,Falkland Islands
 œil,eye
-yeux,eye
-french,english
+œuf,egg
+סיגר,cigar

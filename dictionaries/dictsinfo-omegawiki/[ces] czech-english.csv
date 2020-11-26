@@ -62,7 +62,6 @@ Abraham Lincoln,Abraham Lincoln
 Abuja,Abuja
 Adelaide,Adelaide
 Aeronomie,atmospheric physics
-fyzika atmosféry,atmospheric physics
 Afghánistán,Afghanistan
 Afghánistán,Transitional Islamic State of Afghanistan
 Afrika,Africa
@@ -88,7 +87,6 @@ Argentina,Argentina
 Argentina,Argentine Republic
 Arizona,Arizona
 Arktický oceán,Arctic Ocean
-Severní ledový oceán,Arctic Ocean
 Arménie,Armenia
 Artropoda,chelicerate
 Aruba,Aruba
@@ -98,10 +96,13 @@ Atlantický oceán,Atlantic Ocean
 Atlantik,Atlantic Ocean
 Austrálie,Australia
 Austrálie,Commonwealth of Australia
+Azeri,Azerbaijani
+Azeri,Azerbaijani Cluster
+Azeri,Azeri
 Azory,Azores
+Bahamy,Bahama Islands
 Bahamy,Bahamas
 Bahamy,Commonwealth of the Bahamas
-Bahamy,Bahama Islands
 Bahrajn,Bahrain
 Baleáry,Balearic Islands
 Bangladéš,Bangladesh
@@ -109,8 +110,6 @@ Bangladéš,People's Republic of Bangladesh
 Barbados,Barbados
 Baskičtina,Basque
 Baskičtina,Basque
-baskičtina,Basque
-baskičtina,Basque
 Bavorsko,Bavaria
 Belgie,Belgium
 Belgie,Kingdom of Belgium
@@ -133,8 +132,8 @@ Botswana,Republic of Botswana
 Bouvetův ostrov,Bouvet Island
 Bratislava,Bratislava
 Brazílie,Brazil
-Britské indickooceánské území,British Indian Ocean Territory
 Britské indickooceánské území,BIOT
+Britské indickooceánské území,British Indian Ocean Territory
 Brunej,Brunei
 Brunej,Negara Brunei Darussalam
 Bulharsko,Bulgaria
@@ -147,6 +146,7 @@ Bělehrad,Belgrade
 Bělorusko,Belarus
 Bělorusko,Republic of Belarus
 CD-ROM,CD-ROM
+Cetacea,cetacean
 Chanuka,Hannukah
 Chartúm,Khartoum
 Chihuahua,Chihuahua
@@ -158,6 +158,7 @@ DDT,DDT
 DDT,dichloro-diphenyl-trichloroethane
 DNA,DNA
 DNA,deoxyribonucleic acid
+Dagestán,Dagestan
 Dakar,Dakar
 Dolní Sasko,Lower Saxony
 Dominikánská republika,Dominican Republic
@@ -168,13 +169,11 @@ Dánsko,Denmark
 Dánsko,Kingdom of Denmark
 EIA místní,EIA (local)
 Egejské moře,Aegean Sea
-Egypt,Egypt
 Egypt,Arab Republic of Egypt
+Egypt,Egypt
 Ekvádor,Ecuador
 Ekvádor,Republic of Ecuador
 Epifanie,Epiphany
-Slavnost Zjevení Páně,Epiphany
-svátek Tří králů,Epiphany
 Eritrea,Eritrea
 Estonsko,Estonia
 Estonsko,Republic of Estonia
@@ -191,8 +190,8 @@ Evropská společenství,European Communities
 Evropská unie,EU
 Evropská unie,European Union
 Evropský měnový fond,European Monetary Fund
-Evropský měnový systém,European Monetary System
 Evropský měnový systém,EMS
+Evropský měnový systém,European Monetary System
 Evropský parlament,European Parliament
 Evropský soudní dvůr,European Court of Justice
 Faerské ostrovy,Faroe Islands
@@ -205,23 +204,28 @@ Finsko,Republic of Finland
 Flandry,Flanders
 Flandry,Flemish region
 Flevoland,Flevoland
+Fobos,Phobos
 Francie,France
 Francouzská Guyana,French Guiana
 Francouzská Polynésie,French Polynesia
 Francouzská jižní a antarktická území,French Southern Territories
-Francouzská jižní a antarktická území,French Southern and Antarctic LandsA
 Francouzská jižní a antarktická území,French Southern and Antarctic Lands
+Francouzská jižní a antarktická území,French Southern and Antarctic LandsA
 Francouzská jižní a antarktická území,Territory of the French Southern and Antarctic Lands
 Fudži,Mount Fuji
-Hora Fudži,Mount Fuji
 Gabon,Gabon
 Gabon,Gabonese Republic
+Galvanický článek,Galvanic cell
+Galvanický článek,cell
+Galvanický článek,electrochemical cell
+Galvanický článek,energy cell
+Galvanický článek,στοιχείο
 Gambie,Gambia
 Gambie,Gambia
 Gambie,Gambia
 Gambie,Gambia
-Gambie,The Gambia
 Gambie,Republic of The Gambia
+Gambie,The Gambia
 Georgie,Georgia
 Ghana,Ghana
 Ghana,Republic of Ghana
@@ -233,23 +237,24 @@ Guadeloupe,Guadeloupe
 Guam,Guam
 Guam,Guam
 Guam,Guam
+H5N1,A(H5N1)
 H5N1,H5N1
 H5N1,Influenza A virus subtype H5N1
-H5N1,A(H5N1)
 Haiti,Haiti
 Haiti,Republic of Haiti
 Hannover,Hanover
+Hercules,Hercules
 Herkules,Hercules
 Honduras,Honduras
 Honduras,Republic of Honduras
 Honící psi,Canes Venatici
+Hora Fudži,Mount Fuji
 Hvězdnicovité,Asteraceae
-Hvězdnicovité,sunflower family
 Hvězdnicovité,Compositae
-Hvězdnicovité,daisy family
 Hvězdnicovité,aster family
+Hvězdnicovité,daisy family
+Hvězdnicovité,sunflower family
 Héraklés,Hercules
-Hercules,Hercules
 Ilias,Iliad
 Indický oceán,Indian Ocean
 Indie,India
@@ -269,24 +274,24 @@ Izrael,Israel
 Izrael,State of Israel
 Jaderské moře,Adriatic Sea
 Jadran,Adriatic Sea
-Jakarta,Jakarta
-Jakarta,Djakarta
 Jakarta,DKI Jakarta
+Jakarta,Djakarta
+Jakarta,Jakarta
 Jamajka,Jamaica
 Japonsko,Japan
 Japonsko,State of Japan
-Jemen,Yemen
 Jemen,Republic of Yemen
+Jemen,Yemen
 Jerevan,Erevan
 Jerevan,Yerevan
-Jersey,Jersey
 Jersey,Bailiwick of Jersey
+Jersey,Jersey
 Jihoafrická republika,South Africa
 Jižní Amerika,South America
-Jižní Korea,South Korea
 Jižní Korea,Republic of Korea
-Jordánsko,Jordan
+Jižní Korea,South Korea
 Jordánsko,Hashemite Kingdom of Jordan
+Jordánsko,Jordan
 Jugoslávie,Yugoslavia
 Jupiter,Jupiter
 Kajmanské ostrovy,Cayman Islands
@@ -306,14 +311,16 @@ Keňa,Republic of Kenya
 Kiribati,Kiribati
 Kiribati,Republic of Kiribati
 Kjóto,Kyoto
+Knížectví Lichtenštejn,Liechtenstein
+Knížectví Lichtenštejn,Principality of Liechtenstein
 Kodaň,Copenhagen
 Kolumbie,Colombia
 Kolumbie,Republic of Colombia
 Kolín nad Rýnem,Cologne
 Kosovo,Kosovo
 Kozoroh,Capricorn
-Krakov,Krakow
 Krakov,Cracow
+Krakov,Krakow
 Král Slunce,Sun King
 Kuba,Cuba
 Kuba,Republic of Cuba
@@ -323,28 +330,26 @@ Káhira,Cairo
 Káhira,Cairo
 Káhira,Cairo
 Lagos,Lagos
-Laos,Laos
 Laos,Lao People's Democratic Republic
+Laos,Laos
 Lausanne,Lausanne
-Lesotho,Lesotho
 Lesotho,Kingdom of Lesotho
+Lesotho,Lesotho
 Lev,Leo
-Libanon,Lebanon
 Libanon,Lebanese Republic
-Libye,Libya
+Libanon,Lebanon
 Libye,Great Socialist People's Libyan Arab Jamahiriya
+Libye,Libya
 Libérie,Liberia
 Libérie,Republic of Liberia
 Lichtenštejnsko,Liechtenstein
 Lichtenštejnsko,Principality of Liechtenstein
-Knížectví Lichtenštejn,Liechtenstein
-Knížectví Lichtenštejn,Principality of Liechtenstein
 Litva,Lithuania
 Litva,Republic of Lithuania
 Lotyšsko,Latvia
 Lotyšsko,Republic of Latvia
-Lucembursko,Luxembourg
 Lucembursko,Grand Duchy of Luxembourg
+Lucembursko,Luxembourg
 Lyon,Lyon
 Makedonie,Macedonia
 Makedonie,Republic of Macedonia
@@ -357,11 +362,8 @@ Malý pes,Canis Minor
 Man,Isle of Man
 Man,Isle of Mann
 Man,Mann
-Ostrov Man,Isle of Man
-Ostrov Man,Isle of Mann
-Ostrov Man,Mann
-Maroko,Morocco
 Maroko,Kingdom of Morocco
+Maroko,Morocco
 Marshallovy ostrovy,Marshall Islands
 Marshallovy ostrovy,Republic of the Marshall Islands
 Martinik,Martinique
@@ -377,8 +379,8 @@ Mezinárodní měnový fond,International Monetary Fund
 Mezinárodní soudní dvůr,International Court of Justice
 Milwaukee,Milwaukee
 Milán,Milan
-Mléčná dráha,Milky Way
 Mléčná dráha,Galaxy
+Mléčná dráha,Milky Way
 Mnichov,Munich
 Moldavsko,Moldova
 Monako,Monaco
@@ -386,15 +388,12 @@ Montserrat,Montserrat
 Mosambik,Mozambique
 Moskva,Moscow
 Moteto,motet
-moteto,motet
 Myanmar,Myanmar
-Měsíc,moon
 Měsíc,Luna
 Měsíc,Moon
+Měsíc,moon
 NDR,GDR
 NDR,German Democratic Republic
-Německá demokratická republika,GDR
-Německá demokratická republika,German Democratic Republic
 NOEL,NOEL
 Nairobi,Nairobi
 Namibie,Namibia
@@ -408,19 +407,24 @@ Niue,Niue
 Nizozemsko,Holland
 Nizozemsko,Kingdom of the Netherlands
 Nizozemsko,The Netherlands
-Norsko,Norway
 Norsko,Kingdom of Norway
+Norsko,Norway
 Nová Kaledonie,New Caledonia
 Nový Zéland,New Zealand
 Nuuk,Nuuk
 Náhorní Karabach,Nagorno-Karabakh
-Německo,Germany
 Německo,Federal Republic of Germany
+Německo,Germany
+Německá demokratická republika,GDR
+Německá demokratická republika,German Democratic Republic
 Oceánie,Oceania
 Orel,Aquila
 Organizace spojených národů,UN
 Organizace spojených národů,United Nations
 Oslo,Oslo
+Ostrov Man,Isle of Man
+Ostrov Man,Isle of Mann
+Ostrov Man,Mann
 Panama,Panama
 Papua-Nová Guinea,Papua New Guinea
 Paraguay,Paraguay
@@ -433,16 +437,15 @@ Petrohrad,Petrograd
 Petrohrad,Saint Petersburg
 Petrohrad,St. Petersburg
 Phobos,Phobos
-Fobos,Phobos
-Pobřeží slonoviny,Ivory Coast
 Pobřeží slonoviny,Cote d'Ivoire
+Pobřeží slonoviny,Ivory Coast
 Pobřeží slonoviny,Republic of Cote d'Ivoire
 Polsko,Poland
 Portoriko,Puerto Rico
 Portugalsko,Portugal
 Pyreneje,Pyrenees
-Pákistán,Pakistan
 Pákistán,Islamic Republic of Pakistan
+Pákistán,Pakistan
 Pásmo Gazy,Gaza Strip
 Rada EU,EU Council
 Rada ministrů ES,EC Council of Ministers
@@ -456,8 +459,8 @@ Rhône,Rhône
 Rumunsko,Romania
 Rusko,Russia
 Rusko,Russian Federation
-Sachalin,Sakhalin
 Sachalin,Saghalien
+Sachalin,Sakhalin
 Saint-Pierre a Miquelon,Saint-Pierre and Miquelon
 Salvador,El Salvador
 Salvador,Republic of El Salvador
@@ -465,38 +468,42 @@ San Marino,San Marino
 Sapir-Whorfova hypotéza,Sapir–Whorf hypothesis
 Sasko,Saxony
 Saturn,Saturn
-Saúdská Arábie,Saudi Arabia
 Saúdská Arábie,Kingdom of Saudi Arabia
+Saúdská Arábie,Saudi Arabia
 Seina,Seine
 Senegal,Senegal
 Severní Amerika,North America
 Severní Irsko,Northern Ireland
+Severní ledový oceán,Arctic Ocean
 Skotsko,Scotland
+Slavnost Zjevení Páně,Epiphany
 Slovensko,Slovakia
+Slovenština,Slovak
+Slovenština,Slovak
 Slovinsko,Slovenia
 Soudní dvůr Společenství,Court of Justice of the European Communities
-Spojené království Velké Británie a Severního Irska,United Kingdom
-Spojené království Velké Británie a Severního Irska,United Kingdom of Great Britain and Northern Ireland
-Spojené království Velké Británie a Severního Irska,UK
+Spojené království,UK
 Spojené království,United Kingdom
 Spojené království,United Kingdom of Great Britain and Northern Ireland
-Spojené království,UK
+Spojené království Velké Británie a Severního Irska,UK
+Spojené království Velké Británie a Severního Irska,United Kingdom
+Spojené království Velké Británie a Severního Irska,United Kingdom of Great Britain and Northern Ireland
+Spojené státy americké,America
+Spojené státy americké,States
+Spojené státy americké,U.S.
+Spojené státy americké,U.S. of A.
+Spojené státy americké,U.S.A.
+Spojené státy americké,US
 Spojené státy americké,United States
 Spojené státy americké,United States of America
-Spojené státy americké,America
-Spojené státy americké,US
-Spojené státy americké,U.S.
-Spojené státy americké,U.S.A.
-Spojené státy americké,U.S. of A.
-Spojené státy americké,States
 Srbsko,Serbia
 Srbsko a Černá Hora,Serbia and Montenegro
 Střední Amerika,Central America
 Středozemní moře,Mediterranean Sea
 Střelec,Sagittarius
 Surinam,Suriname
-Světový ekologický fond,Global Environment Facility
 Světový ekologický fond,GEF
+Světový ekologický fond,Global Environment Facility
 Súdán,Sudan
 Sýrie,Syria
 Sýrie,Syrian Arab Republic
@@ -511,47 +518,46 @@ Tonga,Tonga
 Toronto,Toronto
 Tunisko,Tunisia
 Turecko,Turkey
-Uganda,Uganda
 Uganda,Republic of Uganda
+Uganda,Uganda
 Ukrajina,Ukraine
 Utah,Utah
 Vaduz,Vaduz
-Vatikán,Vatican City
-Vatikán,The Holy See
 Vatikán,State of the Vatican City
+Vatikán,The Holy See
+Vatikán,Vatican City
 Velikonoce,Easter
-Velká Británie,Great Britain
 Velká Británie,Britain
+Velká Británie,Great Britain
 Velký pes,Canis Major
 Venezuela,Venezuela
 Venuše,Venus
 View lemma information,turkey
-krocan,turkey
 Vodnář,Aquarius
 Volha,Volga
 Váhy,Libra
 Vánoce,Christmas
 Vánoční ostrov,Christmas Island
-Východní Timor,East Timor
 Východní Timor,Democratic Republic of Timor-Leste
+Východní Timor,East Timor
 Wales,Wales
-Wallis a Futuna,Wallis and Futuna
 Wallis a Futuna,Territory of the Wallis and Futuna Islands
+Wallis a Futuna,Wallis and Futuna
 Washington,Washington
 Wikcionář,Wiktionary
 Wikipedie,Wikipedia
-World Wide Web,World Wide Web
 World Wide Web,WWW
+World Wide Web,World Wide Web
 Wyoming,Wyoming
-Zambie,Zambia
 Zambie,Republic of Zambia
+Zambie,Zambia
 Zanzibar,Zanzibar
-Země,earth
-Země,Earth
-Země,the world
 Země,Blue Planet
-Zimbabwe,Zimbabwe
+Země,Earth
+Země,earth
+Země,the world
 Zimbabwe,Republic of Zimbabwe
+Zimbabwe,Zimbabwe
 Zöld fok,Cape Verde
 Zöld fok,Republic of Cape Verde
 a,and
@@ -560,16 +566,6 @@ a,as well as
 a,in addition to
 a,together with
 a,too
-i,and
-i,as well as
-i,in addition to
-i,together with
-i,too
-ale,and
-ale,as well as
-ale,in addition to
-ale,together with
-ale,too
 abakus,abacus
 abchazština,Abkhaz
 abchazština,Abkhazian
@@ -620,11 +616,8 @@ akceptace,acceptance
 akceptace,credence
 akne,acne
 akordeon,accordion
-akordeon,squeeze box
 akordeon,piano accordion
-harmonika,accordion
-harmonika,squeeze box
-harmonika,piano accordion
+akordeon,squeeze box
 aktinium,actinium
 aktivita na pevnině,land-based activity
 aktivita seismická,seismic activity
@@ -645,33 +638,34 @@ akustický filtr,audio filter
 akustika,acoustics
 akvadukt,aqueduct
 akvárium,aquarium
-akční skupina,action group
 akční skupina,action committee
+akční skupina,action group
 albinedd,albinism
 alchymie,alchemy
+ale,and
+ale,as well as
+ale,in addition to
+ale,together with
+ale,too
 alegorie,allegory
 alergen,allergen
 alergie,allergy
-algicid,algicide
 algicid,algaecide
+algicid,algicide
 alibi,alibi
 alicyklická sloučenina,alicyclic compound
 alicyklický uhlovodík,alicyclic hydrocarbon
 alifatická sloučenina,aliphatic compound
 alifatický uhlovodík,aliphatic hydrocarbon
 alkalická půda,alkali soil
-alkalické,alkaline
-alkalické,element of group I
-alkalické,alkaline metal
 alkalické,alkali metal
-prvky skupiny I,alkaline
-prvky skupiny I,element of group I
-prvky skupiny I,alkaline metal
-prvky skupiny I,alkali metal
+alkalické,alkaline
+alkalické,alkaline metal
+alkalické,element of group I
 alkan,alkane
-alkan,paraffin
-alkan,methane series
 alkan,alkane series
+alkan,methane series
+alkan,paraffin
 alkohol,alcohol
 alkoholismus,alcoholism
 alkylická sloučenina,alkyl compound
@@ -701,7 +695,6 @@ analytická metoda,analytical method
 analytické zařízení,analytical equipment
 analýza,analysis
 analýza biologická,biological analysis
-biologická analýza,biological analysis
 analýza chemická,chemical analysis
 analýza chromatografická,chromatographic analysis
 analýza dat,data analysis
@@ -712,7 +705,6 @@ analýza látek reziduálních,residue analysis
 analýza látek znečišťujících,pollutant analysis
 analýza matematická,mathematical analysis
 analýza mikrobiologická,microbiological analysis
-mikrobiologická analýza,microbiological analysis
 analýza nákladů a přínosů,cost-benefit analysis
 analýza procesu,process analysis
 analýza rizik přírodních,natural risk analysis
@@ -766,6 +758,7 @@ argon,argon
 aristokracie,aristocracy
 aritmetika,arithmetic
 aritmetika,arithmetics
+arktický ekosystém,Arctic ecosystem
 arménský,Armenian
 arménština,Armenian
 aromatická sloučenina,aromatic compound
@@ -791,15 +784,15 @@ astrometrie,astrometry
 astronautika,astronautics
 astronom,astronomer
 astronomie,astronomy
+asturština,Astur
 asturština,Astur-Leonese
 asturština,Asturian
 asturština,Asturian-Leonese
-asturština,Astur
 asymptota,asymptote
 ateista,atheist
 atlas,atlas
-atlas rostlin,flora (document)
 atlas rostlin,flora
+atlas rostlin,flora (document)
 atmosféra,atmosphere
 atmosférické srážky,atmospheric precipitation
 atmosférické srážky,precipitation
@@ -813,12 +806,11 @@ audiovizuální prezentace,audio-visual presentation
 audiovizuální technika,audiovisual equipment
 audit,audit
 aukce,auction
-dražba,auction
 autobus,bus
 autobus,coach
 autoekologie,autoecology
-automobil,car
 automobil,automobile
+automobil,car
 automobilový katalyzátor,catalytic converter
 autoritářský,authoritarian
 autorství,authorship
@@ -842,21 +834,23 @@ bariéra protihluková,noise barrier
 barmština,Burmese
 barometr,barometer
 baron,baron
+barva,colo(u)r
+barva,colo(u)r
+barva,colo(u)r
+barva,colour
+barva,colour
+barva,colour
+barva,colour
+barva,colour
+barva,colour
 barva,dye
-barva,colour
-barva,colour
-barva,colo(u)r
-barva,colour
-barva,colour
-barva,colo(u)r
-barva,colour
-barva,colour
-barva,colo(u)r
 baryum,barium
 baseball,baseball
 baseball,baseball game
 basketbal,basketball
 basketbal,basketball game
+baskičtina,Basque
+baskičtina,Basque
 bastardizace fauny,bastardisation of fauna
 bastardizace flóry,bastardisation of flora
 baterie,battery
@@ -866,7 +860,6 @@ baterie knoflíková,button-cell battery
 bavlna,cotton
 bazén,swimming pool
 bačkora,slipper
-pantofle,slipper
 bažant,pheasant
 bengálština,Bengali
 bengálština,Bengali
@@ -882,9 +875,9 @@ bez,elder
 bez,elderberry
 bezhlučná technologie,noise-free technology
 bezobratlovec,invertebrate
-bezobratlí [Coelenterate],coelenterate
-bezobratlí (Coelenterate),coelenterate
 bezobratlí,coelenterate
+bezobratlí (Coelenterate),coelenterate
+bezobratlí [Coelenterate],coelenterate
 bezpečnost,safety
 bezpečnost,security
 bezpečnost ovzduší,air safety
@@ -902,13 +895,16 @@ biocenóza,biocoenosis
 biochemický proces,biochemical process
 biochemie,biochemistry
 biocid,biocide
+biodegradace,biodegradation
 biodiverzita,biodiversity
 biofyzika,biophysics
 biogeochemický cyklus,biogeochemical cycle
+biogeografický region,biogeographical region
 biogeografie,biogeography
 bioklimatologie,bioclimatology
 biologicky neodbouratelná znečišťující látka,non-biodegradable pollutant
 biologicky odbouratelná znečišťující látka,biodegradable pollutant
+biologická analýza,biological analysis
 biologická bezpečnost,biosafety
 biologická bilance vody,biological water balance
 biologická dostupnost,bio-availability
@@ -917,6 +913,7 @@ biologická odbouratelnost,biodegradability
 biologická produkce,biological production
 biologická vlastnost,biological attribute
 biologická znečišťující látka,biological pollutant
+biologické monitorování,biological monitoring
 biologické znečištění,biological pollution
 biologické zpracování odpadů,biological waste treatment
 biologické čištění,biological treatment
@@ -928,8 +925,8 @@ biologický vývoj,biological development
 biologický zdroj,biological resource
 biologický účinek,biological effect
 biologický účinek znečištění,biological effect of pollution
-biologie,biology
 biologie,biological science
+biologie,biology
 biologie,life science
 biologie rostlin,plant biology
 biologie v ústí řeky,estuarine biology
@@ -961,20 +958,20 @@ bod,point
 bod varu,boiling point
 bohrium,bohrium
 bonsai,bonsai
-borovice,pino
 borovice,pine
+borovice,pino
 bosenština,Bosnian
 bosenština,Bosnian
 botanická zahrada,botanical garden
 botanický skleník,botanical conservatory
 botanika,botany
-botanika,phytology
 botanika,botany
+botanika,phytology
 bouře,storm
 bouře,tempest
 bouřka,thunderstorm
-brambor,potato
 brambor,patato
+brambor,potato
 bretonský,Breton
 bretonský,Breton
 bretonština,Breton
@@ -986,10 +983,10 @@ brzký,early
 bróm,bromine
 brýle,glasses
 brýle,spectacles
-bubble policy [povolení obchodovatelná emisní],bubble policy (emissions trading)
-bubble policy [povolení obchodovatelná emisní],bubble policy
-bubble policy,bubble policy (emissions trading)
 bubble policy,bubble policy
+bubble policy,bubble policy (emissions trading)
+bubble policy [povolení obchodovatelná emisní],bubble policy
+bubble policy [povolení obchodovatelná emisní],bubble policy (emissions trading)
 budova,building
 budova ministerstva,ministry
 budova ministerstva,ministry building
@@ -1008,8 +1005,8 @@ buňka,cell
 bydlení,housing
 byrokratizace,bureaucratisation
 bázlivá úcta,awe
-bílkovina,protein
 bílkovina,poly peptide
+bílkovina,protein
 bílý,white
 bór,boron
 býložravec,herbivore
@@ -1027,6 +1024,7 @@ běloruština,Belarusian
 běloruština,Belorussian
 běloruština,Byelorussian
 bělící proces,bleaching process
+břeh,bank
 břeh mořský,seashore
 březen,March
 celer,celery
@@ -1039,20 +1037,18 @@ centrum města,city centre
 cer,cerium
 certifikát,certification
 cesium,caesium
-cesta,route
 cesta,path
+cesta,route
 cestování,travel
 cestování mimo špičku,off-peak travelling
 charakter terénu,landform
 charvátština,Croatian
 charvátština,Croation
-chorvatština,Croatian
-chorvatština,Croation
 chemická přísada,chemical addition
 chemická reakce,chemical reaction
 chemická redukce,chemical reduction
-chemická sloučenina,compound
 chemická sloučenina,chemical compound
+chemická sloučenina,compound
 chemické znečištění,chemical contamination
 chemické znečištění,chemical pollution
 chemické zpracování,chemical treatment
@@ -1090,7 +1086,6 @@ chobotnice,octopus
 chodidlo,foot
 cholesterol,cholesterol
 choroba přenosná ze zvířete na člověka,zoonosis
-zoonóza,zoonosis
 choroba rostlin,plant disease
 choroba ryb,fish disease
 choroba v důsledku znečištění životního prostředí,environmentally related disease
@@ -1098,6 +1093,8 @@ choroba z ozáření,radiation sickness
 choroba z povolání,occupational disease
 choroba zvířat,animal disease
 chorologie,chorology
+chorvatština,Croatian
+chorvatština,Croation
 chov drůbeže,poultry farming
 chov ptactva,aviculture
 chov ryb,fish farming
@@ -1115,8 +1112,8 @@ chráněné druhy,protected species
 chudoba,poverty
 chvilku,awhile
 chytání ryb,fishing
-chřipka,influenza
 chřipka,flu
+chřipka,influenza
 cibule,onion
 cigareta,cigarette
 cihla,brick
@@ -1134,12 +1131,12 @@ cyklón,cyclone
 cyrilice,Cyrillic alphabet
 cytologie,cytology
 cytotoxicita,cytotoxicity
+czech,english
 cíl individuálních ekonomických aktivit,goal of individual economic business
 cíl kvality,quality objective
 cíl kvality životního prostředí,environmental quality objective
 cín,tin
 dagestán,Dagestan
-Dagestán,Dagestan
 dar,donation
 darmstadtium,darmstadtium
 data z oblasti životního prostředí,environmental data
@@ -1190,7 +1187,6 @@ devět,nine
 dezinfekce,disinfection
 dezinfekční přípravek,disinfectant
 deště kyselé,acid rain
-kyselý déšť,acid rain
 dialýza,dialysis
 dibenzodioxin polychlorovaný,polychlordibenzo-p-dioxin
 dibenzofuran polychlorovaný,polychlorinated dibenzofuran
@@ -1206,8 +1202,8 @@ diskriminace,discrimination
 diskuse o energii jaderné,nuclear debate
 diskuse veřejná,public discussion
 diskuse vědecká,scientific dispute
-distribuce celosvětová [rozložení celosvětové?],international distribution
 distribuce celosvětová (rozložení celosvětové?),international distribution
+distribuce celosvětová [rozložení celosvětové?],international distribution
 distribuce zboží,distributive trade
 dlouhý,long
 dluh,debt
@@ -1228,11 +1224,9 @@ dokumentační systém,documentary system
 domácnost,household
 domácí spotřebič,domestic appliance
 dopad hluku na zdraví,health effect of noise
-dopad na životní prostředí,environmental consequence
 dopad na životní prostředí,effect on the environment
 dopad na životní prostředí,environmental consequence
-vliv na prostředí životní,effect on the environment
-vliv na prostředí životní,environmental consequence
+dopad na životní prostředí,environmental consequence
 doplňkový obal,additional packaging
 doporučení,advice
 doporučení,recommendation
@@ -1248,15 +1242,16 @@ dovoz,import
 dozorce,attendant
 "doúprava vody, dočištění vod odpadních",post-treatment
 draslík,potassium
-dravec [pták],bird of prey
 dravec (pták),bird of prey
+dravec [pták],bird of prey
+dražba,auction
 dromedár,dromedary
 drtič odpadů,refuse shredder
 druh,species
 druh dopravy,mode of transportation
 druh energie,energy type
-druh rostlinný Posidonia,posidonia
 druh rostlinný Posidonia,neptunegrass
+druh rostlinný Posidonia,posidonia
 druhy endemické,endemic species
 druhy exotické,exotic species
 druhy ohrožené rostlinné,endangered plant species
@@ -1293,15 +1288,15 @@ dyslexie,dyslexia
 dysprosium,dysprosium
 dálková doprava,long-distance traffic
 dálkové monitorování,remote sensing
-dálnice,motorway
-dálnice,pike
 dálnice,expressway
 dálnice,freeway
+dálnice,highway
+dálnice,motorway
+dálnice,pike
 dálnice,state highway
 dálnice,superhighway
 dálnice,throughway
 dálnice,thruway
-dálnice,highway
 dánský,Danish
 dánština,Danish
 dávat pozor,attend
@@ -1315,6 +1310,7 @@ déšť,rain
 dílo kinematografické,cinematographic film
 dílo vodní,hydraulic construction
 dítě,child
+dívka,girl
 dýchací ústrojí,respiratory system
 dědická správa,patrimonial management
 dědictví biologické,biological heritage
@@ -1328,7 +1324,6 @@ děkuji,thanks
 dělba práce mezinárodní,international division of labour
 dělení,division
 děvče,girl
-dívka,girl
 dřevěný výrobek,wood product
 důl,mine
 dům ekologický,green building
@@ -1348,9 +1343,9 @@ ekologické vozidlo,clean air car
 ekologické účetnictví,ecological bookkeeping
 ekologické účetnictví,environmental accounting
 ekologický aspekt lidských sídel,environmental aspect of human settlements
-ekologický audit,environmental statement (eco-audit)
-ekologický audit,environmental statement
 ekologický audit,eco-audit
+ekologický audit,environmental statement
+ekologický audit,environmental statement (eco-audit)
 ekologický boj,environmental warfare
 ekologický faktor,ecological factor
 ekologický parametr,ecological parameter
@@ -1371,6 +1366,7 @@ ekologie živočichů,animal ecology
 ekonomicko-ekologická efektivnost,economical-ecological efficiency
 ekonomická analýza,economic analysis
 ekonomická bilance,balance
+ekonomická geografie,economic geography
 ekonomická podpora,economic support
 ekonomická politika,economic policy
 ekonomická předpověď,economic forecasting
@@ -1399,7 +1395,6 @@ ekonomika rybářství,fishery economics
 ekoregion,ecozone
 ekosystém,ecosystem
 ekosystém arktický,Arctic ecosystem
-arktický ekosystém,Arctic ecosystem
 ekosystém lesní,forest ecosystem
 ekosystém mezinárodně významný,internationally important ecosystem
 ekosystém mořský,marine ecosystem
@@ -1458,8 +1453,8 @@ energie větrná,wind power
 energie z biomasy,biomass energy
 energie z ropy,oil-based energy
 enterovirus,enterovirus
-environmentalistika [ekologie],environmentalism
 environmentalistika (ekologie),environmentalism
+environmentalistika [ekologie],environmentalism
 environmentální audit,environmental auditing
 environmentální lékařství,environmental medicine
 environmentální management,environmental management
@@ -1505,8 +1500,8 @@ explicitní,explicit
 exploze,explosion
 extenzivní chov dobytka,extensive cattle farming
 externalita,externality
-faerský,Faroese
 faerský,Faeroese
+faerský,Faroese
 fagot,bassoon
 faktor emisní,emission factor
 faktor geogenní,geogenic factor
@@ -1537,13 +1532,12 @@ finance komunální,local finance
 finance veřejné,public finance
 financování,financing
 financování veřejné,public financing
-veřejné financování,public financing
 finanční prostředky Společenství,Community finance
 finština,Finnish
-firma,firm
+firma,company
 firma,corporation
 firma,enterprise
-firma,company
+firma,firm
 firma,venture
 firma nadnárodní,multinational firm
 fixace dusíku,nitrogen fixation
@@ -1554,8 +1548,8 @@ fluidika,fluidics
 fluidizace,fluidisation
 fluorizace,fluoridation
 fluór,fluorine
-flóra,flora (biology)
 flóra,flora
+flóra,flora (biology)
 folklór,folklore
 fond finanční,financial fund
 fond intervenční,intervention fund
@@ -1569,7 +1563,6 @@ forma vlády,form of government
 fosfor,phosphorus
 fosforečnan,phosphate
 fosilie,fossil
-zkamenělina,fossil
 fosilní palivo,fossil fuel
 fotbal,football
 fotoaparát,camera
@@ -1604,6 +1597,7 @@ fytoplankton,phytoplankton
 fytosociologie,phytosociology
 fytotoxicita,phytotoxicity
 fyzika,physics
+fyzika atmosféry,atmospheric physics
 fyzika radiační,radiation physics
 fyzikální chemie,physical chemistry
 fyzikální věda,physical science
@@ -1634,8 +1628,8 @@ genetická odchylka,genetic variation
 genetický vliv,genetic effect
 genetika,genetics
 genocida,genocide
-genofond,genetic pool
 genofond,gene pool
+genofond,genetic pool
 genom,genome
 genotoxicita,genotoxicity
 genotyp,genotype
@@ -1645,7 +1639,6 @@ geofyzika,geophysics
 geografický informační systém,geographic information system
 geografie,geography
 geografie ekonomická,economic geography
-ekonomická geografie,economic geography
 geografie fyzikální,physical geography
 geografie politická,political geography
 geologický průzkum,exploration
@@ -1674,8 +1667,8 @@ glosář,glossary
 glykolýza,glycolysis
 golf,golf
 gorila,gorilla
-gramatika,grammer
 gramatika,grammar
+gramatika,grammer
 granulometrie,granulometry
 graviton,graviton
 gruzínština,Georgian
@@ -1691,6 +1684,9 @@ halogenovaná sloučenina,halogenated compound
 halogenovaná znečišťující látka,halogenated pollutant
 halogenovaný bifenyl,halogenated biphenyl
 halogenovaný uhlovodík,halogenated hydrocarbon
+harmonika,accordion
+harmonika,piano accordion
+harmonika,squeeze box
 harmonizace předpisů právních,harmonisation of law
 harém,harem
 hassium,hassium
@@ -1736,9 +1732,9 @@ hliníková nádoba,aluminium container
 hlodavec,rodent
 hluchý,deaf
 hluk,noise
+hluk,noise
 hluk,"noise, vibrations"
 hluk,racket
-hluk,noise
 hluk přenášený vzduchem,airborne noise
 hluk přerušovaný,intermittent noise
 hluk v pozadí,background noise
@@ -1756,8 +1752,8 @@ hlukové znečištění,noise pollution
 hmota nátěrová,paint
 hmota pohonná,propellant
 hmotnost,weight
-hmyz,insect
 hmyz,bug
+hmyz,insect
 hmyz,põrnikas
 hmyz [Heteroctera],bug
 hmyz [Heteroctera],põrnikas
@@ -1792,8 +1788,8 @@ hodnota agronomická,agronomic value
 hodnota potravy výživná,nutritive value of food
 hodnota pozemku,land value
 holmium,holmium
-holub,pigeon
 holub,dove
+holub,pigeon
 homeostáza,homeostasis
 homologace,homologation
 homonymum,homonym
@@ -1811,8 +1807,8 @@ hospodářský sektor,economic sector
 hospodářství lesní,forest management
 hospodářství vodní komunální,municipal water management
 hospodářství závlahové,irrigation farming
-houba,mushroom
 houba,fungus
+houba,mushroom
 houba mořská,poriferan
 houba stopkovýtrusná,basidiomycete
 hovězí dobytek,beef cattle
@@ -1826,11 +1822,10 @@ hranice správní,administrative boundary
 hranice státní,national boundary
 hrom,thunder
 hromadné sdělovací prostředky,mass media
-masmédia,mass media
 hrot šípu,arrowhead
 hruška,pear
-hráz,perineum
 hráz,dyke
+hráz,perineum
 hudba,music
 hudební nástroj,instrument
 hudební nástroj,musical instrument
@@ -1862,21 +1857,19 @@ hygiena potravin,food hygiene
 hygiena prostředí životního,environmental health
 hyperonymum,broader term
 hyperonymum,broader terms
-hyperonymum,hypernym
 hyperonymum,holonym
-nadřazené výrazy,broader term
-nadřazené výrazy,broader terms
-nadřazené výrazy,hypernym
-nadřazené výrazy,holonym
+hyperonymum,hypernym
 hypertext,hypertext
 hypofýza,pituitary gland
 hyponymum,hyponym
-hyponymum,narrower terms
 hyponymum,narrower term
-podřazené výrazy,hyponym
-podřazené výrazy,narrower terms
-podřazené výrazy,narrower term
+hyponymum,narrower terms
 hádka,argument
+i,and
+i,as well as
+i,in addition to
+i,together with
+i,too
 identifikace výrobku,product identification
 ideologie,ideology
 ideologie politická,political ideology
@@ -1894,9 +1887,8 @@ imunitní systém,immune system
 imunologická choroba,immunological disease
 imunologie,immunology
 imunotest,immunoassay
-in situ [na místě],in situ
-na místě,in situ
 in situ,in situ
+in situ [na místě],in situ
 index,index
 index biotický,biotic index
 index environmentální,environmental index
@@ -1925,8 +1917,8 @@ informace o výrobku,product information
 informace o životním prostředí,environmental information
 informace pro spotřebitele,consumer information
 informace pro veřejnost,public information
-informatika,informatics
 informatika,computer science
+informatika,informatics
 informatika,information science
 informatika o prostředí životním,environmental informatics
 informační databanka,information clearing-house
@@ -1941,8 +1933,6 @@ informační zdroj,information source
 infrastruktura,infrastructure
 infrazvuk,infrasound
 ingvistika,linguistics
-lingvistika,linguistics
-jazykověda,linguistics
 inhibitor koroze,corrosion inhibitor
 iniciativa občanská,citizen initiative
 inkoust,ink
@@ -1990,8 +1980,8 @@ iont,ion
 iridium,iridium
 irština,Irish
 irština,Irish
-irština,Irish Gaelic
 irština,Irish
+irština,Irish Gaelic
 islandský,Icelandic
 islandština,Icelandic
 italský,Italian
@@ -2017,14 +2007,15 @@ japonština,Japanese
 japonština,Japanese
 jaro,spring
 jateční zvíře,animal for slaughter
-jatka,slaughterhouse
-jatka,slaughter-house
 jatka,abattoir
 jatka,butchery
 jatka,shambles
+jatka,slaughter-house
+jatka,slaughterhouse
 jatky,slaughter-house
 jazyk,language
 jazyk,language
+jazykověda,linguistics
 jazz,jazz
 jed,poison
 jedlý,edible
@@ -2044,11 +2035,12 @@ ještěrka,lizard
 ježkové,hedgehog
 jidiš,Yiddish
 jihovýchodní Asie,Southeast Asia
-jižní Asie,Southern Asia
 jižní Asie,South Asia
+jižní Asie,Southern Asia
 jméno,name
 jméno,proper name
 jméno,proper noun
+judaismus,Judaism
 judo,judo
 jurisdikce,jurisdiction
 já,I
@@ -2063,8 +2055,8 @@ jísti,eat
 jód,iodine
 kabel,cable
 kachna,duck
-kadeřník,hairdresser
 kadeřník,barber
+kadeřník,hairdresser
 kadmium,cadmium
 kaktus,cactus
 kal,sludge
@@ -2086,7 +2078,6 @@ kamufláž,camouflage
 kancelář státního žalobce,public prosecutor's office
 kanál,canal
 kapalina,liquid
-tekutina,liquid
 kapavka,gonorrhea
 kapesník,handkerchief
 kapradina,fern
@@ -2097,9 +2088,8 @@ kardinál,cardinal
 kardiologie,cardiology
 kardiovaskulární systém,cardiovascular system
 karfiol,cauliflower
-květák,cauliflower
-karibská oblast,Caribbean Area
 karibská oblast,Caribbean
+karibská oblast,Caribbean Area
 kariéra,career
 kartografie,cartography
 katalyzátor,catalyst
@@ -2125,34 +2115,31 @@ kaštan,chestnut
 kemp,camping site
 keramika,ceramics
 keř,shrub
-khmerský,Khmer
 khmerský,Central Khmer
-khmerština,Khmer
+khmerský,Khmer
 khmerština,Central Khmer
+khmerština,Khmer
 kinetika reakce,reaction kinetics
 klasifikace dat obrazových,image classification
 klasifikace využití půdy,land use classification
 klih,glue
-klimatická změna,climatic change
 klimatická změna,climate change
+klimatická změna,climatic change
 klimatická změna v důsledku lidské činnosti,man-made climate change
 klimatický experiment,climatic experiment
 klimatický vliv,climatic effect
 klimatický zdroj,climate resource
-klimatizace,air conditioning
 klimatizace,AC
+klimatizace,air conditioning
 klimatizace,air-conditioning
 klimatologie,climatology
 klimax,climax
 klitoris,button
 klitoris,clit
 klitoris,clitoris
-poštěváček,button
-poštěváček,clit
-poštěváček,clitoris
 klonování,cloning
-kloub,joint
 kloub,articulation
+kloub,joint
 klávesnice,keyboard
 klíčení,germination
 kniha,book
@@ -2168,8 +2155,8 @@ kodifikace,codification
 kofein,caffeine
 kogenerace,cogeneration
 kokain,cocaine
-kokosový ořech,kokosnoot
 kokosový ořech,coconut
+kokosový ořech,kokosnoot
 koks,coke
 kolaudace zařízení,approval of installations
 kolo jízdní,bicycle
@@ -2201,10 +2188,8 @@ komunikační prostředky,means of communication
 komunikační systém,communications system
 komunismus,communism
 komunita nová,new community
-komár,musquito
 komár,mosquito
-moskyt,musquito
-moskyt,mosquito
+komár,musquito
 komín,chimney
 koncentrace,concentration
 koncentrace ekonomická,economic concentration
@@ -2241,8 +2226,8 @@ konzervace potravin,food preservation
 konzervační prostředek,preservative
 konzultace,consultation
 konzumní chování,consumer behaviour
-koně [Equidae],equine
 koně (Equidae),equine
+koně [Equidae],equine
 koordinace,co-ordination
 kopec,colina
 kopec,hill
@@ -2269,8 +2254,8 @@ korýš,crustacean
 kos,blackbird
 kosmetický průmysl,cosmetic industry
 kosmologie,cosmology
-kosočtverec,rhombus
 kosočtverec,rhomb
+kosočtverec,rhombus
 kostel,church
 kostka,dice
 kostka,die
@@ -2280,8 +2265,8 @@ kotel,boiler
 kotník,ankle
 kotník,talocrural joint
 kotva,anchor
-kouř,smoke
 kouř,fume
+kouř,smoke
 kouření,smoking
 kov,metal
 kov barevný,non-ferrous metal
@@ -2316,6 +2301,7 @@ kritérium monitoringu,monitoring criterion
 kritérium účinnosti,efficiency criterion
 kritérium životního prostředí,environmental criterion
 krmení zvířat,feeding of animals
+krocan,turkey
 krokodýl,crocodile
 kroužkovec,annelid
 krucifix,crucifix
@@ -2345,9 +2331,10 @@ kvalita životního prostředí,environmental quality
 kvasinky,yeast
 květ řas,algal bloom
 květen,May
-květina,flower
 květina,bloom
 květina,blossom
+květina,flower
+květák,cauliflower
 kyanat,cyanate
 kyanid,cyanide
 kyselina,acid
@@ -2357,6 +2344,7 @@ kyselina nukleová,nucleic acid
 kyselina zředěná,diluted acid
 kyselost,acidity
 kyselá depozice,acid deposition
+kyselý déšť,acid rain
 kyslík,oxygen
 kyslík rozpuštěný,dissolved oxygen
 kámen,stone
@@ -2380,8 +2368,8 @@ lampa,light
 lanthan,lanthanum
 laoština,Lao
 laoština,Lao
-laser,laser
 laser,Light Amplification by Stimulated Emission of Radiation
+laser,laser
 latina,Latin
 latina,Latin
 lavina,avalanche
@@ -2390,8 +2378,8 @@ lawrencium,lawrencium
 lebka,skull
 led,ice
 leden,January
-lednice,refrigerator
 lednice,fridge
+lednice,refrigerator
 ledovec,glacier
 ledvina,kidney
 legislativa,legislation
@@ -2424,9 +2412,6 @@ lepidlo,adhesive
 leptací látka,etching substance
 leptání,etching
 lepší,better
-líp,better
-lépe,better
-lépe,better
 les,forest
 les,wood
 les deštný,rain forest
@@ -2458,8 +2443,8 @@ letecký snímek,aerial photograph
 letiště,airport
 leukémie,leukaemia
 lev,lion
-levandule,lavender
 levandule,lavander
+levandule,lavender
 liberalismus,liberalism
 licence dovozní,import licence
 licence v oblasti prostředí životního,environmental licence
@@ -2470,6 +2455,7 @@ lignit,lignite
 limit imisní,immission limit
 limit přípustného vystavení,permissible exposure limit
 limnologie,limnology
+lingvistika,linguistics
 linie,line
 linie politiky,policy guideline
 lipid,lipid
@@ -2510,11 +2496,10 @@ loď ke sběru ropy,oil recovery vessel
 loď rybářská,fishing vessel
 lože fluidizované,fluidised bed
 ložisko nerostných surovin,mineral deposit
+lucemburština,Luxembourgian
 lucemburština,Luxembourgish
 lucemburština,Luxemburgish
-lucemburština,Luxembourgian
 lucerna,lantern
-svítilna,lantern
 luk,bow
 lutecium,lutetium
 lučištník,archer
@@ -2536,11 +2521,9 @@ látka nebezpečná pro prostředí životní,environmentally dangerous substanc
 látka nerozpustná,insoluble substance
 látka radioaktivní,radioactive substance
 látka stopovací radioaktivní,radioactive tracer
-radioaktivní stopovací látka,radioactive tracer
 látka toxická,toxic substance
 látka těkavá,volatile substance
 látka značkovací,marker
-značkovací látka,marker
 látka znečištěná,polluted matter
 látka znečišťující ovzduší,air pollutant
 látka znečišťující potraviny,food pollutant
@@ -2552,7 +2535,10 @@ lékařství,medicine
 lékařství,medicine (practice)
 lékárník,chemist
 lékárník,pharmacist
+lépe,better
+lépe,better
 léto,summer
+líp,better
 lístek lovecký,hunting licence
 lístek rybářský,fishing licence
 lžíce,spoon
@@ -2589,9 +2575,10 @@ mapování,mapping
 mapování lišejníků,mapping of lichens
 marketing,marketing
 maráthský,Marathi
-maráthský,Marāthi
-maráthský,Marāthi
 maráthský,MarÄthi
+maráthský,Marāthi
+maráthský,Marāthi
+masmédia,mass media
 maso,meat
 masožravci,carnivore
 matematika,mathematics
@@ -2628,45 +2615,45 @@ metabolit,metabolite
 metafyzika,metaphysics
 metainformace,metainformation
 metalurgie,metallurgy
-metan,methane
 metan,marsh gas
+metan,methane
 metan,methyl hydride
 metanizace,methanisation
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,shooting star
+meteor,falling star
+meteor,falling star
+meteor,falling star
+meteor,falling star
 meteor,falling star
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
-meteor,shooting star
-meteor,falling star
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,shooting star
-meteor,falling star
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
 meteor,shooting star
-meteor,falling star
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
 meteor,shooting star
-meteor,falling star
+meteor,shooting star
+meteor,shooting star
 meteorit,meteorite
 meteorologický jev,meteorological phenomenon
 meteorologie,meteorology
@@ -2708,6 +2695,7 @@ migrace látky znečišťující,pollutant migration
 migrace osob,human migration
 migrace vnitrostátní,internal migration
 migrace živočichů,animal migration
+mikrobiologická analýza,microbiological analysis
 mikrobiologie,microbiology
 mikroekosystém,microecosystem
 mikroelektronika,microelectronics
@@ -2764,7 +2752,6 @@ monitorovací stanice,monitoring station
 monitorovací zařízení,monitoring equipment
 monitorování atmosféry,atmospheric monitoring
 monitorování biologické,biological monitoring
-biologické monitorování,biological monitoring
 monitorování kvality ovzduší,air quality monitoring
 monitorování látky znečišťující,pollutant monitoring
 monitorování mořské,marine monitoring
@@ -2775,9 +2762,12 @@ monopol,monopoly
 morfin,morphine
 morfologie,morphology
 morče domácí,guinea pig
+moskyt,mosquito
+moskyt,musquito
 most,bridge
-motocykl,motorcycle
+moteto,motet
 motocykl,motorbike
+motocykl,motorcycle
 motor,engine
 motor benzinová,gasoline engine
 motor naftový,diesel engine
@@ -2825,8 +2815,8 @@ mír,peace
 mísitelnost,miscibility
 místní doprava,local traffic
 místní osobní doprava,local passenger service
-místo,place
 místo,location
+místo,place
 místo dědictví světového,world heritage site
 místo hloubení,excavation site
 místo určení při dopravě,destination of transport
@@ -2855,18 +2845,23 @@ měření znečištění fyzikální,physical measurement of pollution
 měření zvuku,sound measurement
 měřící přístroj,measuring instrument
 na břehu,ashore
+na místě,in situ
 nabídka a poptávka,supply and demand
 nadvláda,ascendancy
 naděje,hope
-nafta motorová,diesel fuel
+nadřazené výrazy,broader term
+nadřazené výrazy,broader terms
+nadřazené výrazy,holonym
+nadřazené výrazy,hypernym
 nafta motorová,diesel
+nafta motorová,diesel fuel
 nafta surová,crude oil
 nahromadění ker ledových,ice pack
 naplavenina,silt
 naplaveniny,alluvion
 naplaveniny,flood
-naplaveniny,overflowing
 naplaveniny,inundation
+naplaveniny,overflowing
 napětí,voltage
 napětí povrchové,surface tension
 napětí pro prostředí životní,environmental anxiety
@@ -2878,13 +2873,6 @@ narození,childbirth
 narození,childbirth
 narození,childbirth
 narození,parturition
-porod,birth
-porod,birth
-porod,birth
-porod,childbirth
-porod,childbirth
-porod,childbirth
-porod,parturition
 narušení soutěže hospodářské,distortion of competition
 nastavit,adjust
 nauka o materiálech,materials science
@@ -2908,14 +2896,14 @@ nebo,or
 neděle,Sunday
 nekovy,non-metal
 nemluvně,infant
+nemoc,affliction
 nemoc,disease
 nemoc,illness
-nemoc,affliction
 nemoc infekční,infectious disease
 nemoc kardiovaskulární,cardiovascular disease
 nemoc psychosomatická,psychosomatic illness
-nemocnice,hospital
 nemocnice,clinic
+nemocnice,hospital
 nemovitost zemědělská,agricultural real estate
 nenávist,hate
 nenávist,hatred
@@ -2956,8 +2944,8 @@ nizozemština,Dutch
 ničení zdrojů přírodních,degradation of natural resources
 nobelium,nobelium
 noga,leg
-norma,standard
 norma,norm
+norma,standard
 norma ISO,ISO standard
 norma emisní,emission standard
 norma evropská,European standard
@@ -2978,10 +2966,10 @@ novinář,journalist
 nové zařízení,new installation
 nový,new
 nový,novel
-"nozdra,",nostril
 nozdra,nostril
-nula,zero
+"nozdra,",nostril
 nula,null
+nula,zero
 náboženství,religion
 nábytek,furniture
 nádor,neoplasm
@@ -2997,8 +2985,8 @@ náhrada škody,indemnity
 náhražka fosforečnanů,phosphate substitute
 nákladní auto,lorry
 nákladní doprava,freight transport
-náklady,expenditure
 náklady,cost
+náklady,expenditure
 náklady a přínosy,cost-benefit
 náklady na ochranu prostředí životního,environmental protection cost
 náklady na odstranění znečištění,pollution cost
@@ -3024,7 +3012,6 @@ nárt,instep
 nárůsty živočichů mořských,fouling growth
 násep,bank
 násep,bank
-břeh,bank
 nástroj ekonomického řízení,economic management instrument
 nástroj finanční,financial instrument
 nástroj politiky,policy instrument
@@ -3043,15 +3030,14 @@ němčina,German
 němčina (Rakousko),German (Austria)
 němčina (Švýcarsko),German (Switzerland)
 nůž,knife
-obal,covering
-obal,roofing
 obal,container
+obal,covering
 obal,packaging
+obal,roofing
 obal nevratný,non-returnable container
 obchod,shop
 obchod,trade
 obchod,trade
-povolání,trade
 obchod a spotřeba,trade and consumption
 obchod mezi Východem a Západem,East-West trade
 obchod s barvami a laky,paint shop
@@ -3105,8 +3091,8 @@ oblast venkovská,rural area
 obléci,attire
 obnova fauny,fauna restoration
 obnova flóry,flora restoration
-obnova místa těžby,mining site restoration
 obnova místa těžby,mine reclamation
+obnova místa těžby,mining site restoration
 obnova zařízení,installation restoration
 obohacování,enrichment
 obojživelník,amphibian
@@ -3127,10 +3113,10 @@ oběžník,circular mail
 ocel,steel
 ocenění zdrojů,resource appraisal
 ocet,vinegar
-oceán,ocean
-oceán,sea
 oceán,body of water
 oceán,bounding main
+oceán,ocean
+oceán,sea
 oceánografie,oceanography
 ochrana,conservation
 ochrana biotopu,biotope protection
@@ -3175,13 +3161,12 @@ ochrana životního prostředí,environmental protection
 ochrana životního prostředí v podniku,environmental protection in the enterprise
 ochrana živočichů,animal protection
 ochranné opatření,protective measure
-ochranný plášť jaderného reaktoru,containment (nuclear industry)
 ochranný plášť jaderného reaktoru,containment
+ochranný plášť jaderného reaktoru,containment (nuclear industry)
 ochranný systém,protection system
 odbory zaměstnanecké,trades union
 odbouratelnost,degradability
 odbourávání biologické,biodegradation
-biodegradace,biodegradation
 odbourávání látky znečišťující,pollutant degradation
 odběr vody podzemní,exploitation of underground water
 odchov umělý,brooding
@@ -3212,8 +3197,8 @@ odpady organické,organic waste
 odpady pastovité,paste-like waste
 odpady plastové,plastic waste
 odpady průmyslové,industrial waste
-odpady radioaktivní,radioactive waste
 odpady radioaktivní,nuclear waste
+odpady radioaktivní,radioactive waste
 odpady reziduální,residual waste
 odpady spotřební,consumer waste
 odpady velkorozměrné,bulky waste
@@ -3254,8 +3239,8 @@ odvětví lesní a dřevozpracující,forest industry
 odvětví pro dodávku a rozvod elektřiny,electricity supply industry
 odvětví právní,law branch
 oděv,attire
-oděvy,clothing
 oděvy,apparel
+oděvy,clothing
 odškodnění,compensation for damage
 ohm,ohm
 ohnivzdorná látka,fireproofing agent
@@ -3270,8 +3255,8 @@ okurka,cucumber
 olej dnový,bilge oil
 olej ropný,mineral oil
 olej rostlinný,vegetable oil
-olej topný,fuel oil
 olej topný,domestic fuel oil
+olej topný,fuel oil
 oligarchie,oligarchy
 oligopol,oligopoly
 olovo,lead
@@ -3279,9 +3264,9 @@ omezování znečištění,pollution abatement
 onkologie,oncology
 ontogeneze,ontogenesis
 ontogeneze,ontogenesis
+ontogeneze,ontogenesis
+ontogeneze,ontogenesis
 ontogeneze,ontogeny
-ontogeneze,ontogenesis
-ontogeneze,ontogenesis
 ontogeneze,ontogeny
 ontologie,ontology
 opar,mist
@@ -3295,8 +3280,8 @@ opatření regulační,control measure
 opatření v období sucha,drought control
 opera,opera
 opium,opium
-oplodnění,fertilisation
 oplodnění,fecundation
+oplodnění,fertilisation
 opravářské služby,repair business
 oprávnění,authorisation
 oprávnění oficiální,mandate
@@ -3329,8 +3314,8 @@ opuštěné vozidlo,car wreck
 orchestr,orchestra
 orchidea,orchid
 organická chemie,organic chemistry
-organická látka,organic substance
 organická látka,organic matter
+organická látka,organic substance
 organická sloučenina chlóru,organochlorine compound
 organická sloučenina dusíku,organonitrogen compound
 organická sloučenina fosforu,organophosphorous compound
@@ -3383,8 +3368,8 @@ osvědčení o kvalitě,quality certification
 osvětlení,lighting
 otec,father
 otrava,poisoning
-ovce,sheep
 ovce,ovine
+ovce,sheep
 ovoce,fruit
 oxid dusičitý,nitrogen dioxide
 oxid dusný,nitrogen monoxide
@@ -3430,9 +3415,10 @@ palladium,palladium
 památka,monument
 památka přírodní,natural monument
 památková péče,conservation of monuments
-panelák,prefabricated building
 panelový dům,prefabricated building
+panelák,prefabricated building
 panenka,doll
+pantofle,slipper
 papež,pope
 papoušci,parrot
 papír,paper
@@ -3452,8 +3438,8 @@ parkoviště,car park
 parlament,Parliament
 parlamentní diskuze,parliamentary debate
 parní generátor,steam generator
-pastvina,pasture
 pastvina,grazing
+pastvina,pasture
 pastýř,shepherd
 patent,patent
 patogen,pathogen
@@ -3461,13 +3447,13 @@ patologický vliv,pathologic effect
 patologie,pathology
 pavián,baboon
 pavouk,spider
-pavucina,web
-pavucina,spider web
 pavucina,cobweb
-paňdžábština,Punjabi
+pavucina,spider web
+pavucina,web
 paňdžábština,Panjabi
-pec,oven
+paňdžábština,Punjabi
 pec,furnace
+pec,oven
 pedagogika,pedagogy
 pediatr,paediatrician
 pedosféra,pedosphere
@@ -3478,9 +3464,9 @@ pentachlorfenol,pentachlorophenol
 perifyton,periphyton
 periodická tabulka,periodic table
 peroxyacetyldusičnan,peroxyacetylnitrate
+perština,Farsi
 perština,Persian
 perština,Western Farsi
-perština,Farsi
 pes,dog
 pesimismus,pessmism
 pesticid,pesticide
@@ -3490,9 +3476,9 @@ petrochemický průmysl,petrochemical industry
 petrochemikálie,petrochemical
 petrolej,kerosene
 pevninský šelf,continental shelf
-pevný disk,hard disk drive
-pevný disk,hard disk
 pevný disk,HD
+pevný disk,hard disk
+pevný disk,hard disk drive
 pečovat o,attend
 phishing,phishing
 piliny,sawdust
@@ -3581,8 +3567,8 @@ plánování vzdělávací,educational planning
 plánování zóny pobřežní,coastal zone planning
 plánování územní,land planning
 pláž,beach
-pneumatika,tyre
 pneumatika,car tyre
+pneumatika,tyre
 pobřežní hlídka,coastguard
 pobřeží,coast
 podběl,dandelion
@@ -3599,8 +3585,8 @@ podnebí pouštní,desert climate
 podnebí rovníkové,equatorial climate
 podnik elektrárenský,power company
 podnik neekologický,environmentally unfriendly firm
-podnik průmyslový,industrial plant (organism)
 podnik průmyslový,industrial plant
+podnik průmyslový,industrial plant (organism)
 podnik veřejných služeb,public utility
 podnikatel,entrepreneur
 podnikové hospodaření,business economics
@@ -3617,11 +3603,14 @@ podvod,fraud
 podvýživa,malnutrition
 podzim,autumn
 poděkování,thank you
+podřazené výrazy,hyponym
+podřazené výrazy,narrower term
+podřazené výrazy,narrower terms
 pohan,heathen
 pohan,infidel
 pohan,pagan
-pohlaví,sex
 pohlaví,gender
+pohlaví,sex
 pohodlí akustické,acoustic comfort
 pohyb kapitálu volný,free movement of capital
 pohyb obyvatel,population movement
@@ -3638,10 +3627,10 @@ pokuta,penalty
 pokuta za škody na prostředí životním,penalty for environmental damage
 pokyny úřední,administrative instructions
 poldr,polder
+pole,acre
 pole,field
 pole,land
 pole,land
-pole,acre
 pole,patch
 policie,police
 politická doktrína,political doctrine
@@ -3653,8 +3642,8 @@ politika cenová,prices policy
 politika chemická,chemical policy
 politika ekologická komunální,municipal environmental policy
 politika energetická,energy policy
-politika kompenzační [povolení emisní obchodovatelná],offset policy (emissions trading)
 politika kompenzační (povolení emisní obchodovatelná),offset policy (emissions trading)
+politika kompenzační [povolení emisní obchodovatelná],offset policy (emissions trading)
 politika komunální,local government policy
 politika kulturní,cultural policy
 politika lesnická,forest policy
@@ -3671,10 +3660,10 @@ politika průmyslu ekologická,industrial environmental policy
 politika rozpočtová,budget policy
 politika rozšiřování,enlargement policy
 politika rybářská,fishery policy
-politika slučování [povolení emisní obchodovatelná],netting policy (emissions trading)
-politika slučování [povolení emisní obchodovatelná],netting policy
-politika slučování (povolení emisní obchodovatelná),netting policy (emissions trading)
 politika slučování (povolení emisní obchodovatelná),netting policy
+politika slučování (povolení emisní obchodovatelná),netting policy (emissions trading)
+politika slučování [povolení emisní obchodovatelná],netting policy
+politika slučování [povolení emisní obchodovatelná],netting policy (emissions trading)
 politika společnosti,company policy
 politika spolupráce,co-operation policy
 politika stavební,construction policy
@@ -3726,8 +3715,8 @@ popelník,ashtray
 poplach,alarm
 poplach,alert
 poplach,warning
-poplatek,levy
 poplatek,fee
+poplatek,levy
 poplatek za hlukové emise,noise emission levy
 popravèí,executioner
 poptávka,demand
@@ -3737,6 +3726,13 @@ popílek polétavý,fly ash
 poradenství,consultancy
 poradenství politické,political counselling
 porcelán,porcelain
+porod,birth
+porod,birth
+porod,birth
+porod,childbirth
+porod,childbirth
+porod,childbirth
+porod,parturition
 porodit,deliver
 porost travní,grassland
 porovnání výrobku,product comparison
@@ -3750,10 +3746,10 @@ porucha zapříčiněná hlukem,noise disturbance
 porucha zapříčiněná hlukem,noise pollution
 porušení,infraction
 porážet,slaughter
-poskytovatel služeb na internetu,internet service provider
 poskytovatel služeb na internetu,ISP
 poskytovatel služeb na internetu,Internet access provider
 poskytovatel služeb na internetu,Internet service provider
+poskytovatel služeb na internetu,internet service provider
 poslouchat,obey
 posouzení,appraisal
 postavení v zaměstnání,occupational status
@@ -3777,8 +3773,8 @@ potraviny konzervované,preserve
 potraviny zemědělské,agri-foodstuff
 potraviny zpracované,processed foodstuff
 potraviny základní,staple food
-potrubní armatura,fitting (plumbing)
 potrubní armatura,fitting
+potrubní armatura,fitting (plumbing)
 potrubní armatura,plumbing equipment
 potrubní armatura,plumbing fixtures
 potrubí,pipe
@@ -3804,6 +3800,7 @@ povolání,employment
 povolání,job
 povolání,job
 povolání,occupation
+povolání,trade
 povolání,work
 povolání,work
 povolání právnické,legal profession
@@ -3825,9 +3822,12 @@ poškození ozónové vrstvy,ozone layer depletion
 poškození porostu lesního,forest cover destruction
 poškození sluchu,hearing impairment
 pošta,post office
+pošta elektronická,e-mail
 pošta elektronická,electronic mail
 pošta elektronická,email
-pošta elektronická,e-mail
+poštěváček,button
+poštěváček,clit
+poštěváček,clitoris
 požár,fire
 požár lesní,forest fire
 prach,dust
@@ -3876,25 +3876,25 @@ proces fyzikální,physical process
 proces fyzikálně chemický,physicochemical process
 proces geologický,geological process
 proces geomorfologický,geomorphic process
-proces hloubení,excavation (process)
-proces hloubení,excavation
-proces hloubení,earthworks
 proces hloubení,digging
+proces hloubení,earthworks
+proces hloubení,excavation
+proces hloubení,excavation (process)
 proces rozhodovací,decision process
 proces soudní,case
 proces soudní,lawsuit
-proces soudní,trial
 proces soudní,litigation
+proces soudní,trial
 proces zpracování ropy,oil production (chain)
 proces šíření,propagation process
 prodej,distribution
 produkce hnoje,manure production
-produkce potravin [zemědělství],food production (agriculture)
-produkce potravin [zemědělství],food production
-produkce potravin (zemědělství),food production (agriculture)
-produkce potravin (zemědělství),food production
-produkce potravin,food production (agriculture)
 produkce potravin,food production
+produkce potravin,food production (agriculture)
+produkce potravin (zemědělství),food production
+produkce potravin (zemědělství),food production (agriculture)
+produkce potravin [zemědělství],food production
+produkce potravin [zemědělství],food production (agriculture)
 produkt hrubý domácí,GDP
 produkt hrubý domácí,gross domestic product
 produkt hrubý národní,gross national product
@@ -3912,8 +3912,8 @@ program rozšíření,enlargement programme
 program televizní,television programme
 prohlášení o využití majetku soukromého v zájmu veřejnosti,declaration of public utility
 projednávání úřední,official hearing
-projekce,design (project)
 projekce,design
+projekce,design (project)
 projekce,project design
 projekce geografická,geographical projection
 projekt,project
@@ -3933,12 +3933,12 @@ prostor vojenský bývalý,disused military site
 prostor člověka životní,human habitat
 prostor životní,living environment
 prostor životní,living space
-prostranství vnější [plán alokační],outer space (allocation plan)
-prostranství vnější [plán alokační],outer space
-prostranství vnější (plán alokační),outer space (allocation plan)
-prostranství vnější (plán alokační),outer space
-prostranství vnější,outer space (allocation plan)
 prostranství vnější,outer space
+prostranství vnější,outer space (allocation plan)
+prostranství vnější (plán alokační),outer space
+prostranství vnější (plán alokační),outer space (allocation plan)
+prostranství vnější [plán alokační],outer space
+prostranství vnější [plán alokační],outer space (allocation plan)
 prostředek na ochranu rostlin,plant protection product
 prostředek nápravný,legal remedy
 prostředek odstrašující,deterrent
@@ -3963,9 +3963,9 @@ proud mořský,ocean current
 proudění,flow field
 proudění atmosférické,atmospheric circulation
 proudění vzduchu,air movement
-proveditelný,viable
-proveditelný,viable
 proveditelný,feasible
+proveditelný,viable
+proveditelný,viable
 provoz s lázněmi mořicími,pickling plant
 provoz silniční,traffic
 provoz zkušební,pilot plant
@@ -3985,12 +3985,16 @@ prvek stopový,trace element
 prvky radioaktivní,actinide
 prvky skupiny 0,element of group 0
 prvky skupiny 0,noble gas
-prvky skupiny II [kovy zemin alkalických],element of group II (alkaline earth metals)
-prvky skupiny II [kovy zemin alkalických],alkaline earth metal
-prvky skupiny II [kovy zemin alkalických],element of group II
-prvky skupiny II,element of group II (alkaline earth metals)
+prvky skupiny I,alkali metal
+prvky skupiny I,alkaline
+prvky skupiny I,alkaline metal
+prvky skupiny I,element of group I
 prvky skupiny II,alkaline earth metal
 prvky skupiny II,element of group II
+prvky skupiny II,element of group II (alkaline earth metals)
+prvky skupiny II [kovy zemin alkalických],alkaline earth metal
+prvky skupiny II [kovy zemin alkalických],element of group II
+prvky skupiny II [kovy zemin alkalických],element of group II (alkaline earth metals)
 prvky skupiny III,element of group III
 prvky skupiny IV,element of group IV
 prvky skupiny V,element of group V
@@ -4127,6 +4131,8 @@ pták vyvádějící mláďata,breeding bird
 pták zpěvný,songbird
 purifikace,purification
 purin,purin
+puč,coup d'état
+puč,putsch
 pyl,pollen
 pyralen,pyralene
 pyrolýza,pyrolysis
@@ -4143,14 +4149,15 @@ péče o prostředí životní,maintenance of environment
 péče sociální,social protection
 péče sociální,social welfare
 píce,fodder
-píce,provender
 píce,forage
+píce,provender
 pícnina,fodder plant
 písek,sand
 pít,drink
 pít,gulp
 pít,quaff
 pít,sip
+pøeklad,translation
 pěnotvorné prostředky,foaming agent
 pěstování,cultivation
 pěstování,tillage
@@ -4182,7 +4189,6 @@ předpověď imisí,immission forecast
 předpověď povodní,flood forecast
 přehrada,dam
 překládání,translation
-pøeklad,translation
 překvapený,aback
 překážka,obstacle
 překážka,obstruction
@@ -4205,23 +4211,26 @@ přesné strojírenství,precision engineering
 přestupek proti prostředí životnímu,offence against the environment
 přestupný rok,leap year
 přetlakové zařízení,pressure equipment
+převrat,coup d'état
+převrat,putsch
 převzetí,takeover
 přezimování,overwintering
 přidělování půdy,land allotment
 přijatelná úroveň rizika,acceptable risk level
 přijatelný denní příjem,acceptable daily intake
 přijímat,assimilate
-přijít,come
 přijít,attend
+přijít,come
 připravenost na katastrofu,disaster preparedness
+přirozená regenerace,natural regeneration
 přitahovat,attract
 příběh,story
 přídavná látka,additive
 přídavné jméno,adjective
 přídavné jméno,describing word
-přídavné spalování,afterburning
-přídavné spalování,afterburning
 přídavné spalování,afterburner
+přídavné spalování,afterburning
+přídavné spalování,afterburning
 příděl,allocation
 příděl,allotment
 příděl,resource allotment
@@ -4234,8 +4243,8 @@ příprava staveniště,building site preparation
 příprava výrobků pro trh,preparation for market
 přírodní hodnota,natural value
 přírodní kámen,natural stone
-přírodní materiál,natural material
 přírodní materiál,natural fibre
+přírodní materiál,natural material
 přírodní rezervace,nature reserve
 přírodní vědy,natural science
 přírodní zdroj,natural resource
@@ -4275,11 +4284,11 @@ původní technologie,indigenous technology
 racek,gull
 radar,radar
 radio,radio
-rozhlas,radio
-radioaktivita,radioactivity
 radioaktivita,radioactive decay
+radioaktivita,radioactivity
 radioaktivita přirozená,natural radioactivity
 radioaktivní spad,radioactive fallout
+radioaktivní stopovací látka,radioactive tracer
 radioaktivní znečišťující látka,radioactive pollutant
 radionuklid,radionuclide
 radium,radium
@@ -4304,8 +4313,8 @@ recyklace,recycling
 recyklace látek reziduálních,residue recycling
 recyklovatelnost,recyclability
 redukce znečišťující látky,pollutant reduction
-referendum,referendum
 referendum,plebiscite
+referendum,referendum
 referenční informace,referral information
 referenční informační systém,referral information system
 referenční služba,reference service
@@ -4313,10 +4322,8 @@ reflektometrie,reflectometry
 regenerace krajiny,recovery of landscape
 regenerace krajiny,regeneration
 regenerace přirozená,natural regeneration
-přirozená regenerace,natural regeneration
 region,region
 region biogeografický,biogeographical region
-biogeografický region,biogeographical region
 region ekonomický,economic region
 registr znečištění emisemi,emission register
 registrace látek,recording of substances
@@ -4337,8 +4344,8 @@ reliéf,relief (land)
 remobilizace látky znečišťující,pollutant remobilisation
 renaturace,renaturation
 renesance,renaissance
-renovace,återställande
 renovace,rehabilitation
+renovace,återställande
 represe,repression
 resorpce,resorption
 respirace,respiration
@@ -4361,8 +4368,8 @@ rezervace přírodní integrální,integral natural reserve
 rezervace rybářská,fishing preserve
 rezervace rybářská národní,national fishing reserve
 rezidua ze spalování,combustion residue
-rezistence,resistance (biological)
 rezistence,resistance
+rezistence,resistance (biological)
 režim hydrologický,hydrologic flow
 režim vypouštění,discharge regime
 režim využití území,land use regime
@@ -4403,8 +4410,8 @@ rostlina kvetoucí,flowering plant
 rostlina léčivá,medicinal plant
 rostlina nahosemenná,gymnosperm
 rostlina planě rostoucí,wild plant
-rostlina popínavá,climbing plant (wall)
 rostlina popínavá,climbing plant
+rostlina popínavá,climbing plant (wall)
 rostlina pryskyřičná,resinous plant
 rostlina tajnosnubná,cryptogam
 rostlina textilní,textile plant
@@ -4417,6 +4424,7 @@ rotační pec,rotary furnace
 rovnice,equation
 rovnováha zájmů,balancing of interests
 rovník,equator
+rozhlas,radio
 rozhlasový program,radio programme
 rozhodnutí,decision
 rozhodnutí Společenství,Community act
@@ -4446,9 +4454,9 @@ rozpuštěný organický uhlík,dissolved organic carbon
 rozsah znečištění,pollution load
 rozsah účinnosti,efficiency level
 rozsivka,diatom
+rozsudek,judgement
 rozsudek,judgement (sentence)
 rozsudek,sentence
-rozsudek,judgement
 roztavení jádra reaktoru,core meltdown
 roztoč,mite
 rozvod,divorce
@@ -4464,16 +4472,16 @@ rtěnka,lipstick
 rubidium,rubidium
 rubín,ruby
 ruda,ore
-rumunský,Romanian
 rumunský,Romanaian
-rumunština,Romanian
+rumunský,Romanian
 rumunština,Romanaian
+rumunština,Romanian
 ruský,Russian
 ruský,Russian
-ruština,Russian
-ruština,Russian
 ruthenium,ruthenium
 rutherfordium,rutherfordium
+ruština,Russian
+ruština,Russian
 ryba,fish
 ryba migrující,migratory fish
 rybník,pond
@@ -4497,19 +4505,16 @@ rákos,reed
 rámcový plán v zemědělství,agriculture framework plan
 ráže,caliber
 rýže,rice
+rčení,maxim
 rčení,proverb
 rčení,saying
-rčení,maxim
 růst obyvatelstva,population growth
 růženec,rosary
 sacharid,carbohydrate
 sahara,sahara
 samarium,samarium
 samohláska,vowel
-vokála,vowel
-vokál,vowel
 samoobsluha,supermarket
-supermarket,supermarket
 samovláda,autocracy
 sanitka,ambulance
 sanitární technika,sanitary fitting
@@ -4527,8 +4532,8 @@ sbor zákonodárný,legislature
 sběr dat,data acquisition
 scenérie přírodní,natural scenery
 schopnost samočisticí,purifying power
-schválení,approval
 schválení,approbation
+schválení,approval
 schéma organizační,chart
 sdružení,association
 sdružení pro ochranu prostředí životního,environmental protection association
@@ -4537,10 +4542,10 @@ sdělení,notification
 seaborgium,seaborgium
 sebevražda,suicide
 sediment,sediment
-sedimentace [geologie],sedimentation (geology)
-sedimentace [geologie],sedimentation
-sedimentace,sedimentation (geology)
 sedimentace,sedimentation
+sedimentace,sedimentation (geology)
+sedimentace [geologie],sedimentation
+sedimentace [geologie],sedimentation (geology)
 sedimentologie,sedimentology
 sedání,subsidence
 sektor soukromý,private sector
@@ -4581,7 +4586,6 @@ skládkování v dolech bývalých,mine filling
 skládkový plyn,landfill gas
 sklízení úrody,crop production
 skoro,almost
-téměř,almost
 skot,livestock
 sktruktura krajiny,land setup
 skupina cílová,target group
@@ -4604,23 +4608,21 @@ sloučenina olova,lead compound
 sloučení,incorporation
 slovenský,Slovak
 slovenský,Slovak
-Slovenština,Slovak
-Slovenština,Slovak
 slovenština,Slovak
 slovenština,Slovak
 sloveso,verb
 slovinština,Slovene
 slovinština,Slovenian
 slovinština,Slovenian
-slovní druh,part of speech
+slovní druh,lexical category
+slovní druh,lexical category
 slovní druh,lexical category
 slovní druh,part of speech
-slovní druh,lexical category
 slovní druh,part of speech
-slovní druh,lexical category
+slovní druh,part of speech
 slovník,dictionary
-slovník,vocabulary
 slovník,lexicon
+slovník,vocabulary
 slovo,word
 složení atmosféry,atmospheric composition
 složení chemické,chemical composition
@@ -4686,13 +4688,13 @@ somálsky,somali
 sopka,volcano
 sorpce,sorption
 soubor informací,information kit
-soucit,pity
 soucit,compassion
+soucit,pity
 soud,court
 soudnost,reasonableness
 soudní orgán,judicial body
-souhlas,assent
 souhlas,agreement
+souhlas,assent
 souhlasit,assent
 souhláska,consonant
 souhvězdí,constellation
@@ -4700,8 +4702,8 @@ soukromý automobil,private car
 souostroví,archipelago
 souvrať,headland
 souřadnice zeměpisné,gridding
-spad,fallout
 spad,deposition
+spad,fallout
 spad atmosférický,atmospheric fallout
 spad chemický,chemical fallout
 spad látek znečišťujících při dešti,rainout
@@ -4757,14 +4759,14 @@ srbština,Serbian
 srovnání,comparison
 srpen,August
 srst,hair
-srážení,condensation (process)
 srážení,condensation
+srážení,condensation (process)
 srážení,precipitation
 srážení,precipitation (chemical)
-srážení [chemické],precipitation
-srážení [chemické],precipitation (chemical)
 srážení (chemické),precipitation
 srážení (chemické),precipitation (chemical)
+srážení [chemické],precipitation
+srážení [chemické],precipitation (chemical)
 stabilizátor minerální,mineral conditioner
 stanice,station
 stanice čerpací hmot pohonných,filling station
@@ -4775,8 +4777,8 @@ statistika,statistics
 statistika prostředí životního,environmental statistics
 statistika regionální,regional statistics
 statistika výroby průmyslové,industrial production statistics
-stav [manželský],marital status
 stav (manželský),marital status
+stav [manželský],marital status
 stav kapalný,liquid state
 stav koloidní,colloidal state
 stav plynný,gaseous state
@@ -4805,10 +4807,10 @@ stimul ke snížení znečištění,antipollution incentive
 stimulační daň,incentive tax
 stomatologie,dentistry
 strana,page
-strana politická,party
-strana politická,political party
 strana,party
 strana,political party
+strana politická,party
+strana politická,political party
 strategický,strategic
 stres,stress
 strojní zařízení,machinery
@@ -4837,8 +4839,8 @@ studie teoretická,desk study
 studie trhu,market study
 studie vlivů na prostředí životní,environmental impact study
 studium literatury,literature study
-studna,well
 studna,water well
+studna,well
 stupeň kyselosti,acidity degree
 styk s veřejností,public relations
 styl životní,lifestyle
@@ -4848,13 +4850,8 @@ stát,country
 stát,nation
 stát,state
 státní jazyk,official language
-úřední jazyk,official language
-státní převrat,putsch
 státní převrat,coup d'état
-puč,putsch
-puč,coup d'état
-převrat,putsch
-převrat,coup d'état
+státní převrat,putsch
 stěhování,rehousing
 stěhování živočichů,animal displacement
 stěna,wall
@@ -4895,6 +4892,7 @@ stůl,table
 subjekt,subject
 subjekt,topic
 sucho,drought
+supermarket,supermarket
 supernova,supernova
 surovina,raw material
 suroviny energetické,energy source material
@@ -4907,14 +4905,16 @@ svah výkopu,excavation side
 svahilština,Swahili
 svalový systém,muscular system
 svoboda,freedom
-svoboda,liberty
 svoboda,freedom
+svoboda,liberty
 svoboda projevu,freedom of speech
 svoboda projevu,freedom of speech
 svolat,assemble
-svolat,get together
 svolat,gather
+svolat,get together
+svátek Tří králů,Epiphany
 sváření,welding
+svítilna,lantern
 svíèka,candle
 svíčka,candle
 svědek,witness
@@ -4952,8 +4952,8 @@ systém zavlažovací,irrigation system
 systém zpracování dat,data processing system
 sádra,gypsum
 sémantika,semantics
-sémiotika,semiotics
 sémiotika,semiology
+sémiotika,semiotics
 sídlo lidské,human settlement
 síla pracovní,labour force
 síla pracovní,manpower
@@ -4995,8 +4995,8 @@ technika zpracování digitálního obrazu,digital image processing technique
 technika řízení,management technique
 technologie,technology
 technologie energetická,energy technology
-technologie informační,information technology
 technologie informační,IT
+technologie informační,information technology
 technologie ke snižování znečištění,pollution control technology
 technologie multimediální,multimedia technology
 technologie na ochranu životního prostředí,environmental protection technology
@@ -5009,10 +5009,11 @@ technologie rekombinace DNA,recombinant DNA technology
 technologie s nízkou úrovní,low-level technology
 technologie sluneční energie,solar energy technology
 technologie uhelná,coal technology
+tekutina,liquid
 telefon,phone
 telefon,telephone
-telekomunikace,telecommunications
 telekomunikace,telecommunication
+telekomunikace,telecommunications
 telemetrie,telemetry
 televize,television
 televizor,television
@@ -5034,23 +5035,23 @@ teplota vzduchu,air temperature
 teplárna,heating plant
 teplárna centrální,district heating plant
 tepna,artery
-terakota,terracotta
-terakota,terracotta
-terakota,terracotta
 terakota,terra cotta
+terakota,terracotta
+terakota,terracotta
+terakota,terracotta
 terapie,therapy
 teratogen,teratogen
 terbium,terbium
 terciární sektor,tertiary sector
-terminologie,terminology
 terminologie,nomenclature
+terminologie,terminology
 terminologie v oblasti prostředí životního,environmental terminology
 termit,termite
 termodynamika,thermodynamics
 terorismus,terrorism
 terorista,terrorist
-test,test
 test,assay
+test,test
 test Ames,Ames test
 test biologický,biological test
 test in vitro,in vitro assay
@@ -5097,8 +5098,8 @@ tradicní,traditional
 transpirace,transpiration
 trend populační,population trend
 trend produktivity,productivity trend
-trest smrti,death penalty
 trest smrti,capital punishment
+trest smrti,death penalty
 trest smrti,death sentence
 trh,market
 trh,marketplace
@@ -5111,13 +5112,13 @@ tritium,tritium
 trojúhelník,triangle
 trolejbus,trolley bus
 trolejbus,trolleybus
-tropy,tropics
 tropy,torrid zone
+tropy,tropics
 trvat na,assert
 tráva,grass
 trávení,digestion
-trávicí soustava,gastrointestinal tract
 trávicí soustava,alimentary canal
+trávicí soustava,gastrointestinal tract
 trávník suchý,dry lawn
 trávník volný,open lawn
 tržní cena,market price
@@ -5145,13 +5146,14 @@ typ dokumentu,document type
 typ ekosystému,ecosystem type
 typ klimatu,climate type
 typ znečištění,pollution type
-tábor,camp
-tábor,military camp
 tábor,army camp
+tábor,camp
 tábor,campsite
+tábor,military camp
 tábor prázdninový,holiday camp
 táboření,camping
 táboření,camping ground
+téměř,almost
 těhotenství,pregnancy
 těkavost,volatility
 těsnění tělesa skládky,landfill base sealing
@@ -5161,8 +5163,8 @@ těžba dřeva,forest exploitation
 těžba lignitu,lignite mining
 těžba na moři volném,deep sea mining
 těžba plynu zemního,natural gas extraction
-těžba povrchová,opencast mining
 těžba povrchová,open-pit mining
+těžba povrchová,opencast mining
 těžba rašeliny,peat extraction
 těžba ropy,oil extraction
 těžba surovin nerostných,mineral extraction
@@ -5184,17 +5186,17 @@ uhlovodík polycyklický,polycyclic hydrocarbon
 uhlovodík polycyklický aromatický,polycyclic aromatic hydrocarbon
 uhlí,coal
 uhlí dřevěné,charcoal
-uhlí černé,black coal
-uhlí černé,black coal
-uhlí černé,black coal
 uhlí černé,anthracite coal
+uhlí černé,black coal
+uhlí černé,black coal
+uhlí černé,black coal
 uhlík,carbon
 ukládání látky znečišťující,pollutant deposition
 ukládání odpadu v moři volném,deep-sea disposal
 ukládání odpadů do moře,ocean dumping
 ukládání odpadů radioaktivních,radioactive dumping
-ukončení [činnosti],closing down
 ukončení,closing down
+ukončení [činnosti],closing down
 ukrajinský,Ukrainian
 ukrajinský,Ukrainian
 ukrajinčina,Ukrainian
@@ -5215,7 +5217,6 @@ ununseptium,ununseptium
 ununtrium,ununtrium
 uprchlík,refugee
 upír,vampire
-vampýr,vampire
 uran,uranium
 uran obohacený,enriched uranium
 urbanizace,urbanisation
@@ -5234,6 +5235,7 @@ učitel,teacher
 užitečný,useful
 užité vědy,applied science
 vaječník,ovary
+vampýr,vampire
 vanad,vanadium
 vandalismus,vandalism
 vačnatec,marsupial
@@ -5247,13 +5249,12 @@ velbloud,camel
 velehory,high mountain
 velkochov,factory farming
 velký,big
-velký,large
 velký,big
 velký,large
-velryba,whale
+velký,large
 velryba,cetacean
+velryba,whale
 velryba [Cetacea],cetacean
-Cetacea,cetacean
 velvyslanec,ambassador
 velšský,Welsh
 velšský,Welsh
@@ -5261,21 +5262,20 @@ velština,Welsh
 velština,Welsh
 vepřín,piggery
 veselé vánoce,Merry Christmas
+vesmír [meziplanetární],interplanetary space
 vesmír [meziplanetární],space
 vesmír [meziplanetární],space
 vesmír [meziplanetární],space (interplanetary)
-vesmír [meziplanetární],interplanetary space
 vesnice,village
 veterináø,veterinarian
 veterináø,veterinarian
 veterináø,veterinary
-zvìrolékaø,veterinarian
-zvìrolékaø,veterinary
 veterán,veteran
 veverka,chipmunk
 veřejnost,public
 veřejná budova,public building
 veřejná doprava,public transport
+veřejné financování,public financing
 veřejné stavby,public works
 vhodná technnologie,appropriate technology
 vibrace mechanické,mechanical vibration
@@ -5290,9 +5290,9 @@ virus,virus
 viskozita,viscosity
 vitamín,vitamin
 vlak,train
-vlastnictví,property
 vlastnictví,asset
 vlastnictví,ownership
+vlastnictví,property
 vlastnictví cest vodních veřejné,public waterways domain
 vlastnost,attribute
 vlastnost chemická,chemical property
@@ -5307,6 +5307,8 @@ vliv domácností na prostředí životní,environmental impact of households
 vliv dopravy na prostředí životní,environmental impact of transport
 vliv energetiky na prostředí životní,environmental impact of energy
 vliv lesnictví na prostředí životní,environmental impact of forestry
+vliv na prostředí životní,effect on the environment
+vliv na prostředí životní,environmental consequence
 vliv na prostředí životní,environmental impact
 vliv na zaměstnanost,employment level effect
 vliv na zdraví,effect on health
@@ -5368,8 +5370,8 @@ vodní vnitrozemská doprava,inland waterways transport
 vodní živočich,aquatic animal
 vodonosná vrstva,aquifer
 vodopád,waterfall
-vodstvo,water
 vodstvo,body of water
+vodstvo,water
 vody odpadní,waste water
 vody odpadní domovní,domestic waste water
 vody odpadní kombinované,combined waste water
@@ -5383,6 +5385,8 @@ vojenská výzbroj,military equipment
 vojenské aktivity,military activities
 vojenské aspekty,military aspects
 vojenský potenciál,armament
+vokál,vowel
+vokála,vowel
 volapük,Volapük
 volavka,heron
 volby,voting
@@ -5414,8 +5418,8 @@ vyhnívání kalu,digestion
 vyhodnocení,evaluation
 vyhodnocení literatury,literature evaluation
 vyhynulé druhy,extinct species
-vyhynutí,extinction (ecological)
 vyhynutí,extinction
+vyhynutí,extinction (ecological)
 vykuřování,fumigation
 vyluhování,leaching
 vymáhání práva,enforcement
@@ -5434,8 +5438,8 @@ vystavení účinkům záření,radiation exposure
 vytápění,heating
 vytápění dálkové,district heating
 vytýčení trasy,alignment
-využití energie,energy utilisation
 využití energie,energy use
+využití energie,energy utilisation
 využití energie jaderné,nuclear energy use
 využití konfliktní,conflicting use
 využití krajiny,landscape utilisation
@@ -5485,23 +5489,23 @@ víkend,weekend
 víno,wine
 vítr,wind
 víčko lahve,bottle cap
-výbuch jaderný [havárie],nuclear explosion (accident)
-výbuch jaderný [havárie],nuclear explosion
-výbuch jaderný,nuclear explosion (accident)
 výbuch jaderný,nuclear explosion
+výbuch jaderný,nuclear explosion (accident)
+výbuch jaderný [havárie],nuclear explosion
+výbuch jaderný [havárie],nuclear explosion (accident)
 výbušná látka,explosive
 výběr rostlin,plant selection
 východní Afrika,East Africa
-východní Asie,Eastern Asia
 východní Asie,East Asia
+východní Asie,Eastern Asia
 výchova,upbringing
 výchova ekologická,environmental education
 výdaje domácnosti,household expenditure
 výdaje z prostředků veřejných,public expenditure
 výfukový plyn,exhaust gas
 výfukový plyn z motorových vozidel,motor vehicle exhaust gas
-výkon,power (physics)
 výkon,power
+výkon,power (physics)
 výkon elektrický,electric power
 výměna,replacement
 výměna dat,data exchange
@@ -5583,16 +5587,16 @@ větev,branch
 větrání,ventilation
 vřesoviště,heathland
 vůz na odvoz odpadků,refuse collection vehicle
-vůz železniční,railroad vehicle
 vůz železniční,carriage
+vůz železniční,railroad vehicle
 vůz železniční,wagon
 wallonský,Walloon
 wallonský,Walloon
 wallonština,Walloon
 wallonština,Walloon
 weblog,blog
-weblog,weblog
 weblog,web log
+weblog,weblog
 wolfram,tungsten
 xenon,xenon
 yterbium,ytterbium
@@ -5614,9 +5618,9 @@ zajištění kvality,quality assurance
 zajištění parkování,parking provision
 zakázka veřejná,public contract
 zalesňování,afforestation
-zalesňování,tree planting
 zalesňování,afforestment
 zalesňování,reforestation
+zalesňování,tree planting
 zalesňování místní,local afforestation
 zamezit,avert
 zamoření plodin,infestation of crops
@@ -5695,9 +5699,9 @@ zebra,zebra
 zelenina,vegetable
 zelenina listová,green vegetable
 zelená daň,environmental tax
-zemská kůra,earth's crust
-zemská kůra,crust
 zemská kůra,Earth's crust
+zemská kůra,crust
+zemská kůra,earth's crust
 země méně rozvinuté,less developed country
 země rozvojové,developing country
 země vyspělá,developed country
@@ -5711,9 +5715,9 @@ zemědělská legislativa,agricultural legislation
 zemědělská politika,agricultural policy
 zemědělská půda,agricultural land
 zemědělská velkovýroba,agriculture and cattle industry
+zemědělská výroba,agricultural output
 zemědělská výroba,agricultural production
 zemědělská výroba,farm production
-zemědělská výroba,agricultural output
 zemědělské hospodářství,agricultural management
 zemědělské inženýrství,agricultural engineering
 zemědělské odpadní vody,agricultural effluent
@@ -5722,9 +5726,9 @@ zemědělské stroje,agricultural equipment
 zemědělské stroje,agricultural machinery
 zemědělské stroje,farm machinery
 zemědělské zařízení,agricultural equipment
+zemědělské zařízení,agricultural equipment
 zemědělské zařízení,agricultural machinery
 zemědělské zařízení,farm machinery
-zemědělské zařízení,agricultural equipment
 zemědělské znečištění,agricultural pollution
 zemědělský výrobek,agricultural product
 zemědělství,agriculture
@@ -5741,12 +5745,13 @@ zhoršení ekosystému,ecosystem degradation
 zhoršení kvality lesů,forest deterioration
 zhoršení kvality vody sladké,freshwater degradation
 zhutňování,compaction
-zima,winter
 zima,cold
+zima,winter
 zinek,zinc
 zirkonium,zirconium
 zisk,profit
 zjistit,ascertain
+zkamenělina,fossil
 zkapalňování plynů,gas liquefaction
 zkapalňování uhlí,coal liquefaction
 zkouška jaderná,nuclear test
@@ -5757,8 +5762,8 @@ zlepšení obrazových dat,image enhancement
 zlom,fault
 zločin,crime
 zmrzlina,ice cream
-změna [limnologie],overturn (limnology)
 změna (limnologie),overturn (limnology)
+změna [limnologie],overturn (limnology)
 změna fyzikální,physical alteration
 změna hodnoty,change in value
 změna klimatu,climatic alteration
@@ -5768,6 +5773,7 @@ značení,labelling
 značení ekologické,ecolabelling
 značení ekologické ES,EC ecolabel
 značka ekologická,ecolabel
+značkovací látka,marker
 znehodnocení prostředí životního,degradation of the environment
 zneužívání pravomoci v oblasti prostředí životního,environmental misconduct
 znečištění,pollution
@@ -5811,6 +5817,7 @@ zodpovědnost za výrobek,product liability
 zodpovědnost za znečištění,pollution liability
 zoologická zahrada,zoological garden
 zoologie,zoology
+zoonóza,zoonosis
 zpevnění hráze,dyke reinforcement
 zpevňování břehů,bank protection
 zplyňování,gasification
@@ -5832,6 +5839,8 @@ zvrat dopadů,impact reversal
 zvuk,sound
 zvuky vydávané zvířaty,animal noise
 zvyšování hladiny moře,rising sea level
+zvìrolékaø,veterinarian
+zvìrolékaø,veterinary
 zvíře domestikované,domesticated animal
 zvíře domácí,pet
 zvíře hospodářské,farm animal
@@ -5854,9 +5863,9 @@ zákal,turbidity
 zákaz,prohibition
 zákaz CFC a halonů,CFC and halons prohibition
 základ právní,legal basis
-zákon,law
 zákon,act
 zákon,deed
+zákon,law
 zákon báňský,mining law
 zákon o EIA,EIA law
 zákon o chemikáliích,chemicals act
@@ -5877,8 +5886,8 @@ záliv,creek
 záliv,gulf
 zálohování obalů,arrangement for a deposit on packaging
 zápach,odour
-západní Asie,Western Asia
 západní Asie,Southwest Asia
+západní Asie,Western Asia
 záplava,flooding
 zárodek,germ
 zásada,base
@@ -5902,10 +5911,10 @@ zásoby zdrojů,resource reserve
 zástěra,apron
 zátoka,cove
 zátěž imisní,immission load
-závod průmyslový [budova],industrial plant (building)
-závod průmyslový [budova],industrial plant
-závod průmyslový,industrial plant (building)
 závod průmyslový,industrial plant
+závod průmyslový,industrial plant (building)
+závod průmyslový [budova],industrial plant
+závod průmyslový [budova],industrial plant (building)
 závod spalovací velký,large combustion plant
 záznam dat obrazových,image registration
 záření,radiation
@@ -5927,34 +5936,31 @@ zítřek,tomorrow
 zóna bentická,benthic division
 zóna odlivu pobřežní,intertidal zone
 zóna pobřežní,coastal area
-zóna pěší,pedestrian zone
-zóna pěší,pedestrian area
-zóna pěší,car-free zone
 zóna pěší,auto-free zone
+zóna pěší,car-free zone
+zóna pěší,pedestrian area
+zóna pěší,pedestrian zone
 zóna pěší,pedestrianised zone
 zónování průmyslové,industrial zoning
 Ázerbájdžán,Azerbaijan
 Ázerbájdžán,Republic of Azerbaijan
 Ázerbájdžánština,Azerbaijani
-Ázerbájdžánština,Azeri
 Ázerbájdžánština,Azerbaijani Cluster
-Azeri,Azerbaijani
-Azeri,Azeri
-Azeri,Azerbaijani Cluster
-ázerbájdžánština,Azerbaijani
-ázerbájdžánština,Azeri
-ázerbájdžánština,Azerbaijani Cluster
+Ázerbájdžánština,Azeri
 Ålandy,Åland Islands
 Írán,Iran
 Írán,Islamic Republic of Iran
+ázerbájdžánština,Azerbaijani
+ázerbájdžánština,Azerbaijani Cluster
+ázerbájdžánština,Azeri
 éter,ether
 úbytek biotopů,loss of biotope
 údaje na jednoho obyvatele,per capita data
 údaje prognostické,prognostic data
 údiv,astonishment
 údolí,valley
-údržba,maintenance (technical)
 údržba,maintenance
+údržba,maintenance (technical)
 úhor v důsledku činnosti průmyslové předchozí,industrial wasteland
 úhyn ryb,fish kill
 úkol,assignment
@@ -5993,14 +5999,14 @@ Azeri,Azerbaijani Cluster
 úterý,Tuesday
 útes,cliff
 útes,reef
-útes korálový,coral reef
 útes korálový,barrier reef
+útes korálový,coral reef
 útok,attack
 útočiště,refuge
 útočník,aggressor
 útočník,assailant
-útočník,attacker
 útočník,assaulter
+útočník,attacker
 úvěr,credit
 území,territory
 území chráněné,protected area
@@ -6029,17 +6035,18 @@ Azeri,Azerbaijani Cluster
 účinnost energetická,energy efficiency
 úřad,office
 úřad federální,federal authority
-úřad provinční/ regionální,provincial/regional authority (D)
-úřad provinční/ regionální,regional authority
-úřad provinční/ regionální,provincial authority
+úřad provinční,provincial authority
 úřad provinční,provincial/regional authority (D)
 úřad provinční,regional authority
-úřad provinční,provincial authority
+úřad provinční/ regionální,provincial authority
+úřad provinční/ regionální,provincial/regional authority (D)
+úřad provinční/ regionální,regional authority
+úřad regionální,provincial authority
 úřad regionální,provincial/regional authority (D)
 úřad regionální,regional authority
-úřad regionální,provincial authority
-úřední kompetence,administrative competence
+úřední jazyk,official language
 úřední kompetence,administrative ability
+úřední kompetence,administrative competence
 úřední nařízení,administrative fiat
 Čad,Chad
 Čad,Republic of Chad
@@ -6049,12 +6056,12 @@ Azeri,Azerbaijani Cluster
 Česko,Czechia
 Česká Republik,Czech Republic
 Česká Republik,Czechia
-Čína,People's Republic of China
 Čína,China
+Čína,People's Republic of China
 čaj,tea
-čaroděj,wizard
-čaroděj,sorcerer
 čaroděj,magician
+čaroděj,sorcerer
+čaroděj,wizard
 čarodějnice,witch
 čas,time
 čas volný,leisure time
@@ -6102,16 +6109,11 @@ Azeri,Azerbaijani Cluster
 členovec,arthropod
 člověk,man
 člun,boat
+článek,Galvanic cell
 článek,cell
 článek,electrochemical cell
 článek,energy cell
-článek,Galvanic cell
 článek,στοιχείο
-Galvanický článek,cell
-Galvanický článek,electrochemical cell
-Galvanický článek,energy cell
-Galvanický článek,Galvanic cell
-Galvanický článek,στοιχείο
 článek palivový,nuclear fuel element
 článkovec,Articulata
 čokoláda,chocolate
@@ -6119,12 +6121,12 @@ Galvanický článek,στοιχείο
 čtvrcení,quartering
 čtvrtek,Thursday
 čtyřúhelník,quadrilateral
+čuvašština,Chavash
+čuvašština,Chovash
+čuvašština,Chttash
 čuvašština,Chuvash
 čuvašština,Chuvash
 čuvašština,Chuwash
-čuvašština,Chovash
-čuvašština,Chavash
-čuvašština,Chttash
 čáp,stork
 čára stavu hladiny vody,progress line
 část Atlantického oceánu severní,North Atlantic Ocean
@@ -6142,22 +6144,22 @@ Galvanický článek,στοιχείο
 řecká abeceda,Greek alphabet
 řecký,Greek
 řecký,Greek
-řečtina,Greek
-řečtina,Greek
 řeka,river
-řemeslo,craft
 řemeslo,arts and crafts
+řemeslo,craft
 řemeslo umělecké,handicraft
 řepka olejná,rape
 řetězec potravní,food chain
 řezník,butcher
 řeč,speech
+řečtina,Greek
+řečtina,Greek
 řešení problémů v oblasti prostředí životního,environmental problem solving
 říci,say
-řízek [rozmnožování vegetativní],cutting
-řízek [rozmnožování vegetativní],cutting (vegetative propagation)
 řízek,cutting
 řízek,cutting (vegetative propagation)
+řízek [rozmnožování vegetativní],cutting
+řízek [rozmnožování vegetativní],cutting (vegetative propagation)
 řízení centrální,central government
 řízení finanční,financial management
 řízení horských oblastí,mountain management
@@ -6191,11 +6193,11 @@ Galvanický článek,στοιχείο
 škola,school
 školení,training
 školení úvodní,initial training
-školka,nursery (plant breeding)
 školka,nursery
+školka,nursery (plant breeding)
 školka,plant nursery
-školka [pěstování rostlin],nursery (plant breeding)
 školka [pěstování rostlin],nursery
+školka [pěstování rostlin],nursery (plant breeding)
 školka [pěstování rostlin],plant nursery
 školící středisko,training centre
 škrob,starch
@@ -6240,7 +6242,6 @@ Galvanický článek,στοιχείο
 žhářství,arson
 židle,chair
 židovství,Judaism
-judaismus,Judaism
 žirafa,giraffe
 živina,nutrient
 životní cyklus,life cycle
@@ -6248,9 +6249,9 @@ judaismus,Judaism
 životní cyklus výrobku,product life cycle
 živočich,animal
 živočich teplokrevný,warm-blooded animal
+živočich žijící volně,wild animals
 živočich žijící volně,wild fauna
 živočich žijící volně,wildlife
-živočich žijící volně,wild animals
 živočišná výroba,animal husbandry
 živočišná výroba,animal production
 živočišný výrobek,animal product
@@ -6264,4 +6265,3 @@ judaismus,Judaism
 žurnalistika,journalism
 žába,frog
 žížala,earthworm
-czech,english

@@ -50,8 +50,8 @@ abyssiner,abyssinian
 acceleration,acceleration
 accelerere,accelerate
 accent,accent
-accent,stress
 accent,accent mark
+accent,stress
 accent,supersign
 accentuere,accentuate
 accentuering,accentuation
@@ -125,8 +125,8 @@ adriaterhavet,adriatic sea
 adræt,agile
 adskille,divide
 adskille,separate
-adskillelse,separation
 adskillelse,partition
+adskillelse,separation
 adskillige,several
 adskilt,separate
 adspredelse,amusement
@@ -147,19 +147,21 @@ adækvat,equivalent
 ae,stroke
 aerodynamik,aerodynamics
 aeromekanik,aeromechanics
-af,from
-af,of
 af,about
 af,concerning
+af,from
+af,of
 af,on
 af,upon
-afbenyttelse,use
-afbestille,cancel
-afbestille,countermand
+af og til,now and then
+af træ,wooden
 afart,variety
 afbalancere,balance
 afbarke,bark
 afbenytte,use
+afbenyttelse,use
+afbestille,cancel
+afbestille,countermand
 afbetale,payoff
 afbetaling,instalment
 afbilde,depict
@@ -167,14 +169,14 @@ afbildning,image
 afbildning,picture
 afblege,bleach
 afbrudt,interrupted
-afbryde,interrupt
+afbryde,break
 afbryde,cut
 afbryde,cut a connection
+afbryde,interrupt
 afbryde,shut off
 afbryde,stop
 afbryde,switch off
 afbryde,turn off
-afbryde,break
 afbrydelse,interruption
 afbryder,switch
 afbryderkontakt,breaker contact
@@ -195,37 +197,37 @@ afdansningsbal,high school prom
 afdeling,branch
 afdeling,compartment
 afdeling,department
+afdeling,detachment
 afdeling,pigeonhole
 afdeling,section
 afdeling,speciality
-afdeling,detachment
 afdelingschef,head of a department
 afdelingschef,head of department
 affald,garbage
-affald,trash
 affald,rubbish
+affald,trash
 affaldsafgift,garbage tax
-affaldsbeholder,wastepaper basket
-affaldsbeholder,wastebasket
 affaldsbeholder,trash container
 affaldsbeholder,waste container
+affaldsbeholder,wastebasket
+affaldsbeholder,wastepaper basket
 affaldsbørs,bourse or stock exchange for company waste
-affaldscontainer,wastepaper basket
-affaldscontainer,wastebasket
 affaldscontainer,trash container
 affaldscontainer,waste container
-affaldsdeponering,landfill
+affaldscontainer,wastebasket
+affaldscontainer,wastepaper basket
 affaldsdeponering,dumpsite
-affaldsdepot,landfill
+affaldsdeponering,landfill
 affaldsdepot,dumpsite
+affaldsdepot,landfill
 affaldsgebyr,"garbage fee, especially for a company"
-affaldskurv,wastepaper basket
 affaldskurv,wastebasket
+affaldskurv,wastepaper basket
 affaldspose,garbage bag
-affaldssortering,trash sorting
 affaldssortering,garbage sorting
-affaldssortering,waste sorting
 affaldssortering,"the sorting of trash, garbage, or waste"
+affaldssortering,trash sorting
+affaldssortering,waste sorting
 affaldsstof,waste product
 affaldstræ,wood waste
 affyre,discharge
@@ -238,8 +240,8 @@ affære,case
 affære,matter
 afgang,departure
 afgangseksamen,leaving examination
-afgangstid,time of departure
 afgangstid,departure time
+afgangstid,time of departure
 afghaner,afghan
 afghanerinde,afghanwoman
 afghanistan,afghanistan
@@ -259,10 +261,10 @@ afhænge af,be dependent on
 afhænge af,depend on
 afhænge af,depend upon
 afhængig,dependent
-afhængighed,dependence
 afhængig af,dependant on
-afhøre,hear
+afhængighed,dependence
 afhøre,findout
+afhøre,hear
 afhøre,learn of
 afkøbe,ransom
 afkøbe,redeem
@@ -298,11 +300,11 @@ afregning,account
 afregning,settlement
 afrejse,absent onself
 afrejse,depart
-afrejse,go away
-afrejse,leave
+afrejse,departure
 afrejse,drive away
 afrejse,drive off
-afrejse,departure
+afrejse,go away
+afrejse,leave
 afrika,africa
 afrikaans,afrikaans
 afrikander,afrikaner
@@ -313,15 +315,15 @@ afrikansk,african
 afro‐asiat,afro‐asian
 afrunde,round
 afrunde,roundoff
+afsende,dismiss
 afsende,dispatch
 afsende,sendoff
 afsende,ship
-afsende,dismiss
 afsende,turnaway
 afsender,sender
-afsides,remote
 afsides,distant
 afsides,far
+afsides,remote
 afskaffe,abolish
 afskaffe,abrogate
 afskaffe,do away with
@@ -341,11 +343,11 @@ afskrift,a copy of a text
 afskrive,copy
 afskrivning,redemption
 afsky,abhor
-afsky,abominate
-afsky,loathe
 afsky,abhorrence
+afsky,abominate
 afsky,abomination
 afsky,horror
+afsky,loathe
 afslå,reject
 afsløre,discover
 afsløre,uncover
@@ -373,8 +375,6 @@ afveksling,alternation
 afvigelse,aberrance
 afvigelse,aberration
 afvise,reject
-af og til,now and then
-af træ,wooden
 agamemnon,agamemnon
 agent,agent
 agentur,agency
@@ -446,12 +446,12 @@ alene,only
 alene,sole
 alene,solitary
 alenlang,very long
-alfahan,alpha male
 aleppo,aleppo
 alexander,alexander
 alexandria,alexandria
 alfabet,alphabet
 alfabetisk,alphabetical
+alfahan,alpha male
 alfred,alfred
 algerier,algerian
 algerierinde,algerian woman
@@ -463,8 +463,8 @@ alkoholfri,non‐alcoholic
 alkoholisk,alcoholic
 allah,allah
 alle,all
-allehelgensdag,all saints' day
 allehelgensdag,all hallows
+allehelgensdag,all saints' day
 allerede,already
 allerede,bynow
 allerede,yet
@@ -477,14 +477,14 @@ almenkendt,common knowledge
 almennyttig,serving the common good
 almensprog,vernacular
 almindelig,accustomed
+almindelig,common
 almindelig,customary
+almindelig,general
+almindelig,ordinary
+almindelig,universal
 almindelig,used to
 almindelig,usual
 almindelig,wonted
-almindelig,common
-almindelig,ordinary
-almindelig,general
-almindelig,universal
 almindelig,worldwide
 almisse,alms
 almisse,charity
@@ -509,16 +509,16 @@ altid,always
 altid,ever
 altmuligmand,handyman
 altæder,omnivore
-alvorsmand,a serious man
 aluminium,aluminium
 aluminium,aluminum
 alun,alum
 alvorlig,cheerful
+alvorlig,earnest
 alvorlig,gay
 alvorlig,merry
-alvorlig,earnest
 alvorlig,serious
 alvorlig,staid
+alvorsmand,a serious man
 alvorsord,word of reprimand
 amatør,amateur
 amatør,fancier
@@ -536,13 +536,13 @@ amerikaner,american
 amerikaner,us citizen
 amerikanerinde,americanwoman
 amerikansk,american
-amerikansk fodbold,football
 amerikansk fodbold,american football
+amerikansk fodbold,football
 amerikansk samoa,american samoa
 amfiteater,amphitheatre
 amman,amman
-ammunition,munition
 ammunition,ammunition
+ammunition,munition
 amnesti,actofgrace
 amnesti,amnesty
 ampul,bulb
@@ -662,13 +662,13 @@ apropos,bytheway
 araber,arab
 arabisk,arabian
 arabisk,arabic
-arbejde,work
 arbejde,job
-arbejder,worker
+arbejde,work
 arbejder,hand
 arbejder,laborer
 arbejder,labourer
 arbejder,operative
+arbejder,worker
 arbejder,workingman
 arbejder,workman
 arbejderbi,worker bee
@@ -747,10 +747,10 @@ atlantisk,atlantean
 atlantisk,atlantic
 atlas,atlas
 atlet,athlete
-atomkerne,nucleus
 atmosfærisk,atmospheric
 atom,atom
 atomenergi,atomicenergy
+atomkerne,nucleus
 attaché,attaché
 atten,eighteen
 attende,eighteenth
@@ -759,10 +759,10 @@ attest,testimony
 august,august
 auktion,auction
 aula,auditorium
+aula,great hall
 aula,lounge
 aula,parlour
 aula,salon
-aula,great hall
 australien,australia
 australier,australian
 australsk,australian
@@ -780,17 +780,16 @@ avertere,advertise
 avertere,announce
 avertere,givenotice
 avis,gazette
+avis,journal
 avis,magazine
 avis,newspaper
 avis,periodical
-avis,journal
 avle,breed
 avle,keep
 avle,raise
 avle,rear
 azalea,azalea
 baby,baby
-babysitter,babysitter
 babyalarm,baby alarm
 babyalarm,baby monitor
 babybio,a special cinema made to bring with babies
@@ -802,6 +801,7 @@ babylem,baby hatch
 babymad,baby food
 babymajs,baby corn
 babypudder,baby powder
+babysitter,babysitter
 bacon,bacon
 bad,bath
 bade,bathe
@@ -814,15 +814,15 @@ badeværelse,bathroom
 badmintonspiller,badminton player
 bagage,baggage
 bagage,luggage
-bagagevogn,luggage van
 bagagevogn,luggage cart
 bagagevogn,luggage trolley
+bagagevogn,luggage van
 bagbord,backboard
 bagdad,baghdad
 bagdør,back door
 bage,bake
-bageovn,oven
 bageovn,bakingoven
+bageovn,oven
 bager,baker
 bageri,bakery
 bagklog,afterwise
@@ -848,20 +848,20 @@ bananrepublik,banana republic
 bandage,bandage
 bande,band
 bande,bevy
-bande,gang
 bande,blaspheme
-bande,cuss
 bande,curse
+bande,cuss
+bande,gang
 bande,swear
-bandeord,swear word
 bandeord,curse word
+bandeord,swear word
 bandit,bandit
 banemand,bane
 banemand,killer
 bange,afraid
 bange,timid
-bangebuks,coward
 bangebuks,chicken
+bangebuks,coward
 bangladesh,bangladesh
 bank,bank
 bankanvisning,check
@@ -873,8 +873,8 @@ bankkonto,bank account
 barak,barn
 barak,shed
 barak,stand
-barbermaskine,electric shaver
 barbados,barbados
+barbermaskine,electric shaver
 bare,exclusively
 bare,just
 bare,only
@@ -886,17 +886,17 @@ barm,bosom
 barmhjertighed,charity
 barmhjertighed,mercifulness
 barmhjertighed,mercy
+barn,bairn
 barn,child
+barn,infant
 barn,offspring
 barn,young
-barn,bairn
-barn,infant
+barnebarn,grandchild
 barnebarn,granddaughter
 barnebarn,grandson
-barnebarn,grandchild
 barnesoldat,child solder
-barnevogn,pram
 barnevogn,baby carriage
+barnevogn,pram
 barometer,barometer
 barrikade,barricade
 baryton,baritone
@@ -922,13 +922,13 @@ bebrejde,reprove
 bebrejde,scold
 bebrejdelse,reproach
 bed,bed
-bede,beet
 bede,ask
 bede,askfor
+bede,beet
 bede,beg
 bede,bid
-bede,request
 bede,pray
+bede,request
 bedemand,funeral director
 bedemand,mortician
 bedemand,undertaker
@@ -939,10 +939,10 @@ bedrageri,swindle
 bedre,better
 bedring,progress
 bedrøvet,dismal
+bedrøvet,dreary
 bedrøvet,gaunt
 bedrøvet,miserable
 bedrøvet,sad
-bedrøvet,dreary
 bedst,best
 bedstefader,grandfather
 bedsteforældre,grandparents
@@ -953,25 +953,25 @@ bedømme,rate
 befaling,command
 befaling,order
 befolkning,population
+befæste,affix
 befæste,attach
 befæste,determine
 befæste,fasten
 befæste,fix
-befæste,affix
 befæste,make fast
 befæste,secure
 begejstring,alacrity
 begejstring,enthusiasm
-begivenhedshorisont,event horizon
 begge,both
+begivenhedshorisont,event horizon
 begrave,bury
 begrave,entomb
 begrave,inter
+begreb,concept
 begreb,idea
 begreb,notion
-begreb,sense
 begreb,realization
-begreb,concept
+begreb,sense
 begrebspar,pair of concepts
 begrebsramme,conceptual framework
 begrebsverden,thought-world
@@ -991,10 +991,10 @@ behagelig,pleasant
 behagelighed,pleasantness
 behandle,carefor
 behandle,cure
-behandle,treat
-behandle,discuss
 behandle,dealwith
+behandle,discuss
 behandle,handle
+behandle,treat
 behandling,treatment
 beherske,control
 beherske,govern
@@ -1005,14 +1005,14 @@ beholde,conserve
 beholde,keep
 beholde,maintain
 beholde,preserve
-beholde,save
 beholde,rescue
+beholde,save
 beholder,barrel
-beholder,jug
 beholder,box
 beholder,container
-beholder,vessel
+beholder,jug
 beholder,vase
+beholder,vessel
 behov,need
 behov,want
 behøve,need
@@ -1035,8 +1035,8 @@ bekendtskab,acquaintance
 bekendtskab,conversance
 bekendtskab,familiarity
 beklage,be sorry about
-beklage,regret
 beklage,mourn
+beklage,regret
 beklædning,article of dress
 beklædning,garment
 bekræfte,acknowledge
@@ -1055,33 +1055,33 @@ belønne,reward
 belønning,compensation
 belønning,reward
 bemærkning,remark
+ben,bone
 ben,leg
 ben,paw
-ben,bone
 benarbejde,legwork
-benklæder,trousers
 benin,benin
+benklæder,trousers
+benytte,employ
 benytte,make use of
 benytte,turn to good account
-benytte,utilize
-benytte,employ
 benytte,use
+benytte,utilize
 benyttelse,use
 benzin,gasolene
 benzin,gasoline
 benzin,petrol
+benzinstation,fuel station
 benzinstation,gas station
 benzinstation,petrol station
-benzinstation,fuel station
 benzintank,gastank
 benzintank,petroltank
+benådning,absolution
+benådning,act of grace
+benådning,amnesty
+benådning,pardon
 benægte,deny
 benævnelse,appellation
 benævnelse,name
-benådning,act of grace
-benådning,amnesty
-benådning,absolution
-benådning,pardon
 beregne,calculate
 beregne,count
 beregne,figure
@@ -1089,8 +1089,8 @@ beregne,workout
 beregning,account
 beregning,bill
 beregning,calculation
-beretning,bulletin
 beretning,account
+beretning,bulletin
 beretning,communication
 beretning,errand
 beretning,message
@@ -1119,8 +1119,8 @@ beskrivelse,account
 beskrivelse,description
 beskytte,protect
 beskyttelse,protection
-beskæftigelse,occupation
 beskæftigelse,activity
+beskæftigelse,occupation
 beslutning,decision
 beslutte,decide
 bestemme,destine
@@ -1213,12 +1213,12 @@ bilist,motorist
 billard,billiards
 bille,beetle
 billede,image
-billede,picture
 billede,painting
+billede,picture
 billede,portrait
 billet,bill
-billet,ticket
 billet,note
+billet,ticket
 billethul,booking‐office
 billig,cheap
 billig,inexpensive
@@ -1264,10 +1264,10 @@ blanding,admixture
 blanding,mixture
 bleg,pale
 bleg,sallow
+blik,look
 blik,sheetmetal
 blik,tin
 blik,tinplate
-blik,look
 blind,blind
 blind person,blind
 blind person,sightless person
@@ -1275,16 +1275,15 @@ blindhed,blindness
 blindtarm,appendix
 blive,become
 blive,come about
+blive,get
 blive,grow
 blive,happen
-blive,get
 blive,remain
 blive,stay
 blive,stayover
 blive forbavset,marvel
 blive forbavset,marvelat
 blive forbavset,wonder
-blod‐,bloody
 blod,blood
 blodbad,bloodbath
 blodbad,massacre
@@ -1292,6 +1291,7 @@ blodcelle,blood cell
 blodkredsløb,the circulatory system
 blodlegeme,blood cell
 blodplade,platelet
+blod‐,bloody
 blok,block
 blok,pad
 blokade,blockade
@@ -1310,30 +1310,30 @@ blotlægge,lay bare
 bluse,blouse
 bly,lead
 blyant,pencil
+blå,blue
+blåbær,blueberry
+blåhval,blue whale
+blåskimmelost,blue cheese
+blåtand,bluetooth
 blæk,ink
 blækklat,blob
 blækklat,smudge of ink
 blæksprutte,cuttlefish
-blæksprutte,squid
 blæksprutte,octopus
+blæksprutte,squid
 blænde,dazzle
 blære,bladder
 blære,bubble
 blæse,blow
 blæsebælg,bellows
 blød,soft
-blå,blue
-blåbær,blueberry
-blåhval,blue whale
-blåskimmelost,blue cheese
-blåtand,bluetooth
 bo,be a guest of
-bo,stay with
 bo,be on a visit
-bo,stay
-bo,stop
 bo,dwell
 bo,live
+bo,stay
+bo,stay with
+bo,stop
 bo på værelse,live in lodgings
 bo sammen,cohabit
 bo sammen,live together
@@ -1359,8 +1359,8 @@ bolig,abode
 bolig,accommodation
 bolig,dwelling
 bolig,residence
-bolleven,fuck buddy
 bolleven,friend with benefits
+bolleven,fuck buddy
 bolsje,bonbon
 bombe,bomb
 bomuld,cotton
@@ -1375,25 +1375,25 @@ bonderøv,redneck
 bonusmor,stepmother
 bopæl,abode
 bopæl,dwelling place
-bopæl,residence
 bopæl,dwelling place residence
+bopæl,residence
 bor,bore
 bord,table
 borddame,a female person sitting next to someone at a table
 borddug,tablecloth
-bordherre,a male person sitting next to someone at a table
 bordel,brothel
+bordherre,a male person sitting next to someone at a table
 bordlampe,table lamp
 bordskåner,trivet
-bordtennis,table tennis
 bordtennis,ping pong
+bordtennis,table tennis
 bore,bore
 bore,drill
 borger,middleclasscitizen
 borgerjournalistik,citizen journalism
 borgerkrig,civil war
-borgmester,mayor
 borgmester,burgomaster
+borgmester,mayor
 borgmester,provost
 bort,away
 bort,trimming
@@ -1445,10 +1445,10 @@ brombær,blackberry
 bronze,bronze
 bronzealder,bronze age
 bror,brother
+brud,bride
 brud,fragment
 brud,lump
 brud,piece
-brud,bride
 brudepige,bridesmaid
 brudgom,bridegroom
 brudstykke,fragment
@@ -1456,8 +1456,8 @@ brudstykke,lump
 brudstykke,piece
 brug,use
 bruge,employ
-bruge,use
 bruge,make use of
+bruge,use
 brugerbetaling,consumer payment
 brugerbetaling,user fee
 brugerbidrag,user contribution
@@ -1508,13 +1508,13 @@ bugt,gulf
 bukser,pants
 bukser,trousers
 buksevand,an act in water is poured down someone's pants
-bundalvorlig,very serious
 bundalvorlig,quite serious
+bundalvorlig,very serious
 bundfald,precipitate
 bur,cage
 burgerbar,burger bar
-bus,bus
 bus,autobus
+bus,bus
 bus,omnibus
 busk,bush
 busk,shrub
@@ -1529,8 +1529,8 @@ by,town
 bydeform,imperative
 bydel,district
 bydel,neighbourhood
-bydel,quarter
 bydel,part of a town or city
+bydel,quarter
 bydelstat,city or town that is in itself a member state
 byforny,urban-renew
 byfornyelse,urban renewal
@@ -1539,20 +1539,28 @@ bygge,build
 bygge,construct
 byggeplads,building plot
 byggeplads,building site
-bygkorn,stye
 bygkorn,barleycorn
+bygkorn,stye
 bygmester,builder
-bygmester,contractor
 bygmester,building contractor
+bygmester,contractor
 bygmester,master builder
 bygning,building
 byrde,burden
 byrde,charge
 byrde,load
-bytte,prey
 bytte,booty
+bytte,prey
 bytur,night out
 bz'er,squatter
+båd,boat
+både,both
+bådhus,boathouse
+bånd,bond
+bånd,tie
+båndoptager,tape recorder
+båre,litter
+båre,strecher
 bæger,chalice
 bæger,goblet
 bæk,stream
@@ -1572,20 +1580,20 @@ bævergnavet,beaver-gnawed
 bæverhytte,beaver hut
 bæverrotte,hutia
 bæverstok,beaver stick
-bøhmand,bogeyman
 bøde,fine
-bøf,steak
 bøf,beefsteak
+bøf,steak
 bøffel,buffalo
 bøg,beech
-bøje,bend
-bøje,incline
+bøhmand,bogeyman
 bøje,beinclined
+bøje,bend
 bøje,buoy
+bøje,incline
+bøje sig,bend
+bøje sig,stoop
 bøjet,bent
 bøjet,curved
-bøje sig,stoop
-bøje sig,bend
 bølge,wave
 bølgebryder,breakwater
 bølgefunktion,wavefunction
@@ -1608,20 +1616,12 @@ bøsse,gun
 bøssebar,gay bar
 bøssekarl,gay man
 bøssepest,aids
-bøsserøv,faggot
 bøsserøv,fag
+bøsserøv,faggot
 bøsserøv,gay man
-båd,boat
-både,both
-bådhus,boathouse
-bånd,bond
-bånd,tie
-båndoptager,tape recorder
-båre,litter
-båre,strecher
 café,café
-café,coffeehouse
 café,coffee shop
+café,coffeehouse
 camping,campingground
 camping,campingsite
 campingvogn,caravan
@@ -1643,9 +1643,9 @@ centrum,centre
 ceremoni,ceremony
 champagne,champagne
 champignon,mushroom
+chauffør,chauffeur
 chauffør,conductor
 chauffør,driver
-chauffør,chauffeur
 chef,boss
 chef,chief
 chef,leader
@@ -1664,8 +1664,8 @@ cigaretrygning,cigarette smoking
 cigaretrør,cigarette holder
 cigaretskod,cigarette stump
 cigaretsælger,cigarette salesperson
-cigarettænder,cigarette lighter
 cigarettænder,cigarette igniter
+cigarettænder,cigarette lighter
 cirkel,circle
 cirkelafsnit,circular segment
 cirkeludsnit,circular sector
@@ -1689,9 +1689,9 @@ computerspil,video game
 cowboybukser,jeans
 curiepunkt,curie point
 curietemperatur,curie temperature
+cykel,bicycle
 cykel,bike
 cykel,cycle
-cykel,bicycle
 cykeldæk,bicycle tire
 cykelhjul,bike wheel
 cykelpumpe,bicycle pump
@@ -1702,8 +1702,8 @@ cylinder,roller
 cypres,cypres
 da,then
 daddel,date
-dadle,reproach
 dadle,rebuke
+dadle,reproach
 dadle,reprove
 dadle,scold
 dag,day
@@ -1720,8 +1720,8 @@ damp,steam
 damp,vapor
 damp,vapour
 dampskib,steamboat
-dampskib,steamship
 dampskib,steamer
+dampskib,steamship
 damspil,checkers
 danmark,denmark
 danne,form
@@ -1751,9 +1751,9 @@ defekt,damage
 deficit,deficit
 definitionsmængde,domain
 dekan,dean
-dekoration,décor
-dekoration,decoration
 dekoration,adornment
+dekoration,decoration
+dekoration,décor
 dekoration,ornament
 del,part
 del,piece
@@ -1785,12 +1785,12 @@ demokratisk,democratic
 den,it
 dens,its
 dependensgrammatik,dependency grammar
-deponeringsplads,landfill
 deponeringsplads,dumpsite
+deponeringsplads,landfill
 deprimeret,depressed
 der,that
-der,who
 der,there
+der,who
 derefter,afterwards
 derefter,next
 derefter,subsequently
@@ -1803,8 +1803,8 @@ derhen,that way
 derhen,there
 derhen,thither
 derhen,yonder
-deri,therein
 deri,in there
+deri,therein
 derned,down there
 dernede,down there
 derop,up there
@@ -1820,23 +1820,23 @@ desinficere,disinfect
 desperat,desperate
 dessert,dessert
 desuden,besides
+desuden,furthermore
 desuden,in addition
 desuden,moreover
-desuden,furthermore
 desværre,alas
 desværre,regrettably
 desværre,unfortunately
 det,it
-det,that
 det,she
+det,that
 det at rejse,travelling
-detektiv,detective
-dets,its
 det er en skam,alas
 det er en skam,regrettably
-det er en skam,unfortunately
 det er en skam,that's too bad
+det er en skam,unfortunately
 det er en skam,what a pity
+detektiv,detective
+dets,its
 dialekt,dialect
 diamant,diamond
 diameter,diameter
@@ -1934,9 +1934,9 @@ dyb,deep
 dyb,profound
 dybde,depth
 dybhav,deep sea
-dybsindig,profound
 dybsindig,deep
 dybsindig,insightful
+dybsindig,profound
 dygtig,able
 dygtig,capable
 dykke,dive
@@ -1946,22 +1946,16 @@ dynamit,dynamite
 dynd,mud
 dyr,animal
 dyr,beast
+dyr,costly
 dyr,dear
 dyr,expensive
-dyr,valuable
-dyr,costly
 dyr,pricey
+dyr,valuable
 dyrebestand,animal population
 dyrke,adore
 dyrke,worship
 dyrlæge,veterinarian
 dyrskue,livestock show
-dæk,deck
-dæk,tyre
-dæk,tire
-dække,cover
-dæmning,dike
-dæmning,embankment
 dårlig,bad
 dårlig,miserable
 dårlig,nasty
@@ -1971,6 +1965,12 @@ dåse,box
 dåseoplukker,can opener
 dåseoplukker,tin opener
 dåseøl,can of beer
+dæk,deck
+dæk,tire
+dæk,tyre
+dække,cover
+dæmning,dike
+dæmning,embankment
 dø,die
 dø,expire
 dø,pass away
@@ -1999,13 +1999,13 @@ dødstrussel,death threat
 dødsårsag,cause of death
 dødsønske,death wish
 dødvægt,dead weight
-dømme,judge
 dømme,condemn
+dømme,judge
 dømme,sentence
 dør,door
 dørklokke,doorbell
-dørmand,doorman
 dørmand,bouncer
+dørmand,doorman
 dørmåtte,doormat
 dørtrin,sill
 dørtrin,threshold
@@ -2017,8 +2017,8 @@ ed,oath
 edderkop,spider
 edderkoppeben,spider leg
 edderkoppespind,spiderweb
-edikke,vinegar
 eddikesur,acetic
+edikke,vinegar
 efter,after
 efter,behind
 efterchok,aftershock
@@ -2026,13 +2026,13 @@ efterfølge,succeed
 efterhånden,gradually
 efterhånden,littlebylittle
 efterlade,leavebehind
-efterligne,imitate
 efterligne,copy
+efterligne,imitate
 efterligning,imitation
 eftermiddag,afternoon
-efternavn,surname
-efternavn,last name
 efternavn,family name
+efternavn,last name
+efternavn,surname
 efterskælv,aftershock
 eftertanke,subsequent reflection
 eftertid,posterity
@@ -2049,13 +2049,13 @@ egernbestand,squirrel population
 egetræ,oak
 egetræ,oak tree
 egnethed,ability
-egoistisk,self‐interested
 egoistisk,selfish
+egoistisk,self‐interested
 eje,own
 eje,possess
+ejendom,ownership
 ejendom,possession
 ejendom,property
-ejendom,ownership
 ejendommelig,characteristic
 ejendommelig,typical
 ejendomsmægler,broker
@@ -2096,10 +2096,10 @@ eller,or
 ellers,elsewhere
 elleve,eleven
 elm,elm
-elsass‐lothringen,alsace‐lorraine
 elsasser,alsatian
-elske,love
+elsass‐lothringen,alsace‐lorraine
 elske,court
+elske,love
 elske,woo
 elskværdig,amiable
 elskværdig,kind
@@ -2109,18 +2109,21 @@ embede,function
 embede,job
 embede,office
 embede,post
+embedsmand,civil servant
 embedsmand,officer
 embedsmand,official
-embedsmand,civil servant
 emblem,emblem
 emhætte,extractor hood
 emhætte,kitchen hood
 emne,subject
 emne,theme
 emne,topic
-en,one
 en,a
 en,an
+en,one
+en gang,once
+en gang,onetime
+en og tyve,twenty‐one
 end,than
 ende,end
 ende,ending
@@ -2175,11 +2178,8 @@ enlig,single
 enorm,enormous
 ensian,gentian
 ensproget,monolingual
-entré,hall
-en gang,once
-en gang,onetime
-en og tyve,twenty‐one
 ental,singular
+entré,hall
 epoke,age
 epoke,epoch
 epoke,era
@@ -2191,23 +2191,23 @@ erhverv,gain
 erhvervelse,accession
 erhvervelse,acquisition
 erhvervelse,asset
-erhvervs‐,professional
 erhvervsaffaldsgebyr,garbage fee
+erhvervs‐,professional
 erindring,memory
 erindring,recollection
 erklære,declare
 erklære,state
 erobre,conquer
 es,ace
-et,one
 et,a
 et,an
+et,one
 etage,floor
 etage,storey
 etage,story
 etiket,label
-europa,europe
 europa,europa
+europa,europe
 europæer,european
 europæisk,european
 europæisk union,european union
@@ -2230,18 +2230,18 @@ fag,pigeonhole
 fag,section
 fag,speciality
 fagforening,corporation
-fagforening,trade union
 fagforening,labour union
 fagforening,syndicate
+fagforening,trade union
 fagfællebedømmelse,peer review
 fagsprog,jargon
 fagsprog,language (especially vocabulary) associated with a profession
 fakkel,torch
 faktisk,actually
 faktisk,asamatteroffact
+faktisk,genuinely
 faktisk,indeed
 faktisk,infact
-faktisk,genuinely
 faktisk,really
 faktisk,truly
 faktum,fact
@@ -2266,23 +2266,23 @@ fangst,catch
 fangst,prey
 fantasi,fantasy
 far,father
-farbror,uncle
 farbror,paternal uncle
+farbror,uncle
 fare,danger
-fare,peril
 fare,go
+fare,peril
 fare,ride
 fare,travel
 farlig,dangerous
 farmand,daddy
 fart,speed
-farve,paint
 farve,colour
 farve,dye
+farve,paint
 farve,tint
 farvel,adieu
-farvel,farewell
 farvel,bye
+farvel,farewell
 farvel,goodbye
 farvel så længe,bye
 farvel så længe,goodbye
@@ -2290,26 +2290,26 @@ farvel så længe,so long
 farvestof,food colouring
 farvestof,pigment
 fasan,pheasant
-fastboende,resident
-faststoffysiker,condensed matter physicist
-fastsætte,attach
-fastsætte,determine
-fastsætte,fasten
-fastsætte,fix
-fastsætte,affix
-fastsætte,makefast
-fastsætte,secure
-fast,fixed
 fast,fast
 fast,firm
-fast,stable
+fast,fixed
 fast,robust
-fast,sturdy
 fast,solid
+fast,stable
+fast,sturdy
+fastboende,resident
 faster,aunt
 faster,paternal aunt
 fastland,continent
 fastland,mainland
+faststoffysiker,condensed matter physicist
+fastsætte,affix
+fastsætte,attach
+fastsætte,determine
+fastsætte,fasten
+fastsætte,fix
+fastsætte,makefast
+fastsætte,secure
 fattig,miserable
 fattig,poor
 fattigdom,poverty
@@ -2322,8 +2322,8 @@ fed,fatty
 fed,greasy
 fedt,fat
 fedt,grease
-fedterøv,sycophant
 fedterøv,asskisser
+fedterøv,sycophant
 fedtsyre,fatty acid
 feje,sweep
 fejekost,broom
@@ -2335,8 +2335,8 @@ fejlfarve,person of colour
 fejre,celebrate
 fejre fødselsdag,celebrating one's birthday
 feltarbejde,field work
-feltflaske,flask
 feltflaske,canteen
+feltflaske,flask
 feltflaske,water bottle
 fem,five
 femsproget,pentalingual
@@ -2345,9 +2345,9 @@ femten,fifteen
 femtende,fifteenth
 femteudgave,fifth edition
 fennikel,fennel
-ferie,vacation
 ferie,sparetime
 ferie,timeoff
+ferie,vacation
 fernis,lacquer
 fersken,peach
 ferskvand,freshwater
@@ -2360,8 +2360,8 @@ feste,celebrate
 festmåltid,banquet
 festmåltid,feast
 figen,fig
-figur,figure
 figur,diagram
+figur,figure
 figur,image
 figur,picture
 figur,representation
@@ -2382,9 +2382,9 @@ filt,felt
 filter,filter
 filtrere,filter
 finale,decider
-finale,play‐off
-finale,playoff
 finale,final
+finale,playoff
+finale,play‐off
 finanslov,"the national budget of a state, especially the danish state"
 finde,find
 finger,finger
@@ -2392,8 +2392,8 @@ fingerbøl,thimble
 fingernegl,fingernail
 fingerspids,fingertip
 finland,finland
-finne,finn
 finne,fin
+finne,finn
 finsk,finnish
 finskåren,minced
 finskåren,shredded
@@ -2407,8 +2407,8 @@ firma,company
 firma,firm
 firs,eighty
 firsproget,quadrilingual
-fisefornem,snobbish
 fisefornem,pretentious
+fisefornem,snobbish
 fisk,fish
 fiske,fish
 fiskebestand,fish population
@@ -2432,12 +2432,12 @@ fjerne,get rid of
 fjerne,remove
 fjernsyn,television
 fjernsyn,tv
-fjernsynsapparat,tvset
 fjernsynsapparat,televisionset
+fjernsynsapparat,tvset
 fjorten,fourteen
-fjortende,fourteenth
 fjorten dage,fortnight
 fjorten dage,two weeks
+fjortende,fourteenth
 fjumreår,gap year
 flad,even
 flad,flat
@@ -2474,8 +2474,8 @@ flonel,flannel
 flue,fly
 flue,housefly
 flueknepperi,hair-splitting
-fluepapir,flypaper
 fluepapir,crowded beach
+fluepapir,flypaper
 fluesmækker,flyswatter
 flugt,flight
 flugt,run
@@ -2484,8 +2484,8 @@ flydende,fluid
 flydende,liquid
 flygte,flee
 flygte,runaway
-flytning,removal
 flytning,move
+flytning,removal
 flytte,move
 flyttebil,moving truck
 flyttemand,mover
@@ -2494,9 +2494,10 @@ flyttevogn,pantechnicon
 flyttevogn,pantechnicon van
 flyve,fly
 flyvemaskine,aeroplane
+flyvemaskine,aircraft
 flyvemaskine,airplane
 flyvemaskine,plane
-flyvemaskine,aircraft
+flåde,fleet
 fløde,cream
 flødebolle,"a piece of confectionery consisting, in its most basic form, of whipped egg whites with sugar on a wafer and covered in chocolate"
 flødeis,ice cream
@@ -2505,11 +2506,10 @@ flødekaramel,toffee
 flødeskum,whipped cream
 fløjte,flute
 fløjte,whistle
-flåde,fleet
 fod,foot
 fodbold,football
-fodboldspiller,footballer
 fodboldspiller,football player
+fodboldspiller,footballer
 fodboldspiller,soocer player
 foderstof,feed
 fodgænger,pedestrian
@@ -2536,10 +2536,10 @@ folketinget,the folketing (the danish parliament)
 fontæne,fountain
 for,at
 for,to
-for,toward
-for,towards
 for,too
 for,toomuch
+for,toward
+for,towards
 for ... siden,...ago
 foragt,contempt
 foragte,despise
@@ -2547,8 +2547,8 @@ forandre,alter
 forandre,change
 forandre,turn
 forbavselse,astonishment
-forbavselse,wonder
 forbavselse,surprise
+forbavselse,wonder
 forberede,prepare
 forbi,beyond
 forbi,by
@@ -2578,15 +2578,15 @@ fordelagtig,advantageous
 fordele,distribute
 fordeler,distributor
 fordeling,distribution
-fordi,because
-fordi,forthereasonthat
 fordi,as
+fordi,because
 fordi,for
+fordi,forthereasonthat
 fordi,since
 fordoble,double
 fordom,prejudice
-fordomsfuld,prejudiced
 fordomsfuld,bigoted
+fordomsfuld,prejudiced
 fordre,demand
 fordre,postulate
 fordre,require
@@ -2594,17 +2594,17 @@ fordøje,digest
 fordøjelse,digestion
 fordømme,damn
 foredrag,lecture
+foregive,feign
 foregive,giveasanexcuse
 foregive,pretend
-foregive,feign
-forekomme,come about
-forekomme,happen
-forekomme,occur
-forekomme,befound
-forekomme,belocated
-forekomme,find oneself
 forekomme,appear
 forekomme,appeartobe
+forekomme,befound
+forekomme,belocated
+forekomme,come about
+forekomme,find oneself
+forekomme,happen
+forekomme,occur
 forekomme,seem
 forel,trout
 forelske sig,fall in love with
@@ -2617,26 +2617,26 @@ forestille,fancy
 forestille,imagine
 foretage,undertake
 foretrække,prefer
-forfald,decay
 forfald,adversity
+forfald,decay
 forfatningsbrud,breach of constitution
 forfatningssikret,secured by a constitution
-forfatningsstridig,unconstitutional
 forfatningsstridig,conflicting with a constitution
+forfatningsstridig,unconstitutional
 forfatter,author
 forfatter,writer
 forfængelig,conceited
 forfængelig,frivolous
 forfængelig,vain
 forfængelighed,vanity
+forfærdelig,abysmal
 forfærdelig,alarmed
 forfærdelig,dismayed
-forfærdelig,dumbfounded
-forfærdelig,put out of countenance
-forfærdelig,abysmal
 forfærdelig,dreadful
+forfærdelig,dumbfounded
 forfærdelig,gruesome
 forfærdelig,horrible
+forfærdelig,put out of countenance
 forfærdelig,terrible
 forfølge,chase
 forfølge,persecute
@@ -2648,22 +2648,22 @@ forhen,ahead
 forhen,formerly
 forhen,previously
 forhindre,bar
+forhindre,hinder
 forhindre,inhibit
 forhindre,prevent
-forhindre,hinder
 forhold,relation
 forhold,understanding
 forholdsord,preposition
 forhud,foreskin
 forklare,accountfor
-forklare,explain
 forklare,clarify
+forklare,explain
 forklaring,account
 forklaring,explanation
 forkorte,abbreviate
 forkorte,abridge
-forkorte,shorten
 forkorte,curtail
+forkorte,shorten
 forkæle,coddle
 forkæle,pamper
 forkæle,pet
@@ -2671,22 +2671,22 @@ forkælet,spoiled
 forkølelse,cold
 forkørselsret,right of way
 forlade,abandon
-forlade,forsake
 forlade,desert
+forlade,forsake
 forlade,leave
 forlade,quit
 forlegen,abashed
 forlegen,self‐conscious
 forlegen,shy
-forlovede,bride
-forlovede,fiancée
-forlovede,fiancé
-forlovelse,betrothal
-forlovelse,engagement
 forlove sig,become engaged
 forlove sig med,become engaged with
 forlove sig med,become the fiacée of
 forlove sig med,become the fiancé of
+forlovede,bride
+forlovede,fiancé
+forlovede,fiancée
+forlovelse,betrothal
+forlovelse,engagement
 forlægger,publisher
 form,form
 form,shape
@@ -2700,22 +2700,22 @@ formål,goal
 formål,purpose
 formål,target
 formålstjenlig,expedient
-fornavn,given name
-fornavn,first name
 fornavn,christian name
+fornavn,first name
+fornavn,given name
 forneden,below
 forneden,downstairs
 forneden,underneath
 fornemmelse,emotion
 fornuft,intellect
+fornuft,logical reasoning
 fornuft,mind
 fornuft,reason
-fornuft,logical reasoning
 fornuftig,prudent
 fornuftig,reasonable
-fornuftig,sensible
 fornuftig,sagacious
 fornuftig,sage
+fornuftig,sensible
 fornuftig,wise
 forny,renew
 fornyelsesproces,renewal process
@@ -2734,9 +2734,9 @@ forsamles,assemble
 forsamles,congregate
 forsamles,gather
 forsamles,meet
-forsamling,meeting
 forsamling,assemblage
 forsamling,gathering
+forsamling,meeting
 forsigtig,careful
 forsigtig,cautious
 forsigtighed,caution
@@ -2749,18 +2749,18 @@ forskellig,different
 forskelsbehandle,discriminate
 forskningschef,director of research
 forskningschef,head of research
+forskrække,alarm
 forskrække,frighten
 forskrække,terrify
-forskrække,alarm
 forspil,foreplay
 forstad,suburb
 forstyrre,bother
 forstyrre,disturb
 forstyrre,hinder
 forstyrre,trouble
-forstærke,fortify
-forstå,understand
 forstå,realize
+forstå,understand
+forstærke,fortify
 forsvar,defence
 forsvar,defense
 forsvare,defend
@@ -2777,12 +2777,12 @@ forsøgsopstilling,experimental setup
 forsømme,neglect
 fortegn,sign
 fortid,past
-fortjene,earn
-fortjene,gain
-fortjene,win
 fortjene,be worthy of
 fortjene,deserve
+fortjene,earn
+fortjene,gain
 fortjene,merit
+fortjene,win
 fortov,pavement
 fortov,sidewalk
 fortovscafé,pavement cafe
@@ -2807,27 +2807,28 @@ forudsige,forecast
 forudsige,foretell
 forudsige,prophesy
 forvente,abide
-forvente,expect
-forvente,wait
-forvente,await
-forvente,waitfor
 forvente,advert
+forvente,await
+forvente,expect
 forvente,pay attention
 forvente,pay attention to
+forvente,wait
+forvente,waitfor
 forvente,watch out for
 forventning,expectation
 forventningsværdi,expected value
 forvirre,confuse
 forvirre,puzzle
-forældre,parents
-forødelse,waste
 forår,spring
 forår,springtime
-forårstegn,sign of spring
 forårsrulle,spring roll
+forårstegn,sign of spring
+forældre,parents
+forødelse,waste
 fotograf,photographer
 fotografere,photograph
 fotografi,photography
+fra tid til anden,nowandthen
 fradrage,subtract
 frakke,coat
 frakke,overcoat
@@ -2835,14 +2836,13 @@ fralandsvind,offshore wind
 frankrig,france
 fransk,french
 fransk,french language
+fransk kvinde,french woman
 franskbrød,white bread
 franskmand,frenchman
-fransk kvinde,french woman
 fraskilt,divorced
 fraværelse,absence
 fraværelse,non‐attendance
 fraværende,absent
-fra tid til anden,nowandthen
 fred,peace
 fredag,friday
 fredsforstyrrer,troublemaker
@@ -2852,9 +2852,9 @@ fremad,ahead
 fremad,foreward
 fremad,on
 frembringe,bring forth
+frembringe,engender
 frembringe,generate
 frembringe,produce
-frembringe,engender
 fremgang,progress
 fremkomst,appearance
 fremmed,alien
@@ -2869,17 +2869,17 @@ fremskridt,progress
 fremstillingsmetode,manufacturing method
 fremtid,future
 fremtidig,future
-fremtrædende,prominent
 fremtrædende,famous
 fremtrædende,noteworthy
+fremtrædende,prominent
 fridag,day off
 frigive,release
 frihed,freedom
 frikvarter,recess
 frimurer,freemason
 frimurer,mason
-frimærke,stamp
 frimærke,postage stamp
+frimærke,stamp
 frisk,fresh
 frisk,recent
 frisør,barber
@@ -2911,15 +2911,15 @@ fuglebestand,bird population
 fugleedderkop,tarantula
 fugleklo,bird claw
 fugtig,moist
-fuld,drunk
-fuld,intoxicated
 fuld,complete
+fuld,drunk
 fuld,full
-fuldende,finish
+fuld,intoxicated
 fuldende,accomodate
 fuldende,end
-fuldende,terminate
+fuldende,finish
 fuldende,prepare
+fuldende,terminate
 fuldstændig,absolute
 fuldstændig,complete
 fundament,element
@@ -2935,8 +2935,8 @@ funktion,function
 fylde,fill
 fylde,fillin
 fylde,fillup
-fyldepen,fountain‐pen
 fyldepen,fountainpen
+fyldepen,fountain‐pen
 fyr,pine
 fyr,pine tree
 fyrre,forty
@@ -2946,33 +2946,41 @@ fyrretyve,forty
 fyrrum,boiler room
 fyrtårn,lighthouse
 fysik,physics
+få,few
+få,get
+få,have
+få,receive
+får,sheep
+fårehund,sheepdog
+fårehyrde,shepherd
+fårekød,mutton
 fædreland,fatherland
 fælde,snare
 fælde,trap
-fælg,felly
 fælg,felloe
+fælg,felly
 fælg,rim
 fælles,common
 fælles,joint
 fælleskøn,common gender
 fællesmængde,intersection
-fællessprog,lingua franca
 fællessprog,common language
-fængsel,jail
+fællessprog,lingua franca
 fængsel,gaol
+fængsel,jail
 fængsel,prison
 færdig,finished
 færdig,ready
 færdig,through
 færdigret,ready meal
 færdsel,traffic
-færdselstavle,traffic sign
 færdselstavle,road sign
+færdselstavle,traffic sign
 fæstning,fortification
 fætter,cousin
-fødevare,foodstuff
 fødested,cradle
 fødested,place of birth
+fødevare,foodstuff
 fødsel,birth
 fødselsattest,birth certificate
 fødselsdag,birthday
@@ -2983,39 +2991,31 @@ følelse,feeling
 følelse,sensation
 følge,consequence
 følge,consistency
-følge,result
 følge,follow
-følgende,next
+følge,result
 følgende,following
+følgende,next
 følsom,affecting
 følsom,moving
-følsom,touching
 følsom,sensitive
+følsom,touching
 før,before
 før,in front of
 førdatid,pluperfect tense
 føre,conduct
 føre,guide
 føre,lead
+fører,chauffeur
 fører,conductor
 fører,driver
-fører,chauffeur
 førnutid,perfect tense
 først,first
-først,firstly
 først,first of all
+først,firstly
 første,first
 førstehjælp,first aid
 førsteudgave,first edition
 førtidspension,early retirement
-få,get
-få,have
-få,receive
-få,few
-får,sheep
-fårehund,sheepdog
-fårehyrde,shepherd
-fårekød,mutton
 gabe,yawn
 gade,street
 gaffel,fork
@@ -3031,10 +3031,10 @@ galmandsværk,insane actions
 galop,gallop
 gammel,old
 gammeldansk,middle danish
-gang,occasion
-gang,time
 gang,corridor
+gang,occasion
 gang,passage
+gang,time
 gangster,gangster
 gangster,hoodlum
 garage,garage
@@ -3059,8 +3059,8 @@ gedde,pike
 gejstlig,clergyman
 gemme,conceal
 gemme,hide
-gemmested,hiding place
 gemmested,hide out
+gemmested,hiding place
 generation,generation
 generel,general
 generel,usual
@@ -3072,15 +3072,15 @@ gennembrud,breakthrough
 gennemgå,abide
 gennemgå,bear
 gennemgå,endure
-gennemgå,put up with
-gennemgå,suffer
 gennemgå,experience
 gennemgå,live through
+gennemgå,put up with
+gennemgå,suffer
 gennemgå,survive
 gennemse,cover
 gennemse,go through
-gennemse,pass through
 gennemse,look through
+gennemse,pass through
 gennemse,revise
 gennemse,view
 gennemsigtig,transparant
@@ -3115,12 +3115,12 @@ gevær,rifle
 gift,married
 gift,poison
 giftaffald,toxic waste
-gifte sig,marry
 gifte sig,bemarried
 gifte sig,get married
+gifte sig,marry
+gifte sig med,become the husband of
 gifte sig med,become the wife of
 gifte sig med,marry
-gifte sig med,become the husband of
 giftig,poisonous
 giftstof,toxin
 giraf,giraffe
@@ -3135,8 +3135,8 @@ give et knus,embrace
 give et knus,hug
 give ud,payout
 give ud,spend
-glad,happy
 glad,glad
+glad,happy
 glansbillede,colored scrap
 glas,glass
 glasøje,glass eye
@@ -3146,8 +3146,8 @@ glide ud,skid
 glide ud,slip
 glidecreme,lube
 glæde,gladness
-glæde,joy
 glæde,glow
+glæde,joy
 gnide,rub
 gnist,spark
 god,good
@@ -3209,13 +3209,13 @@ gren,branch
 greve,count
 greve,earl
 gribe,clutch
+gribe,get
 gribe,grab
 gribe,grasp
 gribe,grip
-gribe,seize
-gribe,get
 gribe,lay hold of
 gribe,pickup
+gribe,seize
 gribe,take
 gribeklo,"claw that can seize something, e.g. on a bird or a machine"
 grim,nasty
@@ -3223,9 +3223,9 @@ grim,ugly
 grimasse,grimace
 grin,laughs
 grine,laugh
-gris,piglet
 gris,hog
 gris,pig
+gris,piglet
 gris,swine
 grotesk,grotesque
 grotte,cave
@@ -3259,6 +3259,7 @@ grusom,cruel
 gryde,pot
 grydehår,hairstyle accomplished by placing a pot on someone's head and cutting along the edge
 grydelap,potholder
+grå,grey
 græde,cry
 græde,weep
 grækenland,greece
@@ -3275,7 +3276,6 @@ græsk,greek
 græsk kvinde,greekwoman
 græsplæne,lawn
 grævling,badger
-grå,grey
 grød,gruel
 grød,mess
 grød,mush
@@ -3292,8 +3292,8 @@ guirlande,wreath
 guitar,guitar
 gul,yellow
 gulaglejr,gulag
-guldbrakteat,gold bracteate
 guld,gold
+guldbrakteat,gold bracteate
 guldfisk,goldfish
 guldkysten,used to refer to several areas of the world typically referred to in english as the gold coast
 guldsmed,goldsmith
@@ -3307,14 +3307,34 @@ gummi,rubber
 gunstig,advantageous
 gunstig,favourable
 guvernørpost,governorship
+gylden,golden
+gylden,gold‐coloured
 gylden,guilder
 gylden,gulden
-gylden,gold‐coloured
-gylden,golden
 gyldig,valid
 gymnasieelev,gymnasiast
 gymnasium,highschool
 gymnastik,gymnastics
+gå,go
+gå,march
+gå,walk
+gå foran,precede
+gå i seng,gotobed
+gå ud,absent onself
+gå ud,depart
+gå ud,go away
+gå ud,leave
+gård,estate
+gård,farm
+gård,property
+gård,ranch
+gårdsplads,court
+gårdsplads,courtyard
+gårdsplads,yard
+gårsdag,yesterday
+gås,goose
+gåsepotentil,silverweed
+gåtur,a walk
 gæld,debt
 gælle,gill
 gærdesmutte,wren
@@ -3339,26 +3359,10 @@ gøre rent,clean
 gøre rent,cleanse
 gøre rent,make clean
 gøre rent,purge
-gå,go
-gå,march
-gå,walk
-gå foran,precede
-gå i seng,gotobed
-gå ud,absent onself
-gå ud,depart
-gå ud,go away
-gå ud,leave
-gårdsplads,court
-gårdsplads,yard
-gårdsplads,courtyard
-gårsdag,yesterday
-gås,goose
-gård,estate
-gård,farm
-gård,property
-gård,ranch
-gåsepotentil,silverweed
-gåtur,a walk
+ha' det godt,adieu
+ha' det godt,bye
+ha' det godt,farewell
+ha' det godt,goodbye
 had,hate
 hade,hate
 hadprædikant,hate preacher
@@ -3401,20 +3405,20 @@ handel,commerce
 handel,trade
 handicaptoilet,toilet meant to be used by disabled people
 handle,do business
-handle,trade
 handle,negotiate
+handle,trade
+handling,accomplishment
 handling,achievement
 handling,act
 handling,action
-handling,accomplishment
 handlingslammet,paralyzed
 handske,glove
 handske,mitten
 handskerum,glove compartment
-hane,faucet
-hane,tap
 hane,cock
+hane,faucet
 hane,rooster
+hane,tap
 hankat,male cat
 hankøn,male gender
 hankøn,male sex
@@ -3433,9 +3437,9 @@ hast,speed
 hastighedsgrænse,speed limit
 hat,hat
 hav,sea
+have,garden
 have,have
 have,havegot
-have,garden
 have medlidenhed,have compassion on
 have medlidenhed,pity
 have medlidenhed med,have compassion on
@@ -3456,14 +3460,10 @@ havn,port
 havre,oats
 havregryn,oatmeal
 havsalt,sea salt
-ha' det godt,adieu
-ha' det godt,farewell
-ha' det godt,bye
-ha' det godt,goodbye
 hed,hot
 hedde,becalled
-hede,heath
 hede,heat
+hede,heath
 hej,hello
 hej,hi
 hejre,heron
@@ -3474,17 +3474,17 @@ hel,overall
 hel,whole
 held,luck
 helhedsvurdering,holistic assessment
-hellere,preferably
-hellere,rather
 heller ikke,neither
 heller ikke,nor
+hellere,preferably
+hellere,rather
 helligdag,holiday
 helsingør,elsinore
 helst,preferably
 helst,rather
-helt,hero
 helt,atall
 helt,entirely
+helt,hero
 helt,quite
 helt,wholly
 heltal,integer
@@ -3497,19 +3497,19 @@ hende,her
 hendes,her
 hensigt,aim
 hensigt,goal
-hensigt,purpose
-hensigt,target
 hensigt,intention
 hensigt,meaning
 hensigt,plan
+hensigt,purpose
+hensigt,target
 hensynsled,indirect object
 hente,fetch
 hente,get
 hente,pickup
 hentydning,allusion
 henvendelse,request
-henvise,refer
 henvise,link
+henvise,refer
 herberg,hostel
 herberg,inn
 herefter,afterwards
@@ -3533,8 +3533,8 @@ herre,gentleman
 herre,lord
 herrebesøg,visit form a male of a romantic and/or sexual nature
 hertil,here
-herved,hereby
 hertugdømme,duchy
+herved,hereby
 hest,horse
 hestekraft,horsepower
 hestesko,horseshoe
@@ -3543,8 +3543,8 @@ hestestald,stable
 hid,here
 hid,hither
 hid,this way
-hidtil,so far
 hidtil,hitherto
+hidtil,so far
 hilbertrum,hilbert space
 hilse,greet
 hilse,salute
@@ -3561,33 +3561,33 @@ hinanden,one another
 hindbær,raspberry
 hindbærsnitte,"cake made from two layers of sweet, crumbly dough around a filling of raspberry and usually topped with icing"
 hindre,bar
+hindre,bother
+hindre,disturb
 hindre,hinder
 hindre,inhibit
 hindre,prevent
-hindre,bother
-hindre,disturb
 hindre,trouble
 hingst,stallion
-historie,story
 historie,history
+historie,story
 hjem,home
 hjemme,at home
 hjemmeside,homepage
 hjemmeside,web site
 hjerne,brain
 hjernedød,brain dead
-hjernedød,stupid
 hjernedød,retarded
+hjernedød,stupid
 hjerneforsker,brain researcher
 hjerte,heart
+hjerteanfald,heart attack
+hjertelig,cordial
+hjertelig,hearty
+hjertelig,warm
+hjertestop,cardiac arrest
+hjertestop,heart failure
 hjerte‐,cardiac
 hjerte‐,heart‐
-hjerteanfald,heart attack
-hjertestop,heart failure
-hjertestop,cardiac arrest
-hjertelig,hearty
-hjertelig,cordial
-hjertelig,warm
 hjortekød,venison
 hjul,wheel
 hjælp,aid
@@ -3605,9 +3605,9 @@ hofteben,hip bone
 hofteholder,garter belt
 holde,hang onto
 holde,hold
-holdeplads,stop
 holde hus,keephouse
 holde hus,manage
+holdeplads,stop
 holdning,attitude
 holdningstilkendegivelse,expression of one's opinion
 holland,holland
@@ -3620,8 +3620,8 @@ horehus,brothel
 horehus,whorehouse
 horisont,horizon
 horkarl,adulterer
-horn,horn
 horn,hooter
+horn,horn
 horn,klaxon
 hornhinde,cornea
 hornugle,eagleowl
@@ -3631,14 +3631,14 @@ hos,at
 hos,beside
 hos,by
 hos,near
-hos,nearby
 hos,near to
+hos,nearby
 hos,next to
 hos,with
 hospital,hospital
 hoste,cough
-hostesaft,cough syrup
 hostesaft,cough mixture
+hostesaft,cough syrup
 hotel,hotel
 hov,hoof
 hoved,head
@@ -3648,16 +3648,16 @@ hovedpine,headache
 hovedpude,"pillow to rest one's head on, especially when sleeping"
 hovedregning,mental arithmetic
 hovedrig,very rich
-hovedserie,main series
 hovedsalat,lettuce
+hovedserie,main series
 hud,skin
-hue,cap
 hudfarve,skin color
+hue,cap
 hukommelse,memory
 hukommelse,recollection
 hul,concave
-hul,hollow
 hul,hole
+hul,hollow
 hummer,lobster
 hummerklo,libster claw
 hun,her
@@ -3677,10 +3677,10 @@ hungersnød,famine
 hunkøn,female gender
 hunkøn,female sex
 hunkønsvæsen,female
-hurtig,speedy
 hurtig,fast
 hurtig,quick
 hurtig,rapid
+hurtig,speedy
 hurtig,swift
 hurtigt,fast
 hurtigt,quickly
@@ -3697,8 +3697,8 @@ husmoder,housewife
 husnummer,number
 husnummer,number of the house
 hustru,wife
-hvad,what
 hvad,that
+hvad,what
 hvad er klokken?,what time is it?
 hval,whale
 hvede,wheat
@@ -3720,6 +3720,8 @@ hvirveldyr,vertebrate
 hviske,whisper
 hvislelyd,sibilant
 hvor,where
+hvor ... fra,from where
+hvor ... fra,whence
 hvordan,how
 hvordan,inwhatway
 hvordan har de det?,how are you?
@@ -3729,8 +3731,6 @@ hvorfor,what for
 hvorfor,wherefore
 hvorfor,why
 hvornår,when
-hvor ... fra,from where
-hvor ... fra,whence
 hyggelig,homy
 hygiejnisk,hygienic
 hyld,elder
@@ -3745,6 +3745,22 @@ hysterisk,hysterical
 hytte,cabin
 hytte,hut
 hytte,shack
+håb,hope
+håbe,hope
+hånd,hand
+håndjern,handcuff
+håndklæde,towel
+håndkuffert,suitcase
+håndkuffert,valise
+håndled,wrist
+håndtaske,handbag
+håndtryk,handshake
+håndvask,sink
+hår,hair
+hårbørste,hairbrush
+hård,hard
+hårdhed,hardness
+hårtørrer,blow dryer
 hæk,grate
 hæk,grid
 hæk,grill
@@ -3766,17 +3782,17 @@ hævngerrig,revengeful
 hø,hay
 høflig,courteous
 høflig,polite
-høflig,well‐mannered
 høflig,respectful
+høflig,well‐mannered
 høflighed,politeness
 høj,high
 høj,lofty
-høj,tall
 høj,loud
-højde,height
+høj,tall
 højde,altitude
-højdepunkt,high point
+højde,height
 højdepunkt,climax
+højdepunkt,high point
 højdeskræk,acrophobia
 højdespring,high jump
 højdespringer,high jumper
@@ -3794,12 +3810,12 @@ højtid,celebration
 højtid,festival
 højtid,party
 høne,chicken
-høne,hen
 høne,fowl
+høne,hen
 hønefuld,very drunk
 hør,flax
-høre,hear
 høre,findout
+høre,hear
 høre,learn of
 hørelse,hearing
 høretelefon,earphone
@@ -3811,22 +3827,6 @@ høst,harvest
 høstak,haystack
 høste,harvest
 høvl,plane
-håb,hope
-håbe,hope
-hånd,hand
-håndjern,handcuff
-håndklæde,towel
-håndkuffert,suitcase
-håndkuffert,valise
-håndled,wrist
-håndtryk,handshake
-håndtaske,handbag
-håndvask,sink
-hår,hair
-hårbørste,hairbrush
-hård,hard
-hårdhed,hardness
-hårtørrer,blow dryer
 i,a
 i,in
 i,inside
@@ -3834,8 +3834,34 @@ i,into
 i,on
 i,per
 i,within
-iagttagelse,observation
+i aften,this evening
+i anledning af,on the occasion of
+i dag,today
+i det mindste,at least
+i eftermiddag,this afternoon
+i familie,affined
+i familie,akin
+i familie,related
+i forbindelse med,toward
+i forbindelse med,towards
+i forbindelse med,with reference to
+i forgårs,the day before yesterday
+i går,yesterday
+i går aftes,lastnight
+i henhold til,according as
+i henhold til,according to
+i henhold til,as
+i henhold til,by
+i morgen,tomorrow
+i morgen aften,tomorrow evening
+i morgen tidlig,tomorrow morning
+i morges,this morning
+i nat,tonight
+i overmorgen,the day after tomorrow
+i tide,at the right time
+i tide,in time
 iagttagelse,notice
+iagttagelse,observation
 ideal,ideal
 identificere,identify
 identitet,identity
@@ -3852,10 +3878,10 @@ ihjelskyde,shootdead
 ikke,not
 ikke at kunne lide,dislike
 ilbud,courier
+ild,fire
 ild,glow
 ild,heat
 ild,passion
-ild,fire
 ilde,bad
 ilde,miserable
 ilde,nasty
@@ -3865,12 +3891,12 @@ ildkugle,fireball
 ildsjæl,fiery soul
 ildslukker,fire extinguisher
 iltog,fasttrain
-imitation,imitation
-imidlertid,for
 imidlertid,during
+imidlertid,for
 imidlertid,whereas
 imidlertid,while
 imidlertid,whilst
+imitation,imitation
 imod,across from
 imod,against
 imod,in exchange for
@@ -3903,8 +3929,8 @@ indgang,portal
 indhegning,fence
 indhegning,palisade
 indhold,contents
-indianer,indian
 indianer,american indian
+indianer,indian
 indien,india
 individ,individual
 individuel,individual
@@ -3934,14 +3960,15 @@ indskrænke,abridge
 indskrænke,confine
 indskrænke,limit
 indskrænke,restrict
-indtaste,goin
 indtaste,enter
+indtaste,goin
 indtaste,perform
-indtil,until
 indtil,till
+indtil,until
 indtryk,impression
 industri,industry
 industriaffald,industrial waste
+indvolde,intestines
 infanteri,infantry
 inflation,inflation
 influenza,flu
@@ -3965,10 +3992,10 @@ insekt,insect
 insektæder,insectivore
 inspektion,inspection
 institution,institution
-intelligent,intelligent
-intelligent,sagacious
 intelligenskvotient,intelligence quotient
 intelligensniveau,intelligence level
+intelligent,intelligent
+intelligent,sagacious
 interessant,interesting
 interesse,interest
 international,international
@@ -3981,7 +4008,6 @@ intolerant,intolerant
 invalid,disabled person
 invasion,invasion
 invitere,invite
-indvolde,intestines
 irland,ireland
 irlænder,irishman
 ironisk,ironic
@@ -3989,11 +4015,11 @@ is,ice
 is,icecream
 isbjerg,iceberg
 isbjørn,polar bear
+ishavet,arctic ocean
 ishockeyspiller,ice hockey player
+island,iceland
 islandsk,icelandic
 islænding,icelander
-ishavet,arctic ocean
-island,iceland
 israel,israel
 issyl,ice pick
 istap,icicle
@@ -4007,32 +4033,6 @@ italiener,italian
 iver,fervor
 iver,fervour
 iver,zeal
-i aften,this evening
-i anledning af,on the occasion of
-i dag,today
-i det mindste,at least
-i eftermiddag,this afternoon
-i familie,affined
-i familie,akin
-i familie,related
-i forbindelse med,toward
-i forbindelse med,towards
-i forbindelse med,with reference to
-i forgårs,the day before yesterday
-i går,yesterday
-i går aftes,lastnight
-i henhold til,according as
-i henhold til,according to
-i henhold til,as
-i henhold til,by
-i morgen,tomorrow
-i morgen aften,tomorrow evening
-i morgen tidlig,tomorrow morning
-i morges,this morning
-i nat,tonight
-i overmorgen,the day after tomorrow
-i tide,at the right time
-i tide,in time
 ja,yes
 jage,chase
 jage,hunt
@@ -4042,10 +4042,10 @@ japan,japan
 japaner,japanese
 jeg,i
 jeres,your
-jern‐,iron
 jern,iron
 jernbane,railroad
 jernbane,railway
+jern‐,iron
 jogge,jog
 jord,earth
 jord,land
@@ -4147,8 +4147,8 @@ kasserolle,saucepan
 kassette,cassette
 kastanje,chestnut
 kastanje,horse chestnut
-kastanjebrun,chestnut
 kastanjebrun,auburn
+kastanjebrun,chestnut
 kaste,throw
 kaste op,throw up
 kaste op,vomit
@@ -4156,8 +4156,8 @@ kaste tilbage,reflect
 kastebold,plaything
 kastegynge,swingboat
 kastel,citadel
-kasteløs,without caste
 kasteløs,pariah
+kasteløs,without caste
 kastespyd,javelin
 kastrat,eunuch
 kastrere,castrate
@@ -4169,8 +4169,8 @@ katalog,directory
 katapult,catapult
 katapultsæde,ejection seat
 katar,catarrh
-katastrofal,disastrous
 katastrofal,catastrophic
+katastrofal,disastrous
 katastrofe,catastrophe
 katastrofefilm,disaster movie
 katastrofelanding,crash landing
@@ -4211,8 +4211,8 @@ kilogram,kilo
 kilometer,kilometre
 kina,china
 kind,cheek
-kindskæg,whiskers
 kindskæg,side whiskers
+kindskæg,whiskers
 kineser,chinaman
 kineser,chinese
 kinesisk,chinese
@@ -4240,11 +4240,11 @@ klassisk,classic
 klassisk,classical
 klatre,climb
 klima,climate
-klippe,rock
+klippe,boulder
 klippe,clip
 klippe,cut
+klippe,rock
 klippe,shear
-klippe,boulder
 klo,claw
 kloak,sewer
 klog,cultured
@@ -4260,13 +4260,13 @@ klub,club
 klub,society
 klæbe,stick
 klæbrig,sticky
+klæde sig,dress
 klæder,clothes
 klæder,clothing
-klæde sig,dress
 knallert,moped
 knap,button
-knappenål,pin
 knappenål,needle
+knappenål,pin
 kneb,subterfuge
 kneb,trick
 kneb,trickery
@@ -4327,9 +4327,9 @@ komma,comma
 kommando,command
 komme,arrival
 komme,come
+komme sig,recover
 kommentar,annotation
 kommentar,note
-komme sig,recover
 kommode,chest
 kommode,dresser
 kompagni,company
@@ -4367,8 +4367,8 @@ kontakt,light switch
 kontinent,continent
 kontinent,mainland
 konto,account
-kontor,office
 kontor,bureau
+kontor,office
 kontorist,clerk
 kontrollere,audit
 kontrollere,check
@@ -4389,8 +4389,8 @@ korridor,passage
 korrigere,correct
 kors,cross
 korsvej,crossroads
-kort,short
 kort,brief
+kort,short
 kost,broom
 koste,cost
 krabbe,crab
@@ -4405,8 +4405,8 @@ kridt,chalk
 krig,war
 krigs‐,military
 krimi,crime
-krimi,crime story
 krimi,crime novel
+krimi,crime story
 kristen,christian
 kristendom,christianity
 kritik,criticism
@@ -4424,10 +4424,10 @@ krybe,crawl
 krybe,creep
 krydderi,spice
 krystal,crystal
-kræve,need
-kræve,require
 kræve,ache
 kræve,longfor
+kræve,need
+kræve,require
 kræve,yearn
 kuffert,trunk
 kugle,bullet
@@ -4461,10 +4461,10 @@ kusine,cousin
 kvadrat,square
 kvadratmeter,squaremetre
 kvars,rock crystal
-kvarter,quarter of an hour
 kvarter,district
 kvarter,neighbourhood
 kvarter,quarter
+kvarter,quarter of an hour
 kviksølv,mercury
 kviksølv,quicksilver
 kvinde,woman
@@ -4474,8 +4474,8 @@ kvindelig sekretær,secretary
 kvit,even
 kvit,paidup
 kvit,paid‐up
-kvittering,receipt
 kvittering,acknowledgement
+kvittering,receipt
 kvæg,livestock
 kvæle,choke
 kvæle,strangle
@@ -4486,6 +4486,9 @@ kysse,kiss
 kyst,coast
 kyst,seaside
 kyst,shore
+kål,cabbage
+kålorm,caterpillar
+kårde,rapier
 kæbe,jaw
 kæbe,jawbone
 kæde,chain
@@ -4500,19 +4503,16 @@ kær,valuable
 kærlighed,affection
 kærlighed,love
 kærne,core
-kærne,nucleus
 kærne,kernel
+kærne,nucleus
 kærne,pit
-kål,cabbage
-kålorm,caterpillar
-kårde,rapier
 københavn,copenhagen
 køber,buyer
 køber,client
 køber,purchaser
 købesum,purchase money
-købmand,merchant
 købmand,businessman
+købmand,merchant
 kød,flesh
 kød,meat
 køkken,kitchen
@@ -4525,16 +4525,16 @@ køleskab,refrigerator
 kølig,cool
 køn,pretty
 køn,sex
+køre,drive
 køre,go
 køre,ride
 køre,travel
-køre,drive
 kørekort,driving licence
 køretilladelse,driving licence
 køretøj,vehicle
 laboratorium,laboratory
-lade,barrack
 lade,barn
+lade,barrack
 lade,shack
 lade,shanty
 lade,shed
@@ -4545,8 +4545,8 @@ lade som om,feign
 lade som om,pretend
 lade vandet,urinate
 lagen,sheet
-lager,depository
 lager,box room
+lager,depository
 lager,storageroom
 lager,warehouse
 lakrids,licorice
@@ -4596,8 +4596,8 @@ lave,do
 lave,make
 lave,perform
 lavine,avalanche
-le,scythe
 le,laugh
+le,scythe
 lede,govern
 lede,headup
 lede,restrain
@@ -4617,17 +4617,17 @@ lejekontrakt,lease
 lejer,renter
 lejer,tenant
 lejlighed,apartment
-lejlighed,flat
 lejlighed,chance
 lejlighed,event
+lejlighed,flat
 lejlighed,occurence
 lejlighed,opportunity
 leksikon,lexicon
 lektion,lecture
 ler,clay
+let,bright
 let,easy
 let,facile
-let,bright
 let,light
 lettelse,relief
 lettet,relieved
@@ -4648,24 +4648,24 @@ lift,lift
 lig,equal
 lig,even
 lig,level
-lige,even
 lige,direct
+lige,even
 lige,straight
-ligevægt,equilibrium
 lige så ... som,as...as
-ligge,lie
-ligge,recline
-ligge,besituated
+ligevægt,equilibrium
 ligge,befound
 ligge,belocated
+ligge,besituated
 ligge,find oneself
+ligge,lie
+ligge,recline
 lighed,resemblance
 lighed,similarity
 ligne,besimilar
 ligne,resemble
-lignende,similar
-lignende,like
 lignende,alike
+lignende,like
+lignende,similar
 likør,liqueur
 lilje,lily
 lille,diminutive
@@ -4688,8 +4688,8 @@ livlig,agile
 livlig,alert
 livlig,brisk
 livlig,keen
-loft,ceiling
 loft,attic
+loft,ceiling
 loftsrum,attic
 logisk,logical
 lokomotiv,engine
@@ -4732,18 +4732,29 @@ lykkes,succeed
 lykønske,congratulate
 lyn,lightning
 lys,bright
+lys,candle
 lys,clear
 lys,light
-lys,candle
 lytte,listen
 lytte til,listen
 lyve,lie
 lyve,tellalie
+låg,cover
+låg,hood
+låg,lid
+lån,loan
+låne,advance
+låne,borrow
+låne,lend
+låne,loan
+lår,thigh
+lås,lock
+låse,lock
 læbe,lip
 læder,leather
+læg,calf
 læg,furrow
 læg,wrinkle
-læg,calf
 læge,doctor
 læge,physician
 lægemiddel,drug
@@ -4760,39 +4771,28 @@ lægge vægt på,accent
 lægge vægt på,accentuate
 lægge vægt på,emphasize
 lækkert,delicious
-lænestol,armchair
 læne sig,lean
+lænestol,armchair
 længde,length
 længes efter,achefor
 længsel,ache
 længsel,longfor
-længsel,yearn
 længsel,longing
+længsel,yearn
 lære,learn
 lærer,instructor
 lærer,teacher
 lærk,larch
 læse,read
 læsebog,textbook
-låg,cover
-låg,hood
-låg,lid
-lån,loan
-låne,advance
-låne,lend
-låne,borrow
-låne,loan
-lår,thigh
-lås,lock
-låse,lock
 løbe,run
 løbe på skøjter,skate
 løbe sammen,converge
+løfte,affirmation
 løfte,lever
 løfte,lift
-løfte,raise
-løfte,affirmation
 løfte,promise
+løfte,raise
 løg,onion
 løgn,lie
 løjtnant,lieutenant
@@ -4813,8 +4813,8 @@ mager,lean
 mager,meager
 mager,skimpy
 mager,skinny
-mager,thin
 mager,slender
+mager,thin
 magnet,magnet
 maj,may
 majs,corn
@@ -4826,14 +4826,14 @@ make‐up,make‐up
 makrel,mackerel
 malaria,malaria
 male,grind
-male,pulverize
 male,paint
+male,pulverize
 maler,painter
 malke,milk
 malmø,malmö
 manchet,cuff
-mand,husband
 mand,fellow
+mand,husband
 mand,man
 mandag,monday
 mandarin,tangerine
@@ -4844,11 +4844,11 @@ maner,manner
 maner,mode
 maner,way
 mange,many
+mange tak,thankyouverymuch
 mangel,absence
 mangel,lack
 mangel,shortage
 mangel,shortcoming
-mange tak,thankyouverymuch
 marchere,march
 marchere,walk
 mareridt,nightmare
@@ -4878,17 +4878,17 @@ materie,matter
 materie,pus
 materiel,material
 mave,stomach
+mavesmerte,abdominal pain
 mavesmerte,stomach ache
 mavesmerte,tummy ache
-mavesmerte,abdominal pain
 med,with
-meddele,give an account
-meddele,report
 meddele,acquaint
-meddele,let know
+meddele,give an account
 meddele,inform
-meddelelse,notification
+meddele,let know
+meddele,report
 meddelelse,notice
+meddelelse,notification
 medekrog,hook
 medesnøre,line
 medestang,fishingrod
@@ -4924,25 +4924,25 @@ mene,deem
 mene,opine
 mene,think
 mening,opinion
-menneske,man
 menneske,humanbeing
+menneske,man
 menneskehed,human race
 menneskehed,mankind
 menneskelig,human
 menu,menu
-mere,more
-mere,else
-mere,further
-mere,on
 mer og mer,increasingly
 mer og mer,more and more
+mere,else
+mere,further
+mere,more
+mere,on
 messing,brass
 metal,metal
 meter,metre
 metode,method
 middag,dinner
-middag,midday meal
 middag,midday
+middag,midday meal
 middag,noon
 midnat,midnight
 midte,average
@@ -4962,8 +4962,8 @@ miltbrand,anthrax
 min,my
 mindre,fewer
 mindre,less
-mindreårig,underage
 mindre og mindre,less and less
+mindreårig,underage
 mine,my
 mineral,mineral
 minimal,minimum
@@ -5005,11 +5005,11 @@ modsætning,contradistinction
 modsætning,contrast
 modsætning,opposition
 modtage,accept
+modtage,get
+modtage,have
 modtage,receive
 modtage,take
 modtage,takein
-modtage,get
-modtage,have
 modtagelig,affecting
 modtagelig,moving
 modtagelig,touching
@@ -5030,8 +5030,8 @@ montør,fitter
 monument,monument
 mor,mother
 moral,morals
-morbror,uncle
 morbror,maternal uncle
+morbror,uncle
 mord,murder
 morder,murderer
 morfin,morphia
@@ -5066,8 +5066,8 @@ muligvis,mayhap
 muligvis,perchance
 muligvis,perhaps
 muligvis,possibly
-multiplicere,multiply
 multiplicere,duplicate
+multiplicere,multiply
 mund,mouth
 munk,monk
 munter,cheerful
@@ -5085,8 +5085,8 @@ muskel,muscle
 muskelbiopsi,muscle biopsy
 myg,gnat
 myndig,adult
-myndig,grown‐up
 myndig,full‐grown
+myndig,grown‐up
 myndighed,board of directors
 mynte,mint
 myre,ant
@@ -5095,24 +5095,13 @@ mytologi,mythology
 mytteri,mutiny
 mytteri,rebellion
 mytteri,revolt
-mælk,milk
-mængde,accumulation
-mængde,crowd
-mængde,heap
-mængde,mass
-mængde,multitude
-mængde,pile
-mærke,mark
-mærkevare,trademark
-mærkelig,noteworthy
-mærkelig,remarkable
 måge,seagull
 mål,aim
 mål,goal
-mål,purpose
-mål,target
 mål,measure
 mål,measurement
+mål,purpose
+mål,target
 måle,measure
 måltid,meal
 måne,moon
@@ -5126,6 +5115,17 @@ måtte,haveto
 måtte,must
 måtte,oughtto
 måtte,should
+mælk,milk
+mængde,accumulation
+mængde,crowd
+mængde,heap
+mængde,mass
+mængde,multitude
+mængde,pile
+mærke,mark
+mærkelig,noteworthy
+mærkelig,remarkable
+mærkevare,trademark
 møbler,furniture
 møbleret,furnished
 møde,comeacross
@@ -5139,9 +5139,9 @@ mønster,sample
 mønster,specimen
 mørk,bleak
 mørk,dark
+mørk,dim
 mørk,dismal
 mørk,dreary
-mørk,dim
 mørke,darkness
 mørke,murk
 møtrik,nut
@@ -5163,6 +5163,8 @@ navn,appellation
 navn,name
 ned,down
 ned,underneath
+ned ad,down
+ned ad,underneath
 nede,below
 nede,downstairs
 nede,underneath
@@ -5172,8 +5174,6 @@ nederlandene,holland
 nederlandene,the netherlands
 nederlandsk,dutch
 nedtrykt,depressed
-ned ad,down
-ned ad,underneath
 negerbolle,"a piece of confectionery consisting, in its most basic form, of whipped egg whites with sugar on a wafer and covered in chocolate"
 negl,nail
 negligé,négligé
@@ -5207,9 +5207,9 @@ noget,anything
 noget,something
 nok,certainly
 nok,enough
-nok,sufficient
 nok,quite
 nok,rather
+nok,sufficient
 nok,sufficiently
 nonne,nun
 nord,north
@@ -5232,22 +5232,22 @@ novelle,short story
 november,november
 nu,at present
 nu,now
-nul,nought
-nul,zero
-nul,naught
-nul,null
-nul,zilch
-nulke,hiccup
-nullermand,dust bunny
-nummer,number
-nummer,numeral
-nummerplade,numberplate
 nu for tiden,currently
 nu for tiden,nowadays
 nu for tiden,thesedays
 nu til dags,currently
 nu til dags,nowadays
 nu til dags,thesedays
+nul,naught
+nul,nought
+nul,null
+nul,zero
+nul,zilch
+nulke,hiccup
+nullermand,dust bunny
+nummer,number
+nummer,numeral
+nummerplade,numberplate
 ny,new
 ny,novel
 nyde,delightin
@@ -5263,6 +5263,12 @@ nysgerrig,curious
 nysgerrig,inquisitive
 nyttig,advantageous
 nyttig,useful
+nå,now
+nå,well
+nå,wellthen
+nåde,absolution
+nåde,pardon
+nål,needle
 næb,beak
 næb,bill
 nægte,deny
@@ -5272,9 +5278,9 @@ næppe,barely
 næppe,hardly
 næppe,onlyjust
 næppe,scarcely
-nær,nearby
 nær,close
 nær,near
+nær,nearby
 nære,feed
 nære,nourish
 nærhed,nearness
@@ -5293,19 +5299,13 @@ næst,nearest
 næst,next
 næste,neighbour
 næste,next
-næste,the following
 næste,tack
+næste,the following
 næsten,almost
 næsten,nearly
 næve,fist
-nå,now
-nå,well
-nå,wellthen
-nåde,absolution
-nåde,pardon
-nål,needle
-nødbremse,emergency break
 nødbremse,communication cord
+nødbremse,emergency break
 nødt,compulsory
 nødvendig,necessary
 nødvendighed,necessity
@@ -5318,8 +5318,8 @@ nøgle,key
 nøgle,wrench
 oase,oasis
 obducere,perform a post-mortem
-obduktion,post-mortem
 obduktion,autopsy
+obduktion,post-mortem
 obelisk,obelisk
 oberst,colonel
 oberstløjtnant,lieutenant colonel
@@ -5358,21 +5358,21 @@ odysseen,odyssey
 offensiv,aggressive
 offensiv,offensive
 offentlig,public
-offentliggøre,publish
 offentliggøre,announce
 offentliggøre,make public
-offfentlighed,publicity
+offentliggøre,publish
 offer,sacrifice
 offerbål,sacrificial pyre
 offerkniv,sacrificial knife
 offerlam,sacrificial lamb
 offerrolle,victimhood
+offfentlighed,publicity
 officer,officer
 officiel,official
 officin,printing house
+offside,off side
 ofre,sacrifice
 ofring,sacrifice
-offside,off side
 ofte,frequently
 ofte,often
 ofte,regularly
@@ -5421,18 +5421,20 @@ olivenolie,olive oil
 oliventræ,olive tree
 olympisk,olympic
 om,a
+om,about
+om,around
+om,concerning
 om,in
 om,inside
 om,into
 om,on
 om,per
-om,within
-om,about
-om,concerning
-om,upon
 om,round
-om,around
 om,towards
+om,upon
+om,within
+om aftenen,intheevening
+om forladelse,excuseme
 omegn,area surrounding something
 omelet,omelette
 omfang,circumference
@@ -5450,8 +5452,8 @@ omgivelse,surroundings
 omgås,associatewith
 omklædningsrum,changing room
 omkring,about
-omkring,round
 omkring,around
+omkring,round
 omkring,towards
 omnibus,omnibus
 område,region
@@ -5462,8 +5464,6 @@ omsætning,turnover
 omtale,mention
 omtrent,about
 omtrent,approximately
-om aftenen,intheevening
-om forladelse,excuseme
 ond,bad
 ond,miserable
 ond,nasty
@@ -5474,6 +5474,10 @@ op,above
 op,up
 op,uphill
 op,upwards
+op ad,above
+op ad,up
+op ad,uphill
+op ad,upwards
 opblæse,inflate
 opdage,discover
 opdage,uncover
@@ -5488,8 +5492,8 @@ operahus,opera house
 operation,operation
 operation,surgicaloperation
 operere,operate
-opfattelse,idea
 opfattelse,concept
+opfattelse,idea
 opfattelse,opinion
 opfinde,invent
 opfindelse,invention
@@ -5499,8 +5503,8 @@ opførsel,behavior
 opførsel,behaviour
 opførsel,conduct
 opførsel,deportment
-opgave,job
 opgave,assignedjob
+opgave,job
 opgave,task
 opgivelse,declaration
 opgivelse,proclamation
@@ -5541,10 +5545,10 @@ oprøre,excite
 oprøre,rouse
 oprøre,stirup
 opsigt,sensation
+opslag,lookup
 opslag,notice
 opslag,placard
 opslag,poster
-opslag,lookup
 opslagsværk,reference work
 opstand,mutiny
 opstand,rebellion
@@ -5556,10 +5560,6 @@ optimist,optimist
 opvask,dish
 opvaskebørste,dish brush
 opvaskemaskine,dishwasher
-op ad,above
-op ad,up
-op ad,uphill
-op ad,upwards
 oralsex,oral sex
 orange,orange‐coloured
 ord,word
@@ -5603,25 +5603,25 @@ oven,ontop
 oven,overhead
 oven,upstairs
 over,about
-over,concerning
-over,on
-over,upon
 over,above
-over,over
 over,across
 over,beyond
+over,concerning
+over,on
 over,on the other side of
+over,over
+over,upon
 overall,overalls
 overalt,allabout
 overalt,everywhere
 overarbejde,overtime
 overarm,upperarm
 overarm,upper‐arm
-overbid,overbite
 overbevise,convince
 overbevise,persuade
 overbevisning,belief
 overbevisning,conviction
+overbid,overbite
 overblik,abridgement
 overblik,abstract
 overblik,resumé
@@ -5639,9 +5639,9 @@ overordnet,chief
 overordnet,superior
 overraske,surprise
 overraskelse,surprise
-overskæg,moustache
 overskrift,heading
 overskrift,headline
+overskæg,moustache
 overspringshandling,procrastination
 oversygeplejerske,head nurse
 oversætte,translate
@@ -5651,17 +5651,17 @@ overtro,superstition
 overtroisk,superstitious
 overtyde,convince
 overtyde,persuade
-overvælde,overwhelm
 overvågningsliste,watchlist
+overvælde,overwhelm
 ovn,furnace
 ovn,kiln
 ovn,oven
 ovn,stove
 pakke,pack
 pakke,package
-pakke,wrapup
 pakke,packet
 pakke,parcel
+pakke,wrapup
 pakke ud,unpack
 palads,palace
 palme,palm
@@ -5697,15 +5697,15 @@ paryk,wig
 pas,passport
 passager,passenger
 passe,attend
-passe,nurse
-passe,tend to
-passe,guard
-passe,keep
-passe,look after
-passe,watch over
 passe,conform
 passe,fit
 passe,fit in
+passe,guard
+passe,keep
+passe,look after
+passe,nurse
+passe,tend to
+passe,watch over
 passende,ofuse
 passende,suitable
 patent,patent
@@ -5721,8 +5721,8 @@ pause,recess
 pave,pope
 pavillon,pavilion
 peber,pepper
-peberrod,horse‐radish
 peberrod,horseradish
+peberrod,horse‐radish
 pedal,pedal
 pejs,hearth
 pels,fur
@@ -5737,8 +5737,8 @@ periode,period
 perle,pearl
 perron,platform
 perron,quay
-perron,wharf
 perron,railway platform
+perron,wharf
 persianer,persian
 persille,parsley
 person,person
@@ -5766,14 +5766,14 @@ pistol,pistol
 pistol,spraygun
 pjalt,rag
 pjalt,scrap
-plads,place
 plads,location
-plads,spot
-plads,plaza
-plads,square
-plads,publicsquare
+plads,place
 plads,placetosit
+plads,plaza
+plads,publicsquare
 plads,seat
+plads,spot
+plads,square
 plage,aggravate
 plage,annoy
 plan,design
@@ -5813,12 +5813,12 @@ polak,pole
 polen,poland
 politi,police
 politibetjent,policeman
-politistyrke,police force
 politik,policy
 politik,politics
 politisk,political
 politisk,politician
 politistation,police station
+politistyrke,police force
 pony,pony
 poppel,poplar
 populær,popular
@@ -5839,9 +5839,9 @@ postnummer,postalcode
 postnummer,zipcode
 postvæsen,mail
 postvæsen,post
-potte,jug
 potte,box
 potte,container
+potte,jug
 potte,vessel
 potteplante,potted plant
 pragtfuld,lovely
@@ -5901,15 +5901,15 @@ præsident,chairman
 præsident,president
 præst,clergyman
 præst,pastor
-præst,priest
 præst,preacher
+præst,priest
 prøve,attempt
 prøve,test
 prøve,try
 psykiater,psychiatrist
 psykisk,psychic
-pude,pillow
 pude,cushion
+pude,pillow
 pudse sin næse,blow one's nose
 pukkel,bump
 pukkel,hump
@@ -5924,23 +5924,24 @@ punkt,point
 punkt,spot
 pyjamas,pyjamas
 pyramide,pyramid
-pære,bulb
-pære,pear
-på,at
-på,to
-på,toward
-på,towards
-på,from
-på,of
 på,a
+på,at
+på,by
+på,from
 på,in
 på,inside
 på,into
+på,of
 på,on
 på,per
-på,within
-på,by
+på,to
+på,toward
+på,towards
 på,upon
+på,within
+på gensyn,bye
+på gensyn,goodbye
+på gensyn,solong
 påfaldende,striking
 pågældende,concerned
 pågældende,inquestion
@@ -5949,13 +5950,12 @@ pålidelig,trustworthy
 pårørende,nextofkin
 påske,easter
 påskud,pretext
-påstand,contention
 påstand,assertion
+påstand,contention
 påstå,assert
 påstå,state
-på gensyn,bye
-på gensyn,goodbye
-på gensyn,solong
+pære,bulb
+pære,pear
 pølse,sausage
 rabbiner,rabbi
 race,breed
@@ -5974,15 +5974,15 @@ rand,brink
 rand,edge
 rand,edging
 rand,fringe
-rand,rim
 rand,rand
+rand,rim
 ransage,search
 rar,agreeable
+rar,charming
 rar,enjoyable
 rar,lovely
 rar,nice
 rar,pleasant
-rar,charming
 rasende,furious
 rask,healthy
 rask,well
@@ -5997,16 +5997,16 @@ reb,string
 recitere,recite
 redaktør,editor
 redde,keep
-redde,save
 redde,rescue
+redde,save
+rede,arrange
 rede,den
 rede,nest
-rede,arrange
 rede,putinorder
 rede,tidy
+redningsbåd,lifeboat
 redningsbælte,lifebelt
 redningsbælte,safety belt
-redningsbåd,lifeboat
 redskab,agent
 redskab,means
 redskab,tool
@@ -6035,17 +6035,14 @@ regne,rain
 regning,account
 regning,bill
 regning,calculation
-rejse,travel
+rejse,erect
 rejse,go
+rejse,journey
 rejse,leave
 rejse,raise
-rejse,erect
-rejse,journey
+rejse,travel
 rejse,trip
 rejse,voyage
-rejsebureau,tourist agency
-rejsebureau,travel agency
-rejsende,traveller
 rejse bort,absent onself
 rejse bort,depart
 rejse bort,go away
@@ -6053,6 +6050,9 @@ rejse bort,leave
 rejse bort,set out
 rejse sig,rebel
 rejse sig,revolt
+rejsebureau,tourist agency
+rejsebureau,travel agency
+rejsende,traveller
 reklame,ad
 reklame,advert
 reklame,advertisement
@@ -6073,11 +6073,11 @@ rense,clean
 rense,cleanse
 rense,make clean
 rense,purge
+reparere,fix
 reparere,mend
 reparere,patch
 reparere,patchup
 reparere,repair
-reparere,fix
 reproduktion,reproduction
 republik,republic
 reservere,book
@@ -6121,26 +6121,26 @@ rigtig,exact
 rigtig,proper
 rigtig,right
 ringe,jingle
-ringe,tinkle
 ringe,ring
+ringe,tinkle
 ris,rice
 risikabel,adventurous
 risikabel,hazardous
 risikabel,risky
-risiko,hazard
-risiko,risk
 risikere,hazard
 risikere,risk
 risikere,venture
+risiko,hazard
+risiko,risk
 rival,rival
 rive itu,tear
-ro,row
 ro,repose
 ro,rest
+ro,row
+rod,chaos
 rod,confusion
 rod,disorder
 rod,root
-rod,chaos
 rod,tangle
 roe,turnip
 rolig,calm
@@ -6190,33 +6190,17 @@ ryg,back
 ryge,smoke
 rygere,smokers
 rygrad,spine
+rygte,reputation
 rygte,rumor
 rygte,rumour
-rygte,reputation
 rykke,move
 ryste,agitate
-ryste,shake
-ryste,shock
 ryste,quiver
+ryste,shake
 ryste,shiver
+ryste,shock
 ryste,tremble
 rytme,rhythm
-rædsel,agony
-rædsel,anguish
-rædsel,fear
-rædsel,fright
-rædsom,alarmed
-rædsom,dismayed
-rædsom,dumbfounded
-rædsom,put out of countenance
-rædsom,abysmal
-rædsom,dreadful
-rædsom,gruesome
-rædsom,horrible
-rædsom,terrible
-rækkehus,terracehouse
-rækkehus,terraced house
-ræv,fox
 rå,raw
 rå,uncooked
 råb,cry
@@ -6227,10 +6211,26 @@ råd,advice
 råd,counsel
 råde,advise
 råde,counsel
-rådhus,town hall
 rådhus,city hall
+rådhus,town hall
 rådne,putrefy
 rådne,rot
+rædsel,agony
+rædsel,anguish
+rædsel,fear
+rædsel,fright
+rædsom,abysmal
+rædsom,alarmed
+rædsom,dismayed
+rædsom,dreadful
+rædsom,dumbfounded
+rædsom,gruesome
+rædsom,horrible
+rædsom,put out of countenance
+rædsom,terrible
+rækkehus,terraced house
+rækkehus,terracehouse
+ræv,fox
 rød,red
 rødgran,fir
 rødspætte,plaice
@@ -6261,25 +6261,25 @@ saltvand,saltwater
 samle,collect
 samle,gather
 samle,pickup
-samlever,co‐occupant
 samlever,companion
+samlever,co‐occupant
 samling,collection
 sammen,together
 sammenligne,compare
 sammenligning,comparison
-samtykke,mutual understanding
+samtykke,accede
 samtykke,accommodation
 samtykke,accord
-samtykke,agreement
-samtykke,accede
 samtykke,agree
+samtykke,agreement
 samtykke,consent
+samtykke,mutual understanding
 sand,sand
 sand,true
 sandal,sandal
 sandet,sandy
-sandhed,truth
 sandhed,reality
+sandhed,truth
 sandsynlig,likely
 sandsynlig,probable
 sandsynligvis,probably
@@ -6298,9 +6298,13 @@ savne,lack
 savne,miss
 scene,scene
 schilling,shilling
-schæferhund,sheepdog
 schäferhund,alsatian
+schæferhund,sheepdog
 se,see
+se efter,look after
+se efter,nurse
+se ud,appear
+se ud,look
 sejl,sail
 sejle,sail
 sejr,victory
@@ -6313,15 +6317,15 @@ seksuel,sexual
 sekund,second
 seler,braces
 seler,suspenders
-selskab,company
 selskab,circle
 selskab,club
+selskab,company
 selskab,society
 selv,even
-selv,self
 selv,herself
 selv,himself
 selv,itself
+selv,self
 selvstarter,starter
 selvstændig,independant
 selvtillid,self confidence
@@ -6330,12 +6334,12 @@ sen,late
 sen,tardy
 sende,send
 sende,transmit
-sende afbud,cancel
-sende afbud,countermand
 sende afbud,abjure
 sende afbud,abolish
 sende afbud,abrogate
 sende afbud,annul
+sende afbud,cancel
+sende afbud,countermand
 sende afbud,remit
 seng,bed
 sennep,mustard
@@ -6349,18 +6353,14 @@ servere,serve
 service,crockery set
 serviet,napkin
 sex,sex
-se efter,look after
-se efter,nurse
-se ud,appear
-se ud,look
 shorts,shortpants
 shorts,shorts
 sidde,sit
-side,side
 side,page
-siden,since
+side,side
 siden,eversince
 siden,from
+siden,since
 sidst,last
 sidste,hind
 sidste,hindmost
@@ -6426,8 +6426,8 @@ skadelig,adverse
 skadelig,harmful
 skak,chess
 skam,shame
-skammelig,ashamed
 skamme sig,beashamed
+skammelig,ashamed
 skandinavien,scandinavia
 skarp,sharp
 skarphed,acerbity
@@ -6465,18 +6465,18 @@ skive,dial
 skive,disc
 skive,record
 skjorte,shirt
-skjule sig,hide
-skjule sig,hideoneself
 skjule,conceal
 skjule,hide
+skjule sig,hide
+skjule sig,hideoneself
 sko,shoe
 skobånd,shoelace
 skole,school
 skomager,shoemaker
 skorsten,chimney
-skorsten,smokestack
 skorsten,fireplace
 skorsten,hearth
+skorsten,smokestack
 skotland,scotland
 skotte,scot
 skotte,scotsman
@@ -6513,8 +6513,8 @@ skrækkelig,dreadful
 skrækkelig,gruesome
 skrækkelig,horrible
 skrækkelig,terrible
-skrælle,shell
 skrælle,peel
+skrælle,shell
 skrænt,acclivity
 skrænt,hillside
 skrænt,slope
@@ -6523,8 +6523,8 @@ skubbe,shove
 skudår,leap year
 skuespiller,actor
 skuffe,disappoint
-skuffe,setstraight
 skuffe,drawer
+skuffe,setstraight
 skuffelse,disappointment
 skulder,shoulder
 skulle,have to
@@ -6538,16 +6538,16 @@ skumme,foam
 skumme,froth
 skumring,eveningtwilight
 skur,depository
-sky,cloud
 sky,abashed
+sky,afraid
+sky,cloud
 sky,self‐conscious
 sky,shy
-sky,afraid
 sky,timid
 skyde,fire
 skyde,shoot
-skygge,shadow
 skygge,shade
+skygge,shadow
 skyld,blame
 skyld,fault
 skyld,guilt
@@ -6558,6 +6558,9 @@ skylle,rinse
 skynde sig,go fast
 skynde sig,hurry
 skynde sig,rush
+skål,cheers
+skål,good health
+skåne,scania
 skæg,beard
 skæl,scale
 skælde,abuse
@@ -6573,9 +6576,6 @@ skændsel,shame
 skære,cut
 skære,slice
 skærm,screen
-skål,cheers
-skål,good health
-skåne,scania
 skøge,hooker
 skøge,whore
 skøn,beautiful
@@ -6589,9 +6589,9 @@ skør,fragile
 sladre,slander
 slag,action
 slag,battle
+slag,blow
 slag,scuffle
 slag,struggle
-slag,blow
 slags,kind
 slags,sort
 slagsmål,action
@@ -6607,10 +6607,10 @@ slet,bad
 slet,miserable
 slet,nasty
 slet,poor
-slette,plain
 slet ikke,not at all
-slips,tie
+slette,plain
 slips,necktie
+slips,tie
 slot,castle
 sludre,chat
 sludre,chatter
@@ -6622,16 +6622,16 @@ slutte,deduce
 slutte,gather
 slutte,induce
 slutte,infer
+slå,beat
+slå,cut
+slå,hit
+slå,mow
+slå,strike
+slås,fight
+slås,struggle
 slægt,relations
 slægt,relatives
 slægtning,relative
-slå,beat
-slå,hit
-slå,strike
-slå,cut
-slå,mow
-slås,fight
-slås,struggle
 sløv,blunt
 sløv,dull
 sløv,obtuse
@@ -6670,12 +6670,12 @@ snakke,speak
 snakke,talk
 snaksom,talkative
 snart,soon
+snavse til,soil
 snavset,dirty
 snavset,filthy
 snavset,nasty
 snavset,soiled
 snavset,unclean
-snavse til,soil
 sne,snow
 snegl,snail
 snor,cord
@@ -6700,10 +6700,10 @@ solsikkeolie,sunflower oil
 solsort,blackbird
 som,that
 som,who
+som regel,generally
+som regel,ordinarily
 sommer,summer
 sommerfugl,butterfly
-som regel,ordinarily
-som regel,generally
 sorg,care
 sorg,concern
 sort,black
@@ -6714,15 +6714,15 @@ sove,beasleep
 sove,sleep
 sovekammer,bedroom
 sovesofa,sofa
+sovevogn,sleeping‐car
 soveværelse,bedroom
 sovjetisk,soviet
-sovevogn,sleeping‐car
 spade,spade
 spadseretur,stroll
 spadseretur,walk
-spalte,split
 spalte,crack
 spalte,crevice
+spalte,split
 spand,bucket
 spand,pail
 spanien,spain
@@ -6737,12 +6737,12 @@ spedalskhed,leprosy
 spejl,looking glass
 spejl,mirror
 spejlæg,boiled egg
-spids,pointed
-spids,spiked
 spids,peak
 spids,point
-spids,tip
+spids,pointed
+spids,spiked
 spids,summit
+spids,tip
 spil,game
 spilde,waste
 spille,play
@@ -6756,9 +6756,9 @@ spisesal,dining‐room
 spiseseddel,menu
 spisestue,dining room
 sport,sport
-sprede,spread out
 sprede,layout
 sprede,spread
+sprede,spread out
 spring,jump
 spring,leap
 springe,jump
@@ -6788,16 +6788,16 @@ stald,stable
 stald,stall
 stald,sty
 stamme,stem
-stamme,trunk
 stamme,tribe
-standse,halt
+stamme,trunk
 standse,come to a halt
+standse,halt
 standse,stop
 star,celebrity
 star,star
 stat,state
-station,station
 station,stage
+station,station
 station,stop
 stationsforstander,stationmaster
 statsborger,citizen
@@ -6806,37 +6806,37 @@ stave,spell
 stavekontrol,spell checker
 sted,abode
 sted,dwelling‐place
-sted,residence
-sted,place
-sted,location
-sted,spot
 sted,dwelling‐place‐residence
+sted,location
+sted,place
+sted,residence
+sted,spot
 stege,roast
 stege,toast
 stegepande,frying pan
 stejl,abrupt
 stejl,steep
-stemme,vote
 stemme,voice
+stemme,vote
 stemme overens,accord
 stemme overens,agree
 stemme overens,fit together
 stemme overens,harmonize
 stemning,mood
-sten‐,metalled
-sten‐,stone
 sten,stone
 stenografi,shorthand
 stenografi,stenography
+sten‐,metalled
+sten‐,stone
 sti,path
 stifte bekendtskab med,get acquainted with
 stige,ladder
+stige ud,exit
 stige ud,get out
 stige ud,get out of a car
-stige ud,exit
 stige ud,go out
-stik,plug
 stik,electric plug
+stik,plug
 stik,stopper
 stikke,pick
 stikke,stab
@@ -6852,8 +6852,8 @@ stille,put
 stille,put down
 stilling,handicraft
 stilling,occupation
-stilling,trade
 stilling,profession
+stilling,trade
 stimulere,rouse
 stimulere,stimulate
 stimulere,stirup
@@ -6877,35 +6877,35 @@ stoppe,stop
 stor,big
 stor,great
 stor,large
-storbritannien,united kingdom
-storbritannien,uk
 storbritannien,britain
+storbritannien,uk
+storbritannien,united kingdom
 stork,stork
 storm,storm
 straf,punishment
 straffe,punish
 straks,at once
-straks,instantly
 straks,immediately
-straks,without delay
+straks,instantly
 straks,just
 straks,right away
 straks,right now
+straks,without delay
 strand,beach
 strejfe om,roam
 strejfe om,wander
 strejke,strike
 strube,throat
-strygejern,iron
 strygejern,flat iron
-stræde,alley
-stræde,lane
+strygejern,iron
 stråle,beam
 stråle,ray
-strø,scatter
+stræde,alley
+stræde,lane
 strø,dump
 strø,pour
 strø,pourout
+strø,scatter
 strøm,current
 strøm,flow
 strøm,stream
@@ -6928,28 +6928,28 @@ stykke,bit
 stykke,lump
 stykke,piece
 styre,administration
-styre,management
-styre,platform
-styre,stage
 styre,board of directors
 styre,control
-styre,reign
-styre,rule
 styre,direct
 styre,guide
 styre,manage
+styre,management
+styre,platform
+styre,reign
+styre,rule
+styre,stage
 styre,steer
-stænkskærm,mudguard
-stær,starling
-stærk,strong
 stå,stand
-stål‐,steal
-stål‐,of steal
-stål,steel
 stå op,getup
 stå op,rise
 stå op,stand
 stå op,standup
+stål,steel
+stål‐,of steal
+stål‐,steal
+stænkskærm,mudguard
+stær,starling
+stærk,strong
 stød,push
 støde,push
 støde,thrust
@@ -6962,8 +6962,8 @@ støtte,lean
 støtte,support
 støtte,sustain
 støv,dust
-støvet,dusty
 støve af,dust
+støvet,dusty
 støvle,boot
 støvsuger,vacuumcleaner
 støvsuger,vacuum‐cleaner
@@ -6983,9 +6983,9 @@ suppe,soup
 supplement,adjunct
 sur,acetous
 sur,acid
+sur,dismal
 sur,sour
 sur,tart
-sur,dismal
 surrogat,equivalent
 svag,faint
 svag,light
@@ -7021,10 +7021,10 @@ sving,bend
 sving,curve
 svinge,brandish
 svinge,fling
+svinge,sway
 svinge,swing
 svinge,wave
 svinge,waveabout
-svinge,sway
 svoger,brother‐in‐law
 svulme,swell
 sværge,swear
@@ -7054,20 +7054,20 @@ syn,view
 synagoge,synagogue
 synde,sin
 synde,transgress
-synes,meditate
-synes,think to oneself
 synes,account
 synes,deem
+synes,meditate
 synes,opine
+synes,reflecton
 synes,think
 synes,think about
-synes,reflecton
-synes om,love
+synes,think to oneself
 synes om,appreciate
 synes om,like
+synes om,love
 synge,sing
-synke,sink
 synke,dive
+synke,sink
 synlig,visible
 syre,acid
 syren,lilac
@@ -7077,17 +7077,33 @@ sytten,seventeen
 syttende,seventeenth
 syv,seven
 syvende,seventh
+så,likethat
+så,sow
+så,thatway
+så,then
+så,thus
+så at sige,so to speak
+så snart som,as soon as
+sådan,so
+sådan,such
+sådan,thus
+således,so
+således,such
+således,thus
+sår,injury
+sår,wound
+såre,hurt
 sæbe,soap
 sædvane,custom
 sædvane,habit
 sædvane,way
 sædvanlig,accustomed
+sædvanlig,common
 sædvanlig,customary
+sædvanlig,ordinary
 sædvanlig,usedto
 sædvanlig,usual
 sædvanlig,wonted
-sædvanlig,common
-sædvanlig,ordinary
 sædvanligvis,ordinarily
 sædvanligvis,usually
 sæl,seal
@@ -7101,9 +7117,9 @@ sær,odd
 sær,peculiar
 sær,strange
 særlig,particular
+særlig,quite
 særlig,special
 særlig,specific
-særlig,quite
 særlig,very
 særlig,verymuch
 særskilt,apart
@@ -7120,30 +7136,14 @@ sætte,putdown
 sætte pris på,appreciate
 sætte pris på,like
 sætte sig,sitdown
-så,sow
-så,then
-så,likethat
-så,thatway
-så,thus
-sådan,so
-sådan,such
-sådan,thus
-således,so
-således,such
-således,thus
-sår,injury
-sår,wound
-såre,hurt
-så at sige,so to speak
-så snart som,as soon as
 sø,lake
 sø,loch
+sød,dear
 sød,gentle
+sød,lovely
 sød,soft
 sød,sweet
 sød,tender
-sød,dear
-sød,lovely
 søge,lookfor
 søge,seek
 sølv,silver
@@ -7159,8 +7159,8 @@ søsterdatter,niece
 søstersøn,nephew
 søsyge,seasickness
 søvn,sleep
-søvnig,sleepy
 søvnig,drowsy
+søvnig,sleepy
 tab,loss
 tabel,index
 tabel,table
@@ -7172,7 +7172,6 @@ tage,get
 tage,lay hold of
 tage,pick up
 tage,take
-tagetes,african marigold
 tage afsked,say goodbye
 tage afsked,say goodbye to
 tage afsked,take leave
@@ -7187,20 +7186,23 @@ tage bort,take away
 tage brusebad,shower
 tage fejl,err
 tage fejl,make a mistake
-tage hensyn til,pay attention to
-tage hensyn til,take account of
-tage hensyn til,take into account
 tage hensyn til,account
 tage hensyn til,consider
 tage hensyn til,esteem
+tage hensyn til,pay attention to
 tage hensyn til,regard
+tage hensyn til,take account of
+tage hensyn til,take into account
 tage op,get
 tage op,lay hold of
 tage op,pickup
 tage op,take
+tagetes,african marigold
 tak,gratitude
-tak,thanks
 tak,thank you
+tak,thanks
+tak for det,thanks
+tak for det,thankyou
 takke,thank
 takke for,acknowledge
 takke for,thank for
@@ -7210,12 +7212,10 @@ taknemmelighed,gratitude
 taks,yew‐tree
 takt,musicaltime
 takt,tact
-tak for det,thankyou
-tak for det,thanks
 tal,amount
 tal,number
-tale,speech
 tale,speak
+tale,speech
 tale,talk
 talent,aptitude
 talent,disposition
@@ -7273,15 +7273,15 @@ telefonere,telephone
 telegrafere,telegraph
 telegram,telegram
 teleskop,telescope
+tema,subject
 tema,theme
 tema,topic
-tema,subject
 tempel,temple
 temperatur,temperature
 tempo,speed
-tendens,tendency
 tendens,disposal
 tendens,inclination
+tendens,tendency
 tendentiøs,biased
 tendentiøs,tendencious
 tendentiøs,tendentious
@@ -7290,8 +7290,8 @@ teori,theory
 tepotte,teapot
 tepotte,tea‐pot
 terapi,therapy
-termoflaske,thermosbottle
 termoflaske,thermos
+termoflaske,thermosbottle
 termoflaske,thermosflask
 termometer,thermometer
 terning,cube
@@ -7317,21 +7317,27 @@ tie,bequiet
 tiende,tenth
 tiger,tiger
 tigger,beggar
+til,about
 til,at
+til,concerning
+til,from
+til,of
+til,on
 til,to
 til,toward
 til,towards
-til,from
-til,of
-til,about
-til,concerning
-til,on
 til,upon
+til højre,right
+til højre,to the right
+til leje,forrent
+til salg,forsale
+til venstre,left
+til venstre,to the left
 tilbage,back
 tilberedelse,preparation
 tilbringe,employ
-tilbringe,use
 tilbringe,makeuseof
+tilbringe,use
 tildragelse,event
 tildragelse,occasion
 tildragelse,occurence
@@ -7340,23 +7346,25 @@ tilfreds,contented
 tilfreds,pleased
 tilfreds,satisfied
 tilfælde,accidence
-tilfælde,chance
-tilfælde,hazard
 tilfælde,affair
 tilfælde,case
+tilfælde,chance
+tilfælde,hazard
 tilfælde,matter
 tilfældig,accidental
 tilfældig,adventitious
 tilfældig,chance
 tilfældig,random
+tilfældigvis,by accident
+tilfældigvis,by chance
 tilføje,add
 tilgive,forgive
 tilgive,pardon
 tilgængelig,accessible
 tilhænger,disciple
+tilhænger,follower
 tilhænger,member
 tilhænger,supporter
-tilhænger,follower
 tilhøre,belong to
 tillade,accord
 tillade,admit
@@ -7367,12 +7375,13 @@ tilladelse,licence
 tilladelse,license
 tilladelse,permission
 tillavning,preparation
-tilfældigvis,by accident
-tilfældigvis,by chance
 tillid,confidence
 tillid,faith
 tillid,trust
 tilløb,run
+tilmelding,accommodate oneself
+tilmelding,adapt oneself
+tilmelding,inscription
 tilpasning,adaptation
 tilpasning,adjustment
 tilsammen,together
@@ -7394,22 +7403,13 @@ tilsøle,soil
 tiltagende,increase
 tiltrække,attract
 tiltrækningskraft,attraction
-til højre,right
-til højre,to the right
-til leje,forrent
-til salg,forsale
-til venstre,left
-til venstre,to the left
-tilmelding,accommodate oneself
-tilmelding,adapt oneself
-tilmelding,inscription
 time,hour
 time,o'clock
 time,time
 tin,tin
-ting,thing
 ting,article
 ting,object
+ting,thing
 tirsdag,tuesday
 tit,frequently
 tit,often
@@ -7419,15 +7419,16 @@ titel,heading
 titel,title
 tjene,earn
 tjene,gain
-tjene,win
 tjene,serve
-tjener,waiter
+tjene,win
+tjener,boy
 tjener,maid
 tjener,servant
-tjener,boy
+tjener,waiter
 tjeneste,service
 tjære,tar
 to,two
+to gange,twice
 tog,train
 togoverskæring,level‐crossing
 toilet,toilet
@@ -7444,9 +7445,9 @@ tommelfinger,thumb
 tone,tone
 top,peak
 top,point
-top,tip
 top,summit
 top,surface
+top,tip
 top,top
 torden,thunder
 tordne,thunder
@@ -7463,7 +7464,6 @@ tosse,idiot
 tosset,odd
 tosset,peculiar
 tosset,strange
-to gange,twice
 tradition,tradition
 trafik,traffic
 tragedie,tragedy
@@ -7473,53 +7473,54 @@ transportere,transport
 trappe,staircase
 trappe,stairs
 tre,three
+tre gange,threetimes
+tre gange,thrice
 tredive,thirty
 tredje,third
 trehjulet cykel,tricycle
 trekant,triangle
 tres,sixty
-tresindstyvende,sixtieth
 tresindstyve,sixty
+tresindstyvende,sixtieth
 tretten,thirteen
 trettende,thirteenth
-tre gange,threetimes
-tre gange,thrice
 tribune,rostrum
 tribune,speaker's platform
 trist,dismal
+trist,dreary
 trist,gaunt
 trist,miserable
 trist,sad
-trist,dreary
 trist,sorrowful
-tro,faithful
 tro,account
 tro,accredit
+tro,belief
 tro,believe
 tro,deem
-tro,belief
-tro,loyal
+tro,faithful
 tro,guess
+tro,loyal
 tro,presume
 tro,suppose
 tro,surmise
+tro på,believe in
 trompet,trumpet
 tropisk,tropical
-tro på,believe in
 true,menace
 true,threaten
 trussel,menace
 trussel,threat
 tryk,pressure
 tryk,print
-trykke,press
 trykke,oppress
-trykke,squeeze
+trykke,press
 trykke,print
+trykke,squeeze
 trykke ud,squeezeout
-træ‐,wooden
-træ,tree
+tråd,thread
+tråd,wire
 træ,timber
+træ,tree
 træ,wood
 træde,pace
 træde,stalk
@@ -7545,13 +7546,12 @@ trække op,strech
 trække op,windup
 trækpapir,blotter
 trækpapir,blotting paper
-trængende,pressing
-trængende,urgent
 trænge til,need
 trænge til,require
+trængende,pressing
+trængende,urgent
 træt,tired
-tråd,wire
-tråd,thread
+træ‐,wooden
 trøst,consolation
 trøste,comfort
 trøste,console
@@ -7563,16 +7563,16 @@ tunfisk,tunny
 tung,burdensome
 tung,heavy
 tung,onerous
-tunge,tongue
 tunge,sole
+tunge,tongue
 turde,bebold
 turde,dare
-tusinde,thousand
 tusinde,one thousand
+tusinde,thousand
 tusmørke,dusk
 tvetydig,ambiguous
-tvilling,twins
 tvilling,twin
+tvilling,twins
 tvinge,compel
 tvinge,force
 tvivl,doubt
@@ -7596,8 +7596,8 @@ tynd,lean
 tynd,meager
 tynd,skimpy
 tynd,skinny
-tynd,thin
 tynd,slender
+tynd,thin
 typisk,typical
 tyr,bull
 tyrk,turk
@@ -7611,6 +7611,17 @@ tyve,twenty
 tyvende,twentieth
 tyveri,abstraction
 tyveri,theft
+tå,toe
+tåge,fog
+tåge,mist
+tåle,endure
+tåle,put up with
+tåle,tolerate
+tålmodig,patient
+tålmodighed,patience
+tåre,tear
+tårn,castle
+tårn,tower
 tælle,count
 tænde,kindle
 tænde,light
@@ -7625,20 +7636,9 @@ tærte,pie
 tærte,tart
 tæt,concentrated
 tæt,dense
-tæt,thick
-tæt,near
 tæt,narrow
-tå,toe
-tåge,fog
-tåge,mist
-tåle,endure
-tåle,put up with
-tåle,tolerate
-tålmodig,patient
-tålmodighed,patience
-tåre,tear
-tårn,castle
-tårn,tower
+tæt,near
+tæt,thick
 tøffel,slipper
 tøj,clothes
 tøj,clothing
@@ -7656,8 +7656,8 @@ tøve,waver
 tøvejr,melting
 tøvejr,thaw
 uafbrudt,abiding
-uafbrudt,lasting
 uafbrudt,continuous
+uafbrudt,lasting
 uafhængig,independant
 uafhængighedsdag,independence day
 uafhængighedserklæring,declaration of independence
@@ -7666,9 +7666,9 @@ uafhængighedskrig,war for independenc
 ubehagelig,bleak
 ubehagelig,dismal
 ubehagelig,dreary
-ubehagelig,horrible
 ubehagelig,ghastly
 ubehagelig,grisly
+ubehagelig,horrible
 ubehagelig,nasty
 ud,from
 ud,outof
@@ -7676,10 +7676,10 @@ udbytte,exploit
 udbytte,utilize
 uddannelsesinstitution,educational institution
 uddunstning,fume
-udelade,release
 udelade,leave out
 udelade,omit
 udelade,overlook
+udelade,release
 udelukke,secrete
 udelukkende,exclusive
 udelukkende,exclusively
@@ -7710,9 +7710,9 @@ udgift,expenses
 udgive,issue
 udgive,publish
 udkast,draft
-udland,foreign country
 udkomme,an income used to insure money for living
 udkommentere,comment out
+udland,foreign country
 udle,laughat
 udleje,let
 udleje,rentout
@@ -7722,8 +7722,8 @@ udnytte,exploit
 udnævnelse,appeal
 udrydde,exterminate
 udsende,broadcast
-udsigt,view
 udsigt,perspective
+udsigt,view
 udskifte,interchange
 udskifte,swap
 udslukke,extinguish
@@ -7745,9 +7745,9 @@ udvikle,evolve
 udvikling,development
 udvikling,evolution
 udviklingsbiologi,developmental biology
+udånde,exhale
 udødeliggøre,immortalize
 udørken,desert
-udånde,exhale
 uenig,atvariance
 uenig,disagreeing
 uenighed,disagreement
@@ -7775,9 +7775,9 @@ ulykkestilfælde,accident
 umuliggøre,make impossible
 under,below
 under,beneath
+under,miracle
 under,under
 under,underneath
-under,miracle
 underarm,lower‐arm
 underbukser,drawers
 underbukser,panties
@@ -7797,21 +7797,21 @@ underskrive,sign
 understrege,emphasize
 understrege,underline
 undersøge,examine
-undersøge,test
 undersøge,explore
 undersøge,investigate
 undersøge,research
-undersøgelse,investigation
+undersøge,test
 undersøgelse,examination
-undersøgelse,test
 undersøgelse,exploration
+undersøgelse,investigation
 undersøgelse,research
+undersøgelse,test
 undertegne,sign
 undertiden,several times
 undertiden,sometimes
-undertøj,underwear
-undertøj,undergarments
 undertrøje,vest
+undertøj,undergarments
+undertøj,underwear
 underverden,underworld
 undervise,teach
 undervisning,education
@@ -7825,10 +7825,10 @@ undre sig,marvel
 undre sig,marvelat
 undre sig,wonder
 undskyld,excuseme
+undskyld mig,excuseme
 undskylde,excuse
 undskylde sig,apologize
 undskyldning,apology
-undskyld mig,excuseme
 undtagelse,exception
 undvige,avoid
 undvige,evade
@@ -7836,10 +7836,10 @@ undvigelseshastighed,escape velocity
 ung,young
 ung,youngster
 ung,youth
-ungdomsorganisation,youth organization
 ungarer,hungarian
 ungarn,hungary
 ungdom,youth
+ungdomsorganisation,youth organization
 ungkarl,bachelor
 uniform,uniform
 universitet,university
@@ -7847,8 +7847,8 @@ uoverskuelig,everlasting
 upartisk,impartial
 upartisk,neutral
 upålidelig,unreliable
-ur,watch
 ur,clock
+ur,watch
 uregelmæssig,abnormal
 urin,urine
 urinblære,urinary bladder
@@ -7879,12 +7879,12 @@ uundværlig,indispensable
 uvenlig,brutal
 uvenlig,gruff
 uvenlig,harsh
+uvenlig,nasty
 uvenlig,rough
 uvenlig,sour
 uvenlig,surly
 uvenlig,unkind
 uvenlig,unpleasant
-uvenlig,nasty
 uærlig,nasty
 valg,choice
 valg,election
@@ -7900,12 +7900,12 @@ vane,habit
 vane,way
 vanille,vanilla
 vanlig,accustomed
+vanlig,common
 vanlig,customary
+vanlig,ordinary
 vanlig,used to
 vanlig,usual
 vanlig,wonted
-vanlig,common
-vanlig,ordinary
 vanskelig,difficult
 vanskelig,hard
 vanskelig,inconvenient
@@ -7920,10 +7920,10 @@ vase,vase
 vase,vessel
 vaseline,vaseline
 vaske,wash
-vasketøj,laundry
+vaske op,washup
 vaskeskind,chamois
 vaskeskind,chamoisleather
-vaske op,washup
+vasketøj,laundry
 vat,cotton‐wool
 vat,wadding
 ved,at
@@ -7959,8 +7959,8 @@ venlig,kind
 venskab,friendship
 venskabelig,friendly
 venstre,left
-ventesal,waiting‐room
 ventesal,waiting room
+ventesal,waiting‐room
 ventil,tube
 ventil,valve
 ventilator,electric fan
@@ -7969,21 +7969,21 @@ verden,world
 verdensdel,continent
 verdensdel,mainland
 verdenskrig,worldwar
-værktøj,agent
-værktøj,means
-værktøj,tool
 vermouth,vermouth
-vest,west
-vest,west
 vest,vest
 vest,waistcoat
+vest,west
+vest,west
 vestlig,western
 vi,us
 vi,we
-vid,soul
+vi ses,bye
+vi ses,goodbye
+vi ses,solong
 vid,about
 vid,concerning
 vid,on
+vid,soul
 vid,upon
 vide,know
 vide,knowhow
@@ -7991,10 +7991,10 @@ viden,knowledge
 videnskab,science
 videnskabelig,scientific
 videnskabsmand,scientist
+videre,besides
 videre,beyond
 videre,farther
 videre,further
-videre,besides
 videre,furthermore
 videre,in addition
 videre,moreover
@@ -8023,18 +8023,18 @@ vinflaske,wine bottle
 vinge,wing
 vinke,wave
 vinkel,angle
-vinstok,vine
 vinstok,grapevine
+vinstok,vine
 vinter,winter
 viol,violet
 violin,violin
-virkelig,actual
-virkelig,real
-virkelig,factual
-virkelig,practical
 virke på,act
 virke på,be effective
 virke på,have effect
+virkelig,actual
+virkelig,factual
+virkelig,practical
+virkelig,real
 vise,indicate
 vise,point out
 vise,show
@@ -8042,13 +8042,10 @@ visit,visit
 viskelæder,eraser
 viskelæder,rubber
 viskestykke,dishcloth
-viskestykke,dustrag
 viskestykke,dishtowel
+viskestykke,dustrag
 visum,visa
 visum,visé
-vi ses,bye
-vi ses,goodbye
-vi ses,solong
 vogn,carriage
 vogn,coach
 vogn,railway carriage
@@ -8073,6 +8070,11 @@ vulkan,volcano
 vurdere,appraise
 vurdere,estimate
 vurdere,rate
+våben,weapon
+våd,wet
+vågen,awake
+vågne op,wake
+vågne op,wakeup
 vædde,bet
 vædde,wager
 væg,wall
@@ -8083,13 +8085,13 @@ vægre sig,reject
 vægt,scales
 vægt,weight
 vække,arouse
-vække,wake
 vække,awaken
+vække,wake
 vække,wakeup
 vækkeur,alarm
 vækkeur,alarmclock
-vækst,growth
 vækst,accretion
+vækst,growth
 vælge,choose
 vælge,elect
 vælge,pickout
@@ -8098,16 +8100,15 @@ vælling,mess
 vælling,mush
 væmmelse,disgust
 væmmelse,nausea
+vær så god at,please
 værdi,value
 værdi,worth
 værdifuld,costly
-værdifuld,valuable
 værdifuld,dear
 værdifuld,expensive
 værdifuld,pricey
+værdifuld,valuable
 være,be
-værelse,chamber
-værelse,room
 være bange,be afraid of
 være bange,fear
 være bange for,be afraid of
@@ -8132,29 +8133,28 @@ være vild efter,be fond of
 være vild efter,love
 være værd,be worth
 være værd,be worthy of
+værelse,chamber
+værelse,room
+værktøj,agent
+værktøj,means
+værktøj,tool
 værre,worse
 værst,worst
-vær så god at,please
 væsel,weasel
 væske,liquid
 væve,weave
-våben,weapon
-våd,wet
-vågen,awake
-vågne op,wake
-vågne op,wakeup
 watt,watt
 wc-rulle,toilet roll
 weekend,week‐end
 whiskysovs,whisky sauce
-wikikode,wikicode
 wikikode,wiki markup
+wikikode,wikicode
 wikikode,wikitext
 yacht,yacht
-yak,yak
 yak,domestic yak
-yakokse,yak
+yak,yak
 yakokse,domestic yak
+yakokse,yak
 yams,yam
 yankee,yankee
 ydedygtig,productive
@@ -8165,9 +8165,9 @@ ynde,charm
 yndlingsfarve,favourite colour
 ynglebestand,breeding population
 yoga,yoga
-yoghurt,yogurt
-yoghurt,yoghurt
 yoghurt,yoghourt
+yoghurt,yoghurt
+yoghurt,yogurt
 ypperstepræst,high priest
 ypsilon,upsilon
 ytringsfrihed,freedom of speech
@@ -8176,117 +8176,6 @@ yver,udder
 zink,zinc
 zone,zone
 zoologisk have,zoo
-æble,apple
-æblejuice,apple juice
-æblekerne,apple seed
-æblesaft,apple juice
-æbleskive,"danish pancake shaped like a ball, often served with sugar and jam"
-æbletræ,apple tree
-æbletærte,apple pie
-æblevin,cider
-æde,eat
-ædel,of noble birth
-ædel,noble
-ædelgas,inert gas
-ædelgran,fir
-ædelmetal,noble metal
-ædelsten,jewel
-ædru,sober
-æg,egg
-æg,edge
-ægge,incite
-æggebakke,egg tray
-æggebæger,eggcup
-æggeleder,fallopian tubes
-æggeskal,eggshell
-æggestok,ovary
-ægir,aegir
-ægte,authentic
-ægte,genuine
-ægte,true
-ægte,marry
-ægtefælle,spouse
-ægtefælle,wife
-ægtefælle,husband
-ægtemand,husband
-ægtepar,couple
-ægtepar,married people
-ægteskab,marriage
-ægteskab,matrimony
-ægyptisk,egyptian
-ækel,awful
-ækel,disgusting
-ækvator,equator
-ælling,duckling
-ændringsforslag,amendment proposal
-æneas,aeneas
-ændre,alter
-ændre,change
-ændre,turn
-ændring,alteration
-ændring,change
-ændring,conversion
-ændring,transformation
-ændring,about‐face
-æolisk,aeolian
-ære,honor
-ære,honour
-ærefrygt,awe
-ærgerrighed,ambition
-ærgre sig,beindignant
-ærgre sig over,be indignant with
-ærgre sig over,take offence at
-ærkebiskop,archbishop
-ærlig,above board
-ærlig,honest
-ærme,sleeve
-ærmeløs,sleeveless
-ært,pea
-ærværdig,honourable
-æsel,ass
-æsel,donkey
-æter,ether
-østersøen,baltic sea
-østrus,oestrus
-østtimor,east timor
-østtyskland,east germany
-østrig,austria
-østriger,austrian
-ø,island
-ødelægge,destroy
-ødelægge,quash
-ødelæggelse,destruction
-øje,eye
-øjeblik,instant
-øjeblik,moment
-øjenbryn,brow
-øjenbryn,eyebrow
-øjenlæge,oculist
-øjenlæge,ophtalmologist
-øjenlåg,eyelid
-økse,axe
-øl,ale
-øl,beer
-ønske,desire
-ønske,wish
-ønske,want
-øre,ear
-ørering,earring
-ørn,eagle
-øse,pour
-øse,scatter
-øse,shed
-øst,east
-øst,east
-østers,oyster
-østlig,eastern
-østlig,oriental
-øve,exercise
-øve,practise
-øvelse,exercise
-øvelse,practice
-øverst,upper
-øverstkommanderende,commander-in-chief
 å,stream
 åben,open
 åbenbare,publish
@@ -8304,8 +8193,8 @@ zoologisk have,zoo
 ånd,ghost
 ånd,phantom
 ånd,spirit
-ånde,breathe
 ånde,breath
+ånde,breathe
 åndedræt,respiration
 åndedrætsværn,respirator
 år,year
@@ -8326,3 +8215,114 @@ zoologisk have,zoo
 ås,ridge
 åsted,scene of the crime
 åsyn,countenance
+æble,apple
+æblejuice,apple juice
+æblekerne,apple seed
+æblesaft,apple juice
+æbleskive,"danish pancake shaped like a ball, often served with sugar and jam"
+æbletræ,apple tree
+æbletærte,apple pie
+æblevin,cider
+æde,eat
+ædel,noble
+ædel,of noble birth
+ædelgas,inert gas
+ædelgran,fir
+ædelmetal,noble metal
+ædelsten,jewel
+ædru,sober
+æg,edge
+æg,egg
+ægge,incite
+æggebakke,egg tray
+æggebæger,eggcup
+æggeleder,fallopian tubes
+æggeskal,eggshell
+æggestok,ovary
+ægir,aegir
+ægte,authentic
+ægte,genuine
+ægte,marry
+ægte,true
+ægtefælle,husband
+ægtefælle,spouse
+ægtefælle,wife
+ægtemand,husband
+ægtepar,couple
+ægtepar,married people
+ægteskab,marriage
+ægteskab,matrimony
+ægyptisk,egyptian
+ækel,awful
+ækel,disgusting
+ækvator,equator
+ælling,duckling
+ændre,alter
+ændre,change
+ændre,turn
+ændring,about‐face
+ændring,alteration
+ændring,change
+ændring,conversion
+ændring,transformation
+ændringsforslag,amendment proposal
+æneas,aeneas
+æolisk,aeolian
+ære,honor
+ære,honour
+ærefrygt,awe
+ærgerrighed,ambition
+ærgre sig,beindignant
+ærgre sig over,be indignant with
+ærgre sig over,take offence at
+ærkebiskop,archbishop
+ærlig,above board
+ærlig,honest
+ærme,sleeve
+ærmeløs,sleeveless
+ært,pea
+ærværdig,honourable
+æsel,ass
+æsel,donkey
+æter,ether
+ø,island
+ødelægge,destroy
+ødelægge,quash
+ødelæggelse,destruction
+øje,eye
+øjeblik,instant
+øjeblik,moment
+øjenbryn,brow
+øjenbryn,eyebrow
+øjenlåg,eyelid
+øjenlæge,oculist
+øjenlæge,ophtalmologist
+økse,axe
+øl,ale
+øl,beer
+ønske,desire
+ønske,want
+ønske,wish
+øre,ear
+ørering,earring
+ørn,eagle
+øse,pour
+øse,scatter
+øse,shed
+øst,east
+øst,east
+østers,oyster
+østersøen,baltic sea
+østlig,eastern
+østlig,oriental
+østrig,austria
+østriger,austrian
+østrus,oestrus
+østtimor,east timor
+østtyskland,east germany
+øve,exercise
+øve,practise
+øvelse,exercise
+øvelse,practice
+øverst,upper
+øverstkommanderende,commander-in-chief

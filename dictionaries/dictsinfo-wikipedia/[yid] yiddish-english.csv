@@ -16,8 +16,11 @@ Other,English
 19,19
 19 יאנואר,January 19
 1920ער,1920s
+1920ער,1920s
+1930ער,1930s
 1930ער,1930s
 1940ער,1940s
+1990ער,1990s
 2,2
 20 יאנואר,January 20
 21,21
@@ -67,6 +70,7 @@ IPod,IPod
 MS-DOS,MS-DOS
 NSA,National Security Agency
 RAM,Random access memory
+USA,United States
 USA פרעזידענט,President of the United States
 World Trade Center,World Trade Center
 yiddish,english
@@ -85,16 +89,21 @@ yiddish,english
 אדם הראשון,Adam
 אדערן,Blood vessel
 אהאיא,Ohio
+אהאיא,Ohio
 אהרן הכהן,Aaron
 אוגערקע,Cucumber
+אוויאציע,Aviation
+אוזבעקיסטאן,Uzbekistan
 אוזבעקיסטאן,Uzbekistan
 אויבערשאפט,Sovereignty
+אויג,Eye
 אויג,Eye
 אויג אפעל,Pupil
 אויגוסט,August
 אויטאביאגראפיע,Autobiography
 אויטאמאביל,Automobile
 אויל,Oil
+אויסטראליע,Australia
 אויסטראליע,Australia
 אויער,Ear
 אומאידענטיפיצירטער פליענדער אביעקט,Unidentified flying object
@@ -104,10 +113,12 @@ yiddish,english
 אוניווערסיטעט,University
 אוקלידוס,Euclid
 אוקריינא,Ukraine
+אוקריינע,Ukraine
 אוראנוס,Uranus
 אוראנוס,Uranus
 אורוגוויי,Uruguay
 אות,Letter
+אזיע,Asia
 אזיע,Asia
 אזערביידזשאן,Azerbaijan
 אזערע,Lake
@@ -122,7 +133,9 @@ yiddish,english
 איד,Jew
 אידישער קאלענדאר,Hebrew calendar
 אידישקייט,Judaism
+אידישקייט,Judaism
 אידעאלאגיע,Ideology
+איטאליע,Italy
 איטאליע,Italy
 איי,Ovum
 איי-קיו,Intelligence quotient
@@ -138,16 +151,22 @@ yiddish,english
 איילבירט,Olive
 אייפעל טאוער,Eiffel Tower
 אייראפע,Europe
+אייראפע,Europe
 אייראפעאישער פארבאנד,European Union
+אייראפעישער פארבאנד,European Union
 אילינויס,Illinois
 אימיון סיסטעם,Immune system
 אינדאנעזיע,Indonesia
 אינדוסטריע,Industry
+אינדוסטריע,Industry
 אינדיאנא,Indiana
+אינדיע,India
 אינדיע,India
 אינזל,Island
 אינזשעניריע,Engineering
+אינזשעניריע,Engineering
 אינטעלעקט,Intelligence
+אינטערנעט,Internet
 אינטערנעט,Internet
 אינטערנעט עקספלארער,Internet Explorer
 איניעס,Aeneas
@@ -158,11 +177,17 @@ yiddish,english
 אינשורענס,Insurance
 איסטאנבול,Istanbul
 איסלאם,Islam
+איסלאם,Islam
+איסלאנד,Iceland
 איסלאנד,Iceland
 איראן,Iran
+איראן,Iran
 איראק,Iraq
-אירלאנד,Republic of Ireland
+איראק,Iraq
 אירלאנד,Ireland
+אירלאנד,Ireland
+אירלאנד,Republic of Ireland
+אירלאנד,Republic of Ireland
 אישית,Marriage
 אל-קאידא,Al-Qaeda
 אלאבאמא,Alabama
@@ -172,8 +197,10 @@ yiddish,english
 אלבערטא,Alberta
 אלגאריטם,Algorithm
 אלגעברע,Algebra
+אלגעברע,Algebra
 אלגעמיינע רעלאטיוויטעט,General relativity
 אלדזשיר,Algeria
+אלטערנאטיווע מעדיצין,Alternative medicine
 אליגאראכיע,Oligarchy
 אליהו הנביא,Elijah
 אלמאטיע,Almaty
@@ -189,8 +216,8 @@ yiddish,english
 אלקאהאליזם,Alcoholism
 אלקאהאלישע געטראנקען,Alcoholic beverage
 אמאזאנאס,Amazon River
-אמאן,Oman
 אמאן,Amman
+אמאן,Oman
 אמיש,Amish
 אמסטערדאם,Amsterdam
 אמעריקאנער וואלוטע,United States dollar
@@ -199,13 +226,17 @@ yiddish,english
 אמעריקאנער פלאט,United States Navy
 אמת,Truth
 אנאטאמיע,Anatomy
+אנאטאמיע,Anatomy
+אנארכיזם,Anarchism
 אנארכיזם,Anarchism
 אנארכיע,Anarchy
+אנדארא,Andorra
 אנדארא,Andorra
 אנטאן פאוולאוויטש טשעכאוו,Anton Chekhov
 אנטארקטיקע,Antarctica
 אנטווערפן,Antwerp
 אנטיביאטיק,Antibiotic
+אנטיסעמיטיזם,Antisemitism
 אנטיסעמיטיזם,Antisemitism
 אנטעריא,Ontario
 אנטראפאלאגיע,Anthropology
@@ -215,12 +246,16 @@ yiddish,english
 אסטאנא,Astana
 אסטערויד,Asteroid
 אסטראנאמיע,Astronomy
+אסטראנאמיע,Astronomy
 אסקאר,Academy Award
 אפגאט,Paganism
 אפגאניסטאן,Afghanistan
+אפגאניסטאן,Afghanistan
+אפטיק,Optics
 אפמאך פון ווערסיי,Treaty of Versailles
 אפערירן סיסטעם,Operating system
 אפריל,April
+אפריקע,Africa
 אפריקע,Africa
 אקוזאטיוו,Accusative case
 אקטאבער,October
@@ -239,14 +274,18 @@ yiddish,english
 ארגאזם,Orgasm
 ארגאניזם,Organism
 ארגענטינע,Argentina
+ארגענטינע,Argentina
 ארגענעזאציע,Organization
 ארויסזאג,Syllable
 ארון הברית,Ark of the Covenant
 אריזאנע,Arizona
 אריסטו,Aristotle
 ארכיטעקטור,Architecture
+ארכיטעקטור,Architecture
 ארכיפעלאג,Archipelago
 ארכעאלאגיע,Archaeology
+ארכעאלאגיע,Archaeology
+ארמעניע,Armenia
 ארמעניע,Armenia
 ארעגאן,Oregon
 ארעל סעקס,Oral sex
@@ -254,8 +293,11 @@ yiddish,english
 ארקענסאו,Arkansas
 אשור,Assyria
 באגדאד,Baghdad
+באדייטן,Disambiguation
 באדן,Soil
+באהאמאס,Bahamas
 באזעל,Basel
+באטאניק,Botany
 באטאניק,Botany
 באטאנישער גארטן,Botanical garden
 באל-פאוינט פעדער,Ballpoint pen
@@ -281,12 +323,14 @@ yiddish,english
 בוים,Tree
 בוך האלטעריי,Accountancy
 בולגאריע,Bulgaria
+בולגאריע,Bulgaria
 בוס,Bus
 בוענאס איירעס,Buenos Aires
 בוקארעשט,Bucharest
 בחירה,Free will
 ביאגראפיע,Biography
 ביאכעמיע,Biochemistry
+ביאלאגיע,Biology
 ביאלאגיע,Biology
 ביאלאגישע טישו,Tissue
 ביבליאגראפיע,Bibliography
@@ -324,17 +368,21 @@ yiddish,english
 במדבר,Book of Numbers
 בעהמען,Bohemia
 בעיסבאל,Baseball
+בעלארוס,Belarus
 בעלארוסיע,Belarus
+בעלגיע,Belgium
 בעלגיע,Belgium
 בעלגראד,Belgrade
 בעלי חיים,Animal
 בעליז,Belize
 בענזשעמין העריסאן,Benjamin Harrison
 בענזשעמען פרענקלין,Benjamin Franklin
+בענק,Banks
 בער,Bear
 בערלין,Berlin
 בערן,Berne
 בראוזער,Web browser
+בראזיל,Brazil
 בראזיל,Brazil
 בראטיסלאווא,Bratislava
 בראכטייל,Fraction
@@ -342,16 +390,19 @@ yiddish,english
 ברויט,Bread
 ברוקלין,Brooklyn
 ברוקלין בריק,Brooklyn Bridge
+בריטאניע,United Kingdom
 בריטיש קאלאמביע,British Columbia
 בריטישע אימפעריע,British Empire
 בריליאנט,Diamond
 ברילן,Glasses
 בריסל,Brussels
 בריסק,Brest
+בריקן,Bridges
 ברית החדשה,New Testament
 ברעג ים,Coast
 ברעכונג,Refraction
 בת היענה,Ostrich
+גאבאן,Gabon
 גאבאן,Gabon
 גאז,Gas
 גאזאלין,Gasoline
@@ -367,7 +418,9 @@ yiddish,english
 גארטענונג,Gardening
 גוגאל,Googol
 גוגעל,Google
+גוגעל,Google
 גט,Divorce
+גייסט וויסנשאפט,Humanities
 גילוי עריות,Incest
 גלאבאליזאציע,Globalization
 גלאבאלע אנווארימונג,Global warming
@@ -379,22 +432,30 @@ yiddish,english
 גלעטשער,Glacier
 גלענד,Gland
 געאגראפיע,Geography
+געאגראפיע,Geography
 געאלאגיע,Geology
+געאלאגיע,Geology
+געאמעטריע,Geometry
 געאמעטריע,Geometry
 געבורט,Childbirth
 געדערעם,Intestine
 געזונטהייט,Health
+געזונטהייט,Health
 געזיכט,Face
 געזעלשאפט,Society
+געזעלשאפט,Society
+געזעץ,Law
 געזעץ,Law
 געטא,Ghetto
 געל,Yellow
+געלט,Currency
 געלט,Money
 געלענק,Joint
 געמבלינג,Gambling
 געמיש מעטאלען,Alloy
 גען,Gene
 געפיל,Emotion
+געפילן,Emotion
 געפעכט,Conflict
 געריכט,Court
 גערשטן,Barley
@@ -404,11 +465,14 @@ yiddish,english
 גראוויטאציע,Gravitation
 גראם,Gram
 גראמאטיק,Grammar
+גראמאטיק,Grammar
 גראמען,Rhyme
 גרוזיע,Georgia
 גרויסבריטאניע,Great Britain
 גריכישע מיטאלאגיע,Greek mythology
+גריכישע מיטאלאגיע,Greek mythology
 גריכישער אלפאבעט,Greek alphabet
+גריכנלאנד,Greece
 גריכנלאנד,Greece
 גרין,Green
 גרינצייג,Vegetable
@@ -425,6 +489,7 @@ yiddish,english
 דובלין,Dublin
 דוד המלך,David
 דווייט דעיוויד אייזנהאוער,Dwight D. Eisenhower
+דורכגאסן,Straits
 דושאנבע,Dushanbe
 דזשאזעף גאבעלס,Joseph Goebbels
 דזשאן טעילאר,John Tyler
@@ -437,7 +502,9 @@ yiddish,english
 דידזשיי,Disc jockey
 דייטשיש,German language
 דייטשלאנד,Germany
+דייטשלאנד,Germany
 דיינעסאר,Dinosaur
+דיכטונג,Poetry
 דיכטונג,Poetry
 דימענסיע,Dimension
 דינאמיק,Dynamics
@@ -449,9 +516,11 @@ yiddish,english
 דעלפי,Delphi
 דעלפין,Dolphin
 דעמאגראפיע,Demography
+דעמאגראפיע,Demography
 דעמאקראטיע,Democracy
 דעמאקראטישע פארטיי,Democratic Party
 דען האג,The Hague
+דענמארק,Denmark
 דענמארק,Denmark
 דעפיניציע,Definition
 דעצימאל,Decimal
@@ -460,6 +529,8 @@ yiddish,english
 דראמא,Drama
 דרום,South
 דרום אמעריקע,South America
+דרום אמעריקע,South America
+דרום אפריקע,South Africa
 דרום פאלוס,South Pole
 דרום קארעע,South Korea
 דרוק,Pressure
@@ -483,13 +554,16 @@ yiddish,english
 האס,Hatred
 האקנקרייץ,Swastika
 הארבסט,Autumn
+הארטווארג,Computer hardware
 הארטקייט,Hardness
 הארמאן,Hormone
 הארץ,Heart
 הארץ אטאקע,Myocardial infarction
 הויז,House
 הויט,Skin
+הויפט קאטעגאריעס,Fundamental
 הויפטשטאט,Capital
+הומאר,Humor
 הומאר,Humour
 הונט,Dog
 הורדוס,Herod the Great
@@ -500,6 +574,7 @@ yiddish,english
 היינריך הימלער,Heinrich Himmler
 הינדואיזם,Hinduism
 הינריכטונג,Assassination
+היסטאריע,History
 היסטאריע,History
 היספאניאלא,Hispaniola
 היפנאזיע,Hypnosis
@@ -520,6 +595,7 @@ yiddish,english
 וואדי עלען,Woody Allen
 וואולקאן,Volcano
 וואטיקאן,Vatican City
+וואטיקאן,Vatican City
 וואל-פיש,Whale
 וואלד,Forest
 וואלוטע,Currency
@@ -529,11 +605,13 @@ yiddish,english
 וואלקן קראצער,Skyscraper
 וואלראס,Walrus
 וואסער,Water
+וואסער,Water
 וואקאלן,Vowel
 וואקזאל,Train station
 וואקיום,Vacuum
 ווארט פראצעסאר,Word processor
 ווארשע,Warsaw
+וואשינגטאן,Washington
 וואשינגטאן,Washington
 וואשינגטאן די סי,Washington
 ווורשט,Sausage
@@ -559,6 +637,7 @@ yiddish,english
 ווינצענט וואן גאך,Vincent van Gogh
 וויסן,Knowledge
 וויסנשאפט,Science
+וויסנשאפט,Science
 וויסקאנסין,Wisconsin
 וויען,Vienna
 ווירוס,Virus
@@ -583,6 +662,7 @@ yiddish,english
 ווערקצייג,Tool
 וושט,Esophagus
 זאאלאגיע,Zoology
+זאאלאגיע,Zoology
 זאכארי טעילאר,Zachary Taylor
 זאלץ,Salt
 זאלצבורג,Salzburg
@@ -598,6 +678,7 @@ yiddish,english
 זיגמונד פרויד,Sigmund Freud
 זייגער,Clock
 זייף,Soap
+זיכערהייט,Security
 זילבער,Silver
 זימבאבװע,Zimbabwe
 זינד,Sin
@@ -612,6 +693,7 @@ yiddish,english
 זשאן קווינסי עדעמס,John Quincy Adams
 זשאן קעלווין קולידזש,Calvin Coolidge
 זשורנאליזם,Journalism
+זשורנאליזם,Journalism
 זשורנאליסט,Journalist
 זשימי קארטער,Jimmy Carter
 זשיראף,Giraffe
@@ -621,6 +703,7 @@ yiddish,english
 זשעימס נאקס פאלק,James K. Polk
 זשעימס עברעם גארפיעלד,James A. Garfield
 חזיר ווארצל,Wart
+חינוך,Education
 חינוך,Education
 חיפה,Haifa
 חלום,Dream
@@ -637,10 +720,11 @@ yiddish,english
 טאמעס וואדראו ווילסאן,Woodrow Wilson
 טאמעס זשעפערסאן,Thomas Jefferson
 טאמעס עדיסאן,Thomas Edison
-טאן,Tonne
 טאן,Ton
+טאן,Tonne
 טאנגא,Tango
 טאני בלער,Tony Blair
+טאנץ,Dance
 טאנץ,Dance
 טאנק,Tank
 טאפיר,Tapir
@@ -653,11 +737,14 @@ yiddish,english
 טביליסי,Tbilisi
 טובערקולאז,Tuberculosis
 טויט,Death
+טויט,Death
 טוירק,Torque
 טולוז,Toulouse
 טור דע פראנס,Tour de France
 טוריזם,Tourism
+טוריזם,Tourism
 טורמע,Prison
+טורקמעניסטאן,Turkmenistan
 טורקמעניסטאן,Turkmenistan
 טיגער,Tiger
 טיטאניום,Titanium
@@ -668,10 +755,14 @@ yiddish,english
 טיש,Table
 טעאודער רוזעוועלט,Theodore Roosevelt
 טעאטער,Theatre
+טעאטער,Theatre
+טעאלאגיע,Theology
 טעאלאגיע,Theology
 טעאריע,Theory
 טעהראן,Tehran
 טעכנאלאגיע,Technology
+טעכנעלאגיע,Technology
+טעלעוויזיע,Television
 טעלעוויזיע,Television
 טעלעסקאפ,Telescope
 טעלעפאן,Telephone
@@ -679,7 +770,9 @@ yiddish,english
 טעמפעראטור,Temperature
 טענעסי,Tennessee
 טעקסעס,Texas
+טעראר,Terrorism
 טעראריזם,Terrorism
+טערקיי,Turkey
 טערקיי,Turkey
 טראגעדיע,Tragedy
 טראדיציע,Tradition
@@ -687,6 +780,7 @@ yiddish,english
 טראל,Troll
 טראמוויי,Tram
 טראנזיסטאר,Transistor
+טראנספארטאציע,Transportation
 טראפעז,Trapezoid
 טרויאנישער קריג,Trojan War
 טרוסקאווקע,Strawberry
@@ -695,7 +789,9 @@ yiddish,english
 טשארלי טשאפלין,Charlie Chaplin
 טשארלס דארווין,Charles Darwin
 טשילע,Chile
+טשילע,Chile
 טשעכאסלאוואקיי,Czechoslovakia
+טשעכיי,Czech Republic
 טשעכיי,Czech Republic
 טשעסטער עלען ארטור,Chester A. Arthur
 טשערנאבל,Chernobyl
@@ -708,6 +804,7 @@ yiddish,english
 יאסיר אראפאט,Yasser Arafat
 יאפאן,Japan
 יאר,Year
+יארן,Years
 יו ען,United Nations
 יוזל,Jesus
 יוטא,Utah
@@ -720,8 +817,8 @@ yiddish,english
 יופיטער,Jupiter
 יורא,Euro
 יורינע,Urine
-ייחוס,Genealogy
 ייחוס,Family history
+ייחוס,Genealogy
 ים,Sea
 ים המלח,Dead Sea
 ים סוף,Red Sea
@@ -733,6 +830,8 @@ yiddish,english
 ירדן,Jordan
 ירדן טייך,Jordan River
 ירושלים,Jerusalem
+ירושלים,Jerusalem
+ישראל,Israel
 ישראל,Israel
 כאמאס,Hamas
 כארכע לויס בארכעס,Jorge Luis Borges
@@ -742,15 +841,19 @@ yiddish,english
 כנסת,Knesset
 כעזבאלא,Hezbollah
 כעמיע,Chemistry
+כעמיע,Chemistry
 כעמישער בונד,Chemical bond
 כעמישער עלעמענט,Chemical element
 כראמאזאם,Chromosome
 לאגאס,Lagos
 לאגיק,Logic
+לאגיק,Logic
 לאטיין,Latin
 לאכן,Laughter
 לאנד,Country
 לאנדאן,London
+לאנדאן,London
+לאנדווירטשאפט,Agriculture
 לאנדווירטשאפט,Agriculture
 לאס אנזשעלעס,Los Angeles
 לאס וועגאס,Las Vegas
@@ -759,11 +862,13 @@ yiddish,english
 לאקימיע,Leukemia
 לבנה,Moon
 לבנון,Lebanon
+לבנון,Lebanon
 לואיזיענא,Louisiana
 לודוויג וואן בעטהאווען,Ludwig van Beethoven
 לונג,Lung
 לונגען אנטצינדונג,Pneumonia
 לונגען קענסער,Lung cancer
+לוקסעמבורג,Luxembourg
 לוקסעמבורג,Luxembourg
 ליביע,Libya
 ליבע,Love
@@ -775,6 +880,8 @@ yiddish,english
 ליטע,Lithuania
 ליטעראט,Literacy
 ליטעראטור,Literature
+ליטעראטור,Literature
+ליטעראטור,Literature
 לייב,Lion
 לייב טראצקי,Leon Trotsky
 ליכט יאר,Light-year
@@ -782,10 +889,12 @@ yiddish,english
 ליכטנשטיין,Liechtenstein
 לימפעטיק סיסטעם,Lymphatic system
 לינגוויסטיק,Linguistics
+לינגוויסטיק,Linguistics
 לינוקס,Linux
 לינזן,Lentil
 ליניארע אלגעברע,Linear algebra
 ליסבאן,Lisbon
+לעבן,Life
 לעבן,Life
 לעגענדע,Legend
 לעטלאנד,Latvia
@@ -798,13 +907,16 @@ yiddish,english
 מאגן,Stomach
 מאגנעט,Magnet
 מאדע,Fashion
+מאדע,Fashion
 מאדעם,Modem
 מאדריד,Madrid
 מאטאר,Engine
 מאטעמאטיק,Mathematics
+מאטעמאטיק,Mathematics
 מאטריאל,Matter
 מאי,May
 מאכט,Power
+מאלדאוויע,Moldova
 מאלדאוויע,Moldova
 מאלעקול,Molecule
 מאמאל,Mammal
@@ -825,6 +937,7 @@ yiddish,english
 מאקבעט,Macbeth
 מאראנץ,Orange
 מאראקא,Morocco
+מאראקא,Morocco
 מארגארעט טאטשער,Margaret Thatcher
 מארטין וואן ביורען,Martin Van Buren
 מארטין לוטער קינג,Martin Luther King
@@ -840,7 +953,9 @@ yiddish,english
 מגילת רות,Book of Ruth
 מגן דוד,Star of David
 מדבר,Desert
+מדבריות,Deserts
 מדריגה,Exponentiation
+מוזיק,Music
 מוזיק,Music
 מוזיקאלאגיע,Musicology
 מוזיקער,Musician
@@ -857,17 +972,21 @@ yiddish,english
 מוראשקע,Ant
 מיאמי,Miami
 מידות,Ethics
+מידות,Ethics
 מיזורי,Missouri
 מיזרח,East
 מיטאלאגיע,Mythology
+מיטאלאגיע,Mythology
 מיטוואך,Wednesday
 מיטל אלטער,Middle Ages
+מיטל מזרח,Middle East
 מיטל מזרח,Middle East
 מיטלענדישער ים,Mediterranean Sea
 מייל,Mile
 מילאן,Milan
 מילארד פילמאר,Millard Fillmore
 מיליאן,Million
+מיליטער,Military
 מילך,Milk
 מין,Genus
 מינוט,Minute
@@ -881,13 +1000,17 @@ yiddish,english
 מיקראסקאפ,Microscope
 מיקראפאן,Microphone
 מישיגן,Michigan
+מלחמות,War
 מנחם בעגין,Menachem Begin
+מעבל,Furniture
 מעדאנע,Madonna
 מעדיצין,Medication
+מעדעצין,Medicine
 מעהל,Flour
 מעהרען,Moravia
 מעטאל,Metal
 מעטאפאר,Metaphor
+מעטעאראלאגיע,Meteorology
 מעטער,Metre
 מעין,Maine
 מעכאניק,Mechanics
@@ -910,11 +1033,15 @@ yiddish,english
 משיח,Messiah
 משל,Fable
 משניות,Mishnah
+משפחה,Family
+נאבעל פריז,Nobel Prize
 נאבעל־פריז,Nobel Prize
 נאגל,Nail
 נאגל,Nail
+נאוויגאציע,Navigation
 נאוועמבער,November
 נאז,Nose
+נאטור,Nature
 נאטור,Nature
 נאטוראלע עלעמענט,Identity element
 נאטורלעכע צאל,Natural number
@@ -924,18 +1051,23 @@ yiddish,english
 נאפאלי,Naples
 נאפט,Petroleum
 נאציאנאליזם,Nationalism
+נאציאנאליזם,Nationalism
 נארגילע,Hookah
 נארוועגיע,Norway
 נארט דעקאטע,North Dakota
 נארט קארעא,North Korea
 נבוכדנאצר דער צווייטער,Nebuchadrezzar II
 נביא,Prophet
+נומערן,Numbers
 נועם כאמסקי,Noam Chomsky
 נח,Noah
 ניאגארא פאלס,Niagara Falls
 ניו העמפשער,New Hampshire
 ניו זילאנד,New Zealand
+ניו זילאנד,New Zealand
 ניו זשערסי,New Jersey
+ניו זשערסי,New Jersey
+ניו יארק,New York
 ניו יארק,New York
 ניו יארק סיטי,New York City
 ניו מעקסיקא,New Mexico
@@ -961,13 +1093,17 @@ yiddish,english
 סאוט-דעקאטע,South Dakota
 סאול בעלאו,Saul Bellow
 סאטעליט,Satellite
+סאלאר סיסטעם,Solar System
 סאלמאן ראשדי,Salman Rushdie
 סאמאליע,Somalia
 סאסנע,Pine
 סאסקאטשעווען,Saskatchewan
 סאפארי,Safari
+סאפטוועיר,Software
 "סאפיע, בולגאריע",Sofia
 סאציאלאגיע,Sociology
+סאציאלאגיע,Sociology
+סאציאליזם,Socialism
 סאציאליזם,Socialism
 סובסטאנטיוו,Noun
 סודאן,Sudan
@@ -975,6 +1111,7 @@ yiddish,english
 סוניס,Sunni Islam
 סועץ קאנאל,Suez Canal
 סורינאם,Suriname
+סטאטיסטיק,Statistics
 סטאטיסטיק,Statistics
 סטאק עקסטשעינזש,Stock exchange
 סטארטש,Starch
@@ -989,15 +1126,19 @@ yiddish,english
 סידי,Compact Disc
 סימפטאם,Symptom
 סינגאפור,Singapore
+סינגאפור,Singapore
 סיסטעם,System
 סיריע,Syria
 סכום,Set
 סכומען טעאריע,Set theory
 סלאוואקיי,Slovakia
+סלאוואקיי,Slovakia
+סלאוועניע,Slovenia
 סלאוועניע,Slovenia
 סעלערי,Celery
 סענאט,United States Senate
 סעקונדע,Second
+סערביע,Serbia
 סערביע,Serbia
 ספארט,Sport
 ספיידער,Spider
@@ -1017,11 +1158,13 @@ yiddish,english
 סקולפטור,Sculpture
 סקינהעד,Skinhead
 עברעהעם לינקולן,Abraham Lincoln
+עגיפטן,Egypt
 עדיפוס,Oedipus
 עדמונד הילארי,Edmund Hillary
 עוועלאציע,Evolution
 עזה,Gaza
 עזה פאס,Gaza Strip
+עטיאפיע,Ethiopia
 עטיאפיע,Ethiopia
 עטנישע גרופע,Ethnic group
 עידס,AIDS
@@ -1031,36 +1174,44 @@ yiddish,english
 עליזעבעט טעילער,Elizabeth Taylor
 עלעוועיטאר,Elevator
 עלעקטראניק,Electronics
+עלעקטראניק,Electronics
 עלעקטריציטעט,Electricity
+עלעקטריק,Electricity
 עמפייער סטעיט בילדינג,Empire State Building
+ענגלאנד,England
 ענגלאנד,England
 ענגליש,English language
 ענדרו זשאנסאן,Andrew Johnson
 ענדרו זשעקסאן,Andrew Jackson
 ענזיים,Enzyme
+ענטאמאלאגיע,Entomology
 ענערגיע,Energy
 ענערגיע,Energy
 ענציקלאפעדיע,Encyclopedia
 עס.עס.,Schutzstaffel
 עסטעטיק,Aesthetics
 עסטרייך,Austria
+עסטרייך,Austria
 עסיג,Vinegar
 עסנווארג,Food
 עספעראנטא,Esperanto
 עפל,Apple
 עקאנאמיע,Economy
+עקאנאמיקס,Economics
 עקוואדאר,Ecuador
 עקס-רעי,X-ray
 עקסטשעינדזש ראטעס,Exchange rate
 עקראן,Computer display
 ערבה,Willow
 ערבוס,Airbus
+ערד,Earth
 ערד וויסנשאפט,Earth science
 ערד-פלאנעט,Earth
 ערדציטערניש,Earthquake
 ערוואקסענער,Adult
 ערעקטייל דיספאנקשען,Erectile dysfunction
 ערעקשאן,Erection
+ערשטע וועלט מלחמה,World War I
 ערשטע וועלט מלחמה,World War I
 עשרת הדיברות,Ten Commandments
 פאביע,Phobia
@@ -1070,22 +1221,28 @@ yiddish,english
 פאטאך,Fatah
 פאליאנטאלאגיע,Paleontology
 פאליטיק,Politics
+פאליטיק,Politics
 פאליטישע פארטיי,Political party
+פאליטישער וויסנשאפט,Political science
 פאלינאם,Polynomial
 פאליציי,Police
 פאלמע,Arecaceae
 פאלעסטינע,Palestine
+פאלעסטינע,Palestine
 פאלק,Nation
 פאן,Flag
 פאנגוס,Fungus
+פאנגי,Fungi
 פאנדעמענטאליזם,Fundamentalism
 פאנטאזיע,Fantasy
+פאנעטיק,Phonetics
 פאנעטיק,Phonetics
 פאסיל,Fossil
 פאספארט,Passport
 פאפוגיי,Parrot
 פאפיראס,Cigarette
 פאציפישער אקעאן,Pacific Ocean
+פאקיסטאן,Pakistan
 פאקיסטאן,Pakistan
 פאקער,Poker
 פאראבעל,Parabola
@@ -1095,9 +1252,11 @@ yiddish,english
 פארברעכן,Crime
 פארגעוואלדיגונג,Rape
 פארדייאונג,Digestion
+פארדייאונג סיסטעם,Digestive system
 פארדייאונג סיסטעם,Gastrointestinal tract
-ליטעראטור,Literature
+פארוויילונג,Entertainment
 פארטוגאל,Portugal
+פאריז,Paris
 פאריז,Paris
 פארינקס,Pharynx
 פארלאמענט,Parliament
@@ -1110,29 +1269,38 @@ yiddish,english
 פויבסט,Pope
 פויגל,Bird
 פוילן,Poland
+פוילן,Poland
 פונט,Pound
 פונקציע,Function
 פוס,Foot
 פוס מיליטער,Infantry
+פוסבאל,Football
+פוסבאלערס,Football  players
 פי.על.או.,Palestine Liberation Organization
 פידל,Violin
 פידעל קאסטרא,Fidel Castro
 פיווער,Fever
+פיזיאלאגיע,Physiology
+פיזיק,Physics
 פיזיק,Physics
 פיטאגאראס,Pythagoras
 פייג,Common Fig
 פייער,Fire
 פייערלעשער,Firefighter
 פילאזאפיע,Philosophy
+פילאזאפיע,Philosophy
 פיליפינען,Philippines
 פילם,Film
+פילם,Film
 פילעק,Polygon
+פינאנץ,Finance
 פינאנץ,Finance
 פינגװין,Penguin
 פינלאנד,Finland
 פינפעק,Pentagon
 פיצא,Pizza
 פיראמיד,Pyramid
+פיש,Fish
 פיש,Fish
 פלאטו,Plato
 פלאנעט,Planet
@@ -1145,6 +1313,7 @@ yiddish,english
 פליפעלד,Airport
 פסח,Passover
 פסיכאלאגיע,Psychology
+פסיכאלאגיע,Psychology
 פסיכיאטריע,Psychiatry
 פעברואר,February
 פעדעפיליע,Pedophilia
@@ -1153,6 +1322,7 @@ yiddish,english
 פענסילוועניע,Pennsylvania
 פערד,Horse
 פערו,Peru
+פערזענלעכקייטן,People
 פעריאדישע טאבעלע,Periodic table
 פראג,Prague
 פראגע צייכן,Question mark
@@ -1163,10 +1333,12 @@ yiddish,english
 פראנקפורט,Frankfurt
 פראנקפורט אן דער אדער,Frankfurt
 פראנקרייך,France
+פראנקרייך,France
 פראפעסאר,Professor
 פראצענט,Percentage
 פראצעסאר,Central processing unit
 פרוי,Woman
+פרוכט,Fruit
 פרוכט,Fruit
 פרידן,Peace
 פריי,Freedom
@@ -1186,6 +1358,7 @@ yiddish,english
 צוואנציק,20
 צוויבל,Onion
 צווייטער וועלט קריג,World War II
+צווייטער וועלט קריג,World War II
 צוזאמענגעזעצטע צאל,Composite number
 צונאמי,Tsunami
 צונג,Tongue
@@ -1193,6 +1366,7 @@ yiddish,english
 ציג,Goat
 ציוויליזאציע,Civilization
 ציוניזם,Zionism
+צייט,Time
 צייט,Time
 צייטווארט,Verb
 ציין,Tooth
@@ -1202,206 +1376,8 @@ yiddish,english
 צענזוס,Census
 צפון,North
 צפון ים,North Sea
-1920ער,1920s
-1930ער,1930s
-1990ער,1990s
-USA,United States
-אהאיא,Ohio
-אוויאציע,Aviation
-אוזבעקיסטאן,Uzbekistan
-אויג,Eye
-אויסטראליע,Australia
-אוקריינע,Ukraine
-אזיע,Asia
-אידישקייט,Judaism
-איטאליע,Italy
-אייראפע,Europe
-אייראפעישער פארבאנד,European Union
-אינדוסטריע,Industry
-אינדיע,India
-אינזשעניריע,Engineering
-אינטערנעט,Internet
-איסלאם,Islam
-איסלאנד,Iceland
-איראן,Iran
-איראק,Iraq
-אירלאנד,Republic of Ireland
-אירלאנד,Ireland
-אלגעברע,Algebra
-אלטערנאטיווע מעדיצין,Alternative medicine
-אנאטאמיע,Anatomy
-אנארכיזם,Anarchism
-אנדארא,Andorra
-אנטיסעמיטיזם,Antisemitism
-אסטראנאמיע,Astronomy
-אפגאניסטאן,Afghanistan
-אפטיק,Optics
-אפריקע,Africa
-ארגענטינע,Argentina
-ארכיטעקטור,Architecture
-ארכעאלאגיע,Archaeology
-ארמעניע,Armenia
-באדייטן,Disambiguation
-באהאמאס,Bahamas
-באטאניק,Botany
-בולגאריע,Bulgaria
-ביאלאגיע,Biology
-בעלארוס,Belarus
-בעלגיע,Belgium
-בענק,Banks
-בראזיל,Brazil
-בריטאניע,United Kingdom
-בריקן,Bridges
-גאבאן,Gabon
-גוגעל,Google
-גייסט וויסנשאפט,Humanities
-געאגראפיע,Geography
-געאלאגיע,Geology
-געאמעטריע,Geometry
-געזונטהייט,Health
-געזעלשאפט,Society
-געזעץ,Law
-געלט,Currency
-געפילן,Emotion
-גראמאטיק,Grammar
-גריכישע מיטאלאגיע,Greek mythology
-גריכנלאנד,Greece
-דורכגאסן,Straits
-דייטשלאנד,Germany
-דיכטונג,Poetry
-דעמאגראפיע,Demography
-דענמארק,Denmark
-דרום אמעריקע,South America
-דרום אפריקע,South Africa
-הארטווארג,Computer hardware
-הויפט קאטעגאריעס,Fundamental
-הומאר,Humor
-היסטאריע,History
-וואטיקאן,Vatican City
-וואסער,Water
-וואשינגטאן,Washington
-וויסנשאפט,Science
-זאאלאגיע,Zoology
-זיכערהייט,Security
-זשורנאליזם,Journalism
-חינוך,Education
-טאנץ,Dance
-טויט,Death
-טוריזם,Tourism
-טורקמעניסטאן,Turkmenistan
-טעאטער,Theatre
-טעאלאגיע,Theology
-טעכנעלאגיע,Technology
-טעלעוויזיע,Television
-טעראר,Terrorism
-טערקיי,Turkey
-טראנספארטאציע,Transportation
-טשילע,Chile
-טשעכיי,Czech Republic
-יארן,Years
-ירושלים,Jerusalem
-ישראל,Israel
-כעמיע,Chemistry
-לאגיק,Logic
-לאנדאן,London
-לאנדווירטשאפט,Agriculture
-לבנון,Lebanon
-לוקסעמבורג,Luxembourg
-ליטעראטור,Literature
-לינגוויסטיק,Linguistics
-לעבן,Life
-מאדע,Fashion
-מאטעמאטיק,Mathematics
-מאלדאוויע,Moldova
-מאראקא,Morocco
-מדבריות,Deserts
-מוזיק,Music
-מידות,Ethics
-מיטאלאגיע,Mythology
-מיטל מזרח,Middle East
-מיליטער,Military
-מלחמות,War
-מעבל,Furniture
-מעדעצין,Medicine
-מעטעאראלאגיע,Meteorology
-משפחה,Family
-נאבעל פריז,Nobel Prize
-נאוויגאציע,Navigation
-נאטור,Nature
-נאציאנאליזם,Nationalism
-נומערן,Numbers
-ניו זילאנד,New Zealand
-ניו זשערסי,New Jersey
-ניו יארק,New York
-סאלאר סיסטעם,Solar System
-סאפטוועיר,Software
-סאציאלאגיע,Sociology
-סאציאליזם,Socialism
-סטאטיסטיק,Statistics
-סינגאפור,Singapore
-סלאוואקיי,Slovakia
-סלאוועניע,Slovenia
-סערביע,Serbia
-עגיפטן,Egypt
-עטיאפיע,Ethiopia
-עלעקטראניק,Electronics
-עלעקטריק,Electricity
-ענגלאנד,England
-ענטאמאלאגיע,Entomology
-עסטרייך,Austria
-עקאנאמיקס,Economics
-ערד,Earth
-ערשטע וועלט מלחמה,World War I
-פאליטיק,Politics
-פאליטישער וויסנשאפט,Political science
-פאלעסטינע,Palestine
-פאנגי,Fungi
-פאנעטיק,Phonetics
-פאקיסטאן,Pakistan
-פארדייאונג סיסטעם,Digestive system
-פארוויילונג,Entertainment
-פאריז,Paris
-פוילן,Poland
-פוסבאל,Football
-פוסבאלערס,Football  players
-פיזיאלאגיע,Physiology
-פיזיק,Physics
-פילאזאפיע,Philosophy
-פילם,Film
-פינאנץ,Finance
-פיש,Fish
-פסיכאלאגיע,Psychology
-פערזענלעכקייטן,People
-פראנקרייך,France
-פרוכט,Fruit
-צווייטער וועלט קריג,World War II
-צייט,Time
-קאזאקסטאן,Kazakhstan
-קאמוניקאציע,Communication
-קאמערון,Cameroon
-קאמפיוטער פראגראמירונג,Computer programming
-קאנאדע,Canada
-קאנעטיקעט,Connecticut
-קאסמאלאגיע,Cosmology
-קובא,Cuba
-קולטור,Culture
-קונסט,Arts
-קלאסישע מוזיק,Classical music
-קליידונג,Clothing
-קלימאטאלאגיע,Climatology
-קראאטיע,Croatia
-קריסטנטום,Christianity
-ראדיאו,Radio
-ראק,Rock music
-רוים,Rome
-רוימישע מיטאלאגיע,Roman mythology
-רומעניע,Romania
-רוסלאנד,Russia
-ריינקייט,Hygiene
-רעליגיע,Religion
-שוועדן,Sweden
-װענעזועלע,Venezuela
 קאווע,Coffee
+קאזאקסטאן,Kazakhstan
 קאזאקסטאן,Kazakhstan
 קאטאליציזם,Catholicism
 קאטשקע,Anatidae
@@ -1416,10 +1392,12 @@ USA,United States
 קאלערי,Calorie
 קאמוניזם,Communism
 קאמוניקאציע,Communication
+קאמוניקאציע,Communication
 קאמעדיע,Comedy
 קאמעט,Comet
 קאמעמבערט,Camembert
 קאמערא,Camera
+קאמערון,Cameroon
 קאמערון,Cameroon
 קאמפאזיטאר,Composer
 קאמפאס,Compass
@@ -1428,7 +1406,9 @@ USA,United States
 קאמפיוטער טעקע,Computer file
 קאמפיוטער פראגראם,Computer program
 קאמפיוטער פראגראמירונג,Computer programming
+קאמפיוטער פראגראמירונג,Computer programming
 קאמפיילער,Compiler
+קאנאדע,Canada
 קאנאדע,Canada
 קאנבערא,Canberra
 קאנגרעס,United States Congress
@@ -1439,9 +1419,11 @@ USA,United States
 קאנסענסוס,Consensus
 קאנסערוואטיזם,Conservatism
 קאנעטיקעט,Connecticut
+קאנעטיקעט,Connecticut
 קאנצענטראציע לאגער,Internment
 קאנקורענט,Competition
 קאסינא,Casino
+קאסמאלאגיע,Cosmology
 קאסמאלאגיע,Cosmology
 קאפ,Head
 קאפיטאליזם,Capitalism
@@ -1464,6 +1446,7 @@ USA,United States
 קו התאריך,International Date Line
 קו קלוקס קלען,Ku Klux Klan
 קובא,Cuba
+קובא,Cuba
 קוהלת,Ecclesiastes
 קוואדראט,Square
 קוואדראט ווארצל,Square root
@@ -1474,7 +1457,9 @@ USA,United States
 קוילנשטאף,Carbon
 קוכן,Cake
 קולטור,Culture
+קולטור,Culture
 קונסט,Art
+קונסט,Arts
 קופער,Copper
 קוריטיבא,Curitiba
 קורץ ווארט,Abbreviation
@@ -1490,9 +1475,12 @@ USA,United States
 קישקע,Pancreas
 קלאוויאטור,Keyboard
 קלאסישע מוזיק,Classical music
+קלאסישע מוזיק,Classical music
 קלויסטער,Church
 קליוולאנד,Cleveland
 קליידונג,Clothing
+קליידונג,Clothing
+קלימאטאלאגיע,Climatology
 קלימאטאלאגיע,Climatology
 קלינישע דעפרעסיע,Clinical depression
 קנאבל,Garlic
@@ -1506,15 +1494,18 @@ USA,United States
 קענסער,Cancer
 קערנפיזיק,Nuclear physics
 קראאטיע,Croatia
+קראאטיע,Croatia
 קראנקייט,Disease
 קראפט,Force
 קריג,War
 קריסטאל,Crystal
 קריסטאפער קאלאמבוס,Christopher Columbus
 קריסטנטום,Christianity
+קריסטנטום,Christianity
 ראבאט,Robot
 ראבער,Rubber
 ראד,Wheel
+ראדיאו,Radio
 ראוד איילענד,Rhode Island
 ראטן פארבאנד לענדער,Commonwealth of Independent States
 ראמאדאן,Ramadan
@@ -1523,12 +1514,17 @@ USA,United States
 ראנאלד רעיגען,Ronald Reagan
 ראסיזם,Racism
 ראפאעל,Raphael
+ראק,Rock music
 ראש השנה,Rosh Hashanah
 רב,Rabbi
 רוטירער,Router
 רוטערפארד בי. העיס,Rutherford B. Hayes
 רויט,Red
 רוים,Rome
+רוים,Rome
+רוימישע מיטאלאגיע,Roman mythology
+רומעניע,Romania
+רוסלאנד,Russia
 רוסלאנד,Russia
 רופארט מורדאק,Rupert Murdoch
 רוקן ביין,Vertebral column
@@ -1538,6 +1534,7 @@ USA,United States
 ריטשארד ניקסאן,Richard Nixon
 רייז,Rice
 ריין,Rhine
+ריינקייט,Hygiene
 ריכארד וואגנער,Richard Wagner
 ריפראדאקציע,Reproduction
 "רמב""ם",Maimonides
@@ -1547,6 +1544,7 @@ USA,United States
 רעגן,Rain
 רעגנבויגן,Rainbow
 רעוואלוציע,Revolution
+רעליגיע,Religion
 רעליגיע,Religion
 רעמבראנדט,Rembrandt
 רעסטוראנט,Restaurant
@@ -1563,6 +1561,7 @@ USA,United States
 שווארצע פעפער,Black pepper
 שווארצער ים,Black Sea
 שווייץ,Switzerland
+שוועדן,Sweden
 שוועדן,Sweden
 שוועמל,Mushroom
 שויס קאמפיוטער,Laptop
@@ -1609,3 +1608,4 @@ USA,United States
 װאָרט,Word
 װעלט געזונט ארגאניזאציע,World Health Organization
 װעלינגטאן,Wellington
+װענעזועלע,Venezuela

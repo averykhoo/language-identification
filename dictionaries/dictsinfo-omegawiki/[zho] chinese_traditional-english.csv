@@ -1,20 +1,21 @@
 Other,English
+chinese_traditional,english
 一,one
+世界語,Esperanto
+世界語,Esperanto
 世界語,Iran
 世界語,Islamic Republic of Iran
-世界語,Esperanto
-世界語,Esperanto
-中國,People's Republic of China
 中國,China
+中國,People's Republic of China
 丹麥語,Danish
 乳牛,cow
 乳牛,cow
 亞塞拜然語,Azerbaijani
-亞塞拜然語,Azeri
 亞塞拜然語,Azerbaijani Cluster
+亞塞拜然語,Azeri
 人類學,anthropology
-介詞,preposition
 介系詞,preposition
+介詞,preposition
 以色列,Israel
 以色列,State of Israel
 伊拉克,Iraq
@@ -30,6 +31,7 @@ Other,English
 冰島,Iceland
 冰島,Republic of Iceland
 冰島語,Icelandic
+出售,sell
 利比里亞,Liberia
 利比里亞,Republic of Liberia
 副詞,adverb
@@ -53,10 +55,10 @@ Other,English
 印尼,Indonesia
 印尼,Republic of Indonesia
 印尼語,Indonesian
-印度語,Hindi
-印度語,Hindi
 印度語,Gujarati
 印度語,Gujarati
+印度語,Hindi
+印度語,Hindi
 印度語,Sindhi
 印度語,Sindhi
 危地馬拉,Guatemala
@@ -64,12 +66,13 @@ Other,English
 口紅,lipstick
 古巴,Cuba
 古巴,Republic of Cuba
-可行的,viable
-可行的,viable
 可行的,feasible
+可行的,viable
+可行的,viable
+台湾,Taiwan
 史學史,historiography
-同情,pity
 同情,compassion
+同情,pity
 名詞,noun
 名詞,substantive
 和平主義者,pacifist
@@ -79,18 +82,24 @@ Other,English
 喀土穆,Khartoum
 喬治亞語,Georgian
 喬治亞語,Georgian
+噯,aye
+噯,yeah
+噯,yep
+噯,yes
 困難的,difficult
-艱難的,difficult
 國家,country
 國家,nation
 國家,state
+國語,Mandarin
+國語,Standard Mandarin
+國語,mandarin
 土耳其語,Turkish
 土耳其語,Turkish
 地平綫,horizon
 坦米爾語,Tamil
 坦米爾語,Tamil
-埃及,Egypt
 埃及,Arab Republic of Egypt
+埃及,Egypt
 報道,journalism
 塞内加爾,Senegal
 塞爾維亞語,Serbian
@@ -103,13 +112,12 @@ Other,English
 奧地利,Republic of Austria
 女兒,daughter
 妻妾,harem
-後宮,harem
 威爾斯語,Welsh
 威爾斯語,Welsh
 孟加拉語,Bengali
 孟加拉語,Bengali
-孟買,Mumbai
 孟買,Bombay
+孟買,Mumbai
 安哥拉,Angola
 安哥拉,Republic of Angola
 官方語言,official language
@@ -129,11 +137,11 @@ Other,English
 岡比亞,Gambia
 岡比亞,Gambia
 岡比亞,Gambia
-岡比亞,The Gambia
 岡比亞,Republic of The Gambia
+岡比亞,The Gambia
 巧克力,chocolate
-巴基斯坦,Pakistan
 巴基斯坦,Islamic Republic of Pakistan
+巴基斯坦,Pakistan
 巴斯克語,Basque
 巴斯克語,Basque
 巴林,Bahrain
@@ -143,19 +151,19 @@ Other,English
 希臘語,Greek
 希臘語,Greek
 年齡,age
-時代,age
 幾乎,almost
-庫頁島,Sakhalin
 庫頁島,Saghalien
+庫頁島,Sakhalin
 廢氣,exhaust gas
 形容詞,adjective
 形容詞,describing word
+後宮,harem
 復活節,Easter
 微笑,smile
-德拉威語,Telugu
-德拉威語,Telugu
 德拉威語,Kannada
 德拉威語,Kannada
+德拉威語,Telugu
+德拉威語,Telugu
 忮,aggressive
 意大利,Italian Republic
 意大利,Italy
@@ -165,11 +173,11 @@ Other,English
 愛沙尼亞語,Estonian
 愛爾蘭語,Irish
 愛爾蘭語,Irish
-愛爾蘭語,Irish Gaelic
 愛爾蘭語,Irish
+愛爾蘭語,Irish Gaelic
 愛琴海,Aegean Sea
-感謝,thank you
 感謝,appreciate
+感謝,thank you
 手帕,handkerchief
 打雷,thunder
 拉丁語,Latin
@@ -177,8 +185,8 @@ Other,English
 拉脫維亞語,Latvian
 拉脫維亞語,Latvian
 拖鞋,slipper
-挪威,Norway
 挪威,Kingdom of Norway
+挪威,Norway
 挪威語,Norwegian
 捐贈,donation
 捷克語,Czech
@@ -194,38 +202,25 @@ Other,English
 新年快樂,Happy New Year
 新詞,neologism
 新陳代謝,metabolism
-旁加語,Punjabi
 旁加語,Panjabi
-日本國,Japan
-日本國,State of Japan
+旁加語,Punjabi
 日本,Japan
 日本,State of Japan
+日本國,Japan
+日本國,State of Japan
 日語,Japanese
 日語,Japanese
 星期二,Tuesday
-禮拜二,Tuesday
 是,aye
 是,yeah
 是,yep
 是,yes
-噯,aye
-噯,yeah
-噯,yep
-噯,yes
+時代,age
 晤魯都語,Urdu
 晤魯都語,Urdu
-普通話,mandarin
 普通話,Mandarin
 普通話,Standard Mandarin
-現代標準漢語,mandarin
-現代標準漢語,Mandarin
-現代標準漢語,Standard Mandarin
-國語,mandarin
-國語,Mandarin
-國語,Standard Mandarin
-華語,mandarin
-華語,Mandarin
-華語,Standard Mandarin
+普通話,mandarin
 晶體,crystal
 智利,Chile
 智利,Republic of Chile
@@ -239,18 +234,13 @@ Other,English
 樂觀,optimism
 樂觀,optimism
 檸檬,lemon
-步行街,pedestrian zone
-步行街,pedestrian area
-步行街,car-free zone
 步行街,auto-free zone
+步行街,car-free zone
+步行街,pedestrian area
+步行街,pedestrian zone
 步行街,pedestrianised zone
-行人專區,pedestrian zone
-行人專區,pedestrian area
-行人專區,car-free zone
-行人專區,auto-free zone
-行人專區,pedestrianised zone
-死刑,death penalty
 死刑,capital punishment
+死刑,death penalty
 死刑,death sentence
 比利時,Belgium
 比利時,Kingdom of Belgium
@@ -263,9 +253,9 @@ Other,English
 法語,French
 波斯尼亞語,Bosnian
 波斯尼亞語,Bosnian
+波斯語,Farsi
 波斯語,Persian
 波斯語,Western Farsi
-波斯語,Farsi
 波蘭語,Polish
 波蘭語,Polish
 泰語,Thai
@@ -274,16 +264,18 @@ Other,English
 海王星,Neptune
 海豚,dolphin
 海鷗,gull
+消防員,fire fighter
+消防員,fire-eater
 消防員,firefighter
 消防員,fireman
 消防員,firewoman
-消防員,fire fighter
-消防員,fire-eater
+清晰,Definition
+清晰,definition
 火雞,turkey
 烏克蘭語,Ukrainian
 烏克蘭語,Ukrainian
-烏干達,Uganda
 烏干達,Republic of Uganda
+烏干達,Uganda
 無神論者,atheist
 爪哇語,Javanese
 狒狒,baboon
@@ -292,15 +284,18 @@ Other,English
 玉,jade
 玻利維亞,Bolivia
 玻利維亞,Republic of Bolivia
-理髮師,hairdresser
+現代標準漢語,Mandarin
+現代標準漢語,Standard Mandarin
+現代標準漢語,mandarin
 理髮師,barber
+理髮師,hairdresser
 瑞典語,Swedish
 瑞士,Switzerland
 異教徒,heathen
 異教徒,infidel
 異教徒,pagan
-病院,hospital
 病院,clinic
+病院,hospital
 登革熱,dengue fever
 白俄羅斯語,Belarusan
 白俄羅斯語,Belarusan
@@ -315,25 +310,26 @@ Other,English
 皮埃蒙特語,Piemontese
 眉毛,eyebrow
 祖魯語,Zulu
+禮拜二,Tuesday
 秋,autumn
 科薩語,Xhosa
 稀有氣體,element of group 0
 稀有氣體,noble gas
 空氣,air
-窗戶,window
 窗仔門,window
+窗戶,window
 立陶宛,Lithuania
 立陶宛,Republic of Lithuania
 立陶宛語,Lithuanian
 立陶宛語,Lithuanian
 簡稱,abbreviation
-約旦,Jordan
 約旦,Hashemite Kingdom of Jordan
+約旦,Jordan
 納米比亞,Namibia
 綿羊,sheep
 緬甸語,Burmese
-羅馬尼亞語,Romanian
 羅馬尼亞語,Romanaian
+羅馬尼亞語,Romanian
 翻譯,translation
 聖誕快樂,Merry Christmas
 肺,lung
@@ -342,10 +338,13 @@ Other,English
 自由,freedom
 自由,liberty
 臺灣,Taiwan
-台湾,Taiwan
+艱難的,difficult
 芬蘭語,Finnish
 英語,English
 茶,tea
+華語,Mandarin
+華語,Standard Mandarin
+華語,mandarin
 萵苣,lettuce
 葬禮,funeral
 藍色,blue
@@ -355,10 +354,15 @@ Other,English
 虎,tiger
 蜂窩,beehive
 螞蟻,ant
+行人專區,auto-free zone
+行人專區,car-free zone
+行人專區,pedestrian area
+行人專區,pedestrian zone
+行人專區,pedestrianised zone
 詞,word
+諺語,maxim
 諺語,proverb
 諺語,saying
-諺語,maxim
 謏,short
 謏,small
 謝謝,cheers
@@ -367,20 +371,17 @@ Other,English
 譯員,interpreter
 貝爾格萊德,Belgrade
 賣,sell
-出售,sell
 超級市場,supermarket
 越南語,Vietnamese
 越南語,Vietnamese
 踝關節,ankle
 踝關節,talocrural joint
-迷你裙,miniskirt
 迷你裙,mini-skirt
+迷你裙,miniskirt
 過渡金屬,transition element
 過渡金屬,transition metal
 释义,Definition
 释义,definition
-清晰,Definition
-清晰,definition
 金槍魚,tunafish
 鈉,sodium
 鋅,zinc
@@ -389,8 +390,8 @@ Other,English
 锇,osmium
 镭,radium
 長頸鹿,giraffe
-關節,joint
 關節,articulation
+關節,joint
 阿尔及利亚,Algeria
 阿尔及利亚,People's Democratic Republic of Algeria
 阿布哈茲語,Abkhaz
@@ -404,23 +405,21 @@ Other,English
 阿薩姆語,Assamese
 陰暗,black
 陰暗,dark
-黑暗,black
-黑暗,dark
-雅加達,Jakarta
-雅加達,Djakarta
 雅加達,DKI Jakarta
+雅加達,Djakarta
+雅加達,Jakarta
 離婚,divorce
-零,zero
 零,null
+零,zero
 電話,phone
 電話,telephone
 非金屬,non-metal
 非金屬元素,non-metal
 韓語,Korean
 韓語,Korean
-顏色,colour
-顏色,colour
 顏色,colo(u)r
+顏色,colour
+顏色,colour
 類金屬,semi-metal
 餐巾,napkin
 香槟酒,champagne
@@ -433,18 +432,19 @@ Other,English
 馬達加斯加,Republic of Madagascar
 鯨魚,whale
 鴨,duck
-鴿子,pigeon
 鴿子,dove
+鴿子,pigeon
 鸚鵡,parrot
 鹵素,element of group VII
 鹵素,halogen
-鹼土金屬,element of group II (alkaline earth metals)
 鹼土金屬,alkaline earth metal
 鹼土金屬,element of group II
-鹼金屬,alkaline
-鹼金屬,element of group I
-鹼金屬,alkaline metal
+鹼土金屬,element of group II (alkaline earth metals)
 鹼金屬,alkali metal
+鹼金屬,alkaline
+鹼金屬,alkaline metal
+鹼金屬,element of group I
 鹿,deer
 麥克風,microphone
-chinese_traditional,english
+黑暗,black
+黑暗,dark

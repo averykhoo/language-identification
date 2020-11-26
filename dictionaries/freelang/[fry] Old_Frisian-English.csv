@@ -1,4 +1,13 @@
 Other,English
+*-belga,swell
+*abbet,abbot
+*bibinda,bind
+*bitena,barricade
+*hasa,hare
+*infiuchta,fight into
+*tha,there
+*this (m),this
+*thius (f),this
 -awinna,gain from someone
 -ber,bare
 -bera,bearer
@@ -126,17 +135,32 @@ Other,English
 -wik,town
 -wlemelsa,damage
 -worth,hill
-*-belga,swell
-*abbet,abbot
-*bibinda,bind
-*bitena,barricade
-*hasa,hare
-*infiuchta,fight into
-*tha,there
-*this (m),this
-*thius (f),this
 ?,wound
 ?????¢,own
+Agrip,Cologne
+Aldeson,Oldensum
+Angelond,England
+Auwesburg,Augsburg
+Bavenberg,Bamberg
+Bernere,Verona's inhabitant
+Beygeron,Bavaria
+Ethela,Attila
+Frisa,Frisian
+Huna,Hun
+Ingelsk,English
+Jotha,Jew
+Kedde,crowd
+Kerst,Christ
+Kolne,Cologne
+Kreklond,Greece
+Michahelesdi,Saint Michael
+Riostring,inhabitant of Rustringen
+Riostringalond,Rustringen
+Rume,Rome
+Rumere,Roman
+Ruszlond,Russia
+Thit (n),this
+Ungeron,Hungary
 a,"island, in any case, in, to, at, water"
 a-,"law, out"
 abbit,abbot
@@ -155,7 +179,6 @@ afara,"before, in front of"
 afte,in accordance with the law
 aga,have to
 age,eye
-Agrip,Cologne
 agripinisk,from Cologne
 ahwedder,aither
 aider,either
@@ -170,7 +193,6 @@ aldemoder,granmother
 alder,then
 aldera,parents
 alderefter,whereafter
-Aldeson,Oldensum
 aldir-,older
 aldirmon,elderman
 aldus,in this way
@@ -183,15 +205,15 @@ alla,all in
 alle,"all, completely"
 alle tha,all the
 allera,of all
-allera-skenast,most beautiful
 allera monna ek,every person
 allera monnik,each person
 allera swesost,closest related
+allera-skenast,most beautiful
 allerek,every
 allesa,jest as
 alond,island
-alrek,every
 alrek,each
+alrek,every
 alsa,"as, so, thus; as, like, when, if, because"
 alsaden,in the same way
 alsafir,so far
@@ -222,7 +244,6 @@ andlofta,eleventh
 andloftahalh,ten and a half
 andlova,eleven
 angel,angel
-Angelond,England
 anna,"in, on, to, at"
 anta,and the
 antes,and the
@@ -245,13 +266,11 @@ atwa,in pieces
 atwasteta,push in two
 aubere,visible
 audern,window
-Auwesburg,Augsburg
 auwet,something
 balu-,"bad, evil"
 balumon,unfaithful guardian
 bam,tree
 barna,burn
-Bavenberg,Bamberg
 be,according to
 be-,"by, at"
 bed,bed
@@ -276,7 +295,6 @@ berch,mountain
 berd,beard
 bere,strechter
 bern,child
-Bernere,Verona's inhabitant
 berskinzie,bare-legged
 berthe,birth
 besla,close down
@@ -289,7 +307,6 @@ bethe,both
 bettra,better
 bevia,shake
 bewella,contaminate
-Beygeron,Bavaria
 biada,"offer, command"
 bidda,ask
 biefta,remote
@@ -485,7 +502,6 @@ et,"at, in, on, over, from, in"
 et cetera,etcetera
 eta,at the
 eth,office
-Ethela,Attila
 etheldom,free citizenship
 ethele,having free citizenship
 etherling,free citizen
@@ -606,7 +622,6 @@ frihals,freedom
 friling,free man
 frimon,free man
 friond,relative
-Frisa,Frisian
 frisesk,frisian
 friseskriucht,frisian law
 frost,cold
@@ -763,7 +778,6 @@ hrena,smell
 hrene,sense of smell
 hropa,call
 hu,how
-Huna,Hun
 hund,dog
 hundred,"one hundred, hundred"
 hunger,hunger
@@ -801,7 +815,6 @@ iliskredene,cutting in the footsole
 in,in
 indwa,wound a person who fled into a house
 inethma,the entering of air into a wound
-Ingelsk,English
 ingod,furniture
 ingong,entering
 inkoma,enter
@@ -870,7 +883,6 @@ jeve,gift
 jolde,guild
 joldfretho,safety of a guild
 joldskipi,religious fraternity
-Jotha,Jew
 jung,young
 kaese,cheese
 kalde,cold
@@ -883,7 +895,6 @@ kar-,affliction
 karfestere,fasting penitent
 karine,fasting for a period of 40 days
 kasma,chose one
-Kedde,crowd
 keiser,emperor
 kela,cool down
 ken,family
@@ -891,7 +902,6 @@ kenep,moustache
 kera,convert
 kere,choice
 kersoma,holy chrism
-Kerst,Christ
 kersten,christian
 kerstena,christian
 kerstendom,christianity
@@ -920,12 +930,10 @@ klipskelde,tribute in cash
 kni,degree of kinship
 kniucht,knight
 kolnaburch,Cologne
-Kolne,Cologne
 koma,come
 komp,duel
 kort,short
 kost,food
-Kreklond,Greece
 kriapa,creep
 krioce,cross
 kriose,cross
@@ -937,8 +945,8 @@ lad,lead
 laf,leaves
 lagia,estabilish
 langor,longer
-las,"without, loose"
 las,-less
+las,"without, loose"
 lasta,fulfil
 laster,damage
 lathia,invite
@@ -1031,7 +1039,6 @@ mete,measure
 metedolch,measure-wound
 metewunde,measure-wound
 mi,me
-Michahelesdi,Saint Michael
 midda,in the middle of
 mide,gift
 midlost,most middle
@@ -1187,20 +1194,15 @@ rethe,defence
 rib,rib
 riddere,knight
 rike,"rich, kingdom"
-Riostring,inhabitant of Rustringen
-Riostringalond,Rustringen
 risa,happen
 rither,cow
 riucht,"official, verdict, right"
 riuchta,adjudicate
 riuchte,legally
-Rume,Rome
-Rumere,Roman
 rumere,Rome-pilgrim
 rumfara,Rome-pilgrim
 rumisk,Roman (as in `Holy Roman Empire')
 runna,run
-Ruszlond,Russia
 sa,"thus, therefore"
 salt,salt
 sancte,saint
@@ -1224,8 +1226,8 @@ shalk,servant
 si,victory
 sia,see
 siak,sick
-sibbe,relationship
 sibbe,related
+sibbe,relationship
 side,"side, deep"
 sigun,seven
 sikur,not guilty
@@ -1405,7 +1407,6 @@ thin,your
 thing,complaint
 thiode,vernacular
 thit,this
-Thit (n),this
 thiuvethe,theft
 tholia,undergo
 thonk,satisfaction
@@ -1431,8 +1432,8 @@ tins,tribute
 tiona,claim
 tiuch,testimony
 to,"too, until, to, for, against, in, at, on"
-to-,in two
 to allera disthik,daily
+to-,in two
 top,strand of hair
 toth,tooth
 treppe,step
@@ -1445,7 +1446,6 @@ twa,two
 twisk,between
 umbe,around
 under,under
-Ungeron,Hungary
 up-,up-
 ur,over
 ur-,over-

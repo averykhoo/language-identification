@@ -1,15 +1,8 @@
 Other,English
-fast,proof
-messig,-wise
-sentral,centre
-sikker,proof
-sinnet,minded
-tøy,-ware
-varer,-ware
-?,cold
+,"zilch, zero, nought, nil, naught"
 1. pinsedag,Whit Sunday
 2. pinsedag,Whit Monday
-à jour,up-to-date
+?,cold
 abbed,abbot
 abbedi,abbey
 abbedisse,abbess
@@ -113,7 +106,6 @@ alene,alone
 aleneforeldre,single parent
 alfabet,alphabet
 alle,"everybody, each, everyone, all"
-allé,"avenue, alley"
 alle untatt,all but
 allegorisk,allegorical
 allehelgensaften,Halloween
@@ -129,6 +121,7 @@ allmenngyldig,"common good, general value"
 allsidig,"all-around, versatile"
 alltid,"invariably, always, ever"
 allvitende,omniscient
+allé,"avenue, alley"
 alm,elm
 alminnelig,"universal, vulgar, general, common"
 alminnelig stemmerett,universal suffrage
@@ -399,12 +392,12 @@ automatisk,automatic
 autorisere,authorize
 autorisert,authorized
 av,"of, with, by, for"
-av-gifte,detoxify
 av høyeste grad,superlative
 av og til,"at times, occasionally, sometimes, on and off"
 av tre,wooden
 av ull,woolen
 av vanvare,"unawares, inadvertently"
+av-gifte,detoxify
 avart,variety
 avbestille,cancel
 avbestilling,cancellation
@@ -517,11 +510,11 @@ avslag,"rejection, refusal, rebuff, denial"
 avslapping,relaxation
 avslutning,"termination, ending"
 avslutte,"finish, terminate"
+avslå,"refuse, decline, turn down, rebuff, deny, reject"
+avslått,rejected
 avsløre,"reveal, disclose, unveil"
 avslørende,revealing
 avsløring,"disclosure, exposure, revelation"
-avslå,"refuse, decline, turn down, rebuff, deny, reject"
-avslått,rejected
 avsmak,distaste
 avsnitt,"paragraph, section, passage"
 avsondre,segregate
@@ -691,13 +684,13 @@ bedrøve,afflict
 bedrøvelig,sad
 bedrøvelse,sorrow
 bedrøvet,"sorry, sad"
+bedårende,adorable
 bedømme,measure
 bedømme galt,misjudge
 bedømmelse,appreciation
 bedøve,"stupefy, drug"
 bedøvelse,"narcosis, anaesthesia, anaesthetic"
 bedøvende middel,anaesthetic
-bedårende,adorable
 befeste,"wall, fortify"
 befolke,populate
 befolkning,"population, population"
@@ -793,11 +786,11 @@ beltebil,weasel
 belyse,illustrate
 belyse ved eksempler,exemplify
 belysning,"illumination, light, illustration"
+belåne,mortgage
 belærende,didactic
 belønne,"reward, remunerate, recompense"
 belønning,"reward, recompense, premium"
 beløp,"sum, amount"
-belåne,mortgage
 bemanne,man
 bemerke,remark
 bemerkelsesverdig,"notable, remarkable"
@@ -904,8 +897,8 @@ bestillingsskjema,requisition form
 bestrebe,"endeavor, try hard (with seg)"
 bestrebelse,"endeavour, effort, ambition, aspiration"
 bestride,"deny, contest, oppose"
-bestrø,strew
 bestråle,"irradiate, expose to radiation"
+bestrø,strew
 bestselger,bestseller
 bestyrer,warden
 bestyrtelse,"dismay, consternation"
@@ -1159,6 +1152,12 @@ blyaktig,leaden
 blyant,pencil
 blyfri,unleaded
 blyg,modest
+blå,blue
+blåbær,bilberry
+blåkopi,blueprint
+blålilla,mauve
+blåse,"puff, pipe"
+blåskjell,mussel
 blære,"bladder, bubble"
 blø,bleed
 blødning,haemorrhage
@@ -1170,12 +1169,6 @@ bløte opp,sop
 bløtgjøre,soften
 bløthet,softness
 bløtkake,layercake
-blå,blue
-blåbær,bilberry
-blåkopi,blueprint
-blålilla,mauve
-blåse,"puff, pipe"
-blåskjell,mussel
 bo,"estate, room, dwell, reside, live"
 bobestyrer,trustee
 bod,"stand, booth, store room"
@@ -1368,6 +1361,12 @@ bryter,"switch, wrestler"
 brytes,sever
 bryting,wrestling
 brytning,"accent, nuance, flavor, (lang) color, taste"
+brå,sudden
+bråk,"row, riot, racket"
+bråke,din
+bråkete,noisy
+bråmoden,precocious
+brått,untimely
 brød,"loaf, bread"
 brødboks,breadbin
 brødsoll,milksop
@@ -1377,12 +1376,6 @@ brøl,"roar, shout"
 brøle,"roar, bawl, shout"
 brølende,roaring
 brønn,well
-brå,sudden
-bråk,"row, riot, racket"
-bråke,din
-bråkete,noisy
-bråmoden,precocious
-brått,untimely
 bud,"message, order, errand boy"
 budbringer,messenger
 budeie,milkmaid
@@ -1456,6 +1449,13 @@ bystyre,town council
 bytte,"swap, loot, exchange, prey, spoil"
 bytte om,permute
 byttehandel,barter
+bål,"fire, bonfire, pyre på bålet-at the stake"
+bånd,"ligament, brace, ribbon, string, tape, tie"
+båndspiller,tape-recorder
+båre,"bier, stretcher"
+bås,stall
+båt,boat
+båtmannsknop,reef knot
 bære,"wear, carry, support"
 bære sørgedrakt,be in mourning
 bærebjelke,girder
@@ -1483,13 +1483,6 @@ bøyelig,"pliable, flexible"
 bøyelighet,flexibility
 bøyle,hoop
 bøyning,"inflection, winding"
-bål,"fire, bonfire, pyre på bålet-at the stake"
-bånd,"ligament, brace, ribbon, string, tape, tie"
-båndspiller,tape-recorder
-båre,"bier, stretcher"
-bås,stall
-båt,boat
-båtmannsknop,reef knot
 campingvogn,trailer
 cannabis,cannabis
 cd-spiller,cd-player
@@ -1540,8 +1533,8 @@ datter,daughter
 datterlig,filial
 datterselskap,subsidiary company
 daværende,then
-de,you
 de,"the, they"
+de,you
 de andre,the others
 de der,those
 de samme,the same
@@ -1708,9 +1701,9 @@ diskett,"disc, floppydisk"
 diskettstasjon,discdrive
 diskotek,discoteque
 diskresjon,discretion
-diskrèt,discreet
 diskriminere,discriminate
 diskriminering,discrimination
+diskrèt,discreet
 diskurs,"speech, conversation, treatise"
 diskusjon,discussion
 diskutabel,disputable
@@ -1723,8 +1716,8 @@ distanse,distance
 distansere,outdistance
 distrahere,distract
 distraksjon,distraction
-distrè,absent minded
 distrikt,precinct
+distrè,absent minded
 dit,there
 ditt,your
 diverse,"various, diverse, sundries, sundry"
@@ -1826,13 +1819,13 @@ drukkenbolt,drunkard
 drunke,drown
 drypp,drip
 dryppe,drip
+dråpe,drip
 drøfte,"discuss, argue, ventilate"
 drøfting,discussion
 drøm,dream
 drømme,dream
 drømmende,dreamy
 drøvel,uvula
-dråpe,drip
 du,you
 du selv,yourself
 dublett,duplicate copy
@@ -1905,6 +1898,16 @@ dyster,"murky, glum, gloomy"
 dytt,"poke, a push, nudge"
 dytte,"hustle, poke, push, shove"
 dytte til,nudge
+dåd,"achievement, exploit"
+dåp,christening
+dårlig,"unsound, bad, poorly, poor"
+dårlig fordøyelse,indigestion
+dårlig humør,spleen
+dårlig oppførsel,misbehaviour
+dårlig tilpasset,maladjusted
+dårligere,"inferior, worse"
+dårligst,worst
+dårskap,folly
 dø,"pass away, depart, die"
 dø hen,fade
 død,"death, dead"
@@ -1939,16 +1942,6 @@ døv,deaf
 døvhet,deafness
 døvstum,deafmute
 døyt,jot
-dåd,"achievement, exploit"
-dåp,christening
-dårlig,"unsound, bad, poorly, poor"
-dårlig fordøyelse,indigestion
-dårlig humør,spleen
-dårlig oppførsel,misbehaviour
-dårlig tilpasset,maladjusted
-dårligere,"inferior, worse"
-dårligst,worst
-dårskap,folly
 ebbe,ebb
 ed,oath
 edderkopp,spider
@@ -2106,7 +2099,6 @@ en annen,another
 en dag,sometime
 en eller annen,somebody
 en gang,sometime
-èn gang,once
 en smule,a bit
 en som blir kilt,ticklee
 en som bor på fremleie,subtenant
@@ -2174,8 +2166,8 @@ ensomhet,solitude
 enstemmig,unanimous
 enstemmighet,unanimity
 enten - eller,"whether - or, either - or"
-entré,vestibule
 entrè,hall
+entré,vestibule
 entusiasme,enthusiasm
 entusiast,enthusiast
 entusiastisk,enthusiastic
@@ -2409,6 +2401,7 @@ fasan,pheasant
 fase,phase
 fasinere,"fascinate, also fascinere"
 fasinerende,"fascinating, also fascinerende"
+fast,proof
 fast,"unfaltering, solid, tenacious, set, permanent"
 fast bestemt,resolved
 fast eiendom,real estate
@@ -2537,7 +2530,6 @@ fiktiv,"fictive, fictitious"
 fil,file
 filantrop,philanthropist
 filateli,philately
-filèt,fillet
 filial,branch
 filigran,filigree
 filipens,pimple
@@ -2557,6 +2549,7 @@ filosofi,philosophy
 filt,felt
 filter,filter
 filtrere,filter
+filèt,fillet
 fin,"subtle, spruce, nice, posh"
 finale,"finale, final"
 finans,finance
@@ -2565,8 +2558,6 @@ finansdepartementet,the Treasury Department
 finanser,finances
 finansiere,"fund, finance"
 finansminister,Treasury Secretary
-finér,veneer
-finêr,plywood
 finesse,subtlety
 finfølelse,"delicacy, tact"
 finger,finger
@@ -2584,6 +2575,8 @@ finpuss,finish
 finsk,finnish
 fint,nicely
 fintfølende,delicate
+finér,veneer
+finêr,plywood
 fiol,violet
 fiolin,violin
 fiolinbue,bow
@@ -2746,6 +2739,9 @@ flytte på,displace
 flyttevogn,van
 flytting,removal
 flytur,flight
+flå,"fleece, flay"
+flåte,"float, raft, fleet, navy"
+flåteritt,rafting
 flørt,flirtation
 flørte,flirt
 fløte,"raft, cream"
@@ -2756,9 +2752,6 @@ fløy,wing
 fløyel,velvet
 fløyet,flown
 fløyte,"flute, pipe, whistle"
-flå,"fleece, flay"
-flåte,"float, raft, fleet, navy"
-flåteritt,rafting
 fnise,"giggle, titter"
 fnising,titter
 fnugg,flake
@@ -2782,8 +2775,6 @@ fond,fund
 fonetikk,phonethics
 fontène,fountain
 for,"for, too, to"
-fôr,"fodder, lining, forage"
-for-,fore
 for alltid,"evermore, forever"
 for at,those
 for det første,firstly
@@ -2795,8 +2786,9 @@ for min skyld,for my sake
 for retten,on trial
 for stykket,apiece
 for tidlig,"premature, untimely"
-for øvrig,"otherwise, in addition"
 for å,"to, in order to"
+for øvrig,"otherwise, in addition"
+for-,fore
 forakt,"scorn, contempt"
 forakte,scorn
 foraktelig,"contemptuous, scornful"
@@ -2882,7 +2874,6 @@ fordømt,"infernal, bloody"
 fordøye,digest
 fordøyelse,digestion
 fordøyelseskanal,digestive tract
-fôre,"feed, line"
 forebygge,prevent
 forebyggelse,prevention
 forebyggende,"prophylactic, preventive"
@@ -2992,13 +2983,13 @@ forholde,"w/ seg, relate to, behave"
 forholdsmessig,proportional
 forholdsregel,"precaution, measure"
 forholdsvis,"proportionally, relatively"
-forhør,interrogation
-forhøre,interrogate
-forhøye,"increase, heighten"
 forhånds-,pre-
 forhåndsbest,make a reservation
 forhåndsvisning,preview
 forhåpentligvis,hopefully
+forhør,interrogation
+forhøre,interrogate
+forhøye,"increase, heighten"
 forkalkning,scleroses
 forkaste,"overrule, repudiate, reject, disallow, disclaim"
 forkastelse,rejection
@@ -3073,10 +3064,10 @@ formue,fortune
 formulere,"formulate, word, phrase"
 formynder,guardian
 formynderskap,ward
-formørkelse,eclipse
-formørket,blackened
 formål,"intention, purpose"
 formålsløshet,futility
+formørkelse,eclipse
+formørket,blackened
 fornavn,Christian name
 fornedre,degrade
 fornekte,"repudiate, renounce, disown"
@@ -3120,12 +3111,12 @@ forringe,abate
 forrykende,remote
 forrykke,dislocate
 forrykt,wild
-forræder,traitor
-forræderi,"treachery, treason"
-forrædersk,"treacherous, traitorous"
 forråd,"hoard, supply, store"
 forråde,betray
 forråtnelse,"rot, decay"
+forræder,traitor
+forræderi,"treachery, treason"
+forrædersk,"treacherous, traitorous"
 forsakelse,renunciation
 forsamling,council
 forseelse,offence
@@ -3191,13 +3182,13 @@ forstuing,"sprain, strain"
 forstyrre,"disturb, trouble, intrude"
 forstyrrelse,"disturbance, intrusion"
 forstyrret,distracted
-forstørre,"magnify, enlarge"
-forstørrelse,enlargement
 forstå,"appreciate, see, seize, figure out, get, realise"
 forståelig,intelligible
 forståelig nok,understandably
 forståelse,"understanding, apprehension, realization"
 forståelsesfull,understanding
+forstørre,"magnify, enlarge"
+forstørrelse,enlargement
 forsvar,"shield, defence"
 forsvare,"defend, justify"
 forsvarlig,justifiable
@@ -3299,9 +3290,9 @@ forvridd,warped
 forvridning,"twisting, dislocation"
 forværelse,antechamber
 forynge,rejuvenate
+forårsake,"induce, give rise to"
 forøkelse,multiplication
 forøve,perpetrate
-forårsake,"induce, give rise to"
 foss,"falls, waterfall"
 foster,"foetus, embryo"
 fostre,"breed, foster"
@@ -3410,8 +3401,8 @@ fremstille igjen,reproduce
 fremstille kunstig,synthesize
 fremstilling,"statement, representation, manufacture"
 fremstyrting,rush
-fremstøt,thrust
 fremstående,prominent
+fremstøt,thrust
 fremtid,future
 fremtidig,"future, prospective"
 fremtidsmulighet,prospect
@@ -3497,13 +3488,13 @@ frynsegoder,fringe benefits
 frynsete,frayed
 fryse,freeze
 fryser,freezer
+fråde,froth
+fråtse,gorge
+fråtser,glutton
 frø,seed
 frøken,"miss, madam"
 frøplante,seedling
 frørik,seedy
-fråde,froth
-fråtse,gorge
-fråtser,glutton
 fuge,seam
 fugl,bird
 fugleskremsel,scarcrow
@@ -3575,6 +3566,22 @@ fyrstikkeske,matchbox
 fysiker,physicist
 fysikk,"physics, physique"
 fysisk,physical
+få,"obtain, receive, few, have, get"
+få igjen,retrieve
+få panikk,panic
+få rift i,tear
+få skrubbsår,graze
+få slagside,heel over
+få tak i,"procure, nab"
+få tilbake,recover
+få tilbakefall,relapse
+få vite,hear
+få øye på,catch sight of
+fåmælt,taciturn
+fårekjøtt,mutton
+fåreslå,suggest
+fôr,"fodder, lining, forage"
+fôre,"feed, line"
 føde,native
 føde-,natal
 fødeavdeling,maternity ward
@@ -3635,20 +3642,6 @@ føydal,feudal
 føydalisme,feudalism
 føye,indulge
 føyelig,"pliable, complaisant, docile, amenable"
-få,"obtain, receive, few, have, get"
-få igjen,retrieve
-få panikk,panic
-få rift i,tear
-få skrubbsår,graze
-få slagside,heel over
-få tak i,"procure, nab"
-få tilbake,recover
-få tilbakefall,relapse
-få vite,hear
-få øye på,catch sight of
-fåmælt,taciturn
-fårekjøtt,mutton
-fåreslå,suggest
 gadfly,klegg
 gaffel,fork
 gaffeltann,prong
@@ -3725,9 +3718,9 @@ geistlig,"spiritual, ecclesiastic(al)"
 geit,goat
 geitehams,hornet
 geitekilling,kid
-gelè,jelly
 geledd,rank
 gelender,"handrail, banister"
+gelè,jelly
 gemen,ignoble
 gemyttlig,jovial
 general,general
@@ -4159,6 +4152,14 @@ gryte,"pan, jug, pot"
 gryteklut,kettleholder
 grytelapp,saucepan holder
 grytestek,pot-roast
+grå,"grey, gray"
+grådig,"gluttonous, greedy, voracious"
+grådighet,greed
+gråhåret,hoary
+grålig,grizzly
+grålysning,twilight
+gråsprengt,grizzly
+gråte,"cry, weep"
 grøft,"ditch, trench"
 grøfte,trench
 grønn,green
@@ -4169,14 +4170,6 @@ grøntareale,green
 grøt,porridge
 grøtaktig,mushy
 grøtomslag,poultice
-grå,"grey, gray"
-grådig,"gluttonous, greedy, voracious"
-grådighet,greed
-gråhåret,hoary
-grålig,grizzly
-grålysning,twilight
-gråsprengt,grizzly
-gråte,"cry, weep"
 gud,God
 gudbarn,godchild
 guddommelig,"godlike, divine"
@@ -4229,8 +4222,6 @@ gysning,"chill, shudder, shiver"
 gyte,spawn
 gyteplass,spawning ground
 gytje,mud
-gøteborg,Gothenburg
-gøy,"gay, joy"
 gå,"go, walk"
 gå av,retire
 gå bort,"pass away, die"
@@ -4271,6 +4262,8 @@ gåsehud,gooseflesh
 gåstol,"walker, walking frame"
 gåte,"brainteaser, conundrum, enigma, quiz"
 gåtefull,enigmatic
+gøteborg,Gothenburg
+gøy,"gay, joy"
 h,tin
 ha,have
 ha betydning,matter
@@ -4331,9 +4324,9 @@ halvkoke,parboil
 halvkule,hemisphere
 halvkvalt,stifled
 halvliter,pint
-halvmørke,gloom
 halvmåne,crescent
 halvmåneformet,crescent
+halvmørke,gloom
 halvrå,underdone
 halvveis,"midway, halfway"
 halvvoksen,adolescent
@@ -4788,10 +4781,10 @@ husokkupasjon,squatting
 husstand,household
 hustru,"wife, wives"
 hva,"why, what, which"
-hva-enn,whatever
 hva for en,what
 hva i all verden,whatever
 hva som helst,"anything, whatever"
+hva-enn,whatever
 hval,whale
 hvalfanger,whaler
 hvalfangst,whaling
@@ -4876,6 +4869,45 @@ hysterisk anfall,hysterics
 hysterisk person,hysteric
 hytte,"lodge, cottage, shanty, hut, shack"
 hyttedekk,poop
+hån,"mockery, derision, taunt"
+hånd,hand
+hånd-,manual
+håndarbeid,needlework
+håndbok,"handbook, manual, reference book"
+håndbremse,handbreak
+hånddukke,puppet
+håndflate,palm
+håndgripelig,"tangible, palpable"
+håndheve,enforce
+håndhevelse,enforcement
+håndhever,enforcer
+håndjern,handcuffs
+håndkle,towel
+håndklær,towels
+håndlag,knack
+håndlaget,handmade
+håndledd,wrist
+håndskrift,"handwriting, script, writing"
+håndtak,handle
+håndtere,handle
+håndtverker,artisan
+håndvask,wash-basin
+håndverk,handicraft
+håndveske,purse
+håne,"taunt, jeer, mock"
+hånlig,contemptuous
+hånlig flir,sneer
+håp,hope
+håpe,hope
+håpefullt,hopefully
+hår,hair
+hårdnakket,"stubborn, tenacious"
+hårete,hairy
+hårlokk,"lock, tress"
+hårnål,hairpin
+hårtoning,colour rinse
+hårvask,shampoo
+håv,landing net
 hæl,"heel, heel"
 hær,army
 hærverk,ravage
@@ -4930,45 +4962,6 @@ høytidelighet,solemnity
 høytstående,eminent
 høyttaler,"speaker, loudspeaker"
 høyvann,"high tide, flood-tide"
-hån,"mockery, derision, taunt"
-hånd,hand
-hånd-,manual
-håndarbeid,needlework
-håndbok,"handbook, manual, reference book"
-håndbremse,handbreak
-hånddukke,puppet
-håndflate,palm
-håndgripelig,"tangible, palpable"
-håndheve,enforce
-håndhevelse,enforcement
-håndhever,enforcer
-håndjern,handcuffs
-håndkle,towel
-håndklær,towels
-håndlag,knack
-håndlaget,handmade
-håndledd,wrist
-håndskrift,"handwriting, script, writing"
-håndtak,handle
-håndtere,handle
-håndtverker,artisan
-håndvask,wash-basin
-håndverk,handicraft
-håndveske,purse
-håne,"taunt, jeer, mock"
-hånlig,contemptuous
-hånlig flir,sneer
-håp,hope
-håpe,hope
-håpefullt,hopefully
-hår,hair
-hårdnakket,"stubborn, tenacious"
-hårete,hairy
-hårlokk,"lock, tress"
-hårnål,hairpin
-hårtoning,colour rinse
-hårvask,shampoo
-håv,landing net
 i,in
 i all stillhet,privatly
 i bero,in abeyance
@@ -5029,8 +5022,6 @@ ibenholt,ebony
 iblant,"now and then, nå og da"
 iboende,inherent
 ide,idea
-idé,thought
-idè,notion
 idealisere,idealize
 idealisme,idealism
 ideell,ideal
@@ -5045,6 +5036,8 @@ idiotsikker,foolproof
 idrett,sport
 idrettsplass,sportsground
 idyll,idyll
+idè,notion
+idé,thought
 ifølge,"according to, by, on"
 ifølge hvilken,whereby
 igjen,"anew, again, all over again"
@@ -5054,7 +5047,6 @@ ignorere,ignore
 ignorering,disregard
 iherdig,"strenuous, persevering, with much energy"
 ikke,"not, no"
-ikke-,non-
 ikke avgjort,pending
 ikke bebodd,unsettled
 ikke bebygd,undeveloped
@@ -5069,6 +5061,7 @@ ikke noe,none
 ikke passe,misfit
 ikke på langt nær,nowhere near
 ikke stemme overens,disagree
+ikke-,non-
 ilbud,express
 ild,fire
 ildfast,ovenproof
@@ -5436,8 +5429,8 @@ irritasjon,"irritation, annoyance"
 irritere,"chafe, gall, fret, provoke, vex, irritate, annoy"
 irriterende,"vexatious, trying"
 is,ice
-is-,frosty
 is (are),bli
+is-,frosty
 isbjørn,polarbear
 isbre,glacier
 isbryter,icebreaker
@@ -5561,11 +5554,11 @@ kabal,patience
 kabaret,cabaret
 kabel,"hawser, cable"
 kadaver,carcase
-kafé,cafe
 kaffe,coffee
 kaffe med melk,white coffee
 kaffegrut,coffeegrounds
 kaffetrakter,"percolator, coffee-machine"
+kafé,cafe
 kai,wharf
 kakao,cocoa
 kake,cake
@@ -5893,10 +5886,10 @@ kli,bran
 klient,client
 klikke,misfire
 klima,climate
+klimaanlegg,airconditioning
 klimakterium,menopause
 klimpre,strum
 klimpring,strum
-klimaanlegg,airconditioning
 klining,petting
 klinke,"latch, rivet"
 klinkekule,marble
@@ -6260,11 +6253,11 @@ krysse,"intersect, cross"
 krysshenvisning,cross reference
 kryssord,crossword puzzle
 krystallglass,cutglass
+kråke,crow
+kråkesølv,mica
 krøke sammen,crouch
 krølle,"curl, wrinkle, crumple"
 krøpling,cripple
-kråke,crow
-kråkesølv,mica
 ku,cow
 kuk,dick
 kukhode,dickhead
@@ -6292,11 +6285,11 @@ kunstgjødsel,fertilizer
 kunstig,artificial
 kunstsilke,rayon
 kunststykke,"stunt, trick"
-kupé,"compartment, coupe"
 kupert,rolling
 kupong,"coupon, voucher"
 kupp,"coup, bargain"
 kuppel,dome
+kupé,"compartment, coupe"
 kur,cure
 kurere,cure
 kurs,"course, way"
@@ -6373,16 +6366,16 @@ kyskhet,chastity
 kyst,"shore, seaside, seaboard"
 kyst-,maritime
 kystlinje,seaboard
-kø,"queue, cue"
-københavn,Copenhagen
-kødd,dork
-kølle,stick
-køln,Cologne
 kål,cabbage
 kålrot,"Swedish turnip, rutabaga"
 kårde,sword
 kåseri,talk
 kåt,"horny, randy"
+kø,"queue, cue"
+københavn,Copenhagen
+kødd,dork
+kølle,stick
+køln,Cologne
 la,let
 la være,omit
 labb,paw
@@ -6955,6 +6948,18 @@ lystig,"rollicking, gay, jolly, cheerful, merry"
 lystighet,gaiety
 lytte,listen
 lyve,lie
+lån,loan
+låne,borrow
+låne ut,lend
+lår,"thigh, leg"
+lårstek,rump
+lås,"lock, interlock, fastener"
+låse,lock
+låse opp,unlock
+låsesmed,locksmith
+låt,"tune, melody"
+låte,"sound, sounds (verb)"
+låve,barn
 lær,leather
 læraktig,leathery
 lærd,"scholar, learned, scholarly"
@@ -7018,18 +7023,6 @@ løvsag,"fretsaw, jigsaw"
 løvverk,foliage
 løype,trail
 løytnant,lieutenant
-lån,loan
-låne,borrow
-låne ut,lend
-lår,"thigh, leg"
-lårstek,rump
-lås,"lock, interlock, fastener"
-låse,lock
-låse opp,unlock
-låsesmed,locksmith
-låt,"tune, melody"
-låte,"sound, sounds (verb)"
-låve,barn
 madrass,"mattress, matress"
 magasin,"storehouse, magazine"
 mage,stomach
@@ -7295,6 +7288,7 @@ mesan,spanker
 meslinger,measles
 messe,"chant, mess, mass"
 messer,masses
+messig,-wise
 messing,brass
 messing-,brazen
 mest,most
@@ -7329,8 +7323,8 @@ midje,waist
 midler,"means, resources, funds"
 midlertidig,"temporary, makeshift, stopgap"
 midnatt,midnight
-midt-,"central, mid"
 midt iblandt,amidst
+midt-,"central, mid"
 midten,middle
 midtgang,gangway
 midtrabatt,"central reservation, central reserve"
@@ -7376,8 +7370,8 @@ ministerium,ministry
 minke,"ebb, taper, lessen, decrease"
 minking,abatement
 minne,"remembrance, memory, remind"
-minne-,memorial
 minne fra gamle dager,reminiscence
+minne-,memorial
 minnes,recollect
 minnes gamle dager,reminisce
 minnesmerke,"keepsake, memento, memorial, monument, souvenir"
@@ -7400,8 +7394,8 @@ misdannelse,deformity
 misdannet,deformed
 misforhold,disproportion
 misfornøyd,"dissatisfied, discontented"
-misforstælse,misunderstanding
 misforstå,misunderstand
+misforstælse,misunderstanding
 misfoster,"abortion, monstrosity"
 mishandle,maul
 misjon,mission
@@ -7492,11 +7486,11 @@ mose,"mash, moss, pulp"
 mosegrodd,mossy
 mosjon,exercise
 mosjonere,exercise
-moské,mosque
 moskito,mosquito
 moskus,musk
 moskusjort,muskdeer
 moskva,Moscow
+moské,mosque
 most,must
 mot,"in exchange for, opposed to, grit, across from"
 mot vest,westwards
@@ -7628,34 +7622,6 @@ mystiker,mystic
 mystisk,mysterious
 myte,myth
 mytteri,mutiny
-møbelstopping,upholstery
-møblere,furnish
-møblert,furnished
-møkk,muck
-møll,moth
-mølle,mill
-møller,miller
-møllkule,mothball
-møllspist,moth-eaten
-mønster,pattern
-mønstergyldig,exemplary
-mønstre,muster
-mønstre på,ship
-mønstret,fancy
-mønstring,muster
-mør,tender
-mørbrad,"sirloin, tenderloin"
-mørk,"dark, black"
-mørke,darkness
-mørkeblå,dark blue
-mørkne,darken
-mørkt,dark
-mørsalt,tenderizer
-mørtel,mortar
-møte,"meet, meeting, sitting, session, encounter, rally"
-møteplager,heckler
-møtes,meet
-møysommelig,laboriously
 må,must
 måke,"gull, seagull"
 mål,"measurement, goal, target, language, measure"
@@ -7684,6 +7650,34 @@ måte,"way, manner, mode, fashion"
 måtehold,"temperance, moderation"
 måteholden,moderate
 måtte,"have to, must"
+møbelstopping,upholstery
+møblere,furnish
+møblert,furnished
+møkk,muck
+møll,moth
+mølle,mill
+møller,miller
+møllkule,mothball
+møllspist,moth-eaten
+mønster,pattern
+mønstergyldig,exemplary
+mønstre,muster
+mønstre på,ship
+mønstret,fancy
+mønstring,muster
+mør,tender
+mørbrad,"sirloin, tenderloin"
+mørk,"dark, black"
+mørke,darkness
+mørkeblå,dark blue
+mørkne,darken
+mørkt,dark
+mørsalt,tenderizer
+mørtel,mortar
+møte,"meet, meeting, sitting, session, encounter, rally"
+møteplager,heckler
+møtes,meet
+møysommelig,laboriously
 nabo,"neighbor, neighbour, neighbour"
 nabo-,neighbouring
 nabolag,neighbourhood
@@ -7781,8 +7775,8 @@ nedtrykthet,oppression
 nedtynget,laden
 nedvurdere,depreciate
 negativ,negative
-neger,black
 neger,Negro
+neger,black
 negl,nail
 neglefil,nailfile
 neglelakk,"nailvarnish, nailpolish"
@@ -7886,16 +7880,15 @@ notisbok,note book
 novelle,short story
 november,November
 novise,novice
-,"zilch, zero, nought, nil, naught"
 nummen,numb
 nummer,"size, number"
 nummerere,number
 nummerskilt,numberplate
 nummerskive,dial
 ny,"new, fresh, recent"
-ny-,newly
 ny fremstilling,reproduction
 ny takst,revaluation
+ny-,newly
 nyanse,"gradation, shade"
 nybegynner,novice
 nybygger,settler
@@ -7932,6 +7925,22 @@ nyttår,New Year
 nyttårsaften,New Year's Eve
 nyutsending,rerun
 nyvunnet respekt,newfound respect
+nå,"now, at present, reach"
+nå til dags,nowadays
+nåde,"grace, favor, mercy"
+nådeløs,"merciless, show no favor"
+nådestøt,death blow
+nådig,"merciful, gracious"
+nål,needle
+nålepute,"pincushion, pin cushion"
+nålestikk,pinprick
+nåletre,"conifer, conifer"
+når,"whenever, when"
+når det gjelder,in terms of
+når som helst,"anywhen, whenever"
+nåtid,present
+nåvel,oh well
+nåværende,present
 nær,"beside, near to, near, nearby, close"
 nær forestående,impending
 nære,nourish
@@ -7982,22 +7991,6 @@ nøysom,"frugal, provident"
 nøytral,neutral
 nøytralisere,neutralize
 nøytralitet,neutrality
-nå,"now, at present, reach"
-nå til dags,nowadays
-nåde,"grace, favor, mercy"
-nådeløs,"merciless, show no favor"
-nådestøt,death blow
-nådig,"merciful, gracious"
-nål,needle
-nålepute,"pincushion, pin cushion"
-nålestikk,pinprick
-nåletre,"conifer, conifer"
-når,"whenever, when"
-når det gjelder,in terms of
-når som helst,"anywhen, whenever"
-nåtid,present
-nåvel,oh well
-nåværende,present
 o,turn
 oase,oasis
 obduksjonsbord,mortuary table
@@ -8144,9 +8137,9 @@ opparbeide,work up
 oppbevare,"store, keep"
 oppbevaring,"cloakroom, receiving office, storage space"
 oppbevaringsboks,safe-deposit box
-oppbløtt brødbit,sop
 oppblåsing,inflation
 oppblåst,inflated
+oppbløtt brødbit,sop
 oppbyggelig,edifying
 oppbygning,structure
 oppdage,"discover, detect, spot"
@@ -8278,8 +8271,8 @@ oppstive,stimulant
 oppstuss,stir
 oppstyltet,stilted
 oppstyr,"fuss, uproar, splutter"
-oppstøt,belch
 oppstå,originate
+oppstøt,belch
 oppsummere,enumerate
 oppsvulmet,bloated
 oppsynsmann,warden
@@ -8367,9 +8360,9 @@ oter,otter
 ovenfor,above
 ovenpå,"on top, above, upstairs"
 over,"over, above, past, upper, overhead"
-over-,superior
 over bord,overboard
 over hele,through out
+over-,superior
 overalt,everywhere
 overanstrenge seg,overstrain
 overbelaste,overload
@@ -8772,8 +8765,8 @@ plikt,"task, duty"
 plikter,chores
 pliktoppfyllende,dutiful
 plire,wink
-plissê,pleat
 plissere,pleat
+plissê,pleat
 plog,plough
 plombe,"filling, stopping"
 plombere,fill
@@ -8912,8 +8905,8 @@ prekær,precarious
 preludium,prelude
 premie,"prize, award, premium"
 premiere,"reward, remunerate, recompense"
-première,first night
 premiss,premise
+première,first night
 presang,"gift, present"
 presentasjon,"presentation, introduction"
 presentere,introduce
@@ -9119,10 +9112,6 @@ pyroman,pyromaniac
 pyse,sop
 pysete,squeamish
 pytt,slop
-pære,"bulb, pear"
-pøbel,"rabble, mob, riff-raff"
-pølse,sausage
-pølsebod,hotdog stand
 på,"on, onto, in, upon"
 på bunnen,underneath
 på en eller annen måte,somehow
@@ -9201,6 +9190,10 @@ påvirkelig,"suggestible, easily swayed"
 påvirkning,influence
 påvise,"point out, prove, show"
 påviselig,traceable
+pære,"bulb, pear"
+pøbel,"rabble, mob, riff-raff"
+pølse,sausage
+pølsebod,hotdog stand
 rabarbra,rhubarb
 rabatt,"discount, allowance"
 rabbel,"scribble, scrawl"
@@ -9478,8 +9471,8 @@ resultater,findings
 resultattavle,scoreboard
 resultere,result
 resurs,resource
-resymé,summary
 resymere,summarize
+resymé,summary
 retning,"tendency, way, direction, trend, tide"
 retningslinje,"guideline, instruction"
 retningsnummer,dialling code
@@ -9731,6 +9724,24 @@ rysting,shake
 rytme,"swing, rhythm"
 rytmisk,"rhythmical, rhythmic"
 rytter,"equestrian, rider"
+rå,"wet, rude, raw, rare, rough"
+råd,"advice, council"
+råde,prevail
+rådende,prevalent
+rådgivende advokat,solicitor
+rådgiver,advisor
+rådgivning,"advice, counsel, guidance"
+rådhus,"town-hall, town hall, townhall, city hall"
+rådmann,chief officer
+rådvill,puzzled
+rådyr,"roe, extremely expensive"
+råhet,roughness
+råolje,crude oil
+råskinn,"roughneck, brutal person"
+råsukker,brown sugar
+råte,rot
+råtne,"putrefy, rot"
+råtten,"rotten, putrid"
 ræv,"arse, ass"
 rævhol,asshole
 rød,red
@@ -9770,24 +9781,6 @@ røyking,smoking
 røyktåke,smog
 røykvarsler,smoke detector
 røyskatt,ermine
-rå,"wet, rude, raw, rare, rough"
-råd,"advice, council"
-råde,prevail
-rådende,prevalent
-rådgivende advokat,solicitor
-rådgiver,advisor
-rådgivning,"advice, counsel, guidance"
-rådhus,"town-hall, town hall, townhall, city hall"
-rådmann,chief officer
-rådvill,puzzled
-rådyr,"roe, extremely expensive"
-råhet,roughness
-råolje,crude oil
-råskinn,"roughneck, brutal person"
-råsukker,brown sugar
-råte,rot
-råtne,"putrefy, rot"
-råtten,"rotten, putrid"
 sa,said
 sabel,"sabre, sword"
 sadel,saddle
@@ -10066,6 +10059,7 @@ sensur,censorship
 sensurere,censor
 sentimental,"sentimental, maudlin"
 sentral,central
+sentral,centre
 sentralbord,switchboard
 sentralisering,centralization
 sentralvarme,central heating
@@ -10129,8 +10123,8 @@ si ifra,refuse
 si opp,give notice
 si til,"tell, say to, suggest"
 side,"page, side"
-side-,"subsidiary, lateral"
 side om side,abreast
+side-,"subsidiary, lateral"
 sidelengs,"sideways, edgeways, sidelong"
 sidelys,sidelight
 siden,"since, subsequently"
@@ -10152,6 +10146,7 @@ signere,sign
 signet,seal
 sigøyner,"gipsy, gypsy"
 sikkel,drool
+sikker,proof
 sikker,"unfailing, positive, unerring, sure, safe, secure"
 sikkerhet,"security, safety, surety, aptitude, warrant"
 sikkerhetsbelte,safety-belt
@@ -10184,6 +10179,7 @@ singularitet,singularity
 sinn,mind
 sinne,anger
 sinnelag,spirit
+sinnet,minded
 sinns-,mental
 sinnsbevegelse,emotion
 sinnslidelse,mental disorder
@@ -10212,13 +10208,13 @@ sitron,lemon
 sitronskall,lemonrind
 sitt,their
 sitte,sit
-sitte-tribune,grandstand
 sitte fast,be stuck
 sitte modell,pose
 sitte oppe,sit up
 sitte over skrevs,straddle
 sitte på huk,squat
 sitte på vagle,roost
+sitte-tribune,grandstand
 sitteplass,seat
 sitteplassbille,seat ticket
 situasjon,situation
@@ -10271,6 +10267,9 @@ sju,seven
 sjuende,seventh
 sjusket,slovenly
 sjy,"gravy, broth"
+sjåfør,"conductor, driver, chauffeur"
+sjåvinisme,chauvinism
+sjåvinist,chauvinist
 sjø,"lake, loch, sea"
 sjø-,"naval, nautical, maritime, marine"
 sjødyktig,seaworthy
@@ -10286,9 +10285,6 @@ sjøside,waterfront
 sjøstjerne,starfish
 sjøsyk,seasick
 sjøtunge,sole
-sjåfør,"conductor, driver, chauffeur"
-sjåvinisme,chauvinism
-sjåvinist,chauvinist
 skabb,"mange, itch, scab"
 skade,"lesion, mischief, bruise, injure, harm, injury"
 skadeavdeling,claims department
@@ -10311,8 +10307,8 @@ skallet,"bald, bald-headed"
 skalp,scalp
 skalpere,scalp
 skam,"shame, dishonour, stain"
-skam-,pubic
 skam deg,shame on you
+skam-,pubic
 skamfull,"ashamed, shamefaced"
 skamløs,"shameless, brazen"
 skamme,(with seg) be/feel ashamed
@@ -10585,9 +10581,6 @@ skrupler,qualms
 skruppel,scruple
 skrupuløs,scrupulous
 skryte,"brag, swagger, boast"
-skrøne,"yarn, fairy-tale"
-skrøpelig,"sickly, slender, rickety, frail, breakable"
-skrøpelighet,"frailty, infirmity"
 skrå,"oblique, slanting"
 skrål,"squall, bellowing, roaring"
 skråle,"bawl, yell, cry out"
@@ -10597,6 +10590,9 @@ skrånende,"inclined, slanting"
 skråning,"slant, slope, incline"
 skråstrek,slash
 skråtobakk,"chewing-tobacco, chewing tobacco"
+skrøne,"yarn, fairy-tale"
+skrøpelig,"sickly, slender, rickety, frail, breakable"
+skrøpelighet,"frailty, infirmity"
 skubb,"shove, thrust"
 skubbe,"shove, hustle, jostle"
 skudd,"shoot, shot, hype, tiller, shot, sprout"
@@ -10670,15 +10666,15 @@ skyttel,shuttle
 skytteltrafikk,shuttle
 skyttergrav,trench
 skyve,shove
-skøyer,"imp, wag, rogue"
-skøyeraktig,"wicked, mischievous"
-skøyte,skate
-skøytebane,skating-rink
 skål,"bowl, toast, cheers, saucer"
 skålde,scald
 skåle,toast
 skånsom,lenient
 skår,"indentation, score, hack"
+skøyer,"imp, wag, rogue"
+skøyeraktig,"wicked, mischievous"
+skøyte,skate
+skøytebane,skating-rink
 sladder,"scandal, tittle-tattle, gossip"
 sladre,"gossip, sneak, tell tales"
 sladre på,tell on
@@ -10792,17 +10788,6 @@ sluttstrøk,finish
 slynge,"hurl, sling, wind"
 slyngel,"blackguard, rascal"
 slyngete,sinuous
-slør,veil
-sløre,veil
-sløring,reaching
-sløse,throw away
-sløv,"languid, stolid, blunt, torpid, stupid, dull"
-sløvet,jaded
-sløvhet,apathy
-sløvhetstilstand,"languor, stupor"
-sløy,slack
-sløye,gut
-sløyfe,"skip over, omit, loop, bow, ribbon"
 slå,"whack, flop, mow, throb, switch, smash, hit, strap"
 slå av,turn off
 slå feil,"miscarry, fail"
@@ -10825,6 +10810,17 @@ slående,striking
 slåmaskin,reaper
 slåss,fight
 slåsshanske,knuckleduster
+slør,veil
+sløre,veil
+sløring,reaching
+sløse,throw away
+sløv,"languid, stolid, blunt, torpid, stupid, dull"
+sløvet,jaded
+sløvhet,apathy
+sløvhetstilstand,"languor, stupor"
+sløy,slack
+sløye,gut
+sløyfe,"skip over, omit, loop, bow, ribbon"
 smadre,smash
 smak,"savour, smack, taste, flavour"
 smake,"savour, taste"
@@ -10894,6 +10890,14 @@ smusse,smut
 smutthull,loophole
 smykke,"adorn, trinket, jewel"
 smykker,jewellery
+småerte,banter
+småkoke,"simmer, stew"
+smålig,petty
+smålighet,pettiness
+smårolling,toddler
+småskjenne,nag
+småslåss,skirmish
+småtrykk,pamphlet
 smør,butter
 smørbrød,sandwich
 smøre,"lubricate, anoint, oil"
@@ -10903,14 +10907,6 @@ smøremiddel,lubricant
 smøreolje,lubricating oil
 smøreri,daub
 smøring,lubrication
-småerte,banter
-småkoke,"simmer, stew"
-smålig,petty
-smålighet,pettiness
-smårolling,toddler
-småskjenne,nag
-småslåss,skirmish
-småtrykk,pamphlet
 snabel,trunk
 snadre,"cackle, quack"
 snadring,quack
@@ -11216,6 +11212,10 @@ sprinkler,lattice bars
 sprut,"jet, squirt, gush"
 sprute,"splutter, spurt, sputter, squirt, spit"
 spruting,splutter
+språk,"language, tongue"
+språkbruk,usage
+språkeiendommelighet,idiom
+språklig,linguistic
 sprø,"crazy, wacky, crisp, nuts, freaky, brittle"
 sprøyt,spray
 sprøyte,"hype, hypodermic, injection, syringe"
@@ -11224,10 +11224,6 @@ sprøytemale,spray-paint
 sprøytenarkoman,hype
 sprøytepistol,spray-gun
 sprøyteveske,spray
-språk,"language, tongue"
-språkbruk,usage
-språkeiendommelighet,idiom
-språklig,linguistic
 spurt,spurt
 spurte,spurt
 spurv,sparrow
@@ -11241,6 +11237,10 @@ spyle,"flush, sluice"
 spytt,"saliva, spit, spittle"
 spytte,spit
 spyttslikker,toady
+spå,prophesy
+spådom,prophecy
+spåkone,fortuneteller
+spåmann,fortuneteller
 spøk,"jest, joke, hoax"
 spøke,"jest, haunt, joke"
 spøkefugl,jester
@@ -11252,10 +11252,6 @@ spørrende,"interrogative, quizzical"
 spørreskjema,questionnaire
 spørsmål,"question, issue"
 spørsmålstegn,question mark
-spå,prophesy
-spådom,prophecy
-spåkone,fortuneteller
-spåmann,fortuneteller
 sta,"headstrong, obstinate, opinionated, mulish"
 stab,staff
 stabbe,"totter, walk unsteady"
@@ -11286,8 +11282,8 @@ stamaksje,ordinary share
 stamfar,ancestor
 stamgjest,patron
 stamme,"stutter, tribe, stammer"
-stamme-,tribal
 stamme fra,descend
+stamme-,tribal
 stampe,"stump, pitch"
 stamtavle,pedigree
 stand,"stand, state"
@@ -11362,8 +11358,8 @@ stekepanne,frying pan
 stelle,"nurse, care for, tend, fix"
 stelle seg,freshen up
 stemme,"tally, tune, part, agree, voice, vote"
-stemme-,vocal
 stemme overens,concur
+stemme-,vocal
 stemmeavlukke,polling booth
 stemmeberettiget,voter
 stemmebånd,vocal cord
@@ -11567,6 +11563,11 @@ stryke ut,"wipe out, delete, erase"
 strykefri,non-iron
 strykejern,flat-iron
 strykeorkester,string orchestra
+strå,straw
+stråle,"ray, jet, shine"
+strålebehandling,radiation therapy
+stråleglans,"radiance, brilliance"
+strålende,"illustrious, splendid, bright, radiant, brilliant"
 strø,"scatter, strew, sift, grit"
 strøk,"region, stroke"
 strøken,level
@@ -11579,11 +11580,6 @@ strømpebukse,tights
 strømpebånd,garter
 strømpeholder,suspender
 strømtavle,switchboard
-strå,straw
-stråle,"ray, jet, shine"
-strålebehandling,radiation therapy
-stråleglans,"radiance, brilliance"
-strålende,"illustrious, splendid, bright, radiant, brilliant"
 stubbe,stump
 stubbete,stumpy
 student,"student, undergraduate"
@@ -11621,6 +11617,20 @@ styring,"control, steerage, steering"
 styrke,"intensity, strengthen, strength, potency, force"
 styrkende,tonic
 styrte,"plunge, precipitate, shoot"
+stå,"abide, stand, stop, fail, be located"
+stå i gjeld,indebted
+stå overfor,face
+stå til,answer
+stå ved,stand by
+stående,"standing, constant, upright"
+ståhei,hubbub
+stål,"steel, steel"
+ståle,beam
+stålsette,steel
+ståltråd-,wiry
+ståltrådnetting,wire netting
+ståpikk,hard-on
+ståsted,"place, location"
 stær,starling
 stø,"steady, set"
 støkk,start
@@ -11655,20 +11665,6 @@ støy,"hubbub, interference"
 støy. bråk,noise
 støyende,"riotous, noisy, boisterois"
 støyplage,noisenuisance
-stå,"abide, stand, stop, fail, be located"
-stå i gjeld,indebted
-stå overfor,face
-stå til,answer
-stå ved,stand by
-stående,"standing, constant, upright"
-ståhei,hubbub
-stål,"steel, steel"
-ståle,beam
-stålsette,steel
-ståltråd-,wiry
-ståltrådnetting,wire netting
-ståpikk,hard-on
-ståsted,"place, location"
 subbe,"shuffle, shamble"
 subsidier,subsidies
 subsidiere,subsidize
@@ -11725,8 +11721,8 @@ surne,sour
 suse,whizz
 suspendere,suspend
 sutre,whine
-suverén,sovereign
 suverenitet,sovereignty
+suverén,sovereign
 svaie,"sway, sway"
 svairygget,"saddle-backed, sway-backed"
 svak,"faint, feeble, frail, soft, dim, weak"
@@ -11887,6 +11883,24 @@ syttende,seventeenth
 sytti,seventy
 syttiende,seventieth
 sytøy,sewing
+så,"thereupon, thus, sow, then, so"
+så at,those
+så lenge som,while
+såkalt,so-called
+såle,sole
+således,thus
+sånn,such
+sånt,such (also sann)
+såpass,"so, so much"
+såpe,soap
+såpe inn,soap
+såpeskum,"soapsuds, suds"
+sår,"wound, sore, hurt, ulcer"
+sårbar,vulnerable
+sårdannelse,ulceration
+såre,"wound, insult, hurt"
+sårhet,soreness
+sårsalve,ointment
 sæd,seed
 særdeleshet,particular
 særegen,"specific, distinctive"
@@ -11945,24 +11959,6 @@ søvnighet,sleepiness
 søvnløs,"sleepless, wakeful"
 søvnløshet,insomnia
 søyle,"pillar, column"
-så,"thereupon, thus, sow, then, so"
-så at,those
-så lenge som,while
-såkalt,so-called
-såle,sole
-således,thus
-sånn,such
-sånt,such (also sann)
-såpass,"so, so much"
-såpe,soap
-såpe inn,soap
-såpeskum,"soapsuds, suds"
-sår,"wound, sore, hurt, ulcer"
-sårbar,vulnerable
-sårdannelse,ulceration
-såre,"wound, insult, hurt"
-sårhet,soreness
-sårsalve,ointment
 t-bane,"underground, subway"
 ta,"pick up, lay hold of, take, catch"
 ta av,"detach, slip off"
@@ -12348,8 +12344,8 @@ tilstrekkelig,"sufficient, adequate"
 tilstrekkelig mengde,sufficiency
 tilstrekkelighet,adequacy
 tilstrømning,"affluence, influx, rush"
-tilstøtende,adjacent
 tilstå,confess
+tilstøtende,adjacent
 tilsvarende,equivalent
 tilsyn,supervision
 tilsynekomst,appearance
@@ -12398,8 +12394,8 @@ tjue,twenty
 tjære,tar
 tjærebre,tar
 to,two
-to-takts-,two-stroke
 to ganger,twice
+to-takts-,two-stroke
 toalett,"loo, lavatory, toilet"
 toalett-papir,toilet-paper
 toalettartikler,toiletries
@@ -12513,8 +12509,8 @@ travel,busy
 travelhet,bustle
 travhest,trotter
 tre,"tread, tree, three, wood, also verb go, step"
-tre-,wooden
 tre ganger,thrice
+tre-,wooden
 trearbeid,woodwork
 tredje,third
 tredjedel,third
@@ -12646,11 +12642,6 @@ trylle,conjure
 trylleformular,"spell, charm"
 tryllestav,magic wand
 tryne,snout
-træ i,thread
-træ på,thread
-trøffel,truffle
-trøst,"comfort, solace"
-trøye,shirt
 tråd,"thread, ply"
 trådløs,wireless
 trådte,stepped (past form of tre)
@@ -12660,6 +12651,11 @@ tråklesting,tack
 trål,trawl
 tråle,trawl
 tråsykkel,push-bike
+træ i,thread
+træ på,thread
+trøffel,truffle
+trøst,"comfort, solace"
+trøye,shirt
 tube,tube
 tulipan,tulip
 tull,"nonsense, bull"
@@ -12677,14 +12673,14 @@ tungsinn,"gloom, melancholy"
 tungt,heavily
 tungt fordøyelig,stodgy
 tunnelbane,underground
-tupè,hairpiece
 tupp,tip
+tupè,hairpiece
 tur,"tour, trip"
 ture,revel
 turgåer,hiker
 turist,tourist
-turné,tour
 turner,gymnast
+turné,tour
 turteldue,turtle-dove
 tusen,"one thousand, thousand"
 tusenbein,millipede
@@ -12747,6 +12743,24 @@ tyvedobbelt,twentyfold
 tyvegods,loot
 tyvende,twentieth
 tyveri,theft
+tå,toe
+tåke,"mist, fog"
+tåket,foggy
+tåle,"suffer, sustain, tolerate, support, endure"
+tålelig,tolerable
+tålmodig,patient
+tålmodighet,patience
+tånegl,toenail
+tåpelig,"inane, daft, foolish, inept"
+tåpelig person,nitwit
+tåpelighet,foolishness
+tår,sip
+tåregass,tear-gas
+tårekanal,tear-duct
+tårn,"rook, tower"
+tårnhøy,towering
+tårnsvale,swift
+tåspissdans,toe dance
 tære bort,erode
 tære på,prey on
 tø,thaw
@@ -12777,6 +12791,7 @@ tørste etter,"thirst for, thirst after"
 tøs,tart
 tøv,rot
 tøvær,thaw
+tøy,-ware
 tøy,clothes
 tøyelig,elastic
 tøyle,"rein, bridle"
@@ -12784,24 +12799,6 @@ tøylesløs,"licentious, rampant"
 tøyrest,remnant
 tøyse,"trifle, fool"
 tøysete,trifling
-tå,toe
-tåke,"mist, fog"
-tåket,foggy
-tåle,"suffer, sustain, tolerate, support, endure"
-tålelig,tolerable
-tålmodig,patient
-tålmodighet,patience
-tånegl,toenail
-tåpelig,"inane, daft, foolish, inept"
-tåpelig person,nitwit
-tåpelighet,foolishness
-tår,sip
-tåregass,tear-gas
-tårekanal,tear-duct
-tårn,"rook, tower"
-tårnhøy,towering
-tårnsvale,swift
-tåspissdans,toe dance
 uaffisert,unperturbed
 uaktsomt,involuntary
 ualminnelig,"unusual, uncommonly"
@@ -12945,9 +12942,9 @@ uholdbar,"unsound, indefensible"
 uhyggelig,"lurid, grisly, ghastly, grim, awful, unpleasant"
 uhyre,"vast, prodigious, ogre, monster"
 uhyrlighet,monstrosity
+uhåndgripelig,intangible
 uhøflig,"discourteous, impolite, rude"
 uhøflighet,rudeness
-uhåndgripelig,intangible
 uimotståelig,irresistible
 uimottakelig,"impervious, immune"
 uinnbundet bok,paperback
@@ -13009,8 +13006,8 @@ umuliggjøre,incapicitate
 umulighet,impossibility
 umyndig,under age
 umyndighet,minority
-umøblert,unfurnished
 umåtelig,"immensely, immeasurably, exceedingly, immoderate"
+umøblert,unfurnished
 unaturlig,unnatural
 under,"marvel, wonder, below, underneath, beneath, under"
 under-,"lower, under, sub"
@@ -13058,9 +13055,9 @@ underslå,embezzle
 understell,chassis
 understreke,"underline, emphasize"
 understreket,underline
+understått,subject
 understøtte,"relieve, bracket"
 understøttelse,support
-understått,subject
 undersøke,"examine, investigate, try"
 undersøkelse,"examination, enquiry, inquiry"
 undertegne,sign
@@ -13127,10 +13124,10 @@ unnværlig,dispensable
 unse,ounce
 untatt,except
 unyttig,"trashy, useless"
+unåde,disgrace
 unødvendig,"unnecessary, needless"
 unøyaktig,inaccurate
 unøyaktighet,inaccuracy
-unåde,disgrace
 uoffisielt,off the record
 uopphørlig,"ceaseless, incessant"
 uoppløselig,"insoluble, indissoluble"
@@ -13187,6 +13184,7 @@ urte-,herbal
 urteaktig,herbaceous
 urtid,prehistoric period
 urørt,untouched
+usaan,untrue
 usammenhengende,"disjointed, incoherent, disconnected"
 usammenlignbar,incomparable
 usannsynlig,"far-fetched, improbable, unlikely"
@@ -13222,12 +13220,11 @@ usvekket,unimpaired
 usvikelig,unerring
 usymmetrisk,lopsided
 usynlig,invisible
-usaan,untrue
 usårbar,invulnerable
 ut,"issue, out"
-ut-,output
 ut fra,from
 ut på marken,afield
+ut-,output
 utadvent,"extraverted, outgoing"
 utakknemlig,ungrateful
 utakknemlighet,ingratitude
@@ -13338,11 +13335,11 @@ utlevere,extradite
 utlevering,extradition
 utligger,jib
 utlove,offer
+utlån,loan
+utlåner,lender
 utløp,"expiration, outlet"
 utløpe,"run out, end, come to an end, expire, expire"
 utløser,release
-utlån,loan
-utlåner,lender
 utmagret,emaciated
 utmatte,exhaust
 utmattelse,exhaustion
@@ -13412,8 +13409,8 @@ utstråle,radiate
 utstråling,"emission, radiation"
 utstyr,"tackle, kit, equipment, outfit, fittings, gear"
 utstyre,furnish
-utstøtt,"outcast, ostracized"
 utstående,protruding
+utstøtt,"outcast, ostracized"
 utsvevende,"profligate, dissipated, dissolute, licentious"
 utsyn,view
 utsøkt,"choice, select, exquisite"
@@ -13459,13 +13456,13 @@ utvisning,expulsion
 utvokst,grown
 utvungen,free
 utydelig,indistinct
-utøvelse,exercise
-utøvende,executive
 utålelig,"insufferable, untolerable, intolerable"
 utålmodig,impatient
 utålmodighet,impatience
 utånde,expire
 utånding,expiration
+utøvelse,exercise
+utøvende,executive
 uunngåelig,"inevitable, unavoidable"
 uunnværlig,indispensable
 uutholdelig,"excruciating, intolerable, insupportable"
@@ -13590,6 +13587,7 @@ varde,cairn
 vare,"item, last"
 varemerke,trademark
 vareprøve,sample
+varer,-ware
 varer,"goods, wares"
 varetekt,"remand, custody"
 varetektsfange,remand prisoner
@@ -13603,8 +13601,8 @@ varig,"permanent, stable, durable, lasting"
 varighet,"duration, permanence"
 varm,"hot, warm"
 varme,"warmth, fire, warm"
-varme-,thermal
 varme opp,heat
+varme-,thermal
 varmeapparat,heater
 varp,warp
 varsel,"warning, notice, omen"
@@ -13962,12 +13960,12 @@ virvle,"whirl, twirl, spin, swirl"
 vis,"wise, sage"
 visdom,wisdom
 vise,"song, manifest, show"
-vise-,vice
 vise inn,usher
 vise seg,"appear, show off"
 vise seg å være,prove
 vise sin aktelse,pay ones respect
 vise til,refer
+vise-,vice
 viser,"indicator, pointer, index"
 visere,visa
 visergutt,errandboy
@@ -14041,8 +14039,8 @@ vrangforestilling,delusion
 vrangmaske,purl stitch
 vred,indignant
 vrede,wrath
-vri,"wring, wrench"
 vri,opp wring
+vri,"wring, wrench"
 vri seg,"squirm, wriggle"
 vridd,"warped, twisted"
 vridning,twist
@@ -14061,6 +14059,22 @@ vulkan,volcano
 vurdere,"value, appraise, sift, evaluate"
 vurdere på nytt,revalue
 vurdering,"estimation, appraisal, evaluation, estimate"
+vågal,daring
+våge,"dare, hazard, stake, venture"
+vågestykke,venture
+våke,"watch, wake, sit up, stay up"
+våken,"wakeful, smart"
+våking,vigil
+våkne,"waken, wake"
+våkne opp,wake up
+våpen,weapon
+våpenhvile,cease-fire
+våpentilstand,truce
+vår,"spring, springtime, ours, our"
+våre,"ours, our"
+vårt,"ours, our"
+vås,"hogwash, nonsense, rubbish"
+våt,"sloppy, wet"
 vær,"ram, weather"
 vær så god,there you are
 vær så snill,please
@@ -14095,22 +14109,6 @@ værelsepike,maid
 værvarsel,weather forecast
 væske,"liquid, liquor, fluid"
 væte,wet
-vågal,daring
-våge,"dare, hazard, stake, venture"
-vågestykke,venture
-våke,"watch, wake, sit up, stay up"
-våken,"wakeful, smart"
-våking,vigil
-våkne,"waken, wake"
-våkne opp,wake up
-våpen,weapon
-våpenhvile,cease-fire
-våpentilstand,truce
-vår,"spring, springtime, ours, our"
-våre,"ours, our"
-vårt,"ours, our"
-vås,"hogwash, nonsense, rubbish"
-våt,"sloppy, wet"
 walisisk,Welsh
 warsawa,Warzaw
 yacht,yacht
@@ -14148,6 +14146,59 @@ ytterst ubehagelig,obnoxious
 ytterste,utmost
 zoolog,zoologist
 zoologi,zoology
+à jour,up-to-date
+å eie,possession
+å reise,travelling
+å sitte,sitting
+åger,"usury, profiteering"
+ågerkar,usurer
+ågrer,profiteer
+åk,yoke
+åkerhøne,partridge
+ål,eel
+åleteine,eelpot
+ånd,"spirit, morale, ghost"
+ånde,breath
+åndedrag,breath
+åndedrett,respiration
+åndedretts-,respiratory
+åndelig,spiritual
+åndsfraværende,preoccupied
+åndssnobb,highbrow
+åpen,"frank, unreserved, overt, open"
+åpenbar,"transparent, flagrant, manifest"
+åpenbare,reveal
+åpenhet,"frankness, openness"
+åpenhjertig,"open, outspoken, forthright, frank, openhearted"
+åpenlyst,openly
+åpent,frankly
+åpne,open
+åpning,"aperture, opening, gap"
+år,year
+åre,oar
+åregaffel,row-lock
+åreknute,varicosity
+årelate',bleed
+årgang,"vintage, annual volume"
+århundre,"centennial, century"
+årlig,"annual, yearly"
+årsak,"ground, reason"
+årsberetning,annual report
+årsdag,anniversary
+årstid,season
+årtier,decade
+årtusen,millennium
+årvåken,vigilant
+ås,hill
+åskam,ridge
+åsside,"hikside, hillside"
+åte,bait
+åtsel,carrion
+åtseldyr,scavenger
+åtte,eight
+åttende,eighth
+åttendedelsnote,quaver
+åtti,eighty
 æra,era
 ærbar,chaste
 ærbarhet,"chastity, virtue"
@@ -14166,6 +14217,7 @@ zoologi,zoology
 ærlighet,honesty
 ærverdig,"reverend, dignified, venerable"
 ætt,ancestry
+èn gang,once
 ø,ruin
 øde,"waste, desolate, gaunt"
 ødeland,spendthrift
@@ -14237,55 +14289,3 @@ zoologi,zoology
 øyenvippe,eyelash
 øyenvitne,eyewitness
 øygruppe,archipelago
-å eie,possession
-å reise,travelling
-å sitte,sitting
-åger,"usury, profiteering"
-ågerkar,usurer
-ågrer,profiteer
-åk,yoke
-åkerhøne,partridge
-ål,eel
-åleteine,eelpot
-ånd,"spirit, morale, ghost"
-ånde,breath
-åndedrag,breath
-åndedrett,respiration
-åndedretts-,respiratory
-åndelig,spiritual
-åndsfraværende,preoccupied
-åndssnobb,highbrow
-åpen,"frank, unreserved, overt, open"
-åpenbar,"transparent, flagrant, manifest"
-åpenbare,reveal
-åpenhet,"frankness, openness"
-åpenhjertig,"open, outspoken, forthright, frank, openhearted"
-åpenlyst,openly
-åpent,frankly
-åpne,open
-åpning,"aperture, opening, gap"
-år,year
-åre,oar
-åregaffel,row-lock
-åreknute,varicosity
-årelate',bleed
-årgang,"vintage, annual volume"
-århundre,"centennial, century"
-årlig,"annual, yearly"
-årsak,"ground, reason"
-årsberetning,annual report
-årsdag,anniversary
-årstid,season
-årtier,decade
-årtusen,millennium
-årvåken,vigilant
-ås,hill
-åskam,ridge
-åsside,"hikside, hillside"
-åte,bait
-åtsel,carrion
-åtseldyr,scavenger
-åtte,eight
-åttende,eighth
-åttendedelsnote,quaver
-åtti,eighty

@@ -1,4 +1,14 @@
 Other,English
+AB,EU
+AB,European Union
+ABD,America
+ABD,States
+ABD,U.S.
+ABD,U.S. of A.
+ABD,U.S.A.
+ABD,US
+ABD,United States
+ABD,United States of America
 Abhazya,Abkhazia
 Abican,Abidjan
 Abraham Lincoln,Abraham Lincoln
@@ -20,22 +30,14 @@ Almanca,German
 Almanca (Avusturya),German (Austria)
 Almanca (İsviçre),German (Switzerland)
 Alpler,Alps
+Amerika Birleşik Devletleri,America
+Amerika Birleşik Devletleri,States
+Amerika Birleşik Devletleri,U.S.
+Amerika Birleşik Devletleri,U.S. of A.
+Amerika Birleşik Devletleri,U.S.A.
+Amerika Birleşik Devletleri,US
 Amerika Birleşik Devletleri,United States
 Amerika Birleşik Devletleri,United States of America
-Amerika Birleşik Devletleri,America
-Amerika Birleşik Devletleri,US
-Amerika Birleşik Devletleri,U.S.
-Amerika Birleşik Devletleri,U.S.A.
-Amerika Birleşik Devletleri,U.S. of A.
-Amerika Birleşik Devletleri,States
-ABD,United States
-ABD,United States of America
-ABD,America
-ABD,US
-ABD,U.S.
-ABD,U.S.A.
-ABD,U.S. of A.
-ABD,States
 Amerikan Samoası,American Samoa
 Angola,Angola
 Angola,Republic of Angola
@@ -56,8 +58,6 @@ Arnavutluk,Republic of Albania
 Aruba,Aruba
 Avrupa Birliği,EU
 Avrupa Birliği,European Union
-AB,EU
-AB,European Union
 Avustralya,Australia
 Avustralya,Commonwealth of Australia
 Avusturya,Austria
@@ -65,11 +65,11 @@ Avusturya,Republic of Austria
 Azerbaycan,Azerbaijan
 Azerbaycan,Republic of Azerbaijan
 Azerbaycan Türkçesi,Azerbaijani
-Azerbaycan Türkçesi,Azeri
 Azerbaycan Türkçesi,Azerbaijani Cluster
+Azerbaycan Türkçesi,Azeri
 Azerice,Azerbaijani
-Azerice,Azeri
 Azerice,Azerbaijani Cluster
+Azerice,Azeri
 Azor Adaları,Azores
 Aşağı Saksonya,Lower Saxony
 Bahreyn,Bahrain
@@ -95,6 +95,9 @@ Beyaz Rusya,Belarus
 Beyaz Rusya,Republic of Belarus
 Bhutan,Bhutan
 Bhutan,Kingdom of Bhutan
+Birleşik Krallık,UK
+Birleşik Krallık,United Kingdom
+Birleşik Krallık,United Kingdom of Great Britain and Northern Ireland
 Birmingham,Birmingham
 Bolivya,Bolivia
 Bolivya,Republic of Bolivia
@@ -124,17 +127,14 @@ Burma,Myanmar
 Burundi,Burundi
 Burundi,Republic of Burundi
 Bükreş,Bucharest
-Büyük Britanya,Great Britain
 Büyük Britanya,Britain
+Büyük Britanya,Great Britain
+Büyük Britanya ve Kuzey İrlanda,UK
 Büyük Britanya ve Kuzey İrlanda,United Kingdom
 Büyük Britanya ve Kuzey İrlanda,United Kingdom of Great Britain and Northern Ireland
-Büyük Britanya ve Kuzey İrlanda,UK
-Birleşik Krallık,United Kingdom
-Birleşik Krallık,United Kingdom of Great Britain and Northern Ireland
-Birleşik Krallık,UK
-Cakarta,Jakarta
-Cakarta,Djakarta
 Cakarta,DKI Jakarta
+Cakarta,Djakarta
+Cakarta,Jakarta
 Cancer,Cancer
 Canes Venatici,Canes Venatici
 Canis Major,Canis Major
@@ -143,10 +143,10 @@ Capricornus,Capricorn
 Cassiopeia,Cassiopeia
 Cayman Adaları,Cayman Islands
 Cebelitarık,Gibraltar
-Cezayir Demokratik Halk Cumhuriyeti,Algeria
-Cezayir Demokratik Halk Cumhuriyeti,People's Democratic Republic of Algeria
 Cezayir,Algeria
 Cezayir,People's Democratic Republic of Algeria
+Cezayir Demokratik Halk Cumhuriyeti,Algeria
+Cezayir Demokratik Halk Cumhuriyeti,People's Democratic Republic of Algeria
 Christmas Adası,Christmas Island
 Cibuti,Djibouti
 Cibuti,Republic of Djibouti
@@ -157,6 +157,8 @@ Dağlık Karabağ,Nagorno-Karabakh
 Dağıstan,Dagestan
 Down sendromu,Down syndrome
 Down sendromu,Down’s syndrome
+Doğu Timor,Democratic Republic of Timor-Leste
+Doğu Timor,East Timor
 Ege Denizi,Aegean Sea
 El Salvador,El Salvador
 El Salvador,Republic of El Salvador
@@ -164,7 +166,6 @@ Endonezce,Indonesian
 Endonezya,Indonesia
 Endonezya,Republic of Indonesia
 Erendiz,Jupiter
-Jüpiter,Jupiter
 Eritre,Eritrea
 Ermenice,Armenian
 Ermenistan,Armenia
@@ -176,23 +177,23 @@ Etiyopya,Federal Democratic Republic of Ethiopia
 Eyfel Kulesi,Eiffel Tower
 Falkland Adaları,Falkland Islands
 Faroe Adaları,Faroe Islands
-Fas,Morocco
 Fas,Kingdom of Morocco
+Fas,Morocco
 Fiji,Fiji
 Fiji,Republic of the Fiji Islands
-Fildişi Kıyısı,Ivory Coast
 Fildişi Kıyısı,Cote d'Ivoire
+Fildişi Kıyısı,Ivory Coast
 Fildişi Kıyısı,Republic of Cote d'Ivoire
 Fince,Finnish
 Finlandiya,Finland
 Finlandiya,Republic of Finland
 Flevoland,Flevoland
-Fransa,France
 Fransa,Dominican Republic
+Fransa,France
 Fransız Devrimi,French Revolution
-Fransız İhtilali,French Revolution
 Fransız Guyanası,French Guiana
 Fransız Polinezyası,French Polynesia
+Fransız İhtilali,French Revolution
 Fransızca,French
 Fransızca,French
 Gabon,Gabon
@@ -204,14 +205,14 @@ Gambiya,Gambia
 Gambiya,Gambia
 Gambiya,Gambia
 Gambiya,Gambia
-Gambiya,The Gambia
 Gambiya,Republic of The Gambia
+Gambiya,The Gambia
 Gambiya Cumhuriyeti,Gambia
 Gambiya Cumhuriyeti,Gambia
 Gambiya Cumhuriyeti,Gambia
 Gambiya Cumhuriyeti,Gambia
-Gambiya Cumhuriyeti,The Gambia
 Gambiya Cumhuriyeti,Republic of The Gambia
+Gambiya Cumhuriyeti,The Gambia
 Gana,Ghana
 Gana,Republic of Ghana
 Gazze Şeridi,Gaza Strip
@@ -235,16 +236,16 @@ Haiti Cumhuriyeti,Republic of Haiti
 Hanuka,Hannukah
 Hartum,Khartoum
 Herakles,Hercules
-Herkül,Hercules
 Hercules,Hercules
+Herkül,Hercules
 Hindistan,India
 Hindistan,Republic of India
 Hindu,Hindi
 Hindu,Hindi
-Hintçe,Hindi
-Hintçe,Hindi
-Hint Okyanusu İngiliz Sömürgeleri,British Indian Ocean Territory
 Hint Okyanusu İngiliz Sömürgeleri,BIOT
+Hint Okyanusu İngiliz Sömürgeleri,British Indian Ocean Territory
+Hintçe,Hindi
+Hintçe,Hindi
 Hollanda,Holland
 Hollanda,Kingdom of the Netherlands
 Hollanda,The Netherlands
@@ -267,8 +268,9 @@ Japonca,Japanese
 Japonca,Japanese
 Japonya,Japan
 Japonya,State of Japan
-Jersey,Jersey
 Jersey,Bailiwick of Jersey
+Jersey,Jersey
+Jüpiter,Jupiter
 Kahire,Cairo
 Kalaallisut,Kalaallisut
 Kamboçya,Cambodia
@@ -289,51 +291,52 @@ Kenya,Kenya
 Kenya,Republic of Kenya
 Kibris Çumhuriyeti,Cyprus
 Kibris Çumhuriyeti,Republic of Cyprus
-Kıbrıs,Cyprus
-Kıbrıs,Republic of Cyprus
 Kiribati,Kiribati
 Kiribati,Republic of Kiribati
 Kiril alfabesi,Cyrillic alphabet
 Kitab-ı Mukaddes,Bible
-Kmer,Khmer
 Kmer,Central Khmer
+Kmer,Khmer
 Kolombiya,Colombia
 Kolombiya,Republic of Colombia
-Kongo Demokratik Cumhuriyeti,Democratic Republic of the Congo
 Kongo Demokratik Cumhuriyeti,Congo-Kinshasa
-Kongo Kinşasa,Democratic Republic of the Congo
+Kongo Demokratik Cumhuriyeti,Democratic Republic of the Congo
 Kongo Kinşasa,Congo-Kinshasa
+Kongo Kinşasa,Democratic Republic of the Congo
 Korece,Korean
 Korece,Korean
 Kosova,Kosovo
 Kuzey İrlanda,Northern Ireland
 Küba,Cuba
 Küba,Republic of Cuba
-Kırgızistan,Kyrgyzstan
+Kıbrıs,Cyprus
+Kıbrıs,Republic of Cyprus
 Kırgızistan,Kyrgyz Republic
+Kırgızistan,Kyrgyzstan
 Lagos,Lagos
-Laos,Laos
 Laos,Lao People's Democratic Republic
-Latince,Latin
-Latince,Latin
+Laos,Laos
 Latin,Latin
 Latin,Latin
+Latince,Latin
+Latince,Latin
+Lehistan,Poland
 Lehçe,Polish
 Lehçe,Polish
 Leo,Leo
-Lesotho,Lesotho
 Lesotho,Kingdom of Lesotho
+Lesotho,Lesotho
+Letonca,Latvian
+Letonca,Latvian
 Letonya,Latvia
 Letonya,Republic of Latvia
 Letonyaca,Latvian
 Letonyaca,Latvian
-Letonca,Latvian
-Letonca,Latvian
 Liberya,Liberia
 Liberya,Republic of Liberia
 Libra,Libra
-Libya,Libya
 Libya,Great Socialist People's Libyan Arab Jamahiriya
+Libya,Libya
 Litvanya,Lithuania
 Litvanya,Republic of Lithuania
 Lozan,Lausanne
@@ -351,8 +354,8 @@ Malezya,Malaysia
 Malta,Malta
 Malta,Republic of Malta
 Maltaca,Maltese
-Markov zinciri,Markov chain
 Markov zinciri,Markoff chain
+Markov zinciri,Markov chain
 Martinique,Martinique
 Mayotte,Mayotte
 Mekke,Mecca
@@ -361,16 +364,13 @@ Milano,Milan
 Milwaukee,Milwaukee
 Monako,Monaco
 Montserrat,Montserrat
-Moritanya,Mauritania
 Moritanya,Islamic Republic of Mauritania
+Moritanya,Mauritania
 Moskova,Moscow
 Musevilik,Judaism
-Yahudilik,Judaism
-İbranilik,Judaism
-İsrail dini,Judaism
 Musevîlik,Judaism
-Mısır,Egypt
 Mısır,Arab Republic of Egypt
+Mısır,Egypt
 Nairobi,Nairobi
 Namibya,Namibia
 Neptün,Neptune
@@ -379,17 +379,17 @@ Nijer,Niger
 Nikaragua,Nicaragua
 Niue,Niue
 Noel ağacı,Christmas tree
-Norveç,Norway
 Norveç,Kingdom of Norway
+Norveç,Norway
 Nuuk,Nuuk
-Pakistan,Pakistan
 Pakistan,Islamic Republic of Pakistan
+Pakistan,Pakistan
 Panama,Panama
 Papatyagiller,Asteraceae
-Papatyagiller,sunflower family
 Papatyagiller,Compositae
-Papatyagiller,daisy family
 Papatyagiller,aster family
+Papatyagiller,daisy family
+Papatyagiller,sunflower family
 Papua Yeni Gine,Papua New Guinea
 Paskalya,Easter
 Peru,Peru
@@ -397,15 +397,14 @@ Peru,Republic of Peru
 Philadelphia,Philadelphia
 Pireneler,Pyrenees
 Polonya,Poland
-Lehistan,Poland
 Portekiz,Portugal
 Portekizce,Portuguese
 Portekizce,Portuguese
 Porto Riko,Puerto Rico
 Rhône,Rhône
 Romanya,Romania
-Romence,Romanian
 Romence,Romanaian
+Romence,Romanian
 Rusya Federasyonu,Russia
 Rusya Federasyonu,Russian Federation
 Rusça,Russian
@@ -435,8 +434,8 @@ St. Petersburg,Saint Petersburg
 St. Petersburg,St. Petersburg
 Sudan,Sudan
 Surinam,Suriname
-Suudi Arabistan,Saudi Arabia
 Suudi Arabistan,Kingdom of Saudi Arabia
+Suudi Arabistan,Saudi Arabia
 Sırbistan,Serbia
 Sırbistan-Karadağ,Serbia and Montenegro
 Tacikistan,Tajikistan
@@ -454,16 +453,14 @@ Tayvan,Taiwan
 Tennessee,Tennessee
 Thuringia,Thuringia
 Tibet sığırı,yak
-Timor-Leste Demokratik Cumhuriyeti,East Timor
 Timor-Leste Demokratik Cumhuriyeti,Democratic Republic of Timor-Leste
-Doğu Timor,East Timor
-Doğu Timor,Democratic Republic of Timor-Leste
+Timor-Leste Demokratik Cumhuriyeti,East Timor
 Togo,Togo
 Toronto,Toronto
 Türkçe,Turkish
 Türkçe,Turkish
-Uganda,Uganda
 Uganda,Republic of Uganda
+Uganda,Uganda
 Ukrayna,Ukraine
 Ukraynaca,Ukrainian
 Ukraynaca,Ukrainian
@@ -474,9 +471,9 @@ Utah,Utah
 Vaduz,Vaduz
 Valonca,Walloon
 Valonca,Walloon
-Vatikan,Vatican City
-Vatikan,The Holy See
 Vatikan,State of the Vatican City
+Vatikan,The Holy See
+Vatikan,Vatican City
 Venedik,Venice
 Venezuela,Venezuela
 Venüs,Venus
@@ -486,30 +483,31 @@ Vikipedi,Wikipedia
 Vikisözlük,Wiktionary
 Viyana,Vienna
 Volapük,Volapük
-Wallis ve Futuna Adaları,Wallis and Futuna
 Wallis ve Futuna Adaları,Territory of the Wallis and Futuna Islands
+Wallis ve Futuna Adaları,Wallis and Futuna
 Web-kütüğü,blog
-Web-kütüğü,weblog
 Web-kütüğü,web log
+Web-kütüğü,weblog
 Wyoming,Wyoming
+Yahudilik,Judaism
 Yeni Kaledonya,New Caledonia
 Yeni Zelanda,New Zealand
-Yer,earth
-Yer,Earth
-Yer,the world
 Yer,Blue Planet
+Yer,Earth
+Yer,earth
+Yer,the world
 Yugoslavya,Yugoslavia
 Yunanca,Greek
 Yunanca,Greek
 Yunanistan,Greece
 Yunanistan,Hellenic Republic
-Zambiya,Zambia
 Zambiya,Republic of Zambia
+Zambiya,Zambia
 Zangibar,Zanzibar
-Zimbabve,Zimbabwe
 Zimbabve,Republic of Zimbabwe
-Zimbabve Cumhuriyeti,Zimbabwe
+Zimbabve,Zimbabwe
 Zimbabve Cumhuriyeti,Republic of Zimbabwe
+Zimbabve Cumhuriyeti,Zimbabwe
 Zulu,Zulu
 acil durum,emergency
 aerobiyoloji,aerobiology
@@ -519,11 +517,13 @@ agorafobi,agoraphobia
 agorafobi,agoraphobia
 agorafobi,agoraphobia
 ahtapot,octopus
+ak,white
 akciğer,lung
 akifer,aquifer
+akne,acne
 akordiyon,accordion
-akordiyon,squeeze box
 akordiyon,piano accordion
+akordiyon,squeeze box
 aksiyom,axiom
 aktinyuma,actinium
 akuamarin,aquamarine
@@ -552,26 +552,26 @@ aralık,December
 argon,argon
 aritmetik,arithmetic
 aritmetik,arithmetics
-arkeolog,archeologist
 arkeolog,archaeologist
+arkeolog,archeologist
 arkeolojik,archaeological
 armut,pear
 arpa,barley
 arsenik,arsenic
 arter,artery
 artrit,arthritis
-artyakıcı,afterburning
-artyakıcı,afterburning
 artyakıcı,afterburner
+artyakıcı,afterburning
+artyakıcı,afterburning
 artırmak,augment
-arıcı,beekeeper
 arıcı,apiculturist
+arıcı,beekeeper
 arşidük,archduke
 arşiv,archive
-asal sayı,prime number
 asal sayı,prime
-asal sayılar,prime number
+asal sayı,prime number
 asal sayılar,prime
+asal sayılar,prime number
 asbest,asbestos
 asfalt,asphalt
 asimetrik,asymmetric
@@ -610,6 +610,9 @@ barometre,barometer
 baron,baron
 baryum,barium
 barışçı,pacifist
+basit,easy
+basit,like shooting fish in a barrel
+basit,piece of cake
 basketbol,basketball
 basketbol,basketball game
 baytar,veterinarian
@@ -627,12 +630,11 @@ berkelyum,berkelium
 beyanat,declaration
 beyanat,statement
 beyaz,white
-ak,white
 beyzbol,baseball
 beyzbol,baseball game
 bez,gland
-bileşik,compound
 bileşik,chemical compound
+bileşik,compound
 bira,beer
 bisiklet,bicycle
 bisiklet,bike
@@ -643,25 +645,21 @@ biyoçeşitlilik,biodiversity
 bizmut,bismuth
 bizmut,bismuth
 biçak,knife
-çakı,knife
 bohriyum,bohrium
 bonsai,bonsai
 bor,boron
 bora,storm
 bora,tempest
-fırtına,storm
-fırtına,tempest
 boşanma,divorce
 brokoli,broccoli
 brom,bromine
 bulut,cloud
 buz,ice
-bögürtlen,huckleberry
 bögürtlen,blueberry
+bögürtlen,huckleberry
 bölüm,chapter
 büyükelçi,ambassador
 cami,mosque
-mescit,mosque
 canavarlık,atrocity
 cankurtaran,lifeguard
 caz,jazz
@@ -679,7 +677,6 @@ darmstadtiyumd,darmstadtium
 darı,millet
 deflasyon,deflation
 delfin,dolphin
-yunus,dolphin
 demir,iron
 demirci,blacksmith
 dendrokronoloji,dendrochronology
@@ -690,7 +687,6 @@ devekuşu,ostrich
 dezenfektasyon,disinfectant
 dikkatli,attentive
 dil bilimi,linguistics
-lengüistik,linguistics
 dilekçe,petition
 dinlemek,attend
 dirsek,elbow
@@ -700,34 +696,33 @@ dogurmak,deliver
 domates,tomato
 dubniyum,dubnium
 duruş,attitude
-duvarcı,mason
 duvarcı,bricklayer
+duvarcı,mason
 duvarcı,stonemason
 duygusuzluk,apathy
-döllenme,fertilisation
 döllenme,fecundation
-dönence,tropics
+döllenme,fertilisation
 dönence,torrid zone
+dönence,tropics
 düşkün,attached
 düşman,enemy
+e-posta,e-mail
+e-posta,electronic mail
+e-posta,email
 eczacı,chemist
 eczacı,pharmacist
 eczane,chemist's
 eczane,chemist's shop
 eczane,pharmacy
 edebiyat,literature
-yazın,literature
 edinme,possession
 ek parça,attachment
 ekmek,bread
 ekvator,equator
 elektromanyetik kuvvet,electromagnetism
+elektronik posta,e-mail
 elektronik posta,electronic mail
 elektronik posta,email
-elektronik posta,e-mail
-e-posta,electronic mail
-e-posta,email
-e-posta,e-mail
 element,chemical element
 element,element
 elma,apple
@@ -736,12 +731,14 @@ enfeksiyon,infection
 enflasyon,inflation
 enginar,artichoke
 ensefalit,encephalitis
+epilepsi,epilepsy
 erbiyum,erbium
 erken,early
 eroin,heroin
 etik,ethics
 etkinci,activist
 europyum,europium
+eylem,verb
 eşekarısı,wasp
 fagot,bassoon
 faşizm,fascism
@@ -750,7 +747,6 @@ felsefe,philosophy
 fener,lantern
 fermiyum,fermium
 fiil,verb
-eylem,verb
 filoloji,philology
 fizyoloji,physiology
 fluor,fluorine
@@ -758,6 +754,8 @@ flüt,flute
 fosfor,phosphorus
 fransiyum,francium
 futbol,football
+fırtına,storm
+fırtına,tempest
 gadolinyum,gadolinium
 galyum,gallium
 gangren,gangrene
@@ -783,48 +781,48 @@ gizemli,mysterious
 glikoliz,glycolysis
 glokom,glaucoma
 goril,gorilla
-gramer,grammer
 gramer,grammar
+gramer,grammer
 granit,granite
 graviton,graviton
 gres yagi,beverage
 gres yagi,drink
 gökkkuşağı,rainbow
-göktaşı,meteor
-göktaşı,meteor
-göktaşı,meteor
-göktaşı,meteor
-göktaşı,meteor
-göktaşı,shooting star
+göktaşı,falling star
+göktaşı,falling star
+göktaşı,falling star
+göktaşı,falling star
 göktaşı,falling star
 göktaşı,meteor
 göktaşı,meteor
 göktaşı,meteor
 göktaşı,meteor
 göktaşı,meteor
-göktaşı,shooting star
-göktaşı,falling star
+göktaşı,meteor
+göktaşı,meteor
+göktaşı,meteor
+göktaşı,meteor
+göktaşı,meteor
+göktaşı,meteor
+göktaşı,meteor
+göktaşı,meteor
+göktaşı,meteor
+göktaşı,meteor
+göktaşı,meteor
+göktaşı,meteor
+göktaşı,meteor
+göktaşı,meteor
+göktaşı,meteor
 göktaşı,meteor
 göktaşı,meteor
 göktaşı,meteor
 göktaşı,meteor
 göktaşı,meteor
 göktaşı,shooting star
-göktaşı,falling star
-göktaşı,meteor
-göktaşı,meteor
-göktaşı,meteor
-göktaşı,meteor
-göktaşı,meteor
 göktaşı,shooting star
-göktaşı,falling star
-göktaşı,meteor
-göktaşı,meteor
-göktaşı,meteor
-göktaşı,meteor
-göktaşı,meteor
 göktaşı,shooting star
-göktaşı,falling star
+göktaşı,shooting star
+göktaşı,shooting star
 görevli,attendant
 göz,eye
 gül,rose
@@ -833,18 +831,17 @@ gülücük,smile
 gümüş,silver
 günlük,diary
 güvenilir,authoritative
-güvercin,pigeon
 güvercin,dove
+güvercin,pigeon
 güzel,atractive
-güç,power (physics)
 güç,power
+güç,power (physics)
 hafniyum,hafnium
 hafta sonu,weekend
 haiku,haiku
 hali,basement
 halüsinasyon,hallucination
 halı,carpet
-kilim,carpet
 hamam böceği,cockroach
 hamılelık,pregnancy
 harem,harem
@@ -864,9 +861,10 @@ hipofiz,pituitary gland
 hiyerarşi,hierarchy
 hiç,nothing
 hormon,hormone
-hükümet darbesi,putsch
 hükümet darbesi,coup d'état
+hükümet darbesi,putsch
 hýrslý,ambitious
+idrar,urine
 ihale,auction
 ikiz,twin
 ile,alongside
@@ -876,6 +874,7 @@ indiyum,indium
 inek,cow
 ipek,silk
 iridyum,iridium
+ishiyi,eyebrow
 isim,noun
 isim,substantive
 iskelet,skeleton
@@ -919,19 +918,20 @@ katil,assassin
 katil,assassinator
 katılmak,attend
 kayak,skiing
-kaynana,mother-in-law
 kaynana,mother in law
+kaynana,mother-in-law
 kayısı,apricot
 kaz,goose
 kaçmak,abhor
-kaçmak,loathe
 kaçmak,detest
+kaçmak,loathe
 kaş,eyebrow
-ishiyi,eyebrow
 kaşık,spoon
+kelime,word
 kereviz,celery
 keseliler,marsupial
 kesmek,slaughter
+kilim,carpet
 kiraz,cherry
 kireç taşı,limestone
 kirlilik,pollution
@@ -941,16 +941,13 @@ klitoris,button
 klitoris,clit
 klitoris,clitoris
 klor,chlorine
-kobalto,cobalt
 kobalt,cobalt
+kobalto,cobalt
 kobay,guinea pig
 kokain,cocaine
 kolay,easy
-kolay,piece of cake
 kolay,like shooting fish in a barrel
-basit,easy
-basit,piece of cake
-basit,like shooting fish in a barrel
+kolay,piece of cake
 kolaylık,facility
 kolesterol,cholesterol
 koltuk altý,armpit
@@ -963,11 +960,6 @@ kondom,prophylactic
 kondom,rubber
 kondom,safe
 kondom,safety
-prezervatif,condom
-prezervatif,prophylactic
-prezervatif,rubber
-prezervatif,safe
-prezervatif,safety
 kovan,beehive
 koyun,sheep
 kraliçe,queen
@@ -975,8 +967,8 @@ kripton,krypton
 krom,chromium
 kromozom,chromosome
 ksenon,xenon
-kuaför,hairdresser
 kuaför,barber
+kuaför,hairdresser
 kulak,ear
 kullanýcý,user
 kundakçı,arsonist
@@ -995,6 +987,7 @@ kütüphane,library
 kıracak,nutcracker
 kısrak,mare
 lantan,lanthanum
+lengüistik,linguistics
 leopar,leopard
 liberalizm,liberalism
 limnoloji,limnology
@@ -1007,8 +1000,8 @@ lityum,lithium
 lorentiyum,lawrencium
 lâle,tulip
 lütesyum,lutetium
-mafsal,joint
 mafsal,articulation
+mafsal,joint
 magnezyum,magnesium
 makinali tufek,machine gun
 malarya,malaria
@@ -1028,6 +1021,7 @@ menenjit,meningitis
 menora,menorah
 mercek,lens
 mercimek,lentil
+mescit,mosque
 metafizik,metaphysics
 metanol,methanol
 mide,stomach
@@ -1041,9 +1035,9 @@ muhasebe,accounting
 mum,candle
 mutlu yıllar,Happy New Year
 muz,banana
-mümkün,viable
-mümkün,viable
 mümkün,feasible
+mümkün,viable
+mümkün,viable
 müzik,music
 nar,pomegranate
 nefret,hate
@@ -1072,8 +1066,8 @@ ontojeni,ontogenesis
 ontojeni,ontogeny
 ontoloji,ontology
 opera,opera
-oral seks,oral sex
 oral ilişki,oral sex
+oral seks,oral sex
 organel,organelle
 ortografi,orthography
 osmiyum,osmium
@@ -1088,8 +1082,8 @@ pankreas,pancreas
 papağan,parrot
 parabol,parabola
 parmak,finger
-patates,potato
 patates,patato
+patates,potato
 patlama,explosion
 patoloji,pathology
 pazar,Sunday
@@ -1118,6 +1112,11 @@ postrv,trout
 potasyum,potassium
 pozitron,positron
 prens,prince
+prezervatif,condom
+prezervatif,prophylactic
+prezervatif,rubber
+prezervatif,safe
+prezervatif,safety
 problem,problem
 prometyum,promethium
 prostat,prostate
@@ -1125,15 +1124,14 @@ protaktinyum,protactinium
 radon,radon
 radyum,radium
 ramazan,Ramadan
-referandum,referendum
 referandum,plebiscite
+referandum,referendum
 rehine,hostage
 renyum,rhenium
 resmi dil,official language
 reşit olmayan kimse,minor
 rodyum,rhodium
 rpilepsi,epilepsy
-epilepsi,epilepsy
 rubidyum,rubidium
 ruj,lipstick
 rutenyum,ruthenium
@@ -1142,17 +1140,17 @@ röntgenyum,roentgenium
 saat,hour
 saat dilimi,timezone
 saban,plough
-sabit disk,hard disk drive
-sabit disk,hard disk
 sabit disk,HD
+sabit disk,hard disk
+sabit disk,hard disk drive
 sabun,soap
 safir,sapphire
 safra kesesi,gallbladder
 saldırgan,aggressive
 saldırgan,aggressor
 saldırgan,assailant
-saldırgan,attacker
 saldırgan,assaulter
+saldırgan,attacker
 salı,Tuesday
 samaryum,samarium
 sardalya,sardine
@@ -1160,17 +1158,16 @@ satmak,sell
 savunmak,assert
 sağır,deaf
 schakal,jackal
-çakal,jackal
 seaborgiyum,seaborgium
 sebze,vegetable
 sedimantoloji,sedimentology
-sefarethane,embassy
 sefarethane,diplomatic mission
+sefarethane,embassy
 seksoloji,sexology
 sekstant,sextant
 selenyum,selenium
-semiyotik,semiotics
 semiyotik,semiology
+semiyotik,semiotics
 sendrom,syndrome
 seryum,cerium
 serçeparmak,little finger
@@ -1178,10 +1175,11 @@ serçeparmak,pinkie
 sevgi,attachment
 sezyum,caesium
 seçim,ballot
+sidik,urine
 sigara,cigarette
-sihirbaz,wizard
-sihirbaz,sorcerer
 sihirbaz,magician
+sihirbaz,sorcerer
+sihirbaz,wizard
 silisyum,silicon
 simya,alchemy
 sinagog,synagogue
@@ -1189,7 +1187,6 @@ sincap,chipmunk
 sindirmek,assimilate
 sirke,vinegar
 sivilce,acne
-akne,acne
 skandiyum,scandium
 sodyum,sodium
 somon,salmon
@@ -1200,10 +1197,9 @@ stronsiyum,strontium
 su,water
 susuzluk,thirst
 suç,crime
-suçlu,defendant
 suçlu,accused
+suçlu,defendant
 sözcük,word
-kelime,word
 sözlük,dictionary
 söğüt,willow
 sülün,pheasant
@@ -1226,18 +1222,17 @@ teokrasi,theocracy
 teoloji,theology
 terbiyum,terbium
 tercüman,interpreter
-tercüme,translate
 tercüme,interpret
+tercüme,translate
 terlik,slipper
 testosteron,testosterone
 titanyum,titanium
 toplama,addition
-toplamak,assemble
-toplamak,get together
-toplamak,gather
 toplamak,add
+toplamak,assemble
+toplamak,gather
+toplamak,get together
 topoloji,topology
-tопологія,topology
 toryum,thorium
 trampet,trumpet
 tren,train
@@ -1248,10 +1243,12 @@ trombon,trombone
 tundra,tundra
 tungsten,tungsten
 turk,assignment
+turkish,english
 tutku,aspiration
 tülyum,thulium
 tünel,tunnel
 tütün,tobacco
+tопологія,topology
 ulaşmak,attain
 umut,hope
 ununbiyum,ununbium
@@ -1262,11 +1259,11 @@ ununpentiyum,ununpentium
 uranyum,uranium
 uskumru,mackerel
 utanmş,ashamed
-uydurmak,arrange
+uydurmak,accommodate
 uydurmak,adapt
 uydurmak,adjust
+uydurmak,arrange
 uydurmak,conform
-uydurmak,accommodate
 uydurmak,suit
 uyumakta,asleep
 uçak,aeroplane
@@ -1295,14 +1292,16 @@ yatak,bed
 yavaş,slow
 yay,bow
 yazarlık,authorship
+yazın,literature
 yelkenli,sailing ship
-yer,place
 yer,location
+yer,place
 yetim,orphan
 yeşim,jade
 yokuş,ascent
 yolsuzluk,corruption
 yumurtalık,ovary
+yunus,dolphin
 zeytin,olive
 zirkonyum,zirconium
 zodyak,zodiac
@@ -1317,11 +1316,13 @@ zýt zerre,antiparticle
 Çek Cumhuriyeti,Czechia
 Çekçe,Czech
 Çekçe,Czech
-Çin,People's Republic of China
 Çin,China
-Ürdün,Jordan
+Çin,People's Republic of China
 Ürdün,Hashemite Kingdom of Jordan
+Ürdün,Jordan
 çabuk,wiki
+çakal,jackal
+çakı,knife
 çalar saat,alarm clock
 çalgı,instrument
 çalgı,musical instrument
@@ -1331,9 +1332,6 @@ zýt zerre,antiparticle
 çatı,roof
 çatı,roof
 çatı,roof
-örtü,roof
-örtü,roof
-örtü,roof
 çay,tea
 çekmek,attract
 çeviri,translation
@@ -1344,8 +1342,6 @@ zýt zerre,antiparticle
 çita,cheetah
 çita,chetah
 çiş,urine
-idrar,urine
-sidik,urine
 çoban,shepherd
 çocuk doktoru,paediatrician
 çok iddialı,assertive
@@ -1353,15 +1349,19 @@ sidik,urine
 çıkış,ascent
 önlemek,avert
 ördek,duck
+örtü,roof
+örtü,roof
+örtü,roof
 örümcek,spider
-örümcek ağı,web
 örümcek ağı,spider web
+örümcek ağı,web
 özgürlük,freedom
 özgürlük,liberty
 öğretmen,teacher
 üstünlük,ascendancy
-İdam cezası,death penalty
+İbranilik,Judaism
 İdam cezası,capital punishment
+İdam cezası,death penalty
 İdam cezası,death sentence
 İdil,Volga
 İlyada,Iliad
@@ -1377,6 +1377,7 @@ sidik,urine
 İspanyolca,Spanish
 İsrail,Israel
 İsrail,State of Israel
+İsrail dini,Judaism
 İsveççe,Swedish
 İsviçre,Switzerland
 İtalya,Italian Republic
@@ -1391,14 +1392,13 @@ sidik,urine
 Şili,Republic of Chile
 şarap,wine
 şatranç,chess
-шахи,chess
 şaşırmış,aback
 şaşırtmak,astonish
 şaşırtıcı,astonishing
 şaşırtıcı,astounding
 şebek,baboon
 şempaze,chimpanzee
+шахи,chess
 صحرائے اعظم,sahara
-ศูนย์,zero
 ศูนย์,null
-turkish,english
+ศูนย์,zero

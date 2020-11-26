@@ -4,12 +4,11 @@ aмерицій,americium
 cахара,sahara
 cелера,celery
 ihale,auction
-аукцiон,auction
 iридій,iridium
 tитан,titanium
-титан,titanium
-xімічна сполука,compound
+ukrainian,english
 xімічна сполука,chemical compound
+xімічна сполука,compound
 Європейський Союз,EU
 Європейський Союз,European Union
 Ізраїль,Israel
@@ -19,7 +18,6 @@ xімічна сполука,chemical compound
 Індонезія,Republic of Indonesia
 Індійський океан,Indian Ocean
 Інфляція,inflation
-інфляція,inflation
 Ірак,Iraq
 Ірак,Republic of Iraq
 Іран,Iran
@@ -40,7 +38,6 @@ xімічна сполука,chemical compound
 Абрахам Лінкольн,Abraham Lincoln
 Абуджа,Abuja
 Абхазія,Abkhazia
-Апсни,Abkhazia
 Абіджан,Abidjan
 Австралія,Australia
 Австралія,Commonwealth of Australia
@@ -52,10 +49,10 @@ xімічна сполука,chemical compound
 Азербайджан,Republic of Azerbaijan
 Азорські острови,Azores
 Айстрові,Asteraceae
-Айстрові,sunflower family
 Айстрові,Compositae
-Айстрові,daisy family
 Айстрові,aster family
+Айстрові,daisy family
+Айстрові,sunflower family
 Албанія,Albania
 Албанія,Republic of Albania
 Алжир,Algeria
@@ -65,11 +62,12 @@ xімічна сполука,chemical compound
 Андорра,Andorra
 Андорра,Principality of Andorra
 Антарктида,Antarctica
-Антигуа і Барбуда,Antigua and Barbuda
 Антигуа и Барбуда,Antigua and Barbuda
+Антигуа і Барбуда,Antigua and Barbuda
 Анґола,Angola
 Анґола,Republic of Angola
 Анґілья,Anguilla
+Апсни,Abkhazia
 Аргентина,Argentina
 Аргентина,Argentine Republic
 Аризона,Arizona
@@ -78,9 +76,9 @@ xімічна сполука,chemical compound
 Афганістан,Afghanistan
 Афганістан,Transitional Islamic State of Afghanistan
 Африка,Africa
+Багами,Bahama Islands
 Багами,Bahamas
 Багами,Commonwealth of the Bahamas
-Багами,Bahama Islands
 Балеарські острови,Balearic Islands
 Бангладеш,Bangladesh
 Бангладеш,People's Republic of Bangladesh
@@ -101,8 +99,8 @@ xімічна сполука,chemical compound
 Ботсвана,Republic of Botswana
 Бразилія,Brazil
 Братислава,Bratislava
-Британські території в Індійському океані,British Indian Ocean Territory
 Британські території в Індійському океані,BIOT
+Британські території в Індійському океані,British Indian Ocean Territory
 Бруней,Brunei
 Бруней,Negara Brunei Darussalam
 Брюссель,Brussels
@@ -117,9 +115,9 @@ xімічна сполука,chemical compound
 Білорусь,Republic of Belarus
 Бірмінгем,Birmingham
 Вайомінг,Wyoming
-Ватикан,Vatican City
-Ватикан,The Holy See
 Ватикан,State of the Vatican City
+Ватикан,The Holy See
+Ватикан,Vatican City
 Великдень,Easter
 Великий Пес,Canis Major
 Венера,Venus
@@ -137,9 +135,9 @@ xімічна сполука,chemical compound
 Гана,Republic of Ghana
 Гаїті,Haiti
 Гаїті,Republic of Haiti
-Геркулес,Hercules
-Геркулес,Hercules
 Геракл,Hercules
+Геркулес,Hercules
+Геркулес,Hercules
 Гондурас,Honduras
 Гондурас,Republic of Honduras
 Гончі Пси,Canes Venatici
@@ -154,8 +152,8 @@ xімічна сполука,chemical compound
 Данія,Kingdom of Denmark
 Дейтерій,deuterium
 Делавер,Delaware
-Джерсі,Jersey
 Джерсі,Bailiwick of Jersey
+Джерсі,Jersey
 Джорджія,Georgia
 Дублін,Dublin
 Егейське море,Aegean Sea
@@ -166,14 +164,14 @@ xімічна сполука,chemical compound
 Ефіопія,Ethiopia
 Ефіопія,Federal Democratic Republic of Ethiopia
 З Різдвом Христовим,Merry Christmas
-Земля,earth
-Земля,Earth
-Земля,the world
 Земля,Blue Planet
-Зімбабве,Zimbabwe
+Земля,Earth
+Земля,earth
+Земля,the world
 Зімбабве,Republic of Zimbabwe
-Йорданія,Jordan
+Зімбабве,Zimbabwe
 Йорданія,Hashemite Kingdom of Jordan
+Йорданія,Jordan
 Кайманові острови,Cayman Islands
 Каліфорнія,California
 Камбоджа,Cambodia
@@ -185,16 +183,18 @@ xімічна сполука,chemical compound
 Катар,Qatar
 Кенія,Kenya
 Кенія,Republic of Kenya
-Киргизстан,Kyrgyzstan
 Киргизстан,Kyrgyz Republic
+Киргизстан,Kyrgyzstan
+Князівство Ліхтенштейн,Liechtenstein
+Князівство Ліхтенштейн,Principality of Liechtenstein
 Колумбія,Colombia
 Колумбія,Republic of Colombia
 Косово,Kosovo
-Кот-д'Івуар,Ivory Coast
 Кот-д'Івуар,Cote d'Ivoire
+Кот-д'Івуар,Ivory Coast
 Кот-д'Івуар,Republic of Cote d'Ivoire
-Краків,Krakow
 Краків,Cracow
+Краків,Krakow
 Куба,Cuba
 Куба,Republic of Cuba
 Кувейт,Kuwait
@@ -203,26 +203,24 @@ xімічна сполука,chemical compound
 Кіпр,Republic of Cyprus
 Кірібаті,Kiribati
 Кірібаті,Republic of Kiribati
-Лаос,Laos
 Лаос,Lao People's Democratic Republic
+Лаос,Laos
 Латвія,Latvia
 Латвія,Republic of Latvia
-Лесото,Lesotho
 Лесото,Kingdom of Lesotho
+Лесото,Lesotho
 Литва,Lithuania
 Литва,Republic of Lithuania
 Ліберія,Liberia
 Ліберія,Republic of Liberia
-Лівія,Libya
 Лівія,Great Socialist People's Libyan Arab Jamahiriya
+Лівія,Libya
 Ліхтенштейн,Liechtenstein
 Ліхтенштейн,Principality of Liechtenstein
-Князівство Ліхтенштейн,Liechtenstein
-Князівство Ліхтенштейн,Principality of Liechtenstein
-М'янмар,Myanmar
 М'янма,Myanmar
-Мавританія,Mauritania
+М'янмар,Myanmar
 Мавританія,Islamic Republic of Mauritania
+Мавританія,Mauritania
 Мадагаскар,Madagascar
 Мадагаскар,Republic of Madagascar
 Македонія,Macedonia
@@ -233,8 +231,8 @@ xімічна сполука,chemical compound
 Малий Пес,Canis Minor
 Мальта,Malta
 Мальта,Republic of Malta
-Марокко,Morocco
 Марокко,Kingdom of Morocco
+Марокко,Morocco
 Мартініка,Martinique
 Маршалові острови,Marshall Islands
 Маршалові острови,Republic of the Marshall Islands
@@ -247,16 +245,16 @@ xімічна сполука,chemical compound
 Молдова,Moldova
 Монако,Monaco
 Москва,Moscow
-Мумбаї,Mumbai
 Мумбаї,Bombay
+Мумбаї,Mumbai
 Мілан,Milan
 Намібія,Namibia
 Непал,Nepal
 Нептун,Neptune
 Нижня Саксонія,Lower Saxony
 Нова Зеландія,New Zealand
-Норвегія,Norway
 Норвегія,Kingdom of Norway
+Норвегія,Norway
 Нью-Йорк,New York
 Нідерланди,Holland
 Нідерланди,Kingdom of the Netherlands
@@ -264,8 +262,8 @@ xімічна сполука,chemical compound
 Нікарагуа,Nicaragua
 Оклахома,Oklahoma
 Орел,Aquila
-Пакистан,Pakistan
 Пакистан,Islamic Republic of Pakistan
+Пакистан,Pakistan
 Панама,Panama
 Папуа-Нова Ґвінея,Papua New Guinea
 Перу,Peru
@@ -274,20 +272,26 @@ xімічна сполука,chemical compound
 Польща,Poland
 Португальський,Portuguese
 Португальський,Portuguese
-португальська,Portuguese
-португальська,Portuguese
 Португалія,Portugal
 Пуерто-Рико,Puerto Rico
 Південно-Африканська Республіка,South Africa
 Північна Ірландія,Northern Ireland
-Республіка Конго,Republic of the Congo
 Республіка Конго,Congo-Brazzaville
-Росія,Russia
-Росія,Russian Federation
+Республіка Конго,Republic of the Congo
 Російська Федерація,Russia
 Російська Федерація,Russian Federation
+Росія,Russia
+Росія,Russian Federation
 Румунія,Romania
 Різдво,Christmas
+США,America
+США,States
+США,U.S.
+США,U.S. of A.
+США,U.S.A.
+США,US
+США,United States
+США,United States of America
 Саксонія,Saxony
 Сальвадор,El Salvador
 Сальвадор,Republic of El Salvador
@@ -296,10 +300,10 @@ xімічна сполука,chemical compound
 Санкт-Петербург,Saint Petersburg
 Санкт-Петербург,St. Petersburg
 Сатурн,Saturn
-Саудівська Аравія,Saudi Arabia
 Саудівська Аравія,Kingdom of Saudi Arabia
-Сахалін,Sakhalin
+Саудівська Аравія,Saudi Arabia
 Сахалін,Saghalien
+Сахалін,Sakhalin
 Сена,Seine
 Сенеґал,Senegal
 Сербія,Serbia
@@ -309,30 +313,22 @@ xімічна сполука,chemical compound
 Скорпіон,Scorpio
 Словаччина,Slovakia
 Сочі,Sochi
+Сполучене Королівство Великої Британії та Північної Ірландії,UK
 Сполучене Королівство Великої Британії та Північної Ірландії,United Kingdom
 Сполучене Королівство Великої Британії та Північної Ірландії,United Kingdom of Great Britain and Northern Ireland
-Сполучене Королівство Великої Британії та Північної Ірландії,UK
+Сполучені Штати Америки,America
+Сполучені Штати Америки,States
+Сполучені Штати Америки,U.S.
+Сполучені Штати Америки,U.S. of A.
+Сполучені Штати Америки,U.S.A.
+Сполучені Штати Америки,US
 Сполучені Штати Америки,United States
 Сполучені Штати Америки,United States of America
-Сполучені Штати Америки,America
-Сполучені Штати Америки,US
-Сполучені Штати Америки,U.S.
-Сполучені Штати Америки,U.S.A.
-Сполучені Штати Америки,U.S. of A.
-Сполучені Штати Америки,States
-США,United States
-США,United States of America
-США,America
-США,US
-США,U.S.
-США,U.S.A.
-США,U.S. of A.
-США,States
 Стрілець,Sagittarius
 Судан,Sudan
 Суринам,Suriname
-Східний Тимор,East Timor
 Східний Тимор,Democratic Republic of Timor-Leste
+Східний Тимор,East Timor
 Тайвань,Taiwan
 Танзанія,Tanzania
 Таїланд,Thailand
@@ -348,12 +344,11 @@ xімічна сполука,chemical compound
 Тюрингія,Thuringia
 Уельс,Wales
 Україна,Ukraine
-Уґанда,Uganda
 Уґанда,Republic of Uganda
+Уґанда,Uganda
 Фiнляндiя,Finland
 Фiнляндiя,Republic of Finland
 Фагот,bassoon
-фагот,bassoon
 Фарерські острови,Faroe Islands
 Фобос,Phobos
 Францій,francium
@@ -370,8 +365,8 @@ xімічна сполука,chemical compound
 Чилі,Chile
 Чилі,Republic of Chile
 Чорногорія,Montenegro
-Чумацький шлях,Milky Way
 Чумацький шлях,Galaxy
+Чумацький шлях,Milky Way
 Швейцарія,Switzerland
 Шотландія,Scotland
 Шрі-Ланка,Sri Lanka
@@ -388,18 +383,15 @@ xімічна сполука,chemical compound
 адсорбція,adsorption
 азбест,asbestos
 азербайджанська,Azerbaijani
-азербайджанська,Azeri
 азербайджанська,Azerbaijani Cluster
+азербайджанська,Azeri
 азот,nitrogen
 аквамарин,aquamarine
 акваріум,aquarium
 акведук,aqueduct
 акордеон,accordion
-акордеон,squeeze box
 акордеон,piano accordion
-гармонія,accordion
-гармонія,squeeze box
-гармонія,piano accordion
+акордеон,squeeze box
 акт,act
 акт,deed
 актиній,actinium
@@ -433,10 +425,10 @@ xімічна сполука,chemical compound
 арифметика,arithmetics
 артикль,article
 архiв,archive
+архiтектор,architect
 архетипи,archetype
 архикнязь,archduke
 архітектор,architect
-архiтектор,architect
 архієпископ,archbishop
 асимптота,asymptote
 аспiрин,aspirin
@@ -446,6 +438,7 @@ xімічна сполука,chemical compound
 астрофізика,astrophysics
 асфальт,asphalt
 атол,atoll
+аукцiон,auction
 афоризм,aphorism
 африканс,Afrikaans
 банан,banana
@@ -454,12 +447,12 @@ xімічна сполука,chemical compound
 барій,barium
 баскетбол,basketball
 баскетбол,basketball game
-бджоляр,beekeeper
 бджоляр,apiculturist
+бджоляр,beekeeper
 беатифікація,beatification
 беблог,blog
-беблог,weblog
 беблог,web log
+беблог,weblog
 березень,March
 берилій,beryllium
 берилій,glucinium
@@ -533,6 +526,9 @@ xімічна сполука,chemical compound
 галiй,gallium
 галюцинацiя,hallucination
 гараж,garage
+гармонія,accordion
+гармонія,piano accordion
+гармонія,squeeze box
 гасій,hassium
 гафнiй,hafnium
 гвинт,screw
@@ -547,16 +543,16 @@ xімічна сполука,chemical compound
 героїн,heroin
 головоногі,cephalopod
 голод,famine
-голуб,pigeon
 голуб,dove
+голуб,pigeon
 голъмiй,holmium
 гонорея,gonorrhea
 гормон,hormone
 граніт,granite
 грецька,Greek
 грецька,Greek
-грип,influenza
 грип,flu
+грип,influenza
 грудень,December
 грузинська,Georgian
 грузинська,Georgian
@@ -566,6 +562,8 @@ xімічна сполука,chemical compound
 гітара,guitar
 данська,Danish
 дармштадтій,darmstadtium
+датування деревних кілець,dendrochronology
+датування деревних кілець,tree-ring dating
 двері,door
 дезоксирибонуклеїнова кислота,DNA
 дезоксирибонуклеїнова кислота,deoxyribonucleic acid
@@ -573,15 +571,18 @@ xімічна сполука,chemical compound
 демократія,democracy
 дендрохронологія,dendrochronology
 дендрохронологія,tree-ring dating
-датування деревних кілець,dendrochronology
-датування деревних кілець,tree-ring dating
 дерево,tree
+державна мова,official language
 дерматологія,dermatology
 дефляція,deflation
 джаз,jazz
 дискримінація,discrimination
 диспрозій,dysprosium
 добрий вечір,good evening
+добрий день,hello
+добрий день,hey
+добрий день,hi
+добрий день,howdy
 додавання,addition
 дорослий,adult
 дромадер,dromedary
@@ -594,9 +595,9 @@ xімічна сполука,chemical compound
 ейнштейнiй,einsteinium
 екватор,equator
 електродинаміка класична,electromagnetism
+електронна пошта,e-mail
 електронна пошта,electronic mail
 електронна пошта,email
-електронна пошта,e-mail
 ендокринологія,endocrinology
 епіграма,epigram
 епіцентр,epicentre
@@ -618,12 +619,12 @@ xімічна сполука,chemical compound
 завтра,tomorrow
 завтрак,breakfast
 залізо,iron
-запліднення,fertilisation
 запліднення,fecundation
-зеро,zero
+запліднення,fertilisation
 зеро,null
-зміна клімату,climatic change
+зеро,zero
 зміна клімату,climate change
+зміна клімату,climatic change
 зодіак,zodiac
 золото,gold
 зулуський,Zulu
@@ -634,8 +635,8 @@ xімічна сполука,chemical compound
 калій,potassium
 каліфорній,californium
 карелiянський,Karelian
-картопля,potato
 картопля,patato
+картопля,potato
 кат,executioner
 каталанська,Catalan
 каталанська,Catalan
@@ -664,17 +665,17 @@ xімічна сполука,chemical compound
 кріль,rabbit
 ксенон,xenon
 ксилофон,xylophone
-курча,chicken
 кури,chicken
+курча,chicken
 кучерява капуста,cauliflower
-кхмерський,Khmer
 кхмерський,Central Khmer
+кхмерський,Khmer
 кюрій,curium
 кілограм,kilogram
 кінь,horse
 лантан,lanthanum
-ланцюг Маркова,Markov chain
 ланцюг Маркова,Markoff chain
+ланцюг Маркова,Markov chain
 латиська,Latvian
 латиська,Latvian
 лелека,stork
@@ -691,17 +692,17 @@ xімічна сполука,chemical compound
 лід,ice
 ліжко,bed
 лімнологія,limnology
+лінгвістика,linguistics
 лінза,lens
 ліс,wood
 лісонасадження,afforestation
-лісонасадження,tree planting
 лісонасадження,afforestment
+лісонасадження,tree planting
 література,literature
 літій,lithium
 мiш'як,arsenic
 магній,magnesium
 майже,almost
-сливе,almost
 майтнерій,meitnerium
 македонський,Macedonian
 македонський,Macedonian
@@ -715,45 +716,44 @@ xімічна сполука,chemical compound
 менделєвій,mendelevium
 метанол,methanol
 метелик,butterfly
-метеор,meteor
-метеор,meteor
-метеор,meteor
-метеор,meteor
-метеор,meteor
-метеор,shooting star
+метеор,falling star
+метеор,falling star
+метеор,falling star
+метеор,falling star
 метеор,falling star
 метеор,meteor
 метеор,meteor
 метеор,meteor
 метеор,meteor
 метеор,meteor
-метеор,shooting star
-метеор,falling star
+метеор,meteor
+метеор,meteor
+метеор,meteor
+метеор,meteor
+метеор,meteor
+метеор,meteor
+метеор,meteor
+метеор,meteor
+метеор,meteor
+метеор,meteor
+метеор,meteor
+метеор,meteor
+метеор,meteor
+метеор,meteor
+метеор,meteor
 метеор,meteor
 метеор,meteor
 метеор,meteor
 метеор,meteor
 метеор,meteor
 метеор,shooting star
-метеор,falling star
-метеор,meteor
-метеор,meteor
-метеор,meteor
-метеор,meteor
-метеор,meteor
 метеор,shooting star
-метеор,falling star
-метеор,meteor
-метеор,meteor
-метеор,meteor
-метеор,meteor
-метеор,meteor
 метеор,shooting star
-метеор,falling star
+метеор,shooting star
+метеор,shooting star
 метроном,metronome
 мова жестів,sign language
 мовознавство,linguistics
-лінгвістика,linguistics
 молоко,milk
 молібден,molybdenum
 морожене,ice cream
@@ -768,11 +768,10 @@ xімічна сполука,chemical compound
 мінімізація шкоди,minimisation of damage
 мітоз,mitosis
 нiмий,dumb
-наглий,sudden
 наглий,abrupt
 наглий,precipitous
+наглий,sudden
 надія,hope
-сподівання,hope
 натрiй,sodium
 небо,heaven
 небо,sky
@@ -808,7 +807,6 @@ xімічна сполука,chemical compound
 оса,wasp
 осмiй,osmium
 офіційна мова,official language
-державна мова,official language
 офіційне слухання,official hearing
 оцет,vinegar
 паладій,palladium
@@ -816,6 +814,7 @@ xімічна сполука,chemical compound
 папа Римський,pope
 папа римський,pope
 папуга,parrot
+папіроса,cigarette
 парабола,parabola
 пахва,armpit
 пацифіст,pacifist
@@ -823,8 +822,8 @@ xімічна сполука,chemical compound
 пелюшка,nappy
 переклад,translation
 перелом,fracture
-перукар,hairdresser
 перукар,barber
+перукар,hairdresser
 пес,dog
 пиво,beer
 пилок,pollen
@@ -841,6 +840,8 @@ xімічна сполука,chemical compound
 полімер,polymer
 помпа,pump
 порада,advice
+португальська,Portuguese
+португальська,Portuguese
 посол,ambassador
 похорон,funeral
 початкова освіта,initial training
@@ -853,29 +854,25 @@ xімічна сполука,chemical compound
 привіт,hey
 привіт,hi
 привіт,howdy
-добрий день,hello
-добрий день,hey
-добрий день,hi
-добрий день,howdy
 прикметник,adjective
 прикметник,describing word
-пристосовувати,arrange
-пристосовувати,adapt
-пристосовувати,adjust
-пристосовувати,conform
-пристосовувати,accommodate
-пристосовувати,suit
-припасовувати,arrange
+припасовувати,accommodate
 припасовувати,adapt
 припасовувати,adjust
+припасовувати,arrange
 припасовувати,conform
-припасовувати,accommodate
 припасовувати,suit
+пристосовувати,accommodate
+пристосовувати,adapt
+пристосовувати,adjust
+пристосовувати,arrange
+пристосовувати,conform
+пристосовувати,suit
 приходити,come
 промежина,perineum
 прометій,promethium
-просте число,prime number
 просте число,prime
+просте число,prime number
 протактиній,protactinium
 пупок,belly button
 пупок,bellybutton
@@ -884,25 +881,25 @@ xімічна сполука,chemical compound
 пупок,omphalus
 пупок,umbilicus
 півострів,peninsula
-піннія,pino
 піннія,pine
+піннія,pino
 піца,pizza
 рiчниця,anniversary
-рабин,rabbi
 раббі,rabbi
-ребе,rabbi
+рабин,rabbi
 радон,radon
 радій,radium
 разом,together
 реальність,reality
+ребе,rabbi
 резерфордiй,rutherfordium
 реній,rhenium
-рис,rice
 рис,lynx
+рис,rice
 родiй,rhodium
 розгляд,consideration
-ромб,rhombus
 ромб,rhomb
+ромб,rhombus
 російська,Russian
 російська,Russian
 ртуть,mercury
@@ -918,13 +915,12 @@ xімічна сполука,chemical compound
 світова війна,world war
 секстант,sextant
 селен,selenium
-семіотика,semiotics
 семіотика,semiology
+семіотика,semiotics
 середземноморський регіон,Mediterranean Area
 серпень,August
 серце,heart
 сигарета,cigarette
-папіроса,cigarette
 симфонія,symphony
 синагога,synagogue
 синтаксис,syntax
@@ -932,6 +928,7 @@ xімічна сполука,chemical compound
 сифіліс,syphilis
 скандiй,scandium
 скорочення,abbreviation
+сливе,almost
 словацька,Slovak
 словацька,Slovak
 словенська,Slovene
@@ -943,14 +940,15 @@ xімічна сполука,chemical compound
 спаржа,asparagus
 спис,pike
 спис,spear
+сподівання,hope
 спрага,thirst
 срібло,silver
-стать,sex
 стать,gender
+стать,sex
 страус,ostrich
 стронцій,strontium
-суглоб,joint
 суглоб,articulation
+суглоб,joint
 супермаркет,supermarket
 сурма,antimony
 сфінкс,sphinx
@@ -963,8 +961,8 @@ xімічна сполука,chemical compound
 таджицька,Tajik
 тайська,Thai
 тайська,Thai
-талій,thallium
 талiй,thallium
+талій,thallium
 тамільська,Tamil
 тамільська,Tamil
 тантал,tantalum
@@ -983,6 +981,7 @@ xімічна сполука,chemical compound
 технецiй,technetium
 тигр,tiger
 тисяча,thousand
+титан,titanium
 торпеда,torpedo
 торій,thorium
 травень,May
@@ -1006,9 +1005,10 @@ xімічна сполука,chemical compound
 унунуній,roentgenium
 уран,uranium
 устриця,oyster
+фагот,bassoon
 фазан,pheasant
-фарерський,Faroese
 фарерський,Faeroese
+фарерський,Faroese
 фармакологія,pharmacology
 фашизм,fascism
 фермій,fermium
@@ -1031,9 +1031,6 @@ xімічна сполука,chemical compound
 хлороз,chlorosis
 хмара,cloud
 ходити,go
-іти,go
-їздити,go
-їхати,go
 холестерин,cholesterol
 хорватський,Croatian
 хорватський,Croation
@@ -1055,12 +1052,12 @@ xімічна сполука,chemical compound
 чеченська,Chechen
 човен,boat
 чотирикутник,quadrilateral
+чуваська,Chavash
+чуваська,Chovash
+чуваська,Chttash
 чуваська,Chuvash
 чуваська,Chuvash
 чуваська,Chuwash
-чуваська,Chovash
-чуваська,Chavash
-чуваська,Chttash
 шакал,jackal
 шампанське,champagne
 шахи,chess
@@ -1068,11 +1065,10 @@ xімічна сполука,chemical compound
 швидка,ambulance
 шовк,silk
 шоколад,chocolate
-штучна мова,constructed language
 штучна мова,artificial language
+штучна мова,constructed language
 щоденник,diary
 юдаїзм,Judaism
-іудаїзм,Judaism
 яблуко,apple
 якір,anchor
 японська,Japanese
@@ -1091,21 +1087,26 @@ xімічна сполука,chemical compound
 інтерлінгва,Interlingua
 інтерлінгва,"Interlingua, ""Simplified"" Latin"
 інтерлінгва,"Interlingua, ""Simplified"" Latin"
+інфляція,inflation
 ісландська,Icelandic
 італійський,Italian
 італійський,Italian
 ітербій,ytterbium
+іти,go
 ітрій,yttrium
+іудаїзм,Judaism
 їжак,hedgehog
+їздити,go
 їстівний,edible
+їхати,go
 Ґабон,Gabon
 Ґабон,Gabonese Republic
 Ґамбія,Gambia
 Ґамбія,Gambia
 Ґамбія,Gambia
 Ґамбія,Gambia
-Ґамбія,The Gambia
 Ґамбія,Republic of The Gambia
+Ґамбія,The Gambia
 Ґренландія,Greenland
 Ґібралтар,Gibraltar
 ґуджаратська,Gujarati
@@ -1113,4 +1114,3 @@ xімічна сполука,chemical compound
 ґільйотина,guillotine
 ґільйотина,guillotine
 ґільйотина,guillotine
-ukrainian,english

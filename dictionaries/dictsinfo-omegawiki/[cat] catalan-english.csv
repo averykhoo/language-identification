@@ -62,8 +62,8 @@ Afganistan,Afghanistan
 Afganistan,Transitional Islamic State of Afghanistan
 Albània,Albania
 Albània,Republic of Albania
-Alemanya,Germany
 Alemanya,Federal Republic of Germany
+Alemanya,Germany
 Algèria,Algeria
 Algèria,People's Democratic Republic of Algeria
 Alps,Alps
@@ -81,22 +81,22 @@ Argentina,Argentina
 Argentina,Argentine Republic
 Arizona,Arizona
 Aruba,Aruba
-Aràbia Saudita,Saudi Arabia
 Aràbia Saudita,Kingdom of Saudi Arabia
+Aràbia Saudita,Saudi Arabia
 Asteràcia,Asteraceae
-Asteràcia,sunflower family
 Asteràcia,Compositae
-Asteràcia,daisy family
 Asteràcia,aster family
+Asteràcia,daisy family
+Asteràcia,sunflower family
 Au del Paradís,Apus
 Austràlia,Australia
 Austràlia,Commonwealth of Australia
 Azerbaidjan,Azerbaijan
 Azerbaidjan,Republic of Azerbaijan
 Açores,Azores
+Bahames,Bahama Islands
 Bahames,Bahamas
 Bahames,Commonwealth of the Bahamas
-Bahames,Bahama Islands
 Bahrain,Bahrain
 Baixa Saxònia,Lower Saxony
 Bangla Desh,Bangladesh
@@ -114,7 +114,6 @@ Bielorússia,Belarus
 Bielorússia,Republic of Belarus
 Birmingham,Birmingham
 Bon Nadal,Merry Christmas
-Feliç Nadal,Merry Christmas
 Borgonya,Bourgogne
 Borneo,Borneo
 Borneo,Kalimantan
@@ -142,32 +141,33 @@ Camerun,Cameroon
 Camerun,Republic of Cameroon
 Canadà,Canada
 Capricorn,Capricorn
-Carib,Caribbean Area
 Carib,Caribbean
+Carib,Caribbean Area
 Cassiopea,Cassiopeia
 Charente,Charente
-Ciutat del Vaticà,Vatican City
-Ciutat del Vaticà,The Holy See
 Ciutat del Vaticà,State of the Vatican City
+Ciutat del Vaticà,The Holy See
+Ciutat del Vaticà,Vatican City
 Colòmbia,Colombia
 Colòmbia,Republic of Colombia
 Colònia,Cologne
-Corea del Nord,North Korea
 Corea del Nord,Democratic People's Republic of Korea
-Corea del sud,South Korea
+Corea del Nord,North Korea
 Corea del sud,Republic of Korea
+Corea del sud,South Korea
 Corfú,Corfu
-Costa d'Ivori,Ivory Coast
 Costa d'Ivori,Cote d'Ivoire
+Costa d'Ivori,Ivory Coast
 Costa d'Ivori,Republic of Cote d'Ivoire
-Cracòvia,Krakow
 Cracòvia,Cracow
+Cracòvia,Krakow
 Cranc,Cancer
 Cuba,Cuba
 Cuba,Republic of Cuba
+Daguestan,Dagestan
 Dakar,Dakar
-Egipte,Egypt
 Egipte,Arab Republic of Egypt
+Egipte,Egypt
 El Caire,Cairo
 El Salvador,El Salvador
 El Salvador,Republic of El Salvador
@@ -177,18 +177,19 @@ Escòcia,Scotland
 Eslovàquia,Slovakia
 Eslovènia,Slovenia
 Espanya,Spain
+Estats Units d'Amèrica,America
+Estats Units d'Amèrica,States
+Estats Units d'Amèrica,U.S.
+Estats Units d'Amèrica,U.S. of A.
+Estats Units d'Amèrica,U.S.A.
+Estats Units d'Amèrica,US
 Estats Units d'Amèrica,United States
 Estats Units d'Amèrica,United States of America
-Estats Units d'Amèrica,America
-Estats Units d'Amèrica,US
-Estats Units d'Amèrica,U.S.
-Estats Units d'Amèrica,U.S.A.
-Estats Units d'Amèrica,U.S. of A.
-Estats Units d'Amèrica,States
 Estònia,Estonia
 Estònia,Republic of Estonia
 Etiòpia,Ethiopia
 Etiòpia,Federal Democratic Republic of Ethiopia
+Feliç Nadal,Merry Christmas
 Fiji,Fiji
 Fiji,Republic of the Fiji Islands
 Filadèlfia,Philadelphia
@@ -198,7 +199,6 @@ Finlàndia,Republic of Finland
 Flandes,Flanders
 Flandes,Flemish region
 Flauta,flute
-flauta,flute
 Flevoland,Flevoland
 Fobos,Phobos
 Franja de Gaza,Gaza Strip
@@ -210,8 +210,8 @@ Geòrgia,Georgia
 Ghana,Ghana
 Ghana,Republic of Ghana
 Gibraltar,Gibraltar
-Gran Bretanya,Great Britain
 Gran Bretanya,Britain
+Gran Bretanya,Great Britain
 Grenada,Grenada
 Grècia,Greece
 Grècia,Hellenic Republic
@@ -226,30 +226,22 @@ Gàmbia,Gambia
 Gàmbia,Gambia
 Gàmbia,Gambia
 Gàmbia,Gambia
-Gàmbia,The Gambia
 Gàmbia,Republic of The Gambia
+Gàmbia,The Gambia
 Haití,Haiti
 Haití,Republic of Haiti
 Holanda,Holland
 Holanda,Kingdom of the Netherlands
 Holanda,The Netherlands
-Països Baixos,Holland
-Països Baixos,Kingdom of the Netherlands
-Països Baixos,The Netherlands
-Regne dels Països Baixos,Holland
-Regne dels Països Baixos,Kingdom of the Netherlands
-Regne dels Països Baixos,The Netherlands
 Hondures,Honduras
 Hondures,Republic of Honduras
 Hongria,Hungary
 Hongria,Republic of Hungary
-Hèrcules,Hercules
-Hèrcules,Hercules
 Hèracles,Hercules
+Hèrcules,Hercules
+Hèrcules,Hercules
 Ido,Ido
 Ido,Ido
-ido,Ido
-ido,Ido
 Illa Christmas,Christmas Island
 Illes Balears,Balearic Islands
 Illes Caiman,Cayman Islands
@@ -259,7 +251,6 @@ Illes Marshall,Republic of the Marshall Islands
 Illes Åland,Åland Islands
 Ilíada,Iliad
 Indonesiera,Indonesian
-indonesiera,Indonesian
 Indonèsia,Indonesia
 Indonèsia,Republic of Indonesia
 Indre,Indre
@@ -277,33 +268,33 @@ Israel,State of Israel
 Itàlia,Italian Republic
 Itàlia,Italy
 Iugoslàvia,Yugoslavia
-Jakarta,Jakarta
-Jakarta,Djakarta
 Jakarta,DKI Jakarta
+Jakarta,Djakarta
+Jakarta,Jakarta
 Jamaica,Jamaica
-Jersey,Jersey
 Jersey,Bailiwick of Jersey
-Jordània,Jordan
+Jersey,Jersey
 Jordània,Hashemite Kingdom of Jordan
+Jordània,Jordan
 Júpiter,Jupiter
 Kazakhstan,Kazakhstan
 Kazakhstan,Republic of Kazakhstan
 Kenya,Kenya
 Kenya,Republic of Kenya
 Khartum,Khartoum
-Kirguizistan,Kyrgyzstan
 Kirguizistan,Kyrgyz Republic
+Kirguizistan,Kyrgyzstan
 Kiribati,Kiribati
 Kiribati,Republic of Kiribati
-Kosovo i Metohija,Kosovo
 Kosovo,Kosovo
+Kosovo i Metohija,Kosovo
 La Meca,Mecca
 Lagos,Lagos
-Laos,Laos
 Laos,Lao People's Democratic Republic
+Laos,Laos
 Lausana,Lausanne
-Lesotho,Lesotho
 Lesotho,Kingdom of Lesotho
+Lesotho,Lesotho
 Letònia,Latvia
 Letònia,Republic of Latvia
 Libèria,Liberia
@@ -315,11 +306,11 @@ Lió,Lyon
 Llebrers,Canes Venatici
 Lleó,Leo
 Lliura,Libra
-Lluna,moon
 Lluna,Luna
 Lluna,Moon
-Líbia,Libya
+Lluna,moon
 Líbia,Great Socialist People's Libyan Arab Jamahiriya
+Líbia,Libya
 Macedònia,Macedonia
 Macedònia,Republic of Macedonia
 Maldives,Maldives
@@ -330,12 +321,12 @@ Malàisia,Malaysia
 Man,Isle of Man
 Man,Isle of Mann
 Man,Mann
-Marroc,Morocco
 Marroc,Kingdom of Morocco
+Marroc,Morocco
 Martinica,Martinique
 Massachusetts,Massachusetts
-Mauritània,Mauritania
 Mauritània,Islamic Republic of Mauritania
+Mauritània,Mauritania
 Mayotte,Mayotte
 Mercuri,Mercury
 Milà,Milan
@@ -350,18 +341,26 @@ Nadal,Christmas
 Nairobi,Nairobi
 Namíbia,Namibia
 Nepal,Nepal
+Neptú,Neptune
 Nicaragua,Nicaragua
 Niue,Niue
-Noruega,Norway
 Noruega,Kingdom of Norway
+Noruega,Norway
 Nova Caledònia,New Caledonia
 Nova Zelanda,New Zealand
 Orleans,Orleans
-Pakistan,Pakistan
+PDG,POW
+PDG,PW
+PDG,PoW
+PDG,prisoner of war
 Pakistan,Islamic Republic of Pakistan
+Pakistan,Pakistan
 Panamà,Panama
 Papua Nova Guinea,Papua New Guinea
 Pasqua,Easter
+Països Baixos,Holland
+Països Baixos,Kingdom of the Netherlands
+Països Baixos,The Netherlands
 Perú,Peru
 Perú,Republic of Peru
 Pirineus,Pyrenees
@@ -370,12 +369,15 @@ Polònia,Poland
 Portugal,Portugal
 Puerto Rico,Puerto Rico
 Qatar,Qatar
+Regne Unit,UK
 Regne Unit,United Kingdom
 Regne Unit,United Kingdom of Great Britain and Northern Ireland
-Regne Unit,UK
+Regne Unit de la Gran Bretanya i Irlanda del Nord,UK
 Regne Unit de la Gran Bretanya i Irlanda del Nord,United Kingdom
 Regne Unit de la Gran Bretanya i Irlanda del Nord,United Kingdom of Great Britain and Northern Ireland
-Regne Unit de la Gran Bretanya i Irlanda del Nord,UK
+Regne dels Països Baixos,Holland
+Regne dels Països Baixos,Kingdom of the Netherlands
+Regne dels Països Baixos,The Netherlands
 Rei Sol,Sun King
 República Dominicana,Dominican Republic
 Roine,Rhône
@@ -384,8 +386,8 @@ Rússia,Russia
 Rússia,Russian Federation
 Sagitari,Sagittarius
 Saint-Pierre i Miquelon,Saint-Pierre and Miquelon
-Sakhalín,Sakhalin
 Sakhalín,Saghalien
+Sakhalín,Sakhalin
 Samoa Nord-americana,American Samoa
 Sant Petersburg,Leningrad
 Sant Petersburg,Petrograd
@@ -410,18 +412,18 @@ Taiwan,Taiwan
 Tanzània,Tanzania
 Taure,Taurus
 Tennessee,Tennessee
-Terra,earth
-Terra,Earth
-Terra,the world
 Terra,Blue Planet
+Terra,Earth
+Terra,earth
+Terra,the world
 Terres Australs i Antàrtiques Franceses,French Southern Territories
-Terres Australs i Antàrtiques Franceses,French Southern and Antarctic LandsA
 Terres Australs i Antàrtiques Franceses,French Southern and Antarctic Lands
+Terres Australs i Antàrtiques Franceses,French Southern and Antarctic LandsA
 Terres Australs i Antàrtiques Franceses,Territory of the French Southern and Antarctic Lands
-Territori Britànic de l'Oceà Índic,British Indian Ocean Territory
 Territori Britànic de l'Oceà Índic,BIOT
-Timor Oriental,East Timor
+Territori Britànic de l'Oceà Índic,British Indian Ocean Territory
 Timor Oriental,Democratic Republic of Timor-Leste
+Timor Oriental,East Timor
 Togo,Togo
 Tonga,Tonga
 Toronto,Toronto
@@ -429,8 +431,8 @@ Turquia,Turkey
 Turíngia,Thuringia
 Txèquia,Czech Republic
 Txèquia,Czechia
-Uganda,Uganda
 Uganda,Republic of Uganda
+Uganda,Uganda
 Unió Europea,EU
 Unió Europea,European Union
 Urà,Uranus
@@ -439,32 +441,31 @@ Vaduz,Vaduz
 Veneçuela,Venezuela
 Venus,Venus
 Venècia,Venice
-Via Làctia,Milky Way
 Via Làctia,Galaxy
+Via Làctia,Milky Way
 Viccionari,Wiktionary
 View lemma information,turkey
-gall dindi,turkey
 Viquipèdia,Wikipedia
 Volga,Volga
-Wallis i Futuna,Wallis and Futuna
 Wallis i Futuna,Territory of the Wallis and Futuna Islands
+Wallis i Futuna,Wallis and Futuna
 Wyoming,Wyoming
 Xile,Chile
 Xile,Republic of Chile
-Xina,People's Republic of China
 Xina,China
+Xina,People's Republic of China
 Xipre,Cyprus
 Xipre,Republic of Cyprus
 Zanzíbar,Zanzibar
-Zimbabwe,Zimbabwe
 Zimbabwe,Republic of Zimbabwe
-Zàmbia,Zambia
+Zimbabwe,Zimbabwe
 Zàmbia,Republic of Zambia
+Zàmbia,Zambia
 abella,bee
 abolicionista,abolitionist
 abrasiu,abrasive
-abreviatura,abbreviation
 abreviació,abbreviation
+abreviatura,abbreviation
 abril,April
 absolutament,absolutely
 acceptació,acceptance
@@ -473,24 +474,22 @@ acne,acne
 acompte,advance
 acord,agreement
 acord,agreement
-concordança,agreement
 acordió,accordion
-acordió,squeeze box
 acordió,piano accordion
+acordió,squeeze box
 acte,act
 acte,deed
 actini,actinium
 activista,activist
-acusat,defendant
 acusat,accused
-adaptar,arrange
+acusat,defendant
+adaptar,accommodate
 adaptar,adapt
 adaptar,adjust
+adaptar,arrange
 adaptar,conform
-adaptar,accommodate
 adaptar,suit
 addició,addition
-suma,addition
 adjectiu,adjective
 adjectiu,describing word
 adquisició,acquisition
@@ -512,9 +511,9 @@ agorafòbia,agoraphobia
 agorafòbia,agoraphobia
 agost,August
 agró,heron
-aigua,water
-aigua,water
 aigua,body of water
+aigua,water
+aigua,water
 aire,air
 albercoc,apricot
 alcoholisme,alcoholism
@@ -561,13 +560,11 @@ anís,anise
 apartheid,apartheid
 apatia,apathy
 api,celery
-apicultor,beekeeper
 apicultor,apiculturist
+apicultor,beekeeper
 aprendre,learn
-aprovació,approval
 aprovació,approbation
-vist i plau,approval
-vist i plau,approbation
+aprovació,approval
 apòstol,apostle
 aquari,aquarium
 aqüeducte,aqueduct
@@ -577,6 +574,7 @@ aragonès,Aragonese
 aranya,spider
 arbre de Nadal,Christmas tree
 arc,bow
+argent,silver
 argó,argon
 aritmètica,arithmetic
 aritmètica,arithmetics
@@ -585,24 +583,24 @@ armeni,Armenian
 arpó,harpoon
 arquebisbe,archbishop
 arquetip,archetype
-arqueòleg,archeologist
 arqueòleg,archaeologist
+arqueòleg,archeologist
 arquitecte,architect
 arquitectura,architecture
 arranjar,adjust
 arribada,arrival
 arròs,rice
 arsènic,arsenic
-articulació,joint
 articulació,articulation
+articulació,joint
 artista,artist
 artista,creative person
 artèria,artery
 arxiduc,archduke
 arxiu,archive
 asbest,asbestos
-ase,donkey
 ase,ass
+ase,donkey
 asfalt,asphalt
 asimètric,asymmetric
 asimètric,asymmetrical
@@ -614,35 +612,38 @@ astrometria,astrometry
 astronomia,astronomy
 astròleg,astrologer
 astrònom,astronomer
+asturià,Astur
 asturià,Astur-Leonese
 asturià,Asturian
 asturià,Asturian-Leonese
-asturià,Astur
 asíntota,asymptote
 atac,attack
 ateu,atheist
 atol,atoll
 avi,grandfather
 avorrir,abhor
-avorrir,loathe
 avorrir,detest
+avorrir,loathe
 axioma,axiom
 babuí,baboon
 banana,banana
-plàtan,banana
 barca,boat
 bari,barium
 baròmetre,barometer
 basc,Basque
 basc,Basque
+basquetbol,basketball
+basquetbol,basketball game
 bateria,drum kit
 beatificació,beatification
 beguda,beverage
 beguda,drink
+beguda de xampanya,champagne
 beisbol,baseball
 beisbol,baseball game
 bengalí,Bengali
 bengalí,Bengali
+benzina,petrol
 benzè,benzene
 beril·li,beryllium
 beril·li,glucinium
@@ -657,16 +658,16 @@ bibliotecari,librarian
 bicicleta,bicycle
 bicicleta,bike
 bicicleta,cycle
-bielorús,Belarusan
-bielorús,Belarusan
-bielorús,Belarusian
-bielorús,Belorussian
-bielorús,Byelorussian
 bielorrús,Belarusan
 bielorrús,Belarusan
 bielorrús,Belarusian
 bielorrús,Belorussian
 bielorrús,Byelorussian
+bielorús,Belarusan
+bielorús,Belarusan
+bielorús,Belarusian
+bielorús,Belorussian
+bielorús,Byelorussian
 bilateral,bilateral
 bilis,bile
 bioma,biome
@@ -677,17 +678,14 @@ blanc,white
 blat,wheat
 blau,blue
 bloc,blog
-bloc,weblog
 bloc,web log
+bloc,weblog
 bohri,bohrium
 boira,fog
+boira,haze
 boira,mist
 boirim,mist
 boirina,mist
-broma,mist
-bromitja,mist
-boira,haze
-calitja,haze
 boirum,smog
 bokmål,Bokmål
 bolquer,nappy
@@ -697,31 +695,31 @@ bona tarda,good evening
 bonsai,bonsai
 bor,boron
 borinot,bumblebee
+borratxo,boozer
 borratxo,drunk
 borratxo,drunkard
-borratxo,boozer
 bosc,wood
 botxí,executioner
 branca,branch
+brau,bull
 braç,arm
 bretó,Breton
 bretó,Breton
 brom,bromine
+broma,mist
+bromitja,mist
 bruixa,witch
 bròquil,broccoli
 buit,empty
 bàdminton,badminton
 bàsquet,basketball
 bàsquet,basketball game
-basquetbol,basketball
-basquetbol,basketball game
 búlgar,Bulgarian
 búlgar,Bulgarian
 búlgar,Bulgarian
-cadena de Màrkov,Markov chain
 cadena de Màrkov,Markoff chain
+cadena de Màrkov,Markov chain
 cadira,chair
-seient,chair
 cadira de rodes,wheelchair
 cadmi,cadmium
 cafeïna,caffeine
@@ -729,16 +727,17 @@ cafè,coffee
 calci,calcium
 calendari,calendar
 californi,californium
+calitja,haze
 cama,leg
 camell,camel
+camp,acre
 camp,field
 camp,land
 camp,land
-camp,acre
 camp,patch
 camuflatge,camouflage
-canvi climàtic,climatic change
 canvi climàtic,climate change
+canvi climàtic,climatic change
 capítol,chapter
 cara,face
 carboni,carbon
@@ -748,6 +747,7 @@ carrera,career
 carter,postman
 carxofera,artichoke
 castor,beaver
+catalan,english
 català,Catalan
 català,Catalan
 ceba,onion
@@ -767,23 +767,24 @@ clítoris,button
 clítoris,clit
 clítoris,clitoris
 cobalt,cobalt
-coco,kokosnoot
 coco,coconut
+coco,kokosnoot
 cogombre,cucumber
 colesterol,cholesterol
-colom,pigeon
 colom,dove
+colom,pigeon
 colze,elbow
 comestible,edible
 cometa,comet
-compassió,pity
 compassió,compassion
-compost químic,compound
+compassió,pity
 compost químic,chemical compound
+compost químic,compound
 comprar,buy
 comprar,purchase
 compte,account
 comunisme,communism
+concordança,agreement
 conductivitat elèctrica,conductivity
 conductivitat elèctrica,electrical conductivity
 conill,rabbit
@@ -801,7 +802,6 @@ crani,skull
 creativitat,creativity
 creativitat,inventiveness
 creure,obey
-obeir,obey
 crim,crime
 criptó,krypton
 cristall,crystal
@@ -814,7 +814,6 @@ càmera fotogràfica,camera
 cèl·lula,cell
 cèl·lula,cell
 daguestan,Dagestan
-Daguestan,Dagestan
 dansa,dance
 danys,damage
 danès,Danish
@@ -844,21 +843,21 @@ diccionari,dictionary
 dijous,Thursday
 dilluns,Monday
 dilluns,Monday
-diumenge,Monday
 dimarts,Tuesday
 dimarts,Tuesday
 dimecres,Wednesday
 dimecres,quarta-feira
 diplomàtic,diplomat
-disc dur,hard disk drive
-disc dur,hard disk
 disc dur,HD
+disc dur,hard disk
+disc dur,hard disk drive
 discriminació,discrimination
 disprosi,dysprosium
 disputa,argument
 dissabte,Saturday
 dit,finger
 dit del peu,toe
+diumenge,Monday
 diumenge,Sunday
 divendres,Friday
 divisió,division
@@ -912,6 +911,7 @@ espelma,candle
 esperanto,Esperanto
 esperanto,Esperanto
 esperança,hope
+espinac,spinach
 espàrrec,asparagus
 espècie,species
 esquelet,skeleton
@@ -919,8 +919,8 @@ estany,tin
 estel,star
 estiu,summer
 estonià,Estonian
-estrany,strange
 estrany,odd
+estrany,strange
 estrella binària,binary star
 estronci,strontium
 estruç,ostrich
@@ -928,9 +928,9 @@ euga,mare
 europi,europium
 excepció,exception
 explícit,explicit
-factible,viable
-factible,viable
 factible,feasible
+factible,viable
+factible,viable
 faisà,pheasant
 fallida,bankruptcy
 família,family
@@ -940,8 +940,8 @@ farmàcia,chemist's
 farmàcia,chemist's shop
 farmàcia,pharmacy
 febrer,February
-fecundació,fertilisation
 fecundació,fecundation
+fecundació,fertilisation
 feixisme,fascism
 fer,do
 fermi,fermium
@@ -953,6 +953,7 @@ filosofia,philosophy
 finès,Finnish
 fisiologia,physiology
 flamenc,Flemish
+flauta,flute
 flauta dolça,recorder
 fluor,fluorine
 foc artificial,firework
@@ -960,6 +961,8 @@ fonètica,phonetics
 formatge,cheese
 formiga,ant
 forner,baker
+fosc,black
+fosc,dark
 fotó,photon
 fractura,fracture
 franci,francium
@@ -970,9 +973,9 @@ frau,fraud
 frisó,Frisian
 frisó,Western Frisian
 frontera,boundary
-fullatge,foliage
-fullatge,foliage
 fullam,foliage
+fullatge,foliage
+fullatge,foliage
 fusta,wood
 futbol,football
 futbol americà,American football
@@ -981,9 +984,9 @@ fòbia,phobia
 fòsfor,phosphorus
 gadolini,gadolinium
 gairebé,almost
-quasi,almost
 gaita,bagpipes
 galeria,tunnel
+gall dindi,turkey
 gallec,Galician
 gallec,Galician
 gal·li,gallium
@@ -1000,7 +1003,6 @@ gangrena,gangrene
 ganivet,knife
 garatge,garage
 gasolina,petrol
-benzina,petrol
 gavina,gull
 gaŀlès,Welsh
 gaŀlès,Welsh
@@ -1029,8 +1031,8 @@ granja,farm
 gravitó,graviton
 grec,Greek
 grec,Greek
-grip,influenza
 grip,flu
+grip,influenza
 gràcies,cheers
 gràcies,thank you
 gràcies,thanks
@@ -1056,20 +1058,20 @@ hegemonia,hegemony
 heli,helium
 helicòpter,helicopter
 hematologia,haematology
-hemorràgia,haemorrhage
 hemorràgia,bleeding
+hemorràgia,haemorrhage
 heroïna,heroin
 hidrogen,hydrogen
 hindi,Hindi
 hindi,Hindi
 hiperònim,broader term
 hiperònim,broader terms
-hiperònim,hypernym
 hiperònim,holonym
+hiperònim,hypernym
 hipòfisi,pituitary gland
 hipònim,hyponym
-hipònim,narrower terms
 hipònim,narrower term
+hipònim,narrower terms
 hipòtesi de Sapir-Whorf,Sapir–Whorf hypothesis
 historiografia,historiography
 hivern,winter
@@ -1077,6 +1079,7 @@ hola,hello
 hola,hey
 hola,hi
 hola,howdy
+holandès,Dutch
 holmi,holmium
 homonímia,homonym
 hongarès,Hungarian
@@ -1091,10 +1094,14 @@ i,together with
 i,too
 iac,yak
 ideologia,ideology
-illes Malvines,Falkland Islands
+idioma oficial,official language
+ido,Ido
+ido,Ido
 illes Falkland,Falkland Islands
+illes Malvines,Falkland Islands
 indi,indium
 individu,individual
+indonesiera,Indonesian
 instrument musical,instrument
 instrument musical,musical instrument
 interlingua,Interlingua
@@ -1106,8 +1113,8 @@ iot,yacht
 iridi,iridium
 irlandès,Irish
 irlandès,Irish
-irlandès,Irish Gaelic
 irlandès,Irish
+irlandès,Irish Gaelic
 islam,Islam
 islandès,Icelandic
 italià,Italian
@@ -1122,8 +1129,8 @@ jardí,garden
 javelina,pike
 javelina,spear
 jazz,jazz
-jemer,Khmer
 jemer,Central Khmer
+jemer,Khmer
 jerarquia,hierarchy
 jiddisch,Yiddish
 jo,I
@@ -1135,11 +1142,11 @@ kalaallisut,Kalaallisut
 karate,karate
 lantani,lanthanum
 laurenci,lawrencium
-lavanda,lavender
 lavanda,lavander
+lavanda,lavender
+letargia,languor
 letargia,lethargy
 letargia,sluggishness
-letargia,languor
 letó,Latvian
 letó,Latvian
 liberalisme,liberalism
@@ -1155,30 +1162,23 @@ llatí,Latin
 llavi,lip
 llegir,read
 llegum,vegetable
-llengua de signes,sign language
-llenguatge de signes,sign language
-llengua oficial,official language
-idioma oficial,official language
-llenguatge,language
 llengua,language
+llengua de signes,sign language
+llengua oficial,official language
+llenguatge,language
+llenguatge de signes,sign language
 llenyataire,lumberjack
 llet,milk
 llimona,lemon
 llit,bed
-lloc,place
 lloc,location
+lloc,place
 llombrígol,belly button
 llombrígol,bellybutton
 llombrígol,navel
 llombrígol,omphalos
 llombrígol,omphalus
 llombrígol,umbilicus
-melic,belly button
-melic,bellybutton
-melic,navel
-melic,omphalos
-melic,omphalus
-melic,umbilicus
 llop,wolf
 lluna,moon
 lluna,moon
@@ -1193,35 +1193,40 @@ macedònic,Macedonian
 macedònic,Macedonian
 macroscòpic,macroscopic
 maduixa,strawberry
-mag,wizard
-mag,sorcerer
 mag,magician
+mag,sorcerer
+mag,wizard
 magnesi,magnesium
 maig,May
 maionesa,mayonnaise
+malaltia,affliction
 malaltia,disease
 malaltia,illness
-malaltia,affliction
 maltès,Maltese
 malària,malaria
-paludisme,malaria
 manganès,manganese
 maori,Maori
-mar Adriàtica,Adriatic Sea
 mar Adriàtic,Adriatic Sea
+mar Adriàtica,Adriatic Sea
 mar Carib,Caribbean Sea
-mar de les Antilles,Caribbean Sea
 mar Egea,Aegean Sea
 mar Egeu,Aegean Sea
+mar de les Antilles,Caribbean Sea
 marsupial,marsupial
 març,March
 massa,mass
 massa atòmica,atomic mass
-maternitat,motherhood
 maternitat,maternity
+maternitat,motherhood
 megabyte,megabyte
 meitneri,meitnerium
 mel,honey
+melic,belly button
+melic,bellybutton
+melic,navel
+melic,omphalos
+melic,omphalus
+melic,umbilicus
 melodia,melody
 melodia,tune
 melsa,spleen
@@ -1230,41 +1235,41 @@ menjar,eat
 mercuri,mercury
 metafísica,metaphysics
 metanol,methanol
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,shooting star
+meteor,falling star
+meteor,falling star
+meteor,falling star
+meteor,falling star
 meteor,falling star
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
-meteor,shooting star
-meteor,falling star
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
+meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,meteor
 meteor,shooting star
-meteor,falling star
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
 meteor,shooting star
-meteor,falling star
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
-meteor,meteor
 meteor,shooting star
-meteor,falling star
+meteor,shooting star
+meteor,shooting star
 meteorit,meteorite
 metàfora,metaphor
 micròfon,microphone
@@ -1272,16 +1277,16 @@ mil,thousand
 milana,red kite
 mill,millet
 mineralogia,mineralogy
-mirtil,huckleberry
 mirtil,blueberry
+mirtil,huckleberry
 mocador,handkerchief
 molibdè,molybdenum
 moneda,currency
-unitat monetària,currency
 morfina,morphine
 morsa,walrus
-mosquit,musquito
 mosquit,mosquito
+mosquit,musquito
+mot,word
 motet,motet
 mul,mule
 museu,museum
@@ -1301,13 +1306,11 @@ napolità,Neapolitan
 nas,nose
 nau,ship
 neerlandès,Dutch
-holandès,Dutch
 negoci,business
 neodimi,neodymium
 neologisme,neologism
 neptuni,neptunium
 neptú,Neptune
-Neptú,Neptune
 neurologia,neurology
 neó,neon
 niobi,niobium
@@ -1315,9 +1318,8 @@ nitrogen,nitrogen
 no,no
 nobeli,nobelium
 noia,girl
-xiqueta,girl
-nombre primer,prime number
 nombre primer,prime
+nombre primer,prime number
 nosaltres,nosotros
 nosaltres,we
 nota,note
@@ -1328,11 +1330,10 @@ nynorsk,Nynorsk
 nét,grandson
 níquel,nickel
 núvol,cloud
+obeir,obey
 obesitat,obesity
 obscur,black
 obscur,dark
-fosc,black
-fosc,dark
 observatori,observatory
 obsolet,obsolete
 obstacle,obstacle
@@ -1421,30 +1422,30 @@ pacifista,pacifist
 pagà,heathen
 pagà,infidel
 pagà,pagan
-paleta,mason
 paleta,bricklayer
+paleta,mason
 paleta,stonemason
+paludisme,malaria
 pal·ladi,palladium
 palíndrom,palindrome
 pandèmia,pandemic
-papa,pope
 papa,father
-pare,father
+papa,pope
 paracaigudes,parachute
 paraula,word
-mot,word
+pare,father
 parir,deliver
 partit,party
 partit,political party
 paràbola,parabola
 pastor,shepherd
-patata,potato
 patata,patato
+patata,potato
 patologia,pathology
 pau,peace
 pediatre,paediatrician
-pena de mort,death penalty
 pena de mort,capital punishment
+pena de mort,death penalty
 pena de mort,death sentence
 península,peninsula
 pera,pear
@@ -1469,7 +1470,6 @@ pizza,pizza
 pla,plane
 plasma sanguini,blood plasma
 plata,silver
-argent,silver
 platí,platinum
 ple,full
 plom,lead
@@ -1483,6 +1483,7 @@ plutoni,plutonium
 plutoni,plutonium
 plutoni,plutonium
 plutoni,plutonium
+plàtan,banana
 pobresa,poverty
 poloni,polonium
 polonès,Polish
@@ -1501,28 +1502,25 @@ potassi,potassium
 pragmàtica,pragmatics
 praseodimi,praseodymium
 president,president
-presoner de guerra,prisoner of war
 presoner de guerra,POW
-presoner de guerra,PoW
 presoner de guerra,PW
-PDG,prisoner of war
-PDG,POW
-PDG,PoW
-PDG,PW
+presoner de guerra,PoW
+presoner de guerra,prisoner of war
 primavera,spring
 primer,first
 primera,first
 prometi,promethium
 prostat,prostate
-pròstata,prostate
 prostitució,prostitution
-proteïna,protein
 proteïna,poly peptide
+proteïna,protein
 protoactini,protactinium
+pròstata,prostate
 psiquiatra,psychiatrist
 pàncrees,pancreas
 pèl,hair
 quadrilàter,quadrilateral
+quasi,almost
 química,chemistry
 radi,radium
 radiació solar,solar radiation
@@ -1533,8 +1531,8 @@ rapinyaire,bird of prey
 ratolí,mouse
 raïm,grape
 realitat,reality
-referèndum,referendum
 referèndum,plebiscite
+referèndum,referendum
 ren,reindeer
 renaixement,renaissance
 reni,rhenium
@@ -1546,10 +1544,10 @@ robar,steal
 robí,ruby
 rodi,rhodium
 roentgueni,roentgenium
-romanès,Romanian
 romanès,Romanaian
-rombe,rhombus
+romanès,Romanian
 rombe,rhomb
+rombe,rhombus
 ronyó,kidney
 rosa,rose
 rubidi,rubidium
@@ -1575,6 +1573,7 @@ sardina,sardine
 sastre,tailor
 seaborgi,seaborgium
 secret,secret
+seient,chair
 seleni,selenium
 semiconductor,semiconductor
 sempre,anytime
@@ -1605,14 +1604,13 @@ somriure,smile
 sord,deaf
 soterrani,basement
 sspinac,spinach
-espinac,spinach
 substantiu,noun
 substantiu,substantive
 suec,Swedish
+suma,addition
 sumar,add
 supernova,supernova
 sàhara,sahara
-საჰარა,sahara
 sànscrit,Sanskrit
 sànscrit,Sanskrit
 sífilis,syphilis
@@ -1639,9 +1637,9 @@ tempesta,tempest
 teocràcia,theocracy
 teologia,theology
 teoria del caos,chaos theory
-teranyina,web
-teranyina,spider web
 teranyina,cobweb
+teranyina,spider web
+teranyina,web
 terbi,terbium
 terra,land
 terratrèmol,earthquake
@@ -1654,17 +1652,16 @@ topografia,topography
 tori,thorium
 tornavís,screwdriver
 toro,bull
-brau,bull
 torpede,torpedo
 traducció,translation
-traduïr,translate
 traduïr,interpret
+traduïr,translate
 tren,train
 triangle,triangle
 tro,thunder
 trompeta,trumpet
-tròpic,tropics
 tròpic,torrid zone
+tròpic,tropics
 tswana,Tswana
 tuli,thulium
 tulipa,tulip
@@ -1682,12 +1679,13 @@ txetxè,Chechen
 txetxè,Chechen
 tàntal,tantalum
 ull,eye
-universitat,university
-universitat,university
+unitat monetària,currency
+universitat,academy
 universitat,academy
 universitat,university
 universitat,university
-universitat,academy
+universitat,university
+universitat,university
 ununbi,ununbium
 ununhexi,ununhexium
 ununocti,ununoctium
@@ -1710,12 +1708,12 @@ verb,verb
 verola,smallpox
 vertebrat,vertebrate
 vespa,wasp
-vestir,dress
 vestir,clothe
+vestir,dress
 vestit,dress
 veterinari,veterinarian
-veterinari,veterinary
 veterinari,veterinarian
+veterinari,veterinary
 veí,neighbour
 veí,vecino
 vi,wine
@@ -1725,6 +1723,8 @@ vietnamita,Vietnamese
 vigilant,lifeguard
 vinagre,vinegar
 vinya,vineyard
+vist i plau,approbation
+vist i plau,approval
 vocal,vowel
 volapük,Volapük
 voleibol,volleyball
@@ -1735,17 +1735,17 @@ vosaltres,you lot
 vosaltres,yous
 wiki,wiki
 xampany,champagne
-beguda de xampanya,champagne
 xenó,xenon
 xeringa,syringe
 xilòfon,xylophone
 ximpanzé,chimpanzee
+xiqueta,girl
+xocolat,chocolate
 xocolata,chocolate
 xocolate,chocolate
-xocolat,chocolate
 zebra,zebra
-zero,zero
 zero,null
+zero,zero
 zinc,zinc
 zirconi,zirconium
 zodíac,zodiac
@@ -1767,8 +1767,8 @@ zulú,Zulu
 àstat,astatine
 àtom,atom
 àzeri,Azerbaijani
-àzeri,Azeri
 àzeri,Azerbaijani Cluster
+àzeri,Azeri
 ètica,ethics
 òpera,opera
 òptica,optics
@@ -1777,4 +1777,4 @@ zulú,Zulu
 óssos,ursid
 útil,useful
 čaj,tea
-catalan,english
+საჰარა,sahara

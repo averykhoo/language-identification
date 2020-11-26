@@ -2641,9 +2641,9 @@ cuvar pruge,Lineman
 cuvaran,Frugal-Economic-Economical-Saving-Parsimonious
 cuvarnost,Parsimony-Saving
 cuvati,Economize-Preserve-Police-Beware-Conserve-Safeguard-Keep-Wake-Cherish-Fend-Protect-Shepherd-Store
+cuvati  red,Maintain
 cuvati dete,Sitter-In-Sitter In
 cuvati ovce,Shepherd
-cuvati  red,Maintain
 cuvati se,Guard-Mind
 cuven,Famous-Notorious-Illustrious-Prominent-Noted-Renowned
 cuvenje,Renown-Publicity
@@ -4777,9 +4777,9 @@ galamiti,Fuss-Vociferate-Roister-Noise
 galeb,Mew-Gull-Seamew
 galerija,Balcony-Gallery
 galija,Galley
-"galon (4,5l)",Gallon
 galon  uk 4.546,Gallon
 galon  us 3.782,Gallon
+"galon (4,5l)",Gallon
 galop,Gallop-Career
 galopirati,Career-Canter
 galski,Gallic
@@ -8866,8 +8866,8 @@ kontinentalan,Continental
 kontinualan,Continuous
 kontinuitet,Continuity
 kontr. sredstvo,Contraceptive
-kontra-admiral,Rear-Admiral
 kontra krivina,Reverse Curve
+kontra-admiral,Rear-Admiral
 kontraceptivno,Contraceptive
 kontrafor,Buttress
 kontrakcija,Contraction
@@ -10942,8 +10942,8 @@ medja,Abutment-Boundary-Balk-Confine-Ridge-Demarcation
 medjasni,Contiguous
 medjni,Limitary
 medju,Among-Amid-Between-Amongst-Among(St)-Amid(St)-In-Inter-
-medju- (prefiks,Intermediate
 medju (prefiks),Inter-
+medju- (prefiks,Intermediate
 medjugradski,Intercity-Interurban
 medjuigra,Interlude
 medjumemorija,Buffer
@@ -17799,9 +17799,9 @@ plocast,Laminated
 plocica,Wafer-Shingle-Dice-Plaque-Pellet-Plate-Lamel-Lamina-Lamella
 plocnik,Sidewalk-Causeway-Side-Walk-Pavement-Side Walk
 plod,Offspring-Produce-Product-Pistachio-Fruit-Harvest-Result
+plod      t,Fruit
 plod hikorija,Pecan
 plod maste,Figment
-plod      t,Fruit
 plodan,Arable-Productive-Prolific-Fertile-Fecund-Mellow-Rank
 plodna zemlja,Arable-Loam
 plodnica,Ovary
@@ -18596,8 +18596,8 @@ polozen,Sited-Laid
 polozen ispit,Pass
 poloziti,Lay-Put-Deposit-Rest-Bed-Set
 poloziti ispit,Pass
-polu-    (prefi,Half
 polu (prefiks),Hemi--Semi-
+polu-    (prefi,Half
 polubrat,Half-Brother-Step-Brother-Stepbrother-Half Brother-Step Brother
 polucilindar,Bowler
 poludeti,Mad-Craze-Madden
@@ -19036,9 +19036,9 @@ poslasticarnica,Confectionery
 poslastice,Delicatessen-Pastry-Goody
 poslata roba,Consignment
 poslati,Transport-Send-Address-Consign
+poslati  novac,Remit
 poslati dopis,Report
 poslati natrag,Remit-Receive Back
-poslati  novac,Remit
 poslati obaves.,Message
 poslati pismo,To Write Off
 poslati postom,Post-Mail
@@ -22194,8 +22194,8 @@ pustos,Havoc-Wilderness-Wild
 pustosenje,Sack-Ravage-Depredation-Holocaust
 pustositi,Foray-Ravage
 put,Road-Round-Route-Passage-Causeway-Line-Trajectory-Way-Trip-Path-Pathway-Ride-Avenue-Transit-Thoroughfare-Tour-Track-Bout-Course-Drive
-put prenosa,Bus
 put - put,Put
+put prenosa,Bus
 putanja,Channel-Path-Orbit-Lane-Path Line
 putanje,Trajectory
 putarina,Toll Rate
@@ -22284,14 +22284,14 @@ radikalan,Radical
 radiliste,Working-Yard
 radio,Radio-Wireless
 radio antena,Antenna
-radio-difuzija,Broadcast
 radio emisija,Newscasting
 radio far,Beacon
-radio-lokacija,Radiolocation
 radio pojacalo,Amplifier
 radio predajnik,Transmitter
 radio slusalica,Ear-Phone
 radio stanica,Station
+radio-difuzija,Broadcast
+radio-lokacija,Radiolocation
 radioaktivan,Radio-Active-Radioactive
 radioaktivnost,Radioactivity
 radiograf,Radiograph
@@ -22379,9 +22379,9 @@ ranac     i,Knapsack
 ranc,Ranch
 randevu,Rendezvous
 rang,Level-Rank-Degree
+rang - rung,Ring
 rang lista,Rating
 rang matrice,Rank
-rang - rung,Ring
 rangiranje,Rating
 rangirati,Rank
 ranije,Before-Beforehand-Ere-Previously-Advance-Afore-Back-Sooner
@@ -27196,8 +27196,8 @@ tamjan,Incense
 tamnica,Mill-Calaboose-Dungeon-Clink-Prison-Quod-Gaol-Jail
 tamnicar,Warder
 tamno,Dimly
-tamno-crven,Mulberry
 tamno modar,Navy Blue
+tamno-crven,Mulberry
 tamnobraon,Puce
 tamnocrven,Purple
 tamnoljubicasta,Prune-Plum

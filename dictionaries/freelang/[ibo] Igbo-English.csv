@@ -9,17 +9,44 @@ Other,English
 -le,completed action
 -lu,intensification of the action
 -ra,action in the past
--re,present continuous action
 -re,action in the past
+-re,present continuous action
 -ri,past completed action
 -ta,brings an action to completion
 -tara,action in the past
 -tere,action in the past
+Asusu Igbo,Igbo
+Bata n'ime onye ahïa,Come inside customer
+Chi,God
+Da alü,Well done
+E metu nam ebe ahu!,Don't touch me there!
+Ego ole ka m ji gï,How much do I owe you
+Ego ole?,How much?
+Esogbuna; weta garri,Don't worry; bring the garri
+Ha ncha bü naira iri na abüö,That is 12 naira
+I were agwa?,Do you have beans?
+Ka e mesïa; ka odi oge özö,Good-bye; till next time
+Kedu ebe a ne re mmanya?,Where is the bar?
+Kedu ebe mme laru ula?,Where is my room?
+Kedu oshimili?,Where is the beach?
+Nye m mmiri.,Give me water
+Ofea törö ütö,The soup is tasty
+Oge özö; ga-bü udu mmiri,Next period; it is rainy
+Olee etu i si ere anü?,How do you sell meat?
+Olee maka üböchï taa,How is the weather today
+Olee üdï nrï unu were?,What kind of food do you have?
+Tinye otu anü naira atö,Put one meat worth of 3 naira
+Tinyekue ofe,Bring more soup
+Were ego,Take the money
+Were ya,Have it
+Were ya,Take it
+Weta afere,Bring your plate
+Weta garri naira asaa,Bring garri worth of 7 naira
 a,this
 abalï,night
 abalï öma,good-evening
-abïara m ïlü ölü,i have come to work
 abua,two
+abïara m ïlü ölü,i have come to work
 abüö,two
 afa,name
 afere,plate
@@ -37,18 +64,12 @@ aha m bü emeka,my name is emeka
 ahia,market
 ahö,year
 ahü,body
-àhu ényi,kind of fruit
 ajali,"earth, red earth"
-áka ákwukwo,handwriting
 akpa,bag
-àkpa nseláka,handbag
 akpatï nrï,cupboard
 akpukwu,shoes
-áku nkwu,palm kernel
 aku oyibo,coconut
-akükü,edge
 akwa,"clothes, weeping, bed, cloth"
-akwü,door
 akwukwo,leaf
 akwukwo edemede,paper
 akwukwo ego,printed money
@@ -56,23 +77,17 @@ akwukwo eji eje ije,passport
 akwukwo ndu,green leaves
 akwukwo nri,vegetable leaves
 akwukwo ogugu,book
+akwü,door
 akwükwö ögwü,herbs
+akükü,edge
 ala,"floor, earth, ground"
-alïbasa,onion
 alo,how many
-ana-ewe nnuku ikuke,there is a lot of wind
-ana-ewe nnuku urukpu.,there will be many clouds
+alïbasa,onion
 ana m aga ölü,i am going to work
 ana m alü ölü na gra,i am working in gra
-áñàra,garden egg
+ana-ewe nnuku ikuke,there is a lot of wind
+ana-ewe nnuku urukpu.,there will be many clouds
 ano,four
-anü,"meat, animal"
-anü öhïa,"bush animal, bush meat"
-anülï,happy
-añülï,merry
-añuli arö öfüü,happy new year
-añuli easter,happy easter
-añuli ekeresimesi,merry christmas
 anwu,sun
 anwü ga-dï; ma ö ga-dï ökü,there'll be sun and it'll hot
 anya,eyes
@@ -82,51 +97,52 @@ anyasi oma,good night
 anyi,we
 anyï,our
 anyï buru gï,we carry you
+anü,"meat, animal"
+anü öhïa,"bush animal, bush meat"
+anülï,happy
 arö,year
 asaa,seven
 asato,eight
-Asusu Igbo,Igbo
 ato,three
 atülü,blue
-àyiyà,crawfish
 azïza,broom
 azü,fish
+añuli arö öfüü,happy new year
+añuli easter,happy easter
+añuli ekeresimesi,merry christmas
+añülï,merry
 bata,enter
-Bata n'ime onye ahïa,Come inside customer
 bee,cry
 bekee,English
 bi,live
 bi,live
-bïa,come
 biko,please
 blu,blue
+buru,carry
+buru,carry
+bïa,come
 bü,be
-buru,carry
-buru,carry
 che,think
 chere,wait
-Chi,God
 chineke,lord
+chukwu,god
 chö,want
 chörö,intend to
-chukwu,god
 clasï,grade
-Da alü,Well done
 dalu,thank you
 di,husband
-dï,have the quality of
-dï be,have the quality of
 di gï,your husband
 di m,my husband
 di ya,her husband
 dibïa,medicine man
 dibïa oyibo,doctor
 dum,"every, all, each"
+dï,have the quality of
+dï be,have the quality of
 e,then
+e mesïa,then
+e mesïa,then
 e-e,yes
-e mesïa,then
-e mesïa,then
-E metu nam ebe ahu!,Don't touch me there!
 ebe,"location, place"
 ebe ahü,there
 ebea,here
@@ -136,16 +152,12 @@ ebee?,where?
 ebi m,I live
 echi,tomorrow
 ede,cocoyam
-édemede,writing
 edo,yellow
 eee,yes
 egbe,hawk
-égbè éluigwe,thunder
 egbe igwe,thunder
 ego,money
 ego ole,how much
-Ego ole ka m ji gï,How much do I owe you
-Ego ole?,How much?
 ehe,yes
 ehi,cow
 ehihie,"daytime, afternoon"
@@ -159,11 +171,9 @@ elu,height
 enu,top
 enwe,monkey
 enyi,elephant
-ényì,friend
 enyi m,my friend
 esi m na obodo bekee,i come from europe
 esogbuna,don't worry
-Esogbuna; weta garri,Don't worry; bring the garri
 etiti,center
 etu,manner
 ewu,goat
@@ -185,38 +195,31 @@ ga,future action
 ga-bü udu mmiri,it is rainy season
 gaa,go
 gaba,go
-gámgàmgám,perambulation
 gbaa bölü,play football
 gbasaa,dismiss
-gbörödi,water leaves
 gbu,kill
+gbörödi,water leaves
 gi,you
+gota,"purchase, buy"
+gwa,to tell
+gwuo mmiri,swim
+gwá,tell
+gwámgwàmgwám,conumdrum
+gámgàmgám,perambulation
 gï,your
 gïnï,what
 gïnï ka ï bïara ime?,what have you come to do?
-gota,"purchase, buy"
 gözie,bless
-gwa,to tell
-gwá,tell
-gwámgwàmgwám,conumdrum
-gwuo mmiri,swim
 ha,they
-Ha ncha bü naira iri na abüö,That is 12 naira
 hü,see
 i,you
 i bi,you live
-ï bölachï,good-morning
-Ï chörö anü?,Do you want meat?
 i kwesiri iweta nche anwü,you need to bring an umbrella
-ï na-asü bekee?,do you speak english?
-I were agwa?,Do you have beans?
 ibia,to come
-ígha mghigha,turn in bed
 igodo,key
 igwe,iron
 ihe,something
 ihe ahü,that
-íhe omum nké mbu,lesson one
 ihea,this
 ijeri,billion
 ike,strength
@@ -246,10 +249,8 @@ isi,head
 isi mgbu,head-ache
 isii,six
 ite,pot
-ìte ája,clay pot
 itenani,nine
 itolu,nine
-íze gìrigiri,stampede
 izute,meet
 jee,travel
 jesu kristi,jesus christ
@@ -259,15 +260,11 @@ jide,"hold, possess"
 ka,as
 ka chi foo,goodnight
 ka e mesïa,good-bye
-Ka e mesïa; ka odi oge özö,Good-bye; till next time
 ka mgbe,since
 ka omesia or ka odi,goodbye
 ka so,like
 kama,instead of
 kedu,"how are you?, which, how"
-Kedu ebe a ne re mmanya?,Where is the bar?
-Kedu ebe mme laru ula?,Where is my room?
-Kedu oshimili?,Where is the beach?
 kodi,"bye-bye, bye"
 kpee,make a plea
 kpörö,"take, bring"
@@ -275,9 +272,9 @@ kunie,stand up
 kuta,fetch
 kuzie,teach
 kwaa,"too, also"
+kwuo,say
 kwö,carry on one's back
 kwüa,pay
-kwuo,say
 kwüö ügwö,pay
 lee anya,expect
 léelè,see
@@ -292,16 +289,16 @@ mba,no
 mba; ana m asü igbo,no; i speak igbo
 mbala ji,water yam
 mbara,living-room
-mbára ámà,village square
 mbo,nail
+mbára ámà,village square
 mbü,first
 mee,make
 mesïa; aga-ewe ököchï,it will be the dry season
 mgbakö,"adding up, addition"
 mgbe,room
 mgbe ahü,then
-mgbörögwü osisi,roots
 mgbu,pain
+mgbörögwü osisi,roots
 mkpisi,fork
 mkpisi aka,finger
 mkpisi okpa,toe
@@ -309,12 +306,12 @@ mkpisi ukwu,toe
 mkpuru aka,finger
 mkpuru okpa,toe
 mma,"good, beautiful"
-mmanü,oil
 mmanya,"wine, beer, drink"
+mmanü,oil
 mme,red
 mmiri,"water, rain"
-mmiri-ozuzo,rain
 mmiri anaghï ezo,rain is not falling
+mmiri-ozuzo,rain
 mmuta akwukwo,education
 mü,I
 mü na gï buru ya,me and you carry him
@@ -325,10 +322,8 @@ n'enu,on top
 n'ime,inside
 n'okpuru,below
 na,"at, within, in"
-nà,and
 na ülö ölü,at the office
 nari,100
-narï,hundred
 nari ano,400
 nari asa,700
 nari asato,800
@@ -337,21 +332,22 @@ nari ibua,200
 nari ise,500
 nari isii,600
 nari itenani,900
+narï,hundred
 ncha,all
 nche anwu,umbrella
 nde,million
-ndï,"group, people"
 ndi ahü,those
-ndï be,family
 ndi ìgbo,the ìgbo people
+ndiagu,far from home
+ndiuno,close to home
+ndu,life
+ndï,"group, people"
+ndï be,family
 ndï mmepe obodo,development agency
 ndï ölü,workers
 ndïa,these
-ndiagu,far from home
 ndïda,down the road
-ndiuno,close to home
 ndörö mmiri,swimming-pool
-ndu,life
 ngazi,spoon
 ngwa ahia,merchandise
 niile,"every, all, each"
@@ -366,11 +362,9 @@ nmanü-ökü,kerosine
 nna,father
 nne,"mother, madam"
 nno,welcome
-nnöö,you are welcome
 nnuku,"many, lot"
 nnuku mmiri ga-ezo,a lot of rain will fall
-nö,"present in location, be present in location"
-nödü anï,sit down
+nnöö,you are welcome
 nonye,join
 nri,food
 nrï,right
@@ -379,17 +373,14 @@ nso,"nearby, close"
 nsogbu,disturbance
 nti,ears
 ntutu,hair
-nü,hear
 nwa,child
 nwa anyi,our child
 nwa m,my child
 nwa nne nwanyï,sister
 nwa nne nwoke,brother
 nwa nne nwoke,brother
-nwá nwányi,female child
 nwa nwoke,son
 nwannam,brother
-nwánne,sister
 nwannem,brother
 nwannenwanyi,sister
 nwannenwoke,brother
@@ -401,14 +392,17 @@ nwata nwanyi,girl
 nwatakiri,child
 nwoke,man
 nwuye,wife
+nwá nwányi,female child
+nwánne,sister
 nyaa,"to drive, driv, drive"
 nye,"present, give"
 nye aka,help
-Nye m mmiri.,Give me water
+nà,and
+nö,"present in location, be present in location"
+nödü anï,sit down
+nü,hear
 o,he
 o,it
-ö,he
-ö,it
 o bi,she lives
 o bu akwa,it is a bed
 o bu akwá,it is an egg
@@ -416,29 +410,21 @@ o bu engwe,it is a monkey
 o bu iko,it is a cup
 o bu ite,it is a pot
 o bu oké,it is a rat
-ö dï mma,i am fine
 o huru iko,he saw a cup
-ö na-adï ökü na oge ehihie,it is hot in the day
 obele,small
 obo aka,hand
 obodo,town
 obodo bekee,europe
-öbögwü,duck
 obu,bedroom
-öcha,"white, clean"
 oche,chair
 odi mma,i am fine
-ödü ügbö ala,motorpark
 ofe,"stew, soup"
-Ofea törö ütö,The soup is tasty
 ofu,one
-öfüma,well
 oga,"master, boss"
 ogbatumtum,motor-cycle
 oge,"occasion, period"
-oge özö,next period
-Oge özö; ga-bü udu mmiri,Next period; it is rainy
 oge ugürü,"period, harmattan period"
+oge özö,next period
 ogede,banana
 ogologo,long
 ogu,twenty
@@ -467,51 +453,31 @@ ogu na ise,25
 ogu na isii,26
 ogu na itenani,29
 ogu na ofu,21
-ögügü,"count, reading"
-ögwü,"tablets, medicines"
 ohia,bush
 oji,black
-öjï igbo,kolanut
 ojii,black
-öjöö,bad
-öka,corn
-ökara,half
 oke ölü,expensive
-ököchï,dry season
 okpa,foot
 okporo,cray fish
 okporoko,stockfish
 okpukpe,denomination
 okpuru,underside
-ökü,hot
-ökü,"hot, fire"
 okuko,chicken
-ökükü,chicken
-ökülatrïk,electricity
-ókwu onu,word of mouth
 ole,how many
 ole,number
 olee,"which, how"
 olee aha gï?,what is your name?
-olee ebe ï na-aga?,where are you going?
 olee ebe i si?,where do you come from
-Olee etu i si ere anü?,How do you sell meat?
+olee ebe ï na-aga?,where are you going?
 olee maka üböchï echi?,what about tomorrow's weather?
-Olee maka üböchï taa,How is the weather today
 olee maka üböchï taa?,how is the weather today?
 olee oge,when
-Olee üdï nrï unu were?,What kind of food do you have?
-ölü,work
-öma,"good, beautiful"
 one,how many
 onu,mouth
-önü,price
-önwa,moon
-önwa,moon
 onwa-abö,August
 onwa-anö,October
-onwa-asaa,January
 onwa-asaa,December
+onwa-asaa,January
 onwa-asatö,February
 onwa-atö,September
 onwa-iri,April
@@ -524,7 +490,6 @@ onwa-mbu,July
 onwerozi,nothing more
 onwu,alphabet
 onye,"somebody, who"
-onye-ode akwükwö,secretary
 onye ahïa,customer
 onye ahïa,customer
 onye anglican,anglican
@@ -534,15 +499,15 @@ onye igbo,igbo man
 onye isi,boss
 onye na ere ögwü,medicine dealer
 onye nkuzi,teacher
+onye ojii,black man
 onye öcha,white man
 onye öcha; olee ka i mere,white man; how are you
-onye ojii,black man
 onye ölü,worker
 onye üka,christian
+onye-ode akwükwö,secretary
 opareto,operator
 ore akwükwö,book seller
 ore ihe,seller
-örïa,sickness
 ose,pepper
 osikapa,rice
 osisi,stick
@@ -552,9 +517,6 @@ oto,straight
 otu,that
 oyi,cold
 oyi,cold
-özö,next
-özü ahïa,buyer
-özü ahïa,buyer
 potopoto,mud
 puku,"1000, thousand"
 ree,sell
@@ -569,83 +531,121 @@ ta,chew
 taa,today
 tata,today
 tinye,"add, put"
-Tinye otu anü naira atö,Put one meat worth of 3 naira
-Tinyekue ofe,Bring more soup
-tógholu,nine
 tolotolo,turkey
-törö ütö,be tasty
-törö ütö,be tasty
 tupu,until
-ubá égo,richness
+tógholu,nine
+törö ütö,be tasty
+törö ütö,be tasty
 ube,pear
-üböchï,day
-üböchï,weather
-üböchï taa dï mma,today's weather is fine
-Üböchï taa dï mma,Today's weather is fine
-üböchï üka,Sunday
 ubosi oma,good day
-ücha,clean
-úchè óbì,thought
+ubá égo,richness
 udarà,kind of fruit
-üdï,"sort, kind"
 udu mmiri,rainy season
-ùdu mmiri,water pot
 ugbo,vehicle
-ügbö,motor
 ugbo ala,a car
-ügbö ala,car
 ugbo elu,aeroplane
-ügbö elu,airplane
-ügbö elu,airplane
 ugbo igwe,train
-ügbö mmiri,boat
-ügbö mmiri,boat
 ugbua,now
 ugbua,now
 ugbua bü oge ügürü,now it is harmattan period
-ügü,pumpkin
 ugwu,hill
-üka,church
 ukwu,"leg, big"
 ulo,house
 ulo akwukwo,school
-ülö akwükwö,library
-ülö mposi,toilet
-ülö ögwü,hospital
-ülö ölü,office
-ülö oriri,"chop house, hotel"
 ulo uka,church
 umu aka,children
 umuaka,children
 uno,home
 unu,you (pl)
 unu buru mü,you carry me
-úrè,pride
 urukpu,cloud
 urukpu,cloud
 usekwu,kitchen
-ütütü,"dawn, morning"
-ütütü öma,"good-morning, good morning"
-ütütü öma nke gï.,good-morning to you
 uvuru íshì,brain
 uwa ndi ìgbo,ìgbo world
 uwe,clothes
 uzo,door
-üzö,early dawn
 vökü,hot
 vökülatrïk,electricity
-wèré,take
-Were ego,Take the money
-Were ya,Have it
-Were ya,Take it
 weta,bring in
 weta,bring in
-Weta afere,Bring your plate
-Weta garri naira asaa,Bring garri worth of 7 naira
 windo,window
+wèré,take
 ya,"he, his, her, it"
 zaa,sweep
 zoo,rain
 zöpüta,"rescue, save"
 züö,buy
 züö,buy
+Ï chörö anü?,Do you want meat?
+Üböchï taa dï mma,Today's weather is fine
+àhu ényi,kind of fruit
+àkpa nseláka,handbag
+àyiyà,crawfish
+áka ákwukwo,handwriting
+áku nkwu,palm kernel
+áñàra,garden egg
+édemede,writing
+égbè éluigwe,thunder
+ényì,friend
+ìte ája,clay pot
+ígha mghigha,turn in bed
+íhe omum nké mbu,lesson one
+íze gìrigiri,stampede
+ï bölachï,good-morning
+ï na-asü bekee?,do you speak english?
+ókwu onu,word of mouth
+ö,he
+ö,it
+ö dï mma,i am fine
+ö na-adï ökü na oge ehihie,it is hot in the day
+öbögwü,duck
+öcha,"white, clean"
+ödü ügbö ala,motorpark
+öfüma,well
+ögwü,"tablets, medicines"
+ögügü,"count, reading"
+öjï igbo,kolanut
+öjöö,bad
+öka,corn
+ökara,half
+ököchï,dry season
+ökü,hot
+ökü,"hot, fire"
+ökükü,chicken
+ökülatrïk,electricity
+ölü,work
+öma,"good, beautiful"
+önwa,moon
+önwa,moon
+önü,price
+örïa,sickness
+özö,next
+özü ahïa,buyer
+özü ahïa,buyer
+ùdu mmiri,water pot
+úchè óbì,thought
+úrè,pride
+üböchï,day
+üböchï,weather
+üböchï taa dï mma,today's weather is fine
+üböchï üka,Sunday
+ücha,clean
+üdï,"sort, kind"
+ügbö,motor
+ügbö ala,car
+ügbö elu,airplane
+ügbö elu,airplane
+ügbö mmiri,boat
+ügbö mmiri,boat
+ügü,pumpkin
+üka,church
+ülö akwükwö,library
+ülö mposi,toilet
+ülö oriri,"chop house, hotel"
+ülö ögwü,hospital
+ülö ölü,office
+ütütü,"dawn, morning"
+ütütü öma,"good-morning, good morning"
+ütütü öma nke gï.,good-morning to you
+üzö,early dawn

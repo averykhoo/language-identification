@@ -13,8 +13,8 @@ Angola,Angola
 Angola,Republic of Angola
 Antarctica,Antarctica
 Antigua e Barbuda,Antigua and Barbuda
-Arabia Saudi,Saudi Arabia
 Arabia Saudi,Kingdom of Saudi Arabia
+Arabia Saudi,Saudi Arabia
 Argentina,Argentina
 Argentina,Argentine Republic
 Armenia,Armenia
@@ -56,13 +56,13 @@ Chechia,Czech Republic
 Chechia,Czechia
 Chile,Chile
 Chile,Republic of Chile
-China,People's Republic of China
 China,China
-Citate del Vaticano,Vatican City
-Citate del Vaticano,The Holy See
+China,People's Republic of China
 Citate del Vaticano,State of the Vatican City
-Costa de Ebore,Ivory Coast
+Citate del Vaticano,The Holy See
+Citate del Vaticano,Vatican City
 Costa de Ebore,Cote d'Ivoire
+Costa de Ebore,Ivory Coast
 Costa de Ebore,Republic of Cote d'Ivoire
 Cuba,Cuba
 Cuba,Republic of Cuba
@@ -70,8 +70,8 @@ Cypro,Cyprus
 Cypro,Republic of Cyprus
 Danmark,Denmark
 Danmark,Kingdom of Denmark
-Egypto,Egypt
 Egypto,Arab Republic of Egypt
+Egypto,Egypt
 El Salvador,El Salvador
 El Salvador,Republic of El Salvador
 Epiphania,Epiphany
@@ -85,7 +85,6 @@ Ethiopia,Ethiopia
 Ethiopia,Federal Democratic Republic of Ethiopia
 Europa,Europe
 Falklands,Falkland Islands
-Malvinas,Falkland Islands
 Finlandia,Finland
 Finlandia,Republic of Finland
 Francia,France
@@ -95,13 +94,12 @@ Gambia,Gambia
 Gambia,Gambia
 Gambia,Gambia
 Gambia,Gambia
-Gambia,The Gambia
 Gambia,Republic of The Gambia
+Gambia,The Gambia
 Georgia,Georgia
-Germania,Germany
 Germania,Federal Republic of Germany
+Germania,Germany
 Germano,German
-germano,German
 Ghana,Ghana
 Ghana,Republic of Ghana
 Grecia,Greece
@@ -138,8 +136,8 @@ Italia,Italy
 Jamaica,Jamaica
 Japon,Japan
 Japon,State of Japan
-Jordania,Jordan
 Jordania,Hashemite Kingdom of Jordan
+Jordania,Jordan
 Jupiter,Jupiter
 Kenya,Kenya
 Kenya,Republic of Kenya
@@ -147,23 +145,24 @@ Kiribati,Kiribati
 Kiribati,Republic of Kiribati
 Latvia,Latvia
 Latvia,Republic of Latvia
-Lesotho,Lesotho
 Lesotho,Kingdom of Lesotho
+Lesotho,Lesotho
 Liberia,Liberia
 Liberia,Republic of Liberia
 Liechtenstein,Liechtenstein
 Liechtenstein,Principality of Liechtenstein
 Lituania,Lithuania
 Lituania,Republic of Lithuania
-Luna,moon
 Luna,Luna
 Luna,Moon
-Luxemburg,Luxembourg
+Luna,moon
 Luxemburg,Grand Duchy of Luxembourg
+Luxemburg,Luxembourg
 Madagascar,Madagascar
 Madagascar,Republic of Madagascar
 Malta,Malta
 Malta,Republic of Malta
+Malvinas,Falkland Islands
 Mar Caribe,Caribbean Sea
 Martinique,Martinique
 Mauritio,Mauritius
@@ -173,8 +172,8 @@ Monaco,Monaco
 Myanmar,Myanmar
 Neptuno,Neptune
 Nicaragua,Nicaragua
-Norvegia,Norway
 Norvegia,Kingdom of Norway
+Norvegia,Norway
 Nove Zelanda,New Zealand
 Novial,Novial
 Pais Basse,Holland
@@ -186,17 +185,17 @@ Phobos,Phobos
 Polonia,Poland
 Portugal,Portugal
 Puerto Rico,Puerto Rico
+Regno Unite,UK
 Regno Unite,United Kingdom
 Regno Unite,United Kingdom of Great Britain and Northern Ireland
-Regno Unite,UK
 Republica Dominican,Dominican Republic
 Romania,Romania
 San Marino,San Marino
 Saturno,Saturn
 Senegal,Senegal
 Serbia,Serbia
-Seychelles,Seychelles
 Seychelles,Republic of Seychelles
+Seychelles,Seychelles
 Slovachia,Slovakia
 Slovenia,Slovenia
 Sri Lanka,Sri Lanka
@@ -205,15 +204,15 @@ Suissa,Switzerland
 Svedia,Sweden
 Taiwan,Taiwan
 Tanzania,Tanzania
-Terra,earth
-Terra,Earth
-Terra,the world
 Terra,Blue Planet
-Timor Oriental,East Timor
+Terra,Earth
+Terra,earth
+Terra,the world
 Timor Oriental,Democratic Republic of Timor-Leste
+Timor Oriental,East Timor
 Turchia,Turkey
-Uganda,Uganda
 Uganda,Republic of Uganda
+Uganda,Uganda
 Union Europee,EU
 Union Europee,European Union
 Urano,Uranus
@@ -238,6 +237,7 @@ anno bissextil,leap year
 ansere,goose
 antimonio,antimony
 antiparticula,antiparticle
+apparato photographic,camera
 april,April
 aqua,water
 aragonese,Aragonese
@@ -249,8 +249,8 @@ arithmetica,arithmetic
 arithmetica,arithmetics
 arsenico,arsenic
 articulo,article
-asino,donkey
 asino,ass
+asino,donkey
 astatium,astatine
 astronomia,astronomy
 astronomo,astronomer
@@ -266,8 +266,8 @@ berkelium,berkelium
 beryllium,beryllium
 beryllium,glucinium
 biodiversitate,biodiversity
-biologia,biology
 biologia,biological science
+biologia,biology
 bismuth,bismuth
 blanc,white
 blanco,white
@@ -281,7 +281,6 @@ calcium,calcium
 californium,californium
 camelo,camel
 camera photographic,camera
-apparato photographic,camera
 capital,capital
 carbon,carbon
 caseo,cheese
@@ -295,12 +294,12 @@ chloro,chlorine
 chordato,chordate
 chromo,chromium
 cobalt,cobalt
-columba,pigeon
 columba,dove
+columba,pigeon
 comestibile,edible
 cometa,comet
-composito chemic,compound
 composito chemic,chemical compound
+composito chemic,compound
 computator,computer
 computer,computer
 conductibilitate,conductivity
@@ -318,12 +317,9 @@ decembre,December
 dengue,dengue fever
 densitate,density
 dictionario,dictionary
+dicto,maxim
 dicto,proverb
 dicto,saying
-dicto,maxim
-proverbio,proverb
-proverbio,saying
-proverbio,maxim
 digito auricular,little finger
 digito auricular,pinkie
 dioxido de carbono,carbon dioxide
@@ -362,18 +358,18 @@ fuso horari,timezone
 gadolinium,gadolinium
 gallium,gallium
 gallium,zinc
-zinc,zinc
 gas,gas
 genoma,genome
 geometria,geometry
 gepardo,cheetah
 gepardo,chetah
 germanium,germanium
+germano,German
 germano (Austria),German (Austria)
 germano (Suissa),German (Switzerland)
 glandula,gland
-grammatica,grammer
 grammatica,grammar
+grammatica,grammer
 gratias,cheers
 gratias,thank you
 gratias,thanks
@@ -388,12 +384,13 @@ hydrogeno,hydrogen
 hypothese de Sapir-Whorf,Sapir–Whorf hypothesis
 iceberg,iceberg
 indium,indium
-informatica,informatics
 informatica,computer science
+informatica,informatics
 informatica,information science
 interlingua,Interlingua
 interlingua,"Interlingua, ""Simplified"" Latin"
 interlingua,"Interlingua, ""Simplified"" Latin"
+interlingua,english
 iodo,iodine
 iridium,iridium
 jaguar,jaguar
@@ -412,8 +409,8 @@ latino,Latin
 latino,Latin
 lawrencium,lawrencium
 leon,lion
-lingua artificial,constructed language
 lingua artificial,artificial language
+lingua artificial,constructed language
 linguistica,linguistics
 lithium,lithium
 litteratura,literature
@@ -423,9 +420,9 @@ lutetium,lutetium
 maestro,teacher
 magnesium,magnesium
 maio,May
+maladia,affliction
 maladia,disease
 maladia,illness
-maladia,affliction
 mammal,mammal
 mammifero,mammal
 manganese,manganese
@@ -442,13 +439,13 @@ mercuridi,Wednesday
 mercuridi,quarta-feira
 mercurio,mercury
 metaphysica,metaphysics
+meteoro,falling star
 meteoro,meteor
 meteoro,meteor
 meteoro,meteor
 meteoro,meteor
 meteoro,meteor
 meteoro,shooting star
-meteoro,falling star
 molybdeno,molybdenum
 nederlandese,Dutch
 neodymium,neodymium
@@ -464,8 +461,8 @@ nomine,name
 nomine,proper name
 nomine,proper noun
 novembre,November
-numero prime,prime number
 numero prime,prime
+numero prime,prime number
 o,or
 octobre,October
 octopode,octopus
@@ -498,14 +495,17 @@ portugese,Portuguese
 portugese,Portuguese
 positron,positron
 potassium,potassium
-potentia,power (physics)
 potentia,power
+potentia,power (physics)
 praseodymium,praseodymium
 preposition,preposition
 pression,pressure
 primavera,spring
 promethium,promethium
 protactinium,protactinium
+proverbio,maxim
+proverbio,proverb
+proverbio,saying
 quadrangulo,quadrilateral
 quadrilatero,quadrilateral
 radium,radium
@@ -569,9 +569,9 @@ tomate,tomato
 triangulo,triangle
 trigonometria,trigonometry
 tungsten,tungsten
-universitate,university
-universitate,university
 universitate,academy
+universitate,university
+universitate,university
 ununbium,ununbium
 ununhexium,ununhexium
 ununoctium,ununoctium
@@ -591,6 +591,6 @@ voltage,voltage
 xenon,xenon
 ytterbium,ytterbium
 yttrium,yttrium
+zinc,zinc
 zirconium,zirconium
 zoonose,zoonosis
-interlingua,english

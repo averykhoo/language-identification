@@ -13,13 +13,13 @@ Other,English
 -pa,twice
 -phun,without
 -roq,to hold
--ša,wild animal
--šïn,wild animal
 -tanang,collar
 -thalc'ek,to think (1)
 -thola'uki,to think (1)
 -tholökng,to think (1)
 -thukng,thirty
+-ša,wild animal
+-šïn,wild animal
 a-ith-ox,nomadizing
 a-thajang,to send
 ach,tree
@@ -33,17 +33,17 @@ achangakng,to catch
 achangälchek,to catch
 achangökng,to catch
 achangši,wild animal
-achánše,wild animal
-achanthäkng,to catch
-achanthälchek,to catch
 achantholä'uki,to catch
 achantholölng,to catch
+achanthäkng,to catch
+achanthälchek,to catch
 achar,shoulder blade
 ache,calling
 achenchagan,to frighten
 achi,calling
 achi-xap,top of tree
 achigan,tree root
+achánše,wild animal
 achö'la'ukng,to throw
 achö'uk,sowing
 achö'ukng,to sow
@@ -55,62 +55,52 @@ afu-akng,to forge
 afu-het,smith
 ag,"trees, wood"
 agan,"trees, fox"
-ägan,fox
 aganan,fox
 aganga,a k. of duck
 agangan,a k. of duck
 agantán,collar
-agántan,collar
 agat,hewing
-ägatal,saddle
-ägatálang,saddle
 agathakhang,to hack
 agathakng,to hack
 agathalcek,to hack
-ägatn,fox
 age,rotten
 agejang,to bear
 agtholökng,to hack
+agántan,collar
 ai,I
 aitho-l-ökng,to nomadize
 aithog-äkng,to nomadize
 aj,I
 ajak,thunder
-aják,thunder
 ajakan,thunder
 ajan,cradle
 ajang,to play
 ajong,I
 ajun,we
+aják,thunder
 ak,firewood
-akänga,a k. of duck
 ake,rotten
+akänga,a k. of duck
 al-ïg,midday
 al-ïx,midday
-alácaga,to speak
 alacagarang,to speak
 alacamang,to bark
 alachenang,to weep
-aläföt,to wait
 alaga,star
 alagan,star
 alagan,star (1)
 alagei,star
 alagïchang,to row
 alak,star
-alák,star (1)
 alakan,star
 alakng,star
 alang,trousers
 alat,"woman, I sleep"
 alatan,I sleep
 alatang,I sleep
-aláten,to sleep
 alaujang,live
-aláx,star
 alcagar,to speak
 alcam,to bark
-alcët,to search
 alchen,to weep
 alchep,drinking
 alchin-tamši,hundred
@@ -118,62 +108,65 @@ alchin-tamšu,hundred
 alchip,dog
 alchiš,to row
 alchut,to suck
+alcët,to search
 alek,live
 aletekng,to stand
-aléten,source
 alfi,to extinguish
-alföt,to wait
 alfu,to blow
+alföt,to wait
 alippugi,niece
 alit,wife
 alit,woman
-alït,woman
 alit-äli,girl
-alït fua,niece
-alït phua,niece
 alitn,woman
-alïtn,woman
 alitpuga,grand-daughter
 alpeš,wonder
-alšáp,dog
-alšer,to scrape
-alšin,once
-alšip,dog
-alšip,male dog
 alt-tamši,hundred
 altek,to stand
 althagan,a k. of duck (1)
 althai,white-fish
-althájan,white-fish
-altháján,white-fish
 althakng,a k. of duck (1)
 althar,to shake
 althax,a k. of duck
+althiteka,midge
+althájan,white-fish
+altháján,white-fish
 althïtega,midge
 althïtegan,midge
-althiteka,midge
 althïtekan,ant
 altok,jumping
-altökng,jumping
 altumä,small bird
+altökng,jumping
 altüma,small bird
 altüman,small bird
 alup,tongue
+alácaga,to speak
+alák,star (1)
+aláten,to sleep
+aláx,star
+aläföt,to wait
+aléten,source
+alït,woman
+alït fua,niece
+alït phua,niece
+alïtn,woman
 alüp,tongue
+alšer,to scrape
+alšin,once
+alšip,dog
+alšip,male dog
+alšáp,dog
 ama,mother
-áma,mother
 amalang,fright
 aman,mother
-amar,small pit
 amar,hill
+amar,small pit
 ami,mother
 ana,son-in-law
-anäful,twirling
 anag,"string, lips"
 anagejang,bearing
-anan,son-in-law
 anan,daughter-in-law
-ánang,roe
+anan,son-in-law
 anangaithakng,to think
 anangaj,to think
 anangaja,clever
@@ -182,39 +175,33 @@ anangajalcek,to think
 anangajang,to think
 anangajolökng,to think
 anar,haunch
-ánar,haunch
 anathi,lashing
 anathijang,lashing
 ane,son-in-law
-aneä,daughter-in-law
-aneä,daughter-in-law
-anëgan,daughter-in-law
 anei,bearing
+aneä,daughter-in-law
+aneä,daughter-in-law
 anful,twirling
 ang,nose
-äng,nose
 angajak,I think
-ängán,nose
-ängi,nose
-ängie,nose
 angxoi,snake
 angxon,snake
 angxotn,snake
 ani,son-in-law
 anigej,be born
 anigejang,be born
-anïgpan,to sit
 annëan,daughter-in-law
-anšal,to whet
-anšët,releasing
 anthax,to fly
 anthi,lashing
 anthikng,to fly
 anu,ride on horse
-änu,roe
 anxa,dead
 anygpanang,to sit
-ápajang,to wound
+anäful,twirling
+anëgan,daughter-in-law
+anïgpan,to sit
+anšal,to whet
+anšët,releasing
 apang,healthy
 apëj-,to hunt
 apïkng,sweat
@@ -233,24 +220,15 @@ aru,cunning
 arupi,deception
 aruthalapi,to deceive
 aryn-gyt,slave
-ašetang,to release
-äšïgalang,to dry
-ašix,which
 aske,guilty
 askei,guilty
 askejing,guilty
 aski,guilty
 askijang. askö,guilty
-ašpar,cloud
-ašparang,cloud
-ašpor,cloud
-ašpórang,cloud
-aštamše,hundred
 astatajang,to stick into
 asthan,to stick into
 asthorïtei,to stick into
 asthütajang,to stick into
-aštökng,to jump
 at-p-akng,I shall pour
 atakal,saddle
 atche,tree
@@ -262,7 +240,6 @@ athöl,door
 athölajang,to send
 athölang,door
 atol,door
-átöl,door
 atpi,hearing
 atpifunakng,to be silent
 atpoa,it is heard
@@ -273,30 +250,38 @@ auong,thou
 ax,"trees, wood"
 axchex,stick into
 axha'ajang,to call
-axšei hengai,temple
 axtacheang,stick into
 axtalchex,stick into
 axtölacheang,stick into
+axšei hengai,temple
+ašetang,to release
+ašix,which
+ašpar,cloud
+ašparang,cloud
+ašpor,cloud
+ašpórang,cloud
+aštamše,hundred
+aštökng,to jump
 b-age-jang,to rot
 ba'ütang,to suck
 bachengang,I rub it
 bafot,I wait
-bafötang,to wait
 bafujang,blow
+bafötang,to wait
 bagitang,to search
 bagïtang,to search
-balä'ut,to suck
 bala'ütang,to suck
-balafötang,to wait
-baláfu,to blow
 balafujang,to blow
-balägit,to search
+balafötang,to wait
 balagïtang,to search
+balatharang,to shake
 balašer,to scrape
 balašërang,to scrape
-balatharang,to shake
 balomacan,what for
 balomas,which
+baláfu,to blow
+balä'ut,to suck
+balägit,to search
 baot,I wait
 bapajang,make
 bapujang,to pull
@@ -305,12 +290,10 @@ bar-ak,rotten
 barage-jang,to make sour
 bari,he
 barttajang,I stick into
-bašërang,to scrape
 batharang,to shake
 battajang,stick into
+bašërang,to scrape
 bej,wind
-biläng,which
-biläng,which
 bilchang,whence
 bili,where
 bilipei,how much
@@ -319,71 +302,66 @@ bilituise,what
 bilomaca,which
 bilomas,which
 bilthung,towards where
-bö,prohibitive particle
+biläng,which
+biläng,which
 buipujang,to pull
 bujäpui,to pull
 bulang,by foot
+bö,prohibitive particle
 cagar,speaking
 camii,goose
 chachuákng,to urinate
 chag-anthak,running
 chagal,dream
-chäganthagäkng,to run
 chaiganang,to burn
 chakaigán,I laugh
 chakajang,to laugh
+chake,laugh
 chakälche,I laugh
 chakälchi,I laugh
-chake,laugh
 chakölajang,I laugh
 chal,cold
-chalá,cold
-chálang,cold
 chalaugan,to roast
 chalauganang,to roast
 chaltu,cold
+chalá,cold
 cham,barking
-chamáng,barking
 chamar šulpi,berry
+chamáng,barking
 chan,tree trunk
 chang,guest
 chaš,to urinate
 cheang,people
+chet,larch
 cheäng,people
 cheängan,people
-chet,larch
 chi,tree trunk
 chichaba,wagtail
 chichipa,wagtail
 chichipan,wagtail
-chïk,resin
-chïkan,resin
 chingjan,rock
 choltu,cold
 choltui,cold
 chuj,month
+chálang,cold
+chäganthagäkng,to run
+chïk,resin
+chïkan,resin
 ci-nžet,salt
 ciltu,coldly
 cuj,month
-d-ä-u,you become
 d-á-v-aq,to leave
+d-ä-u,you become
 d-äja-ng,I become
 da'ut,fastening
 dacagarang,to speak
 dachakngang,I stand
 dachamang,to bark
-dächamang,to bark
 dachënang,to weep
-dächokng,I shall enter
-däfal,board
-däfalang,board
-däfol,board
-däful,board
 dagat,I sleep
 dagei,to cover
 dagejang,to make sour
 dagichang,to row
-dägichang,to row
 dajang,to expel
 dakat,child
 daki,to bend
@@ -392,27 +370,22 @@ dalathi,to lash
 daleä,girl
 dalthi,to lash
 dan,lip
-dán,lip
 danan,roe
-dánang,lip
 danche,drive
 danki,to bend
-dašiang,I dress myself
 datang,to lie
 datekng,to stand
-dätekng,to stand
 dathi,lashing
 daujang,to sit
 dax,expelling
 daxajang,to die
+dašiang,I dress myself
 degeä,to cover
 dekngai battang,to swallow
 dekngai ëštajang,to swallow
 dera,a small inset
 derán,a small inset
 detn,a small inset
-dï,mountain
-dïan,mountain
 digen,moss
 dilakng,to speak
 dili,speaking
@@ -421,28 +394,39 @@ dipang,leaf
 dipi,leaf
 dipï,leaf
 dira,a small inset
-dirä,a small inset
 direi,a small inset
+dirä,a small inset
 ditn,a small inset
 do'ütang,to fasten
 doga,nit
-dökiang,to bend
-dölathiang,to lash
 donage,drive
-dönajang,drive
-dönaki,to bend
-dönakiang,to bend
-döšiang,I tear out
 dothiang,to lash
 dugoättang,to cover
 dugöttang,to be covered
 duotebaq,to hold
 duoteberaq,to hold
 duta,mouse
+dán,lip
+dánang,lip
+dächamang,to bark
+dächokng,I shall enter
+däfal,board
+däfalang,board
+däfol,board
+däful,board
+dägichang,to row
+dätekng,to stand
+dï,mountain
+dïan,mountain
+dökiang,to bend
+dölathiang,to lash
+dönajang,drive
+dönaki,to bend
+dönakiang,to bend
+döšiang,I tear out
 düta,mouse
-dütä,mouse
 dütn,mouse
-eäkng,"name, day"
+dütä,mouse
 eang-alaše,to scratch
 eang-alše,to scratch
 eang-alši,to scratch
@@ -455,55 +439,30 @@ eangöjang,to write
 eangölagi,to write
 eangölajang,to write
 eangöx,writing
-ëchán,sky
-ëchang,fish scales
 echen,I weep
-ëchi,fish scales
-éditu,alive
 eg,goat
 ega,sun
-éga,sun
-ëga,sun
-ëgä,sun
-ëgang,sun
-ëgei,sun
 ei,pine
 ei,sound
 ej,pine
-ëjang,sound
-ëk,hair
-ëkán,hair
 ekng,name
-ëkng,hair
 elota,I beat
-ëmpul,mosquito
 en,pine
 en,wave
-ën,wave
-ënang,wave
-ënengaiše,to forget
 enguigen,to write
 enoši,I forget
-ënšekng,forgetfulness
 enuaiše,forgetfulness
 enunguiše,forgetfulness
-ëper,round
-eš,sky
-ëš,sky
-ešalyky-tan,flower
 et-pang,soon
-ëtang,alive
-ëtang,sharp
-ëti,alive
-ëti,sharp
-ëtï,alive
-ëtï,sharp
 etutu,alive
 exá,dead
+eäkng,"name, day"
+eš,sky
+ešalyky-tan,flower
 fa,breast
-fachä,big
 fachagar,winding
 fachan,thin
+fachä,big
 fago,dirt
 faguäkng,defecate
 fai,breast
@@ -517,48 +476,34 @@ falanchagan,sack
 falanche,sewing
 falanchkng,sack
 falang,sweet
-falangälše,to sew
 falangoläši,to sew
+falangälše,to sew
 falangölašiang,to sew
 falangöšiang,to sew
-fäle,fat
-fäli,fat
-fäligäkng,to become fat
 falta,to stand up
 faltajang,to stand up
 fan,man
 fanfui,to wind
 fantax,to girdle
-farán,wood
-faránang,wood
 farpag,face
 farpagan,face
 farpakan,tree bark
 farpax,face
+farán,wood
+faránang,wood
 fatagákng,to stand up
 fatap,palm of hand
 fatapang,palm of hand
 fatax,girdling
-fëchang,shaman's drum
 fei,cedar
 fen,cedar
 fenang,ashes
 fenangan,ashes
-fëncera,woodcock
-fëncerá,woodcock
-fëncerai,woodcock
-fëncetn,woodcock
 feng,female
-fëpar,thigh
 feš,shaman's drum
 feštajang,to hang
 feštap,wolverine
-fëštap,wolverine
-fëštapan,wolverine
-fëštapang,wolverine
 fi,berry
-fï,man
-fïa,man
 fiafui,bent
 figan,berry
 figang,berry
@@ -568,52 +513,65 @@ fin,dandruff
 finang,"ashes, dandruff"
 fini,dandruff
 fit öginang,to glue
-föchagarang,to wind
 fofüjang,to wind
-fögan,dung
 fogar,dung
-fök,dung
-fökan,dung
-fölachagarang,spool
-fönafüjang,to wind
-fónatákng,to girdle
-fötajang,to hang
-fótákng,to girdle
 fotekng,I shoot
-föx,dung
 fozbag,depth
 fu,nephew
 fuan,nephew
 fugai,tail
 fugaj,tail
 fugajang,tail
-fügam,soft
 fui,inside
-füi,inside
 fuimur,neck
-füjang,inside
 fukai,tail
 fukajang,tail
-fükam,soft
 fukng,fisher net
 ful,hammer
-fülang,hammer
 fulit,from a different side
 fun,daughter
-fünan,daughter
 funang,ashes
-funchálang,"small sleigh, sleigh"
 funchol,"to slide, sleigh"
+funchálang,"small sleigh, sleigh"
 fung,fisher net
 fup,son
 fupan,son
 fur,a k. of duck
 fur,"clear, a k. of duck"
+fäle,fat
+fäli,fat
+fäligäkng,to become fat
+fëchang,shaman's drum
+fëncera,woodcock
+fëncerai,woodcock
+fëncerá,woodcock
+fëncetn,woodcock
+fëpar,thigh
+fëštap,wolverine
+fëštapan,wolverine
+fëštapang,wolverine
+fï,man
+fïa,man
+fónatákng,to girdle
+fótákng,to girdle
+föchagarang,to wind
+fögan,dung
+fök,dung
+fökan,dung
+fölachagarang,spool
+fönafüjang,to wind
+fötajang,to hang
+föx,dung
+fügam,soft
+füi,inside
+füjang,inside
+fükam,soft
+fülang,hammer
+fünan,daughter
 gachaj,nest on earth
 ganala,below
 gechan,footwear
 gej,clothes
-géjang,five
 gijlin,mountain
 gijtu,bow-string
 gipan,leaf
@@ -621,70 +579,59 @@ grajalí,eat
 guja,pike
 gulub,beard
 guš,horse
-hachágal,to spend the night
+géjang,five
 hachapitang,I press
 hachar,foot sole
 hacharang,foot sole
 hachej,nest on earth
 hachejang,nest on earth
+hachágal,to spend the night
 hachïp,to plug
 had-kip,husband
 hag-ši,good
 haga,ten
-hagá,wild onion
 hagal,thick
-hagán,wild onion
-hágiang,ten
-hagïnangan,pole of the tent
 hagine,pole of the tent
+hagá,wild onion
+hagán,wild onion
+hagïnangan,pole of the tent
 hagïni,pole of the tent
 hai,uncle
 haipanang,sleeve
 haipen,sleeve
 haipicháng,angry
-häja,aunt
 hajan,uncle
-häjan,aunt
 hajang,track
-häjei,aunt
 hakal,thick
 halachágal,to spend the night
 halap,half
 halapang,half
 halchig,hoof
 halchikng,hoof
-halchïp,to plug
 halchix,hoof
+halchïp,to plug
 hali,war
-halüp,beard
 halupang,beard
+halüp,beard
 ham,dish
 hama,dish
-hämang,dish
-häna,down
-hänal,below
-hánala,low
 hangkan,fist
 hankanang,fist
 hantïng,to climb
-hapälchek,to trade
 hapar,back
 hapar,"foam, back"
 haparang,back
 haparang,foam
 hapi,trade
 hapit,to press
-hapölökng,to trade
 haptu,middle
 hapur,foam
-harä,quickly
+hapälchek,to trade
+hapölökng,to trade
 harai,bred
-háran-chex,to hack
-hárangálchex,to hack
 harangat,servant
 haranget,servant
-hárangöcheang,to hack
-haš,badger
+harä,quickly
 hat,fire
 hat akfätekng,to burn
 hatagëm,arrow
@@ -695,7 +642,6 @@ hatan,fire
 hati,fire
 hatkït,husband
 hatkïtn,husband
-hätola,look there
 hatung,towards there
 hau,horn
 hau'i,horn
@@ -703,86 +649,137 @@ hau-,island
 hau-tu,island
 hautan,backwater
 hautu,backwater
+haš,badger
 he'ütang,to climb
-hëchang,milled boot
-hëchi,milled boot
 hei,clothes
-hëi,clothes
 hejang,"coat, to go"
-hëjang,clothes
 hek,road
 hem,then
 hen,fanthon
 hen-chrang,shoe
-hëna'ütang,to climb
-hënang,fanthon
-hënar,shoulder joint
-hënarang,shoulder joint
-hëncut,to climb
 hengai,hair
 herai,bred
 herajang,feeding
 het,"fire, man"
 het-cha,shooting
-hï,cross-bow
 hi-tafui,yarn
 hi-tafujäkng,to spin
 hichak,going in
-hichïn,hurry
 hichoga,was
+hichïn,hurry
 hienligit,to grind
 hiensigit,to grind
-hïgar,harrier
-hii,prince
 hii,cross-bow
+hii,prince
 hijan,cross-bow
-hïjan,prince
-hïjang,cross-bow
-hïje,prince
-hïji,prince
 hik,road
 hikei-še,owl
 hikei-ši,owl
-hïkng,prince
-hïla,crow
 hilen,go give
 hili,outside
 hiliga,towards outside
 hilipënang,go give
 hinar,shoulder joint
 hingit,to grind
-hïp-ëg,field
-hïpa,lying on one's face
-hïpëang,field
-hipënang,go give
-hïpëx,field
 hipit,to milk
+hipënang,go give
 hit,man
 hit-cha,shooting
 hit-cha-kng,to shoot
 hitag,body
 hitagan,body
-hïtakng,belt
 hitax,body
-hïtëg,belt
-hïtëx,belt
-hö,illness
-hóhuj,face
 hoi,worm
-hökng,horn
 hol,cheeks
-höl,cheeks
 hol-pei,eel
 hola,sterlet
-hólan,cheeks
-hölang,cheeks
 hon,worm
-hön,dark
 honang,yawning
-hönang,not long ago
 honangäkng,to yawn
 honchig,yesterday
 hontu,darkly
+hou,dead
+hu,prince
+hucha,one
+huchan,horse
+huchax,going in
+hui,deer
+hui,empty
+huj,cross-bow
+huj,"prince, deer"
+huje-äkng,to shout
+hujei,shouting
+hujtu,dry
+hujung,spitting
+hujungakng,to spit
+huján,deer
+huk,hole
+hukai bättang,to warm
+hukaichei,warning
+hulup,beard
+hulup,ermine
+hulupán,ermine
+hulüpang,beard
+hung,tent
+hupan,a k. of wood grouse
+hupanga,spit
+hupi,a k. of wood grouse
+hupuchang,stick
+hupuš,stick
+hupár,top of tree
+hupárang,top of tree
+hupöi,coal
+hupöjang,coal
+hus,tent
+hush,house
+huš,horse
+huš,steed
+hyt,man
+hyš,steed
+hágiang,ten
+hánala,low
+háran-chex,to hack
+hárangálchex,to hack
+hárangöcheang,to hack
+häja,aunt
+häjan,aunt
+häjei,aunt
+hämang,dish
+häna,down
+hänal,below
+hätola,look there
+hëchang,milled boot
+hëchi,milled boot
+hëi,clothes
+hëjang,clothes
+hëna'ütang,to climb
+hënang,fanthon
+hënar,shoulder joint
+hënarang,shoulder joint
+hëncut,to climb
+hï,cross-bow
+hïgar,harrier
+hïjan,prince
+hïjang,cross-bow
+hïje,prince
+hïji,prince
+hïkng,prince
+hïla,crow
+hïp-ëg,field
+hïpa,lying on one's face
+hïpëang,field
+hïpëx,field
+hïtakng,belt
+hïtëg,belt
+hïtëx,belt
+hóhuj,face
+hólan,cheeks
+hö,illness
+hökng,horn
+höl,cheeks
+hölang,cheeks
+hön,dark
+hönang,not long ago
 höpal,exactly
 höpang,mouth
 höpi,mouth
@@ -791,151 +788,81 @@ hörang,autumn
 höri,autumn
 hörï,autumn
 höti,is heard
-hou,dead
-hu,prince
-hucha,one
-huchan,horse
-hüchapeang,at home
-huchax,going in
-hui,empty
-hui,deer
-huj,cross-bow
-huj,"prince, deer"
 húja,pike
+hüchapeang,at home
 hüja,pike
 hüjä,pike
-huján,deer
-huje-äkng,to shout
-hujei,shouting
-hujtu,dry
-hujung,spitting
-hujungakng,to spit
-huk,hole
-hukai bättang,to warm
-hukaichei,warning
 hükng,pike
-hulup,beard
-hulup,ermine
-hulupán,ermine
-hulüpang,beard
 hünáng,hole
-hung,tent
-hupan,a k. of wood grouse
-hupanga,spit
-hupár,top of tree
-hupárang,top of tree
-hupi,a k. of wood grouse
-hupöi,coal
-hupöjang,coal
-hupuchang,stick
-hupuš,stick
-hus,tent
-huš,horse
-huš,steed
-hush,house
 hütn,creek
 hütnang,creek
-hyš,steed
-hyt,man
 i,day
 iban,leaf
 ich,meat
 ichan,feather
 ichang,feather
-ïchang,meat
 iche,feather
 ichi,"meat, feather"
-ichï,feather
-ïchi,meat
 ichichan,root
-ïchökng,to run
-ïchöx,to run
+ichï,feather
 ig,male
-ïg,day
 iga-alchip,male dog
-ïgalaichejákng,to dry out
 igejang,to be born
 igíg,male
-ïgpanang,to sit down
 iij,spring
 ij,mountain
 ija,sable
-íja,sable
-ïjän,spring
 ijang,go away
-ïjang,spring
-ïji,spring
-ïjï,spring
 ikajang,I turn round
-ikáng,louse
 iki,louse
-ïkng,name
+ikáng,louse
 il-it,man
 im,nut
-ïm,nut
-ïman,nut
-ïmang,"nut, near"
 imanga,near
 imgara,"small, flea"
 imi,crane
 imirangága,little
 imyrangága,little
 in,needle
-ïn,needle
 in-chang,from here
-ïn-fa,twice
-ïn-pa,twice
 ina,two
-ïna,two
 inang,needle
-ïnang,needle
 incha,two
 ine,two
 inee,two
-ínej,being there
-inéje,two
-ïng,being there
 ini,here
-ínij,being there
 intuk,twenrty
 inu,this
+inéje,two
 ipal,free
-ïpal,"free, tree"
-ïpatn,tree
-išthip,iron nail
-išthipang,iron nail
-ït,smell
-ïta,smelling
-ïtal,bellow
 itang,tooth
 ite,tooth
 itenang,I am lying down
 ithakng,to jump
 iti,tooth
-itï,tooth
 itik,way
-ïtn,smell
+itï,tooth
 itöj-,to come
 ix,name
-ïx,"name, day"
+išthip,iron nail
+išthipang,iron nail
 ja,I
 ja-pej,wind
 jacheenon,I weep
-jáfolang,bench
-jáhatan,to sleep
 jali,boy
 jali in pašup jali,step-son
 jan,live
 jatyken,they stand
-játyken,I stand
-jatýkendon,he stands
 jatyxu,you stand
+jatýkendon,he stands
 jii,mountain
 jipán,leaf
 juda,mouse
+jáfolang,bench
+jáhatan,to sleep
+játyken,I stand
 kachei,reading
 kacheithákng,to read
-kächoga,ankle-bone
 kai,returning
 kajajnan,hungry
 kajante,hunger
@@ -948,78 +875,79 @@ kamura,crookedly
 kanan-a žujban,lightning
 kanan-ichiban,lightning
 kananggichiban,lightning
-kanángichibàn,lightning
 kanchal,testiculi
 kang,river
 kankoi,throat
+kanángichibàn,lightning
 kapäkng,to buy
 kar,cunnus
 karad,steppe
 karang,steppe
 karatu,fatly
 kat,children
-kë'är,hand
 keang,wing
 kega,five
-këgar,hand
 kei,wing
 kej,wing
-këjang,price
 kejche,five
 kem,river
 kempala,root (1)
 ken,wing
 kenar,arm
 kenar-xatken,elbow
-kénga-fuj,eagle-owl
-kéngafuj,owl
 keri,grass
-këtän,winter
-këtang,winter
 kete,winter
-këti,winter
-këtï,winter
 kha,death
-khëg,word
-khëga,five
 khei,mountain
-khëlëx,mountain
 khem,arrow
 khep,boat
-ki,price
+khëg,word
+khëga,five
+khëlëx,mountain
 ki,new
+ki,price
 king,smell
 kining,light
 kinïx,light
 kir,butter
-kïr,fat
-kïrang,fat
 knik,dawn
-kö-nang,brain
-kö-nang,brain
 kogar,back
 koipala,kidney
 koipalei,kidney
 koipatn,kidney
-kója,deer
-köja,elk
-kójbaten,hail
 kojpat,hail
-kójpat,hail
 konkoj,throat
 kulep,shovel
 kulëp,shovel
 kulëpang,shovel
+kurup,animal hole
+kurïragan,crane
+kurïrakng,crane
+kurïrax,crane
+kuterei,to make noise
+kuvulán,burning coal
+kächoga,ankle-bone
+kénga-fuj,eagle-owl
+kéngafuj,owl
+kë'är,hand
+këgar,hand
+këjang,price
+këtang,winter
+këti,winter
+këtän,winter
+këtï,winter
+kïr,fat
+kïrang,fat
+kója,deer
+kójbaten,hail
+kójpat,hail
+kö-nang,brain
+kö-nang,brain
+köja,elk
 kúra,string
 küra,strap
 kürakng,strap
 kürei,strap
-kurïragan,crane
-kurïrakng,crane
-kurïrax,crane
-kurup,animal hole
-kuterei,to make noise
-kuvulán,burning coal
 linïgän,light
 m-inšo,my
 mampukng,to find
@@ -1030,66 +958,40 @@ mon,not
 mön,not
 nenašili,bird
 ngäliga,I know
-öan,father
 ob,father
-öb,father
-öfiang,to extinguish
-öfülang,to twirl
-öga,sun
 oga'acheang,to kill
-ögai,earlier
 ogaj-bónga,in front
-ogán,branch
-ögang,meadow
-ogé,branch
-öge,branch
 ogei,branch
+ogán,branch
+ogé,branch
 ohög,dung
 okan,branch
 okchex,killing
-öke,branch
 ol,grave
 ol,naked
-öl,naked
-ölafi,to extinguish
-ölafiang,to extinguish
-ölafülang,twirling
-ölang,"string, grave"
 olangan,string
 olange,string
-ölapajang,to clean
 olapang,to drink
-öläpi,to clean
 oltakng,swamp
-oltëg,swamp
 oltegan,lake
 oltex,swamp
+oltëg,swamp
 oltëx,swamp
-önafülang,twirling
-onäšal,to whet
-önašalang,to whet
-öngang,bind
 onka,dead
-onšëtang,releasing
+onxa,dead
 onxa,dead
 onxa,death
-onxa,dead
 onxajang,dead
 onxoi,snake
+onäšal,to whet
+onšëtang,releasing
 op,father
-öp,father
-öpajang,to clean
-öpang,father
-öpang,to drink
 oreäk,green
-oš,durch
-öšalang,to whet
 ota,come here
-öx,meadow
 oxchex,killing
+oš,durch
 pa,breast
 pacha,big
-páchaga,big
 pachai,big mountain
 pachaji,big mountain
 pachan,hare
@@ -1100,83 +1002,77 @@ pagang,mitten
 pajang,many
 pak,earth
 pala,hotness
-palá,hot
 palakng,separate
 palanga,sweetly
 paltu,hot
+palá,hot
 pan,earth
 pang,earth
 pangutu,shore
-paš-üp-še,orphan
-pašup jali,stepson
 pat,a k. of salmon
 pateg,brother-in-law
 patega,sister-in-law
 pategapun,sister-in-law
-patn,duck
 patn,a k. of salmon
-pëg,log
+patn,duck
+paš-üp-še,orphan
+pašup jali,stepson
 pegai,elsewhere
-pëgai,elsewhere
 pei,"other, cedar"
-pëi,"wind, other"
 pej,wind
 pen-kuš,horse
 penga-alchip,bitch
 penguš,horse
-peš,hare
 pestáp,wolverine
-pëx,log
+peš,hare
 pfóltu,hot
 pha,breast
-phachä,big
 phachan,thin
+phachä,big
 phago,dirt
 phaitung,beater of the shaman drum
 phal,hot
 phalang,sweet
-phäli,fat
 pharan,wood
 phatap,palm of hand
 phenang,ashes
-phëncera,woodcock
-phëncerá,woodcock
-phëncerai,woodcock
-phëncetn,woodcock
 pheng,female
-phëpar,thigh
 pheš,shaman's drum
 pheštap,wolverine
 phi,berry
 phiafui,bent
 phogar,dung
-phök,dung
 phu,nephew
 phugai,tail
-phügam,soft
 phui,inside
 phuimur,neck
 phuimurang,neck
 phul,hammer
-phülang,hammer
 phulit,from a different side
 phunchol,"to slide, sleigh"
 phur,a k. of duck
 phur,"clear, a k. of duck"
+phäli,fat
+phëncera,woodcock
+phëncerai,woodcock
+phëncerá,woodcock
+phëncetn,woodcock
+phëpar,thigh
+phök,dung
+phügam,soft
+phülang,hammer
 pichal,face
 pichal,forehead
 pichalang,face
 pichiga,"to sow, evening"
-pién-ki,male of a wild goat
 pij'iga,evening
 pijal,man
 pil,far
-pïl,far
 pilä,far
 pin,duck
 pinj'ólan,chin
 pis,tail
-pïš,evening
+pién-ki,male of a wild goat
 pl. šeng,stone
 pol-šoja,tree fungus
 pop-,brother
@@ -1184,49 +1080,531 @@ popëcha,sister
 popëš,brother
 puchar,thick
 puga,grandson
-pugáj,tail
 pugama,softly
-pul,leg
+pugáj,tail
 pul,foot
+pul,leg
 pul-gatken,hip
 pulan,legs
 pulan-ajáha,to walk
-pulán-ujáha,to walk
 pulanajáha,to go
 pulang,foot
-puláng,"legs, feet"
-pulánujáha,to go
 pulap,sole of foot
 pulapang,sole of foot
 pulpatap,metatarsus
-pun,fisher net
+pulán-ujáha,to walk
+puláng,"legs, feet"
+pulánujáha,to go
 pun,daughter
-púnchol,chin
+pun,fisher net
 punchola,cheeks
-púnj'ol,chin
 pup,son
 puš,penis
 pyn,duck
+páchaga,big
+pëg,log
+pëgai,elsewhere
+pëi,"wind, other"
+pëx,log
+pïl,far
+pïš,evening
+púnchol,chin
+púnj'ol,chin
 qaga,five
 qagal,bone
 qatn,trap
 qi:n,moon
+qy'j,birch bark
 qïl,broad
 qïp,moon
-qy'j,birch bark
 raj,food
 rajalí,eat
+sating,river
+si-cei,to make
+sifu,to vlow
+sigit,searching
+suföt,waiting
+suk,paint
+tagai,head
+tagalá,bat
+taganang,light
+tagar,clay
+tagar-fui,middle
+tagechen,husk
+tagá,eagle
+tagála,bat
+tagé,eagle
+taibii,storm
+tajbej,storm
+tak,dividing
+takai,head
+takantu,light
+take,eagle
+takng,eagle
+takng,pus
+takthäkng,to divide
+tal,sinew
+tamuk,window
+tamú,window
+tamünang,window
+tanang,nipple
+tarababa,I condone
+taran,dirt
+tarei,rough cloth
+tarup,suede
+tarëi,rough cloth
+tarüp,suede
+tax,dividing
+taxthäkng,to divide
+te,hat
+tebolä,spleen
+teg,fish
+tegama,white
+tegan,light
+tei,hat
+tekam,is white
+tekng,hat
+tekán,light
+tem,arrow
+ten,nipple
+teš,eye
+thachakïtang,to smear
+thachapilang,I shall overtake
+thagakng,to flay
+thagan,sand
+thagar,clay
+thajang,to send
+thakan,sand
+thakng,belt
+thakït,smearing
+thalaga,rotten
+thalagan,rotten wood
+thalak,rotten wood
+thalakng,rotten wood
+thalakïtang,rubbing
+thalax,rotten wood
+thalche,expelling
+thalche,to send
+thaligai,to stay
+thaligajang,to stay
+thalkït,rubbing
+thalok,belly
+thalox,belly
+thaläkït,rubbing
+thanax,to flay
+thang,seeing
+thangang,I see
+thapalö,naked
+thapit,to milk
+thapui,staff
+thapujang,staff
+thateng átha,direct
+thatn,a k. of fish
+thatá déginang,direct
+thax,flaying
+thax,sending
+the,bow-string
+theang,hoar-frost
+thechujang,to send
+thegal,below
+thegalchang,below
+thekng,bow-string
+thempul,root
+theäng,hoar-frost
+theängan,hoar-frost
+theür,thin
+thi,bow-string
+thi'ä,cow
+thigal,below
+thigä,cow
+thigän,cow
+thikng,"cow, bow-string"
+thip,iron
+thipang,iron
+thit,a k. of fish
+thog,finger
+thogan,finger
+thogei,finger
+thogi,finger
+thok,finger
+tholagi,to send
+thox,finger
+thu,clay
+thu,unripe
+thui,cheap
+thul,left
+thum,black
+thun,comb
+thunang,comb
+thutul,intestine thin
+thutulang,intestine thin
+thutuli,intestine thin
+tháge,narrow
+thápora,hoop
+thápotn,hoop
+thápura,hoop
+thápuran,hoop
+thápurán,hoop
+tháputn,hoop
+thát-ógan,direct
+thé'är,otter
+thég,belt
+thégam,white
+thégär,otter
+thékam,white
+thémpul,root
+thépulang,root
+théx,belt
+thëlujang,expelling
+thëta,acroos
+thïga,downwards
+thïgajang,to stay
+thïk,snow
+thïkan,snow
+thïki,snow
+thölajang,to send
+thönage,to flay
+thönakng,to flay
+thüki,short
+ti,hat
+tiekama,white
+tik,snow
+tin,fir tree
+tini,fir tree
+tinžet,salt
+tip,iron
+tipar,fog
+tivíj,to ask
+tiš,eye
+ton,knife
+tonchi,three
+tongä,three
+tonog,winter
+tonoopatyk,I cut
+tontuku,thirty
+toragen,clothing
+tox,jump
+tu,"smoke, clay"
+tua,perch
+tuan,smoke
+tug,smoke
+tugalin,behind
+tugan,perch
+tugiga,low
+tui,smoke
+tujbúl,root (1)
+tujga,cheap
+tuk,saliva
+tululáng,intestines
+tulók,belly
+tuma,"blackly, window"
+tunu,fir
+tupunang,fishing rod
+tupung,fishing rod
+tutula,intestines
+ty,coming from upstream
+tybúl,root
+tyg,"cow, fish, snow"
+tyganá,light
+tyk,"cow, fish, snow"
+tym,arrow
+tálang,sinew
+tëg,fish
+tëgan,fish
+tëx,fish
+tï,hat
+tïlangan,willow
+tïle,willow
+tïli,willow
+tïnangan,fir tree
+tïni,fir tree
+tïní,fir tree
+tïpar,fog
+tïš,eye
+tökng,jumping
+tön-thikng,thirty
+tönaful,grass
+tönapul,grass
+tönapulang,grass
+tönga,three
+töp,eating
+töpäkng,eat
+túga,perch
+túgiga,low
+tüt,awl
+tütn,awl
+ucha,birch
+ucha,putting to bed
+uchaptanang,mushroom
+uchaptar,mushroom
+uchatapitaran,mushroom
+ucholökng,to sleep
+uchäkng,to lie down
+uchälchek,to sleep
+ui,cradle
+ui,long
+uijang,ride on horse
+ujal,above
+ujampolangan,mosquito
+ujampolo,mosquito
+ujempol,mosquito
+ujempolang,mosquito
+ujempul,mosquito
+ujempulang,mosquito
+ujga,long
+ujompal,mosquito
+ujáha,ride on horse
+ujä,up along the stream
+ujöm,that
+uk,milk soup
+ukan,milk soup
+ul,water
+ul-is,ghost
+ul-tëj,to scoop
+ul-šui,bathing
+ulabungái,drink
+ulai,by the side of
+ulai,song
+ulailökng,to sing
+ulajakng,to sing
+ulajalchek,to sing
+ulajang,rib
+ulajang,song
+ulapthai,ice hole
+ulapthäi,ice hole
+ulapthäjang,ice hole
+ulapungai,drink
+ulise,ghost
+ulisi,ghost
+ulisin,ghost
+ulái,rib
+ulär,side
+ulšujakng,to bathe
+ulšujáthákng,to bathe
+un,not loud
+ung,sitting
+uotegdaq,to hold
+ur,rain
+ur-ki,washing
+uralki,to wash oneself
+uralkie,to wash oneself
+uran,dew
+uran,wetly
+uranang,dew
+urax,rain
+uraš,rain
+urekbas,blue
+ureäk,green
+urkiše,soap
+urkolökng,soap
+urkäkng,to wash oneself
+urkälcek,soap
+uroläki,to wash oneself
+urtek,lake
+urthekng,rain
+urtu,wetly
+urtég,lake
+uruk,mountain valley
+urá,wetly
+urán,dew
+urökiang,to wash
+urölakiang,to wash oneself
+urše,beaver
+uršä,beaver
+ut-ax,to hold
+uta-tër,to wet
+utcha,putting to bed
+utchäkng,to lie down
+utiga,towards here
+uxei,flour
+uxëi,flour
+ušfauk,opening
+ušfe,away
+ušfoattang,away
+ušföttang,to open
+ušigalang,to dry
+ušpauk,opening
+ušpe,away
+ušpoattang,away
+ušpöttang,to open
+xa,death
+xabak,I sell
+xabar,back
+xagal,bone
+xaha,ten
+xajikng,death
+xajp,boat
+xakal,bone
+xalchik,hoof
+xalpen,spoon
+xamang,arrow
+xanchi-xit,one
+xapang,boat
+xapitan,I buy
+xat,fire
+xatn,trap
+xatnang,trap
+xei,mountain
+xem,arrow
+xenar,shoulder
+xep,boat
+xii,cross-bow
+xit,man
+xitej,belt
+xlup,beard
+xoboj,mouth
+xon,beetle
+xonšu,darkly
+xou,illness
+xulup,beard
+xulup,ermine
+xulüp,beard
+xysh,house
+xángen-by,river
+xáranget,servant
+xëg,word
+xëga,five
+xëgan,word
+xëjang,mountain
+xëlëtn,mountain
+xëlëx,mountain
+xëp,boat
+xóna,darkly
+xónži,yesterday
+xújga,dry
+y,day
+ycha,birch
+yja,sable
+ymatyp,tin
+yna,two
+ynä,two
+zii,big mountain
+áma,mother
+ánang,roe
+ánar,haunch
+ápajang,to wound
+átöl,door
+ägan,fox
+ägatal,saddle
+ägatn,fox
+ägatálang,saddle
+äng,nose
+ängi,nose
+ängie,nose
+ängán,nose
+änu,roe
+äšïgalang,to dry
+éditu,alive
+éga,sun
+ëchang,fish scales
+ëchi,fish scales
+ëchán,sky
+ëga,sun
+ëgang,sun
+ëgei,sun
+ëgä,sun
+ëjang,sound
+ëk,hair
+ëkng,hair
+ëkán,hair
+ëmpul,mosquito
+ën,wave
+ënang,wave
+ënengaiše,to forget
+ënšekng,forgetfulness
+ëper,round
+ëtang,alive
+ëtang,sharp
+ëti,alive
+ëti,sharp
+ëtï,alive
+ëtï,sharp
+ëš,sky
+íja,sable
+ínej,being there
+ínij,being there
+ïchang,meat
+ïchi,meat
+ïchökng,to run
+ïchöx,to run
+ïg,day
+ïgalaichejákng,to dry out
+ïgpanang,to sit down
+ïjang,spring
+ïji,spring
+ïjän,spring
+ïjï,spring
+ïkng,name
+ïm,nut
+ïman,nut
+ïmang,"nut, near"
+ïn,needle
+ïn-fa,twice
+ïn-pa,twice
+ïna,two
+ïnang,needle
+ïng,being there
+ïpal,"free, tree"
+ïpatn,tree
+ït,smell
+ïta,smelling
+ïtal,bellow
+ïtn,smell
+ïx,"name, day"
+öan,father
+öb,father
+öfiang,to extinguish
+öfülang,to twirl
+öga,sun
+ögai,earlier
+ögang,meadow
+öge,branch
+öke,branch
+öl,naked
+ölafi,to extinguish
+ölafiang,to extinguish
+ölafülang,twirling
+ölang,"string, grave"
+ölapajang,to clean
+öläpi,to clean
+önafülang,twirling
+önašalang,to whet
+öngang,bind
+öp,father
+öpajang,to clean
+öpang,father
+öpang,to drink
+öx,meadow
+öšalang,to whet
+üca,birch
+ücan,birch
+ül,water
+ülan,even
+üluk,bubble
+ür,rain
+üra,rainy
+ürang,rain
+ürtakng,lake
+ürtëg,lake
+ürtëx,lake
+üt-pang,in vain
+ütakng,to steal
+ütam,wholly
+ütholökng,to steal
+üti,stealing
+üti,wholly
+ütö,secret
+üša,away
 šag,crust on snow
 šaga,squirrel
-šagá,squirrel
-šagä,four
-šága,squirrel
 šagal,spending the night
 šagale,stump
 šagali,stump
 šagalikng,stump
-šagán,squirrel
 šagar,hard
+šagá,squirrel
+šagán,squirrel
+šagä,four
 šaha,squirrel
 šajang,bear
 šak,crust on snow
@@ -1234,11 +1612,9 @@ rajalí,eat
 šakaryga,hardly
 šal,sharp edge
 šalang,sharp edge
-šálang,sharp edge
 šali,sharp edge
 šaman,goose
 šame,"goose, dream"
-šáme,goose
 šang,night
 šat,crucian
 šat,larch
@@ -1246,69 +1622,40 @@ rajalí,eat
 šatang,fur from reindeer's legs
 šati,river
 šati,river
-sating,river
 šatn,crucian
 šax,crust on snow
 šaxa,squirrel
 šega,four
-šëga,year
-šëgä,four
 šegang,four
 šeggiang,four
-šei,wound
 šei,to wound
+šei,wound
 šeipi,wounding
 šeja,to wound
 šejche,four
-šëkan,splinter
-šëki,splinter
-šëkng,splinter
-šelä,wild animal
 šele,wild animal
 šele,wild animal
 šeli,wild animal
 šelpan,summer
+šelä,wild animal
 šena,what
-šënang,shaman
-šënang,witchcraft
-šënangäkng,to conjure sorcery
-šëp,enough
-šet,river
 šet,larch
-šët,river
-šët,larch
-šët,fur from reindeer's legs
-šët,river
-šétagai,river
+šet,river
 šetn,wild animal
-šëtög,brook
-šëtögan,brook
-šëtök,brook
-šëtökan,brook
-šëtökng,brook
-si-cei,to make
 ši-nchët,salt
 ši-pi,cleaning
 šichal,whetting
+šicher,scraping
+šichil,liver
 šichátang,lungs
 šichátn,lungs
-šicher,scraping
 šichët,releasing
-šichil,liver
 šifi,extinguishing
-sifu,to vlow
 šiful,twirling
 šig,night
-šïg,night
-šïgal,dry
-šïgalaichei,drying
-šïgán,swan
 šigang,to bind
 šigei,bearing
-šïgi,swan
 šigiš,rowing
-sigit,searching
-šïkng,heavily
 šilpakng,summer
 šilpang,summer
 šilpangán,summer
@@ -1322,39 +1669,28 @@ sigit,searching
 šingeäkng,stone
 šingeäng,stone
 šipu,pulling
-šiš,stone
-šïš,stone
-šišatyn,lungs
 šitar,shaking
 šitäti,learning
-šitätiákng,to learn
 šitätigákng,to learn
+šitätiákng,to learn
 šiut,sucking
-šïx,night
-šu,grouse
+šiš,stone
+šišatyn,lungs
 šu,ground
-šuá,grouse
+šu,grouse
 šuan,grouse
 šuenga,bluely
-suföt,waiting
 šuga,backwards
 šuga'ichi,heel
 šugai,plait
 šui,"moon, mosquito, yellow"
 šuj,month
-šüjang,moon
-suk,paint
-šúka,backwards
 šukai,plait
 šukaichi,heel
-šúlán,hook
-šúlang,hook
-šúle,hook
-šúli,hook
 šulpan,a k. of berry
-šulpán,a k. of berry
 šulpi,a k. of berry
 šulpi,berry
+šulpán,a k. of berry
 šum,if
 šumarch-ögana,fox
 šumurch-ögana,linx
@@ -1365,381 +1701,45 @@ suk,paint
 šur,"copper, blood, red"
 šurakng,rust
 šurama,red
-šürang,blood
 šurumaichei,to paint red
-šúšig,midnight
-šúšig,half
+šuá,grouse
+šága,squirrel
+šálang,sharp edge
+šáme,goose
+šétagai,river
+šëga,year
+šëgä,four
+šëkan,splinter
+šëki,splinter
+šëkng,splinter
+šënang,shaman
+šënang,witchcraft
+šënangäkng,to conjure sorcery
+šëp,enough
+šët,fur from reindeer's legs
+šët,larch
+šët,river
+šët,river
+šëtög,brook
+šëtögan,brook
+šëtök,brook
+šëtökan,brook
+šëtökng,brook
+šïg,night
+šïgal,dry
+šïgalaichei,drying
+šïgi,swan
+šïgán,swan
+šïkng,heavily
+šïx,night
+šïš,stone
+šúka,backwards
+šúlang,hook
+šúle,hook
+šúli,hook
+šúlán,hook
 šúxa,backwards
-tagá,eagle
-tagai,head
-tagalá,bat
-tagála,bat
-taganang,light
-tagar,clay
-tagar-fui,middle
-tagé,eagle
-tagechen,husk
-taibii,storm
-tajbej,storm
-tak,dividing
-takai,head
-takantu,light
-take,eagle
-takng,pus
-takng,eagle
-takthäkng,to divide
-tal,sinew
-tálang,sinew
-tamú,window
-tamuk,window
-tamünang,window
-tanang,nipple
-tarababa,I condone
-taran,dirt
-tarei,rough cloth
-tarëi,rough cloth
-tarup,suede
-tarüp,suede
-tax,dividing
-taxthäkng,to divide
-te,hat
-tebolä,spleen
-teg,fish
-tëg,fish
-tegama,white
-tegan,light
-tëgan,fish
-tei,hat
-tekam,is white
-tekán,light
-tekng,hat
-tem,arrow
-ten,nipple
-teš,eye
-tëx,fish
-thachakïtang,to smear
-thachapilang,I shall overtake
-thagakng,to flay
-thagan,sand
-thagar,clay
-tháge,narrow
-thajang,to send
-thakan,sand
-thakït,smearing
-thakng,belt
-thalaga,rotten
-thalagan,rotten wood
-thalak,rotten wood
-thaläkït,rubbing
-thalakïtang,rubbing
-thalakng,rotten wood
-thalax,rotten wood
-thalche,to send
-thalche,expelling
-thaligai,to stay
-thaligajang,to stay
-thalkït,rubbing
-thalok,belly
-thalox,belly
-thanax,to flay
-thang,seeing
-thangang,I see
-thapalö,naked
-thapit,to milk
-thápora,hoop
-thápotn,hoop
-thapui,staff
-thapujang,staff
-thápura,hoop
-thápuran,hoop
-thápurán,hoop
-tháputn,hoop
-thát-ógan,direct
-thatá déginang,direct
-thateng átha,direct
-thatn,a k. of fish
-thax,flaying
-thax,sending
-the,bow-string
-thé'är,otter
-theang,hoar-frost
-theäng,hoar-frost
-theängan,hoar-frost
-thechujang,to send
-thég,belt
-thegal,below
-thegalchang,below
-thégam,white
-thégär,otter
-thékam,white
-thekng,bow-string
-thëlujang,expelling
-thempul,root
-thémpul,root
-thépulang,root
-thëta,acroos
-theür,thin
-théx,belt
-thi,bow-string
-thi'ä,cow
-thigä,cow
-thïga,downwards
-thïgajang,to stay
-thigal,below
-thigän,cow
-thïk,snow
-thïkan,snow
-thïki,snow
-thikng,"cow, bow-string"
-thip,iron
-thipang,iron
-thit,a k. of fish
-thog,finger
-thogan,finger
-thogei,finger
-thogi,finger
-thok,finger
-tholagi,to send
-thölajang,to send
-thönage,to flay
-thönakng,to flay
-thox,finger
-thu,clay
-thu,unripe
-thui,cheap
-thüki,short
-thul,left
-thum,black
-thun,comb
-thunang,comb
-thutul,intestine thin
-thutulang,intestine thin
-thutuli,intestine thin
-ti,hat
-tï,hat
-tiekama,white
-tik,snow
-tïlangan,willow
-tïle,willow
-tïli,willow
-tin,fir tree
-tïnangan,fir tree
-tini,fir tree
-tïni,fir tree
-tïní,fir tree
-tinžet,salt
-tip,iron
-tipar,fog
-tïpar,fog
-tiš,eye
-tïš,eye
-tivíj,to ask
-tökng,jumping
-ton,knife
-tön-thikng,thirty
-tönaful,grass
-tönapul,grass
-tönapulang,grass
-tonchi,three
-tongä,three
-tönga,three
-tonog,winter
-tonoopatyk,I cut
-tontuku,thirty
-töp,eating
-töpäkng,eat
-toragen,clothing
-tox,jump
-tu,"smoke, clay"
-tua,perch
-tuan,smoke
-tug,smoke
-túga,perch
-tugalin,behind
-tugan,perch
-tugiga,low
-túgiga,low
-tui,smoke
-tujbúl,root (1)
-tujga,cheap
-tuk,saliva
-tulók,belly
-tululáng,intestines
-tuma,"blackly, window"
-tunu,fir
-tupunang,fishing rod
-tupung,fishing rod
-tüt,awl
-tütn,awl
-tutula,intestines
-ty,coming from upstream
-tybúl,root
-tyg,"cow, fish, snow"
-tyganá,light
-tyk,"cow, fish, snow"
-tym,arrow
-üca,birch
-ücan,birch
-ucha,putting to bed
-ucha,birch
-uchäkng,to lie down
-uchälchek,to sleep
-uchaptanang,mushroom
-uchaptar,mushroom
-uchatapitaran,mushroom
-ucholökng,to sleep
-ui,cradle
-ui,long
-uijang,ride on horse
-ujä,up along the stream
-ujáha,ride on horse
-ujal,above
-ujampolangan,mosquito
-ujampolo,mosquito
-ujempol,mosquito
-ujempolang,mosquito
-ujempul,mosquito
-ujempulang,mosquito
-ujga,long
-ujöm,that
-ujompal,mosquito
-uk,milk soup
-ukan,milk soup
-ul,water
-ül,water
-ul-is,ghost
-ul-šui,bathing
-ul-tëj,to scoop
-ulabungái,drink
-ulai,song
-ulai,by the side of
-ulái,rib
-ulailökng,to sing
-ulajakng,to sing
-ulajalchek,to sing
-ulajang,song
-ulajang,rib
-ülan,even
-ulapthai,ice hole
-ulapthäi,ice hole
-ulapthäjang,ice hole
-ulapungai,drink
-ulär,side
-ulise,ghost
-ulisi,ghost
-ulisin,ghost
-ulšujakng,to bathe
-ulšujáthákng,to bathe
-üluk,bubble
-un,not loud
-ung,sitting
-uotegdaq,to hold
-ur,rain
-ür,rain
-ur-ki,washing
-urá,wetly
-üra,rainy
-uralki,to wash oneself
-uralkie,to wash oneself
-uran,dew
-uran,wetly
-urán,dew
-uranang,dew
-ürang,rain
-uraš,rain
-urax,rain
-ureäk,green
-urekbas,blue
-urkäkng,to wash oneself
-urkälcek,soap
-urkiše,soap
-urkolökng,soap
-urökiang,to wash
-uroläki,to wash oneself
-urölakiang,to wash oneself
-uršä,beaver
-urše,beaver
-ürtakng,lake
-urtég,lake
-ürtëg,lake
-urtek,lake
-ürtëx,lake
-urthekng,rain
-urtu,wetly
-uruk,mountain valley
-üša,away
-ušfauk,opening
-ušfe,away
-ušfoattang,away
-ušföttang,to open
-ušigalang,to dry
-ušpauk,opening
-ušpe,away
-ušpoattang,away
-ušpöttang,to open
-ut-ax,to hold
-üt-pang,in vain
-uta-tër,to wet
-ütakng,to steal
-ütam,wholly
-utcha,putting to bed
-utchäkng,to lie down
-ütholökng,to steal
-üti,wholly
-üti,stealing
-utiga,towards here
-ütö,secret
-uxei,flour
-uxëi,flour
-xa,death
-xabak,I sell
-xabar,back
-xagal,bone
-xaha,ten
-xajikng,death
-xajp,boat
-xakal,bone
-xalchik,hoof
-xalpen,spoon
-xamang,arrow
-xanchi-xit,one
-xángen-by,river
-xapang,boat
-xapitan,I buy
-xáranget,servant
-xat,fire
-xatn,trap
-xatnang,trap
-xëg,word
-xëga,five
-xëgan,word
-xei,mountain
-xëjang,mountain
-xëlëtn,mountain
-xëlëx,mountain
-xem,arrow
-xenar,shoulder
-xep,boat
-xëp,boat
-xii,cross-bow
-xit,man
-xitej,belt
-xlup,beard
-xoboj,mouth
-xon,beetle
-xóna,darkly
-xonšu,darkly
-xónži,yesterday
-xou,illness
-xújga,dry
-xulup,beard
-xulup,ermine
-xulüp,beard
-xysh,house
-y,day
-ycha,birch
-yja,sable
-ymatyp,tin
-yna,two
-ynä,two
-zii,big mountain
+šúšig,half
+šúšig,midnight
+šüjang,moon
+šürang,blood

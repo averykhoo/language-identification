@@ -1,4 +1,5 @@
 Other,English
+!Hauptkategorie,Fundamental
 1,1
 1. August,August 1
 1. Brief des Paulus an die Korinther,First Epistle to the Corinthians
@@ -9,6 +10,8 @@ Other,English
 1. November,November 1
 10,10
 100,100
+100,100
+1000,1000
 1000,1000
 101,101
 105,105
@@ -18,6 +21,7 @@ Other,English
 110,110
 115,115
 12,12
+12,12
 12. Februar,February 12
 12. Oktober,October 12
 120,120
@@ -25,6 +29,7 @@ Other,English
 13,13
 130,130
 135,135
+14,14
 14,14
 14. April,April 14
 14. Februar,February 14
@@ -38,41 +43,65 @@ Other,English
 1530er,1530s
 155,155
 16,16
+16,16
 160,160
 165,165
+17,17
 17,17
 17. März,March 17
 17. September,September 17
 170,170
 1728,1728
+1728,1728
 175,175
 1750er,1750s
+1750er,1750s
+1760er,1760s
 1760er,1760s
 1770er,1770s
+1770er,1770s
 1780er,1780s
+1780er,1780s
+1790er,1790s
 1790er,1790s
 18,18
 180,180
 1820er,1820s
+1820er,1820s
 1830er,1830s
+1830er,1830s
+1840er,1840s
 1840er,1840s
 1850er,1850s
 1860er,1860s
+1860er,1860s
+1870er,1870s
 1870er,1870s
 1880er,1880s
+1880er,1880s
+1890er,1890s
 1890er,1890s
 19,19
 19. Januar,January 19
 19. März,March 19
 190,190
 1900er,1900s
+1900er,1900s
+1920er,1920s
 1920er,1920s
 1930er,1930s
+1930er,1930s
+1940er,1940s
 1940er,1940s
 1950er,1950s
+1950er,1950s
+1960er,1960s
 1960er,1960s
 1970er,1970s
+1970er,1970s
 1980er,1980s
+1980er,1980s
+1990er,1990s
 1990er,1990s
 2,2
 2. Buch Mose,Exodus
@@ -135,6 +164,7 @@ Other,English
 5. Buch Mose,Deuteronomy
 5. November,November 5
 50,50
+500,500
 500,500
 51,51
 52,52
@@ -207,6 +237,7 @@ Aaron,Aaron
 Abadan,Abadan
 Abakus,Abacus
 Abchasien,Abkhazia
+Abchasien,Abkhazia
 Abdomen,Abdomen
 Abel Tasman,Abel Tasman
 Abelsche Gruppe,Abelian group
@@ -255,6 +286,7 @@ Adana,Adana
 Addis Abeba,Addis Ababa
 Addition,Addition
 Adel,Nobility
+Adel,Nobility
 Adelaide,Adelaide
 Aden,Aden
 Adenin,Adenine
@@ -262,8 +294,8 @@ Adenosintriphosphat,Adenosine triphosphate
 Adiabatische Zustandsänderung,Adiabatic process
 Adipositas,Obesity
 Adjektiv,Adjective
-Adler,Eagle
 Adler,Aquila
+Adler,Eagle
 Admiral,Admiral
 Adoleszenz,Adolescence
 Adolf Eichmann,Adolf Eichmann
@@ -282,6 +314,8 @@ Aerosol,Aerosol
 Affenbrotbäume,Adansonia
 Affix,Affix
 Afghanistan,Afghanistan
+Afghanistan,Afghanistan
+Afrika,Africa
 Afrika,Africa
 Afrikaans,Afrikaans
 Afrikanischer Strauß,Ostrich
@@ -317,15 +351,19 @@ Akropolis,Acropolis
 Aktie,Share
 Akupunktur,Acupuncture
 Akustik,Acoustics
+Akustik,Acoustics
 Al Capone,Al Capone
 Al Gore,Al Gore
 Al-Qaida,Al-Qaeda
+Alabama,Alabama
 Alabama,Alabama
 Alan Shepard,Alan Shepard
 Alan Turing,Alan Turing
 Alanin,Alanine
 Alaska,Alaska
+Alaska,Alaska
 Alban Berg,Alban Berg
+Albanien,Albania
 Albanien,Albania
 Albany,Albany
 Albatrosse,Albatross
@@ -336,9 +374,11 @@ Albert Einstein,Albert Einstein
 Albert Schweitzer,Albert Schweitzer
 Albert Speer,Albert Speer
 Alberta,Alberta
+Alberta,Alberta
 Albinismus,Albinism
 Albit,Albite
 Albuquerque,Albuquerque
+Alchemie,Alchemy
 Alchemie,Alchemy
 Aldebaran,Aldebaran
 Aldehyde,Aldehyde
@@ -367,7 +407,9 @@ Alfred Russel Wallace,Alfred Russel Wallace
 Alfred der Große,Alfred the Great
 Alge,Algae
 Algebra,Algebra
+Algebra,Algebra
 Algebraische Zahl,Algebraic number
+Algerien,Algeria
 Algerien,Algeria
 Algier,Algiers
 Algorithmus,Algorithm
@@ -395,6 +437,7 @@ Almanach,Almanac
 Almaty,Almaty
 Aloen,Aloe
 Alpen,Alps
+Alpen,Alps
 Alpha,Alpha
 Alpha Centauri,Alpha Centauri
 Alphabet,Alphabet
@@ -405,6 +448,8 @@ Altair,Altair
 Altar,Altar
 Altar,Ara
 Alternativmedizin,Alternative medicine
+Alternativmedizin,Alternative medicine
+Altertum,Ancient history
 Altes Testament,Old Testament
 Altgriechische Sprache,Ancient Greek
 Altkirchenslawisch,Old Church Slavonic
@@ -424,6 +469,7 @@ Ameisen,Ant
 Ameisenigel,Echidna
 Ameisensäure,Formic acid
 Amelia Earhart,Amelia Earhart
+American Football,American football
 American Football,American football
 American Standard Code for Information Interchange,American Standard Code for Information Interchange
 Americium,Americium
@@ -451,6 +497,7 @@ Amphore,Amphora
 Amplitude,Amplitude
 Amsel,Blackbird
 Amsterdam,Amsterdam
+Amsterdam,Amsterdam
 Amun,Amun
 Amur,Amur
 Anagramm,Anagram
@@ -460,7 +507,9 @@ Analytische Geometrie,Analytic geometry
 Ananas,Pineapple
 Anarchie,Anarchy
 Anarchismus,Anarchism
+Anarchismus,Anarchism
 Anatole France,Anatole France
+Anatomie,Anatomy
 Anatomie,Anatomy
 Anaxagoras,Anaxagoras
 Anaximander,Anaximander
@@ -470,6 +519,7 @@ Andamanensee,Andaman Sea
 Anden,Andes
 Anders Celsius,Anders Celsius
 Andhra Pradesh,Andhra Pradesh
+Andorra,Andorra
 Andorra,Andorra
 Andrea Palladio,Andrea Palladio
 Andreas,Saint Andrew
@@ -490,9 +540,11 @@ Angeln,Fishing
 Angewandte Mathematik,Applied mathematics
 Anglikanismus,Anglicanism
 Angola,Angola
+Angola,Angola
 Anguilla,Anguilla
 Anilin,Aniline
 Animation,Animation
+Anime,Anime
 Anime,Anime
 Animismus,Animism
 Anis,Anise
@@ -510,8 +562,10 @@ Antalya,Antalya
 Antananarivo,Antananarivo
 Antares,Antares
 Antarktis,Antarctica
+Antarktis,Antarctica
 Antennentechnik,Antenna
 Anthony Hopkins,Anthony Hopkins
+Anthropologie,Anthropology
 Anthropologie,Anthropology
 Anthroposophie,Anthroposophy
 Antibiotika,Antibiotic
@@ -519,10 +573,12 @@ Antichrist,Antichrist
 Antigen,Antigen
 Antigone,Antigone
 Antigua und Barbuda,Antigua and Barbuda
+Antigua und Barbuda,Antigua and Barbuda
 Antikörper,Antibody
 Antimaterie,Antimatter
 Antimon,Antimony
 Antioxidantien,Antioxidant
+Antisemitismus,Antisemitism
 Antofagasta,Antofagasta
 Antoine Henri Becquerel,Henri Becquerel
 Antoine Laurent de Lavoisier,Antoine Lavoisier
@@ -545,6 +601,7 @@ Aphrodite,Aphrodite
 Apia,Apia
 Apokryphen,Apocrypha
 Apollo,Apollo
+Apollo-Programm,Apollo program
 Apollo-Programm,Apollo program
 Apollon,Apollo
 Apoptose,Apoptosis
@@ -586,13 +643,16 @@ Archimedisches Prinzip,Buoyancy
 Archipel,Archipelago
 Architekt,Architect
 Architektur,Architecture
+Architektur,Architecture
 Archiv,Archive
 Archosauria,Archosaur
+Archäologie,Archaeology
 Archäologie,Archaeology
 Ardennen,Ardennes
 Ardennenoffensive,Battle of the Bulge
 Ardennes,Ardennes
 Ares,Ares
+Argentinien,Argentina
 Argentinien,Argentina
 Argon,Argon
 Argos,Argos
@@ -605,10 +665,13 @@ Aristokratie,Aristocracy
 Aristophanes,Aristophanes
 Aristoteles,Aristotle
 Arithmetik,Arithmetic
+Arithmetik,Arithmetic
 Arithmetische Reihe,Arithmetic progression
 Arius,Arius
 Arizona,Arizona
+Arizona,Arizona
 Arkadien,Arcadia
+Arkansas,Arkansas
 Arkansas,Arkansas
 Arkebuse,Arquebus
 Arktis,Arctic
@@ -616,6 +679,7 @@ Arktischer Ozean,Arctic Ocean
 Arles,Arles
 "Armand-Jean du Plessis, duc de Richelieu",Cardinal Richelieu
 Armbrust,Crossbow
+Armenien,Armenia
 Armenien,Armenia
 Armenische Sprache,Armenian language
 Arminius,Arminius
@@ -641,9 +705,11 @@ Arthur Rimbaud,Arthur Rimbaud
 Arthur Schopenhauer,Arthur Schopenhauer
 "Arthur Wellesley, 1. Herzog von Wellington",Arthur Wellesley
 Artillerie,Artillery
+Artillerie,Artillery
 Artischocke,Globe artichoke
 Arturo Toscanini,Arturo Toscanini
 Artus,King Arthur
+Aruba,Aruba
 Aruba,Aruba
 Arzt,Physician
 Asbest,Asbestos
@@ -651,8 +717,10 @@ Aschenputtel,Cinderella
 Aschermittwoch,Ash Wednesday
 Ascorbinsäure,Vitamin C
 Aserbaidschan,Azerbaijan
+Aserbaidschan,Azerbaijan
 Asexualität,Asexuality
 Asgard,Asgard
+Asien,Asia
 Asien,Asia
 Asklepios,Asclepius
 Asmara,Asmara
@@ -662,6 +730,7 @@ Asphalt,Asphalt
 Assam,Assam
 Assemblersprache,Assembly language
 Assuan,Aswan
+Assyrien,Assyria
 Astana,Astana
 Astat,Astatine
 Asteroid,Asteroid
@@ -672,30 +741,37 @@ Astigmatismus,Astigmatism
 Astrachan,Astrakhan
 Astrolabium,Astrolabe
 Astrologie,Astrology
+Astrologie,Astrology
 Astrometrie,Astrometry
 Astronom,Astronomer
 Astronomie,Astronomy
+Astronomie,Astronomy
+Astronomie,Astronomy
 Astronomische Einheit,Astronomical unit
+Astrophysik,Astrophysics
 Astrophysik,Astrophysics
 Asymptote,Asymptote
 Asynchronous Transfer Mode,Asynchronous Transfer Mode
 Atacamawüste,Atacama Desert
+Atheismus,Atheism
 Athen,Athens
 Athene,Athena
 Athos,Mount Athos
 Atlanta,Atlanta
 Atlantis,Atlantis
 Atlantischer Ozean,Atlantic Ocean
+Atlantischer Ozean,Atlantic Ocean
+Atlas,Atlas
+Atlas,Atlas
 Atlas,Atlas
 Atlas,Atlas Mountains
-Atlas,Atlas
-Atlas,Atlas
 Atmosphäre,Atmosphere
 Atoll,Atoll
 Atom,Atom
 Atomare Masseneinheit,Atomic mass unit
 Atombindung,Covalent bond
 Atommasse,Atomic mass
+Atomphysik,Atomic physics
 Atomphysik,Atomic physics
 Atomuhr,Atomic clock
 Aton,Aten
@@ -708,6 +784,7 @@ Au,Au
 Aubergine,Eggplant
 Auckland,Auckland
 Aufzugsanlage,Elevator
+Auge,Eye
 Auge,Eye
 August,August
 August Strindberg,August Strindberg
@@ -724,6 +801,8 @@ Aussterben,Extinction
 Austin,Austin
 Australasien,Australasia
 Australien,Australia
+Australien,Australia
+Australien und Ozeanien,Oceania
 Australischer Dollar,Australian dollar
 Australopithecus,Australopithecus
 Auszeichnungssprache,Markup language
@@ -766,12 +845,15 @@ Badminton,Badminton
 Baffin Bay,Baffin Bay
 Baffininsel,Baffin Island
 Bagdad,Baghdad
+Bahamas,Bahamas
 Bahnhof,Train station
+Bahrain,Bahrain
 Bahrain,Bahrain
 Baikalsee,Lake Baikal
 Baja California,Baja California
 Bajonett,Bayonet
 Baklava,Baklava
+Bakterien,Bacteria
 Bakterien,Bacteria
 Bakteriophage,Bacteriophage
 Baku,Baku
@@ -784,16 +866,18 @@ Balkanhalbinsel,Balkans
 Balkankriege,Balkan Wars
 Ball,Ball
 Ballett,Ballet
+Ballett,Ballet
 Ballistische Rakete,Ballistic missile
 Baltimore,Baltimore
 Bamako,Bamako
 Bambus,Bamboo
-Bananen,Musa
 Bananen,Banana
+Bananen,Musa
 Bananenrepublik,Banana republic
 Bandwürmer,Cestoda
 Banghazi,Benghazi
 Bangkok,Bangkok
+Bangladesch,Bangladesh
 Bangladesch,Bangladesh
 Bangui,Bangui
 Banjul,Banjul
@@ -802,8 +886,10 @@ Banknote,Banknote
 Baptisten,Baptist
 Bar,Bar
 Barbados,Barbados
+Barbados,Barbados
 Barbar,Barbarian
 Barbra Streisand,Barbra Streisand
+Barcelona,Barcelona
 Barcelona,Barcelona
 Barentssee,Barents Sea
 Bari,Bari
@@ -819,6 +905,7 @@ Bartgeier,Lammergeier
 Baryon,Baryon
 Basalt,Basalt
 Baseball,Baseball
+Baseball,Baseball
 Basel,Basel
 Basen,Base
 Basidienpilze,Basidiomycota
@@ -828,6 +915,7 @@ Basilikum,Basil
 Basilisk,Basilisk
 Basiliskos,Basiliscus
 Basilius der Große,Basil of Caesarea
+Basketball,Basketball
 Basketball,Basketball
 Basra,Basra
 Basse-Normandie,Basse-Normandie
@@ -847,6 +935,7 @@ Baumwolle,Cotton
 Bauxit,Bauxite
 Bayer AG,Bayer
 Bayern,Bavaria
+Bayern,Bavaria
 Bayonne,Bayonne
 Beagle,Beagle
 Beaufortsee,Beaufort Sea
@@ -859,6 +948,7 @@ Bedecktsamer,Flowering plant
 Beduinen,Bedouin
 Beere,Berry
 Befruchtung,Fertilisation
+Begriffsklärung,Disambiguation
 Behaviorismus,Behaviorism
 Beichte,Confession
 Beirut,Beirut
@@ -866,8 +956,10 @@ Bekenntnis von Nicäa,Nicene Creed
 Bel,Decibel
 Belfast,Belfast
 Belgien,Belgium
+Belgien,Belgium
 Belgrad,Belgrade
 Belisar,Belisarius
+Belize,Belize
 Belize,Belize
 Bellerophon,Bellerophon
 Belo Horizonte,Belo Horizonte
@@ -875,6 +967,7 @@ Benediktiner,Order of Saint Benedict
 Benelux,Benelux
 Bengalen,Bengal
 Bengaluru,Bangalore
+Benin,Benin
 Benin,Benin
 Benito Mussolini,Benito Mussolini
 Benjamin Britten,Benjamin Britten
@@ -891,6 +984,8 @@ Beringstraße,Bering Strait
 Berkelium,Berkelium
 Berkshire,Berkshire
 Berlin,Berlin
+Berlin,Berlin
+Bermuda,Bermuda
 Bermuda,Bermuda
 Bermudadreieck,Bermuda Triangle
 Bern,Berne
@@ -923,11 +1018,15 @@ Bewegung,Motion
 Beweis,Mathematical proof
 Bey,Bey
 Bhutan,Bhutan
+Bhutan,Bhutan
+Bibel,Bible
 Bibel,Bible
 Biber,Beaver
 Bibliografie,Bibliography
 Bibliothek,Library
 Bienen,Bee
+Bienenzucht,Beekeeping
+Bier,Beer
 Bier,Beer
 Big Ben,Clock Tower
 Bihar,Bihar
@@ -935,16 +1034,22 @@ Bikini,Bikini
 Bilanz,Balance sheet
 Bildhauer,Sculptor
 Bildhauerei,Sculpture
+Bildhauerei,Sculpture
 Bildschirm,Computer display
+Bildung,Education
 Bildung,Education
 Bill Clinton,Bill Clinton
 Bill Gates,Bill Gates
 Billy Wilder,Billy Wilder
 Bindegewebe,Connective tissue
 Biochemie,Biochemistry
+Biochemie,Biochemistry
 Biodiversität,Biodiversity
 Biogeographie,Biogeography
 Biografie,Biography
+Biografien,Biography
+Biologie,Biology
+Biologie,Biology
 Biologie,Biology
 Biologische Waffe,Biological warfare
 Biom,Biome
@@ -953,6 +1058,7 @@ Biometrie,Biometrics
 Biophysik,Biophysics
 Biopsie,Biopsy
 Biosphäre,Biosphere
+Biotechnologie,Biotechnology
 Biotechnologie,Biotechnology
 Biotin,Biotin
 Bipolare Störung,Bipolar disorder
@@ -1006,6 +1112,7 @@ Bogen,Bow
 Bohrium,Bohrium
 Boise,Boise
 Bolivien,Bolivia
+Bolivien,Bolivia
 Bologna,Bologna
 Bolschewiki,Bolshevik
 Bombe,Bomb
@@ -1021,20 +1128,25 @@ Boris Leonidowitsch Pasternak,Boris Pasternak
 Boris Wassiljewitsch Spasski,Boris Spassky
 Borneo,Borneo
 Bosnien und Herzegowina,Bosnia and Herzegovina
+Bosnien und Herzegowina,Bosnia and Herzegovina
 Boson,Boson
 Bosporus,Bosporus
 Boston,Boston
 Boston Tea Party,Boston Tea Party
 Botanik,Botany
+Botanik,Botany
 Botanischer Garten,Botanical garden
 Botschafter,Ambassador
+Botsuana,Botswana
 Botsuana,Botswana
 Bottnischer Meerbusen,Gulf of Bothnia
 Bourgeoisie,Bourgeoisie
 Bouvetinsel,Bouvet Island
 Bowling,Bowling
 Boxen,Boxing
+Boxen,Boxing
 Boxer,Boxer
+Boxer,Boxers
 Bozen,Bolzano
 Boëthius,Anicius Manlius Severinus Boethius
 Braga,Braga
@@ -1044,6 +1156,7 @@ Brailleschrift,Braille
 Brainstorming,Brainstorming
 Bram Stoker,Bram Stoker
 Brandy,Brandy
+Brasilien,Brazil
 Brasilien,Brazil
 Bratislava,Bratislava
 Bratsche,Viola
@@ -1075,6 +1188,7 @@ Brille,Glasses
 Brindisi,Brindisi
 Brisbane,Brisbane
 Bristol,Bristol
+Brite,British people
 Britische Inseln,British Isles
 Britische Jungferninseln,British Virgin Islands
 Britisches Imperium,British Empire
@@ -1092,10 +1206,12 @@ Brownsche Bewegung,Brownian motion
 Bruce Lee,Bruce Lee
 Bruchrechnung,Fraction
 Brunei,Brunei
+Brunei,Brunei
 Brustbein,Sternum
 Brustkrebs,Breast cancer
 Bruttoinlandsprodukt,Gross domestic product
 Brücke,Bridge
+Brücke,Bridges
 Brügge,Bruges
 Brünn,Brno
 Brüssel,Brussels
@@ -1109,6 +1225,7 @@ Buch der Richter,Book of Judges
 Buchdruck,Printing
 Buchen,Beech
 Buchenartige,Fagales
+Buchengewächse,Fagaceae
 Buchfink,Chaffinch
 Buchstabe,Letter
 Buckelwal,Humpback Whale
@@ -1116,11 +1233,13 @@ Buckingham Palace,Buckingham Palace
 Budapest,Budapest
 Buddha,Buddha
 Buddhismus,Buddhism
+Buddhismus,Buddhism
 Buddy Holly,Buddy Holly
 Buenos Aires,Buenos Aires
 Buffalo,Buffalo
 Bujumbura,Bujumbura
 Bukarest,Bucharest
+Bulgarien,Bulgaria
 Bulgarien,Bulgaria
 Bumerang,Boomerang
 Bundeslade,Ark of the Covenant
@@ -1129,20 +1248,23 @@ Burg,Castle
 Burgund,Bourgogne
 Burka,Burqa
 Burkina Faso,Burkina Faso
+Burkina Faso,Burkina Faso
 Bursa,Bursa
+Burundi,Burundi
 Bus,Bus
 Buster Keaton,Buster Keaton
 Butan,Butane
 Butter,Butter
 Bydgoszcz,Bydgoszcz
 Byte,Byte
+Byzantinische Geschichte,Byzantine Empire
 Bären,Bear
 Bärtierchen,Tardigrade
 Böhmen,Bohemia
 Börse,Stock exchange
 Bürgerkrieg,Civil war
-Bürgermeister,Mayor
 Bürgermeister,Burgomaster
+Bürgermeister,Mayor
 Bürokratie,Bureaucracy
 Büstenhalter,Brassiere
 C,C
@@ -1236,6 +1358,8 @@ Chartres,Chartres
 Chauvinismus,Chauvinism
 Cheiron,Chiron
 Chemie,Chemistry
+Chemie,Chemistry
+Chemie,Chemistry
 Chemieingenieurwesen,Chemical engineering
 Chemische Bindung,Chemical bond
 Chemische Reaktion,Chemical reaction
@@ -1255,13 +1379,16 @@ Chiang Kai-shek,Chiang Kai-shek
 Chicago,Chicago
 Chihuahua,Chihuahua
 Chile,Chile
+Chile,Chile
 Chimborazo,Chimborazo
 Chimäre,Chimera
 China,China
+China,China
 Chinesische Mauer,Great Wall of China
 Chios,Chios
-Chirurgie,Surgery
 Chirurgie,Surgeon
+Chirurgie,Surgery
+Chirurgie,Surgery
 Chitin,Chitin
 Chlodwig I.,Clovis I
 Chlor,Chlorine
@@ -1276,6 +1403,7 @@ Chor,Choir
 Chordatiere,Chordate
 Christchurch,Christchurch
 Christentum,Christianity
+Christentum,Christianity
 Christiaan Huygens,Christiaan Huygens
 Christian Dior,Christian Dior
 Christoph Kolumbus,Christopher Columbus
@@ -1284,6 +1412,7 @@ Chrom,Chromium
 Chromatin,Chromatin
 Chromatografie,Chromatography
 Chromosom,Chromosome
+Chronologie,Chronology
 Chuck Berry,Chuck Berry
 Church of England,Church of England
 Cidre,Cider
@@ -1311,6 +1440,7 @@ Colin Powell,Colin Powell
 Collage,Collage
 Colombo,Colombo
 Colorado,Colorado
+Colorado,Colorado
 Colorado River,Colorado River
 Columbia,Columbia
 Columbia,Columbia
@@ -1325,6 +1455,7 @@ Compiler,Compiler
 Complex Instruction Set Computing,Complex instruction set computer
 Computer,Computer
 Computer Aided Design,Computer-aided design
+Computergrafik,Computer graphics
 Computerlinguistik,Computational linguistics
 Computerprogramm,Computer program
 Computerspiel,Video game
@@ -1333,6 +1464,7 @@ Computervirus,Computer virus
 Conakry,Conakry
 Concord,Concord
 Connecticut,Connecticut
+Connecticut,Connecticut
 Consulat,Consul
 Copyright,Copyright
 Corioliskraft,Coriolis effect
@@ -1340,6 +1472,7 @@ Cork,Cork
 Cornea,Cornea
 Cornell University,Cornell University
 Cornwall,Cornwall
+Costa Rica,Costa Rica
 Costa Rica,Costa Rica
 Cotonou,Cotonou
 Cotopaxi,Cotopaxi
@@ -1378,8 +1511,8 @@ Dalai Lama,Dalai Lama
 Dallas,Dallas
 Dalmatien,Dalmatia
 Damaskus,Damascus
-Dame,Queen
 Dame,Draughts
+Dame,Queen
 Damhirsch,Fallow Deer
 Dampf,Steam
 Dampfmaschine,Steam engine
@@ -1428,6 +1561,7 @@ Deismus,Deism
 Deklination,Declination
 Dekonstruktion,Deconstruction
 Delaware,Delaware
+Delaware,Delaware
 Delfin,Delphinus
 Delfine,Dolphin
 Delft,Delft
@@ -1440,8 +1574,10 @@ Demagogie,Demagogy
 Demenz,Dementia
 Demeter,Demeter
 Demografie,Demography
+Demografie,Demography
 Demokratie,Democracy
 Demokratische Partei,Democratic Party
+Demokratische Republik Kongo,Democratic Republic of the Congo
 Demokratische Republik Kongo,Democratic Republic of the Congo
 Demokrit,Democritus
 Demosthenes,Demosthenes
@@ -1458,6 +1594,7 @@ Depression,Clinical depression
 Dermatologie,Dermatology
 Des Moines,Des Moines
 Design,Design
+Design,Design
 Desmond Tutu,Desmond Tutu
 Desoxyribonukleinsäure,DNA
 Destillation,Distillation
@@ -1469,9 +1606,12 @@ Deutsch-Französischer Krieg,Franco-Prussian War
 Deutsche Demokratische Republik,East Germany
 Deutsche Mark,German mark
 Deutsche Sprache,German language
+Deutsche Sprache,German language
 Deutscher Estragon,Tarragon
 Deutscher Schäferhund,German Shepherd Dog
+Deutsches Reich,Nazi Germany
 Deutsches Reich 1933 bis 1945,Nazi Germany
+Deutschland,Germany
 Deutschland,Germany
 Devon,Devon
 Devon,Devonian
@@ -1518,6 +1658,7 @@ Diphtherie,Diphtheria
 Diphthong,Diphthong
 Diplodocus,Diplodocus
 Diplomatie,Diplomacy
+Diplomatie,Diplomacy
 Dire Straits,Dire Straits
 Dirigent,Conducting
 Disk Operating System,DOS
@@ -1550,7 +1691,9 @@ Domain,Domain name
 Domesday Book,Domesday Book
 Domestizierung,Domestication
 Dominica,Dominica
+Dominica,Dominica
 Dominikaner,Dominican Order
+Dominikanische Republik,Dominican Republic
 Dominikanische Republik,Dominican Republic
 Domitian,Domitian
 Domäne,Domain
@@ -1577,8 +1720,8 @@ Dover,Dover
 Dover,Dover
 Down-Syndrom,Down syndrome
 Dr. House,House
-Drache,Dragon
 Drache,Draco
+Drache,Dragon
 Drachen,Kite
 Dracula,Dracula
 Drama,Drama
@@ -1602,6 +1745,7 @@ Druck,Pressure
 Druide,Druid
 Drüse,Gland
 Dschalalabad,Jalalabad
+Dschibuti,Djibouti
 Dschibuti,Djibouti
 Dschidda,Jeddah
 Dschihad,Jihad
@@ -1632,6 +1776,7 @@ Dysprosium,Dysprosium
 Dystopie,Dystopia
 Dämon,Demon
 Dänemark,Denmark
+Dänemark,Denmark
 Dänische Krone,Danish krone
 Düne,Dune
 Dünger,Fertilizer
@@ -1657,6 +1802,7 @@ Echter Buchweizen,Buckwheat
 Echter Koriander,Coriander
 Echter Lorbeer,Bay Laurel
 Eclipse,Eclipse
+Ecuador,Ecuador
 Ecuador,Ecuador
 Edelgase,Noble gas
 Edgar Allan Poe,Edgar Allan Poe
@@ -1705,6 +1851,7 @@ Eisen,Iron
 Eisenzeit,Iron Age
 Eiserner Vorhang,Iron Curtain
 Eishockey,Ice hockey
+Eishockey,Ice hockey
 Eiskunstlauf,Figure skating
 Eiszeitalter,Ice age
 Eizelle,Ovum
@@ -1713,6 +1860,7 @@ Ekliptik,Ecliptic
 El Cid,El Cid
 El Greco,El Greco
 El Paso,El Paso
+El Salvador,El Salvador
 El Salvador,El Salvador
 Elam,Elam
 Elastizitätsmodul,Young's modulus
@@ -1730,6 +1878,8 @@ Elektrischer Widerstand,Electrical resistance
 Elektrisches Feld,Electric field
 Elektrizität,Electricity
 Elektrochemie,Electrochemistry
+Elektrochemie,Electrochemistry
+Elektrodynamik,Electromagnetism
 Elektrodynamik,Electromagnetism
 Elektrokardiogramm,Electrocardiogram
 Elektrolyse,Electrolysis
@@ -1742,6 +1892,8 @@ Elektronegativität,Electronegativity
 Elektronenmikroskop,Electron microscope
 Elektronenröhre,Vacuum tube
 Elektronik,Electronics
+Elektronik,Electronics
+Elektrotechnik,Electrical engineering
 Elektrotechnik,Electrical engineering
 Element,Element
 Elementarteilchen,Elementary particle
@@ -1766,6 +1918,7 @@ Emir,Emir
 Emma Goldman,Emma Goldman
 Emoticon,Emoticon
 Emotion,Emotion
+Emotion,Emotion
 Empathie,Empathy
 Empedokles,Empedocles
 Empfängnisverhütung,Birth control
@@ -1777,19 +1930,25 @@ En-Ki,Enki
 Endemit,Endemism
 Endokrines System,Endocrine system
 Endokrinologie,Endocrinology
+Endokrinologie,Endocrinology
+Energie,Energy
 Energie,Energy
 Energie,Energy
 Energieerhaltungssatz,Conservation of energy
 Engel,Angel
 England,England
+England,England
+Englische Sprache,English language
 Englische Sprache,English language
 Englischer Bürgerkrieg,English Civil War
 Englischhorn,Cor anglais
+Engländer,English people
 Engländer,English people
 Enrico Caruso,Enrico Caruso
 Enrico Fermi,Enrico Fermi
 Entenvögel,Anatidae
 Enthalpie,Enthalpy
+Entomologie,Entomology
 Entropie,Entropy
 Entwicklungspsychologie,Developmental psychology
 Entzündung,Inflammation
@@ -1821,6 +1980,7 @@ Erbsünde,Original sin
 Erdbeben,Earthquake
 Erdbeeren,Strawberry
 Erde,Earth
+Erde,Earth
 Erdferkel,Aardvark
 Erdgas,Natural gas
 Erdkruste,Crust
@@ -1840,6 +2000,7 @@ Erik Axel Karlfeldt,Erik Axel Karlfeldt
 Erik Satie,Erik Satie
 Eris,Eris
 Eris,Eris
+Eritrea,Eritrea
 Eriwan,Yerevan
 Erkenntnistheorie,Epistemology
 Erklärung von Jalta,Yalta Conference
@@ -1848,6 +2009,7 @@ Erlen,Alder
 Ernest Hemingway,Ernest Hemingway
 Ernest Rutherford,Ernest Rutherford
 Ernesto Che Guevara,Che Guevara
+Ernährung,Nutrition
 Eros,Eros
 Erosion,Erosion
 Erotik,Erotica
@@ -1855,6 +2017,7 @@ Erscheinung des Herrn,Epiphany
 Erste Hilfe,First aid
 Erster Golfkrieg,Iran-Iraq War
 Erster Kreuzzug,First Crusade
+Erster Weltkrieg,World War I
 Erster Weltkrieg,World War I
 Erstes Konzil von Konstantinopel,First Council of Constantinople
 Erstes Konzil von Nicäa,First Council of Nicaea
@@ -1868,6 +2031,7 @@ Eröffnung,Chess opening
 Eschatologie,Eschatology
 Escherichia coli,Escherichia coli
 Esperanto,Esperanto
+Esperanto,Esperanto
 Espoo,Espoo
 Espresso,Espresso
 Essay,Essay
@@ -1877,6 +2041,7 @@ Essex,Essex
 Essig,Vinegar
 Essigsäure,Acetic acid
 Ester,Ester
+Estland,Estonia
 Estrogene,Estrogen
 Eta,Eta
 Ethan,Ethane
@@ -1885,9 +2050,11 @@ Ethen,Ethylene
 Ether,Ether
 Ethernet,Ethernet
 Ethik,Ethics
+Ethik,Ethics
 Ethin,Acetylene
 Ethnie,Ethnic group
 Ethnografie,Ethnography
+Ethnologie,Ethnology
 Ethologie,Ethology
 Etsch,Adige
 Etymologie,Etymology
@@ -1904,12 +2071,14 @@ Euphrat,Euphrates
 Eurasien,Eurasia
 Euripides,Euripides
 Euro,Euro
+Europa,Europa
+Europa,Europa
 Europa,Europe
-Europa,Europa
-Europa,Europa
+Europa,Europe
 Europium,Europium
 Europäische Eibe,Taxus baccata
 Europäische Gemeinschaft,European Community
+Europäische Union,European Union
 Europäische Union,European Union
 Europäische Zentralbank,European Central Bank
 Europäischer Hecht,Northern pike
@@ -1953,12 +2122,14 @@ Falklandinseln,Falkland Islands
 Fallschirm,Parachute
 Falun Gong,Falun Gong
 Familie,Family
+Familie,Family
 Familienname,Family name
 Fantasy,Fantasy
 Farad,Farad
 Farbe,Color
 Farbenfehlsichtigkeit,Color blindness
 Farne,Fern
+Faschismus,Fascism
 Faschismus,Fascism
 Fasten,Fasting
 Fastenzeit,Lent
@@ -1982,6 +2153,7 @@ Feldhockey,Field hockey
 Feldspat,Feldspar
 Felix Mendelssohn Bartholdy,Felix Mendelssohn
 Feminismus,Feminism
+Feminismus,Feminism
 Fenchel,Fennel
 Feng Shui,Feng shui
 Fenriswolf,Fenrir
@@ -1994,6 +2166,7 @@ Fermentation,Fermentation
 Fermion,Fermion
 Fermium,Fermium
 Ferner Osten,Far East
+Fernsehen,Television
 Fernsehen,Television
 Ferrara,Ferrara
 Festkörper,Solid
@@ -2012,15 +2185,21 @@ Fiat,Fiat
 Fibonacci-Folge,Fibonacci number
 Fidel Castro,Fidel Castro
 Fidschi,Fiji
+Fidschi,Fiji
 Fieber,Fever
+Fiktion,Fiction
 File Allocation Table,File Allocation Table
 File Transfer Protocol,File Transfer Protocol
 Filippo Brunelleschi,Filippo Brunelleschi
 Film,Film
+Film,Film
+Film,Film
+Finanzierung,Finance
 Finanzierung,Finance
 Finger,Finger
 Fingerabdruck,Fingerprint
 Finnischer Meerbusen,Gulf of Finland
+Finnland,Finland
 Finnland,Finland
 Finnwal,Fin Whale
 Firewall,Firewall
@@ -2030,6 +2209,7 @@ Firmware,Firmware
 Fischadler,Osprey
 Fische,Fish
 Fische,Pisces
+Fischerei,Fishing
 Fjodor Michailowitsch Dostojewski,Fyodor Dostoevsky
 Fjord,Fjord
 Flagellum,Flagellum
@@ -2044,6 +2224,7 @@ Flatulenz,Flatulence
 Flavius Josephus,Josephus
 Flechte,Lichen
 Fledertiere,Bat
+Fledertiere,Bats
 Fleisch,Meat
 Fleischfressende Pflanzen,Carnivorous plant
 Fleischfresser,Carnivore
@@ -2053,6 +2234,7 @@ Fliegenpilz,Amanita muscaria
 Flipflop,Flip-flop
 Florence Nightingale,Florence Nightingale
 Florenz,Florence
+Florida,Florida
 Florida,Florida
 Fluggesellschaft,Airline
 Flughafen,Airport
@@ -2083,6 +2265,7 @@ Fossil,Fossil
 Fossile Energie,Fossil fuel
 Fotoapparat,Camera
 Fotografie,Photography
+Fotografie,Photography
 Foucaultsches Pendel,Foucault pendulum
 Fourierreihe,Fourier series
 Fragezeichen,Question mark
@@ -2103,7 +2286,9 @@ Frankfort,Frankfort
 Frankfurt,Frankfurt
 Frankfurt,Frankfurt
 Frankfurt am Main,Frankfurt
+Frankfurt am Main,Frankfurt
 Franklin Pierce,Franklin Pierce
+Frankreich,France
 Frankreich,France
 Frans Hals,Frans Hals
 Franz II.,Francis II
@@ -2112,7 +2297,10 @@ Franz Liszt,Franz Liszt
 Franz Schubert,Franz Schubert
 Franz von Assisi,Francis of Assisi
 Franziskaner,Franciscan
+Franzose,French people
 Französisch-Polynesien,French Polynesia
+Französisch-Polynesien,French Polynesia
+Französische Revolution,French Revolution
 Französische Revolution,French Revolution
 Französischer Franc,French franc
 Frau,Woman
@@ -2151,8 +2339,8 @@ Frucht,Fruit
 Fruchtbarer Halbmond,Fertile Crescent
 Fruchtzucker,Fructose
 Frühling,Spring
-Fuchs,Vulpecula
 Fuchs,Fox
+Fuchs,Vulpecula
 Fucking,Fucking
 Fuge,Fugue
 Fuhrmann,Auriga
@@ -2168,7 +2356,15 @@ Fuzzy-Logik,Fuzzy logic
 Fuß,Foot
 Fuß,Foot
 Fußball,Football
+Fußball,Football
+Fußball nach Staat,Football  by country
+Fußballspieler,Football  players
+Fußballstadion,Football  venues
+Fußballtrainer,Football  managers
+Fußballverein,Football  clubs
 Fähre,Ferry
+Färöer,Faroe Islands
+Föderierte Staaten von Mikronesien,Federated States of Micronesia
 Föderierte Staaten von Mikronesien,Federated States of Micronesia
 Fünf,5
 Fünfeck,Pentagon
@@ -2181,6 +2377,7 @@ GNU,GNU
 Gaborone,Gaborone
 Gabriel,Gabriel
 Gabriel Lippmann,Gabriel Lippmann
+Gabun,Gabon
 Gabun,Gabon
 Gadolinium,Gadolinium
 Gaetano Donizetti,Gaetano Donizetti
@@ -2203,6 +2400,7 @@ Gallium,Gallium
 Gallone,Gallon
 Galway,Galway
 Gamal Abdel Nasser,Gamal Abdel Nasser
+Gambia,The Gambia
 Gambia,The Gambia
 Gamma,Gamma
 Gammastrahlung,Gamma ray
@@ -2238,6 +2436,7 @@ Gegenpapst,Antipope
 Geheime Staatspolizei,Gestapo
 Gehirn,Brain
 Geisha,Geisha
+Geisteswissenschaft,Humanities
 Geistiges Eigentum,Intellectual property
 Gelb,Yellow
 Gelber Fluss,Yellow River
@@ -2251,9 +2450,11 @@ Gemeinfreiheit,Public domain
 Gemeinschaft Unabhängiger Staaten,Commonwealth of Independent States
 Gemüse,Vegetable
 Gen,Gene
-Genealogie,Genealogy
 Genealogie,Family history
+Genealogie,Genealogy
+Genealogie,Genealogy
 General,General Officer
+Genetik,Genetics
 Genetik,Genetics
 Genetischer Code,Genetic code
 Genf,Geneva
@@ -2268,13 +2469,20 @@ Genua,Genoa
 Genus,Grammatical gender
 Geochemie,Geochemistry
 Geodäsie,Geodesy
+Geodäsie,Geodesy
 Geoffrey Chaucer,Geoffrey Chaucer
+Geographie,Geography
+Geographie,Geography
 Geographie,Geography
 Geographische Breite,Latitude
 Geologie,Geology
+Geologie,Geology
+Geometrie,Geometry
 Geometrie,Geometry
 Geometrische Folge,Geometric progression
 Geomorphologie,Geomorphology
+Geomorphologie,Geomorphology
+Geophysik,Geophysics
 Geophysik,Geophysics
 Geopolitik,Geopolitics
 Georg,Saint George
@@ -2301,6 +2509,8 @@ Georges Clemenceau,Georges Clemenceau
 Georges Simenon,Georges Simenon
 Georgetown,Georgetown
 Georgia,Georgia
+Georgia,Georgia
+Georgien,Georgia
 Georgien,Georgia
 Geowissenschaften,Earth science
 Gepard,Cheetah
@@ -2308,10 +2518,13 @@ Gerade,Line
 Gerald Ford,Gerald Ford
 Gerard Peter Kuiper,Gerard Kuiper
 Gericht,Court
+Germanische Mythologie,Norse mythology
 Germanium,Germanium
 Geronimo,Geronimo
 Gerste,Barley
 Gerätetreiber,Device driver
+Geschichte,History
+Geschichte,History
 Geschichte,History
 Geschichte des assyrischen Reiches,Assyria
 Geschichtsschreibung,Historiography
@@ -2320,9 +2533,11 @@ Geschlechtsverkehr,Sexual intercourse
 Geschwindigkeit,Speed
 Geschwindigkeit,Velocity
 Gesellschaft,Society
+Gesellschaft,Society
 Gesicht,Face
 Gespenst,Ghost
 Gestein,Rock
+Gesundheit,Health
 Gesundheit,Health
 Getreide,Cereal
 Getränk,Drink
@@ -2339,9 +2554,11 @@ Gewürznelke,Clove
 Geysir,Geyser
 Gezeiten,Tide
 Ghana,Ghana
+Ghana,Ghana
 Ghetto,Ghetto
 Giacomo Puccini,Giacomo Puccini
 Gibbons,Gibbon
+Gibraltar,Gibraltar
 Gibraltar,Gibraltar
 Gicht,Gout
 Gift,Poison
@@ -2401,6 +2618,7 @@ Golden Gate Bridge,Golden Gate Bridge
 Golden Retriever,Golden Retriever
 Goldene Horde,Golden Horde
 Golf,Golf
+Golf,Golf
 Golf von Aden,Gulf of Aden
 Golf von Akaba,Gulf of Aqaba
 Golf von Bengalen,Bay of Bengal
@@ -2411,6 +2629,7 @@ Golf von Thailand,Gulf of Thailand
 Golfstrom,Gulf Stream
 Golgatha,Calvary
 Golgi-Apparat,Golgi apparatus
+Google,Google
 Google,Google
 Googol,Googol
 Gorgonen,Gorgon
@@ -2429,9 +2648,11 @@ Grad Fahrenheit,Fahrenheit
 Gradient,Gradient
 Graffiti,Graffiti
 Grafikdesign,Graphic design
+Grafikdesign,Graphic design
 Grafische Benutzeroberfläche,Graphical user interface
 Graham Greene,Graham Greene
 Gramm,Gram
+Grammatik,Grammar
 Grammatik,Grammar
 Granada,Granada
 Granatapfel,Pomegranate
@@ -2455,10 +2676,14 @@ Gregor Mendel,Gregor Mendel
 Gregorianischer Kalender,Gregorian calendar
 Greif,Griffin
 Greifvögel,Falconiformes
+Grenada,Grenada
 Grenoble,Grenoble
 Greta Garbo,Greta Garbo
 Griechenland,Greece
+Griechenland,Greece
 Griechische Mythologie,Greek mythology
+Griechische Mythologie,Greek mythology
+Griechische Schrift,Greek alphabet
 Griechisches Alphabet,Greek alphabet
 Griechisches Feuer,Greek fire
 Grosny,Grozny
@@ -2481,6 +2706,7 @@ Gruppe des Periodensystems,Group
 Gruppentheorie,Group
 Gruppentheorie,Group theory
 Grönland,Greenland
+Grönland,Greenland
 Grönlandsee,Greenland Sea
 Größter gemeinsamer Teiler und kleinstes gemeinsames Vielfaches,Greatest common divisor
 Grün,Green
@@ -2493,6 +2719,7 @@ Guangdong,Guangdong
 Guangzhou,Guangzhou
 Guanin,Guanine
 Guano,Guano
+Guatemala,Guatemala
 Guatemala-Stadt,Guatemala City
 Guayaquil,Guayaquil
 Guernsey,Guernsey
@@ -2500,6 +2727,8 @@ Guglielmo Marconi,Guglielmo Marconi
 Guillaume Apollinaire,Guillaume Apollinaire
 Guillotine,Guillotine
 Guinea,Guinea
+Guinea,Guinea
+Guinea-Bissau,Guinea-Bissau
 Guinea-Bissau,Guinea-Bissau
 Gujarat,Gujarat
 Gulag,Gulag
@@ -2516,10 +2745,12 @@ Gustave Courbet,Gustave Courbet
 Gustave Flaubert,Gustave Flaubert
 Guy Fawkes,Guy Fawkes
 Guy de Maupassant,Guy de Maupassant
+Guyana,Guyana
 Gymnastik,Gymnastics
 Gynäkologie,Gynaecology
 Gämse,Chamois
 Gänsegeier,Griffon Vulture
+Gänsevögel,Anseriformes
 Gänsevögel,Anseriformes
 Gärtner,Gardening
 Göteborg,Gothenburg
@@ -2550,6 +2781,7 @@ Haie,Shark
 Haifa,Haifa
 Haiku,Haiku
 Haiti,Haiti
+Haiti,Haiti
 Halal,Halal
 Halbinsel,Peninsula
 Halbleiter,Semiconductor
@@ -2561,6 +2793,7 @@ Halluzination,Hallucination
 Halogene,Halogen
 Hamas,Hamas
 Hamburg,Hamburg
+Hamburg,Hamburg
 Hamburger,Hamburger
 Hamlet,Hamlet
 Hammer,Hammer
@@ -2570,6 +2803,7 @@ Hampshire,Hampshire
 Hamster,Hamster
 Han-Dynastie,Han Dynasty
 Hand,Hand
+Handel,Commerce
 Handel,Trade
 Handgranate,Hand grenade
 Hanf,Cannabis
@@ -2582,6 +2816,7 @@ Hans Christian Andersen,Hans Christian Andersen
 Hanse,Hanseatic League
 Hanuman,Hanuman
 Harare,Harare
+Hardware,Computer hardware
 Hardware,Computer hardware
 Harem,Harem
 Harfe,Harp
@@ -2617,7 +2852,9 @@ Hausziege,Goat
 Haut,Skin
 Haute-Normandie,Haute-Normandie
 Hautflügler,Hymenoptera
+Hautflügler,Hymenoptera
 Havanna,Havana
+Hawaii,Hawaii
 Hawaii,Hawaii
 Hebe,Hebe
 Hebei,Hebei
@@ -2637,6 +2874,7 @@ Heiliger Abend,Christmas Eve
 Heiliger Geist,Holy Spirit
 Heiliger Gral,Holy Grail
 Heiliges Römisches Reich,Holy Roman Empire
+Heiliges Römisches Reich,Holy Roman Empire
 Heimdall,Heimdall
 Heinrich Himmler,Heinrich Himmler
 Heinrich Rudolf Hertz,Heinrich Hertz
@@ -2648,8 +2886,8 @@ Hektor,Hector
 Hel,Hel
 Held,Hero
 Helen Keller,Helen Keller
-Helena,Helena
 Helena,Helen
+Helena,Helena
 Helios,Helios
 Helium,Helium
 Hellebarde,Halberd
@@ -2671,9 +2909,10 @@ Henry Purcell,Henry Purcell
 Hepatitis,Hepatitis
 Hephaistos,Hephaestus
 Hera,Hera
-Herakles,Hercules
 Herakles,Heracles
+Herakles,Hercules
 Heraklit,Heraclitus
+Heraldik,Heraldry
 Heraldik,Heraldry
 Herat,Herat
 Herbert C. Hoover,Herbert Hoover
@@ -2700,6 +2939,7 @@ Herzog,Duke
 Hesiod,Hesiod
 Hesperiden,Hesperides
 Hessen,Hesse
+Hessen,Hesse
 Hestia,Hestia
 Heterosexualität,Heterosexuality
 Heterotrophie,Heterotroph
@@ -2713,7 +2953,9 @@ Himbeere,Rubus idaeus
 Himmel,Heaven
 Himmelskugel,Celestial sphere
 Himmelsmechanik,Celestial mechanics
+Himmelsmechanik,Celestial mechanics
 Hindi-Film,Bollywood
+Hinduismus,Hinduism
 Hinduismus,Hinduism
 Hindukusch,Hindu Kush
 Hintergrundstrahlung,Cosmic microwave background radiation
@@ -2726,6 +2968,7 @@ Hirsche,Deer
 Hisbollah,Hezbollah
 Hispaniola,Hispaniola
 Histidin,Histidine
+Histologie,Histology
 Histologie,Histology
 Histon,Histone
 Ho Chi Minh,Ho Chi Minh
@@ -2757,6 +3000,8 @@ Homophobie,Homophobia
 Homosexualität,Homosexuality
 Homöopathie,Homeopathy
 Honduras,Honduras
+Honduras,Honduras
+Hongkong,Hong Kong
 Hongkong,Hong Kong
 Honiara,Honiara
 Honig,Honey
@@ -2786,6 +3031,7 @@ Hugo Grotius,Hugo Grotius
 Humanes Immundefizienz-Virus,HIV
 Humanismus,Humanism
 Hummeln,Bumblebee
+Humor,Humor
 Humor,Humour
 Humphrey Bogart,Humphrey Bogart
 Humus,Humus
@@ -2801,9 +3047,11 @@ Hutu,Hutu
 Hybride,Hybrid
 Hyderabad,Hyderabad
 Hydrologie,Hydrology
+Hydrologie,Hydrology
 Hydrolyse,Hydrolysis
 Hydrosphäre,Hydrosphere
 Hydroxidion,Hydroxide
+Hygiene,Hygiene
 Hymen,Hymen
 Hymne,Hymn
 Hyperbel,Hyperbola
@@ -2821,6 +3069,7 @@ Hypothese,Hypothesis
 Hyänen,Hyena
 Hämatit,Hematite
 Hämatologie,Hematology
+Hämatologie,Hematology
 Hämoglobin,Hemoglobin
 Hämophilie,Haemophilia
 Hämorrhoiden,Hemorrhoid
@@ -2832,7 +3081,9 @@ Höhere Krebse,Malacostraca
 Höhle,Cave
 Höhle von Lascaux,Lascaux
 Hölle,Hell
+Hörfunk,Radio
 Hörnchen,Sciuridae
+Hühnervögel,Galliformes
 Hühnervögel,Galliformes
 Hülsenfrüchtler,Fabaceae
 Hünengrab,Dolmen
@@ -2845,6 +3096,7 @@ Iason,Jason
 Iberische Halbinsel,Iberian Peninsula
 Ibuprofen,Ibuprofen
 Ichthyologie,Ichthyology
+Idaho,Idaho
 Idaho,Idaho
 Ideales Gas,Ideal gas
 Idealismus,Idealism
@@ -2860,10 +3112,12 @@ Ikonoklasmus,Iconoclasm
 Ikterus,Jaundice
 Ilias,Iliad
 Illinois,Illinois
+Illinois,Illinois
 Illyrien,Illyria
 Ilmensee,Lake Ilmen
 Imam,Imam
 Immanuel Kant,Immanuel Kant
+Immunologie,Immunology
 Immunologie,Immunology
 Immunsystem,Immune system
 Imperialismus,Imperialism
@@ -2873,17 +3127,22 @@ Impuls,Momentum
 Incheon,Incheon
 Inder,Indus
 Indiana,Indiana
+Indiana,Indiana
 Indianapolis,Indianapolis
+Indien,India
 Indien,India
 Indira Gandhi,Indira Gandhi
 Indischer Ozean,Indian Ocean
+Indischer Ozean,Indian Ocean
 Indium,Indium
 Indochina,Indochina
+Indonesien,Indonesia
 Indonesien,Indonesia
 Indra,Indra
 Induktion,Inductive reasoning
 Induktivität,Inductance
 Indus,Indus River
+Industrie,Industry
 Industrie,Industry
 Industrielle Revolution,Industrial Revolution
 Infanterie,Infantry
@@ -2893,6 +3152,8 @@ Infinitiv,Infinitive
 Inflation,Inflation
 Influenza,Influenza
 Informatik,Computer science
+Informatik,Computer science
+Informatik,Computing
 Information,Information
 Informationstechnik,Information technology
 Informationstheorie,Information theory
@@ -2900,9 +3161,11 @@ Infrarotstrahlung,Infrared
 Infrastruktur,Infrastructure
 Ingenieur,Engineer
 Ingenieurwissenschaft,Engineering
+Ingenieurwissenschaft,Engineering
 Ingmar Bergman,Ingmar Bergman
 Ingrid Bergman,Ingrid Bergman
 Ingwer,Ginger
+Innenpolitik,Security
 Innere Mongolei,Inner Mongolia
 Innovation,Innovation
 Innsbruck,Innsbruck
@@ -2930,6 +3193,7 @@ Internationaler Gerichtshof,International Court of Justice
 Internationaler Währungsfonds,International Monetary Fund
 Internationales Einheitensystem,International System of Units
 Internet,Internet
+Internet,Internet
 Internet Explorer,Internet Explorer
 Interpreter,Interpreter
 Intervall,Interval
@@ -2945,16 +3209,22 @@ Ionisches Meer,Ionian Sea
 Ionosphäre,Ionosphere
 Iota,Iota
 Iowa,Iowa
+Iowa,Iowa
+Irak,Iraq
 Irak,Iraq
 Iran,Iran
+Iran,Iran
+Ire,Irish people
 Irenäus von Lyon,Irenaeus
 Iridium,Iridium
 Iris,Iris
 Iris,Iris
 Irische See,Irish Sea
 Irish Republican Army,Irish Republican Army
-Irland,Republic of Ireland
 Irland,Ireland
+Irland,Ireland
+Irland,Republic of Ireland
+Irland,Republic of Ireland
 Iron Maiden,Iron Maiden
 Ironie,Irony
 Irrationale Zahlen,Irrational number
@@ -2968,18 +3238,24 @@ Isadora Duncan,Isadora Duncan
 Isfahan,Esfahan
 Isis,Isis
 Islam,Islam
+Islam,Islam
 Islamabad,Islamabad
 Islamische Zeitrechnung,Islamic calendar
 Island,Iceland
+Island,Iceland
+Isle of Man,Isle of Man
 Isle of Man,Isle of Man
 Isle of Wight,Isle of Wight
 Ismael,Ishmael
 Isomer,Isomer
 Isotop,Isotope
 Israel,Israel
+Israel,Israel
+Istanbul,Istanbul
 Istanbul,Istanbul
 Isthmus,Isthmus
 Isthmus von Panama,Isthmus of Panama
+Italien,Italy
 Italien,Italy
 Italo Calvino,Italo Calvino
 Ithaka,Ithaca
@@ -2990,8 +3266,8 @@ Iwan Sergejewitsch Turgenew,Ivan Turgenev
 Iwojima,Iwo Jima
 J,J
 J. M. Barrie,J. M. Barrie
-JHWH,Yahweh
 JHWH,Jehovah
+JHWH,Yahweh
 Jack Kerouac,Jack Kerouac
 Jack Lemmon,Jack Lemmon
 Jack London,Jack London
@@ -3006,6 +3282,7 @@ Jade,Jade
 Jagd,Hunting
 Jaguar,Jaguar
 Jahr,Year
+Jahr,Years
 Jahreszeit,Season
 Jahrhundert,Century
 Jahrtausend,Millennium
@@ -3015,6 +3292,7 @@ Jakarta,Jakarta
 Jakob,Jacob
 Jakobus der Ältere,James
 Jalta,Yalta
+Jamaika,Jamaica
 Jamaika,Jamaica
 James A. Garfield,James A. Garfield
 James Bond,James Bond
@@ -3040,12 +3318,14 @@ Janitscharen,Janissary
 Januar,January
 Janus,Janus
 Japan,Japan
+Japan,Japan
 Japanisches Meer,Sea of Japan
 Jassir Arafat,Yasser Arafat
 Java,Java
 Java,Java
 Java,Java
 Jawaharlal Nehru,Jawaharlal Nehru
+Jazz,Jazz
 Jazz,Jazz
 Jean Cocteau,Jean Cocteau
 Jean Piaget,Jean Piaget
@@ -3060,6 +3340,7 @@ Jeanne d’Arc,Joan of Arc
 Jefferson City,Jefferson City
 Jefferson Davis,Jefferson Davis
 Jemen,Yemen
+Jemen,Yemen
 Jena,Jena
 Jenissei,Yenisei River
 Jeremy Bentham,Jeremy Bentham
@@ -3067,6 +3348,7 @@ Jerez de la Frontera,Jerez de la Frontera
 Jericho,Jericho
 Jerome David Salinger,J. D. Salinger
 Jersey,Jersey
+Jerusalem,Jerusalem
 Jerusalem,Jerusalem
 Jesuiten,Society of Jesus
 Jesus von Nazaret,Jesus
@@ -3115,6 +3397,7 @@ Jom-Kippur-Krieg,Yom Kippur War
 Jonathan Swift,Jonathan Swift
 Jordan,Jordan River
 Jordanien,Jordan
+Jordanien,Jordan
 Jorge Luis Borges,Jorge Luis Borges
 Josef Stalin,Joseph Stalin
 Joseph Conrad,Joseph Conrad
@@ -3128,6 +3411,7 @@ Joseph Schumpeter,Joseph Schumpeter
 Joseph Smith,Joseph Smith
 Joule,Joule
 Journalismus,Journalism
+Journalismus,Journalism
 Journalist,Journalist
 Jovian,Jovian
 Joystick,Joystick
@@ -3135,10 +3419,12 @@ Judas Ischariot,Judas Iscariot
 Juden,Jew
 Judenfeindlichkeit,Antisemitism
 Judentum,Judaism
+Judentum,Judaism
 Judo,Judo
 Judy Garland,Judy Garland
 Judäa,Judea
 Jugendstil,Art Nouveau
+Jugoslawien,Yugoslavia
 Jugoslawien,Yugoslavia
 Jules Verne,Jules Verne
 Juli,July
@@ -3151,6 +3437,7 @@ Jungfrau,Virgo
 Jungsteinzeit,Neolithic
 Juni,June
 Juno,Juno
+Jupiter,Jupiter
 Jupiter,Jupiter
 Jupiter,Jupiter
 Jupiter,Jupiter
@@ -3167,8 +3454,9 @@ Kabarett,Cabaret
 Kabbala,Kabbalah
 Kabul,Kabul
 Kadmos,Cadmus
-Kaffee,Coffee
 Kaffee,Coffea
+Kaffee,Coffee
+Kaffee,Coffee
 Kaimaninseln,Cayman Islands
 Kairo,Cairo
 Kaiser,Emperor
@@ -3185,6 +3473,7 @@ Kaliber,Caliber
 Kalif,Caliph
 Kalifat,Caliphate
 Kalifornien,California
+Kalifornien,California
 Kalium,Potassium
 Kaliumnitrat,Potassium nitrate
 Kalkstein,Limestone
@@ -3194,28 +3483,35 @@ Kallisto,Callisto
 Kallisto,Callisto
 Kalorie,Calorie
 Kalter Krieg,Cold War
+Kalter Krieg,Cold War
 Kalypso,Calypso
 Kambodscha,Cambodia
+Kambodscha,Cambodia
 Kambrium,Cambrian
+Kamerun,Cameroon
 Kamerun,Cameroon
 Kampala,Kampala
 Kampanien,Campania
 Kampfflugzeug,Fighter aircraft
 Kamtschatka,Kamchatka Peninsula
 Kanada,Canada
+Kanada,Canada
 Kanadier,Canoe
 Kanadischer Dollar,Canadian dollar
 Kanal,Canal
 Kanarische Inseln,Canary Islands
+Kanarische Inseln,Canary Islands
 Kandahar,Kandahar
 Kannibalismus,Cannibalism
 Kanone,Cannon
+Kansas,Kansas
 Kansas,Kansas
 Kansas City,Kansas City
 Kantate,Cantata
 Kanton Tessin,Ticino
 Kantonesische Sprache,Cantonese
 Kap Hoorn,Cape Horn
+Kap Verde,Cape Verde
 Kap Verde,Cape Verde
 Kap der Guten Hoffnung,Cape of Good Hope
 Kapital,Capital
@@ -3235,8 +3531,10 @@ Karbon,Carboniferous
 Kardamom,Cardamom
 Kardinal,Cardinal
 Kardiologie,Cardiology
+Kardiologie,Cardiology
 Karen Blixen,Karen Blixen
 Karfreitag,Good Friday
+Karibik,Caribbean
 Karibik,Caribbean
 Karibisches Meer,Caribbean Sea
 Karikatur,Caricature
@@ -3261,6 +3559,8 @@ Kartesisches Produkt,Cartesian product
 Karthago,Carthage
 Kartoffel,Potato
 Kartografie,Cartography
+Kartografie,Cartography
+Kasachstan,Kazakhstan
 Kasachstan,Kazakhstan
 Kasan,Kazan
 Kaschu,Cashew
@@ -3272,666 +3572,12 @@ Kastanien,Chestnut
 Kaste,Caste
 Kastilien,Castile
 Katalonien,Catalonia
+Katalonien,Catalonia
 Katalysator,Catalysis
 Kataphrakt,Cataphract
 Katar,Qatar
-Katarakt,Cataract
-!Hauptkategorie,Fundamental
-100,100
-1000,1000
-12,12
-14,14
-16,16
-17,17
-1728,1728
-1750er,1750s
-1760er,1760s
-1770er,1770s
-1780er,1780s
-1790er,1790s
-1820er,1820s
-1830er,1830s
-1840er,1840s
-1860er,1860s
-1870er,1870s
-1880er,1880s
-1890er,1890s
-1900er,1900s
-1920er,1920s
-1930er,1930s
-1940er,1940s
-1950er,1950s
-1960er,1960s
-1970er,1970s
-1980er,1980s
-1990er,1990s
-500,500
-Abchasien,Abkhazia
-Adel,Nobility
-Afghanistan,Afghanistan
-Afrika,Africa
-Akustik,Acoustics
-Alabama,Alabama
-Alaska,Alaska
-Albanien,Albania
-Alberta,Alberta
-Alchemie,Alchemy
-Algebra,Algebra
-Algerien,Algeria
-Alpen,Alps
-Alternativmedizin,Alternative medicine
-Altertum,Ancient history
-American Football,American football
-Amsterdam,Amsterdam
-Anarchismus,Anarchism
-Anatomie,Anatomy
-Andorra,Andorra
-Angola,Angola
-Anime,Anime
-Antarktis,Antarctica
-Anthropologie,Anthropology
-Antigua und Barbuda,Antigua and Barbuda
-Antisemitismus,Antisemitism
-Apollo-Programm,Apollo program
-Architektur,Architecture
-Archäologie,Archaeology
-Argentinien,Argentina
-Arithmetik,Arithmetic
-Arizona,Arizona
-Arkansas,Arkansas
-Armenien,Armenia
-Artillerie,Artillery
-Aruba,Aruba
-Aserbaidschan,Azerbaijan
-Asien,Asia
-Assyrien,Assyria
-Astrologie,Astrology
-Astronomie,Astronomy
-Astrophysik,Astrophysics
-Atheismus,Atheism
-Atlantischer Ozean,Atlantic Ocean
-Atomphysik,Atomic physics
-Auge,Eye
-Australien,Australia
-Australien und Ozeanien,Oceania
-Bahamas,Bahamas
-Bahrain,Bahrain
-Bakterien,Bacteria
-Ballett,Ballet
-Bangladesch,Bangladesh
-Barbados,Barbados
-Barcelona,Barcelona
-Baseball,Baseball
-Basketball,Basketball
-Bayern,Bavaria
-Begriffsklärung,Disambiguation
-Belgien,Belgium
-Belize,Belize
-Benin,Benin
-Berlin,Berlin
-Bermuda,Bermuda
-Bhutan,Bhutan
-Bibel,Bible
-Bienenzucht,Beekeeping
-Bier,Beer
-Bildhauerei,Sculpture
-Bildung,Education
-Biochemie,Biochemistry
-Biologie,Biology
-Biotechnologie,Biotechnology
-Bolivien,Bolivia
-Bosnien und Herzegowina,Bosnia and Herzegovina
-Botanik,Botany
-Botsuana,Botswana
-Boxen,Boxing
-Boxer,Boxers
-Brasilien,Brazil
-Brite,British people
-Brunei,Brunei
-Brücke,Bridges
-Buchengewächse,Fagaceae
-Buddhismus,Buddhism
-Bulgarien,Bulgaria
-Burkina Faso,Burkina Faso
-Burundi,Burundi
-Byzantinische Geschichte,Byzantine Empire
-Chemie,Chemistry
-Chile,Chile
-China,China
-Chirurgie,Surgery
-Christentum,Christianity
-Chronologie,Chronology
-Colorado,Colorado
-Computergrafik,Computer graphics
-Connecticut,Connecticut
-Costa Rica,Costa Rica
-Delaware,Delaware
-Demografie,Demography
-Demokratische Republik Kongo,Democratic Republic of the Congo
-Design,Design
-Deutsche Sprache,German language
-Deutsches Reich,Nazi Germany
-Deutschland,Germany
-Diplomatie,Diplomacy
-Dominica,Dominica
-Dominikanische Republik,Dominican Republic
-Dschibuti,Djibouti
-Dänemark,Denmark
-Ecuador,Ecuador
-Eishockey,Ice hockey
-El Salvador,El Salvador
-Elektrochemie,Electrochemistry
-Elektrodynamik,Electromagnetism
-Elektronik,Electronics
-Elektrotechnik,Electrical engineering
-Emotion,Emotion
-Endokrinologie,Endocrinology
-Energie,Energy
-England,England
-Englische Sprache,English language
-Engländer,English people
-Entomologie,Entomology
-Erde,Earth
-Eritrea,Eritrea
-Ernährung,Nutrition
-Erster Weltkrieg,World War I
-Esperanto,Esperanto
-Estland,Estonia
-Ethik,Ethics
-Ethnologie,Ethnology
-Europa,Europe
-Europäische Union,European Union
-Familie,Family
-Faschismus,Fascism
-Feminismus,Feminism
-Fernsehen,Television
-Fidschi,Fiji
-Fiktion,Fiction
-Film,Film
-Finanzierung,Finance
-Finnland,Finland
-Fischerei,Fishing
-Fledertiere,Bats
-Florida,Florida
-Fotografie,Photography
-Frankfurt am Main,Frankfurt
-Frankreich,France
-Franzose,French people
-Französisch-Polynesien,French Polynesia
-Französische Revolution,French Revolution
-Fußball,Football
-Fußball nach Staat,Football  by country
-Fußballspieler,Football  players
-Fußballstadion,Football  venues
-Fußballtrainer,Football  managers
-Fußballverein,Football  clubs
-Färöer,Faroe Islands
-Föderierte Staaten von Mikronesien,Federated States of Micronesia
-Gabun,Gabon
-Gambia,The Gambia
-Geisteswissenschaft,Humanities
-Genealogie,Genealogy
-Genetik,Genetics
-Geodäsie,Geodesy
-Geographie,Geography
-Geologie,Geology
-Geometrie,Geometry
-Geomorphologie,Geomorphology
-Geophysik,Geophysics
-Georgia,Georgia
-Georgien,Georgia
-Germanische Mythologie,Norse mythology
-Geschichte,History
-Gesellschaft,Society
-Gesundheit,Health
-Ghana,Ghana
-Gibraltar,Gibraltar
-Golf,Golf
-Google,Google
-Grafikdesign,Graphic design
-Grammatik,Grammar
-Grenada,Grenada
-Griechenland,Greece
-Griechische Mythologie,Greek mythology
-Griechische Schrift,Greek alphabet
-Grönland,Greenland
-Guatemala,Guatemala
-Guinea,Guinea
-Guinea-Bissau,Guinea-Bissau
-Guyana,Guyana
-Gänsevögel,Anseriformes
-Haiti,Haiti
-Hamburg,Hamburg
-Handel,Commerce
-Hardware,Computer hardware
-Hautflügler,Hymenoptera
-Hawaii,Hawaii
-Heiliges Römisches Reich,Holy Roman Empire
-Heraldik,Heraldry
-Hessen,Hesse
-Himmelsmechanik,Celestial mechanics
-Hinduismus,Hinduism
-Histologie,Histology
-Honduras,Honduras
-Hongkong,Hong Kong
-Humor,Humor
-Hydrologie,Hydrology
-Hygiene,Hygiene
-Hämatologie,Hematology
-Hörfunk,Radio
-Hühnervögel,Galliformes
-Idaho,Idaho
-Illinois,Illinois
-Immunologie,Immunology
-Indiana,Indiana
-Indien,India
-Indischer Ozean,Indian Ocean
-Indonesien,Indonesia
-Industrie,Industry
-Informatik,Computer science
-Informatik,Computing
-Ingenieurwissenschaft,Engineering
-Innenpolitik,Security
-Internet,Internet
-Iowa,Iowa
-Irak,Iraq
-Iran,Iran
-Ire,Irish people
-Irland,Republic of Ireland
-Irland,Ireland
-Islam,Islam
-Island,Iceland
-Isle of Man,Isle of Man
-Israel,Israel
-Istanbul,Istanbul
-Italien,Italy
-Jahr,Years
-Jamaika,Jamaica
-Japan,Japan
-Jazz,Jazz
-Jemen,Yemen
-Jerusalem,Jerusalem
-Jordanien,Jordan
-Journalismus,Journalism
-Judentum,Judaism
-Jugoslawien,Yugoslavia
-Jupiter,Jupiter
-Kaffee,Coffee
-Kalifornien,California
-Kalter Krieg,Cold War
-Kambodscha,Cambodia
-Kamerun,Cameroon
-Kanada,Canada
-Kanarische Inseln,Canary Islands
-Kansas,Kansas
-Kap Verde,Cape Verde
-Kardiologie,Cardiology
-Karibik,Caribbean
-Kartografie,Cartography
-Kasachstan,Kazakhstan
-Katalonien,Catalonia
 Katar,Qatar
-Kaukasus,Caucasus
-Kenia,Kenya
-Kentucky,Kentucky
-Kernphysik,Nuclear physics
-Kirgisistan,Kyrgyzstan
-Kiribati,Kiribati
-Klassische Musik,Classical music
-Kleidung,Clothing
-Klimatologie,Climatology
-Knochen,Skeletal system
-Kolumbien,Colombia
-Kommunikation,Communication
-Kommunismus,Communism
-Komoren,Comoros
-Korbblütler,Asteraceae
-Korea,Korea
-Kosmologie,Cosmology
-Kosovo,Kosovo
-Kreditinstitut,Banks
-Kreislaufsystem,Cardiovascular system
-Krieg,War
-Kriminologie,Criminology
-Kristallographie,Crystallography
-Kroatien,Croatia
-Kryptologie,Cryptography
-Kuba,Cuba
-Kultur,Culture
-Kunst,Arts
-Kunstgeschichte,Art history
-Kurdistan,Kurdistan
-Kuwait,Kuwait
-Künstliche Intelligenz,Artificial intelligence
-Landwirtschaft,Agriculture
-Laos,Laos
-Leichtathletik,Athletics
-Lesotho,Lesotho
-Lettland,Latvia
-Libanon,Lebanon
-Liberalismus,Liberalism
-Liberia,Liberia
-Libyen,Libya
-Liechtenstein,Liechtenstein
-Lineare Algebra,Linear algebra
-Linux,Linux
-Litauen,Lithuania
-Literatur,Literature
-Logik,Logic
-London,London
-Louisiana,Louisiana
-Luftfahrt,Aviation
-Luftfahrzeug,Aircraft
-Luxemburg,Luxembourg
-Lyrik,Poetry
-Madagaskar,Madagascar
-Magnetismus,Magnetism
-Maine,Maine
-Makroökonomie,Macroeconomics
-Malawi,Malawi
-Malaysia,Malaysia
-Malediven,Maldives
-Malerei,Painting
-Mali,Mali
-Malta,Malta
-Marketing,Marketing
-Marokko,Morocco
-Mars,Mars
-Marshallinseln,Marshall Islands
-Marxismus,Marxism
-Maryland,Maryland
-Maschinenbau,Mechanical engineering
-Massachusetts,Massachusetts
-Mathematik,Mathematics
-Mathematische Logik,Mathematical logic
-Mauretanien,Mauritania
-Mauritius,Mauritius
-Mechanik,Mechanics
-Medizin,Medicine
-Meerenge,Straits
-Mengenlehre,Set theory
-Mesopotamien,Mesopotamia
-Messtechnik,Measurement
-Metal,Heavy metal
-Metallurgie,Metallurgy
-Metaphysik,Metaphysics
-Meteorologie,Meteorology
-Mexiko,Mexico
-Michigan,Michigan
-Mikrobiologie,Microbiology
-Mikroökonomie,Microeconomics
-Militärwesen,Military
-Mineralogie,Mineralogy
-Minnesota,Minnesota
-Mississippi,Mississippi
-Missouri,Missouri
-Mittelalter,Middle Ages
-Mittelamerika,Central America
-Mittelmeer,Mediterranean
-Mode,Fashion
-Moldawien,Moldova
-Molekularbiologie,Molecular biology
-Monaco,Monaco
-Monarchie,Monarchy
-Mongolei,Mongolia
-Montana,Montana
-Montenegro,Montenegro
-Mosambik,Mozambique
-Moskau,Moscow
-Musik,Music
-Myanmar,Myanmar
-Myanmar,Burma
-Mykologie,Mycology
-Mythologie,Mythology
-Möbelstück,Furniture
-NATO,NATO
-Nachtschattengewächse,Solanaceae
-Naher Osten,Middle East
-Namibia,Namibia
-Nationalismus,Nationalism
-Nationalsozialismus,Nazism
-Natur,Nature
-Nauru,Nauru
-Navigation,Navigation
-Nebraska,Nebraska
-Nepal,Nepal
-Nervensystem,Nervous system
-Neurologie,Neurology
-Neuseeland,New Zealand
-Nevada,Nevada
-New Hampshire,New Hampshire
-New Jersey,New Jersey
-New Mexico,New Mexico
-New York,New York
-New York City,New York City
-Nicaragua,Nicaragua
-Niederlande,Netherlands
-Niederländer,Dutch people
-Niger,Niger
-Nigeria,Nigeria
-Nobelpreis,Nobel Prize
-Nordamerika,North America
-Nordirland,Northern Ireland
-Nordkorea,North Korea
-North Carolina,North Carolina
-North Dakota,North Dakota
-Norwegen,Norway
-Numismatik,Numismatics
-Obst,Fruit
-Ohio,Ohio
-Oklahoma,Oklahoma
-Olympische Spiele,Olympics
-Olympische Winterspiele,Winter Olympic Games
-Oman,Oman
-Onkologie,Oncology
-Ontario,Ontario
-Optik,Optics
-Oregon,Oregon
-Ornithologie,Ornithology
-Osmanisches Reich,Ottoman Empire
-Osttimor,East Timor
-Ozeanografie,Oceanography
-Pakistan,Pakistan
-Palau,Palau
-Paläontologie,Paleontology
-Palästina,Palestine
-Panama,Panama
-Papua-Neuguinea,Papua New Guinea
-Paraguay,Paraguay
-Paris,Paris
-Pazifischer Ozean,Pacific Ocean
-Pennsylvania,Pennsylvania
-Person,People
-Peru,Peru
-Pharmakologie,Pharmacology
-Philatelie,Philately
-Philippinen,Philippines
-Philologie,Philology
-Philosophie,Philosophy
-Phonetik,Phonetics
-Physik,Physics
-Physikalische Chemie,Physical chemistry
-Physiologie,Physiology
-Pilze,Fungi
-Polen,Poland
-Politik,Politics
-Politikwissenschaft,Political science
-Polizei,Law enforcement
-Portugal,Portugal
-Prag,Prague
-Primaten,Primates
-Programmierung,Computer programming
-Psychiatrie,Psychiatry
-Psychologie,Psychology
-Puerto Rico,Puerto Rico
-Punk,Punk
-Pädagogik,Pedagogy
-Quantenmechanik,Quantum mechanics
-Québec,Quebec
-Radsport,Cycling
-Rassismus,Racism
-Rechnungswesen,Accountancy
-Recht,Law
-Relativitätstheorie,Relativity
-Religion,Religion
-Renaissance,Renaissance
-Republik Kongo,Republic of the Congo
-Rhetorik,Rhetoric
-Rhode Island,Rhode Island
-Rock,Rock music
-Rom,Rome
-Ruanda,Rwanda
-Rumänien,Romania
-Russland,Russia
-Römische Mythologie,Roman mythology
-Sachsen,Saxony
-Salomonen,Solomon Islands
-Sambia,Zambia
-Samoa,Samoa
-San Marino,San Marino
-Sankt Petersburg,Saint Petersburg
-Saturn,Saturn
-Saudi-Arabien,Saudi Arabia
-Schach,Chess
-Schottland,Scotland
-Schweden,Sweden
-Schweiz,Switzerland
-Schweizer,Swiss people
-Schwimmsport,Swimming
-Science-Fiction,Science fiction
-Semantik,Semantics
-Senegal,Senegal
-Serbien,Serbia
-Serbien und Montenegro,Serbia and Montenegro
-Sexualität,Sexuality
-Seychellen,Seychelles
-Sierra Leone,Sierra Leone
-Simbabwe,Zimbabwe
-Singapur,Singapore
-Sizilien,Sicily
-Skandinavien,Scandinavia
-Slowakei,Slovakia
-Slowenien,Slovenia
-Software,Software
-Somalia,Somalia
-Sonne,Sun
-Sonnensystem,Solar System
-South Carolina,South Carolina
-South Dakota,South Dakota
-Sowjetunion,Soviet Union
-Sozialismus,Socialism
-Soziologie,Sociology
-Spanien,Spain
-Spanier,Spanish people
-Sperlingsvögel,Passeriformes
-Sprachwissenschaft,Linguistics
-Sri Lanka,Sri Lanka
-St. Kitts und Nevis,Saint Kitts and Nevis
-St. Lucia,Saint Lucia
-St. Vincent und die Grenadinen,Saint Vincent and the Grenadines
-Statistik,Statistics
-Steuern und Abgaben,Taxation
-Stochastik,Probability theory
-Strafrecht,Criminal law
-Sudan,Sudan
-Suriname,Suriname
-Swasiland,Swaziland
-Syrien,Syria
-Südafrika,South Africa
-Südamerika,South America
-Südkorea,South Korea
-Tadschikistan,Tajikistan
-Tag,Days
-Taiwan,Taiwan
-Tansania,Tanzania
-Tanzen,Dance
-Taubenvögel,Columbiformes
-Technik,Technology
-Tee,Tea
-Teilchenphysik,Particle physics
-Tennessee,Tennessee
-Tennis,Tennis
-Terrorismus,Terrorism
-Texas,Texas
-Thailand,Thailand
-Theater,Theatre
-Theologie,Theology
-Thermodynamik,Thermodynamics
-Thüringen,Thuringia
-Tibet,Tibet
-Tod,Death
-Togo,Togo
-Tonga,Tonga
-Topologie,Topology
-Tourismus,Tourism
-Trigonometrie,Trigonometry
-Trinidad und Tobago,Trinidad and Tobago
-Tschad,Chad
-Tschechien,Czech Republic
-Tschechoslowakei,Czechoslovakia
-Tschetschenien,Chechnya
-Tunesien,Tunisia
-Turkmenistan,Turkmenistan
-Tuvalu,Tuvalu
-Typografie,Typography
-Türkei,Turkey
-U-Bahn,Rapid transit
-Uganda,Uganda
-Ukraine,Ukraine
-Umweltschutz,Environment
-Ungarn,Hungary
-Unix,Unix
-Unternehmer,Businesspeople
-Ur- und Frühgeschichte,Prehistory
-Uranus,Uranus
-Uruguay,Uruguay
-Usbekistan,Uzbekistan
-Utah,Utah
-Vanuatu,Vanuatu
-Vatikan,Vatican City
-Venezuela,Venezuela
-Verdauungsapparat,Digestive system
-Vereinigte Arabische Emirate,United Arab Emirates
-Vereinigte Staaten,United States
-Vereinigtes Königreich,United Kingdom
-Vereinte Nationen,United Nations
-Verkehrswesen,Transportation
-Vermont,Vermont
-Vietnam,Vietnam
-Vietnamkrieg,Vietnam War
-Virginia,Virginia
-Volkskunde,Folklore
-Volleyball,Volleyball
-Vulkanismus,Volcanology
-Völkerrecht,International law
-Wales,Wales
-Washington,Washington
-Wasser,Water
-Weihnachten,Christmas
-Wein,Wine
-Weißrussland,Belarus
-West Virginia,West Virginia
-Westsahara,Western Sahara
-Wien,Vienna
-Wirtschaft,Economics
-Wisconsin,Wisconsin
-Wissenschaft,Science
-World Wide Web,World Wide Web
-Wyoming,Wyoming
-Währungseinheit,Currency
-Wüste,Deserts
-Zahl,Numbers
-Zahnmedizin,Dentistry
-Zeitbegriff,Time
-Zentralafrikanische Republik,Central African Republic
-Zoologie,Zoology
-Zweiter Weltkrieg,World War II
-Zypern,Cyprus
-Ägypten,Egypt
-Äquatorialguinea,Equatorial Guinea
-Äthiopien,Ethiopia
-Ökologie,Ecology
-Österreich,Austria
+Katarakt,Cataract
 Katharer,Catharism
 Katharina von Aragón,Catherine of Aragon
 Katharine Hepburn,Katharine Hepburn
@@ -3942,8 +3588,9 @@ Katholizismus,Catholicism
 Kattowitz,Katowice
 Katzen,Felidae
 Kaugummi,Chewing gum
-Kaukasus,Caucasus Mountains
 Kaukasus,Caucasus
+Kaukasus,Caucasus
+Kaukasus,Caucasus Mountains
 Kaunas,Kaunas
 Kausalität,Causality
 Kavallerie,Cavalry
@@ -3953,15 +3600,18 @@ Kegelschnitt,Conic section
 Kehlkopf,Larynx
 Kelvin,Kelvin
 Kenia,Kenya
+Kenia,Kenya
 Kennwort,Password
 Kent,Kent
 Kentaur,Centaur
+Kentucky,Kentucky
 Kentucky,Kentucky
 Kepheus,Cepheus
 Keramik,Ceramic
 Kerberos,Cerberus
 Kernenergie,Nuclear power
 Kernfusion,Nuclear fusion
+Kernphysik,Nuclear physics
 Kernphysik,Nuclear physics
 Kernspaltung,Nuclear fission
 Kernwaffe,Nuclear weapon
@@ -3997,6 +3647,8 @@ Kirche,Church
 Kirchenlehrer,Doctor of the Church
 Kirchenstaat,Papal States
 Kirgisistan,Kyrgyzstan
+Kirgisistan,Kyrgyzstan
+Kiribati,Kiribati
 Kiribati,Kiribati
 Kirke,Circe
 Kirkuk,Kirkuk
@@ -4008,9 +3660,11 @@ Klasse,Class
 Klasse,Class
 Klasse,Class
 Klassische Mechanik,Classical mechanics
+Klassische Musik,Classical music
 Klassizismus,Classicism
 Klavier,Piano
 Klee,Clover
+Kleidung,Clothing
 Kleidung,Clothing
 Kleinbären,Procyonidae
 Kleine Antillen,Lesser Antilles
@@ -4024,6 +3678,7 @@ Kleopatra,Cleopatra
 Klerus,Clergy
 Klima,Climate
 Klimatologie,Climatology
+Klimatologie,Climatology
 Klimaveränderung,Climate change
 Klio,Clio
 Klitoris,Clitoris
@@ -4034,6 +3689,7 @@ Knesset,Knesset
 Kniegelenk,Knee
 Knoblauch,Garlic
 Knochen,Bone
+Knochen,Skeletal system
 Knochenfische,Osteichthyes
 Knochenmark,Bone marrow
 Knorpelfische,Chondrichthyes
@@ -4069,12 +3725,16 @@ Kolonie,Colony
 Koloss von Rhodos,Colossus of Rhodes
 Kolosseum,Colosseum
 Kolumbien,Colombia
+Kolumbien,Colombia
 Koma,Coma
 Komet,Comet
 Komma,Comma
 Kommunikation,Communication
+Kommunikation,Communication
+Kommunismus,Communism
 Kommunismus,Communism
 Komodowaran,Komodo dragon
+Komoren,Comoros
 Komoren,Comoros
 Kompanie,Company
 Kompass,Compass
@@ -4117,6 +3777,8 @@ Koralle,Coral
 Korallenmeer,Coral Sea
 Korallenriff,Coral reef
 Korbblütler,Asteraceae
+Korbblütler,Asteraceae
+Korea,Korea
 Korea,Korea
 Koreakrieg,Korean War
 Korinth,Corinth
@@ -4128,6 +3790,8 @@ Korvette,Corvette
 Kosmische Geschwindigkeiten,Escape velocity
 Kosmische Strahlung,Cosmic ray
 Kosmologie,Cosmology
+Kosmologie,Cosmology
+Kosovo,Kosovo
 Kosovo,Kosovo
 Kot,Feces
 Krabben,Crab
@@ -4146,9 +3810,11 @@ Krebs,Cancer
 Krebs,Cancer
 Krebsnebel,Crab Nebula
 Krebstiere,Crustacean
+Kreditinstitut,Banks
 Kreide,Cretaceous
 Kreis,Circle
 Kreiselinstrument,Gyroscope
+Kreislaufsystem,Cardiovascular system
 Kreiszahl,Pi
 Kreml,Kremlin
 Kreta,Crete
@@ -4160,22 +3826,28 @@ Kreuzigung,Crucifixion
 Kreuzprodukt,Cross product
 Kreuzworträtsel,Crossword
 Krieg,War
+Krieg,War
 Kriegsgefangener,Prisoner of war
 Kriegsverbrechen,War crime
 Krim,Crimea
 Kriminalität,Crime
 Kriminologie,Criminology
+Kriminologie,Criminology
 Krimkrieg,Crimean War
 Krishna,Krishna
 Kristall,Crystal
 Kristallographie,Crystallography
+Kristallographie,Crystallography
+Kroatien,Croatia
 Kroatien,Croatia
 Krokodile,Crocodilia
 Kronos,Cronus
 Kryptographie,Cryptography
+Kryptologie,Cryptography
 Krypton,Krypton
 Ku-Klux-Klan,Ku Klux Klan
 Kuala Lumpur,Kuala Lumpur
+Kuba,Cuba
 Kuba,Cuba
 Kubikmeter,Cubic metre
 Kubismus,Cubism
@@ -4187,12 +3859,15 @@ Kugelschreiber,Ballpoint pen
 Kuhreiher,Cattle Egret
 Kuipergürtel,Kuiper belt
 Kultur,Culture
+Kultur,Culture
 Kulturapfel,Apple
 Kulturrevolution,Cultural Revolution
 Kumquats,Kumquat
 Kung Fu,Kung fu
 Kunlun,Kunlun Mountains
 Kunst,Art
+Kunst,Arts
+Kunstgeschichte,Art history
 Kunstgeschichte,Art history
 Kunstmusik,Classical music
 Kunststoff,Plastic
@@ -4201,6 +3876,7 @@ Kupfer,Copper
 Kuppel,Dome
 Kura,Kura River
 Kurdistan,Kurdistan
+Kurdistan,Kurdistan
 Kurkuma,Turmeric
 Kursk,Kursk
 Kurt Vonnegut,Kurt Vonnegut
@@ -4208,6 +3884,7 @@ Kurt Waldheim,Kurt Waldheim
 Kurzsichtigkeit,Myopia
 Kurzwaffe,Handgun
 Kuss,Kiss
+Kuwait,Kuwait
 Kuwait,Kuwait
 Kuwait-Stadt,Kuwait City
 KwaZulu-Natal,KwaZulu-Natal
@@ -4229,6 +3906,7 @@ Königswasser,Aqua regia
 Körper,Field
 Körperschaft,Corporation
 Künstler,Artist
+Künstliche Intelligenz,Artificial intelligence
 Künstliche Intelligenz,Artificial intelligence
 Kürbisgewächse,Cucurbitaceae
 Küste,Coast
@@ -4260,11 +3938,13 @@ Land Brandenburg,Brandenburg
 Landschildkröten,Tortoise
 Landwirbeltiere,Tetrapod
 Landwirtschaft,Agriculture
+Landwirtschaft,Agriculture
 Languedoc-Roussillon,Languedoc-Roussillon
 Lansing,Lansing
 Lanthan,Lanthanum
 Lanthanoide,Lanthanide
 Lanzettfischchen,Lancelet
+Laos,Laos
 Laos,Laos
 Lappentaucher,Grebe
 Laptewsee,Laptev Sea
@@ -4304,6 +3984,7 @@ Lehrer,Teacher
 Leibeigenschaft,Serfdom
 Leicester,Leicester
 Leichtathletik,Athletics
+Leichtathletik,Athletics
 Leiden,Leiden
 Leier,Lyra
 Leipzig,Leipzig
@@ -4322,7 +4003,9 @@ Lepton,Lepton
 Lernen,Learning
 Lesbe,Lesbian
 Lesotho,Lesotho
+Lesotho,Lesotho
 Leto,Leto
+Lettland,Latvia
 Lettland,Latvia
 Leuchtdiode,Light-emitting diode
 Leuchtturm,Lighthouse
@@ -4336,18 +4019,23 @@ Lexikologie,Lexicology
 Lhasa,Lhasa
 Lhotse,Lhotse
 Libanon,Lebanon
+Libanon,Lebanon
 Libellen,Odonata
+Liberalismus,Liberalism
 Liberalismus,Liberalism
 Liberation Tigers of Tamil Eelam,Liberation Tigers of Tamil Eelam
 Liberia,Liberia
+Liberia,Liberia
 Libretto,Libretto
 Libreville,Libreville
+Libyen,Libya
 Libyen,Libya
 Licht,Light
 Lichtgeschwindigkeit,Speed of light
 Lichtjahr,Light-year
 Lichtwellenleiter,Optical fiber
 Liebe,Love
+Liechtenstein,Liechtenstein
 Liechtenstein,Liechtenstein
 Lied,Song
 Ligurien,Liguria
@@ -4366,12 +4054,14 @@ Lincoln,Lincoln
 Lincolnshire,Lincolnshire
 Linden,Tilia
 Lineare Algebra,Linear algebra
+Lineare Algebra,Linear algebra
 Lineare Gleichung,Linear equation
 Lingua franca,Lingua franca
 Linkshänder,Left-handed
-Linse,Lentil
 Linse,Lens
+Linse,Lentil
 Linus Carl Pauling,Linus Pauling
+Linux,Linux
 Linux,Linux
 Linz,Linz
 Lipide,Lipid
@@ -4379,8 +4069,11 @@ Lippenblütler,Lamiaceae
 Lise Meitner,Lise Meitner
 Lissabon,Lisbon
 Litauen,Lithuania
+Litauen,Lithuania
 Liter,Litre
 Literarische Figur,Fictional character
+Literatur,Literature
+Literatur,Literature
 Literatur,Literature
 Lithium,Lithium
 Lithografie,Lithography
@@ -4393,14 +4086,16 @@ Local Area Network,Local area network
 Loch Ness,Loch Ness
 Logarithmus,Logarithm
 Logik,Logic
+Logik,Logic
 Logikgatter,Logic gate
 Logistik,Logistics
-Loire,Loire River
 Loire,Loire
+Loire,Loire River
 Loki,Loki
 Lokomotive,Locomotive
 Lolita,Lolita
 Lombardei,Lombardy
+London,London
 London,London
 Long Beach,Long Beach
 Long Island,Long Island
@@ -4414,6 +4109,7 @@ Louis Aragon,Louis Aragon
 Louis Armstrong,Louis Armstrong
 Louis Braille,Louis Braille
 Louis Pasteur,Louis Pasteur
+Louisiana,Louisiana
 Louisiana,Louisiana
 Louisville,Louisville
 Louvre,Louvre
@@ -4430,6 +4126,8 @@ Ludwig der Fromme,Louis the Pious
 Ludwig van Beethoven,Ludwig van Beethoven
 Luftdruck,Atmospheric pressure
 Luftfahrt,Aviation
+Luftfahrt,Aviation
+Luftfahrzeug,Aircraft
 Luftfahrzeug,Aircraft
 Luftfeuchtigkeit,Humidity
 Luftkissenfahrzeug,Hovercraft
@@ -4453,6 +4151,7 @@ Lutetium,Lutetium
 Lux,Lux
 Luxemburg,Luxembourg
 Luxemburg,Luxembourg
+Luxemburg,Luxembourg
 Luxor,Luxor
 Luzern,Lucerne
 Luzifer,Lucifer
@@ -4461,6 +4160,7 @@ Lydien,Lydia
 Lymphsystem,Lymphatic system
 Lynx,Lynx
 Lyon,Lyon
+Lyrik,Poetry
 Lysin,Lysine
 Lysosom,Lysosome
 Längenmaß,Length
@@ -4468,8 +4168,8 @@ Lärchen,Larch
 Läufer,Bishop
 Lösung,Solution
 Lösungsmittel,Solvent
-Löwe,Lion
 Löwe,Leo
+Löwe,Lion
 Löwenzahn,Dandelion
 Lüge,Lie
 L’Aquila,L'Aquila
@@ -4484,6 +4184,7 @@ Macbeth,Macbeth
 Macedonia,Macedonia
 Mach-Zahl,Mach number
 Machu Picchu,Machu Picchu
+Madagaskar,Madagascar
 Madagaskar,Madagascar
 Madeira,Madeira
 Madison,Madison
@@ -4503,6 +4204,7 @@ Magna Carta,Magna Carta
 Magnesium,Magnesium
 Magnet,Magnet
 Magnetismus,Magnetism
+Magnetismus,Magnetism
 Magnetismus#Magnetfelder,Magnetic field
 Magnetit,Magnetite
 Magnetresonanztomographie,Magnetic resonance imaging
@@ -4512,23 +4214,31 @@ Mai,May
 Mailand,Milan
 Main,Main
 Maine,Maine
+Maine,Maine
 Mais,Maize
 Maitreya,Maitreya
 Major,Major
 Makalu,Makalu
 Makedonien,Macedonia
 Makroökonomie,Macroeconomics
+Makroökonomie,Macroeconomics
 Malabo,Malabo
 Malachit,Malachite
 Malaiische Halbinsel,Malay Peninsula
 Malaria,Malaria
+Malawi,Malawi
 Malawisee,Lake Malawi
+Malaysia,Malaysia
 Malaysia,Malaysia
 Malcolm X,Malcolm X
 Malediven,Maldives
+Malediven,Maldives
 Maler,Pictor
+Malerei,Painting
+Mali,Mali
 Mali,Mali
 Mallorca,Majorca
+Malta,Malta
 Malta,Malta
 Maltesische Sprache,Maltese language
 Maltose,Maltose
@@ -4594,15 +4304,19 @@ Mark Twain,Mark Twain
 Marke,Trademark
 Marken,Marche
 Marketing,Marketing
+Marketing,Marketing
 Markt,Market
 Marlene Dietrich,Marlene Dietrich
 Marmarameer,Sea of Marmara
 Marmor,Marble
 Marokko,Morocco
+Marokko,Morocco
 Marrakesch,Marrakech
 Mars,Mars
 Mars,Mars
+Mars,Mars
 Marseille,Marseille
+Marshallinseln,Marshall Islands
 Marshallinseln,Marshall Islands
 Marshallplan,Marshall Plan
 Martin Buber,Martin Buber
@@ -4615,18 +4329,22 @@ Martina Navrátilová,Martina Navratilova
 Martinique,Martinique
 Marx-Brothers,Marx Brothers
 Marxismus,Marxism
+Marxismus,Marxism
 Mary Shelley,Mary Shelley
 Mary Wollstonecraft,Mary Wollstonecraft
+Maryland,Maryland
 Maryland,Maryland
 Maschhad,Mashhad
 Maschine,Machine
 Maschinelle Übersetzung,Machine translation
+Maschinenbau,Mechanical engineering
 Maschinenbau,Mechanical engineering
 Maschinengewehr,Machine gun
 Maschinensprache,Machine code
 Masern,Measles
 Maseru,Maseru
 Maskat,Muscat
+Massachusetts,Massachusetts
 Massachusetts,Massachusetts
 Massachusetts Institute of Technology,Massachusetts Institute of Technology
 Masse,Mass
@@ -4637,6 +4355,9 @@ Mata Hari,Mata Hari
 Materialismus,Materialism
 Materie,Matter
 Mathematik,Mathematics
+Mathematik,Mathematics
+Mathematik,Mathematics
+Mathematische Logik,Mathematical logic
 Mathematische Logik,Mathematical logic
 Matrix,Matrix
 Matterhorn,Matterhorn
@@ -4646,7 +4367,9 @@ Maultrommel,Jew's harp
 Mauna Kea,Mauna Kea
 Mauna Loa,Mauna Loa
 Mauretanien,Mauritania
+Mauretanien,Mauritania
 Maurice Ravel,Maurice Ravel
+Mauritius,Mauritius
 Mauritius,Mauritius
 Maus,Mouse
 Max Born,Max Born
@@ -4662,6 +4385,7 @@ Maßtheorie,Measure
 Mbabane,Mbabane
 McCarthy-Ära,McCarthyism
 Mechanik,Mechanics
+Mechanik,Mechanics
 Medea,Medea
 Median,Median
 Medici,Medici
@@ -4669,9 +4393,11 @@ Medikament,Medication
 Medina,Medina
 Meditation,Meditation
 Medizin,Medicine
+Medizin,Medicine
 Medusa,Medusa
 Meer,Sea
 Meerenge,Strait
+Meerenge,Straits
 Meeresspiegel,Sea level
 Meeresströmung,Ocean current
 Meerjungfrau,Mermaid
@@ -4697,6 +4423,7 @@ Mendelevium,Mendelevium
 Menelaos,Menelaus
 Menge,Set
 Mengenlehre,Set theory
+Mengenlehre,Set theory
 Mengenlehre#Schnittmenge,Intersection
 Mengenlehre#Vereinigungsmenge,Union
 Meningitis,Meningitis
@@ -4716,6 +4443,7 @@ Meryl Streep,Meryl Streep
 Meskalin,Mescaline
 Meson,Meson
 Mesopotamien,Mesopotamia
+Mesopotamien,Mesopotamia
 Mesosphäre,Mesosphere
 Mesozoikum,Mesozoic
 Messenger,MESSENGER
@@ -4724,19 +4452,24 @@ Messias,Messiah
 Messier 45,Pleiades
 Messina,Messina
 Messing,Brass
+Messtechnik,Measurement
 Messung,Measurement
 Met,Mead
 Metadaten,Metadata
+Metal,Heavy metal
 Metal,Heavy metal music
 Metalle,Metal
 Metallische Bindung,Metallic bond
 Metallurgie,Metallurgy
+Metallurgie,Metallurgy
 Metamorphe Gesteine,Metamorphic rock
 Metapher,Metaphor
+Metaphysik,Metaphysics
 Metaphysik,Metaphysics
 Metastase,Metastasis
 Meteorit,Meteorite
 Meteoroid,Meteoroid
+Meteorologie,Meteorology
 Meteorologie,Meteorology
 Meteorstrom,Meteor shower
 Meter,Metre
@@ -4751,6 +4484,7 @@ Metonymie,Metonymy
 Metrischer Raum,Metric space
 Meuse,Meuse
 Mexiko,Mexico
+Mexiko,Mexico
 Mexiko-Stadt,Mexico City
 Miami,Miami
 Michael,Michael
@@ -4762,12 +4496,14 @@ Michel Ney,Michel Ney
 Michelangelo,Michelangelo
 Michelangelo Merisi da Caravaggio,Caravaggio
 Michigan,Michigan
+Michigan,Michigan
 Michigansee,Lake Michigan
 Mick Jagger,Mick Jagger
 Micky Maus,Mickey Mouse
 Migräne,Migraine
 Miguel de Cervantes,Miguel de Cervantes
 Mike Tyson,Mike Tyson
+Mikrobiologie,Microbiology
 Mikrobiologie,Microbiology
 Mikrofon,Microphone
 Mikronesien,Micronesia
@@ -4778,11 +4514,13 @@ Mikroskop,Microscopium
 Mikrowellen,Microwave
 Mikrowellenherd,Microwave oven
 Mikroökonomie,Microeconomics
+Mikroökonomie,Microeconomics
 Milch,Milk
 Milchstraße,Milky Way
 Milchsäure,Lactic acid
 Milchzucker,Lactose
 Miles Davis,Miles Davis
+Militärwesen,Military
 Millard Fillmore,Millard Fillmore
 Million,Million
 Milton Friedman,Milton Friedman
@@ -4793,6 +4531,7 @@ Minarett,Minaret
 Mindanao,Mindanao
 Mineral,Mineral
 Mineralogie,Mineralogy
+Mineralogie,Mineralogy
 Mineralwasser,Mineral water
 Minerva,Minerva
 Ming-Dynastie,Ming Dynasty
@@ -4800,6 +4539,7 @@ Minimalismus,Minimalism
 Minister,Minister
 Ministerpräsident,Prime minister
 Minneapolis,Minneapolis
+Minnesota,Minnesota
 Minnesota,Minnesota
 Minoische Kultur,Minoan civilization
 Minos,Minos
@@ -4809,13 +4549,18 @@ Minute,Minute
 Minzen,Mentha
 Miozän,Miocene
 Mischna,Mishnah
-Missbrauch und Abhängigkeit,Drug addiction
 Missbrauch und Abhängigkeit,Addiction
+Missbrauch und Abhängigkeit,Drug addiction
+Mississippi,Mississippi
 Mississippi River,Mississippi River
+Missouri,Missouri
 Missouri,Missouri
 Missouri River,Missouri River
 Mitochondrium,Mitochondrion
 Mittelalter,Middle Ages
+Mittelalter,Middle Ages
+Mittelamerika,Central America
+Mittelmeer,Mediterranean
 Mittelmeer,Mediterranean Sea
 Mittelmächte,Central Powers
 Mittelsteinzeit,Mesolithic
@@ -4823,6 +4568,7 @@ Mitternachtssonne,Midnight sun
 Mittwoch,Wednesday
 Mnemosyne,Mnemosyne
 Mobiltelefon,Mobile phone
+Mode,Fashion
 Mode,Fashion
 Modem,Modem
 Moderne,Modernism
@@ -4834,6 +4580,8 @@ Mohandas Karamchand Gandhi,Mahatma Gandhi
 Moiren,Moirae
 Mol,Mole
 Moldawien,Moldova
+Moldawien,Moldova
+Molekularbiologie,Molecular biology
 Molekularbiologie,Molecular biology
 Molekül,Molecule
 Molise,Molise
@@ -4842,10 +4590,13 @@ Molotowcocktail,Molotov cocktail
 Molybdän,Molybdenum
 Mombasa,Mombasa
 Monaco,Monaco
+Monaco,Monaco
+Monarchie,Monarchy
 Monarchie,Monarchy
 Monat,Month
 Mond,Moon
 Mondfinsternis,Lunar eclipse
+Mongolei,Mongolia
 Mongolei,Mongolia
 Monica Seles,Monica Seles
 Monismus,Monism
@@ -4860,8 +4611,10 @@ Mons,Mons
 Monsun,Monsoon
 Montag,Monday
 Montana,Montana
+Montana,Montana
 Montblanc,Mont Blanc
 Monte Carlo,Monte Carlo
+Montenegro,Montenegro
 Montenegro,Montenegro
 Monterrey,Monterrey
 Montevideo,Montevideo
@@ -4878,11 +4631,13 @@ Morsecode,Morse code
 Morsecode#.E2.80.9ESOS.E2.80.9C,SOS
 Mosaik,Mosaic
 Mosambik,Mozambique
+Mosambik,Mozambique
 Mosche Dajan,Moshe Dayan
 Moschee,Mosque
 Mose,Moses
 Moselle,Moselle
 Moses Maimonides,Maimonides
+Moskau,Moscow
 Moskau,Moscow
 Mossad,Mossad
 Mosul,Mosul
@@ -4914,6 +4669,7 @@ Muse,Muse
 Museum,Museum
 Musical Instrument Digital Interface,Musical Instrument Digital Interface
 Musik,Music
+Musik,Music
 Musikalbum,Album
 Musiker,Musician
 Musikinstrument,Musical instrument
@@ -4928,11 +4684,15 @@ Muttersprache,First language
 Muttertag,Mother's Day
 My,Mu
 Myanmar,Burma
+Myanmar,Burma
+Myanmar,Myanmar
 Mykene,Mycenae
+Mykologie,Mycology
 Mykologie,Mycology
 Myokardinfarkt,Myocardial infarction
 Myon,Muon
 Mystik,Mysticism
+Mythologie,Mythology
 Mythologie,Mythology
 Mythos,Myth
 Mähren,Moravia
@@ -4941,6 +4701,7 @@ Märtyrer,Martyr
 März,March
 Mäuse,Mouse
 Möbel,Furniture
+Möbelstück,Furniture
 Mörser,Mortar
 Möwen,Gull
 München,Munich
@@ -4948,9 +4709,11 @@ Münze,Coin
 N,N
 N-Methylamphetamin,Methamphetamine
 NATO,NATO
+NATO,NATO
 Nabu-kudurri-usur II.,Nebuchadrezzar II
 Nacht,Night
 Nachtigall,Nightingale
+Nachtschattengewächse,Solanaceae
 Nachtschattengewächse,Solanaceae
 Nacktsamige Pflanzen,Gymnosperm
 Nadine Gordimer,Nadine Gordimer
@@ -4961,11 +4724,13 @@ Nagel,Nail
 Nagetiere,Rodent
 Nagoya,Nagoya
 Naher Osten,Middle East
+Naher Osten,Middle East
 Nahrungskette,Food chain
 Nahuatl,Nahuatl
 Nairobi,Nairobi
 Namenforschung,Onomastics
 Namib,Namib Desert
+Namibia,Namibia
 Namibia,Namibia
 Namur,Namur
 Nancy,Nancy
@@ -4986,7 +4751,9 @@ Nation,Nation
 National Security Agency,National Security Agency
 Nationalhymne,National anthem
 Nationalismus,Nationalism
+Nationalismus,Nationalism
 Nationalpark,National park
+Nationalsozialismus,Nazism
 Nationalsozialistische Deutsche Arbeiterpartei,Nazi Party
 Natrium,Sodium
 Natriumchlorid,Sodium chloride
@@ -4994,10 +4761,13 @@ Natriumhydrogencarbonat,Sodium bicarbonate
 Natriumhydroxid,Sodium hydroxide
 Nattern,Colubrid
 Natur,Nature
+Natur,Nature
 Natural language processing,Natural language processing
 Naturwissenschaft,Natural science
 Natürliche Zahl,Natural number
 Nauru,Nauru
+Nauru,Nauru
+Navigation,Navigation
 Navigation,Navigation
 Nazaret,Nazareth
 Neandertaler,Neanderthal
@@ -5007,6 +4777,7 @@ Nebel,Nebula
 Nebenfluss,Tributary
 Nebengelenktiere,Xenarthra
 Nebenniere,Adrenal gland
+Nebraska,Nebraska
 Nebraska,Nebraska
 Neckar,Neckar
 Negev,Negev
@@ -5019,12 +4790,14 @@ Neodym,Neodymium
 Neologismus,Neologism
 Neon,Neon
 Nepal,Nepal
+Nepal,Nepal
 Nephthys,Nephthys
 Neptun,Neptune
 Neptunium,Neptunium
 Nereid,Nereid
 Nero,Nero
 Nerva,Nerva
+Nervensystem,Nervous system
 Nervensystem,Nervous system
 Nervenzelle,Neuron
 Nesseltiere,Cnidaria
@@ -5046,22 +4819,30 @@ Neunaugen,Lamprey
 Neunzehn,19
 Neuplatonismus,Neoplatonism
 Neurologie,Neurology
+Neurologie,Neurology
 Neurotransmitter,Neurotransmitter
+Neuseeland,New Zealand
 Neuseeland,New Zealand
 Neutrales Element,Identity element
 Neutrino,Neutrino
 Neutron,Neutron
 Neutronenstern,Neutron star
 Nevada,Nevada
+Nevada,Nevada
 Neville Chamberlain,Neville Chamberlain
 New Brunswick,New Brunswick
 New Hampshire,New Hampshire
+New Hampshire,New Hampshire
 New Jersey,New Jersey
+New Jersey,New Jersey
+New Mexico,New Mexico
 New Mexico,New Mexico
 New Orleans,New Orleans
 New South Wales,New South Wales
 New York,New York
 New York,New York
+New York,New York
+New York City,New York City
 New York City,New York City
 New York Stock Exchange,New York Stock Exchange
 Newa,Neva River
@@ -5071,12 +4852,15 @@ Newton,Newton
 Niagarafälle,Niagara Falls
 Niamey,Niamey
 Nicaragua,Nicaragua
+Nicaragua,Nicaragua
 Nichtmetalle,Nonmetal
 Nickel,Nickel
 Nicolas Poussin,Nicolas Poussin
 Nicotinsäure,Niacin
 Niederdeutsche Sprache,Low German
 Niederlande,Netherlands
+Niederlande,Netherlands
+Niederländer,Dutch people
 Niederländische Antillen,Netherlands Antilles
 Niedersachsen,Lower Saxony
 Niederschlag,Precipitation
@@ -5084,7 +4868,9 @@ Niels Bohr,Niels Bohr
 Niels Henrik Abel,Niels Henrik Abel
 Niere,Kidney
 Niger,Niger
+Niger,Niger
 Niger,Niger River
+Nigeria,Nigeria
 Nigeria,Nigeria
 Nihilismus,Nihilism
 Nijmegen,Nijmegen
@@ -5110,17 +4896,21 @@ Noach,Noah
 Noam Chomsky,Noam Chomsky
 Nobelium,Nobelium
 Nobelpreis,Nobel Prize
+Nobelpreis,Nobel Prize
 Nofretete,Nefertiti
 Nomade,Nomad
 Nominativ,Nominative case
 Nordafrika,North Africa
+Nordamerika,North America
 Nordamerika,North America
 Norden,North
 Nordeuropa,Northern Europe
 Nordhalbkugel,Northern Hemisphere
 Nordinsel,North Island
 Nordirland,Northern Ireland
+Nordirland,Northern Ireland
 Nordische Mythologie,Norse mythology
+Nordkorea,North Korea
 Nordkorea,North Korea
 Nordpol,North Pole
 Nordsee,North Sea
@@ -5132,9 +4922,12 @@ Norman Mailer,Norman Mailer
 Normandie,Normandy
 Nornen,Norn
 North Carolina,North Carolina
+North Carolina,North Carolina
+North Dakota,North Dakota
 North Dakota,North Dakota
 North Yorkshire,North Yorkshire
 Northern Territory,Northern Territory
+Norwegen,Norway
 Norwegen,Norway
 Norwegische Krone,Norwegian krone
 Nostradamus,Nostradamus
@@ -5153,6 +4946,7 @@ Nukleotid,Nucleotide
 Null,0
 Nullmeridian,Prime Meridian
 Numidien,Numidia
+Numismatik,Numismatics
 Numismatik,Numismatics
 Nunavut,Nunavut
 Nussfrucht,Nut
@@ -5179,6 +4973,7 @@ Oberster Gerichtshof der Vereinigten Staaten,Supreme Court of the United States
 Objektorientierung,Object-oriented programming
 Oboe,Oboe
 Obsidian,Obsidian
+Obst,Fruit
 Ochotskisches Meer,Sea of Okhotsk
 Ockhams Rasiermesser,Occam's razor
 Ode,Ode
@@ -5189,6 +4984,7 @@ Odyssee,Odyssey
 Odysseus,Odysseus
 Offenbarung des Johannes,Book of Revelation
 Ohio,Ohio
+Ohio,Ohio
 Ohm,Ohm
 Ohmsches Gesetz,Ohm's law
 Ohr,Ear
@@ -5196,6 +4992,7 @@ Ohrenrobben,Eared seal
 Okapi,Okapi
 Okeanide,Oceanid
 Okeanos,Oceanus
+Oklahoma,Oklahoma
 Oklahoma,Oklahoma
 Oklahoma City,Oklahoma City
 Oktalsystem,Octal
@@ -5216,14 +5013,19 @@ Olymp,Mount Olympus
 Olympia,Olympia
 Olympia,Olympia
 Olympische Spiele,Olympic Games
+Olympische Spiele,Olympics
+Olympische Winterspiele,Winter Olympic Games
 Olympische Winterspiele,Winter Olympic Games
 Omaha,Omaha
+Oman,Oman
 Oman,Oman
 Omega,Omega
 Omikron,Omicron
 Omnibus,Bus
 Omsk,Omsk
 Onegasee,Lake Onega
+Onkologie,Oncology
+Ontario,Ontario
 Ontario,Ontario
 Ontariosee,Lake Ontario
 Ontologie,Ontology
@@ -5234,6 +5036,7 @@ Oper,Opera
 Opera,Opera
 Operette,Operetta
 Opium,Opium
+Optik,Optics
 Optik,Optics
 Optimierung,Optimization
 Optische Täuschung,Optical illusion
@@ -5248,6 +5051,7 @@ Ordnung,Order
 Ordnungszahl,Atomic number
 Ordovizium,Ordovician
 Oregano,Oregano
+Oregon,Oregon
 Oregon,Oregon
 Orestes,Orestes
 Organ,Organ
@@ -5264,6 +5068,7 @@ Orinoco,Orinoco
 Orion,Orion
 Orissa,Orissa
 Orlando,Orlando
+Ornithologie,Ornithology
 Orpheus,Orpheus
 Orson Welles,Orson Welles
 Orthodoxe Kirchen,Eastern Orthodox Church
@@ -5275,6 +5080,7 @@ Osiris,Osiris
 Oslo,Oslo
 Osman I.,Osman I
 Osmanisches Reich,Ottoman Empire
+Osmanisches Reich,Ottoman Empire
 Osmium,Osmium
 Ostafrika,East Africa
 Ostchinesisches Meer,East China Sea
@@ -5283,6 +5089,7 @@ Osteoporose,Osteoporosis
 Ostern,Easter
 Ostrava,Ostrava
 Ostsee,Baltic Sea
+Osttimor,East Timor
 Osttimor,East Timor
 Othello,Othello
 Otho,Otho
@@ -5300,6 +5107,7 @@ Oxytocin,Oxytocin
 Ozean,Ocean
 Ozeanien,Oceania
 Ozeanografie,Oceanography
+Ozeanografie,Oceanography
 Ozon,Ozone
 Ozonschicht,Ozone layer
 Oʻahu,Oahu
@@ -5310,6 +5118,8 @@ Pablo Neruda,Pablo Neruda
 Pablo Picasso,Pablo Picasso
 Padua,Padua
 Pakistan,Pakistan
+Pakistan,Pakistan
+Palau,Palau
 Palau,Palau
 Palermo,Palermo
 Pali,Pali
@@ -5319,14 +5129,17 @@ Palmengewächse,Arecaceae
 Palmsonntag,Palm Sunday
 Palmyra,Palmyra
 Paläontologie,Paleontology
+Paläontologie,Paleontology
 Paläozoikum,Paleozoic
 Paläozän,Paleocene
+Palästina,Palestine
 Palästina,Palestine
 Palästinensische Autonomiebehörde,Palestinian National Authority
 Palästinensische Befreiungsorganisation,Palestine Liberation Organization
 Pamir,Pamir Mountains
 Pampelmuse,Pomelo
 Pan,Pan
+Panama,Panama
 Panama,Panama
 Panama,Panama City
 Panamakanal,Panama Canal
@@ -5342,12 +5155,14 @@ Pappeln,Poplar
 Paprika,Capsicum
 Papst,Pope
 Papua-Neuguinea,Papua New Guinea
+Papua-Neuguinea,Papua New Guinea
 Papyrus,Papyrus
 Parabel,Parabola
 Paracelsus,Paracelsus
 Paradiesvogel,Apus
 Paradigma,Paradigm
 Paradoxon,Paradox
+Paraguay,Paraguay
 Paraguay,Paraguay
 Parallaxe,Parallax
 Parallelogramm,Parallelogram
@@ -5357,6 +5172,7 @@ Paraphilie,Paraphilia
 Parapsychologie,Parapsychology
 Parasitismus,Parasitism
 Parfüm,Perfume
+Paris,Paris
 Paris,Paris
 Paris,Paris
 Parität,Parity
@@ -5393,6 +5209,7 @@ Paulus von Tarsus,Paul the Apostle
 Paviane,Baboon
 Pays de la Loire,Pays de la Loire
 Pazifischer Ozean,Pacific Ocean
+Pazifischer Ozean,Pacific Ocean
 Pazifismus,Pacifism
 Pearl Harbor,Pearl Harbor
 Pegasos,Pegasus
@@ -5404,6 +5221,7 @@ Pendel,Pendulum
 Penelope,Penelope
 Penicillin,Penicillin
 Pennsylvania,Pennsylvania
+Pennsylvania,Pennsylvania
 Pentagramm,Pentagram
 Pepsi,Pepsi
 Peptid,Peptide
@@ -5414,8 +5232,8 @@ Perikles,Pericles
 Periode des Periodensystems,Period
 Periodensystem,Periodic table
 Perle,Pearl
-Perm,Permian
 Perm,Perm
+Perm,Permian
 Permafrostboden,Permafrost
 Permutation,Permutation
 Pernambuco,Pernambuco
@@ -5426,8 +5244,10 @@ Perserreich,Persian Empire
 Perseus,Perseus
 Perseus,Perseus
 Persischer Golf,Persian Gulf
+Person,People
 Personal Digital Assistant,Personal digital assistant
 Perth,Perth
+Peru,Peru
 Peru,Peru
 Pessach,Passover
 Pest,Bubonic plague
@@ -5455,6 +5275,7 @@ Pfund Sterling,Pound sterling
 Phanerozoikum,Phanerozoic
 Pharao,Pharaoh
 Pharmakologie,Pharmacology
+Pharmakologie,Pharmacology
 Pharynx,Pharynx
 Phase Alternating Line,PAL
 Phenol,Phenol
@@ -5463,13 +5284,18 @@ Phenylketonurie,Phenylketonuria
 Phi,Phi
 Philadelphia,Philadelphia
 Philatelie,Philately
+Philatelie,Philately
 "Philip Mountbatten, Herzog von Edinburgh",Prince Philip
 Philipp II.,Philip II of Macedon
 Philipp II.,Philip II of Spain
 Philipp Lenard,Philipp Lenard
 Philippinen,Philippines
+Philippinen,Philippines
 Philippinensee,Philippine Sea
 Philologie,Philology
+Philologie,Philology
+Philosophie,Philosophy
+Philosophie,Philosophy
 Philosophie,Philosophy
 Phnom Penh,Phnom Penh
 Phobische Störung,Phobia
@@ -5479,6 +5305,7 @@ Phoenix,Phoenix
 Phoenix,Phoenix
 Phonem,Phoneme
 Phonetik,Phonetics
+Phonetik,Phonetics
 Phonologie,Phonology
 Phosphate,Phosphate
 Phosphor,Phosphorus
@@ -5487,8 +5314,12 @@ Photon,Photon
 Photosphäre,Photosphere
 Photosynthese,Photosynthesis
 Physik,Physics
+Physik,Physics
+Physik,Physics
 Physikalische Atmosphäre,Atmosphere
 Physikalische Chemie,Physical chemistry
+Physikalische Chemie,Physical chemistry
+Physiologie,Physiology
 Physiologie,Physiology
 Phänomenologie,Phenomenology
 Phänotyp,Phenotype
@@ -5506,6 +5337,7 @@ Pierre de Fermat,Pierre de Fermat
 Piet Mondrian,Piet Mondrian
 Pieter Zeeman,Pieter Zeeman
 Pigment,Pigment
+Pilze,Fungi
 Pilze,Fungus
 Pilze,Mushroom
 Pinatubo,Mount Pinatubo
@@ -5557,11 +5389,15 @@ Polarkreis,Arctic Circle
 Polarlicht,Aurora
 Polarstern,Polaris
 Polen,Poland
+Polen,Poland
 Poliomyelitis,Poliomyelitis
+Politik,Politics
 Politik,Politics
 Politiker,Politician
 Politikwissenschaft,Political science
+Politikwissenschaft,Political science
 Politische Partei,Political party
+Polizei,Law enforcement
 Polizei,Police
 Pollen,Pollen
 Polo,Polo
@@ -5587,22 +5423,12 @@ Port Moresby,Port Moresby
 Port Vila,Port Vila
 Port-au-Prince,Port-au-Prince
 Port-of-Spain,Port of Spain
-Astronomie,Astronomy
-Biografien,Biography
-Biologie,Biology
-Chemie,Chemistry
-Film,Film
-Geographie,Geography
-Geschichte,History
-Literatur,Literature
-Mathematik,Mathematics
-Philosophie,Philosophy
-Physik,Physics
 Portland,Portland
 Portland,Portland
 Porto,Porto
 Porträt,Portrait
 Portsmouth,Portsmouth
+Portugal,Portugal
 Portugal,Portugal
 Porzellan,Porcelain
 Posaune,Trombone
@@ -5617,6 +5443,7 @@ Potsdam,Potsdam
 Pottwal,Sperm Whale
 Praetur,Praetor
 Prag,Prague
+Prag,Prague
 Praia,Praia
 Praseodym,Praseodymium
 Preis,Price
@@ -5625,6 +5452,7 @@ Preußen,Prussia
 Priamos,Priam
 Priester,Priest
 Primaten,Primate
+Primaten,Primates
 Primzahl,Prime number
 Prince Edward Island,Prince Edward Island
 Prince of Wales,Prince of Wales
@@ -5637,6 +5465,7 @@ Prix Goncourt,Prix Goncourt
 Professur,Professor
 Programmierer,Programmer
 Programmiersprache,Programming language
+Programmierung,Computer programming
 Programmierung,Computer programming
 Progressive Rock,Progressive rock
 Projekt,Project
@@ -5672,8 +5501,10 @@ Pseudonym,Pseudonym
 Pseudowissenschaft,Pseudoscience
 Psi,Psi
 Psychiatrie,Psychiatry
+Psychiatrie,Psychiatry
 Psychische Störung,Mental disorder
 Psychoanalyse,Psychoanalysis
+Psychologie,Psychology
 Psychologie,Psychology
 Psychose,Psychosis
 Psychotherapie,Psychotherapy
@@ -5683,11 +5514,13 @@ Pubertät,Puberty
 Publius Cornelius Scipio Africanus,Scipio Africanus
 Publius Cornelius Tacitus,Tacitus
 Puerto Rico,Puerto Rico
+Puerto Rico,Puerto Rico
 Pula,Pula
 Pulsar,Pulsar
 Puma,Cougar
 Pumpe,Pump
 Punjab,Punjab
+Punk,Punk
 Punk,Punk rock
 Punkt,Point
 Pupille,Pupil
@@ -5699,6 +5532,7 @@ Pyrit,Pyrite
 Pyrrhussieg,Pyrrhic victory
 Pythagoras von Samos,Pythagoras
 Python,Python
+Pädagogik,Pedagogy
 Pädagogik,Pedagogy
 Pädiatrie,Pediatrics
 Pädophilie,Pedophilia
@@ -5712,6 +5546,7 @@ Quadratwurzel,Square root
 Quaestur,Quaestor
 Qualle,Jellyfish
 Quantenfeldtheorie,Quantum field theory
+Quantenmechanik,Quantum mechanics
 Quantenmechanik,Quantum mechanics
 Quarantäne,Quarantine
 Quark,Quark
@@ -5729,6 +5564,7 @@ Quetzalcoatl,Quetzalcoatl
 Quito,Quito
 Quitte,Quince
 Quäker,Religious Society of Friends
+Québec,Quebec
 Québec,Quebec
 Québec,Quebec City
 R,R
@@ -5753,6 +5589,7 @@ Radioteleskop,Radio telescope
 Radium,Radium
 Radius,Radius
 Radon,Radon
+Radsport,Cycling
 Raffael,Raphael
 Rainer Maria Rilke,Rainer Maria Rilke
 Rakete,Rocket
@@ -5767,6 +5604,7 @@ Rangun,Yangon
 Raphael,Raphael
 Raps,Rapeseed
 Rassentheorien,Race
+Rassismus,Racism
 Rassismus,Racism
 Rationale Zahl,Rational number
 Ratten,Rat
@@ -5784,6 +5622,8 @@ Re,Ra
 Rechnerarchitektur,Computer architecture
 Rechnernetz,Computer network
 Rechnungswesen,Accountancy
+Rechnungswesen,Accountancy
+Recht,Law
 Recht,Law
 Rechteck,Rectangle
 Rechtsanwalt,Lawyer
@@ -5820,11 +5660,14 @@ Rekursion,Recursion
 Relais,Relay
 Relation,Relation
 Relativismus,Relativism
-Relativitätstheorie,Theory of relativity
 Relativitätstheorie,Principle of relativity
+Relativitätstheorie,Relativity
+Relativitätstheorie,Theory of relativity
+Religion,Religion
 Religion,Religion
 Rembrandt van Rijn,Rembrandt
 Ren,Reindeer
+Renaissance,Renaissance
 Renaissance,Renaissance
 Reproduktion,Reproduction
 Repräsentantenhaus der Vereinigten Staaten,United States House of Representatives
@@ -5832,12 +5675,13 @@ Reptilien,Reptile
 Republik,Republic
 Republik China,Republic of China
 Republik Kongo,Republic of the Congo
+Republik Kongo,Republic of the Congo
 Republik Zypern,Cyprus
 Republikanische Partei,Republican Party
 Requiem,Requiem
 Restaurant,Restaurant
-Retinol,Vitamin A
 Retinol,Retinol
+Retinol,Vitamin A
 Revolution,Revolution
 Revolver,Revolver
 Rezession,Recession
@@ -5846,7 +5690,9 @@ Rhea,Rhea
 Rhein,Rhine
 Rhenium,Rhenium
 Rhetorik,Rhetoric
+Rhetorik,Rhetoric
 Rho,Rho
+Rhode Island,Rhode Island
 Rhode Island,Rhode Island
 Rhodium,Rhodium
 Rhodos,Rhodes
@@ -5894,6 +5740,7 @@ Robert Schumann,Robert Schumann
 Robin Hood,Robin Hood
 Roboter,Robot
 Rochade,Castling
+Rock,Rock music
 Rock ’n’ Roll,Rock and roll
 Rockmusik,Rock music
 Rocky Mountains,Rocky Mountains
@@ -5901,6 +5748,7 @@ Roentgenium,Roentgenium
 Roger Bacon,Roger Bacon
 Roggen,Rye
 Rokoko,Rococo
+Rom,Rome
 Rom,Rome
 Roman,Novel
 Romantik,Romanticism
@@ -5937,6 +5785,7 @@ Router,Router
 Royal Air Force,Royal Air Force
 Royal Society,Royal Society
 Ruanda,Rwanda
+Ruanda,Rwanda
 Rubel,Ruble
 Rubidium,Rubidium
 Rubikon,Rubicon
@@ -5949,11 +5798,13 @@ Rudolf Steiner,Rudolf Steiner
 Rudyard Kipling,Rudyard Kipling
 Rugby,Rugby football
 Rumänien,Romania
+Rumänien,Romania
 Rundschwanzseekühe,Manatee
 Rupert Murdoch,Rupert Murdoch
 Russisch-Japanischer Krieg,Russo-Japanese War
 Russisch-Orthodoxe Kirche,Russian Orthodox Church
 Russische Revolution,Russian Revolution
+Russland,Russia
 Russland,Russia
 Ruthenium,Ruthenium
 Rutherford B. Hayes,Rutherford B. Hayes
@@ -5962,6 +5813,7 @@ Rädertierchen,Rotifer
 Rätoromanisch,Romansh
 Römisch-katholische Kirche,Roman Catholic Church
 Römische Legion,Roman legion
+Römische Mythologie,Roman mythology
 Römische Mythologie,Roman mythology
 Römische Republik,Roman Republic
 Römisches Recht,Roman law
@@ -5975,6 +5827,7 @@ SOAP,SOAP
 Saat-Hafer,Oat
 Saatkrähe,Rook
 Saccharose,Sucrose
+Sachsen,Saxony
 Sachsen,Saxony
 Sacramento,Sacramento
 Saddam Hussein,Saddam Hussein
@@ -5992,6 +5845,7 @@ Salerno,Salerno
 Salman Rushdie,Salman Rushdie
 Salomo,Solomon
 Salomonen,Solomon Islands
+Salomonen,Solomon Islands
 Salpetersäure,Nitric acid
 Salt Lake City,Salt Lake City
 Salto Angel,Angel Falls
@@ -6005,8 +5859,10 @@ Samarium,Samarium
 Samarkand,Samarkand
 Sambesi,Zambezi
 Sambia,Zambia
+Sambia,Zambia
 Same,Seed
 Samenpflanzen,Spermatophyte
+Samoa,Samoa
 Samoa,Samoa
 Samsara,Samsara
 Samstag,Saturday
@@ -6020,12 +5876,14 @@ San Francisco,San Francisco
 San José,San Jose
 San Juan,San Juan
 San Marino,San Marino
+San Marino,San Marino
 San Salvador,San Salvador
 Sand,Sand
 Sandro Botticelli,Sandro Botticelli
 Sandstein,Sandstone
 Sanduhr,Hourglass
 Sandwich,Sandwich
+Sankt Petersburg,Saint Petersburg
 Sankt Petersburg,Saint Petersburg
 Sankt-Lorenz-Strom,Saint Lawrence River
 Sansibar,Zanzibar
@@ -6056,9 +5914,11 @@ Satire,Satire
 Saturn,Saturn
 Saturn,Saturn
 Saturn,Saturn
+Saturn,Saturn
 Satyr,Satyr
 Satzzeichen,Punctuation
 Sauce,Sauce
+Saudi-Arabien,Saudi Arabia
 Saudi-Arabien,Saudi Arabia
 Sauergrasgewächse,Cyperaceae
 Sauerstoff,Oxygen
@@ -6070,6 +5930,7 @@ Scandium,Scandium
 Scanner,Image scanner
 Schaben,Cockroach
 Schabrackentapir,Malayan Tapir
+Schach,Chess
 Schach,Chess
 Schachtelhalme,Equisetum
 Schafe,Ovis
@@ -6131,6 +5992,7 @@ Schokolade,Chocolate
 Scholastik,Scholasticism
 Schottisch-Gälische Sprache,Scottish Gaelic
 Schottland,Scotland
+Schottland,Scotland
 Schraube,Screw
 Schraubendreher,Screwdriver
 Schreibmaschine,Typewriter
@@ -6162,17 +6024,21 @@ Schwarzpulver,Gunpowder
 Schwarzstorch,Black Stork
 Schwarzwald,Black Forest
 Schweden,Sweden
+Schweden,Sweden
 Schwedische Krone,Swedish krona
 Schwefel,Sulfur
 Schwefeldioxid,Sulfur dioxide
 Schwefelsäure,Sulfuric acid
 Schweiz,Switzerland
+Schweiz,Switzerland
+Schweizer,Swiss people
 Schweizer Franken,Swiss franc
 Schweißen,Welding
 Schweres Akutes Atemwegssyndrom,Severe acute respiratory syndrome
 Schweres Wasser,Heavy water
 Schwert,Sword
 Schwertfisch,Dorado
+Schwimmsport,Swimming
 Schwimmsport,Swimming
 Schwingung,Oscillation
 Schwul,Gay
@@ -6181,6 +6047,7 @@ Schwäne,Swan
 Schädel,Skull
 Schütze,Sagittarius
 Science Fiction,Science fiction
+Science-Fiction,Science fiction
 Scientology,Scientology
 Scrabble,Scrabble
 Seaborgium,Seaborgium
@@ -6226,17 +6093,21 @@ Selene,Selene
 Seleukos I.,Seleucus I Nicator
 Sellerie,Celery
 Semantik,Semantics
+Semantik,Semantics
 Semikolon,Semicolon
 Semiotik,Semiotics
 Semiten,Semitic
 Senat,Senate
 Senat der Vereinigten Staaten,United States Senate
 Senegal,Senegal
+Senegal,Senegal
 Seoul,Seoul
 Seppuku,Seppuku
 September,September
 Septuaginta,Septuagint
 Serbien,Serbia
+Serbien,Serbia
+Serbien und Montenegro,Serbia and Montenegro
 Serbien und Montenegro,Serbia and Montenegro
 Sergei Michailowitsch Eisenstein,Sergei Eisenstein
 Sergei Wassiljewitsch Rachmaninow,Sergei Rachmaninoff
@@ -6249,7 +6120,9 @@ Sewastopol,Sevastopol
 Sex,Sex
 Sexismus,Sexism
 Sextant,Sextant
+Sexualität,Sexuality
 Sexuell übertragbare Erkrankung,Sexually transmitted disease
+Seychellen,Seychelles
 Seychellen,Seychelles
 Sezessionskrieg,American Civil War
 Shanghai,Shanghai
@@ -6274,6 +6147,7 @@ Siebzehn,17
 Siedepunkt,Boiling point
 Siemens,Siemens
 Sierra Leone,Sierra Leone
+Sierra Leone,Sierra Leone
 Sigma,Sigma
 Sigmund Freud,Sigmund Freud
 Sigrid Undset,Sigrid Undset
@@ -6287,11 +6161,13 @@ Siliciumdioxid,Silicon dioxide
 Silicon Valley,Silicon Valley
 Silur,Silurian
 Simbabwe,Zimbabwe
+Simbabwe,Zimbabwe
 Simon Petrus,Saint Peter
 Simone de Beauvoir,Simone de Beauvoir
 Sinai-Halbinsel,Sinai Peninsula
 Sinclair Lewis,Sinclair Lewis
 Sinfonie,Symphony
+Singapur,Singapore
 Singapur,Singapore
 Single,Single
 Sintflut,Deluge
@@ -6302,7 +6178,9 @@ Sitcom,Situation comedy
 Sitting Bull,Sitting Bull
 Sixtinische Kapelle,Sistine Chapel
 Sizilien,Sicily
+Sizilien,Sicily
 Skagerrak,Skagerrak
+Skandinavien,Scandinavia
 Skandinavien,Scandinavia
 Skandinavische Halbinsel,Scandinavian Peninsula
 Skateboard,Skateboard
@@ -6316,6 +6194,8 @@ Skylab,Skylab
 Slash,Slash
 Slayer,Slayer
 Slowakei,Slovakia
+Slowakei,Slovakia
+Slowenien,Slovenia
 Slowenien,Slovenia
 Smaragd,Emerald
 Smog,Smog
@@ -6324,6 +6204,7 @@ Snooker,Snooker
 Sofia,Sofia
 Softball,Softball
 Software,Computer software
+Software,Software
 Sojabohne,Soybean
 Sokrates,Socrates
 Solarzelle,Solar cell
@@ -6331,17 +6212,20 @@ Solidarność,Solidarity
 Solokonzert,Concerto
 Solon,Solon
 Somalia,Somalia
+Somalia,Somalia
 Somerset,Somerset
 Somme,Somme
 Sommer,Summer
 Sonate,Sonata
 Sonett,Sonnet
 Sonne,Sun
+Sonne,Sun
 Sonnenblume,Sunflower
 Sonnenenergie,Solar energy
 Sonnenfinsternis,Solar eclipse
-Sonnenfleck,Sunspot
 Sonnenfleck,Facula
+Sonnenfleck,Sunspot
+Sonnensystem,Solar System
 Sonnensystem,Solar System
 Sonnenuhr,Sundial
 Sonnenwende,Solstice
@@ -6356,17 +6240,24 @@ Sorghumhirsen,Sorghum
 Sortierverfahren,Sorting algorithm
 South Australia,South Australia
 South Carolina,South Carolina
+South Carolina,South Carolina
+South Dakota,South Dakota
 South Dakota,South Dakota
 Souveränität,Sovereignty
 Sowjetunion,Soviet Union
+Sowjetunion,Soviet Union
+Sozialismus,Socialism
 Sozialismus,Socialism
 Sozialpsychologie,Social psychology
 Soziolinguistik,Sociolinguistics
+Soziologie,Sociology
 Soziologie,Sociology
 Space Shuttle,Space Shuttle
 Spaghetti,Spaghetti
 Spam,Spam
 Spanien,Spain
+Spanien,Spain
+Spanier,Spanish people
 Spanisch-Amerikanischer Krieg,Spanish-American War
 Spanischer Bürgerkrieg,Spanish Civil War
 Spanischer Erbfolgekrieg,War of the Spanish Succession
@@ -6380,6 +6271,7 @@ Speisesalz,Salt
 Spektroskopie,Spectroscopy
 Speläologie,Speleology
 Spencer Tracy,Spencer Tracy
+Sperlingsvögel,Passeriformes
 Sperlingsvögel,Passerine
 Sperma,Semen
 Spermium,Spermatozoon
@@ -6401,6 +6293,7 @@ Split,Split
 Sport,Sport
 Sprache,Language
 Sprachwissenschaft,Linguistics
+Sprachwissenschaft,Linguistics
 Spree,Spree
 Springbrunnen,Fountain
 Springer,Knight
@@ -6409,9 +6302,13 @@ Spule,Inductor
 Spyware,Spyware
 Squash,Squash
 Sri Lanka,Sri Lanka
+Sri Lanka,Sri Lanka
+St. Kitts und Nevis,Saint Kitts and Nevis
 St. Kitts und Nevis,Saint Kitts and Nevis
 St. Louis,St. Louis
 St. Lucia,Saint Lucia
+St. Lucia,Saint Lucia
+St. Vincent und die Grenadinen,Saint Vincent and the Grenadines
 St. Vincent und die Grenadinen,Saint Vincent and the Grenadines
 Staat,State
 Staatenbund,Confederation
@@ -6434,6 +6331,7 @@ Stanford University,Stanford University
 Stanley Kubrick,Stanley Kubrick
 Starke Wechselwirkung,Strong interaction
 Staten Island,Staten Island
+Statistik,Statistics
 Statistik,Statistics
 Statistische Mechanik,Statistical mechanics
 Stavanger,Stavanger
@@ -6460,16 +6358,19 @@ Sternfrucht,Carambola
 Sternwarte,Observatory
 Steroide,Steroid
 Steuer,Tax
+Steuern und Abgaben,Taxation
 Steven Spielberg,Steven Spielberg
 Stickstoff,Nitrogen
 Stieleiche,Pedunculate Oak
 Stier,Taurus
 Sting,Sting
 Stoa,Stoicism
+Stochastik,Probability theory
 Stockente,Mallard
 Stockholm,Stockholm
 Stoffwechsel,Metabolism
 Stonehenge,Stonehenge
+Strafrecht,Criminal law
 Strafrecht,Criminal law
 Strahltriebwerk,Jet engine
 Strand,Beach
@@ -6509,6 +6410,7 @@ Subversion,Subversion
 Suchmaschine,Search engine
 Sucre,Sucre
 Sudan,Sudan
+Sudan,Sudan
 Sudoku,Sudoku
 Sueskanal,Suez Canal
 Suffix,Suffix
@@ -6530,12 +6432,14 @@ Suppe,Soup
 Supraleiter,Superconductivity
 Sure,Sura
 Suriname,Suriname
+Suriname,Suriname
 Surrealismus,Surrealism
 Surrey,Surrey
 Susan Sontag,Susan Sontag
 Sushi,Sushi
 Suva,Suva
 Svalbard,Svalbard
+Swasiland,Swaziland
 Swasiland,Swaziland
 Swastika,Swastika
 Sydney,Sydney
@@ -6552,16 +6456,20 @@ Synästhesie,Synesthesia
 Syphilis,Syphilis
 Syrakus,Syracuse
 Syrien,Syria
+Syrien,Syria
 System,System
 Systematik,Systematics
 Säugetiere,Mammal
 Säuren,Acid
 Söldner,Mercenary
+Südafrika,South Africa
+Südamerika,South America
 Südamerika,South America
 Südchinesisches Meer,South China Sea
 Süden,South
 Südhalbkugel,Southern Hemisphere
 Südinsel,South Island
+Südkorea,South Korea
 Südkorea,South Korea
 Südliches Dreieck,Triangulum Australe
 Südostasien,Southeast Asia
@@ -6578,12 +6486,15 @@ Tabak,Tobacco
 Tabellenkalkulation,Spreadsheet
 Tabu,Taboo
 Tadschikistan,Tajikistan
+Tadschikistan,Tajikistan
 Taekwondo,Taekwondo
 Tafelberg,Mensa
 Tag,Day
+Tag,Days
 Tahiti,Tahiti
 Taijiquan,Tai chi chuan
 Taipeh,Taipei
+Taiwan,Taiwan
 Taiwan,Taiwan
 Taj Mahal,Taj Mahal
 Tajo,Tagus
@@ -6605,9 +6516,11 @@ Tanger,Tangier
 Tango,Tango
 Tannen,Fir
 Tansania,Tanzania
+Tansania,Tanzania
 Tantal,Tantalum
 Tantalos,Tantalus
 Tanz,Dance
+Tanzen,Dance
 Tapire,Tapir
 Tarn,Tarn
 Tartaros,Tartarus
@@ -6618,10 +6531,11 @@ Tasmanien,Tasmania
 Tasmanische See,Tasman Sea
 Tastatur,Keyboard
 Tasteninstrument,Keyboard instrument
-Tau,Tau
 Tau,Dew
+Tau,Tau
 Taube,Columba
 Tauben,Columbidae
+Taubenvögel,Columbiformes
 Taubenvögel,Columbiformes
 Taufe,Baptism
 Taupunkt,Dew point
@@ -6631,11 +6545,14 @@ Taxi,Taxicab
 Taxon,Taxon
 Taxonomie,Taxonomy
 Technetium,Technetium
+Technik,Technology
 Techno,Techno
 Technologie,Technology
 Tee,Tea
+Tee,Tea
 Tegucigalpa,Tegucigalpa
 Teheran,Tehran
+Teilchenphysik,Particle physics
 Teilchenphysik,Particle physics
 Teilmenge,Subset
 Tel Aviv-Jaffa,Tel Aviv
@@ -6651,7 +6568,9 @@ Tempel der Artemis in Ephesos,Temple of Artemis
 Temperatur,Temperature
 Teneriffa,Tenerife
 Tennessee,Tennessee
+Tennessee,Tennessee
 Tennessee Williams,Tennessee Williams
+Tennis,Tennis
 Tennis,Tennis
 Tenor,Tenor
 Tenzing Norgay,Tenzing Norgay
@@ -6660,6 +6579,7 @@ Terbium,Terbium
 Termiten,Termite
 Terpsichore,Terpsichore
 Terroranschläge am 11. September 2001,September 11
+Terrorismus,Terrorism
 Terrorismus,Terrorism
 Tertullian,Tertullian
 Tesla,Tesla
@@ -6671,8 +6591,10 @@ Tethys,Tethys
 Tetraeder,Tetrahedron
 Tetrahydrocannabinol,Tetrahydrocannabinol
 Texas,Texas
+Texas,Texas
 Textilie,Textile
 Textverarbeitung,Word processor
+Thailand,Thailand
 Thailand,Thailand
 Thales,Thales
 Thalia,Thalia
@@ -6683,6 +6605,7 @@ Thanksgiving,Thanksgiving
 Thanksgiving,Thanksgiving
 Thanksgiving,Thanksgiving
 The Star-Spangled Banner,The Star-Spangled Banner
+Theater,Theatre
 Theater,Theatre
 Thebe,Thebe
 Theben,Thebes
@@ -6697,9 +6620,11 @@ Theodore Roosevelt,Theodore Roosevelt
 Theodosius I.,Theodosius I
 Theokratie,Theocracy
 Theologie,Theology
+Theologie,Theology
 Theorem,Theorem
 Theorie,Theory
 Theravada,Theravada
+Thermodynamik,Thermodynamics
 Thermodynamik,Thermodynamics
 Thermodynamik#Zweiter Hauptsatz,Second law of thermodynamics
 Thermometer,Thermometer
@@ -6729,9 +6654,11 @@ Thulium,Thulium
 Thymiane,Thyme
 Thymin,Thymine
 Thüringen,Thuringia
+Thüringen,Thuringia
 Tianjin,Tianjin
 Tiber,Tiber
 Tiberius,Tiberius
+Tibet,Tibet
 Tibet,Tibet
 Tier,Animal
 Tierhaltung,Animal husbandry
@@ -6747,9 +6674,9 @@ Tirol,Tyrol
 Tisch,Table
 Tischtennis,Table tennis
 Titan,Titan
+Titan,Titan
+Titan,Titan
 Titan,Titanium
-Titan,Titan
-Titan,Titan
 Titania,Titania
 Titanic,Titanic
 Titus,Titus
@@ -6759,8 +6686,10 @@ Tizian,Titian
 Tocantins,Tocantins
 Tocopherol,Tocopherol
 Tod,Death
+Tod,Death
 Todesstrafe,Capital punishment
 Tofu,Tofu
+Togo,Togo
 Togo,Togo
 Tokio,Tokyo
 Toledo,Toledo
@@ -6768,6 +6697,7 @@ Toluol,Toluene
 Tom Hanks,Tom Hanks
 Tom und Jerry,Tom and Jerry
 Tomate,Tomato
+Tonga,Tonga
 Tonga,Tonga
 Toni Morrison,Toni Morrison
 Tonleiter,Musical scale
@@ -6777,8 +6707,9 @@ Tonne,Tonne
 Tony Blair,Tony Blair
 Topas,Topaz
 Topeka,Topeka
-Topologie,Topology
 Topologie,Network topology
+Topologie,Topology
+Topologie,Topology
 Tora,Torah
 Torf,Peat
 Tornado,Tornado
@@ -6792,6 +6723,7 @@ Totes Meer,Dead Sea
 Toulon,Toulon
 Toulouse,Toulouse
 Tour de France,Tour de France
+Tourismus,Tourism
 Tourismus,Tourism
 Tours,Tours
 Tower of London,Tower of London
@@ -6820,10 +6752,12 @@ Triceratops,Triceratops
 Trient,Trento
 Trier,Trier
 Trigonometrie,Trigonometry
+Trigonometrie,Trigonometry
 Trigonometrische Funktion,Trigonometric function
 Trilobiten,Trilobite
 Trilogie,Trilogy
 Trinidad,Trinidad
+Trinidad und Tobago,Trinidad and Tobago
 Trinidad und Tobago,Trinidad and Tobago
 Trinitrotoluol,Trinitrotoluene
 Tripolis,Tripoli
@@ -6834,8 +6768,8 @@ Triton,Triton
 Triumphbogen,Triumphal arch
 Troja,Troy
 Trojanischer Krieg,Trojan War
-Trojanisches Pferd,Trojan horse
 Trojanisches Pferd,Trojan Horse
+Trojanisches Pferd,Trojan horse
 Troll,Troll
 Troll,Troll
 Trompete,Trumpet
@@ -6849,10 +6783,14 @@ Tryptophan,Tryptophan
 Trägheit,Inertia
 Trüffel,Tuber
 Tschad,Chad
+Tschad,Chad
 Tschadsee,Lake Chad
 Tschechien,Czech Republic
+Tschechien,Czech Republic
+Tschechoslowakei,Czechoslovakia
 Tschechoslowakei,Czechoslovakia
 Tscheljabinsk,Chelyabinsk
+Tschetschenien,Chechnya
 Tschetschenien,Chechnya
 Tschornobyl,Chernobyl
 Tschuktschensee,Chukchi Sea
@@ -6867,19 +6805,23 @@ Tulpen,Tulip
 Tumor,Tumor
 Tundra,Tundra
 Tunesien,Tunisia
+Tunesien,Tunisia
 Tunis,Tunis
 Tunnel,Tunnel
 Turbine,Turbine
 Turin,Turin
 Turingmaschine,Turing machine
 Turkmenistan,Turkmenistan
-Turm,Tower
+Turkmenistan,Turkmenistan
 Turm,Rook
+Turm,Tower
 Turmbau zu Babel,Tower of Babel
+Tuvalu,Tuvalu
 Tuvalu,Tuvalu
 Tux,Tux
 Tycho Brahe,Tycho Brahe
 Typhon,Typhon
+Typografie,Typography
 Typografie,Typography
 Tyrannosaurus rex,Tyrannosaurus
 Tyros,Tyre
@@ -6888,14 +6830,18 @@ Tätowierung,Tattoo
 Täufer,Anabaptist
 Tür,Door
 Türkei,Turkey
+Türkei,Turkey
 U,U
+U-Bahn,Rapid transit
 U-Boot,Submarine
 UFO,Unidentified flying object
 UNESCO,UNESCO
 UNICEF,United Nations Children's Fund
 Ufa,Ufa
 Uganda,Uganda
+Uganda,Uganda
 Uhr,Clock
+Ukraine,Ukraine
 Ukraine,Ukraine
 Ulaanbaatar,Ulan Bator
 Ulmen,Elm
@@ -6906,9 +6852,11 @@ Ulysses S. Grant,Ulysses S. Grant
 Umbrien,Umbria
 Umlaufbahn,Orbit
 Umwelt,Environment
+Umweltschutz,Environment
 Umweltverschmutzung,Pollution
 Unabhängigkeit,Independence
 Unendlichkeit,Infinity
+Ungarn,Hungary
 Ungarn,Hungary
 Ungeheuer von Loch Ness,Loch Ness Monster
 Ungleichung,Inequality
@@ -6922,9 +6870,11 @@ University of Chicago,University of Chicago
 University of Pennsylvania,University of Pennsylvania
 Universum,Universe
 Unix,Unix
+Unix,Unix
 Unix-Shell#Die Bourne-Again-Shell,Bash
 Unternehmen,Business
 Unternehmensführung,Management
+Unternehmer,Businesspeople
 Ununbium,Ununbium
 Ununhexium,Ununhexium
 Ununpentium,Ununpentium
@@ -6934,18 +6884,23 @@ Unze,Ounce
 Upanishaden,Upanishad
 Uppsala,Uppsala
 Ur,Ur
+Ur- und Frühgeschichte,Prehistory
 Uracil,Uracil
 Ural,Ural Mountains
 Uran,Uranium
 Urania,Urania
 Uranos,Uranus
 Uranus,Uranus
+Uranus,Uranus
 Urdu,Urdu
 Urgeschichte,Prehistory
 Urin,Urine
 Urknall,Big Bang
 Uruguay,Uruguay
+Uruguay,Uruguay
 Usbekistan,Uzbekistan
+Usbekistan,Uzbekistan
+Utah,Utah
 Utah,Utah
 Utilitarismus,Utilitarianism
 Utopie,Utopia
@@ -6968,9 +6923,11 @@ Vancouver,Vancouver
 Vancouver Island,Vancouver Island
 Vandalismus,Vandalism
 Vanuatu,Vanuatu
+Vanuatu,Vanuatu
 Var,Var
 Varianz,Variance
 Vaterunser,Lord's Prayer
+Vatikan,Vatican City
 Vatikanstadt,Vatican City
 Vegetarismus,Vegetarianism
 Vegetatives Nervensystem,Autonomic nervous system
@@ -6979,6 +6936,7 @@ Velociraptor,Velociraptor
 Vene,Vein
 Venedig,Venice
 Venetien,Veneto
+Venezuela,Venezuela
 Venezuela,Venezuela
 Venus,Venus
 Venus,Venus
@@ -6989,12 +6947,17 @@ Verbrauch,Consumption
 Verbrennung,Combustion
 Verbundwerkstoff,Composite material
 Verdauung,Digestion
+Verdauungsapparat,Digestive system
 Verdauungstrakt,Gastrointestinal tract
 Verdunstung,Evaporation
 Vereinigte Arabische Emirate,United Arab Emirates
+Vereinigte Arabische Emirate,United Arab Emirates
 Vereinigte Arabische Republik,United Arab Republic
 Vereinigte Staaten,United States
+Vereinigte Staaten,United States
 Vereinigtes Königreich,United Kingdom
+Vereinigtes Königreich,United Kingdom
+Vereinte Nationen,United Nations
 Vereinte Nationen,United Nations
 Verfassung,Constitution
 Verfassung der Vereinigten Staaten,United States Constitution
@@ -7002,7 +6965,9 @@ Verfinsterung,Eclipse
 Vergaser,Carburetor
 Vergewaltigung,Rape
 Vergil,Virgil
+Verkehrswesen,Transportation
 Verkündigung,Annunciation
+Vermont,Vermont
 Vermont,Vermont
 Verona,Verona
 Versailles,Versailles
@@ -7030,6 +6995,8 @@ Vierundzwanzig,24
 Vierzehn,14
 Vierzig,40
 Vietnam,Vietnam
+Vietnam,Vietnam
+Vietnamkrieg,Vietnam War
 Vietnamkrieg,Vietnam War
 Viktoria,Victoria
 Viktoriasee,Lake Victoria
@@ -7040,6 +7007,7 @@ Vincenzo Bellini,Vincenzo Bellini
 Violine,Violin
 Violoncello,Cello
 Viren,Virus
+Virginia,Virginia
 Virginia,Virginia
 Virginia Woolf,Virginia Woolf
 Virtuelle Realität,Virtual reality
@@ -7056,8 +7024,10 @@ Vladimir Nabokov,Vladimir Nabokov
 Vogelkunde,Ornithology
 Vokal,Vowel
 Vokativ,Vocative case
+Volkskunde,Folklore
 Volksrepublik China,People's Republic of China
 Volkszählung,Census
+Volleyball,Volleyball
 Volleyball,Volleyball
 Vollmond,Full moon
 Volt,Volt
@@ -7068,11 +7038,13 @@ Vulcanus,Vulcan
 Vulgata,Vulgate
 Vulgärlatein,Vulgar Latin
 Vulkan,Volcano
+Vulkanismus,Volcanology
 Vulkanologie,Volcanology
 Vulva,Vulva
 Vögel,Bird
 Völkerbund,League of Nations
 Völkermord,Genocide
+Völkerrecht,International law
 Völkerrechtlicher Vertrag,Treaty
 W,W
 WYSIWYG,WYSIWYG
@@ -7092,9 +7064,10 @@ Wald,Forest
 Waldkauz,Tawny Owl
 Waldkiefer,Scots Pine
 Waldohreule,Long-eared Owl
-Wale,Whale
 Wale,Cetacea
+Wale,Whale
 Walentina Wladimirowna Tereschkowa,Valentina Tereshkova
+Wales,Wales
 Wales,Wales
 Walfisch,Cetus
 Walhall,Valhalla
@@ -7114,7 +7087,9 @@ Warze,Wart
 Waschmaschine,Washing machine
 Washington,Washington
 Washington,Washington
+Washington,Washington
 Washington D. C.,Washington
+Wasser,Water
 Wasser,Water
 Wasserball,Water polo
 Wasserfall,Waterfall
@@ -7145,10 +7120,12 @@ Weichsel,Vistula
 Weichtiere,Mollusca
 Weiden,Willow
 Weihnachten,Christmas
+Weihnachten,Christmas
 Weihnachtsbaum,Christmas tree
 Weihnachtsmann,Santa Claus
 Weimar,Weimar
 Weimarer Republik,Weimar Republic
+Wein,Wine
 Wein,Wine
 Weintraube,Grape
 Weitsprung,Long jump
@@ -7157,6 +7134,7 @@ Weißer Hai,Great white shark
 Weißer Zwerg,White dwarf
 Weißes Haus,White House
 Weißes Meer,White Sea
+Weißrussland,Belarus
 Weißrussland,Belarus
 Weißwal,Beluga
 Welle,Wave
@@ -7185,6 +7163,7 @@ Weser,Weser River
 Wespenbussard,Honey Buzzard
 West Sussex,West Sussex
 West Virginia,West Virginia
+West Virginia,West Virginia
 West-Berlin,West Berlin
 Westafrika,West Africa
 Westbengalen,West Bengal
@@ -7196,6 +7175,7 @@ Westjordanland,West Bank
 Westminster Abbey,Westminster Abbey
 Weströmisches Reich,Western Roman Empire
 Westsahara,Western Sahara
+Westsahara,Western Sahara
 Wettbewerb,Competition
 Wetter,Weather
 Whisky,Whisky
@@ -7205,6 +7185,7 @@ Widder,Aries
 Wide Area Network,Wide area network
 Widerstand,Resistor
 Wiedehopf,Hoopoe
+Wien,Vienna
 Wien,Vienna
 Wiesbaden,Wiesbaden
 Wikinger,Viking
@@ -7246,10 +7227,13 @@ Wirbel,Vertebra
 Wirbellose,Invertebrate
 Wirbelsäule,Vertebral column
 Wirbeltiere,Vertebrate
+Wirtschaft,Economics
 Wirtschaft,Economy
 Wirtschaftswissenschaft,Economics
 Wisconsin,Wisconsin
+Wisconsin,Wisconsin
 Wissen,Knowledge
+Wissenschaft,Science
 Wissenschaft,Science
 Wissenschaftler,Scientist
 Wissenschaftliche Methodik,Scientific method
@@ -7272,6 +7256,7 @@ Worcestershire,Worcestershire
 World Meteorological Organization,World Meteorological Organization
 World Trade Center,World Trade Center
 World Wide Web,World Wide Web
+World Wide Web,World Wide Web
 Wort,Word
 Wuhan,Wuhan
 Wunder,Miracle
@@ -7279,13 +7264,16 @@ Wurmloch,Wormhole
 Wurst,Sausage
 Wurzel,Root
 Wyoming,Wyoming
+Wyoming,Wyoming
 Währung,Currency
+Währungseinheit,Currency
 Wärme,Heat
 Wärmekraftmaschine,Heat engine
 Wörterbuch,Dictionary
 Würfel,Cube
 Würmer,Worm
 Wüste,Desert
+Wüste,Deserts
 X,X
 Xenon,Xenon
 Xenophanes,Xenophanes
@@ -7320,9 +7308,11 @@ Z,Z
 Zachary Taylor,Zachary Taylor
 Zagreb,Zagreb
 Zahl,Number
+Zahl,Numbers
 Zahn,Tooth
 Zahnbürste,Toothbrush
 Zahnkaries,Dental caries
+Zahnmedizin,Dentistry
 Zahnmedizin,Dentistry
 Zahnrad,Gear
 Zar,Tsar
@@ -7332,6 +7322,7 @@ Zedern,Cedar
 Zehn,10
 Zehn Gebote,Ten Commandments
 Zeit,Time
+Zeitbegriff,Time
 Zeitschrift,Magazine
 Zeitzone,Time zone
 Zelle,Cell
@@ -7346,6 +7337,7 @@ Zenon von Elea,Zeno of Elea
 Zenon von Kition,Zeno of Citium
 Zentaur,Centaurus
 Zentralafrika,Central Africa
+Zentralafrikanische Republik,Central African Republic
 Zentralafrikanische Republik,Central African Republic
 Zentralamerika,Central America
 Zentralbank,Central bank
@@ -7363,8 +7355,8 @@ Zinn,Tin
 Zins,Interest
 Zionismus,Zionism
 Zirconium,Zirconium
-Zirkel,Compass
 Zirkel,Circinus
+Zirkel,Compass
 Zirkumzision,Circumcision
 Zirkus,Circus
 Zitrone,Lemon
@@ -7374,6 +7366,7 @@ Zivilisation,Civilization
 Zoll,Inch
 Zombie,Zombie
 Zoo,Zoo
+Zoologie,Zoology
 Zoologie,Zoology
 Zoroastrismus,Zoroastrianism
 Zucker,Sugar
@@ -7391,17 +7384,20 @@ Zweikeimblättrige,Dicotyledon
 Zweiter Golfkrieg,Gulf War
 Zweiter Kreuzzug,Second Crusade
 Zweiter Weltkrieg,World War II
+Zweiter Weltkrieg,World War II
 Zweites Vatikanisches Konzil,Second Vatican Council
 Zwiebel,Onion
 Zwillinge,Gemini
 Zwölf,12
 Zyklon,Cyclone
 Zylinder,Cylinder
+Zypern,Cyprus
 Zypressengewächse,Cupressaceae
 Zytoplasma,Cytoplasm
 Zytoskelett,Cytoskeleton
 Zölibat,Celibacy
 german,english
+Ägypten,Egypt
 Ägypten,Egypt
 Ägyptisches Pfund,Egyptian pound
 Ägyptologie,Egyptology
@@ -7410,16 +7406,19 @@ german,english
 Äquator,Equator
 Äquator#Himmelsäquator,Celestial equator
 Äquatorialguinea,Equatorial Guinea
+Äquatorialguinea,Equatorial Guinea
 Äquinoktium,Equinox
 Ärmelkanal,English Channel
 Äsop,Aesop
 Ästhetik,Aesthetics
 Ätherisches Öl,Essential oil
 Äthiopien,Ethiopia
+Äthiopien,Ethiopia
 Ätna,Mount Etna
 Århus,Aarhus
 Ödipus,Oedipus
 Öffentlichkeitsarbeit,Public relations
+Ökologie,Ecology
 Ökologie,Ecology
 Ökologische Nische,Ecological niche
 Ökonometrie,Econometrics
@@ -7428,6 +7427,7 @@ german,english
 Öl,Oil
 Öle,Oil
 Ölmalerei,Oil painting
+Österreich,Austria
 Österreich,Austria
 Österreich-Ungarn,Austria-Hungary
 Ōsaka,Osaka

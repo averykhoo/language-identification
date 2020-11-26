@@ -1,4 +1,5 @@
 Other,English
+arabic,english
 آذربيجان,Azerbaijan
 آذربيجان,Republic of Azerbaijan
 آلة موسيقية,instrument
@@ -8,11 +9,13 @@ Other,English
 أبو الهول,sphinx
 أبيجان,Abidjan
 أبيض,white
+أبْوَاب,door
 أثاث,furniture
 أثينا,Athens
 أثيوبي,Ethiopia
 أثيوبي,Federal Democratic Republic of Ethiopia
 أجنبي,foreign
+أحسن,better
 أخرس,dumb
 أخطبوط,octopus
 أخلاق,ethics
@@ -23,10 +26,10 @@ Other,English
 أردو,Urdu
 أرستقراطية,aristocracy
 أرشيف,archive
-أرض,earth
-أرض,Earth
-أرض,the world
 أرض,Blue Planet
+أرض,Earth
+أرض,earth
+أرض,the world
 أرمينيا,Armenia
 أروبا,Aruba
 أريزونا,Arizona
@@ -38,15 +41,14 @@ Other,English
 أسقف,prelate
 أسكتلندا,Scotland
 أسي,hostage
-أسير حرب,prisoner of war
 أسير حرب,POW
-أسير حرب,PoW
 أسير حرب,PW
+أسير حرب,PoW
+أسير حرب,prisoner of war
 أصمّ,deaf
 أغُسْطُسْ,August
 أفريقانية,Afrikaans
 أفضل,better
-أحسن,better
 أفغانستان,Afghanistan
 أفغانستان,Transitional Islamic State of Afghanistan
 أفق,horizon
@@ -65,8 +67,8 @@ Other,English
 أمطار حمضية,acid rain
 أمفيتامي,amphetamine
 أمل,hope
-أمومة,motherhood
 أمومة,maternity
+أمومة,motherhood
 أمير,prince
 أمين المكتبة,librarian
 أناكوندا,anaconda
@@ -80,8 +82,8 @@ Other,English
 أنون أوكتيوم,ununoctium
 أنون بيوم,ununbium
 أنون سيبتيوم,ununseptium
-أوغندا,Uganda
 أوغندا,Republic of Uganda
+أوغندا,Uganda
 أوكتاف,octave
 أوكراني,Ukrainian
 أوكراني,Ukrainian
@@ -116,25 +118,13 @@ Other,English
 إسبرانتو,Esperanto
 إسبرانتو,Esperanto
 إسلندي,Icelandic
-إسهال سكري,infectious disease
 إسهال سكري,communicable diseases
+إسهال سكري,infectious disease
 إضاءة,lighting
 إغراق,alluvion
 إغراق,flood
-إغراق,overflowing
 إغراق,inundation
-زيادة تدفق,alluvion
-زيادة تدفق,flood
-زيادة تدفق,overflowing
-زيادة تدفق,inundation
-غمر,alluvion
-غمر,flood
-غمر,overflowing
-غمر,inundation
-فيضان,alluvion
-فيضان,flood
-فيضان,overflowing
-فيضان,inundation
+إغراق,overflowing
 إفقار,impoverishment
 إفلاس,bankruptcy
 إلسلفادور,El Salvador
@@ -150,8 +140,6 @@ Other,English
 إيطالي,Italian
 إيطالي,Russian
 إيطالي,Russian
-روسية,Russian
-روسية,Russian
 إِسْرَائِيل,Israel
 إِسْرَائِيل,State of Israel
 إِيرَان,Iran
@@ -181,12 +169,12 @@ Other,English
 اكتساب,acquisition
 الأرجنتين,Argentina
 الأرجنتين,Argentine Republic
-الأردن,Jordan
 الأردن,Hashemite Kingdom of Jordan
+الأردن,Jordan
+الأيرلندية,Irish
 الأيرلندية,Irish
 الأيرلندية,Irish
 الأيرلندية,Irish Gaelic
-الأيرلندية,Irish
 الإلياذة,Iliad
 الإمارات,United Arab Emirates
 الاتحاد الأوروبي,EU
@@ -204,20 +192,19 @@ Other,English
 الثورة الفرنسية,French Revolution
 الجبل الأسود,Montenegro
 الجمشت,amethyst
-الحكم بالإعدام,death penalty
 الحكم بالإعدام,capital punishment
+الحكم بالإعدام,death penalty
 الحكم بالإعدام,death sentence
 الحمل,pregnancy
 الخرطوم,Khartoum
-خرطوم,Khartoum
 الخضار,vegetable
 الخيميائي,alchemist
 الراعي,shepherd
 الرمان,pomegranate
 الزهرة,Venus
 الزهرى,syphilis
-السعودي,Saudi Arabia
 السعودي,Kingdom of Saudi Arabia
+السعودي,Saudi Arabia
 السنجاب,chipmunk
 السنجاب الأمريكي,chipmunk
 السواحلية,Swahili
@@ -229,15 +216,15 @@ Other,English
 الشيوعي,communism
 الصربية,Serbian
 الصربية,Serbian
-الصين,People's Republic of China
 الصين,China
+الصين,People's Republic of China
 الطبول,drum kit
 العراق,Iraq
 العراق,Republic of Iraq
 العربية,Arabic
 العربية,Standard Arabic
-العنب,huckleberry
 العنب,blueberry
+العنب,huckleberry
 الغابون,Gabon
 الغابون,Gabonese Republic
 الفلبين,Philippines
@@ -248,38 +235,35 @@ Other,English
 الكويت,Kuwait
 الكويت,State of Kuwait
 المالطية,Maltese
-المانيا,Germany
 المانيا,Federal Republic of Germany
+المانيا,Germany
 المجر,Hungary
 المجر,Republic of Hungary
 المرة,bile
 المستعمل,user
-المغرب,Morocco
 المغرب,Kingdom of Morocco
+المغرب,Morocco
 المفكرة,diary
+المملكة المتحدة,UK
 المملكة المتحدة,United Kingdom
 المملكة المتحدة,United Kingdom of Great Britain and Northern Ireland
-المملكة المتحدة,UK
-مملكة بريطانيا العظمى وشمال إيرلندا المتحدة،,United Kingdom
-مملكة بريطانيا العظمى وشمال إيرلندا المتحدة،,United Kingdom of Great Britain and Northern Ireland
-مملكة بريطانيا العظمى وشمال إيرلندا المتحدة،,UK
 النادل,waiter
 الهند,India
 الهند,Republic of India
 الوالون,Walloon
 الوالون,Walloon
+الولايات المتحدة الأمريكية,America
+الولايات المتحدة الأمريكية,States
+الولايات المتحدة الأمريكية,U.S.
+الولايات المتحدة الأمريكية,U.S. of A.
+الولايات المتحدة الأمريكية,U.S.A.
+الولايات المتحدة الأمريكية,US
 الولايات المتحدة الأمريكية,United States
 الولايات المتحدة الأمريكية,United States of America
-الولايات المتحدة الأمريكية,America
-الولايات المتحدة الأمريكية,US
-الولايات المتحدة الأمريكية,U.S.
-الولايات المتحدة الأمريكية,U.S.A.
-الولايات المتحدة الأمريكية,U.S. of A.
-الولايات المتحدة الأمريكية,States
 اليابان,Japan
 اليابان,State of Japan
-اليمنية,Yemen
 اليمنية,Republic of Yemen
+اليمنية,Yemen
 اليونان,Greece
 اليونان,Hellenic Republic
 الْجَزَائِر,Algeria
@@ -298,15 +282,15 @@ Other,English
 اينشتنيوم,einsteinium
 اِختصار,abbreviation
 اِنتخاب,ballot
-اِنقلاب أبيض,putsch
 اِنقلاب أبيض,coup d'état
+اِنقلاب أبيض,putsch
 بابون,baboon
 باثولوجيا,pathology
 بارومتر,barometer
 باريوم,barium
 باع,sell
-باكستان,Pakistan
 باكستان,Islamic Republic of Pakistan
+باكستان,Pakistan
 بالاديوم,palladium
 بتسوانا,Botswana
 بتسوانا,Republic of Botswana
@@ -336,8 +320,8 @@ Other,English
 بريتونية,Breton
 بريتونية,Breton
 بزموث,bismuth
-بطاطا,potato
 بطاطا,patato
+بطاطا,potato
 بطانة,coating
 بطة,duck
 بطيء,slow
@@ -345,8 +329,8 @@ Other,English
 بظر,clit
 بظر,clitoris
 بغض,abhor
-بغض,loathe
 بغض,detest
+بغض,loathe
 بغل,mule
 بلاتين,platinum
 بلجراد,Belgrade
@@ -397,8 +381,8 @@ Other,English
 بيريليوم,beryllium
 بيريليوم,glucinium
 بيطري,veterinarian
-بيطري,veterinary
 بيطري,veterinarian
+بيطري,veterinary
 بيلاروسي,Belarusan
 بيلاروسي,Belarusan
 بيلاروسي,Belarusian
@@ -411,7 +395,6 @@ Other,English
 بيلوروسية,Byelorussian
 بين,between
 بَابٌ,door
-أبْوَاب,door
 بَصَ,onion
 بَقَرَة,cow
 بَيْتٌ,home
@@ -434,8 +417,8 @@ Other,English
 تخفيض,discount
 تدريب,training
 تربيوم,terbium
-ترجم,translate
 ترجم,interpret
+ترجم,translate
 ترجمة,translation
 تركيا,Turkey
 تروفي,trophy
@@ -472,22 +455,19 @@ Other,English
 تفاؤل,optimism
 تفاؤل,optimism
 تفاؤل,optimism
-تفاهة,platitude
 تفاهة,cliche
 تفاهة,cliché
+تفاهة,platitude
 تقدير,estimate
 تقوي,calendar
 تكنيتيوم,technetium
 تل,colina
 تل,hill
 تل,loma
-هضبة,colina
-هضبة,hill
-هضبة,loma
 تلفاز,television
 تلفزيون,television
-تلقيح,fertilisation
 تلقيح,fecundation
+تلقيح,fertilisation
 تنتالم,tantalum
 تنجستن,tungsten
 تنزانيا,Tanzania
@@ -501,8 +481,8 @@ Other,English
 تونجا,Tonga
 تيتانيوم,titanium
 تيلوريوم,tellurium
-تيمور الشرقية,East Timor
 تيمور الشرقية,Democratic Republic of Timor-Leste
+تيمور الشرقية,East Timor
 تينيسي,Tennessee
 تَشابُّهي,analogous
 تَصْرِيح,declaration
@@ -519,27 +499,25 @@ Other,English
 ثمين,valuable
 ثنائي,bilateral
 ثوب,dress
-لباس,dress
 ثور,bull
 ثوريوم,thorium
 جار,neighbour
 جار,vecino
-جاكرتا,Jakarta
-جاكرتا,Djakarta
 جاكرتا,DKI Jakarta
+جاكرتا,Djakarta
+جاكرتا,Jakarta
 جاليوم,gallium
-جامعة,university
-جامعة,university
+جامعة,academy
 جامعة,academy
 جامعة,university
 جامعة,university
-جامعة,academy
+جامعة,university
+جامعة,university
 جاميكا,Jamaica
 جبل طارق,Gibraltar
 جبل فوجي,Mount Fuji
 جدار,wall
 جدول,table
-طاولة,table
 جدولينيوم,gadolinium
 جراحة,surgery
 جرادة,locust
@@ -552,8 +530,8 @@ Other,English
 جزر جوادلوب,Guadeloupe
 جزر فارو,Faroe Islands
 جزر فوكلاند,Falkland Islands
-جزيرة جيرزي,Jersey
 جزيرة جيرزي,Bailiwick of Jersey
+جزيرة جيرزي,Jersey
 جزيرة عيد الميلاد,Christmas Island
 جزيرة مان,Isle of Man
 جزيرة مان,Isle of Mann
@@ -564,24 +542,24 @@ Other,English
 جمع,add
 جمل,camel
 جمهورية الدومنيكان,Dominican Republic
-جمهورية الكونغو,Republic of the Congo
 جمهورية الكونغو,Congo-Brazzaville
-جمهورية الكونغو الديمقراطية,Democratic Republic of the Congo
+جمهورية الكونغو,Republic of the Congo
 جمهورية الكونغو الديمقراطية,Congo-Kinshasa
+جمهورية الكونغو الديمقراطية,Democratic Republic of the Congo
 جنائني,gardener
 جنازة,funeral
 جنس,species
 جنوب افريقيا,South Africa
-جهاز هضمي,gastrointestinal tract
 جهاز هضمي,alimentary canal
+جهاز هضمي,gastrointestinal tract
 جهد,effort
 جهد,exertion
 جوارب,sock
 جورجي,Georgian
 جورجي,Georgian
 جورجيا,Georgia
-جوز هن,kokosnoot
 جوز هن,coconut
+جوز هن,kokosnoot
 جوع,hunger
 جوع,hunger
 جوع,hunger
@@ -609,8 +587,8 @@ Other,English
 حدود,boundary
 حديد,iron
 حركي,activist
-حري,silk
 حري,harem
+حري,silk
 حرّي,freedom
 حرّي,liberty
 حزاز,lichen
@@ -621,10 +599,10 @@ Other,English
 حقد,hate
 حقد,hatred
 حقنة,syringe
-حلاّق,hairdresser
 حلاّق,barber
-حمار,donkey
+حلاّق,hairdresser
 حمار,ass
+حمار,donkey
 حمام سباحة,swimming pool
 حمض,acid
 حموضة,acidity
@@ -638,6 +616,7 @@ Other,English
 خبّاز,baker
 خث,peat
 خرشوف,artichoke
+خرطوم,Khartoum
 خروف,sheep
 خس,lettuce
 خشب,wood
@@ -645,14 +624,13 @@ Other,English
 خل,vinegar
 خلايا الطاقة,fuel cell
 خمول,apathy
-خميرية,Khmer
 خميرية,Central Khmer
+خميرية,Khmer
 خنزير غينيا,guinea pig
 خيط,sew
 خيمياء,alchemy
 خيّاط,tailor
 خُبْز,bread
-عَيْش,bread
 خُفّ,slipper
 دارمشتادتيوم,darmstadtium
 داغستان,Dagestan
@@ -673,8 +651,8 @@ Other,English
 دراجة,bike
 دراجة,cycle
 دراسات سكانية,demography
-درب التبانة,Milky Way
 درب التبانة,Galaxy
+درب التبانة,Milky Way
 دفع عربون,advance
 دفن في الأرض,landfill
 دقيقة,minute
@@ -687,8 +665,8 @@ Other,English
 ذرة,atom
 ذرية,posterity
 ذكرى سنوي,anniversary
-ذهب,gold
 ذهب,go
+ذهب,gold
 ذِئْبٌ,wolf
 رئيس,head
 راتب,salary
@@ -698,7 +676,6 @@ Other,English
 ربو,asthma
 ربيع,spring
 رجلٌ,leg
-ساقٌ,leg
 رذرفورديوم,rutherfordium
 رشوة,corruption
 رصاص,lead
@@ -719,16 +696,18 @@ Other,English
 روديوم,rhodium
 روسيا,Russia
 روسيا,Russian Federation
+روسية,Russian
+روسية,Russian
 روما,Rome
-روماني,Romanian
 روماني,Romanaian
+روماني,Romanian
 رومانيا,Romania
 روينتجينيوم,roentgenium
 رُزّ,rice
 زئبق,mercury
 زائل,ephemeral
-زامبيا,Zambia
 زامبيا,Republic of Zambia
+زامبيا,Zambia
 زايلفون,xylophone
 زراعة,agriculture
 زراعة,agriculture
@@ -737,8 +716,6 @@ Other,English
 زراعة,agriculture
 زراعة,cultivation
 زراعة,tillage
-فلاحة,cultivation
-فلاحة,tillage
 زرافة,giraffe
 زركونيوم,zirconium
 زرنيخ,arsenic
@@ -749,12 +726,17 @@ Other,English
 زهر النرد,die
 زورق شراعي,sailing ship
 زول,Zulu
+زيادة تدفق,alluvion
+زيادة تدفق,flood
+زيادة تدفق,inundation
+زيادة تدفق,overflowing
 زينون,xenon
 سؤال,question
-ساحل العاج,Ivory Coast
 ساحل العاج,Cote d'Ivoire
+ساحل العاج,Ivory Coast
 ساحل العاج,Republic of Cote d'Ivoire
 ساعة,hour
+ساقٌ,leg
 ساكسفون,saxophone
 ساكسونيا السفلى,Lower Saxony
 ساكن,consonant
@@ -765,9 +747,9 @@ Other,English
 سانت بطرسبرغ,Petrograd
 سانت بطرسبرغ,Saint Petersburg
 سانت بطرسبرغ,St. Petersburg
+سبات,languor
 سبات,lethargy
 سبات,sluggishness
-سبات,languor
 سبانخ,spinach
 سبيكة,alloy
 سبْتمْبر,September
@@ -781,13 +763,11 @@ Other,English
 سفي,ambassador
 سقف,covering
 سقف,roofing
-غطاء,covering
-غطاء,roofing
 سكانديوم,scandium
 سلام,peace
 سلحفاة,tortoise
-سلسلة ماركوف,Markov chain
 سلسلة ماركوف,Markoff chain
+سلسلة ماركوف,Markov chain
 سلوفاكي,Slovak
 سلوفاكي,Slovak
 سلوفاكيا,Slovakia
@@ -796,17 +776,17 @@ Other,English
 سلوفيني,Slovenian
 سليكون,silicon
 سمنة,obesity
-سنة,year
 سنة,solar year
-سنة شخصية,year
+سنة,year
 سنة شخصية,solar year
+سنة شخصية,year
 سندان,anvil
 سندي,Sindhi
 سندي,Sindhi
 سنغال,Senegal
 سهل,easy
-سهل,piece of cake
 سهل,like shooting fish in a barrel
+سهل,piece of cake
 سهم,arrow
 سهولة,facility
 سوبرماركت,supermarket
@@ -829,33 +809,23 @@ Other,English
 شباك,window
 شبكة طرق,road network
 شبه جزيرة,peninsula
-شراكة,firm
+شراكة,company
 شراكة,corporation
 شراكة,enterprise
-شراكة,company
+شراكة,firm
 شراكة,venture
-شركة,firm
+شركة,company
 شركة,corporation
 شركة,enterprise
-شركة,company
+شركة,firm
 شركة,venture
-مؤسسة,firm
-مؤسسة,corporation
-مؤسسة,enterprise
-مؤسسة,company
-مؤسسة,venture
-مشروع,firm
-مشروع,corporation
-مشروع,enterprise
-مشروع,company
-مشروع,venture
 شطرنج,chess
 شعير,barley
 شـــاهد,witness
 شكرا,cheers
 شكرا,thank you
-شكرا,thanks
 شكرا,thank you
+شكرا,thanks
 شمبانزي,chimpanzee
 شمعة,candle
 شيشان,Chechen
@@ -864,8 +834,8 @@ Other,English
 شيلي,Republic of Chile
 شَجَرٌ,tree
 شَخص,person
-شَفقة,pity
 شَفقة,compassion
+شَفقة,pity
 شَهْرٌ,month
 شِفّة,lip
 صابُون,soap
@@ -880,8 +850,8 @@ Other,English
 صفصاف,willow
 صقلية,Sicilian
 صقلية,Sicilian
-صنوبر,pino
 صنوبر,pine
+صنوبر,pino
 صوديوم,sodium
 صومالية,Somali
 صومالية,somali
@@ -892,12 +862,13 @@ Other,English
 صيدليَّة,chemist's shop
 صيدليَّة,pharmacy
 صَفحة,page
-صِفْر,zero
 صِفْر,null
+صِفْر,zero
 ضبع,hyena
 ضريح,mausoleum
 طاجيكستان,Tajikistan
 طارئ,emergency
+طاولة,table
 طب أسنان,dentistry
 طبوغرافية,topography
 طبيب الأسنان,dentist
@@ -910,17 +881,16 @@ Other,English
 طوبولوجيا,topology
 طَلاَق,divorce
 طِفْل,child
-وَلَد,child
 ظرّ,flint
 ظرّ,flintstone
 عاصمة,capital
-عالم,world
 عالم,scientist
-عالم الآثار,archeologist
+عالم,world
 عالم الآثار,archaeologist
+عالم الآثار,archeologist
 عجان,perineum
-عدد أولي,prime number
 عدد أولي,prime
+عدد أولي,prime number
 عدس,lentil
 عدواني,aggressive
 عربة أطفال أو عجزة,wheelchair
@@ -932,8 +902,8 @@ Other,English
 عطش,thirst
 علم,teach
 علم النباتات,botany
-علم النباتات,phytology
 علم النباتات,botany
+علم النباتات,phytology
 علم حساب المثلّثات,trigonometry
 علوم طبيعية,natural science
 عمان,Oman
@@ -944,10 +914,11 @@ Other,English
 عنكبوت,spider
 عيد الفصح,Easter
 عيد الميلاد السعي,Merry Christmas
-عَمَّار,mason
 عَمَّار,bricklayer
+عَمَّار,mason
 عَمَّار,stonemason
 عَمِلَ,do
+عَيْش,bread
 عَيْن,eye
 عِبْرٍيّة,Hebrew
 عِلْم الوراثة,genealogy
@@ -955,8 +926,8 @@ Other,English
 غامبيا,Gambia
 غامبيا,Gambia
 غامبيا,Gambia
-غامبيا,The Gambia
 غامبيا,Republic of The Gambia
+غامبيا,The Gambia
 غامض,mysterious
 غانا,Ghana
 غانا,Republic of Ghana
@@ -966,31 +937,37 @@ Other,English
 غذاء,lunch
 غذاء,lunch
 غذاء,lunch
-غذاء,luncheon
+غذاء,lunch
+غذاء,lunch
+غذاء,lunch
+غذاء,lunch
+غذاء,lunch
+غذاء,lunch
+غذاء,lunch
+غذاء,lunch
+غذاء,lunch
+غذاء,lunch
+غذاء,lunch
+غذاء,lunch
 غذاء,lunch
 غذاء,lunch
 غذاء,lunch
 غذاء,lunch
 غذاء,luncheon
-غذاء,lunch
-غذاء,lunch
-غذاء,lunch
-غذاء,lunch
 غذاء,luncheon
-غذاء,lunch
-غذاء,lunch
-غذاء,lunch
-غذاء,lunch
 غذاء,luncheon
-غذاء,lunch
-غذاء,lunch
-غذاء,lunch
-غذاء,lunch
 غذاء,luncheon
-غريب,strange
+غذاء,luncheon
 غريب,odd
-غسول,lavender
+غريب,strange
 غسول,lavander
+غسول,lavender
+غطاء,covering
+غطاء,roofing
+غمر,alluvion
+غمر,flood
+غمر,inundation
+غمر,overflowing
 غنغرينا,gangrene
 غوام,Guam
 غوام,Guam
@@ -1000,32 +977,32 @@ Other,English
 غوريلاّ,gorilla
 غَدًا,tomorrow
 فئة,category
-فاتيكان,Vatican City
-فاتيكان,The Holy See
 فاتيكان,State of the Vatican City
+فاتيكان,The Holy See
+فاتيكان,Vatican City
 فاناديوم,vanadium
 فانوس,lantern
 فحص,observation
-فخّار,terracotta
-فخّار,terracotta
-فخّار,terracotta
 فخّار,terra cotta
+فخّار,terracotta
+فخّار,terracotta
+فخّار,terracotta
 فراشة,butterfly
+فرانسيوم,francium
 فرميوم,fermium
-فرن,oven
 فرن,furnace
+فرن,oven
 فرنسي,French
 فرنسي,French
 فرنسي,francium
-فرانسيوم,francium
 فسفور,phosphorus
 فصل,chapter
 فضة,silver
 فعل,verb
+فلاحة,cultivation
+فلاحة,tillage
 فلاندرز,Flanders
 فلاندرز,Flemish region
-منطقة فلمنكية,Flanders
-منطقة فلمنكية,Flemish region
 فلسفة,philosophy
 فلك,astronomy
 فلكي,astronomer
@@ -1047,12 +1024,16 @@ Other,English
 فيجي,Fiji
 فيجي,Republic of the Fiji Islands
 فيزيولوجيا,physiology
+فيضان,alluvion
+فيضان,flood
+فيضان,inundation
+فيضان,overflowing
 فيل,elephant
 فيلولوجيا,philology
 فينلندي,Finnish
+فَارْسِي,Farsi
 فَارْسِي,Persian
 فَارْسِي,Western Farsi
-فَارْسِي,Farsi
 فَاصُولِيَا,bean
 فَاصُولِيَا,edible bean
 فَرَنسَا,France
@@ -1069,8 +1050,8 @@ Other,English
 قذف,ejaculation
 قرار، حكم، عزم,decision
 قرة باغ,Nagorno-Karabakh
-قرغيزستان,Kyrgyzstan
 قرغيزستان,Kyrgyz Republic
+قرغيزستان,Kyrgyzstan
 قرنبيط,cauliflower
 قصدير,tin
 قط,cat
@@ -1145,11 +1126,11 @@ Other,English
 كولونيا,Cologne
 كيريباس,Kiribati
 كيريباس,Republic of Kiribati
-كيف,arrange
+كيف,accommodate
 كيف,adapt
 كيف,adjust
+كيف,arrange
 كيف,conform
-كيف,accommodate
 كيف,suit
 كيلوغرام,kilogram
 كيمياء,chemistry
@@ -1164,9 +1145,10 @@ Other,English
 لاتيني,Latin
 لاغوس,Lagos
 لاهاي,The Hague
+لباس,dress
 لبن,milk
-لبنان,Lebanon
 لبنان,Lebanese Republic
+لبنان,Lebanon
 لتوانيا,Lithuania
 لتوانيا,Republic of Lithuania
 لسانيات اجتماعي,sociolinguistics
@@ -1177,9 +1159,9 @@ Other,English
 لغة تيلوغو,Telugu
 لغة تيلوغو,Telugu
 لغة رسمية,official language
+لغة لوكسمبورغية,Luxembourgian
 لغة لوكسمبورغية,Luxembourgish
 لغة لوكسمبورغية,Luxemburgish
-لغة لوكسمبورغية,Luxembourgian
 لغة هندية قديمة,Sanskrit
 لغة هندية قديمة,Sanskrit
 لفظة جديدة,neologism
@@ -1191,15 +1173,20 @@ Other,English
 لوحة مفاتيح,keyboard
 لورنسيوم,lawrencium
 ليبرالية,liberalism
-ليبيا,Libya
 ليبيا,Great Socialist People's Libyan Arab Jamahiriya
+ليبيا,Libya
 ليبيريا,Liberia
 ليبيريا,Republic of Liberia
 ليثيوم,lithium
-ليسوتو,Lesotho
 ليسوتو,Kingdom of Lesotho
+ليسوتو,Lesotho
 لُغَةٌ,language
 لُغَةٌ,tongue
+مؤسسة,company
+مؤسسة,corporation
+مؤسسة,enterprise
+مؤسسة,firm
+مؤسسة,venture
 ماء,water
 مارتينيك,Martinique
 ماساتشوستس,Massachusetts
@@ -1214,8 +1201,8 @@ Other,English
 متعهد,entrepreneur
 متلازمة داون,Down syndrome
 متلازمة داون,Down’s syndrome
-متّهَم,defendant
 متّهَم,accused
+متّهَم,defendant
 مثلث,triangle
 مجري,Hungarian
 مجلة,journal
@@ -1228,15 +1215,15 @@ Other,English
 مدغشق,Madagascar
 مدغشق,Republic of Madagascar
 مدونة,blog
-مدونة,weblog
 مدونة,web log
+مدونة,weblog
 مرارة,gallbladder
 مراكم,accumulator
 مرض السَّرقة,kleptomania
-مركب كيميائي,compound
-مركب كيميائي,chemical compound
-مركب,compound
 مركب,chemical compound
+مركب,compound
+مركب كيميائي,chemical compound
+مركب كيميائي,compound
 مريول,apron
 مزاد,auction
 مسبحة,rosary
@@ -1245,6 +1232,11 @@ Other,English
 مشاجرة,argument
 مشروب,beverage
 مشروب,drink
+مشروع,company
+مشروع,corporation
+مشروع,enterprise
+مشروع,firm
+مشروع,venture
 مشكلة,problem
 مشمش,apricot
 مشيمة,placenta
@@ -1254,8 +1246,8 @@ Other,English
 معًا,together
 مغنيسيوم,magnesium
 مف,screwdriver
-مفص,joint
 مفص,articulation
+مفص,joint
 مفيد,useful
 مقدوني,Macedonia
 مقدوني,Republic of Macedonia
@@ -1270,8 +1262,8 @@ Other,English
 مقصلة,guillotine
 مقصلة,guillotine
 مقصلة,guillotine
-مكان,place
 مكان,location
+مكان,place
 مكة,Mecca
 مكتبة,library
 ملاك,angel
@@ -1279,12 +1271,15 @@ Other,English
 ملاوي,Republic of Malaŵi
 ملحد,atheist
 ملغم,amalgam
-ملكـــــي,property
 ملكـــــي,asset
+ملكـــــي,property
 ملكيّة,possession
 مليء,full
-ممباي,Mumbai
 ممباي,Bombay
+ممباي,Mumbai
+مملكة بريطانيا العظمى وشمال إيرلندا المتحدة،,UK
+مملكة بريطانيا العظمى وشمال إيرلندا المتحدة،,United Kingdom
+مملكة بريطانيا العظمى وشمال إيرلندا المتحدة،,United Kingdom of Great Britain and Northern Ireland
 منبه,alarm clock
 منجم,astrologer
 منجنيز,manganese
@@ -1294,13 +1289,15 @@ Other,English
 منصة,stage
 منطقة جزر البليار الذاتية الحكم,Balearic Islands
 منطقة زمنية,timezone
+منطقة فلمنكية,Flanders
+منطقة فلمنكية,Flemish region
 مهجور,obsolete
 مهمة,assignment
 مهندس,engineer
 موتيت,motet
 مورفين,morphine
-موريتانيا,Mauritania
 موريتانيا,Islamic Republic of Mauritania
+موريتانيا,Mauritania
 موزمبيق,Mozambique
 موسكو,Moscow
 موسيقار,musician
@@ -1323,8 +1320,8 @@ Other,English
 مُطْلَقا,absolutely
 مُعَقِّ,disinfectant
 مُميَّز,characteristic
-مِصْرُ,Egypt
 مِصْرُ,Arab Republic of Egypt
+مِصْرُ,Egypt
 مِلْح,salt
 مِنْدِيل,napkin
 ناميبيا,Namibia
@@ -1332,18 +1329,18 @@ Other,English
 نبتونيوم,neptunium
 نجمة,star
 نحاس,copper
-نحال,beekeeper
 نحال,apiculturist
+نحال,beekeeper
 نحل,bee
 نحن,nosotros
 نحن,we
 نحّات,sculptor
-نرويج,Norway
 نرويج,Kingdom of Norway
-نزف,haemorrhage
+نرويج,Norway
 نزف,bleeding
-نسيج واهن,web
+نزف,haemorrhage
 نسيج واهن,spider web
+نسيج واهن,web
 نصيحة,advice
 نظارة,glasses
 نظارة,spectacles
@@ -1375,6 +1372,9 @@ Other,English
 هايتي,Republic of Haiti
 هدنة,armistice
 هرمون,hormone
+هضبة,colina
+هضبة,hill
+هضبة,loma
 هفنيوم,hafnium
 هلميوم,holmium
 هلوسة,hallucination
@@ -1396,8 +1396,8 @@ Other,English
 واحد,one
 واشنطن,Washington
 واضح,explicit
-والس وفوتونا,Wallis and Futuna
 والس وفوتونا,Territory of the Wallis and Futuna Islands
+والس وفوتونا,Wallis and Futuna
 وايومنغ,Wyoming
 وثني,heathen
 وثني,infidel
@@ -1411,6 +1411,7 @@ Other,English
 ويكي,wiki
 ويكيبيديا,Wikipedia
 ويل,Wales
+وَلَد,child
 وَلَدَ,deliver
 يأتي,come
 ياباني,Japanese
@@ -1440,6 +1441,5 @@ Other,English
 يُولْيُو,July
 يُونْيُو,June
 ‏السمريوم عنصر فلزي,samarium
-ﺍﺯﻧﻭﻟﻓﻧﺇ,influenza
 ﺍﺯﻧﻭﻟﻓﻧﺇ,flu
-arabic,english
+ﺍﺯﻧﻭﻟﻓﻧﺇ,influenza

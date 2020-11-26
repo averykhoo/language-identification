@@ -3,12 +3,11 @@ Other,English
 'Ium,loop
 'jita-na,short
 'kuklak,lock
--0,gerund present
 -0,"gerund past, nominative"
+-0,gerund present
 -a,essive
 -alla,denominative nominal
 -ar,plural
--är,plural
 -ch-,obl. stem of adj. sing. 3d cl.
 -da,genitive plural
 -di,genitive plural
@@ -19,26 +18,25 @@ Other,English
 -ji,desiderative
 -jin,imperative sing.
 -k,locative suffix
--k-e abl. III,lateral series
 -k ess. III,lateral series
+-k-e abl. III,lateral series
 -kle,affective
+-l (ess. II),"preverb ""above"""
 -l-e (abl. II),"preverb ""above"""
 -l-qa (all. II),"preverb ""above"""
--l (ess. II),"preverb ""above"""
 -miš-,obl. stem of adj. plur.
--n,past perfect
 -n,genitive
+-n,past perfect
 -na,genitive
 -nch-,lative
--ni,past contin
 -ni,genitive
+-ni,past contin
 -ni,past perfect
 -q-än,suffix of profession
 -q:-,obl. stem of adject. sing.
 -qa,suffix of a locative case
 -r,1t class marker (suff.)
 -s,dative
--š-,obl. stem plural
 -s:-,some locative series
 -sa+CM+ni,past perf. II
 -u,gerund past
@@ -46,43 +44,44 @@ Other,English
 -xe,conditional
 -xi,conjunctive
 -y,gerund past
+-är,plural
+-š-,obl. stem plural
+0,1st (masc.) class marker
 =axI:a-,to know
 =ij,oneself
 =ixe-,to become
-=ör-a,to go
 =uxa-,bear
 =yk:an-,to want
 =ykar-,to hurt
 =yq:Ia-,to go
-0,1st (masc.) class marker
+=ör-a,to go
 a,to be
 a=ga-,to throw
 a=gwal-,to get lost
 a=x:wa-,to stay
 a=xwan-,to run away
+aIbra-wuche,worm
+aImale,ass
 aca-,to know
 aca=kwan-,to bite
 ad,tubular bone
 aga-,to play
 aha-,to shoot
-aIbra-wuche,worm
-aImale,ass
 ajcar-as,to turn to ice
 ajxá,saw
 ak:a,door
-áke-,to find
 al-,"preverb ""above"""
 al-e=xa-,to melt
 al-ik:a-,to compel
-al-iš:e-,to buy
 al-ixas,to fly
+al-iš:e-,to buy
 ali-d,above
 alikaras,to roll
 alt-a=x:Ia-,to swell
 anaj,grandmother
 aq:a-,to take
-aqa-,to open
 aqI-n,wide
+aqa-,to open
 aqwa,sour cream
 arxIane,whey
 arxl,autumn wool
@@ -91,9 +90,9 @@ at:a,threshing-floor
 aw-a=qar-,overtake
 ax-ty-n,high
 b,adverbial suffix
-bada,trousers
 baIki,sheep-flock
 baIže,nostril
+bada,trousers
 balkan,horse
 barkw,bone
 batra-jyn,handsome
@@ -101,14 +100,13 @@ bis:i,cat
 bix,mattock
 bok,muzzle
 boš-na,deaf
-bycyc,kid
 byIt,tail
+bycyc,kid
 byrqIy-na,blind
 byx,mattock
 byzbyza,fly
 ca,fire
 cant:araj ješ,caraway
-cë,goat
 cec,bunch
 cedyn,new
 cele-n,naked
@@ -147,6 +145,7 @@ cuma,bride-groom
 cura,woman's adorned belt
 cuwul,autumn
 cywyl,autumn
+cë,goat
 d,4th class marker
 d-,not
 da,colostrum
@@ -158,8 +157,8 @@ didi,grandfather
 dik,millet
 dix,son
 do,name
-dülesyn,near
 dux,son
+dülesyn,near
 e-b,blood
 e=kwa-s,to sing
 eb,blood
@@ -171,8 +170,8 @@ ewa,odour
 ex:a,evening
 eza-,to plough
 g'-ogha-s,to rain
-g-e=š:e-,to weep
 g-e=ta-,to beat
+g-e=š:e-,to weep
 g-i-'ar,sit down
 g-ixe-,to put
 g-o=qa-,to suck
@@ -191,18 +190,18 @@ gaz,to milk
 gazaj,mattock
 ge-d,many
 gew,lamb
-gha=jk:a-,to let
-ghag,sheath
-ghal-i=xa-,to lie
-gharg,ram
-ghažes,see
-ghekwa,skin
 ghI-a=x:Ia-,choose
 ghIabriš,gooseberry
 ghIot,gullet
 ghIuma-n,warm
 ghIyje,hare
 ghIyl,summer
+gha=jk:a-,to let
+ghag,sheath
+ghal-i=xa-,to lie
+gharg,ram
+ghažes,see
+ghekwa,skin
 ghu,thou
 ghu-to=kal-,to burst
 ghul,window
@@ -238,6 +237,7 @@ h-e=že-,to polish
 h-i=kwar-,to dig
 h-i=xwa-,to run away
 h-o=ghal-,to wash
+hIywa,lentil
 ha-man,deictic (emphatic) stem
 ha=ata-,to die
 ha=qwar-,to break
@@ -246,18 +246,17 @@ hagwa-,to show
 hakan-,to go
 hala-x:war,pole
 heçw,to plane
-hï-d,in front
 hi-ik:a-s,to copulate
 hi-jo,which
 hi-šu,"which, who"
 hi=le-,give
 highlakar-,to fall
 hijo,what
-hIywa,lentil
 ho'o=xar-,to knit
 ho=chan-,squeeze
 huw-a=ž-,to guard
 hyIk:e-n,narrow
+hï-d,in front
 i-n,demonstrative pronoun
 i=kar-,to stir
 i=tal-,bind
@@ -293,8 +292,8 @@ joxara-n,lean
 juchu-,nine
 juchy,sister
 jugna,good
-juše,song
 jux:wa,copper
+juše,song
 jy-kry,sheep's fat tail
 jygh,day
 jyghI,bridge
@@ -302,11 +301,11 @@ jyq,soup
 jyqI,"back, ashes"
 jyqIana sini,spine
 jyqIy-n,heavy
-jyš,daughter
 jyv,tree
 jywa,iron
 jyxI,boiled fat
 jyxIá,pear
+jyš,daughter
 k-e=že-,to bake
 k-ega-,to scratch
 k-o=xar-,to boil
@@ -318,11 +317,10 @@ kakalaj,small stone
 kakan-,dig
 kamu,butter
 kan,bottom
-kána,to waddle
 kary-n,black
+kate,hen
 kaš,hammer
 kaškale,sweetbrier
-kate,hen
 kera,small axe
 kerket,a small thing
 kile=xan-,to forget
@@ -347,28 +345,29 @@ kuwar,young goat
 ky,malt
 ky-lin,small
 ky-zej,gall bladder
+kyIwaIn,thin
 kyca,upper part of shin
 kycacaj,sparrow
 kych,button
-kyIwaIn,thin
 kyl'kam,liver
 kyry,ear
+kána,to waddle
 lat,stone for watering cattle
 lax:a,oven for baking bread
-läxa,bracelet
 le-kwa,skin
 lukon,birch bark
+läxa,bracelet
 m-,a prohibitive particle
 ma',fat
 ma-n,demonstrative pronoun
+maIt:y-n,clean
 mac,furrow
 magh,ploughshare
 magha,nettle
 mahI,brain
-maIt:y-n,clean
-maš,pus
 mas:a heles,to sell
 maxi,cattle-shed
+maš,pus
 meg,burdock
 mex,handful
 mije,mint
@@ -400,12 +399,11 @@ nac,cane
 nagh,tear
 nak,dream
 nak,milk
-naqw,earth
 naqw,chaff
+naqw,earth
 nat,nit
 naxwari,mirror
 nek,cornfield
-nï,stench
 ni'i,smell
 ni-še,what
 niq:äj,strawberry
@@ -414,6 +412,7 @@ nož,wasp
 nuraj,pigeon
 nurxa,pigeon
 nušej,sheep
+nï,stench
 o=ca-,to flow
 o=kan-,to write
 o=qIa-,to swallow
@@ -439,20 +438,12 @@ q-oka-s,burn
 q-y=xe-,to go away
 q:-a=san-,to sleep
 q:-a=xe-,to hear
+q:Ian-na,pregnant
+q:Iaraq:Ian,magpie
 q:a'-axa-,to fall
 q:a-llä,twenty
 q:el,leg
-q:Ian-na,pregnant
-q:Iaraq:Ian,magpie
 q:urna,dry
-qac,chin
-qaghwa-,to smear
-qamchele,plait
-qaraca,knee
-qarqw,sheepskin coat
-qas,shelf for dishes
-qat,small beam
-qew,salt
 qI-y=che-,to rot
 qI:ybyna,yellow
 qIa-jam-ar,brothers' wives
@@ -466,6 +457,14 @@ qIo-llä,two
 qIow,mouse
 qIymyt,snot
 qIyt,step of stairs
+qac,chin
+qaghwa-,to smear
+qamchele,plait
+qaraca,knee
+qarqw,sheepskin coat
+qas,shelf for dishes
+qat,small beam
+qew,salt
 qlyqla-,coagulate
 qoche,wineskin
 qom,summit
@@ -475,9 +474,9 @@ qošä,strip of leather
 qul,cliff
 quq,egg
 qurek,ceiling
-quš,nose
 qusur,leather sack
 quwa,board
+quš,nose
 qy-chotkyri-n,hooked
 qyka,calf
 qyry,felt cloak
@@ -495,12 +494,8 @@ sant,mason's hammer
 saxwa-,to sweep
 semsälä,ant
 sen,year
-šen,that
 sera,ashes
-ši,we
 sili,tooth
-šin,bed-bug
-šit,bird
 siv,end
 so,bear
 sok,weasel
@@ -509,10 +504,8 @@ sole,wild turkey
 som,straw
 sos,bride
 su,oat flour
-šu,you
 suInt,dried snot in nose
 sulec-man,marten
-šum,quince
 sur-tuli,gullet
 sura,part
 sursul,icicle
@@ -553,7 +546,6 @@ vix,louse
 w,adverbial suffix
 waIš,hundred
 waz,month
-wëg,rennet
 wex:wa,sieve
 wis,mountain goat
 wo,to be
@@ -572,6 +564,18 @@ wydra,young he-goat
 wygyli-n,male
 wysyn,feather
 wyxIna,an intoxicating liquor
+wëg,rennet
+xIam,night
+xIane,star
+xIav,sky
+xIaxIa,road-metal
+xIe-r-na,big
+xIow,collar
+xIu,udder
+xIydyxI,buttock
+xIyje,stone pillar
+xIyn,cow's dung
+xIywa,crumb
 xa,wool
 xab-gä,bag
 xan,water
@@ -584,22 +588,11 @@ xaxali,mitten
 xeby-llä,three
 xew,load
 xewa,pitchfork
-xIam,night
-xIane,star
-xIav,sky
-xIaxIa,road-metal
 xid,"linden, manure"
-xIe-r-na,big
 xil,hand
 ximaI-n,liquid
 xink-ar,dumpling
-xIow,collar
 xirxi-man,slime
-xIu,udder
-xIydyxI,buttock
-xIyje,stone pillar
-xIyn,cow's dung
-xIywa,crumb
 xo-llä,five
 xoche,snake
 xuna-š:e,woman
@@ -623,3 +616,10 @@ zaza,prick
 zej,urine
 zu,I
 zylzam,spleen
+áke-,to find
+šen,that
+ši,we
+šin,bed-bug
+šit,bird
+šu,you
+šum,quince
