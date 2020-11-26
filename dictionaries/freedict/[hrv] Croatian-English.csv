@@ -2,10 +2,6 @@ Other,English
 "0,47 litara",pint
 "0,914 metara",yard
 048 mb/s,primary rate interface
-1,h10 channel
-1,h11 channel
-1,h12 channel
-1,octal number system
 1 200 bitova u sekundi,v.22
 1 nautička milja na sat,knot
 1.016047 metričke tone,long ton
@@ -15,31 +11,24 @@ Other,English
 100 km zračne linije,100 kilometres as the crow flies
 1609 metara,mile
 1852 metara,nautical mile
-2,octal number system
 "2,54 centimetra",inch
-200,v.21
 "28,349 grama",ounce
-3,octal number system
 300 boda,v.21
 312 mb/s,"digital signal, level 2"
 34 x 1 gonm,normal double eurcard
 384 kb/s,ho channel
 3:2 smanjenje (broja slika/s),3:2 pulldown
-4,octal number system
 42 galona tekućine na 15.4 stupnjeva c,barrel
 42 galona tekućine na 60 stupnjeva f,barrel
 472 mb/s,h10 channel
 4:2:2 komponentni sustav,4:2:2 component
-5,octal number system
 52 mb/s,"synchronous transport module ""n"""
 52 mb/s,synchronous transport module 1
 536 mb/s,h11 channel
 544 mb/s,"digital signal, level 1"
 55% odlazi na porez,55% goes for taxes
 55% odlazi na porez,55% goes to the taxman
-6,octal number system
 64 kb/s kanal (u isdn-u),b channel
-7),octal number system
 736 mb/s,"digital signal, level 3"
 84 mb/s,"synchronous transport signal ""n"""
 84 mb/s,synchronous transport signal 1
