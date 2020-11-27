@@ -1,7 +1,5 @@
 Other,English
-!,"exclamation mark, factorial (fx. 4! = 24)"
 ! (fx. 4!=1*2*3*4=24),factorial (fx. 4! = 24)
-""" ""","quotation marks, inverted commas"
 """begge højre""(latin)",ambidextrous
 """bjørneklo""",lever (timber)
 """efternavn""/filtypenavn",file extension
@@ -17,10 +15,7 @@ Other,English
 """skriftetid""",shrovetide
 """ved at dø af sult""",famished
 """æggeskal(-en)""","bike helmet, policeman (wearing helmet)"
-#,"number sign, hashtag"
 # (havelåge),# (hashtag)
-%,"percentage (1/100), parts per hundred"
-&,ambersand (Alt+38)
 & (Alt+38),ambersand (Alt+38) &
 'Politiets aktionsstyrke',Sweeney (The Flying Squad)
 "'Tåber farer ind ~""","'Fools rush in ~"""
@@ -61,7 +56,6 @@ Other,English
 (udvidet højrekliksmenu),jumplists (Win7)
 (zwsp),"zero width space, Alt+8203"
 * (multiplikationstegn(-et)),"* (multiplication sign), asteriks (*)"
--,"hyphen, minus"
 - med møje og besvær,"eke out (an existence), troublesome toil"
 - og dermed basta,- and that's flat
 -eller du må kalde mig Mads,"-or I'm a Dutchman, -or I'll eat my hat"
@@ -77,14 +71,10 @@ Other,English
 -mæssigt (f.x. tids-mæssigt),-wise
 -årig,"to denote the age, x-year-old (f.x. 5-year-old)"
 -årig (fx. 5-årig/femårig),x-year-old (fx. five-year-old)
-.,"point, full stop, dot, period"
 .BMP (billedformat),"BitMaP file format, .BMP"
 .TIFF (billedformat),"Tagged Image File Format, .TIFF"
-/,"slash, stroke, stroke (slash)"
 /= ikke lig med,"/= not equal to, Alt+8800, U+2260"
-0,zero
 0.01 sekund,jiffy
-0.01 €,eurocent (0.01 €)
 0.10 ha,rood (measurement - 0.25 acre)
 0.Beaufort - Stille 0-0.2 m/s,"Beaufort 0.- calm, Beaufort 0.(0-0.2 m/s)"
 0° Kelvin,0°K = -273.15°C
@@ -104,23 +94,17 @@ Other,English
 1/5 g (1 karat),carat (weight/200 mg)
 10 millioner (Indisk),crore (India)
 10 år,"decade, ten years"
-10-00,"officer down, ten-double zero"
 10.Beaufort-Storm,"Beaufort 10.-Whole gale/storm, 10.(24.5-28.4 m/s)"
 100 m løb,"100 m dash, 100 m sprinting event"
 100 m² = kvadratside 10 m,100 m² = 10 m square(d)
 100 pence,"pound, 1 £"
-1000 (10^3),chiliad
 1000 m² (ca.),rood (measurement - 0.25 acre)
-100000 (10^5),lack (lac-India)
-10000000 (10^7),crore (India)
 1024 bytes,kilobyte (2^10 bytes)
 105 pence (tidligere 21 sh.),guinea (gold coin)
 11.Beaufort-Stærk storm,"Beaufort 11.-Violent storm, 11.(28.5-32.6 m/s)"
 11te,eleventh
 12.5 cent,bit (coin)
 12.Beaufort-Orkan,"Beaufort 12.-Hurricane, 12.(> 32.7 m/s)"
-120,short gross (10 dozen)
-120,small gross (10 dozen)
 12te,12th
 13 (for en sikkerheds skyld),a baker's dozen
 13 masturbationer på 1 dag,bater's dozen
@@ -131,14 +115,12 @@ Other,English
 2 brødskiver med pålæg imellem,sandwich
 2 m * 2 m = 4 m²,two metres square(d)
 2 shilling (engelsk-gl.mønt),florin (English)
-2*2 = 2² = 4,square a number
 2. juledag (box-pakke),Boxing Day
 2. mosebog,Exodus (bible)
 2. påskedag,Easter Monday
 2. sal,third floor
 2. violin,second fiddle
 2.Beaufort - svag vind,"Beaufort 2.-light breeze, 2.(1.6-3.3 m/s)"
-20 £,quid
 21'ende,twenty first
 21-22. dec (vinter),solstice (winter)
 21-22. juni (sommer),solstice (summer)
@@ -160,7 +142,6 @@ Other,English
 4. mosebog,Numbers
 4.Beaufort - Jævn vind,"Beaufort 4.- Moderate breeze, 4.(5.5-7.9 m/s)"
 40° frost,forty below (-40°C/F)
-4^0.5 = 2,square root
 5 pægle (1.1175 liter),quart (1.1365 litre)
 5. gear,overdrive
 5. mosebog,Deuteronomy
@@ -181,7 +162,6 @@ Other,English
 90-års bryllupsdag(-en) (?),granite wedding (90 years)
 <> ikke lig med,<> not equal to
 <> ikke lig med/modsat,<> not equal to/opposite of
-=,equal sign
 > (Alt+062),> (larger than)
 > (større end),> (larger than)
 A.D. (anno domini),A.D. (After Christ - A.C.)
@@ -1069,9 +1049,7 @@ Ymer (Ymir-jætte),"Ymir (primeordial giant), Ymir (nordic myth)"
 Zeus (græsk gud),Zeus
 Zuidersøen,the Zuider Zee
 Zürich,Zürich
-\,"backslash, refers to the ""root"""
 ^ accent cirkumfleks,^ circumflex
-^(1/3),"Alt+8731, cubic root"
 a la (ligesom),"à la (like), like (~wise), similar, resembling"
 a la grecque mønster(mæander),"meander, Greek key pattern"
 a vista,at sight
@@ -57101,13 +57079,10 @@ zwsp (nul bredde mellemrum),"zwsp (zero width space), Alt+8203"
 ~ tilde,"~ tilde, ~ swung dash, swung dash (~)"
 ~64.8 mg (vægten af en kerne),grain (weight)
 "~hvor engle frygter at træde""","~where angles fear to tread"""
-£,pound (Sterling)
-§,paragraph
 ¨ accent trema,"¨ diaeresis, ¨ dieresis"
 © (Alt+ 0169),copyright
 ° (Alt+0176),"° (C-F-K-R), degree sign"
 ¶ (afsnitstegn(-et)),¶ (Pilcrow sign)
-¼,"Alt+0188, a fourth"
 ½ sødmælk,pinta
 Åbenbaringen (NT)(Johannes),Revelations (NT)
 Åbn!,Open! (command)

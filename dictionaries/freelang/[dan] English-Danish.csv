@@ -18,12 +18,7 @@ Other,English
 """ved at dø af sult"", forsulten, skrupsulten, udhungret",famished
 """æggeskal(-en)""",policeman (wearing helmet)
 """æggeskal(-en)"", cykelhjelm(-en)",bike helmet
-#,hashtag
-#,number sign
 # (havelåge),# (hashtag)
-%,parts per hundred
-%,percentage (1/100)
-&,ambersand (Alt+38)
 & (Alt+38),ambersand (Alt+38) &
 'Politiets aktionsstyrke',Sweeney (The Flying Squad)
 "'Tåber farer ind ~"", 'Tåber farer/tramper ind ~""","'Fools rush in ~"""
@@ -103,7 +98,6 @@ Other,English
 .BMP (billedformat),BitMaP file format
 .TIFF (billedformat),.TIFF
 .TIFF (billedformat),Tagged Image File Format
-/,stroke (slash)
 "/, bestryge, hug, kærtegn(-et), nulre, skråstreg, slag, slagtilfælde, streg, tag, tag (greb), åretag(-et)",stroke
 "/, divisionsstreg(-en), flænse, hug, rift, skråstreg, skære, slids, slidse",slash
 /= ikke lig med,/= not equal to
@@ -135,8 +129,6 @@ Other,English
 "10 millioner (Indisk), 10000000 (10^7)",crore (India)
 "10 år, tiår, årti(-et)",decade
 "10 år, årti(-et)",ten years
-10-00,officer down
-10-00,ten-double zero
 10.Beaufort-Storm,10.(24.5-28.4 m/s)
 10.Beaufort-Storm,Beaufort 10.-Whole gale/storm
 100 m løb,100 m dash
@@ -1213,9 +1205,7 @@ Ymer (Ymir-jætte),Ymir (primeordial giant)
 Zeus (græsk gud),Zeus
 Zuidersøen,the Zuider Zee
 Zürich,Zürich
-\,"refers to the ""root"""
 ^ accent cirkumfleks,^ circumflex
-^(1/3),cubic root
 "^(1/3), kubikrodstegn (^0.33333333)",Alt+8731
 a la (ligesom),like (~wise)
 a la (ligesom),resembling
@@ -59646,7 +59636,6 @@ zwsp (nul bredde mellemrum),zwsp (zero width space)
 "~ tilde, tilde (~)",~ swung dash
 "~64.8 mg (vægten af en kerne), 64.798918 mg",grain (weight)
 "~hvor engle frygter at træde""","~where angles fear to tread"""
-£,pound (Sterling)
 "§, afsnit(-et), artikel (i blad), paragraf, paragraf, rubrik",paragraph
 ¨ accent trema,¨ diaeresis
 ¨ accent trema,¨ dieresis
@@ -59654,7 +59643,6 @@ zwsp (nul bredde mellemrum),zwsp (zero width space)
 ° (Alt+0176),degree sign
 "° (Alt+0176), grad (C-F-K-R), grad(-en)",° (C-F-K-R)
 ¶ (afsnitstegn(-et)),¶ (Pilcrow sign)
-¼,a fourth
 "¼, kvart (en~)",Alt+0188
 ½ sødmælk,pinta
 Åbenbaringen (NT)(Johannes),Revelations (NT)
