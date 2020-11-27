@@ -8,7 +8,6 @@ primary rate interface"
 0914 metara,"0,914 metara
 
 yard"
-1,"H10 channel, H11 channel, H12 channel, octal number system"
 1 200 bitova u sekundi,V.22
 1 nautička milja na sat,knot
 10 base  2 koaksijalni kabel,"10 Base - 2 koaksijalni kabel
@@ -26,15 +25,12 @@ cable"
 1f šum,"1/f šum
 
 flicker noise"
-2,octal number system
-200,V.21
 254 centimetra,"2,54 centimetra
 
 inch"
 28349 grama,"28,349 grama
 
 ounce"
-3,octal number system
 300 boda,V.21
 312 mbs,"312 Mb/s
 
@@ -48,7 +44,6 @@ normal double eurcard"
 384 kbs,"384 kb/s
 
 HO channel"
-4,octal number system
 42 galona tekućine na 154 stupnjeva c,"42 galona tekućine na 15.4 stupnjeva C
 
 barrel"
@@ -61,7 +56,6 @@ barrel"
 472 mbs,"472 Mb/s
 
 H10 channel"
-5,octal number system
 52 mbs,"52 Mb/s
 
 synchronous transport module ""n"", synchronous transport module 1"
@@ -74,13 +68,9 @@ digital signal, level 1"
 55 odlazi na porez,"55% odlazi na porez
 
 55% goes for taxes, 55% goes to the taxman"
-6,octal number system
 64 kbs kanal u isdnu,"64 kb/s kanal (u ISDN-u)
 
 B channel"
-7,"7)
-
-octal number system"
 736 mbs,"736 Mb/s
 
 digital signal, level 3"
