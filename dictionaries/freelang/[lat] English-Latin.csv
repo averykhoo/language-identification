@@ -134,7 +134,7 @@ a ab abs (prep + abl),time - from
 a ab abs (prep + abl),with passive verbs - by
 a ab abs (prep + abl),with regard to
 "a ab abs (prep + abl), ab, abs, cum (with subjunctive), quandoquidem, quatenus/quatinus, quod (with time), quoniam, siquidem, utpote",since
-"a ab abs (prep + abl), post, post (+ acc.), postquam (conj.), praeter, secundum (+ inf.), secundum (adv.)",after
+"a ab abs (prep + abl), post, post (+ acc.), postquam (conj.), praeter, secundum (+ inf.), secundum",after
 "a ab abs (prep + abl), pro eo, quandoquidem, quia, quod, quoniam",because
 ab,of
 "ab, abs",ever since
@@ -362,10 +362,10 @@ abscindere,pluck
 "absconditus, occultus",concealed
 abscondo,secrete
 "abscondo, celo, occulto",to hide
-"absens, absens, absentis (adj.)",absent
-"absens, absentis (adj.)",gone
-"absens, absentis (adj.)",missing
-"absens, absentis (adj.), divello",away
+"absens, absens, absentis",absent
+"absens, absentis",gone
+"absens, absentis",missing
+"absens, absentis , divello",away
 "absimilis, dispar, dissimilis, distinctus, diversus",different
 "absisto, desino, desino (desiit)",desist
 absit,god forbid
@@ -396,7 +396,7 @@ absumere,liquidate
 "abundans, benignitas, uber",abundant
 "abundans, celebrus",abounding in
 "abundans, inundantia, proluvies, redundantia",overflowing
-"abundantia, affluencia, facultas, fertilitas, mammona, opes (pl.), ubertas",abundance
+"abundantia, affluencia, facultas, fertilitas, mammona, opes , ubertas",abundance
 "abundantia, almitas, largissimum, largitas, largitio, ubertas",bounty
 "abundantia, ubertas",plenty
 abunde,in great profusion
@@ -411,7 +411,7 @@ abyssus,hell
 "abætere, abitere, abscedere, abscedo, discedo (discessum ), egressio, recedo",depart
 "abætere, abitere, abscedere, discedo (discessum )",go away
 "abætere, abitere, abscedo, desolo, dimitto, discedo, eo, excedo (trans.), licentia",leave
-"ac, atque, et, itaque (adv.), quod (beginning sentence)",and
+"ac, atque, et, itaque , quod (beginning sentence)",and
 "acacia, acanthus",acacia
 accedo,(things)
 accedo,come near
@@ -629,7 +629,7 @@ adhuc,even now
 adhuc,till now
 adhuc,till then
 "adhuc, atqui (conj.), etiam, placidus, silens, tamen",still
-"adhuc, etiam, praeter, praeterea, super (adv.)",besides
+"adhuc, etiam, praeter, praeterea, super",besides
 adicio,to throw to
 "adicio, affatus, affor, aggredior, compello, oratio",address
 "adicio, tendo",to direct
@@ -740,10 +740,10 @@ adulator,adulator
 "adulescens, pusio",lad
 adulter,adulterer
 adultera,adulteress
-adultus (adj.),adult
-adultus (adj.),grown up
-adultus (adj.),of age
-"adultus (adj.), alesco, mitis, plenus, subolesco",mature
+adultus,adult
+adultus,grown up
+adultus,of age
+"adultus , alesco, mitis, plenus, subolesco",mature
 "aduro (adustum), extermino, exuro, exussum, flagrare",burn
 "aduro (adustum), incendo",to set fire to
 "aduro (adustum), ustilo ustulo",singe
@@ -766,10 +766,10 @@ adverbium,adverb
 adversor,fight back
 "adversor, obsto",to oppose
 "adversor, reluctor",resist
-adversus (adj.),opposing.
-adversus (adj.),opposite
-"adversus (adj.), adversus (prep. + acc.)",facing
-"adversus (adj.), infortunatus, miser",unfortunate
+adversus,opposing.
+adversus,opposite
+"adversus , adversus (prep. + acc.)",facing
+"adversus , infortunatus, miser",unfortunate
 "adversus (prep. + acc.), contra, contra (+ acc.), in (+ acc.)",against
 adverto,direct one's attention to
 advocatus,lawyer
@@ -945,7 +945,7 @@ algesco,to bcome cold
 algesco,to catch cold
 "algidus (-a, -um), algor, frigus, frigus, gelidus, gelu",cold
 alias,at another time
-"alias, alioqui (adv.), alioquin (adv.), aliter, alter (adv.), cetera, ceterum (adv.), secus",otherwise
+"alias, alioqui , alioquin , aliter, alter , cetera, ceterum , secus",otherwise
 alibi,elsewhere
 alibi,in other respects
 "alica, far farris",spelt
@@ -977,25 +977,25 @@ alio,for another purpos
 alio,person
 alio,to another place
 "alio, desino, exitus, expletio, extremitas, extremitas, finis, finis, peractio, terminus",end
-alioquin (adv.),in some respects
-"alioquin (adv.), universe",in general
+alioquin,in some respects
+"alioquin , universe",in general
 "alipes, pennipes",wing-footed
 "aliqua, aliqui, aliquis, aliquot, alquod, nonnullus, partim, pauci",some
 aliquando,occasionally
 "aliquando, denique, extremo, tandem, tandem",at last
 "aliquando, interdum, nonnumquam",sometimes
 "aliquando, umquam",at any time
-aliquanta (adj.),or some size
-"aliquanta (adj.), aliquantus (adj.), mediocris, modestus, modestus, modica, parcus",moderate
+aliquanta,or some size
+"aliquanta , aliquantus , mediocris, modestus, modestus, modica, parcus",moderate
 aliquanto,considerably
 aliquanto,somewhat
 aliquantulus,a bit
 aliquantulus,a little
 "aliquantulus, brevis, parvus minor minimus, substrictus, vegrandis",small
-"aliquantulus, parum minus minime (adv.), parvulus, parvus minor minimus",little
+"aliquantulus, parum minus minime , parvulus, parvus minor minimus",little
 "aliquantulus, vegrandis",diminutive
 aliquantum (noun),a good deal
-aliquantus (adj.),of some size
+aliquantus,of some size
 aliquatenus,to a certain extent
 "aliquid, aliquid, quispiam",something
 "aliquid, aliquis",somebody
@@ -1006,7 +1006,7 @@ aliquatenus,to a certain extent
 "aliquis, quilibet, quis, quispiam, quisquam",anyone
 "aliquis, quis, quislibet",anybody
 "aliquis, quislibet, ullus",any
-aliquo (adv.),in some direction
+aliquo,in some direction
 "aliquot, plura, plures",several
 aliquotiens,some times
 aliquoties,[sic](adverb)
@@ -1246,10 +1246,10 @@ anser,goose
 "antarcticus, inferus",southern
 "antarcticus, meridianus",south
 ante,ahead
-"ante (prep. + acc.), antea (adv.), per antea, prae pre (adv.), prius, priusquam (conj.), pro, pro (+ abl.)",before
+"ante (prep. + acc.), antea , per antea, prae pre , prius, priusquam (conj.), pro, pro (+ abl.)",before
 "ante (prep. + acc.), pro, pro (+ abl.)",in front of
-"ante, antea (adv.)",previously
-"ante, antea (adv.), olim, per antea, quondam",formerly
+"ante, antea",previously
+"ante, antea , olim, per antea, quondam",formerly
 antecedere,precede
 "antecedo, praecedo",to precede
 antecessor,predecessor
@@ -1530,7 +1530,7 @@ atrocitas,barbarity
 atrocitas,hashness
 "atrocitas, crudelitas",cruelty
 "atrocitas, immanitas",frightfulness
-"atrociter, crudeliter, misericorditer, truculenter (adv.)",cruelly
+"atrociter, crudeliter, misericorditer, truculenter",cruelly
 "atrociter, ingruenter, vehementer, violenter",violently
 atrox,terrible
 attentus,careful of one's property
@@ -1557,7 +1557,7 @@ attributa,assigned
 auarca,leather sandal worn by pyrenean peasants
 auctor,originator
 "auctorita, auctoritas, ditio, imperium, potentia, potestas, professor, regnum, sceptrum, vox",authority
-"auctorita, facultas, opulentia, potentia, potestas, praesentia, vis vires (pl.)",power
+"auctorita, facultas, opulentia, potentia, potestas, praesentia, vis vires",power
 auctorizo,authenticate
 "auctorizo, comprobo, confirmo",to confirm
 "auctus, augmentum, autus, incrementum",growth
@@ -1593,9 +1593,9 @@ austerus,rigid
 "austerus, puppis, severus",stern
 ausus,gamble
 "ausus, praesumo",dare
-"autem, autem, ceterum (adv.), quod (beginning sentence), sed, sed, tamen, tamen",but
+"autem, autem, ceterum , quod (beginning sentence), sed, sed, tamen, tamen",but
 "autem, autem, tamen, tamen, vero",however
-"autem, ceterum (adv.), iam, item, praeterea, quin etiam, super (adv.)",moreover
+"autem, ceterum , iam, item, praeterea, quin etiam, super",moreover
 "autem, etiam, morsus, quoque",also
 "autem, iam, tamen, tamen",yet
 "autem, nam, rursus, vicissim",on the other hand
@@ -1681,7 +1681,7 @@ barba,whiskers
 "barba, barba",beard
 barbare,barbarously
 barbare,uncouthly
-"barbare, immaniter, rabiose, truculenter (adv.)",savagely
+"barbare, immaniter, rabiose, truculenter",savagely
 barbaria,a country other than Greece or Rome
 barbaria,lack of culture
 barbaria,state of being uncivilized and/o
@@ -2330,7 +2330,7 @@ censeo,evaluate
 "censura, iudicium, opinio, sententia, sententia",opinion
 census,annual render
 census,census
-"census, dapes, divitiae divitie, facultas, mammona, opes (pl.), ops, opulentia, opulentia",wealth
+"census, dapes, divitiae divitie, facultas, mammona, opes , ops, opulentia, opulentia",wealth
 "census, hereditas, possessio, qualitas, vicus, villa",property
 "census, miseratio, vectigal",tax
 "census, ortus",-us
@@ -2396,7 +2396,7 @@ chalybs,sickel
 chaos,chaos
 chaos,tangle
 "charitas, donativum, holocaustum, pollicitas, vitualamen",offering
-"charta, epistola, epistola, epistula, litterae (pl.), tabellae",letter
+"charta, epistola, epistola, epistula, litterae , tabellae",letter
 "charybdis, gurges, turbo",whirlpool
 "chelys, testudo",tortoise
 chirographum,autograph
@@ -2517,7 +2517,7 @@ coactu,under compulsion
 "coactu, violenter",by force
 coactum,coercion
 coactum,compulsion
-"coactum, compello, construprare, vis, vis, vis vires (pl.)",force
+"coactum, compello, construprare, vis, vis, vis vires",force
 coactus,constrained
 coadunati,collected
 coadunatio,a gathering together
@@ -2546,7 +2546,7 @@ cogitatio,thorough consideration
 "cogito, reor",to think
 "cogito, rumino",ruminate
 cognatio,kindred
-cognatus (adj.),related by blood (noun)
+cognatus,related by blood (noun)
 cognomen,family name
 cognomen,nick-name
 cognomen,surname
@@ -2858,7 +2858,7 @@ confero,confer
 "confero, disputatio",debate
 "confero, disputo, dissero, tracto",discuss
 "confestim, confestim, continuo",without delay
-"confestim, continuo (adv.), iam, ilicet, ilico, illico, protinus, statim",immediately
+"confestim, continuo , iam, ilicet, ilico, illico, protinus, statim",immediately
 confidenter,beyond a shadow of a doubt
 confido,be confident of
 confido,have confidence in
@@ -3174,7 +3174,7 @@ contingo (contactum),to touch closely
 continuo,forthwith
 continuo,to be after
 continuo,to join (together)
-"continuo (adv.), simul, statim",at once
+"continuo , simul, statim",at once
 continuus,connected together
 "continuus, continuus, perennis, perpetuus",uninterrupted
 "continuus, deinde, exinde, porro, postea, posterus, postremo, proximus, tunc",next
@@ -3245,7 +3245,7 @@ copia cornu,fruitful and abundant supply
 copiae copie,forces
 "copiae copie, gregatim",troops
 "copiae copie, penus, us, venalia, victualia",supplies
-"copiose, plene (adv.)",fully
+"copiose, plene",fully
 "copiose, tandem",at length
 copiosus,abundantly provided
 copiosus,plentiful
@@ -3303,8 +3303,8 @@ coutor,have dealings with
 crapula,intoxication
 crapula,wine-drinking
 "crapula, crapula",drunkenness
-cras (adv.),on the morrow
-"cras, cras (adv.)",tomorrow
+cras,on the morrow
+"cras, cras",tomorrow
 crassus,fatty
 crassus,greasy
 crastinus,of the morrow
@@ -3567,7 +3567,7 @@ curtus,gelded
 curtus,shortened
 "curtus, laceratus",mutilated
 curvo,to bow
-"curvo, duco, induco indux inductum, moveo moti motum, pulsus, vis vires (pl.)",influence
+"curvo, duco, induco indux inductum, moveo moti motum, pulsus, vis vires",influence
 "curvo, inclino, inclino, incurvo (-are), inflecto inflexi inflectum, lento, vergo",to bend
 "curvo, incurvo (-are), inflecto inflexi inflectum, sinus",curve
 "curvus, fornicatus, pandus",arched
@@ -3693,8 +3693,8 @@ decoctor,a spendthrift
 decoctor,bankrupt
 decollo (-are),to behead
 decolo (-are),to trickle away
-decolor (adj.),without color
-"decolor (adj.), pallens, pallidus, palus, stilus",pale
+decolor,without color
+"decolor , pallens, pallidus, palus, stilus",pale
 decoloratio,discoloration
 decoquo,(metals)
 decoquo,boil away
@@ -3788,7 +3788,7 @@ degenero,to cause to degenerate
 degero,to pass time
 "degusto, gusto",to taste
 deinde,from that place
-"deinde, ergo (adv.), exinde, mox, tum, tum, tunc",then
+"deinde, ergo , exinde, mox, tum, tum, tunc",then
 "deinde, inde",thereafter
 "deinde, post modum, postea, postea",afterwards
 "delectabilis, dulcis, jucundus, voluptuosus",delightful
@@ -4206,7 +4206,7 @@ divinitus,divine influence
 "divinitus, generose",nobly
 divinus,divine
 "divinus, sacer, sanctus",sacred
-"divitiae divitie, opes (pl.), opulentia",riches
+"divitiae divitie, opes , opulentia",riches
 divulgatio,publishing
 divulgatio,spreading abroad
 do,donate
@@ -4511,8 +4511,8 @@ eo ire itum,travel
 "eo, incedo, ire, tendo, vadere, vado",go
 "eo, prodeo",to advance
 episcopalis,episcopal
-"epistola, epistula, litterae (pl.)",epistle
-"epistola, epistula, litterae (pl.)",missive
+"epistola, epistula, litterae",epistle
+"epistola, epistula, litterae",missive
 "epistola, epistula, mandatum, nuntius",message
 epitaphium,funeral oration
 epithalamium,wedding song
@@ -4557,8 +4557,8 @@ ereptio,confiscation
 "ereptor, furs, raptor",thief
 "ereptor, latro, latrunculus, prædator, vispilio",robber
 ergastulum,a workhouse for slaves
-"ergo (adv.), ideo, igitur, igitur, itaque (adv.), proinde",therefore
-"ergo (adv.), secundum",accordingly
+"ergo , ideo, igitur, igitur, itaque , proinde",therefore
+"ergo , secundum",accordingly
 "ergo (gen. +), præ, propter (+ acc.)",because of
 ericius (mil.),chevaux de frise
 ericius (mil.),hedgehog
@@ -4966,7 +4966,7 @@ extollo,to praise exaggerate
 extorqueo,dislocate
 extorqueo,extort by force
 extra,outside of
-"extra (prep. + acc.), praeter, praeter, super (adv.), ultra (+ acc.)",beyond
+"extra (prep. + acc.), praeter, praeter, super , ultra (+ acc.)",beyond
 extraho,prolong
 extraho,protract
 extraho,to draw forth
@@ -5067,8 +5067,8 @@ factum,accomplishment
 "factum, labor, labor laboris, laborare, opera, operatio, opus, opus operis",work
 facultas,feasibility
 "facultas, facultas, potestas",ability
-"facultas, opes (pl.)",means
-"facultas, opes (pl.)",resources
+"facultas, opes",means
+"facultas, opes",resources
 "facultas, recondo, repono",store
 facunde,eloquently
 "facunde, volubiliter",fluently
@@ -5200,7 +5200,7 @@ fere,well-nigh
 ferinus,brutal
 feritas,wildness
 "feritas, ferocitas",savageness
-"feriter, truculenter (adv.)",fiercely
+"feriter, truculenter",fiercely
 ferito,deal blows
 ferito,lash out
 "ferito, objurgo, pugno",to fight
@@ -5777,7 +5777,7 @@ habitus,in a certain condition
 hac,this side
 hac,this way
 hac (fem. sing. abl.),He who lives BY THIS (the sword).
-"hac, hic, hic (adv.)",here
+"hac, hic, hic",here
 hactenus,hitherto
 hactenus,up to this point
 hae he (fem. plur. nom),THESE (speeches)
@@ -6153,7 +6153,7 @@ in excelsis,in the highest
 "in, in (+ abl.)",in
 "in, in (+ acc.)",into
 "in, intus",within
-"in, penitus (adv.)",inside
+"in, penitus",inside
 inaestimabilis,inestimable
 inaestimandus,invaluable
 inanis,inane
@@ -6449,7 +6449,7 @@ infensus,agressive
 inferi,those down below
 "inferi, silenti etc",the dead
 inferne,on the lower side
-"inferne, inferus, infra (+ acc.), infra (adv.), sub, sub (+ acc. or dat.), subter, subter supter",below
+"inferne, inferus, infra (+ acc.), infra , sub, sub (+ acc. or dat.), subter, subter supter",below
 infero,be troublesome
 infero,put or place on
 infero,to carry in
@@ -6549,9 +6549,9 @@ informis,shapeless
 infortunatus,unhappy
 "infortunatus, laevus levus",unlucky
 "infortunium, livor, piaculum, poena, supplicium, ultio ultionis",punishment
-infra (adv.),in the underworld
-infra (adv.),to the south
-"infra (adv.), subter supter",underneath
+infra,in the underworld
+infra,to the south
+"infra , subter supter",underneath
 infra inferius infimus,low down
 infractio,a breaking
 infractio,infractio aninimi dejection
@@ -6831,7 +6831,7 @@ intentus,tense
 intentus,thorough
 inter (+ acc.),between
 inter canem et lupum,at twilight
-"inter, truculenter (adv.)",roughly
+"inter, truculenter",roughly
 "intercapedo, interpolatio, spatium",interval
 "intercapedo, tractus",space
 intercipio intercepi intercep,to intercept
@@ -6958,7 +6958,7 @@ irruo,to rush into
 is ea id,this
 iste ista istud,sometimes pejorative
 ita ut (with subj.),in such a way that
-"ita, itaque, itaque (adv.), sic, tam, tam",so
+"ita, itaque, itaque , sic, tam, tam",so
 "ita, sic",thus
 "itaque, postea",subsequently
 "item, juxta, pariter",likewise
@@ -7108,7 +7108,7 @@ lacero,squander money
 lacerta,lizard
 lacertosus,muscular
 lacertus,the upper arm
-"lacertus, robur, vis, vis vires (pl.)",strength
+"lacertus, robur, vis, vis vires",strength
 lacrima,exudations from some plants
 lacrima,tear
 lacrimabilis,woeful
@@ -7199,7 +7199,7 @@ lasesco,grow weary
 lasesco,to become tired
 late,broadly
 late,extensively
-"late, laxe, laxe, penitus (adv.)",widely
+"late, laxe, laxe, penitus",widely
 latebra,covert
 latebra,hidden recess
 latenter,in a concealed manner
@@ -7462,11 +7462,11 @@ litis,fracas
 "litis, praelium, proelium, pugna, pugna",battle
 lito,to propitiate
 littera,letter (of the alphabet)
-litterae (pl.),literature
-"litterae (pl.), nota",note
+litterae,literature
+"litterae , nota",note
 livor,black and blue mark
 livor,malice
-loci (pl.),passages in literary works
+loci,passages in literary works
 loco,to assign
 "loco, officium, positus",position
 "loco, tribuo",allot
@@ -7577,7 +7577,7 @@ magnifico,to extol
 "magnificus, splendidus",magnificent
 "magus, veneficus",magical
 maiestas,majesty
-maiores (pl.),ancestors
+maiores,ancestors
 major domus,Mayor of the Palace
 major domus,chief steward
 "majores, majores natu",elders
@@ -7720,7 +7720,7 @@ mihi (dat.),lots of land
 miles militis,knight
 "miles, miles militis",soldier
 "miles, pignus, pignus",pawn
-milia (pl.),thousands
+milia,thousands
 militaris -e,of a soldier
 militus,milled (of grain)
 mille,a thousand
@@ -7812,7 +7812,7 @@ moere,bemoan
 moestifer,sorrowful
 moles,huge bulk
 moles,massive building
-"moles, opulentia, potentia, vis vires (pl.)",might
+"moles, opulentia, potentia, vis vires",might
 moleste,moleste fero I take annoyance
 moleste,take annoyance
 moleste fere,to be vexed
@@ -7981,9 +7981,9 @@ necessarius,essential
 necessarius,needed
 necessarius,needful
 necessarius,things needed
-"necessarius, necesse (adj.)",necessary
-necesse (adj.),indispensable
-necesse (adj.),unavoidable
+"necessarius, necesse",necessary
+necesse,indispensable
+necesse,unavoidable
 necessitas,exigency
 necessitas,unavoidability
 necne,or not
@@ -8033,9 +8033,9 @@ nihildom,nothing as yet
 "nihilominus nichilominus, verumtamen verumptamen",notwithstanding
 "nimirum, quippe, scilicet",of course
 nimis,adv. too much
-"nimis (adv.), nimium (adv.)",too much
-"nimis, nimis (adv.), nimium (adv.)",overmuch
-"nimis, nimis (adv.), nimium (adv.), per (prefix to an adjective)",excessively
+"nimis , nimium",too much
+"nimis, nimis , nimium",overmuch
+"nimis, nimis , nimium , per (prefix to an adjective)",excessively
 nisi,if not
 nisi,unless
 niteo,be sleek
@@ -8286,7 +8286,7 @@ omnigenus,of all kinds
 omnimodus,universal
 omnino,altogether
 "omnino, penitus (adverb)",entirely
-"omnino, penitus (adverb), plene (adv.)",wholly
+"omnino, penitus (adverb), plene",wholly
 omnipotens,all-powerful
 omnipotens,almighty
 omnipotens,omnipotent
@@ -8548,7 +8548,7 @@ pario,peperi
 pario,to spawn
 pariter,alike
 pariter,as well
-"pariter, simul, simul, una (adv.)",together
+"pariter, simul, simul, una",together
 "pariter, simul, unus",at the same time
 paro,get ready
 paro,to prepare
@@ -8562,8 +8562,8 @@ particeps,sharer
 "particeps, socius",partner
 partim,partly
 parum,too few
-"parum, parum minus minime (adv.)",not enough
-"parum, parum minus minime (adv.)",too little
+"parum, parum minus minime",not enough
+"parum, parum minus minime",too little
 parumper,for a bit
 parumper,for a moment
 "parumper, paulisper",for a little while
@@ -8688,8 +8688,8 @@ penintentiarius,penintentiary
 penitens (penitentis),a penitent
 penitentia,penance
 penitio,to do penance
-penitus (adv.),through and through
-"penitus (adv.), plene (adv.), quamtotius",completely
+penitus,through and through
+"penitus , plene , quamtotius",completely
 penitus (adverb),thoroughly
 "penitus (adverb), sagaciter",accurately
 "penna, penna, pennae, pinna",wing
@@ -9029,8 +9029,8 @@ pluo,to rain
 plurimi,at the highest price
 plurimi,of the highest worth
 plurimus,most
-pluris (gen.),at a higher price
-pluris (gen.),of a great value
+pluris,at a higher price
+pluris,of a great value
 plusculus,rather more
 plusculus,somewhat more
 pluvialis,pertaining to rain
@@ -9083,7 +9083,7 @@ possum,to be capable
 possum posse potum,avail
 possum posse potum,have influence
 "possum, possum posse potum, queo",to be able
-"post (+ acc.), pyga, secundum (adv.)",behind
+"post (+ acc.), pyga, secundum",behind
 post modum,shortly
 post tergum,[left] behind
 "posteri, posteritas",posterity
@@ -9103,14 +9103,14 @@ potestas,legal competence
 potior,to [+ abl] obtain
 potior (+ gen. or dat.),to possess
 "potior (+ gen. or dat.), usurpo",get possession of
-potissimum (adv.),most of all
-"potissimum (adv.), praecipue, precipue, precipue, presertim praesertim",chiefly
+potissimum,most of all
+"potissimum , praecipue, precipue, precipue, presertim praesertim",chiefly
 potissimus,best of all
 "potissimus, princeps",principal
 potius,comp. adj
 potius,preferably
 "potius, quatenus, quatenus/quatinus",in order that
-prae pre (adv.),in front
+prae pre,in front
 "prae se ferre, pre se ferre",exhibit
 praebalteata,girded
 praecautus,on one's guard
@@ -9681,8 +9681,8 @@ pyropus,bronze
 pyus pyxidis,a little box
 pyus pyxidis,casket
 pæninsula,peninsula
-qua (adv.),by which route
-"qua (adv.), quo, ubi",where
+qua,by which route
+"qua , quo, ubi",where
 qua (fem. sing. abl.),(the abbess)
 quadra,dining table
 quadraginta,forty
@@ -10976,8 +10976,8 @@ suo,to stitch
 supellectilis,goods
 supellectilis,household furniture
 super (prep.),(+ abl.)
-"super, super (adv.)",over
-"super, super (adv.), superne, supernus, superus superior supremus or, supra (+ acc.)",above
+"super, super",over
+"super, super , superne, supernus, superus superior supremus or, supra (+ acc.)",above
 superabundo-avi,to be very abundant
 superbiens,domineering
 superbus,overbearing
@@ -11327,7 +11327,7 @@ triumphalis,triumphal
 triumphus,triumphal procession
 trucido,slaught
 trucido,to kill cruelly
-truculenter (adv.),wildly
+truculenter,wildly
 trudo,to thrust
 trunco,imperfect
 trunco,maim
@@ -11420,7 +11420,7 @@ umbra,shade
 umbra,shadow
 umerus humerus,shoulder
 umerus humerus,upper arm
-una (adv.),in one
+una,in one
 "una, unum, unus, unus",one
 unanimis,of one mind
 uncia,a twelfth
@@ -11691,7 +11691,7 @@ vicus,quarter (or a city)
 "vicus, villa",ranch
 "vicus, villa",village
 videlicet,it is clear
-videlicet (adv.),(ironically)
+videlicet,(ironically)
 video vidi visum,to see
 videor,seem
 videor,to be seen
