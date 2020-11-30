@@ -15565,3 +15565,25 @@ definitions = {
     'mekanik':               'mechanic',
     'akauntan':              'accountant',
 }
+
+if __name__ == '__main__':
+    import re
+
+    import pandas as pd
+
+    RE_DEF = re.compile(r'\(\d+\)(?P<def>[^(]+)')
+    rows = []
+    for other, eng in definitions.items():
+        if re.search(r'\(\d', eng):
+            for match in RE_DEF.finditer(eng):
+                rows.append((other, match.group('def')))
+        else:
+            rows.append((other, eng))
+
+    rows = [(other.strip().casefold(), x.strip().casefold())
+            for other, eng in rows
+            for x in eng.split(';')]
+
+    df = pd.DataFrame(rows, columns=['Other', 'English'])
+
+    df.to_csv('[zsm] Malay-English.csv', encoding='utf8', index=False)
