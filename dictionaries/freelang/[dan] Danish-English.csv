@@ -98,9 +98,9 @@ Other,English
 100 m løb,"100 m dash, 100 m sprinting event"
 100 m² = kvadratside 10 m,100 m² = 10 m square(d)
 100 pence,"pound, 1 £"
-1000 m² (ca.),rood (measurement - 0.25 acre)
+1000 m²,rood (measurement - 0.25 acre)
 1024 bytes,kilobyte (2^10 bytes)
-105 pence (tidligere 21 sh.),guinea (gold coin)
+105 pence,guinea (gold coin)
 11.Beaufort-Stærk storm,"Beaufort 11.-Violent storm, 11.(28.5-32.6 m/s)"
 11te,eleventh
 12.5 cent,bit (coin)
@@ -203,7 +203,7 @@ Anatolien (syd for Ankara),Anatolia(ca.middle of Turkey)
 Anders And (tegneserie figur),Donald Duck (cartoon)
 Andersine And,Daisy Duck (cartoon)
 Andreaskors(-et),"St. Andrew's Cross, X-cross, saltire (Alt+9747)"
-Anno Domini (A.D.),"Anno Domini (A.D.), in the year of our Lord"
+Anno Domini,"Anno Domini (A.D.), in the year of our Lord"
 Antonius kors,"Saint Anthony's cross, Tau cross (T)"
 Anubis (ægyptisk dødsgud),"Anubis (jackal-headed), Egyptian God (Death)"
 ApS,Ltd. (Limited)
@@ -394,7 +394,7 @@ Haag (by i Holland),Hague
 Hamborg,Hamburg
 Hannover,Hanover
 Hans Hellighed (~Paven),Your Holiness (~Pope -)
-Hans/Hendes Majestæt (H.M.),His/Her Majesty (H.M.)
+Hans/Hendes Majestæt,His/Her Majesty (H.M.)
 Hansestæderne,"Hanseatic League, Hanseatic towns"
 Harald,Harold
 Harald Hildetand,Harold Wartooth
@@ -529,7 +529,7 @@ Klodshans,Clumsy Hans (HCA)
 Klokkeblomst (Peter Pan),Tinker bell (Peter Pan)
 Knopsvane (Cygnus olor),Mute Swan
 Knud (den store),Canute (the great)
-Konen med æggene (H.C.A.),The woman with the eggs (poem)
+Konen med æggene,The woman with the eggs (poem)
 Kongebog 1. (GT),Kings 1. (OT)
 Kongebog 2. (GT),Kings 2. (OT)
 Kongelig hofleverandør,purveyor to the Royal Court
@@ -597,7 +597,7 @@ Malaysia (Malajsia),Malaysia
 Man (øen),Isle of Man
 Manchuriet,Manchuria
 Maria den blodige,Bloody Mary
-Maria himmelfartsdag (15.aug.),Assumption Day of Mary
+Maria himmelfartsdag,Assumption Day of Mary
 Mariæ bebudelse,Annunciation-the Virgin Mary
 Markus,Mark (St. Mark)
 Markusevangeliet,Gospel according to St. Mark
@@ -716,7 +716,7 @@ Orkneyøerne,"Orkney Islands, the Orkneys"
 Ostende,Ostend
 Ostindien,the East Indies
 Overhuset,House of Lords
-P.S. (p.s.),"post scriptum, P.S."
+P.S.,"post scriptum, P.S."
 PC,"computer, Portable Computer, PC"
 PDF,Portable Document Format
 Pagtens Ark,Ark of the Covenant
@@ -862,7 +862,7 @@ Sovietunionen,"Soviet Union, U.S.S.R."
 Spanien,Spain
 Spanien - spanier - spansk,Spain - Spaniard - Spanish
 Spansk,Spanish
-St. Valentins dag (14 feb.),Valentine's day (Feb. 14)
+St. Valentins dag,Valentine's day (Feb. 14)
 Start øvelse,Start practice
 Stenbukken (stjernetegn),"Capricorn, begin winter (N hemisphere)"
 Stenbukkens vendekreds,Tropic of Capricorn (the~)
@@ -1842,8 +1842,8 @@ allegor(-en),allegory
 allegretto (hurtigt),allegretto
 allegro (hurtigt-livligt),allegro
 allegro (livligt),allegro (quick/lively tempo)
-allehelgensaften (31. okt.),All Saint's Eve (Halloween)
-allehelgensdag (1. nov.),halloween
+allehelgensaften,All Saint's Eve (Halloween)
+allehelgensdag,halloween
 allehelgensdag(-en),"All Hallows, All Saints' Day"
 allehånde,"allspice, pimento"
 allemandsret,"right of access, free access to countryside"
@@ -6415,7 +6415,7 @@ cinders,"furnace coke, coke"
 cinnober,cinnabar
 cinnoberrød,vermillion
 cirka,"roughly, about, approximately"
-cirka (ca.),"circa (ca), approximately (approx)"
+cirka,"circa (ca), approximately (approx)"
 cirkel(-en),circle
 cirkelbevis,"circular reasoning, circular proof"
 cirkelbevis(-et),"begging the question, arguing in a circle"
@@ -7489,13 +7489,13 @@ docent(-en),"lecturer, reader, assistant professor"
 docentur,lectureship
 docere,"lecture on, teach, lecture, lay down the law"
 docerende,didactic
-doctor (dr.jur.),doctor of laws (L.L.D)
-doctor (dr.med.),Doctor of Medicine (M.D.)
-doctor (dr.phil.),Doctor of Philosophy (Ph.D)
+doctor,doctor of laws (L.L.D)
+doctor,Doctor of Medicine (M.D.)
+doctor,Doctor of Philosophy (Ph.D)
 doctor (dr.scient),Doctor of Science (D.Sc.)
-doctor (dr.theol.),Doctor of Divinity (D.D.)
-doctor (odont.),Doctor-Dental surgery (D.D.S.)
-doctor (techn.),Doctor of Engineering (D.Eng.)
+doctor,Doctor of Divinity (D.D.)
+doctor,Doctor-Dental surgery (D.D.S.)
+doctor,Doctor of Engineering (D.Eng.)
 dodekaeder (tolvkant),dodecahedron (12 sided)
 dodenkop (farve),caput mortuum
 dog,"though, however, yet, still, after all, really"
@@ -7612,7 +7612,7 @@ drag,"gulp, whiff, draught"
 drage bort,migrate
 drage i tvivl,"impeach, question"
 drage omsorg for,care (taking ~)
-drage(-en) (papir etc.),kite
+drage(-en),kite
 drageflyvning(-en),hang-gliding
 dragende,"fascinating, compelling, alluring"
 drager(-en),porter
@@ -7735,7 +7735,7 @@ drillesyg,mischievous
 drillevorn,"mischievious, teasing"
 drilsk,"impish, mischievious, teasing"
 drink,"tipple, piña colada"
-drink (v.solnedg.),sundowner
+drink,sundowner
 drink(med rå æggeblomme),prairie oyster
 dristig,"audacious, bold, intrepid, racy"
 dristig,"audacious, bold, intrepid, racy, bodacious"
@@ -8766,7 +8766,7 @@ ekstra job,side line
 ekstra lang,"XL, extra long"
 ekstra stor,"XL, extra large, outsize"
 ekstraafgift(-en),surcharge
-ekstraapparat (tlf.),extension
+ekstraapparat,extension
 ekstraapparat(-et),extension (telephone)
 ekstraarbejde(-et),extra work
 ekstrabetaling(-en),"extra charge, extra pay"
@@ -8984,7 +8984,7 @@ en der får tingene gjort,go-getter
 en der går på indkøb,shopper
 en der lider af spedalskhed,leper
 en der pjækker,"absentee, truant"
-en der ringer op (tlf.),caller
+en der ringer op,caller
 en der roder i andres affald,scavenger
 en der ser godt ud,looker
 en der slår sig fast ned,settler
@@ -9497,7 +9497,7 @@ et andet ord for,byword
 et bagholdsangreb,"a stab in the back, an ambush"
 et blødt punkt,a soft spot
 et brændevinsbrænderi,a still
-et cetera (etc.),"et cetera (etc.), and so on"
+et cetera,"et cetera (etc.), and so on"
 et dyrs hule,den
 et eller andet,something
 et eller andet andet sted,somewhere else
@@ -10117,7 +10117,7 @@ fedevarer,delicatessen
 fedladen,"fattish, somewhat stout, chubby, tubby"
 fedme(-en),"obesity, fatness, corpulence"
 fedronning(-en),fairy queen
-fedt (sl.),beaut (great)
+fedt,beaut (great)
 fedt job,"gravy train, the primrose path"
 fedt(-et),"fat, grease, brill, lard, dripping"
 fedtagtig,fatty
@@ -11140,7 +11140,7 @@ fnug(-et),"fluff, down, flake, fuzz"
 fnys(-et),snort
 fnyse,"fume, snort"
 fnøs,snorted
-fob (f.o.b.),free on board
+fob,free on board
 fobi(-en),phobia
 fod (dansk),foot (Danish 31.385 cm)
 fod (engelsk),"foot (30.48 cm), feet"
@@ -16544,7 +16544,7 @@ gøre en dyd af nødvendigheden,make a virtue of necessity
 gøre en myg til en elefant,make a mountain of a molehill
 gøre en tjeneste,a good turn
 gøre ensartet,unify
-gøre et ophold (rejse f.x.),stop over
+gøre et ophold,stop over
 gøre et stort nummer ud af,make a song and dance about
 gøre fast,belay
 gøre fjendtlig,alienate
@@ -19679,7 +19679,7 @@ høflighedsvisit,"formal call, courtesy visit"
 høg,hawk
 høg (politisk),hardliner
 høg over høg,"diamond cut diamond, involved intricate situation"
-høg over høg (ca.),dog eat dog
+høg over høg,dog eat dog
 høg over høg situation,"wheels within wheels, cutthroat competition"
 høgeugle,hawk owl
 høhøst,"haymaking, hay crop"
@@ -20518,7 +20518,7 @@ indbygger(-en),inhabitant
 indbyggerantal(-et),"population, number of inhabitants"
 indbygget,"built into, built-in, intrinsic, implicit, inhere"
 indbygget forældelse,planned obsolescence
-indbygget forøgelse (fx.),incremental
+indbygget forøgelse,incremental
 indbygget skab,fitment
 indbyrdes,"reciprocal, mutual, between ourselves"
 indbyrdes belægtet,interelated
@@ -21495,7 +21495,7 @@ jakkesæt(-et),"suit, lounge suit, seersucker suit (stribed)"
 jakobiner(-en),Jacobin
 jakobsstige(-en),"Jacob's ladder, phlox (plant)"
 jalousi (skinsyge),jealousy
-jalousi (vindue m.v.),"Venetian blind, roll front"
+jalousi,"Venetian blind, roll front"
 jalousiskab(-et),roll-front cabinet
 jalousiskrivebord(-et),roll-top desk
 jaloux,jealous
@@ -21878,7 +21878,7 @@ jævndøgn,eqiunox
 jævne,"flatten, make level, thicken(f.x. a sauce), common"
 jævne (sovs),thicken
 jævne med jorden,"raze, level, flatten"
-jævnfør (jf.),compare (cf.)
+jævnfør,compare (cf.)
 jævnføre,compare
 jævnførelse,comparison
 jævnhed,"evenness, smoothness, uniformity, plainness"
@@ -23355,7 +23355,7 @@ kneble,"gag (muffle), muffle"
 knebre,"chatter, jabber, gabble"
 knejpe(-en),"low-class pub, speak-easy, dive, honky-tonk"
 knejse,"flaunt, tower, strut, swagger"
-kneppe (sl.),"screw, fuck (intercourse)"
+kneppe,"screw, fuck (intercourse)"
 knevre,"chatter, jabber, gabble"
 knibe,"pickle, pinch, scrape, in a fix, a difficulty"
 knibe munden sammen,pucker (one's mouth)
@@ -23635,7 +23635,7 @@ kollidere,"collide, clash with (figuratively)"
 kollision(-en),collision
 kollosal,tremendous
 kolofon(-en),colophon (edition info)
-kolokvint (kem.),colocynthin (laxative)
+kolokvint,colocynthin (laxative)
 kolokvint (slyngplante),colocynth
 kolon(-et),colon
 koloni(-en),colony
@@ -28396,7 +28396,7 @@ løvgræshoppe(-en),"katydid, bush cricket"
 løvhytte(-en),"arbour, bower"
 løvinde(-en),lioness
 løvrig,leafy
-løvsalsfest (oftest i okt.),Feast of Tabenacles
+løvsalsfest,Feast of Tabenacles
 løvsanger(-en),willow warbler (bird)
 løvsav(-en),"fretsaw, coping saw"
 løvsavsarbejde(-et),fretwork
@@ -28746,7 +28746,7 @@ mangle noget,"amiss, miss something"
 manglebræt,mangle (board)
 manglende,"remaining, missing, lacking"
 manglende evne,"disability, inability, incapability"
-manglende evner (f.x.),short coming
+manglende evner,short coming
 manglende koncentration,lack of concentration
 mangler holdbarhed,want of durability
 mangler talent,want of talent
@@ -29636,7 +29636,7 @@ meteorologisk institut,"Meteorological Office, the Weather Bureau"
 meteorregn,meteor(ic) shower
 meteorsten,meteorite
 meter,metre
-meter over havet (m.o.h.),"meters above sea level, m.a.s.l. (MAMSL/AMSL)"
+meter over havet,"meters above sea level, m.a.s.l. (MAMSL/AMSL)"
 metermål,"metre (measuring), tape measure (in meters)"
 meterstok,metre ruler
 metersystemet,"metric system, the metric system"
@@ -30109,7 +30109,7 @@ mobilisere,mobilize
 mobilisering,mobilization
 mobiltelefon,"mobile phone, mobile telephone"
 mobiltelefon,"mobile phone, mobile telephone, cell(ular) phone"
-mobiltelefon (sms osv.),"BlackBerry (smartphone), smartphone (BlackBerry)"
+mobiltelefon,"BlackBerry (smartphone), smartphone (BlackBerry)"
 mobning,mob
 mod,"courage, fortitude, gut, mettle, spirit, valour"
 mod (imod),"against, adverse to, towards"
@@ -30283,7 +30283,7 @@ modtagelsesværelse,"parlour, reception room, front room"
 modtager,"addressee, consignee, recipient, reciever (radio)"
 modtager (af støtte),beneficiary
 modtagerapparat,"reciever (radio), recieving set"
-modtageren betaler (telf.),"transfer charges, collect call"
+modtageren betaler,"transfer charges, collect call"
 modtageren betaler opkald(tlf,"reverse charge call, collect call"
 modtagerstation,recieving station
 modtryk,counter-pressure
@@ -30389,7 +30389,7 @@ mor (morian),Moor
 morads,"mire, bog, marsh, treacherous ground, morass"
 morakke,"work very hard, force the pace, slave (willingly)"
 morakker,"tear-arse, one who forces the pace"
-morakker (sl.),beaver (diligent)
+morakker,beaver (diligent)
 moral,"ethics, moral, morals, standards"
 morale,"moral, maxim"
 moralfølelse,morality
@@ -31938,7 +31938,7 @@ nettovægt,net weight
 netundertrøje,string vest
 netvinger,neuroptera
 netværk,"mesh, netting, network"
-netværk (www.),web
+netværk,web
 netværks byte rækkefølge,endian
 neuralgi,neuralgia
 neuralgisk,neuralgic
@@ -33269,7 +33269,7 @@ omtågethed,"fuddled state, befuddled state, muzziness"
 omtælling,re-count
 omtænksom,"thoughtful, considerate, foresighted"
 omvalg,second ballot
-omvalg (evt.),"voting, taking a second ballot"
+omvalg,"voting, taking a second ballot"
 omvandrende,"migrant, walking, itenerant, travelling"
 omvandrende (mens man lærer),peripatetic
 omvandrende handelsmand,peddler
@@ -34803,7 +34803,7 @@ pandekage,"pancake, flapjack"
 pandekage (ofte US morgenmad),flapjack
 pandekage (ofte med kødfyld),tortilla (Spanish-American)
 pandekagedej,"batter, beignet dough"
-pandekagedej (f.x.),batter (liquid dough)
+pandekagedej,batter (liquid dough)
 pandekrølle,"quiff, forelock"
 pandeplader,"gal iron (plates), corro (plates)"
 panderynke,wrinkle (forehead)
@@ -36486,7 +36486,7 @@ pomade (hår),hair conditioner
 pomade (læbe),lip-salve
 pomelo (stor grapefrugt),shaddock
 pomerans,"bitter orange, Seville orange, bigarade"
-pomeransfugl (brokfugl fam.),dotterel
+pomeransfugl,dotterel
 pomeransskal,"bitter orange peel, bigarade peel"
 pommes frites,"frenchfries, potatochips"
 pommes frites,"frenchfries, potatochips, French fried potatoes"
@@ -36666,7 +36666,7 @@ postopkrævning,"trade charge form, cash on delivery (C.O.D.)"
 postordre,mail order (MO)
 postpakke,postal parcel
 postrute,mail route
-postscriptum (p.s.),"postscript, P.S."
+postscriptum,"postscript, P.S."
 postsparekasse,"post office savings bank, postal savings bank"
 poststempel,postmark
 postsæk,mail bag
@@ -37979,7 +37979,7 @@ quarter section,"a quarter of a square mile, 647497 m², ~65 ha"
 quartier latin,the Latin Quarter
 quasi-,pseudo-
 quickstep,quickstep
-quilt patchwork (fx.),crazy quilt
+quilt patchwork,crazy quilt
 quilte,quilt
 quinde med stort Q,womanly woman
 quisling(-en),quisling
@@ -39114,7 +39114,7 @@ rigsarkivar,keeper of the public records
 rigsdag,"Parliament, Congress (US)"
 rigsdagen i Worms,the Diet of Worms
 rigsdagsbygning,Parliament house
-rigsdaler (2 kr.),"rix dollar, rix-dollar"
+rigsdaler,"rix dollar, rix-dollar"
 rigsdansk,"standard Danish language, Danish language(standard)"
 rigsforstander,regent
 rigsforstanderskab,regency
@@ -39529,7 +39529,7 @@ rulletøj,"mangling (cloth), flatwork"
 rulning,"rolling, mangling, wringing (by wringer/mangle)"
 rulning (tøj),wringing (by wringer/mangle)
 rum,"room, space"
-rum med lynlås (taske m.m.),zipped compartment
+rum med lynlås,zipped compartment
 rum-(mæssig),spatial
 rumba,rumba
 rumdragt,space suit
@@ -44349,7 +44349,7 @@ sofisme (ordkløveri),sophism
 sofist (ordkløver),sophist
 sofisteri,sophistry
 sogn,parish
-sogn (ca.),"canton, unit in a municipality"
+sogn,"canton, unit in a municipality"
 sogne/kommune -(mæssigt),parochial
 sognebarn,parishioner
 sognedegn,parish clerk
@@ -47515,7 +47515,7 @@ surt show,shit
 sus,"sigh(a~through the audience), stir(a~in audience)"
 sus (der gik et~gennem dem),stir(a~in audience)
 sus og dus,in a whirl of pleasures
-susceptrix (susc.),godmother (witness)
+susceptrix,godmother (witness)
 suse,"hurtle, zap, zip, surge, swish, whip, whiz(z)"
 suse (vind),"whistling wind, singing wind, rush, tear along"
 suse (vinden),"sigh (wind), blow (breeze), wind (draft)"
@@ -50907,7 +50907,7 @@ trefoldigt leve,three cheers
 trefork,"three-pronged fork, trident (Neptune)"
 tregrenet,three-pronged
 trehjulet,three-wheeled
-trehjulet (cykel m.m.),"tricycle, trike"
+trehjulet,"tricycle, trike"
 trehjulet cykel,tricycle
 treholdsdrift,treble shift
 trehundredeårsdag,tercentenary
@@ -51097,7 +51097,7 @@ trolovet,betrothed
 troløs,"unfaithful, faithless, perfidious, treacherous"
 troløshed,"unfaithfulness, faithlessness, perfidy, treachery"
 tromle,"cylinder, roll, roller"
-tromle (200 liter f.eks.),drum
+tromle,drum
 tromle ned,"bulldoze, steamroller"
 tromle over,flatten
 tromleblander,"concrete (drum) mixer, cement mixer"
@@ -51175,8 +51175,8 @@ troværdighed,"credibility, reliability"
 trubadur,minstrel
 true,"menace, threaten"
 truende,"sinister, threatening, menacing, intimidating"
-truende (evt.),imminent
-truende (evt.),impending
+truende,imminent
+truende,impending
 trug,trough
 trukken i langdrag,protracted
 trumf,trump
@@ -52339,7 +52339,7 @@ ubeslutsom,"indecisive, irresolute, undecided, shilly-shally"
 ubeslutsomhed,"indecision, shilly-shally"
 ubesmittet,"immaculate, unblemished"
 ubesmittet undfangelse,immaculate conception
-ubesmittet undfangelse (N.T.),immaculate conception
+ubesmittet undfangelse,immaculate conception
 ubestandig,"inconstant, fickle, unstable"
 ubestandighed,"instability, inconstancy, variableness, fickleness"
 ubestemmelig,indefinable
@@ -54599,7 +54599,7 @@ vaffel (sprød),wafer
 vaffelis,icecream cone
 vag,"hazy, indistinct, vague, maundering"
 vagabond,"bum, tramp, vagrant, hobo"
-vagabond (aus.),sundowner
+vagabond,sundowner
 vager,beacon
 vagina,vagina
 vagt,"gaurd, watchman, guard, vigil, watch"

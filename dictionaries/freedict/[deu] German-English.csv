@@ -219,9 +219,9 @@ abbildung,image
 abbildung,map
 abbildung,mapping
 abbildung,picture
-abbildung {f} [math.],map
-abbildung {f} [math.],mapping
-abbildung {f} [math.],transformation
+abbildung {f},map
+abbildung {f},mapping
+abbildung {f},transformation
 abbildungsfehler,aberration
 abbindend,undoing
 abblasend,cancelling
@@ -324,7 +324,7 @@ abdrückend,squeezing off
 abdunkelungsvorrichtung,dimmer
 abdunklung,dimout
 abdämmen,to dam up
-abelsche gruppe [math.],abelian group
+abelsche gruppe,abelian group
 abend,evening
 abendandacht,evensong
 abendbrot essen,to have tea
@@ -622,7 +622,7 @@ abgehalten werden,to take place
 abgehaltener,kept form
 abgehangen (fleisch),hung
 abgeheilt,healed
-abgehend (tel.),out-bound
+abgehend,out-bound
 abgehetzt,exhausted
 abgehoben,lifted
 abgehoben/zurückgezogen,withdrawn
@@ -756,7 +756,7 @@ abgeschleppt,towed off
 abgeschliffen,polished
 abgeschlossen,completed
 abgeschlossen (wohnung),self-contained
-abgeschlossen [math.],closed
+abgeschlossen,closed
 abgeschlossenheit,insularity
 abgeschlossenheit,seclusion
 abgeschlossenheiten,seclusiveness
@@ -1230,7 +1230,7 @@ ableitung,derivative
 ableitung,derive
 ableitung,partial / total
 ableitung,revulsion
-ableitung [math.],derivative
+ableitung,derivative
 ableitungen,derivations
 ableitungen,derivatives
 ableitungskanal,drainage
@@ -1663,7 +1663,7 @@ abschliessend,finishing
 abschliessend,locking
 abschliessend,secluding
 abschluss,finish
-abschluss [math.],closure
+abschluss,closure
 abschlussbuchungen,annual closing entries
 abschlussgebühr,acquisition fee
 abschlusskosten,acquisition cost
@@ -1894,12 +1894,12 @@ absolut,absolute
 absolut,downright
 absolut,starkly
 absolut,utterly
-absolut konvergent [math.],absolutely convergent
+absolut konvergent,absolutely convergent
 absolut sicher sein,to be as safe as houses
 absolutadressbereich,absolute address area
 absolutaktenzeichen,absolute file reference
 absolutauswahl,absolute selction
-absolutbetrag [math.],absolute value
+absolutbetrag,absolute value
 absolutdatei,absolute file
 absolute,absoluteness
 absolute abweichung,absolute deviation
@@ -2023,7 +2023,7 @@ abstand,distance
 abstand,pitch
 abstand,space
 abstand,spacing
-abstand [math.],distance
+abstand,distance
 abstand genommen,abstained
 abstandprüfung,bias test
 abstandsstück,spacer
@@ -2458,7 +2458,7 @@ abzweigend,branching off
 abzweigung,arm
 abzweigung,divergency
 abzweigung,tap
-abzählbar [math.],countable
+abzählbar,countable
 abzählen,to count
 abzählend,counting
 abzäunen,to fence off
@@ -2491,7 +2491,7 @@ achse,axis
 achse,axle
 achse,center line
 achse,pivot
-achse [math.],axis
+achse,axis
 achsel,shoulder
 achselhöhle,armpit
 achselhöhle,axillary
@@ -2606,7 +2606,7 @@ addierschaltung,adding circuit
 addierte,added
 addierwerk,adder
 addition,addition
-addition [math.],addition
+addition,addition
 additionen,additions
 additionsbefehl,add instruction
 additionswert,addend
@@ -2629,9 +2629,9 @@ ader,vein
 aderlass,phlebotomy
 adern,veins
 adern (im kabel),strands
-adisch [math.],ary
+adisch,ary
 adjektiv,adjective
-adjunkte [math.],adjoint
+adjunkte,adjoint
 adler,eagels
 adler,eagle
 adlernase,aquiline nose
@@ -2812,7 +2812,7 @@ affiger,sillier
 affigkeit,foppishness
 affigste,silliest
 affigsten,silliest
-affin [math.],affine
+affin,affine
 affäre,affair
 afghanistan,afghanistan (af)
 afrika,africa
@@ -3162,12 +3162,12 @@ alberte,simpered
 album,album
 alchemisten,alchemists
 algebra,algebra
-algebra [math.],algebra
+algebra,algebra
 algebraisch,algebraic
 algebraische,algebraic
 algebraische,algebraically
 algebraische funktion,algebraic function
-algebraische zahl [math.],algebraic number
+algebraische zahl,algebraic number
 algebraisches komplement,algebraic complement
 algen,algae
 algen,algas
@@ -3516,7 +3516,7 @@ alternativweg,alternative route
 alternd,aging
 alternd,growing old
 alternd,senescent
-alternierend [math.],alternating
+alternierend,alternating
 alternierende gruppe,alternating group
 alternierende reihe,alternating series
 altersaufbau,age distribution
@@ -5309,7 +5309,7 @@ anordnung,regulation
 anordnung,serialization
 anordnungen,dispositions
 anordnungen,orders
-anordnungsaxiom [math.],ordering axiom
+anordnungsaxiom,ordering axiom
 anordnungspatent,arrangement patent
 anorganisch,inorganically
 anormal,anomalous
@@ -5577,7 +5577,7 @@ anschluss,connection
 anschluss,connector
 anschluss,junction
 anschluss,port
-anschluss (tel.),termination
+anschluss,termination
 anschlussauftrag,add on sale
 anschlussbaugruppe,adapter board
 anschlussbelegung,terminal assignment
@@ -6661,11 +6661,11 @@ archäologisch,archaeological
 archäologisches,archaeologically
 arctisch,arctic
 arcuscosinus,arc cosine
-arcuscosinus [math.],arc cosine
+arcuscosinus,arc cosine
 arcussinus,arc sine
-arcussinus [math.],arc sine
+arcussinus,arc sine
 arcustangens,arc tangent
-arcustangens [math.],arc tangent
+arcustangens,arc tangent
 arena,arena
 argentinien,argentina (ar)
 arglist,guile
@@ -6988,9 +6988,9 @@ assonanz,assonance
 assonanzen,assonances
 assoziationsvertrag,association treaty
 assoziativ,associative
-assoziativ [math.],associative
+assoziativ,associative
 assoziative,associatively
-assoziativgesetz [math.],associative law
+assoziativgesetz,associative law
 assoziativität,associativity
 assoziativrelation,associative storage
 assoziativspeicher,associative memory
@@ -7043,9 +7043,9 @@ asymmetrische,asymmetrical
 asymmetrische verteilung,asymmetrical distribution
 asymmetrisches,asymmetrically
 asymptote,asymptote
-asymptote [math.],asymptote
+asymptote,asymptote
 asymptoten,asymptotes
-asymptotisch [math.],asymptotic
+asymptotisch,asymptotic
 asymptotische entwicklung,asymptotic expansion
 asymptotische verzerrung,asymptotic bias
 asymtotische,asymptotical
@@ -7067,7 +7067,7 @@ asynchronprogramm,asynchronous program
 asynchronrechner,asynchronous computer
 aszendent,ascendent
 aszendenten,ascendents
-atavismus [biol.],atavism
+atavismus,atavism
 ataxien,ataxias
 atelier,studio
 atem,breath
@@ -7817,7 +7817,7 @@ aufgelaufene zinsen,accrued interest
 aufgeld,agio
 aufgelegen,been laid out
 aufgelegt,feel like doing
-aufgelegt (tel.),on-hook
+aufgelegt,on-hook
 aufgelehnt,revolted
 aufgelesen,picked up
 aufgeleuchtet,lighted up
@@ -8206,7 +8206,7 @@ aufmöbelnd,pepping up
 aufmöbelnd,reconditioning
 aufnahme,absorption
 aufnahme,recording
-aufnahme (phot.),taking
+aufnahme,taking
 aufnahmeantrag,apply for admission
 aufnahmebedingungen,terms of admission
 aufnahmefähig,absorptive
@@ -10077,7 +10077,7 @@ ausreiben,rubout
 ausreichen,suffice
 ausreichend,adequate
 ausreichend,sufficing
-ausreifungszeit (einer investition) [econ.],gestation period
+ausreifungszeit (einer investition),gestation period
 ausreiseerlaubnis,exit permit
 ausreisevisum,exit visa
 ausreissend,running away
@@ -10156,8 +10156,8 @@ aussagefähig,meaningful
 aussagekraft,expressiveness
 aussagekraft,validity
 aussagekräftig,expressive
-aussagekräftig (statistische zahlen usw.),convincing
-aussagekräftig (statistische zahlen usw.),sound
+aussagekräftig,convincing
+aussagekräftig,sound
 aussagen,statements
 aussagen,to predicate
 aussagen,to reveal
@@ -10991,7 +10991,7 @@ avionik,avionic
 avisieren,to advise
 axial,axial
 axiom,axiom
-axiom [math.],axiom
+axiom,axiom
 axiomatik,axiomatics
 axiome,axioms
 axt,axe
@@ -11172,7 +11172,7 @@ balkon,balcony
 balkone,balconies
 ball,ball
 ball,prom
-ball [math.],ball
+ball,ball
 ball spielen,to play ball
 ball-,ballroom
 ballade,ballad
@@ -11219,7 +11219,7 @@ balsam,balm
 balsamiert ein,embalms
 balsamierte ein,embalmed
 bambus,bamboo
-banachraum [math.],banach space
+banachraum,banach space
 banal,banal
 banal,banally
 banal,hackneyed
@@ -11444,7 +11444,7 @@ basilikum,basil
 basis,base
 basis,basis
 basis,foot
-basis [math.],basis
+basis,basis
 basis(adress)register,memory pointer
 basisadresse,base address
 basisadresse,basicaddress
@@ -11576,7 +11576,7 @@ baugewerbe,building trade
 baugrundstück,building plot
 baugrundstück,site
 baugruppe,assembly
-baugruppe [elec.],board
+baugruppe,board
 bauherr,building owner
 bauherren,building owners
 bauholz,timber
@@ -14713,7 +14713,7 @@ berühren,to touch
 berührend,fingering
 berührend,tangentially
 berührend,touching
-berührpunkt [math.],boundary point
+berührpunkt,boundary point
 berührt,touched
 berührt,touches
 berührte,contacted
@@ -15037,7 +15037,7 @@ beschränkt,parochial
 beschränkt,parochially
 beschränkt,stinted
 beschränkt,straitens
-beschränkt [math.],bounded
+beschränkt,bounded
 beschränkte,straitened
 beschränktere,more limited
 beschränkteste,most limited
@@ -15677,9 +15677,9 @@ bestimmte vorher,predetermined
 bestimmte vorher,preordained
 bestimmter bereich,area
 bestimmter wert,assigned value
-bestimmtes [math.],definite
-bestimmtes [math.],integral
-bestimmtes integral [math.],definite integral
+bestimmtes,definite
+bestimmtes,integral
+bestimmtes integral,definite integral
 bestimmtheit,definiteness
 bestimmtheit,determinateness
 bestimmtheit,determination
@@ -15838,7 +15838,7 @@ bestätigungsmeldung,acknowledgement message
 bestätigungsvermerk,audit certificate
 bestäubend,powdering
 bestäubt,powdered
-bestücken [elec.],to equip
+bestücken,to equip
 bestückung,mounting
 bestückung,placement
 bestückungsplan,layout diagram
@@ -16015,8 +16015,8 @@ betrag,amount
 betrag,amount dude
 betrag,quantum
 betrag,sum
-betrag [math.],absolute value
-betrag [math.],modulus
+betrag,absolute value
+betrag,modulus
 betrag erhalten,payment received
 betragen,amount to
 betragen,behavior
@@ -17144,8 +17144,8 @@ bigamische,bigamously
 bigamist,bigamist
 bigamisten,bigamists
 bigann,began
-bijektion [math.],bijection
-bijektiv [math.],bijective
+bijektion,bijection
+bijektiv,bijective
 bikarbonat,bicarbonate
 bilanz,balance
 bilanzaktiva,assets
@@ -17159,10 +17159,10 @@ bild,figure
 bild,image
 bild,picture
 bild,tableau
-bild [math.],image
+bild,image
 bildabtastgerät,video scanner
 bildausgabe,video display
-bildbereich [math.],range
+bildbereich,range
 bilddurchlaufbereich,scrolling region
 bilddurchlaufmodus,scroll mode
 bildelement,picture element
@@ -17226,7 +17226,7 @@ bildlich,figurative
 bildlich,unliteral
 bildliche,figuratively
 bildlos,nonpictorial
-bildmenge [math.],image set
+bildmenge,image set
 bildnis,effigy
 bildnis,portrait
 bildnisse,effigies
@@ -17402,10 +17402,10 @@ binnensee,lake
 binnenverkehr,inland traffic
 binokular,binocular
 binokulare,binocularly
-binomialkoeffizient (n über k) [math.],binomial coefficient (n choose k)
+binomialkoeffizient (n über k),binomial coefficient (n choose k)
 binomisch,binomial
-binomische reihe [math.],binomial series
-binomischer lehrsatz [math.],binomial theorem
+binomische reihe,binomial series
+binomischer lehrsatz,binomial theorem
 binomisches,binomially
 binse,bulrush
 binsen,bulrushes
@@ -17420,7 +17420,7 @@ binär-dezimal,binary-to-decimal
 binär-eingabeeinheit,binary input unit
 binärcode für dezimalzahlen (bcd),binary coded decimal
 binäre steuerung,binary control
-binärentwicklung [math.],binary expansion
+binärentwicklung,binary expansion
 binäres,dichotomizing
 binäres suchen,binary search
 binärfeld,binary field
@@ -17822,7 +17822,7 @@ blindenanstalten,homes for the blind
 blindenhund,guide dog
 blindenschrift,braille
 blindenschrift,embossed printing
-blindgruppe (tel.),padding
+blindgruppe,padding
 blindgänger,dud
 blindgänger,duds
 blindheit,sightlessness
@@ -18070,7 +18070,7 @@ bogengang,archway
 bogenlampe,arclamp
 bogenlicht,arclight
 bogenlänge,arc length
-bogenlänge [math.],arc length
+bogenlänge,arc length
 bogenminute,arc minute
 bogenschiessen,archery
 bogenschütze,archer
@@ -18586,7 +18586,7 @@ bruch,burst
 bruch,fraction
 bruch,fracture
 bruch,rupture
-bruch [math.],fraction
+bruch,fraction
 bruchband,hernial
 bruchbude,ramshackle hut
 bruchfestigkeit,breaking strenght
@@ -19287,8 +19287,8 @@ canangabaum,ylang ylang
 canasta,canasta
 cartoon,cartoon
 cassette,cassette
-cauchy-produkt [math.],cauchy product
-cauchyfolge [math.],cauchy sequence
+cauchy-produkt,cauchy product
+cauchyfolge,cauchy sequence
 ceilidh (schottischer volkstanz),ceilidh
 cellisten,cellists
 cellophan,cellophane
@@ -19333,7 +19333,7 @@ charakteristische,characeristics
 charakteristische,characteristic
 charakteristische,characteristically
 charakteristische gleichungen,auxiliary equation
-charakteristisches polynom [math.],characteristic polynomial
+charakteristisches polynom,characteristic polynomial
 charakterlos,unprincipled
 charakterlosere,more unprincipled
 charakterloseste,most unprincipled
@@ -19566,9 +19566,9 @@ copilot,copilot
 coprozessor,coprocessor
 copyright,copyright
 cordoba,cordoba
-cosinus [math.],cosine
-cosinus hyperbolicus [math.],hyperbolic cosine
-cosinussatz [math.],law of cosines
+cosinus,cosine
+cosinus hyperbolicus,hyperbolic cosine
+cosinussatz,law of cosines
 costa rica,costa rica (cr)
 cote d'ivoire,cote d'ivoire (ci)
 coupon,coupon
@@ -20481,7 +20481,7 @@ debütantin,debutante
 debütantinnen,debutantes
 debüts,debuts
 dechiffrierung,deciphering
-dechlorierung [chem.],dechlorination
+dechlorierung,dechlorination
 deckadresse,cover address
 deckadressen,cover addresses
 deckbett,feather bed
@@ -20545,9 +20545,9 @@ definiert,defines
 definit,definite
 definit,positive / negative
 definition,definition
-definition [math.],definition
+definition,definition
 definitionen,definitions
-definitionsbereich [math.],domain
+definitionsbereich,domain
 definitiv,definitive
 definitive,definitively
 defizit,deficit
@@ -21158,7 +21158,7 @@ detektiv,spotter
 detektive,spotters
 detektivgeschichte,mystery story
 detektor,detector
-determinante [math.],determinant
+determinante,determinant
 determinanten,determinants
 detonation,detonation
 detonationen,detonations
@@ -21236,7 +21236,7 @@ dezibel,decibel
 dezimal,decimal
 dezimal-binär,decimal-to-binary
 dezimalanordnung,decimal adjust
-dezimalbruch [math.],decimal fraction
+dezimalbruch,decimal fraction
 dezimaldarstellung,decimal notation
 dezimalen,decimals
 dezimales,decimally
@@ -21280,15 +21280,15 @@ diagnostizierten,diagnosed
 diagonal,diagonal
 diagonal,diagonally
 diagonal,transverse
-diagonal [math.],diagonal
+diagonal,diagonal
 diagonale,diagonal
 diagonale,diagonals
-diagonale [math.],diagonal
+diagonale,diagonal
 diagonalen,diagonals
-diagonalisierbar [math.],diagonalizable
-diagonalmatrix [math.],diagonal matrix
+diagonalisierbar,diagonalizable
+diagonalmatrix,diagonal matrix
 diagramm,diagram
-diagramm [math.],diagram
+diagramm,diagram
 diagrammatisch,diagrammatic
 diagrammatisches,diagrammatically
 diagramme,diagrams
@@ -21350,7 +21350,7 @@ dicht,thick
 dicht,thickset
 dicht,tight
 dicht (an),"close (to, by)"
-dicht [math.],dense
+dicht,dense
 dicht machen,to proof
 dicht verwachsen,tangly
 dichte,densely
@@ -21781,16 +21781,16 @@ diesig,hazy
 diesmal,this time
 diesseitige,secularistic
 dietrich,picklock
-differential [math.],differential
+differential,differential
 differential...,differential
-differentialform [math.],differential form
-differentialoperator [math.],differential operator
-differentialrechnung [math.],differential calculus
-differentiation [math.],differentiation
+differentialform,differential form
+differentialoperator,differential operator
+differentialrechnung,differential calculus
+differentiation,differentiation
 differenz,difference
-differenz [math.],difference
+differenz,difference
 differenzen,differences
-differenzenquotient [math.],difference quotient
+differenzenquotient,difference quotient
 differenzierbar,differentiable
 differenzierbar,n times
 differenziere,differenciate
@@ -21868,7 +21868,7 @@ dilettantismus,amateurishness
 dilettantismus,dilettantism
 dill,dill
 dimension,dimension
-dimension [math.],dimension
+dimension,dimension
 dimensional,dimensional
 dimensionales,dimensionally
 dimensionen,dimensions
@@ -21932,7 +21932,7 @@ direktantrieb,direct drive
 direkte adressierung,direct addressing
 direkte belastung,direct debit
 direkte saldierung,net balance
-direkte summe [math.],direct sum
+direkte summe,direct sum
 direkte verdrahtung (ohne kabelbaum),mattress wiring
 direkter,straighter
 direkteste,straightest
@@ -21984,7 +21984,7 @@ disassemblierung,disassembly
 disc film,disc film
 disharmonie,disharmony
 disharmonien,disharmonies
-disjunkt [math.],disjoint
+disjunkt,disjoint
 disjunktion,disjunktion
 diskette,discette
 diskette,disk
@@ -22014,7 +22014,7 @@ diskrepants,discrepantly
 diskrepanzen,discrepancies
 diskret,discreet
 diskret,discrete
-diskret [math.],discrete
+diskret,discrete
 diskrete,discreetly
 diskretion,discretion
 diskriminierung,discrimination
@@ -22086,7 +22086,7 @@ distel,thistle
 distelfink,goldfinch
 disteln,thistles
 distelwolle,thistledown
-distributivgesetz [math.],distributive law
+distributivgesetz,distributive law
 disziplin,discipline
 disziplinarisch,disciplinary
 disziplinarstrafe,disciplinary punishment
@@ -22096,9 +22096,9 @@ disziplinierend,disciplining
 diszipliniert,disciplined
 diszipliniert,disciplines
 divas,divas
-divergent [math.],divergent
+divergent,divergent
 divergenz,divergence
-divergenz [math.],divergence
+divergenz,divergence
 divergenzen,divergences
 divergieren,diverge
 divergierend,divergent
@@ -22208,7 +22208,7 @@ dominikanische republik,dominican republic (do)
 domizil,domicile
 domizile,domiciles
 don,thu
-donator (elektronenspender bei halbl.),donor
+donator,donor
 donner,boom
 donner,thunder
 donnerbüchse,blunderbuss
@@ -22254,7 +22254,7 @@ doppelfunktionstaste,alternate action key
 doppelfüsser,millipede
 doppelgänger,double
 doppelgänger,doubles
-doppelintegral [math.],double integral
+doppelintegral,double integral
 doppelkabel,dual cable
 doppelkinn,double chin
 doppellaufwerk,twin drive
@@ -22262,7 +22262,7 @@ doppelpunkt,colon
 doppelpunkte,colons
 doppelrechner (zur sicherung),duplex computer
 doppelrechnersystem,bi-processor system
-doppelreihe [math.],double series
+doppelreihe,double series
 doppelseitig,two-sided
 doppelseitige diskette,double sided disk
 doppelsinn,double win
@@ -22480,7 +22480,7 @@ dreckloch,sinkhole
 drecklöcher,sinkholes
 dreckt,scruffs
 dreh...,rotary
-drehachse [math.],rotation axis
+drehachse,rotation axis
 dreharbeit,turning operation
 dreharbeiten,turning operations
 drehbank,lathe
@@ -22499,7 +22499,7 @@ drehbücher,scenarios
 drehbücher,screenplays
 drehbücher,scripts
 drehbühne,revolving stage
-drehebene [math.],rotation plane
+drehebene,rotation plane
 drehen,span
 drehen,to revolve
 drehen,to roll
@@ -22581,9 +22581,9 @@ drehtür,revolving door
 drehung,gyration
 drehung,turn
 drehung,twist
-drehung [math.],rotation
+drehung,rotation
 drehungen,turns
-drehwinkel [math.],rotation angle
+drehwinkel,rotation angle
 drehzahl,speed
 drehzahlbegrenzung,overspeed trip unit
 drehzahlen,revs
@@ -22602,7 +22602,7 @@ drei menschen kamen ums leben,three lives were lost
 dreiblättrig,trifoliate
 dreidimensional,three dimensional
 dreieck,triangle
-dreieck [math.],triangle
+dreieck,triangle
 dreieck-schaltung,delta connection
 dreiecke,triangles
 dreieckig,triangular
@@ -22610,7 +22610,7 @@ dreieckig,triangularly
 dreieckige,triangularly
 dreiecksmatrix,triangular matrix
 dreiecksmatrix,upper / lower
-dreiecksungleichung [math.],triangle inequality
+dreiecksungleichung,triangle inequality
 dreieinig,triune
 dreieinigkeitslehre,trinitarianism
 dreiergruppe,threesome
@@ -22732,7 +22732,7 @@ dringt ein,trespasses
 dringt völlig durch,interpenetrates
 drischt,threshes
 dritte,third
-dritte (jur.),third party
+dritte,third party
 dritte ausfertigung,triplicate
 dritte potenz,cube
 drittel,third
@@ -23489,7 +23489,7 @@ durchmachen,"to undergo {underwent, undergone}"
 durchmarsch,marching-through
 durchmarschieren,to march-through
 durchmesser,diameter
-durchmesser [math.],diameter
+durchmesser,diameter
 durchmärsche,marchings-through
 durchnässen,to soak
 durchnässen,to sodden
@@ -23561,7 +23561,7 @@ durchschneidet,intersects
 durchschnitt,average
 durchschnitt,intersected
 durchschnitt,sectioned
-durchschnitt (von mengen) [math.],intersection (of sets)
+durchschnitt (von mengen),intersection (of sets)
 durchschnitt ermitteln,to average out
 durchschnitte,averages
 durchschnittich,medium
@@ -23744,7 +23744,7 @@ dutzende,dozens
 dutzendweise,by the dozen
 dv-mitarbeiter,computer personnel
 dyadisch,dyadic
-dyadischer bruch [math.],dyary fraction
+dyadischer bruch,dyary fraction
 dynamik,dynamics
 dynamisch,dymanic
 dynamisch,dynamic
@@ -23984,7 +23984,7 @@ ebene,level
 ebene,lowlands
 ebene,plain
 ebene,rank
-ebene [math.],plane
+ebene,plane
 ebenen,plains
 ebenfalls,ditto
 ebenfalls,likewise
@@ -24489,7 +24489,7 @@ eigenname,proper name
 eigennutz,self interest
 eigennützig,self interested
 eigennützig,selfish
-eigenraum [math.],eigenspace
+eigenraum,eigenspace
 eigenschaft,attribute
 eigenschaft,feature
 eigenschaft,predicate
@@ -24546,10 +24546,10 @@ eigentümlich,idiosyncratic
 eigentümlich,peculiar
 eigentümliche,idiosyncratically
 eigentümlichkeit,medievalism
-eigenvektor [math.],eigenvector
+eigenvektor,eigenvector
 eigenwechsel,promissory
 eigenwechsel,promissory note
-eigenwert [math.],eigenvalue
+eigenwert,eigenvalue
 eigenwille,self will
 eigenwillig,individual
 eigenwilligere,more individual
@@ -24918,12 +24918,12 @@ eindeutig,unambiguous
 eindeutig,undisputed
 eindeutig,unequivocal
 eindeutig,unique
-eindeutig [math.],unique
+eindeutig,unique
 eindeutig stellung beziehen (zu),to take an unequivocal stand (on)
 eindeutige,unambiguously
 eindeutige,unequivocally
 eindeutigkeit,unambiguousness
-eindeutigkeit [math.],uniqueness
+eindeutigkeit,uniqueness
 eindimensional,unidimensional
 eindosend,tinning
 eindringen,intrusion
@@ -25678,13 +25678,13 @@ einheitliches ganzes,integral whole
 einheitlichkeit,togetherness
 einheitlichkeit,unities
 einheitlichste,most uniform
-einheitskreis [math.],unit circle
-einheitsmatrix [math.],identity matrix
-einheitsmatrix [math.],unit matrix
+einheitskreis,unit circle
+einheitsmatrix,identity matrix
+einheitsmatrix,unit matrix
 einheitspreis,standard price
 einheitspreise,standard prices
 einheitsstaat,centralized state
-einheitsvektor [math.],unit vector
+einheitsvektor,unit vector
 einhellig,unanimous
 einhelligkeit,unanimity
 einhergehend mit,as a consequence thereof
@@ -25703,7 +25703,7 @@ einhüllend,enshrouding
 einhüllend,muffling
 einhüllend,wrapping
 einhüllend,wrapping up
-einhüllende [math.],envelope
+einhüllende,envelope
 einig,agreed
 einige,a few
 einige,some
@@ -25828,7 +25828,7 @@ einleitung,initiation
 einleitung,introduction
 einleitung,preamble
 einleitung,proem
-einleitung (el.),leading-in
+einleitung,leading-in
 einleitungen,introductions
 einleitungen,preambles
 einleitungen,proems
@@ -26076,7 +26076,7 @@ einschliessen,to inclose
 einschliessen,to include
 einschliessen,to involve
 einschliessen,to surround
-einschliessen [mil.],to hem
+einschliessen,to hem
 einschliessend,comprising
 einschliessend,encasing
 einschliessend,enclosing
@@ -26146,7 +26146,7 @@ einschränkung,limitation
 einschränkung,restriction
 einschränkung,restrictiveness
 einschränkung,retrenchment
-einschränkung [math.],restriction
+einschränkung,restriction
 einschränkungen,austerities
 einschränkungen,restrictions
 einschränkungen,restrictivenesses
@@ -26188,9 +26188,9 @@ einseitig,single-edge
 einseitig,unilateral
 einseitig,unilaterally
 einseitige,unilaterally
-einseitiger [math.],limit
-einseitiger [math.],one-sided
-einseitiger grenzwert [math.],one-sided limit
+einseitiger,limit
+einseitiger,one-sided
+einseitiger grenzwert,one-sided limit
 einseitigkeit,lopsidedness
 einseitigkeit,one sidedness
 einsendeschluss,closing date
@@ -26373,7 +26373,7 @@ eintracht,unity
 eintrag,enter
 eintrag,entry
 eintrag,inscription
-eintrag [math.],entry
+eintrag,entry
 eintragen,to enroll
 eintragen,to fill out
 eintragen,to register
@@ -26968,7 +26968,7 @@ elektrostatische,electrostatically
 elektrotechnik,electrical engineering
 element,element
 element,item
-element [math.],element
+element,element
 elementar,elemental
 elementar,elementary
 elementar,rudimental
@@ -26977,7 +26977,7 @@ elementare,elementary
 elementares,elementarily
 elementarladung,elementary charge
 elementarschule,primary school
-elementarteiler [math.],elementary divisor
+elementarteiler,elementary divisor
 elemente,elements
 elementgruppe,element group
 elementumwandlung,elementary conversion
@@ -27034,7 +27034,7 @@ ellen,ulnas
 ellenbogen,elbow
 ellenbogen,elbows
 ellipse,ellipse
-ellipse [math.],ellipse
+ellipse,ellipse
 ellipsen,ellipses
 ellipsoid,ellipsoid
 ellipsoiden,ellipsoids
@@ -27089,7 +27089,7 @@ embryen,embryos
 embryologie,embryology
 emergenz,emergence
 emirate,emirates
-emissionsbereich (halbl.),emitter zone
+emissionsbereich,emitter zone
 emissionsvermögen,emissivity
 emitter,emitter
 emittergekoppelt,emitter-coupled
@@ -27333,12 +27333,12 @@ endlich,finally
 endlich,finitely
 endlich,ultimately
 endlich,unlasting
-endlich [math.],finite
-endlich erzeugt [math.],finitely generated
-endlich-dimensional [math.],finite-dimensional
-endliche [math.],finite
-endliche [math.],subcover
-endliche teilüberdeckung [math.],finite subcover
+endlich,finite
+endlich erzeugt,finitely generated
+endlich-dimensional,finite-dimensional
+endliche,finite
+endliche,subcover
+endliche teilüberdeckung,finite subcover
 endlichkeit,finitude
 endlichkeit,limitedness
 endlichkeiten,finiteness
@@ -27363,13 +27363,13 @@ endlospapier,fanfold paper
 endmontage,final assembly
 endogen,endogenous
 endogene,endogenously
-endoluminale gefässprothese [med.],stent
-endomorphismus [math.],endomorphism
-endoskopie [med.],endoscopy
+endoluminale gefässprothese,stent
+endomorphismus,endomorphism
+endoskopie,endoscopy
 endprodukt,end product
 endprodukte,end products
 endpunkt,endpoint
-endpunkt [math.],endpoint
+endpunkt,endpoint
 endrunden,finals
 endsaldo,closing balance
 endsilbe,final syllable
@@ -28650,7 +28650,7 @@ entwicklung,development
 entwicklung,evaluation
 entwicklung,evolution
 entwicklung,growth
-entwicklung [math.],expansion
+entwicklung,expansion
 entwicklungen,developments
 entwicklungen,evolutions
 entwicklungs...,developmentally
@@ -30880,8 +30880,8 @@ erschleicht,obtains by fraud
 erschlich,obtained by fraud
 "erschliessen (bauland, gebiet)",to develop
 "erschliessen (markt, absatzgebiet)",to open (up)
-erschliessen (rohstoffquellen etc.),to exploit
-erschliessen (rohstoffquellen etc.),to tap
+erschliessen,to exploit
+erschliessen,to tap
 erschliessung,development
 erschliessung,opening (up)
 erschlägt,slays
@@ -31965,7 +31965,7 @@ eugenisch,eugenic
 eugenisches,eugenically
 eukalyptus,eucalyptus
 eukalyptuspflanzen,eucalyptuses
-euklidisch [math.],euclidean
+euklidisch,euclidean
 eule,eagle owl
 eule,owl
 eule,owlet
@@ -32020,7 +32020,7 @@ evolutionismus,evolutionism
 evolutionist,evolutionist
 evolutionisten,evolutionists
 evolvente,evolvent
-evolvente [math.],involute
+evolvente,involute
 ewig,eternal
 ewig,eternally
 ewig,everlasting
@@ -32063,7 +32063,7 @@ existent,existent
 existent,existing
 existentiell,existential
 existenz,existence
-existenz [math.],existence
+existenz,existence
 existenzkampf,struggle for existence
 existenzkämpfe,struggles for existence
 existenzminimum,subsistence level
@@ -32125,7 +32125,7 @@ explosivste,most explosive
 exponent,exponent
 exponent,superscript
 exponenten,exponentials
-exponentialfunktion [math.],exponential function
+exponentialfunktion,exponential function
 exponentiell,exponential
 exponiert,exposed
 exportartikel,article of exportation
@@ -32154,7 +32154,7 @@ extrem,extremely
 extrem,thoroughgoing
 extrem konservativ,ultraconservative
 extreme,excesses
-extremum unter nebenbedingungen [math.],constrained extremum
+extremum unter nebenbedingungen,constrained extremum
 extrudieren,extrusion
 extrudieren,to extrude
 extrusion,extrusion
@@ -32432,14 +32432,14 @@ fakten,lowdown
 faktor,coefficient
 faktor,factor
 faktoren,factors
-faktoriell [math.],factorial
+faktoriell,factorial
 faktotum,factotum
 faktum,fact
 fakturierautomat,automatic billing machine
 fakturiermaschine,accounting machine
 fakturiermaschine,invoice machine
 fakultät,faculty
-fakultät [math.],factorial
+fakultät,factorial
 fakultäten,faculties
 falke,falcon
 falke,hawk
@@ -32471,7 +32471,7 @@ fallen (lassen),to drop
 fallend,cascading
 fallend,falling
 fallend,tumbling
-fallend [math.],decreasing
+fallend,decreasing
 fallenlassend,dropping
 fallensteller,trapper
 fallensteller,trappers
@@ -32870,7 +32870,7 @@ fast gar nicht,hardly ever
 fast nichts,next to nothing
 fast nichts,scarcely anything
 fast nie,hardly ever
-fast sicher [math.],almost surely
+fast sicher,almost surely
 fasten,lent
 fastend,fasting
 fastenmässig,lenten
@@ -35196,7 +35196,7 @@ fläche,expanse
 fläche,face
 fläche,flat
 fläche,surface
-fläche [math.],area
+fläche,area
 flächen,areas
 flächen,flats
 flächendiagramm,area diagramm
@@ -35354,7 +35354,7 @@ folge,sequitur
 folge,series
 folge,succession
 folge,suite
-folge [math.],sequence
+folge,sequence
 folgeerscheinung,aftereffect
 folgekontrolle,sequence check
 folgen,results
@@ -35411,7 +35411,7 @@ folgerung,deduction
 folgerung,implication
 folgerung,inference
 folgerung,ratiocination
-folgerung [math.],conclusion
+folgerung,conclusion
 folgerungen,inferences
 folgesatz,consecutive clause
 folgesatz,corollary
@@ -35787,8 +35787,8 @@ fotografierte,took a photo
 fotografierter,photographed
 fotokopierer,photocopier
 fotos,photos
-fourierreihe [math.],fourier series
-fouriertransformation [math.],fourier transformation
+fourierreihe,fourier series
+fouriertransformation,fourier transformation
 foxtrott,foxtrot
 foyer,lounge
 frachsätze,freight rates
@@ -36291,7 +36291,7 @@ fremdkörper,foreign substance
 fremdkörper,foreign substances
 fremdling,stranger
 fremdlinge,aliens
-fremdschicht (halbl.),pollution layer
+fremdschicht,pollution layer
 fremdsprache,foreign language
 fremdsprachen,foreign languages
 fremdsystem,strange system
@@ -36954,9 +36954,9 @@ funktion,function
 funktion,funktion
 funktion,role
 funktion,waveform
-funktion [math.],function
+funktion,function
 funktionalität,functionality
-funktionalmatrix [math.],derivative matrix
+funktionalmatrix,derivative matrix
 funktionell,functionally
 funktionen,functions
 funktionieren,function
@@ -37317,7 +37317,7 @@ fässer,vats
 fäulnis,putrefaction
 fäulnis,putrescence
 fäulnis,rottenness
-fäulnis [med.],sepsis
+fäulnis,sepsis
 fäuste,fists
 fäustling,mitten
 fäustlinge,mittens
@@ -37501,7 +37501,7 @@ führung,management
 führungen,guidances
 führungsbolzen,guide bolt
 führungsbuchse,guide bushing
-führungsgrösse (regeltechn.),command variable
+führungsgrösse,command variable
 führungshülse,guide jacket
 führungslager,pilot bearing
 führungsloch,feed hole
@@ -37878,7 +37878,7 @@ ganze arbeit leisten,to make a good job of it
 ganze note,semibreve
 ganze zahl,integer
 ganze zahl,whole number
-ganze zahl [math.],integer
+ganze zahl,integer
 ganzheit,unbrokenness
 ganzheit,wholeness
 ganzheitlich,holistic
@@ -38142,7 +38142,7 @@ gebiet,department
 gebiet,field
 gebiet,territory
 gebiet,tract
-gebiet [math.],region
+gebiet,region
 gebiete,territories
 gebiete,tracts
 gebieter,lord
@@ -39037,7 +39037,7 @@ gegenstand,matter
 gegenstand,object
 gegenstand,subject
 gegenstandslos,nonrepresentational
-gegenstation (tel.),outstation
+gegenstation,outstation
 gegenstrom,crosscurrent
 gegenstrom,reverse flow
 gegenströme,crosscurrents
@@ -39810,7 +39810,7 @@ gelacht,laughed
 geladen,charged
 geladen,loaded
 geladen,reload
-geladen (el.),charged
+geladen,charged
 gelage,binge
 gelage,carousal
 gelage,wassail
@@ -40240,7 +40240,7 @@ gemeinschaften,corporations
 gemeinschaftlich,joint
 gemeinschaftlich,jointly
 gemeinschaftlich,united
-gemeinschaftsanschluss (tel.),party-line
+gemeinschaftsanschluss,party-line
 gemeinschaftsarbeit,team work
 gemeinschaftsarbeit,teamwork
 gemeinschaftsarbeiten,team works
@@ -40604,10 +40604,10 @@ geologischen,geologically
 geometer,geometrician
 geometer,surveyor
 geometrie,geometry
-geometrie [math.],geometry
+geometrie,geometry
 geometrisch,geometric
 geometrische,geometrical
-geometrische reihe [math.],geometric series
+geometrische reihe,geometric series
 geometrischen,geometrically
 geometrischer ort,locus
 geopfert,sacrificed
@@ -40742,8 +40742,8 @@ gerade,straight
 gerade,straightly
 gerade,unbowed
 gerade (zahl),even
-gerade [math.],even
-gerade [math.],straight line
+gerade,even
+gerade,straight line
 gerade erst,scarcely
 gerade geworden,straightened
 gerade machen,straighten
@@ -43423,7 +43423,7 @@ gleich,pair
 gleich,right
 gleich,same
 gleich,similar
-gleich [math.],equal
+gleich,equal
 gleich gross,commensurate
 gleich grosse,commensurately
 gleich von anfang an,right from start
@@ -43529,7 +43529,7 @@ gleichmässig,even
 gleichmässig,level
 gleichmässig,permanent
 gleichmässig,uniformly
-gleichmässig stetig [math.],uniformly continuous
+gleichmässig stetig,uniformly continuous
 gleichmässig verteilt,evenly distributed
 gleichmässige,equably
 gleichmässiger,regular
@@ -43579,8 +43579,8 @@ gleicht,resembles
 gleicht aus,equalizes
 gleichtaste,equals key
 gleichung,equation
-gleichung [math.],equation
-gleichungssystem [math.],system of equations
+gleichung,equation
+gleichungssystem,system of equations
 gleichviel,equivalent
 gleichweit entfernt,equidistant
 gleichwertig,equivalent
@@ -43714,7 +43714,7 @@ globus,globe
 glocke,bell
 glockenblume,bell flower
 glockenblume,bellflower
-glockenkurve [math.],bell-shaped curve
+glockenkurve,bell-shaped curve
 glockenspiel,carillon
 glockenspiel,chimes
 glockenspieler,chimer
@@ -44050,11 +44050,11 @@ grad,deg
 grad,degree
 grad,degrees
 grad,grade
-grad [math.],degree
-grad [math.],order
+grad,degree
+grad,order
 grad celsius,degree centigrade
 gradation,gradation
-gradient [math.],gradient
+gradient,gradient
 gradlinig,straight-line
 graduierte,postgraduate
 gradzahlig,even-numbered
@@ -44105,8 +44105,8 @@ granuliert,grained
 granuliert,granulates
 granulierte,granulated
 grapefruit,grapefruit
-graph [math.],graph
-graphentheorie [math.],graph theory
+graph,graph
+graphentheorie,graph theory
 graphik,graphics
 graphikdatenverabeitung,graphic data processing
 graphikdatenverarbeitung (nur ausgabe),passive graphics
@@ -44351,7 +44351,7 @@ grenzwert,limit
 grenzwert,limiting value
 grenzwert,one-sided
 grenzwert,threshold value
-grenzwert [math.],limit
+grenzwert,limit
 grenzzwischenfall,border incident
 grenzübergang,border crossing (point)
 grenzübergang,checkpoint
@@ -44548,7 +44548,7 @@ grosse hilfe,lifesaver
 grosse kessel,cauldrons
 grosse korbflasche,demijohn
 grosse lust haben zu,to have a good mind to
-grosse milchkanne [br.],churn
+grosse milchkanne,churn
 grosse summen,spates
 grosse zahl,numerousness
 grosseinkauf,bulk purchase
@@ -44843,7 +44843,7 @@ gruppe,group
 gruppe,lot
 gruppe,squad
 gruppe,tern
-gruppe [math.],group
+gruppe,group
 gruppen,bands
 gruppen,groups
 gruppen,squads
@@ -44947,7 +44947,7 @@ grösse,magnitude
 grösse,sizableness
 grösse,size
 grösse,variable
-grösse [math.],quantity
+grösse,quantity
 grössen,bignesses
 grössen,bulks
 grössen,magnitudes
@@ -44961,7 +44961,7 @@ grösser,bigger
 grösser,greater
 grösser,larger
 grösser,taller
-grösser als [math.],greater than
+grösser als,greater than
 grösser eingestellt,sized
 grösseste,tallest
 grösst,main
@@ -44972,7 +44972,7 @@ grösste,greatest
 grösste,largest
 grösste,major
 grösste,ultralarge
-grösste untere schranke [math.],greatest lower bound
+grösste untere schranke,greatest lower bound
 grösstenteils,for the most part
 grösstenteils,mostly
 grösster,ultralarge
@@ -45672,14 +45672,14 @@ halbmond,half moon
 halbmonde,crescents
 halbnackt,half naked
 halboffen,half open
-halboffen [math.],half-open
+halboffen,half-open
 halbpension,bed and breakfast
 halbpensioniert,semiretired
 halbprivat,semiprivate
 halbprofi,semipro
 halbprofi,semiprofessional
 halbprofis,semiprofessionals
-halbraum [math.],half space
+halbraum,half space
 halbrundschraube,round head screw
 halbschatten,penumbra
 halbschnitt,half-section
@@ -46154,10 +46154,10 @@ harmonisch,harmonic
 harmonisch,harmonicly
 harmonisch,harmonious
 harmonisch,harmoniously
-harmonisch [math.],harmonic(al)
+harmonisch,harmonic(al)
 harmonische,harmonical
 harmonische oberschwingung,overtone
-harmonische reihe [math.],harmonic series
+harmonische reihe,harmonic series
 harmonischen,harmonically
 harmonischere,more harmonious
 harmonisches,harmoniously
@@ -46367,8 +46367,8 @@ haupt...,general
 haupt...,main
 haupt...,major
 haupt...,master
-hauptachse [math.],principal axis
-hauptachsentheorem [math.],principal axis theorem
+hauptachse,principal axis
+hauptachsentheorem,principal axis theorem
 hauptaktionär,principal shareholder
 hauptaktionär,shareholder
 hauptaktionäre,shareholders
@@ -46419,7 +46419,7 @@ hauptsache,essential
 hauptsache,main
 hauptsache,main-thing
 hauptsatz,main-clause
-hauptsatz [math.],fundamental theorem
+hauptsatz,fundamental theorem
 hauptschalter,main switch
 hauptschlagader,aorta
 hauptschlüssel,master key
@@ -46606,7 +46606,7 @@ hearing,hearing
 hebamme,midwife
 hebammen,midwifes
 hebammen,midwives
-hebbare unstetigkeit [math.],removable discontinuity
+hebbare unstetigkeit,removable discontinuity
 hebel,hand gear
 hebel,lever
 hebel,levers
@@ -46991,7 +46991,7 @@ heisslaufen,to overheat
 heisslaufend,overheating
 heissluft,hot air
 heissluftballon,hot air balloon
-heisspunkt (halbl.),hotshot
+heisspunkt,hotshot
 heisst,is called
 heiter,alacritous
 heiter,blithe
@@ -47831,7 +47831,7 @@ herüberkommen,overcome
 herüberkommend,coming over
 herüberreichen,to hand
 herüberreichen,to hand over
-hessematrix [math.],hessian
+hessematrix,hessian
 heterodox,heterodox
 heterodoxie,heterodoxy
 heterogen,heterogenous
@@ -48326,7 +48326,7 @@ hinreichend,adequately
 hinreichend,enough
 hinreichend,sufficient
 hinreichend,sufficiently
-hinreichend [math.],sufficient
+hinreichend,sufficient
 hinreichende sorgfalt,adequate care
 hinreissen,to ravish
 hinreissend,enrapturing
@@ -48738,8 +48738,8 @@ hochsee,open sea
 hochseefischerei,deep sea fishing
 hochseil,high wire
 hochsommer,midsummer
-hochspannung (el.),high voltage
-hochspannung (mech.),high tension
+hochspannung,high voltage
+hochspannung,high tension
 hochspannungsleitungen,power lines
 hochsprung,high jump
 hochstapler,impostor
@@ -48954,7 +48954,7 @@ holzwurm,wood worm
 holzwürmer,wood worms
 homogen,homogeneous
 homogen,homogenous
-homogen [math.],homogeneous
+homogen,homogeneous
 homogene,homogeneously
 homogenisieren,homogenize
 homogenisierend,homogenizing
@@ -49305,9 +49305,9 @@ hymnische,hymnals
 hynotisierbar,hypnotizable
 hyperaktiv,hyperactive
 hyperbel,hyperbola
-hyperbel [math.],hyperbola
+hyperbel,hyperbola
 hyperbeln,hyperbolas
-hyperbolisch [math.],hyperbolic
+hyperbolisch,hyperbolic
 hypersonisch,hypersonic
 hypertonie,hypertension
 hypertrophie,hypertrophy
@@ -49549,8 +49549,8 @@ häufte auf,agglomerated
 häufte auf,cumulated
 häufung,accumulation
 häufung,burst
-häufungspunkt [math.],cluster point
-häufungspunkt [math.],limit point
+häufungspunkt,cluster point
+häufungspunkt,limit point
 häuptling,chieftain
 häuschen,cabins
 häuschen,cottage
@@ -49660,7 +49660,7 @@ höhenkrankheit,altitude sickness
 höhenkurort,high altitude resort
 höhenkurort,mountain (health) resort
 höhenlage,altitude
-höhenlinie [math.],level curve
+höhenlinie,level curve
 höhenluft,mountain air
 höhenmesser,altimeter
 höhepunkt,acme
@@ -50236,7 +50236,7 @@ identisch,identical
 identisch,identically
 identische,identically
 identität,identity
-identität [math.],identity
+identität,identity
 identitäten,identicalness
 identitäten,identities
 identitätsnachweis,proof of identity
@@ -50614,10 +50614,10 @@ implizierend,implying
 impliziert,implies
 implizierte,implied
 implizit,implicit
-implizit [math.],implicit
+implizit,implicit
 implizite,implicit
 implizite adresse,implicit address
-implizite funktion [math.],implicit function
+implizite funktion,implicit function
 implodieren,implode
 implosion,implosion
 implosiv,implosive
@@ -51017,7 +51017,7 @@ inbusschraube,socket head screw
 inbusschraube,socket screw
 inches,inches
 include-verschachtelung zu tief,too many nested files
-indefinit [math.],indefinite
+indefinit,indefinite
 indentifizieren,identify
 indessen,meanwhile
 index,index
@@ -51098,8 +51098,8 @@ indossiert,endorses
 indossierte,endorsed
 induktion,induction
 induktionsfrei,non-inductive
-induktionsschritt [math.],induction step
-induktionsvoraussetzung [math.],induction hypothesis
+induktionsschritt,induction step
+induktionsvoraussetzung,induction hypothesis
 induktiv,inductive
 induktive,inductively
 induktivität,inductance
@@ -51147,7 +51147,7 @@ infarkte,infarcts
 infektionskrankheit,infectious disease
 infektiös,infective
 infektiöse,infectively
-infimum [math.],infimum
+infimum,infimum
 infinitiv,infinitive
 infinitive,infinitives
 infinitum,infinitum
@@ -51271,9 +51271,9 @@ initiative,initiative
 initiatoren,initiators
 initiierung,initiation
 injektion,injection
-injektion [math.],injection
+injektion,injection
 injektionen,injections
-injektiv [math.],injective
+injektiv,injective
 injizieren,to inject
 inkarnation,incarnation
 inkarnationen,incarnations
@@ -51349,7 +51349,7 @@ innereien,entrails
 innereien,giblets
 innereien,inwards
 innerer,interior
-innerer punkt [math.],interior point
+innerer punkt,interior point
 innerer wert,intrinsic value
 inneres,inside
 innerhalb,inside
@@ -51527,13 +51527,13 @@ intakteste,in best order
 integer,integer
 integral,definite
 integral,integral
-integral [math.],integral
+integral,integral
 integralrechnung,integral calculus
-integralrechnung [math.],integral calculus
+integralrechnung,integral calculus
 integralrechnungen,integral calculuses
 integration,integration
-integration [math.],integration
-integrierbar [math.],integrable
+integration,integration
+integrierbar,integrable
 integrieren,to assimilate
 integrieren,to integrate
 integrierend,integrating
@@ -51647,7 +51647,7 @@ internierungen,internments
 internist,internist
 interplanetarisch,interplanetary
 interpolation,interpolation
-interpolation [math.],interpolation
+interpolation,interpolation
 interpolieren,intercalate
 interpreter,interpreter
 interpretierbar,interpretable
@@ -51664,7 +51664,7 @@ interrassisch,interracial
 interruptgesteuert,interrupt-driven
 interstellar,interstellar
 intervall,interval
-intervall [math.],interval
+intervall,interval
 intervalle,intervals
 intervalltaktgeber,interval timer
 intervenieren,to intercede
@@ -51721,7 +51721,7 @@ invalidengrenze,disablement pension
 invalidenrente,disability pension
 invalidenversicherung,disability insurance
 invalidität,disablement
-invariant [math.],invariant
+invariant,invariant
 invasion,invasion
 inventar,fixtures
 inventar,inventory
@@ -51736,10 +51736,10 @@ inventur aufnehmen,to take stock
 inventur machen,to take inventory
 inventur machen,to take stock
 invers,reverse
-inverse [math.],inverse
+inverse,inverse
 inverse tangente,arc tangent
 inverser schrägstrich,inversed slant
-invertierbar [math.],invertible
+invertierbar,invertible
 invertiert,inverse
 invertiert,reversed
 invertierte,inverse
@@ -51762,7 +51762,7 @@ investitionssumme,amount to by invested
 investmentfonds,investment fund
 investmentgesellschaft,investment company
 investor,investor
-involution [math.],involution
+involution,involution
 inwendig,inside
 inwiefern,how
 inwiefern,in what way
@@ -51973,13 +51973,13 @@ isolierung,isolation
 isomer,isomer
 isomer,isomeric
 isomere,isomers
-isometrie [math.],isometry
+isometrie,isometry
 isometrisch,isometric
-isometrisch [math.],isometric
+isometrisch,isometric
 isometrische,isometrical
 isometrischen,isometrically
-isomorph [math.],isomorphic
-isomorphismus [math.],isomorphism
+isomorph,isomorphic
+isomorphismus,isomorphism
 isopren,isoprene
 isopropanol,isopropyl
 isopropyl,isopropyl
@@ -52043,7 +52043,7 @@ istzeit,actual time
 italien,italy (it)
 italiener,italian
 italienisch,italian
-iteraktiv [math.],iteractive
+iteraktiv,iteractive
 iterativ,repetitive
 ja,yea
 ja,yep
@@ -52056,7 +52056,7 @@ jacke,jacket
 jacke,jerkin
 jacken,coats
 jacken,jackets
-jacobimatrix [math.],jacobian matrix
+jacobimatrix,jacobian matrix
 jade,jade
 jagd,chevies
 jagd,hunt(ing)
@@ -52478,10 +52478,10 @@ jonglieren,juggle
 jonglierend,juggling
 jonglierte,juggled
 jonglierten,juggles
-jordanbogen [math.],simple arc
+jordanbogen,simple arc
 jordanien,jordan (jo)
-jordankästchen [math.],jordan block
-jordannormalform [math.],jordan canonical form
+jordankästchen,jordan block
+jordannormalform,jordan canonical form
 jota,iota
 joule,joule
 journal,daily ledger
@@ -53564,7 +53564,7 @@ kartenzeichen,conventional sign
 kartenzeichner,cartographer
 kartenzeile,card row
 kartenzuführungsmagazin,hopper
-kartesisch [math.],cartesian
+kartesisch,cartesian
 kartoffel,potato
 kartoffelanbau,potato growing
 kartoffelbranntwein,potato spirit
@@ -53991,7 +53991,7 @@ kaute,masticated
 kauten,masticates
 kaution [recht],bail
 kaution [wirtschaft],security
-kaution [wohnung etc.],deposit
+kaution,deposit
 kautionsfähig,bailable
 kautschuk,caoutchouc
 kauz,codger
@@ -54387,7 +54387,7 @@ kern,pip
 kern,pith
 kern,quintessence
 kern,stone
-kern [math.],kernel
+kern,kernel
 kern der sache,root of the matter
 kern...,nuclear
 kernal,kernal
@@ -54478,7 +54478,7 @@ ketten,chains
 kettenantrieb,chain drive
 kettenblatt,chain ring
 kettenbrief,chain letter
-kettenbruch [math.],continued fraction
+kettenbruch,continued fraction
 kettendrucker,belt printer
 kettendrucker,chain printer
 kettendrucker,chainprinter
@@ -54498,7 +54498,7 @@ kettenraucher,chain smoker
 kettenraucher,chainsmoker
 kettenreaktion,chain reaction
 kettenreaktion,series of reactions
-kettenregel [math.],chain rule
+kettenregel,chain rule
 kettenschaltung,ladder network
 kettenschutz,chainguard
 kettenschutzring,chainguard
@@ -55361,7 +55361,7 @@ kleiner,smaller
 kleiner,sonny
 kleiner,teenier
 kleiner,tinier
-kleiner als [math.],less than
+kleiner als,less than
 kleiner finger,pinkie
 kleiner finger,pinky
 kleiner handkoffer,valise
@@ -55426,7 +55426,7 @@ kleinste,scrawniest
 kleinste,skimpiest
 kleinste,smallest
 kleinste,teeniest
-kleinste obere schranke [math.],least upper bound
+kleinste obere schranke,least upper bound
 kleinsten,smallest
 kleinster,lowest
 kleinster teil,whit
@@ -56053,8 +56053,8 @@ knoten,nodes
 knoten,to kink
 knoten,to knot
 knoten...,nodal
-knotenamt (tel.),gateway exchange
-knotenamt (tel.),nodal switching center
+knotenamt,gateway exchange
+knotenamt,nodal switching center
 knotend,kinking
 knotend,knotting
 knotenförmig,nodular
@@ -56202,7 +56202,7 @@ kodifizierte,codified
 kodifizierung,codification
 koedukation,coeducation
 koeffizient,coefficient
-koeffizient [math.],coefficient
+koeffizient,coefficient
 koexistent,coexistent
 koexistenz,coexistence
 koexistieren,coexist
@@ -56571,20 +56571,20 @@ kommunizierend,communing
 kommuniziert,communes
 kommunizierte,communed
 kommunizierte,communicated
-kommutativ [math.],commutative
-kommutativgesetz [math.],commutative law
+kommutativ,commutative
+kommutativgesetz,commutative law
 komoren,comoros (km)
 kompakt,compact
 kompakt,compactly
-kompakt [math.],compact
+kompakt,compact
 kompaktbauweise,compact design
 kompaktbildplatte,compact videodisk
 kompaktdiskette,compact floppy disk
 kompaktere,more compact
 kompakteste,most compact
 kompaktheit,compactness
-kompaktheit [math.],compactness
-kompaktifizierung [math.],compactification
+kompaktheit,compactness
+kompaktifizierung,compactification
 kompaktplatte (cd),compact disk
 kompanie,company
 kompanten,compasses
@@ -56607,7 +56607,7 @@ kompetenzbereich,area of discretion
 kompetenzbereich,sphere of competence
 kompetenzbereiche,spheres of competence
 kompilation,compilation
-komplement [math.],complement
+komplement,complement
 komplementbildung,complementation
 komplementbildung,complementing
 komplementiereinrichtung,complementer
@@ -56618,7 +56618,7 @@ kompletteste,most complete
 komplex,complex
 komplex,complexly
 komplexe,complexes
-komplexe zahl [math.],complex number
+komplexe zahl,complex number
 komplexität,complexness
 komplikation,complication
 komplikationen,intricacies
@@ -56641,14 +56641,14 @@ komplizierteste,most complicated
 kompliziertheit,complexity
 kompliziertheit,intricacy
 komponente,component
-komponente [math.],component
+komponente,component
 komponenten,components
 komponieren,to compose
 komponiert,composes
 komponist,composer
 komposition,composition
 komposition,hymn
-komposition [math.],composition
+komposition,composition
 kompost,compost
 kompott,stewed fruit
 kompression,compression
@@ -56756,9 +56756,9 @@ kongresse,conventions
 kongresshalle,congress hall
 kongressmitglied,congressman
 kongressteilnehmer,member of a congress
-kongruent [math.],congruent
+kongruent,congruent
 kongruenz,congruency
-kongruenz [math.],congruence
+kongruenz,congruence
 kongruenzen,congruencies
 konifere,conifer
 koniferen,conifers
@@ -56783,7 +56783,7 @@ konjunkturelle arbeitslosigkeit,aggregate unemployment
 konjunkturschwankungen,cyclical fluctuations
 konjunkturzyklus,trade cycle
 konkav,concave
-konkav [math.],concave
+konkav,concave
 konklave,conclave
 konklaven,conclaves
 konkret,concretely
@@ -56905,7 +56905,7 @@ konstant,constant
 konstant,constantly
 konstant,non-varying
 konstant,uniformly
-konstant [math.],constant
+konstant,constant
 konstante,absolute term
 konstante,constant
 konstante ausserhalb des zulässigen bereichs,constant out of range
@@ -57138,10 +57138,10 @@ konventionalstrafe,penalty (for non-performance)
 konventionell,conventional
 konventionell,conventionally
 konventionen,conventions
-konvergent [math.],convergent
+konvergent,convergent
 konvergenz,convergence
-konvergenz [math.],convergence
-konvergenzradius [math.],radius of convergence
+konvergenz,convergence
+konvergenzradius,radius of convergence
 konvergieren,converge
 konvergierend,converging
 konvergiert,converges
@@ -57156,7 +57156,7 @@ konvertiert,converted
 konvertiert,converts
 konvertierung,conversion
 konvex,convex
-konvex [math.],convex
+konvex,convex
 konzentrat,concentrate
 konzentrate,concentrates
 konzentration,concentration
@@ -57201,12 +57201,12 @@ kooperativen,cooperatives
 kooperieren,to cooperate
 kooptieren,co opt
 koordinate,coordinate
-koordinate [math.],coordinate
+koordinate,coordinate
 koordinaten,coordinates
 koordinatenschreiber,coordinatograph
 koordinatenschreiber,x-y plotter
 koordinatenschreiber,x-y recorder
-koordinatensystem [math.],coordinate system
+koordinatensystem,coordinate system
 koordinatenwandler,resolver
 koordination,coordination
 koordinator,coordinator
@@ -57341,8 +57341,8 @@ korkartig,corky
 korkeiche,cork oak
 korken,cork
 korkenzieher,corkscrew
-kormoran [zoo.],(great) cormorant
-kormoran [zoo.],sea raven
+kormoran,(great) cormorant
+kormoran,sea raven
 korn,corn
 korn,grain
 kornettist,cornetist
@@ -57350,7 +57350,7 @@ kornfeld,corn field
 kornfeld,cornfield
 kornkammer,granary
 kornkammern,granaries
-korollar [math.],corollary
+korollar,corollary
 koronar,coronary
 korregieren,corrects
 korrekt,correct
@@ -57826,7 +57826,7 @@ kreis,circuit
 kreis,cycle
 kreis,district
 kreis,ring
-kreis [math.],circle
+kreis,circle
 kreis...,orbital
 kreisabschnitt,segment
 kreisabschnitt,segment of circle
@@ -57880,7 +57880,7 @@ kreislinien,circuits
 kreisläufe,circuits
 kreisprozess,cycle
 kreisrund,circular
-kreisscheibe [math.],disk
+kreisscheibe,disk
 kreissäge,circular saw
 kreist,gyrates
 kreist ein,encircles
@@ -57928,7 +57928,7 @@ kreuzigte,crucified
 kreuzigung,crucifixion
 kreuzigungen,crucifixions
 kreuzkümmel,cumin
-kreuzprodukt [math.],cross product
+kreuzprodukt,cross product
 kreuzschlitz,cross recess
 kreuzschlitzschraube,phillips screw
 kreuzschraffierung,crosshatching
@@ -58082,7 +58082,7 @@ kriterien,criteria
 kriterien,criterions
 kriterium,criterion
 kriterium (radsport),circuit race
-kriterium [math.],criterion
+kriterium,criterion
 kritik,criticism
 kritik,cutup
 kritik,review
@@ -58391,7 +58391,7 @@ kugel,bullet
 kugel,globe
 kugel,orb
 kugel...,spherical
-kugelflächenfunktion [math.],spherical harmonic
+kugelflächenfunktion,spherical harmonic
 kugelförmig,globular
 kugelförmig,orbicular
 kugelförmig,sherical
@@ -58694,7 +58694,7 @@ kursänderung (verkehr),change of course
 kurtisane,courtesan
 kurve,bend
 kurve,curve
-kurve [math.],curve
+kurve,curve
 kurven,curves
 kurvenblatt,graph
 kurvenförmig,curvilinear
@@ -59008,7 +59008,7 @@ körnung,granulation
 körper,bodies
 körper,body
 körper,systemic
-körper [math.],field
+körper,field
 körperbau,physique
 körpergeruch,body odour
 körperhaltung,posture
@@ -59486,7 +59486,7 @@ lagerwirtschaft,administration of inventory
 lagerzapfen,bearing pin
 lagerzapfen,journal
 lagerzugänge,addition to stocks
-lagrangescher multiplikator [math.],lagrange multiplier
+lagrangescher multiplikator,lagrange multiplier
 lagune,lagoon
 lagune,laguna
 lahm,gammy
@@ -60562,7 +60562,7 @@ leibeigenen,thralls
 leibeigenschaft,peonage
 leibeigenschaft,serfdom
 leibgarde,life guards
-leibnizkriterium [math.],leibniz test
+leibnizkriterium,leibniz test
 leibrente,annuity for life
 leibschmerz,belly ache
 leibschmerzen,belly aches
@@ -60914,7 +60914,7 @@ lektor (verlag),reader
 lektüre,lecture
 lektüre,reading
 lektüre,reading matter
-lemma [math.],lemma
+lemma,lemma
 lemming,lemming
 lemminge,lemmings
 lende,haunch
@@ -61526,8 +61526,8 @@ lila,purple
 lilie,lily
 lilien,lilies
 liliputaner,lilliputian
-limes [math.],limit
-limes superior / inferior [math.],upper / lower limit
+limes,limit
+limes superior / inferior,upper / lower limit
 limitierbar,limitable
 limonade,[am.] soda pop
 limonade,fizzy drink
@@ -61570,15 +61570,15 @@ linear,in-line
 linear,linear
 linear,straight-line
 linear,unidimensional
-linear (un)abhängig [math.],linearly (in)dependent
-linear [math.],linear
+linear (un)abhängig,linearly (in)dependent
+linear,linear
 lineare optimierung,linear optimization
 linearisieren,to linearize
 linearisiert,linearized
 linearisierung,linearization
 linearisierung,linearizing action
 linearität,linearity
-linearkombination [math.],linear combination
+linearkombination,linear combination
 linguist,linguist
 linguistischen,linguistically
 linie,curve
@@ -61607,12 +61607,12 @@ linkshänder,southpaw
 linkskurve,left turn
 linksruck (politisch),swing to the left
 linksseitig,sinistral
-linksseitig differenzierbar [math.],diff. from below
-linksseitig differenzierbar [math.],from the left
-linksseitiger grenzwert [math.],left-hand limit
-linksstetig [math.],c. from below
-linksstetig [math.],left-contin.
-linksstetig [math.],the left
+linksseitig differenzierbar,diff. from below
+linksseitig differenzierbar,from the left
+linksseitiger grenzwert,left-hand limit
+linksstetig,c. from below
+linksstetig,left-contin.
+linksstetig,the left
 linkssteuerung,left-hand drive
 linksverkehr,drive on the left
 linoleum,lino
@@ -61758,7 +61758,7 @@ lobte,lauded
 lobte,laudet
 lobte,praised
 loch,hole
-loch (halbl.),p-hole
+loch,p-hole
 loch ausfräsen,to countersink
 loch ausfräsend,countersinking
 lochabstand,hole spacing
@@ -61845,7 +61845,7 @@ log,belied
 logarithmisch,logarithmic
 logarithmisch,logarithmically
 logarithmische,logarithmical
-logarithmus [math.],logarithm
+logarithmus,logarithm
 logieren,lodge
 logiert,lodges
 logierte,lodged
@@ -61915,13 +61915,13 @@ loipe,cross-country skiing trail
 lokal,local
 lokal,premises
 lokal,regional
-lokal [math.],local
+lokal,local
 lokale,restaurants
 lokale variable,area variable
-lokales / globales [math.],local / global
-lokales / globales [math.],maximum
-lokales / globales [math.],minimum
-lokales extremum [math.],local extremum
+lokales / globales,local / global
+lokales / globales,maximum
+lokales / globales,minimum
+lokales extremum,local extremum
 lokales netz (lan),local aera network
 lokalisieren,to localize
 lokalisieren,to locate
@@ -62482,7 +62482,7 @@ löblich,laudable
 löbliche,laudably
 löblichkeit,praiseworthiness
 löcher,holes
-löcherstrom (halbl.),hole current
+löcherstrom,hole current
 löchrig,holey
 löffel,spoon
 löffel,spoonful
@@ -62605,12 +62605,12 @@ lösung,denouement
 lösung,lotion
 lösung,resolution
 lösung,solution
-lösung [math.],solution
+lösung,solution
 lösungen,denouements
 lösungen,lotions
 lösungen,solutions
 lösungskonzept,solution
-lösungsmenge [math.],solution set
+lösungsmenge,solution set
 lösungsmittel,dissolver
 lösungsmittel,solvent
 lötbar,solderable
@@ -62977,7 +62977,7 @@ magnettafel,magnet board
 magnettinte,magnetic ink
 magnettrommel,magnetic drum
 magnetventil,solenoid valve
-magnetverstärker (abk.),magamp
+magnetverstärker,magamp
 magnetwiderstand,magneto-resistance
 magnetwiderstand,magneto-resistor
 magnetwiderstandsbeständig,magneto-resistive
@@ -63037,7 +63037,7 @@ majestätisch,majesticly
 majestätische,majestical
 majestätisches,majestically
 major,major
-majorisierte konvergenz [math.],dominated convergence
+majorisierte konvergenz,dominated convergence
 makaroni,macaroni
 makellos,immaculate
 makellos,unblemished
@@ -63600,7 +63600,7 @@ mass,degree
 mass,gauge
 mass,measure
 mass,measurement
-mass [math.],measure
+mass,measure
 mass aus,gauged
 mass aus,sized
 mass für den informationsgehalt,entropy
@@ -63773,7 +63773,7 @@ matratze,mattress
 matratzen,mattresses
 matriarchat,matriarchy
 matrix,array
-matrix [math.],matrix
+matrix,matrix
 matrixbilanz,articulation statement
 matrixdrucker,dot-matrix printer
 matrixrechner,array processor
@@ -64021,7 +64021,7 @@ mehrfachbild (auf bildschirm),multiple image
 mehrfachchip,multi chip
 mehrfache,multiples
 mehrfache genauigkeit,multiple precision
-mehrfaches integral [math.],multiple integral
+mehrfaches integral,multiple integral
 mehrfachfunktion,multifunction
 mehrfachkanal,multichannel
 mehrfachlochung (einer spalte),multiple punching
@@ -64286,7 +64286,7 @@ menge,plenty
 menge,quantity
 menge,quantum
 menge,quiverful
-menge [math.],set
+menge,set
 mengen,crowds
 mengen,lots
 mengen,masses
@@ -64430,7 +64430,7 @@ mess...,measuring
 messbar,commensurable
 messbar,measurable
 messbar,mensurable
-messbar [math.],measurable
+messbar,measurable
 messbare,measurably
 messbare,mensural
 messbarere,more measurable
@@ -64958,7 +64958,7 @@ minimal,minimally
 minimale,minimal
 minimalere,more minimal
 minimalist,minimalist
-minimalpolynom [math.],minimum polynomial
+minimalpolynom,minimum polynomial
 minimalste,most minimal
 minimieren,minimize
 minimierend,minimizing
@@ -64978,7 +64978,7 @@ ministrant,ministrant
 ministranten,ministrants
 minnesänger,minstrel
 minnesänger,minstrels
-minor [math.],minor
+minor,minor
 minuend,minuend
 minus,minus
 minute,minute
@@ -65647,12 +65647,12 @@ mittelmässigste,most mediocre
 mittelohr,tympanic
 mittelohr,tympanum
 mittelohren,tympanums
-mittelpfosten (z.b. im fenster) [arch.],mullion
-mittelpfosten (z.b. im fenster) [arch.],muntin
+mittelpfosten (z.b. im fenster),mullion
+mittelpfosten (z.b. im fenster),muntin
 mittelpunkt,center [am.]
 mittelpunkt,centre [br.]
 mittelpunkt,epicenter
-mittelpunkt [math.],centre
+mittelpunkt,centre
 mittelpunkte,epicenters
 mittels,by means of
 mittelsmann,middleman
@@ -65666,7 +65666,7 @@ mittelverwendung,application of funds
 mittelwelle,medium wave
 mittelwert bilden (aus),to average (over)
 mittelwertbildung,averaging
-mittelwertsatz [math.],mean value theorem
+mittelwertsatz,mean value theorem
 mittelzuweisung,apportionment of funds
 mitten,middles
 mitten am tag,in broad daylight
@@ -65937,7 +65937,7 @@ monolith,monolith
 monolitisch,monolithic
 monolog,monologue
 monolytisch,monolythic
-monom [math.],monom
+monom,monom
 mononukleose,mononucleosis
 monophon,monophonic
 monophone,monophonically
@@ -65954,13 +65954,13 @@ monopolistisch,monopolistic
 monopolstellung,monopoly
 monostabil,monostable
 monoton,monotonous
-monoton  [math.],monotonic
-monoton  [math.],monotone
+monoton,monotonic
+monoton,monotone
 monotone,monotonously
-monotone konvergenz [math.],monotone convergence
+monotone konvergenz,monotone convergence
 monotones geräusch,monotone
 monotonie,monotony
-monotonie [math.],monotony
+monotonie,monotony
 monotonien,monotonies
 monoxyd,monoxide
 monster,monster
@@ -66170,7 +66170,7 @@ multiplexkanal,multiplex channel
 multiplexverbindung,multiplex line
 multiplikand,multiplicand
 multiplikation,multiplication
-multiplikation [math.],multiplication
+multiplikation,multiplication
 multiplikator,multiplier
 multiplizieren,multiply
 multiplizierte,multiplied
@@ -66834,8 +66834,8 @@ mütze,cap
 mützen,caps
 n-leitend,n type
 n-leitendes material,n material
-n-mal [math.],differentiable
-n-mal [math.],n times
+n-mal,differentiable
+n-mal,n times
 n-stufig,n ary
 nabe,hub
 nabel,navel
@@ -66881,8 +66881,8 @@ nach meinen erfahrungen,in my experience
 nach meiner schätzung,by my count
 nach noten singen,sing from music
 nach oben,upstairs
-nach oben / unten [math.],bounded above / below
-nach oben beschränkt [math.],bounded above
+nach oben / unten,bounded above / below
+nach oben beschränkt,bounded above
 nach oben gewandt,upturned
 nach oben wenden,to upturn
 nach oben wendend,upturning
@@ -66900,7 +66900,7 @@ nach und nach,bit by bit
 nach und nach,by and by
 nach und nach,by degrees
 nach und nach,little by little
-nach unten beschränkt [math.],bounded below
+nach unten beschränkt,bounded below
 nach vorn,forward
 nach vorn,forwardly
 nach vorn,forwards
@@ -67105,7 +67105,7 @@ nachladen,to recharge
 nachladen,to reload
 nachladend,recharging
 nachlass,bequest
-nachlass [econ.],deduction
+nachlass,deduction
 nachlassen,sunk
 nachlassen,to abandon ship
 nachlassen,to abate
@@ -67698,9 +67698,9 @@ natürliche gabe,dower
 natürliche grösse (massstab 1:1),full size
 natürliche zahl,natural number
 natürliche zahl,nonnegative integer
-natürliche zahl [math.],natural
-natürliche zahl [math.],natural number
-natürliche zahl [math.],whole number
+natürliche zahl,natural
+natürliche zahl,natural number
+natürliche zahl,whole number
 natürlicher,naturallier
 natürlicher logarithmus,natural logarithm
 natürlichkeit,instinctiveness
@@ -67751,7 +67751,7 @@ nebenanspruch,accessory claim
 nebenanspruch,additional claim
 nebenantrieb,auxiliary drive
 nebenbedeutung,connotation
-nebenbedingung [math.],side condition
+nebenbedingung,side condition
 nebenbedingungen,auxiliary condition
 nebenbei,by the way
 nebenbei bemerkt,by the way
@@ -67861,8 +67861,8 @@ neffen,nephews
 negation,negation
 negationen,negations
 negativ,negative
-negativ [math.],negative
-negativ definit [math.],negative definite
+negativ,negative
+negativ definit,negative definite
 negative,negatively
 negative abweichung,adverse variance
 negative auskunft,unfavourable information
@@ -67968,7 +67968,7 @@ nenndrehzahl,rated speed
 nennen,to name
 nennenswert,appreciable
 nennenswert,namable
-nenner [math.],denominator
+nenner,denominator
 nennleistung,power rating
 nennleistung,wattage rating
 nennmass,basic size
@@ -68492,7 +68492,7 @@ neuste,newest
 neutral,neutral
 neutral,neutrally
 neutralere,more neutral
-neutrales element [math.],identity element
+neutrales element,identity element
 neutralisieren,neutralize
 neutralisieren,to absorb
 neutralisierend,neutralizing
@@ -69076,7 +69076,7 @@ nichtmetall,nonmetal
 nichtmetalle,nonmetals
 nichtmetallisch,nonmetallic
 nichtmitglied,nonmember
-nichtnegativ [math.],nonnegative
+nichtnegativ,nonnegative
 nichtnumerisch,non-numeric
 nichtnumerisch,non-numerical
 nichtpolarisiert,non-polarized
@@ -69104,7 +69104,7 @@ nichts unversucht lassen,to leave nothing undone
 nichtsdestoweniger,nevertheless
 nichtsein,nonentities
 nichtsein,unexistence
-nichtsingulär [math.],nonsingular
+nichtsingulär,nonsingular
 nichtsnutzig,good for nothing
 nichtspezialisiert,nondedicated
 nichtssagend,featureless
@@ -69271,8 +69271,8 @@ nikolaustag,st. nicholas´ day
 nikotin,nicotine
 nikotinfrei,non nicotine
 nilpferd,hippo
-nilpotent [math.],nilpotent
-nilpotenzindex [math.],index of nilpotence
+nilpotent,nilpotent
+nilpotenzindex,index of nilpotence
 nimm alles!,take the lot!
 nimm dich zusammen!,be yourself!
 nimm dich zusammen!,get a grip!
@@ -69431,14 +69431,14 @@ nordöstlich,northeastern
 nordöstliche,northeasterly
 norfolkinsel,norfolk island (nf)
 norm,norm
-norm [math.],norm
+norm,norm
 norm...,standard
 normal,normal
 normal,regular
 normal,standard
 normal,usual
 normale,perpendicular
-normale [math.],normal
+normale,normal
 normalen,normals
 normalere,more normal
 normalerweise,naturally
@@ -69557,7 +69557,7 @@ notwendig,necessary
 notwendig,necessitative
 notwendig,needfull
 notwendig,needfully
-notwendig [math.],necessary
+notwendig,necessary
 notwendigere,more necessary
 notwendigerweise,necessarily
 notwendigkeit,necessity
@@ -69583,7 +69583,7 @@ null,nothing
 null,nought
 null,null
 null,zero
-null [math.],zero
+null,zero
 null und nichtig,null and void
 null-leiter,neutral lead
 null-leiter,zero conductor
@@ -69594,13 +69594,13 @@ nullauffüllung,zerofill
 nulldivision,zero division
 nulleichung,zero adjust
 nulleiter,neutral
-nullelement [math.],zero element
+nullelement,zero element
 nullen,naughts
 nullen,nobodies
 nullen,nulls
 nullen,zeros
-nullmatrix [math.],zero matrix
-nullmenge [math.],null set
+nullmatrix,zero matrix
+nullmenge,null set
 nulloperation,no-operating instruction
 nulloperation,no-operation (nop)
 nulloperation,waste instruction
@@ -69610,10 +69610,10 @@ nullpunktabweichung,zero error
 nullpunktverschiebung,zero offset
 nullspannungsgesichert,retentive memory
 nullstellung,zero position
-nullteiler [math.],zero divisor
+nullteiler,zero divisor
 nullunterdrückung,zero compression
 nullunterdrückung,zero suppression
-nullvektor [math.],zero vector
+nullvektor,zero vector
 nullzeit,zerohour
 numerieren,to number
 numeriert,numbered
@@ -69776,7 +69776,7 @@ näherte,approached
 näherte,neared
 näherungsfehler,approximation error
 näherungsrechnung,approximate computation
-näherungsschalter (el.),proximity switches
+näherungsschalter,proximity switches
 näherungswert,approximate value
 näherungswerte,approximate values
 nähfaden,cotton
@@ -69965,11 +69965,11 @@ oberbegriff,genus
 oberdeck,upper deck
 obere,upper
 obere,upstairs
-obere / untere [math.],triangular matrix
-obere / untere [math.],upper / lower
-obere dreiecksmatrix [math.],upper triangular matrix
+obere / untere,triangular matrix
+obere / untere,upper / lower
+obere dreiecksmatrix,upper triangular matrix
 obere grenze,upper bound
-obere schranke [math.],upper bound
+obere schranke,upper bound
 obere umschaltung,upper case
 oberer,superior
 oberer,upper
@@ -69980,7 +69980,7 @@ obererde,topsoil
 oberes,upstairs
 oberfläche,face
 oberfläche,surface
-oberfläche [math.],surface
+oberfläche,surface
 oberflächenleitung,surface conduction
 oberflächenneutralisierung,surface passivation
 oberflächenspannung,surface tension
@@ -70035,7 +70035,7 @@ oberlippen,upper lips
 oberlänge von druckertypen,ascender
 oberlängen,ascenders
 oberläufer,headwaters
-obermenge [math.],superset
+obermenge,superset
 oberrohr,top tube
 oberschenkel,femoral
 oberschenkelbein,femora
@@ -70055,7 +70055,7 @@ oberstaatsanwalt,senior prosecutor
 oberste,toggling
 oberste unternehmensleitung,administrative management
 oberster treppenabsatz,stairhead
-obersumme [math.],upper sum
+obersumme,upper sum
 oberteil,entablature
 oberteil,top
 oberteile,tops
@@ -70073,7 +70073,7 @@ objekte,objects
 objekteditor,objedit
 objektiv,impartial
 objektiv,objective
-objektiv (phot.),lens
+objektiv,lens
 objektive,objectively
 objektivere,more objective
 objektivieren,objectify
@@ -70160,7 +70160,7 @@ offen,unclenched
 offen,unconcealed
 offen,unharbored
 offen,unhidden
-offen [math.],open
+offen,open
 offen gesagt,...
 offen gesagt,frankly
 offen und ehrlich,open and above board
@@ -70195,7 +70195,7 @@ offene lehrstellen,apprenticeship openings
 offene schleife,open loop
 offene see,offing
 offene stelle,opening
-offene überdeckung [math.],open cover
+offene überdeckung,open cover
 offener kreislauf,open circuit
 offener rechenzentrumsbetrieb,open shop
 offenere,more open
@@ -70408,7 +70408,7 @@ operationslinien,baselines
 operationsraum,operating room
 operationsteil,operation part
 operationsteil,operations code
-operator [math.],operator
+operator,operator
 operette,operetta
 operieren,to operate
 opern,operas
@@ -70572,7 +70572,7 @@ ordnete wieder ein,realigned
 ordnung,order
 ordnung,orderliness
 ordnung,tidiness
-ordnung [math.],order
+ordnung,order
 ordnung halten,to keep order
 ordnung machen,to neaten
 ordnung machend,neatening
@@ -70646,7 +70646,7 @@ orientierend,orientating
 orientierende,orienting
 orientiert,orientates
 orientiert,oriented
-orientiert [math.],oriented
+orientiert,oriented
 orientierte,orientated
 orientierte,oriented
 orientierung,orientation
@@ -70678,15 +70678,15 @@ orthodox,orthodoxly
 orthodoxe,orthodox
 orthodoxie,orthodoxy
 orthogonal,orthogonal
-orthogonal [math.],orthogonal
+orthogonal,orthogonal
 orthogonale,orthogonally
 orthographie,orthography
 orthographie,spelling
 orthographisch,orthographic
 orthographischer,orthographically
-orthonormal [math.],orthonormal
-orthonormalbasis [math.],orthonormal basis
-orthonormalisierungsverfahren [math.],othonormalization process
+orthonormal,orthonormal
+orthonormalbasis,orthonormal basis
+orthonormalisierungsverfahren,othonormalization process
 orthopädie,orthopedics
 orthopädie,orthopedy
 orthopädisch,orthopedic
@@ -70802,7 +70802,7 @@ paarungen,pairings
 paarungszeit,mating season
 paarweise,by pairs
 paarweise,in pairs
-paarweise [math.],pairwise
+paarweise,pairwise
 pabstkrone,tiara
 pacht,lease
 pacht,leasehold
@@ -71018,7 +71018,7 @@ papyrus,papyrusi
 parabel,parable
 parabel,parabola
 parabel (gleichnis),parable
-parabel [math.],parabola
+parabel,parabola
 parabelförmig,parabolic
 parabolantenne,dish antenna
 parabolisch,parabolically
@@ -71049,7 +71049,7 @@ paragraphen,paragraphs
 paraguay,paraguay (py)
 parallaxe,parallax
 parallel,parallel
-parallel [math.],parallel
+parallel,parallel
 parallel laufen,parallel
 parallel schalten,to shunt
 parallel-schnittstelle,parallel interface
@@ -71079,7 +71079,7 @@ paralytisch,paralytic
 paramecien,paramecia
 parameter,parameter
 parameter,parameters
-parameter [math.],parameter
+parameter,parameter
 parameterisieren,parameterize
 parameterisierend,parameterizing
 parameterisiert,parameterizes
@@ -71089,7 +71089,7 @@ parametrisch,parametrical
 parametrische,parametrically
 parametrisches programmieren,parametric programming
 parametrisierung,parameterization
-parametrisierung [math.],parametrization
+parametrisierung,parametrization
 paramilitarität,paramilitary
 paranoia,paranoia
 paranoid,paranoid
@@ -71190,15 +71190,15 @@ parteivorsitzenden,chairmen of a party
 parteizugehörigkeit,party affiliation
 parterre,first floor [am.]
 parterre,ground floor
-partialsumme [math.],partial sum
+partialsumme,partial sum
 partie,game
 partie,lot
 partie,party
-partiell differenzierbar [math.],partial differentiable
-partielle / totale [math.],derivative
-partielle / totale [math.],partial / total
-partielle ableitung [math.],partial derivative
-partielle integration [math.],integration by parts
+partiell differenzierbar,partial differentiable
+partielle / totale,derivative
+partielle / totale,partial / total
+partielle ableitung,partial derivative
+partielle integration,integration by parts
 partiellere,more partial
 partiellste,most partial
 partien,games
@@ -71627,7 +71627,7 @@ pergamentrolle,pell
 pergola,pergola
 periode,cycle
 periode,period
-periode [math.],period
+periode,period
 periode erhöhter gefahr,apprehensive period
 perioden,cycles
 perioden,periods
@@ -71640,7 +71640,7 @@ periodisch,cyclical
 periodisch,oscillatory
 periodisch,periodic
 periodisch,periodical
-periodisch [math.],periodical
+periodisch,periodical
 periodisch wiederkehrend,recurrent
 periodische,cyclically
 periodische,intermittently
@@ -71692,7 +71692,7 @@ permanenteste,most permanent
 permanentspeicher,non-volatile storage
 permeabilität,permeability
 permutation,permutation
-permutation [math.],permutation
+permutation,permutation
 peroxidierend,peroxiding
 peroxidiert,peroxides
 peroxidierte,peroxided
@@ -72857,7 +72857,7 @@ polarisiert,polarizes
 polarisierung,polarization
 polarität,polarity
 polaritäten,polarities
-polarkoordinate [math.],polar coordinate
+polarkoordinate,polar coordinate
 polarkreis,polar circle
 polarlicht,northern lights
 polarstern,polar star
@@ -73009,8 +73009,8 @@ polymerisierte,polymerized
 polymorphie,polymorphism
 polymorphismus,polymorphism
 polynesien,polynesia
-polynom [math.],polynomal
-polynom [math.],polynomial
+polynom,polynomal
+polynom,polynomial
 polyp,polyp
 polypen,polyps
 polyphon,polyphonic
@@ -73133,10 +73133,10 @@ positiv,affirmative
 positiv,affirmatory
 positiv,positive
 positiv,positively
-positiv / negativ [math.],definite
-positiv / negativ [math.],positive / negative
-positiv [math.],positive
-positiv definit [math.],positive definite
+positiv / negativ,definite
+positiv / negativ,positive / negative
+positiv,positive
+positiv definit,positive definite
 positive ziffer,significant digit
 positivere,more positive
 positivismus,positivism
@@ -73220,13 +73220,13 @@ potentiell,potential
 potenz,potency
 potenz,power
 potenz,virility
-potenz (n-te von x) [math.],(x to the) power (of n)
+potenz (n-te von x),(x to the) power (of n)
 potenziere,raise to higher power
 potenzieren,exponentiate
 potenziert,raises to higher power
 potenzierte,raised to higher power
-potenzmenge [math.],power set
-potenzreihe [math.],power series
+potenzmenge,power set
+potenzreihe,power series
 potenzschreibweise,power mode
 potpourri,medly
 potpourries,medlies
@@ -73515,7 +73515,7 @@ primitivismus,primitivism
 primitivste,most primitive
 primzahl,indivisible number
 primzahl,prime number
-primzahl [math.],prime number
+primzahl,prime number
 primärbibliothek,source library
 primärdatei,primary file
 primärdaten,primary data
@@ -73621,7 +73621,7 @@ probst,rehearse
 probt,rehearses
 probten,rehearsed
 produkt,product
-produkt [math.],product
+produkt,product
 produkte,products
 produktenhandel,trade in agricultural produce
 produkthaftung,product liability
@@ -73644,7 +73644,7 @@ produktivität,productivity
 produktivste,most productive
 produktmuster,trial product sample
 produktpalette,array of products
-produktregel [math.],product rule
+produktregel,product rule
 produzieren,produce
 produzieren,to produce
 produzieren,to turn out
@@ -73763,7 +73763,7 @@ projektieren,to plan
 projektieren,to project
 projektingenieur,project engineer
 projektion,projection
-projektion [math.],projection
+projektion,projection
 projektor,projectionist
 projektor,projector
 projektortisch,projector table
@@ -74398,7 +74398,7 @@ punkt,point
 punkt,punctilio
 punkt,spot
 punkt 10 uhr,at ten o'clock sharp
-punkt [math.],point
+punkt,point
 punkt zu punkt anschluss,point-to-point
 punkte,points
 punkte,punctilios
@@ -74406,13 +74406,13 @@ punkte erzielen,to score
 punktgleich sein (sport),to be level on points
 punktieren (medizin),to tap
 punktiert,dotted
-punktiert [math.],punctured
+punktiert,punctured
 punktierte linie,broken line
 punktion (medizin),tap
 punktraster,aspect ratio
 punktraster,dot matrix
 punktschweissen,spot-welding
-punktweise konvergenz [math.],pointwise convergence
+punktweise konvergenz,pointwise convergence
 punktzahl,score
 pupille,pupil
 puppe,doll
@@ -74533,19 +74533,19 @@ pürilität,puerility
 quacksalberei,quackery
 quacksalbereien,quackeries
 quadrant,quadrant
-quadrant [math.],quadrant
+quadrant,quadrant
 quadrat,quadrat
 quadrat,square
-quadrat [math.],square
+quadrat,square
 quadrate,squares
 quadratisch,quadrate
 quadratisch,square
-quadratisch [math.],quadratic
+quadratisch,quadratic
 quadratische,quadratics
 quadratmeter,square meter
 quadratmeter,square meters
 quadratwurzel,square root
-quadratwurzel [math.],square root
+quadratwurzel,square root
 quadrille,quadrille
 quaken,croak
 quaken,quack
@@ -74815,8 +74815,8 @@ quote,rate
 quote,share
 quoten,quotas
 quotient,quotient
-quotient [math.],quotient
-quotientenregel [math.],quotient rule
+quotient,quotient
+quotientenregel,quotient rule
 quotierend,quoting
 quotiert,quotes
 quotierte,quoted
@@ -75214,7 +75214,7 @@ rand,margin
 rand,rim
 rand,side
 rand,verge
-rand [math.],boundary
+rand,boundary
 rand...,surrounding
 randalierend,rioting
 randalierer,hooligan
@@ -75237,14 +75237,14 @@ randgebiet,borderland
 randgebiet,fringe
 randgebiet,outskirts
 randgruppe,fringe group
-randgängigkeit [chem.],wall effect
+randgängigkeit,wall effect
 randkerbung,marginal notch
 randkontakt einer platine,edgeboard contact
 randlochkarte,border-punched card
 randlochkarte,edge-punched card
 randproblem,marginal-problem
 randproblem,side issue
-randpunkt [math.],boundary point
+randpunkt,boundary point
 randstecker (einer platine),edge connector
 randstein,curb
 randstein,curbstone
@@ -75258,7 +75258,7 @@ rang,grade
 rang,rank
 rang,state
 rang,wrestled
-rang [math.],rank
+rang,rank
 rangabzeichen,badge of rank
 rangabzeichen,insignia
 range,brat
@@ -75451,7 +75451,7 @@ ratifizieren,ratify
 ration,ration
 rational,rational
 rationale zahl,rational number
-rationale zahl [math.],rational number
+rationale zahl,rational number
 rationalisieren,to rationalize
 rationalisierend,rationalizing
 rationalisiert,rationalizes
@@ -75605,7 +75605,7 @@ rauhte auf,roughens
 raum,range
 raum,room
 raum,space
-raum [math.],space
+raum,space
 raum...,cubically
 raumangst,claustrophobia
 raumanzug,space suit
@@ -76018,17 +76018,17 @@ rechtsradikale,right wing extremist
 rechtsradikalismus,right-wing radicalism
 rechtsschutz,legal protection
 rechtsseitig,dexter
-rechtsseitig differenzierbar [math.],diff. from above
-rechtsseitig differenzierbar [math.],from the right
-rechtsseitiger grenzwert [math.],right-hand limit
+rechtsseitig differenzierbar,diff. from above
+rechtsseitig differenzierbar,from the right
+rechtsseitiger grenzwert,right-hand limit
 rechtssprache,legal terminology
 rechtssprechung,judicature
 rechtsspruch,legal decision
 rechtsstaat,constitutional state
 rechtsstellung,legal status
-rechtsstetig [math.],c. from above
-rechtsstetig [math.],right-contin
-rechtsstetig [math.],the right
+rechtsstetig,c. from above
+rechtsstetig,right-contin
+rechtsstetig,the right
 rechtsstreit,law suit
 rechtsstreit,litigation
 rechtsunfähigkeit,legal incapacity
@@ -76146,8 +76146,8 @@ reede,roadstead
 reeder,shipowner
 reeder,shipowners
 reederei,shipping company
-reelle zahl [math.],real number
-reellwertig [math.],real-valued
+reelle zahl,real number
+reellwertig,real-valued
 reetdach,thatched roof
 reexportierte,reexported
 refektorien,refectories
@@ -76379,7 +76379,7 @@ regulär,regularly
 regungslos,motionless
 regungslos,unmoving
 reh,(roe) deer
-reh (gastr.),venison
+reh,venison
 rehabilitation,rehabilitation
 rehabilitationszentrum,rehabilitation centre (center [am.])
 rehabilitieren,to rehabilitate
@@ -76538,8 +76538,8 @@ reihe,series
 reihe,set
 reihe,tandem
 reihe,tier
-reihe [math.],progression
-reihe [math.],series
+reihe,progression
+reihe,series
 reihen,arrays
 reihen,queue
 reihen,rows
@@ -76931,7 +76931,7 @@ relais,relay
 relation,relation
 relation,relational
 relation,relationship
-relation [math.],relation
+relation,relation
 relationales datenbanksystem,relational databank system
 relativ,relative
 relativ,relatively
@@ -77091,7 +77091,7 @@ reproduzierend,reproducing
 reproduziert,reproduces
 reprogrammierbares,reprogrammable
 repräsentant,ambassador
-repräsentant [math.],representative
+repräsentant,representative
 repräsentation,representation
 repräsentativ,representative
 repräsentativbefragung,sampling
@@ -77199,8 +77199,8 @@ rest,remnant
 rest,residual
 rest,rest
 rest,tail
-rest [math.],remainder
-rest [tech.],residue
+rest,remainder
+rest,residue
 restaurant,restaurant
 restauriert,restores
 restaurierung,restoration
@@ -77219,8 +77219,8 @@ reste,remnants
 reste,residuals
 reste,residues
 reste,splits
-restglied [math.],remainder
-restklasse [math.],coset
+restglied,remainder
+restklasse,coset
 restlich,remaining
 restlich,residual
 restlich,residuary
@@ -77351,7 +77351,7 @@ rezeption,reception
 rezession,recession
 rezessionen,recessions
 reziprok,reciprocal
-reziproke [math.],reciprocal
+reziproke,reciprocal
 rezitiert,recites
 reúnion,reunion (re)
 rhabarber,pieplant
@@ -77452,7 +77452,7 @@ richtung,route
 richtung,trend
 richtungen,directions
 richtungen,trends
-richtungsableitung [math.],directional derivative
+richtungsableitung,directional derivative
 richtungskoppler,directional coupler
 richtungspfeil,arrow
 richtungsschild,destination board
@@ -77903,7 +77903,7 @@ rot,ruddy
 rot werden,to flush
 rotalge,dulse
 rotation,rotation
-rotation [math.],rotation
+rotation,rotation
 rotationsdruck,rotary printing
 rotationstiefdruck,rotogravure
 rotbuche,copper beech
@@ -79377,7 +79377,7 @@ sattel,saddle
 sattelanhänger,semitrailer
 satteldecke,saddle cloth
 sattelfest,saddle fast
-sattelfläche [math.],saddle
+sattelfläche,saddle
 sattelgurt,saddle girth
 sattelgurt,surcingle
 sattelgurte,surcingles
@@ -79388,7 +79388,7 @@ sattelnd,saddling
 sattelpferd,saddle horse
 sattelplatz,pad dock
 sattelplatz,paddock
-sattelpunkt [math.],saddle point
+sattelpunkt,saddle point
 sattelschlepper,truck tractor train
 sattelschlepper,truck tractor trains
 sattelstütze,seat post
@@ -79414,8 +79414,8 @@ satz,phrase
 satz,record
 satz,sentence
 satz,set
-satz [math.],proposition
-satz [math.],theorem
+satz,proposition
+satz,theorem
 satzaussage,predicate
 satzball,set point
 satzbau,syntax
@@ -80249,7 +80249,7 @@ scheibe,pulley
 scheibe,shim
 scheibe,wafer
 scheibe,washer
-scheibe (elektr.),slice
+scheibe,slice
 scheiben,discs
 scheiben,panes
 scheiben,pucks
@@ -80762,7 +80762,7 @@ schiefheit,wryness
 schiefste,most sloping
 schiefste,wriest
 schiefstellen,to slant
-schiefsymmetrisch [math.],skew symmetric
+schiefsymmetrisch,skew symmetric
 schielen,strabismus
 schielen,to peer
 schielen,to squint
@@ -82950,7 +82950,7 @@ schnittzeichnung,sectional drawing
 schnitzarbeit,carving
 schnitzel,chipping
 schnitzel,shred
-schnitzel [gastr.],cutlet
+schnitzel,cutlet
 schnitzeljagd,paper chase
 schnitzen,to carve
 schnitzen,whittle
@@ -83149,7 +83149,7 @@ schrank,cupboard
 schrank,locker
 schranke,bound
 schranke,gate
-schranke [math.],bound
+schranke,bound
 schrankkoffer,trunk
 schrankkoffer,wardrobe trunk
 schrankkoffer,wardrobe trunks
@@ -83171,7 +83171,7 @@ schraubenför,spiral
 schraubengang,screw thread
 schraubengewinde,worm
 schraubenlinie,helix
-schraubenlinie [math.],helix
+schraubenlinie,helix
 schraubenmutter,female screw
 schraubenmutter,nut
 schraubenmutter,screw-nut
@@ -84035,7 +84035,7 @@ schwachsinn,dementia
 schwachsinn,feeblemindedness
 schwachsinn,idiocy
 schwachsinn,imbecility
-schwachsinn [med.],mentally deficiency
+schwachsinn,mentally deficiency
 schwachsinnig,moronic
 schwachsinnige,imbecile
 schwachsinnige,moronically
@@ -84422,7 +84422,7 @@ schwere,gravity
 schwere,heaviness
 schwere,massiness
 schwere körperverletzung,mayhem
-schwere wasser [phys.],deuterium
+schwere wasser,deuterium
 schweregrad,severity code
 schweregradangabe,severity code
 schwerelos,weightless
@@ -85985,7 +85985,7 @@ selbst wenn,even if
 selbst wenn,even though
 selbstabtastend,self-scanning
 selbstachtung,self esteem
-selbstadjungiert [math.],self-adjoint
+selbstadjungiert,self-adjoint
 selbstanlasser,self starter
 selbstanlauf,auto restart
 selbstanpassend,self-adapting
@@ -86249,13 +86249,13 @@ senkfüsse,flat feet
 senkgrube,cesspool
 senkkasten,caisson
 senkrecht,perpendicular (to)
-senkrecht [math.],perpendicular
+senkrecht,perpendicular
 senkrechte,perpendicular
 senkrechte,verticalness
 senkrechte (zahlen-) folge,column
 senkrechtstarter,vertical take off plane
 senkrechtstarter,vertical take off planes
-senkrechtstarter [umg.],whizz kid
+senkrechtstarter,whizz kid
 senkte,lowered
 senkung,counterbore
 senkung,dip
@@ -87178,8 +87178,8 @@ signierend,signing
 signierte,signed
 signierten,signed
 signifikant,significant
-signum [math.],sign
-signum [math.],signum
+signum,sign
+signum,signum
 silbe,syllable
 silben,syllables
 silbenbildend,syllabic
@@ -87217,8 +87217,8 @@ silizium,silicon
 siliziumscheibe,silicon slice
 siliziumscheibe,silicon wafer
 silofutter,silage
-silospeicher (elektr.),drift register
-silospeicher (elektr.),storage circuit
+silospeicher,drift register
+silospeicher,storage circuit
 silvester,new year's eve
 simbabwe,zimbabwe (zw)
 similieren,simulate
@@ -87273,7 +87273,7 @@ singstimme,singing voice
 singt,sings
 singt im chor,choruses
 singularisch,singularly
-singulär [math.],singular
+singulär,singular
 singvogel,bluebird
 singvogel,bobolink
 singvogel,singing bird
@@ -87358,8 +87358,8 @@ sintflut,diluvian
 sintflut,the flood
 sintfluten,floods
 sintflutlich,diluvial
-sinus [math.],sine
-sinus hyperbolicus [math.],hyperbolic sine
+sinus,sine
+sinus hyperbolicus,hyperbolic sine
 sinusförmig,sinusoidal
 sinuskurve,sine curve
 sinuskurve,sinusoid
@@ -87456,10 +87456,10 @@ skala,gamut
 skala,scale
 skala,spectrum
 skalar,scalar
-skalar [math.],scalar
-skalarprodukt [math.],dot product
-skalarprodukt [math.],inner product
-skalarprodukt [math.],scalar product
+skalar,scalar
+skalarprodukt,dot product
+skalarprodukt,inner product
+skalarprodukt,scalar product
 skalenteilung,division
 skalieren,scaling
 skalp,scalp
@@ -87745,7 +87745,7 @@ solidität,solidity
 solidste,most solid
 solist,soloist
 solisten,soloists
-soliton [phys.],soliton
+soliton,soliton
 solitär,solitaire
 solitären,solitaries
 soll,debit side
@@ -88170,7 +88170,7 @@ spalte,col
 spalte,column
 spalte,crevice
 spalte,rift
-spalte [math.],column
+spalte,column
 spalten,chinks
 spalten,clefts
 spalten,colons
@@ -88184,8 +88184,8 @@ spalten,"to split {split, split}"
 spaltenpilz,fission fungus
 spaltenpilze,fission fungi
 spaltenrand,edge of a column
-spaltenraum [math.],column space
-spaltenvektor [math.],column vector
+spaltenraum,column space
+spaltenvektor,column vector
 spaltfilter,disk filter
 spaltpilz,bacterium
 spaltsäge,ripsaw
@@ -88419,7 +88419,7 @@ speichertypus,storage type
 speicherung,storage
 speicherung,storing
 speicherungen,storages
-speichervermittlung (tel.),message switching
+speichervermittlung,message switching
 speicherverteilung,allocation
 speicherzeit (halbleiter),carrier storage time
 speicherzelle,cell
@@ -88468,7 +88468,7 @@ spektakulär,sensational
 spektral...,spectral
 spektralanalyse,spectrum analysis
 spektralanalysen,spectrum analyses
-spektralsatz [math.],spectral theorem
+spektralsatz,spectral theorem
 spektrogramm,spectrogram
 spektrogramm,spectrograph
 spektromesser,spectrometer
@@ -88513,7 +88513,7 @@ sperren,barricade
 sperren,to ban
 sperren,to inhibit
 sperren,to interlock
-sperren (druckt.),to space out
+sperren,to space out
 sperrfeuer,barrage
 sperrfeuer,curtain fire
 sperrfeuer,curtain fires
@@ -88574,7 +88574,7 @@ spezifizierend,particularizing
 spezifizierte,particularized
 sphinx,sphinx
 sphäre,sphere
-sphäre [math.],sphere
+sphäre,sphere
 sphären,spheres
 sphärioden,spheroids
 sphäroid,spheroid
@@ -89029,7 +89029,7 @@ sprit,spirit
 sprit,spirits
 spritzarbeit,spatterwork
 spritze,syringe
-spritze [med.],shot
+spritze,shot
 spritzen,syringes
 spritzenhaus,fire engine house
 spritzenhäuser,fire engine houses
@@ -89088,7 +89088,7 @@ sprungfedermatratzen,spring mattresses
 sprungschanze,ski jump
 sprungschanzen,ski jumps
 sprungstelle (einer funktion),saltus
-sprungstelle [math.],jump discontinuity
+sprungstelle,jump discontinuity
 sprungtabelle,branch table
 sprungtest,leap-frog test
 sprungturm,highboard
@@ -89122,7 +89122,7 @@ spur,trace
 spur,track
 spur,vestige
 spur (beim auto),toe
-spur [math.],trace
+spur,trace
 spuradresse,track address
 spuren,ruts
 spuren,spoors
@@ -89460,7 +89460,7 @@ stammessystem,tribalism
 stammessysteme,tribalisms
 stammeszugehörige,clansman
 stammform,principal form
-stammfunktion [math.],primitive
+stammfunktion,primitive
 stammgast,frequenter
 stammgast,regular guest
 stammgeschichten,phylogenies
@@ -89502,7 +89502,7 @@ stand aufbauen (abbauen),to install (remove) a stand
 stand eines wettkampfes,score
 standard,standard
 standard...,preset
-standardbasis [math.],standard basis
+standardbasis,standard basis
 standardisieren,standardize
 standardisiert,standardizes
 standardisierte,standardized
@@ -89799,7 +89799,7 @@ stechuhr,check clock
 stechuhr,time clock
 steckbrief,warrant of apprehension
 steckbriefe,warrants of apprehension
-steckbrücke (el.),jumper
+steckbrücke,jumper
 steckdose,socket
 steckdosen,jacks
 steckdosen,sockets
@@ -89875,7 +89875,7 @@ steigen,stiles
 steigen,to be on the increase
 steigen,to climb
 steigend,ascending
-steigend [math.],increasing
+steigend,increasing
 steiger,overman
 steigern,to increase (in)
 steigern sie ihre effektivität!,maximize your effectiveness!
@@ -89890,11 +89890,11 @@ steigerungen,escalations
 steigerungsgrad,degree of increase
 steigerungsgrade,degrees of increase
 steigfähigkeit,climbing power
-steigleitung (el.),riser
+steigleitung,riser
 steigung,acclivity
 steigung,gradient
 steigung,riser
-steigung [math.],slope
+steigung,slope
 steigungen,acclivities
 steigungen,gradients
 steigungswinkel,gradient angle
@@ -90294,8 +90294,8 @@ stethoskope,stethoscopes
 stethoskopisch,stethoscopic
 stethoskopische,stethoscopically
 stetig,constant
-stetig [math.],continuous
-stetig differenzierbar [math.],continuously differentiable
+stetig,continuous
+stetig differenzierbar,continuously differentiable
 stetige,steadily
 stets,always
 steuer,duty
@@ -91147,7 +91147,7 @@ strafvollzugsanstalt,penal institution
 strahl,beam
 strahl,radiancy
 strahl,ray
-strahl [math.],ray
+strahl,ray
 strahlantrieb,jet propulsion
 strahlen,radiancies
 strahlen,spouts
@@ -91538,8 +91538,8 @@ streng,strict
 streng dich an!,play up!
 streng geheim,top secret
 streng geheim,topsecret
-streng monoton fallend [math.],strictly monotonic decreasing
-streng monoton wachsend [math.],strictly monotonic increasing
+streng monoton fallend,strictly monotonic decreasing
+streng monoton wachsend,strictly monotonic increasing
 strenge,astringence
 strenge,astringences
 strenge,rigor
@@ -91737,7 +91737,7 @@ strudel,eddy
 strudel,maelstrom
 strudel,whirlpool
 strudel,whirlpools
-strudel [gastr.],strudel
+strudel,strudel
 strudeln,swirls
 strudeln,whirl
 strudelnd,whirling
@@ -92272,7 +92272,7 @@ stückpreis,unit price
 stückweise,piece by piece
 stückweise,piecemeal
 stückweise,piecewise
-stückweise [math.],piecewise
+stückweise,piecewise
 stückzahl,number of pieces
 stückzinsen,accrued interest
 stühle,chairs
@@ -92399,7 +92399,7 @@ substantivisch,substantival
 substanz,substance
 substanzen,substances
 substanzverlust,asset erosion
-substitution [math.],substitution
+substitution,substitution
 substrat,substrate
 subsystem,subsystem
 subtil,subtly
@@ -92505,7 +92505,7 @@ summand,addend
 summe,aggregate
 summe,amount
 summe,sum
-summe [math.],sum
+summe,sum
 summen,fizzling
 summen,sums
 summen,to buzz
@@ -92601,10 +92601,10 @@ supraleitfähig,superconductive
 supraleitfähigkeit,superconductivity
 supraleitspeicher,cryogenic storage
 supraleitung,superconduction
-supremum [math.],supremum
+supremum,supremum
 surinam,suriname (sr)
-surjektion [math.],surjection
-surjektiv [math.],surjective
+surjektion,surjection
+surjektiv,surjective
 surrealismus,surrealism
 surrealistisch,surreal
 surrealistische,surrealistic
@@ -92657,7 +92657,7 @@ symetrisch,balanced
 symmetrie,symmetry
 symmetrien,symmetries
 symmetrisch,symmetrical
-symmetrisch [math.],symmetric
+symmetrisch,symmetric
 symmetrische,symmetric
 symmetrisches,symmetrically
 sympathie,sympathy
@@ -93469,13 +93469,13 @@ tamtam,tomtom
 tand,trumpery
 tandembetrieb,tandem processing
 tang,seaweed
-tangens [math.],tangent
-tangens hyperbolicus [math.],hyperbolic tangent
+tangens,tangent
+tangens hyperbolicus,hyperbolic tangent
 tangente,tangent
-tangente [math.],tangent
+tangente,tangent
 tangenten,tangents
 tangential,tangential
-tangentialebene [math.],tangent plane
+tangentialebene,tangent plane
 tangiere,am tangent to
 tangieren,to be tangent to
 tangiert,is tangent to
@@ -93941,8 +93941,8 @@ taxistand,taxi rank
 taxistände,taxi ranks
 taxonomie,taxonomy
 taxwert,appraised value
-taylorentwicklung [math.],taylor expansion
-taylorreihe [math.],taylor series
+taylorentwicklung,taylor expansion
+taylorreihe,taylor series
 teak,teak
 teakholz,teakwood
 technik,engineering
@@ -94109,11 +94109,11 @@ teilend,severing
 teilend,sharing
 teilende,divisively
 teiler,divider
-teiler [math.],factor
+teiler,factor
 teilerfolg,partial success
 teilfeld,subfield
 teilfolge,subsequence
-teilfolge [math.],subsequence
+teilfolge,subsequence
 teilfolgen,subsequences
 teilgehabt,partaken
 teilgenommen,partaken
@@ -94133,7 +94133,7 @@ teilkreis,pitch circle
 teillast,part load
 teillieferung,short delivery
 teilmenge,subset
-teilmenge [math.],subset
+teilmenge,subset
 teilmontage,subassembly
 teilnahme,attendance
 teilnahme,concern
@@ -94159,7 +94159,7 @@ teilnehmer,number of participants
 teilnehmer,participant
 teilnehmer,participants
 teilnehmer,partner
-teilnehmer (tel.),subscriber
+teilnehmer,subscriber
 teilnehmer-system,time-sharing system
 teilnehmerverfahren,time-sharing
 teilnehmerverzeichnis,telephone directory
@@ -94199,7 +94199,7 @@ teilte zu,apportioned
 teilte zu,prorated
 teilung,devide
 teilung,partition
-teilung [math.],partition
+teilung,partition
 teilungen,fissions
 teilungs...,divisional
 teilungsartikel,partitive article
@@ -94319,7 +94319,7 @@ telephonisch,by telephone
 telephotographisch,telephotographic
 telephotographisches,telephotographically
 teleskopische,telescopically
-teleskopreihe [math.],telescoping series
+teleskopreihe,telescoping series
 telethon,telethon
 television,television
 telexdienst,telex service
@@ -95161,7 +95161,7 @@ ton,audio
 ton,chime
 ton,sound
 ton,tone
-ton (geol.),clay
+ton,clay
 ton...,audio
 tonalität,tonality
 tonarm,tone arm
@@ -95256,10 +95256,10 @@ topographischen,topographically
 topologe,topologist
 topologen,topologists
 topologie,analysis situs
-topologie [math.],topology
+topologie,topology
 topologisch,topological
 topologische,topologically
-topologischer raum [math.],topological space
+topologischer raum,topological space
 topp,topmast
 toppmaste,topmasts
 toppsegel,topsail
@@ -95337,7 +95337,7 @@ total blau,drunk as a lord
 totalausfall,dead loss
 totalausverkauf,clearance sale
 totale (film),long shot
-totale ableitung [math.],total derivative
+totale ableitung,total derivative
 totalisator,totalizer
 totalisatoren,totalizers
 totalitär,totalitarian
@@ -95569,8 +95569,8 @@ transkribieren,transliterate
 transkribierend,transliterating
 transkribiert,transliterates
 transkribierte,transliterated
-translation [math.],translation
-translationsinvarianz [math.],translation invariance
+translation,translation
+translationsinvarianz,translation invariance
 transparent,banner
 transparent,lucent
 transparent,reproducible copy
@@ -95586,7 +95586,7 @@ transplantieren,to transplant
 transplantierend,transplanted
 transplantierende,transplanting
 transplantiert,transplants
-transponierte [math.],transpose
+transponierte,transpose
 transport,carriage
 transport,conveyance
 transport,freightage
@@ -95624,12 +95624,12 @@ transsexuellen,transsexuals
 transvestit,transvestite
 transvestiten,transvestites
 transvestitismus,transvestism
-transzendent [math.],transcendental
+transzendent,transcendental
 transzendentalist,transcendentalist
 transzendentalisten,transcendentalists
 transzendentalphilosophie,transcendentalism
-trapez (geom.),trapezium [br.]
-trapez (geom.),trapezoid [am.]
+trapez,trapezium [br.]
+trapez,trapezoid [am.]
 trapez (sport),trapeze
 trapeze,trapezes
 trapeziode,trapezoids
@@ -95936,12 +95936,12 @@ treppe (einzelne stufe),step
 treppe hinabgehen,to go downstairs
 treppe hinauf (hinab),up (down) stairs
 treppenabsatz,landing
-treppenform [math.],echelon form
-treppenfunktion [math.],step function
+treppenform,echelon form
+treppenfunktion,step function
 treppenhaus,hallway
 treppenhaus,staircase
 treppenhaus,stairs
-treppennormalform [math.],reduced echelon form
+treppennormalform,reduced echelon form
 tresor,safe
 treten,to kick
 treten (auf),"tread {trod, trod} (on)"
@@ -96027,9 +96027,9 @@ trifft zusammen,concurs
 triftigere,more valid
 triftigste,most valid
 trigonometrie,trig
-trigonometrie [math.],trigonometry
+trigonometrie,trigonometry
 trigonometrisch,trigonometric
-trigonometrisch [math.],trigonometric(al)
+trigonometrisch,trigonometric(al)
 trigonometrische,trigonometrical
 trigonometrischen,trigonometrically
 trikoloren,tricolors
@@ -96127,7 +96127,7 @@ trommel,barrel
 trommel,cylinder
 trommel,drum
 trommel des revolvers,clip
-trommelfeuer [mil.],barrage
+trommelfeuer,barrage
 trommeln,to beat the drum
 trommelnd,drumming
 trommelstock,drumstick
@@ -96475,7 +96475,7 @@ tunkt ein,sops
 tunkte ein,dunked
 tunkte ein,sopped
 tunlich,feasible
-tupel [math.],tuple
+tupel,tuple
 tupfen,to dab
 turbantragend,turbaned
 turbine,nozzle
@@ -96891,7 +96891,7 @@ umbinden,to tie round
 umbindend,tying round
 umblättern,to turn over
 umblätternd,turning over
-umbrechen (druckt.),to make up
+umbrechen,to make up
 umbrechend,wrapping
 umbringen,"to slay {slew, slain}"
 umbruch,upheavel
@@ -97041,7 +97041,7 @@ umgebung,environment
 umgebung,environs
 umgebung,purlieus
 umgebung,surroundings
-umgebung [math.],neighbourhoood
+umgebung,neighbourhoood
 umgebungen,entourages
 umgebungen,environments
 umgebungen,surroundings
@@ -97237,7 +97237,7 @@ umkehren,to turndown
 umkehrend,inversive
 umkehrend,reversing
 umkehrer,inverter
-umkehrfunktion [math.],inverse
+umkehrfunktion,inverse
 umkehrung,inversion
 umkehrung,reversal
 umkehrung,reversion
@@ -98714,9 +98714,9 @@ unendlich,infinity
 unendlich,nonfinite
 unendlich,nonterminating
 unendlich,unendingly
-unendlich  [math.],infinity
-unendlich  [math.],infinite
-unendlich-dimensional [math.],infinite-dimensional
+unendlich,infinity
+unendlich,infinite
+unendlich-dimensional,infinite-dimensional
 unendlichere,more endless
 unendlichkeit,endlessness
 unendlichkeit,everlastingness
@@ -99463,7 +99463,7 @@ ungekünsteltste,most unaffected
 ungekürzt,unabridged
 ungekürzt,unexpurgated
 ungeladen,unloaded
-ungeladen (el.),uncharged
+ungeladen,uncharged
 ungelegen,inconvenient
 ungelegen,inopportunely
 ungelegen,unseasonable
@@ -99559,7 +99559,7 @@ ungeprüft,unexamined
 ungepuffert,unbuffered
 ungerade,odd
 ungerade,unlevel
-ungerade [math.],odd
+ungerade,odd
 ungerade zahl,odd number
 ungerade zahl,uneven number
 ungeraten,undutiful
@@ -99821,7 +99821,7 @@ ungleichmässigkeiten,asymmetries
 ungleichmässigkeiten,inequalities
 ungleichseitig,scalene
 ungleichung,unequation
-ungleichung [math.],inequality
+ungleichung,inequality
 unglimpflich,harsh
 ungläubig,faithless
 ungläubig,incredulous
@@ -100710,7 +100710,7 @@ unstetes wetter,dodgy weather
 unstetig,discontinuous
 unstetig,unsteadily
 unstetig,unsteady
-unstetig [math.],discontinuous
+unstetig,discontinuous
 unstetigkeit,discontinuity
 unstetigkeit,unsteadiness
 unstillbar,unappeasable
@@ -101013,10 +101013,10 @@ unterdrückungen,suppressions
 unterdrückungsfähig,repressible
 unterdrückungsmassnahme,repressive measure
 untere,inferior
-untere dreiecksmatrix [math.],lower triangular matrix
+untere dreiecksmatrix,lower triangular matrix
 untere ende,bottom
 untere grenze,lower bound
-untere schranke [math.],lower bound
+untere schranke,lower bound
 untereinander,among each other
 untereinander,among one another
 untereinander,among themselves
@@ -101289,7 +101289,7 @@ unterprivilegiert,underprivileged
 unterprogramm,subprogram
 unterprogramm,subroutine
 unterprogramme,subprograms
-unterraum [math.],subspace
+unterraum,subspace
 unterredung,interlocution
 unterredung,interview
 unterredung,parley
@@ -101573,7 +101573,7 @@ untersuchungsgebiet,area under investigation
 untersuchungshaft,imprisonment on remand
 untersuchungsrichter,coroner
 untersuchungsrichter,examining magistrate
-untersumme [math.],lower sum
+untersumme,lower sum
 untersystem,slave system
 untersystem,subsystem
 untertan,subject
@@ -102505,7 +102505,7 @@ ursprung,genesis
 ursprung,origin
 ursprung,source
 ursprung,sourse
-ursprung [math.],origin
+ursprung,origin
 ursprungsbeleg,master document
 ursprungsdaten,source data
 ursprünge,origins
@@ -102617,7 +102617,7 @@ vasallen,vassals
 vasallenstaat,vassal state
 vasallenstaaten,vassal states
 vasallentum,vassalage
-vasculitis [med.],vasculitis
+vasculitis,vasculitis
 vase,vase
 vasectomie,vasectomy
 vasectomien,vasectomies
@@ -102662,11 +102662,11 @@ vehikel,vehicles
 veilchen,violet
 veilchen,violets
 vektor,vector
-vektor [math.],vector
-vektoranalysis [math.],vector calculus
+vektor,vector
+vektoranalysis,vector calculus
 vektoren,vectors
-vektorfeld [math.],vector field
-vektorraum [math.],vector space
+vektorfeld,vector field
+vektorraum,vector space
 vektorrechner,array processor
 vektorrechner,pipeline processor
 velar,velar
@@ -104121,7 +104121,7 @@ vereinigung,consortium
 vereinigung,federation
 vereinigung,incorporation
 vereinigung,union
-vereinigung [math.],union
+vereinigung,union
 vereinigungen,associations
 vereinigungen,coalescences
 vereinigungen,coalitions
@@ -106142,8 +106142,8 @@ vermehrt,augmented
 vermehrte,aggrandized
 vermehrung,aggrandizement
 vermehrung,increase
-vermehrung (biol.),breeding
-vermehrung (biol.),reproduction
+vermehrung,breeding
+vermehrung,reproduction
 vermeidbar,avoidable
 vermeidbar,preventible
 vermeidbare,avoidably
@@ -107840,7 +107840,7 @@ verstoss (gegen),offense [am.] (against)
 verstoss (gegen),violation (of)
 verstossen,contravene
 verstossen,to outcast
-verstossen (gegen rechte etc.),to impinge
+verstossen,to impinge
 verstossen gegen,to defy
 verstossend,contravening
 verstossene,castoff
@@ -109570,8 +109570,8 @@ vielfach,multiple
 vielfach,multiplicate
 vielfach,multiplicative
 vielfache,multiplicatively
-vielfaches [math.],multiple
-vielfachheit [math.],multiplicity
+vielfaches,multiple
+vielfachheit,multiplicity
 vielfachmessgerät,multimeter
 vielfachsteckdose,multiple socket
 vielfalt,diversity
@@ -110064,15 +110064,15 @@ vollständig,quitely
 vollständig,thorough
 vollständig,total
 vollständig,totally
-vollständig [math.],complete
+vollständig,complete
 vollständige,complain
 vollständige,completive
 vollständige,plain
-vollständige induktion [math.],induction
+vollständige induktion,induction
 vollständiges,completively
 vollständigkeit,completeness
 vollständigkeit,completness
-vollständigkeitsaxiom [math.],completeness axiom
+vollständigkeitsaxiom,completeness axiom
 volltextbuchungsmaschine,alphabetic accounting machine
 volltransistorisiert,all-transistor
 volltreffer,direct hit
@@ -110087,7 +110087,7 @@ voltaisch,voltaic
 voltmeter,voltmeter
 voltzahl,voltage
 volumen,volume
-volumen [math.],volume
+volumen,volume
 volumetrisch,volumetric
 volumetrische,volumetrically
 vom anfang bis zum ende,from start to finish
@@ -111489,7 +111489,7 @@ wachsend,accumulative
 wachsend,adolescent
 wachsend,growing
 wachsend,waxing
-wachsend [math.],increasing
+wachsend,increasing
 wachsende,accumulatively
 wachsfigur,wax figure
 wachsfigur,waxwork
@@ -112798,7 +112798,7 @@ weg,off
 weg,path
 weg,road
 weg,way
-weg [math.],path
+weg,path
 weg damit!,hence with it!
 weg zum ruhm,avenue to fame
 wegblasen,to blow off
@@ -112852,8 +112852,8 @@ weghelfen,to help to get away
 weghelfend,helping away
 wegholen,to fetch away
 wegholend,fetching away
-wegintegral (über beliebige wege) [math.],path integral
-wegintegral (über jordanbögen) [math.],line integral
+wegintegral (über beliebige wege),path integral
+wegintegral (über jordanbögen),line integral
 wegjagen,to drive away
 wegkehrend,aversive
 wegkommen,to get away
@@ -113672,7 +113672,7 @@ wendeltreppe,staircorkscrew
 wendeltreppen,flights of winding stairs
 wendepunkt,reversal point
 wendepunkt,watershed
-wendepunkt [math.],inflection point
+wendepunkt,inflection point
 wendepunkte,turning points
 wendet ab,averts
 wendet an,applies
@@ -113949,8 +113949,8 @@ wert,value
 wert,virtue
 wert,worth
 wert,worthiness
-wert-angebot [econ.],value proposition
-wertanalyse [econ.],value analysis
+wert-angebot,value proposition
+wertanalyse,value analysis
 wertangabe,declaration of value
 wertangaben,declarations of
 wertansatz,amount stated
@@ -113962,7 +113962,7 @@ werte,values
 werte,worthes
 wertebereich,range
 wertebereich,values rang
-wertebereich [math.],co-domain
+wertebereich,co-domain
 wertend,valuing
 werteste,worthiest
 wertet ab,devalues
@@ -115365,7 +115365,7 @@ winkel,angles
 winkel,bracket
 winkel,corner
 winkel,nooks
-winkel [math.],angle
+winkel,angle
 winkeladvokat,hack lawyer
 winkeladvokat,hedge lawyer
 winkeladvokat,shyster
@@ -115643,7 +115643,7 @@ wirkungslos,without effect
 wirkungslose,inefficiently
 wirkungslosere,more inefficient
 wirkungsloseste,most inefficient
-wirkungsquerschnitt [phys.],cross section
+wirkungsquerschnitt,cross section
 wirkungsvoll,effecient
 wirkungsvoll,effective
 wirkungsvoll,efficient
@@ -115904,7 +115904,7 @@ wohlbehagen,complacency
 wohlbehalten,healthy
 wohlbeleibtere,more corpulent
 wohlbeleibtestem,most corpulent
-wohldefiniert [math.],well defined
+wohldefiniert,well defined
 wohlebekannt (wegen),well-known (for)
 wohlergehen,wellfare
 wohlerzogen,well behaved
@@ -116444,7 +116444,7 @@ wurst,sausage
 wurstelnd,muddling
 wurzel,radix
 wurzel,root
-wurzel [math.],root
+wurzel,root
 wurzel schlagen,to take root
 wurzelbehandlung,root treatment
 wurzelblock,rootblock
@@ -116454,7 +116454,7 @@ wurzelkeim,radicle
 wurzelkeime,radicles
 wurzelknolle,tuber
 wurzelknollen,tubers
-wurzelkriterium [math.],root test
+wurzelkriterium,root test
 wurzellos,rootless
 wurzellosigkeit,rootlessness
 wurzeln,roots
@@ -116533,7 +116533,7 @@ wähler,elector
 wähler,electors
 wähler,voter
 wähler,voters
-wähler (tel.),selector
+wähler,selector
 wählerisch,choosy
 wählerisch,delicate
 wählerisch,finical
@@ -116648,7 +116648,7 @@ wärmeschalter,thermoswitch
 wärmestrahlung,heat radiation
 wärmetauscher,heat exchanger
 wärmetechnik,heat engineering
-wärmetherapie [med.],hyperthermia
+wärmetherapie,hyperthermia
 wärmeverbrauch,heat consumption
 wärmeverlust,heat loss
 wärmewiderstand,thermal resistance
@@ -116931,7 +116931,7 @@ zacke,sharp point
 zacke,tine
 zacken,jags
 zacken,prongs
-zackenfunktion [math.],jagged function
+zackenfunktion,jagged function
 zackig,jagged
 zackig,pronged
 zackig,snappish
@@ -116944,7 +116944,7 @@ zaghaftigkeit,cravenness
 zahl,digit
 zahl,figure
 zahl,number
-zahl [math.],number
+zahl,number
 zahlbar,defrayable
 zahlbar,payable
 zahlbar,payably
@@ -117436,7 +117436,7 @@ zeigt nachsicht,indulges
 zeigte,showed
 zeile,line
 zeile,row
-zeile [math.],row
+zeile,row
 zeile zu lang,line to long
 zeilen,lines
 zeilenabstand,line pitch
@@ -117447,12 +117447,12 @@ zeilendrucker,line-at-a-time printer
 zeilenende,end of line
 zeilenhöhe,line height
 zeilenlänge,line length
-zeilennummer (abk.),lineno
+zeilennummer,lineno
 zeilensetzmaschine,linotype
 zeilensprung,horizontal skip
 zeilensprung,line skip
 zeilentransport,spacing
-zeilenvektor [math.],row vector
+zeilenvektor,row vector
 zeilenvorschub,line feed
 zeilenvorschub,linefeed
 zeilenvorschubzeichen,new-line character
@@ -118405,8 +118405,8 @@ ziel,end
 ziel,object
 ziel,target
 zielbereich,target
-zielbereich [math.],co-domain
-zielbereich [math.],target
+zielbereich,co-domain
+zielbereich,target
 zielbewusst,purposeful
 zielbewusste,purposefully
 zielbewusstere,more purposeful
@@ -118488,7 +118488,7 @@ zierte,adorned
 ziffer,digit
 ziffer,figure
 ziffer,numeral
-ziffer [math.],figure
+ziffer,figure
 zifferblatt,clock face
 zifferblatt,face
 zifferblätter,dials
@@ -119527,7 +119527,7 @@ zulässigkeit,admissibility
 zulässigkeit,admissibillity
 zulässigkeit,allowableness
 zulässigkeit,permissibility
-zulässigkeit (jur.),legitimacy
+zulässigkeit,legitimacy
 zulässigkeiten,admissibleness
 zum,to the
 zum abschluss,finally
@@ -121230,7 +121230,7 @@ zwischenverkauf vorbehalten,subject to prior sale
 zwischenvorhang,drop scene
 zwischenvorhänge,drop scenes
 zwischenwand,partition
-zwischenwertsatz [math.],intermediate value theorem
+zwischenwertsatz,intermediate value theorem
 zwischenzeilig,interlinear
 zwischenzeit,intervening period
 zwischenzeit,meantime
@@ -121364,7 +121364,7 @@ zähler,enumerator
 zähler,numeraire
 zähler,tally
 zähler (bruch),numerator
-zähler [math.],numerator
+zähler,numerator
 zählt,counts
 zählt,totals
 zählt,tots
@@ -121571,12 +121571,12 @@ zürnten,were cross with
 ähnlich,similar
 ähnlich,similarly
 ähnlich,simular
-ähnlich [math.],similar
+ähnlich,similar
 ähnlichkeit,likeness
 ähnlichkeit,resemblance
 ähnlichkeit,similarity
 ähnlichkeit,similitude
-ähnlichkeit [math.],similarity
+ähnlichkeit,similarity
 ähnlichkeiten,resemblances
 ähnlichkeiten,similarities
 ähnlichkeiten,similitudes
@@ -121663,11 +121663,11 @@ zürnten,were cross with
 äquatorial,equatorial
 äquatoriale,equatorialy
 äquatorialguinea,equatorial guinea (gq)
-äquivalent (matrizen) [math.],equivalent in the wider sense
-äquivalent [math.],equivalent
+äquivalent (matrizen),equivalent in the wider sense
+äquivalent,equivalent
 äquivalenz,equivalence
-äquivalenz [math.],equivalence
-äquivalenzklasse [math.],equivalence class
+äquivalenz,equivalence
+äquivalenzklasse,equivalence class
 ärger,anger
 ärger,chagrin
 ärger,dander
@@ -122029,7 +122029,7 @@ zürnten,were cross with
 über verschiedene,across
 über wasser,afloat
 über...,hyper
-überabzählbar [math.],uncountable
+überabzählbar,uncountable
 überaktiv,overactive
 überall,all over
 überall,all over the world

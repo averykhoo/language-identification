@@ -149,7 +149,7 @@ Aixe-sur-Vienne [FRA],Aixe-sur-Vienne
 Aizpute [LVA],Aizpute
 Ajaccio [FRA],Ajaccio
 Ajdovšcina [SVN],Ajdovšcina
-Akan [Lang.],Akan
+Akan,Akan
 Akershus [NOR],Akershus
 Akita [JPN],Akita
 Akkagawa [JPN],Akkagawa
@@ -171,7 +171,7 @@ Alaskien-ienne,Alaskan [Adj]
 Albanais-e,Albanese
 Albanais-e,Albanese [Adj]
 Albanais-e,Albanian [Adj]
-"Albanais-e, Albanais [Lang.]",Albanian
+"Albanais-e, Albanais",Albanian
 Albanie,Albanie
 "Albany [GA:USA], Albany [NH:USA], Albany [NY:USA]",Albany
 Albe [ITA],Alba
@@ -1867,7 +1867,7 @@ Falaise [FRA],Falaise
 Fallasburg [MI:USA],Fallasburg
 Falls of Rough [KY:USA],Falls of Rough
 Famagouste [CYP],Famagosta
-Fang [Lang.],Fang
+Fang,Fang
 Fanning Springs [FL:USA],Fanning Springs
 Faradofay [MDG],Faradofay
 Farchant [DEU],Farchant
@@ -2341,7 +2341,7 @@ Hannibal [MO:USA],Hannibal
 "Hannovre [GER], Hanover [MD:USA]",Hanover
 Hanoï [VNM],Hanoi
 Hanyang [CHN],Hanyang
-Haoussa [Lang.],Hausa
+Haoussa,Hausa
 Hararé [ZWE],Harare
 Harbin [CHN],Harbin
 Hardwick [MA:USA],Hardwick
@@ -2733,7 +2733,7 @@ Kalmar [SWE],Kalmar
 Kaltbrunn [SUI],Kaltbrunn
 Kalvehave [DK],Kalvehave
 Kama [La],Kama
-Kamba [Lang.],Kamba
+Kamba,Kamba
 Kamina [ZAR],Kamina
 Kamisho [JPN],Kamisho
 Kamp [DEU],Kamp
@@ -2833,7 +2833,7 @@ Kiribati,[KIR]
 Kirkkonummi [FIN],Kirkkonummi
 Kirkouk [IRQ],Karkuk
 Kirkouk [IRQ],Kirkuk
-Kirundi [Lang.],Rundi
+Kirundi,Rundi
 Kisangani [ZAR],Kisangani
 Kisarazu [JPN],Kisarazu
 Kishi [NGA],Kishi
@@ -3196,7 +3196,7 @@ Les Pradeaux [FRA],Les Pradeaux
 Les-Ponts-Neufs [FRA],Les-Ponts-Neufs
 Lesotho,[LSO]
 Lestelle [FRA],Lestelle
-Letton [Lang.],Latvian
+Letton,Latvian
 Lettonie,Latvia
 Lettonie,[LVA]
 Letziwald [SUI],Letziwald
@@ -3467,7 +3467,7 @@ Manchou,Manchurian
 Manchou,Manchurian [Adj]
 Mandalay [MMR],Mandalay
 Mandaue [PHL],Mandaue
-Mandingue (Lang.],Mandika
+Mandingue,Mandika
 Mangaweka [NZL],Mangaweka
 Mangolding [GER],Mangolding
 Manille [PHL],Manila
@@ -4593,7 +4593,7 @@ Quinson [FRA],Quinson
 Quito [ECU],Quito
 Qurayyat [OMN],Qurayyat
 "Québec, Québec [CAN], Québecois-e(adj)",Quebec
-Québecois-e [Lang.],Quebec French
+Québecois-e,Quebec French
 Quézac [FRA],Quézac
 Quézon City [PHL],Quezon City
 Rabat [MAR],Rabat
@@ -5155,7 +5155,7 @@ Serrières-sur-l'Ain [FRA],Serrières-sur-l'Ain
 Sesto S. Giovanni [ITA],Sesto S. Giovanni
 Setchouan [CHN],Sichuan
 Seto [JPN],Seto
-Setswana (Lang.],Setswana
+Setswana,Setswana
 Settat [MAR],Settat
 Settignano [ITA],Settignano
 Sevelen [SUI],Sevelen
@@ -5508,7 +5508,7 @@ Tchad,[TCD]
 Tecklenburg-Leeden [GER],Tecklenburg-Leeden
 Tel Aviv [ISR],Tel Aviv
 Tell,Tell
-Telugu [Lang.],Telugu
+Telugu,Telugu
 Tennessee,[TN:USA]
 Tennessien,Tennessean(adj)
 Teramo [ITA],Teramo
@@ -6550,7 +6550,7 @@ battalion,bn.
 bavarois-e,bavarian(adj)
 bengalais-e,bengalese
 bengalais-e,bengalese(adj)
-berbère [Lang.],berber
+berbère,berber
 billet d'avion,air ticket
 billet de 1 dollars,$ 1 bill
 billet de 10 dollars,$ 10 bill
@@ -6595,7 +6595,7 @@ congolais-e,congolese(adj)
 "conseiller municipal, menbre d'un conseil",councilman
 corps de garde(mil),guardroom
 "corrompre, dépraver",deprave
-coréen-ne [Lang.],korean
+coréen-ne,korean
 coulé de boue,mud
 coulé de lave,lava flow
 coulé de neige,snowlide
@@ -6975,7 +6975,7 @@ zone verte,green belt
 Égine,Aegina
 Érévan [ARM],Erevan
 Évora [PRT],Évora
-Éwé [Lang.],Ewe
+Éwé,Ewe
 Île Kodiak [AK:USA],Kodiak island
 Île Oahu [HI:USA],Oahu Island
 Île Ofu [AS:USA],Ofu Island

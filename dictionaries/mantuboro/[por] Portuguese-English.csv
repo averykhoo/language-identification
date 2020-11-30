@@ -2079,13 +2079,13 @@ adomingar,"{v.} dress up, put on fancy clothes; adorn, decorate, beautify"
 adonisar,"{v.} dandify, turn into a dandy; adorn, beautify"
 adonismo,"{n.} dandyism, excessive concern with one's clothes and appearance; presumption; foppery, vanity"
 adoperar,"{v.} manufacture, produce"
-adoptado [pt.],{adj.} adopted
-adoptante [pt.],{n.} adoptee
-adoptar [pt.],{v.} adopt
-adoptiva [pt.],{n.} adoptive
-adoptivamente [pt.],{adv.} adoptively
-adoptivo [pt.],{adj.} adoptive
-adopção [pt.],{n.} adoption
+adoptado,{adj.} adopted
+adoptante,{n.} adoptee
+adoptar,{v.} adopt
+adoptiva,{n.} adoptive
+adoptivamente,{adv.} adoptively
+adoptivo,{adj.} adoptive
+adopção,{n.} adoption
 adorado,"{adj.} adored, beloved; inamorato"
 adorador,"{adj.} adorer, admirer"
 adorador,"{n.} adorer, admirer"
@@ -3826,9 +3826,9 @@ aluminoso,{adj.} aluminous
 alumínio,"{n.} aluminum, malleable silvery metallic element used in alloys and in the manufacture of lightweight objects (Chemistry)"
 aluna,"{n.} schoolgirl; pupil, girl"
 aluna de escola,{n.} schoolgirl
-alunagem [pt.],{n.} mooning
+alunagem,{n.} mooning
 alunar,"{v.} alight on the moon; (Portugal) moon, daydream"
-alunar [pt.],{v.} to moon
+alunar,{v.} to moon
 alunissagem,{n.} (Port.= alunagem ) moon landing
 alunissar,{v.} land on the moon
 aluno,"{n.} pupil, student; schoolboy, schoolchild"
@@ -5319,7 +5319,7 @@ aparelhamento,"{n.} apparatus, device, equipment, tools or other objects for com
 aparelhar,"{v.} prepare, gear, rig, furnish"
 aparelhar(transitive),"{v.} prepare, gear, rig, furnish"
 aparelho,"{n.} apparatus, equipment, instrument, tackle, gadget, contrivance"
-aparelho [br.],"{n.} apparatus, device"
+aparelho,"{n.} apparatus, device"
 aparelho de ar condicionado,{n.} air conditioner
 aparelho de televisão,"{n.} televisor, television set"
 aparelho ortodôntico,{n.} braces
@@ -8278,7 +8278,7 @@ baixa súbita,"{n.} slump, sudden decrease"
 baixa temperatura,"{n.} low temperature, cool temperature"
 baixada,"{n.} coomb, lowland, holm"
 baixar,"{v.} subside, lower; drop, fall; download (Computers); recede"
-baixar [comp.],{v.} download
+baixar,{v.} download
 baixar a voz,{v.} lower the voice
 baixar de nível,{v.} slope or dip downward; move down to a lower level
 baixar de tom,{v.} lower
@@ -8606,7 +8606,7 @@ bandeiras,{n.} banners
 bandeiro,"{adj.} inconstant, fickle, changeable"
 bandeirola,"{n.} banderole, pennon; picket; streamer"
 bandeja,"{n.} tray; waiter; (Agriculture) winnowing machine, winnower"
-bandeja [agric.],"{n.} winnower, winnowing machine"
+bandeja,"{n.} winnower, winnowing machine"
 bandeja de aço inoxidável,{n.} stainless steel tray
 bandejas,{n.} trays
 bandejão,{n.} (Slang) cafeteria in schools or in companies
@@ -9666,7 +9666,7 @@ berenguendém,"{n.} fandangle, bauble, decoration, ornament"
 bereré,"{n.} mutiny, rebellion, uprising, revolt; entanglement, confusion, complication"
 bereva,{n.} scabies
 bergamota,{n.} pera; bergamot (botany); mandarine (Brazil)
-bergamota [br.],{n.} mandarine
+bergamota,{n.} mandarine
 berganhar,"{v.} barter, exchange goods and services"
 bergantim,"{n.} brigantine, ship with two masts"
 bergsoniano,{adj.} pertaining to Bergson and his philosophy
@@ -10248,7 +10248,7 @@ blues,"{n.} blues, style of syncopated jazz that originated from the early lamen
 blusa,"{n.} blouse, shirt"
 blusher,{n.} blusher
 blusão,"{n.} (Portugal) windbreaker, jacket"
-blusão [pt.],"{n.} windbreaker, jacket"
+blusão,"{n.} windbreaker, jacket"
 blusão e paletó,{n.} slop
 bndes,National Bank of Social and Economical Development=BNDES (Banco Nacional de Desenvolvimento Econômico e Social)
 bnh,"National Bank of Housing""BNH (Banco Nacional de Habitação)"
@@ -11142,7 +11142,7 @@ cabeludo,"{adj.} hairiness, state of being covered with hair"
 cabeludo,"{n.} hairiness, state of being covered with hair"
 caber,"{v.} fit, have room for, have space for"
 cabeça,"{n.} head, chunk; brain; chief, leader; (Slang) twopenny"
-cabeça [sl.],"{n.} twopenny, coconut"
+cabeça,"{n.} twopenny, coconut"
 cabeça de parafuso,{n.} bolt head
 cabeça de prego,{n.} nail-head
 cabeça de vento,{n.} scatterbrain
@@ -11802,7 +11802,7 @@ camiseiro,"{n.} hosier, haberdasher"
 camiseta,"{n.} T-shirt, undershirt"
 camisinha,"{n.} condom, rubber; prophylactic, preservative"
 camisola,"{n.} nightshirt, nightgown; night robe, camisole; (Portugal) jersey"
-camisola [pt.],"{n.} brassiere, jersey, camisole"
+camisola,"{n.} brassiere, jersey, camisole"
 camisote,"{n.} camisado, a fine cloth shirt"
 camisão,"{n.} mini shirtdress; blouse, shirt; hayseed, person from the country"
 camoeca,"{n.} ailment, illness"
@@ -12622,8 +12622,8 @@ carteado,"{n.} card game, game that is played with a deck of cards"
 cartear,"{v.} card, comb"
 carteira,"{n.} wallet, purse, pocket book"
 carteira de couro,{n.} leather wallet
-carteira de identidade [br.],{n.} identity card
-carteira de motorista [br.],{n.} driver's license
+carteira de identidade,{n.} identity card
+carteira de motorista,{n.} driver's license
 carteira escolar,{n.} desk
 carteiro,"{n.} mailman, postman, mail carrier"
 cartel,"{n.} cartel, syndication"
@@ -12697,7 +12697,7 @@ casa alugada,{n.} pagurian
 casa cheia,{n.} houseful
 casa comercial,"{n.} firm, house"
 casa da moeda,"{n.} mint, factory where money is produced"
-casa de banhos [pt.],"{n.} bagnio, a prison for slaves, whorehouse"
+casa de banhos,"{n.} bagnio, a prison for slaves, whorehouse"
 casa de campo,"{n.} country house, manor, villa"
 casa de chá,"{n.} tea house, tea room"
 casa de câmbio,{n.} currency exchange house
@@ -12788,7 +12788,7 @@ castanha de cajú,cashew nut
 castanha do pará,{n.} brazil nut
 castanheiro,"{n.} chestnut, type of tree"
 castanho,"{adj.} (Portugal) brown, nut brown"
-castanho [pt.],"{adj.} brown, nut brown"
+castanho,"{adj.} brown, nut brown"
 castanho amarelado,{adj.} luteous
 castanho avermelhado,"{adj.} auburn, maroon, rufous, sorrel"
 castanho claro,{n.} light brown
@@ -13607,7 +13607,7 @@ chorão,"{n.} crybaby, one who tends to cry or complain"
 choupana,"{n.} shack, hut, shanty, shed, cot, cabin, lodge, barrack, hovel"
 choupo,"{n.} poplar, type of tree that has a very tall thin form"
 chouriço,"{n.} pudding, type of sweet creamy dessert; custard"
-chouriço [pt.],{n.} spicy sausage
+chouriço,{n.} spicy sausage
 chover,"{v.} rain, pour, shower"
 chover torrencialmente,{v.} storm
 chovido,{adj.} wet by rain
@@ -14045,7 +14045,7 @@ classe média,{n.} middle-class
 classe operária,"{n.} working class, social strata in a population that is made up of the laborers"
 classe privilegiada,"{n.} aristocracy, noble class"
 classe social,"{n.} walk of life, stratum"
-classe turística [naut.],{n.} cabin class
+classe turística,{n.} cabin class
 classicismo,"{n.} classicism, principles of classic literature and art"
 classificado,"{adj.} classified, assorted, labeled"
 classificador,"{n.} grader, sorter"
@@ -14593,7 +14593,7 @@ combinação,"{n.} combination, conjunction, composite, compound; agreement, arr
 combinável,{adj.} combinatorial
 comboiar,"{v.} convoy, escort"
 comboio,"{n.} convoy, fleet; (Portugal) train, railroad car"
-comboio [pt.],"{n.} train, railroad car"
+comboio,"{n.} train, railroad car"
 comburir,"{v.} burn, be in flames; consume with fire"
 combustar,"{v.} combust, burn, singe, scorch"
 combustibilidade,"{n.} combustibility, inflammability"
@@ -14771,7 +14771,7 @@ compassar,"{v.} cadence, pace; calculate"
 compassividade,"{n.} humaneness, compassionateness; kindness"
 compassivo,"{adj.} compassionate, condolatory, humane, merciful; mild, soft; warm-hearted, open hearted"
 compasso,"{n.} rhythm, tact, beat; measure"
-compasso [mus.],{n.} compasses
+compasso,{n.} compasses
 compatibilidade,"{n.} compatibility, suitability; consistency"
 compatibilizar,"{v.} suit, fit, match; satisfy, please"
 compatriota,"{n.} compatriot, countryman, kinsman, kinswoman"
@@ -15654,7 +15654,7 @@ contabilidade,"{n.} accountancy, keeping of accounts; accounting, auditing"
 contabilista,"{n.} accountant, one who does financial audits; accounting"
 contabilizar,{v.} make accounts
 contactar,"{v.} contact, connect"
-contacto [pt.],{n.} contact
+contacto,{n.} contact
 contado,"{adj.} related, connected, associated"
 contador,"{n.} accountant; counter, meter"
 contador diplomado,"{n.} certified accountant, chartered account"
@@ -15978,7 +15978,7 @@ conversadeira,"{n.} chatty, talkative, sociable; cozy"
 conversador,"{adj.} conversationalist, talkative person, loquacious person, talker"
 conversador,"{n.} conversationalist, talkative person, loquacious person, talker"
 conversar,"{v.} talk, speak, converse, discourse, confabulate; chat, yarn"
-conversar [amer.],{v.} crack
+conversar,{v.} crack
 conversar a sós,{n.} tete-a-tete
 conversar fiado,chew the fat
 conversação,"{n.} conversation, discussion, reasoning, talk"
@@ -16060,7 +16060,7 @@ copado,"{adj.} leafy, leafed, leaf-covered"
 copatrocinador,{n.} joint sponsor
 copaíba,"{n.} copaiba, type of resin used in varnish and formerly in medicine"
 copeira,"{n.} kitchen maid, female servant that helps in the kitchen, hebe"
-copeiro [naut.],{n.} mess boy
+copeiro,{n.} mess boy
 copejar,"{v.} harpoon, hunt with a harpoon; spear as if with a harpoon"
 copela,{n.} cupel
 copelar,{v.} cupel
@@ -16671,7 +16671,7 @@ cristado,"{adj.} crested, having a crest (tuft of feathers; part of a coat of ar
 cristal,"{n.} crystal, pebble, small stone"
 cristal de rocha,"{n.} pebble, pebble stone"
 cristalino,"{adj.} crystal, crystalline; limpid, pellucid; (Medical) crystalline lens"
-cristalino [med.],{n.} crystalline lens
+cristalino,{n.} crystalline lens
 cristalite,"{n.} crystallite, type of crystal, crystallized igneous rock"
 cristalizado,"{adj.} candied, sugared, coated with sugar"
 cristalizar,"{v.} crystallize, granulate; ice, candy"
@@ -17037,7 +17037,7 @@ cágado,{n.} tortoise
 cálamo,{n.} calamus
 cálcio,{n.} calcium
 cálculo,"{n.} calculation, account, calculus, computation, sum, rate, measurement, numeration, clearing off, working-out, putting, estimate, reckoning, appraisement, appraisal, cast, tally"
-cálculo [med.],{n.} concretion
+cálculo,{n.} concretion
 cálculo aproximado,{n.} rough calculation
 cálculo diferencial,{n.} differential calculus
 cálculo renal,{n.} kidney stone
@@ -17078,7 +17078,7 @@ câmara frigorífica,"{n.} cold storage chamber, cold storage compartment, cold 
 câmara municipal,"{n.} common hall, city council"
 câmara-de-ar,air chamber
 câmbio,"{n.} exchange, money exchange; conversion, cambium; (Brazil) trans shipment"
-câmbio [br.],{n.} trans shipment
+câmbio,{n.} trans shipment
 câmbio flutuante,{n.} floating rate
 câmera,{n.} camera
 câmera aérea,{n.} aerocamera
@@ -18380,7 +18380,7 @@ derrogar,"{v.} abolish, null, cancel, revoke; break the law"
 derrogatório,"{adj.} abolishing, rescinding; law-breaking"
 derrogação,"{n.} derogation, disparaging, belittlement"
 derrota,"{n.} defeat, overthrow; loss, rout; damage; route, path"
-derrota [naut.],{n.} route
+derrota,{n.} route
 derrotado,"{adj.} unsuccessful person, one who loses, loser"
 derrotado,"{n.} loser, unsuccessful person; one who loses"
 derrotar,"{v.} defeat, overcome; vanquish, worst; overpower, thrash, whop, beat, hammer; pip, kill"
@@ -19704,9 +19704,9 @@ despojo,"{n.} prey, victim, casualty"
 despojos,"{n.} sweepings, dust and dirt that has been swept up with a broom"
 despolarizar,{v.} depolarise
 despontar,"{v.} dawn, become light; begin, start"
-desportista [pt.],"{n.} sportsman, one who displays good sportsmanship"
-desportivo [pt.],"{adj.} sportive, of or pertaining to sports"
-desporto [pt.],{n.} sport
+desportista,"{n.} sportsman, one who displays good sportsmanship"
+desportivo,"{adj.} sportive, of or pertaining to sports"
+desporto,{n.} sport
 desposar,"{v.} wed, get married, marry, wive"
 desposar(transitive),"{v.} wed, get married, marry, wive"
 despotismo,"{n.} absolutism, despotism; oppression"
@@ -19964,8 +19964,8 @@ detalhar,"{v.} detail, enumerate; specify"
 detalhe,"{n.} detail, particular; item"
 detectar,"{v.} detect, discern"
 detectar(transitive),"{v.} detect, discern"
-detective [pt.],"{n.} detective, investigator"
-detector [pt.],"{n.} detector, sensor"
+detective,"{n.} detective, investigator"
+detector,"{n.} detector, sensor"
 detecção,"{n.} detection, discovery; detecting, perception"
 detento,"{n.} gaolbird, jailbird, prisoner, inmate"
 detentor,"{n.} detainer, detent; holder"
@@ -24056,7 +24056,7 @@ espanto,"{n.} bewilderment, amazement, astonishment; scare, fright; daze, marvel
 espantosamente,"{adv.} astoundingly, surprisingly, wondrous"
 espantoso,"{adj.} phenomenal, colossal; fearsome, frightful; surprising; terrific, wonderful, wondrous; dreadful, terrible, appalling; unbelievable"
 esparadrapo,"{n.} adhesive plaster, adhesive tape; court plaster"
-esparadrapo [br.],"{n.} adhesive plaster, adhesive tape, patch, court plaster"
+esparadrapo,"{n.} adhesive plaster, adhesive tape, patch, court plaster"
 esparavão,"{n.} spavin, string halt"
 esparceta,"{n.} sainfoin, fodder plant (Botany)"
 espargimento,"{n.} sprinkling, small amount distributed randomly"
@@ -24318,7 +24318,7 @@ espádua,"{n.} shoulder blade, triangular and flat bone on the back side of the 
 espástico,"{adj.} spastic, contracting involuntarily"
 espático,"{adj.} sparry, spathic, like spar"
 espátula,"{n.} spreader, scoop, spatula"
-espátula [br.],{n.} paletteknife
+espátula,{n.} paletteknife
 espécie,"{n.} manner; breed, race; description; genus, kind; sort, species; stripe, feather"
 espécies,"{n.} species, most basic biological classification comprised of individuals that are able to breed with each other but not with others, subdivision of a genus"
 espécime,"{n.} example, pattern; specimen, sample; scantling; representative"
@@ -25653,7 +25653,7 @@ facioso,"{adj.} factious, dissentious, cliquish, sectarian"
 facsimilar,"{v.} facsimile, exact copy, electronic transmission of written material"
 facsímile,"{n.} autotype, facsimile"
 factitivo,"{adj.} factitive, causative"
-facto [pt.],{n.} fact
+facto,{n.} fact
 factício,"{adj.} factitious, not genuine"
 factível,"{adj.} feasible, doable"
 factótum,"{n.} do-all, factotum"
@@ -25698,7 +25698,7 @@ faiscador,{n.} gold washer
 faiscar,"{v.} spark, produce sparks, emit sparks, sparkle; scintillate, shine; radiate, beam"
 faisão,"{n.} pheasant, wild game bird"
 faixa,"{n.} ribbon, sash; streak, strip; zone; (Brazil) zebra crossing, crosswalk"
-faixa [br.],"{n.} zebra crossing, crosswalk"
+faixa,"{n.} zebra crossing, crosswalk"
 faixa de controle,control strip
 faixa de terra,"{n.} balk, unplowed ridge of land"
 faixa etária,"{n.} age-group, set of people having the same age"
@@ -26023,7 +26023,7 @@ fatigoso,"{adj.} fatiguing, tiring, wearying, exhausting, draining"
 fatiota,"{n.} dress, clothing"
 fato,"{n.} (Portugal) suit, matching outfit consisting of a jacket and trousers or a skirt"
 fato,"{n.} (Port.= facto ) (Portugal) suit, matching outfit consisting of a jacket and trousers or a skirt"
-fato [pt.],{n.} suit
+fato,{n.} suit
 fato real,"{n.} verity, fact"
 fator,"{n.} coefficient, factor"
 fator de crescimento,{n.} growth factor
@@ -26576,7 +26576,7 @@ figuro,"{n.} dubious character, shady character, untrustworthy person; big shot,
 figurão,"{n.} big shot, person of influence; ostentation, showiness; cunning person, crafty person"
 fiji,"{n.} Fiji, independent republic comprised of the Fiji Islands located in the western South Pacific Ocean (north of New Zealand)"
 fila,"{n.} file, line; row, tier; streamer; lay, range; rank"
-fila [br.],{n.} queue
+fila,{n.} queue
 fila de duas pontas,double ended queue
 fila de impressão,print queue
 fila de mensagens,"message queue, place in the memory which stores messages which are transferred between applications"
@@ -26615,7 +26615,7 @@ filhinho,{n.} sonny (form of address used when speaking to a young boy)
 filho,"{n.} son, child; issue"
 filho adotivo,"{n.} foster child, adopted son"
 filho da puta,{n.} son of a bitch
-filho de [pref.],{n.} mac
+filho de,{n.} mac
 filho de criação,{n.} foster child
 filho de peixe peixinho é,phr1filho de peixe peixinho é (like father like son)
 filho ilegítimo,"{n.} illegitimate son, sideslip"
@@ -26754,7 +26754,7 @@ fio de cobre,{n.} copper wire
 fio de lã,"{n.} woollen yarn, wool"
 fio de náilon,{n.} nylon yarn
 fio dental,{n.} dental floss
-fio dental [sl.],"{n.} bikini, string bikini"
+fio dental,"{n.} bikini, string bikini"
 fio elétrico,{n.} electric wire
 fio galvanizado,{n.} galvanized wire
 fio torcido,{n.} twine
@@ -28381,7 +28381,7 @@ gelada,"{n.} freeze, frost; refreshment (esp. food or drink)"
 geladeira,"{n.} cold storage, freezer; refrigerator, fridge; ice-box, cooler; icehouse"
 gelado,"{adj.} (Portugal) ice cream, ice"
 gelado,"{n.} (Portugal) ice cream, ice"
-gelado [pt.],"{n.} ice cream, ice"
+gelado,"{n.} ice cream, ice"
 gelar,"{v.} ice, frost, freeze; chill, refrigerate"
 gelar(transitive),"{v.} ice, frost, freeze; chill, refrigerate"
 gelatina,"{n.} gelatin, jelly"
@@ -28757,7 +28757,7 @@ gole,"{n.} gulp, swig; draught, sup; tiff; pull"
 goleador,{n.} scorer (Sports)
 golear,"{v.} score, score many goals"
 goleiro,"{n.} (Brazil) goalkeeper, one who guards the entrance of a goal to prevent the ball or puck from entering (Sports)"
-goleiro [br.],{n.} goalkeeper
+goleiro,{n.} goalkeeper
 golelhar,"{v.} gabble, chatter"
 golelheiro,{n.} chatterer; gossiper
 goles,"{n.} gules, the tincture red (Heraldry)"
@@ -28888,7 +28888,7 @@ gralhar,"{v.} caw, croak"
 grama,"{n.} grass, lawn; gramme, gram"
 gramadeira,"{n.} hackle, scutch"
 gramado,"{n.} lawn, stretch of grass-covered land (usually around a house or estate)"
-gramado [br.],{adj.} green
+gramado,{adj.} green
 gramar,{v.} grass; hackle
 gramar(transitive),{v.} grass; hackle
 gramatical,"{adj.} grammatical, pertaining to the study of the structure of a language"
@@ -29126,7 +29126,7 @@ guarda florestal,"{n.} woodman, forester, Woodward, ranger"
 guarda nacional,{n.} national guard
 guarda noturno,"{n.} night watchman, night watch, watchman"
 guarda pessoal,{n.} bodyguard
-guarda redes [pt.],{n.} goalkeeper
+guarda redes,{n.} goalkeeper
 guarda sol,"{n.} beach umbrella, sun umbrella, parasol, sunshade, umbrella"
 guarda-chuva,"{n.} brolly, gingham, mush, umbrella"
 guarda-civil,"civil guard, civilian unit for the defense of a settlement from the rear"
@@ -30229,7 +30229,7 @@ imediatamente,"{adv.} immediately, instantly; right, direct; at once, right away
 imediatar,{v.} serve as a chief officer
 imediato,"{adj.} next, afterwards"
 imediato,"{adv.} next, afterwards"
-imediato [naut.],{n.} chief officer
+imediato,{n.} chief officer
 imediação,"{n.} outskirts, suburbs"
 imediações,"{n.} surroundings, environment"
 imemorado,"{adj.} forgotten, not recalled; not yet told"
@@ -34882,7 +34882,7 @@ luzir,"{v.} glance, sparkle"
 luético,"{adj.} luetic, infected with syphilis (sexually transmitted venereal disease)"
 lá,"{adj.} (Music) la, sixth tone in a diatonic scale"
 lá,"{adv.} there, in that location"
-lá [mus.],{n.} la
+lá,{n.} la
 lá fora,{adv.} outside
 lábaro,"{n.} standard, flag, banner"
 lábia,"{n.} craftiness, cunning, slyness; cleverness, shrewdness"
@@ -38370,7 +38370,7 @@ morfólogo,"{n.} morphologist, researcher of morphology, one who studies form an
 morganático,"{adj.} morganatic, of the marriage between a nobleman and a lower class woman"
 morgar,"{v.} sleep, be in a state of sleep, fall asleep, slumber, be inactive"
 morgue,"{n.} (Portugal) morgue, mortuary"
-morgue [pt.],"{n.} morgue, mortuary"
+morgue,"{n.} morgue, mortuary"
 moribundo,"{adj.} dying, moribund; parting"
 morigerado,"{adj.} well mannered, polite, courteous"
 morim,"{n.} long cloth, fine cotton cloth"
@@ -39318,7 +39318,7 @@ necroscopia,{n.} necroscopy
 necrose,"{n.} canker, mortification; necrosis"
 necrotomia,"{n.} necrotomy, dissection of a dead body"
 necrotério,"{n.} (Brazil) morgue, mortuary"
-necrotério [br.],"{n.} dead house, mortuary, morgue"
+necrotério,"{n.} dead house, mortuary, morgue"
 necrófago,"{adj.} necrophagous, feeding on dead tissue"
 necrófilo,"{n.} necrophile, person who suffers from necrophilia, one who is erotically attracted to corpses"
 necrófobo,"{n.} necrophobic, person suffering from necrophobia"
@@ -43988,7 +43988,7 @@ pezenho,"{adj.} pitchy, black"
 pezinho,"{n.} tootsy, delicate foot, little foot"
 pezudo,"{adj.} big-footed, has large feet"
 peão,"{n.} (Portugal) pedestrian, footpassenger; construction worker, one who works in the construction industry"
-peão [pt.],"{n.} pedestrian, footpassenger, pawn, walker, peon, man"
+peão,"{n.} pedestrian, footpassenger, pawn, walker, peon, man"
 peça,"{n.} piece, part; article; hoax, practical joke"
 peça de teatro,{n.} play
 peça teatral,{n.} impromptu
@@ -45710,7 +45710,7 @@ profilático,"{n.} condom, rubber sheath worn on the penis during sexual interco
 profissionais,{n.} professionals
 profissional,"{adj.} practitioner, professional, professor"
 profissional,"{n.} practitioner, professional, professor"
-profissional [sl.],{n.} jockstrap
+profissional,{n.} jockstrap
 profissionalismo,"{n.} professionalism, state of having professional qualities"
 profissionalizar,"{v.} professionalize, give professional qualities"
 profissionalizar(transitive),"{v.} professionalize, give professional qualities"
@@ -48119,7 +48119,7 @@ reforma,"{n.} reform, amendment; redress; reconstruction; improvement, reformati
 reforma agrária,"{n.} agrarian reform, land reform"
 reforma ministerial,{n.} cabinet shake up
 reformado,"{adj.} reformed, improved"
-reformado [pt.],"{adj.} retired, reformed"
+reformado,"{adj.} retired, reformed"
 reformador,"{n.} reformer, improver"
 reformar,"{v.} reform, amend; recast, renovate; recondition; intensify"
 reformar(transitive),"{v.} reform, amend; recast, renovate; recondition; intensify"
@@ -48478,7 +48478,7 @@ reluzido,"{adj.} polished, shiny, glossy; lit, illuminated, made light"
 reluzir,"{v.} flash, glint; coruscate, shine; glisten, glitter; sparkle"
 relva,"{n.} carpet; lawn, grass; green, herbage; tuft; turf"
 relvado,"{adj.} lawny, turfy"
-relvado [pt.],"{n.} greensward, lawn, sward, sod, turf"
+relvado,"{n.} greensward, lawn, sward, sod, turf"
 relvar,"{v.} grass, cover with grass"
 relvejante,{adj.} covered with grass
 relvoso,"{adj.} turfy, grassy"
@@ -49959,7 +49959,7 @@ rápido,"{n.} rapid, riffle"
 râncido,"{adj.} rancid, spoiled"
 rã,"{n.} frog, paddock"
 ré,"{n.} re, second tone of the diatonic scale (Music); D, musical note"
-ré [mus.],"{n.} D, musical note"
+ré,"{n.} D, musical note"
 rébus,"{n.} rebus, a representation of words in the form of pictures or symbols often presented as a puzzle"
 récipe,"{adj.} Latin word used by doctors in prescriptions which signifies ""take"""
 récita,"{n.} recital, recitation"
@@ -50230,7 +50230,7 @@ safio,{n.} type of conger
 safira,"{n.} sapphire, hard precious stone (Minerology)"
 safismo,"{n.} lesbianism, female homosexuality"
 safo,"{n.} (Slang) street-smart, streetwise"
-safo [sl.],{n.} street-smart
+safo,{n.} street-smart
 safra,"{n.} catch; crop, harvest"
 safrejar,{v.} manage a sugar mill
 safro,"{adj.} rude, crude, discourteous, impolite"
@@ -51968,7 +51968,7 @@ sogros,"{n.} parents in law, in laws"
 soidão,"{n.} solitude, loneliness"
 soja,"{n.} soybean, soy, soya"
 sol,"{n.} sol, fifth tone of the diatonic scale (Music); sun, star at the center of the solar system around which the planets revolve"
-sol [mus.],"{n.} g, sol"
+sol,"{n.} g, sol"
 sola,"{n.} sole, bottom of a shoe"
 solar,"{adj.} resole, put a new sole on a shoe"
 solar,"{n.} manor, mansion"
@@ -52170,7 +52170,7 @@ sorveira,"{n.} Sorb, member of a Slavic people residing in eastern part of Saxon
 sorver,"{v.} absorb, aspirate"
 sorver(transitive),"{v.} absorb, aspirate"
 sorvete,"{n.} (Brazil) ice, ice cream"
-sorvete [br.],"{n.} ice, ice cream"
+sorvete,"{n.} ice, ice cream"
 sorveteira,"{n.} freezer, one who freezes"
 sorveteiro,"{n.} iceman, person who sells ice"
 sorvo,"{n.} sip, small amount of liquid taken into the mouth"
@@ -52548,7 +52548,7 @@ sumariar,"{v.} abbreviate; digest; sum up, summarize"
 sumidade,"{n.} worthy, personage"
 sumir,"{v.} scram, disappear"
 sumo,"{n.} (Portugal) juice, fluid which can be extracted (as from fruit)"
-sumo [pt.],"{n.} juice, lushness"
+sumo,"{n.} juice, lushness"
 sumo-da-cana,{n.} sugarcane juice
 sumulista,{n.} person responsible for the management of dockets
 sumário,"{adj.} resume, compendium; abstract, digest; precis, summary; syllabus, synopsis; brief"
@@ -53289,7 +53289,7 @@ telecomunicação,"{n.} telecommunication, long-distance communication"
 telefonada,"{n.} call, telephone conversation; ring"
 telefonar,"{v.} communicate, call; telephone, phone"
 telefone,"{n.} phone, telephone"
-telefone celular [br.],{n.} cellular telephone
+telefone celular,{n.} cellular telephone
 telefone público,{n.} public telephone
 telefonema,"{n.} phone call, conversation by telephone, telephone chat"
 telefonia,"{n.} telephony, wireless"
@@ -56070,7 +56070,7 @@ veio,"{n.} came, streak; spindle; vein"
 veios,"{n.} veins, vein"
 veja,"{v.} vide, (Latin) see (word used to refer readers to a different place in the text)"
 vela,{n.} candle; sail
-vela [naut.],{n.} sail
+vela,{n.} sail
 velado,"{adj.} foggy, filmy; wakeful"
 velador,{n.} mourner
 velar,"{adj.} watch, wake; scumble; film"
@@ -57669,7 +57669,7 @@ zóico,"{adj.} zoic, pertaining to animals"
 óleo de jojoba,{n.} jojoba oil
 óleo de rícino,{n.} castor oil
 óleo de soja,{n.} soybean oil
-óleo diesel [br.],{n.} diesel oil
+óleo diesel,{n.} diesel oil
 óleo vegetal,{n.} vegetable oil
 óleos,"{n.} chandler, candle maker"
 óleum,"{n.} oleum, oily solution comprised of sulfuric acid and sulfur trioxide (Chemistry)"

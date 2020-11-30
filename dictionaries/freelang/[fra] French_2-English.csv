@@ -304,7 +304,7 @@ Babylone {f} [ville antique],Babylon {n{} [ancient city]
 Babylonie {f} [Sumer],Babylonia {n}
 Babylonien {m},Babylonian {n}
 Babylonienne {f},Babylonian {n}
-Bacchus {m} [MYTH rom.],Bacchus {n} [Rom. MYTH]
+Bacchus {m},Bacchus {n} [Rom. MYTH]
 Bacillus anthracis {n},Bacillus anthracis {n}
 Bacillus thuringiensis {m},Bacillus thuringiensis {n}
 Bahamas {npl},Bahamas {npl}
@@ -380,7 +380,7 @@ Boer {m} [colon hollandais],Boer {n}
 Bohémien {m},Bohemian {n}
 Bohémienne {f},Bohemian {n}
 Bohême {f},Bohemia {n}
-Bois-le-Duc [Brabant sept.],Bois-le-Duc ['s-Hertogenbosch]
+Bois-le-Duc,Bois-le-Duc ['s-Hertogenbosch]
 Bois; lac {m} des ~[CAN & USA],Woods; Lake of the ~ [CAN&USA]
 Bolivie {f},Bolivia {n}
 Bolivien {m},Bolivian {n}
@@ -404,12 +404,12 @@ Breton {m},Breton {n}
 Bretonne {f},Breton {n}
 Bretons {mpl} [HIST],Briton {npl} [HIST]
 Britannique {f/m},"Briton {n}, Britisher {n}[British subject]"
-Bruges {f} [Flandre occident.],Bruges {n} [Flemish town]
+Bruges {f},Bruges {n} [Flemish town]
 Brunei Darussalam [sultanat],Brunei Darussalam [sultanate]
 Brunei {m} [sultanat],Brunei {n} [sultanate]
 Bruno de Cologne,Bruno; St ~
 Bruno; saint ~,Bruno; St ~
-Bruxelles [cap. de la Belgi.],Brussels {n} [cap. of Belgium]
+Bruxelles,Brussels {n} [cap. of Belgium]
 Brésil {m} [Amérique du Sud],Brazil {n} [South America]
 Brésilien {m},"Brazilian man {n}, Brazilian {n}"
 Brésilienne {f},"Brazilian {n}, Brazilian woman {n}"
@@ -608,7 +608,7 @@ Cypriote {f},"Cyprian woman {n} [s. Cypriot], Cypriot woman {n}"
 Cypriote {m/f},"Cypriot {n}, Cyprian {n} [see Cypriot]"
 Cypriote {m},"Cyprian man {n} [see Cypriot], Cypriot man {n}"
 Cène,Last Supper
-Cérès {m} [MYTH rom.],Ceres [Roman MYTH]
+Cérès {m},Ceres [Roman MYTH]
 César {m} [CIN],César {n} [CIN]
 César; Jules ~ [HIST],Caesar; Julius ~ [HIST]
 Côte d'Ivoire {f},Ivory Coast {n}
@@ -631,8 +631,8 @@ Danois {m},Dane {n}
 Danoise {f},Dane {n}
 Dante; langue {f} de ~,Italian {n} [language]
 Danube,Danube
-Delphes {m}[ville grec. ant.],Delphi {n} [HIST]
-Delphi {m} [langage de prog.],Delphi {n} [COMPUT]
+Delphes {m},Delphi {n} [HIST]
+Delphi {m},Delphi {n} [COMPUT]
 Derbyshire {m} [comté anglais],Derbyshire {n}[English county]
 Deutéronome,Deuteronomy
 Devon {m} [comté anglais],Devon {n} [English county]
@@ -828,7 +828,7 @@ Guadeloupe {f},Guadeloupe {n}
 Guatemala {m},Guatemala {n}
 Guatémaltèque {f/m},Guatemalan {n}
 Gueldre {f} [prov. néerland.],"Guelderland {n} [GEOG], Guelders {n} [GEOG]"
-Guignol {m}[marionnette lyon.],Punch {n} [an English puppet]
+Guignol {m},Punch {n} [an English puppet]
 Guinée {f},Guinea {n}
 Guinée {f} Equatoriale,Equatorial Guinea {n}
 Guinée-Bissau {f},Guinea Bissau {n}
@@ -1075,7 +1075,7 @@ Libyen {m},Libyan {n}
 Libyenne {f},Libyan {n}
 Libéria,Liberia
 Liechtenstein,Liechtenstein
-Limbourg {m} [province flam.],Limburg {n} [Flemish province]
+Limbourg {m},Limburg {n} [Flemish province]
 Lincolnshire [comté anglais],Lincolnshire {n}[Engl. county]
 Lisbonne [cap. du Portugal],Lisbon {n}
 Lituanie {f} [état européen],Lithuania {n} [Europe]
@@ -1106,7 +1106,7 @@ Lucerne; Canton {m} de ~,"Lucerne Canton {n}, Lucerne [Swiss canton]"
 Lucifer {m} [Satan],Lucifer {n} [Satan]
 Luxembourg {m} [ville],Luxembourg {n} [city]
 Luxembourg {m} [état européen],Luxembourg {n} [Europe]
-Luxembourg {m}[province wall.],Luxembourg {n}[Wall. province]
+Luxembourg {m},Luxembourg {n}[Wall. province]
 Luxembourgeois {m},Luxembourger {n}
 Luxembourgeoise {f},Luxembourger {n}
 Lyme [ville du Connecticut],Lyme [city in Connecticut]
@@ -1522,7 +1522,7 @@ Pré-ARN {m} messager [GÉN],pre-mRNA {n} [GEN]
 Pt [CHIM‚ symbole du platine],Pt [CHEM‚ symbol of platinum]
 Ptolémée,Ptolemy
 Pu [CHIM‚symbole du plutonium],Pu [CHEM‚ symbol of plutonium]
-Punch {m} [Polichinelle angl.],Punch {n} [an English puppet]
+Punch {m},Punch {n} [an English puppet]
 Pâque juive,Passover
 Pâques,Easter
 Pâques {fpl} fleuries [REL],Palm Sunday {n} [REL]
@@ -1616,7 +1616,7 @@ Saint-Gall [canton suisse],Sankt Gallen[canton in Switz.]
 Saint-Gall [ville suisse],Sankt Gallen [city in Switz.]
 Saint-Guy; danse {f} de ~,St Vitus's dance {n}
 Saint-Jean; rivière ~,Saint John River
-Saint-Laurent {m}[fleuve can.],Saint Lawrence River {n}
+Saint-Laurent {m},Saint Lawrence River {n}
 Saint-Marin,San Marino
 Saint-Nicolas [ville wallonne],Saint-Nicolas [in Walonnia]
 Saint-Nicolas {f},Nicholas's Day {n}
@@ -1644,7 +1644,7 @@ Satan {m},Lucifer {n} [Satan]
 Satan {m} [REL],Satan {n} [REL]
 Saturn {m} [ASTR‚ lanceur am.],Saturn {n}[ASTR‚space booster]
 Saturne {f} [ASTR‚ planète],Saturn {n} [ASTR‚ planet]
-Saturne {m} [MYTH rom.],Saturn {n}[MYTH‚god of agric.]
+Saturne {m},Saturn {n}[MYTH‚god of agric.]
 Saxe,Saxony
 Saxon,Saxon
 Sb [symbole de l'antimoine],Sb [symbol of antimony]
@@ -1791,7 +1791,7 @@ Teuton {m} [Allemand‚ péj.],Teuton {n} [a German‚ offens.]
 Teuton {m} [HIST],Teuton {n} [HIST]
 Teutonne {f} [Allemande‚ péj.],Teuton {n} [a German‚ offens.]
 Teutonne {f} [HIST],Teuton {n} [HIST]
-Teutons {mpl} [peuple germa.],Teutons {npl} [Germanic tribe]
+Teutons {mpl},Teutons {npl} [Germanic tribe]
 Texan {m},"Texan {n}, Texan man {n}"
 Texane {f},"Texan {n}, Texan woman {n}"
 Texas {m},Texas {n} [state in USA]
@@ -1890,7 +1890,7 @@ Voltaire; langue {f} de ~,"French language {n}, French {n} [language]"
 Vondel; langue {f} de ~,"Dutch {n} [language], Dutch language {n}"
 Vosges,Vosges
 Votre Altesse,Your Highness
-Vuelta {f} [cycl.],Vuelta de España {n}
+Vuelta {f},Vuelta de España {n}
 Vulcain,Vulcan
 Vulgate,Vulgate
 Vénus {f} [ASTR],"Venus {n} [ASTR], Evening Star {n} [ASTR]"
@@ -4009,7 +4009,7 @@ alpha; particule {f} ~,alpha particle {n} [PHYS]
 alpha; rayonnement {m} ~,alpha ray {n} [PHYS]
 alpha; rayons {mpl} ~,alpha ray {n} [PHYS]
 alphabet {m} [abécédaire],spelling book {n}
-alphabet {m} [signes graph.],alphabet {n} [set of letters]
+alphabet {m},alphabet {n} [set of letters]
 alphabétique [adj],"alphabetical [adj], alphabetic [adj]"
 alphabétique; par ordre ~,alphabetically [adv]
 alpin(e) [adj],alpine [adj]
@@ -4794,7 +4794,7 @@ antidumping [adj],anti-dumping [adj]
 antidéflagrant,proof; explosion-~
 antidémarrage {m},immobilizer; engine ~ {n}
 antidémocratique [adj],"antidemocratic [adj], undemocratic [adj]"
-antidépresseur [adj masc.],antidepressant [adj]
+antidépresseur,antidepressant [adj]
 antidépresseur {m},antidepressant {n}
 antidérapant(e) [adj],"non-skid [adj], non-slip [adj]"
 antidétonant {m} [CHIM],antiknock {n} [CHEM]
@@ -4831,7 +4831,7 @@ antinomie {f},antinomy {n}
 antinucléaire [adj],anti-nuclear [adj]
 antinucléaire; mouvement {m} ~,anti-nuclear movement {n}
 antioxydant {m},antioxidant {n}
-antipape {m} [REL cath.],antipope {n} [Cath. REL]
+antipape {m},antipope {n} [Cath. REL]
 antiparallèle [adj],antiparallel [adj]
 antiparticule{f},antiparticle {n} [PHYS]
 antipathie,dislike
@@ -6913,7 +6913,7 @@ aven {m} [GÉOL],"swallow-hole {n} [GEOL], sink-hole {n} [GEOL]"
 avenant; à l'~ de [loc adv],keeping; in ~ with [adv phr]
 avenir; avoir un grand ~,future;to have a great ~ ahead
 avenir; à l'~ [loc adv],"future; in the ~ [adv phr], future; in ~ [adv phr]"
-avent {m} [REL cath.],Advent {n} [Cath. REL]
+avent {m},Advent {n} [Cath. REL]
 aventure désespérée,forlorn hope
 aventure {f} (galante),"flirtation {n}, love affair {n}, flirting {n}"
 aventure {f} amoureuse,"love affair {n}, affaire (de Coeur) {n}"
@@ -9046,7 +9046,7 @@ bourgeoisie {f},middle class {n}
 bourgeoisie {f}; grande ~,bourgeoisie {n} [capit. class]
 bourgeoisie {f}; haute ~,bourgeoisie {n} [capit. class]
 bourgeoisie {f}; petite ~,"lower middle-class {n}, petite bourgeoisie {n}"
-bourgeoisie {f}[classe moyen.],bourgeoisie {n} [middle class]
+bourgeoisie {f},bourgeoisie {n} [middle class]
 bourgeonnement,budding
 bourgeonner [v intr‚ BOT],shoot [v intr‚ BOT]
 bourgeonné,sprouted
@@ -9125,7 +9125,7 @@ bouteille {f},bottle {n}
 bouteille; mettre en ~,bottle [v tr]
 bouteille; mise {f} en ~s,bottling {n}
 bouter [v tr] le feu,fire [v tr‚ set fire]
-bouteur {m}[rec. off. bulldo.],bulldozer {n}
+bouteur {m},bulldozer {n}
 boutique,store
 boutique d'animaux,pet shop
 boutique {f},shop {n}
@@ -9646,7 +9646,7 @@ bureaucratique,bureaucratic
 bureautique,office automation
 burent,drank
 burette,"oilcan, burette"
-burette [rel.],cruet
+burette,cruet
 burette {f},oiler {n}
 burettes; il me casse les ~,tits; he gets on my ~
 burin,cold chisel
@@ -9743,7 +9743,7 @@ béant(e) [adj],gaping [adj]
 béant(e); être ~,yawn [v intr‚ gape]
 béat,sanctimonious
 béat(e) [adj],blissfully happy [adj phr]
-béatification {f} [REL cath.],beatification {n} [Cath. REL]
+béatification {f},beatification {n} [Cath. REL]
 béatifier [v tr‚ REL cath.],beatify [v tr‚ Cath. REL]
 béatifique [adj‚ REL],beatific [adj‚ REL]
 béatitude {f},beatitude {n}
@@ -10018,7 +10018,7 @@ cabinet {m} collectif [MÉD],group practice {n} [MED]
 cabinet {m} de consultation,consulting room {n}
 cabinet {m} de toilette,bathroom {n}
 cabinet(s) {m(pl)} [toilettes],"convenience {n} [Br.‚lavatory], water-closet {n}"
-caboche {f} [arg.],nob {n} [Br.‚ Sl.‚ head]
+caboche {f},nob {n} [Br.‚ Sl.‚ head]
 caboche {f} [arg‚ tête],block {n} [sl‚ the head]
 cabosser,"dent (to), dent"
 cabot {m} [fam],mutt {n} [derog‚ a dog]
@@ -10470,8 +10470,8 @@ canon {m} [MIL],cannon {n (#)} [MIL]
 canon {m} [MUS],canon {n} [MUS]
 canon {m} [REL],canon {n} [a church law]
 canon {m} [fille attrayante],cracker {n} [Br.‚ a person]
-canon {m} [liturgie cath.],canon {n}[part of the RC Mass]
-canon {m} [textes bibl.],canon {n} [sacred books]
+canon {m},canon {n}[part of the RC Mass]
+canon {m},canon {n} [sacred books]
 canon {m} lance,water gun {n}
 canon {m} sans recul [MIL],recoilless rifle {n} [MIL]
 canon {n} [MUS],round {n} [MUS]
@@ -12409,7 +12409,7 @@ citation,quotation
 citation {f},citation {n}
 citation {nf},quote {n} [a passage quoted]
 citer,"mention, name, cite"
-citer (jur.),summon (jur.)
+citer,summon (jur.)
 citer [v tr],quote [v tr‚ cite]
 citer en exemple,instance
 citer inexactement,misquote
@@ -13454,7 +13454,7 @@ compétition {f} [SPORT],"competition {n} [SPORT], challenge {n} [SPORT]"
 compétition {f} [rivalité],"rivalry {n}, competition {n} [rivalry]"
 compétitivité {f},competitiveness {n}
 comte {m},count {n} [a foreign noble]
-comte {m} [noblesse angl.],earl {n} [a British nobleman]
+comte {m},earl {n} [a British nobleman]
 comtesse,countess
 comté,"shire (GB), county"
 comté {m} métropolitain,county {n}; metropolitan ~
@@ -13525,9 +13525,9 @@ concis,"pithy, concise"
 concision,"brevity, concision"
 concitoyen,fellow citizen
 conclave {m},conclave {n}
-conclave {m} [REL cath.],conclave {n} [Cath. REL]
+conclave {m},conclave {n} [Cath. REL]
 conclave {m} [réunion],conclave {n} [a meeting]
-conclaviste {m} [REL cath.],conclavist {n} [Cath. REL]
+conclaviste {m},conclavist {n} [Cath. REL]
 concluant(e) [adj],conclusive [adj]
 concluant; peu ~(e) [loc adj],inconclusive [adj]
 conclure,"induce, deal with, conclude, gather"
@@ -13547,7 +13547,7 @@ concordance,"concurrence, responsibility"
 concordance des temps,sequence of tenses
 concordance {f},similarity {n}
 concordant(e) [adj],compatible [adj‚ consistent]
-concordat {m} [REL cath.],concordat {n} [Cath. REL]
+concordat {m},concordat {n} [Cath. REL]
 concorder,"fit together, dovetail (to), conform"
 concorder avec,to be consistent with
 concourir,"rival, compete, converge"
@@ -13832,7 +13832,7 @@ connaissance;prendre ~ de qqch,acquainted; to become ~ with
 connaisseur,connoisseur
 connard,jerk-off (vulg.)
 connard {m},arse {n} [person]
-connasse (vulg.),jerk-off (vulg.)
+connasse,jerk-off (vulg.)
 connasse {f},arse {n} [person]
 connaître,know
 connaître [v tr],acquainted ; to be ~ with
@@ -13979,7 +13979,7 @@ consister en [v tr ind],consist of [v tr]
 consister à,consist in
 consistoire {m} [REL cath],consistory {n} [Cath. REL]
 consistoire {m} [REL juive],consistory {n} [Jew REL]
-consistoire {m} [REL prot.],consistory {n} [Prot. REL]
+consistoire {m},consistory {n} [Prot. REL]
 consolation,solace
 consolation {f},"consolation {n}, comfort {n} [consolation]"
 consoler,console
@@ -14787,7 +14787,7 @@ coulé,sunk
 coulée de boue,mud slide
 coulée {f} de neige,snow-slide {n}
 coup,"hit, knock, blow, stunt"
-coup (arg.),pounding
+coup,pounding
 coup bien placé,shrewd blow
 coup d'arrêt,sharp check
 coup d'envoi,kick-off
@@ -17025,7 +17025,7 @@ diluer [v tr] avec de l'eau,water [v tr‚adulterate with ~]
 dilution {f},dilution {n}
 dimanche {m},Sunday {n}
 dimanche {m} de l'avent,Advent Sunday {n}
-dimension {f}[grandeur mesur.],measurement {n} [dimension]
+dimension {f},measurement {n} [dimension]
 diminuer,"wane, ease up, decline"
 diminuer [v intr],"grow less [v intr], abate [v intr]"
 diminuer [v tr],"bate [v tr], lessen [v tr]"
@@ -17054,7 +17054,7 @@ dingo [adj],potty [adj‚ crazy]
 dingue,"nutcase, nuts, freak, unreal"
 dingue [adj],"zany [adj], nuts [adj], nutter [adj]"
 dinosaure {m} [ZOOL],dinosaur {n} [ZOOL]
-diocèse {m} [REL cath.],diocese {n} [Cath. REL]
+diocèse {m},diocese {n} [Cath. REL]
 diocésain {m} [évêque],diocesan {n} [a bishop]
 diocésain(e) [adj‚ REL cath.],diocesan [adj‚ Cath. REL]
 diode {f} [ÉLEC],diode {n} [ELEC]
@@ -17917,7 +17917,7 @@ droiture,"straightness, righteousness, uprightness"
 dromadaire {m} [ZOOL],dromedary {n} [ZOOL]
 drone {m} [MIL‚ ANGL],drone {m} [MIL]
 dru,close-set
-drugstore {m} [Am. du N.],drugstore {n} [Am.‚ CAN]
+drugstore {m},drugstore {n} [Am.‚ CAN]
 drugstore {m},shopping centre {n}
 druide {m},druid {n}
 drupe {f} [BOT],drupe {n} [BOT]
@@ -18507,7 +18507,7 @@ défaire,"unfasten, unpack, clobber, undo"
 défaire; se ~ de [v pr],divest oneself of [v pr]
 défait,undone
 défait; qui se ~,loose [adj‚ not fastened]
-défaite (arg.),pounding
+défaite,pounding
 défaitiste,defeatist
 défausser; se ~ [v pr],discard ([v tr‚ in cards]
 défaut,"shortage, failing, flaw"
@@ -19862,7 +19862,7 @@ emmener Popaul au cirque,take Joe Blow to the circus
 emmener [v tr] d'urgence,dash [v tr‚ rush hastily]
 emmener qqn,lead sb away
 emmener qqn de force,drag sb away
-emmerdant (vulg.),dead boring
+emmerdant,dead boring
 emmerder [v tr‚ très fam],bug [v tr; sl‚ annoy‚ bother]
 emmerdeur {m},nark {n} [Sl.‚ Austral.]
 emmitoufler,muffle
@@ -22856,7 +22856,7 @@ fatigué,"weary, tired"
 fatras,mishmash
 fatras {m},tripe {n} [colloq.‚ nonsense]
 fatuité,self-satisfaction
-fatwa {f} [REL islam.],fatwa {n} [REL]
+fatwa {f},fatwa {n} [REL]
 fatwa; lancer une ~ [REL],fatwa; to declare a ~ [REL]
 fatwa; prononcer une ~ [REL],fatwa; to declare a ~ [REL]
 faubourg,suburb
@@ -24118,7 +24118,7 @@ fourniture {f},arrivals {npl}
 fournitures,supplies
 fournitures de bureau,stationery
 fournitures {fpl},accessory equipment {n}
-fournée (fam.),roaster (fam.)
+fournée,roaster (fam.)
 fournée {f},batch {n} [of bread]
 fourrage,forage
 fourrage {m},fodder {n}
@@ -24348,7 +24348,7 @@ frime {f},sham {n} [imposture]
 frime; être de la ~,sham; to be a ~ [an imposture]
 frimousse,sweet little face
 fringant(e) [adj],frisky [adj]
-fringues (fam.),rags (fam.)
+fringues,rags (fam.)
 friper,crumple
 friperie {f},second-hand clothes shop {n}
 fripier {m},"junk dealer {n}, second-hand clothes dealer {n}"
@@ -25521,7 +25521,7 @@ grain {m} de beauté,spot; beauty ~ {n}
 grain {m} de café,coffee-berry {n}
 grain {m} de plomb,pellet{n}[piece of small shot]
 grain {m} de poivre,peppercorn {n}
-grain {m} de sénevé [Bibl.],mustard seed {n} [Bibl.]
+grain {m} de sénevé,mustard seed {n} [Bibl.]
 graine,seed
 graine {f},"grain {n} [BOT], granule {n}"
 graine {f} [BOT],pip {n} [BOT]
@@ -26087,7 +26087,7 @@ gémeaux {m} [zodiaque],Gemini {n} [ASTROL]
 gémir,"groan, whine, moan, wail"
 gémissement,"moan, moaning, groaning, whining"
 génial,of genius
-génial (fam.),good buzz (fam.)
+génial,good buzz (fam.)
 génial(e) [adj],"crazy [adj‚ excellent], a-OK [adj‚ Am.]"
 génial; un mec ~,helluva; a ~ nice guy
 génie,"spirit (myth), genius"
@@ -26322,7 +26322,7 @@ hardi(e); être ~,bold; to be ~
 hardiesse {f},adventurousness {n}
 hardiment,sturdily
 hardiment [adv],boldly [adv]
-hardware {m} [angl.],hardware {n} [COMPUT]
+hardware {m},hardware {n} [COMPUT]
 harem {m},harem {n}
 hareng,herring
 hareng fumé,kipper
@@ -26985,7 +26985,7 @@ héberger,take in
 héberger [v tr],accommodate [v tr‚ house]
 hébraïque,Hebraic
 hébraïque [adj],Hebrew [adj]
-hébreu [adj masc.],Hebrew [adj]
+hébreu,Hebrew [adj]
 hébreu {m} [langue],Hebrew (language) {n}
 hébéter [v tr],stupefy [v tr]
 hébété,maudlin
@@ -29757,7 +29757,7 @@ la [pron pers],her [pers. pron. object]
 la chance a tourné,"bubble have burst, the tide has turned"
 la chose à faire est de,the obvious thing to do is
 la famille du disparu,the bereaved
-la ferme ! (fam.),shut your noise ! (fam.)
+la ferme !,shut your noise ! (fam.)
 la ferme ! [interj],shut up! [interj]
 la fermer,shut up
 la fin de l'histoire est que,the pay off is that
@@ -30092,7 +30092,7 @@ larcin {m},theft {n}
 lard,fat bacon
 lard fumé,gammon
 larder [v tr‚ CULIN],lard [v tr‚ COOK]
-largage {m} (de charge) [av.],airdrop {n}
+largage {m} (de charge),airdrop {n}
 large,"spacious, vast, broad"
 large [adj],"extensive [adj], wide [adj], loose-fitting [adj]"
 large bande passante,broadband
@@ -30208,7 +30208,7 @@ le flux et le reflux,the ebb and the flow
 le fond du problème,nitty-gritty
 le grand air,the open air
 le grand public,the general public
-le gratin (fam.),swells (fam.)
+le gratin,swells (fam.)
 le jeu,gambling
 le jour même,the very same day
 le jour se lève,dawn is breaking
@@ -32459,8 +32459,8 @@ mercure {m} [CHIM],mercury {n} [CHEM]
 mercureux (-euse) [adj‚ CHEM],mercurous [adj‚ CHEM‚ Hg+]
 mercuriale {f} [BOT],mercury {n} [BOT]
 mercurique [adj‚ CHIM],mercuric [adj‚ CHEM‚ Hg2+]
-merde {f} [vulg.],shit {n} [faeces]
-merde; c'est ta ~ ! [arg.],funeral; it's your ~! [sl.]
+merde {f},shit {n} [faeces]
+merde; c'est ta ~ !,funeral; it's your ~! [sl.]
 merde; dans la ~ [fam],done for [in serious trouble]
 merdeux,shitty
 merdeux (-euse) [adj],crappy [adj]
@@ -33920,7 +33920,7 @@ muffin{m} [CULIN],English muffin {n} [Am.]
 mufflerie {f},caddischness {n}
 mufle; de ~ [loc adj],caddish [adj]
 muflier {m},antirrhinum {n}
-mufti {m} [REL islam.],mufti {n}[Islamic REL]
+mufti {m},mufti {n}[Islamic REL]
 muge {m} [ZOOL‚ poisson],mullet {n}
 mugir,roar
 mugir (météo),howl (weather)
@@ -34265,7 +34265,7 @@ mémoire; à la ~ de,memory; in ~ of
 mémorable [adj],memorable [adj]
 mémorandum,memorandum
 mémorandum {m} [mémento],memorandum {n (-da)}[ADMIN]
-mémorandum {m}[note diplomat.],memorandum {n (-da)}[diploma.]
+mémorandum {m},memorandum {n (-da)}[diploma.]
 mémorial(e) [adj],memorial [adj]
 mémoriser [v tr],memorize [v tr]
 ménade {f},bacchante {fem. n}
@@ -37792,7 +37792,7 @@ perche,"punt pole, pole (stick)"
 perche {f},"rod {n} [pole], pole {n} [rod]"
 perche {f} [ZOOL],bass {n} [ZOOL‚ common perch]
 perche {f} [ZOOL‚ Poisson],perch {n} [ZOOL‚ Fish]
-perche {f} [anc. mesure agr.],rod {n} [a square perch]
+perche {f},rod {n} [a square perch]
 percher [v tr],perch [v tr]
 percher; se ~ [v pr],perch [v intr]
 perchoir,roost
@@ -39329,7 +39329,7 @@ poli(e) [adj‚ cultivé‚ vx],polite [adj‚ cultivated]
 poli(e)[adj‚lisse et brillant],polished [adj]
 poli; non ~ [loc adj],unpolished [adj‚ not polished]
 police,"police, fount, constabulary"
-police (imprim.),font
+police,font
 police d'assurance,insurance policy
 police fluviale,river police
 police secours,emergency services
@@ -40305,7 +40305,7 @@ pression,press stud
 pression {f} artérielle,blood pressure {n}
 pression {f} atmosphérique,air-pressure {n}
 pression; bière {f} à la ~,draught beer {n}
-pression; bière ~ [cour.],draught beer {n}
+pression; bière ~,draught beer {n}
 pressoir,press-house
 pressurisation,pressurization
 pressuriser,pressurize
@@ -40553,7 +40553,7 @@ procédés honnêtes,square dealings
 procédés peu honnêtes,sharp practice
 prodigalité,"lavishness, prodigality"
 prodigalité {f},thriftlessness {n}
-prodigalité {f} [souv. au pl.],extravagance {n}
+prodigalité {f},extravagance {n}
 prodige {m} [personne],prodigy {n}
 prodigieusement [adv],beguilingly [adv]
 prodigieux,"prodigious, stupendous"
@@ -46201,7 +46201,7 @@ satisfait(e) [adj],contented [adj]
 satiété {f},"satiation {n}, satiety {n}"
 saturation,saturation
 saturer,saturate
-saturnales {fpl} [ANTIQ rom.],saturnalia {n (- or s)}[ANTIQ]
+saturnales {fpl},saturnalia {n (- or s)}[ANTIQ]
 saturnien(ne) [adj‚ ASTR],Saturnian [adj]
 saturnisme,lead poisoning
 saturnisme {m} [PATHOL],saturnism {n} [PATHOL]
@@ -49001,7 +49001,7 @@ succès,best seller (book)
 succès fou,riotous success
 succès scolaires,scholastic achievements
 succès {m},success {n}
-succès {m} [indus. du divert.],hit {n} [in entertainment]
+succès {m},hit {n} [in entertainment]
 succès {m} de librairie,blockbuster {n} [esp. a book]
 succès {m} fou,huge success {n}
 succès {m}; grand ~,blockbuster {n} [sth imposing]
@@ -49229,7 +49229,7 @@ supposition {f},"supposition {n}, assumption {n} [supposition]"
 supposé,supposed
 supposé que,supposing that
 supposé(e) [adj],assumed [adj]
-suppresseur [adj masc.],suppressor [adj‚ GEN]
+suppresseur,suppressor [adj‚ GEN]
 suppresseur {m} [GÉN],suppressor{n} [GEN]
 suppression {f},cancellation {n}
 suppression {f} des taudis,slum clearance {n}
@@ -53035,7 +53035,7 @@ vibrer [v intr],vibrate [intr]
 vibrer [v tr‚ résonner],twang [v tr]
 vibromasseur {m},vibrator {n}
 vicaire,curate
-vicaire {m} [REL cath.],vicar {n} [Cath. REL]
+vicaire {m},vicar {n} [Cath. REL]
 vicaire {m} apostolique [REL],vicar apostolic {n}[Cath. REL]
 vicaire {m} de Jésus-Christ,"sovereign pontiff {n}, bishop of Rome {n}"
 vicaire {m} général [REL],vicar general {n}[Cath. REL]
@@ -54318,7 +54318,7 @@ zêta {m} [alphabet grec],zeta {n} [Greek alphabet]
 ça ne vaut pas la peine,it's not worth the trouble
 ça par exemple !,good gracious !
 ça peut attendre,it'll keep
-ça pince (fam.),it's nippy (fam.)
+ça pince,it's nippy (fam.)
 ça pique,it prickles
 ça prend du temps,it takes time
 ça pèche par bien des points,it has a lot of weaknesses
@@ -55817,7 +55817,7 @@ zêta {m} [alphabet grec],zeta {n} [Greek alphabet]
 évêché (ville),cathedral town
 évêché {m} [diocèse],bishopric {n} [diocese]
 évêché {m} [palais épiscopal],"bishop's palace {n}, bishopric {n} [office]"
-évêque {m} [REL cath.],bishop {n} [Cath. REL]
+évêque {m},bishop {n} [Cath. REL]
 évêque {m} de Rome,"vicar of Christ {n} [the pope], bishop of Rome {n}"
 être [v intr‚ aux],be [v aux]
 être [v intr‚ vivre],be [v intr‚ exist]

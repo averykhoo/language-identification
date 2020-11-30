@@ -520,7 +520,7 @@ a-a pêzo,at worst
 a-a revèrsa,upside down
 "a-a revèrsa, a-o contrâio",backwards
 a-a rinfûza,untidily
-"a-a spedîa, fîto, spedîo (av.)",quickly
+"a-a spedîa, fîto, spedîo",quickly
 a-e cùrte,briefly
 a-e cùrte,in a few words
 a-o,to the (m)
@@ -543,7 +543,7 @@ abatûo,dejected
 abatûo,downhearted
 abaçîa,abbey
 "abelinòu, ascemelòu, balórdo, belinón, minción, scémmo, sciòllo, tàicio, tàngou",stupid
-"abelinòu, babilàn, betòrdo, lócco, lòcco, tanacùcco, tanàrdo, tanberlàn, tögno (ag.)",dumb
+"abelinòu, babilàn, betòrdo, lócco, lòcco, tanacùcco, tanàrdo, tanberlàn, tögno",dumb
 "abesîo, abrenzoîo, rédeno",numb
 "abesîo, rédeno, réncio",stiff
 abilitâ,to authorize
@@ -646,7 +646,7 @@ adùlto,adult
 aeronòutico,aeronautical
 aeropòrto,airport
 "afacendòu, òcupòu",busy
-"afadigòu, stànco (ag.), stràcco",tired
+"afadigòu, stànco , stràcco",tired
 afamòu,hungry
 afascinànte,fascinating
 afermatîvo,affirmative
@@ -1129,7 +1129,7 @@ bagnâ,to wet
 "bagàrdo, scavìsso",mischievous
 "bagàrdo, scavìsso",naughty
 bagàscia,prostitute
-"bagàscia, scàia (volg.)",whore
+"bagàscia, scàia",whore
 bagón,cockroach
 "baixìnn-a, sproìn (nm), sprùzzo",drizzle
 baiâ,to bark
@@ -1205,16 +1205,16 @@ bazètte (fpl),sideboards
 bazètte (fpl),sideburns
 "baçî, lavéllo",washbasin
 "becalìn, becamòrto",gravedigger
-beciâ (volg.),to fuck
-"beciâ (volg.), fâ sésso",to have sex
+beciâ,to fuck
+"beciâ , fâ sésso",to have sex
 becàssa,woodcock
 "belinâio, belinón, lappasùcche, scémmo, sciacælo, tarlùcco",idiot
 "belinón, lappasùcche, tarlùcco",jerk (vulg.)
 beléssa,beauty
-"belìn (volg.), zóbbo (volg.)",cock (vulg.)
-"belìn (volg.), zóbbo (volg.)",dick (vulg.)
-belìn! (volg.),fuck! (vulg.)(excl.)
-belìn! (volg.),hell! (vulg.)(excl.)
+"belìn , zóbbo",cock (vulg.)
+"belìn , zóbbo",dick (vulg.)
+belìn!,fuck! (vulg.)(excl.)
+belìn!,hell! (vulg.)(excl.)
 benediçión,blessing
 "benscì, scibén che",though
 benvegnûo,welcome
@@ -1311,8 +1311,8 @@ brichétti (mpl),matches (for lighting fire)
 brilànte,bright (adj.)
 brilànte,brilliant
 brilànte,shining
-"brilànte, lùstro (ag.)",gleaming
-"brilànte, lùstro (ag.)",shiny
+"brilànte, lùstro",gleaming
+"brilànte, lùstro",shiny
 brilâ,to gleam
 brilâ,to shine
 brilâ,to sparkle
@@ -1367,8 +1367,8 @@ bàgno,bathroom
 bàilo,footlocker
 "bàilo, béuilo, strónscio",trunk
 bàlla,ball
-bàlle (fpl)(volg.),nuts (vulg.)
-bàlle (fpl)(volg.),testicles
+bàlle (fpl),nuts (vulg.)
+bàlle (fpl),testicles
 bàllo,dance
 bàllo lìscio,ballroom dances (North Italy)
 bànco,bank
@@ -1383,7 +1383,7 @@ bàsco,Basque
 bàssa marêa (f),low tide
 bàsso,bass
 bàsso,low
-bàtisene e bàlle (volg.),not to give a damn
+bàtisene e bàlle,not to give a damn
 bâgio,yawning
 bâgiâ,to yawn
 bâia,bay
@@ -1466,7 +1466,7 @@ cacàvou,cocoa
 cadénn-a,chain
 caezâ,to caress
 cafè (nm),coffee
-"cagàdda, mèrda (volg.)",shit
+"cagàdda, mèrda",shit
 cagâ,to shit
 "caigâ, savatìn, scarpâ (nm)",shoemaker
 caitæ,charity
@@ -1540,7 +1540,7 @@ catechîximo,catechism
 caturâ,to capture
 "catîvo, exôzo, ezôzo, gràmmo",mean
 "catîvo, exôzo, ezôzo, gràmmo",nasty
-"catîvo, mâ (av.)",bad
+"catîvo, mâ",bad
 catûa,capture
 "cavagerîa, cavalerîa",cavalry
 "cavagerîa, cavalerîa",chivalry
@@ -1809,9 +1809,9 @@ câdûa,heat (summer)
 câdûa,heat wave
 câmâ (nm),inkwell
 câmâ (nm),squid
-câo (ag.),beloved
-câo (ag.),dear
-câo (ag.),expensive
+câo,beloved
+câo,dear
+câo,expensive
 câo (nm),cape
 "câo (nm), fî (nm)",wire
 câro,cart
@@ -2353,8 +2353,8 @@ fræ (nm),brother
 "fréccia, saétta",arrow
 fréida,cold (f)
 fréida,cool (f)
-fréido (ag.),cold (m)
-fréido (ag.),cool (m)
+fréido,cold (m)
+fréido,cool (m)
 fréido (nm),cold
 frésco,fresh
 frêxa,fern
@@ -2438,8 +2438,8 @@ fìggio,son
 fìn,fine (m)
 fìn,refined (m)
 "fìn (nf), finâ (nm), finâle, pónta",end
-"fìn a, fìnn-a (av.), scìn a, scìnn-a",until
-"fìn a, fìnn-a (av.), scìn a, scìnn-a",upto
+"fìn a, fìnn-a , scìn a, scìnn-a",until
+"fìn a, fìnn-a , scìn a, scìnn-a",upto
 fìn òua,so far
 fìn òua,until now
 fìnn-a (ag.f),fine (f)
@@ -2453,13 +2453,13 @@ fî da schénn-a (nm),vertebral column
 fî ferétto,metal wire
 fîgou,meagre (fish)
 fîgou,shade-fish
-"fîto, présto, spedîo (ag.), svèlto, velôce",fast
+"fîto, présto, spedîo , svèlto, velôce",fast
 fîxica,physics
 fîxico,physical
 fîxico,physicist
 fòrsa,force
 fòrsa,strength
-fòrte (ag.),strong
+fòrte,strong
 fòscia,perhaps
 fòulo,crab
 fónzo,mushroom
@@ -2557,7 +2557,7 @@ goànto,glove
 "goâio, problêma",problem
 goæi,too much
 goæra,war
-"goèrsa (volg.), móssa (volg.), vagìnn-a",vagina
+"goèrsa , móssa , vagìnn-a",vagina
 goìdda,guide
 "gradî, piaxéi (v), piaxéighe",to like
 grafîa,orthography
@@ -2674,9 +2674,9 @@ in sa,hither
 in sa,this side
 in sciâ,on the (fsing)
 in sciô,on the (msing)
-in sciô (av.),flowering
-in sciô (av.),in bloom
-in sciô (av.),in flower
+in sciô,flowering
+in sciô,in bloom
+in sciô,in flower
 "in sciù, sciù",up
 in scê,on the (fpl)
 in scî,on the (mpl)
@@ -3369,7 +3369,7 @@ màsso de càrte da zêugo,deck of playing cards
 "màsso, ràppo, sccianchétto, scciànco",bunch
 màtto,crazy
 màzzo,May
-"mâ (av.), malaménte",badly
+"mâ , malaménte",badly
 mâ (nm),sea
 mâ (nmpl),seas
 mâ de gôa (nm),sore throat
@@ -3441,7 +3441,7 @@ mónega,nun
 "mónte, péuzzo",mount
 mósca,fly (n)
 móscio,well-off
-móssa (volg.),cunt
+móssa,cunt
 möo,dark-skinned
 mötûa,milling
 "mùggio de schéuggi, schéuggio, scugêa",reef
@@ -4675,7 +4675,7 @@ ràggia,rage
 ràggio,ray
 ràmmo,branch
 ràmmo,copper
-ràngo (ag.),limp
+ràngo,limp
 ràngo (nm),range
 ràntega,rough throat
 "ràpido, rédeno",steep
@@ -4855,7 +4855,7 @@ scciatelâ,to divulge
 "scciatâ, scciupâ",to burst
 scciavitû,slavery
 "sccioî, scioî",to blossom
-sccioîo (ag.),in blossom
+sccioîo,in blossom
 "scciumæa, sciumæa",crowd
 scciupâ,to explode
 "scciupâ da-o rîe, sconpisciâse da-o rîe",to dissolve into giggles/laughter
@@ -5065,7 +5065,7 @@ scöso,lap (on thighs)
 scösâ (nm),apron
 scösâ (nm),smock
 scùddo,shield
-scûo (ag.),dark
+scûo,dark
 scûo (nm),darkness
 scûzime!,excuse me! (sing.)
 se,if
@@ -5092,7 +5092,7 @@ segâ,to reap
 segâ,to saw
 segóndo,according to
 segóndo,second (n)
-segóndo (ag.),second (number)
+segóndo,second (number)
 segûo,sure
 segûo!,sure!
 seletîvo,selective
@@ -5144,7 +5144,7 @@ sotomisción,submission
 sourâ,to ballast
 spartîo,score (music)
 spartîo,sheet music
-"spedîo (ag.), svèlto",quick
+"spedîo , svèlto",quick
 spegàsso,ink stain
 spegétti (mpl),eyeglasses
 spegétti (mpl),glasses (eye)
@@ -5373,7 +5373,7 @@ ségoito,entourage
 ségoito,retinue
 "séia, seiànn-a",evening
 "sélou, xéllo (Savona)",celery
-"sén (ag.), tranquìllo",calm
+"sén , tranquìllo",calm
 séncio,simple
 sénpre ciù,more and more
 sénsa spréscia,in no rush
@@ -5424,7 +5424,7 @@ tapêto,carpet
 tapóllo,ineffective solution
 tapóllo,odd job
 tarantélla,tarantella
-"tardîo (ag.), tàrdo (ag.)",late (adj.)
+"tardîo , tàrdo",late (adj.)
 tartarûga,tortoise
 tartarûga,turtle
 tasciâ,to tax
@@ -5552,7 +5552,7 @@ tànte (fpl),many (f)
 tànti (mpl),many (m)
 tànto ciù,especially
 tàpano,caper
-tàrdi (av.),late (adv.)
+tàrdi,late (adv.)
 tàsce (fpl),taxes
 tàscia,tax
 tàscio,badger
@@ -5755,7 +5755,7 @@ vescîga,blister
 vestî (nm),clothing
 vestî (nm),garment
 vestî (v),to dress
-vestîo (ag.),dressed
+vestîo,dressed
 vestîse,to get dressed
 veterinâio,veterinary
 vetrieu,vitriol

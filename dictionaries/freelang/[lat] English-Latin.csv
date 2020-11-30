@@ -134,7 +134,7 @@ a ab abs (prep + abl),time - from
 a ab abs (prep + abl),with passive verbs - by
 a ab abs (prep + abl),with regard to
 "a ab abs (prep + abl), ab, abs, cum (with subjunctive), quandoquidem, quatenus/quatinus, quod (with time), quoniam, siquidem, utpote",since
-"a ab abs (prep + abl), post, post (+ acc.), postquam (conj.), praeter, secundum (+ inf.), secundum",after
+"a ab abs (prep + abl), post, post (+ acc.), postquam , praeter, secundum (+ inf.), secundum",after
 "a ab abs (prep + abl), pro eo, quandoquidem, quia, quod, quoniam",because
 ab,of
 "ab, abs",ever since
@@ -210,7 +210,7 @@ aberratio,distraction
 aberratio,diversion
 "aberro, declino, digredior digredi digressus, discedo",deviate
 "aberro, elabor, evado, evolo, fuga, fugio, pretereo, subterlabor",escape
-"aberro, erro, palor (dep.)",to wander
+"aberro, erro, palor",to wander
 abesse,be absent
 abesse,differ
 "abesse, absum",be missing
@@ -410,7 +410,7 @@ abyssus,hell
 "abætere, abitere, abscedere",absent onself
 "abætere, abitere, abscedere, abscedo, discedo (discessum ), egressio, recedo",depart
 "abætere, abitere, abscedere, discedo (discessum )",go away
-"abætere, abitere, abscedo, desolo, dimitto, discedo, eo, excedo (trans.), licentia",leave
+"abætere, abitere, abscedo, desolo, dimitto, discedo, eo, excedo , licentia",leave
 "ac, atque, et, itaque , quod (beginning sentence)",and
 "acacia, acanthus",acacia
 accedo,(things)
@@ -551,7 +551,7 @@ acroama,concert
 actio,lawsuit
 actio,to act
 "actio, actum, commissio, facina -oris, factum",action
-"actio, actum, facio (trans.), factum",act
+"actio, actum, facio , factum",act
 actus,moving through
 acuere,sharpen
 "acutus, infensus, infestus, periculosus",dangerous
@@ -573,7 +573,7 @@ adaugeo,to make greater
 "adaugeo, aggero, amplio, auctus, augeo, augmentum, autus, cresco (cretum), dilato, incito, increbresco (-ere), incrementum, ingemino, intumesco, progressio, progressus, proventus",increase
 "addo, adducere, adduco, fero tuli latum",bring
 "addo, adiungere, commisceo, committo, contineo, faeneror, subiungo, suo",join
-"addo, causa, concilio, efficio, exhibeo exibeo, facio (trans.), indo (past indidi)",cause
+"addo, causa, concilio, efficio, exhibeo exibeo, facio , indo (past indidi)",cause
 "addo, condo, constituo, constituo, locus, pono posui positum, positus, statuo",place
 "addo, do, dono, munero/munerior",to give
 "addo, incito, inicio inieci iniectum",inspire
@@ -608,7 +608,7 @@ adfero affero,to bring news
 adfero affero,to cause
 "adfero affero, adicio, admoveo, sumo",apply
 "adfero affero, agnosco, fama, fama, nuntio, opinio, refer, relatus, renuntio",report
-"adfero affero, efficio, excito, facio (trans.)",bring about
+"adfero affero, efficio, excito, facio",bring about
 adficio,drain
 adficio,to affect
 "adficio, adflicto affligo, attero, castro, comminuo, corrumpo, deficio, macero",weaken
@@ -628,12 +628,12 @@ adhaero,to stick
 adhuc,even now
 adhuc,till now
 adhuc,till then
-"adhuc, atqui (conj.), etiam, placidus, silens, tamen",still
+"adhuc, atqui , etiam, placidus, silens, tamen",still
 "adhuc, etiam, praeter, praeterea, super",besides
 adicio,to throw to
 "adicio, affatus, affor, aggredior, compello, oratio",address
 "adicio, tendo",to direct
-"adimpleo, apparere, comparere, facio (trans.), fungor, fungi, functus, patro, perpetro, praesto presto, tractare",perform
+"adimpleo, apparere, comparere, facio , fungor, fungi, functus, patro, perpetro, praesto presto, tractare",perform
 "adimpleo, expleo",to fulfill
 "adimpleo, exsequor, exsequor",carry out
 "adinvenio, struo",to devise
@@ -792,7 +792,7 @@ aer,atmosphere
 aer,ether
 "aer, tempestas",weather
 "aerumna, labor",hardship
-"aerumna, labor laboris, laboro (intrans.), molior, operor",toil
+"aerumna, labor laboris, laboro , molior, operor",toil
 "aerumna, tribulatio",tribulation
 "aerumnosus, misellus, miser, miserabilis",wretched
 aestimo,to estimate
@@ -889,12 +889,12 @@ agrestis (adj),clodish
 agrestis (adj),unmannered
 "agrestis (adj), efferus, effrenus, ferox, ferus, indomitus, torva",wild
 "agrestis (adj), rusticus",rustic
-agricola (masc.),farmer
-agricola (masc.),tiller of fields
-"agricola (masc.), arator, cultor, cultor",cultivator
-agripeta (masc.),land-grabber
-agripeta (masc.),someone who seizes land
-agripeta (masc.),squatter
+agricola,farmer
+agricola,tiller of fields
+"agricola , arator, cultor, cultor",cultivator
+agripeta,land-grabber
+agripeta,someone who seizes land
+agripeta,squatter
 ah,ah
 ah,oh
 ah,ow
@@ -922,9 +922,9 @@ album,list
 "albus, candidus, canus",blank
 "alcedo, alcyon",kingfisher
 "alcedo, alcyon",the kingfisher
-alcedonia (neuter pl.),the kingfisher's time
-alcedonia (neuter pl.),tranquility
-"alcedonia (neuter pl.), sedo",calm
+alcedonia,the kingfisher's time
+alcedonia,tranquility
+"alcedonia , sedo",calm
 alces,elk
 alces,moose
 alces,the elk
@@ -1246,7 +1246,7 @@ anser,goose
 "antarcticus, inferus",southern
 "antarcticus, meridianus",south
 ante,ahead
-"ante (prep. + acc.), antea , per antea, prae pre , prius, priusquam (conj.), pro, pro (+ abl.)",before
+"ante (prep. + acc.), antea , per antea, prae pre , prius, priusquam , pro, pro (+ abl.)",before
 "ante (prep. + acc.), pro, pro (+ abl.)",in front of
 "ante, antea",previously
 "ante, antea , olim, per antea, quondam",formerly
@@ -1517,7 +1517,7 @@ astrologus,astrologer
 "astus, calliditas, callidus, dolosus",cunning
 "astus, exempoator, fundator, motus-us, ortus, socius-i",m
 asylum,asylum
-at (conj.),but. (more emphatic and emotional than sed)
+at,but. (more emphatic and emotional than sed)
 atavus,great-great-great grandfather
 "atavus, progenitor",ancestor
 ater,malicious
@@ -1525,7 +1525,7 @@ ater,malicious
 "ater, obscurus, pullus",dim
 athleta,athlete
 atomus,atom
-atqui (conj.),and yet
+atqui,and yet
 atrocitas,barbarity
 atrocitas,hashness
 "atrocitas, crudelitas",cruelty
@@ -1782,7 +1782,7 @@ beneficium,privilege
 "beneficium, dexter, dexter, ius iuris, iustus, jus, legitiums, rectum, rectus, verus",right
 "beneficium, donum, donum, donum, munus",gift
 "beneficium, famulatus, officium, servitium",service
-"beneficium, prosum (with dat.)",benefit
+"beneficium, prosum",benefit
 "beneficus, comis, comis, prolixus",obliging
 benevolens,helpfull
 benevolens,thoughtful
@@ -2106,8 +2106,8 @@ carnificina,the work of a hangman
 carnifico,behead
 "carnifico, lacero, trunco",mangle
 "carnifico, praecido, trunco",mutilate
-caro (carnis f.),meat
-"caro, caro (carnis f.), pulpa, viscus",flesh
+caro,meat
+"caro, caro , pulpa, viscus",flesh
 carpo,grab
 carpo,hold on to
 "carpo, eruo, velico",to pluck
@@ -2224,8 +2224,8 @@ causa,case at law
 causa,interest
 causa,law-suit
 causa,pretext
-"causa (in the abl.), ergo (gen. +), gratia (in the abl.), præ, prae se ferre, pre se ferre, propter (+ acc.)",on account of
-"causa (in the abl.), gratia",for the sake of
+"causa , ergo (gen. +), gratia , præ, prae se ferre, pre se ferre, propter (+ acc.)",on account of
+"causa , gratia",for the sake of
 "causa, causa, placitum, res, res, theca",case
 "causa, condicio, facies, fortuna, habitudo, res, valetudo",condition
 "causa, fomes",motive
@@ -2722,7 +2722,7 @@ complector,compass
 "complectus, contineo, occupo, prehendo",grasp
 compleo,bring up to strength
 compleo,to finish
-"compleo, consummo, exigo, expleo explevi expletum, expletus (part.), integer, omnino, peracto, perago (-ere), perfectus, perficio, plenus, plenus, totus, universa",complete
+"compleo, consummo, exigo, expleo explevi expletum, expletus , integer, omnino, peracto, perago (-ere), perfectus, perficio, plenus, plenus, totus, universa",complete
 "compleo, expleo, impleo",fulfil
 "compleo, farci, farci, fartum, impleo, impleo",to fill up
 "compleo, homo, homo hominis, vir, vir",man
@@ -3214,7 +3214,7 @@ contundo,to pound
 conturbo,throw into confusion
 conturbo,to confuse
 conturbo,to derange
-"conturbo, diffundo, divido, fundo (milit.), iacio, perdo",scatter
+"conturbo, diffundo, divido, fundo , iacio, perdo",scatter
 convalesco,gain strength
 "convalesco, evalesco, increbresco (-ere), valesco",to grow strong
 convello,to shatter
@@ -3461,13 +3461,13 @@ cucumis,cucumber
 cucurbita,gourd
 cucurbita,pumpkin
 cucurbita,squash
-cui (fem. sing. dat.),IN WHICH (province)
-cui (masc. sing. dat.),TO WHOM did you give it?
-cui (neut. sing. dat.),(the monster)
-cui (neut. sing. dat.),TO WHOM the cattle belonged
-cuius (fem. sing. gen.),(the queen)
-cuius (fem. sing. gen.),the vices OF WHOM were many
-cuius (masc. sing. gen.),(the saint)
+cui,IN WHICH (province)
+cui,TO WHOM did you give it?
+cui,(the monster)
+cui,TO WHOM the cattle belonged
+cuius,(the queen)
+cuius,the vices OF WHOM were many
+cuius,(the saint)
 cuius (neut. sing. gen),(the building)
 cuiusmodi,of what kind
 culpa,(esp. aginst chastity)
@@ -3479,7 +3479,7 @@ cultura,cultivation
 culus,anus
 "cum (with indicative), cum (with subjunctive), quando, ubi, ut (+ indic.)",when
 "cum (with subjunctive), donec, dum",while
-"cum (with subjunctive), etiamsi, etsi, etsi (acsi), licet, licet (as conj.), quamquam, quamvis (conj), tametsi",although
+"cum (with subjunctive), etiamsi, etsi, etsi (acsi), licet, licet , quamquam, quamvis (conj), tametsi",although
 "cum (with subjunctive), pro (+ abl.), prout, quatenus/quatinus, sicut, tamquam tanquam, ut (+ indic.)",as
 "cum, cum (prep + abl.)",with
 "cumba, cymba, navis navis",boat
@@ -3721,8 +3721,8 @@ decumbo,lie down
 decurro,run in a race
 decurro,to run down
 decurro,to sail downstream
-"decurro, decursio (milit.), decursus",manoeuver
-decursio (milit.),a charge
+"decurro, decursio , decursus",manoeuver
+decursio,a charge
 decursus,a running down
 decursus,downward course
 decurto,to mutilate
@@ -3883,7 +3883,7 @@ deposco,to earnestly request
 "depraedor depredor, diripio",lay waste
 "depraedor depredor, diripio, everro (-verri, -versus)",pillage
 "depraedor depredor, diripio, praedor",to plunder
-"deprecatio, litania (med.), oratio, precatus, prex precis, votum",prayer
+"deprecatio, litania , oratio, precatus, prex precis, votum",prayer
 deprecativus,deprecative
 deprecator,intercessor
 deprecator,one who pleads on behalf
@@ -3987,7 +3987,7 @@ detineo,to keep back
 "detineo, tenere",hang onto
 detraho,to drag off
 detrimentum,detriment
-"detrimentum, evinco, fundo (milit.), vincere",defeat
+"detrimentum, evinco, fundo , vincere",defeat
 detrudo,to thrust down
 deus,God
 "deus, deus, divus",god
@@ -4420,7 +4420,7 @@ egeo,to need
 egestas,to extreme poverty
 ego,self
 "ego, ego",I
-"ego, me (abl.), me (acc.), mihi (dat.)",me
+"ego, me , me , mihi",me
 egredior,to come out
 "egregius, honestus, insignis, praecellens, precipuus",distinguished
 "egregius, magnificus",eminent
@@ -4560,8 +4560,8 @@ ergastulum,a workhouse for slaves
 "ergo , ideo, igitur, igitur, itaque , proinde",therefore
 "ergo , secundum",accordingly
 "ergo (gen. +), præ, propter (+ acc.)",because of
-ericius (mil.),chevaux de frise
-ericius (mil.),hedgehog
+ericius,chevaux de frise
+ericius,hedgehog
 erigo,to arouse
 erigo,to erect
 "erigo, everto, libero, summitto (se), suscipio, tollo sustuli sublatum",raise
@@ -4584,9 +4584,9 @@ erratio,a wandering
 erro,be mistaken
 erro,rove
 erro,to go astray
-"erro, erro, palor (dep.), pecco",err
+"erro, erro, palor , pecco",err
 "erro, flos, vagari",wander
-"erro, palor (dep.)",stray
+"erro, palor",stray
 error,aberration
 "error, error",deception
 erubesco (+ inf.),(+acc.)
@@ -4729,8 +4729,8 @@ exaudio,hear favorably
 exaudio,hear plainly
 exaudio,to hearken to
 exaudio,to listen to
-excedo (trans.),pass beyond
-excedo (trans.),to exceed
+excedo,pass beyond
+excedo,to exceed
 "excellens, supernus",superior
 "excellentia, eximietate, virtus",excellence
 excello,to elevate
@@ -4891,7 +4891,7 @@ expleo,to make losses good
 "expleo explevi expletum, saturo",to fill
 expletio,satifying
 expletio,to bring to completion
-"expletus (part.), perfectus, perficio",perfect
+"expletus , perfectus, perficio",perfect
 explicatus,exposition
 "explicatus, solutio",explanation
 explico,to uncoil
@@ -4934,7 +4934,7 @@ exsisto,take place
 exsisto existo,to stand forth
 "exsisto, exsisto",to emerge
 "exsisto, sum fui futurus",exist
-"exsors, privus (with gen.)",deprived of
+"exsors, privus",deprived of
 exspecto,to await
 exspecto,to look for
 exspecto,wait for
@@ -5033,7 +5033,7 @@ fabula,tale
 "fabula, fabula",fable
 "fabula, lascivio",play
 facesso,to work zealously
-"facesso, facio (trans.), fungor, fungi, functus, operor",do
+"facesso, facio , fungor, fungi, functus, operor",do
 "facesso, impetro, peracto, perago, perago (-ere), perpetro, pervenire, proficio",accomplish
 "facies, facies, visio, vultus",face
 "facies, perlustro, spectare, vulticulus, vultus",look
@@ -5053,12 +5053,12 @@ facio,be of service
 facio,to experience
 facio,to give permission
 facio,to sacrifice
-facio (trans.),to make
+facio,to make
 facio + inf.,to have done
 "facio + inf., iubeo, iubeo iussi iussum",to order
 facio servitium,to be in one's service
 "facio, interpellatio",suit
-"facio, laboro (intrans.), perfero, sino",suffer
+"facio, laboro , perfero, sino",suffer
 facis,a bundle
 facis,packet
 facticius,artificial
@@ -5565,8 +5565,8 @@ fundo,pour out (like molten metal)
 fundo,to cast to the ground
 fundo,to found
 fundo,to pour
-fundo (milit.),put to flight
-fundo (milit.),to rout
+fundo,put to flight
+fundo,to rout
 "fundo, iacio",cast
 "fundus, praedium, vicus, villa",estate
 funestus,causing calamity
@@ -5776,18 +5776,18 @@ habitus,disposed
 habitus,in a certain condition
 hac,this side
 hac,this way
-hac (fem. sing. abl.),He who lives BY THIS (the sword).
+hac,He who lives BY THIS (the sword).
 "hac, hic, hic",here
 hactenus,hitherto
 hactenus,up to this point
 hae he (fem. plur. nom),THESE (speeches)
-haec hec (fem. sing. nom.),THIS (sword)
+haec hec,THIS (sword)
 haereticum,heretical
 haero,keep at
 haero,to be brought to a standstill
-hanc (fem. sing. acc.),She wasted THIS (her youth)
-harum (fem. plur. gen.),The city wall had four OF THESE (gates)
-has (fem. plur. acc.),They gave THESE (their lives)
+hanc,She wasted THIS (her youth)
+harum,The city wall had four OF THESE (gates)
+has,They gave THESE (their lives)
 "haud, immo, nequaquam, nequequam, ymo (immo)",by no means
 "haud, nequaquam, nequequam",not at all
 "haud, nullus, quinymo quinimmo",no
@@ -5800,8 +5800,8 @@ hesito (haesito),wavering
 "hesito (haesito), incertus",uncertain
 heu,alas!
 heus,hark!
-hi (masc. plur. nom.),THESE (men)
-hic (masc. nom. sing.),THIS (house)
+hi,THESE (men)
+hic,THIS (house)
 hic haec (hec ),hoc
 hiems,winter
 hilaris,gay
@@ -5814,13 +5814,13 @@ hinnire,whinny
 hinnus,mule
 hio,to gape wide
 "his (fem. plur. abl), illis (fem. plur. abl)",A life is enriched BY THESE (friendships)
-his (fem. plur. dat.),She gave her property TO THESE (churches)
-his (masc. plur. abl.),They passed BY THESE (roads)
-"his (neut. plur. dat.), illis (neut. plur. dat.)",Listen TO THESE (orders)
-hoc (masc. sing. abl.),He gave plenty FOR THIS (field)
-hoc (neut. sing. abl.),Do not hesistate BECAUSE OF THIS! (doubt)
-hoc (neut. sing. acc.),Break THIS! (fetter)
-hoc (neut. sing. nom.),THIS (monastery)
+his,She gave her property TO THESE (churches)
+his,They passed BY THESE (roads)
+"his , illis",Listen TO THESE (orders)
+hoc,He gave plenty FOR THIS (field)
+hoc,Do not hesistate BECAUSE OF THIS! (doubt)
+hoc,Break THIS! (fetter)
+hoc,THIS (monastery)
 hodie,to-day
 "hodie, hodie",today
 hodiernus,of today
@@ -5852,9 +5852,9 @@ hortor,to instigate
 hortus ortus,park
 hortus ortus,pl. grounds
 "hortus, hortus ortus",garden
-horum (masc. plur. gen.),The horses OF THESE (soldiers)
+horum,The horses OF THESE (soldiers)
 "horum (neut. plur. gen), illorum (neut. plur. gen)",The cattle OF THESE (monsters)
-hos (masc. plur. acc.),They burned THESE (houses)
+hos,They burned THESE (houses)
 hospitalis,hospitable
 hospitium,guest chambers
 hospitium,hospitality
@@ -5864,10 +5864,10 @@ hostes hostium,the enemy
 hostilis,hostile or enemy
 hostilitas,enmity
 hostis,an enemy of the state
-huic (fem sing. dat.),There is a statue IN THIS (abbey)
-huic (masc. sing. dat.),He sent FOR THIS (doctor)
-huic (neut sing. dat.),i'd give my right arm FOR THIS (cookie)
-huius (fem. sing. gen.),They are fond OF THIS (change)
+huic,There is a statue IN THIS (abbey)
+huic,He sent FOR THIS (doctor)
+huic,i'd give my right arm FOR THIS (cookie)
+huius,They are fond OF THIS (change)
 huius (masc. fem. neut. gen.,eat some OF THIS
 "huius (masc. fem. neut. gen., illius (masc. fem. neut. gen.",Go ahead
 humanitas,culture
@@ -5887,7 +5887,7 @@ humus,sod
 "humus, humus, tellus, terra, terra",earth
 "humus, militus, solum, terra",ground
 "humus, ora, solum, tellus, terra",country
-hunc (masc. sing. acc.),He ate THIS (fruit)
+hunc,He ate THIS (fruit)
 "hypocrita, simulator",hypocrite
 hyæna,hyaena
 hyæna,hyena
@@ -5963,20 +5963,20 @@ ile,intestines
 ilicet,it is finished
 ilicet,right away
 "ilico, statim",on the spot
-illa (fem. sing. abl.),He who lives BY THAT (the sword).
-illa (fem. sing. nom.),THAT (sword)
-illa (neut. plur. acc.),Deborah always won THESE (wars)
-illa (neut. plur. nom.),THOSE (arms)
+illa,He who lives BY THAT (the sword).
+illa,THAT (sword)
+illa,Deborah always won THESE (wars)
+illa,THOSE (arms)
 illac,along that path
 illac,in that direction
 illac,over there
-illae ille (fem. plur. nom.),THOSE (women)
-illae ille (sing. gen.),She paid half OF THIS (the cost)
+illae ille,THOSE (women)
+illae ille,She paid half OF THIS (the cost)
 "illaesus, incolumis, sospes",unharmed
-illarum (fem. plur. gen.),The city wall had four OF THOSE (gates)
-illas (fem. plur. acc.),They gave THOSE (their lives)
+illarum,The city wall had four OF THOSE (gates)
+illas,They gave THOSE (their lives)
 illata,from infero to cause
-ille (masc. nom. sing.),THAT (house)
+ille,THAT (house)
 ille illa illud,the famous
 ille illa illud,the former
 "ille illa illud, infit, inquit, is ea id",he
@@ -5984,34 +5984,34 @@ ille illa illud,the former
 "ille illa illud, is ea id",it
 "ille illa illud, is ea id, iste ista istud, quatenus/quatinus",that
 illectus,allured
-illi (fem sing. dat.),There is a statue IN THAT (abbey)
-illi (masc. plur. nom.),THOSE (men)
-illi (masc. sing. dat.),He sent FOR THAT (doctor)
-illi (neut sing. dat.),i'd give my right arm FOR THOSE (cookies)
-illiam (fem. sing. acc.),She wasted THAT (her youth)
+illi,There is a statue IN THAT (abbey)
+illi,THOSE (men)
+illi,He sent FOR THAT (doctor)
+illi,i'd give my right arm FOR THOSE (cookies)
+illiam,She wasted THAT (her youth)
 illic,at that place
 "illic, inibi",therein
 illicitus,unlawful
-illis (fem. plur. dat.),She gave her property TO THOSE (churches)
-illis (masc. plur. abl.),They passed BY THOSE (roads)
-illis (masc. plur. dat.),Tell it TO THOSE (Marines)
-"illis (neut. plur. abl.), illis (plur. abl.)",She earned it BY THESE (her deeds)
-illius (fem. sing. gen.),They are fond OF THAT (change)
+illis,She gave her property TO THOSE (churches)
+illis,They passed BY THOSE (roads)
+illis,Tell it TO THOSE (Marines)
+"illis , illis",She earned it BY THESE (her deeds)
+illius,They are fond OF THAT (change)
 illius (masc. fem. neut. gen.,eat some OF THAT
-illius (neut. sing. gen.),She paid half OF THAT (the cost)
-illo (masc. sing. abl.),He gave plenty FOR THAT (field)
-illo (neut. sing. abl.),Do not hesitate BECAUSE OF THAT! (doubt)
-illorum (masc. plur. gen.),The horses OF THOSE (soldiers)
-illos (masc. plur. acc.),They burned THOSE (houses)
+illius,She paid half OF THAT (the cost)
+illo,He gave plenty FOR THAT (field)
+illo,Do not hesitate BECAUSE OF THAT! (doubt)
+illorum,The horses OF THOSE (soldiers)
+illos,They burned THOSE (houses)
 illuc,thither
 illuc,to that matter
 illuc,to that place
-illud (neut. sing. acc.),Break THOSE (fetters)!
-illud (neut. sing. nom.),THAT (monastery)
+illud,Break THOSE (fetters)!
+illud,THAT (monastery)
 illudo illusi illusum,make fun of
 "illudo illusi illusum, inrideo",ridicule
 "illudo-si-sum, instituo-ui-utum",3
-illum (masc. sing. acc.),He ate THAT (fruit)
+illum,He ate THAT (fruit)
 illustrator,enlightener
 illustro,to light up
 "imago, similitudo, visio",likeness
@@ -6957,7 +6957,7 @@ irruo,to rush into
 "irruo, occurro",rush upon
 is ea id,this
 iste ista istud,sometimes pejorative
-ita ut (with subj.),in such a way that
+ita ut,in such a way that
 "ita, itaque, itaque , sic, tam, tam",so
 "ita, sic",thus
 "itaque, postea",subsequently
@@ -7015,8 +7015,8 @@ ius iuris,broth
 ius iuris,soup
 "ius iuris, iustitia, justicia",justice
 "ius iuris, jus, lex, lex legis",law
-iussu (abl.),at the command of
-iussu (abl.),by order of
+iussu,at the command of
+iussu,by order of
 iusta,due forms
 iusta,funereal rites
 iuste,fairly
@@ -7089,9 +7089,9 @@ laboriose,with great effort
 laboriosus,(persons)
 laboriosus,laborious
 laboriosus,toilsome
-laboro (intrans.),be afflicted
-laboro (intrans.),be troubled
-"laboro (intrans.), operor",to work
+laboro,be afflicted
+laboro,be troubled
+"laboro , operor",to work
 labrum,bathing tub
 "labrum, lavacrum, puelus",bath
 "labrum, ora",rim
@@ -7365,7 +7365,7 @@ letalis,fatal
 "letalis, letifer, moratlis",mortal
 letaliter,fatally
 letaliter,mortally
-"letanie, litania (med.)",litany
+"letanie, litania",litany
 lethargus,coma
 lethargus,drowsiness
 lethargus,sleepiness
@@ -7427,7 +7427,7 @@ liceor,to offer a price
 liceor,to offer to buy
 licet,it is allowed
 licet,it is right
-"licet, licet (as conj.)",granted that
+"licet, licet",granted that
 "licet, oportet",imper v.
 "licito, vendo",to sell
 licitus,allowed
@@ -7453,8 +7453,8 @@ linteum,napkin
 liquidus,flowing
 liquidus,limpid
 "liquidus, liquor",fluid
-litania (med.),chant
-litania (med.),supplication
+litania,chant
+litania,supplication
 litigiosus,contentious
 litigo,to [+ contra] dispute
 litigo,to quarrel
@@ -7639,8 +7639,8 @@ matrimonium,marriage
 maxime,principally
 maxime,to the highest degree
 "maxime, singulariter, summopere, valde, valde, vehementer",exceedingly
-me (abl.),you'll do fine with ME
-me (acc.),that old black magic has ME in its spell
+me,you'll do fine with ME
+me,that old black magic has ME in its spell
 "medicor, sano",to heal
 medicus,doctor
 medicus,physician
@@ -7715,8 +7715,8 @@ mico,gleam
 mico,palpitate
 "mico, niteo",be bright
 "mico, niteo",glitter
-mihi (dat.),give ME land
-mihi (dat.),lots of land
+mihi,give ME land
+mihi,lots of land
 miles militis,knight
 "miles, miles militis",soldier
 "miles, pignus, pignus",pawn
@@ -7966,9 +7966,9 @@ naviger,ship-bearing
 navigo,navigate
 navitas,energy
 navitas,get up and go
-ne (conj.),in order not to
-ne (conj.),in order that .. not
-ne (conj.),that .. not
+ne,in order not to
+ne,in order that .. not
+ne,that .. not
 ne .. quidem,not .. even
 nebula,cloud
 nebulosus,foggy
@@ -8060,9 +8060,9 @@ nixor,to lean against
 "no (nare, navi)",to swim
 "no (nare, navi), velum, velum",sail
 "no (nare, navi), volare",fly
-nobis (abl.),there'll be no one as happy as US
-"nobis (abl.), nobis (dat.), nos",us
-nobis (dat.),the world belongs to US
+nobis,there'll be no one as happy as US
+"nobis , nobis , nos",us
+nobis,the world belongs to US
 nocens,culpable
 "nocens, pestifer",injurious
 noceo,do harm
@@ -8362,7 +8362,7 @@ orator,speaker. spokesman
 oratorie,oratorically
 oratorius,oratorical
 oratorius,oratory
-oratu (abl.sing.m.),by request
+oratu,by request
 orbis,coil
 orbis,disk
 orbis,orb
@@ -8537,10 +8537,10 @@ pareo,become evident
 pareo,become plain
 pareo (+ dat.),to be obedient to
 "pareo (+ dat.), succedo, summitto (se)",submit
-pariare (med.),pay a fine
-pariare (med.),settle an account
-pariare (med.),to pay
-parificio (med.),to put on the same level
+pariare,pay a fine
+pariare,settle an account
+pariare,to pay
+parificio,to put on the same level
 parilitas,equality
 parilitas,level to make fit
 pario,partum to bear
@@ -8577,10 +8577,10 @@ pasco,to graze
 passer,sparrow
 passim,adv. far and wide
 passim,scattered about
-pastoricium (med.),a fee for using a pasture
-pastorizare (med.),graze animals
-pastorizare (med.),to pasture
-pastorizare (med.),to put to pasture
+pastoricium,a fee for using a pasture
+pastorizare,graze animals
+pastorizare,to pasture
+pastorizare,to put to pasture
 pastus,pasture
 patefacio,make open
 pateo,be exposed
@@ -9039,7 +9039,7 @@ pocius potius,preferrably
 podagra,gout
 poema poematis,rhyme
 "poema poematis, versus",verse
-"poeta, poeta (masc.)",poet
+"poeta, poeta",poet
 polenta,barley groats
 polenta,pearl barley
 pollen,fine flour
@@ -9510,8 +9510,8 @@ prosterno,to knock down
 "prosterno, subversio",to overthrow
 prosum,to benefit
 prosum (profuturus),of benefit
-"prosum (profuturus), prosum (with dat.)",do good
-"prosum (profuturus), prosum (with dat.)",to be useful
+"prosum (profuturus), prosum",do good
+"prosum (profuturus), prosum",to be useful
 protense,extensively.
 protero,trample
 "protestor, protesto",bear witness
@@ -9683,7 +9683,7 @@ pyus pyxidis,casket
 pæninsula,peninsula
 qua,by which route
 "qua , quo, ubi",where
-qua (fem. sing. abl.),(the abbess)
+qua,(the abbess)
 quadra,dining table
 quadraginta,forty
 quadraginta,forty (Indecl.)
@@ -9696,11 +9696,11 @@ quadrivium,second stage of the medieval curriculum
 quadruplator,an exaggerator
 quadruplator,informer
 quadruplor,to be an informant
-quae (fem. pl. nom.),Let THOSE (women)
-quae (neut. pl. acc.),those things WHICH we must have
-quae (neut. plur. nom.),WHAT cannot be avoided must be endured
-quae que (fem. sing. nom.),(the milkmaid)
-quae que (fem. sing. nom.),WHO loved a prince
+quae,Let THOSE (women)
+quae,those things WHICH we must have
+quae,WHAT cannot be avoided must be endured
+quae que,(the milkmaid)
+quae que,WHO loved a prince
 quaerito,to seek/look earnestly for
 quaero,search
 "quaero, requiro",to seek
@@ -9715,11 +9715,11 @@ qualiscumque,of any kind whatever
 qualislibet,of what sort you will
 "qualitas, species",quality
 qualiter,in whatever manner/way
-quam (adv. and conj.),than
-"quam (adv. and conj.), quemadmodum, quomodo, unde",how
-"quam (adv. and conj.), tam .. quam",as .. as possible
-quam (fem. sing. acc.),(the church)
-quam (fem. sing. acc.),WHICH the Lord loved
+quam,than
+"quam , quemadmodum, quomodo, unde",how
+"quam , tam .. quam",as .. as possible
+quam,(the church)
+quam,WHICH the Lord loved
 quam plures,as many as possible
 quamdiu,such a long time
 quamobrem,for which reason
@@ -9752,10 +9752,10 @@ quantuslibet,as much as you will
 quantuvis,as great as you please
 quantuvis,however great
 quare,because of which thing
-quarum (fem. pl. gen.),OF WHICH we know
-quarum (fem. pl. gen.),their envy and jealousy
-quas (fem. pl. acc.),against whom he struggled
-quas (fem. pl. acc.),the fates
+quarum,OF WHICH we know
+quarum,their envy and jealousy
+quas,against whom he struggled
+quas,the fates
 quasi,a sort of
 "quasi, sicut",as it were
 "quasi, tamquam tanquam",just as if
@@ -9768,8 +9768,8 @@ quater,four times
 quattuor,four
 quattuor,four (indecl.)
 quattuordecim,fourteen
-quem (masc. sing. acc.),(the man)
-quem (masc. sing. acc.),WHOM the king struck
+quem,(the man)
+quem,WHOM the king struck
 quemadmodum,how?
 quemadmodum,lust like
 "quemadmodum, quomodo",in what manner
@@ -9788,20 +9788,20 @@ queritor,to complain excessively
 queritor,whine
 quernus,oaken
 queror,bewail (dogs)
-qui (masc. neut. nom.),(the prince)
-qui (masc. pl. nom.),Let THOSE (men)
+qui,(the prince)
+qui,Let THOSE (men)
 qui (question),how? in what way?
 qui (question),wherewith
 "qui (question), quomodo",somehow
-quibus (fem. pl. abl.),BY WHICH the pirates were known
-quibus (fem. pl. abl.),the beards
-quibus (fem. pl. dat.),TO WHICH he owed his crown
-quibus (fem. pl. dat.),the good fortune
-quibus (masc. pl. abl.),BY WHOM he was attacked when old
-quibus (masc. pl. abl.),his sons
-quibus (masc. pl. dat.),the monastery IN WHICH he was intered
-quibus (neut. pl. abl.),the arms WITH WHICH he won Rome
-quibus (neut. pl. dat.),the crimes FOR WHICH he was executed
+quibus,BY WHICH the pirates were known
+quibus,the beards
+quibus,TO WHICH he owed his crown
+quibus,the good fortune
+quibus,BY WHOM he was attacked when old
+quibus,his sons
+quibus,the monastery IN WHICH he was intered
+quibus,the arms WITH WHICH he won Rome
+quibus,the crimes FOR WHICH he was executed
 "quicquid, quisquis",anything at all
 "quicquid, quisquis",whatever
 "quicquid, quisquis",whatsoever
@@ -9860,15 +9860,15 @@ quo,to what place
 quo,to which place
 quo,where ... to
 quo,whither
-quo (masc. sing. abl.),(the money)
-quo (neut. sing. abl.),(the eagerness)
+quo,(the money)
+quo,(the eagerness)
 quod,the fact that
 quod,the point that
 quod (+ comparative),the x the better
-quod (neut. sing. acc.),(the sea)
-quod (neut. sing. acc.),WHICH you cannot drink dry
-quod (neut. sing. nom.),(the war)
-quod (neut. sing. nom.),WHICH killed so many
+quod,(the sea)
+quod,WHICH you cannot drink dry
+quod,(the war)
+quod,WHICH killed so many
 quod (with time),to the extent that
 "quod (with time), tenus (prep. with abl)",as far as
 quod sui juris est,what is one's by right
@@ -9882,11 +9882,11 @@ quondam,one time
 quondam,one-time
 "quondam, sero, tardus",late
 quoque,too
-quorum (masc. pl. gen.),half OF WHICH was ill
-quorum (masc. pl. gen.),the army
-quorum (neut. pl. gen.),OF WHICH there were not a few
-quorum (neut. pl. gen.),dangers
-quos (masc. pl. acc.),those WHOM he accused of treachery
+quorum,half OF WHICH was ill
+quorum,the army
+quorum,OF WHICH there were not a few
+quorum,dangers
+quos,those WHOM he accused of treachery
 quot,as many (indecl.)
 quot,how many
 quotienscumque,however often
@@ -10214,7 +10214,7 @@ rideo risi risum,laugh
 ridiculum,ridiculous
 ridiculus,facetious
 ridiculus,laughable
-"riginta (indecl.), triginta",thirty
+"riginta , triginta",thirty
 rigor,hardness
 rigor,sterness
 rimor,explore
@@ -10326,8 +10326,8 @@ sanna,mocking grimace
 "sanna, subsannatio",mockery
 sanus,sane
 "sanus, sanus, valens",healthy
-sapiens (subs.),a wise man
-sapiens (subs.),philosopher
+sapiens,a wise man
+sapiens,philosopher
 "sapiens, sophus",sagacious
 "sapiens, sophus",sage
 sapienter,judiciously
@@ -10721,7 +10721,7 @@ specto,to behold
 speculatio,observation
 speculum,mirror
 spensa,storehouse
-spera (n.pl.),hopes
+spera,hopes
 "sperare, spero, spes",hope
 sperma,semen
 "sperma, sperma",sperm
@@ -10975,7 +10975,7 @@ sumptus,expenses
 suo,to stitch
 supellectilis,goods
 supellectilis,household furniture
-super (prep.),(+ abl.)
+super,(+ abl.)
 "super, super",over
 "super, super , superne, supernus, superus superior supremus or, supra (+ acc.)",above
 superabundo-avi,to be very abundant
@@ -11102,7 +11102,7 @@ tantus,so great
 tantus,so large
 tardus,tardy
 taurus,bull
-"te (abl.), te (acc.), tibi, tibi (dat.), tu, vobis (abl.), vobis (dat.), vos",you
+"te , te , tibi, tibi , tu, vobis , vobis , vos",you
 tela,a web
 tela,cloth
 tela,that which is woven
@@ -11247,7 +11247,7 @@ torqueo,turn awry
 "torqueo, verto",to turn
 torreo,to roast
 tortitudo,insincerity
-"tot, tot (indecl.)",so many
+"tot, tot",so many
 totidem,just as many
 toto,all togther
 toto,completely towards
@@ -11294,7 +11294,7 @@ transmitto,to send
 transveho,to convey
 transverbero,to pierce through
 trebuchettum,a trebuchet
-"tredecim, tredecim (indecl.)",thirteen
+"tredecim, tredecim",thirteen
 trepide,in confusion
 trepide,with trepidation
 trepidus,alarmed
@@ -11609,9 +11609,9 @@ vepres,briar
 vepres,thorn-bush
 ver,springtime
 verber,lashing
-verbera (in pl.),a beating
-verbera (in pl.),blows
-verbera (in pl.),thrashing
+verbera,a beating
+verbera,blows
+verbera,thrashing
 verberantia,a flogging
 verbero,flog
 verbero,to lash
@@ -11756,10 +11756,10 @@ virtus,virtuousness
 "virtus, vitualis",manliness
 virus,virus
 vis,vigour
-vis (sing.),a force
-vis (sing.),a large number
-vis (sing.),quantity
-vis (sing.),violence
+vis,a force
+vis,a large number
+vis,quantity
+vis,violence
 viscum,mistletoe
 viscus,bowels
 viscus,entrails

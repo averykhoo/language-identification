@@ -31,7 +31,7 @@ Bengala,Bengal
 Birmania,Burma
 Biscaglia,Biscay
 Bordò,Bordeaux (wine)
-"Borsa, cambiario, cambio, cambio, centralino [Comm.], contraccambio, permuta, scambiare, scambio, scambio",exchange
+"Borsa, cambiario, cambio, cambio, centralino , contraccambio, permuta, scambiare, scambio, scambio",exchange
 Brasile,Brazil
 "Bretagna, Gran-Bretagna",Britain
 "Bàltico, Mar Baltico, Mar Bàltico",Baltic Sea
@@ -98,11 +98,11 @@ Marrani,pits (place of punishment in Rome)
 Milano,Milan
 Ministero degli Esteri [Brit.,Foreign Office
 Ministero dell'Interno [Brit.,Home Office
-Ministro dell'Interno [Brit.],Home Secretary
+Ministro dell'Interno,Home Secretary
 Natale,Christmas
 Norvegia,Norway
 Noè 2.,Noah
-Nume (poet.),gods
+Nume,gods
 "Oggidì, oggigiorno, oggigiorno",nowadays
 Ognissanti,allhallows [pl]
 Olanda,Holland
@@ -173,8 +173,8 @@ a capofitto,headfirst
 "a carico del destinatario, accozzare, colletta, esigere, incassare, raccogliere, ritirare",collect
 "a cavalcioni, a gambe divaricate",astride
 "a che cosa, da che cosa, di che",whereof
-"a collo [Mar.], attònito, attònito, sorprende, sorpreso",aback
-"a colori invertiti [Comp.], inverso, riverso, rovesciato",reversed
+"a collo , attònito, attònito, sorprende, sorpreso",aback
+"a colori invertiti , inverso, riverso, rovesciato",reversed
 a condizione che,provided
 "a destra, a destra",to the right
 "a destra, a destra, destra, destro, destro, doveroso, esattamente, esatto, esatto, giusto, immediatamente, retto, retto",right
@@ -210,7 +210,7 @@ a lungo raggio,long-range
 a mani vuote,empty-handed
 "a mano libera, a mano libera",freehand
 "a mano libera, a mano libera",without holding on
-"a mano, abilità, destrezza, lancetta, lancetta, lato, mano, mano, manuale, manuale, marinaio [Mar.], parte",hand
+"a mano, abilità, destrezza, lancetta, lancetta, lato, mano, mano, manuale, manuale, marinaio , parte",hand
 "a me, a me, biasimo, io, me, me, mi",me
 "a me, a me, io, io, me, me",I
 "a me, me",to me
@@ -284,7 +284,7 @@ a zone,zonally
 abate,abbot
 abbacare,knock down with a pole
 "abbacare, fantasia, fantasticheria, sognare, sogno",dream
-"abbacare, fiducia, spème (poet.), speranza, speranza, sperare",hope
+"abbacare, fiducia, spème , speranza, speranza, sperare",hope
 "abbacchiare, accasciare, angustiare",depress [to]
 "abbacchiato, accasciato, affranto",depressed
 "abbacchiato, azzurro, blu, giù di morale, infelice, triste, turchino",blue
@@ -340,8 +340,8 @@ abbarbagliare,hallucinate
 abbassa,lowers
 abbassa,sinks
 abbassalingua,tongue depressor
-"abbassamento, abbassare, calcare (v.t.), chinare, comp. di low, inferiore, sotto",lower
-"abbassamento, calcare (v.t.)",let down
+"abbassamento, abbassare, calcare , chinare, comp. di low, inferiore, sotto",lower
+"abbassamento, calcare",let down
 "abbassamento, depressione, depressione, insellamento",sag
 "abbassamento, ribasso",lowering
 abbassare lo sguardo,look down [to]
@@ -350,8 +350,8 @@ abbassare lo sguardo,look down [to]
 "abbassare, annuvolare, attenuare, offuscare",dim [to]
 "abbassare, esprimere",couch [to]
 abbassarsi,prolapse [to]
-"abbassarsi, abbassarsi, acquaio, calcare (v.i.), catinella, inabissare, lavello, pozzo, rilassare",sink
-"abbassarsi, abbassarsi, autunno, autunno, caduta, caduta, calcare (v.i.), decadimento, depressione, depressione, stramazzare",fall
+"abbassarsi, abbassarsi, acquaio, calcare , catinella, inabissare, lavello, pozzo, rilassare",sink
+"abbassarsi, abbassarsi, autunno, autunno, caduta, caduta, calcare , decadimento, depressione, depressione, stramazzare",fall
 "abbassarsi, abbassarsi, calo, decrescenza, diminuzione, ribasso, togliere",decrease
 "abbassarsi, calare, decrescere",decrease [to]
 "abbassarsi, cascare, precipitare",fall [to]
@@ -398,7 +398,7 @@ abbiente,well-to-do
 "abbietto, basamento, base, base, imo , piedistallo, piedistallo, turpe",base
 "abbigliamento, abbigliamento",apparel industry
 "abbigliamento, abbigliamento",clothing industry
-"abbigliamento, attrezzatura [Mar.], modo di vestire, tenuta",rig
+"abbigliamento, attrezzatura , modo di vestire, tenuta",rig
 "abbigliamento, vestimento, vestimento",apparel
 abbigliare,attire
 abbigliare,attire [to]
@@ -458,7 +458,7 @@ abbonato alla radio,radiosubscriber
 "abbordabile, abbordabile, accessibile",accessible
 "abbordabile, abbordabile, avvicinabile",approachable
 "abbordabile, abbordabilmente",accessibly
-"abbordaggio, abbordo, imbarco, tavolato [Mar.]",boarding
+"abbordaggio, abbordo, imbarco, tavolato",boarding
 "abbordare, arrembare, imbarcarsi, salire a bordo",board [to]
 "abbordo, abbordo, ancoraggio, attracco, cabina, cuccetta, ormeggio",berth
 "abbordo, attìngere, produrre, produrre",create
@@ -478,9 +478,9 @@ abbozzaticcio,sketchy work
 "abbozzaticcio, abbozzaticcio, superficiale, superficiale, volatile, volatile",sketchily
 abbozzi,outlines
 "abbozzo, bozza preliminare",first draft
-"abbr. di aeroplane, aeroplano, livello, pialla, piano, piano (m), piano alare [Aer.], platano, progetto, velivolo",plane
+"abbr. di aeroplane, aeroplano, livello, pialla, piano, piano (m), piano alare , platano, progetto, velivolo",plane
 "abbr. di examination, esame",exam
-"abbr. di popular, babbo [Amer.], botto, musica pop, papà [Amer.], scoppio",pop
+"abbr. di popular, babbo , botto, musica pop, papà , scoppio",pop
 "abbracciaboschi, caprifoglio",honeysuckle
 "abbracciamento, abbraccio",embracement
 abbracciante,embracing
@@ -551,7 +551,7 @@ abbuiare,obfuscate
 "abbuiare, deprimere, oscurare",darken [to]
 "abbuiare, offuscare",obfuscate [to]
 "abbuono, abbuono, compensazione, compenso, compromesso, compromesso, indennizzo, risarcimento",compensation
-"abbuono, cancellazione, cancellazione, detrazione, detrazione, falcidia, falcidia, lenimento, riduzione, sconto [Comm.]",abatement
+"abbuono, cancellazione, cancellazione, detrazione, detrazione, falcidia, falcidia, lenimento, riduzione, sconto",abatement
 abburattare,sift [to]
 abbàttere,knock out
 abdicare,abdicate [to]
@@ -604,10 +604,10 @@ abissi,foveae
 "abissi, abisso, abisso",abysm
 abissino,Abyssinian
 "abisso, abisso, baratro, bartro, gorgo",abyss
-"abisso, abisso, box [automobilistico], cava, fossa, fosso, miniera, piazzola, platea [Teatr.]",pit
+"abisso, abisso, box [automobilistico], cava, fossa, fosso, miniera, piazzola, platea",pit
 "abisso, abisso, spaccature, spaccature",chasm
 "abisso, balza, burrone, precipizio",precipice
-"abisso, fossetta [Biol.]",fovea
+"abisso, fossetta",fovea
 abitabile,inhabitable
 "abitabile, abitabile",habitable
 "abitabile, in modo abitabile",habitably
@@ -638,7 +638,7 @@ abitato,inhabits
 "abitatore, abitatore, occupante",occupant
 "abitazione, assemblea, casa, casa, casata, clinica, convento, dinastia, pensione, taverna",house
 "abitazione, camera, camera, largo (m), loco (=luogo), spazio, spazio, stanza",room
-"abitazione, casa, domestico, habitat, meta [Sport.], nazionale, nazionale, ospizio, ospizio, patria, patria, traguardo [Sport.]",home
+"abitazione, casa, domestico, habitat, meta , nazionale, nazionale, ospizio, ospizio, patria, patria, traguardo",home
 "abiti a brandelli, stracci [di vestiti]",rags [pl]
 abiti da lutto,sables [pl]
 abiti ricercati,ivy league clothes [pl]
@@ -691,7 +691,7 @@ abnegazione,abnegation
 "abnorme, abnorme",bastardly
 "abnorme, abnorme, anormale, inconsueto, subnormale",abnormal
 abolire,abolish [to]
-"abolire, alzare, innalzare, levare, sollevare, trasportare [Aer.]",lift [to]
+"abolire, alzare, innalzare, levare, sollevare, trasportare",lift [to]
 "abolire, annullare",abolish
 "abolire, annullare, levatura, licenziare",abrogate
 "abolire, annullare, levatura, licenziare",abrogate [to]
@@ -897,7 +897,7 @@ accendere,turn on [to
 "accendibile, combustibile, combustìbile, infiammabile",inflammable
 accendigas,gas-lighter
 "accendino, accendino",cigarette lighter
-"accendino, accendino, accendisigari, accenditore, chiatta [Mar.]",lighter
+"accendino, accendino, accendisigari, accenditore, chiatta",lighter
 "accendino, canna fumaria, condotto, lanugine",flue
 accenditoio,lightning-stick
 accennante,adumbrative
@@ -1007,7 +1007,7 @@ acchiappare,griping
 "acciaccata, acciaccato, schiacciata, schiacciato",crushed
 "acciaccatura, contusione, contusione, livido, livido",bruise
 acciacco,ailment
-"acciaccoso, cadente, debole, delicato di salute, fragile, fragile, frale (poet.)",frail
+"acciaccoso, cadente, debole, delicato di salute, fragile, fragile, frale",frail
 "acciaccoso, davantino",dicky
 acciaiare,convert into steel [to]
 acciaiato,converted into steel
@@ -1019,12 +1019,12 @@ acciaio,rustled
 acciaio,thieved
 acciaio fuso,ingot iron
 acciaio fuso,ingotiron
-"acciaio, acciao, acciaro (poet.)",steel
-"acciaio, acciaro (poet.), brando (poet.), spada",sword
+"acciaio, acciao, acciaro",steel
+"acciaio, acciaro , brando , spada",sword
 "acciaio, sciarpa, stola",stole
 acciambellare,coil up [to]
 acciambellato,coiled up
-"acciarino [di ruota], chiave di volta [Arch.], perno",linchpin
+"acciarino [di ruota], chiave di volta , perno",linchpin
 "acciarino, pietra focaia, selce",flint
 "accidentale, accidentale",inessential
 "accidentale, accidentale, casuale, fortùito",haphazard
@@ -1133,7 +1133,7 @@ accontentato,gratifies
 accontentato,satisfies
 "accontentato, pago, soddisfatto, soddisfatto",satisfied
 acconto,prepaywnent
-"acconto [Amer.], rata [Amer.]",installment
+"acconto , rata",installment
 "acconto, calcolo, calcolo, càlcolo, càlcolo, conto, conto, rapporto",account
 "acconto, prepagamento",prepayment
 "accoppiamento, allacciamento, attinenza, coincidenza, coincidenza, collegamento, collegamento, congiuntura, congiuntura, raccordo",connection
@@ -1160,7 +1160,7 @@ accordato,accords
 "accordatore, sintonizzatore",tuner
 "accordatura, sintonia, votazione",tuning
 accordo,accor
-"accordo, accordo [Mus.], corda [Geom.], còttimo",chord
+"accordo, accordo , corda , còttimo",chord
 "accordo, accordo, arrangiamento, concordanza, convenienza 2., pateracchio",agreement
 "accordo, affiatamento, armonia, armonia, concordia, concordia",harmony
 "accordo, concerto, concerto",concert
@@ -1478,7 +1478,7 @@ addormentare,lull to sleep
 addormentare,lull to sleep [to]
 "addossare, aggravio, aggravio, fardello, onere, pondo",burden
 "addossare, gravare",burden [to]
-"addossarsi, assimilare, assorbire, assumersi [Comm.], fagocitare, neutralizzare, smorzare",absorb [to]
+"addossarsi, assimilare, assorbire, assumersi , fagocitare, neutralizzare, smorzare",absorb [to]
 addotto (past. part. addurre),adduced
 addotto (past. part. addurre),alleged
 addotto (past. part. addurre),brought
@@ -1494,11 +1494,11 @@ adduttore,adducent
 adduzione,adduction
 "adeguare, allineare, schierare",align [to]
 adeguatezza,adequacy
-"adempiere [Amer.], adempire [Amer.], avverare [Amer.]",fulfill [to]
+"adempiere , adempire , avverare",fulfill [to]
 "adempiere, adempire, avverare",fulfil [to]
 adempiersi,be fulfilled
 adempiersi,come true
-"adempimento, implementazione [Comp.], realizzazione, realizzazione",implementation
+"adempimento, implementazione , realizzazione, realizzazione",implementation
 adempire,fulful
 adenite,adenitis
 adenoide,adenoid
@@ -1623,8 +1623,8 @@ adunati,assembles
 "aerato, arieggiato, arioso, fantasioso",airy
 aeratore,air-vent
 aerazione,aeration
-"aere (poet.), aria, arietta, aspetto, aviatorio, brezza, etere, etere, venticello",air
-"aereo [Mil.], bambola [Amer.], uccello, volatile",bird
+"aere , aria, arietta, aspetto, aviatorio, brezza, etere, etere, venticello",air
+"aereo , bambola , uccello, volatile",bird
 "aereo, aeroplano, aeroplano, apparecchio, velivolo, velivolo",airplane
 aeriforme,aeriform
 aerobio,aerobe
@@ -1666,7 +1666,7 @@ aeronavigazione,air navigation
 "aeronàutica, aviazione, industria aeronautica, navigazione aerea, navigazione aerea",aviation
 aeroplancton,aeroplankton
 aeroplani,airplanes
-"aeroplano [Aer.], imbarcazione [Mar.], mestiere, natante",craft
+"aeroplano , imbarcazione , mestiere, natante",craft
 "aeroplano, aeroplano",air-plane
 "aeroplano, aeroplano, velivolo, velivolo",aeroplane
 "aeroporto, aeroportuale",airport
@@ -1724,7 +1724,7 @@ affarismo,profiteering
 "affascinante, allettante, allettante",luring
 "affascinante, attraente, impegnativo",engaging
 "affascinante, avvincente, emozionante, emozionante",fascinating
-"affascinare [Amer.], incantare [Amer.]",enthrall [to]
+"affascinare , incantare",enthrall [to]
 "affascinare, allettare, attirare, attrarre, esercitare un'attrazione, vestire",attract [to]
 "affascinare, ammaliare, sedurre",captivate [to]
 "affascinare, incuriosire, intrigare, itrallazzare",intrigue [to]
@@ -1880,7 +1880,7 @@ afflusso,influx
 "afflusso di sangue, afflusso di sangue, calca, calca, congestione, sovraccarico",congestion
 "afflusso di sangue, afflusso di sangue, pletora",plethora
 "afflusso, entrata",intake
-"afflìggere, ange (poet.), angoscia, dolore, funestare, infestare, paura, paura, penuria, penuria, spossatezza, tribolo",distress
+"afflìggere, ange , angoscia, dolore, funestare, infestare, paura, paura, penuria, penuria, spossatezza, tribolo",distress
 affogare,asphyxiate
 affogare,drown
 affogare,smothe
@@ -1987,8 +1987,8 @@ agenzia di occupazione,employment agency
 "agevolato, facilitato",facilitated
 "agevolazione, facilità",facility
 "agevole, facile, piano 2., poco pesante, poco pesante, semplice",easy
-"agganciare, prendere all'amo, sferrare un gancio [Sport.]",hook [to]
-"aggancio per un file [Comp.], ansa, gambo, gambo, grado, maniglia, orecchia, servire",handle
+"agganciare, prendere all'amo, sferrare un gancio",hook [to]
+"aggancio per un file , ansa, gambo, gambo, grado, maniglia, orecchia, servire",handle
 aggeggio,gadget
 "aggetivo, aggettivo",adjective
 aggettante,jutting out
@@ -2093,7 +2093,7 @@ agibilità,feasibility
 "agile, agile",nimble
 "agile, agile, celere, rapido, rapido, ratto (adv), veloce",quick
 "agile, agile, sdruccilevole, veloce",slippy
-"agile, avantreno [Mil.], flessibile, poco stretto, sciolto",limber
+"agile, avantreno , flessibile, poco stretto, sciolto",limber
 agilità,agility
 "aginizzante, morente, morente, moribondo",moribund
 "agio, benessere",ease
@@ -2200,7 +2200,7 @@ ajuto,=aiuto
 "al di sopra, al di sopra, sopra, sopra, sù, sù",above
 al par,just like
 al par,the same as
-"al par, alla maniera di, come, come, pari, paro (ant. pop.), simile, simile, uguale, uguale",like
+"al par, alla maniera di, come, come, pari, paro , simile, simile, uguale, uguale",like
 "al piano superiore, in alto, in alto, sù",upstairs
 al piu tardi,at the latest
 al più presto,at the earliest
@@ -2210,7 +2210,7 @@ al più presto,at the earliest
 "al suo, di ella, di esso, suo",its
 "al suo, di ella, di lui, suo, suo, suoi",his
 "al, al, per, tramite, tramite",per
-"ala, arto, membra (f. col.), membro, membro, membro (pl.f. membra), ramo",limb
+"ala, arto, membra , membro, membro, membro (pl.f. membra), ramo",limb
 "ala, volo",wing
 alabarda,halberd
 alabarda,poleaxe
@@ -2219,7 +2219,7 @@ alabardiere,halberdier
 alacrità,alacrity
 "alaggio, rimorchio",towage
 alamaro,decorative clasp
-"alambicco (chem), lambicco (chem.)",alembic
+"alambicco (chem), lambicco",alembic
 alano,Alan
 alare,firedog
 "alarmo, allarme, preoccupazione, timore",alarm
@@ -2271,7 +2271,7 @@ alchimista,alchemist
 alcolemia,alcoholemia
 alcolici [pl],hooch
 alcolicità,alcoholic content
-"alcolico [Austr.], grog",grog
+"alcolico , grog",grog
 "alcolico, alcolizzato",alcoholic
 alcolimetro,alcoholmeter
 alcolismo,alcoholism
@@ -2291,7 +2291,7 @@ aldilà,otherworld
 alesare,ream [to]
 alesatrice,boring machine
 alessia,alexia
-"aletta idrodinamica [Mar.], aliscafo",hydrofoil
+"aletta idrodinamica , aliscafo",hydrofoil
 "aletta, pinna",fin
 alettone,aileron
 alfa,alpha
@@ -2396,7 +2396,7 @@ allattamento,breast-feeding
 allattare,suckle
 allattare,suckle[to]
 "allattare, allevare, curare",nurse [to]
-"alle prime armi, novizio, spina [Mil.], uccellino",fledgling
+"alle prime armi, novizio, spina , uccellino",fledgling
 alle strette,hard-pressed
 "alleanza, alleanza",alliance
 "alleanza, asse, asse",axis
@@ -2456,7 +2456,7 @@ allettamento,allurement
 allettato,enticed
 allevamento,breeding
 allevamento,husbandry
-allevamento di cani [Amer.],kennels [pl]
+allevamento di cani,kennels [pl]
 "allevamento, garzatura, innalzamento",raising
 allevare,rear [to]
 "allevare, allevare",cultivate
@@ -2591,7 +2591,7 @@ alta marea,floodtide
 alta montagna,high mountain-chain
 altalena,see-saw
 "altalena, altalena, brandire, dimenare, oscillazione",swing
-"altare, àra (poet.)",altar
+"altare, àra",altar
 alterabile,alterable
 "alteramente, orgoglioso",haughtily
 "alterare, alterare, alternare, cambiamento, cambiarsi, cambio, cangiare, convertire, convertire, mutare, resto, tramutare, variare, variazione, variazione, vicenda",change
@@ -2688,7 +2688,7 @@ alzare lo sguardo,look up [to]
 alzarsi da tavola,leave the table [to]
 "alzarsi, ascendere, assurgere, esalare, levarsi, rialzare, sorgere",rise [to]
 "alzarsi, ascesa, aumento, aumento, esalare, levarsi, levata, lievitazione, lievitazione, montare, rampa, rialzo, salire, sorgere [del sole]",rise
-"alzata, gettare, gittare (poet.), gittata, scoccare, tiro, tiro",throw
+"alzata, gettare, gittare , gittata, scoccare, tiro, tiro",throw
 "alzato, in rilievo, sollevato",raised
 alzavalvola,valve lifter
 alzo,sight (of rifle or gun)
@@ -2720,7 +2720,7 @@ amaretto,macaroon
 "amarezza, asprezza, esacerbazione, esacerbazione",bitterness
 amaricante,embittering
 amarillide,amaryllis
-amarra [Mar.],mooring cable
+amarra,mooring cable
 amarsi l'un l'altro,love each other [to]
 "amato, avvantaggiato, favorito",favorite
 "amatore, campione, conoscitore, virtuoso",virtuoso
@@ -2752,8 +2752,8 @@ ambito,striving
 "ambito , bussola, bùssola, compasso, estensione, gamma, perimetro",compass
 "ambito , circolazione, circolazione, circuito, circùito, circùito, tratto, tratto",circuit
 "ambito , competenza, competenza",competence
-ambito (p.a.),coveted
-ambito (p.a.),valued
+ambito,coveted
+ambito,valued
 ambivalente,ambivalent
 ambivalenza,ambivalence
 ambizione,ambition
@@ -2778,7 +2778,7 @@ amenorrea,amenorrhoea
 amer. per meagre,meager
 amer. per mold,mold
 "amer. per moult, mutarsi",molt
-"amer. per moustache, baffi [Amer.]",mustache
+"amer. per moustache, baffi",mustache
 amer. per moustached,mustached
 amer. per mum,mom
 amer. per mummy,mommy
@@ -2805,7 +2805,7 @@ ametista,amethyst
 amici,boyfriends
 amici,friends
 amici e parenti,kith and kin
-"amicizia, amicizia, amista (poet.)",friendship
+"amicizia, amicizia, amista",friendship
 "amicizia, associazione, unione",joining
 amico della gioventù,school day friend
 "amico scolastico, condiscepolo",schoolmate
@@ -2823,7 +2823,7 @@ ammaccatura,dent
 "ammaccatura, ammaccatura",dint
 "ammaccatura, ammaccatura, cumulo, cumulo, gnocco, grumo, pezzo, zolletta",lump
 "ammaccatura, ammaccatura, gobba, gobba, protuberanza, sporgenza",protuberance
-"ammainare [Mar.], consegnare, dare, porgere",hand [to]
+"ammainare , consegnare, dare, porgere",hand [to]
 ammalarsi,fall ill
 ammalarsi,fall ill [to]
 ammalarsi,get ill
@@ -3106,7 +3106,7 @@ ancona,Ancona
 "ancor prima, ancor prima, anteriore, ex, precedente, primiero, primo [di due]",former
 "ancor prima, ancor prima, davanti, davanti, già, un tempo",formerly
 "ancor prima, ancor prima, passato, trascorso, trascorso",past
-"ancor prima, anticipatamente, prima di, priore [Eccl.]",prior
+"ancor prima, anticipatamente, prima di, priore",prior
 "ancora, ancora, calmo, calmo, chéto, pari, pur, tuttora",still
 "ancora, ancora, già, però, però, pur, pure, tuttora",yet
 "ancora, arare, cassa, finché, forziere, forziere",till
@@ -3114,8 +3114,8 @@ ancoraggio,anchorage
 "ancorare, assegnare una cuccetta, attraccare, ormeggiare",berth [to]
 ancorato,anchored
 ancorato,anchors
-ancorotto [Mar.],kadge
-ancorotto [Mar.],kedgeanchor
+ancorotto,kadge
+ancorotto,kedgeanchor
 andai,walked
 andai,went
 andaluso,Andalusian
@@ -3132,7 +3132,7 @@ andaluso,Andalusian
 andar via,go off [to]
 andar via,push off [to]
 andar via,run along [to]
-"andara, andare, andarsene, energia, gire (obs.), ire (poet.), ite (= ire) (poet), movimento, recarsi, tentativo",go
+"andara, andare, andarsene, energia, gire , ire , ite (= ire) (poet), movimento, recarsi, tentativo",go
 "andara, attacco, giro, giro, gita, impulso, motore , spingere, volare",drive
 "andara, battente",driving
 "andara, di prova, pilota, pilota, pilota, sperimentale, volare",pilot
@@ -3150,7 +3150,7 @@ andare a letto,go to bed
 "andare a monte, fallire",fall through [to]
 andare a passeggio,come out [to]
 "andare a passeggio, entrare",go out
-"andare a passeggio, sbucare (v.int.)",come out
+"andare a passeggio, sbucare",come out
 "andare a passeggio, uscire",go out [to]
 "andare a pesca, frugare, pescare",fish [to]
 andare a pezzi,fall apart [to]
@@ -3161,13 +3161,13 @@ andare a sbattere contro,plough into [to]
 "andare alla deriva, girovagare, vagare",drift [to]
 "andare annusando, strofinare il naso",nuzzle [to]
 "andare avanti, continuare, proseguire, seguitare",continue [to]
-"andare d'accordo, cliccare [Comp.], fare uno scatto, scattare, venire in mente",click [to]
+"andare d'accordo, cliccare , fare uno scatto, scattare, venire in mente",click [to]
 andare in autobus,bus [to]
 andare in automobile,motor [to]
 andare in barca,go boating [to]
 "andare in bicicletta, avere un andamento ciclico",cycle [to]
 "andare in bicicletta, bicicletta, ciclo, circolazione, serie, triciclo",cycle
-andare in buca [Sport.],hole out [to]
+andare in buca,hole out [to]
 andare in cerca di,quest [to]
 andare in cerca di guai,look for truble [to]
 "andare in crociera, incrociare",cruise [to]
@@ -3191,7 +3191,7 @@ andatura,sailing point
 "andatura incerta, trotterellare",toddle
 "andatura lenta, scorrimento [Geol., strisciamento, strisciare",creep
 "andatura zoppicante, fiacco, flaccido, zoppicare",limp
-"andatura, andatura, numero dei giri, rattezza (poet.), ripidezza, velocità, velocità, volare, volare",speed
+"andatura, andatura, numero dei giri, rattezza , ripidezza, velocità, velocità, volare, volare",speed
 "andatura, gradino, passo, passo",pace
 andiamo,Let's go (imperf. andare)
 andicappare,handicap [to]
@@ -3211,9 +3211,9 @@ anelare,wheeze
 "anelare, rantolare, respirare affannosamente",gasp [to]
 anelastico,inelastic
 anelettrico,anelectric
-anelito (poet.),panting
-anelito (poet.),tremour
-"anelito (poet.), anelo, ansioso, ansioso, bramosia, bramoso, desideroso",longing
+anelito,panting
+anelito,tremour
+"anelito , anelo, ansioso, ansioso, bramosia, bramoso, desideroso",longing
 anellidi,annelids [pl]
 "anellino, cerchietto, circolo",circlet
 anello matrimoniale,wedding ring
@@ -3221,8 +3221,8 @@ anello matrimoniale,wedding ring
 "anello, attaccare, collegamento, copulare, legame, legamento, maglia [di catena], vincolo",link
 anelo,breathless
 anemia,anaemia
-"anemia localizzata, ischemia [Med.]",ischaemia
-"anemia localizzata, ischemia [Med.]",ischemia
+"anemia localizzata, ischemia",ischaemia
+"anemia localizzata, ischemia",ischemia
 anemico,anemic
 anemofilo,anemophilous
 anemografia,anemography
@@ -3246,14 +3246,14 @@ anfibolo,amphibole
 anfibologia,amphibology
 anfiteatro,amphitheater
 anfora,amphora
-"anfora, brocca [Amer.], orcia, orcia",pitcher
+"anfora, brocca , orcia, orcia",pitcher
 "anfratto, burrone, burrone, dirupo, forra, pappare",gorge
 anfrattuoso,tortuous
 angariare,flay
 "angariare, scorticare, scuoiare",flay [to]
-ange (poet.),(esp. heart or soul
-ange (poet.),constrain
-"ange (poet.), premere",squeeze
+ange,(esp. heart or soul
+ange,constrain
+"ange , premere",squeeze
 "angeliche, angelico",angelic
 angelo custode,guardian angel
 "angelo, angiola",angel
@@ -3310,7 +3310,7 @@ anilina,aniline
 "anima, mente, mente, spirito, spirto (= spirito), sprizzare",spirit
 "anima, spirto (= spirito)",soul
 "animale apodo, apode",apodal
-"animale che ringhia, brontolone, brontolone, piccolo iceberg [Geol.]",growler
+"animale che ringhia, brontolone, brontolone, piccolo iceberg",growler
 "animale da soma, giumento",pack animal
 "animale domestico, prediletto",pet
 "animale minuscolo, minuscolo",runty
@@ -3358,7 +3358,7 @@ annesso,annexed
 annettere,annex [to]
 anni di carestia,lean years [pl]
 anni trenta,Thirties
-"anni, epoca, età, etade (poet.), vecchiaia, vecchiezza",age
+"anni, epoca, età, etade , vecchiaia, vecchiezza",age
 "annichilazione, annientamento, annientamento",annihilation
 "annichilire, annientare, distruggere",annihilate [to]
 annichilito,annihilated
@@ -3379,7 +3379,7 @@ anno di nascita,year of birth
 anno luce,light year
 anno scolastico,school year
 "annodare, legare",knot [to]
-"annodare, legare con un cappio, ripetere ciclicamente [Comp.]",loop [to]
+"annodare, legare con un cappio, ripetere ciclicamente",loop [to]
 annodatura,knotting
 annoiare a morte,bore stiff [to]
 "annoiare, forare, perforare",bore [to]
@@ -3491,7 +3491,7 @@ anteporre,put in front [to]
 anteprima,preview
 antera,anther
 "anteriore, anteriore, attaccante, avanzato, in avanti, prodiere, prodiero, proravia, pruavi, sfrontato, spedire",forward
-"anteriore, davanti, facciata, facciata, facciata, fronte [Met.], fronte [Mil.]",front
+"anteriore, davanti, facciata, facciata, facciata, fronte , fronte",front
 "anteriore, di prua, verso prua",fore
 anteriorità,anteriority
 antesignano,standard-bearer
@@ -3676,7 +3676,7 @@ antisociale,antisocial
 antisommergibile,antisubmarine
 antisportivo,unsportsmanlike
 antistaminico,antihistaminic
-"antistante, davanti, dinanzi, pria (poet.), prima, prima che",before
+"antistante, davanti, dinanzi, pria , prima, prima che",before
 antistorico,antihistorical
 antistrofe,antistrophe
 antitarmico,moth repellent
@@ -3754,7 +3754,7 @@ aperta,aperture (ant.)
 "apertamente, scoperto",openly
 aperto,opened
 aperto (è ~),has begun (esp. dancing)
-"aperto, aprirei, dischiudere, disserrare, esordire, franto (poet. = franco), lievitazione, schiudere (tr. intr.), schiuso (past.part. schiudere, spiegarsi",open
+"aperto, aprirei, dischiudere, disserrare, esordire, franto (poet. = franco), lievitazione, schiudere , schiuso (past.part. schiudere, spiegarsi",open
 "aperto, onesto, onesto, scoperto",aboveboard
 apiario,apiary
 "apicale, apice, culmine, vertice",apex
@@ -3814,7 +3814,7 @@ apparato amministrativo,administrative machinery
 "apparato, apparecchio, apparecchio, equipaggio, equipaggio, impianto, meccanismo, meccanismo, sistema",apparatus
 "apparecchiatura, armamento, attrezzatura, corredo, dotazione, equipaggiamento, equipaggio, equipaggio, fornitura, fornitura",equipment
 "apparecchio fotogràfico, macchina fotografica",camera
-"apparecchio, apparecchio, assortimento, assortimento, calcare (v.i.), guarnizione, messo, mettere, mettere, ornamento, posto, pronto, stabilito, stabilito, tramontare",set
+"apparecchio, apparecchio, assortimento, assortimento, calcare , guarnizione, messo, mettere, mettere, ornamento, posto, pronto, stabilito, stabilito, tramontare",set
 "apparecchio, apparecchio, congegno, dispositivo, elemento, elemento, meccanismo, meccanismo, ordigno, pennone",device
 apparentamento,election alliance
 apparentare,ally by marriage [to]
@@ -3826,7 +3826,7 @@ apparente,appearing
 "apparenza, figura, figura, guisa, parvenza",guise
 "apparire, comparire, emergere",appear [to]
 "apparire, cómpiere, effettuare, eseguiscono (= pres. eseguire, spingere",perform
-"apparire, emersione, emersione, esibirsi, sbucare (v.int.), venni",emerge
+"apparire, emersione, emersione, esibirsi, sbucare , venni",emerge
 "apparire, figurare, immaginare",figure [to]
 "apparire, guardare, osservare, sembrare",look [to]
 "appariscente, spiccante, spiccato",striking
@@ -3869,7 +3869,7 @@ appena svezzato,weanlig
 "appena, appena",only just
 "appena, novellino, recentemente",freshly
 appendere con spilli,pin up [to]
-"appendere, appiccare, bloccarsi [Comp.], impallarsi, impiccare, pendere, vertere",hang [to]
+"appendere, appiccare, bloccarsi , impallarsi, impiccare, pendere, vertere",hang [to]
 "appendice, appendice, completamento, completamento",appendix
 appendicectomia,appendectomy
 appendicite,appendicitis
@@ -3898,7 +3898,7 @@ appiattire,flatten [to]
 "appiccare, caduta, destrezza, inclinazione, pendere, senso, vertere",hang
 "appiccicare, ficcare",stick [to]
 "appiccicaticcio, appiccicoso, glutinoso, glutinoso",sticky
-"appiccicoso, appiccicoso, pasticcio [Cul.], scialbo",pasty
+"appiccicoso, appiccicoso, pasticcio , scialbo",pasty
 "appiccicoso, che mostra le gengive, gommoso",gummy
 appigliarsi,follo
 appigliarsi,get hold of
@@ -4089,7 +4089,7 @@ arbitrato,arbitrateed
 "arbitro, arbitro",arbitrator
 "arbitro, arbitro",referee
 "arbitro, arbitro",umpire
-"arbitro, giudicare, giudice, giudice, intenditore, volere (lett.)",judge
+"arbitro, giudicare, giudice, giudice, intenditore, volere",judge
 "arboreo, arboricolo",arboreal
 arboricoltore,arboriculturist
 arboricoltura,arboriculture
@@ -4118,17 +4118,17 @@ archetipo,archetype
 archeòlogo,archeologist
 archi,arcs
 archibugio,arquebus (hist. firearm)
-"archipendolo [Dis.], archipenzolo [Dis.]",plumb rule
+"archipendolo , archipenzolo",plumb rule
 "architettare, pianificare, progettare, programmar",plan [to]
 "architettare, progettare",engineer [to]
 architetto,architect
 architettonico,architectonic
 architettura,architecture
-architrave [Arch.],lintel
+architrave,lintel
 "archiviare, classificare",pigeonhole [to]
 "archiviare, limare, schedare, sfilare",file [to]
 "archivio, archivio",archive
-"archivio, banca dati [Comp.], confident",repository
+"archivio, banca dati , confident",repository
 archivista,archivist
 archivistica,archive-keeping
 archivistico,archival
@@ -4145,7 +4145,7 @@ arciprete,archpriest
 arcivescovado,archbishopric
 arcivescovile,archiepiscopal
 arcivescovo,archbishop
-"arco a sesto acuto [Arch.], bisturi [Med.]",lancet
+"arco a sesto acuto , bisturi",lancet
 "arco della vita, durata della vita, stare, vita",lifetime
 arco lungo [inglese],longbow
 "arco, emiciclo",arc
@@ -4170,12 +4170,12 @@ ardessa,were to burn (= ardesse)
 "ardire, osare",dare [to]
 ardisci,you dare (cf ardire)
 "ardito, ardito, coraggioso",intrepid
-"ardito, audace, coraggioso, grassello, grassetto [Tip.], spavaldo",bold
+"ardito, audace, coraggioso, grassello, grassetto , spavaldo",bold
 "ardore, ardore, barlume, barlume",glow
-"ardore, ardore, batteria [Sport.], caldo, calore, calore, calore, riscaldare",heat
+"ardore, ardore, batteria , caldo, calore, calore, calore, riscaldare",heat
 "ardore, entusiasmo, entusiasmo",ardor
 "arduo, faticoso, faticoso, faticoso",arduous
-"area delimitata, circoscrizione [Amer.]",precinct
+"area delimitata, circoscrizione",precinct
 area di servizio,service-station
 "area, area, campale, campo, campo, quadretto, quadretto, settore, territorio, territorio",field
 "area, area, compartimento, compartimento, dipartimento",department
@@ -4188,9 +4188,9 @@ area di servizio,service-station
 arenaceo,arenaceous
 arenaria,sandstone
 "arenarsi, incagliare",strand [to]
-arene (poet.),arenas
-arene (poet.),shores
-"arene (poet.), rena",sands
+arene,arenas
+arene,shores
+"arene , rena",sands
 "arenoso, biondo, sabbioso",sandy
 areometro,areometer
 "aresto, arresto, detenzione, detenzione, prigionia",imprisonment
@@ -4206,7 +4206,7 @@ argentifero,argentiferous
 "argentino, Argentino",Argentine
 "argento vivo, argento vivo, mercurio",quicksilver
 "argento vivo, mercurio",mercury
-argentum [Chim.],AG
+argentum,AG
 "argilla, argilla, creta",clay
 "argilla, terra fertile, terriccio",loam
 argilloso,clayey
@@ -4225,7 +4225,7 @@ argo,argon
 "argomentare, chiudere, intimo, ostruire, presso, prossimo, stretto, vicino",close
 "argomentare, chiudere, ostruire",close [to]
 argomentazione sbagliata,wrong conclusion
-"argomento [di giornale], artìcolo, artìcolo, capo, voce [Comp.]",item
+"argomento [di giornale], artìcolo, artìcolo, capo, voce",item
 "argomento, argomento",arg
 "argomento, tema, tema, volume",topic
 argonauta,argonaut
@@ -4272,13 +4272,13 @@ armadio della biancheria,linen cupboard
 "armadio, guardaroba, vestiario, vestiario",wardrobe
 armaiolo,gunsmith
 "armamentario, attrezzi",paraphernalia
-"armamenti, ferramenta, macchine [Comp.]",hardware
+"armamenti, ferramenta, macchine",hardware
 "armamento, armamento",armament
 "armamento, armamento, armatura, corazza",armor
 "armamento, armamento, corazza, corazza",armour
 "armare, attrezzare, corredare, dotare, equipaggiare",equip [to]
 "armare, munire, rifornire",arm [to]
-"armata [Mil.], gran numero, ospitante, ospitante, ospite, oste, ostia consacrata",host
+"armata , gran numero, ospitante, ospitante, ospite, oste, ostia consacrata",host
 "armata, armata, castrense, esercito, esèrcito",army
 "armata, armato, armato",armed
 armato,weapond
@@ -4412,7 +4412,7 @@ arricciare [di capelli],frizz [to]
 arricciato,goffered
 arricciatura,curling
 arridere,smile on [to]
-"arringa, discorso, domicilio, indirizzare, indirizzo, indirizzo [Comp.], nominativo, rivolgere la parola",address
+"arringa, discorso, domicilio, indirizzare, indirizzo, indirizzo , nominativo, rivolgere la parola",address
 "arringa, sproloquio",harangue
 arringare,harangue [to]
 "arringare, indirizzare, mirare a, prendere di mira, rivolgere la parola",address [to]
@@ -4474,7 +4474,7 @@ arroventare,make red-hot [to]
 arruffato,dishevelled
 arruffato,tousles
 arruffato,tousy
-arruffato [Amer.],disheveled
+arruffato,disheveled
 "arruffato, scapigliato, spiegazzato",ruffled
 arrugginire,rust [to]
 arrugginire,rusting
@@ -4482,7 +4482,7 @@ arrugginire,rusting
 arrugginito,rusts
 "arrugginito, arrugginito",rusted
 "arruolamento, ferma, ingaggio, servizio di leva",enlistment
-"arruolare [Mil.], esaltare, imporre [un tributo], reclutare [Mil.], tributo",levy
+"arruolare , esaltare, imporre [un tributo], reclutare , tributo",levy
 "arruolare, bagarino, informatore",tout
 "arruolare, chiamare sotto le armi, coscrivere",conscript [to]
 "arruolare, corteggiare",woo
@@ -4620,12 +4620,12 @@ ascoltante,listening
 ascoltatore,hearer
 "ascoltatore, ascoltatore, ascoltatore, uditore",listener
 "ascoltatore, destinatario, destinatario, radioricevente, recevitore, ricettatore",receiver
-"ascoltatore, microtelefono [Comm.]",handset
+"ascoltatore, microtelefono",handset
 "ascolto, audienza, udito",hearing
 ascorbico,ascorbic
 ascoso,= past. part. ascondere
 "ascrivere, attribuire",ascribe [to]
-"ascóndere (poet.), nascondere, nascondiglio, nascosi, pellame, pelle, posta [da caccia], riporre",hide
+"ascóndere , nascondere, nascondiglio, nascosi, pellame, pelle, posta [da caccia], riporre",hide
 asepsi,asepsis
 "asessuale, asessuato",asexual
 asettico,aseptic
@@ -4734,7 +4734,7 @@ assassino,gruellingly
 assassino (fig),seductive
 "assassino (fig), provocatorio",provocative
 "assassino, attentatore, attentatore, sghèrro, uccisore, uccisore",assassin
-"assassino, estenuante [Amer.]",grueling
+"assassino, estenuante",grueling
 "assassino, omicida, uccisore, uccisore",murderer
 "assassino, strangolatore, uccisore, uccisore",slayer
 "assassino, uccisore",killer
@@ -4782,7 +4782,7 @@ assenza di formalità,informality
 "assenziente, assenziente",approvingly
 "assenzio, assoluto, vermut",absinthe
 "assenzio, vermut, vermut",wormwood
-"asserente, predicativo [Gramm.]",predicative
+"asserente, predicativo",predicative
 asserire,allegate [to]
 asserire,insist [to
 "asserire, dichiarare",avers [to]
@@ -4820,12 +4820,12 @@ assicurai,assures
 assicurare,assure [to
 assicurare,insure
 assicurare con funi,lash down [to]
-"assicurare con una scotta, legare [Mar.]",belay [to]
+"assicurare con una scotta, legare",belay [to]
 "assicurare, assicurare, mettere al sicuro",assure
 "assicurare, cautelare",secure [to]
 "assicurare, fuorchè, immagazzinare, risparmiare, salvare, salvo (pre), serbare",save
 "assicurare, garantire",ensure [to]
-"assicurare, garantire [Amer.]",insure [to]
+"assicurare, garantire",insure [to]
 "assicurativo, assicurazione, protezione",insurance
 assicurato,safeguards
 "assicurato, assicurato",insured
@@ -4876,7 +4876,7 @@ associare,accede to
 associare,accede to [to]
 associare,associate [to]
 "associare, congiunzione, copulare, giuntare, giuntura, guarnizione, iscriversi a, legare, sè, unire, unirsi",join
-"associare, invio [Comp.], penetrare, petizione, petizione, registrazione, registrazione, somministrare",enter
+"associare, invio , penetrare, petizione, petizione, registrazione, registrazione, somministrare",enter
 associativo,associative
 "associato, unito, unito",associated
 associazione,partnership
@@ -5093,7 +5093,7 @@ atrio,entrance hall
 "atrio, atrio, salone d'albergo, salotto, salotto",lounge
 "atrio, gruppo di interesse, ingresso, lobby",lobby
 "atroce, atroce, miserrimo, tremendo, tremendo",appalling
-"atroce, atroce, orribile, ria (poet.)",dreadful
+"atroce, atroce, orribile, ria",dreadful
 "atroce, efferato, feroce",atrocious
 "atroce, straziante, tormentoso",excruciating
 atrocemente,excruciatingly
@@ -5114,7 +5114,7 @@ attaccabrighe,wrangler
 "attaccamento, attinenza, attinenza, fortificazione, fortificazione",attachment
 attaccapanni,clothes-hook
 attaccapanni,hatstand
-"attaccapanni, daga [Mil.], gancio, gruccia, gruccia, nudista, staffa, staffa, uncino",hanger
+"attaccapanni, daga , gancio, gruccia, gruccia, nudista, staffa, staffa, uncino",hanger
 "attaccar bottone a, impadronirsi di [una tecnica]",latch onto [to]
 attaccare,annex
 attaccare,append
@@ -5363,7 +5363,7 @@ autobiografia,autobiography
 autobiografico,autobiographic
 "autoblinda, autoblindo, portavalori",armored car
 "autobotte, autocisterna, motocisterna, nave cisterna",tanker
-"autobus, autobus, canale dati [Comp.], corriera, pullman",bus
+"autobus, autobus, canale dati , corriera, pullman",bus
 "autobus, omnibus",omnibus
 autocaravan,motor caravan
 "autocarro, camion, camion",truck
@@ -5409,7 +5409,7 @@ autografare,autograph [to]
 autografia,autography
 autografo,autograph
 autogrill,roadside cafe
-autogrill [Brit.],pull-in
+autogrill,pull-in
 "autogrill, cabrata, sollevamento sulle braccia",pull-up
 "autogràfico, duplicatore",duplicator
 autoguidato,selfed-direct
@@ -5556,7 +5556,7 @@ avanzo di galera,jailbird
 "avanzo, resto, rimanenza, rimanenza",remainder
 "avanzo, scampolo",remnant
 "avareggiare, avaro",stingy
-"avaria [Mar.], media, mediocrità, mediocrità",average
+"avaria , media, mediocrità, mediocrità",average
 "avaria, colpire 2., costo, detrimento, difetto, difetto, ledere, lesione, lesione, prezzo",damage
 "avariare, danneggiare",damage [to]
 avarizia,avarice
@@ -5565,10 +5565,10 @@ avaro,miser
 "avarìa, avarìa",faulty
 "avarìa, avarìa, difettoso, guasto, guasto",defective
 "avarìa, avarìa, pecca, vizio",defect
-"avea (= avevo), avea (poet.)",I have
+"avea (= avevo), avea",I have
 "avea (poet. aveva), avuto, ebbe (pret. avere)",had
 "avellano, color nocciola, nocciolo, nocciolo",hazel
-"avello (poet.), sepolcro, sepolcro",tomb
+"avello , sepolcro, sepolcro",tomb
 avemmaria,Hail Mary
 "avena, biada",oats
 "avena, biada, biada",oat
@@ -5818,7 +5818,7 @@ babirussa,pig-deer
 bacare,get worm-eaten [to]
 bacato,worm-eaten
 "bacato, capriccioso",maggotty
-"bacca, dollaro [Amer.]",berry
+"bacca, dollaro",berry
 baccalà,stockfish
 "baccanale, relativo a Bacco",Bacchic
 "baccano, brusio, casino, confusione",hubbub
@@ -5836,7 +5836,7 @@ bacchetta del rabdomante,divining rod
 "bacchettata, batosta, battuta, battuta, colpo, fendente, fendente, folata, folata, mazzata, percossa, scoppola, soffiare, soffiare, ventare",blow
 "bacchettone, baciapile, bigotto, intollerante, paolotto, pinzochera",bigot
 bacciforme,berry-shaped
-"bacello, carena [Mar.], mallo [di noce], scafo [Mar.], torso",hull
+"bacello, carena , mallo [di noce], scafo , torso",hull
 "bacetto, beccata",peck
 bacheca,showcase
 bachelite,bakelite
@@ -5933,7 +5933,7 @@ baldanzoso,uppity
 "baldanzoso, baldo",self-confident
 baldoria,noisy fun
 "baldoria, raduno di scout",jamboree
-"baldracca [Amer.], prostituta [Amer.], puttana [Amer.], troia [Amer.]",hooker
+"baldracca , prostituta , puttana , troia",hooker
 "baldracca, cagna, donnaccia, lupa, puttana",bitch
 "baldracca, prostituta, prostituta, puttana",whore
 balena,whale
@@ -5959,7 +5959,7 @@ balistico,ballistic
 ballai,danced
 "ballare, danzare",dance [to]
 "ballerina, ballerino",dancer
-"ballerine [delle scarpe], scarpe da ginnastica [Brit.]",pumps [pl]
+"ballerine [delle scarpe], scarpe da ginnastica",pumps [pl]
 "ballettistico, balletto",ballet
 ballista,tall story teller
 "ballo, luppolo, saltello, salto, scappata [con l'aereo]",hop
@@ -5987,7 +5987,7 @@ balteo,baldric
 "balzato, saltato",jumped
 balzello,unjust tax
 balzo,tittup
-"balzo, bettola [Amer.], bisca [Amer.], mi tuffo, picchiata, tuffo",dive
+"balzo, bettola , bisca , mi tuffo, picchiata, tuffo",dive
 "balzo, lancio, rinvio, saltare, saltellare, salto, salto, spingare (or springare)",jump
 "balzo, saltare, salto",leap
 "balìa, balìa, corpo militar, costrizione, costrizione, effetto, forza, obbligare, vigente",force
@@ -6049,7 +6049,7 @@ banco di ghiaccio,floe
 banco di ghiaccio,ice floe
 "banco di sabbia, secca",sand bank
 banco informazioni,information desk
-"banco, classe [Brit.], etichetta, foggiare, forma, forma, forma fisica, formare, formare, formulario, mentalità, modulo, modulo, plasmare, plasmare",form
+"banco, classe , etichetta, foggiare, forma, forma, forma fisica, formare, formare, formulario, mentalità, modulo, modulo, plasmare, plasmare",form
 bancogiro,bank clearing
 bancomat,automatic teller
 "bancone, numeratore, numeratore",counter
@@ -6058,7 +6058,7 @@ banda cittadina,citizen's band
 "banda, bandistico, benda , cappella, cappella, fettuccia, fettuccia",band
 "bandella, cardine, cerniera, perno",hinge
 bandiera (fare ~),win (a race)
-"bandiera, stendardo, stendardo, vessillo (poet.)",flag
+"bandiera, stendardo, stendardo, vessillo",flag
 "bandiera, stendardo, striscione",banner
 "bandierina a coda di rondine, guidone",burgee
 bandinella,roller towel
@@ -6132,7 +6132,7 @@ barca a vela,sailing boat
 barcaccia,stage boat
 barcaiolo,waterman
 "barcaiolo, battelliere",boatman
-"barcarizzo [Mar.], corridoio, corsia, corsia, passerella",gangway
+"barcarizzo , corridoio, corsia, corsia, passerella",gangway
 barcarola,barcarole
 barcata,boat-load
 barcheggio,boating
@@ -6174,7 +6174,7 @@ barista,pub-keeper
 barite,baryta
 "baritonale, baritono",baritone
 barlume,dim light
-"barlume, barlume, lucere (poet.)",gleam
+"barlume, barlume, lucere",gleam
 "barlume, emettere, lampo, raggio, raggio, razza",ray
 "barlume, guizzo, lampo, sfavillare, svolazzare, vacillare",flicker
 barnabita,Barnabite
@@ -6194,7 +6194,7 @@ baronessa,baroness
 baronetto,baronet
 baroscopio,baroscopy
 barostato,barostat
-"barra [Mar.], tassa, timone [Mar.]",helm
+"barra , tassa, timone",helm
 "barra, bastone, bastone, ficcare, incollare, stecca",stick
 "barra, binario, binario, rotaia, rotaia, traversa",rail
 "barra, sbarra, sbarrare, sbarrare, spranga (f), verga, verga",bar
@@ -6223,7 +6223,7 @@ basare,base [to]
 base dati,date base
 "base, base",basis
 "base, base, basico, basilare",basic
-"base, base, fanteria [Mil.], gamba, gamba, piè (poet. = piede), piede, zampa, zampa",foot
+"base, base, fanteria , gamba, gamba, piè (poet. = piede), piede, zampa, zampa",foot
 "base, base, fondamenta, fondamento, fondazione, fondazione, istituzione, sottofondo",foundation
 "base, base, impalcatura, intelaiatura, intelaiatura",scaffolding
 "base, fondamento",groundwork
@@ -6240,7 +6240,7 @@ basilissa,byzantine empress
 basista,finger woman
 "bassa [di terra], pianura",lowland
 "bassa, bassa marea, riflusso",low tide
-"bassa, bassa, calcare (v.i.), riflusso, tramonto",ebb
+"bassa, bassa, calcare , riflusso, tramonto",ebb
 "bassa, bassa, marea, marea",tide
 "bassarisco, civetta, zibetto",civet
 "bassezza, depressione, fondo, gravità [di suono], tono basso [di voce]",lowness
@@ -6289,7 +6289,7 @@ battagliare,battle [to]
 battagliero,bellicose
 battaglione,battalion
 "battelliere, battelliere",atman
-battello faro [Mar.],lightship
+battello faro,lightship
 "battente [di porta], falda, falda, foglia, fogliame, foglio, lamina sottile, pagina [di libro], prolunga [di tavolo], sfogliare",leaf
 "battente, battente",wing of a door
 battere,detonate
@@ -6350,7 +6350,7 @@ battito,pit-a-pat
 "battito, legumi [pl], polso, polso, pulsazione",pulse
 "battito, palpito",heartbeat
 "battito, scommessa, svolazzare",flutter
-"battitoia [Tip.], piallatore, piallatrice",planer
+"battitoia , piallatore, piallatrice",planer
 "battitoio, salcio, salice",willow
 battitore,beater
 battona,streetwalker
@@ -6399,8 +6399,8 @@ beccaccia,woodcock
 "beccatello, peduccio",bracket
 beccatoio,seedtray
 beccheggiare,stomp
-"beccheggiare [Mar.], gettare, intonare, scagliare",pitch [to]
-"beccheggio [Mar.], bitume, campo sportivo, lancio, pece, timbro [di voce], tiro",pitch
+"beccheggiare , gettare, intonare, scagliare",pitch [to]
+"beccheggio , bitume, campo sportivo, lancio, pece, timbro [di voce], tiro",pitch
 "beccheggio improvviso, difficoltà, rollio improvviso, sbandamento",lurch
 "beccheria, macelleria, macelleria",butcher's shop
 becchettare,peck rapidly [to]
@@ -6460,7 +6460,7 @@ bello (nel piu ~ che),just when
 bello (nel piu ~),just then
 "bello [di uomo], cortese, di bell'aspetto, lauto",handsome
 "bello, bene, bravo, buono, buono, correttezza, piacevole, utile, valido, vantaggio, virtù",good
-"bello, fantastico, funky [Mus.]",funky
+"bello, fantastico, funky",funky
 "bello, magnifico, stupendo",beautiful
 belloccio,fairly good-looking
 "belluino, bestiale",beastly
@@ -6480,7 +6480,7 @@ benamato,well-loved
 benda,blindfold
 benda,fillet
 "benda , bendatura, bendatura, brachiere (m), fascia, fascia, fasciatura, fasciatura",bandage
-benda di terzarolo (mar.),reef-band
+benda di terzarolo,reef-band
 "bendaggi, cassetta di medicazione",first-aid kit
 bendaggio,handwraps
 "bendaggio, bendatura",bandaging
@@ -6513,7 +6513,7 @@ beneducato,well-mannered
 benefattore,benefactor
 beneficenza,beneficence
 beneficiario,beneficiary
-"beneficio [Eccl.], vita, vivente, vivo, vivo",living
+"beneficio , vita, vivente, vivo, vivo",living
 "beneficio, convenienza, guadagno, guadagno, profitto, utile, vantaggio, vantaggio",advantage
 "beneficio, giovamento, guadagnare, guadagno, guadagno, utilità",benefit
 benefico,beneficial
@@ -6561,7 +6561,7 @@ benzina,benzine
 "benzina, benzina",gasoline
 "benzina, benzina",petrol
 "benzina, benzina, gas",gas
-"benzina, succo, succo, sugo [Cul.]",juice
+"benzina, succo, succo, sugo",juice
 benzinaio,service-station attendant
 "benzoico, estratto di benzoina",benzoic
 benzoile,benzoyl
@@ -6619,7 +6619,7 @@ beuta,flask
 bevanda alcolica,liquor
 "bevanda alcolica, inebriante",intoxicant
 bevanda alcoolica,tipple
-"bevanda, beveraggio [arc.], bibita",beverage
+"bevanda, beveraggio , bibita",beverage
 bevande,potables
 "bevande, bibite",potables [pl]
 bevatrone,bevatron
@@ -6727,7 +6727,7 @@ biella,connecting rod
 biennio,biennium
 bieticoltura,beet growing
 bietola,swiss chard
-"bietta, chiave, chiave, chiave [Mus.], legenda, tasto",key
+"bietta, chiave, chiave, chiave , legenda, tasto",key
 "bietta, cuneo, cùneo, mania, zeppa",wedge
 bifamiliare,birelative
 bifase,bi-phase
@@ -6783,7 +6783,7 @@ bilancia dei pagamenti,balance of payments
 "bilanciato, equilibrato",balanced
 bilancino,splinter-bar
 "bilancio, governo della casa, governo della casa",budget
-bilarzia [Med.],bilharzia
+bilarzia,bilharzia
 "bilaterale, bilatero",bilateral
 bile,gall
 biliardino,bagatelle table
@@ -6799,7 +6799,7 @@ bilobato,bilobate
 bilobo,bilobe
 bilocazione,bilocation
 bimano,bimanal
-"bimba, pornografico [Amer.]",girlie
+"bimba, pornografico",girlie
 bimbetto,tot
 bimbo idiota,oaf
 bimensile,semimonthly
@@ -6815,7 +6815,7 @@ binario,rails
 "binario, ferrovia, ferroviario, orbita",railroad
 "binatrice, duplicatore",doubler
 "binatura, raddoppio",doubling
-"binda, boccino, cric, cricco, fante [Gio.], jack [Comm.], martinetto, spina, spina telefonica",jack
+"binda, boccino, cric, cricco, fante , jack , martinetto, spina, spina telefonica",jack
 binocolo,binoculars [pl]
 "binoculare, con due lenti, con due occhi",binocular
 binomio,binomial
@@ -7133,7 +7133,7 @@ box [per bambini],playpen
 bozza,rough draft
 "bozza, complemento, lettera di cambio, tiraggio, tratta",draft
 bozzettista,sketcher
-"bozzetto [Tip.], disposizione, impaginazione [Tip.], pianta [di città], schema, sistemazione, tracciato [Comp.]",layout
+"bozzetto , disposizione, impaginazione , pianta [di città], schema, sistemazione, tracciato",layout
 bozzolo,cocoon
 "braccare, inseguire, perseguitare",hound [to]
 braccetto (a ~),arm in arm
@@ -7167,7 +7167,7 @@ brama di vendetta,thirst for revenge
 "brama, desiderio ardente",craving
 bramai,longed
 bramare,hanker for [to]
-"bramare, desiare (poet.), desiderare, desiderio, desio (poet.), esìgere, voto, voto",desire
+"bramare, desiare , desiderare, desiderio, desio , esìgere, voto, voto",desire
 "bramare, desiderare",desire [to]
 "bramare, intagliare, scongiurare",crave [to]
 bramino,Brahman
@@ -7187,14 +7187,14 @@ brandire,wave about
 "brandire, ondeggiamento, vibrare",oscillate
 brano musicale,piece of music
 "brano, compendio, passo scelto",excerpt
-brasato [Cul.],potroast
+brasato,potroast
 "brasiliano, Brasiliano",Brazilian
 "bravaccio, mercenario, sghèrro",hired ruffian
 "bravata, scoppio d'ira, sfuriata",bluster
 "bravo (m), scherano",cut-throat
 "bravo, coraggioso, coraggioso, prode (adj), valoroso, valoroso",brave
 "bravo, esperto, esperto, furbo, furbo, lesto, lesto, saggio, saggio, savio, sveglio, sveglio",clever
-"breccia, buca [Sport.], buco, foro, fossa, tana",hole
+"breccia, buca , buco, foro, fossa, tana",hole
 "breccia, pietrisco",rubble
 "breccia, rottura, squarcio",breach
 "bretella, chi si alza, montante",riser
@@ -7244,7 +7244,7 @@ brillante,splendit
 "brillante, risplendentemente",refulgently
 "brillantezza, brunire, créscere, lucentezza",polish
 brillare di aureola,halo [to]
-"brillare, fulgere (poet.), lucere (poet.), raggiare, rilucere, risplendere, splendere, splendore",shine
+"brillare, fulgere , lucere , raggiare, rilucere, risplendere, splendere, splendore",shine
 "brillare, scintillare",glitter [to]
 "brillare, splendere",shine [to]
 brillo,tipsy
@@ -7317,8 +7317,8 @@ brusio,noise of many voices
 "brutalità, brutalivà",rawness
 "brutalità, brutalivà, brutalivà",brutality
 "brutalmente, grezzo",ruffianly
-"bruttino [Amer.], casalingo, domestico",homely
-"brutto, cattivo, cattivo, difettoso, fatto male, incapace, inesperto, maligno, malvagio, ria (poet.), scadente",bad
+"bruttino , casalingo, domestico",homely
+"brutto, cattivo, cattivo, difettoso, fatto male, incapace, inesperto, maligno, malvagio, ria , scadente",bad
 "brutto, laido, laido",ugly
 "brutto, orrido",horrid
 "brìscola, brìscola",trump
@@ -7406,7 +7406,7 @@ buttafuori,jockey pole
 "buttar dentro, obiettare",throw in [to]
 buttar via,throw away [to]
 buttare,redound
-"buttare fuori, foco (fuoco), fuoco, incendio, incendio, sparare, stufa, tiro [Mil.]",fire
+"buttare fuori, foco (fuoco), fuoco, incendio, incendio, sparare, stufa, tiro",fire
 "buttare fuori, infiammare, lanciare [razzo], sparare",fire [to]
 "buttare fuori, insaccare",sack [to]
 "buttare fuori, licenziare, sacco, sacco",sack
@@ -7429,7 +7429,7 @@ cabalista,cabalist
 cabalistico,cabalistic
 "cabaret, cabaret, cabarettistico",cabaret
 "cabaret, locale notturno",nightclub
-"cabina telefonica [Brit.], chiosco, edìcola",kiosk
+"cabina telefonica , chiosco, edìcola",kiosk
 "cabina telefonica, cabina telefònica",phone box
 "cabina telefònica, cabina telefònica",callbox
 "cabina, cabina, cabina, capanna, capanna",cabin
@@ -7445,7 +7445,7 @@ cabotiero,coasting vessel
 "cabrare, fermarsi [di veicolo]",pull up [to]
 cacao,cocoa
 caccia,hunting
-"caccia [Mil.], lottatore, lottatore",fighter
+"caccia , lottatore, lottatore",fighter
 caccia alla balena,whaling
 caccia alla volpe,fox hunting
 "caccia, caccia, cacciare",hunt
@@ -7508,7 +7508,7 @@ caducità,lapsing
 caduco,short-lived
 caduta dei capelli,loss of hair
 "caduta di testa, tuffo",header
-"caduta prodiera [Mar.], inferitura [Mar.], orzata [Mar.]",luff
+"caduta prodiera , inferitura , orzata",luff
 "caduta, collasso, crollare, crollo, fallimento, stramazzare",collapse
 caffe-concerto,caffe-concert
 caffeina,caffein
@@ -7528,7 +7528,7 @@ cagionante,effectuating
 "cagionare, causare",cause [to]
 "cagionare, esacerbare, provocare, suscitare",provoke [to]
 cagionato,causes
-"cagionevole, delicato, elegante, elegante, esile, esile, fine, fragile, frale (poet.)",delicate
+"cagionevole, delicato, elegante, elegante, esile, esile, fine, fragile, frale",delicate
 cagliaritano,inhabitant of Cagliari
 "cagliata, giuncata",curd
 cagliato,curdled
@@ -7545,7 +7545,7 @@ caicco,caique
 caimano,cayman
 cairota,inhabitant of Cairo
 cal (non ~ doman),don't care about tomorrow
-"cala, grotta, guscio [Arch.], insenatura",cove
+"cala, grotta, guscio , insenatura",cove
 calabrese,calabrian
 calabrone,hornet
 "calabrone, calabrone",bumblebee
@@ -7569,7 +7569,7 @@ calandrare,calender [to]
 calare (barbari calarono in),barbarians overran (eg Italy)
 calare 2.,fall off;
 calare 2.,set (sun etc); diminish
-"calare 2., calcare (v.i.), declino, disfacimento, involuzione, rifiutare, rifiutare",decline
+"calare 2., calcare , declino, disfacimento, involuzione, rifiutare, rifiutare",decline
 calare 3,descend (upon)
 calare 3,fall (upon)
 "calare, discéndere, piombare",descend [to]
@@ -7578,15 +7578,15 @@ calato,decreased
 "calca, calca, compressione, inceppamento, ingorgo [del trafficco], marmellata, marmellata, pasticcio",jam
 calcagnuolo,skeg
 "calcara, fornace da calce",limekiln
-calcare (v.i.),draw in
-"calcare (v.i.), intristire",droop
-calcare (v.t.),strike (sails)
+calcare,draw in
+"calcare , intristire",droop
+calcare,strike (sails)
 calcare le scene,go on stage
 calcare le scene,tread the boards (theat.)
 "calcare, calcareo",limestone
 "calcareo, calcareo",lime like
 "calcatoio, scovolo",ramrod
-"calce, calcinosi [Med.], lime , tiglio",lime
+"calce, calcinosi , lime , tiglio",lime
 calcedonio,calcedony
 "calciare, dar calci, sgambettare",kick [to]
 calciatore,soccer player
@@ -7602,7 +7602,7 @@ calcinare,calcine [to]
 calcinato,calcined
 calcinoso,limy
 calcio d'inizio,kickoff
-calcio di punizione [Sport.],free kick
+calcio di punizione,free kick
 "calcio, calcio, emozione, pedata, pedata, scoppola, sgambettare",kick
 "calcio, calcio, sgambetto",coup de pied
 "calcio, calcistico, pallone, pallone",soccer
@@ -7797,7 +7797,7 @@ camera blindata,strong room
 camera d'aria,inner tube
 "camera d'aria, pallone gonfiato, soffio, soffio, vescica, vescica",bladder
 camera degli ospiti,guestroom
-camera di sicurezza [Amer.],lockup
+camera di sicurezza,lockup
 "camera privata, càmera privata",private room
 "camera, camera",chamber
 camerata,comrade
@@ -8012,10 +8012,10 @@ cantina,wine shop
 "cantina, enoteca",wine cellar
 cantiniere,cellarer
 "canto funebre, nenia",dirge
-canto gregoriano [Mus.],plainsong
+canto gregoriano,plainsong
 canto popolare,yankeedoodle
 "canto popolare, canto popolare",folk song
-"canto, canzone, romanza (music.)",song
+"canto, canzone, romanza",song
 cantonale,cantonal
 cantone (m),canton
 cantone (m),corner (of a room)
@@ -8060,7 +8060,7 @@ capanno,bathhouse
 "caparbio, ostinato",hard-headed
 "caparbio, pertinace (adj), testardo",stubborn
 "caparra, cauzione, depositare, incluso, pagare, versamento",deposit
-"capeggiare, colpire di testa [Sport.], dirigersi, puntare",head [to]
+"capeggiare, colpire di testa , dirigersi, puntare",head [to]
 capelli,locks [pl]
 "capelli crespi, polizia, pula",fuzz
 "capelli, capelli, capello, capello, chiom, chioma, pelame, pelo, pettinante, pettinante",hair
@@ -8106,7 +8106,7 @@ capo (dal ~ alle piante),from head to toe
 "capo, capo, datore di lavoro, ditta, ditta",employer
 "capo, capo, imprenditore, imprenditore",boss
 "capo, capoccia, promontorio, testa, testata, unit",head
-"capo, condottiero, duce, guida, guida, leader , primo violino [Mus.]",leader
+"capo, condottiero, duce, guida, guida, leader , primo violino",leader
 capobanda,ringleader
 "capocameriere, capocameriere",head waiter
 "capocameriere, capocameriere",headwaiter
@@ -8133,7 +8133,7 @@ capostazione,station master
 "capostipite, prototipo",prototype
 "capotta, cofano",cowling
 capoufficio,head clerk
-"capoverso rientrato [Tip.], dentellatura, tacca",indent
+"capoverso rientrato , dentellatura, tacca",indent
 capovolgere,turn over [to]
 "capovolgere, invertire, rivoltare",invert [to]
 "capovolgimento, inversione, ritorno, rovesciamento",reversal
@@ -8149,11 +8149,11 @@ cappelliera,hatbox
 cappello (far di ~),raise one's hat (in greeting)
 "cappello di feltro, feltro, sentii",felt
 cappero,caper
-"cappio, ciclo [Comp.], giro della morte [Aer.], nodo scorsoio, occhiello metallico, passante",loop
+"cappio, ciclo , giro della morte , nodo scorsoio, occhiello metallico, passante",loop
 cappone,capon
-"cappotta, cappotta, cappuccio, cappuccio, cofano, cofano [Amer.], cuffia, cuffia, pappafico",hood
+"cappotta, cappotta, cappuccio, cappuccio, cofano, cofano , cuffia, cuffia, pappafico",hood
 "cappotta, cappotta, cima, coffa, culmine, cùlmine, fermatura, principio, principio, sommità, sommo, su, sù",top
-cappotto pesante [Mil.],greatcoat
+cappotto pesante,greatcoat
 "cappotto, giaccone, pelle, pelle, strato, strato",coat
 "cappotto, pastrano, soprabito, zimarrone",overcoat
 cappuccino,white-coffee
@@ -8187,13 +8187,13 @@ caramella,toffee
 "caramella fondente, pettinante",fudge
 "caramella, caramella",candy
 caramello,caramel
-carato [Amer.],karat
+carato,karat
 "carato, carato",carat
-carattere corsivo [Tip.],italic type
+carattere corsivo,italic type
 carattere irascibile,quick temper
-"carattere romano [Tip.], romano",Roman
+"carattere romano , romano",Roman
 "carattere runico, runa",rune
-"carattere, copia [Fot.], impronta, marchio, matrice, orma, segno, stampa, stampo",print
+"carattere, copia , impronta, marchio, matrice, orma, segno, stampa, stampo",print
 "carattere, indole, indole, natura",nature
 "carattere, iscrizione, iscrizione, titolo",lettering
 "carattere, simbolo, simbolo",char
@@ -8239,7 +8239,7 @@ carcerare,lock away [to]
 "carcere minorile, riformatorio",reformatory
 "carcere, carcere",oubliette
 "carcere, càrcere, prigione, prigione, reclusorio",prison
-"carcere, galera, pria (poet.), prigione, prigione",jail
+"carcere, galera, pria , prigione, prigione",jail
 "carceriere, secondino",jailer
 carciofo,artichoke
 "carda, pettinare, pettine, pettine, striglia",comb
@@ -8267,12 +8267,12 @@ carenatura,fairing
 "carezza, carezza",fondling
 "cariato, farabutto, in malo modo, malamente, pigro",rottenly
 carica,loads
-"carica [Elettr.], caricato, carico, peso, pondo, pressione [Mecc.], soma, tensione [Elettr.]",load
+"carica , caricato, carico, peso, pondo, pressione , soma, tensione",load
 "carica, ente, ente, impiego, inserire, località, loco (=luogo), luogo, mettere, mettere, posto, posto, posto di lavoro, sito 2., spazio, ufficio",place
 caricare,weight down [to]
 "caricare [armi], innescare",prime [to]
 "caricare, noleggiare, trasportare",freight [to]
-"caricato, caricato, impiombato, ricco, subdolo, ubriaco [Amer.]",loaded
+"caricato, caricato, impiombato, ricco, subdolo, ubriaco",loaded
 caricatore,loader
 caricatura,cartoon
 carico [di nave],lading
@@ -8283,7 +8283,7 @@ carico [di],laden
 "carie, carie",tooth decay
 "carie, intristire",decay
 carillon,musical box
-carillon [Amer.],music box
+carillon,music box
 "carino, civettuolo, civettuolo, leggiadro, vano, vano, vezzoso",pretty
 carismatico,charismatic
 caritatevole,humane
@@ -8309,9 +8309,9 @@ carnoso,meaty
 "caro, caro, diletto (adj), egregio, salato",dear
 carola,carol
 carola,round dance (with song)
-"carota [Geol.], nocciolo, nocciolo del reattore [Fis.], nucleare, nucleo, torsolo",core
+"carota , nocciolo, nocciolo del reattore , nucleare, nucleo, torsolo",core
 "carota, carota corta",carrot
-"carotare [Geol.], togliere il torsolo",core [to]
+"carotare , togliere il torsolo",core [to]
 "carovana, roulotte, roulotte",caravan
 carovita,cost of living
 carpenteria,carpentry
@@ -8437,11 +8437,11 @@ caso (guarda ~),as chance would have it
 caso (per ~),by chance
 "caso che, come se, come se, se, se",if
 caso speciale,outlier
-"caso, istanza [Comp.], istanza [Leg.], richiesta",instance
+"caso, istanza , istanza , richiesta",instance
 casotto,booth
 "casotto, ritrovo",hangout
 caspita,golly
-caspita [Amer.],gee
+caspita,gee
 "caspita, cavoli",gosh
 cassa ammalati,health insurance
 cassa ammalati,health insurance company
@@ -8459,7 +8459,7 @@ cassetta postale,mail box
 "cassetta postale, cassetta postale",letter box
 "cassetta postale, cassetta postale",mailbox
 "cassetta postale, cassetta postale",pillar box
-"cassetta postale, corrispondenza, obiettare, palo, palo, posta, posta, postazione [Mil.], puntello, servizio postale, stanga, stanga",post
+"cassetta postale, corrispondenza, obiettare, palo, palo, posta, posta, postazione , puntello, servizio postale, stanga, stanga",post
 cassettino,caskets
 "cassettino, scatoletta",small box
 cassetto segreto,hidden safe
@@ -8511,9 +8511,9 @@ catalisi,catalysis
 catalitico,catalytic
 catalizzare,catalyze [to]
 catalogare,catalogue [to]
-"catalogare, elencare, listare, numerare, sbandare [Mar.]",list [to]
+"catalogare, elencare, listare, numerare, sbandare",list [to]
 "catalogo, catàlogo",catalogue
-"catalogo, elenco, lista, listino, numerare, registro, registro, sbandamento [Mar.]",list
+"catalogo, elenco, lista, listino, numerare, registro, registro, sbandamento",list
 catamarano,catamaran
 catapecchia,jeryhouse
 catapecchia,ramshackle hut
@@ -8578,7 +8578,7 @@ caucciù,indiarubber
 "caucciù, gomma per cancellare",India rubber
 "caudale, coda, coda",tail
 caudato,tailed
-"causa [Leg.], procedimento, procedimento legale",lawsuit
+"causa , procedimento, procedimento legale",lawsuit
 "causa concomitante, concausa",concomitant cause
 "causa determinante, determinativo, determinativo",determinant
 "causa, origine, radice, radice",root
@@ -8648,7 +8648,7 @@ cavolfiore,cauliflower
 cavolo bianco,white cabbage
 cavolo verde,kail
 "cavolo, càvolo",cabbage
-"cazzare [Mar.], tirare",haul [to]
+"cazzare , tirare",haul [to]
 cazzeggiare [volg],fuck about [to]
 cazzeggiare [volg],fuck around [to]
 "ceca, ceco",Czech
@@ -8731,13 +8731,13 @@ centesimo,hundredth
 "centesimo, centesimo",brighter
 "centesimo, centesimo",clearer
 "centesimo, centesimo, danaro (= denaro)",penny
-"centesimo, groat [Numis.]",groat
+"centesimo, groat",groat
 centiara,centiare
 centigrado,centigrade
 centigrammo,centigram
 centilitro,centiliter
 "centimetro, centìmetro, centìmetro",centimeter
-"centina [Aer.], costa [Mar.], costola, còstola, stecca [di ombrello]",rib
+"centina , costa , costola, còstola, stecca [di ombrello]",rib
 "centina, centrare, centro, sede",center
 centinaia,hundreds [pl]
 "centinaio, cento, cento",hundred
@@ -8765,7 +8765,7 @@ centro di Londra,City
 centro ricreativo,leisure centre
 "centro, centro",city centre
 "centro, centro, città, cittade (= cittadella), urbano, urbe",city
-"centro, mozzo [di ruota], sistema concentratore [Comp.]",hub
+"centro, mozzo [di ruota], sistema concentratore",hub
 "centro, nucleare, nucleo, nucleo cellulare",nucleus
 centroeuropeo,Central European
 centuplicare,multiply a hundredfold
@@ -8777,7 +8777,7 @@ ceppi (sing. ceppo),bonds
 ceppi (sing. ceppo),fetters
 ceppi (sing. ceppo),shackles
 "ceppo, ceppo, pezzo d'uomo",chunk
-"ceppo, ciocco, giornale di bordo [Mar.], registrare, registro [Comp.], tronco",log
+"ceppo, ciocco, giornale di bordo , registrare, registro , tronco",log
 "ceppo, immagazzinare, schiatta, titolo",stock
 "cera, cera, créscere",wax
 "ceramica, ceramiche",ceramics [pl]
@@ -8882,9 +8882,9 @@ cetra tirolese,zither
 cetriolo,cucumber
 che,whoseever
 che (a ~ scopo),what's the point of
-che (interr. pron.),What?
+che,What?
 "che (n.m), cosa, coso, materia, materia",thing
-che (rel. pron.),whom; that; which
+che,whom; that; which
 che (un gran che),a fine thing!
 "che + congunctivo, potere",may
 "che appassisce, languente",withering
@@ -8917,15 +8917,15 @@ che si insegna facilmente,teachable
 "che usa la destr, destrimano, destro [di persona]",right-handed
 che è che non è,in a moment
 che è che non è,unexpectedly
-"che, che (conj.), di",than
-"che, che, che (rel. pron.), che cosa, cosa, qual (= quale)",what
-"che, che, che (rel. pron.), chi, chi",who
-"che, che, che, che, che (conj.), ciò, codesto, di allora, il, il quale, perchè, purché, quei, quei, quello, questi, questi, questo, quite",that
+"che, che , di",than
+"che, che, che , che cosa, cosa, qual (= quale)",what
+"che, che, che , chi, chi",who
+"che, che, che, che, che , ciò, codesto, di allora, il, il quale, perchè, purché, quei, quei, quello, questi, questi, questo, quite",that
 "che, chi, cui, qual (= quale), quale",which
 "che, chiunque, quale/quale che , qualsiasi",whichever
 checca (f),(ie homosexual
 checca (f),gay
-"checca (f), fata, fata, fiaba, maga, omosessuale [Amer.]",fairy
+"checca (f), fata, fata, fiaba, maga, omosessuale",fairy
 "checca (f), omosessuale, viole del pensiero",pansy
 "checca (f), regina",queen
 checca [spreg],poof
@@ -8933,18 +8933,18 @@ checca [spreg],poof
 cheloide,cheratite
 chemioterapia,chemotherapy
 chepì,kepi
-"cherosene, paraffina [Amer.]",kerosene
+"cherosene, paraffina",kerosene
 "chetamente, chetaménte, cheticella, con calma, piano (adv), sommesso, tranquillamente",quietly
 "chetamente, chetaménte, segretamente, soppiatto",secretly
 chetare,appease
 cheticella,noiselessly
 cheticella,on the sly
-chi (rel. pn.),her whom
-chi (rel. pn.),him whom
-chi (rel. pn.),one who
-chi (rel. pn.),she who
-"chi (rel. pn.) 2, chiunque, chiunque, quale/quale che",whoever
-"chi (rel. pn.), quale (colui il ~), quello che",he who
+chi,her whom
+chi,him whom
+chi,one who
+chi,she who
+"chi  2, chiunque, chiunque, quale/quale che",whoever
+"chi , quale (colui il ~), quello che",he who
 "chi abborda, chi va all'arrembaggio, pensionante",boarder
 "chi agisce, chi fa, facente",doer
 chi batte,thrasher
@@ -9010,12 +9010,12 @@ chiaroveggenza,clairvoyance
 "chiasso, eccitazione, eccitazione, gazzarra",uproar
 "chiasso, scompiglio, sommossa",rumpus
 chiassoso,uproarious
-"chiassoso [Scoz.], eccitato [sessualmente], lascivo, lascivo",randy
+"chiassoso , eccitato [sessualmente], lascivo, lascivo",randy
 "chiassoso, clamoroso, clamoroso, rumoroso",roistering
 "chiassoso, rumoroso, secondo",noisy
 "chiassoso, urlante, urlante",screaming
 "chiatta, più leggero, zattera",scow
-chiave di volta [Arch.],keystone
+chiave di volta,keystone
 chiave inglese,monkey wrench
 "chiave, storta, strappo",wrench
 chiazza,speck
@@ -9035,7 +9035,7 @@ chiedere il bis,encore [to]
 chiedete (Voi ~),Do you really want that?
 chieggo (pres. chiedere),I ask
 chierico,acolyte
-"chiesa, chiesa [Scoz.]",kirk
+"chiesa, chiesa",kirk
 "chiesa, chiesa, tempio",church
 chiese,churches
 "chiesto, domandai, esortato",asked
@@ -9056,7 +9056,7 @@ chimerico,chimerical
 "chimico, chimico, farmacista",chemist
 "chimico, chìmico",chemical
 chimono,kimono
-"china, clivo (poet.), discesa, pendenza, pendice, pendio, pendio, pista, pista",slope
+"china, clivo , discesa, pendenza, pendice, pendio, pendio, pista, pista",slope
 "chinare, curvatura, curvatura, flessione, inchinare, piega, piegare, piegare, piegarsi, piegatura, virata",bend
 "chinare, declinazione, erta, inchinare, inclinazione, pendenza, pendio, piano inclinato, piegare",incline
 chinarsi,bend down
@@ -9122,9 +9122,9 @@ ci pensarci su,think over it
 ciambella,rubber ring
 ciambellano,chamberlain
 cianato,cyanate
-"cianfrusaglie [pl], legname [Amer.]",lumber
+"cianfrusaglie [pl], legname",lumber
 "cianfrusaglie, giunca, roba vecchia",junk
-cianite [Min.],kyanite
+cianite,kyanite
 cianogeno,cyanogen
 "cianografia, piano, programma",blueprint
 cianosi,cyanosis
@@ -9140,9 +9140,9 @@ ciarlone,chatterbox
 ciascheduno,=ciascuno
 "ciascuno, ogni, ogni, ogni, qualunque, qualunque, tutti",every
 "ciascuno, ognuno, ognuno, qualunque, qualunque",everyone
-cibaria (spec. pl.),food (uncountable)
-"cibaria (spec. pl.), commestìbili",victuals
-"cibaria (spec. pl.), provvedimento",provision
+cibaria,food (uncountable)
+"cibaria , commestìbili",victuals
+"cibaria , provvedimento",provision
 cibario (adj),food (attr.)
 cibario (adj),nutritive
 "cibario (adj), commestibile, mangereccio",edible
@@ -9225,19 +9225,19 @@ ciminiera,chimney
 "ciminiera, fumaiolo, imbuto",funnel
 cimitero,cemetary
 cimosa,selvage
-"cimurro [Vet.], tempera",distemper
+"cimurro , tempera",distemper
 "cinabro, cinabro",cinnabar
 "cinabro, cinabro, vermiglio",vermilion
 cincia barbuta,reed pheasant
 "cincia, cinciallegra",titmouse
 "cincia, cinciazzurra",tomtit
-cinema [Amer.],movies [pl]
+cinema,movies [pl]
 cinema,flicks [pl]
 "cinema, cìnematògrafo",cinema
 cinematica,cinematic
 cinematografia,cinematography
 cinematografico,cinematographic
-"cineparco [Amer.], drive-in",drive-in
+"cineparco , drive-in",drive-in
 cinepresa,cine camera
 cinepresa,cinema camera
 "cinepresa, cinepresa",cinecamera
@@ -9297,7 +9297,7 @@ circo glaciale,cirque
 "circo, circo, piazza circolare",circus
 circolante,circulating
 circolare,go around [to]
-"circolare, coniuge, consorte, nave di conserva [Mar.]",consort
+"circolare, coniuge, consorte, nave di conserva",consort
 "circolare, girare, roteare",circulate
 "circolare, rotondo, rotondo, sferico, sferico",circular
 "circolare, sferico",orbed
@@ -9358,7 +9358,7 @@ citare ad esempio,instance [to]
 "citare, encomiare",cite [to]
 citato,cites
 citazione,citation
-"citazione, citazione, coscienza decisa [Rel.]",cit
+"citazione, citazione, coscienza decisa",cit
 "citazione, citazione, preventivo [di spesa], quotazione, valore corrente",quotation
 citocromo,cytochrome
 citologia,cytology
@@ -9374,7 +9374,7 @@ cittadino,towny
 cittadino onorario,freeman
 "cittadino, concittadino",townsman
 città,town
-"ciucciotto [Amer.], pacificatore, succhiotto [Amer.]",pacifier
+"ciucciotto , pacificatore, succhiotto",pacifier
 ciuffo,forelock
 "ciurmaglia, genia, genia, turba",rabble
 civetta,flirt (fig)
@@ -9398,7 +9398,7 @@ civiltà,civilization
 "ciò che si desidera, difetto",desideratum
 "ciò, il, questi, questi, questo, questo",this
 "clacson [suono], grido dell'anatra selvatica",honk
-"clacson, cornetta, corno [di animale], corno [Mus.]",horn
+"clacson, cornetta, corno [di animale], corno",horn
 "clamore, grida, gridare, lagnanze, lamentele",clamour
 clamoroso,clamorous
 "clandestinità, segretezza",clandestineness
@@ -9445,11 +9445,11 @@ clinico,clinician
 "clinometro, inclinometro",clinometer
 "clistere, enterocnisma",enema
 clitoride,clitoris
-clivo (poet.),low hill
+clivo,low hill
 cloaca (f),sewer
 "cloaca (f), fogna",drain
 cloasma,chloasma
-"cloche, joystick [Comp.], leva di comando [di aereo]",joystick
+"cloche, joystick , leva di comando [di aereo]",joystick
 clonare,clone [to]
 clorato,chlorate
 cloridrico,hydrochlorate
@@ -9557,7 +9557,7 @@ colangite,cholangitis
 "colare, fondare, fondere, instituire",found [to]
 "colare, sforzare",strain [to]
 colata lavica,lava flow
-"colata, fusione, genere, getta, gittare (poet.), ingessatura, numero estratto, tipo, tiro",cast
+"colata, fusione, genere, getta, gittare , ingessatura, numero estratto, tipo, tiro",cast
 "colata, rubinetto, rubinetto, rubinetto, spina",tap
 "colato, sforzato, teso",strained
 colazione,breakfast
@@ -9656,7 +9656,7 @@ colonizzare,colonize [to]
 "colonna, colonna, colonnina, montante, rubrica, spaccature",column
 "colonna, colonna, pilastro, pilastro, stela",pillar
 color carne,flesh-coloured
-color carne [Amer.],flesh-colored
+color carne,flesh-colored
 "color magenta, violetto",magenta
 color malva,mauve
 "color prugna, prugna secca",prune
@@ -9731,7 +9731,7 @@ colpo rumoroso,whang
 "colpo, fendente, frustata, intaccatura, intaccatura, offesa, tagliare, tagliato, tagliato, taglio, taglio",cut
 "colpo, folata, scossa, scrollare, scuotere, sobbalzo, stratto, strattone",jolt
 "colpo, frecciata, piccare, pungere, pungiglione",sting
-"colpo, musica rap [Mus.], scapaccione",rap
+"colpo, musica rap , scapaccione",rap
 "colpo, sbattere",slam
 colposo,culpable
 "coltellata, trafiggere",stab
@@ -9771,14 +9771,14 @@ comandante,commander
 "comandare, dettare, ordinare, richiedere",dictate [to]
 "comandare, intimare",enjoin [to]
 comando,mandamus
-"comando, condurre, filo elettrico, grafite, interlinea [Tip.], mina di matita, piombo, traccia",lead
+"comando, condurre, filo elettrico, grafite, interlinea , mina di matita, piombo, traccia",lead
 "comando, dettare, dettato, dettato, dettatura",dictation
 "comando, dichiarazione, invito, precetto, precetto",bidding
 "comare, madrina [di battesimo]",godmother
 comatoso,comatose
 combattente,combatant
 combattere una faida,feud [to]
-"combattere, combattimento, combattimento, duellare, duello, litigare, litigio, lotta, lottare, picchiarsi, pugnare (poet.), zuffa",fight
+"combattere, combattimento, combattimento, duellare, duello, litigare, litigio, lotta, lottare, picchiarsi, pugnare , zuffa",fight
 "combattere, duellare, lottare",fight [to]
 "combattere, lottare",combat [to]
 combattimento,cobat
@@ -9797,10 +9797,10 @@ come mai?,how so?
 come nuovo,as good as new
 come ordinato,as directed
 "come prestabilito, ordinato",methodic
-"come se, se, sia (conj.)",whether
+"come se, se, sia",whether
 "come, come",such as
 "come, come, quanto",how
-"come, conforme a, secondo, secondo, secondo (prep.)",according to
+"come, conforme a, secondo, secondo, secondo",according to
 "come, così, dacchè (da che), quite, siccome, tanto",as
 "come, in quanto",qua
 "come, per cui, per mezzo di cui, presso al quale",whereby
@@ -9826,7 +9826,7 @@ comitiva,companyof
 "comitiva, comitiva, società, sodalizio",society
 "comizio, incontro, incontro, incontro, ritrovo",meeting
 comma,codicil
-"comma [Mus.], virgola",comma
+"comma , virgola",comma
 commando,commando
 "commedia, commèdia",comedy
 "commemorare, rimembrare",commemorate [to]
@@ -9895,7 +9895,7 @@ compagine,compages
 compagnia di assicurazione,insurance company
 "compagnia, compagnia, cùmulo, destino, fato, gruppo, gruppo, individuo, lotto [di terreno], quantità, quantità, sacco",lot
 compagno di appartamento,flatmate
-"compagno, imperfetto, incompleto, metà, metà, mezza pinta, mezzo, mezzo, mezzo doolaro [Amer.], semestre",half
+"compagno, imperfetto, incompleto, metà, metà, mezza pinta, mezzo, mezzo, mezzo doolaro , semestre",half
 compar. di far,farther
 "comparare, confrontare, paragonare",liken [to]
 "comparare, fare il comparativo di [Gram., paragonare, raffrontare",compare [to]
@@ -10004,7 +10004,7 @@ complottare,conspire [to]
 "complotto, complotto, congiura, congiura, congiurare, intreccio, parcella, trama, tramare, trescare",plot
 "complotto, congiura, congiura, cospirazione",conspiracy
 "componente, componente",component
-"componente, membra (f. col.), membro, membro, membro (pl. membri)",member
+"componente, membra , membro, membro, membro (pl. membri)",member
 comporre,compose [to]
 comporre versi,write poetry
 comporre versi,write poetry [to]
@@ -10173,7 +10173,7 @@ concludere,conclude [to]
 "concludere, stringere",clinch [to]
 "concludere, vivere fuori casa",live out [to]
 "conclusione, conclusione",conclusion
-"conclusione, emettere, emissione, esito, fascicolo, problema, prole, pubblicazione, questione, sbucare (v.int.), stirpe",issue
+"conclusione, emettere, emissione, esito, fascicolo, problema, prole, pubblicazione, questione, sbucare , stirpe",issue
 conclusivo,conclusive
 concomitante,concomitant
 "concordanza, concordanza",accordance
@@ -10269,7 +10269,7 @@ confessore,confessor
 "confezionare, fabbricare, manifattura, manufatto, prodotto",manufacture
 confezione,confection
 "confezione, guarnizione, imballaggio, imballaggio",packing
-"conficcare, incastrare, incidere [Amer.]",impact [to]
+"conficcare, incastrare, incidere",impact [to]
 "conficcare, trafiggere",jab [to]
 confidare,trust [to]
 "confidare, fidare",entrust
@@ -10389,10 +10389,10 @@ coniugazione,conjugation
 "coniuge, coniuge, consorte, consorte, marito, marito, omo, sposo, sposo",husband
 "coniuge, sposo",spouse
 connessione,linkage
-connessione [Comp.],logon
+connessione,logon
 "connessione lasca, contatto lasco",loose connection
 connesso,connected
-connettersi [Comp.],logon [to]
+connettersi,logon [to]
 connettivo,connecting
 connettore,connector
 connotare,connote [to]
@@ -10739,7 +10739,7 @@ contromisura,countermeasure
 controperizia,counter-report
 controproducente,counter-productive
 controprova,cross check
-controranda [Mar.],gaff topsail
+controranda,gaff topsail
 controrivoluzione,counter-revolution
 controspionaggio,counterespionage
 controstallia,demurrage
@@ -10831,14 +10831,14 @@ coordinatore,coordinator
 coordinazione,coordination
 "coperta, coperto, rivestito",covered
 "coperta, tappetino",rug
-"copertina di libro [Amer.], giacca, giubba, giubbotto",jacket
+"copertina di libro , giacca, giubba, giubbotto",jacket
 coperto di canne,reeded
 coperto di cardi,thistled
 coperto di stuoie,matted
 "copia a stampa, documento stampato, espressione",hard copy
 copia fotostatica,photostat
 "copia omaggio, in copia",complimentary copy
-"copia, copia, copia, copiare, riproduzione, spunto [Gior.]",copy
+"copia, copia, copia, copiare, riproduzione, spunto",copy
 "copia, imitazione",imitation
 "copia, replica, riproduzione",replica
 copiare,charge off
@@ -10869,7 +10869,7 @@ copriletto,beadspread
 coprire [uno spazio aperto],roof in [to]
 "coprire, dare copertura a, dissimulare, percorrere, ricoprire, rivestire",cover [to]
 "coprire, inondare",overspread [to]
-"coprirsi di brina, glassare [Amer.]",frost [to]
+"coprirsi di brina, glassare",frost [to]
 copritetto,roofer
 copritetto,tiler
 copro,ceilings
@@ -10887,7 +10887,7 @@ corano,Koran
 corazza,armors
 "corazza, corazza, serbatoio",tank
 "corbellare, finto, irridere, irridere, simulato",mock
-"corbellare, manifestazione, raduno, rally [Sport.], recupero [di prestazioni], ripresa",rally
+"corbellare, manifestazione, raduno, rally , recupero [di prestazioni], ripresa",rally
 corcare (= coricare),moon)
 corcare (= coricare),set or go down (sun
 "corcare (= coricare), levigare, levigare",flatten
@@ -11002,7 +11002,7 @@ corrida,bullfight
 "corridore, corridore, fattorino",runner
 "corriere, staffetta",courier
 corrispondente,correspondent
-"corrispondenti [Amer.], gionalisti accreditati",press corps [pl]
+"corrispondenti , gionalisti accreditati",press corps [pl]
 "corrispondere, essere in armonia, essere in corrispondenza, tenere un carteggio",correspond [to]
 corrisposto,corresponded
 corrispóndere,correspond
@@ -11024,7 +11024,7 @@ corrosivo,corrosive
 corroso,corroded
 "corrotto, perverso, perverso",corrupt
 corrucciare,enrage
-"corrucciare, dilacerare, martir (poet.), strazio",torment
+"corrucciare, dilacerare, martir , strazio",torment
 corrucciarsi,be enraged
 corrucciarsi,be vexed
 corrucciarsi,get into a passion
@@ -11045,7 +11045,7 @@ corsia,aisle (smarkt)
 corsia,ward
 "corsia, corsia",carriageway
 corsivo,in italics
-corsivo [Tip.],italics [pl]
+corsivo,italics [pl]
 "corso avanzato, officina, officina",workshop
 corso pratico,hands-on course
 corsìa di emergenza,hard shoulder
@@ -11118,7 +11118,7 @@ cospetto,heavens!
 "cospetto, presenza, presenza",presence
 cospicuo,cospicuous
 "cospicuo, eminente, esimio",eminent
-"cospiratore, plotter [Comp.]",plotter
+"cospiratore, plotter",plotter
 costa,seacoast
 "costa, costa, costeggiare, riviera",coast
 "costa, costa, proda (f), sponda, sponda",shore
@@ -11295,12 +11295,12 @@ crepitare,crackle [to]
 crepuscolo,twilight
 "crepùscolo, imbrunire",gloaming
 crescente,increasing
-"crescente [Rel.], falce di luna, mezza luna",crescent
+"crescente , falce di luna, mezza luna",crescent
 crescere troppo per [di abiti,grow out of [to]
 "crescere, divenire adulto",grow up [to]
 "crescere, diventare",wax [to]
 crescita,upgrowth
-"crescita, evoluzione, evoluzione, sviluppo, sviluppo, tumore [Med.]",growth
+"crescita, evoluzione, evoluzione, sviluppo, sviluppo, tumore",growth
 cresolo,cresol
 "crespo, riccio",frizzy
 "cresta, eminente",topping
@@ -11323,13 +11323,13 @@ criminologia,criminology
 crine,horsehair
 criniera,mane
 crinolina,crinoline
-"cripton [Chim.], kripton [Chim.]",krypton
+"cripton , kripton",krypton
 "crisalide, pupa",pupa
 crisi,crisis
 crisolito,chrysolite
 cristallino,crystalline
 cristallino,glassy
-"cristallino [Med.], lente, obiettivo [Fot.]",lens
+"cristallino , lente, obiettivo",lens
 cristallizzare,crystallize [to]
 cristallizzato,crystallized
 cristallizzatore,crystallizer
@@ -11353,7 +11353,7 @@ criticare,criticize [to]
 criticare,objurgate
 crittografia,cryptography
 crittogramma,cryptogram
-"crivello oscillante [Min.], giga [Mus.]",jig
+"crivello oscillante , giga",jig
 croato,Croatian
 crocchetta di pesce,fishcake
 "crocchetta, polpetta",meatball
@@ -11379,7 +11379,7 @@ crollare,fall in [to]
 "crollo dei prezzi, gran quantità",slump
 "crollo, frana, valanga di voti",landslide
 "crollo, scandalizzare, scossa, urto",shock
-croma [Amer.],eighth note
+croma,eighth note
 cromare,chromium plate [to]
 cromatico,chromatic
 cromatina,chromatin
@@ -11416,7 +11416,7 @@ cruccioso,quick-tempered
 cruciale,crucial
 cruciforme,cruciform
 "crudele, crudele",sanguinary
-"crudele, crudele, fera (poet.), selvaggio, truce",savage
+"crudele, crudele, fera , selvaggio, truce",savage
 "crudele, crudele, inumano, truce",cruel
 "crudele, disumano, disumano",inhuman
 crudeltà,inhumanity
@@ -11433,7 +11433,7 @@ cruscotto,instrument panel
 cruscotto [di auto],fascia
 "cruscotto, cruscottò",dashboard
 crédere,believe
-"crédere, pensare, riflettere, supporre, volere (lett.)",think
+"crédere, pensare, riflettere, supporre, volere",think
 "créscere, perdere la linea",put on weight
 crìtica,criticism
 crìtico,critical
@@ -11498,7 +11498,7 @@ cuore,ticker
 cuore (ridere di ~),laugh heartily
 "cuore [di città], zona centrale",heartland
 cuori,hearts
-"cuori [carte], cuori [Gioc.]",hearts [pl]
+"cuori [carte], cuori",hearts [pl]
 "cupo 2., foschi (pl. of fosco), fosco",sombre
 "cupo, cupo",cavernously
 "cupo, cupo, profondo",deep
@@ -11537,7 +11537,7 @@ curioso,curiou
 "curioso, spettatore, spettatore",onlooker
 "curioso, turista",rubberneck
 curo (non mi ~ di lui),I don't take any notice of him
-"cursore [Comp.], lancetta, lancetta",cursor
+"cursore , lancetta, lancetta",cursor
 "curva, curvatura, curvatura",curve
 "curva, ribaltabile, ribaltabile, scopare, scopata, spazzare",sweep
 "curvare, fare una curva",curve [to]
@@ -11569,7 +11569,7 @@ cuòcere,cheeks
 "cvicino, di, oltre da, per mezzo di, presso, presso",by
 "càlcolo, fattura",invoice
 "càlle, corridoio, pista, vialetto, vicolo, viottolo, viuzza",alley
-"càlle, corsia, corsia, rotta [Mar.], sentiero, strada, strada, traccia, traccia, viale, viale, vicolo, vìcolo",lane
+"càlle, corsia, corsia, rotta , sentiero, strada, strada, traccia, traccia, viale, viale, vicolo, vìcolo",lane
 "càlle, sentiero, sentiero, viale, viale",path
 càmera da letto,bedroom
 càmera doppia,double room
@@ -11630,7 +11630,7 @@ dabbenaggine,credulity
 dacchè (da che),since when
 dadaismo,dadaism
 dadi truccati,loaded dice
-"dadi, dado [Cuc.], gioco dei dadi",dice [pl]
+"dadi, dado , gioco dei dadi",dice [pl]
 dafne,Daphne
 dafnia,water flea
 "daga, pugnale, pugnale",dagger
@@ -11647,7 +11647,7 @@ daltonico,color-blind
 daltonismo,color-blindness
 dama,lady of rank
 dama,lady-in-waiting
-"dama (nel gioco della dama), dama [nel gioco della dama], re, rege (poet.)",king
+"dama (nel gioco della dama), dama [nel gioco della dama], re, rege",king
 "damascato, intessuto, tessuto, tessuto",woven
 damaschinare,damsk [to]
 damaschinature,damascene
@@ -11768,7 +11768,7 @@ dattiloscopia,dactyloscopy
 "davanti, precedentemente",previously
 "davanzale, davanzale",window sill
 "davanzale, scempiaggine & scempiataggine, soglia, soglia",sill
-"davvero, davvero, infatti, pure (poet.), reale, realmente, veramente",really
+"davvero, davvero, infatti, pure , reale, realmente, veramente",really
 "davvero, genuinamente",genuinely
 davverso,= da avverso
 "daziare, dazio, imposta indiretta",excise
@@ -11784,7 +11784,7 @@ deambulatorio,deambulatory
 deambulazione,deambulation
 debba,must (cf dovere pres. subj.)
 debbio,burnbeating
-"debbo (pres. dovere ant.), deggio (=dovere)",I must
+"debbo , deggio (=dovere)",I must
 debbono,have to
 "debbono (pres dovere, dèggiono (pres. dovere), dènno (pres. dovere), dèono (pres. dovere)",they must
 "debellare, disfatta, sconfitta, sconfitta, vincere",defeat
@@ -12024,7 +12024,7 @@ deflagrazione,deflagration
 deflazione,deflation
 deflettere,deflect [to]
 deflettore,baffle plate
-"deflettore [Aer.], falda, ipersostentatore [Aer.], lembo, patta",flap
+"deflettore , falda, ipersostentatore , lembo, patta",flap
 deflorare,deflower [to]
 defluire,flow down [to]
 "deflusso, emissario, uscita",outflow
@@ -12129,8 +12129,8 @@ delizioso,rapturing
 della mia,to my
 "della, gli, il, il, la, là, le, lo",the
 deltoide,deltoid
-delubro (poet.),shrine
-"delubro (poet.), tempia, tempia, tempio",temple
+delubro,shrine
+"delubro , tempia, tempia, tempio",temple
 delucidare,explain [to]
 delucidazione,eludation
 deludere,disappoint
@@ -12210,9 +12210,9 @@ dentatura,set of teeth
 dente,tooth
 dente del giudizio,wisdom tooth
 "dente molare, molare",molar
-"dentellare, frastagliare, intaccare, rientrare [Tip.]",indent [to]
+"dentellare, frastagliare, intaccare, rientrare",indent [to]
 "dentellare, seghettare",jag [to]
-"dentellato, rientrato [Tip.]",indented
+"dentellato, rientrato",indented
 "dentellato, stizzoso",snappish
 dentellatura,serration
 denti (parlare fra i ~),mumble
@@ -12289,7 +12289,7 @@ depressione,depression
 "deprezzamento, disprezzo",depreciation
 "deprimente, eremo, eremo, spoglio, squallido",bleak
 deprimere,get depressed [to]
-"deprìmere, premere, soverchiare (irr.)",oppress
+"deprìmere, premere, soverchiare",oppress
 "depurare, purificare",purify [to]
 "deputato, sostituto",deputy
 "deragliamento, deviamento",derailment
@@ -12305,7 +12305,7 @@ derelitto,waif
 deridere,deride [to]
 deridere,laugh at [to]
 "deridere, irridere, irridere",laugh at
-"deriva [Mar.], scarroccio [Mar.]",leeway
+"deriva , scarroccio",leeway
 "derivare, derivazione, ritrarre 3.",derive
 "derivare, ottenere, risultare",result [to]
 "derivare, ricavare",derive [to]
@@ -12356,7 +12356,7 @@ desinare,lunches
 "desinenza, terminazione, termine, ultimazione, ultimazione",ending
 "desinfezione, desinfezione, suffumigio",fumigation
 "desinfezione, disinfezione",disinfection
-desio (poet.),thing longed for
+desio,thing longed for
 desolante,desolating
 desolare,devastate
 desolare,ravage
@@ -12370,7 +12370,7 @@ desquamazione,desquamation
 "dessert, dessert",dessert
 desso,one's self
 desso,that very person
-"desso, il medesimo, paro (ant. pop.), uguale",the same
+"desso, il medesimo, paro , uguale",the same
 destabilizzare,destabilize [to]
 destare,arouse [to]
 "destare, desto (= past. part. destare)",awake
@@ -12569,7 +12569,7 @@ dianzi,just (now)
 "dianzi, recentemente, recentemente",recently
 "diapositiva, scivolata, scivolo, sdrucciolare, spingere",slide
 "diario, diario, taccuino, taccuino",diary
-"diario, giornale, giornale di bordo [Mar.], periodico, registro giornaliero [Comp.], rivista",journal
+"diario, giornale, giornale di bordo , periodico, registro giornaliero , rivista",journal
 "diarrea, diarrea",diarrhea
 "diarrea, diarrea",diarrhoea
 diaspro,jasper
@@ -12679,7 +12679,7 @@ diffidenza,mistrust
 "diffidenza, sfiducia",distrust
 "diffidgnte, discutibile",questionable
 "diffidgnte, pignolo, scrupoloso",scrupulous
-"diffondere [Comp.], mettere in campo, spiegare",deploy [to]
+"diffondere , mettere in campo, spiegare",deploy [to]
 "diffondere, divulgare",diffuse [to]
 "diffondere, raccontare in giro, radiodiffondere",broadcast [to]
 "diffondere, spargere",disseminate [to]
@@ -12757,7 +12757,7 @@ dimenare,sway
 dimenare,wag
 dimenare,waggle
 dimenare,wiggle
-"dimenare, flutto, onda, ondare (poet.), soffiare, sventolare, svolazzare",wave
+"dimenare, flutto, onda, ondare , soffiare, sventolare, svolazzare",wave
 dimensionare,determine the proportions [to
 dimensione,dimension
 dimenticai,forgot
@@ -12827,14 +12827,14 @@ dipingere a tempera,distemper [to]
 "dipingere, pitturare, verniciare",paint [to]
 "dipinto, dipinto, immagine, simulacro",image
 "dipinto, pittura",painting
-"diplomando [Amer.], laureando [Brit.]",graduating
+"diplomando , laureando",graduating
 diplomare,give a degree to [to]
-"diplomarsi [Amer.], laurearsi [Brit.]",graduate [to]
+"diplomarsi , laurearsi",graduate [to]
 "diplomatica, diplomatico, diplomatico",diplomatic
 "diplomatico, diplomatico",diplomat
 diplomato,person who is qualified
-"diplomato [Amer.], laurearsi, laureato, laureato [Brit.]",graduate
-"diplomato [Amer.], laureato [Brit.]",graduated
+"diplomato , laurearsi, laureato, laureato",graduate
+"diplomato , laureato",graduated
 diplomazia,diplomacy
 dipolo,dipole
 diporto,amusement
@@ -12877,7 +12877,7 @@ dirigente,managing
 "dirigente, dominante",ruling
 "dirigenza, leadership",leadership
 dirigere,steer
-dirigere il traffico [Brit.],point duty
+dirigere il traffico,point duty
 "dirigere, guidare",conduct [to]
 "dirigere, guidare",guide [to]
 "dirigere, mirare, puntare, volgere",aim [to]
@@ -13004,19 +13004,19 @@ disciplinato,disciplined
 disco da hockey su ghiaccio,puck
 disco music,disc music
 "disco, disco",discus
-"disco, disco combinatore [Com.], disco intervertebrale [Med.], fetta",disk
+"disco, disco combinatore , disco intervertebrale , fetta",disk
 "disco, fetta, fetta, lastra, lastra",disc
 disco-dance,disc-dance
 discobolo,discus thrower
 discoide,discoid
 discolpa (testimonio a ~),witness for the defence
-"discolpa, giustificazione, giustificazione, giustificazione [Tip.]",justification
+"discolpa, giustificazione, giustificazione, giustificazione",justification
 "discolpa, giustificazione, scolpare, scusa, scusa, scusa, scusare",excuse
-disconnessione [Comp.],logoff
+disconnessione,logoff
 "disconnessione, separazione",disconnectedness
-"disconnesso [Comp.], sconnesso, separai, separato",disconnected
+"disconnesso , sconnesso, separai, separato",disconnected
 disconnettere,disconnecter [to]
-disconnettersi [Comp.],logoff [to]
+disconnettersi,logoff [to]
 "disconoscente, sconoscente",disowning
 "disconoscere, sconoscere",disown [to]
 disconoscimento,disownment
@@ -13170,14 +13170,14 @@ disonesto,unfrank
 "disonestà, disonestà, slealtà",dishonesty
 "disonestà, falsità, inganno",deceit
 disonorabile,dishonourable
-disonorabile [Amer.],dishonorable
+disonorabile,dishonorable
 disonorabilmente,dishonourably
-disonorabilmente [Amer.],dishonorably
+disonorabilmente,dishonorably
 disonorare,dishonour [to]
-disonorare [Amer.],dishonor [to]
+disonorare,dishonor [to]
 disonorato,dishonors
 disonore,dishonour
-disonore [Amer.],dishonor
+disonore,dishonor
 "disonore, disonore",disgracefulness
 "disonore, disonore",disrepute
 "disonore, disonore, pudore, scorno, vergogna",shame
@@ -13197,7 +13197,7 @@ disorganizzare,disorganize [to]
 disorganizzato,disorganized
 disorientamento,disorientation
 disorientare,disorient [to]
-disorientare [Amer.],disorientate [to]
+disorientare,disorientate [to]
 "disossare, spinare, togliere le lische",bone [to]
 disotterrare,dig up
 disotterrare,dig up [to]
@@ -13266,7 +13266,7 @@ disponìbile,vailable
 "dispositivo antighiaccio, sbrinatore",deicer
 "disposizione, disposizione",disposal
 "disposizione, disposizione, meccanismo, meccanismo",appliance
-"disposizioni [Mil.], ordini [Mil.]",instructions [pl]
+"disposizioni , ordini",instructions [pl]
 "disposto, disposto, essere disposto, volonteroso, volonteroso, vuole",willing
 "disposto, incline",disposed
 "disposto, preparato, pronto a",prepared
@@ -13344,7 +13344,7 @@ distacco,separation
 distante,dislodges
 "distante, distante, remoto, vasto, vasto",remote
 "distante, distante, vasto",distant
-"distante, lontano, lungi (poet.), remoto, vasto, vasto",far
+"distante, lontano, lungi , remoto, vasto, vasto",far
 distanza focale,focal length
 "distanza in miglia, migliaggio",mileage
 "distanziare, lasciare indietro",distance [to]
@@ -13356,7 +13356,7 @@ distensione,distension
 "distensione, rilassamento, rilassamento, tregua",detente
 "distesa, disteso, esteso, prolungato",extended
 distillare,distill [to]
-distillare [Amer.],distil [to]
+distillare,distil [to]
 "distillare, lambiccare",distil
 distillato,distillate
 distillato,distilled
@@ -13371,16 +13371,16 @@ distinguere,singularize [to]
 "distintivi, insegne",insignia [pl]
 distintivo,distinctive
 distintivo,insignias
-"distintivo, guardiamarina [Amer.], insegna",ensign
+"distintivo, guardiamarina , insegna",ensign
 "distintivo, segno 2., simbolo, simbolo",symbol
 "distinto, distinto",articulately
 "distinto, distinto, esplicito, esplicito",explicit
 "distinto, distinto, lucido, squillante, squillante",lucid
 "distinto, evidente, flagrante, ovvio, ovvio",obvious
 "distinzione, distinzione",distinction
-"distinzione, etichettatura, marcatura [Atom.]",labelling
+"distinzione, etichettatura, marcatura",labelling
 "distogliere, distrarre, sviare",distract [to]
-distomatosi [Med.],distomato
+distomatosi,distomato
 distonia,dystonia
 "distorcere, tergiversare",distort [to]
 "distorsione, mucchio",rick
@@ -13559,7 +13559,7 @@ dodici,twelve
 "dogana, dogana",customs duty
 doglia,pain (acute)
 "doglia, dolere, dolere, mal (cf male), pena, pena, penoso, penoso",ache
-doglie (f. pl.),labour pains
+doglie,labour pains
 dolce gommoso,stickyjaw
 "dolce, dolce, guardiano, novello, tenero",tender
 "dolce, dolce, morbido, placido, placido, soffice, soffice",soft
@@ -13748,7 +13748,7 @@ drenaggio,water-drainage
 dresina,handcar
 "dribblare, evitare, scansare, sfuggire",avoid [to]
 dritto 2,= diritto
-drizza [Mar.],halyard
+drizza,halyard
 drizzare,straighten out
 drizzare,straighten out[to]
 "droga, farmaco",drug
@@ -13776,7 +13776,7 @@ due volte,twice
 due-pezzi,two-pieces
 duecento,two hundred
 duello,duel
-"dumping [Econ.], vendita all'estero sottocosto",dumping goods in foreign mark
+"dumping , vendita all'estero sottocosto",dumping goods in foreign mark
 duna,dune
 duodeno,duodenum
 duopolio,duopoly
@@ -13834,7 +13834,7 @@ dèggia (pres.subj dovere),I should
 "dée (pres. dovere), dei (dovere), dei (pres. dovere)",you must
 "dépliant, fogliolina , memorandum, volantino, volantino",leaflet
 détto,= past. part. dire
-"dì (poet.), giornata, giorno",day
+"dì , giornata, giorno",day
 dìspari,unlevel
 "e dopo?, poi (e ~?)",What next?
 "e, e, ed",and
@@ -14011,7 +14011,7 @@ effemminato,womanish
 effervescente,fizzy
 effervescenza,to flare up
 effetti,investment bonds
-effetti [Econ.],investment bonds [pl]
+effetti,investment bonds [pl]
 effetti personali,belongings [pl]
 "effettivo, efficace, fattivo, veramente",effective
 effetto,effect
@@ -14058,7 +14058,7 @@ eiaculazione,ejaculation
 elaborare,elaborate
 elaborare,elaborate [to]
 "elaborare [una soluzione], escogitare",hammer out [to]
-"elaborare, incrementare, scrivere codice [Comp.], sviluppare",develop [to]
+"elaborare, incrementare, scrivere codice , sviluppare",develop [to]
 "elaborare, sviluppare",evolve [to]
 elaborato,laboured
 elaborato,processed
@@ -14068,8 +14068,8 @@ elaborazione,processing
 elasticità,elasticity
 elasticità di azione,freedom of action
 "elasticità, elasticità",springiness
-"elasticità, resilienza [Fis.]",resilience
-"elasticità, resilienza [Fis.]",resiliency
+"elasticità, resilienza",resilience
+"elasticità, resilienza",resiliency
 "elasticità, tonicità",tonicity
 "elastico, elastico",rubber band
 "elastico, elàstico",elastic
@@ -14151,7 +14151,7 @@ elevato,elevated
 "elevato, elevato, stridulo, stridulo",shrill
 "elevato, elevato, sublime",sublime
 "elevato, esaltato, nobile",exalted
-"elevatore, Padre Nostro [Eccl.]",paternoster
+"elevatore, Padre Nostro",paternoster
 elevazione,elevation
 "elezione, elezione",election
 elfo,elfin
@@ -14427,7 +14427,7 @@ entusiasmato,enthused
 entusiasmato,enthuses
 entusiasmato,zesty
 "entusiasmato, entusiasmato, entusiasta",enthusiastic
-"entusiasmo [Amer.], scalpore [Amer.]",furor
+"entusiasmo , scalpore",furor
 "entusiasmo, entusiasmo",rapturousness
 "entusiasmo, gusto, gusto",gusto
 "entusiasmo, scalpore",furore
@@ -14448,7 +14448,7 @@ eone,aeon
 epatite,hepatitis
 epatobiliare,hepatobiliary
 epicentro,epicentre
-epicentro [Amer.],epicenter
+epicentro,epicenter
 "epicentro, epicenvro, espediente, espediente, metà, metà",centre
 epiciclo,epicycle
 epicicloide,epicycloid
@@ -14467,7 +14467,7 @@ epigramma,epigram
 epigrammatico,epigrammatic
 epilessia,epilepsy
 "epilogo, epilogo",epilogue
-"epilogo, epilogo [Amer.]",epilog
+"epilogo, epilogo",epilog
 "episcopale, vescovile",episcopal
 episcopato,episcopacy
 episodicamente,episodically
@@ -14547,7 +14547,7 @@ era atomica,atomic age
 "erario, fisco",state treasury
 "erario, forziere, forziere, scacchiere, tesoro",exchequer
 erba,grass
-"erba aromatica, erba medicinale, erbe, odore [Cul.]",herb
+"erba aromatica, erba medicinale, erbe, odore",herb
 erba medica,lucern
 erba medica,lucerne
 "erbaccia, razzolare",weed
@@ -14609,7 +14609,7 @@ ermetico,difficult to understand
 "ermetico, oscuramente",obscurely
 "ermetico, recondito",recondite
 ermetismo,hermetism
-"ermo (poet.), ramingo (pl. -inghi), romito, singolo, singolo, solingo, solo, solo",solitary
+"ermo , ramingo (pl. -inghi), romito, singolo, singolo, solingo, solo, solo",solitary
 "ernia, frantumare, frattura, frattura, rottura",rupture
 "ernia, frattura",hernia
 erodere,erode [to]
@@ -14630,7 +14630,7 @@ eroso,eroded
 "erotico, erotico",erotic
 "erotico, erotico",erotically
 erotismo,eroticism
-"erpete [Med.], herpes",herpes
+"erpete , herpes",herpes
 erpicare,harrows
 "erpicare, straziare, tormentare",harrow [to]
 errante,errant
@@ -14854,7 +14854,7 @@ esente da dazio,duty-free
 "esente dalle tasse, esente dalle tasse, gratuito, gratuito",at no charge
 "esente dalle tasse, esente dalle tasse, ufo",free of charge
 "esente, esente",freely
-"esente, esente, esente da tasse di porto, esimere, folle [Aut.], francare, franco [Econ.], gratuito, gratuito, libero, rilasciare, svincolare, tempo libero",free
+"esente, esente, esente da tasse di porto, esimere, folle , francare, franco , gratuito, gratuito, libero, rilasciare, svincolare, tempo libero",free
 "esente, immune",immune
 "esenzione, franchigia",exemption
 esequiare,perform the obsequies (for)
@@ -14950,7 +14950,7 @@ esonero,exoneration
 esorcista,exorcist
 esorcista,exorcists
 esorcizzare,exorcise [to]
-esorcizzare [Amer.],exorcize [to]
+esorcizzare,exorcize [to]
 "esordiente, esordiente",debutant
 "esordiente, esordiente, pivello, recluta",rookie
 "esordiente, esordiente, principiante",beginner
@@ -15030,7 +15030,7 @@ esplosione,raptures
 esplosività,explosiveness
 esplosivo,explosive
 esplòdere,explode
-"esplòdere, gigantografia [Fot.], gonfiare, ingrandimento [Fot.]",blow up
+"esplòdere, gigantografia , gonfiare, ingrandimento",blow up
 "espone, esporre, scoperchiare, scoperto",expose
 "esponente, rappresentante, rappresentante",exponent
 "espongo, indicare, messa, mostra, presentare, sciàlo, spettacolo",show
@@ -15151,7 +15151,7 @@ estere,ester
 "esteriore, esterno, estrinseco, estrinseco",external
 esteriorità,outness
 "esternamente, estrinseco",outwardly
-esterni [Cin.],locations [pl]
+esterni,locations [pl]
 "esterno, estrinseco",outward
 "estero, estero, estraneo, straniero, straniero",foreign
 "estero, paese straniero",foreign country
@@ -15237,7 +15237,7 @@ estrema magrezza,emaciation
 estrema unzione,last rites [pl]
 estremismo,extremism
 estremista,extremist
-"estremità, promontorio, punta, punta, puntina [Elettr.], punto, regolare, scopo, senso",point
+"estremità, promontorio, punta, punta, puntina , punto, regolare, scopo, senso",point
 estremo,utmost
 "estremo, estremo",outermost
 "estremo, estremo",outmost
@@ -15420,8 +15420,8 @@ extraterritoriale,extraterritorial
 extraurbano,extracity
 extravagante,extrawandering
 eziologia,aetiology
-fa [Mus.],f
-"fa [Mus.], fatica",fa
+fa,f
+"fa , fatica",fa
 fa da ridere,makes me laugh
 fabbricabile,manufacturable
 "fabbricante, fabbricatore, industriale",manufacturer
@@ -15498,7 +15498,7 @@ falciata,swath
 falcidia,cost reduction
 falcidiare,subtract
 falcone,falcon
-falconiero (poet.),falconer
+falconiero,falconer
 falda,stratum
 falda 2.,lower slope (of a mountainO
 "falda 2., falda 2.",lower slope (of a mountain)
@@ -15519,10 +15519,10 @@ fallico,phallic
 fallito,failed
 fallito,unpromisingly
 "fallito, non promettente",unpromising
-"fallo [Sport.], fangoso, fangoso, pessimo, puzzolente, sporco",foul
+"fallo , fangoso, fangoso, pessimo, puzzolente, sporco",foul
 fallo [pene],phallus
 "falsa testimonianza, spergiuro",perjury
-"falsa, falso, fasullo, fasullo, imitato, imitato, menzongnero, ria (poet.)",false
+"falsa, falso, fasullo, fasullo, imitato, imitato, menzongnero, ria",false
 "falsare, forgia, forgiare, formare, fornace, fucìna, inventare",forge
 falsario,counterfeiter
 falsificante,counterfeiting
@@ -15679,7 +15679,7 @@ fare confusione,mess [to]
 fare da intermediario,liaise [to]
 "fare delle angherìe, saccheggiare",harry [to]
 fare due chiacchiere,have a chat
-fare due passi [Amer.],mosey [to]
+fare due passi,mosey [to]
 "fare foto, fotografare",photograph [to]
 fare giochi di parole,pun [to]
 "fare gli studi superiori, studio",study
@@ -15742,7 +15742,7 @@ fare una fattura a,hex [to]
 fare una gaffe,drop a clanger [to]
 fare una gita,jaunt [to]
 "fare una retata, fare un'incursione",raid [to]
-"fare uno strato, margottare [Agr.], stratificare",layer [to]
+"fare uno strato, margottare , stratificare",layer [to]
 "fare vela, navigare",make sail [to]
 "fare, fare",execute
 "fare, festa",do
@@ -15751,8 +15751,8 @@ fare una gita,jaunt [to]
 farfalla,butterfly
 "farfallina, sgualdrina",floosie
 "farfallina, sgualdrina",floosy
-"farfallina, sgualdrina [Amer.]",floozie
-"farfallina, sgualdrina [Amer.]",floozy
+"farfallina, sgualdrina",floozie
+"farfallina, sgualdrina",floozy
 farfara,foalfoot
 farfugliamento,gabble
 farfugliare,gabble [to]
@@ -15760,7 +15760,7 @@ farfugliare,murmur [to]
 "farfugliare, mormorio",murmur
 farina,flour
 "farina [non di frumento], pasto, pietanza, pietanza",meal
-farina grossa di mais [Amer.],grits [pl]
+farina grossa di mais,grits [pl]
 farinaceo,floury
 farinata d'avena,gruel
 faringe,pharynx
@@ -15807,7 +15807,7 @@ farsi prestare,borrow
 fascia di reddito,income class
 "fascia, fascia, pannolino",diaper
 "fascia, fascia, pannolino",nappy
-"fasciame interno [Mar.], soffitto, tangenza",ceiling
+"fasciame interno , soffitto, tangenza",ceiling
 "fasciame, placcatura",plating
 "fasciatura, fasciatura",assoc
 "fasciatura, fasciatura",dressing
@@ -15972,7 +15972,7 @@ felicitazioni,congratulations [pl]
 felicità,felicity
 felino,feline
 "felino, felino",catlike
-"fellonia, fellonia [arc.], infedeltà, tradimento",betrayal
+"fellonia, fellonia , infedeltà, tradimento",betrayal
 "felpa, lussuoso",plush
 felpato,plushy
 "femmina , femminile",female
@@ -16003,7 +16003,7 @@ fenomeno,occurance
 "fenomeno, fenomeno",emergence
 "fenomeno, fenomeno",phenomenon
 fenotipo,phenotype
-"fera (poet.), licenzioso, licenzioso, selvaggio, selvatico",wild
+"fera , licenzioso, licenzioso, selvaggio, selvatico",wild
 "ferale, funesto, micidiale, mortifero",deadly
 feria,day off
 ferie,holidays
@@ -16023,7 +16023,7 @@ fermare,halt [to
 fermarsi,come to a halt
 fermarsi,come to a halt [to]
 fermata ai box,pit stop
-"fermata, giacere, pausa [Mus.], requie, resto, riposarsi, riposo, sè, sosta, sosta fermata, sostare (or sostarsi), sostegno, supporto",rest
+"fermata, giacere, pausa , requie, resto, riposarsi, riposo, sè, sosta, sosta fermata, sostare (or sostarsi), sostegno, supporto",rest
 "fermata, sosta, tappa",layover
 "fermatura, fermatura",cloture
 fermentare,ferment [to]
@@ -16129,7 +16129,7 @@ fiammingo,Flemish
 fiancheggiare,espouse
 fiancheggiare,flank [to]
 fiancheggiare,supporte
-"fiancheggiare, mantenere, ottengo, volere (lett.)",maintain
+"fiancheggiare, mantenere, ottengo, volere",maintain
 "fiancheggiare, promuovere",to support
 fianchi,loins [pl]
 "fianco [di montagna], versante",mountainside
@@ -16141,7 +16141,7 @@ fiatare (ne ~),don't open your mouth to breathe ie keep quiet
 "fiatare, respirare",respire [to]
 "fiato, tregua",rspite
 fibbia,buckle
-fibra [Amer.],fiber
+fibra,fiber
 fibra di vetro,glass fibre
 "fibra, fibra",fibre
 "fibra, fibra, filamento, filamento",filament
@@ -16244,7 +16244,7 @@ filippino,Philippine
 filmico,filmic
 "filo [di tela o lana], manovra, stratagemma",ply
 filo di ragnatela,gossamer
-"filo per legare balle da fien, folle [Amer.], pericolante",haywire
+"filo per legare balle da fien, folle , pericolante",haywire
 filo sottile,floss
 "filo, filo",yarn
 filobus,trolley bus
@@ -16258,7 +16258,7 @@ filosofo,philosopher
 "filosofo, filosofo, pensatore",thinker
 filtrare,percolate [to]
 filtrazione,filtration
-"filtro per dati [Comp.], gasdotto, oleodotto",pipeline
+"filtro per dati , gasdotto, oleodotto",pipeline
 filtro polarizzato,polarized filter
 "filtro, filtro",filter
 "filtro, pozione",philtre
@@ -16298,7 +16298,7 @@ finire in fretta,romp through [to]
 "finire, preparare, terminare",finish [to]
 "finire, terminare",end [to]
 finito,ended
-"finito, finito, lunghesso (poet.), lungo",along
+"finito, finito, lunghesso , lungo",along
 "finlandese, finlandese, finnico",Finn
 "finlandese, finnico, lingua finlandese",Finnish
 fino a domani,until tomorrow
@@ -16326,7 +16326,7 @@ fiordo,fjord
 "fiore, fioritura, fioritura",flower
 "fiorente, glorioso, prospero",palmy
 fiorentino,Florentine
-"fioretto [Sport.], foglia laminata, lucido da presentazione",foil
+"fioretto , foglia laminata, lucido da presentazione",foil
 fiorino,florin
 fiorire,flourish
 fiorire,flourish [to]
@@ -16430,9 +16430,9 @@ flauto di Pan,panpipe
 "flauto, flauto",flute
 "flebile, lamentoso",plaintive
 "flebile, mesto",mournful
-"flemma, muco [Med.]",phlegm
+"flemma, muco",phlegm
 flemmamatico,phlegmatic
-flemmone [Med.],phlegmon
+flemmone,phlegmon
 flessibile [di organizzazione,loosely-knit
 flessibilità,flexibility
 "flessibilità, flessibilità",yieldingness
@@ -16565,7 +16565,7 @@ fontana a getto,fountains
 fontanella,fontanelle
 "fonte battesimale, tipo di caratteri, vedi fount",font
 "fonte, fonte, origine, origine, sorgente, sorgente",source
-"fonte, fonte, polizza [Tip.], sorgente, tipo [di caratteri]",fount
+"fonte, fonte, polizza , sorgente, tipo [di caratteri]",fount
 "footing, il correre",jogging
 fora (poet. = sarebbe),would be
 foraggio,chows
@@ -16590,7 +16590,7 @@ foresta vergine,primeval forest
 forgiare,smith [to]
 forgiare,smithies
 "forgiatura, fucinatura",forging
-"foriero, furiere [Mil.], messaggero, precursore, precursore",harbinger
+"foriero, furiere , messaggero, precursore, precursore",harbinger
 forma,formfeed
 "forma di governo, regime, regime",regime
 formabile,moldable
@@ -16612,9 +16612,9 @@ formare la lista dei giurati,empanel [to]
 "formare un blocco, stringere d'assedio",blockade [to]
 formato,format
 formatore,framer
-formattare [Comp.],format [to]
+formattare,format [to]
 formatura,mould preparation
-formazione [Psic.],imprinting
+formazione,imprinting
 "formella, pannello, tavola, tavola",panel
 formica,ant
 formiche,ants
@@ -16803,7 +16803,7 @@ francese,French
 "franchezza, franchezza",openness
 "franchezza, franchezza",outspokenness
 franchismo,Francoism
-franco [Econ.],franc
+franco,franc
 "franco [onesto], senza peli sulla lingua",plainspoken
 "franco, franco, franco destino, porto pagato",postage paid
 "francobollo, francobollo",postage stamp
@@ -16868,7 +16868,7 @@ frattaglie,offal
 "frattura, frazione, quoziente",quotient
 "fratturare, fratturarsi",fracture [to]
 fraudolenza,fraudulence
-frazionamento [Chim.],fractionation
+frazionamento,fractionation
 "freccia, quadrello, strale",arrow
 "freccia, saggezza, saggezza, saggezza, sapienza, senno",wisdom
 frecciata,shot with an arrow
@@ -16885,7 +16885,7 @@ fregata,frigate
 "fregio, frisone",frieze
 "fregola [di animali], rotaia",rut
 "frenaggio, serramento",locking
-"frenare, reprimere, rimuovere [Psic.]",repress [to]
+"frenare, reprimere, rimuovere",repress [to]
 "frenare, trattenersi",refrain [to]
 frenatura,braking
 frenesia,frenzy
@@ -16919,7 +16919,7 @@ freschezza,freshness
 "fresco, novellino, novellino, novello, nuovo",fresh
 "fresco, rezzo",coolness
 fresia,freesia
-"fretta, fretta, furia, furia, rattezza (poet.)",haste
+"fretta, fretta, furia, furia, rattezza",haste
 "fretta, fretta, furia, volare",hurry
 "fretta, furia, furia, precipitazione",hastiness
 "frettoloso, precipitato, precipitevole, precipitoso",hasty
@@ -16951,7 +16951,7 @@ frittata,griddlecakes
 "frizione, lavata di capo, massaggio",rubdown
 frizzante [di bibita],gassy
 "frodare, truffare",swindle [to]
-"fronda [Biol.], vèntola",frond
+"fronda , vèntola",frond
 frondoso,leafy
 frontale,head-on
 "frontale, frontale",frontally
@@ -17047,9 +17047,9 @@ fumatore,smokers
 "fumatore, fumatore",smoker
 fumettista,cartoonist
 fumetto,comic strip
-"fumetto [Comp.], palloncino, pallone aerostatico",balloon
+"fumetto , palloncino, pallone aerostatico",balloon
 fumivoro,smoke consuming
-fummo (poet.),we were
+fummo,we were
 fumo soffocante,smother
 fumogeno,smoke-producing
 fumoso,smoky
@@ -17073,7 +17073,7 @@ fungibile,fungible
 fungoso,fungal
 funicolare,funicular
 funivia,cable-car
-funk [Mus.],funk
+funk,funk
 "funzionale, maneggevole, pratico, utilitario, utilitario",handy
 "funzionale, pratico, utilitario, utilitario",practical
 funzionalità,functionality
@@ -17087,7 +17087,7 @@ funzionario,civil servant
 "funzionario, funzionario, sgherrano, ufficiale",officer
 "funzionario, funzionario, ufficiale, ufficiale, ufficiale",official
 "funzione, funzione, ruolo, ruolo",role
-fuoco [Ott.],focus
+fuoco,focus
 fuoco da campo,campfire
 fuoco nel caminetto,open fire
 fuorchè,saving; unless
@@ -17158,10 +17158,10 @@ gabbia per uccelli,bird cage
 gabbia toracica,rib cage
 gabbiano,gull
 "gabbiano, gabbiano",seagull
-gabbione [Mil.],gabion
+gabbione,gabion
 gabella,excise tax
 gabinetto,loo
-gabinetto [Amer.],john
+gabinetto,john
 gaelico,Gaelic
 gaffa,boat-hook
 gaffe,clanger
@@ -17197,7 +17197,7 @@ gallo (vispo comme un ~),ladies man
 "gallo, rubinetto",rooster
 "gallo, rubinetto, rubinetto",chanticleer
 gallone,gallon
-gallone [Mil.],chevron
+gallone,chevron
 galoppare,gallop [to]
 galoppo,gallop
 galvanico,galvanic
@@ -17314,7 +17314,7 @@ gemello,twin
 gemma,gem
 "gemma, gemma, gioiello, monile (m), perla",jewel
 gene,gene
-"general, general [Mil.]",General
+"general, general",General
 "generale, generico",general
 generalità,generality
 generalizzare,generalize
@@ -17441,7 +17441,7 @@ gettare a terra,throwdown
 "gettata, imbarcadero, molo, molo",jetty
 gettato,foaled
 "gettone, microcircuito integrato, patatina, scheggia",chip
-"geyser [Geol.], scaldabagno a gas [Brit.], soffione [Geol.]",geyser
+"geyser , scaldabagno a gas , soffione",geyser
 gheppio,kestrel
 "ghermire, impaccare, impugnatura, prendere, presa, stretta",grip
 "gherone, rinforzo",gusset
@@ -17516,7 +17516,7 @@ gigantesco,jumbo
 "gigantesco, gigantesco, grandioso, ingente",huge
 "giglio, giglio",lily
 "gilè, panciotto",jerkin
-"gin, sgranatrice di cotone [Tess.], trappola",gin
+"gin, sgranatrice di cotone , trappola",gin
 gineceo,gynaeceum
 ginecologia,gynaecology
 ginecologia,gynecology
@@ -17531,19 +17531,19 @@ gingillare,dawdle
 gingillare,loiter
 gingillarsi,trifle [to]
 gingillato,loitered
-ginnare [Tess.],gin [to]
-"ginnasio, ginnasio [Brit.], liceo [Brit.], scuola elementare [Amer.], scuola secondaria [Brit.]",grammar school
+ginnare,gin [to]
+"ginnasio, ginnasio , liceo , scuola elementare , scuola secondaria",grammar school
 ginnastica isometrica,isometrics [pl]
 ginnico,gymnastic
 ginocchio,knee
-ginocchio valgo [Med.],knock-knee
+ginocchio valgo,knock-knee
 ginocchioni,kneeing
 ginseng,ginseng
 gioca,twiddles
 giocai,toyed
 giocai,twiddled
 giocare rumorosamente,romp [to]
-"giocare, gioco, gioco [Mecc.], giuocare, giuoco, giuoco, lavoro teatrale, pezzo, spettacolo, spettacolo",play
+"giocare, gioco, gioco , giuocare, giuoco, giuoco, lavoro teatrale, pezzo, spettacolo, spettacolo",play
 "giocare, giuocare, interpretare, recitare, suonare",play [to]
 giocatore,player
 giocherellare,monkey about [to]
@@ -17694,8 +17694,8 @@ giurisprudenza,jurisprudence
 "giustapporre, sovrapporre",juxtapose [to]
 giustezza,verifield
 giustificare,explain away [to]
-"giustificare, giustificare [Tip.], perdonare, scusare",justify [to]
-"giustificato, giustificato [Tip.]",justified
+"giustificare, giustificare , perdonare, scusare",justify [to]
+"giustificato, giustificato",justified
 giustizia,courts
 "giustizia, giustizia",equity
 giustiziere,executioners
@@ -17707,13 +17707,13 @@ già (affirms),that's right
 giùngere,fold [to]
 giùngere,folds
 glaciale,glacial
-glacé [Cul.],glacé
+glacé,glacé
 gladiatore,gladiator
 glassa,icing
 "glassa, smalto",glaze
 glassare,ice [to]
 "glassare, smaltare",glaze [to]
-"glassato [Amer.], smerigliato",frosted
+"glassato , smerigliato",frosted
 "glassato, inespressivo, smaltato, vitreo",glazed
 gli fare la festa,have fun with him
 gli fare la festa,play a trick on him
@@ -17730,7 +17730,7 @@ globulo,globule
 "globuloso, globuloso",clumpy
 "globuloso, globuloso, grumoso, informe",lumpy
 gloria,kudos
-gloria (art.),group of angels or saints
+gloria,group of angels or saints
 gloria (m),part of the mass
 "gloriarsi, vantarsi",boast [to]
 glorificare,exalt
@@ -17819,8 +17819,8 @@ gorgheggiare,yodel [to]
 gorgogliare,gurgle [to]
 gorgoglio,gurgle
 gorilla,gorilla
-"gorilla [Amer.], sicario [Amer.]",goon
-"gospel [Mus.], Vangelo",gospel
+"gorilla , sicario",goon
+"gospel , Vangelo",gospel
 gotico,Gothic
 governante,governing
 governare,govern [to]
@@ -17832,7 +17832,7 @@ governatore,governor
 governo,govt
 governo fantoccio,puppet goverment
 "governo, governo",government
-gozzo [Med.],goitre
+gozzo,goitre
 gozzovigliare,guzzle [to]
 gracchiare,caw
 gracchiare,caw [to]
@@ -17864,7 +17864,7 @@ graffiare,scratch oneself
 graffiarsi,scratch oneself [to]
 graffiato,scratchy
 grafia,spelling
-grafico a torta [Comp.],pie chart
+grafico a torta,pie chart
 "grafico, grafico",graph
 grafometro,graphometer
 grammatica,grammar
@@ -17922,7 +17922,7 @@ gratificante,hearwarming
 gratificante,rewarding
 "gratificare, premiare",reward [to]
 "gratificazione, soddisfazione, soddisfazione",gratification
-gratile [Mar.],luff cord
+gratile,luff cord
 "gratitudine, gratitudine",gratefulness
 "gratitudine, gratitudine",gratitude
 "gratitudine, gratitudine",thankfulness
@@ -17982,7 +17982,7 @@ grido,outcry
 "grifagno, grifagno",grimly
 grigiastro,greyish
 grigio ferro,iron-grey
-"grigio, grigio [Amer.]",gray
+"grigio, grigio",gray
 "grigliata, grigliato",grilled
 grillare,frizzle
 grillare,whiz
@@ -18029,7 +18029,7 @@ gruppetto,small group
 gruppo chiuso,in-group
 gruppo di discussione,newsgroup
 gruppo di gióvani,youth group
-gruppo di uomini [Amer.],posse
+gruppo di uomini,posse
 "gruppo familiare, parentado",clan
 "gruppo motore, locomotiva, locomotiva, motore, motrice, ordigno, ordigno, reattore",engine
 "gruppo turistico, gruppo turìstico",tourist party
@@ -18067,8 +18067,8 @@ guanto,glove
 guarda che il tavolo è bagnat,the table is wet
 guarda che roba!,just take a look at that dress!
 guardacoste,coastguard vessel
-guardalinee [Ferr.],lineman
-guardalinee [Sport.],linesman
+guardalinee,lineman
+guardalinee,linesman
 "guardar di traverso, traverso (guardar di ~)",look askance
 "guardare (intr), precauzione",take care
 guardare 2.,watch over
@@ -18096,11 +18096,11 @@ guardiano,warden
 guardiano del faro,lighthouse keeper
 guardiano notturno,night watchman
 "guardiano, guardiano, tutore, tutore",guardian
-guardina [Mil.],guardhouse
-guardina [Mil.],guardroom
+guardina,guardhouse
+guardina,guardroom
 guardingo,leery
 "guardingo, guardingo, pensieroso, pensieroso, pensoso",thoughtful
-guardo (poet.),= sguardo
+guardo,= sguardo
 "guaribile, ricuperabile",recoverable
 "guarigione, ricupero, ristabilimento, ristabilimento",recuperation
 guarire,heal
@@ -18362,7 +18362,7 @@ illuminare con riflettori,floodlight [to]
 illuminato,illuminated
 illuminato dalla luna,moonlit
 illuminazione,lighting system
-"illuminazione, luci [Teatr.]",lighting
+"illuminazione, luci",lighting
 "illuminazione, nitore",luminousness
 illusione,illusion
 "illusionista, prestigiatore",illusionist
@@ -18372,7 +18372,7 @@ illustrativo,illustrative
 illustrato,illustrated
 illustratore,illustrator
 "ima, la piùprofonda, profondissima",deepest
-imagine (poet.),=immagine
+imagine,=immagine
 imago (poet. =immagine),protrait
 "imballaggio, imballaggio",packaging
 imballare,package [to]
@@ -18408,7 +18408,7 @@ imbattersi in,happen on
 "imbeccata, spunto",cue
 imbecille,imbecile
 imbecille,softies
-"imbecille [Amer.], manubrio",dumbbell
+"imbecille , manubrio",dumbbell
 "imbecille, imbecille",dimwitted
 "imbecille, imbecille",half wit
 "imbecille, persona rustica",rube
@@ -18434,7 +18434,7 @@ imbottire,upholster
 imbottito,padded
 imbottitura,padding
 "imbottitura, otturazione, otturazione",stuffing
-imbracatura [Mar.],parbuckle
+imbracatura,parbuckle
 imbrattare,maculate
 "imbrattare, insudiciare",stain[to]
 "imbrattare, insudiciare, macchia, macchia, patacca, sgorbiare",stain
@@ -18523,7 +18523,7 @@ imminente,imminent
 imminenza,imminence
 "immissario [di fiume], insenatura",inlet
 immissione,breaking in
-"immissione, immissione dati [Comm.], petizione, potenza assorbita",input
+"immissione, immissione dati , petizione, potenza assorbita",input
 "immite, spietato",pitiless
 immobile,motionless
 immobile,piece of real estate
@@ -18720,7 +18720,7 @@ impiombare,seal/cover with lead
 impiombare,stop (tooth)
 implacabile,implacable
 implantologia,medical treatment by implant
-implementare [Comp.],implement [to]
+implementare,implement [to]
 "implicare, importare, introdurre, significare, voler dire",import [to]
 "implicazione, risvolto",implication
 implodere,implode [to]
@@ -18807,7 +18807,7 @@ impressionare,make an impression [to
 "impressionare, imprimere",impress [to]
 "impressione, impressione, impronta, stampa, tiratura",impression
 "impressione, intuizione",hunch
-"impressione, orma, sigla editoriale [Edit.], traccia",imprint
+"impressione, orma, sigla editoriale , traccia",imprint
 impressionismo,impressionism
 impressionista,impressionist
 impresso,imprinted
@@ -18884,7 +18884,7 @@ in luogo di questo,for it
 "in modo assorto, sommerso",raptly
 in modo contagioso,contagiously
 in modo da ostruire,obstructively
-"in modo disconnesso [Comp.], separato",disconnectedly
+"in modo disconnesso , separato",disconnectedly
 "in modo errante, in modo vagante, vagando",errantly
 "in modo indigeno, localmente, unigenito",aboriginally
 "in modo inquisitorio, verdastro",searchingly
@@ -19075,7 +19075,7 @@ inchinarsi,submit o.s.
 inchiodare,nail [to]
 inchiodare,rivet [to]
 inchiodato,nailed
-"inchiostrare [Tip.], sporcare di inchiostro",ink [to]
+"inchiostrare , sporcare di inchiostro",ink [to]
 inchiostro di china,Indian ink
 "inchiostro, tinta",ink
 inciampo,draw-back
@@ -19088,12 +19088,12 @@ incidenti,mischances
 incidenza,incidence
 incidere,incise [to]
 incidere all'acquaforte,etch [to]
-incidere col bisturi [Med.],lance [to]
+incidere col bisturi,lance [to]
 "incidere, narrare",record [to]
 incipiente,inchoate
 "incipriare, ridurre in polvere",powder [to]
 incisione,incision
-"incisione [Tip.], lamina, lastra, lastra, piatto, piatto, placca, scudo, scudo, targa",plate
+"incisione , lamina, lastra, lastra, piatto, piatto, placca, scudo, scudo, targa",plate
 "incisione, ritaglio, tagliente, taglio, talea",cutting
 incisivo,incisive
 incisivo,incisor
@@ -19524,7 +19524,7 @@ inflazionistico,inflationary
 infliggere,inflict [to]
 influente,influential
 "influenza, influenza",flu
-"influenza, influenza [Med.]",influenza
+"influenza, influenza",influenza
 "influenza, influire, influsso, influsso",influence
 "influenzare, influire",influence [to]
 influenzato,influenced
@@ -19677,7 +19677,7 @@ inguantato,gloved
 "inguaribile, inguaribile",uncurable
 "inguaribile, inguaribile, insanabile",incurable
 inguinale,inguinal
-"inguine, listello, listello [Arch.]",groin
+"inguine, listello, listello",groin
 inibire,inhibit [to]
 inibito,inhibited
 inibitore,inhibitor
@@ -19728,7 +19728,7 @@ innestare la marcia,engage the gear
 "innestare, innesto, innesto, lavoro pesante, trapianto",graft
 "innestare, noleggiare, obbligare, obbligarsi",engage
 innesto,electrical connection
-inning [Sport.],inning
+inning,inning
 "innnalzare, intensificarsi",heighten [to]
 innocente,innocent
 "innocente, inoffensivo",offenceless
@@ -19828,7 +19828,7 @@ inscrutabile,inscrutable
 insediamento,takeover
 insediare,induct [to]
 "insediare, installare",install [to]
-"insegna, modello, vessillo (poet.)",standard
+"insegna, modello, vessillo",standard
 "insegnamento, insegnamento, insegnante, magistero 2.",teaching
 insegnante,instructors
 "insegnare, istruire",teach [to]
@@ -19973,8 +19973,8 @@ insufficiente,inadequat
 "insufficiente, proibito, vietato",prohibited
 insufficienza,insufficiency
 "insufficienza, spilorceria",scantiness
-"insufflare [Med.], soffiare sopra",insufflate [to]
-insufflazione [Med.],insufflation
+"insufflare , soffiare sopra",insufflate [to]
+insufflazione,insufflation
 insulina,insulin
 "insulsaggine, insulsaggine",spiritlessness
 "insulso, senza intelligenza",unintelligently
@@ -19996,7 +19996,7 @@ intaglio,carving
 intangibile,intangible
 intarsiare,inlay [to]
 intarsiato,fretted
-"intarsio, otturazione [Med.]",inlay
+"intarsio, otturazione",inlay
 intascare,pocket [to]
 "intatto, intatto",intact
 "intatto, intatto, nuovo di fabbrica, vergine",virgin
@@ -20025,8 +20025,8 @@ intemperanza,intemperance
 intemperie,inclemencies [pl]
 "intempestività, tempo inopportuno",untimeliness
 intendenza,intendancy
-intendere (poet.),mind) towards s.th.
-intendere (poet.),turn (gaze
+intendere,mind) towards s.th.
+intendere,turn (gaze
 "intendere 2., odi (pres. udire), sentire, sentisti",hear
 "intendere 2., servire",attend to
 intendersi,get on tog.
@@ -20079,13 +20079,13 @@ interferire,interfere [to]
 interferometria,interferometry
 interferometro,interferometer
 interfono,intercom
-interfono [Amer.],interphone
+interfono,interphone
 interforze,interforces [pl]
-interiezione [Gramm.],interjection
+interiezione,interjection
 "interim , temporaneo",interim
 "interiore, interiore, interiore, interno",interior
 "interiore, interiore, interno, interno, intimo",inner
-"interiore, intestinale, intimo, nazionale, nazionale, orale [Farm.]",internal
+"interiore, intestinale, intimo, nazionale, nazionale, orale",internal
 interiorizzare,interiorize [to]
 interiorizzare,internalize [to]
 interlacciare,interlace [to]
@@ -20205,7 +20205,7 @@ intorpidire,numb [to]
 intorpidito,numbed
 "intorpidito, rigido, rigido",numbly
 intossicazione,poisoning
-"intossicazione [Med.], ubriachezza",intoxication
+"intossicazione , ubriachezza",intoxication
 intradosso,lower surface
 intramuscolare,intramuscular
 intransigenza,intransigence
@@ -20244,7 +20244,7 @@ introduzione,guide book
 "introduzione, introduzione",leading in
 "introduzione, introduzione, introduzione, testo introduttivo",introduction
 introiti,receipts
-"introito, profitto, resa, respingere 2., restituzione, riedere (poet.), rimborsare, ritorno",return
+"introito, profitto, resa, respingere 2., restituzione, riedere , rimborsare, ritorno",return
 intromettersi [in],intrude [to]
 introspettivo,introspective
 introspezione,introspection
@@ -20300,7 +20300,7 @@ inventare,invent
 inventare,invent [to]
 inventariare,inventory [to]
 inventario,fixtures
-"inventario, inventario, scorta di magazzino [Amer.]",inventory
+"inventario, inventario, scorta di magazzino",inventory
 inventiva,inventiveness
 inventivo,inventive
 invenzione,invention
@@ -20312,7 +20312,7 @@ invero,in truth
 inverosimiglianza,improbability
 inversamente,inversely
 "inversione, voltafaccia",turnabout
-"inverso [di colore], invertito [Chim.], invertito [Soc.], omosessuale",invert
+"inverso [di colore], invertito , invertito , omosessuale",invert
 "inverso, opposto",inverse
 invertebrato,invertebrate
 invescare,ensnare
@@ -20389,10 +20389,10 @@ ionosfera,ionosphere
 iperalgesia,hyperalgesia
 iperazotemia,azotaemia
 iperbarico,hyperbaric
-iperbole [Geom.],hyperbola
-iperbole [Ret.],hyperbole
+iperbole,hyperbola
+iperbole,hyperbole
 iperbolico,hyperbolic
-ipercinesia [Med.],hyperkinesia
+ipercinesia,hyperkinesia
 ipercritico,hypercritical
 iperemia,hyperaemia
 iperestesia,hyperaesthesia
@@ -20467,7 +20467,7 @@ irascibile,testy
 irascibilità,violent temper
 "iridere, iridescenza, opalescenza",opalescence
 "iridescente, opalescente",opalescent
-irite [Med.],iritis
+irite,iritis
 irlandese,Irish
 ironia,irony
 ironicamente,ironically
@@ -20556,7 +20556,7 @@ isola,isle
 isolamento,isolation
 isolamento acustico,sound-proof
 isolano,islander
-"isolante, isolatore [Elett.]",insulator
+"isolante, isolatore",insulator
 isolare,insulate [to]
 isolare,isolate [to]
 "isolato, solitario, solo",lone
@@ -20602,7 +20602,7 @@ istituto,institute
 "istituzionale, legale",institutional
 istituzione,institution
 istmo,isthmus
-"istrice [Amer., porcospino [Amer.], riccio, riccio [Eur.]",hedgehog
+"istrice [Amer., porcospino , riccio, riccio",hedgehog
 istrionico,histrionic
 istruire,schoolhouses
 istruire,schools
@@ -20647,7 +20647,7 @@ kurdo,Kurd
 "l'essere lugubre, tristezza",lugubriousness
 "l'essere meraviglioso, stupirsi",wondrousness
 l'instillare,instillation
-la [Mus.],la
+la,la
 la camera accanto,adjoining room
 la crema,lite
 la persona dei propri sogni,dreamboat
@@ -20697,7 +20697,7 @@ ladruncolo,petty thief
 "lago, lago, seno, seno",loch
 lagrima (= lacrima),tears
 "laguna, lagunare",lagoon
-lai (m.pl.),lays (poet.)
+lai,lays (poet.)
 "laico, laico",layman
 "laico, mondano, terreno",worldly
 "laico, profanamente",profanely
@@ -20705,11 +20705,11 @@ lai (m.pl.),lays (poet.)
 "laido, laido, ripugnante",loathsome
 "laido, rancido, stantio",rancid
 lama,llama
-"lama, lama [Rel.]",lama
+"lama, lama",lama
 lamantino,manatee
 "lambiccarsi (~ il cervello), stillarsi il cervello",rack one's brains
 lambiccato (fig),overcoloured
-"lambicco (chem.), replica, ritorcere, storta [Chim.]",retort
+"lambicco , replica, ritorcere, storta",retort
 "lambire [di onde o fiamme], leccare",lick [to]
 "lambire, leccata",lick
 "lambire, toccare con la lingua",tongue [to]
@@ -20749,7 +20749,7 @@ lana sintetica,rayon staple
 lanceolato,hastate
 lancetta,fleam
 "lancetta, lancetta",locator
-"lancia [Mar.], lancio, scialuppa, varo",launch
+"lancia , lancio, scialuppa, varo",launch
 lancia di salvataggio,lifeboat
 "lancia, lancia",lance
 "lancia, lancia",spear
@@ -20864,14 +20864,14 @@ latinismo,latinism
 latinista,latinist
 latino,Latin
 latitudine,latitude
-lato sottovento [Mar.],lee side
+lato sottovento,lee side
 "lato, lato, proda (f), sponda",side
 latrina,latrine
 latta,tin plate
 latta bianca,tinplate
 latta di benzina,petrol can
-lattasi [Med.],lactase
-lattazione [Biol.],lactation
+lattasi,lactase
+lattazione,lactation
 latte,milk
 "latte a lunga conservazione, latte UHT",long-life milk
 latte condensato,evaporated milk
@@ -20988,7 +20988,7 @@ legare,tie up
 "legare [con corde], scagliarsi contro, sferrare calci e pugni a",lash out [to]
 legare insieme,ligate [to]
 legatario,legatee
-"legato [Mus.], vincolato",legato
+"legato , vincolato",legato
 legato papale,legate
 legatoria,bookbindery
 legazione,legation
@@ -21250,8 +21250,8 @@ licenziato,fired
 "licenzioso, licenzioso",licentious
 "licenzioso, scapestrato, sfrontato, sguaiato, vistoso",raffish
 liceo,secondary school
-licere (poet.),be permitted
-"licere (poet.), permesso",allowed
+licere,be permitted
+"licere , permesso",allowed
 licere (questo non lice),this is not permitted
 "lichene, liciene",lichen
 "licitare, licitazione, offerta, offerto, offrire, profferta, proposta",offer
@@ -21306,8 +21306,8 @@ linciare,lynch [to]
 "lindezza, nettezza",cleanness
 "lindo, lindo",unsoiled
 "linea di alta marea, segno",tidemark
-linea di fondo [Sport.],goal line
-"linea di fuoco, prima linea [Mil.]",firing line
+linea di fondo,goal line
+"linea di fuoco, prima linea",firing line
 linea di marea,tideline
 linea diretta,hot line
 linea politica,party line
@@ -21322,7 +21322,7 @@ linfa vitale,lifeblood
 "linfa, linfa",lymph
 "linfa, succo, succo",sap
 linfangite,lymphangitis
-"linfatico, vaso linfatico [Med.]",lymphatic
+"linfatico, vaso linfatico",lymphatic
 linfocita,lymph cell
 "linfocita, linfocito",lymphocyte
 linfoma,lymphoma
@@ -21355,7 +21355,7 @@ linimento,liniments
 "lino, lino",flax
 linoleum,lino
 "linoleum, linoleum",linoleum
-linotype [Tip.],linotype
+linotype,linotype
 "liocorno, unicorno",unicorn
 liofilizzare,freeze-dry [to]
 liquame,liquid manure
@@ -21382,8 +21382,8 @@ liquirizia,licorice
 liquirizia,licorice [Amer.]
 liquore,liqueur
 liquorizia,liquorice
-lira [Econ.],lira
-"lira, lira [Mus.]",lyre
+lira,lira
+"lira, lira",lyre
 lirica,lyrics
 "lirica, lirica",lyric poetry
 "lirica, lirico, lirico",lyric
@@ -21398,7 +21398,7 @@ lisciato,smoothed down
 "lisciatura, lisciatura",adulation
 "liscio, liscio",makeup
 "liscio, netto, soffice",sleek
-"liscivia, ranno, soluzione alcalina [Chim.]",lye
+"liscivia, ranno, soluzione alcalina",lye
 liso,well-worn
 "liso, liso, logoro",worn out
 lista dei vini,wine card
@@ -21407,7 +21407,7 @@ lista dei vini,wine card
 "listino, listino",bill of fare
 "listone, perno, perno",gib
 litania,litany
-"litargirio [Chim.], litargite [Chim.]",litharge
+"litargirio , litargite",litharge
 litiga,wrangles
 litigai,wrangled
 litigante,litigant
@@ -21424,14 +21424,14 @@ litografare,lithograph [to]
 litografico,lithographic
 litorale,littoral
 litro,litre
-litro [Amer.],liter
+litro,liter
 littoraneo,seacoasts
 "littorina , pervinca",periwinkle
 lituano,Lithuanian
 liturgia,liturgy
 liturgico,liturgical
 "liturgico, liturgico",liturgic
-"liuto [Mus.], mastice",lute
+"liuto , mastice",lute
 "liuto, tumultuosamente",uproariously
 "livella, livella",spirit level
 livellamento,levelling
@@ -21476,7 +21476,7 @@ lodo,arbitration award
 "logaritmico, logaritmico",logarithmic
 logaritmo,logarithm
 loggiato,loggia
-loggione [Teatr.],gods [pl]
+loggione,gods [pl]
 logica,logic
 logica euristica,fuzzy logic
 "logicamente, logico",logically
@@ -21498,7 +21498,7 @@ logorio,wearout
 "logorroico, prolisso",longwinded
 lombaggine,lumbago
 lombarde,haunches
-lombarde [Macell.],haunches [pl]
+lombarde,haunches [pl]
 lombardo,Lombardic
 lombare,lumbar
 "lombata di manzo, lonza",sirloin
@@ -21513,7 +21513,7 @@ longitudinale,longitudinal
 longitudine,longitude
 lontano,far-off
 lontano,faraway
-lontano [Amer.],insofar
+lontano,insofar
 lontano da casa,lock-up
 "lontano, quei",yon
 lontra,otter
@@ -21527,7 +21527,7 @@ loquace,glib
 "lordura, lordura, porcheria",dirtiness
 "lordura, lordura, sporco, sudiciume, sudiciume",dirt
 "loricato, loricato",armoured
-"losanga, pastiglia, rombo [Geom.]",lozenge
+"losanga, pastiglia, rombo",lozenge
 "losco, nottolone",fly-by-night
 lossodromia,loxodrome
 loto,lotus
@@ -21551,13 +21551,13 @@ lubrificazione,lubrication
 lucchetto,padlock
 luccicare,glimmer [to]
 luccichio,glimmer
-lucciola [Amer.],lightning bug
+lucciola,lightning bug
 luce ad arco,arclight
 luce di lume,lamplight
 luce di posizione,sidelight
 "lucente, splendente",lustrous
 lucentezza perfetta,mirrorfinish
-lucere (poet.),be luminous
+lucere,be luminous
 lucertola,lizard
 "luci della ribalta, luci della ribalta",footlights
 "luci della ribalta, luci della ribalta [pl]",limelight
@@ -21576,7 +21576,7 @@ ludibrio,mockery
 ludibrio,mocking
 "lue, lue",epidemic plague
 "lue, lue",syphilis
-"lue, lue [Med.], sifilide [Med.]",lues
+"lue, lue , sifilide",lues
 luglio,July
 "lugubre, lugubre",lugubrious
 "lugubre, lugubremente, tristemente",sadly
@@ -21604,12 +21604,12 @@ lungaggine,lengthiness
 lunghetto,rather long
 lunghi (da ~),from afar
 lunghi (da ~),in the distance
-lungi (poet.),far off
+lungi,far off
 lungimirante,far-sighted
 "lungo il fiume, lungofiume, rivierasco, sponda",riverside
 "lungo, lungo",adagio
 lunotto posteriore,rear window
-lunula [Med.],lunule
+lunula,lunule
 luogo (2),stead (lieu); passage (in book);
 luogo (3),locus (math.)
 luogo (aver ~),to take place
@@ -21629,7 +21629,7 @@ luogo di sosta,layby
 "luogo, scena, scena",locale
 lupi,wolves
 lupino,lupin
-lupino [Amer.],lupine
+lupino,lupine
 lupo,wolf
 "lupo di mare, topo di fogna",water rat
 lupo mannaro,werewolf
@@ -21759,7 +21759,7 @@ magnesio,magnesium
 "magnetico, magnetico",magnetical
 magnetismo,magnetics
 "magnetismo, magnetismo",magnetism
-magnetite [Min.],loadstone
+magnetite,loadstone
 magnetometro,magnetometer
 "magnificenza, magnificenza, sfarzo",magnificence
 "magnificenza, magnificenza, splendore",splendor
@@ -22066,7 +22066,7 @@ marinai,seamen
 marinaio,mariner
 marinaio,shipman
 marinaio d'acqua dolce [spreg,landlubber
-"marinaio inesperto [Mar.], tanghero",lubber
+"marinaio inesperto , tanghero",lubber
 "marinaio, marinaio",seaman
 "marinaio, marinaio, navigante, navigatore, navigatore",sailor
 marinare,duffles-coat [to]
@@ -22078,7 +22078,7 @@ maritale,marital
 "marito, omo, persona, persona, uomo, uomo",man
 marmellata di agrumi,marmalade
 marmitta,stock-pot
-"marmitta [Amer.], sciarpa pesante",muffler
+"marmitta , sciarpa pesante",muffler
 marna,marl
 marnoso,marly
 marocchino,Moroccan
@@ -22095,7 +22095,7 @@ martellare,hammered
 martello,gavels
 martello,hammer
 martingala,martingale
-"martir (poet.), martirio, martiro",martyrdom
+"martir , martirio, martiro",martyrdom
 martire,martyr
 martirizzare,agonize
 martirizzare,agonize [to]
@@ -22180,7 +22180,7 @@ materiale 2,clumsy
 materiale 2,matter-of-fact
 materiale 2,prosaic
 "materiale 2, senza immagginazione, senza immaginazione",unimaginative
-"materiale scenico [Teatr.], proprietà, trovarobe",props [pl]
+"materiale scenico , proprietà, trovarobe",props [pl]
 materializzare,materialize [to]
 maternità,maternity
 maternità,motherhood
@@ -22226,11 +22226,11 @@ meccanizzare,mechanize [to]
 meco,with me
 "medacio, mendacio",falsehood
 medaglia,medal
-"medaglione, puntale [Oref.]",locket
+"medaglione, puntale",locket
 medesimo (io ~),I myself
 "medesimo, pari, pari, stesso",same
 "mediana, mediano",median
-mediano [Sport.],halfback
+mediano,halfback
 mediante,by means of
 mediare,mediate [to]
 mediatore,mediator
@@ -22344,8 +22344,8 @@ mercede,recompense
 mercenario,hireling
 mercenario,mercenaries
 "mercenario, mercenario",mercenary
-merceria [Brit.],haberdashery
-merciaio [Brit.],haberdasher
+merceria,haberdashery
+merciaio,haberdasher
 "merciaiolo, merciaiuolo",=merciaio
 mercoledì,wednesday
 "mercoledí, mercoledì",Wednesday
@@ -22445,7 +22445,7 @@ mettere da parte,put aside [to]
 "mettere fra virgolette, quotare",quote [to]
 mettere il manico,helve [to]
 mettere il vetro a,glass [to]
-"mettere in cinta [Amer.], svegliare bussando",knock up [to]
+"mettere in cinta , svegliare bussando",knock up [to]
 mettere in comunicazione,put on to [to]
 mettere in disordine,unsettle[to]
 mettere in dubbio,disbelieve
@@ -22475,7 +22475,7 @@ mettere sul trono,enthrone [to]
 metterla sul ridere,laugh off [to]
 mettersi in contatto con,get on to [to]
 mettersi in costume,costume [to]
-mettersi in panna [Mar.],heave to [to]
+mettersi in panna,heave to [to]
 "mettersi in posa, posare, spacciarsi pe",pose [to]
 "metà, mezzo, mezzo",semi
 mezza luna,half moon
@@ -22501,8 +22501,8 @@ mialgia,myalgia
 miasma,miasma
 miastenia,myasthenia
 "miccia, miccia",slow match
-micio [Brit.],mog
-micio [Brit.],moggy
+micio,mog
+micio,moggy
 micologia,mycology
 micosi,mycosis
 micotico,mycotic
@@ -22608,7 +22608,7 @@ miniaturizzare,miniaturize [to]
 miniaturizzato,miniaturized
 minigonna,miniskirt
 minima,minim
-minima [Amer.] [Mus.],half note
+minima,half note
 minimizzare,play down [to]
 minimo,minimal
 minimo,minimum
@@ -22624,7 +22624,7 @@ minuscolo [di carattere],lower case
 "minuscolo, minuscolo",wee
 "minuscolo, minuscolo, minuta",tiny
 "minuscolo, minuscolo, piccolo, piccolo",small
-minuti di recupero [Sport.],injury time
+minuti di recupero,injury time
 "minuto, minuto",minute
 "minuto, piccolissimo",itsy-bitsy
 "minuto, piccolissimo",itty-bitty
@@ -22669,9 +22669,9 @@ miscuglio,mishmashes
 "miserabile, miserabilità",wretchedness
 "miserabile, miseria, penuria, penuria, sofferenza",misery
 "miserando, tristo",wretched
-miserere (eccl.),Miserere
-miserere (eccl.),cry for mercy
-miserere (eccl.),sad/tiresome person (fig
+miserere,Miserere
+miserere,cry for mercy
+miserere,sad/tiresome person (fig
 "miseria, povertà, povertà",poverty
 "misericordiosamente, misericordioso",mercifully
 misericordioso,merciful
@@ -22717,8 +22717,8 @@ mobile,unfixed
 "mobile, mobile, spostabile",mobile
 "mobile, portatile",portable
 "mobili, mobilia",furniture
-"mobilitare [Mil.], mobilizzare [Fin.]",mobilize [to]
-"mobilitazione [Mil.], mobilizzazione [Fin.]",mobilization
+"mobilitare , mobilizzare",mobilize [to]
+"mobilitazione , mobilizzazione",mobilization
 mobilità,mobility
 mocassino,moccasin
 "moccio, muco",snot
@@ -22758,7 +22758,7 @@ modulatore,modulator
 "modulo di denuncia, modulo di denuncia, modulo di richiesta",application form
 "modulo di denuncia, modulo di iscrizione",registration form
 "modulo, modulo",printed form
-"modulo, modulo [Tecn.]",module
+"modulo, modulo",module
 "modulo, modulo, nullaosta, nullaosta, permettere, permettere, permisso, volere 2.",permit
 mogano,mahogany
 mogio,crestfallen
@@ -22789,7 +22789,7 @@ molletta per capelli,hairgrip
 "mollezza, trascuratezza",laxity
 "mollezza, trascuratezza",laxness
 mollusco,mollusc
-mollusco [Amer.],mollusk
+mollusco,mollusk
 "molo, molo, pontile",wharf
 "molo, neo, talpa",mole
 molteplice,multiplex
@@ -22869,7 +22869,7 @@ monogramma,monogram
 monolitico,monolithic
 monolito,monolith
 monologo,monologue
-monologo [Amer.],monolog
+monologo,monolog
 monomandatario,monomandatory
 monomania,monomania
 monomaniaco,monomaniac
@@ -22889,7 +22889,7 @@ monoscocca,monocoque
 monoteista,monotheist
 monotematico,monothematic
 monotipo,one design
-monotipo [Tip.],monotype
+monotipo,monotype
 "monotonia, monotonia",monotony
 "monotono, monotono, uniforme",monotonous
 monovalente,univalent
@@ -22947,7 +22947,7 @@ mordente,mordant
 mordi,bites
 "mordicchiare, rosicchiare",nibble [to]
 morena,moraine
-morfema [Ling.],morpheme
+morfema,morpheme
 morfina,morphine
 morfinomane,morphine addict
 morfinomania,morphine addiction
@@ -23030,7 +23030,7 @@ motosega,electric saw
 motovedetta,motor patrol vessel
 motoveliero,motor-sail boat
 motozattera,motor barge
-"mouse [Comp.], sorcio, topo",mouse
+"mouse , sorcio, topo",mouse
 movenza,movement (graceful)
 moviamo (pres. muovere),we move
 movibile,movable
@@ -23077,7 +23077,7 @@ multilaterale,multilateral
 "multilingue, poliglotta",multilingual
 multimilionario,multimillionaire
 multinazionale,multinational
-"multipara [Biol.], pluripara [Biol.]",multiparous
+"multipara , pluripara",multiparous
 multipiano,multistorey
 multipolare,heteropolar
 multiproprietà,multiproperty
@@ -23143,7 +23143,7 @@ mutande,briefs
 mutande,pants
 mutande,underpants
 "mutande, mutandine",briefs [pl]
-"mutande, pantaloni [Amer.]",pants [pl]
+"mutande, pantaloni",pants [pl]
 mutandine,panties [pl]
 mutandoni [da uomo],long-johns [pl]
 mutante,mutant
@@ -23211,7 +23211,7 @@ nascondersi,skulk [to]
 nascosi,dissemble
 "nascosi, occultare, sottacere",conceal
 nasello,hake
-"naso [Brit.], sirena",hooter
+"naso , sirena",hooter
 naso rincagnato,pug-nose
 nastro da cappello,hatband
 nastro isolante,rubber tape
@@ -23251,7 +23251,7 @@ nave a vela,sailing ship
 "nave da carico, nave da carico",freighter
 nave da guerra,warship
 "nave di linea, sacchetto dell'immondizia, transatlantico",liner
-"nave olandese [Mar.], olandese, olandese",Hollander
+"nave olandese , olandese, olandese",Hollander
 nave passeggeri,passenger ship
 nave scuola,training ship
 "nave, spedire, trasportare, vascello, vascello",ship
@@ -23384,7 +23384,7 @@ nervo ottico,opticnerve
 nesso,nexus
 nessuno,nobody
 "nessuno, nessuno, niuno, non di uno",no one
-"nessuno, nessuno, no, no, nol (poet.), non, non, non di uno, non uno",no
+"nessuno, nessuno, no, no, nol , non, non, non di uno, non uno",no
 "nessuno, nessuno, non di uno",not any
 "nessuno, non uno, non uno, veruno",none
 nettare,nectar
@@ -23492,8 +23492,8 @@ noia,noyance
 "noioso, preoccupante",worrisome
 "noioso, scialbo",lackluster [Amer.]
 nojoso,= noioso
-nol (poet.),(stronger than none)
-nol (poet.),doesn't
+nol,(stronger than none)
+nol,doesn't
 nol potevi,you couldn't
 nol sapete,you don't know anything?
 "noleggiatore, proprietario",tenant
@@ -23561,7 +23561,7 @@ non nuotatore,non-swimmer
 "non permesso, non permesso",without permission
 non pertinente,irrelevant
 non pertinenza,irrelevance
-non praticante [Rel.],lapsed
+non praticante,lapsed
 non predetto,unforetold
 non profumato,unscented
 non regolato,unregulated
@@ -23752,8 +23752,8 @@ nuvole,clouds
 nuziale,nuptially
 "né, nè, nè, neppure",nor
 "né, nè, né l'uno né l'altro, nessuno",neither
-"o, o, oppure, sia (conj.)",either
-"o, od, oppure, ovvero, ovvero, sia (conj.)",or
+"o, o, oppure, sia",either
+"o, od, oppure, ovvero, ovvero, sia",or
 oasi,oasis
 "obbediente, ubbidiente",obedient
 obbedienza,obedience
@@ -23867,7 +23867,7 @@ oceanografia,oceanography
 ocello,ocellus
 ocra,ocher
 ocraceo,ochreous
-"oculare, rai (poet.)",eyes
+"oculare, rai",eyes
 oculavezza,circumspection
 oculista,oculist
 oculista,ophtalmologist
@@ -24057,7 +24057,7 @@ omosessuale,homosexual
 omosessualità,homosexuality
 oncia,ounce
 oncologia,oncology
-ondare (poet.),welter
+ondare,welter
 ondata,big wave
 ondata di caldo,heatwave
 onde,with it
@@ -24251,7 +24251,7 @@ orecchino,earring
 orecchio,lughole
 "orecchio, orecchio, spiga",ear
 orecchioni,mumps
-"orecchioni, parotite [Med.]",mumps [pl]
+"orecchioni, parotite",mumps [pl]
 orfanotrofio,orphanage
 orfico,Orphean
 organi,organs
@@ -24297,8 +24297,8 @@ origliare,overhear
 origliare,overhear [to]
 "orina, urina, uroscopia",urine
 "orinale, pitale",urinal
-"oriuolo (obs.), orologio, orologio",clock
-"oriuolo (obs.), orologio, orologio, scolta (f), sorvegliare, vegghia",watch
+"oriuolo , orologio, orologio",clock
+"oriuolo , orologio, orologio, scolta (f), sorvegliare, vegghia",watch
 orizzontale,horizontal
 orizzontalmente,horizontally
 orizzonte,skyline
@@ -24312,8 +24312,8 @@ orlo di gonna,hemline
 "orlo, vivagno",hem
 orma,footprint
 "orma, pedata, pedata",footstep
-ormeggiare [Mar.],moor [to]
-ormeggio [Mar.],mooring
+ormeggiare,moor [to]
+ormeggio,mooring
 ormonale,hormonal
 ormone,hormone
 ornamentale,ornamental
@@ -24354,7 +24354,7 @@ ortogonale,orthogonal
 ortogonalmente,orthogonally
 ortopedia,orthopaedy
 ortopedico,orthopaedic
-orzare [Mar.],luff [to]
+orzare,luff [to]
 orzata,orgeat
 orzo,barley
 osanna,hosanna
@@ -24452,7 +24452,7 @@ osteopata,osteopath
 osteopatia,osteopathy
 osteoporosi,osteoporosis
 osteotomia,osteotomy
-osteria [Amer.],porterhouse
+osteria,porterhouse
 "osteria, osteria, ristorante",restaurant
 ostetricia,obstetrics
 ostetrico,obstetrician
@@ -24545,7 +24545,7 @@ ovulare,ovulate [to]
 ovulazione,ovulation
 "ovulo, uovo",ovule
 "ovulo, uovo",ovum
-ovunque [Amer.],everyplace
+ovunque,everyplace
 ovviare,obviate [to]
 "ovviare, provvedere",provide
 oxford,Oxford
@@ -24561,7 +24561,7 @@ ozonizzato,ozonized
 ozonizzatore,ozonizer
 ozono,ozone
 ozonosfera,ozonosphere
-p.p. di di to get [Amer.],gotten
+p.p. di di to get,gotten
 p.p. di to bear,born [irr]
 p.p. di to choose,chosen [irr]
 p.p. di to cleave,cleft [irr]
@@ -24725,7 +24725,7 @@ palmipede,web-footed animal
 "palombaro, sommozzatore, sommozzatore, tuffatore",diver
 palombo,ring dove
 palpabile,palpable
-"palpata [volg.], ricerca a tastoni",groping
+"palpata , ricerca a tastoni",groping
 palpebra,eye lid
 palpebra,eyelid
 palpitazione,palpitation
@@ -24812,7 +24812,7 @@ pappatore (m) (-trice f.),guzzler
 pappatore (m) (-trice f.),huge eater
 pappatoria,feasting
 paprica,red pepper
-papà [Amer.],poppa
+papà,poppa
 "papà, papà",Dad
 "papà, papà",Daddy
 "papà, papà",dad
@@ -24839,7 +24839,7 @@ paradisi,paradises
 "paradossale, paradossale",paradoxical
 "paradossale, paradossale, paradosso",paradox
 parafango,mudguard
-parafango [Amer.],mudflap
+parafango,mudflap
 parafernale,paraphernal
 paraffina,parafin
 parafrasare,paraphrase [to]
@@ -24935,7 +24935,7 @@ parlatorio,parlor
 parmense,Parmesan
 parmigiano,parmesan
 parnaso,Parnassus
-paro (ant. pop.),even (= pari)
+paro,even (= pari)
 parodia,parody
 parola d'ordine,password
 parolaccia,bad word
@@ -24953,7 +24953,7 @@ parrocchia,parish
 parrocchiano,parishioner
 parroco,parish priest
 parroco,parson
-"parroco, parroco, pastore [Eccl.]",pastor
+"parroco, parroco, pastore",pastor
 "parroco, parroco, rettore",rector
 parrucca,wig
 parrucchiera,woman hairdresser
@@ -25002,7 +25002,7 @@ parve,=parere (past def.)
 parziale,partial
 "parziale, tendenzioso",slanted
 parzialità,partiality
-"parà [Mil.], paracadutista [Mil.]",paratrooper
+"parà , paracadutista",paratrooper
 "pascere (pasco pasci), pascersi (di)",feed on
 "pascolo, pastura",pasture
 "pasqua, Pasqua",Easter
@@ -25084,7 +25084,7 @@ passare le vacanze,holiday [to]
 passare qlcu. per le armi,shoot or execute s.o.
 passare vicino,pass by
 "passare, trascorrere",pass [to]
-"passato [Cuc.], purè",puree
+"passato , purè",puree
 passato di piselli,peasoup
 passatoia,carpet runner
 passatura,darn
@@ -25108,7 +25108,7 @@ passiflora,passion-flower
 passino,child's step
 passito,raisin wine
 passività,passivity
-"passività [Fin.], passivo [Fin.]",liabilities [pl]
+"passività , passivo",liabilities [pl]
 passo carraio,driverway
 passo lungo,lope
 "passo, pedata, pedata",tread
@@ -25275,7 +25275,7 @@ pedule,climbing shoes [pl]
 peggiorare,aggravate
 peggiorare,deteriorate
 peggiorare,get worse [to]
-peggiorativo [Gramm.],pejorative
+peggiorativo,pejorative
 pei (= per i),by the
 pelame,animal hair
 "pelame, pelle, pelliccia, pelo",fur
@@ -25366,7 +25366,7 @@ pensierosamente,thoughtfully
 pensionamento,retirement
 pensionare,pension [to]
 pensionato,pensioner
-pensionato [Amer.],retiree
+pensionato,retiree
 "pensionato, pensionato",retired person
 "pensionato, pensionato per anziani",old age pensioner
 pensione,boarding house
@@ -25483,7 +25483,7 @@ perdita di tempo,waste of time
 "perdita, perdita, privazione, rapina, rapina",deprivation
 "perdita, perdita, sortita",sortie
 perdite,losses
-perdite [Econ.],losses [pl]
+perdite,losses [pl]
 "perdite, perdite",sorties
 perditempo,time loss
 perdona,forgives
@@ -25782,7 +25782,7 @@ piantare ad erba,grass [to]
 piantare in asso,jilt [to]
 "piantare, radicarsi",root [to]
 "piantare, seminare",plant [to]
-"piantatore, piantatrice [Mecc.]",planter
+"piantatore, piantatrice",planter
 pianterreno,ground floor
 pianterreno,ground-floor
 "piantina, piantina",city map
@@ -25903,7 +25903,7 @@ pillola del giorno dopo,morning-after pill
 piloro,pylorus
 pilotaggio,pilotage
 "pilotare, volare",pilot [to]
-pilotina [Mar.],pilot boat
+pilotina,pilot boat
 pinacoteca,picture gallery
 "ping-pong, tennis da tavolo",ping-pong
 pingue (poet),(fig) rich
@@ -25923,7 +25923,7 @@ piombare (su),assail
 piombare 2.,fall (heavily)
 piombare 2.,pounce
 piombato,sealed with lead
-piombi (pl. hist.),attic prisons in the Doge's palace in Rome
+piombi,attic prisons in the Doge's palace in Rome
 pioniere,pioneer
 pioppi,poplars
 pioppo,poplar
@@ -26051,7 +26051,7 @@ plasticità,plasticity
 plastificare,plasticize [to]
 plastilina,plasticine
 platano,plane tree
-platessa [Mar.],plaice
+platessa,plaice
 platino,platinum
 platonico,Platonic
 plebeo,plebeian
@@ -26061,10 +26061,10 @@ plenario,plenary
 plenilunio,full moon
 plenipotenziario,plenipotentiary
 plesso,plexus
-plettro [Mus.],plectrum
+plettro,plectrum
 pleura,pleura
 pleurite,pleurisy
-plotone [Mil.],platoon
+plotone,platoon
 plotone di esecuzione,firing squad
 pluf,plop
 plurale,plural
@@ -26161,8 +26161,8 @@ polmone,lung
 polmone,lungs
 polmoni [verdi],lungs [pl]
 polmonite,pneumonia
-polo [Sport.],polo
-polpetta [Cul.],rissole
+polo,polo
+polpetta,rissole
 "polsino, risvolto, rovescia, scappellotto",cuff
 "polso, polso",wrist
 "poltiglia, sbavatura, sdolcinatura",slobber
@@ -26193,7 +26193,7 @@ ponderato,weighted
 pone (pres. porre),places
 pongo,= pres. porre
 ponte,bridge
-ponte di barche [Mil.],pontoon bridge
+ponte di barche,pontoon bridge
 pontefice,pontifex (Roman state)
 pontefice,pontiff (eccl.)
 pontificare,hold forth [to]
@@ -26208,13 +26208,13 @@ popolazione,population
 "poppa, poppa",stern
 poppante,nursling
 "poppare, risucchiare, succhiare",suck [to]
-poppavia [Mar.],gaft
+poppavia,gaft
 porcellana fine,bone china
 "porcellana, porcellana",china
 "porcellana, porcellana",chinaware
 "porcellana, porcellana",crockery
 "porcellana, porcellana",porcelain
-porcile [Amer.],pigpen
+porcile,pigpen
 "porcile, stalla",sty
 porcino,boletus
 porcino,yellow boletus
@@ -26227,8 +26227,8 @@ poro,pore
 porro,leek
 porta finestra,French doors [pl]
 porta finestra,French window
-porta praticabile (theatr.),real exit not just painted
-porta praticabile (theatr.),stage door
+porta praticabile,real exit not just painted
+porta praticabile,stage door
 "porta, portiera, uscio",door
 "portabagagli, stivale",boot
 portabile,wearable
@@ -26238,7 +26238,7 @@ portaerei,aircraft carrier
 portaferiti,stretchers
 "portafoglio, portamonete",wallet
 portai,wore
-"portale, portale, porticato, portico, veranda [Amer.]",porch
+"portale, portale, porticato, portico, veranda",porch
 portante,carrying
 "portante, portante",bringing
 portanza,carrying capacity
@@ -26253,7 +26253,7 @@ portare a terra,earths
 "portare, recarsi, rechi (pres. recare)",bring
 "portare, riportare, trasportare",carry [to]
 "portarsi avanti a, trainare",pull ahead [to]
-portatile [Comp.],laptop
+portatile,laptop
 portato,carried
 "portato, portato",worn
 portatore,bearer
@@ -26455,7 +26455,7 @@ predestinazione,predestination
 predeterminare,predetermine [to]
 predica,homily
 predicare,preach [to]
-predicato [Gramm.],predicate
+predicato,predicate
 predicatore,preacher
 predigerito,predigested
 predigestione,predigestion
@@ -26491,7 +26491,7 @@ prefigurare,prefigure [to]
 prefigurazione,prefiguration
 "prefissare, premettere",prefix [to]
 "prefissato, prefisso",prefixed
-prefisso [Gramm.],prefix
+prefisso,prefix
 prefisso telefonico,dialling code
 preformare,preform [to]
 preformazione,preformation
@@ -26695,7 +26695,7 @@ prevaricare,prevaricate [to]
 prevedere,envisage [to]
 prevedere,foreknow
 prevedere,look ahead
-prevedere [Amer.],envision [to]
+prevedere,envision [to]
 prevedibile,foreseeable
 prevenire,forfend
 preventivo,pre-emptive
@@ -26722,14 +26722,14 @@ prigione,slammer
 "prigione, prigione",gaol
 "prigioniero, prigioniero",caught
 prim (di ~'ordine),first class
-prima [Cin.],premiere
-"prima che, prima di [Poet.]",ere
+prima,premiere
+"prima che, prima di",ere
 prima della sentenza,presentence
 prima donna,leading lady
-prima fila [Teat.],chorus-line
+prima fila,chorus-line
 "prima, prima",at the outset
 primario,guiding
-primario [Med.],head physician
+primario,head physician
 "primario, primo, principale",prime
 "primate, quadrumane",primate
 primatista,record-breaker
@@ -26740,7 +26740,7 @@ prime rate,first installments [pl]
 primitivo,primal
 "primitivo, primitivo",primitive
 primo attore,leding actor
-"primo di maggio, richiesta di soccorso [Aer.]",Mayday
+"primo di maggio, richiesta di soccorso",Mayday
 primo ministro,premier
 principesco,princely
 principessa,princess
@@ -26787,7 +26787,7 @@ procedere a gran passi,lope [to]
 "procedimento, procedura, trafila",procedure
 procedurale,procedural
 processare,process [to]
-"processare di nuovo [Dir.], ripetere",retry [to]
+"processare di nuovo , ripetere",retry [to]
 processo,process
 processuale,trial-like
 proclama,manifesto
@@ -26854,12 +26854,12 @@ progettista,planner
 prognosi,prognosis
 prognosticare,prognosticate [to]
 programma pilota,pilot programme
-programma pilota [Amer.],pilot program
-"programma, programma [Amer.]",program
+programma pilota,pilot program
+"programma, programma",program
 "programma, prospetto",prospectus
 "programma, rappresentazione, spedizione, trasmissione",programme
 programmare,programme [to]
-programmare [Amer.],program [to]
+programmare,program [to]
 "programmare, stroncare",slate [to]
 programmato,programmed
 programmazione,programming
@@ -27009,8 +27009,8 @@ provocare,induce
 provocare,induce [to
 "provocatore, sfidante",challenger
 provvedere,service [to]
-provvedere (intr.),arrange (for sth.)
-provvedere (intr.),provide (for sth.)
+provvedere,arrange (for sth.)
+provvedere,provide (for sth.)
 provvedere al,provide for
 provvedere al,see to
 provvedi!,see to it!
@@ -27019,7 +27019,7 @@ provvidenziale,heaven-sent
 provvidenziale,providential
 "provvidenziale, provvidenziale",forehanded
 "provvidenziale, provvidenzialmente",forehandedly
-provvigioni [Mil.],rations [pl]
+provvigioni,rations [pl]
 provvisorio,provisional
 "provviste, scorte [di cibo], viveri",provisions [pl]
 provò (che ~),what happened to you
@@ -27170,7 +27170,7 @@ purezza,purity
 purgatorio,purgatory
 purificazione,purification
 purista,purist
-puro [rel.],kosher
+puro,kosher
 purulento,purulent
 pustola,pimples
 putiferio,ruckus
@@ -27189,7 +27189,7 @@ péra,head (fig.)
 pò (= puoi pres. potere),you can
 "pòte (= puòte pres. potere), puòte (= può - pres. potere)",he can
 "qua, qua",thisway
-quacchero [Rel.],Friend
+quacchero,Friend
 quadrangolare,quadrangular
 quadrangolo,quadrangle
 quadrante,quadrant
@@ -27203,7 +27203,7 @@ quadriennale,four-year
 quadriennio,four-year term
 quadrifoglio,four-leaf clover
 quadrigetto,four-engine jet
-quadriglia [Mus.],quadrille
+quadriglia,quadrille
 quadrilatero,quadrilateral
 "quadrilatero, quadrilatero",four sided
 quadrimestrale,four-month
@@ -27252,7 +27252,7 @@ quarantesimo,fourtieth
 quarantina,group of forty
 quaresima,Lent
 quaresimale,Lenten
-"quarta, quarta [Mus.], quarto",fourth
+"quarta, quarta , quarto",fourth
 quartetto,quartet
 quartiere generale,head quarters
 quartiere generale,headquarters [pl]
@@ -27524,7 +27524,7 @@ ramino,gin rummy
 rammendare,sew up [to]
 rammentare,remind [to]
 ramo di competenza,special field
-ramo femminile [Geneal.],distaff side
+ramo femminile,distaff side
 ramoscello,sprig
 "rampa, rampa",ramp
 "rampicante, rampicante",clambering
@@ -27746,7 +27746,7 @@ regione montuosa,highland
 registrabile,recordable
 registrabile,registrable
 registrare,beeches [to]
-registrare [Comp.],log [to]
+registrare,log [to]
 "registrare [di cassa], telefonare",ring up [to]
 "registrarsi [in aeroporto], registrarsi [in albergo]",check in [to]
 "registrato, registrato",logged
@@ -27806,7 +27806,7 @@ religione,religion
 "religioso, religioso",religious
 reliquia,relic
 relitti,flotsam
-relitti [Mar.],jetsam
+relitti,jetsam
 "relitti, vagabondi",flotsam [pl]
 remata,oarage
 remata,rowing
@@ -27827,7 +27827,7 @@ rendere resistente,proof [to]
 rendiconto,returns [pl]
 rendita immeritata,unearned income
 rene artificiale,kidney machine
-"rene, rognone [Cul.]",kidney
+"rene, rognone",kidney
 renna,reindeer
 reologia,rheology
 "reparto spedizione, reparto spedizioni",forwarding department
@@ -27843,7 +27843,7 @@ replicare,talk back [to]
 replicazione,replication
 repressione,repression
 repressivo,repressive
-"represso, rimosso [Psic.]",repressed
+"represso, rimosso",repressed
 "reprimere, stare giù",keep down [to]
 repubblica,republic
 repubblicano,republican
@@ -27961,8 +27961,8 @@ revisionismo,revisionism
 revisionista,revisionist
 "revoca, richiamo, ricordare",recall
 revocare,revoke [to]
-revulsivo [Farm.],revulsive
-"ria (poet.), terribile, tremendo, tremendo",terrible
+revulsivo,revulsive
+"ria , terribile, tremendo, tremendo",terrible
 "riabilitare, ripristinare",rehabilitate [to]
 riaccendere,rekindle [to]
 riacquistare,buy back [to]
@@ -28049,10 +28049,10 @@ ricco,richer
 ricco,wealthier
 ricco di corsi d'acqua,streamy
 "ricco di, ricco di",affluentin
-"ricco, sgargiante, sontuoso, ubriacone [Amer.]",lush
+"ricco, sgargiante, sontuoso, ubriacone",lush
 ricercare,search [to]
 ricercato,searched
-"ricercato, volle (poet.)",wanted
+"ricercato, volle",wanted
 "ricercatore, scienziato, scienziato",research worker
 ricetrasmettitore,transmitter-receiver
 "ricetta, ricetta",recipe
@@ -28156,7 +28156,7 @@ ridare,give again [to]
 ridare [un esame],resit [to]
 ridda,round dance
 ridda,whirl (fig.); mass (of news)
-ridean (poet.),= ridevano
+ridean,= ridevano
 ridefinire,redefine [to]
 ridefinizione,redefinition
 ridere,laugh [to]
@@ -28174,7 +28174,7 @@ ridistribuzione,redistribution
 "ridondante, senza lavoro",redundant
 ridondanza,redundancy
 ridotto,reduced
-ridotto [Teatr.],foyer
+ridotto,foyer
 riducibile,reducible
 riducibilità,reducibility
 ridurre le spese,retrench [to]
@@ -28743,8 +28743,8 @@ romanticismo,romanticism
 "romantico, romantico",romantic
 "romantico, romantico",romantically
 "romantico, romantico",romanticist
-romanza (music.),ballad
-romanza (music.),romance
+romanza,ballad
+romanza,romance
 romanzare,novelize [to]
 romanziere,novelist
 romba,confused din
@@ -28814,7 +28814,7 @@ rottamaio,scrap dealer
 "rotto, rotto",fractured
 rotture,fractions
 rotture,fractures
-rotula [Med.],kneecap
+rotula,kneecap
 roulette,roulette
 roulotte,mobile home
 routine,ruotine
@@ -28942,7 +28942,7 @@ sagace,shrewd
 "sagace, saggio, saggio",sagacious
 "sagacia, saggezza",sagaciousness
 "saggezza, saggezza",sageness
-sagola di salvataggio [Mar.],lifeline
+sagola di salvataggio,lifeline
 sagrestia,sacristy
 sagrestia,vault (of bank)
 sagrestia,vestry
@@ -29008,7 +29008,7 @@ salta,lopes
 saltare su una gamba,hop [to]
 "saltare, saltellare",skip [to]
 salto con l'asta,pole vault
-salto pagina [Comp.],form feed
+salto pagina,form feed
 "salto, salto mortale",somersault
 "salubre, sano",wholesome
 "salubremente, sana",salubriously
@@ -29082,7 +29082,7 @@ sarchiello,weeding hook
 sarcomatoso,sarcomatous
 "sarda, sardo",Sardinian
 sarmatico,Sarmatian
-sartiame [Mar.],rigging
+sartiame,rigging
 sarto,taylor
 sarto,taylors
 "sarto, sarto",dressmaker
@@ -29106,7 +29106,7 @@ satiro,satyr
 satollamento,satiation
 "satollamento, saturazione",saturation
 saturare,glut [to]
-saturnismo [Med.],lead poisoning
+saturnismo,lead poisoning
 "saturo, saziare",saturate
 saudita,Saudi
 sauna,sauna
@@ -29716,7 +29716,7 @@ scuoiare,skin [to]
 scuola,school
 scuola di perfezionamento,normal school
 scuola elementare,elementary school
-"scuola media [Brit.], scuola superiore [Amer.]",high school
+"scuola media , scuola superiore",high school
 scuotere,toss [to]
 "scuotere, traballare, tremare",shake [to]
 scuotersi,rouse o.s.
@@ -29760,7 +29760,7 @@ secondo me,in my opinion
 secondo vuole il rito,in accordance with the rites
 "secondo, ultimo [di due]",latter
 secure,= scure
-securo (poet.),= sicuro
+securo,= sicuro
 securta,surety
 sedano,celery
 sedei,sat
@@ -30055,7 +30055,7 @@ seppia,small cuttlefish
 sequestrante,seizing
 sequestratore,abductor
 "sera, serata, serata, vegghia",evening
-"sera, vecchiaia, vespro [Poet.]",eventide
+"sera, vecchiaia, vespro",eventide
 serbar rancore,addenda
 serbo,Serb
 serbo,Serbian
@@ -30095,7 +30095,7 @@ servitù,servitude
 servizio giornalistico,reportage
 "servizio recupero automezzi, servizio recupero automezzi",breakdown service
 "servizio recupero automezzi, servizio recupero automezzi",wrecking service
-servizio segreto [Brit.],intelligence service
+servizio segreto,intelligence service
 servosterzo,power steering
 sesamo,sesame
 "sessanta, sessanta",sixty
@@ -30532,7 +30532,7 @@ soggiorno,sojourn
 "soggiorno, stanza",living room
 "soglia, soglia",threshold
 soglio (= solere),I used to
-soglio (poet.),I usually
+soglio,I usually
 "soglio, trono",throne
 "sogliola, solo, solo, suola",sole
 sogna,dreams
@@ -30547,7 +30547,7 @@ solare,solar
 solchi,= solco (pl)
 soldato,serviceman
 soldato,soldier
-soldato semplice [Amer.],enlisted man
+soldato semplice,enlisted man
 soldo,sou
 sole,sun
 soleggiare,sun [to]
@@ -30827,16 +30827,16 @@ sottovalutare,underrate [to]
 sottovalutare,undervalue
 sottovalutare,undervalue[to]
 "sottovalutare, svalutare",devalue [to]
-sottovento [Mar.],lee
-sottovento [Mar.],leeward
+sottovento,lee
+sottovento,leeward
 sottrarre,detract
 sottrarre,detract [to]
 sottrarre,take away[to]
 sottufficiale,non-commissioned officer
-soverchiare (irr.),be in excess
-soverchiare (irr.),bully
-soverchiare (irr.),overcome
-soverchiare (irr.),surpass
+soverchiare,be in excess
+soverchiare,bully
+soverchiare,overcome
+soverchiare,surpass
 sovietico,Sovietic
 sovra,= sopra
 sovraccaricare,overload [to]
@@ -30915,7 +30915,7 @@ sparlare di,do down [to]
 sparo,shot
 sparo 2.,cf sarago
 spartiacque,watershed
-sparve (cf disparere pret.),disappeared
+sparve,disappeared
 spasimare,be racked with pain
 spasimare,long ardentl
 spasimare,suffer agonies
@@ -30957,7 +30957,7 @@ spazzolone [per i pavimenti],mop
 specchietto,small mirror
 specchio,looking glass
 specchio ustorio,burning glass
-"specchio, specchio, speglio (poet.)",mirror
+"specchio, specchio, speglio",mirror
 speciale,special
 "specialista, specialista, specialista",specialist
 specialità,specialty
@@ -31039,7 +31039,7 @@ spettroscopio,spectroscope
 spezieria,chemist's
 spezieria,druggists
 spezieria,spices
-spezzatino [Cul.],ragout
+spezzatino,ragout
 spia [di lampadina],pilot light
 "spiacente, spiacente",regretful
 spiacere,be sorry
@@ -31252,10 +31252,10 @@ stalinista,Stalinist
 stambecco,ibex
 stame (m),carded wool
 stame (m),stamen
-stampante a linee [Comp.],line printer
+stampante a linee,line printer
 "stampante, stampatore, stampatore, tipografo",printer
-stampare [Comp.],print out [to]
-stampare in corsivo [Tip.],italicize [to]
+stampare,print out [to]
+stampare in corsivo,italicize [to]
 stampare un bacio,plant a kiss [to]
 stampatore,lineprinter
 "stamperia, tipografia, tipografia",printing office
@@ -31453,8 +31453,8 @@ strafalcione,malapropism
 strale,forked lightening
 stralunato,wild (of eyes); vacant (expression); upset
 "stramazzare, travolto",knock down
-strambare [Mar.],gybe [to]
-strambata [Mar.],gybed
+strambare,gybe [to]
+strambata,gybed
 strambo,goofy
 stranamente,interestingly
 stranamente,oddly
@@ -31768,7 +31768,7 @@ surrogatorio,subrogation
 surta (poet.surgere = sorgere,arose
 surta (poet.surgere = sorgere,got up
 surta (poet.surgere = sorgere,sprung (from)
-"surta (poet.surgere = sorgere, surto (pst prt sorgere poet.)",risen
+"surta (poet.surgere = sorgere, surto",risen
 suscettibile,susceptible
 "suscettibilità, suscettibilità",touchiness
 sussidiario,subsidiary
@@ -31845,7 +31845,7 @@ sè,commit oneself
 séco,with her
 séco,with him
 séco,with them
-sì (ant. lett.),= così
+sì,= così
 sù,upwards
 tabaccheria,tobacconist's
 tabacco,tobacco
@@ -31976,7 +31976,7 @@ tassonomia,taxonomy
 tastare,grope
 "tastare, toccare",touch [to]
 tastierista,keyboarder
-tasto d'invio [Comp.],enter key
+tasto d'invio,enter key
 tasto di cancellazione [Comp.,delete key
 "tattica, tattica",tactics
 "tattica, tattico",tactic
@@ -31987,7 +31987,7 @@ taumaturgico,thaumaturgical
 taumaturgo,thaumaturge
 "taurina, taurino",taurine
 tautomeria,tautomerism
-tavola calda [Amer.],lunchroom
+tavola calda,lunchroom
 tavola pitagorica,multiplication table
 tavolino,small table
 tavolo da gioco,gaming table
@@ -32203,7 +32203,7 @@ terza,third party
 terza parte,thirding
 "terza, terza, terzo",third
 "terzetto, trio",trio
-terzino [Sport.],fullback
+terzino,fullback
 terzultimo,antepenultimate
 tesare,haul in [to]
 tesi,thesis
@@ -32219,7 +32219,7 @@ tessitore,weaver
 tessitrice,weavers
 tessitura,webbing
 tessuto a spugna,terry
-tessuto scozzese [Amer.],plaid
+tessuto scozzese,plaid
 testamentario,testamentary
 "testamentario, voglioso",willed
 testamento,testament
@@ -32261,7 +32261,7 @@ tifone,typhoon
 tiglio,linden
 "tiglio, tiglio",lime-tree
 "tiglio, tiglio",linden-tree
-tigna [Med.],ringworm
+tigna,ringworm
 tigre,tiger
 tilde,tilde
 timbrare,rubber stamp [to]
@@ -32276,7 +32276,7 @@ timo,thymus
 timoniere,wheelman
 "timoroso, timoroso",timorous
 timpanite (f),tympanitis
-timpano [Mus.],kettledrum
+timpano,kettledrum
 "timpano, timpano",eardrum
 "timpano, timpano",timbal
 "timpano, timpano",tympanum
@@ -32388,7 +32388,7 @@ tornare 3.,become again
 tornare 4.,be (cio mi torna nuovo - this is new to me)
 tornare a,start (doing) sth. again
 tornare povare,become poor again
-tornasole [Chim.],litmus
+tornasole,litmus
 torneare,joust
 torneare,wheel round
 tornio,lathe
@@ -32621,7 +32621,7 @@ travatura,girder
 travedere,be dreaming
 travedere,see an illusion
 traveggole (avere le ~),not to see straight or correctly
-traveggole (f. pl.),distorted vision
+traveggole,distorted vision
 traversa,crosspiece
 traviare,lead astray
 traviare,mislead
@@ -32691,8 +32691,8 @@ trimestrale,quarterly
 trimestre,trimester
 "trimestre, trimestre",three months
 trincerare,entrench [to]
-trincerare [Mil.],intrench [to]
-trincerato [Mil.],intrenched
+trincerare,intrench [to]
+trincerato,intrenched
 trinciante,carving knife
 trinciare,carve
 trinciare,cut the rug (fig. dance)
@@ -32700,7 +32700,7 @@ trinciare,cut up
 trionfante,triumphant
 trionfo,triumph
 tripartito,threepart
-tripletta [Sport.],hat trick
+tripletta,hat trick
 triplicare,triple [to]
 "triplice, triplo",triple
 triplo,in triplicate
@@ -32755,7 +32755,7 @@ trucioli,turnings
 truffa,spoof
 truffare,hoax [to]
 truffatore,hoaxer
-truppe irregolari [Mil.],irregulars [pl]
+truppe irregolari,irregulars [pl]
 tu (a ~ per ~),face to face
 "tu, tu",thou
 tua favella,what you are saying
@@ -32831,8 +32831,8 @@ uccidere,slay
 uccidersi,commit suicide [to]
 uccio,(added as a diminutive to words)
 ucco (animucco),perjorative diminutive ending
-udia (poet.),I heard
-udia (poet.),listened ( cf udire)
+udia,I heard
+udia,listened ( cf udire)
 udibilità,audibilities
 uditivo,auditory
 udometro,rain gauge
@@ -33166,8 +33166,8 @@ vaneggiare,talk incoherently
 vanificare,make useless [to]
 "vanitoso, vano, vano",vain
 vanne (andare + ne),go away! go!
-vanni (poet.),pinions
-vanni (poet.),wings
+vanni,pinions
+vanni,wings
 vanno (pres. andare),tehy go
 vantaggi,advantages
 "vantaggio, vantaggio",forehand
@@ -33218,7 +33218,7 @@ vasto,vas
 vasto,vast
 vaticano,Vatican
 ve (= vi before la\ne\li),to you
-"vecchia, vecchio, vecchio, veglio (poet.)",old man
+"vecchia, vecchio, vecchio, veglio",old man
 vecchiaccia,harridan
 "vecchissimo, vecchissimo",old as the hills
 vecchiume,old things
@@ -33252,9 +33252,9 @@ vegga (veggia),=veda (vedere)
 vegghiare,= vegliare
 veggiamo,= vediamo (vedere)
 veggiate,= vediate (vedere)
-veggio (m. tosc.),terracotta warming pan
-veggio (poet.),= vedo (vedere)
-veggiono (poet.),= vedono (vedere)
+veggio,terracotta warming pan
+veggio,= vedo (vedere)
+veggiono,= vedono (vedere)
 veglia,waking
 "veglia danzante, veglia danzante",chumminess
 "veglia danzante, veglia danzante",folksiness
@@ -33262,10 +33262,10 @@ vegliarda,old woman
 vegliare,be awake [to]
 vegnente,coming
 vegnente,forthcoming (lit.)
-vela aurica [Mar.],fore-and-aft-sail
+vela aurica,fore-and-aft-sail
 vela di trinchetto,foresails
 "vela di trinchetto, vela di trinchetto",foresail
-"vela di trinchetto, vela di trinchetto [Mar.]",headsail
+"vela di trinchetto, vela di trinchetto",headsail
 "vela, veleggiare",sails
 velare,veil [to]
 velario,velarium (hist.)
@@ -33336,7 +33336,7 @@ venti (le ~),8 pm
 ventilato,ventilated
 ventilazione,ventilation
 "ventitre, ventitré",twenty-three
-vento di prua [Mar.],headwind
+vento di prua,headwind
 ventoso,gusty
 "ventoso, ventoso",windy
 ventrale,ventral
@@ -33673,7 +33673,7 @@ vizio di forma,syntactic error
 "vizio, vizio",flaws
 "vizioso, vizioso",vicious
 vo,= voglio
-"vo, vo (tosc.)",= vado
+"vo, vo",= vado
 vocale,vocal
 vocalizzare,vocalize [to]
 vocalizzato,vocalized
@@ -33700,8 +33700,8 @@ volentieri,fain
 volentieri,gladly
 "volentieri, volontiere",with pleasure
 volere,want [to]
-volere (lett.),affirm
-volere (lett.),hand down
+volere,affirm
+volere,hand down
 volere (non volerli vittime),don't let them be victims
 volere dire,andeuten
 volere dire,andeuten [to]
@@ -33746,7 +33746,7 @@ vomitare,puke [to]
 vomito,puke
 "vomito, vòmito",vomit
 "vorace, vorace",ravenous
-vorrà (che ~) (poet.),What does he want
+vorrà (che ~),What does he want
 vortice,vortex
 vortice,whirlpools
 "vortice, vortice",maelstrom
@@ -33776,7 +33776,7 @@ vòmito,upchuck
 walkman,personal stereo
 watt,watt
 wattora,watt-hour
-wurstel [Cul.],frankfurther
+wurstel,frankfurther
 xeno,xenon
 xenofobia,xenophobia
 xenofobo,xenophobic
@@ -33879,7 +33879,7 @@ zuppiera,soup dish
 "àncora, àncora, corridore, corridore",armature
 "àngolo, àngolo, bordo, ciglione, lembo, lembo, proda (f), spigolo, spigolo",edge
 "àngolo, àngolo, cantuccio",corner
-"ànimo, atmosfera, bisbètico, capriccio, modo [Gramm.], stato d'animo, umore",mood
+"ànimo, atmosfera, bisbètico, capriccio, modo , stato d'animo, umore",mood
 "àsino, àsino",donkey
 "àstero, astro",aster
 àureo,aureate
