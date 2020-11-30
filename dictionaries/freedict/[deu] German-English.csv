@@ -151,12 +151,12 @@ Other,English
 ...stöckig,storeyed
 1. weihnachtsfeiertag,christmas day [br.]
 2. weihnachtsfeiertag,boxing day [br.]
-[am.] bahnsteig,track
-[am.] kleinhändler,merchant
-[am.] konservenbüchse,can
-[am.] mais,corn
-[am.] sich zurechtmachen,to clean up
-[am.] zur aufbewahrung geben,to check
+bahnsteig,track
+kleinhändler,merchant
+konservenbüchse,can
+mais,corn
+sich zurechtmachen,to clean up
+zur aufbewahrung geben,to check
 [antrag] ablehnen,to defeat
 [frist] verlängerung,extension
 [heirats-] antrag,proposal
@@ -5224,7 +5224,7 @@ annektierend,annexing
 annektiert,annexes
 annektierte,annexed
 annexion,annexation
-annona [bot.],soursop fruit
+annona,soursop fruit
 annoncen,advertising
 annoncenexpedition,advertisement representative
 annoncieren,to advertise
@@ -14146,7 +14146,7 @@ benzin,benzine
 benzin,gas
 benzin,gasoline [am.]
 benzin,petrol [br.]
-benzin [am.],gas
+benzin,gas
 benzinhunne,teenicider
 benzinkanister,jerrycan
 benzinkanister,petrol can
@@ -24679,7 +24679,7 @@ ein glatter betrug,a fair swindle
 ein glücksfall,a stroke of luck
 ein grosser umweg,a long way round
 ein grosser unterschied,a wide difference
-ein grosses tier [fig.],a big shot
+ein grosses tier,a big shot
 ein guter kauf,a good bargain
 ein guter kauf,a good buy
 ein guter ruf,a good reputation
@@ -44098,7 +44098,7 @@ granatwerfer,bombthrower
 grande,magnifico
 grandios,terrific
 granit,granite
-grannen [bot.],beard
+grannen,beard
 granulieren,to granulate
 granulierend,granulating
 granuliert,grained
@@ -64266,8 +64266,8 @@ melonen,melons
 membran,diaphragm
 membrane,membrane
 memoiren,memoirs
-memorandum [pol.],memorandum
-memorandum [pol.],note
+memorandum,memorandum
+memorandum,note
 memorierend,memorizing
 memoriert,memorizes
 memorierte,memorized
@@ -65954,8 +65954,8 @@ monopolistisch,monopolistic
 monopolstellung,monopoly
 monostabil,monostable
 monoton,monotonous
-monoton (adj.) [math.],monotonic
-monoton (adv.) [math.],monotone
+monoton  [math.],monotonic
+monoton  [math.],monotone
 monotone,monotonously
 monotone konvergenz [math.],monotone convergence
 monotones geräusch,monotone
@@ -66420,7 +66420,7 @@ mutterband,master tape
 mutterdiskette,master diskette
 muttergesellschaft,parent company
 mutterkorn,ergot
-mutterkraut [bot.],feverfew
+mutterkraut,feverfew
 mutterland,mother country
 mutterland,motherland
 mutterlos,motherless
@@ -76302,7 +76302,7 @@ regierungen,governments
 regierungsantritt,accession to power
 regierungsapparat,governmental machinery
 regierungsbeamte,government official
-regierungsform (pol.),regime
+regierungsform,regime
 regierungsformen,regimes
 regierungsgewalt,governmental power
 regierungsstellen,governmental authorities
@@ -77908,7 +77908,7 @@ rotationsdruck,rotary printing
 rotationstiefdruck,rotogravure
 rotbuche,copper beech
 rotdorn,pink hawthorn
-rote (pol.),red
+rote,red
 rote johannisbeere,red currant
 rotfuchs,(red) fox
 rotgelb,russet
@@ -91856,7 +91856,7 @@ stuckierte,stuccoed
 student,collegian
 student,student
 student,undergraduate
-student an einer graduate school [am.],graduate
+student an einer graduate school,graduate
 studenten,students
 studenten,undergraduates
 studentenheim,dormitory [am.]
@@ -98714,8 +98714,8 @@ unendlich,infinity
 unendlich,nonfinite
 unendlich,nonterminating
 unendlich,unendingly
-unendlich (adj.) [math.],infinity
-unendlich (adv.) [math.],infinite
+unendlich  [math.],infinity
+unendlich  [math.],infinite
 unendlich-dimensional [math.],infinite-dimensional
 unendlichere,more endless
 unendlichkeit,endlessness
@@ -103436,9 +103436,9 @@ verbreitet,disseminates
 verbreitet,propagated
 verbreitet,propagates
 verbreitet,vulgarizes
-verbreitet (zeitung) [adj.],widely read
-verbreitet [adj.],common
-verbreitet [adj.],widespread
+verbreitet (zeitung),widely read
+verbreitet,common
+verbreitet,widespread
 verbreitet allgemein,universalizes
 verbreitet sich,expatiates
 verbreitete,bandied
@@ -116572,9 +116572,9 @@ während,when
 während,whereas
 während,while
 während,whilst
-während [cj.],while
-während [cj.],whilst
-während [prp.],during
+während,while
+während,whilst
+während,during
 während der laufzeit,at run time
 während der verarbeitung,at object time
 während der übersetzung,at compile time

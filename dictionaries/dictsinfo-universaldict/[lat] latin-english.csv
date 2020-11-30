@@ -262,8 +262,8 @@ antiquus,quondam
 antiquus,sometime
 anulus,band
 anulus,ring
-apis (gen.),bee
-apis (nom.),bee
+apis,bee
+apis,bee
 appellare,address
 appellatio,championship
 appellatio,title
@@ -306,12 +306,12 @@ arguo,testify
 armarium,closet
 armarium,cupboard
 ars,trick
-ars (nom.),art
-ars (nom.),fine art
+ars,art
+ars,fine art
 artifex,artist
 artifex,creative person
-artis (gen.),art
-artis (gen.),fine art
+artis,art
+artis,fine art
 as,unit
 as,unit of measurement
 ascensio,ascension
@@ -341,8 +341,8 @@ auctoritas,responsibleness
 auctoritas,say-so
 augmen,increase
 augmen,increment
-auris (gen.),ear
-auris (nom.),ear
+auris,ear
+auris,ear
 aurum,Au
 aurum,atomic number 79
 aurum,gold
@@ -376,8 +376,8 @@ ave,hi
 ave,how-do-you-do
 ave,howdy
 ave,hullo
-avis (gen.),bird
-avis (nom.),bird
+avis,bird
+avis,bird
 avus,gramps
 avus,grandad
 avus,granddad
@@ -417,10 +417,10 @@ bombyx,silk
 bona fortuna,good luck
 bonus,good
 bonus,nice
-bos (nom.),cow
-bos (nom.),moo-cow
-bovis (gen.),cow
-bovis (gen.),moo-cow
+bos,cow
+bos,moo-cow
+bovis,cow
+bovis,moo-cow
 brachium,arm
 brassica,cabbage
 brassica,chou
@@ -461,12 +461,12 @@ campester,fifty-fifty
 candidus,bright
 candidus,brilliant
 candidus,vivid
-canis (gen.),Canis familiaris
-canis (gen.),dog
-canis (gen.),domestic dog
-canis (nom.),Canis familiaris
-canis (nom.),dog
-canis (nom.),domestic dog
+canis,Canis familiaris
+canis,dog
+canis,domestic dog
+canis,Canis familiaris
+canis,dog
+canis,domestic dog
 cantor,singer
 cantor,vocaliser
 cantor,vocalist
@@ -475,23 +475,23 @@ capacitas,infinite
 capacitas,space
 capillus,hair
 capillus,pilus
-capitis (gen.),caput
-capitis (gen.),head
+capitis,caput
+capitis,head
 capra,caprine animal
 capra,goat
 caput,capital
-caput (nom.),caput
-caput (nom.),head
+caput,caput
+caput,head
 carbo,coal
 cardinalis,chief
 cardinalis,main
 cardinalis,master
 cardinalis,primary
 cardinalis,principal
-carmen (nom.),song
-carmen (nom.),vocal
-carminis (gen.),song
-carminis (gen.),vocal
+carmen,song
+carmen,vocal
+carminis,song
+carminis,vocal
 caro,meat
 carota,Daucus carota sativa
 carota,carrot
@@ -549,11 +549,11 @@ certe,sure enough
 certe,surely
 certus,certain
 certus,sure
-cervicis (gen.),cervix
-cervicis (gen.),neck
+cervicis,cervix
+cervicis,neck
 cervisia,beer
-cervix (nom.),cervix
-cervix (nom.),neck
+cervix,cervix
+cervix,neck
 chalybs,steel
 character,character
 character,grapheme
@@ -747,12 +747,12 @@ cooptatio,election
 copia,copy
 copia,set
 coquus,cook
-cor (nom.),heart
-cor (nom.),pump
-cor (nom.),ticker
-cordis (gen.),heart
-cordis (gen.),pump
-cordis (gen.),ticker
+cor,heart
+cor,pump
+cor,ticker
+cordis,heart
+cordis,pump
+cordis,ticker
 corium,leather
 corporeus,physical
 cras,tomorrow
@@ -768,8 +768,8 @@ crudus,petroleum
 crudus,rock oil
 crudus,rough
 crudus,unsmooth
-cruris (gen.),leg
-crus (nom.),leg
+cruris,leg
+crus,leg
 crustum,cake
 cubiculum,bedchamber
 cubiculum,bedroom
@@ -796,12 +796,12 @@ cursus publicus,mail
 cursus publicus,mail service
 cursus publicus,post
 cursus publicus,postal service
-cutis (gen.),cutis
-cutis (gen.),skin
-cutis (gen.),tegument
-cutis (nom.),cutis
-cutis (nom.),skin
-cutis (nom.),tegument
+cutis,cutis
+cutis,skin
+cutis,tegument
+cutis,cutis
+cutis,skin
+cutis,tegument
 debilis,weak
 decem,10
 decem,ten
@@ -828,8 +828,8 @@ demonstro,draw
 demonstro,exhibit
 demonstro,present
 demonstro,show
-dens (nom.),tooth
-dentis (gen.),tooth
+dens,tooth
+dentis,tooth
 denuntio,announce
 denuntio,denote
 denuo,again
@@ -1072,8 +1072,8 @@ exerceo,practise
 exercitatio,grooming
 exercitatio,preparation
 exercitatio,training
-exercitatio (nom.),practice
-exercitationis (gen.),practice
+exercitatio,practice
+exercitationis,practice
 exercitus,army
 exercitus,ground forces
 exercitus,regular army
@@ -1145,10 +1145,10 @@ fasiolum,bean
 fasiolum,edible bean
 feles,cat
 feles,true cat
-felis (gen.),cat
-felis (gen.),true cat
-felis (nom.),cat
-felis (nom.),true cat
+felis,cat
+felis,true cat
+felis,cat
+felis,true cat
 felix,happy
 felix exitus,success
 femina,adult female
@@ -1271,10 +1271,10 @@ frigus,common cold
 frons,forepart
 frons,front
 frons,front end
-frons (nom.),brow
-frons (nom.),forehead
-frontis (gen.),brow
-frontis (gen.),forehead
+frons,brow
+frons,forehead
+frontis,brow
+frontis,forehead
 fructus,fruit
 frustum,piece
 fulmen,lightning
@@ -1294,16 +1294,16 @@ gemma,jewel
 gemma,precious stone
 genimen,product
 genimen,production
-genu (nom.),articulatio genus
-genu (nom.),genu
-genu (nom.),human knee
-genu (nom.),knee
-genu (nom.),knee joint
-genus (gen.),articulatio genus
-genus (gen.),genu
-genus (gen.),human knee
-genus (gen.),knee
-genus (gen.),knee joint
+genu,articulatio genus
+genu,genu
+genu,human knee
+genu,knee
+genu,knee joint
+genus,articulatio genus
+genus,genu
+genus,human knee
+genus,knee
+genus,knee joint
 gero,bear
 gero,have on
 gero,wear
@@ -1569,12 +1569,12 @@ lente,slow
 lente,slowly
 lente,tardily
 lentus,slow
-leo (nom.),Panthera leo
-leo (nom.),king of beasts
-leo (nom.),lion
-leonis (gen.),Panthera leo
-leonis (gen.),king of beasts
-leonis (gen.),lion
+leo,Panthera leo
+leo,king of beasts
+leo,lion
+leonis,Panthera leo
+leonis,king of beasts
+leonis,lion
 letum,death
 letum,decease
 letum,expiry
@@ -1845,16 +1845,16 @@ nauta,sailor
 navis,ship
 nebula,fog
 necessarius,necessary
-negotians (nom.),businessman
-negotians (nom.),man of affairs
-negotiantis (gen.),businessman
-negotiantis (gen.),man of affairs
-negotiator (nom.),businessman
-negotiator (nom.),man of affairs
-negotiatoris (gen.),businessman
-negotiatoris (gen.),man of affairs
-negotiatricis (gen.),businesswoman
-negotiatrix (nom.),businesswoman
+negotians,businessman
+negotians,man of affairs
+negotiantis,businessman
+negotiantis,man of affairs
+negotiator,businessman
+negotiator,man of affairs
+negotiatoris,businessman
+negotiatoris,man of affairs
+negotiatricis,businesswoman
+negotiatrix,businesswoman
 negotium,business
 negotium,chore
 negotium,job
@@ -1931,10 +1931,10 @@ nuper,recently
 nux,nut
 oblatio,offer
 oblatio,offering
-oblectatio (nom.),amusement
-oblectatio (nom.),entertainment
-oblectationis (gen.),amusement
-oblectationis (gen.),entertainment
+oblectatio,amusement
+oblectatio,entertainment
+oblectationis,amusement
+oblectationis,entertainment
 obreptio,surprise
 obscurus,dark
 octo,8
@@ -1998,28 +1998,28 @@ oriens,E
 oriens,due east
 oriens,east
 oriens,eastward
-oris (gen.),mouth
-oris (gen.),oral cavity
-oris (gen.),oral fissure
-oris (gen.),rima oris
+oris,mouth
+oris,oral cavity
+oris,oral fissure
+oris,rima oris
 oryza,rice
-os (nom.),bone
-os (nom.),mouth
-os (nom.),oral cavity
-os (nom.),oral fissure
-os (nom.),os
-os (nom.),rima oris
+os,bone
+os,mouth
+os,oral cavity
+os,oral fissure
+os,os
+os,rima oris
 osculum,buss
 osculum,kiss
 osculum,osculation
-ossis (gen.),bone
-ossis (gen.),os
+ossis,bone
+ossis,os
 otium,ease
 otium,relaxation
 otium,repose
 otium,rest
-ovis (gen.),sheep
-ovis (nom.),sheep
+ovis,sheep
+ovis,sheep
 ovum,egg
 ozonum,ozone
 pactum,agreement
@@ -2071,19 +2071,19 @@ patiens,patient
 paucus,little
 pauper (m,poor
 pax,peace
-pectoris (gen.),breast
-pectoris (gen.),chest
-pectoris (gen.),pectus
-pectoris (gen.),thorax
-pectus (nom.),breast
-pectus (nom.),chest
-pectus (nom.),pectus
-pectus (nom.),thorax
+pectoris,breast
+pectoris,chest
+pectoris,pectus
+pectoris,thorax
+pectus,breast
+pectus,chest
+pectus,pectus
+pectus,thorax
 pecunia,money
 pecuniosus,rich
-pedis (gen.),foot
-pedis (gen.),human foot
-pedis (gen.),pes
+pedis,foot
+pedis,human foot
+pedis,pes
 peniculus,brush
 penna,feather
 penna,plumage
@@ -2114,9 +2114,9 @@ persona,personality
 personalis,personal
 pervicax,firm
 pervicax,solid
-pes (nom.),foot
-pes (nom.),human foot
-pes (nom.),pes
+pes,foot
+pes,human foot
+pes,pes
 peto,ask
 peto,call for
 peto,demand
@@ -2139,8 +2139,8 @@ pila,ball
 pinguis,fat
 pinguis,fatty
 pirum,pear
-piscis (gen.),fish
-piscis (nom.),fish
+piscis,fish
+piscis,fish
 planta,flora
 planta,plant
 planta,plant life
@@ -2169,10 +2169,10 @@ poesis,poesy
 poesis,poetry
 poesis,verse
 pollens,strong
-pollex (nom.),pollex
-pollex (nom.),thumb
-pollicis (gen.),pollex
-pollicis (gen.),thumb
+pollex,pollex
+pollex,thumb
+pollicis,pollex
+pollicis,thumb
 ponderosus,heavy
 pondus et massa,mass
 pons,bridge
@@ -2263,18 +2263,18 @@ proprietas,holding
 proprietas,property
 proprius,characteristic
 proprius,feature
-proscriptio (nom.),ad
-proscriptio (nom.),advert
-proscriptio (nom.),advertisement
-proscriptio (nom.),advertising
-proscriptio (nom.),advertizement
-proscriptio (nom.),advertizing
-proscriptionis (gen.),ad
-proscriptionis (gen.),advert
-proscriptionis (gen.),advertisement
-proscriptionis (gen.),advertising
-proscriptionis (gen.),advertizement
-proscriptionis (gen.),advertizing
+proscriptio,ad
+proscriptio,advert
+proscriptio,advertisement
+proscriptio,advertising
+proscriptio,advertizement
+proscriptio,advertizing
+proscriptionis,ad
+proscriptionis,advert
+proscriptionis,advertisement
+proscriptionis,advertising
+proscriptionis,advertizement
+proscriptionis,advertizing
 protinus,at once
 protinus,directly
 protinus,forrad
@@ -2497,8 +2497,8 @@ salve,hi
 salve,how-do-you-do
 salve,howdy
 salve,hullo
-sanguis (gen.),blood
-sanguis (nom.),blood
+sanguis,blood
+sanguis,blood
 sape,frequently
 sape,oft
 sape,often
@@ -2563,12 +2563,12 @@ septuaginta,seventy
 sequi,follow
 serius,serious
 sero,late
-serpens (nom.),ophidian
-serpens (nom.),serpent
-serpens (nom.),snake
-serpentis (gen.),ophidian
-serpentis (gen.),serpent
-serpentis (gen.),snake
+serpens,ophidian
+serpens,serpent
+serpens,snake
+serpentis,ophidian
+serpentis,serpent
+serpentis,snake
 serus,belatedly
 serus,late
 serus,tardily
@@ -2688,11 +2688,11 @@ subvenio,help
 suggero,advise
 suggero,propose
 suggero,suggest
-suis (gen.),Sus scrofa
-suis (gen.),grunter
-suis (gen.),hog
-suis (gen.),pig
-suis (gen.),squealer
+suis,Sus scrofa
+suis,grunter
+suis,hog
+suis,pig
+suis,squealer
 sumo,apply
 sumo,choose
 sumo,employ
@@ -2717,11 +2717,11 @@ sursum,up
 sursum,upward
 sursum,upwardly
 sursum,upwards
-sus (nom.),Sus scrofa
-sus (nom.),grunter
-sus (nom.),hog
-sus (nom.),pig
-sus (nom.),squealer
+sus,Sus scrofa
+sus,grunter
+sus,hog
+sus,pig
+sus,squealer
 suscipio,accept
 suscipio,have
 suscipio,receive
@@ -2765,15 +2765,15 @@ televisio {f},television set
 televisio {f},telly
 televisio {f},tv
 televisio {f},tv set
-televisionis (gen.) (new),boob tube
-televisionis (gen.) (new),goggle box
-televisionis (gen.) (new),idiot box
-televisionis (gen.) (new),television
-televisionis (gen.) (new),television receiver
-televisionis (gen.) (new),television set
-televisionis (gen.) (new),telly
-televisionis (gen.) (new),tv
-televisionis (gen.) (new),tv set
+televisionis  (new),boob tube
+televisionis  (new),goggle box
+televisionis  (new),idiot box
+televisionis  (new),television
+televisionis  (new),television receiver
+televisionis  (new),television set
+televisionis  (new),telly
+televisionis  (new),tv
+televisionis  (new),tv set
 tempestas,storm
 tempestas,violent storm
 tempora anni,season
@@ -2860,8 +2860,8 @@ undecim,xi
 undeviginti,19
 undeviginti,nineteen
 undeviginti,xix
-unguis (gen.),nail
-unguis (nom.),nail
+unguis,nail
+unguis,nail
 universe,by and large
 universe,generally
 universe,more often than not
