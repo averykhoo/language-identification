@@ -2997,15 +2997,6 @@ alite,"{n.} halite, rock salt (mineral)"
 alito,"{n.} breath; waft, light breeze"
 alitosi,"{n.} halitosis, bad breath"
 alizarina,"{n.} alizarin, red pigment used in the synthesis of dyes"
-all’antica,"{adj.} out of date, old, past its time, old fashioned; conservative"
-all’antica,"{adv.} in an old-fashioned way, in a conservative way"
-all’aperto,"{adv.} in the open air, in the great outdoors"
-all’eccesso,"{adv.} exceedingly, extremely, excessively, immoderately"
-all’erta,"{adv.} on the lookout, on the alert, on guard, ready"
-all’inverso,"{adv.} in the opposite direction, the other way, in the reverse direction"
-all’istante,"{adv.} immediately, right away, at once"
-all’italiana,{adv.} in the Italian way
-all’unisono,"{adv.} with one voice, unanimously"
 all'acqua di rose,{adv.} superficially
 all'agro,{adv.} with vinegar or lemon added (Culinary)
 all'alba,"{adv.} at dawn, at sunrise"
@@ -3348,6 +3339,15 @@ alluvio,"{n.} alluvium, mud or sand deposited by flowing water"
 alluvionale,"{adj.} alluvial, containing mud or sand deposits"
 alluvionato,"{adj.} flooded, covered or inundated with water"
 alluvione,"{n.} alluvion, flood, inundation, deluge"
+all’antica,"{adj.} out of date, old, past its time, old fashioned; conservative"
+all’antica,"{adv.} in an old-fashioned way, in a conservative way"
+all’aperto,"{adv.} in the open air, in the great outdoors"
+all’eccesso,"{adv.} exceedingly, extremely, excessively, immoderately"
+all’erta,"{adv.} on the lookout, on the alert, on guard, ready"
+all’inverso,"{adv.} in the opposite direction, the other way, in the reverse direction"
+all’istante,"{adv.} immediately, right away, at once"
+all’italiana,{adv.} in the Italian way
+all’unisono,"{adv.} with one voice, unanimously"
 alma,"{n.} Alma, city in Michigan"
 almanaccare,"{v.} daydream, dream, fantasize, build castles in the air"
 almanacco,"{n.} almanac, yearly publication (includes a calendar, lunar cycles, farmer's advice, etc.)"
@@ -10285,9 +10285,9 @@ blocco dei prezzi,{n.} price freeze
 blocco dei rifornimenti,{n.} blockage in supplies
 blocco dei salari,{n.} wage freeze
 blocco della produzione,{n.} production stoppage
-blocco di centro,{n.} centre parties (Politics)
 blocco di carta,{n.} pad
 blocco di carta da lettere,"{n.} writing pad, paper pad, note pad, block of papers connected"
+blocco di centro,{n.} centre parties (Politics)
 blocco di memoria,{n.} storage block (Computer)
 blocco doccia,{n.} shower unit
 blocco emotivo,{n.} emotional block
@@ -12423,7 +12423,6 @@ candito,{n.} candied fruit
 canditore,{n.} candying machine
 candore,"{n.} whiteness, hoar, purity, innocence, candour, candor"
 cane,"{n.} dog; hound; hammer, cock"
-cane pechinese,"{n.} Pekinese, small breed of dog that originated in China"
 cane barbone,"{n.} poodle, breed of small dog with curly hair"
 cane bassotto,"{n.} basset, basset hound, short-legged French-breed hunting dog"
 cane bastardo,"{n.} mutt, cur, mongrel, tyke"
@@ -12449,6 +12448,7 @@ cane lupo,"{n.} wolf dog, Alsatian wolf, Alsatian dog"
 cane maltese,{n.} Maltese dog
 cane marsupiale,"{n.} thylacine, Tasmanian wolf"
 cane pastore,"{n.} sheepdog, dog trained to guard and herd sheep"
+cane pechinese,"{n.} Pekinese, small breed of dog that originated in China"
 cane poliziotto,"{n.} police dog, sniffer dog"
 canea,"{n.} pack of hounds; uproar, tumult, pandemonium; invective, invectives"
 canestra,{n.} wicket basket
@@ -15054,7 +15054,6 @@ chiusino,"{n.} cover, lid"
 chiuso,"{adj.} closed, close, shut, through, enclosed, stuffy, exclusive"
 chiuso,"{n.} pen, enclosure, closure of area"
 chiusura,"{n.} closing, shutting; closure; shutdown; lock; end; zip, fastening; clam, clamp"
-chiusura mentale,"{n.} narrow mindedness, state of having a limited perspective"
 chiusura annuale dei conti,{n.} annual closing (Finance)
 chiusura anticipata,{n.} early closing
 chiusura dei conti,"{n.} closing of accounts, settlement of accounts"
@@ -15068,6 +15067,7 @@ chiusura ermetica,{n.} seal
 chiusura estiva,{n.} summer closing
 chiusura in dissolvenza,"{n.} fade out, gradual disappearance, progressive darkening at the end of a scene in a film or television show (Cinema)"
 chiusura lampo,"{n.} zip, zipper, zip fastener"
+chiusura mentale,"{n.} narrow mindedness, state of having a limited perspective"
 chiusura temporanea di un'azienda,"{n.} shutdown, temporary closing of a business or factory (Finance)"
 chiusurista,{n.} worker responsible for the final stages of a work
 choc,"{n.} shock, stun, sudden disturbance of the emotions"
@@ -20502,7 +20502,6 @@ czar,"{n.} czar, tsar, tzar, emperor, emperor of Russia before the revolution"
 czarda,"{n.} czardas, type of Hungarian dance"
 d,"{n.} D, fourth letter of the Italian alphabet"
 d day,{n.} D-day
-d’incanto,{adv.} as if by magic
 d'abitudine,"habitually, customarily"
 d'acciaio,{adj.} steel
 d'accordo,"{adv.} in agreement, in accord, in harmony"
@@ -25398,6 +25397,7 @@ dépliant illustrativi,{n.} sales literature
 dérapage,"{n.} skid, uncontrolled slide, sideslip, sideways skid"
 déshabillé,"{n.} deshabille, dishabille, careless or disheveled state of dress; garment worn at home"
 dì,"{n.} day, period between sunrise and sunset; period of 24 hours"
+d’incanto,{adv.} as if by magic
 e,"east, direction from which the sun rises, direction opposite west on a compassE (est)"
 e,{conj.} and
 e,"{n.} e, fifth letter of the Italian alphabet"
@@ -52221,7 +52221,6 @@ pneumopatia,{n.} pneumopathy
 pnl,"GNP, gross national product, total value of goods and services produced by a country in a given period (generally one year)PNL (Prodotto Nazionale Lordo)"
 po,"{n.} Po, the longest and largest Italian river"
 po',{n.} bit
-poc’anzi,{adv.} a short time ago
 poc'anzi,"{adv.} just now, a little time ago"
 poca gente,{n.} few people
 pochette,{n.} clutch bag
@@ -52268,6 +52267,7 @@ poco sportivo,{adj.} unsportsmanlike
 poco tempo dopo,"{adv.} some time after, a short time after"
 poco tempo fa,"{adv.} a short while ago, a short time ago"
 poco tempo prima,"{adv.} a short time before, shortly before"
+poc’anzi,{adv.} a short time ago
 podagra,"{n.} podagra, gout of the foot (Medicine)"
 podere,"{n.} estate, holding, messuage, farm"
 poderoso,"{adj.} powerful, mighty"
@@ -63728,7 +63728,6 @@ sismologo,"{n.} seismologist, one who studies earthquakes and related phenomena"
 sismometrico,"{adj.} seismometric, pertaining to the recording of earthquake vibrations through the use of a seismometer"
 sissignore,{interj.} yes Sir
 sistema,"{n.} system, process, scheme, policy"
-sistema redox,{n.} oxidation-reduction system
 sistema contabile,"{n.} bookkeeping, managing of financial records, bookkeeping system (Accountancy)"
 sistema di boe,{n.} buoyage
 sistema di coordinate locali,{n.} local coordinate system (Mathematics)
@@ -63741,6 +63740,7 @@ sistema internazionale di unità di misura,{n.} international system of units
 sistema locomotorio,{n.} locomotor system
 sistema monetario,{n.} coinage
 sistema operativo,"{n.} mode, operating system, manner of operation (Computers)"
+sistema redox,{n.} oxidation-reduction system
 sistema solare,{n.} solar system
 sistema stereofonico,{n.} stereo
 sistemare,"{v.} arrange, place, settle down, position; put in order, fix up, fix, settle, accommodate, adjust, compromise"
@@ -64731,7 +64731,6 @@ sostituto,"{n.} substitute, deputy, stand in, surrogate, lieutenant, replacement
 sostituto provvisorio,{n.} warming pan
 sostituzione,"{n.} substitution, replacement"
 sostrato,"{n.} substrate, substratum"
-sott’olio,{adv.} in oil (Culinary)
 sott'aceto,"{adj.} pickled, soured"
 sott'aceto,{adv.} in brine
 sott'acqua,{adv.} underwater
@@ -64902,6 +64901,7 @@ sottrarsi,"{v.} evade, escape"
 sottrazione,"{n.} subtraction, abstraction, taking away"
 sottufficiale,{n.} non commissioned officer
 sottufficiale di marina,{n.} petty officer
+sott’olio,{adv.} in oil (Culinary)
 soubrette,"{n.} soubrette, actress who plays the part of a soubrette"
 soufflé,"{n.} soufflé, souffle"
 soul,"{n.} soul, soul music"
@@ -70621,10 +70621,10 @@ tutta un'altra faccenda,{v.} quite a different thing
 tuttavia,"{adv.} anyhow, however, nevertheless, notwithstanding, still"
 tuttavia,"{conj.} but, though, yet"
 tutte le strade portano a roma,{n.} all roads lead to Rome
-tutti i nodi vengono al pettine,{v.} chickens come home to roost
 tutti e due,{adj.} both
 tutti i diritti riservati,{adj.} all rights reserved
 tutti i gusti son gusti,{n.} there is no accounting for taste
+tutti i nodi vengono al pettine,{v.} chickens come home to roost
 tutti i salmi finiscono in gloria,{v.} it is the same old story
 tutti in coro,{pron.} all together
 tutto,"{adj.} all, whole; any, every"

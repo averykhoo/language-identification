@@ -283,11 +283,11 @@ Vaticano,Vatican
 Veneza,Venice
 Viena,Vienna
 Zâmbia,Zambia
+a,it
+a,the
 a,to
 a,toward
 a,towards
-a,the
-a,it
 a bordo de,aboard
 a fim de que,that
 a maioria,most
@@ -387,9 +387,9 @@ abranger,enclose
 abranger,hug
 abrasar,be on fire
 abrasar,become excited
+abrasar,burn
 abrasar,burn with passion
 abrasar,glow
-abrasar,burn
 abrasar,inflame
 abrasar,polish (surface)
 abrasar,scald
@@ -408,19 +408,19 @@ abrilhantar,cut (diamonds)
 abrilhantar,embellish
 abrilhantar,enliven
 abrilhantar,polish
+abrir,begin
+abrir,bloom (flower)
 abrir,break (day)
 abrir,clear up (weather)
-abrir,bloom (flower)
-abrir,expand
-abrir,spread out
-abrir,unfold
-abrir,begin
 abrir,cleave (log)
+abrir,expand
 abrir,open
 abrir,split
+abrir,spread out
 abrir,turn on (light)
 abrir,uncover
 abrir,unfasten
+abrir,unfold
 abrir,"unlock (trunk, gate)"
 abrir,untie (package)
 abruptamente,abruptly
@@ -1096,14 +1096,14 @@ ananás,pineapple
 anchova,anchovy
 ancinho,rake
 ancorar,anchor
-andar,floor
-andar,story
 andar,advance
 andar,behave
+andar,floor
 andar,go
 andar,move
 andar,run
 andar,step
+andar,story
 andar,stroll
 andar,walk
 andar aos bandos,flock
@@ -1876,10 +1876,10 @@ braço,arm
 breio,bridle
 brema,bream
 breve,brief
+breve,brief
 breve,concise
 breve,short
 breve,soon
-breve,brief
 brigar,fight
 brilhante,bright
 brilhante,brilliant
@@ -2305,18 +2305,18 @@ charuto,cigar
 charuto-extremidade,cigar-end
 charuto-topo,cigar-stub
 chave,key
-chave,wrench
 chave,spanner
+chave,wrench
 chave de fenda,screwdriver
 checar,check
 chefe,chef
 chefe,chief
 chefe,chief-
 chegada,arrival
-chegar,become
 chegar,approach
 chegar,arrive
 chegar,arrive at
+chegar,become
 chegar,come
 chegar,reach
 chegar,suffice
@@ -2481,27 +2481,27 @@ colete,waistcoat
 coletivo,collective
 coleção,collection
 colheita,harvest
-colher,ladle
-colher,spoon
+colher,catch
+colher,coil
+colher,collect
 colher,gather
 colher,get
 colher,harvest
+colher,ladle
 colher,obtain
 colher,pick
 colher,pluck
 colher,reap
 colher,receive
-colher,catch
-colher,coil
-colher,collect
+colher,spoon
 colida,collide
 colina,hill
 colisão,bump
 colisão,collision
-colocar,put
-colocar,put together
 colocar,lay down
 colocar,place
+colocar,put
+colocar,put together
 colonizar,colonize
 colorir,color
 coluna,column
@@ -2576,8 +2576,8 @@ compilador,compiler
 compilar,compile
 compilação,compilation
 compita,compete
-complementar,complementary
 complementar,complement
+complementar,complementary
 completamente,altogether
 completamente,completely
 completamente,entirely
@@ -3607,8 +3607,8 @@ detonar,detonate
 deus,god
 deva,owe
 deva,shall
-dever,duty
 dever,be in debt
+dever,duty
 dever,have to
 dever,must
 dever,owe
@@ -4149,17 +4149,17 @@ enredar,tangle
 enriquecer,enrich
 enrolar,roll
 enrugamento,wrinkle
-ensaiar,try
 ensaiar,assay
+ensaiar,try
 ensinar,teach
 ensine,teach
 ensurdecer,deafen
 entalhe,slot
 entenda mal,misunderstand
-entender,meaning
-entender,opinion
 entender,know
 entender,mean
+entender,meaning
+entender,opinion
 entender,understand
 enterrar,embed
 enterro,bury
@@ -4334,8 +4334,8 @@ esmolar,donate
 espada,sword
 espalhar,spread
 espancar,spank
-espantar,astonish
 espantar,amaze
+espantar,astonish
 espantar,frighten
 espantar,scare
 espante,amaze
@@ -4428,8 +4428,8 @@ estado,state
 estafar,fatigue
 estagiar,serve as apprentice
 estampar,print
-estancar,run dry
 estancar,drain
+estancar,run dry
 estancar,stanch (blood)
 estancar,stop
 estanho,tin
@@ -4597,8 +4597,8 @@ expedição,dispatch
 expedição,expedition
 expelir,expel
 experiente,experienced
-experimentar,try
 experimentar,experiment
+experimentar,try
 experimentação,trial
 experiência,experience
 experiência,experiment
@@ -4696,8 +4696,8 @@ fase,phase
 fatia,slice
 fatiga,fatigue
 fatigado,weary
-fatigar,tire
 fatigar,fatigue
+fatigar,tire
 fato,fact
 fato,outfit
 fato,set
@@ -4778,9 +4778,9 @@ fibra,fiber (US)
 fibra,fibre (UK)
 ficar,be
 ficar,be located
+ficar,become
 ficar,remain
 ficar,stay
-ficar,become
 ficar,stay over
 fiel,faithful
 figo,fig
@@ -5352,12 +5352,12 @@ imitar,imitate
 imobilizar,immobilize
 imolar,immolate
 imortalizar,immortalize
-impar,odd (number)
-impar,single
-impar,uneven (number)
 impar,boast (fig.)
+impar,odd (number)
 impar,pant
+impar,single
 impar,sob
+impar,uneven (number)
 imparcial,impartial
 impedimento,deterrent
 impedir,hinder
@@ -5567,8 +5567,8 @@ intenso,intense
 intentar,intend
 intenção,intention
 interagir,interact
-intercalar,intercalary
 intercalar,insert
+intercalar,intercalary
 intercalar,intercalate
 interceda,intercede
 interceder,intercede
@@ -5676,9 +5676,9 @@ jactar-se,boast
 jamais,never
 janela,window
 jangada,raft
+jantar,dine
 jantar,dinner
 jantar,supper
-jantar,dine
 jaque,jack
 jaqueta,jacket
 jarda,yard
@@ -5704,11 +5704,11 @@ jornal,newspaper
 jornalista,female journalist
 jornalista,journalist
 jorros,spurt
-jovem,youngster
 jovem,juvenile
 jovem,young
-jovem,youthful
+jovem,youngster
 jovem,youth
+jovem,youthful
 jubilar,exult
 jubilar,jubilate
 jubilar,rejoice
@@ -5772,9 +5772,9 @@ lanterna,lantern
 lançar,launch
 lançar,throw
 lapidar,lapidary
-lapidar,terse (style)
 lapidar,polish
 lapidar,stone
+lapidar,terse (style)
 lapso,lapse
 laranja,orange
 laranjeira,orange tree
@@ -5840,11 +5840,11 @@ levantar,heave
 levantar,lift
 levantar,mutiny
 levantar,raise
+levantar,raise
 levantar,remove
 levantar,rise
 levantar,rouse (geme)
 levantar,weigh anchor
-levantar,raise
 levantou-se,rose
 leve,slight
 levemente,lightly
@@ -5857,9 +5857,9 @@ lhe,to him
 lhe,to it
 lhe,to you
 lhe,you
+lhes,them
 lhes,they
 lhes,to them
-lhes,them
 lhes,to you
 lhes,you
 liberalizar,liberalize
@@ -5874,12 +5874,12 @@ licença,licence (UK)
 licença,license (US)
 licença,permit
 licor,liquor
-lidar,labor (US)
-lidar,labour (UK)
-lidar,toil
 lidar,fight
 lidar,fight (t.: bulls)
 lidar,labor (US)
+lidar,labor (US)
+lidar,labour (UK)
+lidar,toil
 liderar,lead
 lido,read
 liga,alloy
@@ -6271,11 +6271,11 @@ mestre,master
 mestre,teacher
 metal,metal
 meteorologia,meteorology
+meter,lay down
+meter,place
 meter,put
 meter,put down
 meter,put in
-meter,lay down
-meter,place
 metálico,metallic
 metódico,methodical
 meu,my
@@ -6376,9 +6376,9 @@ moer,grind
 moinho,mill
 mola,spring
 molde,cast
-molde,template
 molde,mold (US)
 molde,mould (UK)
+molde,template
 molde-fora,cast-off
 moleiro,miller
 molestar,molest
@@ -6664,9 +6664,9 @@ o,it
 o,the
 o ensaio,try
 o mais próximo,nearest
-o que,whatever
-o que,what
 o que,that
+o que,what
+o que,whatever
 o que,which
 o que quer que,whatever
 o teu,your
@@ -6743,29 +6743,29 @@ oitecentos,eight hundred
 oitenta,eighty
 oito,eight
 olhadela,look
-olhar,gaze
-olhar,glance
-olhar,look
-olhar,peep
-olhar,look (at) (at)
 olhar,attend to
 olhar,behold
 olhar,care for
 olhar,consider (fig.)
 olhar,eye
 olhar,gaze
+olhar,gaze
+olhar,gaze
+olhar,glance
 olhar,glance
 olhar,glimpse
+olhar,look
+olhar,look (at) (at)
 olhar,look after
 olhar,look upon
 olhar,observe
+olhar,peep
 olhar,regard
 olhar,scan
 olhar,stare (at) (at)
 olhar,take charge of
 olhar,view
 olhar,watch
-olhar,gaze
 olhar fixo,stare
 olho,eye
 oliveira,olive tree
@@ -7069,9 +7069,9 @@ peitoril,sill
 peixe,fish
 peixes,fish
 pela,at
-pela,through
 pela,for
 pela,for the
+pela,through
 pelas,at
 pelas,for
 pelas,for the
@@ -7083,11 +7083,11 @@ pelejar,struggle
 pelo,about
 pelo,at
 pelo,by
+pelo,for
+pelo,for the
 pelo,on
 pelo,per
 pelo,through
-pelo,for
-pelo,for the
 pelos,at
 pelos,for
 pelos,for the
@@ -7300,16 +7300,16 @@ pobre,poor
 pobreza,poverty
 podar,trim
 poder,authority
-poder,capacity
-poder,energy
-poder,force
-poder,power
-poder,strength
 poder,be able
 poder,be allowed
 poder,be permitted
 poder,can
+poder,capacity
+poder,energy
+poder,force
 poder,may
+poder,power
+poder,strength
 poderoso,powerful
 poeira,dust
 poema,poem
@@ -7361,10 +7361,10 @@ população,population
 por,about
 por,by
 por,for
+por,lay down
 por,out of
 por,per
 por,through
-por,lay down
 por cause de,because
 por cento,percent
 por do sol,sunset
@@ -7450,6 +7450,7 @@ prato,course
 prato,dish
 prato,platter
 prazer,amusement
+prazer,be pleasant
 prazer,comfort
 prazer,delight
 prazer,diversion
@@ -7457,10 +7458,9 @@ prazer,enjoyment
 prazer,fun
 prazer,gratification
 prazer,happiness
+prazer,please
 prazer,pleasure
 prazer,satisfaction
-prazer,be pleasant
-prazer,please
 praça,plaza
 praça,public square
 praça,square
@@ -7695,10 +7695,10 @@ protótipo,prototype
 prova,proof
 prova,sign
 prova,token
-provar,try
 provar,attempt
 provar,prove
 provar,test
+provar,try
 provavelmente,likely
 provavelmente,probably
 prover,provide
@@ -7786,10 +7786,10 @@ pôr,deposit
 pôr,impose
 pôr,place
 pôr,produce
-pôr,render
-pôr,set
 pôr,put
 pôr,put on
+pôr,render
+pôr,set
 público,public
 quadrado,square
 quadragésima,fortieth
@@ -7843,9 +7843,9 @@ queixada,jaw
 queixada,jawbone
 queixar-se,complain
 queixo,chin
+quem,that
 quem,who
 quem (?),who (?)
-quem,that
 quemquer,any
 quente,hot
 quente,warm
@@ -7956,9 +7956,9 @@ reator,ballast
 reaver,recover
 reavivar,revive
 reação,reaction
-rebaixar,decry
 rebaixar,abase (UK)
 rebaixar,debase (US)
+rebaixar,decry
 rebaixar,depreciate
 rebaixar,humble
 rebaixar,lower
@@ -8197,13 +8197,13 @@ repassar,repass
 repatriar,repatriate
 repelir,repel
 repentino,sudden
+repercutir,deflect
 repercutir,have an influence on
 repercutir,reflect
 repercutir,resound
 repercutir,reverberate
 repercutir,ring
 repercutir,throw back
-repercutir,deflect
 repetidamente,repeatedly
 repetir,repeat
 repetição,repetition
@@ -8614,8 +8614,8 @@ sepultar,bury
 sepultura,grave
 sequestre,abduct
 ser,be
-ser,become
 ser,be
+ser,become
 ser amado,be loved
 ser contíguo com,adjoin
 ser próprio,become
@@ -8768,8 +8768,8 @@ sorriso,smile
 sorte,luck
 sorte,sort
 sortear,choose by lot
-sortir,have luck
 sortir,furnish
+sortir,have luck
 sortir,stock
 sortir,supply
 sossegadamente,quietly
@@ -8940,6 +8940,7 @@ sutura,suture
 suturar,suture
 sábio,sage
 sábio,wise
+são,a sturdy man
 são,able-bodied
 são,entire
 são,flawless
@@ -8947,6 +8948,7 @@ são,good
 são,hale
 são,hardy
 são,healthy
+são,healthy limb
 são,honest
 são,judicious
 são,logical
@@ -8956,17 +8958,15 @@ são,right
 são,saintly
 são,sane
 são,sound
+são,sound part
+são,the healthy limb
+são,the sound part
 são,true
 são,undamaged
 são,undecayed
 são,unimpaired
 são,vigorous
 são,wholesome
-são,a sturdy man
-são,healthy limb
-são,sound part
-são,the healthy limb
-são,the sound part
 século,centennial
 século,century
 séptico,septic
@@ -9080,8 +9080,8 @@ tendência,tendency
 tenente,lieutenant
 tensão,tension
 tensão,voltage
-tentar,try
 tentar,attempt
+tentar,try
 tentativa,attempt
 teoria,theory
 ter,contain
@@ -9838,8 +9838,8 @@ zumbir,zoom
 ângulo,angle
 éticas,ethic
 ético,ethical
-ênfase,emphasis
 ênfase,accent
+ênfase,emphasis
 êxito,success
 ícone,icon
 ímpeto,impetus

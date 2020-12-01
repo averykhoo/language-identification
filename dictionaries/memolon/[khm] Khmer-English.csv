@@ -71,6 +71,7 @@ velor,velour
 កណ្តាល,centerpiece
 កណ្តាល,central
 កណ្តាល,middle
+កណ្តាលអធ្រាត្រ,midnight
 កណ្តាស់,sneeze
 កណ្តឹង,bell
 កណ្តឹង,bellman
@@ -106,6 +107,7 @@ velor,velour
 កន្លែងដាក់ឥវ៉ាន់,porterhouse
 កន្លែងធ្វើការ,workplace
 កន្លែងបញ្ចុះសព,mortuary
+កន្លែងបោះជំរុំ,campsite
 កន្លែងផលិតកប៉ាល់,shipyard
 កន្លែងយកថ្ម,quarry
 កន្លែងរាត្រី,nightstand
@@ -115,7 +117,6 @@ velor,velour
 កន្លែងហាត់ប្រាណ,gym
 កន្លែងហាត់ប្រាណ,gymnasium
 កន្លែងអង្គុយ,seating
-កន្លែងបោះជំរុំ,campsite
 កន្សែង,napalm
 កន្សែង,napkin
 កន្សែង,scarf
@@ -294,6 +295,7 @@ velor,velour
 ការកោតសរសើរ,admiralty
 ការកោតសរសើរ,admiration
 ការកោតសរសើរ,adoration
+ការកោតសរសើរ,appreciation
 ការកោះហៅ,summons
 ការកំណត់ពេលវេលា,timing
 ការកំណត់រចនាសម្ព័ន្ធ,configuration
@@ -429,8 +431,10 @@ velor,velour
 ការច្រានចេញ,ejection
 ការច្រោះ,filtration
 ការឆាបឆេះ,ablaze
+ការឆ្លងមេរោគ,infection
 ការឆ្លុះបញ្ចាំង,reflection
 ការឆ្លុះពោះវៀនធំ,colonoscopy
+ការឆ្លើយឆ្លង,correspondence
 ការឆ្លើយតប,response
 ការជជែកវែកញែក,debate
 ការជជែកវែកញែក,deliberation
@@ -485,6 +489,7 @@ velor,velour
 ការដាក់ស្នើ,submission
 ការដាក់អន្ទាក់,entrapment
 ការដាច់ឆ្ងាយ,alienation
+ការដាច់ភ្លើង,blackout
 ការដាស់តឿន,exhume
 ការដឹកជញ្ជូន,shipment
 ការដឹកជញ្ជូន,shipping
@@ -518,6 +523,7 @@ velor,velour
 ការតុបតែង,decorum
 ការតុបតែងមុខ,makeup
 ការតែងតាំង,nomination
+ការតែងនិពន្ធ,composition
 ការតំរង់ទិស,orientation
 ការត្រលប់មកវិញ,comeback
 ការត្រាស់ដឹង,enlightenment
@@ -531,6 +537,7 @@ velor,velour
 ការថតរូប,photography
 ការថប់បារម្ភ,anxiety
 ការថយចុះកម្តៅ,hypothermia
+ការថែទាំសុខភាព,healthcare
 ការថែរក្សា,custodial
 ការថែរក្សាគេហដ្ឋាន,housekeeping
 ការថែរក្សាសុវត្ថិភាព,safekeeping
@@ -554,6 +561,7 @@ velor,velour
 ការទូត,diplomatic
 ការទូទាត់,payment
 ការទូទាត់,settlement
+ការទំនាក់ទំនង,communication
 ការទះដៃ,applause
 ការធានា,assurance
 ការធានា,reassurance
@@ -571,6 +579,7 @@ velor,velour
 ការធ្វើខុស,wrongdoing
 ការធ្វើឃាត,assassination
 ការធ្វើចំណាកស្រុក,migration
+ការធ្វើដំណើរ,journey
 ការធ្វើដំណើរ,trip
 ការធ្វើដំណើរ,voyage
 ការធ្វើត្រាប់តាម,imitation
@@ -621,6 +630,7 @@ velor,velour
 ការបង្ហាញ,disclosure
 ការបង្ហាញ,showdown
 ការបង្ហាញការពិត,vindication
+ការបង្ហាញឱ្យឃើញ,manifestation
 ការបង្ហាប់,compression
 ការបង្ហូរឈាម,bloodbath
 ការបង្ហូរឈាម,bloodhound
@@ -662,6 +672,7 @@ velor,velour
 ការបរាជ័យ,defeat
 ការបរាជ័យ,failure
 ការបរិហាកេរ្តិ៍,defamation
+ការបាក់,fracture
 ការបាក់បែក,ruination
 ការបាញ់កាំភ្លើង,gunfight
 ការបាញ់កាំភ្លើង,gunplay
@@ -684,6 +695,7 @@ velor,velour
 ការបោសសំអាត,purge
 ការបោះឆ្នោត,election
 ការបោះឆ្នោត,electoral
+ការបោះជំហាន,stride
 ការបោះបង់ចោល,abandonment
 ការបោះបង់ចោល,omission
 ការបោះពុម្ព,printing
@@ -794,6 +806,7 @@ velor,velour
 ការផ្ទុក,storage
 ការផ្ទុះ,eruption
 ការផ្ទុះ,explosion
+ការផ្ទុះចេញ,blastoff
 ការផ្ទុះឡើង,outbreak
 ការផ្ទៀងផ្ទាត់,verification
 ការផ្ទេរ,transference
@@ -803,6 +816,7 @@ velor,velour
 ការផ្លាស់ប្តូរ,exchange
 ការផ្លាស់ប្តូរ,mutation
 ការផ្លាស់ប្តូរ,mutilation
+ការផ្លាស់ប្តូរ,transformation
 ការផ្លាស់ប្តូរ,transition
 ការផ្លុំ,budge
 ការផ្សងព្រេង,adventurous
@@ -822,6 +836,7 @@ velor,velour
 ការពន្យល់,explanation
 ការពន្យាកំណើត,contraception
 ការពន្យាកំណើត,contraption
+ការពន្យាពេល,holdup
 ការពន្យារពេល,postponement
 ការពារ,defend
 ការពារ,defensive
@@ -834,6 +849,7 @@ velor,velour
 ការពិចារណា,consideration
 ការពិត,fact
 ការពិនិត្យ,examination
+ការពិនិត្យពិច័យ,scrutiny
 ការពិនិត្យឡើងវិញ,revision
 ការពិពណ៌នា,description
 ការពិភាក្សា,discussion
@@ -867,7 +883,9 @@ velor,velour
 ការភាន់ច្រលំ,delusion
 ការភ័យខ្លាច,apprehension
 ការភ័យខ្លាច,fear
+ការភ្ជាប់,conjunction
 ការភ្ញាក់ផ្អើល,buzzard
+ការភ្ញាក់ផ្អើល,surprising
 ការភ្នាល់,wager
 ការភ្លេចភ្លាំង,forgery
 ការមករដូវ,menstrual
@@ -934,8 +952,10 @@ velor,velour
 ការរុញច្រាន,propulsion
 ការរួចខ្លួន,emancipation
 ការរួបរួម,communion
+ការរួបរួម,unity
 ការរួមបញ្ចូលគ្នា,combination
 ការរួមបញ្ចូលគ្នា,merger
+ការរួមភេទ,intercourse
 ការរួមភេទ,sex
 ការរើសអើង,discrimination
 ការរើសអើង,prejudice
@@ -949,6 +969,7 @@ velor,velour
 ការរំខាន,disruption
 ការរំខាន,disruptive
 ការរំខាន,distraction
+ការរំខាន,disturbance
 ការរំខាន,hassle
 ការរំខាន,interject
 ការរំខាន,interruption
@@ -963,6 +984,7 @@ velor,velour
 ការរំលាយអាហារ,indigestion
 ការរំលាយអាហារ,metabolic
 ការរំលាយអាហារ,metabolism
+ការរំលឹក,reminder
 ការរំលូតកូន,abortion
 ការរំលោភ,assault
 ការរំលោភ,violation
@@ -1019,6 +1041,7 @@ velor,velour
 ការវង្វេង,disengage
 ការវង្វេងស្មារតី,disorientation
 ការវាយចេញ,kindling
+ការវាយឆ្មក់,ambush
 ការវាយឆ្មក់,raid
 ការវាយតប់គ្នា,fistfight
 ការវាយតម្លៃ,rating
@@ -1180,28 +1203,6 @@ velor,velour
 ការ៉ុត,carrot
 ការ៉េ,squander
 ការ៉េ,square
-ការកោតសរសើរ,appreciation
-ការឆ្លងមេរោគ,infection
-ការឆ្លើយឆ្លង,correspondence
-ការដាច់ភ្លើង,blackout
-ការតែងនិពន្ធ,composition
-ការថែទាំសុខភាព,healthcare
-ការទំនាក់ទំនង,communication
-ការធ្វើដំណើរ,journey
-ការបង្ហាញឱ្យឃើញ,manifestation
-ការបាក់,fracture
-ការបោះជំហាន,stride
-ការផ្ទុះចេញ,blastoff
-ការផ្លាស់ប្តូរ,transformation
-ការពិនិត្យពិច័យ,scrutiny
-ការពន្យាពេល,holdup
-ការភ្ជាប់,conjunction
-ការភ្ញាក់ផ្អើល,surprising
-ការរួបរួម,unity
-ការរួមភេទ,intercourse
-ការរំខាន,disturbance
-ការរំលឹក,reminder
-ការវាយឆ្មក់,ambush
 កាលកំណត់,maturity
 កាលបរិច្ឆេទ,date
 កាលប្បវត្តិ,chronicle
@@ -1241,8 +1242,8 @@ velor,velour
 កិច្ចការ,assignment
 កិច្ចការ,issue
 កិច្ចការ,undertaking
-កិច្ចការផ្ទះ,housework
 កិច្ចការផ្ទះ,homework
+កិច្ចការផ្ទះ,housework
 កិច្ចព្រមព្រៀង,agreement
 កិច្ចព្រមព្រៀង,covenant
 កិច្ចសន្យា,contract
@@ -1483,8 +1484,8 @@ velor,velour
 កំពូល,summit
 កំពូល,supreme
 កំពូល,topside
-កំពូលវីរបុរស,superhero
 កំពូលភ្នំ,mountaintop
+កំពូលវីរបុរស,superhero
 កំពែង,rampart
 កំព្យូទ័រ,computerized
 កំព្រា,orphaned
@@ -1587,6 +1588,7 @@ velor,velour
 ក្មេងជំទង់,teen
 ក្មេងជំទង់,teenage
 ក្មេងជំទង់,teenager
+ក្មេងជំទង់,teens
 ក្មេងជំទង់,teensy
 ក្មេងជំទង់,teeny
 ក្មេងទំនើង,gang
@@ -1599,7 +1601,6 @@ velor,velour
 ក្មេងស្ទាវ,hippie
 ក្មេងស្រី,cowgirl
 ក្មេងស្រី,girl
-ក្មេងជំទង់,teens
 ក្រចក,nail
 ក្រចកដៃ,fingernail
 ក្រញ៉ាំ,claw
@@ -1757,7 +1758,6 @@ velor,velour
 ក្អែក,rave
 ក្អែក,raven
 ក្ឹល,measles
-កណ្តាលអធ្រាត្រ,midnight
 ខ,verse
 ខកចិត្ត,disappoint
 ខកចិត្ត,disappointed
@@ -1854,12 +1854,12 @@ velor,velour
 ខែល,shield
 ខោ,pants
 ខោ,trousers
+ខោខូវប៊យ,jeans
 ខោខូវប៊យ,lingerie
 ខោខ្លី,shorts
 ខោទ្រនាប់,panties
 ខោទ្រនាប់,underwear
 ខោអាវ,cloak
-ខោខូវប៊យ,jeans
 ខំប្រឹង,effortless
 ខ្ចប់,pack
 ខ្ចប់,packer
@@ -2001,6 +2001,7 @@ velor,velour
 ខ្សែក្រវ៉ាត់,belt
 ខ្សែក្រវ៉ាត់,girdle
 ខ្សែក្រវ៉ាត់ជើង,footlocker
+ខ្សែក្រវ៉ាត់សុវត្ថិភាព,seatbelt
 ខ្សែជីវិត,lifeline
 ខ្សែឈាម,bloodline
 ខ្សែដៃ,bracelet
@@ -2015,7 +2016,6 @@ velor,velour
 ខ្សែស្រឡាយ,thread
 ខ្សែអក្សរ,string
 ខ្សែអក្សរ,strings
-ខ្សែក្រវ៉ាត់សុវត្ថិភាព,seatbelt
 ខ្សោយ,feeble
 ខ្សោយ,frail
 ខ្សោយ,weak
@@ -2142,6 +2142,7 @@ velor,velour
 គួរឱ្យចាប់អារម្មណ៍,fascinate
 គួរឱ្យចាប់អារម្មណ៍,fascinating
 គួរឱ្យចាប់អារម្មណ៍,fascination
+គួរឱ្យចាប់អារម្មណ៍,impress
 គួរឱ្យចាប់អារម្មណ៍,impressionable
 គួរឱ្យចាប់អារម្មណ៍,impressive
 គួរឱ្យចាប់អារម្មណ៍,interesting
@@ -2208,7 +2209,6 @@ velor,velour
 គួរឱ្យអស់សំណើចណាស់,hilarious
 គួរឱ្យអាណិត,pitiful
 គួរឱ្យអាម៉ាស់ណាស់,shameful
-គួរឱ្យចាប់អារម្មណ៍,impress
 គេង,nap
 គេង,sleep
 គេងមិនលក់,insomnia
@@ -2270,6 +2270,7 @@ velor,velour
 គំរូ,specimen
 គំរូ,stereotype
 គ្មានកង្វល់,carefree
+គ្មានការងារធ្វើ,unemployed
 គ្មានការឈឺចាប់,painless
 គ្មានការត្រួតពិនិត្យ,uncalled
 គ្មានការបង្កគ្រោះថ្នាក់,harmless
@@ -2345,7 +2346,7 @@ velor,velour
 គ្មានអ្នកបើកបរ,unmanned
 គ្មានអ្វីទាំងអស់,nothingness
 គ្មានអ្វីប្រៀប &,unparalleled
-គ្មានការងារធ្វើ,unemployed
+គ្របដណ្តប់,coverage
 គ្រប់គ្រង,administer
 គ្រប់គ្រង,control
 គ្រប់គ្រង,controlling
@@ -2359,7 +2360,6 @@ velor,velour
 គ្រប់គ្រាន់,sufficient
 គ្រប់ទីកន្លែង,ubiquitous
 គ្រប់ពេលវេលា,anytime
-គ្របដណ្តប់,coverage
 គ្រវី,wag
 គ្រវីក្បាល,gaggle
 គ្រវីក្បាល,goggle
@@ -2440,12 +2440,12 @@ velor,velour
 គ្រែតូច,cot
 គ្រោង,outline
 គ្រោង,plot
+គ្រោងការក្បត់,scam
 គ្រោងការណ៍,schematic
 គ្រោងការណ៍,scheme
 គ្រោងឆ្អឹង,carcass
 គ្រោងឆ្អឹង,skeletal
 គ្រោងឆ្អឹង,skeleton
-គ្រោងការក្បត់,scam
 គ្រោះថ្នាក់,accident
 គ្រោះថ្នាក់,banger
 គ្រោះថ្នាក់,casualty
@@ -2500,9 +2500,9 @@ velor,velour
 ឃ្លាន,starve
 ឃ្លាន,starving
 ឃ្លាំង,warehouse
+ឃ្លាំងសម្ងាត់,cache
 ឃ្លាំងស្តុក,stockroom
 ឃ្លាំងអាវុធ,arsenal
-ឃ្លាំងសម្ងាត់,cache
 ឃ្លាំមើល,lookout
 ឃ្លោក,gourd
 ងក់ក្បាល,nod
@@ -2653,8 +2653,8 @@ velor,velour
 ចាក់ប្រេង,refuel
 ចាក់ប្រេងតាំង,anointed
 ចាក់សោ,lock
-ចាក់ឡើងវិញ,replay
 ចាក់សោ,lockup
+ចាក់ឡើងវិញ,replay
 ចាញ់,defeated
 ចាញ់,lose
 ចាត់តាំង,assign
@@ -3129,6 +3129,7 @@ velor,velour
 ជណ្តើរយន្ត,stretcher
 ជនក្បត់,traitor
 ជនក្បត់,traitorous
+ជនចម្លែក,stranger
 ជនជាតិ,ethnic
 ជនជាតិដទៃ,heathen
 ជនជាតិដើម,indigenous
@@ -3148,7 +3149,6 @@ velor,velour
 ជនល្មើស,offender
 ជនល្មើស,perpetrator
 ជនអន្តោប្រវេសន៍,immigrant
-ជនចម្លែក,stranger
 ជម្ងឺ,ailment
 ជម្ងឺក្រិនថ្លើម,cirrhosis
 ជម្ងឺវង្វេងវង្វាន់,alzheimers
@@ -3229,12 +3229,12 @@ velor,velour
 ជារៀងរហូត,everlasting
 ជារៀងរហូត,forevermore
 ជារៀងរហូត,perpetual
+ជារៀងរាល់ថ្ងៃ,everyday
 ជាលិកា,tissue
 ជាវ,subscribe
 ជាសកល,universal
 ជាសះស្បើយ,heal
 ជាំ,brunt
-ជារៀងរាល់ថ្ងៃ,everyday
 ជិត,proximal
 ជិត,proximity
 ជិតខាង,neighboring
@@ -3652,6 +3652,7 @@ velor,velour
 ដាក់,put
 ដាក់កម្រិត,restrict
 ដាក់ខ្លួន,unwrap
+ដាក់ចំណាំ,pinup
 ដាក់ជាក្រុម,grouping
 ដាក់ទណ្ឌកម្ម,punish
 ដាក់ទណ្ឌកម្ម,punitive
@@ -3665,7 +3666,6 @@ velor,velour
 ដាក់ពន្ធនាគារ,imprisonment
 ដាក់រនុក,fasten
 ដាក់ស្នើ,submit
-ដាក់ចំណាំ,pinup
 ដាច់ខាត,absolute
 ដាច់ខាត,forthright
 ដាច់ដោយឡែក,isolate
@@ -3752,8 +3752,8 @@ velor,velour
 ដូច,likeness
 ដូចកូនក្មេង,childlike
 ដូចគ្នា,identical
-ដូចព្រះ,godlike
 ដូចឆ្កែ,doggy
+ដូចព្រះ,godlike
 ដូដូ,dodo
 ដូណាត់,doughnut
 ដូនជី,nun
@@ -3784,13 +3784,13 @@ velor,velour
 ដើមម៉ៃសាក់,mangle
 ដើមម៉ៃសាក់,pecan
 ដើរ,walk
+ដើរចេញ,walkout
 ដើរជាន់,stowaway
 ដើរបង្ហាញម៉ូដ,catwalk
 ដើរបង្ហាញម៉ូដ,moonwalk
 ដើរលេង,hangout
 ដើរលេង,roam
 ដើរលេង,stroll
-ដើរចេញ,walkout
 ដេកលក់,asleep
 ដេកលក់,sleepover
 ដេញ,cast
@@ -3831,8 +3831,8 @@ velor,velour
 ដែនកំណត់,limit
 ដែនអាកាស,airspace
 ដែលពឹងផ្អែកខ្លាំង,intensive
-ដែលមិនអាចប្រកែកបាន,inscrutable
 ដែលមិនអាចបញ្ឈប់បាន,unstoppable
+ដែលមិនអាចប្រកែកបាន,inscrutable
 ដែលសោកស្តាយ,regretful
 ដែលអាចមើលឃើញ,visible
 ដៃ,arm
@@ -3851,6 +3851,7 @@ velor,velour
 ដោយគ្មានការមើលឃើញ,unsuspecting
 ដោយគ្មានការយកចិត្តទុកដាក់,unattended
 ដោយគ្មានលក្ខណ,unconditional
+ដោយចិត្ដរីករាយ,cheerful
 ដោយចេតនា,deliberate
 ដោយចេតនា,intentional
 ដោយចេតនា,willful
@@ -3870,7 +3871,6 @@ velor,velour
 ដោយឥតសណ្តាប់ធ្នាប់,disorderly
 ដោយឯកឯង,spontaneity
 ដោយឯកឯង,spontaneous
-ដោយចិត្ដរីករាយ,cheerful
 ដោះលែង,acquit
 ដោះសម្លៀកបំពាក់,undress
 ដោះសោ,unlock
@@ -4165,8 +4165,8 @@ velor,velour
 ត្រីស,whitefish
 ត្រីសមុទ្រ,catfish
 ត្រីសមុទ្រ,starfish
-ត្រីស្ទូច,trout
 ត្រីសាឌីន,sardine
+ត្រីស្ទូច,trout
 ត្រីស្បៃកា,mackerel
 ត្រឹមត្រូវ,accurate
 ត្រឹមត្រូវ,correct
@@ -4279,6 +4279,7 @@ velor,velour
 ថ្នាំ,medication
 ថ្នាំកូត,coat
 ថ្នាំកូត,coating
+ថ្នាំគ្រាប់,pill
 ថ្នាំគ្រាប់,pillage
 ថ្នាំង,node
 ថ្នាំជក់,tobacco
@@ -4294,7 +4295,6 @@ velor,velour
 ថ្នាំសំលាប់មេរោគ,repellent
 ថ្នាំសំលាប់សត្វល្អិត,insecticide
 ថ្នាំអាស្ពីរីន,aspirin
-ថ្នាំគ្រាប់,pill
 ថ្ពាល់,cheek
 ថ្ម,batter
 ថ្ម,battery
@@ -4392,9 +4392,9 @@ velor,velour
 ទា,duck
 ទា,duckling
 ទា,ducky
+ទាក់ទង,relate
 ទាក់ទាញ,allure
 ទាក់ទាញ,attract
-ទាក់ទង,relate
 ទាញ,pull
 ទាញ,tug
 ទាញទូក,tugboat
@@ -4479,9 +4479,9 @@ velor,velour
 ទីរហោស្ថាន,wilderness
 ទីលំនៅ,residence
 ទីសក្ការៈ,sanctum
+ទីសក្ការៈបូជា,shrine
 ទីសត្តឃាត,slaughterhouse
 ទីស្នាក់ការកណ្តាល,headquarter
-ទីសក្ការៈបូជា,shrine
 ទឹក,water
 ទឹក,waterbed
 ទឹក,watery
@@ -4705,11 +4705,11 @@ velor,velour
 ទ្រុង,cagey
 ទ្រូង,chest
 ទ្វារ,door
+ទ្វារក្រោយ,backdoor
 ទ្វារចូល,doorknob
 ទ្វារចូល,doorway
 ទ្វារមាស,vagina
 ទ្វារមាស,vaginal
-ទ្វារក្រោយ,backdoor
 ទ្វីប,continent
 ទ្វីប,continental
 ទ្វេ,double
@@ -4805,6 +4805,7 @@ velor,velour
 ធ្លាក់ចុះ,decline
 ធ្លាក់ចុះ,plunge
 ធ្លាក់ចុះ,slump
+ធ្លាក់ចុះមកវិញ,fallback
 ធ្លាក់ទឹកចិត្ត,depress
 ធ្លាក់ទឹកចិត្ត,depressed
 ធ្លាក់ទឹកចិត្ត,depressing
@@ -4813,7 +4814,6 @@ velor,velour
 ធ្លាក់ព្រិល,sleet
 ធ្លាក់ព្រិល,snowfall
 ធ្លាក់ព្រិល,snowy
-ធ្លាក់ចុះមកវិញ,fallback
 ធ្លាយ,leaky
 ធ្វីត,tweet
 ធ្វើ,do
@@ -4861,13 +4861,13 @@ velor,velour
 ធ្វើឱ្យប្រសើរឡើង,upgrade
 ធ្វើឱ្យព្រិល,soften
 ធ្វើឱ្យមាន,menacing
+ធ្វើឱ្យមានសុពលភាព,validate
 ធ្វើឱ្យសកម្ម,activate
+ធ្វើឱ្យស្រស់,refresh
 ធ្វើឱ្យស្រស់,refreshing
 ធ្វើឱ្យអន្តរាយ,jeopardize
 ធ្វើឱ្យអសកម្ម,deactivate
 ធ្វើឱ្យអាម៉ាស់មុខ,humiliate
-ធ្វើឱ្យមានសុពលភាព,validate
-ធ្វើឱ្យស្រស់,refresh
 ធ្វេសប្រហែស,careless
 ធ្វេសប្រហែស,neglect
 ធ្វេសប្រហែស,negligent
@@ -4888,6 +4888,7 @@ velor,velour
 នាគ,dragon
 នាគរាជ,goddess
 នាទី,minute
+នាពេលបច្ចុប្បន្ន,current
 នាព្យតិះដៀល,satire
 នាម,noun
 នាមត្រកូល,surname
@@ -4924,7 +4925,6 @@ velor,velour
 នាំអោយ,superfluous
 នាំឱ្យខូច,pervert
 នាំឱ្យខូច,perverted
-នាពេលបច្ចុប្បន្ន,current
 និកាយ,sect
 និក្ខេបបទ,thesis
 និចលភាព,inertia
@@ -5007,6 +5007,7 @@ velor,velour
 នៅរស់,alive
 នៅលីវ,single
 នៅលីវ,solitary
+នៅលើឆាក,onstage
 នៅលើផែនដី,earthly
 នៅសល់,leftover
 នៅសល់,leftovers
@@ -5016,7 +5017,6 @@ velor,velour
 នៅសល់,remaining
 នៅស្ថានបរមសុខ,heavenly
 នៅឯនាយសមុទ្រ,offshore
-នៅលើឆាក,onstage
 នំ,cake
 នំកែកឃឺ,cracker
 នំកែកឃឺ,crackerjack
@@ -5091,8 +5091,8 @@ velor,velour
 បង្គន់អនាម័យ,latrine
 បង្គា,prawn
 បង្គោល,pole
-បង្គោលភ្លើងហ្វារ,lighthouse
 បង្គោលភ្លើង,lamppost
+បង្គោលភ្លើងហ្វារ,lighthouse
 បង្រួបបង្រួម,consolidated
 បង្រួបបង្រួម,reunite
 បង្រួបបង្រួម,unified
@@ -5273,14 +5273,15 @@ velor,velour
 បណ្តោះអាសន្ន,provisional
 បណ្តោះអាសន្ន,temporary
 បត់,fold
+បត់ចេញក្រៅ,turnout
 បត់ជើងតូច,urinate
 បត់បែន,flex
-បត់ចេញក្រៅ,turnout
 បទ,symphony
 បទ,track
 បទគម្ពីរ,scripture
 បទឈប់បាញ់,truce
 បទដ្ឋាន,norm
+បទបង្ហាញ,presentation
 បទបញ្ជា,commandment
 បទបញ្ញត្តិ,ordinance
 បទប្បញ្ញត្តិ,regulation
@@ -5294,7 +5295,6 @@ velor,velour
 បទល្មើស,offence
 បទល្មើស,offense
 បទឧក្រិដ្ឋ,felony
-បទបង្ហាញ,presentation
 បន៍ត្នោតខ្ចី,beige
 បន្ត,continue
 បន្តជាថ្មី,renewal
@@ -5325,6 +5325,7 @@ velor,velour
 បន្ទប់ខាងក្រោយ,backroom
 បន្ទប់គេង,bedroom
 បន្ទប់គេង,pantry
+បន្ទប់ងងឹត,darkroom
 បន្ទប់ដាក់ឥវ៉ាន់,barroom
 បន្ទប់តាំងបង្ហាញ,showroom
 បន្ទប់ទឹក,bathroom
@@ -5337,7 +5338,6 @@ velor,velour
 បន្ទប់លេងបាល់,ballroom
 បន្ទប់សវនាការ,courtroom
 បន្ទប់សំរាក,restroom
-បន្ទប់ងងឹត,darkroom
 បន្ទរ,chorus
 បន្ទាត់,line
 បន្ទាន់,emergency
@@ -5518,6 +5518,7 @@ velor,velour
 បាហ្សា,bazaar
 បាឡាំ,balmy
 បាឡុង,balloon
+បិតិកភណ្ឌ,heritage
 បិទ,close
 បិទ,closure
 បិទ,disable
@@ -5537,7 +5538,6 @@ velor,velour
 បិសាច,saga
 បិសាច,vampire
 បិសាចជញ្ជក់ឈាម,vamp
-បិតិកភណ្ឌ,heritage
 បី,three
 បីដង,triple
 បឹង,lake
@@ -5630,10 +5630,10 @@ velor,velour
 បែកខ្ញែក,dispersal
 បែកចេញ,blowout
 បែកចេញពីគ្នា,undivided
+បែកឆ្ងាយ,breakaway
 បែកញើស,sweaty
 បែកបាក់,disintegrate
 បែកបាក់គ្នា,dissociative
-បែកឆ្ងាយ,breakaway
 បែងចែក,distinguish
 បែតា,beta
 បែហោងធ្មែញ,cavity
@@ -5659,6 +5659,7 @@ velor,velour
 បោះឆ្នោត,polling
 បោះឆ្នោត,vote
 បោះជំរំ,camping
+បោះទៅឆ្ងាយ,castaway
 បោះបង់,abort
 បោះបង់,cancel
 បោះបង់,discard
@@ -5675,7 +5676,6 @@ velor,velour
 បោះពុម្ព,print
 បោះពុម្ព,printout
 បោះពុម្ពផ្សាយ,publishing
-បោះទៅឆ្ងាយ,castaway
 បំណងប្រាថ្នា,desire
 បំណុល,debt
 បំណែក,fragment
@@ -5741,8 +5741,8 @@ velor,velour
 ប៉នីសុីលីន,penicillin
 ប៉ម,tower
 ប៉ម,towering
-ប៉មយាម,watchtower
 ប៉មតូច,turret
+ប៉មយាម,watchtower
 ប៉សឺឡែន,porcelain
 ប៉ា,daddy
 ប៉ាក់,embroidery
@@ -5750,8 +5750,8 @@ velor,velour
 ប៉ាង,pang
 ប៉ាតង់,patent
 ប៉ាតង់,patented
-ប៉ាន់ស្មាន,estimate
 ប៉ាន់កាហ្វេ,coffeepot
+ប៉ាន់ស្មាន,estimate
 ប៉ាប៉ា,papa
 ប៉ារ៉ាសូល,parasol
 ប៉ារ៉ាស៊ីត,paramilitary
@@ -5766,13 +5766,13 @@ velor,velour
 ប៉ូតាស្យូម,potassium
 ប៉ូល,polar
 ប៉ូលា,polish
+ប៉ូលីង,bowling
 ប៉ូលីស,police
 ប៉ូលីស,policeman
 ប៉ូលីស,policewoman
 ប៉ូលីសនិយម,poltergeist
 ប៉ូវកំលាំង,tonic
 ប៉ូឡូ,polo
-ប៉ូលីង,bowling
 ប៉េងប៉ោះ,tomato
 ប៉េងប៉ោះ,tomatoes
 ប៉ែតសិប,eighty
@@ -5839,15 +5839,15 @@ velor,velour
 ប្រកាស,proclaim
 ប្រកាស,pronounce
 ប្រកួតប្រជែង,compete
-ប្រកួតម្តងទៀត,rematch
 ប្រកួតផ្ដាច់ព្រ័ត្រ,playoff
+ប្រកួតម្តងទៀត,rematch
 ប្រគល់ឱ្យ,confer
+ប្រចាំការ,standby
 ប្រចាំខែ,monthly
 ប្រចាំឆ្នាំ,annual
 ប្រចាំឆ្នាំ,yearly
 ប្រចាំត្រីមាស,quarterly
 ប្រចាំសប្តាហ៍,weekly
-ប្រចាំការ,standby
 ប្រឆាំង,anti
 ប្រឆាំង,counteract
 ប្រឆាំង,defy
@@ -5868,6 +5868,7 @@ velor,velour
 ប្រញាប់,hasty
 ប្រញាប់,hurry
 ប្រញាប់,rush
+ប្រដាប់កាត់ស្មៅ,lawnmower
 ប្រដាប់ក្មេងលេង,toy
 ប្រដាប់ត្រចៀក,earpiece
 ប្រដាប់បង្វិល,revolver
@@ -5876,7 +5877,6 @@ velor,velour
 ប្រដាប់បន្តពូជ,retrial
 ប្រដាប់ប្រដាប្រើប្រាស់,utensil
 ប្រដាប់អាវុធ,armed
-ប្រដាប់កាត់ស្មៅ,lawnmower
 ប្រដាល់,boxing
 ប្រដាល់សេរី,kickboxing
 ប្រឌិត,fictitious
@@ -5983,8 +5983,8 @@ velor,velour
 ប្រអប់សាប៊ូ,soapbox
 ប្រអប់សំបុត្រ,mailbox
 ប្រអប់ឡាន,boxcar
-ប្រអប់ឧបករណ៍,toolbox
 ប្រអប់អាហារថ្ងៃត្រង់,lunchbox
+ប្រអប់ឧបករណ៍,toolbox
 ប្រាកដ,sure
 ប្រាកដនិយម,realistic
 ប្រាក់,silver
@@ -5996,8 +5996,8 @@ velor,velour
 ប្រាក់ឈ្នួល,wage
 ប្រាក់បំណាច់,bonbon
 ប្រាក់រង្វាន់,bonus
-ប្រាក់ឧបត្ថម្ភ,allowance
 ប្រាក់សោធននិវត្តន៍,pension
+ប្រាក់ឧបត្ថម្ភ,allowance
 ប្រាជ្ញា,wisdom
 ប្រាប់,tell
 ប្រាសាទ,castle
@@ -6152,13 +6152,13 @@ velor,velour
 ផ្តល់ជូន,deliver
 ផ្តល់ជូន,offer
 ផ្តល់ថាមពល,energize
+ផ្តល់ប្រាក់កម្ចី,lend
 ផ្តល់ព័ត៌មាន,informative
 ផ្តល់សិទ្ធិ,authorize
 ផ្តល់អាទិភាព,prioritize
 ផ្តល់ឱ្យ,bestow
 ផ្តល់ឱ្យ,fiver
 ផ្តល់ឱ្យ,give
-ផ្តល់ប្រាក់កម្ចី,lend
 ផ្តាច់,disconnect
 ផ្តាច់,dismount
 ផ្តាច់ការ,dictatorship
@@ -6205,8 +6205,8 @@ velor,velour
 ផ្ទុះ,explosive
 ផ្ទុះឡើង,erupt
 ផ្ទុះឡើង,outburst
-ផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវ,authenticate
 ផ្ទៀងផ្ទាត់,verify
+ផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវ,authenticate
 ផ្ទេរ,transfer
 ផ្ទៃ,surface
 ផ្ទៃខាងក្រោយ,background
@@ -6217,18 +6217,18 @@ velor,velour
 ផ្ទះ,homing
 ផ្ទះ,house
 ផ្ទះកញ្ចក់,greenhouse
+ផ្ទះកាហ្វេ,coffeehouse
 ផ្ទះងូតទឹក,bathhouse
 ផ្ទះឆ្កែ,doghouse
 ផ្ទះជួល,penthouse
 ផ្ទះបន,brothel
 ផ្ទះបាយ,kitchen
+ផ្ទះរដូវក្តៅ,summerhouse
 ផ្ទះល្វែង,apartment
 ផ្ទះល្វែង,flat
 ផ្ទះសំណាក់,guesthouse
 ផ្ទះសំណាក់,inn
 ផ្ទះសំណាក់,lodge
-ផ្ទះកាហ្វេ,coffeehouse
-ផ្ទះរដូវក្តៅ,summerhouse
 ផ្នត់ដូចជា,crease
 ផ្នូរ,grave
 ផ្នូរ,graveyard
@@ -6331,8 +6331,8 @@ velor,velour
 ផ្សាយពាណិជ្ជកម្ម,advertising
 ផ្សារដែក,weld
 ផ្សារដែក,welding
-ផ្សារទំនើប,supermarket
 ផ្សារទំនើប,mall
+ផ្សារទំនើប,supermarket
 ផ្សាំ,implant
 ផ្សិត,fungus
 ផ្សិត,mold
@@ -6451,6 +6451,7 @@ velor,velour
 ពាក់កណ្ដាល,midair
 ពាក់កណ្ដាលម៉ោង,halftime
 ពាក់កណ្តាល,halfback
+ពាក់កណ្តាល,mid
 ពាក់កណ្តាល,midget
 ពាក់កណ្តាល,semi
 ពាក់កណ្តាលខែ,midterm
@@ -6458,7 +6459,6 @@ velor,velour
 ពាក់ព័ន្ធ,involve
 ពាក់ព័ន្ធ,pertinent
 ពាក់ព័ន្ធ,relevant
-ពាក់កណ្តាល,mid
 ពាក្យ,term
 ពាក្យ,word
 ពាក្យគន្លឹះ,keyword
@@ -6518,13 +6518,13 @@ velor,velour
 ពិធីសាសនា,ritual
 ពិធីសាសនា,ritualistic
 ពិនិត្យ,check
+ពិនិត្យមុនពេលចេញ,checkout
 ពិនិត្យមើល,examine
 ពិនិត្យមើល,recheck
 ពិនិត្យឡើងវិញ,review
 ពិនិត្យឡើងវិញ,revise
 ពិនិត្យឡើងវិញ,revisit
 ពិនិត្យឡើងវិញ,revue
-ពិនិត្យមុនពេលចេញ,checkout
 ពិន័យ,penalty
 ពិន្ទុ,score
 ពិបាក,difficult
@@ -6680,6 +6680,7 @@ velor,velour
 ព្រងើយកណ្តើយ,indifferent
 ព្រមាន,warn
 ព្រលប់,dusk
+ព្រលានយន្តហោះ,airport
 ព្រលឹង,soul
 ព្រលឹង,soulful
 ព្រលែង,unleash
@@ -6722,6 +6723,7 @@ velor,velour
 ព្រះ,god
 ព្រះ,goddamned
 ព្រះគម្ពីរ,bible
+ព្រះច័ន្ទ,moon
 ព្រះច័ន្ទ,moonlit
 ព្រះនាង,princess
 ព្រះពន្លា,pavilion
@@ -6732,8 +6734,6 @@ velor,velour
 ព្រះអង្គម្ចាស់,prince
 ព្រះអាទិត្យ,solar
 ព្រះអាទិត្យ,sun
-ព្រះច័ន្ទ,moon
-ព្រលានយន្តហោះ,airport
 ភក់,mire
 ភក់,mud
 ភក់,muddle
@@ -6799,6 +6799,7 @@ velor,velour
 ភាពចល័ត,mobility
 ភាពចាស់,aging
 ភាពចាំបាច់,imperative
+ភាពចាំបាច់,necessity
 ភាពចាំបាច់,requisition
 ភាពច្នៃប្រឌិត,creativity
 ភាពច្បាស់លាស់,clarity
@@ -6834,6 +6835,7 @@ velor,velour
 ភាពជាឪពុកម្តាយ,parenthood
 ភាពជិតស្និទ្ធ,closeness
 ភាពជឿជាក់,credence
+ភាពជឿជាក់,credibility
 ភាពជឿនលឿន,advancement
 ភាពឈឺចាប់,agony
 ភាពឈ្លាសវៃ,brilliance
@@ -6846,6 +6848,7 @@ velor,velour
 ភាពតានតឹង,severance
 ភាពតានតឹង,tension
 ភាពតែមួយ,oneness
+ភាពត្រឹមត្រូវ,accuracy
 ភាពត្រឹមត្រូវ,authenticity
 ភាពត្រេកត្រអាល,ecstasy
 ភាពថោកទាប,dishonor
@@ -6879,6 +6882,7 @@ velor,velour
 ភាពបរិសុទ្ធ,chaste
 ភាពបរិសុទ្ធ,chastity
 ភាពបរិសុទ្ធ,holiness
+ភាពបរិសុទ្ធ,purity
 ភាពបរិសុទ្ធ,sanctity
 ភាពបើកចំហ,openness
 ភាពប៉ិនប្រសប់,ingenuity
@@ -6887,6 +6891,7 @@ velor,velour
 ភាពប្លែក,paradox
 ភាពផ្ទុយគ្នា,antagonistic
 ភាពផ្ទុយគ្នា,contradiction
+ភាពផ្សេងគ្នា,discrepancy
 ភាពផ្អែមល្ហែម,sweetness
 ភាពពាក់ព័ន្ធ,relevance
 ភាពពិការភ្នែក,blindness
@@ -6961,6 +6966,7 @@ velor,velour
 ភាពសាមញ្ញ,simplicity
 ភាពសាហាវ,exhumation
 ភាពសាហាវឃោរឃៅ,brutality
+ភាពសុខដុម,harmony
 ភាពស៊ាំ,immune
 ភាពស៊ីសង្វាក់គ្នា,synergy
 ភាពស្ងប់ស្ងាត់,serenade
@@ -6975,6 +6981,7 @@ velor,velour
 ភាពស្និទ្ធស្នាល,intimacy
 ភាពស្មុគស្មាញ,complexion
 ភាពស្មុគស្មាញ,complexity
+ភាពស្មុគស្មាញ,complicated
 ភាពស្មុគស្មាញ,complication
 ភាពស្មុគស្មាញ,complicity
 ភាពស្មោះត្រង់,fidelity
@@ -6992,6 +6999,8 @@ velor,velour
 ភាពស្លេកស្លាំង,anemia
 ភាពស្អាតស្អំ,cleanliness
 ភាពហ្មត់ចត់,thoroughfare
+ភាពអត់ការងារធ្វើ,unemployment
+ភាពអត់ឃ្លាន,hunger
 ភាពអត់ធ្មត់,tolerance
 ភាពអមតៈ,immortality
 ភាពអយុត្តិធម៌,injustice
@@ -7016,17 +7025,8 @@ velor,velour
 ភាពអាស្រ័យ,dependency
 ភាពឥតប្រយោជន៍,futility
 ភាពឯកជន,privacy
-ភាពឯកោ,loneliness
-ភាពចាំបាច់,necessity
-ភាពជឿជាក់,credibility
-ភាពត្រឹមត្រូវ,accuracy
-ភាពបរិសុទ្ធ,purity
-ភាពផ្សេងគ្នា,discrepancy
-ភាពសុខដុម,harmony
-ភាពស្មុគស្មាញ,complicated
-ភាពអត់ការងារធ្វើ,unemployment
-ភាពអត់ឃ្លាន,hunger
 ភាពឯកោ,isolation
+ភាពឯកោ,loneliness
 ភារកិច្ច,task
 ភាសា,jargon
 ភាសា,language
@@ -7120,9 +7120,9 @@ velor,velour
 ភ្លឺ,bright
 ភ្លឺ,brighten
 ភ្លឺចាំង,flashy
+ភ្លឺចាំង,shiny
 ភ្លឺថ្លា,luminous
 ភ្លឺរលោង,shoddy
-ភ្លឺចាំង,shiny
 ភ្លុក,ivory
 ភ្លើង,afire
 ភ្លើង,fire
@@ -7299,6 +7299,7 @@ velor,velour
 មានប្រសិទ្ធិភាព,effective
 មានប្រសិទ្ធិភាព,efficient
 មានប្រាជ្ញា,wise
+មានផាសុខភាព,comfortable
 មានផ្ទៃពោះ,conceive
 មានផ្ទៃពោះ,pregnancy
 មានផ្ទៃពោះ,pregnant
@@ -7333,7 +7334,6 @@ velor,velour
 មាន់,chick
 មាន់,rooster
 មាន់ជល់,cock
-មានផាសុខភាព,comfortable
 មាប់មគ,disinfect
 មាប់មគ,disinfectant
 មាប់មគ,sterile
@@ -7364,12 +7364,14 @@ velor,velour
 មិនកាត់,uncut
 មិនខាន,precarious
 មិនខ្លាច,unafraid
+មិនគួរឱ្យជឿ,incredible
 មិនគួរឱ្យជឿ,unbelievable
 មិនគួរឱ្យជឿ,unremarkable
 មិនគួរឱ្យទុកចិត្ត,untrustworthy
 មិនគោរព,disrespectful
 មិនគោរពព្រះ,ungodly
 មិនគ្រប់គ្រាន់,inadequate
+មិនគ្រប់គ្រាន់,insufficient
 មិនចង់បាន,undesirable
 មិនចង់បាន,unwanted
 មិនចាំបាច់,inconsequential
@@ -7408,24 +7410,27 @@ velor,velour
 មិនឆ្លើយតប,unresponsive
 មិនជាប់លាប់,inconsistent
 មិនជឿ,pagan
+មិនជ្រាបទឹក,waterproof
 មិនឈប់ឈរ,unrelenting
 មិនដឹងខ្លួន,unaware
 មិនដំណើរការ,uncharted
 មិនត្រឹមត្រូវ,improper
 មិនត្រឹមត្រូវ,inaccurate
+មិនត្រឹមត្រូវ,incorrect
 មិនត្រឹមត្រូវ,invalid
 មិនត្រឹមត្រូវ,misread
 មិនត្រឹមត្រូវ,unsound
 មិនត្រូវ,undue
 មិនទទួលខុសត្រូវ,irresponsible
+មិនទាក់ទង,unrelated
 មិនទាក់ទាញ,unattractive
 មិនទាន់កើត,unborn
 មិនទាន់ឃើញច្បាស់,latent
 មិនទាន់ចប់,unfinished
+មិនទាន់ពេញវ័យ,immature
 មិនទាន់មានច្បាប់ប្រឆាំង,rope
 មិនទាន់មានច្បាប់ប្រឆាំង,ropes
 មិនទាន់រៀបការ,unmarried
-មិនទាន់ពេញវ័យ,immature
 មិនទុកចិត្ត,distrust
 មិនទុកចិត្ត,mistrust
 មិនទុកចិត្ត,unfreeze
@@ -7596,11 +7601,6 @@ velor,velour
 មិនអាចសំរេចបាន,unattainable
 មិនអើពើ,ignore
 មិនអំណោយផល,unsavory
-មិនគួរឱ្យជឿ,incredible
-មិនគ្រប់គ្រាន់,insufficient
-មិនជ្រាបទឹក,waterproof
-មិនត្រឹមត្រូវ,incorrect
-មិនទាក់ទង,unrelated
 មី,mister
 មី,noodle
 មី,poodle
@@ -7673,9 +7673,9 @@ velor,velour
 មួន,ointment
 មួយ,one
 មួយទសវត្សរ៍,decade
+មួយទឹក,secondhand
 មួយភាគដប់,tit
 មួយភ្លែត,momentary
-មួយទឹក,secondhand
 មើមដំឡូង,cactus
 មើល,beholden
 មើល,view
@@ -7771,6 +7771,7 @@ velor,velour
 ម៉ាស,mash
 ម៉ាស,mauve
 ម៉ាសីនតឹកកក,freezer
+ម៉ាសុីនលោងចាន,dishwasher
 ម៉ាស៊ីន,engine
 ម៉ាស៊ីន,mach
 ម៉ាស៊ីន,machine
@@ -7778,6 +7779,7 @@ velor,velour
 ម៉ាស៊ីនកាត់,mower
 ម៉ាស៊ីនកិន,grinder
 ម៉ាស៊ីនកំដៅ,chipper
+ម៉ាស៊ីនកំដៅ,heater
 ម៉ាស៊ីនគិតលេខ,calculator
 ម៉ាស៊ីនដេរ,crusher
 ម៉ាស៊ីនត្រជាក់,conditioner
@@ -7790,14 +7792,13 @@ velor,velour
 ម៉ាស៊ីនបោះពុម្ព,printer
 ម៉ាស៊ីនបំបែកទឹកកក,icebreaker
 ម៉ាស៊ីនបំពង,fryer
+ម៉ាស៊ីនផ្លុំសក់,hairdryer
 ម៉ាស៊ីនភ្លើង,generator
 ម៉ាស៊ីនមេ,server
+ម៉ាស៊ីនសម្ងួត,dryer
 ម៉ាស៊ីនស្កេន,scanner
 ម៉ាស៊ីនហាត់ប្រាណ,treadmill
 ម៉ាស៊ីនអង្គុលីលេខ,typewriter
-ម៉ាស៊ីនកំដៅ,heater
-ម៉ាស៊ីនផ្លុំសក់,hairdryer
-ម៉ាស៊ីនសម្ងួត,dryer
 ម៉ាស៊ូត,diesel
 ម៉ាស់,mass
 ម៉ាស្ការ៉ា,mascara
@@ -7808,7 +7809,6 @@ velor,velour
 ម៉ាំបូ,mambo
 ម៉ាំបូ,mumbo
 ម៉ាំមី,mummy
-ម៉ាសុីនលោងចាន,dishwasher
 ម៉ឺនុយ,menu
 ម៉ូដ,lawn
 ម៉ូដឹម,modem
@@ -8067,11 +8067,11 @@ velor,velour
 រត់,run
 រត់គេចខ្លួន,escape
 រត់គេចខ្លួន,fugitive
-រត់ជាន់គ្នា,stampede
-រត់ពន្ធ,smuggle
 រត់ចុះ,rundown
+រត់ជាន់គ្នា,stampede
 រត់ជុំវិញ,runaround
 រត់ទៅអោយឆ្ងាយ,runaway
+រត់ពន្ធ,smuggle
 រថភ្លើង,train
 រថភ្លើងក្រោមដី,subway
 រថយន្ដ,sidecar
@@ -8489,6 +8489,7 @@ velor,velour
 រំញោច,stimulating
 រំញោច,stimulation
 រំញោច,stimulus
+រំញ័រ,vibration
 រំញ័រ,vibrator
 រំដោះ,liberate
 រំពឹង,expect
@@ -8507,7 +8508,6 @@ velor,velour
 រំលោភ,breach
 រំលោភ,violate
 រំអិល,lube
-រំញ័រ,vibration
 រ៉ក,pulley
 រ៉ាកែត,racetrack
 រ៉ាកែត,racket
@@ -8542,9 +8542,9 @@ velor,velour
 រ៉ៃ,rye
 លក់,sale
 លក់,sell
+លក់ចេញ,sellout
 លក់ដាច់ជាងគេ,bestseller
 លក់ដុំ,wholesale
-លក់ចេញ,sellout
 លក់រាយ,retail
 លក្ខខណ្ឌ,condition
 លក្ខណៈ,characteristic
@@ -9080,12 +9080,12 @@ velor,velour
 វ៉ារនីស,varnish
 វ៉ាលី,lug
 វ៉ាលី,luggage
+វ៉ាលី,suitcase
 វ៉ាលីន,nutcase
 វ៉ាលីន,velvet
 វ៉ាលីយួរដៃ,briefcase
 វ៉ាល់ល,waltz
 វ៉ាសស៊ីល,vassal
-វ៉ាលី,suitcase
 វ៉ិចទ័រ,vector
 វ៉ុក,wok
 វ៉ុល,voltage
@@ -9213,6 +9213,7 @@ velor,velour
 សត្វកណ្តូប,grasshopper
 សត្វក្តាន់,deer
 សត្វខ្លាឃ្មុំ,bearings
+សត្វឃីវី,kiwi
 សត្វឃ្មុំ,bee
 សត្វឃ្មុំ,beeper
 សត្វចចក,giraffe
@@ -9242,9 +9243,8 @@ velor,velour
 សត្វល្អិត,pest
 សត្វសាហាវ,beastly
 សត្វស្វា,swindler
-សត្វអូក,ostrich
-សត្វឃីវី,kiwi
 សត្វអណ្តើក,tortoise
+សត្វអូក,ostrich
 សន្ដោសប្រណី,gracious
 សន្តតិកម្ម,succession
 សន្តិភាព,peace
@@ -9485,11 +9485,11 @@ velor,velour
 សាច់ដុំ,muscular
 សាច់បាល់,meatball
 សាច់ប្រាក់,cash
+សាច់មាន់,chicken
 សាច់សត្វ,carnivorous
 សាច់អាំង,barbecue
 សាច់អាំង,steak
 សាច់អាំង,steakhouse
-សាច់មាន់,chicken
 សាជីជ្រុង,pyramid
 សាជីវកម្ម,corporal
 សាជីវកម្ម,corporation
@@ -9537,11 +9537,11 @@ velor,velour
 សារភាព,admit
 សារភាព,confess
 សារមន្ទីរ,museum
+សារឥតបានការ,spam
 សារាយ,seagull
 សារៈសំខាន់,importance
 សារៈសំខាន់,significance
 សារ៉ាយសមុទ្រ,seaweed
-សារឥតបានការ,spam
 សាល,hall
 សាលក្រម,verdict
 សាលប្រជុំ,auditorium
@@ -9603,8 +9603,8 @@ velor,velour
 សិស្ស,disciple
 សិស្ស,pupil
 សិស្សថ្នាក់ទី,grader
-សិស្សសាលា,schoolgirl
 សិស្សប្អូន,junior
+សិស្សសាលា,schoolgirl
 សីតុណ្ហាភាព,temperature
 សីលធម៌,ethic
 សីលធម៌,ethical
@@ -9946,9 +9946,9 @@ velor,velour
 ស្តារ,restore
 ស្តារនីតិសម្បទា,rehabilitate
 ស្តារឡើងវិញ,rehab
+ស្តីបន្ទោស,blame
 ស្តីបន្ទោស,reprimand
 ស្តីបន្ទោស,scold
-ស្តីបន្ទោស,blame
 ស្តុក,stock
 ស្តុក,stockade
 ស្តុក,stocking
@@ -10068,8 +10068,8 @@ velor,velour
 ស្បែកជើងប៉ាតា,sneer
 ស្បែកជើងរអិល,slipper
 ស្បៃមុខ,veal
-ស្បៃមុខគ្របលើ,veiled
 ស្បៃមុខ,veil
+ស្បៃមុខគ្របលើ,veiled
 ស្ប៉ា,spa
 ស្ពាន,bridge
 ស្ពាន់,copper
@@ -10160,6 +10160,7 @@ velor,velour
 ស្រា,wine
 ស្រាក្រឡុក,bartender
 ស្រាក្រឡុក,cocktail
+ស្រាគោញ៉ាក់,brandy
 ស្រាបៀរ,beer
 ស្រាបៀរ,brewery
 ស្រាយ,unpack
@@ -10169,7 +10170,6 @@ velor,velour
 ស្រាល,mild
 ស្រាល,sleight
 ស្រាវីស្គី,whiskey
-ស្រាគោញ៉ាក់,brandy
 ស្រាសំប៉ាញ,champagne
 ស្រី,female
 ស្រី,feminine
@@ -10265,6 +10265,7 @@ velor,velour
 ស្អាតស្អំ,stately
 ស្អិត,sticky
 ហ,hash
+ហត់ដក,hotdog
 ហត់នឿយ,exhale
 ហត់នឿយ,exhaust
 ហត់នឿយ,exhaustion
@@ -10272,7 +10273,6 @@ velor,velour
 ហត់នឿយ,sobriety
 ហត់នឿយ,tired
 ហត់នឿយ,tiring
-ហត់ដក,hotdog
 ហត្ថកម្ម,manual
 ហត្ថលេខា,autograph
 ហត្ថលេខា,signature
@@ -10280,16 +10280,16 @@ velor,velour
 ហាង,boutique
 ហាង,shop
 ហាង,store
+ហាងកាត់សក់,barbershop
 ហាងកាហ្វេ,cafeteria
 ហាងឆេង,odds
 ហាងថែរក្សាសម្ផស្ស,salon
 ហាងនំប៉័ង,bakery
+ហាងបញ្ចាំ,pawnshop
 ហាងលក់សៀវភៅ,bookie
 ហាងលក់សៀវភៅ,bookshop
 ហាងលក់សៀវភៅ,bookstore
 ហាងស្រា,pub
-ហាងកាត់សក់,barbershop
-ហាងបញ្ចាំ,pawnshop
 ហាត់សម,rehearsal
 ហានិភ័យ,risk
 ហាន់,hare
@@ -10434,9 +10434,9 @@ velor,velour
 ឡានដឹកទំនិញ,trucker
 ឡានដឹកទំនិញ,truckload
 ឡាន់ឆ័រ,launcher
+ឡាម,razor
 ឡាស៊ែរ,laser
 ឡាឡា,llama
-ឡាម,razor
 ឡុកឡាក់,dicey
 ឡូជីខល,logical
 ឡូយ,chic
@@ -10480,6 +10480,7 @@ velor,velour
 អង្កាម,husk
 អង្កាំ,bead
 អង្គការ,organization
+អង្គចងចាំ,ram
 អង្គជំនុំជម្រះ,chamber
 អង្គភាព,entity
 អង្គរក្ស,bodyguard
@@ -10487,7 +10488,6 @@ velor,velour
 អង្គុយ,sit
 អង្គុយ,squat
 អង្គែស្បែកក្បាល,dandruff
-អង្គចងចាំ,ram
 អង្រឹង,hammock
 អង្វរ,beseech
 អង្វរ,implore
@@ -10688,6 +10688,7 @@ velor,velour
 អស់កម្លាំង,fatigue
 អស់កម្លាំង,fatigued
 អស់កល្បជានិច្ច,eternal
+អស់ពេល,timeout
 អស់រដូវ,menopause
 អស់សង្ឃឹម,despair
 អស់សង្ឃឹម,despairing
@@ -10697,7 +10698,6 @@ velor,velour
 អស់សង្ឃឹម,hapless
 អស់សង្ឃឹម,helpless
 អស់សង្ឃឹម,hopeless
-អស់ពេល,timeout
 អស្ចារ្យ,amazing
 អស្ចារ្យ,astound
 អស្ចារ្យ,breathtaking
@@ -10840,10 +10840,10 @@ velor,velour
 អាទិភាព,precedence
 អាទិភាព,priority
 អាន,read
+អានទៅ,readout
 អានឡើងវិញ,reread
 អានុភាព,leverage
 អានុភាព,mainstream
-អានទៅ,readout
 អាបធ្មប់,sorcerer
 អាបធ្មប់,sorcery
 អាបធ្មប់,witch
@@ -10929,12 +10929,15 @@ velor,velour
 អាហារថ្ងៃត្រង់,lunacy
 អាហារថ្ងៃត្រង់,lunch
 អាហារថ្ងៃត្រង់,luncheon
+អាហារថ្ងៃត្រង់,lunchtime
 អាហារបំប៉ន,nutcracker
+អាហារប៊ូហ្វេ,buffet
 អាហារពេលថ្ងៃត្រង់,dinnertime
 អាហារពេលព្រឹក,breakfast
 អាហារពេលព្រឹក,brunch
 អាហារពេលល្ងាច,dine
 អាហារពេលល្ងាច,diner
+អាហារពេលល្ងាច,dinner
 អាហារពេលល្ងាច,supper
 អាហារពេលល្ងាច,suppertime
 អាហារសមុទ្រ,seafood
@@ -10946,9 +10949,6 @@ velor,velour
 អាហារូបករណ៍,scholastic
 អាហារូបត្ថម្ភ,nutrition
 អាហារូបត្ថម្ភ,nutritional
-អាហារថ្ងៃត្រង់,lunchtime
-អាហារប៊ូហ្វេ,buffet
-អាហារពេលល្ងាច,dinner
 អាហូ,ahoy
 អាហ្វ្រិក,african
 អាឡែរហ្សី,allergic
@@ -11091,6 +11091,7 @@ velor,velour
 អ្នកចរចា,negotiator
 អ្នកចាក់សាក់,tattler
 អ្នកចាញ់,decedent
+អ្នកចាញ់,loser
 អ្នកចាប់,catcher
 អ្នកចាប់ផ្តើមដំបូង,beginner
 អ្នកចាំទី,keeper
@@ -11120,6 +11121,7 @@ velor,velour
 អ្នកជិះស្គី,skier
 អ្នកជួយ,attendant
 អ្នកជួល,gusher
+អ្នកជួល,tenant
 អ្នកជួសជុល,fixer
 អ្នកជឿ,believer
 អ្នកជឿទុកចិត្ត,trustee
@@ -11136,6 +11138,7 @@ velor,velour
 អ្នកឈ្នះ,winner
 អ្នកឈ្លានពាន,aggressor
 អ្នកឈ្លានពាន,intruder
+អ្នកញុំ,eater
 អ្នកដាក់,putter
 អ្នកដាក់ពាក្យ,applicant
 អ្នកដាំ,planter
@@ -11164,6 +11167,7 @@ velor,velour
 អ្នកត្រួតពិនិត្យ,supervisor
 អ្នកថតរូប,photographer
 អ្នកថើប,kisser
+អ្នកថែក្មេង,babysitter
 អ្នកថែខ្លួន,coroner
 អ្នកថែរក្សា,caretaker
 អ្នកថែរក្សា,curator
@@ -11268,6 +11272,7 @@ velor,velour
 អ្នកប្រឹក្សា,adviser
 អ្នកប្រឹក្សា,advisor
 អ្នកប្រឹក្សា,counselor
+អ្នកប្រើ,user
 អ្នកប្រើប្រាស់,consummate
 អ្នកប្លន់,hijacker
 អ្នកផលិតខ្សែភាពយន្ត,filmmaker
@@ -11282,6 +11287,7 @@ velor,velour
 អ្នកផ្តល់ព័ត៌មាន,informer
 អ្នកផ្លាស់ប្តូរ,barter
 អ្នកផ្សងព្រេង,adventurer
+អ្នកផ្សព្វផ្សាយ,promoter
 អ្នកផ្សព្វផ្សាយ,spreader
 អ្នកផ្សព្វផ្សាយសាសនា,missionary
 អ្នកផ្សាយសាធារណៈ,publicist
@@ -11352,6 +11358,7 @@ velor,velour
 អ្នកលាងចាន,washer
 អ្នកលួងលោម,comforter
 អ្នកលើកទឹកចិត្ត,entourage
+អ្នកលេង,playboy
 អ្នកលេង,player
 អ្នកលេងបាល់,ballplayer
 អ្នកលេងព្យ៉ាណូ,pianist
@@ -11403,6 +11410,7 @@ velor,velour
 អ្នកស្លាប់,deceased
 អ្នកស្លៀកពាក់,dresser
 អ្នកស្វែងរក,seeker
+អ្នកស្អប់,hater
 អ្នកហាត់កាយសម្ព័ន្ធ,gymnast
 អ្នកហាត់ការ,intern
 អ្នកហាត់ប្រាណ,toymaker
@@ -11421,14 +11429,6 @@ velor,velour
 អ្នកឧបត្ថម្ភ,sponsor
 អ្នកឯកទេសខាងជំងឺបេះដូង,cardiologist
 អ្នកឱ្យ,giver
-អ្នកចាញ់,loser
-អ្នកជួល,tenant
-អ្នកញុំ,eater
-អ្នកថែក្មេង,babysitter
-អ្នកប្រើ,user
-អ្នកផ្សព្វផ្សាយ,promoter
-អ្នកលេង,playboy
-អ្នកស្អប់,hater
 អ្រងួន,shake
 អ្វីដែលមិន,whatnot
 ឥដ្ឋ,brick

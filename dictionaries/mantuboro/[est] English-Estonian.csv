@@ -12715,8 +12715,8 @@ goings on,juhtumused
 goings-on,juhtumused
 happened,juhtunud
 the eventuality,juhuks
-the case,juhul
 case ( ),juhul
+the case,juhul
 case conference,juhul konverentsil
 in case,juhul kui
 in-case,juhul kui
@@ -15085,8 +15085,8 @@ cash desk,kassalett
 cash-desk,kassalett
 wicket,kassaluuk
 cashier,kassapidaja
-paymaster,kassapidaja
 cashier ( ),kassapidaja
+paymaster,kassapidaja
 paymaster general,kassapidaja üldiselt
 cash book,kassaraamat
 cashier's stand,kassas seista
@@ -20547,9 +20547,9 @@ cakewalk,kukepea
 tumble,kukerpallitama
 cock fighting,kukevõitlustele
 cock,kukk
+cock ( ),kukk
 cock crow,kukk
 rooster,kukk
-cock ( ),kukk
 cock and bull story,kukk ja sõnn loo
 cock pit,kukk pit
 cock-shot,kukk shot
@@ -27079,8 +27079,8 @@ continental states,mandri riigid
 continental law,mandri õiguse
 icecap,mandrijää
 deglaciation,mandrijäätumise
-the continent,mandril
 continent ( ),mandril
+the continent,mandril
 continental shelf,mandrilava
 decadence,mandumine
 degenerated,mandunud
@@ -30681,8 +30681,8 @@ names,nimed
 namesake,nimekaim
 list,nimekiri
 cumulative list,nimekiri täiendustega
-shortlist,nimekirja
 list ( ),nimekirja
+shortlist,nimekirja
 lists,nimekirjad
 behalf,nimel
 behalf of,nimel
@@ -36316,8 +36316,8 @@ drunk driver,purjus juht
 drunken brawl,purjus lõugama
 drunkenness,purjusolek
 jar,purk
-jar with,purk
 jar ( ),purk
+jar with,purk
 purple robe,purpurmantlit
 purple,purpurne
 outburst,purse
@@ -38231,11 +38231,11 @@ fatty-degeneration,rasvhapete-degeneratsioon
 fatty tissue,rasvkoesse
 obese,rasvunud
 caster,ratas
+caster ( ),ratas
 castor,ratas
 cogwheel,ratas
 puck,ratas
 wheel,ratas
-caster ( ),ratas
 castor-bean,"ratas, uba"
 castor-sugar,ratas-suhkru
 ferris wheel,rataskarussell
@@ -41312,9 +41312,9 @@ linking,sidumine
 tying,sidumine
 tie-in,sidumistööde
 clutch,sidur
+clutch ( ),sidur
 coupling,sidur
 toggle switch,sidur
-clutch ( ),sidur
 clutch at,sidur on
 in gear,sidurdatud
 bound up,sidus
@@ -46064,24 +46064,24 @@ your actual,teie tegelik
 another,teine
 second,teine
 second adventist,teine adventistide
-runner up,teine koht
-second childhood,teine lapsepõlv
-second story,teine lugu
-second thought,teine mõte
-second guess,teine oletus
-second wind,teine tuul
 boxing day,teine jõulupüha
 second language,teine keel
 second chamber,teine koda
 second home,teine kodu
+runner up,teine koht
 second gear,teine käik
+second childhood,teine lapsepõlv
+second story,teine lugu
 second honeymoon,teine mesinädalad
+second thought,teine mõte
 other woman,teine naine
 second name,teine nimi
 second-name,teine nimi
 second-cousin,teine nõbu
+second guess,teine oletus
 second string,teine string
 second rate,teine tase
+second wind,teine tuul
 second-sight,teine vaatepilt
 second-fiddle,teine viiul
 one another,teineteist
@@ -53433,6 +53433,7 @@ virtuality,virtuaalsus
 virulent,virulentset
 flicker,virvendama
 flickering,virvendamine
+vis … vis,vis vis
 dogged,visa
 tenacious,visa
 die hard,visa hing
@@ -53498,7 +53499,6 @@ visualize,visualiseerima
 visualization,visualiseerimise
 visualizing,visualiseerimise
 visualized,visualiseeritud
-vis … vis,vis vis
 vital capacity,vitaalkapatsiteet
 vitamin,vitamiin
 vitamin bc,vitamiin bc

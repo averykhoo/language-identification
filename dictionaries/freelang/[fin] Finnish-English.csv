@@ -1062,8 +1062,8 @@ analoginen,analog
 analysoida,"break down, analyze, analyse, dissect, take apart"
 analyysi,analysis
 analyytikko,analyst
-analyyttinen,"analytic, holomorphic"
 analyyttinen,analytic
+analyyttinen,"analytic, holomorphic"
 ananas,pineapple
 anarkia,anarchy
 anastaa,"steal, rifle"
@@ -1936,9 +1936,9 @@ dena,"boozer, heavy drinker, drunkard"
 dena (slang),"boozer, heavy drinker, drunkard"
 depata (slang),"die, get killed"
 depressio,"depression, dejection"
+derivaatta,derivative
 derivaatta,"differential coefficient, first derivative"
 derivaatta,"differential, derivative, derived function"
-derivaatta,derivative
 derivaatta vasemmalta,left derivative
 derivoida,differentiate
 derivointi,differentiation
@@ -2592,12 +2592,12 @@ epäilyttävä,"questionable, suspicious, precarious"
 epäinhimillinen julmuus,"atrocity, atrociousness, barbarity, barbarousness"
 epäinhimillinen julmuus,heinousness
 epäitsekäs,unselfish
-epäjatkuva,"intermittent, alternating, recurrent, periodic"
 epäjatkuva,discontinuous
+epäjatkuva,"intermittent, alternating, recurrent, periodic"
 epäjatkuvuus,discontinuity
 epäjatkuvuuskohta,point of discontinuity
-epäjatkuvuuspiste,point of discontinuity
 epäjatkuvuuspiste,discontinuity
+epäjatkuvuuspiste,point of discontinuity
 epäjohdonmukainen,inconsistent
 epäjohdonmukaisuus,inconsistency
 epäkelpo,"invalid, unsuitable, improper"
@@ -4845,8 +4845,8 @@ holkki,"bolster, collar, flange, rim"
 hollannin kieli,Dutch (language)
 hollantilainen,"Dutch, Dutchman, Hollander, Netherlander"
 holmium,"holmium, Ho"
-holomorfinen,"holomorphic, analytic"
 holomorfinen,holomorphic
+holomorfinen,"holomorphic, analytic"
 holtiton,irresponsible
 holtiton,"unrestrained, reckless"
 holvi,arch
@@ -7684,8 +7684,8 @@ kalteri,"bars, grate"
 kalterit,"bars, grating"
 kaltevuus,"fall, inclination, tilt, list, lean, leaning"
 kaltoin kohtelu,"abuse, maltreatment, ill-treatment, ill-usage"
-kalu,"tool, instrument, implement, object"
 kalu,penis
+kalu,"tool, instrument, implement, object"
 kaluaminen,"browse, browsing"
 kalusi,gnawed
 kaluste,fixture
@@ -8478,9 +8478,9 @@ kehittämishanke,development project
 kehittävä,"developing, formative"
 kehittää,cultivate
 kehittää,"develop, bring along, refine, evolve, expound"
+kehittää,expand
 kehittää,"explicate, formulate"
 kehittää,"pioneer, initiate"
-kehittää,expand
 kehittää yksityiskohtaisesti,"elaborate, work out"
 kehityksen kärki,"vanguard, forefront, cutting edge"
 kehitys,"development, progress, evolution, developing"
@@ -8572,8 +8572,8 @@ keikistellä,"coquet, embellish, flirt"
 keikistely,"flirting, flirtation"
 keikka,gig
 keikkua,"sway, rock, shake"
-keila,"taper, cone"
 keila,swath
+keila,"taper, cone"
 keilaaja,bowler
 keilata,bowl
 keille,"to whom, to which persons, to what persons"
@@ -8690,8 +8690,8 @@ kennosto,honeycomb
 keno,"bent, inclined, leaning, atilt, canted, tilted"
 keno,tipped
 kenoviiva,backslash
-kenraali,"general, five-star general, full general"
 kenraali,"general, five-star general"
+kenraali,"general, five-star general, full general"
 kenttä,"field, province"
 kenttäkerttunen,paddyfield warbler
 kepakko,stick
@@ -10054,8 +10054,8 @@ kommunistinen,communist
 kommutatiivinen,commutative
 kommutatiivisuus,"commutative law, commutativity"
 kommutoida,commute
-kompakti,"compact, curt, crisp, laconic, terse"
 kompakti,compact
+kompakti,"compact, curt, crisp, laconic, terse"
 kompaktisointi,compactification
 komparatiivi,comparative
 kompassi,compass
@@ -11071,11 +11071,11 @@ kurvikas,"curvy, curvaceous"
 kusettaa,"cheat, con"
 kusi,"urine, stale, piss, pee, water, piddle, weewee"
 kuski,"driver, rider"
-kusta (poetic),"whence, wherefrom, from what place"
 kusta,pass water
 kusta,"piss, pee, pee-pee, make water, relieve oneself"
 kusta,"take a leak, spend a penny, wee, wee-wee"
 kusta,"urinate, stale, make, piddle, puddle, micturate"
+kusta (poetic),"whence, wherefrom, from what place"
 kustanne,publication
 kustannettu,paid
 kustannus,cost
@@ -11260,9 +11260,9 @@ kuvatus,fright
 kuvauksellinen,photographic
 kuvaus,"depiction, characterization, characterisation"
 kuvaus,"description, portrait"
+kuvaus,"mapping, function, map"
 kuvaus,photography
 kuvaus,"picture, word picture, word-painting, delineation"
-kuvaus,"mapping, function, map"
 kuvaussihteeri,script girl
 kuve,"flank, side"
 kuvernööri,governor
@@ -11402,8 +11402,8 @@ kyselylomake,questionnaire
 kysyjä,"questioner, interrogator"
 kysymys,"issue, subject"
 kysymys,question
-kysyntä,"demand, request"
 kysyntä,demand
+kysyntä,"demand, request"
 kysyä,"ask, question, query, enquire, inquire"
 kysyä neuvoa,"consult, confer with"
 kyteä,"burn, smold, smolder, smoulder"
@@ -14069,8 +14069,8 @@ mahtava,"fantastic, awesome, outrageous"
 mahtava,"impressive, imposing"
 mahtava,"mighty, powerful, potent, influential"
 mahtavampi,greater
-mahtavuus,"majesty, stateliness, loftiness"
 mahtavuus,cardinality
+mahtavuus,"majesty, stateliness, loftiness"
 mahti,"might, power"
 mahtiasema,position of power
 mahtipontinen,"pompous, grand, supercilious"
@@ -14348,8 +14348,8 @@ matkustajavaunu,"carriage, coach, passenger car"
 matkustus,"travelling, travel"
 mato,"worm, maggot"
 matottaa,carpet
-matriisi,"matrix, array"
 matriisi,matrix
+matriisi,"matrix, array"
 matruusi,"junior seaman, sailor, seaman, seaman apprentice"
 matsi (informal),match
 matta,"mat, matt, matte, flat, matted"
@@ -15632,9 +15632,9 @@ nahka,leather
 nahkea,sticky
 nahkuri,"tanner, leather-dresser"
 naida,"copulate, fuck, have sex"
+naida,have sex
 naida,"marry, wed, espouse, take in marriage, get married"
 naida,wedlock
-naida,have sex
 naida alempisäätyinen,marry beneath one
 naikkonen,broad
 naikkonen,"dame, doll, wench, skirt, bird, chick"
@@ -16069,8 +16069,8 @@ norkko,"catkin, ament"
 norkoilla,"lallygag, hang around, mess about, tarry, linger"
 norkoilla,"lurk, loiter, lounge, footle, lollygag, loaf"
 norkoilla,"mill about, mill around"
-normaali,"normal, conventional, standard, ordinary"
 normaali,normal line
+normaali,"normal, conventional, standard, ordinary"
 normaali-ilmakehän paine,standard atmosphere pressure
 normaalijakauma,"Gauss distribution, normal distribution"
 normaalikiihtyvyys,normal acceleration
@@ -17221,9 +17221,9 @@ osallistuminen,"engagement, involvement"
 osallisuus,"involvement, participation, inclusion"
 osamaksu,installment
 osamurtokehitelmä,partial fraction decomposition
+osamäärä,division
 osamäärä,"division, quotient"
 osamäärä,"portion, part"
-osamäärä,division
 osanen,"element, fragment, item, particle"
 osanen,"part, piece, share, component"
 osanottaja,"attendee, attendant, attender, meeter, participant"
@@ -17553,8 +17553,8 @@ painokehilö,"printing form, type form, form, forme"
 painokelpoinen,printable
 painokelvoton,unprintable
 painokuvioitu,"raised, brocaded, embossed"
-painopiste,"stress, focus"
 painopiste,"barycenter, center of mass"
+painopiste,"stress, focus"
 painopiste-,barycentric
 painos,"edition, issue, printing, impression"
 painostaa,"press, urge, exhort, push, pressure, oppress"
@@ -17820,10 +17820,10 @@ pankkitilin ylitys,overdraft
 pankkitoiminta,banking
 pankkiyhtymä,syndicate
 panna,brew
+panna,"have sex, fuck, shag"
 panna,"insert, infix, introduce, enter, enclose, inclose"
 panna,"lay down, place, put, put down, set, deposit"
 panna,"stick in, put in, put on"
-panna,"have sex, fuck, shag"
 panna alulle,"commence, start, initiate, originate"
 panna halvalla,"ridicule, make fun of"
 panna hihat heilumaan,wade into
@@ -19262,8 +19262,8 @@ postittaa,mail
 potea,"be ill with, be sick, bear, endure, suffer"
 potea,suffer from
 potenssi,power
-potenssi,"virility, potency"
 potenssi,power
+potenssi,"virility, potency"
 potenssiin,to the power of
 potentiaali,"potential, potentiality, potency"
 potentiaalisesti,potentially
@@ -24394,8 +24394,8 @@ sääliä,"compassionate, feel for, condole with"
 sääliä,"have compassion on, pity, have mercy"
 säällinen,"reasonable, fair, fairish"
 säämiskä,buff
-säännöllinen,"regular, orderly, ordered, regulated"
 säännöllinen,"invertible, nonsingular"
+säännöllinen,"regular, orderly, ordered, regulated"
 säännöllisyys,regularity
 säännönmukainen,normal
 säännönmukaisuus,"normality, normalcy, regularity"
@@ -25334,8 +25334,8 @@ tekijä,"factor, actor, element"
 tekijä,"maker, manufacturer, author"
 tekijänoikeus,copyright
 tekijänpalkkio,royalty
-tekijöihinjako,"factorization, decomposition"
 tekijöihinjako,"decomposition, factorization"
+tekijöihinjako,"factorization, decomposition"
 teknetium,"technetium, Tc"
 tekniikka,"technique, technology, engineering"
 teknikko,technician
@@ -25714,8 +25714,8 @@ tilaus,"order, reservation, subscription, commission"
 tilava,"roomy, spacious, big, capacious, commodious"
 tilava,voluminous
 tilavuus,content
-tilavuus,"volume, capacity, cubic volume"
 tilavuus,"volume, V"
+tilavuus,"volume, capacity, cubic volume"
 tilavuusmitta,cubic measure
 tilhi,"waxwing, bohemian waxwing"
 tili,"account, bank account"
@@ -26134,8 +26134,8 @@ tosielämä,real life
 tosin,"indeed, in fact, though, true, although, however"
 tosin,on the other hand
 tosio,fact
-tosioleva,"entity, reality"
 tosioleva,entity
+tosioleva,"entity, reality"
 tosiseikka,"fact, reality, real thing"
 tositapahtuma,"fact, reality, real event"
 tositapaus,"reality, fact, real event"
@@ -30368,8 +30368,8 @@ watti,Watt
 wc-istuin,throne
 wc-istuin,"toilet, can, commode, crapper, pot, potty, stool"
 ydin,"core, nucleus, kernel, pit, gist, pith"
-ydin,pulp
 ydin,"kernel, null space"
+ydin,pulp
 ydin-,"nuclear, atomic, radical, original, fundamental"
 ydinase,"nuke, nuclear weapon, atomic weapon"
 ydinkohta,gist
@@ -31114,8 +31114,8 @@ zombie,zombie
 ääri-,"far, extreme, fundamentalist, extremist, radical"
 ääri-,"ultra, fanatical"
 ääriaines,extremist element
-ääriarvo,"extremum, extreme value"
 ääriarvo,extreme value
+ääriarvo,"extremum, extreme value"
 ääriarvopiste,"extremum point, extreme point"
 ääriasento,extreme position
 äärikuormitus,ultimate load

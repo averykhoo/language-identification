@@ -57,8 +57,8 @@ validate,ກວດສອບ
 verify,ກວດສອບ
 traceableness,ກວດສອບຍ້ອນກັບ
 auditors,ກວດສອບບັນຊີ
-morays,ກວດແກ້
 checkout,ກວດເບິ່ງ
+morays,ກວດແກ້
 jams,ກວນ
 wield,ກວມ
 accounted,ກວມເອົາ
@@ -279,6 +279,7 @@ caltrops,ກະຈັງ
 sparseness,ກະຈັດກະຈາຍ
 decentralising,ກະຈາຍ
 decentralizing,ກະຈາຍ
+diffuse,ກະຈາຍ
 diffusely,ກະຈາຍ
 dissipate,ກະຈາຍ
 distributional,ກະຈາຍ
@@ -1001,7 +1002,6 @@ skullful,ກະໂຫຼກ
 skulling,ກະໂຫຼກ
 intracranial,ກະໂຫຼກຫົວ
 intracranially,ກະໂຫຼກຫົວ
-diffuse,ກະຈາຍ
 coachmen,ກັ
 detain,ກັກ
 detainable,ກັກ
@@ -1096,6 +1096,7 @@ septembrize,ກັນຍາ
 septembrizer,ກັນຍາ
 wilders,ກັນດານ
 drippings,ກັນນ້ໍາ
+waterproof,ກັນນ້ໍາ
 waterproofer,ກັນນ້ໍາ
 waterproofness,ກັນນ້ໍາ
 waterproofs,ກັນນ້ໍາ
@@ -1107,7 +1108,6 @@ howder,ກັນເຈົ້າຂອງ
 familiarly,ກັນເອງ
 varicella,ກັນໂຣກຫມາກໃສ
 holdback,ກັນໄວ້
-waterproof,ກັນນ້ໍາ
 casket,ກັບ
 caskets,ກັບ
 with,ກັບ
@@ -1144,6 +1144,7 @@ captaincy,ກັບຕັນເຮືອ
 friendless,ກັບຜູ້
 friendlessness,ກັບຜູ້
 taxa,ກັບພາບແວດລ້ອມ
+comeback,ກັບມາ
 comebacker,ກັບມາ
 comebacks,ກັບມາ
 revertal,ກັບມາ
@@ -1179,7 +1180,6 @@ unconvertable,ກັບໃຈໃຫມ່
 unconvertible,ກັບໃຈໃຫມ່
 matchbox,ກັບໄຟ
 matchboxes,ກັບໄຟ
-comeback,ກັບມາ
 trembling,ກັມປະ
 distil,ກັ່ນ
 distill,ກັ່ນ
@@ -2010,6 +2010,7 @@ shipful,ການຂົນສົ່ງ
 shipfuls,ການຂົນສົ່ງ
 shipment,ການຂົນສົ່ງ
 shipments,ການຂົນສົ່ງ
+shipping,ການຂົນສົ່ງ
 shippings,ການຂົນສົ່ງ
 transit,ການຂົນສົ່ງ
 transitable,ການຂົນສົ່ງ
@@ -3700,6 +3701,7 @@ deforestations,ການທໍາລາຍປ່າ
 deforester,ການທໍາລາຍປ່າ
 deforesters,ການທໍາລາຍປ່າ
 deforests,ການທໍາລາຍປ່າ
+deforestation,ການທໍາລາຍປ່າໄມ້
 annihilated,ການທໍາລາຍລ້າງ
 extermination,ການທໍາລາຢລ້າງ
 hurting,ການທໍາຮ້າຍ
@@ -3885,6 +3887,7 @@ distortedness,ການບິດເບືອນ
 distortednesses,ການບິດເບືອນ
 distorter,ການບິດເບືອນ
 distorters,ການບິດເບືອນ
+distortion,ການບິດເບືອນ
 distortional,ການບິດເບືອນ
 distortive,ການບິດເບືອນ
 distortment,ການບິດເບືອນ
@@ -5513,6 +5516,7 @@ stranding,ການລາກ
 reportage,ການລາຍງານ
 reportages,ການລາຍງານ
 reporting,ການລາຍງານ
+patrol,ການລາດຕະເວນ
 patroller,ການລາດຕະເວນ
 patrollers,ການລາດຕະເວນ
 patrolling,ການລາດຕະເວນ
@@ -6115,6 +6119,7 @@ shivering,ການສັ່ນ
 jolt,ການສັ່ນສະເທືອນ
 jolts,ການສັ່ນສະເທືອນ
 reeling,ການສັ່ນສະເທືອນ
+shaking,ການສັ່ນສະເທືອນ
 tremor,ການສັ່ນສະເທືອນ
 tremoring,ການສັ່ນສະເທືອນ
 tremorous,ການສັ່ນສະເທືອນ
@@ -7576,6 +7581,7 @@ lacs,ການເງິນຈໍານວນ
 negotiably,ການເຈລະຈາ
 negotiated,ການເຈລະຈາ
 negotiates,ການເຈລະຈາ
+negotiation,ການເຈລະຈາ
 negotiations,ການເຈລະຈາ
 negotiator,ການເຈລະຈາ
 negotiators,ການເຈລະຈາ
@@ -7742,6 +7748,7 @@ traveling,ການເດີນທາງ
 travelings,ການເດີນທາງ
 travellable,ການເດີນທາງ
 traveller,ການເດີນທາງ
+travelling,ການເດີນທາງ
 travellings,ການເດີນທາງ
 travels,ການເດີນທາງ
 trek,ການເດີນທາງ
@@ -9045,13 +9052,6 @@ tanking,ການ້
 teapot,ການ້ໍາຊາ
 teapotful,ການ້ໍາຊາ
 teapots,ການ້ໍາຊາ
-shipping,ການຂົນສົ່ງ
-deforestation,ການທໍາລາຍປ່າໄມ້
-distortion,ການບິດເບືອນ
-patrol,ການລາດຕະເວນ
-shaking,ການສັ່ນສະເທືອນ
-negotiation,ການເຈລະຈາ
-travelling,ການເດີນທາງ
 gunwale,ກາບ
 gunwales,ກາບ
 hose,ກາບ
@@ -9162,6 +9162,7 @@ devisee,ກາເຄື່ອງຫມາຍ
 devisees,ກາເຄື່ອງຫມາຍ
 devisers,ກາເຄື່ອງຫມາຍ
 devisings,ກາເຄື່ອງຫມາຍ
+coffee,ກາເຟ
 coffees,ກາເຟ
 galenas,ກາເລນາ
 galenic,ກາເລນິກ
@@ -9181,7 +9182,6 @@ matha,ກາໂນ
 wase,ກາໃຕ້
 postmark,ກາໄປສະນີ
 postmarks,ກາໄປສະນີ
-coffee,ກາເຟ
 reordered,ກຳຊັບ
 benison,ກຳບານ
 benisons,ກຳບານ
@@ -9328,6 +9328,7 @@ kilogramme,ກິໂລ
 kilos,ກິໂລ
 kiloton,ກິໂລ
 kilotons,ກິໂລ
+kg,ກິໂລກຣາມ
 kilogrammes,ກິໂລກຣາມ
 kilograms,ກິໂລກຣາມ
 kilobit,ກິໂລບິດ
@@ -9427,7 +9428,6 @@ stared,ກິ້ງຕາເບິ່ງ
 stares,ກິ້ງຕາເບິ່ງ
 rollout,ກິ້ງອອກມາ
 shrunken,ກິ້ນ
-kg,ກິໂລກຣາມ
 kaki,ກີ
 greeks,ກີກ
 hellenistics,ກີກ
@@ -10248,6 +10248,7 @@ phonemic,ກ່ຽວກັບສັດ
 phonemically,ກ່ຽວກັບສັດ
 phonemics,ກ່ຽວກັບສັດ
 optical,ກ່ຽວກັບສາຢຕາ
+environmental,ກ່ຽວກັບສິງແວດລ້ອມ
 alimentary,ກ່ຽວກັບອາຫານ
 dietaries,ກ່ຽວກັບອາຫານ
 dietary,ກ່ຽວກັບອາຫານ
@@ -10292,7 +10293,6 @@ sickles,ກ່ຽວນ້ອຍ
 reapers,ກ່ຽວເຂົ້າ
 scythe,ກ່ຽວໃຫຍ່
 scythes,ກ່ຽວໃຫຍ່
-environmental,ກ່ຽວກັບສິງແວດລ້ອມ
 klam,ກ່ໍາ
 aquiline,ກ້ວຍ
 aquilinity,ກ້ວຍ
@@ -11251,6 +11251,7 @@ unfoldment,ຂະຫຍາຍຕົວໄປ
 unfoldments,ຂະຫຍາຍຕົວໄປ
 pand,ຂະຫຍາຍອອກເລື້ອຍໆ
 pands,ຂະຫຍາຍອອກເລື້ອຍໆ
+zoomin,ຂະຫຍາຍເຂົ້າ
 perpetuate,ຂະຫຍາຍເວລາ
 dimensible,ຂະຫນາດ
 dimensioned,ຂະຫນາດ
@@ -11397,7 +11398,6 @@ pie,ຂະໜົມພາຢ
 pies,ຂະໜົມພາຢ
 cake,ຂະໜົມໃຂ່
 cakes,ຂະໜົມໃຂ່
-zoomin,ຂະຫຍາຍເຂົ້າ
 cage,ຂັງຄອກ
 caged,ຂັງຄອກ
 cages,ຂັງຄອກ
@@ -11496,6 +11496,7 @@ wagoners,ຂັບລົດບັນທຸກ
 wagonful,ຂັບລົດບັນທຸກ
 wagoning,ຂັບລົດບັນທຸກ
 speeder,ຂັບລົດໄວ
+driveaway,ຂັບຫນີ
 ejected,ຂັບອອກໄປ
 driven,ຂັບເຄື່ອນ
 drivenness,ຂັບເຄື່ອນ
@@ -11523,7 +11524,6 @@ exorcise,ຂັບໄລ່
 expel,ຂັບໄລ່
 relegate,ຂັບໄລ່
 expelling,ຂັບໄລ່ໄປ
-driveaway,ຂັບຫນີ
 gradatim,ຂັ້ນ
 perch,ຂັ້ນ
 perches,ຂັ້ນ
@@ -11629,6 +11629,7 @@ abashment,ຂາຍຂີ້ຫນ້າ
 abashments,ຂາຍຂີ້ຫນ້າ
 treasonous,ຂາຍຊາດ
 wholesales,ຂາຍຍົກ
+retail,ຂາຍຍ່ອຍ
 bunga,ຂາຍດອກໄມ້
 unmarketable,ຂາຍບໍ່
 unmarketed,ຂາຍບໍ່
@@ -11638,6 +11639,7 @@ wholesaling,ຂາຍສົ່ງ
 disgracefully,ຂາຍຫນ້າ
 dishonouring,ຂາຍຫນ້າ
 dishonours,ຂາຍຫນ້າ
+sellout,ຂາຍອອກ
 profiteered,ຂາຍເກີນລາຄາ
 profiteers,ຂາຍເກີນລາຄາ
 groceries,ຂາຍເຄື່ອງແຫ້ງ
@@ -11645,8 +11647,6 @@ grocery,ຂາຍເຄື່ອງແຫ້ງ
 auctioneered,ຂາຍເລຫຼັງ
 auctioneering,ຂາຍເລຫຼັງ
 sells,ຂາຍໃນລາຄາ
-retail,ຂາຍຍ່ອຍ
-sellout,ຂາຍອອກ
 absentee,ຂາດ
 absenteeisms,ຂາດ
 betorn,ຂາດ
@@ -12349,9 +12349,9 @@ pooja,ຂ້ອຍ
 poojas,ຂ້ອຍ
 saya,ຂ້ອຍ
 bisogno,ຂ້ອຍຕ້ອງການ
+iwatch,ຂ້ອຍເບິ່ງ
 whoops,ຂ້ອຍເປັນຜູ້ຫຍິງ
 aspis,ຂ້ອຍໄວ້
-iwatch,ຂ້ອຍເບິ່ງ
 stretched,ຂ້ອນຂ້າງຍາວ
 assassinating,ຂ້າ
 bylaw,ຂ້າ
@@ -12524,6 +12524,7 @@ apologized,ຂໍໂທດ
 apologizing,ຂໍໂທດ
 desculpe,ຂໍໂທດ
 excusing,ຂໍໂທດ
+sorry,ຂໍໂທດ
 unbind,ຂໍໃຫ້
 unbindable,ຂໍໃຫ້
 unbinding,ຂໍໃຫ້
@@ -12574,6 +12575,7 @@ messaged,ຂໍ້ຄວາມ
 messages,ຂໍ້ຄວາມ
 messagings,ຂໍ້ຄວາມ
 nuntius,ຂໍ້ຄວາມ
+text,ຂໍ້ຄວາມ
 texting,ຂໍ້ຄວາມ
 bdl,ຂໍ້ຄວາມສ່ວນຕົວ
 commentarial,ຂໍ້ຄິດເຫັນ
@@ -12743,8 +12745,6 @@ excusable,ຂໍ້ແກ້ຕົວ
 subhead,ຂໍ້ແນະນໍາ
 subheads,ຂໍ້ແນະນໍາ
 termes,ຂໍ້ແນະນໍາ
-text,ຂໍ້ຄວາມ
-sorry,ຂໍໂທດ
 christianity,ຄຣິສຕຽນ
 chlamydias,ຄລາມີເດັຍ
 classic,ຄລາສສິກ
@@ -13428,6 +13428,7 @@ impairments,ຄວາມບົກພ່ອງ
 infirmer,ຄວາມບົກພ່ອງຂອງ
 infirmness,ຄວາມບົກພ່ອງຂອງ
 infirmnesses,ຄວາມບົກພ່ອງຂອງ
+madness,ຄວາມບ້າ
 silliness,ຄວາມບ້າ
 frenzies,ຄວາມບ້າກັງວົນ
 frenzy,ຄວາມບ້າກັງວົນ
@@ -13647,6 +13648,7 @@ mistakeably,ຄວາມຜິດພາດ
 mistakeful,ຄວາມຜິດພາດ
 mistaker,ຄວາມຜິດພາດ
 mistakers,ຄວາມຜິດພາດ
+mistakes,ຄວາມຜິດພາດ
 mistaking,ຄວາມຜິດພາດ
 mistakings,ຄວາມຜິດພາດ
 wrongness,ຄວາມຜິດພາດ
@@ -13727,6 +13729,7 @@ unisonally,ຄວາມພ້ອມພຽງກັນ
 unisonance,ຄວາມພ້ອມພຽງກັນ
 unisonant,ຄວາມພ້ອມພຽງກັນ
 unisonous,ຄວາມພ້ອມພຽງກັນ
+redundancy,ຄວາມຟຸ້ມເຟືອຍ
 haste,ຄວາມຟ້າວຟັງ
 glamor,ຄວາມມັກຕາມັກໃຈ
 glamors,ຄວາມມັກຕາມັກໃຈ
@@ -14086,6 +14089,7 @@ remorse,ຄວາມສໍານຶກຜິດ
 remorsefulness,ຄວາມສໍານຶກຜິດ
 remorses,ຄວາມສໍານຶກຜິດ
 correlated,ຄວາມສໍາພັນ
+correlation,ຄວາມສໍາພັນ
 correlational,ຄວາມສໍາພັນ
 correlations,ຄວາມສໍາພັນ
 correlatively,ຄວາມສໍາພັນ
@@ -14413,6 +14417,7 @@ perceptiveness,ຄວາມຮັບຮູ້
 perceptivities,ຄວາມຮັບຮູ້
 perceptivity,ຄວາມຮັບຮູ້
 percepts,ຄວາມຮັບຮູ້
+wealth,ຄວາມຮັ່ງມີ
 wealthful,ຄວາມຮັ່ງມີ
 wealths,ຄວາມຮັ່ງມີ
 urgence,ຄວາມຮີບດ່ວນ
@@ -14835,6 +14840,7 @@ disserviceably,ຄວາມເສຍຫາຍ
 disservices,ຄວາມເສຍຫາຍ
 havoc,ຄວາມເສຍຫາຍ
 havocs,ຄວາມເສຍຫາຍ
+mischief,ຄວາມເສຍຫາຍ
 mischiefs,ຄວາມເສຍຫາຍ
 tort,ຄວາມເສຍຫາຍ
 condole,ຄວາມເສຍໃຈ
@@ -14938,6 +14944,7 @@ stupider,ຄວາມໂງ່ຈ້າ
 stupidities,ຄວາມໂງ່ຈ້າ
 stupidness,ຄວາມໂງ່ຈ້າ
 stupids,ຄວາມໂງ່ຈ້າ
+transparency,ຄວາມໂປ່ງໃສ
 transparentness,ຄວາມໂປ່ງໃສ
 rage,ຄວາມໂມໂຫຮ້າຢ
 rages,ຄວາມໂມໂຫຮ້າຢ
@@ -15013,13 +15020,6 @@ naiveties,ຄວາມໄຮ້ດຽງສາ
 naivety,ຄວາມໄຮ້ດຽງສາ
 nuisance,ຄວາມໝົດໝິດ
 nuisances,ຄວາມໝົດໝິດ
-madness,ຄວາມບ້າ
-mistakes,ຄວາມຜິດພາດ
-redundancy,ຄວາມຟຸ້ມເຟືອຍ
-correlation,ຄວາມສໍາພັນ
-wealth,ຄວາມຮັ່ງມີ
-mischief,ຄວາມເສຍຫາຍ
-transparency,ຄວາມໂປ່ງໃສ
 overthrew,ຄວ່ໍາ
 overthrown,ຄວ່ໍາ
 overturn,ຄວ່ໍາ
@@ -15616,6 +15616,7 @@ transientnesses,ຄາວ
 county,ຄາວຕີ້
 busier,ຄາວຽກ
 busiest,ຄາວຽກ
+busy,ຄາວຽກ
 cowgate,ຄາວເກດ
 carson,ຄາສັນ
 casino,ຄາສິໂນ
@@ -15635,7 +15636,6 @@ carbohydrates,ຄາໂບໄຮເດດ
 overheads,ຄາໃຊ
 marcasite,ຄາໄຊ
 marcasitical,ຄາໄຊ
-busy,ຄາວຽກ
 poem,ຄຳກອນ
 dilemma,ຄຳຂາດ
 communiques,ຄຳຖະແຫລງ
@@ -15977,6 +15977,7 @@ characterizer,ຄຸນລັກສະນະ
 characterizers,ຄຸນລັກສະນະ
 characterizes,ຄຸນລັກສະນະ
 characterizing,ຄຸນລັກສະນະ
+features,ຄຸນລັກສະນະ
 qualificative,ຄຸນວຸດທິທີ່
 qualificatives,ຄຸນວຸດທິທີ່
 qualificator,ຄຸນວຸດທິທີ່
@@ -15995,7 +15996,6 @@ property,ຄຸນສົມບັດ
 propertying,ຄຸນສົມບັດ
 qualification,ຄຸນສົມບັດ
 wiper,ຄຸນສົມບັດຂອງ
-features,ຄຸນລັກສະນະ
 snatch,ຄຸບ
 snatched,ຄຸບ
 overspray,ຄຸມ
@@ -16294,6 +16294,7 @@ fireman,ຄົນດັບເພີງ
 firemen,ຄົນດັບເພີງ
 firefighter,ຄົນດັບໄຟ
 firefighters,ຄົນດັບໄຟ
+goodman,ຄົນດີ
 disadvantage,ຄົນດ້ອຍໂອກາດ
 woodcutter,ຄົນຕັດຟືນ
 woodcutters,ຄົນຕັດຟືນ
@@ -16432,6 +16433,7 @@ shepherd,ຄົນລ້ຽງແກະ
 shepherds,ຄົນລ້ຽງແກະ
 patsies,ຄົນວ່າງ່າຍ
 henchman,ຄົນສະຫນິດ
+wiseman,ຄົນສະຫຼາດ
 genius,ຄົນສະຫຼາດຫຼາຢ
 adjective,ຄົນສັບ
 postman,ຄົນສົ່ງຈົດໝາຢ
@@ -16557,6 +16559,7 @@ chump,ຄົນໂງ່
 cuss,ຄົນໂງ່
 cusses,ຄົນໂງ່
 dud,ຄົນໂງ່
+fool,ຄົນໂງ່
 fools,ຄົນໂງ່
 goof,ຄົນໂງ່
 ignoramus,ຄົນໂງ່
@@ -16571,9 +16574,6 @@ culprits,ຄົນໂທດ
 rin,ຄົນໂຫວດ
 philanthropist,ຄົນໃຈບຸນ
 philanthropistic,ຄົນໃຈບຸນ
-goodman,ຄົນດີ
-wiseman,ຄົນສະຫຼາດ
-fool,ຄົນໂງ່
 associating,ຄົບ
 sizablenesses,ຄົບ
 comprehensively,ຄົບຊຸດ
@@ -17283,6 +17283,7 @@ applicative,ຄໍາຮ້ອງສະຫມັກ
 applicatively,ຄໍາຮ້ອງສະຫມັກ
 applicators,ຄໍາຮ້ອງສະຫມັກ
 preposition,ຄໍາເຊື່ອມ
+caveat,ຄໍາເຕືອນ
 acrimonious,ຄໍາເວົ້າ
 acrimoniously,ຄໍາເວົ້າ
 acrimoniousness,ຄໍາເວົ້າ
@@ -17379,7 +17380,6 @@ hintings,ຄໍາແນະນໍາເພີ່ມ
 daftars,ຄໍາແປ
 glossarial,ຄໍາແປສັບ
 glossarially,ຄໍາແປສັບ
-caveat,ຄໍາເຕືອນ
 stylings,ຄໍເຕົ້າໄຂ່
 frisure,ຄໍເຕົ້າໄຂ່ທີ່
 styles,ຄໍເຕົ້າໄຂ່ທີ່
@@ -18051,10 +18051,10 @@ collodions,ຈາກໂຄໂລດຽນ
 dimmed,ຈາງ
 dimmedness,ຈາງ
 insipid,ຈາງ
+fadeaway,ຈາງຫາຍໄປ
 faded,ຈາງຫາຍໄປ
 fadedness,ຈາງຫາຍໄປ
 waned,ຈາງຫາຍໄປ
-fadeaway,ຈາງຫາຍໄປ
 dishware,ຈານ
 dishwares,ຈານ
 entrees,ຈານ
@@ -18602,13 +18602,13 @@ grad,ຈົບ
 graduating,ຈົບ
 interminably,ຈົບ
 subdivisive,ຈົບ
+graduate,ຈົບການສຶກສາ
 graduated,ຈົບການສຶກສາ
 graduatical,ຈົບການສຶກສາ
 graduation,ຈົບການສຶກສາ
 graduations,ຈົບການສຶກສາ
 graduator,ຈົບການສຶກສາ
 graduators,ຈົບການສຶກສາ
-graduate,ຈົບການສຶກສາ
 sinks,ຈົມ
 submerge,ຈົມ
 submerges,ຈົມ
@@ -19769,6 +19769,7 @@ vita,ຊີວະປະວັດ
 autobiographies,ຊີວະປະຫວັດ
 autobiography,ຊີວະປະຫວັດ
 biography,ຊີວະປະຫວັດ
+cv,ຊີວະປະຫວັດ
 resumability,ຊີວະປະຫວັດ
 resumable,ຊີວະປະຫວັດ
 resume,ຊີວະປະຫວັດ
@@ -19798,6 +19799,7 @@ biochemist,ຊີວະເຄມີ
 biochemistries,ຊີວະເຄມີ
 biochemistry,ຊີວະເຄມີ
 cyp,ຊີວາຍພີ
+alife,ຊີວິດ
 animate,ຊີວິດ
 drown,ຊີວິດ
 drowns,ຊີວິດ
@@ -19903,8 +19905,6 @@ exponentiations,ຊີ້ແຈງ
 prescribes,ຊີ້ແຈງ
 provenance,ຊີ້ໃຫ້ເຫັນ
 suggests,ຊີ້ໃຫ້ເຫັນ
-cv,ຊີວະປະຫວັດ
-alife,ຊີວິດ
 silent,ຊຶກ
 silents,ຊຶກ
 blot,ຊຶບ
@@ -20069,8 +20069,8 @@ titlene,ຊື່ເພື່ອເອີ້ນເບິ່ງ
 amic,ຊື່ເວັບ
 astromancy,ຊື່ເວັບໄຊ
 oxcart,ຊື່ເອກ
-quietly,ຊື່ໆ
 filename,ຊື່ເອກະສານ
+quietly,ຊື່ໆ
 acquires,ຊື້
 belies,ຊື້
 belying,ຊື້
@@ -20758,8 +20758,8 @@ weft,ຊ້າຍ
 tardier,ຊ້ານ້ຳກ້ຽງ
 tardiest,ຊ້ານ້ຳກ້ຽງ
 unhurried,ຊ້ານ້ຳກ້ຽງ
-adagio,ຊ້າໆ
 slowdown,ຊ້າລົງ
+adagio,ຊ້າໆ
 repeatedly,ຊ້ຳຊາກ
 homebuyer,ຊ້ືບ້ານ
 homebuyers,ຊ້ືບ້ານ
@@ -20986,6 +20986,7 @@ surrenderer,ຍອມຈໍານົນ
 surrendering,ຍອມຈໍານົນ
 ceded,ຍອມຕາມ
 relented,ຍອມອ່ອນຂໍ້
+accept,ຍອມຮັບ
 acceptable,ຍອມຮັບ
 accepts,ຍອມຮັບ
 acknowledging,ຍອມຮັບ
@@ -21021,7 +21022,6 @@ quitter,ຍອມແພ້
 quitters,ຍອມແພ້
 readmission,ຍອມໃຫ້ເຂົ້າມາ
 readmissions,ຍອມໃຫ້ເຂົ້າມາ
-accept,ຍອມຮັບ
 clipart,ຍະ
 cliparts,ຍະ
 listy,ຍະການ
@@ -21526,12 +21526,12 @@ yugoslavians,ຍູໂກດລາເວຍ
 yugoslavs,ຍູໂກດລາເວຍ
 pushed,ຍູ້
 pushes,ຍູ້ດັນ
+pushdown,ຍູ້ລົງ
 impetuous,ຍູ້ແຮງ
 impetuousness,ຍູ້ແຮງ
 impetus,ຍູ້ແຮງ
 impetuously,ຍູ້ແຮງການ
 impetuousnesses,ຍູ້ແຮງການ
-pushdown,ຍູ້ລົງ
 airbrushed,ຍົກ
 cede,ຍົກ
 cedes,ຍົກ
@@ -22501,6 +22501,7 @@ attract,ດຶງດູດ
 attracts,ດຶງດູດ
 entice,ດຶງດູດ
 magnetize,ດຶງດູດ
+pulldown,ດຶງລົງ
 outed,ດຶງອອກ
 outing,ດຶງອອກ
 outs,ດຶງອອກ
@@ -22517,7 +22518,6 @@ unravel,ດຶງເສັ້ນດ້າຍອອກຈາກແພ
 unraveled,ດຶງເສັ້ນດ້າຍອອກຈາກແພ
 unraveling,ດຶງເສັ້ນດ້າຍອອກຈາກແພ
 unravels,ດຶງເສັ້ນດ້າຍອອກຈາກແພ
-pulldown,ດຶງລົງ
 attractively,ດຶ່ງດູດ
 quaking,ດຶ້ນໆ
 drank,ດື່ມ
@@ -23327,6 +23327,7 @@ arbitrate,ຕັດສິນ
 arbitrated,ຕັດສິນ
 disqualify,ຕັດສິນ
 gaping,ຕັດສິນ
+referee,ຕັດສິນ
 refereed,ຕັດສິນ
 refereeing,ຕັດສິນ
 determines,ຕັດສິນກໍານົດ
@@ -23366,7 +23367,6 @@ concatenator,ຕັດແບ່ງ
 forestalled,ຕັດໄຟຕົ້ນລົງ
 forestalling,ຕັດໄຟຕົ້ນລົງ
 forestalls,ຕັດໄຟຕົ້ນລົງ
-referee,ຕັດສິນ
 block,ຕັນ
 blocks,ຕັນ
 cork,ຕັນ
@@ -24108,6 +24108,7 @@ wakes,ຕື່ນນອນ
 aflutter,ຕື່ນເຕັ້ນ
 agog,ຕື່ນເຕັ້ນ
 excitability,ຕື່ນເຕັ້ນ
+excite,ຕື່ນເຕັ້ນ
 excited,ຕື່ນເຕັ້ນ
 excitedly,ຕື່ນເຕັ້ນ
 excitedness,ຕື່ນເຕັ້ນ
@@ -24118,7 +24119,6 @@ thrillful,ຕື່ນເຕັ້ນ
 freneticness,ຕື່ນເຕັ້ນຫລາຍ
 frenetics,ຕື່ນເຕັ້ນຫລາຍ
 parlous,ຕື່ນໃຈ
-excite,ຕື່ນເຕັ້ນ
 fillingness,ຕື່ມ
 tactfulnesses,ຕື່ມ
 filling,ຕື່ມຂໍ້ມູນ
@@ -24331,6 +24331,7 @@ acquiescing,ຕົກລົງ
 indemnities,ຕົກລົງ
 indemnity,ຕົກລົງ
 indemnization,ຕົກລົງ
+ok,ຕົກລົງ
 settled,ຕົກລົງ
 settledness,ຕົກລົງ
 settlednesses,ຕົກລົງ
@@ -24392,7 +24393,6 @@ startled,ຕົກໃຈ
 uptightness,ຕົກໃຈ
 panic,ຕົກໃຈຢ້ານ
 panicking,ຕົກໃຈຢ້ານ
-ok,ຕົກລົງ
 joist,ຕົງ
 joisted,ຕົງ
 rafters,ຕົງ
@@ -25553,6 +25553,7 @@ throwe,ຖິ້ມ
 throwes,ຖິ້ມ
 throwings,ຖິ້ມ
 throws,ຖິ້ມ
+throwdown,ຖິ້ມລົງ
 spangled,ຖິ້ມເຮັ່ຍຮວາຍ
 spangles,ຖິ້ມເຮັ່ຍຮວາຍ
 strew,ຖິ້ມເຮັ່ຍຮວາຍ
@@ -25560,7 +25561,6 @@ strewed,ຖິ້ມເຮັ່ຍຮວາຍ
 strewing,ຖິ້ມເຮັ່ຍຮວາຍ
 strewn,ຖິ້ມເຮັ່ຍຮວາຍ
 strews,ຖິ້ມເຮັ່ຍຮວາຍ
-throwdown,ຖິ້ມລົງ
 pedal,ຖີບ
 pedalled,ຖີບ
 pedalling,ຖີບ
@@ -25712,6 +25712,7 @@ cysted,ຖົງນ້ໍາ
 gallbladder,ຖົງນ້ໍາ
 gallbladders,ຖົງນ້ໍາ
 glove,ຖົງມື
+gloves,ຖົງມື
 glovings,ຖົງມື
 airbag,ຖົງລົມນິລະ
 airbags,ຖົງລົມນິລະ
@@ -25724,7 +25725,6 @@ baggage,ຖົງເດີນທາງ
 socks,ຖົງເທ້ົາສັ້ນ
 backpack,ຖົງເປ
 backpacks,ຖົງເປ
-gloves,ຖົງມື
 spat,ຖົ່ມ
 spit,ຖົ່ມ
 spitted,ຖົ່ມ
@@ -25739,12 +25739,12 @@ cowpeas,ຖົ່ວຍາວ
 groundnut,ຖົ່ວດິນ
 peanut,ຖົ່ວດິນ
 peanuts,ຖົ່ວດິນ
+peapod,ຖົ່ວຝັກ
 durian,ຖົ່ວລຽນ
 soya,ຖົ່ວເຫລືອງ
 soyas,ຖົ່ວເຫລືອງ
 soybean,ຖົ່ວເຫລືອງ
 soybeans,ຖົ່ວເຫຼືອງ
-peapod,ຖົ່ວຝັກ
 brawled,ຖຽງ
 contends,ຖຽງ
 hutted,ຖຽງ
@@ -25973,6 +25973,7 @@ solicitor,ທະນາຍ
 attorney,ທະນາຍຄວາມ
 attorneys,ທະນາຍຄວາມ
 barrister,ທະນາຍຄວາມ
+lawyer,ທະນາຍຄວາມ
 lawyering,ທະນາຍຄວາມ
 lawyerings,ທະນາຍຄວາມ
 lawyers,ທະນາຍຄວາມ
@@ -26106,6 +26107,7 @@ seasides,ທະເລ
 seasing,ທະເລ
 seaward,ທະເລ
 seawards,ທະເລ
+desert,ທະເລຊາຍ
 deserted,ທະເລຊາຍ
 desertedness,ທະເລຊາຍ
 desertful,ທະເລຊາຍ
@@ -26132,8 +26134,6 @@ bicker,ທະເລາະວິວາດ
 wrangle,ທະເລາະວິວາດ
 melanin,ທະເລເປີດ;
 melanins,ທະເລເປີດ;
-lawyer,ທະນາຍຄວາມ
-desert,ທະເລຊາຍ
 thak,ທັກ
 greeting,ທັກທາຍ
 hail,ທັກທາຍ
@@ -26182,9 +26182,9 @@ wholeness,ທັງຫມົດ
 wholenesses,ທັງຫມົດ
 wholes,ທັງຫມົດ
 wholly,ທັງຫມົດ
+myall,ທັງຫມົດຂອງຂ້ອຍ
 jewry,ທັງຫລາຍ
 kwashiorkor,ທັງແບບຕຸ້ຍ
-myall,ທັງຫມົດຂອງຂ້ອຍ
 landscaping,ທັດ
 touchdowns,ທັດດາວ
 dissuade,ທັດທານ
@@ -26873,6 +26873,7 @@ braver,ທີ່ກ້າຫານ
 identifiably,ທີ່ກໍານົດ
 requirings,ທີ່ກໍານົດໄວ້
 set,ທີ່ກໍານົດໄວ້
+setout,ທີ່ກໍານົດໄວ້
 outrageous,ທີ່ຂັດໃຈ
 drivennesses,ທີ່ຂັບເຄື່ອນໂດຍ
 immoral,ທີ່ຂາດສິນທໍາ
@@ -27519,6 +27520,7 @@ extremer,ທີ່ສຸດ
 extremes,ທີ່ສຸດ
 extremism,ທີ່ສຸດ
 extremities,ທີ່ສຸດ
+utmost,ທີ່ສຸດ
 uttermost,ທີ່ສຸດ
 loftier,ທີ່ສູງກວ່ານັ້ນ
 highest,ທີ່ສູງທີ່ສຸດ
@@ -27593,6 +27595,7 @@ vitally,ທີ່ສໍາຄັນ
 vitalness,ທີ່ສໍາຄັນ
 stirring,ທີ່ຫນັກແຫນ້ນ
 memorability,ທີ່ຫນ້າຈົດຈໍາ
+memorable,ທີ່ຫນ້າຈົດຈໍາ
 memorableness,ທີ່ຫນ້າຈົດຈໍາ
 memorate,ທີ່ຫນ້າຈົດຈໍາ
 memorizers,ທີ່ຫນ້າຈົດຈໍາ
@@ -27977,9 +27980,6 @@ grantee,ທີ່ໄດ້ຮັບທຶນ
 quickest,ທີ່ໄວທີ່ສຸດ
 gullible,ທີ່ໄວ້ໃຈເຂົາ
 desperate,ທີ່ໝົດຫວັງ
-setout,ທີ່ກໍານົດໄວ້
-utmost,ທີ່ສຸດ
-memorable,ທີ່ຫນ້າຈົດຈໍາ
 willi,ທຶ
 oxymoron,ທຶກ
 oxymoronic,ທຶກ
@@ -28028,6 +28028,7 @@ impoverishers,ທຸກຈົນສູງ
 impoverishing,ທຸກຈົນສູງ
 impoverishment,ທຸກຈົນສູງ
 impoverishments,ທຸກຈົນສູງ
+poor,ທຸກຍາກ
 poorer,ທຸກຍາກ
 poorness,ທຸກຍາກ
 poornesses,ທຸກຍາກ
@@ -28064,7 +28065,6 @@ anywhereness,ທຸກແຫ່ງຫົນ
 anywheres,ທຸກແຫ່ງຫົນ
 todus,ທຸກໆຂໍ້ມູນ
 everyday,ທຸກໆມື້
-poor,ທຸກຍາກ
 flag,ທຸງ
 flagged,ທຸງ
 flagging,ທຸງ
@@ -28563,6 +28563,7 @@ weekendings,ທ້າຍອາທິດ
 weekends,ທ້າຍອາທິດ
 transomed,ທ້າຍເຮືອ
 challenged,ທ້າທາຍ
+challenging,ທ້າທາຍ
 defied,ທ້າທາຍ
 defy,ທ້າທາຍ
 defying,ທ້າທາຍ
@@ -28580,7 +28581,6 @@ provocant,ທ້າຮົບ
 provocational,ທ້າຮົບ
 provocativeness,ທ້າຮົບ
 provocator,ທ້າຮົບ
-challenging,ທ້າທາຍ
 pintle,ທໍ
 pintles,ທໍ
 weave,ທໍ
@@ -29528,6 +29528,7 @@ minute,ນາທີ
 minutely,ນາທີ
 minutenesses,ນາທີ
 minuter,ນາທີ
+minutes,ນາທີ
 minutial,ນາທີ
 minuting,ນາທີ
 amateurishness,ນານ
@@ -29616,7 +29617,6 @@ nalas,ນາແລ
 naled,ນາແລ
 nanoseconds,ນາໂນວິນາ
 reo,ນາໆ
-minutes,ນາທີ
 ecologist,ນິ
 sombrero,ນິ
 temperedness,ນິ
@@ -31038,6 +31038,7 @@ sinful,ບາບ
 sins,ບາບ
 unfaithfully,ບາບ
 demerits,ບາບກຳ
+barbecue,ບາບີຄິວ
 barbecuer,ບາບີຄິວ
 barbecues,ບາບີຄິວ
 barbecuing,ບາບີຄິວ
@@ -31088,7 +31089,6 @@ valency,ບາເລນເຊຍ
 bares,ບາແລະ
 barlow,ບາໂລ
 barlows,ບາໂລ
-barbecue,ບາບີຄິວ
 neutralise,ບຳບັດ
 neutralises,ບຳບັດ
 neutralize,ບຳບັດ
@@ -31160,9 +31160,9 @@ overfly,ບິນຜ່ານ
 overflying,ບິນຜ່ານ
 billon,ບິນລ່ຽນ
 astroblast,ບິນສີມືແຮງ
+flyaway,ບິນຫນີ
 cosmonautic,ບິນອະວະກາດ
 cosmonautical,ບິນອະວະກາດ
-flyaway,ບິນຫນີ
 billiards,ບິລຽດ
 butane,ບິວເທນ
 chipped,ບິ່ນ
@@ -31297,9 +31297,9 @@ ironwoods,ບຸນນາກ
 dented,ບຸບ
 graland,ບຸບຜະຊາດ
 devaluing,ບຸບລາຄາ
+buffet,ບຸບເຟ່
 sera,ບຸບໂພ
 serum,ບຸບໂພ
-buffet,ບຸບເຟ່
 prepositive,ບຸພະບົດ
 buffeter,ບຸຟເຟ່
 buffeters,ບຸຟເຟ່
@@ -32136,6 +32136,7 @@ resultless,ບໍ່ບັນລຸຜົນ
 unwhole,ບໍ່ບໍລິບູນ
 unholiness,ບໍ່ບໍລິສຸດ
 unholinesses,ບໍ່ບໍລິສຸດ
+nono,ບໍ່ບໍ່
 discord,ບໍ່ປອງດອງກັນ
 discordable,ບໍ່ປອງດອງກັນ
 discordance,ບໍ່ປອງດອງກັນ
@@ -32214,6 +32215,7 @@ unwelcomely,ບໍ່ພໍໃຈ
 unwelcomeness,ບໍ່ພໍໃຈ
 unwelcoming,ບໍ່ພໍໃຈ
 dissatisfies,ບໍ່ພໍໃຈໃນ
+unlike,ບໍ່ມັກ
 antiwar,ບໍ່ມັກສົງຄາມ
 unmarking,ບໍ່ມາກ
 absents,ບໍ່ມີ
@@ -32797,6 +32799,7 @@ promiscuities,ບໍ່ເປັນລະບຽບ
 promiscuity,ບໍ່ເປັນລະບຽບ
 promiscuously,ບໍ່ເປັນລະບຽບ
 promiscuousness,ບໍ່ເປັນລະບຽບ
+nevermind,ບໍ່ເປັນຫຍັງ
 unharmed,ບໍ່ເປັນອັນຕະລາຢ
 unprofessional,ບໍ່ເປັນອາຊີບ
 unprofessionally,ບໍ່ເປັນອາຊີບ
@@ -33055,9 +33058,6 @@ mistrustful,ບໍ່ໄວ້ວາງໃຈ
 mistrustfulness,ບໍ່ໄວ້ວາງໃຈ
 distrusted,ບໍ່ໄວ້ໃຈ
 incredible,ບໍ່ໜ້າເຊື່ອ
-nono,ບໍ່ບໍ່
-unlike,ບໍ່ມັກ
-nevermind,ບໍ່ເປັນຫຍັງ
 artesian,ບໍ້ນໍາບາດານ
 abbots,ບໍ໊
 stipe,ປຊຊ
@@ -33343,6 +33343,7 @@ acclaimers,ປະກາດ
 acclaims,ປະກາດ
 announce,ປະກາດ
 announceable,ປະກາດ
+announced,ປະກາດ
 announcement,ປະກາດ
 announcements,ປະກາດ
 announcer,ປະກາດ
@@ -33804,6 +33805,7 @@ porter,ປະຕູ
 wicket,ປະຕູ
 sluicegates,ປະຕູລະບາຍນ້ຳ
 dovecotes,ປະຕູສະຫຼັກ
+gate,ປະຕູຮົ້ວ
 gated,ປະຕູຮົ້ວ
 gates,ປະຕູຮົ້ວ
 gatings,ປະຕູຮົ້ວ
@@ -34469,6 +34471,7 @@ belligerent,ປະເທດທີ່ເຮັດສົງຄາມ
 holland,ປະເທດທ້ວງ
 hollands,ປະເທດທ້ວງ
 netherland,ປະເທດທ້ວງ
+norway,ປະເທດນໍ່ເວ
 brazil,ປະເທດບຣາຊິນ
 brazils,ປະເທດບຣາຊິນ
 frances,ປະເທດຝຣັ່ງ
@@ -34492,6 +34495,7 @@ england,ປະເທດອັງກິດ
 englander,ປະເທດອັງກິດ
 englanders,ປະເທດອັງກິດ
 india,ປະເທດອິນເດຍ
+italy,ປະເທດອີຕາລີ
 iraq,ປະເທດອີຣັກ
 graecia,ປະເທດເກຣັກ
 greece,ປະເທດເກຣັກ
@@ -34642,10 +34646,6 @@ unhelpable,ປະໂຫຍດ
 unhelped,ປະໂຫຍດ
 unhelpfulness,ປະໂຫຍດ
 unhelping,ປະໂຫຍດ
-announced,ປະກາດ
-gate,ປະຕູຮົ້ວ
-norway,ປະເທດນໍ່ເວ
-italy,ປະເທດອີຕາລີ
 lacing,ປັກ
 sticked,ປັກ
 sticking,ປັກ
@@ -35227,8 +35227,8 @@ matchups,ປິດສະ
 picketings,ປິດອ້ອມ
 pickets,ປິດອ້ອມ
 mutes,ປິດຮັບຂໍ້ມູນ
-buildable,ປິດແບບ
 shutdown,ປິດເຄື່ອງ
+buildable,ປິດແບບ
 exultance,ປິຕິຍິນ
 exultancy,ປິຕິຍິນ
 exultant,ປິຕິຍິນ
@@ -35909,12 +35909,12 @@ ejaculator,ປ່ອຍນໍ້າກາມ
 ejaculators,ປ່ອຍນໍ້າກາມ
 graze,ປ່ອຍຢູ່ທົ່ງຫຍ້າ
 loosed,ປ່ອຍອອກ
+released,ປ່ອຍອອກ
 emitted,ປ່ອຍອອກມາ
 dimittis,ປ່ອຍອອກມາເມື່ອ
 release,ປ່ອຍເສັຽ
 letted,ປ່ອຍໃຫ້
 letting,ປ່ອຍໃຫ້
-released,ປ່ອຍອອກ
 acquits,ປ່ອຢຕົວ
 acquitted,ປ່ອຢຕົວ
 acquitting,ປ່ອຢຕົວ
@@ -36791,6 +36791,8 @@ masculinizing,ຜູ້ຊາຍ
 men,ຜູ້ຊາຍ
 ferrum,ຜູ້ຊາຍທາດເຫຼັກ
 ferrums,ຜູ້ຊາຍທາດເຫຼັກ
+deadman,ຜູ້ຊາຍທີ່ຕາຍແລ້ວ
+strongman,ຜູ້ຊາຍທີ່ເຂັ້ມແຂງ
 heir,ຜູ້ຊາຢຮັບມໍລະດົກ
 heirs,ຜູ້ຊາຢຮັບມໍລະດົກ
 waiter,ຜູ້ຊາຢຮັບໃຊ້ໃນຫ້ອງອາຫານ
@@ -37107,6 +37109,7 @@ propones,ຜູ້ສະເຫນີ
 proponing,ຜູ້ສະເຫນີ
 propons,ຜູ້ສະເຫນີ
 proposer,ຜູ້ສະເຫນີ
+observer,ຜູ້ສັງເກດ
 observers,ຜູ້ສັງເກດການ
 spectates,ຜູ້ສັງເກດການ
 spectating,ຜູ້ສັງເກດການ
@@ -37148,6 +37151,7 @@ procuresses,ຜູ້ຫຍິງລໍ່ລວງ
 abettal,ຜູ້ຫນຸນຫລັງ
 abettals,ຜູ້ຫນຸນຫລັງ
 abetters,ຜູ້ຫນຸນຫລັງ
+player,ຜູ້ຫຼິ້ນ
 issuers,ຜູ້ອອກ
 earners,ຜູ້ອອກແຮງ
 doyen,ຜູ້ອາວຸໂສ
@@ -37320,10 +37324,6 @@ lessor,ຜູ້ໃຫ້ເຊົ່າ
 lessors,ຜູ້ໃຫ້ເຊົ່າ
 mediator,ຜູ້ໄກ່ເກ່ຍ
 mediators,ຜູ້ໄກ່ເກ່ຍ
-deadman,ຜູ້ຊາຍທີ່ຕາຍແລ້ວ
-strongman,ຜູ້ຊາຍທີ່ເຂັ້ມແຂງ
-observer,ຜູ້ສັງເກດ
-player,ຜູ້ຫຼິ້ນ
 cowering,ຜົກຈອບ
 granulated,ຜົງ
 powdery,ຜົງ
@@ -37509,6 +37509,7 @@ unwinded,ຜ່ອນຄາຍ
 unwinder,ຜ່ອນຄາຍ
 unwinders,ຜ່ອນຄາຍ
 unwinds,ຜ່ອນຄາຍ
+relax,ຜ່ອນຄາຍອາລົມ
 relaxer,ຜ່ອນຄາຍອາລົມ
 lightening,ຜ່ອນປົນ
 clemencies,ຜ່ອນຜັນ
@@ -37522,7 +37523,6 @@ tact,ຜ່ອນສັ້ນຜ່ອນຍາວ
 tactful,ຜ່ອນສັ້ນຜ່ອນຍາວ
 tactfulness,ຜ່ອນສັ້ນຜ່ອນຍາວ
 tacts,ຜ່ອນສັ້ນຜ່ອນຍາວ
-relax,ຜ່ອນຄາຍອາລົມ
 fulgur,ຜ່າ
 amputates,ຜ່າຕັດ
 cesarean,ຜ່າຕັດ
@@ -37912,6 +37912,7 @@ weathertightness,ຝົນ
 champerator,ຝົນຕີ້
 raine,ຝົນຕົກ
 rained,ຝົນຕົກ
+raining,ຝົນຕົກ
 rains,ຝົນຕົກ
 rain,ຝົນຕົກຫນັກ
 sleet,ຝົນນໍາລູກເຫັບ
@@ -37920,7 +37921,6 @@ sharpen,ຝົນໃຫ້ຄົມ
 sharpened,ຝົນໃຫ້ຄົມ
 sharpening,ຝົນໃຫ້ຄົມ
 sharpens,ຝົນໃຫ້ຄົມ
-raining,ຝົນຕົກ
 leftist,ຝ່າຍຊ້າຍ
 winger,ຝ່າຍຊ້າຍ
 godhead,ຝ່າຍພຣະເຈົ້າ
@@ -38119,9 +38119,9 @@ halloweens,ພວກເຮົາ
 nobis,ພວກເຮົາ
 nos,ພວກເຮົາ
 ours,ພວກເຮົາ
+us,ພວກເຮົາ
 we,ພວກເຮົາ
 mourner,ພວກໄວ້ອາໄລ
-us,ພວກເຮົາ
 antimonial,ພວງ
 antimonials,ພວງ
 antimoniate,ພວງ
@@ -38580,6 +38580,7 @@ covenanter,ພັນທະ
 covenanters,ພັນທະ
 obligants,ພັນທະ
 obligated,ພັນທະ
+obligation,ພັນທະ
 obligations,ພັນທະ
 obligative,ພັນທະ
 obligators,ພັນທະ
@@ -38638,6 +38639,7 @@ descriptively,ພັນລະ
 wife,ພັນລະຍາ
 wive,ພັນລະຍາ
 wived,ພັນລະຍາ
+wives,ພັນລະຍາ
 wifed,ພັນລະຍາຂອງ
 wifely,ພັນລະຍາຂອງ
 wifes,ພັນລະຍາຂອງ
@@ -38658,8 +38660,6 @@ marshaling,ພັນເອກ
 marshallers,ພັນເອກ
 marshallings,ພັນເອກ
 marshals,ພັນເອກ
-obligation,ພັນທະ
-wives,ພັນລະຍາ
 chancel,ພັບ
 chancels,ພັບ
 collapsible,ພັບ
@@ -38898,6 +38898,7 @@ undereating,ພາຍໃຕ້ການ
 underer,ພາຍໃຕ້ການ
 underness,ພາຍໃຕ້ການ
 underring,ພາຍໃຕ້ການ
+underdevelopment,ພາຍໃຕ້ການພັດທະນາ
 themed,ພາຍໃຕ້ຫົວຂໍ້
 cavel,ພາຍໃນ
 cavels,ພາຍໃນ
@@ -38955,7 +38956,6 @@ interne,ພາຍໃນປະເທດ
 internment,ພາຍໃນປະເທດ
 internments,ພາຍໃນປະເທດ
 spakling,ພາຍໆ
-underdevelopment,ພາຍໃຕ້ການພັດທະນາ
 lati,ພາດ
 maisonette,ພາດ
 pidgins,ພາດ
@@ -39316,6 +39316,7 @@ adjudicative,ພິຈາລະນາ
 adjudicator,ພິຈາລະນາ
 adjudicators,ພິຈາລະນາ
 arguable,ພິຈາລະນາ
+consider,ພິຈາລະນາ
 considerability,ພິຈາລະນາ
 considerable,ພິຈາລະນາ
 considerables,ພິຈາລະນາ
@@ -39343,6 +39344,7 @@ reconsideration,ພິຈາລະນາ
 reconsidered,ພິຈາລະນາ
 reconsidering,ພິຈາລະນາໃໝ່
 reconsiders,ພິຈາລະນາໃໝ່
+pizza,ພິຊຊ່າ
 pizzas,ພິຊຊ່າ
 triumphing,ພິຊິດ
 antitoxic,ພິດ
@@ -39573,8 +39575,6 @@ bequests,ພິໄນກໍາ
 heiresses,ພິໄນກໍາ
 testamentary,ພິໄນກໍາ
 wills,ພິໄນກໍາ
-consider,ພິຈາລະນາ
-pizza,ພິຊຊ່າ
 anglaise,ພີ
 geotechnics,ພີ
 pienaar,ພີ
@@ -39734,7 +39734,9 @@ acreages,ພື້ນທີ່
 areas,ພື້ນທີ່
 pinta,ພື້ນທີ່
 stratum,ພື້ນທີ່
+myspace,ພື້ນທີ່ຂອງຂ້ອຍ
 bottomlands,ພື້ນທີ່ຕ່ໍາ
+freespace,ພື້ນທີ່ຫວ່າງ
 workspace,ພື້ນທີ່ເຮັດວຽກ
 subterranean,ພື້ນບາດານ
 superficialism,ພື້ນຜິວ
@@ -39757,8 +39759,6 @@ vernacularisms,ພື້ນເມືອງ
 vernacularities,ພື້ນເມືອງ
 vernacularized,ພື້ນເມືອງ
 vernacularizes,ພື້ນເມືອງ
-myspace,ພື້ນທີ່ຂອງຂ້ອຍ
-freespace,ພື້ນທີ່ຫວ່າງ
 firework,ພຸ
 blowpipe,ພຸ (ສຳຫລັບຍິງ)
 paunche,ພຸງ
@@ -40083,6 +40083,7 @@ adequacy,ພຽງພໍ
 adequate,ພຽງພໍ
 ampler,ພຽງພໍ
 amplest,ພຽງພໍ
+enough,ພຽງພໍ
 satis,ພຽງພໍ
 sufficiencies,ພຽງພໍ
 sufficient,ພຽງພໍ
@@ -40112,7 +40113,6 @@ only,ພຽງແຕ່
 simply,ພຽງແຕ່
 solum,ພຽງແຕ່
 tantum,ພຽງແຕ່
-enough,ພຽງພໍ
 laboriousness,ພຽນພະຢາຍາມ
 trailer,ພ່ວງ (ລົດ)
 decrement,ພ່ອງ
@@ -40758,6 +40758,7 @@ anthropologist,ມະນຸດວິທະຍາ
 humanitarian,ມະນຸດສະທໍາ
 humanitarianism,ມະນຸດສະທໍາ
 humanitarians,ມະນຸດສະທໍາ
+spiderman,ມະນຸດແມງມຸມ
 cocoanuts,ມະພ້າວ
 bubo,ມະມ່ວງ
 buboes,ມະມ່ວງ
@@ -40861,7 +40862,6 @@ cancerous,ມະເຮັງ
 cancerously,ມະເຮັງ
 cancers,ມະເຮັງ
 heartening,ມະໂນນຸກູນ
-spiderman,ມະນຸດແມງມຸມ
 avo,ມັ
 chickamauga,ມັກ
 enjoyed,ມັກ
@@ -41269,6 +41269,7 @@ hairinesses,ມີຂົນ
 hairing,ມີຂົນ
 hairy,ມີຂົນ
 tomentose,ມີຂົນ
+furry,ມີຂົນຍາວ
 tomentous,ມີຂົນບົ່ວທົ່ວໆ
 pubescence,ມີຂົນປົກຄຸມ
 pubescences,ມີຂົນປົກຄຸມ
@@ -41304,6 +41305,7 @@ ashame,ມີຄວາມລະອາຍ
 ashamed,ມີຄວາມລະອາຍ
 ashames,ມີຄວາມລະອາຍ
 ashaming,ມີຄວາມລະອາຍ
+becalm,ມີຄວາມສະຫງົບ
 enjoy,ມີຄວາມສຸກ
 happier,ມີຄວາມສຸກ
 happiest,ມີຄວາມສຸກ
@@ -41596,6 +41598,7 @@ tacticities,ມີສິດເທົ່າທຽມ
 tacticity,ມີສິດເທົ່າທຽມ
 tactics,ມີສິດເທົ່າທຽມ
 eligibilities,ມີສິດໄດ້ຮັບ
+eligibility,ມີສິດໄດ້ຮັບ
 eligible,ມີສິດໄດ້ຮັບ
 eligibleness,ມີສິດໄດ້ຮັບ
 eligibles,ມີສິດໄດ້ຮັບ
@@ -41735,9 +41738,6 @@ electrifier,ມີໄຟຟ້າໃຊ້
 electrifiers,ມີໄຟຟ້າໃຊ້
 electrifies,ມີໄຟຟ້າໃຊ້
 electrifying,ມີໄຟຟ້າໃຊ້
-furry,ມີຂົນຍາວ
-becalm,ມີຄວາມສະຫງົບ
-eligibility,ມີສິດໄດ້ຮັບ
 numbness,ມຶນ
 crasser,ມຶນທຶນ
 crassest,ມຶນທຶນ
@@ -41799,12 +41799,12 @@ slipperier,ມື່ນ
 slipperiest,ມື່ນ
 slippery,ມື່ນ
 slipping,ມື່ນ
+deadline,ມື້ກໍານົດສົ່ງ
 dines,ມື້ຄ່ໍາ
 mat,ມື້ຄ່ໍາ
 tomorrow,ມື້ອື່ນ
 tomorrowing,ມື້ອື່ນ
 someday,ມື້ໃດມື້ຫນຶ່ງ
-deadline,ມື້ກໍານົດສົ່ງ
 muras,ມຸ
 antechambers,ມຸກ
 funnies,ມຸກຕະຫລົກ
@@ -42688,10 +42688,10 @@ adjoiner,ຢູ່ໃກ້ຊິດ
 adjoins,ຢູ່ໃກ້ຊິດ
 locally,ຢູ່ໃນທ້ອງຖິ່ນ
 intravascular,ຢູ່ໃນເສັ້ນເລືອດ
-uninhabitability,ຢູ່ໄດ້
-uninhabitable,ຢູ່ໄດ້
 inline,ຢູ່ໃນແຖວ
 whereis,ຢູ່ໃສ
+uninhabitability,ຢູ່ໄດ້
+uninhabitable,ຢູ່ໄດ້
 hoist,ຢົກຂຶ້ນ
 hoisting,ຢົກຂຶ້ນ
 commending,ຢົກຢ້ອງ
@@ -42769,6 +42769,7 @@ bravely,ຢ່າງກ້າຫານ
 limped,ຢ່າງຂາເຄ
 limps,ຢ່າງຂາເຄ
 frightfully,ຢ່າງຂົນຫນາວລຸກ
+readily,ຢ່າງງ່າຍດາຍ
 actively,ຢ່າງຈິງຈັງ
 rigorously,ຢ່າງຈິງຈັງ
 indispensably,ຢ່າງຈໍາເປັນ
@@ -42864,6 +42865,7 @@ hugenesses,ຢ່າງມະຫາສານ
 nobly,ຢ່າງມີກຽດ
 happily,ຢ່າງມີຄວາມສຸກ
 learnedly,ຢ່າງມີຄວາມຮູ້
+efficiently,ຢ່າງມີປະສິດທິພາບ
 logical,ຢ່າງມີເຫດຜົນ
 tri,ຢ່າງມີໄຊຊະນະ
 irresistibly,ຢ່າງຢັບຢັ້ງບໍ່
@@ -43016,6 +43018,7 @@ absolutization,ຢ່າງແທ້ຈິງ
 absolutize,ຢ່າງແທ້ຈິງ
 absolutized,ຢ່າງແທ້ຈິງ
 absolutizes,ຢ່າງແທ້ຈິງ
+indeed,ຢ່າງແທ້ຈິງ
 truly,ຢ່າງແທ້ຈິງ
 suretied,ຢ່າງແນ່ນອນ
 suretying,ຢ່າງແນ່ນອນ
@@ -43035,9 +43038,6 @@ nonetheless,ຢ່າງໃດກໍ່ຕາມ
 swiftly,ຢ່າງໄວ
 howbeit,ຢ່າງໄຮກໍຕາມ
 howsoever,ຢ່າງໄຮກໍຕາມ
-readily,ຢ່າງງ່າຍດາຍ
-efficiently,ຢ່າງມີປະສິດທິພາບ
-indeed,ຢ່າງແທ້ຈິງ
 flatter,ຢ້ອງຢໍ
 retroact,ຢ້ອນຫຼັງ
 retroactions,ຢ້ອນຫຼັງ
@@ -43247,11 +43247,11 @@ longitude,ລອງຈິຈູດ
 guesses,ລອງປະມານການ
 guessings,ລອງປະມານການ
 retry,ລອງອີກຄັ້ງ
+tryout,ລອງເບິ່ງ
 crushing,ລອງເຫດການ
 longboat,ລອງໂບ
 longboats,ລອງໂບ
 justs,ລອງໄປເບິ່ງ
-tryout,ລອງເບິ່ງ
 adrift,ລອຍ
 float,ລອຍ
 flotations,ລອຍ
@@ -43340,6 +43340,7 @@ belles,ລະຄັງ
 belling,ລະຄັງ
 bellings,ລະຄັງ
 bells,ລະຄັງ
+irritate,ລະຄາຍເຄືອງ
 irritating,ລະຄາຍເຄືອງ
 irritations,ລະຄາຍເຄືອງ
 absorb,ລະງັບ
@@ -43695,6 +43696,7 @@ beware,ລະວັງ
 circumspect,ລະວັງ
 circumspection,ລະວັງ
 nix,ລະວັງ
+watchout,ລະວັງ
 eschewed,ລະວັງຕົວ
 determinist,ລະສາດ
 deterministic,ລະສາດ
@@ -43870,8 +43872,6 @@ evaporative,ລະເຫີຍ
 vaporized,ລະເຫີຍ
 sublimate,ລະເຫີດ
 refocus,ລະແວກດຽວ
-irritate,ລະຄາຍເຄືອງ
-watchout,ລະວັງ
 characterizations,ລັກ
 furtum,ລັກ
 scrivener,ລັກ
@@ -44229,6 +44229,7 @@ prize,ລາງວັນ
 prized,ລາງວັນ
 prizes,ລາງວັນ
 prizing,ລາງວັນ
+reward,ລາງວັນ
 rewardable,ລາງວັນ
 rewardableness,ລາງວັນ
 rewarders,ລາງວັນ
@@ -44245,7 +44246,6 @@ presager,ລາງສັງຫອນ
 presagers,ລາງສັງຫອນ
 presages,ລາງສັງຫອນ
 presaging,ລາງສັງຫອນ
-reward,ລາງວັນ
 mandurah,ລາຊະບຸລີ
 westlander,ລາຊະບຸລີ
 dynastes,ລາຊະວົງ
@@ -44674,10 +44674,10 @@ ruchings,ລຸ
 toru,ລຸ
 dabbled,ລຸກ
 arisen,ລຸກຂຶ້ນ
+getup,ລຸກຂື້ນ
 spreadover,ລຸກລານ
 walkout,ລຸກຫນີ
 inflame,ລຸກເປັນໄຟ
-getup,ລຸກຂື້ນ
 uncle,ລຸງ
 uncled,ລຸງ
 uncles,ລຸງ
@@ -44734,6 +44734,7 @@ abacus,ລູກຄິດ
 bal,ລູກຄີ
 choral,ລູກຄູ່
 chorals,ລູກຄູ່
+client,ລູກຄ້າ
 clientele,ລູກຄ້າ
 clienteles,ລູກຄ້າ
 clients,ລູກຄ້າ
@@ -44900,7 +44901,6 @@ flunky,ລູກໄລ່
 ren,ລູກໆ
 puppies,ລູກໝາ
 puppy,ລູກໝາ
-client,ລູກຄ້າ
 lucific,ລູຊິເຟີ
 lucifer,ລູຊິເຟີໄດ້
 lucifers,ລູຊິເຟີໄດ້
@@ -44999,6 +44999,7 @@ bewitches,ລົງຜີ
 bewitching,ລົງຜີ
 paunchiness,ລົງພຸງ
 paunchy,ລົງພຸງ
+godown,ລົງລຸ່ມ
 dated,ລົງວັນທີ
 datedness,ລົງວັນທີ
 datednesses,ລົງວັນທີ
@@ -45024,7 +45025,6 @@ punish,ລົງໂທດ
 punishing,ລົງໂທດ
 sanctionable,ລົງໂທດ
 smite,ລົງໂທດ
-godown,ລົງລຸ່ມ
 articulability,ລົດ
 articulable,ລົດ
 articulated,ລົດ
@@ -45184,6 +45184,7 @@ bus,ລົດເມ
 busses,ລົດເມ
 bulldozer,ລົດແຕຮກເຕິຂົດດິນ
 bulldozers,ລົດແຕຮກເຕິຂົດດິນ
+cab,ລົດແທັກຊີ້
 hackney,ລົດແທ໊ກຊີ່
 taxi,ລົດໂດຢສານ
 taxies,ລົດໂດຢສານ
@@ -45209,7 +45210,6 @@ metro,ລົດໄຟໃຕ້ດິນ
 subway,ລົດໄຟໃຕ້ດິນ
 subways,ລົດໄຟໃຕ້ດິນ
 undergrounds,ລົດໄຟໃຕ້ດິນ
-cab,ລົດແທັກຊີ້
 flame,ລົນ
 flamed,ລົນ
 flames,ລົນ
@@ -45440,9 +45440,9 @@ periorally,ລ່ວງຫນ້າ
 preconfiguration,ລ່ວງຫນ້າ
 prepaid,ລ່ວງຫນ້າ
 unforeseeably,ລ່ວງຫນ້າ
+overtime,ລ່ວງເວລາ
 overtimes,ລ່ວງເວລາ
 overtiming,ລ່ວງເວລາ
-overtime,ລ່ວງເວລາ
 downwind,ລ່ອງ
 castaway,ລ່ອງລອຍ
 sailplane,ລ່ອນ
@@ -46087,6 +46087,7 @@ miscategorized,ວາງຜິດປະເພດ
 miscategorizing,ວາງຜິດປະເພດ
 exhibiting,ວາງສະແດງ
 gallery,ວາງສະແດງຮູບ
+hangup,ວາງສາຍ
 sops,ວາງອອກ
 conspirant,ວາງແຜນ
 conspiration,ວາງແຜນ
@@ -46104,7 +46105,6 @@ misplace,ວາງໄວ້ຍູ່ບ່ອນຜິດ
 misplaced,ວາງໄວ້ຍູ່ບ່ອນຜິດ
 misplaces,ວາງໄວ້ຍູ່ບ່ອນຜິດ
 misplacing,ວາງໄວ້ຍູ່ບ່ອນຜິດ
-hangup,ວາງສາຍ
 siscourse,ວາຈາ
 chatty,ວາຈານ
 wyne,ວາຍ
@@ -46718,6 +46718,7 @@ choree,ວຽກບ້ານ
 chorees,ວຽກບ້ານ
 chores,ວຽກບ້ານ
 choring,ວຽກບ້ານ
+homework,ວຽກບ້ານ
 fieldwork,ວຽກພາກສະຫນາມ
 overtimed,ວຽກລ່ວງ
 overtimely,ວຽກລ່ວງ
@@ -46740,7 +46741,6 @@ job,ວຽກເຮັດງານທໍາ
 jobs,ວຽກເຮັດງານທໍາ
 ployment,ວຽກເຮັດງານທໍາ
 hobbies,ວຽກເຮັດເວລາຫວ່າງ
-homework,ວຽກບ້ານ
 fortification,ວຽງ
 fortifications,ວຽງ
 tannins,ວຽງຈັນ
@@ -48361,6 +48361,7 @@ steakhouses,ສະເຕກ
 stearman,ສະເຕຍ
 streptomycin,ສະເຕຣັບໂຕໄມ
 streptomycins,ສະເຕຣັບໂຕໄມ
+beefsteak,ສະເຕັກງົວ
 stebbins,ສະເຕັບ
 stere,ສະເຕີລິງ
 steres,ສະເຕີລິງ
@@ -48662,7 +48663,6 @@ harpoon,ສະໝວກແທງປາວານ
 harpoons,ສະໝວກແທງປາວານ
 clerk,ສະໝຽນ
 clerks,ສະໝຽນ
-beefsteak,ສະເຕັກງົວ
 pseudonymous,ສັ
 diviner,ສັກ
 inject,ສັກ
@@ -48971,6 +48971,7 @@ bestializes,ສັດປ່າ
 bestializing,ສັດປ່າ
 bestially,ສັດປ່າ
 bestials,ສັດປ່າ
+wildlife,ສັດປ່າ
 wildlifes,ສັດປ່າ
 pet,ສັດລ້ຽງ
 pets,ສັດລ້ຽງ
@@ -49015,7 +49016,6 @@ polytyping,ສັດໂພລີໄທ
 polytypism,ສັດໂພລີໄທ
 walrus,ສັດໃນທະເລເໜືອມີງາ
 walruses,ສັດໃນທະເລເໜືອມີງາ
-wildlife,ສັດປ່າ
 crests,ສັນ
 pronouns,ສັນ
 putti,ສັນ
@@ -49969,6 +49969,7 @@ shoelace,ສາຢຮັດເກີບ
 shoelaces,ສາຢຮັດເກີບ
 fitter,ສາຣູບ
 fittest,ສາຣູບ
+documentary,ສາລະຄະດີ
 nonfiction,ສາລະຄະດີ
 nonfictions,ສາລະຄະດີ
 nomenclature,ສາລະບານ
@@ -50064,7 +50065,6 @@ cause,ສາເຫດ
 causeful,ສາເຫດ
 causes,ສາເຫດ
 causally,ສາເຫດຂອງໂລກ
-documentary,ສາລະຄະດີ
 intermingled,ສຳ
 intermingles,ສຳ
 intermingling,ສຳ
@@ -50461,6 +50461,7 @@ amenableness,ສິ່ງອໍານວຍຄວາມ
 amenance,ສິ່ງອໍານວຍຄວາມ
 amenism,ສິ່ງອໍານວຍຄວາມ
 amens,ສິ່ງອໍານວຍຄວາມ
+amenities,ສິ່ງອໍານວຍຄວາມສະດວກ
 squander,ສິ່ງເສດເຫຼືອ
 squanderers,ສິ່ງເສດເຫຼືອ
 squanders,ສິ່ງເສດເຫຼືອ
@@ -50492,7 +50493,6 @@ fetish,ສິ່ງໃຫ້ລາບ
 fetishes,ສິ່ງໃຫ້ລາບ
 mascot,ສິ່ງໃຫ້ລາບ
 mascots,ສິ່ງໃຫ້ລາບ
-amenities,ສິ່ງອໍານວຍຄວາມສະດວກ
 miniskirted,ສິ້ນ
 peaceablenesses,ສິ້ນ
 piece,ສິ້ນ
@@ -50861,6 +50861,7 @@ continuation,ສືບຕໍ່
 continue,ສືບຕໍ່
 continued,ສືບຕໍ່
 continuednesses,ສືບຕໍ່
+goon,ສືບຕໍ່
 perpetrating,ສືບຕໍ່
 revegetates,ສືບຕໍ່
 revegetating,ສືບຕໍ່
@@ -50887,7 +50888,6 @@ ascendancy,ສືບເນື່ອງຂຶ້ນໄປ
 spied,ສືບເລື່ອງລັບ
 spies,ສືບເລື່ອງລັບ
 spy,ສືບເລື່ອງລັບ
-goon,ສືບຕໍ່
 media,ສື່ມວນຊົນ
 mediae,ສື່ມວນຊົນ
 medias,ສື່ມວນຊົນ
@@ -51291,6 +51291,7 @@ vacuums,ສູນຍາກາດ
 extinct,ສູນພັນ
 extinctions,ສູນພັນ
 dissipating,ສູນສິ້ນ
+gym,ສູນອອກກໍາລັງກາຍ
 bereave,ສູນເສຍ
 bereaved,ສູນເສຍ
 bereavements,ສູນເສຍ
@@ -51300,7 +51301,6 @@ forfeit,ສູນເສຍ
 lose,ສູນເສຍ
 loses,ສູນເສຍ
 ailess,ສູນໂຍ
-gym,ສູນອອກກໍາລັງກາຍ
 pump,ສູບ
 pumped,ສູບ
 smokes,ສູບ
@@ -52234,9 +52234,9 @@ necklaced,ສ້ອຍຄໍ
 pendentive,ສ້ອຍຄໍ
 pendently,ສ້ອຍຄໍ
 tersenesses,ສ້ອມ
+fixup,ສ້ອມແປງ
 reassemblies,ສ້ອມແປງ
 reassembly,ສ້ອມແປງ
-fixup,ສ້ອມແປງ
 abl,ສ້າ
 razee,ສ້າ
 razeed,ສ້າ
@@ -52388,6 +52388,7 @@ bureaus,ສໍານັກງານ
 bureau,ສໍານັກງານການ
 braches,ສໍານັກງານໃຫຍ່
 brachs,ສໍານັກງານໃຫຍ່
+headquarter,ສໍານັກງານໃຫຍ່
 headquartered,ສໍານັກງານໃຫຍ່
 headquartering,ສໍານັກງານໃຫຍ່
 headquarters,ສໍານັກງານໃຫຍ່
@@ -52431,6 +52432,7 @@ baggager,ສໍາພາລະ
 baggages,ສໍາພາລະ
 census,ສໍາມະໂນຄົວ
 slaves,ສໍາລອງ
+fora,ສໍາລັບ
 for,ສໍາລັບການ
 cabalism,ສໍາລັບການຫຼິ້ນ
 cabalisms,ສໍາລັບການຫຼິ້ນ
@@ -52439,6 +52441,8 @@ caballers,ສໍາລັບການຫຼິ້ນ
 caballing,ສໍາລັບການຫຼິ້ນ
 flashings,ສໍາລັບການຫຼິ້ນ
 flashness,ສໍາລັບການຫຼິ້ນ
+forwork,ສໍາລັບການເຮັດວຽກ
+forme,ສໍາລັບຂ້ອຍ
 hyponatremia,ສໍາລັບຄົນເຈັບ
 tribal,ສໍາລັບຊົນເຜົ່າ
 tribalism,ສໍາລັບຊົນເຜົ່າ
@@ -52493,10 +52497,6 @@ prefabrications,ສໍາເລັດຮູບ
 prefabricator,ສໍາເລັດຮູບ
 prefabricators,ສໍາເລັດຮູບ
 prefabs,ສໍາເລັດຮູບ
-headquarter,ສໍານັກງານໃຫຍ່
-fora,ສໍາລັບ
-forwork,ສໍາລັບການເຮັດວຽກ
-forme,ສໍາລັບຂ້ອຍ
 imform,ສໍ່
 recount,ສໍ່
 recounts,ສໍ່
@@ -53300,6 +53300,7 @@ chilliness,ຫມາກເຜັດ
 chillinesses,ຫມາກເຜັດ
 chillis,ຫມາກເຜັດ
 chilly,ຫມາກເຜັດ
+starfruit,ຫມາກເຟືອງ
 bled,ຫມາກເລັ່ນ
 tomatoes,ຫມາກເລັ່ນ
 splitting,ຫມາກແຕກອອກ
@@ -53324,7 +53325,6 @@ berried,ຫມາກໄມ້ປ່າເມັດ
 berries,ຫມາກໄມ້ປ່າເມັດ
 berrying,ຫມາກໄມ້ປ່າເມັດ
 berryings,ຫມາກໄມ້ປ່າເມັດ
-starfruit,ຫມາກເຟືອງ
 confraternal,ຫມາຄົມ
 confraternities,ຫມາຄົມ
 confraternity,ຫມາຄົມ
@@ -53385,8 +53385,8 @@ endnotes,ຫມາຍເຫດ
 footnotes,ຫມາຍເຫດ
 footnoting,ຫມາຍເຫດ
 nota,ຫມາຍເຫດ
-box,ຫມາຍໃສ່ໃນປ່ອງ
 note,ຫມາຍເຫດ
+box,ຫມາຍໃສ່ໃນປ່ອງ
 coyotes,ຫມາປ່າ
 spininess,ຫມາມ
 spiny,ຫມາມ
@@ -54395,6 +54395,7 @@ ridiculousness,ຫົວຂວັນ
 taunted,ຫົວຂວັນ
 rhizomic,ຫົວຂ່າ
 rootstock,ຫົວຂ່າສາມາດ
+heading,ຫົວຂໍ້
 headings,ຫົວຂໍ້
 signposted,ຫົວຂໍ້
 subjectivity,ຫົວຂໍ້
@@ -54502,7 +54503,6 @@ chefs,ຫົວໜ້າ
 censors,ຫົວໜ້າກວດກາສື່ມວນຊົນ
 butler,ຫົວໜ້າຄົນບໍລິການຍູ່ວັງ
 butlers,ຫົວໜ້າຄົນບໍລິການຍູ່ວັງ
-heading,ຫົວຂໍ້
 puppet,ຫົ່ນ
 puppets,ຫົ່ນ
 concaved,ຫົ້ງ
@@ -54592,8 +54592,8 @@ curricular,ຫຼັກສູດ
 curricularization,ຫຼັກສູດ
 curricularize,ຫຼັກສູດ
 curriculum,ຫຼັກສູດ
-loftiest,ຫຼັກແຫຼມ
 syllabus,ຫຼັກສູດ
+loftiest,ຫຼັກແຫຼມ
 aftermath,ຫຼັງ
 backwardation,ຫຼັງ
 backwardations,ຫຼັງ
@@ -55101,6 +55101,7 @@ exert,ອອກກໍາລັງກາຍ
 exertional,ອອກກໍາລັງກາຍ
 exertive,ອອກກໍາລັງກາຍ
 exerts,ອອກກໍາລັງກາຍ
+workout,ອອກກໍາລັງກາຍ
 workouts,ອອກກໍາລັງກາຍ
 damn,ອອກຄໍາຄິດເຫັນ
 damning,ອອກຄໍາຄິດເຫັນ
@@ -55185,7 +55186,6 @@ exited,ອອກໄປ
 outgo,ອອກໄປຂ້າງນອກ
 outgoes,ອອກໄປຂ້າງນອກ
 outgoings,ອອກໄປຂ້າງນອກ
-workout,ອອກກໍາລັງກາຍ
 austrians,ອອດເຕຍ
 fraudster,ອອນ
 ounce,ອອນ
@@ -55820,6 +55820,7 @@ knighthoods,ອັດວິນ
 amphitheater,ອັດສະຈັນ
 amphitheaters,ອັດສະຈັນ
 amphitheatre,ອັດສະຈັນ
+astonishing,ອັດສະຈັນ
 marvellously,ອັດສະຈັນ
 marvelously,ອັດສະຈັນ
 marvelousnesses,ອັດສະຈັນ
@@ -55862,7 +55863,6 @@ vulcanisers,ອັດແຫນ້ນ
 vulcanises,ອັດແຫນ້ນ
 vulcanising,ອັດແຫນ້ນ
 automat,ອັດໂນມັດ
-astonishing,ອັດສະຈັນ
 godhood,ອັຕ
 godhoods,ອັຕ
 amphitheatrical,ອັຖຈັນ
@@ -56275,6 +56275,7 @@ perenniality,ອາຍຸຫລາຍປີ
 perennialize,ອາຍຸຫລາຍປີ
 overage,ອາຍຸເກີນຂີດ
 overageness,ອາຍຸເກີນຂີດ
+lifespan,ອາຍຸໄຂ
 jackpots,ອາຍແກັ
 dozen,ອາຍແກັສ
 dozener,ອາຍແກັສ
@@ -56593,6 +56594,7 @@ americans,ອາເມລິກາ
 floridians,ອາເມລິກາ
 stater,ອາເມລິກາ
 staters,ອາເມລິກາ
+usa,ອາເມລິກາ
 americanese,ອາເມລີກາ
 armenia,ອາເມເນຍ
 azerbaijani,ອາແຊກບາຍຊານ
@@ -56639,8 +56641,6 @@ residing,ອາໄສຢູ່
 sojourned,ອາໄສຢູ່
 wiving,ອາໄສຢູ່
 inhabit,ອາໄສຢູ່ໃນ
-lifespan,ອາຍຸໄຂ
-usa,ອາເມລິກາ
 emancipated,ອິ
 exogen,ອິ
 exogenic,ອິ
@@ -57550,11 +57550,11 @@ unreadably,ອ່ານບໍ່ໄດ້
 rereadings,ອ່ານມັນຄືນອີກ
 bidirectional,ອ່ານສອງທາງໄດ້
 bookworm,ອ່ານຫນັງສື
+readout,ອ່ານອອກສຽງ
 favela,ອ່ານໄດ້
 favelas,ອ່ານໄດ້
 legibility,ອ່ານໄດ້
 legible,ອ່ານໄດ້
-readout,ອ່ານອອກສຽງ
 ao,ອ່າວ
 bays,ອ່າວ
 gulf,ອ່າວ
@@ -57937,6 +57937,7 @@ disciplinarian,ຮັກສາວິໄນ
 disciplinarianism,ຮັກສາວິໄນ
 disciplinarians,ຮັກສາວິໄນ
 peacekeeping,ຮັກສາສັນຕິ
+healthcare,ຮັກສາສຸຂະພາບ
 curability,ຮັກສາໄດ້
 curableness,ຮັກສາໄດ້
 preserved,ຮັກສາໄວ້
@@ -57950,7 +57951,6 @@ dearing,ຮັກແພງ
 lovingness,ຮັກແພງ
 lovingnesses,ຮັກແພງ
 haggai,ຮັກໄກ
-healthcare,ຮັກສາສຸຂະພາບ
 ambulacral,ຮັງ
 cote,ຮັງ
 nest,ຮັງ
@@ -59066,6 +59066,7 @@ descants,ຮ້ອງເພງ
 sang,ຮ້ອງເພງ
 sing,ຮ້ອງເພງ
 sings,ຮ້ອງເພງ
+singsong,ຮ້ອງເພງ
 sung,ຮ້ອງເພງ
 tosing,ຮ້ອງເພງ
 shout,ຮ້ອງແຮງ
@@ -59087,7 +59088,6 @@ sobbing,ຮ້ອງໄຫ້
 teared,ຮ້ອງໄຫ້
 weep,ຮ້ອງໄຫ້
 wept,ຮ້ອງໄຫ້
-singsong,ຮ້ອງເພງ
 centena,ຮ້ອຍ
 centum,ຮ້ອຍ
 centums,ຮ້ອຍ
@@ -59766,6 +59766,7 @@ intensifier,ເຂັ້ມຂຸ້ນຂຶ້ນ
 slugging,ເຂັ້ມຂົ້ນ
 exactingness,ເຂັ້ມງວດ
 raucous,ເຂັ້ມງວດ
+rigorous,ເຂັ້ມງວດ
 stricter,ເຂັ້ມງວດ
 strictness,ເຂັ້ມງວດ
 stringent,ເຂັ້ມງວດ
@@ -59776,7 +59777,6 @@ stringentnesses,ເຂັ້ມງວດ
 bolstered,ເຂັ້ມແຂງ
 concentrated,ເຂັ້ມແຂງ
 robustness,ເຂັ້ມແຂງ
-rigorous,ເຂັ້ມງວດ
 knocker,ເຂາະ
 knockers,ເຂາະ
 denuded,ເຂີ
@@ -60241,6 +60241,7 @@ calculators,ເຄື່ອງຄິດເລກ
 condenser,ເຄື່ອງຄົວແທ່ນ
 condensers,ເຄື່ອງຄົວແທ່ນ
 orthotic,ເຄື່ອງຄໍ້າຊູ
+engine,ເຄື່ອງຈັກ
 engines,ເຄື່ອງຈັກ
 machineries,ເຄື່ອງຈັກ
 machinery,ເຄື່ອງຈັກ
@@ -60428,6 +60429,7 @@ amulets,ເຄື່ອງຣາວ
 eraser,ເຄື່ອງລິບ
 erasers,ເຄື່ອງລິບ
 dishwash,ເຄື່ອງລ້າງຈານ
+dishwasher,ເຄື່ອງລ້າງຈານ
 dishwashers,ເຄື່ອງລ້າງຈານ
 dishwashings,ເຄື່ອງລ້າງຈານ
 manometer,ເຄື່ອງວັດ
@@ -60613,8 +60615,6 @@ apostrophes,ເຄື່ອງໝາຢ
 badge,ເຄື່ອງໝາຢ
 badges,ເຄື່ອງໝາຢ
 punctuations,ເຄື່ອງໝາຢຈົດ
-engine,ເຄື່ອງຈັກ
-dishwasher,ເຄື່ອງລ້າງຈານ
 roading,ເຄື່ອນ
 dislocated,ເຄື່ອນຍ້າຍກໍ
 moveableness,ເຄື່ອນຍ້າຍໄດ້
@@ -60990,6 +60990,7 @@ shopkeeping,ເຈົ້າຂອງຮ້ານ
 shopkeepers,ເຈົ້າຂອງຮ້ານຂາຍເຄຶ່ອງ
 homeownership,ເຈົ້າຂອງເຮືອນ
 homeownerships,ເຈົ້າຂອງເຮືອນ
+landlord,ເຈົ້າຂອງເຮືອນເຊົ່າ
 landlordism,ເຈົ້າຂອງເຮືອນເຊົ່າ
 landlords,ເຈົ້າຂອງເຮືອນເຊົ່າ
 innkeeper,ເຈົ້າຂອງໂຮງແຮມ
@@ -61035,7 +61036,6 @@ wilinesses,ເຈົ້າເລ່
 archly,ເຈົ້າເລ້
 mayor,ເຈົ້າແຂວງກໍາແພງ
 mayors,ເຈົ້າແຂວງກໍາແພງ
-landlord,ເຈົ້າຂອງເຮືອນເຊົ່າ
 stoked,ເຈເນ
 charta,ເຈ້ຍ
 chartae,ເຈ້ຍ
@@ -63710,6 +63710,7 @@ gaining,ເພີ່ມຂຶ້ນ
 grewed,ເພີ່ມຂຶ້ນ
 grewing,ເພີ່ມຂຶ້ນ
 grews,ເພີ່ມຂຶ້ນ
+increase,ເພີ່ມຂຶ້ນ
 increased,ເພີ່ມຂຶ້ນ
 increasing,ເພີ່ມຂຶ້ນ
 increasingly,ເພີ່ມຂຶ້ນ
@@ -63769,7 +63770,6 @@ supplementary,ເພີ່ມເຕີມ
 viseed,ເພີ່ມເຕີມ
 viseing,ເພີ່ມເຕີມ
 paiking,ເພີ່ມເພື່ອນ
-increase,ເພີ່ມຂຶ້ນ
 deliriant,ເພີ້
 delirious,ເພີ້
 deliriousness,ເພີ້
@@ -64086,12 +64086,12 @@ pinchedness,ເມື່ອເຂົ້າຕາຈົນ
 pinches,ເມື່ອເຂົ້າຕາຈົນ
 pinching,ເມື່ອເຂົ້າຕາຈົນ
 pinchings,ເມື່ອເຂົ້າຕາຈົນ
+when,ເມື່ອໃດ
 whenever,ເມື່ອໃດກໍຕາມ
 semel,ເມື່ອໃດທີ່
 lated,ເມື່ອໄວ ໆ ນີ້
 lately,ເມື່ອໄວ ໆ ນີ້
 latenesses,ເມື່ອໄວ ໆ ນີ້
-when,ເມື່ອໃດ
 maillot,ເມົນໂລ
 blotto,ເມົາ
 breathalyzers,ເມົາ
@@ -64110,11 +64110,11 @@ moused,ເມົາ
 mousing,ເມົາ
 mousings,ເມົາ
 screwed,ເມົາ
+hangover,ເມົາຄ້າງ
 carsick,ເມົາລົດ
 drunkenness,ເມົາເຫຼົ້າ
 seasick,ເມົາເຮືອ
 seasickness,ເມົາເຮືອ
-hangover,ເມົາຄ້າງ
 airsick,ເມົ່າຍົນ
 airsickness,ເມົ່າຍົນ
 mayorship,ເມເຍີຊິບ
@@ -64424,12 +64424,12 @@ incipiency,ເລີ່ມຕົ້ນຂອງ
 incipient,ເລີ່ມຕົ້ນຂອງ
 incipiently,ເລີ່ມຕົ້ນຂອງ
 restartable,ເລີ່ມຕົ້ນລະບົບ
+restart,ເລີ່ມຕົ້ນໃຫມ່
 restarted,ເລີ່ມຕົ້ນໃຫມ່
 restarts,ເລີ່ມຕົ້ນໃຫມ່
 outsets,ເລີ່ມທໍາອິດ
 outsetting,ເລີ່ມທໍາອິດ
 undervoltage,ເລີ່ມເກີດແຮງດັນ
-restart,ເລີ່ມຕົ້ນໃຫມ່
 conceive,ເລີ້ມຄິດ
 conceives,ເລີ້ມຄິດ
 ethnobotanical,ເລີ້ມຕົ້ນ
@@ -65085,6 +65085,7 @@ diameters,ເສັ້ນຜ່າສູນກາງ
 graph,ເສັ້ນສະແດງການ
 contour,ເສັ້ນສະແດງຮູບ
 contours,ເສັ້ນສະແດງຮູບ
+redline,ເສັ້ນສີແດງ
 meridian,ເສັ້ນສູນທ່ຽງ
 meridians,ເສັ້ນສູນທ່ຽງ
 equatorial,ເສັ້ນສູນສູດ
@@ -65138,7 +65139,6 @@ fiberized,ເສັ້ນໄຍ
 fibre,ເສັ້ນໄຍ
 rovings,ເສັ້ນໄຍ
 monofilaments,ເສັ້ນໄຍຍາວດ່ຽວ
-redline,ເສັ້ນສີແດງ
 spinelessness,ເສາະ
 sicklier,ເສາະແສະ
 sickliest,ເສາະແສະ
@@ -65411,11 +65411,11 @@ rationales,ເຫດຜົນ
 rationalist,ເຫດຜົນ
 rationalistic,ເຫດຜົນ
 rationalists,ເຫດຜົນ
+reason,ເຫດຜົນ
 reasoned,ເຫດຜົນ
 reasonings,ເຫດຜົນ
 reasons,ເຫດຜົນ
 rezones,ເຫດຜົນ
-reason,ເຫດຜົນ
 fluctuated,ເຫນັງຕີງ
 hereunder,ເຫນີໄວ້ດັ່ງລຸ່ມ
 northerlies,ເຫນືອ
@@ -65998,6 +65998,7 @@ mistreating,ເອົາລັດເອົາປຽບ
 mistreatment,ເອົາລັດເອົາປຽບ
 mistreatments,ເອົາລັດເອົາປຽບ
 mistreats,ເອົາລັດເອົາປຽບ
+bringdown,ເອົາລົງມາ
 unpack,ເອົາອອກ
 unpacker,ເອົາອອກ
 unpackers,ເອົາອອກ
@@ -66047,7 +66048,6 @@ engrosser,ເອົາໄປຫມົດ
 engrossers,ເອົາໄປຫມົດ
 engrossment,ເອົາໄປຫມົດ
 matchsticks,ເອົາໄມ້ຂີດໄຟ
-bringdown,ເອົາລົງມາ
 muggier,ເອົ້າ
 muggiest,ເອົ້າ
 outfielders,ເອົ້າ
@@ -66683,12 +66683,12 @@ motel,ເຮືອນພັກໂມເທວ
 motels,ເຮືອນພັກໂມເທວ
 pastel,ເຮືອນວິນລາ
 pastels,ເຮືອນວິນລາ
+whitehouse,ເຮືອນສີຂາວ
 greenhouse,ເຮືອນແກ້ວ
 greenhouses,ເຮືອນແກ້ວ
 lighthouse,ເຮືອນໄຟຢາມຝ່ັງ
 kennel,ເຮືອນໝາ
 kennels,ເຮືອນໝາ
-whitehouse,ເຮືອນສີຂາວ
 barge,ເຮືອບັນທົກ
 aeroplane,ເຮືອບິນ
 aeroplanes,ເຮືອບິນ
@@ -67454,6 +67454,7 @@ separable,ແຍກ
 separatist,ແຍກ
 severable,ແຍກ
 splitters,ແຍກ
+breakaway,ແຍກຈາກກັນ
 separatical,ແຍກດິນແດນ
 separability,ແຍກຕົວຈາກ
 dissociate,ແຍກຕົວອອກ
@@ -67483,7 +67484,6 @@ segregations,ແຍກອອກຕ່າງຫາກ
 segregators,ແຍກອອກຕ່າງຫາກ
 dissented,ແຍກອອກໄປ
 sexed,ແຍກເພດ
-breakaway,ແຍກຈາກກັນ
 yangtze,ແຍງຊີ
 aslant,ແຍນ
 inclined,ແຍນ
@@ -67679,6 +67679,7 @@ upheld,ແຕ່ງຕັ້ງ
 cooly,ແຕ່ງຕົວ
 undressed,ແຕ່ງຕົວ
 gadis,ແຕ່ງຕົວສາວ
+makeup,ແຕ່ງຫນ້າ
 invent,ແຕ່ງອອກ
 invented,ແຕ່ງອອກ
 inventing,ແຕ່ງອອກ
@@ -67687,7 +67688,6 @@ manicured,ແຕ່ງເລັບ
 manicures,ແຕ່ງເລັບ
 manicuring,ແຕ່ງເລັບ
 redress,ແຕ່ງໃຫມ່
-makeup,ແຕ່ງຫນ້າ
 heretofore,ແຕ່ນີ້
 henceforward,ແຕ່ນີ້ໄປ
 nor,ແຕ່ບໍ່ມີ
@@ -68652,6 +68652,7 @@ locust,ແມງຈິ່ງເຈາະ
 locusts,ແມງຈິ່ງເຈາະ
 antlion,ແມງຊ້າງ
 antlions,ແມງຊ້າງ
+grasshopper,ແມງຕັກແຕນ
 scorpius,ແມງປ່ອງ
 dragonflies,ແມງປໍ
 bumblebee,ແມງພູ່
@@ -68689,7 +68690,6 @@ insectivore,ແມງໄມ້
 insectivores,ແມງໄມ້
 insectivorous,ແມງໄມ້
 insects,ແມງໄມ້
-grasshopper,ແມງຕັກແຕນ
 sarmatic,ແມດ
 massachusett,ແມດຊາຊູເຊດ
 massachusetts,ແມດຊາຊູເຊດ
@@ -68822,17 +68822,17 @@ monographs,ແມ່ນຈະໄດ້
 eyeservice,ແມ່ນຕາມຢ່າງຄົນ
 uncookable,ແມ່ນວັດຖຸດິບ
 uncooked,ແມ່ນວັດຖຸດິບ
+what,ແມ່ນຫຍັງ
 amah,ແມ່ນົມ
 amahs,ແມ່ນົມ
 bibliographical,ແມ່ນແຕ່
+whois,ແມ່ນໃຜ
 stepmother,ແມ່ນ້າ
 riverines,ແມ່ນ້ໍາ
 rivers,ແມ່ນ້ໍາ
 mekong,ແມ່ນ້ໍາຂອງ
 thames,ແມ່ນ້ໍາເທມ
 coarsening,ແມ່ນໍ້າ
-what,ແມ່ນຫຍັງ
-whois,ແມ່ນໃຜ
 masterates,ແມ່ບົດ
 masterfulnesses,ແມ່ບົດ
 tweens,ແມ່ບົດ
@@ -68928,6 +68928,7 @@ och,ແລະ
 og,ແລະ
 rehabilitants,ແລະການຟື້ນຟູ
 rehabilitators,ແລະການຟື້ນຟູ
+andi,ແລະຂ້ອຍ
 septical,ແລະຂ້າເຊື້ອ
 septicities,ແລະຂ້າເຊື້ອ
 scads,ແລະຊາວຢິວ
@@ -68955,7 +68956,6 @@ turn,ແລະເຮັດໃຫ້ການ
 turnings,ແລະເຮັດໃຫ້ການ
 kempy,ແລະແຄມ
 gatekeepers,ແລະໄດ້ຊື້ຫມູ
-andi,ແລະຂ້ອຍ
 chase,ແລ່ນ
 chasings,ແລ່ນ
 plying,ແລ່ນ
@@ -70130,6 +70130,8 @@ solitarily,ໂດດດ່ຽວດຽວດາຍ
 leaped,ໂດດອອກ
 outstandingly,ໂດດເດັ່ນ
 preeminent,ໂດດເດັ່ນ
+donut,ໂດນັດ
+doughnut,ໂດນັດ
 cupola,ໂດມ
 domed,ໂດມ
 lance,ໂດມອນ
@@ -70156,8 +70158,6 @@ miens,ໂດເມນ
 illustriously,ໂດ່ງດັງ
 illustriousness,ໂດ່ງດັງ
 reputedly,ໂດ່ງດັງ
-donut,ໂດນັດ
-doughnut,ໂດນັດ
 apiece,ໂຕ
 apieces,ໂຕ
 fledglings,ໂຕ
@@ -70268,6 +70268,7 @@ phoned,ໂທ
 toll,ໂທ
 vocat,ໂທ
 wac,ໂທ
+callback,ໂທກັບ
 trojans,ໂທຈັນ
 blames,ໂທດ
 blaming,ໂທດ
@@ -70344,7 +70345,6 @@ telegrams,ໂທເລກ
 telegraphic,ໂທເລກ
 telegraphy,ໂທເລກ
 ires,ໂທໂສ
-callback,ໂທກັບ
 allyl,ໂນ
 allylic,ໂນ
 allyls,ໂນ
@@ -71290,6 +71290,7 @@ angry,ໃຈຮ້າຍ
 angriest,ໃຈຮ້າຢ
 furious,ໃຈຮ້າຢ
 intrepid,ໃຈເດັດ
+comedown,ໃຈເຢັນ
 equanimous,ໃຈເຢັນ
 equanimously,ໃຈເຢັນ
 imperturbable,ໃຈເຢັນ
@@ -71304,7 +71305,6 @@ unrestrainable,ໃຈແຕກ
 proclive,ໃຈໂອນອຽງ
 proclivities,ໃຈໂອນອຽງ
 proclivity,ໃຈໂອນອຽງ
-comedown,ໃຈເຢັນ
 applies,ໃຊ້
 expended,ໃຊ້
 unusefulness,ໃຊ້
@@ -71419,6 +71419,7 @@ partitioners,ໃນການແບ່ງປັນ
 partitionment,ໃນການແບ່ງປັນ
 partitionments,ໃນການແບ່ງປັນ
 operated,ໃນການໃຊ້ວຽກ
+incase,ໃນກໍລະນີ
 incases,ໃນກໍລະນີ
 momento,ໃນຂະນະ
 dum,ໃນຂະນະທີ່
@@ -71426,6 +71427,7 @@ meanwhile,ໃນຂະນະທີ່
 whereas,ໃນຂະນະທີ່
 while,ໃນຂະນະທີ່
 whilst,ໃນຂະນະທີ່
+inreality,ໃນຄວາມເປັນຈິງ
 exclam,ໃນຄໍາອຸທານ
 exclamational,ໃນຄໍາອຸທານ
 exclamations,ໃນຄໍາອຸທານ
@@ -71465,6 +71467,7 @@ versa,ໃນທາງກັບກັນ
 astray,ໃນທາງທີ່ຜິດ
 positive,ໃນທາງບວກ
 positively,ໃນທາງບວກ
+practically,ໃນທາງປະຕິບັດ
 hereafters,ໃນທີ່ນີ້
 eventual,ໃນທີ່ສຸດ
 eventualities,ໃນທີ່ສຸດ
@@ -71529,6 +71532,7 @@ biblicism,ໃນພຣະຄໍາພີ
 biblicisms,ໃນພຣະຄໍາພີ
 scripturally,ໃນພະຄໍາພີ
 downhills,ໃນພູເຂົາໄດ້
+init,ໃນມັນ
 today,ໃນມື້ນີ້
 yesterday,ໃນມື້ວານນີ້
 ne,ໃນລ
@@ -71614,10 +71618,6 @@ preoperatively,ໃນໄລຍະກ່ອນ
 preoperator,ໃນໄລຍະກ່ອນ
 farther,ໃນໄລຍະໄກ
 fartherer,ໃນໄລຍະໄກ
-incase,ໃນກໍລະນີ
-inreality,ໃນຄວາມເປັນຈິງ
-practically,ໃນທາງປະຕິບັດ
-init,ໃນມັນ
 blatter,ໃບ
 blattered,ໃບ
 blatterer,ໃບ
@@ -72578,6 +72578,7 @@ promenade,ໄປຫລິ້ນ
 promenaded,ໄປຫລິ້ນ
 promenades,ໄປຫລິ້ນ
 promenading,ໄປຫລິ້ນ
+goto,ໄປຫາ
 vade,ໄປຫາ
 crystal,ໄປເຊຍກັນ
 crystalization,ໄປເຊຍກັນ
@@ -72596,7 +72597,6 @@ crystals,ໄປເຊຍກັນ
 quaintness,ໄປເບິ່ງຄໍາທາຍ
 fetched,ໄປເອົາມາ
 recycle,ໄປໝູນໃໝ່
-goto,ໄປຫາ
 mole,ໄຝ
 moles,ໄຝ
 actuarial,ໄພ
@@ -73089,6 +73089,7 @@ girlhood,ໄວສາວ
 girlhoods,ໄວສາວ
 forties,ໄວສີ່ສິບ
 teenage,ໄວຫນຸ່ມ
+teens,ໄວຫນຸ່ມ
 earliness,ໄວເກີນຄວນ
 boyhoods,ໄວເດັກ
 infancies,ໄວເດັກ
@@ -73135,7 +73136,6 @@ unsounded,ໄວ້ໃຈບໍ່ໄດ້
 unsounding,ໄວ້ໃຈບໍ່ໄດ້
 unsoundness,ໄວ້ໃຈບໍ່ໄດ້
 stockpiled,ໄວ້ໃນຄັງສາງ
-teens,ໄວຫນຸ່ມ
 abstractedness,ໄສ
 roomers,ໄສກັບ
 mecromancy,ໄສຍະສາດ

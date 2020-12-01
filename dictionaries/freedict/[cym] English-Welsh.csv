@@ -3719,10 +3719,10 @@ cylchdroi,rotate
 cylchedd,circumference (measure)
 cylcheddau,circumferences (measure)
 cylchfa,zone (geography)
-cylchfan,roundabout (traffic)
 cylchfan,roundabout (road)
-cylchfannau,roundabouts (traffic)
+cylchfan,roundabout (traffic)
 cylchfannau,roundabouts (road)
+cylchfannau,roundabouts (traffic)
 cylchfaoedd,zones (geography)
 cylchgrawn,magazine
 cylchgronau,magazines
@@ -10074,8 +10074,8 @@ rhifolyn,numeral
 rhifydd,counter (numbers)
 rhifyddion,counters (numbers)
 rhifyddol,arithmetical
-rhifyn,number (issue of magazine)
 rhifyn,number (issue of a magazine)
+rhifyn,number (issue of magazine)
 rhifynnau,numbers (issue of a magazine)
 rhigoli,groove
 rhigymu,rhyme

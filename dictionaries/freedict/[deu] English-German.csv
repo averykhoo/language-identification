@@ -12,7 +12,6 @@ Other,English
 (aus)strahlen,beam
 (ausgaben) einschränken,to cut down
 (baum) fällen,to cut down
-vom fass,on tap
 (bluts-) verwandtschaft ; f,kindred
 (bremsen) entlüften,bled}
 (bremsen) entlüften,to bleed
@@ -163,12 +162,6 @@ vom fass,on tap
 1. weihnachtsfeiertag,christmas day
 2. weihnachtsfeiertag,boxing day
 54 cm),inch
-bahnsteig ; m,track
-kleinhändler,merchant
-konservenbüchse,can
-mais ; m,corn
-sich zurechtmachen,to clean up
-zur aufbewahrung geben,to check
 [antrag] ablehnen,to defeat
 [frist] verlängerung,extension
 [heirats-] antrag ; m,proposal
@@ -226,14 +219,14 @@ abbild ; n,image
 abbilden,image
 abbilden,map
 abbildend,picturing
+abbildung,map
+abbildung,mapping
+abbildung,transformation
 abbildung ; f,illustration
 abbildung ; f,image
 abbildung ; f,map
 abbildung ; f,mapping
 abbildung ; f,picture
-abbildung,map
-abbildung,mapping
-abbildung,transformation
 abbildungsfehler ; m,aberration
 abbindend,undoing
 abblasend,cancelling
@@ -282,14 +275,14 @@ abbringen,to dissuade
 abbringen,to wring
 abbringend,dissuading
 abbringend,wringing
+abbruch (programm) ; m,truncation
+abbruch (sport) ; m,break-off
+abbruch (sport) ; m,stop
+abbruch (sport) ; m,stopping
 abbruch ; m,demolition
 abbruch ; m,dropout
 abbruch ; m,severance
 abbruch ; m,truncation
-abbruch (sport) ; m,break-off
-abbruch (sport) ; m,stop
-abbruch (sport) ; m,stopping
-abbruch (programm) ; m,truncation
 abbruchcode ; m,abort code
 abbruchmakro ; n,abort macro
 abbröckelnd,crumbling
@@ -360,8 +353,8 @@ abendkurse,evening classes
 abendland ; n,occident
 abendländisch,occidental
 abendländische,occidentally
-abendmahl (kirchlich) ; n,the lord's supper
 abendmahl (kirchlich),communion
+abendmahl (kirchlich) ; n,the lord's supper
 abendrot ; n,sunset
 abendröte,afterglows
 abendschule ; f,evening classes
@@ -542,11 +535,11 @@ abgabe ; f,tax
 abgabe ; f,tribute
 abgaben,taxes
 abgaben,tributes
+abgang (bankbilanz) ; m,items disposed of
+abgang (warenversand) ; m,dispatch
 abgang ; m,daparture
 abgang ; m,exit
 abgang ; m,leaving
-abgang (bankbilanz) ; m,items disposed of
-abgang (warenversand) ; m,dispatch
 abgangsflughafen ; m,airport of depature
 abgangskontrolle ; f,physical exit control
 abgangskontrolle ; f,removal control
@@ -768,9 +761,9 @@ abgeschirmt,shielded
 abgeschlachtet,slaughtered
 abgeschleppt,towed off
 abgeschliffen,polished
+abgeschlossen,closed
 abgeschlossen,completed
 abgeschlossen (wohnung),self-contained
-abgeschlossen,closed
 abgeschlossenheit ; f,insularity
 abgeschlossenheit ; f,seclusion
 abgeschlossenheiten,seclusiveness
@@ -1155,12 +1148,12 @@ ablassend,letting off
 ablassend,surceasing
 ablasshahn,drain cock
 ablasskanal,drain
+ablauf (zeitlich) ; m,cycle
 ablauf ; m,drain
 ablauf ; m,flowing off
 ablauf ; m,order of events
 ablauf ; m,procedure
 ablauf ; m,sequence
-ablauf (zeitlich) ; m,cycle
 ablaufanweisung ; f,run chart
 ablaufdiagramm ; n,flow chart
 ablaufdiagramm ; n,flowchart
@@ -1242,10 +1235,10 @@ ableitkondensator ; m,bypass capacitor
 ableitung ; f,deduction
 ableitung ; f,derivation
 ableitung ; f,derivative
+ableitung ; f,derivative
 ableitung ; f,derive
 ableitung ; f,partial / total
 ableitung ; f,revulsion
-ableitung ; f,derivative
 ableitungen,derivations
 ableitungen,derivatives
 ableitungskanal ; m,drainage
@@ -1444,8 +1437,8 @@ abrackern,to drudge
 abrackern,to fag
 abrackernd,drudging
 abrackernd,fagging
-abraten ; n,dissuasion
 abraten (von),to dissuade (from)
+abraten ; n,dissuasion
 abratend,dissuading
 abratend,dissuading from
 abratende,dissuasively
@@ -1491,9 +1484,9 @@ abrieb ; m,attrition
 abriegelnd,bolting
 abriss,stub
 abriss,talon
+abriss (eines buches) ; m,outline (of a book)
 abriss ; m,abstract
 abriss ; m,outline
-abriss (eines buches) ; m,outline (of a book)
 abrisskante,tear-off edge
 abrisskarte,scored card
 abrollen,to unroll
@@ -1529,14 +1522,14 @@ absahnen,to skim
 absahnend,skimming
 absatteln,unsaddle
 absattelnd,unsaddling
-absatz ; m,heel
-absatz ; m,landing
-absatz ; m,marketing
-absatz ; m,paragraph
 absatz (buchdruck) ; m,break
 absatz (gelände),terrace
 absatz (wirtschaft) ; m,sales
 absatz (wirtschaft) ; m,turnover
+absatz ; m,heel
+absatz ; m,landing
+absatz ; m,marketing
+absatz ; m,paragraph
 absatzfähig,marketable
 absatzförderung,sales promotion
 absatzgebiet ; n,marker
@@ -1680,8 +1673,8 @@ abschliessend,final
 abschliessend,finishing
 abschliessend,locking
 abschliessend,secluding
-abschluss ; m,finish
 abschluss ; m,closure
+abschluss ; m,finish
 abschlussbuchungen,annual closing entries
 abschlussgebühr,acquisition fee
 abschlusskosten,acquisition cost
@@ -2040,10 +2033,10 @@ abstammungslehren,theories of evolution
 abstand ; m,desistance
 abstand ; m,displacement
 abstand ; m,distance
+abstand ; m,distance
 abstand ; m,pitch
 abstand ; m,space
 abstand ; m,spacing
-abstand ; m,distance
 abstand genommen,abstained
 abstandprüfung,bias test
 abstandsstück,spacer
@@ -2093,11 +2086,11 @@ abstimmen,to modulate
 abstimmen,to syntonize
 abstimmen,to tune
 abstimmen,to vote
-abstimmen ; n,voting
 abstimmen (für),to ballot (for)
 abstimmen (für),to vote
 abstimmen (über),take) a ballot (on)
 abstimmen (über),to have (hold
+abstimmen ; n,voting
 abstimmend,coordinating
 abstimmend,voting
 abstimmung ; f,ballot
@@ -2510,10 +2503,10 @@ achromatisches,achromatically
 achsabstand ; m,centre distance
 achse ; f,arbor
 achse ; f,axis
+achse ; f,axis
 achse ; f,axle
 achse ; f,center line
 achse ; f,pivot
-achse ; f,axis
 achsel ; f,shoulder
 achselhöhle,armpit
 achselhöhle,axillary
@@ -2730,8 +2723,8 @@ adressierbarer,addressable
 adressierbarer speicher,addressable storage
 adressierbarer speicher,addressed memory
 adressierbarkeit ; f,addressability
-adressieren ; n,addressing
 adressieren (an),to address (to)
+adressieren ; n,addressing
 adressierend,addressing
 adressiermaschine ; f,addressing machine
 adressiermaschine ; f,mailing machine
@@ -3687,8 +3680,8 @@ amortisieren (anleihe),to redeem
 amortisierend,amortizing
 amortisiert,amortizes
 amortisierte,amortized
-ampel ; f,hanging lamp
 ampel (verkehrs-) ; f,traffic light(s)
+ampel ; f,hanging lamp
 amperemeter ; n,ammeter
 amplitudenmoduliertes signal,amplitude modulated signal
 ampulle ; f,ampoule
@@ -3702,6 +3695,10 @@ amsel ; f,blackbird
 amseln,blackbirds
 amspange ; f,bangle
 amstrachten,vestments
+amt (dienststelle) ; n,agency
+amt (dienststelle) ; n,department
+amt (dienststelle) ; n,office
+amt (telefon) ; n,exchange
 amt ; n,bureau
 amt ; n,charge
 amt ; n,duty
@@ -3710,10 +3707,6 @@ amt ; n,office
 amt ; n,post
 amt ; n,task
 amt ; n,trunk
-amt (dienststelle) ; n,agency
-amt (dienststelle) ; n,department
-amt (dienststelle) ; n,office
-amt (telefon) ; n,exchange
 amt),to exercise
 amtieren,officiate
 amtierend,acting
@@ -4153,9 +4146,9 @@ anfachend,kindling
 anfahren,tosnub
 anfahrend,snubbing
 anfahrend,starting
+anfall (dividende ; m,accrual
 anfall ; m,attack
 anfall ; m,fit
-anfall (dividende ; m,accrual
 anfallen,to accrue
 anfallend,attacking
 anfang ; m,beginning
@@ -4360,8 +4353,8 @@ angebot ; n,bargain
 angebot ; n,bid
 angebot ; n,offer
 angebot ; n,tender
-angebot und nachfrage,supply and demand
 angebot mit preisangabe,quotation
+angebot und nachfrage,supply and demand
 angebote,offerings
 angebote,propositions
 angeboten,offered
@@ -4998,10 +4991,10 @@ ankommen,to get to
 ankommend,arriving
 ankommend,incoming
 ankommend (telefon),inbound
+ankopplung (an) (raumfahrt) ; f,docking (with)
 ankopplung (an) ; f,connection (to)
 ankopplung (an) ; f,linking up (to
 ankopplung (an) ; f,with)
-ankopplung (an) (raumfahrt) ; f,docking (with)
 ankreiden,to chalk up
 ankreidend,chalking
 ankreidend,chalking up
@@ -5031,13 +5024,13 @@ ankündigung,announcement
 ankündigungen,advertisements
 ankündigungen,announcements
 ankündigungs...,preparatory
+anlage (im brief) ; f,enclosure
+anlage (zu),tendency
 anlage ; f,arrangement
 anlage ; f,construction
 anlage ; f,plant
 anlage ; f,processor
 anlage ; f,talent
-anlage (im brief) ; f,enclosure
-anlage (zu),tendency
 anlage),large-scale
 anlage),spacious
 anlageanweisung ; f,asset advice
@@ -5376,6 +5369,7 @@ anpassend,paralleling
 anpassend,suiting
 anpassende,adaptationally
 anpassende,assimilatory
+anpassung (kundenspezifisch) ; f,customization
 anpassung ; f,accommodation
 anpassung ; f,adaptation
 anpassung ; f,adaption
@@ -5384,7 +5378,6 @@ anpassung ; f,assimilation
 anpassung ; f,conformableness
 anpassung ; f,matching
 anpassung ; f,modulation
-anpassung (kundenspezifisch) ; f,customization
 anpassungen,accommodations
 anpassungen,adaptations
 anpassungsbereich ; m,adjustment range
@@ -5732,10 +5725,10 @@ anspielend,alluding
 anspielend,hinting
 anspielend,hinting at
 anspielend,insinuating
+anspielung (gegen) ; f,dig (at)
 anspielung ; f,allusion
 anspielung ; f,indirectness
 anspielung ; f,innuendo
-anspielung (gegen) ; f,dig (at)
 anspielungen,allusions
 anspielungen,indirectnesses
 anspitzen,sharpen
@@ -5945,6 +5938,8 @@ ansätze,rudiments
 antarktis ; f,anarctica
 antarktis ; f,antarctic
 antarktis ; f,antarctica (aq)
+anteil (an) ; m,interest (in)
+anteil (an) ; m,share
 anteil ; m,allotment
 anteil ; m,concern
 anteil ; m,interest
@@ -5955,8 +5950,6 @@ anteil ; m,quota
 anteil ; m,rate
 anteil ; m,share
 anteil ; m,stake
-anteil (an) ; m,interest (in)
-anteil (an) ; m,share
 anteil an,share in
 anteil der geprüften stücke,average fraction inspected
 anteil pro pfund,poundage
@@ -6052,6 +6045,7 @@ antreibend,goading
 antreibend,impelling
 antreten,to report
 antretend,reporting
+antrieb (getriebe) ; m,drive train
 antrieb ; m,actuation
 antrieb ; m,drive
 antrieb ; m,impellent
@@ -6059,7 +6053,6 @@ antrieb ; m,impulsion
 antrieb ; m,incentive
 antrieb ; m,prompting
 antrieb ; m,propulsion
-antrieb (getriebe) ; m,drive train
 antriebe,drives
 antriebe,impulsions
 antriebe,incentives
@@ -6237,8 +6230,8 @@ any,einer
 any,irgend etwas
 any,irgendeiner
 any,jeder
-anzahl ; f,count
 anzahl (von) ; f,number (of)
+anzahl ; f,count
 anzahl der freiheitsgrade,variability
 anzahl der freiheitsgrade,variance
 anzahlen,to pay on account
@@ -6407,8 +6400,8 @@ apparatur ; f,gadgetry
 appartement ; n,apartment
 appartement ; n,flatlet
 appartements,flatlets
-appell ; m,roll call
 appell (an) ; m,appeal (to)
+appell ; m,roll call
 appellieren,to appeal (to)
 appellierend,appealing to
 appelliert,appeals
@@ -6574,9 +6567,9 @@ arbeitskräfte,manpower
 arbeitslager ; n,labour camp
 arbeitslast ; f,workload
 arbeitslauf ; m,production run
-arbeitsleistung ; f,efficiency
 arbeitsleistung (einer fabrik) ; f,output
 arbeitsleistung (einer person ; f,performance
+arbeitsleistung ; f,efficiency
 arbeitsleute,workingmen
 arbeitslos,jobless
 arbeitslos,out of work
@@ -6616,8 +6609,8 @@ arbeitsplatz ; m,employment
 arbeitsplatz ; m,workplace
 arbeitsplatz ; m,workstation
 arbeitsplatzbewertung ; f,job evaluation
-arbeitsplatzrechner ; m,workstation computer
 arbeitsplatzrechner (pc) ; m,personal computer
+arbeitsplatzrechner ; m,workstation computer
 arbeitsplatzrotation ; f,job rotation
 arbeitsplatzwechsel ; m,change of job
 arbeitsplatzwechsel ; m,job change
@@ -7039,9 +7032,9 @@ assoziativspeicher ; m,associative memory
 assoziieren,to associate
 assoziiertes gebiet,associated territory
 assoziiertes land,associated country
+ast (im holz) ; m,knot
 ast ; m,bough
 ast ; m,branch
-ast (im holz) ; m,knot
 astabil,astable
 astabile kippschaltung,astable circuit
 aster ; f,aster
@@ -8145,6 +8138,8 @@ aufladend,loading
 aufladung ; f,charge
 aufladung ; f,pressure charging
 aufladung ; f,supercharging
+auflage (einer zeitung) ; f,circulation
+auflage (eines buches) ; f,edition
 auflage ; f,coating
 auflage ; f,condition
 auflage ; f,impost
@@ -8153,8 +8148,6 @@ auflage ; f,lining
 auflage ; f,requirement
 auflage ; f,rest
 auflage ; f,support
-auflage (einer zeitung) ; f,circulation
-auflage (eines buches) ; f,edition
 auflagefläche,seating
 auflagen,editions
 auflagen,imposts
@@ -8254,9 +8247,9 @@ aufmöbeln,to recondition
 aufmöbelnd,pepping
 aufmöbelnd,pepping up
 aufmöbelnd,reconditioning
+aufnahme,taking
 aufnahme ; f,absorption
 aufnahme ; f,recording
-aufnahme,taking
 aufnahmeantrag ; m,apply for admission
 aufnahmebedingungen,terms of admission
 aufnahmefähig,absorptive
@@ -8565,15 +8558,15 @@ aufseher,supervisors
 aufseher,warden
 aufseher,wardens
 aufseherinnen,supervisors
+aufsicht (polizei) ; f,surveillance
 aufsicht ; f,custody
 aufsicht ; f,person in charge
 aufsicht ; f,supervision
 aufsicht ; f,supervisor
-aufsicht (polizei) ; f,surveillance
 aufsichtsbehörde,surveillance authority
 aufsichtsführende,proctor
-aufsichtspersonal ; n,supervisory staff
 aufsichtspersonal (im gefängnis),prison wardens
+aufsichtspersonal ; n,supervisory staff
 aufsichtspflicht ; f,responsibility
 aufsichtsrat ; m,supervisory board
 aufsichtsräte,supervisory boards
@@ -8658,13 +8651,13 @@ aufstellen ; n,deployment
 aufstellen ; n,placement
 aufstellend,embattling
 aufstellend,situating
-aufstellung ; f,array
-aufstellung ; f,assembly
-aufstellung ; f,setting up
 aufstellung (kandidaten ; f,nomination
 aufstellung (liste) ; f,itemization
 aufstellung (liste) ; f,list
 aufstellung (mannschaft) ; f,lineup
+aufstellung ; f,array
+aufstellung ; f,assembly
+aufstellung ; f,setting up
 aufstellung einer bilanz ; f,preparation of a balance sheet
 aufstellungsort ; m,site
 aufstieg ; m,advancement
@@ -8796,12 +8789,12 @@ aufwachsen einer halbleiterschicht,epitaxial growth
 aufwachsend,growing up
 aufwallung ; f,upsurge
 aufwallungen,upsurges
+aufwand (an) ; m,expenditure (of)
 aufwand ; m,cost
 aufwand ; m,effort
 aufwand ; m,expense
 aufwand ; m,luxury
 aufwand ; m,outlay
-aufwand (an) ; m,expenditure (of)
 aufwands...,sumptuary
 aufwandsentschädigung,expense allowance
 aufwandskonto ; n,activity account
@@ -9446,15 +9439,15 @@ ausfüllen,to fill (in)
 ausfüllen,to fill out
 ausfüllend,expletive
 ausfüller,spacer
+ausgabe (eines buches) ; f,redaction
+ausgabe (eines programms) ; f,output
+ausgabe (im plural: kosten) ; f,expense
 ausgabe ; f,disbursement
 ausgabe ; f,expense
 ausgabe ; f,issuance
 ausgabe ; f,issue
 ausgabe ; f,release
 ausgabe ; f,version
-ausgabe (eines buches) ; f,redaction
-ausgabe (eines programms) ; f,output
-ausgabe (im plural: kosten) ; f,expense
 ausgabeeinheit ; f,output unit
 ausgabefähig,issuable
 ausgabegerät,output device
@@ -9977,8 +9970,8 @@ ausleerend,emptying
 auslegen,to lay out
 auslegend,interpreting
 auslegend,outlaying
-ausleger ; m,cantilever
 ausleger (kran) ; m,boom
+ausleger ; m,cantilever
 auslegung ; f,interpretation
 ausleihen,to lend
 ausleihen,to lend and borrow
@@ -10205,15 +10198,15 @@ ausrüstungen,kits
 ausrüstungen,outfits
 aussaat ; f,sowing
 aussagbar,predicable
-aussage ; f,predication
-aussage ; f,statement
 aussage (gericht) ; f,testimony
 aussage (künstlerische),message
+aussage ; f,predication
+aussage ; f,statement
 aussagefähig,meaningful
 aussagekraft ; f,expressiveness
 aussagekraft ; f,validity
-aussagekräftig,expressive
 aussagekräftig,convincing
+aussagekräftig,expressive
 aussagekräftig,sound
 aussagen,statements
 aussagen,to predicate
@@ -10526,11 +10519,11 @@ ausstellend,exhibiting
 aussteller ; m,exhibitor
 aussteller ; m,issuers
 ausstellerverzeichnis ; n,list of exhibitors
+ausstellung (scheck) ; f,issurance
 ausstellung ; f,display
 ausstellung ; f,exhibition
 ausstellung ; f,exposition
 ausstellung ; f,show
-ausstellung (scheck) ; f,issurance
 ausstellungen,exhibitions
 ausstellungen,expositions
 ausstellungsfläche,floor space
@@ -10744,12 +10737,12 @@ auswerten,evaluate
 auswerten,to appraise
 auswertend,evaluating
 auswertformular ; n,scoring sheet
+auswertung (von statistiken) ; f,interpretation
 auswertung ; f,analysis
 auswertung ; f,appraisal
 auswertung ; f,evaluation
 auswertung ; f,score
 auswertung ; f,utilization
-auswertung (von statistiken) ; f,interpretation
 auswertungen,analyses
 auswertungsprogramm ; n,analysis program
 auswertungszweck ; m,analysis purpose
@@ -10765,11 +10758,11 @@ auswischen,to wipe out
 auswischend,wiping out
 auswringen,wring out
 auswringend,wringing out
+auswuchs (medizin) ; m,growth
+auswuchs (negativ) ; m,negative spin-off
 auswuchs ; m,excesses
 auswuchs ; m,hunch
 auswuchs ; m,outgrowth
-auswuchs (medizin) ; m,growth
-auswuchs (negativ) ; m,negative spin-off
 auswurf ; m,emission
 auswurf ; m,throw-off
 auswurftaste ; f,eject button
@@ -11185,6 +11178,7 @@ bahnkörper,roadbed
 bahnschranke ; f,gate
 bahnsteig,platform
 bahnsteig ; m,platform
+bahnsteig ; m,track
 bahnstrecke ; f,line
 bahnstrecke ; f,track
 bahnwärter,signalman
@@ -11237,8 +11231,8 @@ balkon ; m,balcony
 balkone,balconies
 ball,ball
 ball ; m,ball
-ball ; m,prom
 ball ; m,ball
+ball ; m,prom
 ball spielen,to play ball
 ball-,ballroom
 ballade ; f,ballad
@@ -11323,9 +11317,9 @@ bandantrieb ; m,tape drive
 bandaufnahme ; f,tape recording
 bandaufnahmen,tape recordings
 bandblock ; m,tape block
+bandbreite (frequenz) ; f,bandwidth
 bandbreite ; f,bandwidth
 bandbreite ; f,spectrum
-bandbreite (frequenz) ; f,bandwidth
 bandbreiten,band widths
 bandbreiten,bandwidths
 bande ; f,band
@@ -11510,8 +11504,8 @@ basiliken,basilicas
 basilikum ; n,basil
 basis ; f,base
 basis ; f,basis
-basis ; f,foot
 basis ; f,basis
+basis ; f,foot
 basis(adress)register ; n,memory pointer
 basisadresse ; f,base address
 basisadresse ; f,basicaddress
@@ -11605,13 +11599,13 @@ bauen,to build
 bauen,to put up
 bauen auf,to bank on
 bauend,constructing
+bauer (schach) ; m,pawn
 bauer ; m,boor
 bauer ; m,farmer
 bauer ; m,grower
 bauer ; m,hans
 bauer ; m,pawn
 bauer ; m,peasant
-bauer (schach) ; m,pawn
 bauern,countrymen
 bauern,peasants
 bauernbursche ; m,swain
@@ -13674,9 +13668,9 @@ belangloseste,most irrelevant
 belanglosigkeit ; f,immaterialness
 belanglosigkeit ; f,irrelevance
 belanglosigkeiten,irrelevances
-belastbarkeit ; f,ability to cope with pressure (strain)
 belastbarkeit (elektrotechnik) ; f,power rating
 belastbarkeit (technik) ; f,loading capacity
+belastbarkeit ; f,ability to cope with pressure (strain)
 belaste,burden
 belasten,burden
 belasten,debit
@@ -14228,9 +14222,9 @@ benutzung ; f,use
 benutzungen,uses
 benzin ; n,benzine
 benzin ; n,gas
+benzin ; n,gas
 benzin ; n,gasoline
 benzin ; n,petrol
-benzin ; n,gas
 benzinhunne ; f,teenicider
 benzinkanister ; m,jerrycan
 benzinkanister ; m,petrol can
@@ -14576,9 +14570,9 @@ bergsteigerin ; f,climber
 bergsteigerin ; f,mountaineer
 bergstrasse,mountain road
 bergtour ; f,mountain tour
-bergung ; f,rescue
 bergung (auf see) ; f,salvage
 bergung (von fahrzeugen ; f,recovery
+bergung ; f,rescue
 bergungen,rescues
 bergungsarbeiten,rescue work
 bergungsdienst ; m,recovery service
@@ -14908,9 +14902,9 @@ beschenken,to present
 bescherend,bringing a
 beschert,brings a
 bescherte,brought a
+bescherung (weihnachten) ; f,distribution of (christmas) presents
 bescherung ; f,a nice mess
 bescherung ; f,state of affairs
-bescherung (weihnachten) ; f,distribution of (christmas) presents
 beschichten,to face
 beschichten,to laminate
 beschichtung ; f,coating
@@ -15119,6 +15113,7 @@ beschränken,to stint
 beschränken (auf),to limit (to)
 beschränkend,straitening
 beschränkt,bounded
+beschränkt,bounded
 beschränkt,bounded above / below
 beschränkt,constrictive
 beschränkt,limited
@@ -15126,7 +15121,6 @@ beschränkt,parochial
 beschränkt,parochially
 beschränkt,stinted
 beschränkt,straitens
-beschränkt,bounded
 beschränkte,straitened
 beschränktere,more limited
 beschränkteste,most limited
@@ -16109,12 +16103,12 @@ betrachtungsweise ; f,view (of)
 betrachtungswinkel ; m,viewing angle
 betraf,concerned
 betraf,pertained
+betrag ; m,absolute value
 betrag ; m,amount
 betrag ; m,amount dude
+betrag ; m,modulus
 betrag ; m,quantum
 betrag ; m,sum
-betrag ; m,absolute value
-betrag ; m,modulus
 betrag erhalten,payment received
 betragen,amount to
 betragen,to account for
@@ -16165,10 +16159,10 @@ betreten des rasens verboten!,keep off the grass!
 betretene,embarrassed
 betreuen,to look after
 betreuend,looking after
-betreuer ; m,person in charge
-betreuer ; m,someone who looks after someone
 betreuer (im sport) ; m,doctor
 betreuer (im sport) ; m,physio
+betreuer ; m,person in charge
+betreuer ; m,someone who looks after someone
 betreut,looks after
 betreute,looked after
 betreuung von kunden ; f,support service
@@ -16744,12 +16738,12 @@ bewegtbild...,full-video
 bewegte,budged
 bewegte,moved
 bewegtheit ; f,choppiness
+bewegung (sport) ; f,exercise
 bewegung ; m,exercise
 bewegung ; m,motion
 bewegung ; m,move
 bewegung ; m,movement
 bewegung ; m,stir
-bewegung (sport) ; f,exercise
 bewegungen,locomotions
 bewegungen,motions
 bewegungen,movements
@@ -17058,11 +17052,11 @@ beziehen,refers
 beziehend,correlating
 beziehend,sheeting
 bezieht,correlates
+beziehung (zu) ; f,concern (with)
 beziehung ; f,relation
 beziehung ; f,relational
 beziehung ; f,relationship
 beziehung ; f,respect
-beziehung (zu) ; f,concern (with)
 beziehungen,dealings
 beziehungen,relations
 beziehungen,relationships
@@ -17160,8 +17154,8 @@ biegend,inflecting
 biegend,winding
 biegespannung ; f,bending stress
 biegespannung ; f,flexural stress
-biegeversuch ; m,flexural test
 biegeversuch (festigkeitsprüfung),bending test
+biegeversuch ; m,flexural test
 biegewelle ; f,flexible shaft
 biegsam,ductile
 biegsam,flexible
@@ -17264,9 +17258,9 @@ bilanzverlust ; m,accumulated loss
 bilaterale,bilaterally
 bild ; n,figure
 bild ; n,image
+bild ; n,image
 bild ; n,picture
 bild ; n,tableau
-bild ; n,image
 bildabtastgerät,video scanner
 bildausgabe ; f,video display
 bildbereich ; m,range
@@ -17380,14 +17374,14 @@ bildtelegramm ; n,phototelegram
 bildtelegramm ; n,teleautogram
 bildtelephon ; n,visual telephone
 bildumlauf ; m,wraparound
-bildung ; f,education
-bildung ; f,literacy
 bildung (das bilden) ; f,formation
 bildung (das bilden) ; f,forming
 bildung (entwicklung) ; f,development
 bildung (gründung),establishment
 bildung (gründung),setting-up
 bildung (schaffung) ; f,creation
+bildung ; f,education
+bildung ; f,literacy
 bildungen,formations
 bildungs...,educational
 bildungsanstalt ; f,educational establishment
@@ -17613,8 +17607,8 @@ bis zum wahnsinn lieben,to love to distraction
 bis zur grenze der belastbarkeit,to breaking point
 bis),to wait (for
 bis),until)
-bisam ; m,musk
 bisam (pelz) ; m,musquash
+bisam ; m,musk
 bisamratte ; f,muskrat
 bisamratten,musquashes
 bischof ; m,bishop
@@ -17762,12 +17756,12 @@ blanke,shining
 blankglühen,bright annealing
 blankovollmacht ; f,full discretionary power
 blankstahl ; m,bright steel
-blase ; f,blister
-blase ; f,bubble
 blase (anatomisch) ; f,bladder
 blase (haut-) ; f,blister
 blase (luft-) ; f,bubble
 blase (sprech-) ; f,balloon
+blase ; f,blister
+blase ; f,bubble
 blasebalg ; m,bellows
 blasen,bladders
 blasen,blisters
@@ -17905,8 +17899,8 @@ bleiglanz ; m,galena
 bleisatz ; m,hot type
 bleistift ; m,pencil
 bleistiftspitzer ; m,pencil sharpener
-blende ; f,aperture
 blende (foto) ; f,diaphragm
+blende ; f,aperture
 blender,dazzler
 blender,dazzlers
 blendfreiheit ; f,nonglaring
@@ -17974,8 +17968,8 @@ blitzschlag ; m,stroke of lightning
 blitzschläge,strokes of lightning
 blitzwürfel,flashcube
 blitzwürfel,flashcubes
-block ; m,block
 block (platte ; m,physical record
+block ; m,block
 blockade ; f,blockade
 blockaden,blockades
 blockdiagramm ; n,block diagram
@@ -18429,8 +18423,8 @@ braue ; f,brow
 brauen,brows
 braunkohle ; f,lignite
 braunsche röhre,oscilloscope
-brausen ; n,boom
 brausen (wellen),to boom
+brausen ; n,boom
 brausepulver ; n,effervescent powder
 brausetablette ; f,fizzy tablet
 braut ; f,bride
@@ -18502,10 +18496,10 @@ breitschrift ; f,wide font
 breitseite ; f,broadside
 breitseiten,broadsides
 bremsbelag ; m,brake lining
+bremse (fliege) ; f,horsefly
 bremse ; f,brake
 bremse ; f,gadfly
 bremse ; f,retardant
-bremse (fliege) ; f,horsefly
 bremsen,brakes
 bremsen,retardants
 bremsen,to retard
@@ -18533,10 +18527,10 @@ brennen,burned
 brennen,burned}
 brennen,burnt
 brennen,to burn
-brennen ; n,cauterization
-brennen ; n,sting
 brennen (auf),stung}
 brennen (auf),to sting
+brennen ; n,cauterization
+brennen ; n,sting
 brennen wie zunder,burn like tinder
 brennender schmerz,sting
 brenner,burner
@@ -18708,13 +18702,13 @@ brotschnitten,slices of bread
 bruch ; m,breaking
 bruch ; m,burst
 bruch ; m,fraction
+bruch ; m,fraction
 bruch ; m,fracture
 bruch ; m,rupture
-bruch ; m,fraction
 bruchband ; n,hernial
 bruchbude ; f,ramshackle hut
-bruchfestigkeit ; f,breaking strenght
 bruchfestigkeit (bruchmodul) ; f,modulus of rupture
+bruchfestigkeit ; f,breaking strenght
 bruchlandung ; f,crash landing
 bruchlandungen,crash landings
 bruchrechnung ; f,fraction
@@ -18989,16 +18983,16 @@ buden,shanties
 buden,stalls
 budget ; n,budget
 buffet ; m,buffet
-bug ; m,prow
 bug (flugzeug) ; m,nose
 bug (schiff) ; m,bow
+bug ; m,prow
 bulgarien,bulgaria (bg)
 bulldogge ; f,bulldog
 bulldoggen,bulldogs
-bulle ; m,flatfoot
 bulle (slang) ; m,bobby
 bulle (slang) ; m,cop
 bulle (slang) ; m,screw
+bulle ; m,flatfoot
 bullen,flatfoots
 bulletins,bulletins
 bumerang ; m,boomerang
@@ -19826,10 +19820,10 @@ damals,at that time
 damals,at the time when
 damast ; m,damask
 dame,lady
+dame (schach) ; f,queen
 dame ; f,dame
 dame ; f,lady
 dame ; f,madam
-dame (schach) ; f,queen
 damebrett ; n,checkerboard
 damen,dames
 damen,ladies
@@ -21415,12 +21409,12 @@ diagnostizierte,diagnosed
 diagnostizierte,made a diagnosis
 diagnostizierten,diagnosed
 diagonal,diagonal
+diagonal,diagonal
 diagonal,diagonally
 diagonal,transverse
-diagonal,diagonal
+diagonale ; f,diagonal
 diagonale ; f,diagonal
 diagonale ; f,diagonals
-diagonale ; f,diagonal
 diagonalen,diagonals
 diagonalisierbar,diagonalizable
 diagonalmatrix ; f,diagonal matrix
@@ -21481,6 +21475,7 @@ dichotomisches suchen,binary search
 dicht,closely
 dicht,consistent
 dicht,dense
+dicht,dense
 dicht,densly
 dicht,serried
 dicht,thick
@@ -21488,7 +21483,6 @@ dicht,thickset
 dicht,tight
 dicht (an),by)
 dicht (an),close (to
-dicht,dense
 dicht machen,to proof
 dicht verwachsen,tangly
 dichte,densely
@@ -22092,10 +22086,10 @@ direktwert ; m,actual value
 direktzugriff ; m,direct access
 direktzugriff ; m,direct-access
 direktzugriff ; m,random access
+direktzugriffsspeicher (ram) ; m,random access memory
 direktzugriffsspeicher ; m,addressable storage
 direktzugriffsspeicher ; m,addressed memory
 direktzugriffsspeicher ; m,direct access storage
-direktzugriffsspeicher (ram) ; m,random access memory
 direktübertragung,live broadcast
 dirigent ; m,conductor
 dirigieren,conduct
@@ -22379,8 +22373,8 @@ doppelaussagen,tautologies
 doppelbenennungen,binomials
 doppelbett ; n,double bed
 doppelbetten,double beds
-doppelboden ; m,raised floor
 doppelboden (für kabelverlegung),false flor
+doppelboden ; m,raised floor
 doppelbuchstabe ; m,ligature
 doppeldecker ; m,double decker
 doppeldeutig,ambiguously
@@ -22721,9 +22715,9 @@ drehte herum,slued
 drehten,turned
 drehtür,revolving door
 drehung ; f,gyration
+drehung ; f,rotation
 drehung ; f,turn
 drehung ; f,twist
-drehung ; f,rotation
 drehungen,turns
 drehwinkel ; m,rotation angle
 drehzahl ; f,speed
@@ -22947,10 +22941,10 @@ druck ; n,pressure
 druck ; n,print
 druck ; n,printing
 druck ; n,thrust
-druck von kollegen ; m,peer pressure
 druck auf,pressing
 druck ausüben,to press
 druck ausüben auf,to put pressure on
+druck von kollegen ; m,peer pressure
 druckausgaben,printouts
 druckbar,printable
 druckbare,printables
@@ -23325,8 +23319,8 @@ dunstigste,steamiest
 dunstschleier ; m,haze
 duo ; n,duo
 duodenal,duodenal
-duodezimal ; n,duodecimal
 duodezimal (auf 12 basierend),duodecimal
+duodezimal ; n,duodecimal
 duplex,duplex
 duplex,either-way
 duplikat,duplication
@@ -23399,8 +23393,8 @@ durchbrechen,to breach
 durchbrechen,to break through
 durchbrechend,breaking through
 durchbrennen,to burn-out
-durchbrennen (sicherung) ; n,blasting
 durchbrennen (glühlampe),to burn through
+durchbrennen (sicherung) ; n,blasting
 durchbrennend,burning through
 durchbringend,getting through
 durchbrochen,open work
@@ -23705,8 +23699,8 @@ durchschneidend,intersecting
 durchschneidet,intersects
 durchschnitt,intersected
 durchschnitt,sectioned
-durchschnitt ; m,average
 durchschnitt (von mengen) ; m,intersection (of sets)
+durchschnitt ; m,average
 durchschnitt ermitteln,to average out
 durchschnitte,averages
 durchschnittich,medium
@@ -24132,8 +24126,8 @@ ebene ; f,layer
 ebene ; f,level
 ebene ; f,lowlands
 ebene ; f,plain
-ebene ; f,rank
 ebene ; f,plane
+ebene ; f,rank
 ebenen,plains
 ebenfalls,ditto
 ebenfalls,likewise
@@ -24964,9 +24958,9 @@ einbalsamieren,to embalm
 einbalsamierend,embalming
 einbalsamierung ; f,embalmment
 einbalsamierungen,embalmments
+einbau (eingebautes teil) ; m,fitting
 einbau ; m,fitting
 einbau ; m,installation
-einbau (eingebautes teil) ; m,fitting
 einbauen,to build in
 einbauen,to mount
 einbauend,building in
@@ -25381,11 +25375,11 @@ einfahrend,driving into
 einfahrt ; f,gateway
 einfahrten,entrances
 einfahrten,gateways
+einfall (in) ; m,invasion (of)
 einfall ; m,incidence
 einfall ; m,incursion
 einfall ; m,invasion
 einfall ; m,vagary
-einfall (in) ; m,invasion (of)
 einfallen,to dip
 einfallen,to occur
 einfallend,occurring
@@ -25430,9 +25424,9 @@ einfassung ; f,fringe
 einfassungen,bindings
 einfassungen,welts
 einfassungszaun ; m,perimeter fence
+einfluss (auf) ; m,influence (on)
 einfluss ; m,ascendancy
 einfluss ; m,force
-einfluss (auf) ; m,influence (on)
 einfluss ausüben,to exert influence
 einflussgrösse,magnitude of influence
 einflussreich,influential
@@ -25983,9 +25977,9 @@ einleitend,preluding
 einleitende,incipiently
 einleitung ; f,initiation
 einleitung ; f,introduction
+einleitung ; f,leading-in
 einleitung ; f,preamble
 einleitung ; f,proem
-einleitung ; f,leading-in
 einleitungen,introductions
 einleitungen,preambles
 einleitungen,proems
@@ -26159,14 +26153,14 @@ einsatz ; m,jackpot
 einsatz ; m,stake
 einsatzbereit,ready for action
 einsatzbereit,standby
+einsatzbereitschaft (technik) ; f,readiness for use
 einsatzbereitschaft ; f,devotedness
 einsatzbereitschaft ; f,readiness for duty
 einsatzbereitschaft ; f,willingness
-einsatzbereitschaft (technik) ; f,readiness for use
 einsatzfähigere,more usable
 einsatzfähigste,most usable
-einsatzgebiet ; n,field
 einsatzgebiet (militär),operational area
+einsatzgebiet ; n,field
 einsatzhärten,case-harden
 einsatzkräfte,action force
 einsatzmöglichkeit,field of application
@@ -26227,6 +26221,7 @@ einschliessen,to embed
 einschliessen,to encase
 einschliessen,to enclose
 einschliessen,to entitle
+einschliessen,to hem
 einschliessen,to imbed
 einschliessen,to immure
 einschliessen,to imply
@@ -26235,7 +26230,6 @@ einschliessen,to inclose
 einschliessen,to include
 einschliessen,to involve
 einschliessen,to surround
-einschliessen,to hem
 einschliessend,comprising
 einschliessend,encasing
 einschliessend,enclosing
@@ -26303,9 +26297,9 @@ einschränkende,restrictively
 einschränkung,austerity
 einschränkung,limitation
 einschränkung,restriction
+einschränkung,restriction
 einschränkung,restrictiveness
 einschränkung,retrenchment
-einschränkung,restriction
 einschränkungen,austerities
 einschränkungen,restrictions
 einschränkungen,restrictivenesses
@@ -26455,6 +26449,7 @@ einstellig,monadic
 einstellig,one-digit
 einstellmotor ; m,positioning motor
 einstellschraube ; f,regulating screw
+einstellung (eines arbeitssuchenden) ; f,placement
 einstellung ; f,adjustment
 einstellung ; f,alignment
 einstellung ; f,attitude
@@ -26463,7 +26458,6 @@ einstellung ; f,justification
 einstellung ; f,modulation
 einstellung ; f,recruitment
 einstellung ; f,setting
-einstellung (eines arbeitssuchenden) ; f,placement
 einstellungen,engagements
 einstellungen,settings
 einstellungsquote ; f,accession rate
@@ -26532,8 +26526,8 @@ eintracht ; f,harmony
 eintracht ; f,unity
 eintrag ; m,enter
 eintrag ; m,entry
-eintrag ; m,inscription
 eintrag ; m,entry
+eintrag ; m,inscription
 eintragen,to enroll
 eintragen,to fill out
 eintragen,to register
@@ -26931,10 +26925,10 @@ eiweisshaltigere,more albuminous
 eiweisshaltigste,most albuminous
 ejakulation ; f,ejaculation
 ejakulationen,ejaculations
-ekel ; m,aversion
-ekel ; m,loathing
 ekel (vor) ; m,disgust (at)
 ekel (vor) ; m,revulsion (at)
+ekel ; m,aversion
+ekel ; m,loathing
 ekel empfinden,to disgust
 ekelerregend,nauseous
 ekelerregende,nauseously
@@ -27128,8 +27122,8 @@ elektrostatisch,static
 elektrostatische,electrostatically
 elektrotechnik ; f,electrical engineering
 element ; n,element
-element ; n,item
 element ; n,element
+element ; n,item
 elementar,elemental
 elementar,elementary
 elementar,rudimental
@@ -27492,10 +27486,10 @@ endlage ; f,stop position
 endlich,at last
 endlich,at length
 endlich,finally
+endlich,finite
 endlich,finitely
 endlich,ultimately
 endlich,unlasting
-endlich,finite
 endlich erzeugt,finitely generated
 endlich-dimensional,finite-dimensional
 endliche,finite
@@ -28576,9 +28570,9 @@ entsiegelnd,unsealing
 entsiegelt,unseals
 entsiegelte,unsealed
 entsinne,remember
+entsorgung (einer stadt) ; f,cleaning up
 entsorgung ; f,dumping
 entsorgung ; f,waste disposal
-entsorgung (einer stadt) ; f,cleaning up
 entsorgungsplatz ; m,burial ground
 entsorgungsplatz ; m,dump
 entsorgungstechnik ; f,disposal technology
@@ -28687,10 +28681,10 @@ entstehend,originating
 entsteht,accrues
 entsteht,comes into being
 entsteht,originates
+entstehung (anspruch) ; f,accrual
 entstehung ; f,accruement
 entstehung ; f,development
 entstehung ; f,nascency
-entstehung (anspruch) ; f,accrual
 entstehungen,accruements
 entstehungen,nascencies
 entstehungen,origins
@@ -28815,8 +28809,8 @@ entwickler ; m,developers
 entwicklung ; f,development
 entwicklung ; f,evaluation
 entwicklung ; f,evolution
-entwicklung ; f,growth
 entwicklung ; f,expansion
+entwicklung ; f,growth
 entwicklungen,developments
 entwicklungen,evolutions
 entwicklungs...,developmentally
@@ -30766,8 +30760,8 @@ ernsthaftigkeit ; f,wholeheartedness
 ernte ; f,crop
 ernte ; f,harvest
 erntearbeiter ; m,harvester
-erntedankfest ; n,harvest festival
 erntedankfest (4. donnerstag im november),thanksgiving (day)
+erntedankfest ; n,harvest festival
 erntejahr ; n,crop year
 erntejahre,crop years
 erntemann ; m,harvestman
@@ -31061,10 +31055,10 @@ erschleiche,obtain by fraud
 erschleichend,obtaining by fraud
 erschleicht,obtains by fraud
 erschlich,obtained by fraud
-erschliessen (bauland,to develop
-erschliessen (markt,to open (up)
 erschliessen,to exploit
 erschliessen,to tap
+erschliessen (bauland,to develop
+erschliessen (markt,to open (up)
 erschliessung,development
 erschliessung,opening (up)
 erschlägt,slays
@@ -32602,8 +32596,8 @@ fahrweg ; m,driveway
 fahrweg ; m,road way
 fahrwege,driveways
 fahrweise ; f,way of driving
-fahrwerk ; n,chassis
 fahrwerk (flugzeug) ; n,undercarriage
+fahrwerk ; n,chassis
 fahrwerke,undercarriages
 fahrzeit ; f,length of the trip
 fahrzeug ; n,craft
@@ -32641,8 +32635,8 @@ faktum ; n,fact
 fakturierautomat ; m,automatic billing machine
 fakturiermaschine ; f,accounting machine
 fakturiermaschine ; f,invoice machine
-fakultät,faculty
 fakultät,factorial
+fakultät,faculty
 fakultäten,faculties
 falke ; f,falcon
 falke ; f,hawk
@@ -32672,9 +32666,9 @@ fallen,traps
 fallen,tumble
 fallen (lassen),to drop
 fallend,cascading
+fallend,decreasing
 fallend,falling
 fallend,tumbling
-fallend,decreasing
 fallenlassend,dropping
 fallensteller,trapper
 fallensteller,trappers
@@ -32881,10 +32875,10 @@ fand ab,bested
 fanfare ; f,fanfare
 fanfare ; f,flourish of trumpets
 fanfare ; f,multitone horn
+fang (vogelkralle) ; m,claw
 fang ; m,catch
 fang ; m,fang
 fang ; m,haul
-fang (vogelkralle) ; m,claw
 fangarm ; m,tentacle
 fangen,catch
 fangen,caught}
@@ -33061,11 +33055,11 @@ fasste ins auge,envisaged
 fasste sich,recollected
 fasste zusammen,recapitulated
 fasste zusammen,summarized
+fassung (brille) ; f,frame
+fassung (lampe) ; f,socket
 fassung ; f,collectedness
 fassung ; f,mounting
 fassung ; f,socket
-fassung (brille) ; f,frame
-fassung (lampe) ; f,socket
 fassungsgabe ; f,grasp
 fassungskraft ; f,mental capacity
 fassungslos,bewildered
@@ -33255,9 +33249,9 @@ fehldiagnose ; f,wrong diagnosis
 fehleinschätzung,misjudgement
 fehlen,to be absent
 fehlen,to lack
+fehlen (von) ; n,lack (of)
 fehlen ; n,absence
 fehlen ; n,absence [of]
-fehlen (von) ; n,lack (of)
 fehlend,absent
 fehlend,amiss
 fehlend,being absent
@@ -33270,14 +33264,14 @@ fehlend,wanting
 fehlentscheidung ; f,mistake
 fehlentscheidung ; f,wrong decision
 fehlentwicklung ; f,undesirable development
+fehler (mangel) ; m,defect
+fehler (mangel) ; m,fault
+fehler (mangel) ; m,flaw
 fehler ; m,error
 fehler ; m,fault
 fehler ; m,mistake
 fehler ; m,nonconformance
 fehler ; m,slip
-fehler (mangel) ; m,defect
-fehler (mangel) ; m,fault
-fehler (mangel) ; m,flaw
 fehleranfällig,fault-prone
 fehlerbedingtes abbrechen ; n,abortion
 fehlerbehebend,corrective
@@ -33340,9 +33334,9 @@ fehlerreport ; m,error report
 fehlerreportmaske ; f,error report mask
 fehlerschutzgerät,error correction device
 fehlerseite ; f,error page
+fehlerstelle (im kristallgitter) ; f,imperfection
 fehlerstelle ; f,flaw
 fehlerstelle ; f,void
-fehlerstelle (im kristallgitter) ; f,imperfection
 fehlersuche ; f,debugging
 fehlersuche ; f,error search
 fehlersuche ; f,trouble-shooting
@@ -33594,11 +33588,11 @@ felge ; f,rim
 felgelhafte,churlishly
 felgen,rims
 felgenband ; n,rim tape
+fell (gegerbt) ; n,fur
+fell (ungegerbt) ; n,pelt
 fell ; n,coat
 fell ; n,fur
 fell ; n,skin
-fell (gegerbt) ; n,fur
-fell (ungegerbt) ; n,pelt
 fell abziehen,to skin
 felle,pelts
 felle,skins
@@ -33767,9 +33761,9 @@ fernsehkassette ; f,video tape
 fernsehkassetten,video tapes
 fernsehkomödie,sitcom
 fernsehkomödien,sitcoms
+fernsehprogramm (zeitung) ; n,tv guide
 fernsehprogramm ; n,televison programme
 fernsehprogramm ; n,tv program
-fernsehprogramm (zeitung) ; n,tv guide
 fernsehsender ; m,telestation
 fernsehsendung ; f,telecast
 fernsehsendungen,telecasts
@@ -34086,9 +34080,9 @@ fett,bold
 fett,fat
 fett,porkily
 fett,porky
+fett (gemisch),rich
 fett ; n,fat
 fett ; n,grease
-fett (gemisch),rich
 fett [boden],rich
 fett ansetzen,to run to fat
 fett machen,to fatten
@@ -34695,8 +34689,8 @@ fixiermittel,fixative
 fixiermittel,fixatives
 fixiert,fixed
 fixiert,fixes
-fixierung ; f,fixation
 fixierung (des druckbildes beim laserdrucker) ; f,fusing
+fixierung ; f,fixation
 fixierungen,fixations
 fixirstation (beim laserdrucker) ; f,fuser station
 fixpunkt ; m,checkpoint
@@ -34909,11 +34903,11 @@ flegelhaft,loutish
 flegelhafte,boorishly
 flegeljahre,teens
 flehen,to crave
-flehen ; n,entreaties
-flehen ; n,entreaty
 flehen (um),implore
 flehen (um),to beg for
 flehen (um),to plead for
+flehen ; n,entreaties
+flehen ; n,entreaty
 flehend,appealing
 flehend,beseechingly
 flehend,craving
@@ -35245,9 +35239,9 @@ fluch ; m,malediction
 fluch ; m,oath
 fluchen,to anathematize
 fluchen,to curse
-fluchen ; n,swearing
 fluchen (über),sworn} (at)
 fluchen (über),to swear
+fluchen ; n,swearing
 fluchend,anathematizing
 flucher ; m,curser
 flucht,anathematizes
@@ -35416,11 +35410,11 @@ flutwellen,eagres
 flutwellen,tidal waves
 fläche,acreage
 fläche,area
+fläche,area
 fläche,expanse
 fläche,face
 fläche,flat
 fläche,surface
-fläche,area
 flächen,areas
 flächen,flats
 flächendiagramm,area diagramm
@@ -35575,11 +35569,11 @@ fokussierte,focused
 folge ; f,consequence
 folge ; f,sequel
 folge ; f,sequence
+folge ; f,sequence
 folge ; f,sequitur
 folge ; f,series
 folge ; f,succession
 folge ; f,suite
-folge ; f,sequence
 folgeerscheinung ; f,aftereffect
 folgekontrolle ; f,sequence check
 folgen,results
@@ -35632,11 +35626,11 @@ folgerte,concluded
 folgerte,deduced
 folgerte,inferred
 folgerung ; f,conclusion
+folgerung ; f,conclusion
 folgerung ; f,deduction
 folgerung ; f,implication
 folgerung ; f,inference
 folgerung ; f,ratiocination
-folgerung ; f,conclusion
 folgerungen,inferences
 folgesatz ; m,consecutive clause
 folgesatz ; m,corollary
@@ -36582,6 +36576,7 @@ fresssucht ; f,boulimia
 fresssucht ; f,bulimia
 frettchen ; n,ferret
 freu dich nicht zu früh!,don't halloo till you're out of the wood!
+freude (über),joy (at)
 freude ; f,blitheness
 freude ; f,enjoyment
 freude ; f,fun
@@ -36591,7 +36586,6 @@ freude ; f,gratification
 freude ; f,joice
 freude ; f,joyousness
 freude ; f,pleasure
-freude (über),joy (at)
 freuden,blithenesses
 freuden,enjoyments
 freuden,gratifications
@@ -37115,12 +37109,12 @@ fundiert,funded
 fundierte branchenkenntnisse,profound knowledge of the trade
 fundort ; m,habitat
 fundsachen,lost property
-fundus ; m,equipment
-fundus ; m,fund
 fundus (theater) ; m,costumes
 fundus (theater) ; m,properties
 fundus (theater) ; m,props
 fundus (theater) ; m,requisites
+fundus ; m,equipment
+fundus ; m,fund
 funk-fernschreiber ; m,radio teleprinter
 funk-fernschreiber ; m,radio teletypewriter
 funkanlage ; f,radio installation
@@ -37183,10 +37177,10 @@ funktelegramm ; n,radiotelegram
 funktelegramme,radiotelegrams
 funktion ; f,derivative
 funktion ; f,function
+funktion ; f,function
 funktion ; f,funktion
 funktion ; f,role
 funktion ; f,waveform
-funktion ; f,function
 funktionalität,functionality
 funktionalmatrix ; f,derivative matrix
 funktionell,functionally
@@ -37384,11 +37378,11 @@ fusswurzel,tarsal
 fusszeile,footer
 fusszeilen,footers
 futsch ist das geld,bang goes the money
+futter (bekleidung) ; n,lining
 futter ; n,chow
 futter ; n,chows
 futter ; n,fodder
 futter ; n,provender
-futter (bekleidung) ; n,lining
 futteral ; n,sheath
 futterale,sheaths
 futterkasten ; m,food cupboard
@@ -37907,10 +37901,10 @@ gab zum pfand,gaged
 gab zurück,returned
 gabe ; f,dispensation
 gabe ; f,gift
+gabel (besteck ; f,fork
 gabel ; f,gable
 gabel ; f,pitchfork
 gabel ; f,yoke
-gabel (besteck ; f,fork
 gabelblatt ; n,fork blade
 gabelfrühstück,brunch
 gabelfrühstück,lunch
@@ -38038,6 +38032,8 @@ gammelei ; f,loafing around
 gammler ; m,bum
 gammler ; m,layabout
 gammler ; m,loafer
+gang (anatomisch) ; m,duct
+gang (beim essen) ; m,course
 gang ; m,action
 gang ; m,corridor
 gang ; m,errand
@@ -38054,8 +38050,6 @@ gang ; m,walk
 gang ; m,walkway
 gang ; m,way
 gang ; m,working
-gang (anatomisch) ; m,duct
-gang (beim essen) ; m,course
 gang zwischen sitzbänken,aisle
 gangart (eines pferdes) ; f,gait
 ganglos,ductless
@@ -38387,9 +38381,9 @@ gebetsmühle,prayer mill
 gebettet,bedded
 gebiet ; n,department
 gebiet ; n,field
+gebiet ; n,region
 gebiet ; n,territory
 gebiet ; n,tract
-gebiet ; n,region
 gebiet),to develop
 gebiete,territories
 gebiete,tracts
@@ -38952,9 +38946,9 @@ gefragt,asked
 gefragt,inquired
 gefragt,questioned
 gefranst,fringed
+gefreite (soldat),private
 gefreite (soldat) ; m,lance corporal
 gefreite (soldat) ; m,private first class
-gefreite (soldat),private
 gefressen,eaten
 gefressen,guzzled
 gefressen,munched
@@ -40062,9 +40056,9 @@ gekürzt,shortened
 geküsst,kissed
 gelacht,laughed
 geladen,charged
+geladen,charged
 geladen,loaded
 geladen,reload
-geladen,charged
 gelage ; n,binge
 gelage ; n,carousal
 gelage ; n,wassail
@@ -40988,6 +40982,7 @@ gequält,tantalized
 gequälte,agonized
 gerade,direct
 gerade,even
+gerade,even
 gerade,just
 gerade,just as
 gerade,just now
@@ -40995,10 +40990,9 @@ gerade,right
 gerade,straight
 gerade,straightly
 gerade,unbowed
+gerade (zahl),even
 gerade ; f,even
 gerade ; f,straight line
-gerade (zahl),even
-gerade,even
 gerade erst,scarcely
 gerade geworden,straightened
 gerade machen,straighten
@@ -41144,8 +41138,8 @@ gerichtssaal ; m,court room
 gerichtssaal ; m,courtroom
 gerichtsstand ; m,venue
 gerichtsverfahren ; n,court procedure
-gerichtsverhandlung ; f,hearing
 gerichtsverhandlung (strafverhandlung) ; f,trials
+gerichtsverhandlung ; f,hearing
 gerichtsvollzieher,bailiff
 gerichtsvollzieher,bailiffs
 gerichtsvollzieher,marshal
@@ -43573,10 +43567,10 @@ glanzkohle ; f,anthracite
 glanzleistung ; f,masterly-achievement
 glanzlos,lackluster
 glanzvoll,glittering
+glas - zerbrechlich!,glass - fragile!
 glas ; n,glass
 glas ; n,glassware
 glas ; n,jar
-glas - zerbrechlich!,glass - fragile!
 glasauge ; n,glass eye
 glasauge ; n,walleye
 glasaugen,walleyes
@@ -43609,8 +43603,8 @@ glasscheibe ; f,glass plate
 glasscherbe ; f,piece of broken glass
 glasschrank ; m,glass cabinet
 glasseidenmatte ; f,glass mat
-glasur ; f,overglaze
 glasur (auf töpferwaren),enamel
+glasur ; f,overglaze
 glasuren,glazes
 glasvoll,glassful
 glaswolle ; f,fiberglass
@@ -43635,16 +43629,16 @@ glatthai ; m,tope
 glattstreichen,to smooth down
 glattstreichend,smoothing
 glatzköpfig,bald
-glaube ; m,credence
-glaube ; m,estimation
 glaube (an) ; m,belief (in)
 glaube (an) ; m,faith (in)
+glaube ; m,credence
+glaube ; m,estimation
 glauben,thought} (of)
 glauben,to belief
 glauben,to estimate
 glauben,to think
-glauben ; m,beliefs
 glauben (an),to believe (in)
+glauben ; m,beliefs
 glauben sie es bloss nicht.,don't run away with the idea.
 glaubend,believing
 glaubensbekenntnis ; n,creed
@@ -43675,6 +43669,7 @@ glaubwürdigste,most credible
 glaukom ; n,glaucoma
 gleich,alike
 gleich,equal
+gleich,equal
 gleich,equally
 gleich,in a moment
 gleich,like
@@ -43682,7 +43677,6 @@ gleich,pair
 gleich,right
 gleich,same
 gleich,similar
-gleich,equal
 gleich gross,commensurate
 gleich grosse,commensurately
 gleich von anfang an,right from start
@@ -44311,9 +44305,9 @@ grabsteine,tombstones
 grabte,spaded
 grad ; m,deg
 grad ; m,degree
+grad ; m,degree
 grad ; m,degrees
 grad ; m,grade
-grad ; m,degree
 grad ; m,order
 grad celsius,degree centigrade
 gradation ; f,gradation
@@ -44547,11 +44541,11 @@ grenzbewohner,borderer
 grenzbewohner,frontiersman
 grenzbewohner,frontiersmen
 grenzbewohner,inhabitant of the border area
+grenze (eines landes) ; f,frontier
 grenze ; f,border
 grenze ; f,boundary
 grenze ; f,limit
 grenze ; f,peripherie
-grenze (eines landes) ; f,frontier
 grenzen,borders
 grenzen,boundaries
 grenzen,frontiers
@@ -44611,10 +44605,10 @@ grenzt an,adjoins
 grenzte,verged
 grenzverkehr ; m,border traffic
 grenzwert ; m,limit
+grenzwert ; m,limit
 grenzwert ; m,limiting value
 grenzwert ; m,one-sided
 grenzwert ; m,threshold value
-grenzwert ; m,limit
 grenzzwischenfall ; m,border incident
 grenzübergang,border crossing (point)
 grenzübergang,checkpoint
@@ -45103,10 +45097,10 @@ gruppe ; f,bracket
 gruppe ; f,element group
 gruppe ; f,gang
 gruppe ; f,group
+gruppe ; f,group
 gruppe ; f,lot
 gruppe ; f,squad
 gruppe ; f,tern
-gruppe ; f,group
 gruppen,bands
 gruppen,groups
 gruppen,squads
@@ -45207,10 +45201,10 @@ grösse,grossness
 grösse,item
 grösse,largeness
 grösse,magnitude
+grösse,quantity
 grösse,sizableness
 grösse,size
 grösse,variable
-grösse,quantity
 grössen,bignesses
 grössen,bulks
 grössen,magnitudes
@@ -45818,12 +45812,12 @@ hager,gaunt
 hager,lean
 hagerer,leaner
 hagerste,leanest
+hahn (vom fass) ; m,tap
+hahn (wasser- ; m,tap
 hahn ; m,chanticleer
 hahn ; m,cock
 hahn ; m,rooster
 hahn ; m,spigot
-hahn (wasser- ; m,tap
-hahn (vom fass) ; m,tap
 hahnenfuss,crowfoot
 hahnenkampf ; m,cockfight
 hahnenkämpfe,cockfights
@@ -46115,8 +46109,8 @@ hamsternd,foraging
 hamstert,forages
 hamsterte,foraged
 hand ; m,hand
-handapparat ; m,telephone receiver
 handapparat (telefon) ; m,hand set
+handapparat ; m,telephone receiver
 handarbeit ; f,handiwork
 handarbeit ; f,handwork
 handarbeit ; f,manual-labour
@@ -46274,11 +46268,11 @@ handkoffer ; m,portmanteau
 handkoffer ; m,suit case
 handkoffer ; m,suitcase
 handkurbel ; f,crank handle
+handlanger (politisch) ; m,henchman
 handlanger ; m,dogsbody
 handlanger ; m,handmaid
 handlanger ; m,handyman
 handlanger ; m,odd-job man
-handlanger (politisch) ; m,henchman
 handlanger sein,to fetch and carry
 handlesekunst ; f,palmistry
 handlich,handily
@@ -46357,12 +46351,12 @@ handzettel ; m,handbill
 handzettel ; m,handbills
 hanf ; m,hemp
 hanfen,to hempen
+hang (zu) ; m,liability (to)
 hang ; m,addiction
 hang ; m,addictiveness
 hang ; m,hillside
 hang ; m,penchant
 hang ; m,slope
-hang (zu) ; m,liability (to)
 hans dampf in allen gassen,jack-of-all-trades
 hanswurst ; m,tomfool
 hanswürste,tomfools
@@ -46420,10 +46414,10 @@ harmonierte,harmonized
 harmonika ; f,harmonica
 harmoniken,harmonicas
 harmonisch,harmonic
+harmonisch,harmonic(al)
 harmonisch,harmonicly
 harmonisch,harmonious
 harmonisch,harmoniously
-harmonisch,harmonic(al)
 harmonische,harmonical
 harmonische oberschwingung,overtone
 harmonische reihe ; f,harmonic series
@@ -46489,8 +46483,8 @@ hartherzigere,more hard hearted
 hartherzigkeit ; f,hard heartedness
 hartherzigkeit ; f,remorselessness
 hartherzigste,most hard hearted
-hartholz ; n,hardwood
 hartholz (fälschlich auch laubholz),hardwood
+hartholz ; n,hardwood
 hartlöten,hard soldering
 hartlötung,brazing
 hartmetall ; n,carbid metal
@@ -46688,8 +46682,8 @@ hauptrolle ; f,leading part
 hauptsache ; f,essential
 hauptsache ; f,main
 hauptsache ; f,main-thing
-hauptsatz ; m,main-clause
 hauptsatz ; m,fundamental theorem
+hauptsatz ; m,main-clause
 hauptschalter ; m,main switch
 hauptschlagader ; f,aorta
 hauptschlüssel,master key
@@ -48604,8 +48598,8 @@ hinreichend,adequate
 hinreichend,adequately
 hinreichend,enough
 hinreichend,sufficient
-hinreichend,sufficiently
 hinreichend,sufficient
+hinreichend,sufficiently
 hinreichende sorgfalt,adequate care
 hinreissen,to ravish
 hinreissend,enrapturing
@@ -49020,8 +49014,8 @@ hochsee ; f,open sea
 hochseefischerei ; f,deep sea fishing
 hochseil ; n,high wire
 hochsommer ; m,midsummer
-hochspannung ; f,high voltage
 hochspannung ; f,high tension
+hochspannung ; f,high voltage
 hochspannungsleitungen,power lines
 hochsprung ; m,high jump
 hochstapler,impostor
@@ -49056,8 +49050,8 @@ hochzeitskleid ; n,wedding dress
 hochzeitsnacht ; f,wedding night
 hochzeitsreise ; f,honeymoon (trip)
 hochzeitsreisende ; m;f,honeymooner
-hochzeitstag ; m,wedding day
 hochzeitstag (jahrestag) ; m,wedding anniversary
+hochzeitstag ; m,wedding day
 hochziehen,to hoist
 hochziehen ; n,hoist
 hochziehend,hoisting
@@ -49235,8 +49229,8 @@ holzwolle ; f,wood wool
 holzwurm ; m,wood worm
 holzwürmer,wood worms
 homogen,homogeneous
-homogen,homogenous
 homogen,homogeneous
+homogen,homogenous
 homogene,homogeneously
 homogenisieren,homogenize
 homogenisierend,homogenizing
@@ -52353,10 +52347,10 @@ jacken,jackets
 jacobimatrix ; f,jacobian matrix
 jade ; m;f,jade
 jagd,chevies
-jagd ; f,hunt(ing)
-jagd ; f,shoot(ing)
 jagd (nach) ; f,chase (after)
 jagd (nach) ; f,pursuit (of)
+jagd ; f,hunt(ing)
+jagd ; f,shoot(ing)
 jagdaufseher,gamekeeper
 jagdaufseher,gamekeepers
 jagdbeute ; f,bag
@@ -52904,9 +52898,9 @@ jungfernreben,virginias
 jungfernrede ; f,maiden speech
 jungfernreise ; f,maiden voyage
 jungfernschaft ; f,maidenhood
+jungfrau (sternzeichen) ; f,virgo
 jungfrau ; f,vestal
 jungfrau ; f,virgin
-jungfrau (sternzeichen) ; f,virgo
 jungfrauen,virgins
 jungfräulich,maiden
 jungfräulich,virginal
@@ -53002,8 +52996,8 @@ jährling,yearling
 jährlinge,yearlings
 jähzorn,irascibility
 jähzorn,irascibleness
-jähzorn (im),violent fit of temper
 jähzorn (im),(in a fit of) violent temper
+jähzorn (im),violent fit of temper
 jähzornig,irascible
 jämmerlich,despicable
 jämmerlich,miserably
@@ -53074,10 +53068,10 @@ kabeltrommel ; f,cable reel
 kabelverbindung (zweier enden) ; f,cable splicing
 kabelverlegung ; f,cable laying
 kabelverzweigung ; f,cable fanout
-kabine ; f,cabin
-kabine ; f,cubical
 kabine (eines aufzugs) ; f,cage
 kabine (umkleide- ; f,cubicle
+kabine ; f,cabin
+kabine ; f,cubical
 kabinen,cabins
 kabinett ; n,cabinet
 kabinett ; n,closet
@@ -53100,9 +53094,9 @@ kadaver,carcasses
 kadavergehorsam ; m,blind obedience
 kadenz ; f,cadence
 kadenz ; f,cadenza
+kader (sport) ; m,pool
 kader ; m,cadre
 kader ; m,cadres
-kader (sport) ; m,pool
 kadett ; m,cadet
 kadetten,cadets
 kadmium ; n,cadmium
@@ -53118,10 +53112,10 @@ kaffeeklatsch ; m,coffee klatsch
 kaffeeklatsch ; m,hen party
 kaffeelöffel,coffee spoon
 kaffeelöffel,coffee spoons
+kaffeemaschine (gross),coffee urn
 kaffeemaschine ; f,coffee maker
 kaffeemaschine ; f,coffee urn
 kaffeemaschine ; f,percolator
-kaffeemaschine (gross),coffee urn
 kaffeemühle,coffee grinder
 kaffeemühle,coffee mill
 kaffeemühle,whirlybird
@@ -53374,12 +53368,12 @@ kammuschel ; f,scallop
 kammuscheln,scallops
 kammwolle ; f,worsted wool
 kampagne ; f,campaign
+kampf (sport) ; m,match
 kampf ; m,battle
 kampf ; m,campaign
 kampf ; m,contest
 kampf ; m,fight
 kampf ; m,struggle
-kampf (sport) ; m,match
 kampfabschnitt ; m,combat sector
 kampfabstimmung ; f,crucial vote
 kampfabstimmungen,crucial votes
@@ -53448,8 +53442,8 @@ kampiert,camps
 kampierte,camped
 kanaaniter,canaanites
 kanada,canada (ca)
-kanadier ; m,canadian
 kanadier (boot) ; m,canadian (canoe)
+kanadier ; m,canadian
 kanadische,canadian
 kanal,channel
 kanal ; m,canal
@@ -53560,9 +53554,9 @@ kantone,cantons
 kantonesisch,cantonese
 kantor ; m,cantor
 kanufahrer ; m,canoeist
+kanzel (luftfahrt) ; f,turret
 kanzel ; f,cockpit
 kanzel ; f,pulpit
-kanzel (luftfahrt) ; f,turret
 kanzelpauker ; m,ranter
 kanzleiamt ; n,chancellorship
 kanzleigericht ; n,chancery
@@ -53788,9 +53782,9 @@ karminrot,carmine
 karneval ; m,carnival
 karnickel,bunnies
 karnickel,rabbits
+karo (kartenspiel) ; n,diamonds
 karo ; n,check
 karo ; n,square
-karo (kartenspiel) ; n,diamonds
 karomuster ; n,checked pattern
 karomuster ; n,chequers
 karosse ; f,state coach
@@ -53884,9 +53878,9 @@ kartographen,mappers
 kartographie ; f,cartography
 kartographisch,cartographic
 kartographische,cartographical
+karton (papier) ; m,cardboard
 karton ; m,cardboard box
 karton ; m,carton
-karton (papier) ; m,cardboard
 kartonieren,to bind in boards
 kartonierend,binding in boards
 kartoniert,binds in boards
@@ -54206,10 +54200,10 @@ kaufbrief ; m,bill of sale
 kaufbriefe,bills of sale
 kaufen,to cash
 kaufen,to purchase
-kaufen ; n,buying
-kaufen ; n,purchasing
 kaufen (von),bought} (from)
 kaufen (von),to buy
+kaufen ; n,buying
+kaufen ; n,purchasing
 kaufend,purchasing
 kaufend,vending
 kaufentschlussanalyse ; f,activation research
@@ -54291,9 +54285,9 @@ kaute,chewed
 kaute,chomped
 kaute,masticated
 kauten,masticates
+kaution ; f,deposit
 kaution [recht] ; f,bail
 kaution [wirtschaft] ; f,security
-kaution ; f,deposit
 kautionsfähig,bailable
 kautschuk ; m,caoutchouc
 kauz ; m,codger
@@ -54595,9 +54589,9 @@ kennsatztabellen-ausdruck ; m,label table listing
 kennsatztyp ; m,label type
 kennt,knows
 kenntlich,knowable
+kenntnis (anderer sprachen) ; f,familiarity (with other languages)
 kenntnis ; f,acknowledged
 kenntnis ; f,knowledge
-kenntnis (anderer sprachen) ; f,familiarity (with other languages)
 kenntnisreich,well informed
 kenntnisreicher,better informed
 kenntnisreichste,best informed
@@ -54683,6 +54677,7 @@ kerle,buggers
 kerle,guys
 kerle,twerps
 kerle,wretchs
+kern ; m,kernel
 kern ; n,core
 kern ; n,kernel
 kern ; n,nucleus
@@ -54690,7 +54685,6 @@ kern ; n,pip
 kern ; n,pith
 kern ; n,quintessence
 kern ; n,stone
-kern ; m,kernel
 kern der sache ; m,root of the matter
 kern...,nuclear
 kernal,kernal
@@ -55082,12 +55076,12 @@ kinobesucher ; m,moviegoer
 kinogänger,filmgoer
 kinonarr ; m,filmfan
 kinos,cinemas
-kippe ; f,butt
-kippe ; f,dump
-kippe ; f,tip
 kippe (zigaretten-) ; f,butt
 kippe (zigaretten-) ; f,end
 kippe (zigaretten-) ; f,stub
+kippe ; f,butt
+kippe ; f,dump
+kippe ; f,tip
 kippen,to cant
 kippen,to tip over
 kippen,to topple
@@ -55700,6 +55694,7 @@ kleinheit ; f,diminutiveness
 kleinheit ; f,minuteness
 kleinheit ; f,puniness
 kleinheit ; f,smallness
+kleinhändler,merchant
 kleinigkeit ; f,littleness
 kleinigkeit ; f,trifle
 kleinigkeiten,odds and ends
@@ -55915,10 +55910,10 @@ klopfen,to detonate
 klopfen,to palpitate
 klopfen,to tap
 klopfen,to throb
-klopfen ; n,knock
+klopfen (an),to knock (at)
 klopfen (motor) ; n,knocking
 klopfen (motor) ; n,pinging
-klopfen (an),to knock (at)
+klopfen ; n,knock
 klopfend,knocking
 klopfend,palpitating
 klopfend,tapping
@@ -56890,8 +56885,8 @@ kommutativ,commutative
 kommutativgesetz ; n,commutative law
 komoren ; f,comoros (km)
 kompakt,compact
-kompakt,compactly
 kompakt,compact
+kompakt,compactly
 kompaktbauweise ; f,compact design
 kompaktbildplatte ; f,compact videodisk
 kompaktdiskette ; f,compact floppy disk
@@ -56963,8 +56958,8 @@ komponieren,to compose
 komponiert,composes
 komponist ; m,composer
 komposition ; f,composition
-komposition ; f,hymn
 komposition ; f,composition
+komposition ; f,hymn
 kompost ; m,compost
 kompott ; m,stewed fruit
 kompression ; f,compression
@@ -57073,8 +57068,8 @@ kongresshalle ; f,congress hall
 kongressmitglied ; n,congressman
 kongressteilnehmer ; m,member of a congress
 kongruent,congruent
-kongruenz ; f,congruency
 kongruenz ; f,congruence
+kongruenz ; f,congruency
 kongruenzen,congruencies
 konifere ; f,conifer
 koniferen,conifers
@@ -57158,8 +57153,8 @@ konsequent,consequently
 konsequent,consistent
 konsequenter,more consistent
 konsequenteste,most consistent
-konsequenz ; f,consequence
 konsequenz (beharrlichkeit) ; f,consistency
+konsequenz ; f,consequence
 konsequenzen,consequences
 konservatismus ; m,conservatism
 konservativ,conservative
@@ -57178,6 +57173,7 @@ konserve ; f,preservered food
 konserve ; f,tin
 konserven,tinned (canned) food
 konservenarbeiter ; m,canner
+konservenbüchse,can
 konservenbüchse,tin
 konservenbüchsen,tins
 konservenfabrik ; f,cannery
@@ -57218,10 +57214,10 @@ konspirierend,colluding
 konspiriert,colludes
 konspirierte,colluded
 konstant,constant
+konstant,constant
 konstant,constantly
 konstant,non-varying
 konstant,uniformly
-konstant,constant
 konstante ; f,absolute term
 konstante ; f,constant
 konstante ausserhalb des zulässigen bereichs,constant out of range
@@ -57613,10 +57609,10 @@ koppelt,couples
 koppelt los,uncouples
 koppelung ; f,coupling
 koppler ; m,coupler
+kopplung (raumfahrt) ; f,docking
 kopplung ; f,coupling
 kopplung ; f,interconnection
 kopplung ; f,interlinking
-kopplung (raumfahrt) ; f,docking
 kopplungsspule ; f,coupling coil
 kopulation ; f,zygosis
 kopulativ,copular
@@ -57845,9 +57841,9 @@ kotflügel,mudguards
 kotig,mirily
 kotig,miry
 kovalent,covalent
+krabbe (gross),prawn
 krabbe ; f,crab
 krabbe ; f,shrimp
-krabbe (gross),prawn
 krabbeln,scrabble
 krabbelnd,crawling
 krabbelnd,scrabbling
@@ -58054,12 +58050,12 @@ krausen,ruffs
 krausere,more curly
 krauseste,most curly
 kraushaarig,curly haired
-kraut ; n,cabbage
-kraut ; n,sauerkraut
 kraut (das grüne),leaves
 kraut (das grüne),top
 kraut (heil- ; n,herb
 kraut (tabak) ; n,weed
+kraut ; n,cabbage
+kraut ; n,sauerkraut
 krautartig,herbaceous
 krautsalat ; m,slaw
 krawall ; m,riot
@@ -58140,11 +58136,11 @@ kreidezeichnung ; f,chalkdrawing
 kreidig,chalky
 kreierend,creating
 kreis ; m,circle
+kreis ; m,circle
 kreis ; m,circuit
 kreis ; m,cycle
 kreis ; m,district
 kreis ; m,ring
-kreis ; m,circle
 kreis...,orbital
 kreisabschnitt ; m,segment
 kreisabschnitt ; m,segment of circle
@@ -58398,8 +58394,8 @@ kristallzüchtung,crystal growing
 kristallzüchtung,crystal pulling
 kriterien,criteria
 kriterien,criterions
-kriterium ; n,criterion
 kriterium (radsport) ; n,circuit race
+kriterium ; n,criterion
 kriterium ; n,criterion
 kritik ; f,criticism
 kritik ; f,cutup
@@ -58966,15 +58962,15 @@ kurort ; m,spa
 kurpark ; m,spa gardens
 kurpfuscher ; m,quack
 kurpfuscherei ; f,quackery
-kurs ; m,class
-kurs ; m,course
-kurs ; m,exchange rate
-kurs ; m,rate (of exchange)
 kurs (aktien...) ; m,price
 kurs (aktien...) ; m,quotation
 kurs (aktien...) ; m,rate
 kurs (verkehr) ; m,course
 kurs (verkehr) ; m,line
+kurs ; m,class
+kurs ; m,course
+kurs ; m,exchange rate
+kurs ; m,rate (of exchange)
 kurs nehmen auf,to head for
 kurs nehmen auf,to set course for
 kursanstieg ; m,rise (in rates)
@@ -59327,8 +59323,8 @@ körnt,granulates
 körnung,granulation
 körper,bodies
 körper,body
-körper,systemic
 körper,field
+körper,systemic
 körperbau,physique
 körpergeruch,body odour
 körperhaltung,posture
@@ -59640,11 +59636,11 @@ labyrinth ; n,maze
 labyrinthe,mazes
 labyrinthisch,mazy
 lachanfall (bekommen) ; m,laughing fit
-lache ; f,laugh
 lache (pfütze),pool
 lache (pfütze),puddle
-lachen ; n,laughter
+lache ; f,laugh
 lachen (über),to laugh (at)
+lachen ; n,laughter
 lachend,laughing
 lachende,laughingly
 lacher ; m,laugher
@@ -59746,6 +59742,7 @@ lagen,sites
 lagen,situations
 lageplan ; m,site plan
 lagepläne,site plans
+lager (maschinenbau) ; n,bearing
 lager ; n,bed
 lager ; n,camp
 lager ; n,encampment
@@ -59755,7 +59752,6 @@ lager ; n,store
 lager ; n,storehouse
 lager ; n,storehouses
 lager ; n,warehouse
-lager (maschinenbau) ; n,bearing
 lager für ersatzteile,depot
 lagerauffüllung,accumulation of inventories
 lagerbar,superposable
@@ -59940,11 +59936,11 @@ landstreitkräfte,army
 landstrich ; m,district
 landsturm ; m,posse comitatus
 landumschlossen,landlocked
+landung (des magnetkopfes auf der festplatte) ; f,head crash
 landung ; f,debarment
 landung ; f,disembarkment
 landung ; f,landfall
 landung ; f,landing
-landung (des magnetkopfes auf der festplatte) ; f,head crash
 landungen,debarments
 landungen,landfalls
 landungsbrücke,gangplank
@@ -60162,10 +60158,10 @@ latschiger,slouchier
 latschigste,slouchiest
 latscht,traipses
 latschte,traipsed
+latte (sport),bar
 latte ; f,lath
 latte ; f,picket
 latte ; f,slat
-latte (sport),bar
 latten,laths
 lattenkiste ; f,crate
 lattenkisten,crates
@@ -60478,10 +60474,10 @@ lebensmittelhändler,grocer
 lebensmittelhändler,grocers
 lebensmittellieferant ; m,caterer
 lebensnotwendiger bedarf,necessities of life
+lebensraum (biologie) ; m,habitat
 lebensraum ; m,biotop
 lebensraum ; m,living space
 lebensraum ; m,space to live
-lebensraum (biologie) ; m,habitat
 lebensstandard ; m,standard of living
 lebensstandarde,standards of living
 lebensstellung ; f,lifetime post
@@ -60778,8 +60774,8 @@ lehen ; n,fief
 lehensgut ; n,fief
 lehensgüter,fiefs
 lehenstreue ; f,fealty
-lehm ; m,loam
 lehm (ton) ; m,clay
+lehm ; m,loam
 lehmboden ; m,loamy soil
 lehmig,loamy
 lehmiger,loamier
@@ -60834,9 +60830,9 @@ lehre ; f,egalitarianism
 lehre ; f,teachings
 lehre ; f,tenet
 lehre vom körper,anatomy
+lehre vom menschen,anthropology
 lehre vom menschen ; f,anthropology
 lehre von der geheimverschlüsselung,cryptology
-lehre vom menschen,anthropology
 lehren,doctrines
 lehren,taught}
 lehren,tenets
@@ -61219,6 +61215,7 @@ leitspindel-drehbank ; f,engine lath
 leitstern ; m,lodestar
 leitsteuerung ; f,coordinating control
 leitstrahl ; m,beam
+leitung (strom ; f,conduction
 leitung ; f,conduction
 leitung ; f,cords
 leitung ; f,direction
@@ -61227,13 +61224,12 @@ leitung ; f,management
 leitung ; f,pilotage
 leitung ; f,pipeline
 leitung ; f,route
-leitung (strom ; f,conduction
 leitungen,conductions
 leitungen,pilotages
 leitungsfähigkeit,conductibility
 leitungsführung,running of cables
-leitungsnetz ; n,supply network
 leitungsnetz (gas ; n,mains system
+leitungsnetz ; n,supply network
 leitungswasser ; n,tap water
 leitwarte ; f,master display
 leitweglenkung ; f,routing
@@ -61357,8 +61353,8 @@ lesben,dykes
 lesbierin ; f,lesbian
 lesbierinnen,lesbians
 lesbisch,lesbian
-lese ; f,gathering
 lese (wein-) ; f,vintage
+lese ; f,gathering
 lesebrille ; f,reading glasses
 lesebuch ; n,reader
 lesebuch ; n,reading book
@@ -61531,9 +61527,9 @@ lichtbild ; n,slide
 lichtbildervortrag ; m,slide lecture
 lichtblick ; m,comfort
 lichtblick ; m,ray of hope
+lichtbogen (elektrik),arc
 lichtbogen ; m,externally heated arc
 lichtbogen ; m,flashover
-lichtbogen (elektrik),arc
 lichtbogenschweissung,arc welding
 lichtbogenunterdrückung,arc suppression
 lichtbogenzündung,arc ignition
@@ -61682,12 +61678,12 @@ lieblichkeit ; f,suasiveness
 lieblichkeit ; f,suaveness
 lieblichkeit ; f,sweetness
 lieblichst,loveliest
+liebling (kind ; m,pet
 liebling ; m,darling
 liebling ; m,ducky
 liebling ; m,favorite
 liebling ; m,favourite
 liebling ; m,sweetheart
-liebling (kind ; m,pet
 lieblings...,favourite
 lieblingsschüler,teacher's pet
 lieblingsstück,showpiece
@@ -61907,10 +61903,10 @@ linderungsmittel,palliatives
 lineal ; n,ruler
 linear,in-line
 linear,linear
+linear,linear
 linear,straight-line
 linear,unidimensional
 linear (un)abhängig,linearly (in)dependent
-linear,linear
 lineare optimierung,linear optimization
 linearisieren,to linearize
 linearisiert,linearized
@@ -61957,9 +61953,9 @@ linksverkehr ; m,drive on the left
 linoleum ; n,lino
 linoleum ; n,linoleum
 linotype ; f,linotype
+linse (pflanze) ; f,lentil
 linse ; f,lens
 linse ; f,lense
-linse (pflanze) ; f,lentil
 linsen,lenses
 linsenschraube ; f,fillister head screw
 linzenzgeber ; m,licensor
@@ -62103,8 +62099,8 @@ loch ausfräsend,countersinking
 lochabstand ; m,hole spacing
 locheisen ; n,hollow punch
 lochen,to punch
-lochen ; n,punching
 lochen (fahrschein),to clip
+lochen ; n,punching
 lochkarte ; f,punch card
 lochkarte ; f,punched card
 lochkartencode ; m,card code
@@ -62252,9 +62248,9 @@ lohnvorauszahlung ; f,advance pay
 lohnzahlung ; f,wage payment
 loipe ; f,cross-country skiing trail
 lokal,local
+lokal,local
 lokal,regional
 lokal ; n,premises
-lokal,local
 lokale,restaurants
 lokale variable ; f,area variable
 lokales / globales,local / global
@@ -63079,10 +63075,10 @@ machete ; f,machete
 macho ; m,macho
 macht,makes
 macht,matter
+macht (über),power (of)
 macht ; f,force
 macht ; f,might
 macht ; f,potency
-macht (über),power (of)
 macht abgeneigt,disinclines
 macht arm,impoverishes
 macht arm,pauperizes
@@ -63369,6 +63365,7 @@ maid,damsel
 maiglöckchen,lily of the valley
 maikäfer,cockchafer
 mais ; m,corn
+mais ; m,corn
 mais ; m,maize
 maisflocken,corn flakes
 maiskolben ; m,corn cob
@@ -63488,8 +63485,8 @@ mandarine,tangerine
 mandarinen,tangerines
 mandat ; n,mandate
 mandate,mandates
-mandel ; f,almond
 mandel (anatomisch) ; f,tonsil
+mandel ; f,almond
 mandelaugen,almond eyes
 mandelentfernung ; f,tonsillectomy
 mandelentfernungen,tonsillectomies
@@ -63501,6 +63498,7 @@ mandeln,tonsils
 mandoline ; f,mandolin
 manege ; f,manege
 mangan ; n,manganese
+mangel (an) ; m,lack (of)
 mangel ; m,absence [of]
 mangel ; m,dearth
 mangel ; m,deficiency
@@ -63513,7 +63511,6 @@ mangel ; m,scarcity
 mangel ; m,shortage
 mangel ; m,shortcoming
 mangel ; m,want
-mangel (an) ; m,lack (of)
 mangel an arbeitskräften,manpower shortage
 mangel) beheben,to remedy
 mangelhaft,defectively
@@ -63652,11 +63649,11 @@ manövrieren,manoeuvre
 manövrierend,maneuvering
 manövriert,maneuvers
 manövrierte,maneuvered
-mappe ; f,briefcase
-mappe ; f,folder
 mappe (akte) ; f,file
 mappe (akte) ; f,folder
 mappe (zeichen-) ; f,portfolio
+mappe ; f,briefcase
+mappe ; f,folder
 mappen,briefcases
 marathonlauf ; m,marathon (race)
 marder,marten
@@ -63796,8 +63793,8 @@ marktumfrage ; f,market survey
 marktverkäufer,marketer
 marktwert ; m,market value
 marktwirtschaft ; f,market economy
-marmelade ; f,jam
 marmelade (orangen-) ; f,marmalade
+marmelade ; f,jam
 marmor ; m,marble
 marmorieren,mottle
 marmorierend,marbling
@@ -63846,10 +63843,10 @@ martinshorn ; n,fire-engine) siren
 marxismus ; m,marxism
 marxist ; m,marxist
 marzipan ; n,marzipan
-masche ; f,bow
-masche ; f,mesh
 masche (im netz) ; f,mesh
 masche (strick-) ; f,stitch
+masche ; f,bow
+masche ; f,mesh
 maschen,meshes
 maschendraht ; m,wire netting
 maschennetz ; n,meshed communication network
@@ -63949,8 +63946,8 @@ masochistische,masochistically
 mass,degree
 mass,gauge
 mass,measure
-mass,measurement
 mass,measure
+mass,measurement
 mass aus,gauged
 mass aus,sized
 mass für den informationsgehalt,entropy
@@ -63967,12 +63964,12 @@ massarbeit,precision work
 masse,gauges
 masse,measures
 masse,metrics
+masse (elektrisch) ; f,earth
+masse (elektrisch) ; f,ground
 masse ; f,bulk
 masse ; f,majority
 masse ; f,mass
 masse ; f,masses
-masse (elektrisch) ; f,earth
-masse (elektrisch) ; f,ground
 masse und gewichte,weights and measures
 masseelektrode ; f,earth electrode
 masseinheit,measure
@@ -64782,8 +64779,8 @@ merzt aus,expunges
 mess...,measuring
 messbar,commensurable
 messbar,measurable
-messbar,mensurable
 messbar,measurable
+messbar,mensurable
 messbare,measurably
 messbare,mensural
 messbarere,more measurable
@@ -64793,8 +64790,8 @@ messbereich ; m,effective range
 messbildverfahren ; n,photogrammetry
 messbuch ; n,missal
 messdiener ; m,acolyte
-messe ; f,fair
 messe (kirchlich) ; f,mass
+messe ; f,fair
 messeausweis ; m,fair pass
 messebesucher ; m,visitor at a fair
 messehostess ; f,hostess
@@ -66007,8 +66004,8 @@ mittelpfosten (z.b. im fenster) ; m,mullion
 mittelpfosten (z.b. im fenster) ; m,muntin
 mittelpunkt ; m,center
 mittelpunkt ; m,centre
-mittelpunkt ; m,epicenter
 mittelpunkt ; m,centre
+mittelpunkt ; m,epicenter
 mittelpunkte,epicenters
 mittels,by means of
 mittelsmann ; m,middleman
@@ -66311,9 +66308,9 @@ monopolisten,monopolists
 monopolistisch,monopolistic
 monopolstellung ; f,monopoly
 monostabil,monostable
-monoton,monotonous
-monoton,monotonic
 monoton,monotone
+monoton,monotonic
+monoton,monotonous
 monotone,monotonously
 monotone konvergenz ; f,monotone convergence
 monotones geräusch,monotone
@@ -67474,8 +67471,8 @@ nachladen,to download
 nachladen,to recharge
 nachladen,to reload
 nachladend,recharging
-nachlass ; m,bequest
 nachlass,deduction
+nachlass ; m,bequest
 nachlassen,sunk
 nachlassen,sunken}
 nachlassen,to abandon ship
@@ -67499,9 +67496,9 @@ nachlauf ; m,trail
 nachlese ; f,gleanings
 nachleuchten,afterglow
 nachleuchten,luminesce
+nachleuchten (dioden),afterglow
 nachleuchten ; n,persistence
 nachleuchten ; n,phosphorescence
-nachleuchten (dioden),afterglow
 nachliefern,to deliver in addition
 nachliefernd,delivering in addition
 nachlieferung ; f,additional delivery
@@ -67711,12 +67708,12 @@ nachwirkung ; f,aftermath
 nachwirkung ; f,consequences
 nachwirkungen,aftermathes
 nachwort ; n,epilogue
-nachwuchs ; m,the young generation
 nachwuchs (familie) ; m,addition to the family
 nachwuchs (familie) ; m,offspring
 nachwuchs (firma) ; m,junior staff
 nachwuchs (firma) ; m,trainees
 nachwuchs (sport) ; m,young talent
+nachwuchs ; m,the young generation
 nachwuchs...,junior
 nachwuchs...,talented
 nachwuchs...,up-and-coming
@@ -67805,13 +67802,13 @@ nagte ab,gnawed
 nah,nearby
 nah verwandt,germane
 nahaufnahme ; f,close up view
+nahbereich (fotografie) ; m,close range
+nahbereich (fotografie) ; m,close-up range
 nahbereich ; m,area
 nahbereich ; m,neighborhood
 nahbereich ; m,region
 nahbereich ; m,surroundings
 nahbereich ; m,vicinity
-nahbereich (fotografie) ; m,close range
-nahbereich (fotografie) ; m,close-up range
 nahe,by)
 nahe,close (to
 nahe,contiguous
@@ -68067,10 +68064,10 @@ natürliche,artlessly
 natürliche,natural
 natürliche gabe,dower
 natürliche grösse (massstab 1:1),full size
-natürliche zahl,natural number
-natürliche zahl,nonnegative integer
 natürliche zahl,natural
 natürliche zahl,natural number
+natürliche zahl,natural number
+natürliche zahl,nonnegative integer
 natürliche zahl,whole number
 natürlicher,naturallier
 natürlicher logarithmus,natural logarithm
@@ -68243,11 +68240,11 @@ negativerem,most negative
 negativität,negativism
 negativität,negativity
 negativste,negativistic
+neger (verächtlich),nigger
+neger (verächtlich),niggers
 neger ; m,blackamoors
 neger ; m,negro
 neger ; m,negroes
-neger (verächtlich),nigger
-neger (verächtlich),niggers
 negerin ; f,negress
 negerinnen,negresses
 negertanz ; m,cakewalk
@@ -68265,9 +68262,9 @@ nehmen sie platz,please
 nehmen wir einmal an,let us assume
 nehmend,catching
 nehmend,taking
+neid (auf),jealousy (of)
 neid ; m,enviousness
 neid ; m,envy
-neid (auf),jealousy (of)
 neider,envier
 neider,enviers
 neidisch,envious
@@ -68292,6 +68289,7 @@ neigt sich,inclines
 neigt sich,slopes
 neigte,inclined
 neigte,tended
+neigung (zu) ; f,liability (to)
 neigung ; f,affinity
 neigung ; f,aptitude
 neigung ; f,aptness
@@ -68309,7 +68307,6 @@ neigung ; f,tendance
 neigung ; f,tendency
 neigung ; f,vein
 neigung ; f,warp
-neigung (zu) ; f,liability (to)
 neigungen,aptitudes
 neigungen,aptnesses
 neigungen,biases
@@ -68425,10 +68422,10 @@ nettogehalt ; n,take-home pay
 nettogewicht ; n,net weight
 nettolohn ; m,take home pay
 nettopreis ; m,net price
+netz (allg. stromnetz) ; n,mains
 netz ; n,mains
 netz ; n,net
 netz ; n,network
-netz (allg. stromnetz) ; n,mains
 netzabhängig,network-dependent
 netzanschluss ; m,power supply line
 netzartig,meshed
@@ -69809,8 +69806,8 @@ normal,normal
 normal,regular
 normal,standard
 normal,usual
-normale ; f,perpendicular
 normale ; f,normal
+normale ; f,perpendicular
 normalen,normals
 normalere,more normal
 normalerweise,naturally
@@ -69859,9 +69856,9 @@ notabschaltung ; f,emergency cutout
 notar ; m,notary
 notare,notaries
 notariell,notarial
-notaufnahme ; f,casualty (department)
 notaufnahme (im krankenhaus) ; f,emergency admission
 notaufnahme (von flüchtlingen),provisional accommodation
+notaufnahme ; f,casualty (department)
 notaufnahmestelle (im krankenhaus) ; f,casualty (department)
 notausgang ; m,emergency exit
 notbehelf ; m,makeshift
@@ -69926,19 +69923,19 @@ notstromversorgung mit batterien ; f,battery backup
 notwehr ; f,self defence
 notwendig,essential
 notwendig,necessary
+notwendig,necessary
 notwendig,necessitative
 notwendig,needfull
 notwendig,needfully
-notwendig,necessary
 notwendigere,more necessary
 notwendigerweise,necessarily
 notwendigkeit ; f,necessity
 notwendigkeiten,necessities
 nougat,nougat
+novelle (parlament) ; f,amendment
 novelle ; f,novelette
 novelle ; f,novella
 novelle ; f,short story
-novelle (parlament) ; f,amendment
 november ; m,november
 nr.,no.
 nuancen,nuances
@@ -69997,8 +69994,8 @@ numerisch,numerical
 numerische,numerally
 numerische,numerical
 numerische,numerically
-numerische steuerung ; f,computer numeric control (cnc)
 numerische steuerung (nc),numerical control
+numerische steuerung ; f,computer numeric control (cnc)
 numerologie ; f,numerology
 numerologische,numerologically
 numerologischen,numerological
@@ -70017,8 +70014,8 @@ nummerierungen,numerations
 nummern,numbers
 nummernkonto ; n,numbered account
 nummernschalter ; m,number plate
-nummernscheibe ; f,dial switch
 nummernscheibe (telefon) ; f,number plate
+nummernscheibe ; f,dial switch
 nummernvergabe ; f,allocation of numbers
 nun,now
 nun also,now then
@@ -70527,6 +70524,7 @@ offen,frankly
 offen,free spoken
 offen,ingenuous
 offen,open
+offen,open
 offen,open-ended
 offen,opened
 offen,openly
@@ -70536,7 +70534,6 @@ offen,unclenched
 offen,unconcealed
 offen,unharbored
 offen,unhidden
-offen,open
 offen gesagt,frankly
 offen und ehrlich,open and above board
 offen zeigen,to flaunt
@@ -70946,9 +70943,9 @@ ordnete an,serialized
 ordnete ein,pigeonholed
 ordnete wieder ein,realigned
 ordnung ; f,order
+ordnung ; f,order
 ordnung ; f,orderliness
 ordnung ; f,tidiness
-ordnung ; f,order
 ordnung halten,to keep order
 ordnung machen,to neaten
 ordnung machend,neatening
@@ -71109,8 +71106,8 @@ oszillograph ; m,oscillograph
 oszillograph ; m,oscilloscope
 oszilloskop ; n,oscilloscope
 oszilloskop ; n,scope
-otter ; m,otter
 otter (schlange) ; f,viper
+otter ; m,otter
 ottern,otters
 ottomotor ; m,petrol engine
 ottomotor ; m,spark ignition engine
@@ -71226,8 +71223,8 @@ packte an,grappled
 packte um,repacked
 packte vor,prepackaged
 packte zu,grasped
-packung ; f,package
 packung (dichtungen) ; f,packing
+packung ; f,package
 packzwirn ; m,packthread
 paddel ; n,paddle
 paddelboot ; n,canoe
@@ -71274,8 +71271,8 @@ palastartige,palatially
 palatschinken ; m,pancake
 palau,palau (pw)
 palaver ; n,palaver
-palette ; f,pallet
 palette (farb-) ; f,palette
+palette ; f,pallet
 paletten,palettes
 palettieren,to palletize
 palindrom ; n,palindrome
@@ -71394,10 +71391,10 @@ papst ; m,pope
 papua ; m,papuan
 papua-neuguinea,papua new guinea (pg)
 papyrus,papyrusi
-parabel ; m,parable
-parabel ; m,parabola
 parabel (gleichnis) ; m,parable
 parabel ; f,parabola
+parabel ; m,parable
+parabel ; m,parabola
 parabelförmig,parabolic
 parabolantenne ; f,dish antenna
 parabolisch,parabolically
@@ -71457,8 +71454,8 @@ parallelübertragungssignal,parallel transfer register
 paralytisch,paralytic
 paramecien,paramecia
 parameter ; m,parameter
-parameter ; m,parameters
 parameter ; m,parameter
+parameter ; m,parameters
 parameterisieren,parameterize
 parameterisierend,parameterizing
 parameterisiert,parameterizes
@@ -71605,8 +71602,8 @@ pass ; m,passport
 pass auf!,look out!
 passage ; f,passage
 passagen,passages
-passagier ; m,passenger
 passagier (flug) ; m,pax
+passagier ; m,passenger
 passagiere,passengers
 passagierflugzeug ; n,passenger plane
 passagierliste ; f,waybill
@@ -71802,10 +71799,10 @@ pauschalprämie,all inclusive premium
 pauschalreise ; f,all expense tour
 pauschalsatz ; m,all in rate
 pauschalzahlung ; f,composition payment
+pause (kopie) ; f,blueprint
 pause ; f,pause
 pause ; f,recess
 pause ; f,stop
-pause (kopie) ; f,blueprint
 pausen,interregnums
 pausen,pauses
 pausen,recesses
@@ -71855,11 +71852,11 @@ pedantischere,more pedantic
 pedantischste,most pedantic
 pediküre,pedicure
 pefferminze ; f,peppermint
+pegel (wasser-) ; m,level
+pegel (wasser-) ; m,water-gage
+pegel (wasser-) ; m,water-gauge
 pegel ; n,gauge
 pegel ; n,level
-pegel (wasser-) ; m,level
-pegel (wasser-) ; m,water-gauge
-pegel (wasser-) ; m,water-gage
 pegelstand ; m,water level
 peilantenne ; f,loop antenna
 peilfunk ; m,radio direction finding
@@ -72083,10 +72080,10 @@ persenning (geteertes segeltuch),tarpaulin
 perser ; m,persian
 perserteppich ; m,persian carpet
 persisch,persian
+person (theater) ; f,character
 person ; f,character
 person ; f,person
 person ; f,valentine
-person (theater) ; f,character
 person mit gleichen interessen,kindred spirit
 personal ; n,personnel
 personal ; n,staff
@@ -72126,11 +72123,11 @@ personenkult ; m,personality cult
 personenschaden ; m,personal injury
 personenstand ; m,marital status
 personenverkehr ; m,passenger traffic
+personenwagen (eisenbahn) ; m,passenger car
+personenwagen (eisenbahn) ; m,passenger coach
 personenwagen ; m,auto
 personenwagen ; m,automobile
 personenwagen ; m,motor car
-personenwagen (eisenbahn) ; m,passenger car
-personenwagen (eisenbahn) ; m,passenger coach
 personenzug ; m,local train
 personenzug ; m,slow train
 personifikation ; f,impersonation
@@ -72223,12 +72220,12 @@ pfahl ; m,pole
 pfahl ; m,stake
 pfahlwurzel ; f,taproot
 pfahlwurzeln,taproots
+pfand (flaschen-) ; m,deposit
+pfand (im spiel) ; m,forfeit
 pfand ; m,mortgage
 pfand ; m,pawn
 pfand ; m,pledge
 pfand ; m,security
-pfand (flaschen-) ; m,deposit
-pfand (im spiel) ; m,forfeit
 pfandbrief ; m,bond
 pfande,pledges
 pfandgeber ; m,pledger
@@ -72242,9 +72239,9 @@ pfarramt ; n,rectory
 pfarrbezierk ; m,parish
 pfarrei ; f,rectory
 pfarrei ; f,vicarage
+pfarrer (katholisch),priest
 pfarrer ; m,minister
 pfarrer ; m,pastor
-pfarrer (katholisch),priest
 pfarrerin ; f,woman pastor
 pfarrgemeinde ; f,parish
 pfarrhaus ; n,rectory
@@ -72263,8 +72260,8 @@ pfeffernd,peppering
 pfefferstreuer ; m,pepper caster
 pfeffert,peppers
 pfeffferkuchen ; m,gingerbread
-pfeife ; f,whistle
 pfeife (tabaks-) ; f,pipe
+pfeife ; f,whistle
 pfeife rauchen,to be a pipe smoker
 pfeife rauchen,to smoke a pipe
 pfeifen,to blow a whistle
@@ -72279,16 +72276,16 @@ pfeifkonzert ; n,catcalls
 pfeil ; m,arrow
 pfeil ; m,dart
 pfeil und bogen,bow and arrow
+pfeiler (brücken-),pier
 pfeiler ; m,column
 pfeiler ; m,pillar
-pfeiler (brücken-),pier
 pfeilspitze ; f,arrowhead
 pfennigfuchser ; m,penny pincher
 pfenning ; m,pfennig
 pfenningabsatz ; m,stiletto heel
+pferd (turnen),horse
 pferd ; n,horse
 pferd ; n,knight
-pferd (turnen),horse
 pferde,horses
 pferdefleisch ; n,horse-meat
 pferdefuhrwerk ; n,horse-drawn vehicle
@@ -72297,8 +72294,8 @@ pferdekoppel ; f,paddock
 pferderennbahn ; f,race course
 pferderennen ; n,horse race
 pferderennen ; n,horse racing
-pferdeschwanz ; m,horse's tail
 pferdeschwanz (frisur) ; m,ponytail
+pferdeschwanz ; m,horse's tail
 pferdestall ; m,stable
 pferdestärke (ps),horsepower (h.p.)
 pferdezucht ; f,horse breeding
@@ -72342,8 +72339,8 @@ pflanzte um,replanted
 pflanzung ; f,plantation
 pflaster (kopfstein-) ; n,cobbles
 pflaster (strassen-),pavement
-pflaster (wund-) ; n,band-aid
 pflaster (wund-),plaster
+pflaster (wund-) ; n,band-aid
 pflastern,pave
 pflasternd,paving
 pflasterstein ; m,paving stone
@@ -72353,11 +72350,11 @@ pflaume ; f,plum
 pflaumenbaum ; m,plum (tree)
 pflaumenkuchen ; m,plum tart
 pflaumenmus ; n,plum jam
+pflege (eines gartens ; f,cultivation
+pflege (kranken-) ; f,nursing
 pflege ; f,care
 pflege ; f,maintenance
 pflege ; f,servicing
-pflege (eines gartens ; f,cultivation
-pflege (kranken-) ; f,nursing
 pflegeeltern,foster-parents
 pflegefall ; m,invalid
 pflegefall ; m,nursing case
@@ -72443,20 +72440,20 @@ pflügte,furrowed
 pflügte,ploughed
 pflügte,plowed
 pforte ; f,gate
+pfosten (tür-),jamb
 pfosten ; m,post
 pfosten ; m,stud
-pfosten (tür-),jamb
 pfote ; f,paw
 pfriem ; m,awl
 pfropf ; m,clot
 pfropf ; m,thrombus
 pfropfen,stop(per)
 pfropfen,to plug
+pfropfen (kork),to cork
+pfropfen (landwirtschaft),to graft
 pfropfen ; m,cork
 pfropfen ; m,plug
 pfropfen ; m,stopper
-pfropfen (kork),to cork
-pfropfen (landwirtschaft),to graft
 pfropfmesser ; n,grafter
 pfründe,benefice
 pfründe,living
@@ -72467,8 +72464,8 @@ pfui,ugh
 pfui teufel!,disgusting!
 pfui teufel!,ugh!
 pfui!,fie
-pfund ; n,pound (lb.)
 pfund (sterling) ; n,pound (sterling)
+pfund ; n,pound (lb.)
 pfundweise,by the pound
 pfusch ; m,bad job
 pfusch ; m,botch-up
@@ -72735,8 +72732,8 @@ pikante,nuttily
 pikante,piquantly
 pikanter,nuttier
 pikanteste,nuttiest
-pikkolo ; m,boy waiter
 pikkolo (sekt) ; m,champagne miniature
+pikkolo ; m,boy waiter
 piktogramm ; n,pictograph
 pilger ; m,pilgrim
 pilgerfahrt ; f,pilgrimage
@@ -72750,9 +72747,9 @@ pilot ; m,pilot
 pilotfilm ; m,pilot (film)
 pilotprojekt ; n,pilot project
 pilotsendung ; f,pilot broadcast
-pilz ; m,fungus
 pilz (essbar) ; m,mushroom
 pilz (giftig) ; m,toadstool
+pilz ; m,fungus
 pilzartig,fungoid
 pilze suchen,to go mushrooming
 pilztötend,fungicidal
@@ -72801,11 +72798,11 @@ pisse ; f,piss
 pissen,to pee
 pissen,to piss
 pistazie ; f,pistachio
+piste (flugzeug-) ; f,runway
 piste ; f,course
 piste ; f,piste
 piste ; f,ski-run
 piste ; f,track
-piste (flugzeug-) ; f,runway
 pistenrowdy ; m,terror in the slopes
 pistole ; f,pistol
 pistolentasche ; f,holster
@@ -72815,10 +72812,10 @@ pizzeria ; f,pizzeria
 placierbar,placeable
 plackerei ; f,drudgery
 plackerei ; f,grind
+plage (insekten-) ; f,plague
 plage ; f,bother
 plage ; f,nuisance
 plage ; f,trouble
-plage (insekten-) ; f,plague
 plagen,to afflict
 plagen,to ail
 plagen,to plague
@@ -72926,9 +72923,9 @@ plapperte,sputtered
 plapperte nach,parroted
 plasma ; n,plasma
 plasmatisch,plasmatic
-plastik ; f,plastic
 plastik (kunst) ; f,sculpture
 plastik (medizin) ; f,plastic surgery
+plastik ; f,plastic
 plastikbombe ; f,plastic bomb
 plastiker ; m,sculptor
 plastikfolie ; f,polythene sheet
@@ -72953,15 +72950,15 @@ platt,unglossed
 platt ; n,low german
 plattdeutsch ; n,low german
 platte,platitudinously
-platte ; f,flag
-platte ; f,flagstone
-platte ; f,plate
-platte ; f,slab
 platte (fels-) ; f,ledge
 platte (glas ; f,sheet
 platte (glatze) ; f,bald pate
 platte (holz) ; f,board
 platte (wand ; f,panel
+platte ; f,flag
+platte ; f,flagstone
+platte ; f,plate
+platte ; f,slab
 plattendatei ; f,disk file
 platteneinheit ; f,disk drive
 plattenhülle,record sleeve
@@ -72977,9 +72974,9 @@ plattform ; f,platform
 plattfuss,flat
 plattfuss,flatfoot
 plattfüssig,flat footed
+plattheit (geistig) ; f,triteness
 plattheit ; f,flatness
 plattheit ; f,triviality
-plattheit (geistig) ; f,triteness
 plattheiten,trivialities
 plattiert,plated
 platz ; m,room
@@ -73064,8 +73061,8 @@ plexiglas ; n,perspex
 plinthe ; f,plinth
 plissee ; n,pleats
 plisseerock ; m,pleated skirt
-plombe ; f,seal
 plombe (zahn-) ; f,filling
+plombe ; f,seal
 plotter ; m,plotter
 plump,bearish
 plump,chubby
@@ -73225,9 +73222,9 @@ podium ; n,stage
 poesie ; f,poesy
 poet ; m,poet
 pogrom ; n,pogrom
+pokal (auch sportpokal) ; f,cup
 pokal ; m,cup
 pokal ; m,goblet
-pokal (auch sportpokal) ; f,cup
 pokale,goblets
 pokalendspiel ; n,cup final
 pokalsieger ; m,cup winner
@@ -73412,9 +73409,9 @@ pomp ; m,pageant
 pomphaftigkeit ; f,pompousness
 poncho ; m,poncho
 ponton ; m,pontoon
+pony (kleines pferd) ; n,pony
 pony ; m,bangs
 pony ; m,fringe
-pony (kleines pferd) ; n,pony
 ponyfrisur ; f,fringe
 pop ; m,pop
 popelin ; m,poplin
@@ -73517,10 +73514,10 @@ positionsmarke ; f,cursor
 positiv,affirmative
 positiv,affirmatory
 positiv,positive
+positiv,positive
 positiv,positively
 positiv / negativ,definite
 positiv / negativ,positive / negative
-positiv,positive
 positiv definit,positive definite
 positive ziffer,significant digit
 positivere,more positive
@@ -73603,10 +73600,10 @@ potential ; n,potential
 potentialausgleich ; m,potential equalization
 potentialfrei,potential-free
 potentiell,potential
+potenz (n-te ~ von x),power
 potenz ; m,potency
 potenz ; m,power
 potenz ; m,virility
-potenz (n-te ~ von x),power
 potenziere,raise to higher power
 potenzieren,exponentiate
 potenziert,raises to higher power
@@ -73676,8 +73673,8 @@ praktikum ; n,practical course
 praktikum ; n,practical training
 praktikum ; n,practical work
 praktikum ; n,traineeship
-praktikum in der industrie ; n,industrial training
 praktikum in der industrie,placement
+praktikum in der industrie ; n,industrial training
 praktikumszeit ; f,practical training period
 praktisch,applicatory
 praktisch,convenient
@@ -73732,6 +73729,7 @@ predigte,preached
 predigte,sermonized
 predigten,homilies
 predigten,sermons
+preis (im wettbewerb ; m,prize
 preis ; m,all in price
 preis ; m,charge
 preis ; m,cost
@@ -73739,7 +73737,6 @@ preis ; m,fee
 preis ; m,price
 preis ; m,prize
 preis ; m,purchase
-preis (im wettbewerb ; m,prize
 preisabbau ; m,price cuts
 preisangabe ; f,quotation of prices
 preisangebot ; n,price quote
@@ -74043,9 +74040,9 @@ professorial,professorial
 professur ; f,chair
 professur ; f,professorship
 profi ; m,professional
+profil (reifen) ; n,tread
 profil ; n,outline
 profil ; n,profile
-profil (reifen) ; n,tread
 profile,profiles
 profilierend,profiling
 profilierte,profiled
@@ -74073,8 +74070,8 @@ programm-modifikation ; f,program modification
 programmabbruch ; m,abortion
 programmabhängig,program dependent
 programmabhängig,program-sensitive
-programmablaufplan ; m,programming flowchart
 programmablaufplan (pap) ; m,program flow chart
+programmablaufplan ; m,programming flowchart
 programmausführung,program execution
 programmbaustein ; m,program module
 programmbeschreibung ; f,program description
@@ -74779,13 +74776,13 @@ pumpt,pumps
 pumpt aus,poops
 pumpte,pumped
 pumpte aus,pooped
+punkt 10 uhr,at ten o'clock sharp
 punkt ; m,dot
 punkt ; m,item
 punkt ; m,point
+punkt ; m,point
 punkt ; m,punctilio
 punkt ; m,spot
-punkt ; m,point
-punkt 10 uhr,at ten o'clock sharp
 punkt zu punkt anschluss ; m,point-to-point
 punkte,points
 punkte,punctilios
@@ -74830,9 +74827,9 @@ putsche,coups
 putschen,to revolt
 putschist ; m,putschist
 putten,putt
+putz (bau) ; m,plaster
 putz ; m,finery
 putz ; m,trappings
-putz (bau) ; m,plaster
 putzbar,cleanable
 putzen,brush
 putzen,furbish
@@ -74926,8 +74923,8 @@ quadrat ; n,square
 quadrat ; n,square
 quadrate,squares
 quadratisch,quadrate
-quadratisch,square
 quadratisch,quadratic
+quadratisch,square
 quadratische,quadratics
 quadratmeter,square meter
 quadratmeter,square meters
@@ -75166,8 +75163,8 @@ quinten,quints
 quintessenz ; f,quintessence
 quinärcode (binärer zahlencode aus 5 bits),quinary code
 quinärzahl (zahlensystem auf der basis 5),quinary number
-quirl ; m,live wire
 quirl (küche),beater
+quirl ; m,live wire
 quisling ; m,quisling
 quitt,even with
 quitt,squared
@@ -75596,6 +75593,7 @@ ranch ; f,ranch
 rancher ; m,rancher
 rand ; m,boarder
 rand ; m,border
+rand ; m,boundary
 rand ; m,brim
 rand ; m,brink
 rand ; m,edge
@@ -75604,7 +75602,6 @@ rand ; m,margin
 rand ; m,rim
 rand ; m,side
 rand ; m,verge
-rand ; m,boundary
 rand...,surrounding
 randalierend,rioting
 randalierer,hooligan
@@ -75647,8 +75644,8 @@ rang,wrestled
 rang ; m,degree
 rang ; m,grade
 rang ; m,rank
-rang ; m,state
 rang ; m,rank
+rang ; m,state
 rangabzeichen,badge of rank
 rangabzeichen,insignia
 range ; f,brat
@@ -75816,9 +75813,9 @@ rastplatz ; m,resting place
 rasur ; f,shaving
 rat ; m,advice
 rat ; m,council
+rate (zuwachs-) ; f,rate
 rate ; f,installment
 rate ; f,instalment
-rate (zuwachs-) ; f,rate
 raten,rates
 raten,to advise
 raten,to guess
@@ -76030,8 +76027,8 @@ raumordnung ; f,regional policy
 raumordnung ; f,town and country planning
 raumpflegerin ; f,charwoman
 raumpflegerin ; f,cleaning lady
-raumschiff ; n,spacecraft
 raumschiff (bemannt) ; n,spaceship
+raumschiff ; n,spacecraft
 raumsonde ; f,space probe
 raumstation ; f,space station
 raumtemperatur ; m,ambient temperature
@@ -76052,8 +76049,8 @@ rausch ; m,inebriation
 rausch ; m,intoxication
 rauschabstand ; m,signal-to-noise ratio
 rauschen,sough
-rauschen ; n,noise
 rauschen (auf übertragungsleitungen),hissing
+rauschen ; n,noise
 rauschend,soughing
 rauschgift ; n,drug
 rauschgift ; n,narcotic drug
@@ -76194,12 +76191,13 @@ rechnen,to calculate
 rechnen,to compute
 rechnen,to count
 rechnen,to reckon
-rechnen ; n,calculating
 rechnen (mit),to count (on)
+rechnen ; n,calculating
 rechnen sie nicht mit mir!,you can count me out!
 rechnend,ciphering
 rechnend,computing
 rechnend,reckoning
+rechner (taschenformat) ; m,calculator
 rechner ; m,calculator
 rechner ; m,calculators
 rechner ; m,computer
@@ -76207,7 +76205,6 @@ rechner ; m,computers
 rechner ; m,data processor
 rechner ; m,reckoner
 rechner ; m,reckoners
-rechner (taschenformat) ; m,calculator
 rechnerabhängig,online
 rechnerabhängiges gerät,one-line peripheral device
 rechnercode ; m,actual code
@@ -76793,8 +76790,8 @@ reiben,ground}
 reiben,to chafe
 reiben,to grind
 reiben,to rub
-reiben ; n,rubbing
 reiben (an),to rub (against)
+reiben ; n,rubbing
 reibend,chafing
 reibend,grinding
 reibend,rubbing
@@ -76819,9 +76816,9 @@ reich,prolific
 reich,rich
 reich,wealthily
 reich,wealthy
+reich (an),rich (in)
 reich ; n,empire
 reich ; n,realm
-reich (an),rich (in)
 reich sein (an),to abound (in)
 reiche,proliferative
 reichen,to hand
@@ -76929,15 +76926,15 @@ reihe ; f,column
 reihe ; f,file
 reihe ; f,line
 reihe ; f,line-up
+reihe ; f,progression
 reihe ; f,rank
 reihe ; f,row
 reihe ; f,sequence
 reihe ; f,series
+reihe ; f,series
 reihe ; f,set
 reihe ; f,tandem
 reihe ; f,tier
-reihe ; f,series
-reihe ; f,progression
 reihen,arrays
 reihen,queue
 reihen,rows
@@ -77331,9 +77328,9 @@ rekursion ; f,recursion
 rekursiv,recursive
 relais ; n,relay
 relation ; f,relation
+relation ; f,relation
 relation ; f,relational
 relation ; f,relationship
-relation ; f,relation
 relationales datenbanksystem,relational databank system
 relativ,relative
 relativ,relatively
@@ -77599,12 +77596,12 @@ rest ; m,carryover
 rest ; m,leftover
 rest ; m,relic
 rest ; m,remain
+rest ; m,remainder
 rest ; m,remnant
 rest ; m,residual
+rest ; m,residue
 rest ; m,rest
 rest ; m,tail
-rest ; m,remainder
-rest ; m,residue
 restaurant ; n,restaurant
 restauriert,restores
 restaurierung ; f,restoration
@@ -77842,8 +77839,8 @@ richtigkeit ; f,trueness
 richtigste,most right
 richtigstellen,to rectify
 richtigstellend,setting right
-richtimpuls ; m,setting pulse
 richtimpuls (bezogen auf grundstellung) ; m,initialising pulse
+richtimpuls ; m,setting pulse
 richtkreis ; m,aiming circle
 richtlinie ; f,guide line
 richtmass,standard gauge
@@ -78186,12 +78183,12 @@ rohstoff ; m,raw material
 rohöl,crude oil
 rolladen ; m,shutter
 rollbahn ; f,runway
+rolle (theater ; f,role
 rolle ; f,character
 rolle ; f,part
 rolle ; f,role
 rolle ; f,roll
 rolle ; f,roller
-rolle (theater ; f,role
 rollen,roles
 rollen,to roll
 rollen,to trundle
@@ -78279,10 +78276,10 @@ ross ; n,horse
 ross ; n,steed
 rosse,steeds
 rosshaar ; n,horsehair
+rost (eisen) ; m,rust
 rost ; m,grate
 rost ; m,gridiron
 rost ; m,grill
-rost (eisen) ; m,rust
 rostbeständig,rustproof
 rostbraten ; m,roast joint
 rosten,oxidize
@@ -78490,9 +78487,9 @@ ruhendes,inoperative
 ruheposten ; m,sinecure
 ruhestellung ; f,normal position
 ruhestrom ; m,closed current
+ruhetag (eines lokals) ; m,closing day
 ruhetag ; m,day of rest
 ruhetag ; m,day off
-ruhetag (eines lokals) ; m,closing day
 ruhetage,days off
 ruhezustand ; m,dormancy
 ruhezustand ; m,resting state
@@ -79412,8 +79409,8 @@ sakristeien,sacristies
 salamander ; m,salamander
 salami ; f,salami
 salamitaktik ; f,salami tactics
-salat ; m,salad
 salat (pflanze) ; m,lettuce
+salat ; m,salad
 salat mit schinken ; m,ham salad
 salatbesteck ; n,salad servers
 salatdressing ; n,salad dressing
@@ -79827,10 +79824,10 @@ satz ; m,clause
 satz ; m,dart
 satz ; m,jerk
 satz ; m,phrase
+satz ; m,proposition
 satz ; m,record
 satz ; m,sentence
 satz ; m,set
-satz ; m,proposition
 satz ; m,theorem
 satzaussage ; f,predicate
 satzball ; m,set point
@@ -80142,6 +80139,7 @@ schakale,jackals
 schal,stale
 schal ; m,scarf
 schal ; m,shawl
+schale (obst) ; f,skin
 schale ; f,basin
 schale ; f,bowl
 schale ; f,hull
@@ -80150,7 +80148,6 @@ schale ; f,peel
 schale ; f,pod
 schale ; f,scarves
 schale ; f,shell
-schale (obst) ; f,skin
 schalen,bowls
 schalen,parings
 schalen,shells
@@ -80264,13 +80261,13 @@ schaltschema ; n,circuitry
 schaltschrank ; m,switchboard
 schaltschütz,contactor
 schalttafel ; f,switch panel
-schalttag ; m,intercalary day
 schalttag (29. februar) ; m,leap day
+schalttag ; m,intercalary day
+schaltung (kfz) ; f,gear change
 schaltung ; f,circuit
 schaltung ; f,hook-up
 schaltung ; f,set-up
 schaltung ; f,wiring
-schaltung (kfz) ; f,gear change
 schaltungsintern,in-circuit
 schaltungstechnik (stromliefernd) ; f,current sourcing logic
 schaltungstechnik (stromziehend) ; f,current sinking logic
@@ -80666,9 +80663,9 @@ scheibe ; f,plate
 scheibe ; f,puck
 scheibe ; f,pulley
 scheibe ; f,shim
+scheibe ; f,slice
 scheibe ; f,wafer
 scheibe ; f,washer
-scheibe ; f,slice
 scheiben,discs
 scheiben,panes
 scheiben,pucks
@@ -80707,10 +80704,10 @@ scheidet,separates
 scheidewand ; f,partition wall
 scheidewasser ; n,aqua fortis
 scheidewände,diaphragms
-scheidung ; f,divorce
-scheidung ; f,separation
 scheidung (einer ehe) ; f,dissolution
 scheidung (eines ehepaares) ; f,divorce
+scheidung ; f,divorce
+scheidung ; f,separation
 scheidungen,divorces
 scheidungsklage ; f,divorce suit
 schein,apparent
@@ -81360,8 +81357,8 @@ schillernde,iridescently
 schilling ; m,shilling
 schillinge,shillings
 schilt,scolds
-schimmel ; m,mould
 schimmel (weisses pferd),white horse
+schimmel ; m,mould
 schimmelig,mildewed
 schimmelig,moldy
 schimmelig,mouldy
@@ -81597,6 +81594,7 @@ schlafwandler,somnambulist
 schlafwandlerisch,somnambulistic
 schlafzimmer,bedroom
 schlafzimmer,bedrooms
+schlag 5 uhr,on the stroke of five
 schlag ; m,bang
 schlag ; m,bash
 schlag ; m,beat
@@ -81610,7 +81608,6 @@ schlag ; m,shock
 schlag ; m,stinger
 schlag ; m,stroke
 schlag ; m,wham
-schlag 5 uhr,on the stroke of five
 schlag mit dem handrücken,backhander
 schlagader ; f,artery
 schlaganfall ; m,apoplexy
@@ -81769,12 +81766,12 @@ schlampigste,grubbiest
 schlang,noosed
 schlang hinunter,gobbled
 schlang hinunter,gulped
+schlange (menschen- ; f,line
+schlange (menschen- ; f,queue
 schlange ; f,line
 schlange ; f,queue
 schlange ; f,serpent
 schlange ; f,snake
-schlange (menschen- ; f,line
-schlange (menschen- ; f,queue
 schlange gestanden,queued
 schlange stehen,to line up
 schlange stehen,to queue up
@@ -82787,11 +82784,11 @@ schmiegungskurve ; f,osculant curve
 schmierblock ; m,scratchpad
 schmierbuchse ; f,grease box
 schmierbüchse,grease cup
-schmiere ; f,grease
-schmiere ; f,lubricant
 schmiere (schmieriges zeug) ; f,goo
 schmiere (schmieriges zeug) ; f,mess
 schmiere (theater) ; f,ham-acting
+schmiere ; f,grease
+schmiere ; f,lubricant
 schmiere stehen,to keep a lookout
 schmieren,to daub
 schmieren,to grease
@@ -83128,8 +83125,8 @@ schneckenhäuser,snail shells
 schneckenlinie ; f,helical line
 schneckenrad ; n,snail-wheel
 schneckentempo ; n,at a crawl
-schnee ; m,snow
 schnee (kokain) ; m,snow (cocaine)
+schnee ; m,snow
 schneeanzug ; m,snowsuit
 schneeanzüge,snowsuits
 schneeball ; m,snowball
@@ -83204,9 +83201,9 @@ schneiden,to cut
 schneiden,to cutting edges
 schneiden,to scissor
 schneiden,to slice
+schneiden (linie),to traverse
 schneiden ; n,crosscutting
 schneiden ; n,cutting
-schneiden (linie),to traverse
 schneidend,incisive
 schneidend,incisively
 schneidend,piercing
@@ -83396,8 +83393,8 @@ schnittwunde ; f,cut
 schnittzeichnung ; f,sectional drawing
 schnitzarbeit ; f,carving
 schnitzel ; m,chipping
-schnitzel ; m,shred
 schnitzel ; m,cutlet
+schnitzel ; m,shred
 schnitzeljagd ; f,paper chase
 schnitzen,to carve
 schnitzen,whittle
@@ -83565,9 +83562,9 @@ schorf ; m,scab
 schorf ; m,scurf
 schorfig,scabbed
 schorfig,scurfy
+schornstein (schiff ; m,funnel
 schornstein ; m,chimney
 schornstein ; m,smokestack
-schornstein (schiff ; m,funnel
 schornsteine,smokestacks
 schornsteinfeger ; m,chimney-sweeper
 schoss,lap
@@ -83596,8 +83593,8 @@ schrank ; m,cubicle
 schrank ; m,cupboard
 schrank ; m,locker
 schranke ; f,bound
-schranke ; f,gate
 schranke ; f,bound
+schranke ; f,gate
 schrankkoffer,trunk
 schrankkoffer,wardrobe trunk
 schrankkoffer,wardrobe trunks
@@ -83934,8 +83931,8 @@ schrittgerät,planetary camera
 schritthalten,real-time
 schritthaltend,inline
 schritthöhe,standover
-schrittmacher ; m,pace maker
 schrittmacher (mode) ; m,trendsetter
+schrittmacher ; m,pace maker
 schrittmacherdienst ; m,pacemaking
 schrittmesser ; m,pedometer
 schrittsteuerung ; f,pacing
@@ -84496,11 +84493,11 @@ schwachstelle ; f,weak point
 schwachstrom ; m,low-voltage current
 schwachstrom ; m,weak current
 schwachstromtechnik ; f,communication engineering
+schwaden (nebel- ; m,billow
 schwaden ; m,swath
 schwaden ; m,swathes
 schwaden ; m,swaths
 schwaden ; m,vapour
-schwaden (nebel- ; m,billow
 schwadrone,squadrons
 schwadroniere,swagger
 schwadronieren,swagger
@@ -84813,11 +84810,11 @@ schwelgt,luxuriates
 schwelgt in erinnerungen,reminisces
 schwelgte,luxuriated
 schwelgte in erinnerungen,reminisced
+schwelle (gleis) ; f,sleeper
+schwelle (gleis) ; f,tie
 schwelle ; f,barrier
 schwelle ; f,sill
 schwelle ; f,threshold
-schwelle (gleis) ; f,sleeper
-schwelle (gleis) ; f,tie
 schwellen,sills
 schwellen,swell
 schwellen,swelled}
@@ -85018,8 +85015,8 @@ schwimmend,buoyant
 schwimmend,buoyantly
 schwimmend,floating
 schwimmend,swimming
-schwimmer ; m,swimmer
 schwimmer (vergaser) ; m,float gauge
+schwimmer ; m,swimmer
 schwimmerisch,natatorial
 schwimmernadel ; m,carburet needle
 schwimmflosse ; f,flipper
@@ -86079,10 +86076,10 @@ sehnen,tendons
 sehnend,longing
 sehnerv ; m,optic nerve
 sehnig,sinewy
+sehnsucht (nach) ; f,craving (for)
 sehnsucht ; f,longing
 sehnsucht ; f,wishfulness
 sehnsucht ; f,yearning
-sehnsucht (nach) ; f,craving (for)
 sehnsucht nach vergangenheit ; f,nostalgia
 sehnsüchte,aspirations
 sehnsüchte,longings
@@ -86476,9 +86473,9 @@ selbstbeweglich,automobile
 selbstbewusst,self confident
 selbstbewusstsein ; n,aplomb
 selbstbewusstsein ; n,self confidence
+selbstdarstellung (verächtlich),showmanship
 selbstdarstellung ; f,image cultivation
 selbstdarstellung ; f,self-projection
-selbstdarstellung (verächtlich),showmanship
 selbstdefinierend,self-defining
 selbstdekrementierend,autodecremental
 selbstdisziplin ; f,self dicipline
@@ -86668,11 +86665,11 @@ senden,to transmit
 sendepläne,schedules
 sendeprogramm ; n,broadcasting program
 sendeprogramme,broadcasting programs
+sender (drahtlos) ; m,radio transmitter
 sender ; m,broadcast station
 sender ; m,emitter
 sender ; m,transmitter
 sender ; m,transmitters
-sender (drahtlos) ; m,radio transmitter
 sender-empfänger,transceiver
 senderaum ; m,studio
 sendergruppen,networks
@@ -86715,11 +86712,11 @@ senkfusseinlage,arch support
 senkfüsse,flat feet
 senkgrube ; f,cesspool
 senkkasten ; m,caisson
-senkrecht,perpendicular (to)
 senkrecht,perpendicular
+senkrecht,perpendicular (to)
+senkrechte (zahlen-) folge ; f,column
 senkrechte ; f,perpendicular
 senkrechte ; f,verticalness
-senkrechte (zahlen-) folge ; f,column
 senkrechtstarter ; m,vertical take off plane
 senkrechtstarter ; m,vertical take off planes
 senkrechtstarter ; m,whizz kid
@@ -87172,6 +87169,7 @@ sich zerteilen,to dissipate
 sich zu schaffen machend an,tampering
 sich zunutze machen,to avail
 sich zunutze machend,utilizing
+sich zurechtmachen,to clean up
 sich zusammenballend,agglomerating
 sich zutrauen,dared}
 sich zutrauen,durst
@@ -87497,11 +87495,11 @@ sie wurden auf frischer tat ertappt.,they were caught red-handed.
 sie wurden freunde.,they got to be friends.
 sie würden,they'd
 sie äusserte sich sehr offen darüber.,she was very outspoken about it.
+sieb (für flüssigkeiten),strainer
+sieb (für sand),riddle screen
 sieb ; n,colander
 sieb ; n,sieve
 sieb ; n,sifter
-sieb (für flüssigkeiten),strainer
-sieb (für sand),riddle screen
 siebabfälle,siftings
 siebdruck ; m,silk-screen printing
 siebe,sifters
@@ -87653,8 +87651,8 @@ signalspeicher ; m,latch
 signaltafel ; f,code chart
 signalverarbeitung ; f,signal processing
 signalwirkung ; f,announcement effect
-signatur ; f,signature
 signatur (bibliothek) ; f,shelfmark
+signatur ; f,signature
 signaturen,signatures
 signierend,signing
 signierte,signed
@@ -88046,8 +88044,8 @@ sklerose ; f,sclerosis
 sklerotisch,sclerotic
 skonto ; m,discount
 skorbut ; f,scurvy
-skorpion ; m,scorpion
 skorpion (sternzeichen) ; m,scorpio
+skorpion ; m,scorpion
 skorpione,scorpions
 skrofeln,scrofula
 skrofulös,scrofulous
@@ -88259,10 +88257,10 @@ sollwert ; m,set point
 sollwertgeber ; m,director
 sollzinsen,debit interest
 sollzinsen,interest on debit balances
-solo ; n,solo
-solo ; n,standalone
 solo (sport) ; n,solo attempt
 solo (sport) ; n,solo run
+solo ; n,solo
+solo ; n,standalone
 solokonzert ; n,concertino
 solostimme ; f,solo part
 solostimmen,solo parts
@@ -88386,8 +88384,8 @@ sonnenbrände,sunburns
 sonnenbräune,suntan
 sonnenbäder,sun baths
 sonnend,basking
-sonnendach ; n,sun blind
 sonnendach (auto) ; n,sunhine roof
+sonnendach ; n,sun blind
 sonnendächer,sun blinds
 sonnenenergie ; f,solar energy
 sonnenfinsternis ; f,solar eclipse
@@ -88408,8 +88406,8 @@ sonnenlicht ; n,sunlight
 sonnenlos,sunless
 sonnennähe,perihelion
 sonnenschein ; m,sunshine
-sonnenschirm ; m,sunshade
 sonnenschirm (für damen),parasol
+sonnenschirm ; m,sunshade
 sonnenschirme ; f,sunshades
 sonnensegel,awning
 sonnensegel,awnings
@@ -88477,15 +88475,15 @@ sophistische,sophistical
 sopran ; m,soprano
 sopranistin ; f,soprano singer
 sorbett ; n,sherbet
+sorge (wegen ; f,concern (at
+sorge (wegen ; f,for)
+"sorge (wegen, um) ; f",about
 sorge ; f,alarm
 sorge ; f,care
 sorge ; f,problem
 sorge ; f,sorrow
 sorge ; f,trouble
 sorge ; f,worry
-sorge (wegen ; f,concern (at
-sorge (wegen ; f,for)
-"sorge (wegen, um) ; f",about
 sorgen,cares
 sorgen,headaches
 sorgen,pains
@@ -88657,9 +88655,9 @@ spalte ; f,chasm
 spalte ; f,chink
 spalte ; f,col
 spalte ; f,column
+spalte ; f,column
 spalte ; f,crevice
 spalte ; f,rift
-spalte ; f,column
 spalten,chinks
 spalten,clefts
 spalten,colons
@@ -88812,9 +88810,9 @@ spazieren,to stroll
 spazierend,walking
 spazierengehen,to stroll
 spazierengehen,to walk
+spaziergang (einfache sache) ; m,breeze
 spaziergang ; m,stroll
 spaziergang ; m,walk
-spaziergang (einfache sache) ; m,breeze
 spaziergänger,stroller
 spaziergänger,strollers
 spaziergänger,walker
@@ -89023,8 +89021,8 @@ sperrkreis ; m,eliminator
 sperrkreis ; m,wave trap
 sperrkreise,wave traps
 sperrmüll,bulk rubbish
-sperrschicht ; f,barrier layer
 sperrschicht (halbleiter) ; f,depletion layer
+sperrschicht ; f,barrier layer
 sperrstunde ; f,closing time
 sperrt,closes
 sperrung ; f,inhibition
@@ -89083,11 +89081,11 @@ spiegelreflexkamera ; f,reflex camera
 spiegelschrift ; f,mirror writing
 spiegeltelegraph ; m,heliotrope
 spiegelung ; f,reflex
+spiel (mechanisch) ; n,play
+spiel (mechanisch) ; n,slackness
 spiel ; n,game
 spiel ; n,match
 spiel ; n,play
-spiel (mechanisch) ; n,play
-spiel (mechanisch) ; n,slackness
 spielanzug ; m,playsuit
 spielanzug ; m,romper
 spieldose ; f,musical box
@@ -89184,8 +89182,8 @@ spinnräder,spinning wheels
 spinnwebe ; n,cobweb
 spinnwebe ; n,spider web
 spinnweben,spider webs
-spion ; m,spy
 spion (an der tür),syphole
+spion ; m,spy
 spionage ; f,espionage
 spionage ; f,spying
 spionageabwehr ; f,counter intelligence corps
@@ -89218,6 +89216,11 @@ spitzbart ; m,pointed beard
 spitzbogen ; m,pointed arch
 spitzbohrer ; m,flat drill
 spitzbärte,goatees
+spitze (eines berges) ; f,peak
+spitze (gewebe) ; f,lace
+spitze (kinn- ; f,point
+spitze (spitzes ende) ; f,tip
+spitze (turm-) ; f,spire
 spitze ; f,cusp
 spitze ; f,dig (at)
 spitze ; f,nib
@@ -89225,11 +89228,6 @@ spitze ; f,peak
 spitze ; f,pike
 spitze ; f,pinnacle
 spitze ; f,top
-spitze (eines berges) ; f,peak
-spitze (gewebe) ; f,lace
-spitze (kinn- ; f,point
-spitze (spitzes ende) ; f,tip
-spitze (turm-) ; f,spire
 spitzel,informer
 spitzel,nark
 spitzel,police spies
@@ -89506,11 +89504,11 @@ springen,sprung}
 springen,to branch
 springen,to skip
 springen,to spring
+springer (schach) ; m,knight
 springer ; m,diver
 springer ; m,jumper
 springer ; m,stand-in
 springer ; m,vaulter
-springer (schach) ; m,knight
 springflut ; f,spring tide
 springfluten,spring tides
 springquell ; m,geyser
@@ -89526,8 +89524,8 @@ sprintete,sprinted
 sprit ; m,spirit
 sprit ; m,spirits
 spritzarbeit ; f,spatterwork
-spritze ; f,syringe
 spritze ; f,shot
+spritze ; f,syringe
 spritzen,syringes
 spritzenhaus ; n,fire engine house
 spritzenhäuser,fire engine houses
@@ -89542,8 +89540,8 @@ spritzpistole ; f,spray gun
 spritzpistolen,spray guns
 spritzte,sprayed
 spritzöl,splash oil
-spross ; m,scion
 spross (pflanze) ; m,shoot
+spross ; m,scion
 sprosse,rung
 sprosse,scions
 sprosse,step
@@ -89613,14 +89611,14 @@ spulen,bobbins
 spuler ; m,winder
 spulte,spooled
 spund ; m,tap
+spur (beim auto) ; f,toe
 spur ; f,groove
 spur ; f,soupcon
 spur ; f,spoor
 spur ; f,trace
+spur ; f,trace
 spur ; f,track
 spur ; f,vestige
-spur (beim auto) ; f,toe
-spur ; f,trace
 spuradresse ; f,track address
 spuren,ruts
 spuren,spoors
@@ -89996,9 +89994,9 @@ stand ; m,stall
 stand ; m,stand
 stand ; m,standing position
 stand ; m,state
-stand eines wettkampfes ; m,score
 stand an,queued
 stand aufbauen (abbauen),to install (remove) a stand
+stand eines wettkampfes ; m,score
 standard ; m,standard
 standard...,preset
 standardbasis ; f,standard basis
@@ -90059,9 +90057,9 @@ standverbindung ; f,leased connection
 standverbindung ; f,non-switched line
 standverbindung ; f,point-to-point connection
 standzeit ; f,life
+stange (fahrrad),bar
 stange ; f,bar
 stange ; f,rod
-stange (fahrrad),bar
 stangenbohne ; f,runner bean
 stangenbohnen,runner beans
 stangendrucker ; m,bar printer
@@ -90091,8 +90089,8 @@ stapelplätze,stockyards
 stapelrad ; m,paddlewheel
 stapelspeicher ; m,pop stack
 stapelzeiger ; m,stack pointer
-star ; m,starling
 star (film-) ; m,star
+star ; m,starling
 starallüren,airs and graces
 stare,starlings
 stargast ; m,star guest
@@ -90120,6 +90118,8 @@ starrsinnig,obstinate
 starrsucht ; f,catalepsy
 starrt,stares
 starrte,stared
+start (flugzeug) ; m,takeoff
+start (rakete) ; m,liftoff
 start ; m,activation
 start ; m,blastoff
 start ; m,boot
@@ -90127,8 +90127,6 @@ start ; m,departure
 start ; m,kickoff
 start ; m,start
 start ; m,starting
-start (flugzeug) ; m,takeoff
-start (rakete) ; m,liftoff
 start-stop-betrieb ; m,asynchronous operation
 start-stop-betrieb ; m,start-stop operation
 startadresse ; f,startaddress
@@ -90277,10 +90275,10 @@ stauwehre,weirs
 steak ; n,steak
 stecheisen,broach
 stechen,to stick
-stechen ; n,pang
-stechen ; n,twinge
 stechen (insekt),stung}
 stechen (insekt),to sting
+stechen ; n,pang
+stechen ; n,twinge
 stechender schmerz,twinge
 stechfliege ; f,biting housefly
 stechfliegen,biting houseflies
@@ -90404,22 +90402,22 @@ steigungen,gradients
 steigungswinkel ; m,gradient angle
 steilheit ; f,steepness
 steilhänge,steeps
-stein ; m,brick
-stein ; m,stone
 stein (brettspiel) ; m,piece
 stein (einer uhr) ; m,ruby
+stein ; m,brick
+stein ; m,stone
 stein),to carve out
 steinadler ; m,golden eagle
-steinbock ; m,ibex
 steinbock (sternzeichen) ; m,capricorn
+steinbock ; m,ibex
 steinbrett ; n,hod
 steinbretter,hods
 steinbruch ; m,quarry
 steinbrüche,quarries
 steinbutt ; m,turbot
 steinböcke,ibexes
-steindruck ; m,lithography
 steindruck (bild) ; m,lithograph
+steindruck ; m,lithography
 steine,stones
 steineiche ; f,holm
 steineichen,holms
@@ -90547,6 +90545,10 @@ stellte wieder an,recommissioned
 stellte wieder dar,redisplayed
 stellte wieder her,re established
 stellte wieder her,reconstituted
+stellung (posten) ; f,job
+stellung (posten) ; f,position
+stellung (posten) ; f,post
+stellung (posten) ; f,situation
 stellung ; f,ambassadorship
 stellung ; f,attitude
 stellung ; f,condition
@@ -90557,10 +90559,6 @@ stellung ; f,posture
 stellung ; f,stance
 stellung ; f,standung
 stellung ; f,status
-stellung (posten) ; f,job
-stellung (posten) ; f,position
-stellung (posten) ; f,post
-stellung (posten) ; f,situation
 stellung nehmen (zu),to give one's view (on)
 stellung nehmen (zu),to take a stand (on)
 stellung nehmen für,to stand up for
@@ -90808,14 +90806,14 @@ stetig,continuous
 stetig differenzierbar,continuously differentiable
 stetige,steadily
 stets,always
+steuer (auf) ; f,tax (on)
+steuer (indirekte) ; f,duty
 steuer ; n,duty
 steuer ; n,helm
 steuer ; n,rudder
 steuer ; n,steering wheel
 steuer ; n,steering wheel [mot.]
 steuer ; n,tax
-steuer (auf) ; f,tax (on)
-steuer (indirekte) ; f,duty
 steuer- und wirtschaftsberater ; m,chartered accountant (ca)
 steuerabzug ; m,deduction of tax
 steuerabzug ; m,tax deduction
@@ -90875,9 +90873,9 @@ steuerlast ; f,tax load
 steuerlasten,tax loads
 steuerliche vermögensbewertung,assessed valuation
 steuerlos,rudderless
-steuermann ; m,cox
 steuermann (rudern) ; m,coxswain
 steuermann (schiff) ; m,helmsman
+steuermann ; m,cox
 steuermarke ; f,revenue stamp
 steuermittel,tax money
 steuermänner,coxes
@@ -90910,8 +90908,8 @@ steuerruder ; n,helm
 steuerräder,steering wheels
 steuerrückerstattung,tax refund
 steuerrückstände,arrears of taxes
-steuersatz ; m,tax rate
 steuersatz (fahrrad) ; m,headset
+steuersatz ; m,tax rate
 steuerschuld ; f,accrued taxes
 steuerschuld ; f,tax due
 steuerschätzung,arbitrary assessment
@@ -90923,6 +90921,7 @@ steuertafel ; f,control panel
 steuerte,conned
 steuerte,steered
 steuerte an,headed
+steuerung (flugzeug) ; f,piloting
 steuerung ; f,control
 steuerung ; f,control system
 steuerung ; f,controls
@@ -90930,7 +90929,6 @@ steuerung ; f,drive
 steuerung ; f,steerage
 steuerung ; f,steering
 steuerung ; f,supervision
-steuerung (flugzeug) ; f,piloting
 steuerungen,steerings
 steuerungsfunktion ; f,allocative function
 steuerungsprogramm ; n,handler
@@ -90950,8 +90948,6 @@ stibitzen,pilfer
 stibitzend,pilfering
 stibitzt,pilfers
 stibitzte,pilfered
-stich ; m,sting
-stich ; m,twinge
 stich (farb-) ; m,tinge
 stich (kupfer-) ; m,engraving
 stich (messer-) ; m,stab
@@ -90963,6 +90959,8 @@ stich (schmerz) ; m,pain
 stich (schmerz) ; m,stabbing
 stich (schmerz) ; m,stitch
 stich (wespen-) ; m,sting
+stich ; m,sting
+stich ; m,twinge
 stichelei ; m,gibes
 stichelei ; m,needling
 stichelei ; m,quip
@@ -91063,21 +91061,21 @@ stieglitz ; m,goldfinch
 stiehlt,purloins
 stiehlt,rustles
 stiehlt,steals
-stiel ; m,handle
-stiel ; m,helve
-stiel ; m,shaft
 stiel (besen-) ; m,stick
 stiel (eines glases) ; m,stem
 stiel (pflanze) ; m,stalk
 stiel (pflanze) ; m,stem
+stiel ; m,handle
+stiel ; m,helve
+stiel ; m,shaft
 stielaugen machen,to goggle
 stiele,helves
 stiele,shafts
 stiellos,sessile
 stieltopf ; m,saucepan
 stieltöpfe,saucepans
-stier ; m,bull
 stier (sternzeichen) ; m,taurus
+stier ; m,bull
 stiere,bulls
 stiere,tauruses
 stieren,to goggle
@@ -91405,10 +91403,10 @@ stoisch,stoicly
 stoische,stoical
 stoischen,stoically
 stola ; f,stole
-stollen ; m,fruit cake
-stollen ; m,fruit loaf
 stollen (bergbau) ; m,tunnel
 stollen (fussballschuh),stud
+stollen ; m,fruit cake
+stollen ; m,fruit loaf
 stolpern,to stumble
 stolpern,to trip
 stolpernd,stumbling
@@ -92254,9 +92252,9 @@ strotzte,abounded
 strubbelig,tousled
 strudel ; m,eddy
 strudel ; m,maelstrom
+strudel ; m,strudel
 strudel ; m,whirlpool
 strudel ; m,whirlpools
-strudel ; m,strudel
 strudeln,swirls
 strudeln,whirl
 strudelnd,whirling
@@ -92977,10 +92975,10 @@ suchend,prospecting
 suchend,questing
 suchend,searching
 suchend,seeking
+sucher (foto) ; m,view-finder
 sucher ; m,searcher
 sucher ; m,searchers
 sucher ; m,seeker
-sucher (foto) ; m,view-finder
 sucherkamera ; f,range-finder camera
 suchfehler ; m,seek error
 suchkartei ; f,tracing file
@@ -93178,8 +93176,8 @@ symbolisierten,symbolized
 symetrisch,balanced
 symmetrie ; f,symmetry
 symmetrien,symmetries
-symmetrisch,symmetrical
 symmetrisch,symmetric
+symmetrisch,symmetrical
 symmetrische,symmetric
 symmetrisches,symmetrically
 sympathie ; f,sympathy
@@ -93222,8 +93220,8 @@ synchroner zähler,parallel counter
 synchrongetriebe,synchromesh
 synchrongetriebe,synchromesh gear
 synchrongetriebe,synchromesh gears
-synchronisation ; f,synchronization
 synchronisation (film) ; f,dubbing
+synchronisation ; f,synchronization
 synchronisiere,synchronize
 synchronisieren,sync
 synchronisierend,synchronize
@@ -93718,6 +93716,8 @@ tabulatortaste ; f,tab key
 tabus,taboos
 tachometer ; m,speedometer
 tachometer ; m,tachometer
+tadel (in der schule) ; m,bad mark
+tadel (vorwurf) ; m,reproach
 tadel ; m,animadversion
 tadel ; m,blame
 tadel ; m,censure
@@ -93725,8 +93725,6 @@ tadel ; m,impeachment
 tadel ; m,objurgation
 tadel ; m,rebuke
 tadel ; m,reproof
-tadel (in der schule) ; m,bad mark
-tadel (vorwurf) ; m,reproach
 tadellos,blameless
 tadellos,blamelessly
 tadellos,reproachless
@@ -94029,9 +94027,9 @@ tankte,tanked
 tankte auf,refueled
 tankwagen ; m,tank lorry
 tankwart ; m,filling station attendant
+tanne (fälschlich auch fichte),fir
 tanne ; f,fir
 tanne ; f,fir (tree)
-tanne (fälschlich auch fichte),fir
 tannen,firs
 tannenbaum ; m,fir tree
 tannenbäume,fir trees
@@ -94120,10 +94118,10 @@ tarierend,taring
 tariert,tares
 tarierte,tared
 tarierten,tared
-tarif ; m,rate
-tarif ; m,scale of charges
 tarif (gebühr),charge
 tarif (zoll) ; m,tariff
+tarif ; m,rate
+tarif ; m,scale of charges
 tarifabschluss ; m,wage settlement
 tarife,tariffs
 tarifgruppe ; f,wage group
@@ -94854,8 +94852,8 @@ television ; f,television
 telexdienst ; m,telex service
 telexdienste,telex services
 telexnetz ; n,telex network
-teller ; m,plate
 teller (am skistock) ; m,disk
+teller ; m,plate
 tellerfeder ; f,plate spring
 tellermütze,flat cap
 tellermützen,flat caps
@@ -94953,8 +94951,8 @@ termiten,termites
 ternär,ternary
 terorisierend,bulldozing
 terpentin ; n,turpentine
-terrain ; n,terrain
 terrain (grundstück),plot of land
+terrain ; n,terrain
 terrasse ; f,terrace
 terrassen,terraces
 terrassenhaus ; n,stepped building
@@ -95494,8 +95492,8 @@ tischlereien,joineries
 tischlerleim ; m,solid glue
 tischlerte,did joiner's work
 tischplan ; m,seating plan
-tischplatte ; f,table top
 tischplatte (ausziehbar) ; f,leaf
+tischplatte ; f,table top
 tischplatten,table tops
 tischrechner ; m,desk calculator
 tischrechner ; m,tabletop computer
@@ -95647,9 +95645,9 @@ tolerante,permissively
 tolerante,tolerant
 tolerantere,more tolerant
 toleranteste,most tolerant
+toleranz (münzwesen),remedy
 toleranz ; f,permissiveness
 toleranz ; f,tolerance
-toleranz (münzwesen),remedy
 toll,jazzy
 toll,mad
 toll,madcap
@@ -95693,9 +95691,9 @@ tombak,tombac
 tombola ; f,raffle
 ton ; m,audio
 ton ; m,chime
+ton ; m,clay
 ton ; m,sound
 ton ; m,tone
-ton ; m,clay
 ton...,audio
 tonalität,tonality
 tonarm ; m,tone arm
@@ -95743,10 +95741,10 @@ tonlose,soundlessly
 tonlosere,more soundless
 tonloseste,most soundless
 tonnage ; f,tonnage
-tonne ; f,barrel
 tonne (gefäss),barrel
 tonne (gefäss),cask
 tonne (massemass),ton
+tonne ; f,barrel
 tonnen,tons
 tonnengehalt ; n,tonnage
 tonnengewölbe,barrel vault
@@ -95945,8 +95943,8 @@ toxikologie ; f,toxicology
 toxikologisch,toxicological
 toxikologische,toxicologically
 trab ; m,trot
-trabant ; m,satellite
 trabant (auto) ; m,trabant
+trabant ; m,satellite
 trabantenstadt ; f,satellite town
 trabantenstädte,satellite towns
 traber,trotter
@@ -96166,9 +96164,9 @@ transzendent,transcendental
 transzendentalist ; m,transcendentalist
 transzendentalisten,transcendentalists
 transzendentalphilosophie ; f,transcendentalism
+trapez (sport) ; n,trapeze
 trapez ; n,trapezium
 trapez ; n,trapezoid
-trapez (sport) ; n,trapeze
 trapeze,trapezes
 trapeziode,trapezoids
 trapeziodes,trapezoidal
@@ -96474,12 +96472,12 @@ trennwand ; f,divider
 trennwand ; f,partition
 trennzeichen ; n,separator
 treppabwärts,downstairs
+treppe (einzelne stufe) ; f,stair
+treppe (einzelne stufe) ; f,step
 treppe ; f,a flight of steps
 treppe ; f,staircase
 treppe ; f,stairs
 treppe ; f,stairway
-treppe (einzelne stufe) ; f,stair
-treppe (einzelne stufe) ; f,step
 treppe hinabgehen,to go downstairs
 treppe hinauf (hinab),up (down) stairs
 treppenabsatz ; m,landing
@@ -96536,12 +96534,12 @@ tricksend,tricking
 trieb,coasted
 trieb,tided
 trieb,wreaked
-trieb ; m,desire (for)
-trieb ; m,sex drive
 trieb (antrieb) ; m,impulse
 trieb (botanik) ; m,young shoot
 trieb (drang) ; m,urge
 trieb (treibende kraft) ; m,driving force
+trieb ; m,desire (for)
+trieb ; m,sex drive
 trieb an,actuated
 trieb an,energized
 trieb an,goaded
@@ -97031,9 +97029,9 @@ turbantragend,turbaned
 turbine ; f,nozzle
 turkmenistan,turkmenistan (tm)
 turks- und caicosinseln,turks and caicos islands (tc)
-turm ; m,tower
 turm (schach) ; m,castle
 turm (schach) ; m,rook
+turm ; m,tower
 turmgeschütz,turret gun
 turmhoch,high as a tower
 turnen,to do gymnastics
@@ -97450,9 +97448,9 @@ umbrechen,to make up
 umbrechend,wrapping
 umbringen,slain}
 umbringen,to slay
+umbruch (drucktechnik) ; m,make up
 umbruch ; m,upheavel
 umbruch ; m,wrap
-umbruch (drucktechnik) ; m,make up
 umbruchkorrektur ; f,page-proof
 umbrüche,upheavels
 umbuchung (wirtschaft) (auf) ; f,transfer (to)
@@ -97594,9 +97592,9 @@ umgebunden,tied round
 umgebung ; f,adjacence
 umgebung ; f,environment
 umgebung ; f,environs
+umgebung ; f,neighbourhoood
 umgebung ; f,purlieus
 umgebung ; f,surroundings
-umgebung ; f,neighbourhoood
 umgebungen,entourages
 umgebungen,environments
 umgebungen,surroundings
@@ -97857,8 +97855,8 @@ umlaufskapitalien,floating capitals
 umlaufspeicher ; m,circulating storage
 umlaufszeit ; f,period of revolution
 umlaufverdrängerpumpe,rotary pump
-umlaut ; m,umlaut
 umlaut (linguistik) ; m,mutation
+umlaut ; m,umlaut
 umlaute,umlauts
 umlautend,mutating
 umlegekragen ; m,turn down collar
@@ -99268,13 +99266,13 @@ unempfänglichkeit,unresponsiveness
 unemployed,arbeitslos
 unendlich,indefinitely
 unendlich,infinite
+unendlich,infinite
 unendlich,infinitely
+unendlich,infinity
 unendlich,infinity
 unendlich,nonfinite
 unendlich,nonterminating
 unendlich,unendingly
-unendlich,infinity
-unendlich,infinite
 unendlich-dimensional,infinite-dimensional
 unendlichere,more endless
 unendlichkeit ; f,endlessness
@@ -100021,8 +100019,8 @@ ungekünsteltere,more unaffected
 ungekünsteltste,most unaffected
 ungekürzt,unabridged
 ungekürzt,unexpurgated
-ungeladen,unloaded
 ungeladen,uncharged
+ungeladen,unloaded
 ungelegen,inconvenient
 ungelegen,inopportunely
 ungelegen,unseasonable
@@ -100117,8 +100115,8 @@ ungeprüft,unevaluated
 ungeprüft,unexamined
 ungepuffert,unbuffered
 ungerade,odd
-ungerade,unlevel
 ungerade,odd
+ungerade,unlevel
 ungerade zahl,odd number
 ungerade zahl,uneven number
 ungeraten,undutiful
@@ -100377,8 +100375,8 @@ ungleichmässigkeit,inequality
 ungleichmässigkeiten,asymmetries
 ungleichmässigkeiten,inequalities
 ungleichseitig,scalene
-ungleichung ; f,unequation
 ungleichung ; f,inequality
+ungleichung ; f,unequation
 unglimpflich,harsh
 ungläubig,faithless
 ungläubig,incredulous
@@ -101031,6 +101029,8 @@ unritterlich,unchivalrous
 unromantisch,unromantic
 unromantischen,unromantically
 unruh (der uhr) ; f,balance
+unruhe (bewegung) ; f,commotion
+unruhe (bewegung) ; f,tumult
 unruhe ; f,about
 unruhe ; f,anxiety
 unruhe ; f,concern (at
@@ -101045,8 +101045,6 @@ unruhe ; f,ruckus
 unruhe ; f,trouble
 unruhe ; f,unease
 unruhe ; f,uneasiness
-unruhe (bewegung) ; f,commotion
-unruhe (bewegung) ; f,tumult
 unruhe stiften,to disturb the peace
 unruhen (politisch),disturbances
 unruhen (politisch),unrest
@@ -101267,9 +101265,9 @@ unstet,vagrantly
 unstete,erratically
 unstetes wetter,dodgy weather
 unstetig,discontinuous
+unstetig,discontinuous
 unstetig,unsteadily
 unstetig,unsteady
-unstetig,discontinuous
 unstetigkeit ; f,discontinuity
 unstetigkeit ; f,unsteadiness
 unstillbar,unappeasable
@@ -103070,9 +103068,9 @@ ursachen,causales
 ursprung ; m,birth
 ursprung ; m,genesis
 ursprung ; m,origin
+ursprung ; m,origin
 ursprung ; m,source
 ursprung ; m,sourse
-ursprung ; m,origin
 ursprungsbeleg ; m,master document
 ursprungsdaten,source data
 ursprünge,origins
@@ -103697,10 +103695,10 @@ verbinden,to interconnect
 verbinden,to link
 verbinden,to splice
 verbinden,to tie
-verbinden ; n,connecting
-verbinden ; n,splicing
 verbinden (mit),to connect (to)
 verbinden (mit),to put through
+verbinden ; n,connecting
+verbinden ; n,splicing
 verbindend,agglutinating
 verbindend,aligning
 verbindend,associational
@@ -103993,26 +103991,26 @@ verbreitend,disseminating
 verbreitend,irradiating
 verbreitend,propagating
 verbreitend,vulgarizing
+verbreiter (von gerüchten etc.),monger
 verbreiter ; m,circulator
 verbreiter ; m,circulators
 verbreiter ; m,propagator
 verbreiter ; m,utterer
 verbreiter ; m,utterers
-verbreiter (von gerüchten etc.),monger
 verbreitern,to broaden
 verbreiternd,broadening
 verbreitert,broadens
 verbreiterte,broadened
 verbreitet,bandies
 verbreitet,bruits
+verbreitet,common
 verbreitet,diffuses
 verbreitet,disseminates
 verbreitet,propagated
 verbreitet,propagates
 verbreitet,vulgarizes
-verbreitet (zeitung),widely read
-verbreitet,common
 verbreitet,widespread
+verbreitet (zeitung),widely read
 verbreitet allgemein,universalizes
 verbreitet sich,expatiates
 verbreitete,bandied
@@ -104191,8 +104189,8 @@ verdauungsfördernd,digestive
 verdauungsstörung,dyspepsia
 verdauungsstörung,indigestion
 verdauungsstörungen,indigestions
-verdeck ; n,deck
 verdeck (kfz) ; n,folding top
+verdeck ; n,deck
 verdeckbar,concealable
 verdecken,to screen
 verdeckend,blanketing
@@ -104798,8 +104796,8 @@ verfahrensorientiert,procedural
 verfahrensorientiert,procedure-oriented
 verfahrensrecht,adjective law
 verfahrensrechtliche,procedurally
-verfahrenstechnik ; f,process engineering
 verfahrenstechnik (chemie) ; f,chemical engineering
+verfahrenstechnik ; f,process engineering
 verfall ; m,decadence
 verfall ; m,decadences
 verfall ; m,dilapidation
@@ -104984,8 +104982,8 @@ verfolgen,to obsess
 verfolgen,to persecute
 verfolgen,to trace
 verfolgen,to track
-verfolgen ; n,tracking
 verfolgen (ein ziel),to pursue
+verfolgen ; n,tracking
 verfolgend,dogging
 verfolgend,haunting
 verfolgend,persecuting
@@ -105964,9 +105962,9 @@ verkehrsstreife ; f,traffic patrol
 verkehrssünder,traffic offender
 verkehrssünder,traffic offenders
 verkehrsteilnehmer ; m,road user
+verkehrsunfall (schwerer) ; m,car crash
 verkehrsunfall ; m,road accident
 verkehrsunfall ; m,traffic accident
-verkehrsunfall (schwerer) ; m,car crash
 verkehrsunfälle,traffic accidents
 verkehrsunternehmen ; n,transportation company
 verkehrsunterricht ; m,traffic instruction
@@ -106276,10 +106274,10 @@ verlangen,requisition
 verlangen,to ask
 verlangen,to demand
 verlangen,to require
+verlangen (nach) ; n,desire (for)
 verlangen ; n,appetites
 verlangen ; n,demand
 verlangen ; n,hankering
-verlangen (nach) ; n,desire (for)
 verlangen nach,to long for
 verlangend,demanding
 verlangend,requiring
@@ -106335,9 +106333,9 @@ verlassene,forlornly
 verlassenen,forsaken
 verlassenheit ; f,abandonment
 verlastet,lorried
+verlauf (eines naturereignisses oder -prozesses) ; f,regime
 verlauf ; m,order of events
 verlauf ; m,progression
-verlauf (eines naturereignisses oder -prozesses) ; f,regime
 verlaufend,zigzagging
 verlaust,full of lice
 verlaust,verminous
@@ -106620,10 +106618,10 @@ verlosend,raffling
 verlost,raffles
 verloste,raffled
 verlosten,raffled
-verlosung ; f,drawing lots
-verlosung ; f,lottery
 verlosung (lotterie) ; f,lottery
 verlosung (lotterie) ; f,raffle
+verlosung ; f,drawing lots
+verlosung ; f,lottery
 verlosungen,draws
 verlosungen,lotteries
 verlottern,to go to rack
@@ -106736,8 +106734,8 @@ vermehrt,aggrandizes
 vermehrt,augmented
 vermehrte,aggrandized
 vermehrung ; f,aggrandizement
-vermehrung ; f,increase
 vermehrung ; f,breeding
+vermehrung ; f,increase
 vermehrung ; f,reproduction
 vermeidbar,avoidable
 vermeidbar,preventible
@@ -107776,6 +107774,8 @@ verschluckte,swallowed up
 verschlungen,devoured
 verschlungen,engulfed
 verschlungen,gobbled
+verschluss (photoapparat) ; m,shutter
+verschluss (waffe) ; m,breech
 verschluss ; m,clasp
 verschluss ; m,closure
 verschluss ; m,cloture
@@ -107783,8 +107783,6 @@ verschluss ; m,fastener
 verschluss ; m,lock
 verschluss ; m,seal
 verschluss ; m,shutter
-verschluss (photoapparat) ; m,shutter
-verschluss (waffe) ; m,breech
 verschlussdeckel ; m,cover plate
 verschlusssache ; f,classified document
 verschlussstreifen ; m,blanking plate
@@ -108074,9 +108072,9 @@ versetzt werden,to get one's remove
 versetzte,hocked
 versetzte,shifted
 versetzte,transposed
-versetzung ; f,shifting
 versetzung (eines halbleiters) ; f,dislocation
 versetzung (nach) ; f,inclusion (in)
+versetzung ; f,shifting
 versetzungen,shiftings
 verseuchen,to contaminate
 verseuchend,contaminating
@@ -108445,8 +108443,8 @@ verstoss (gegen),offence
 verstoss (gegen),offense [am.] (against)
 verstoss (gegen),violation (of)
 verstossen,contravene
-verstossen,to outcast
 verstossen,to impinge
+verstossen,to outcast
 verstossen gegen,to defy
 verstossend,contravening
 verstossene,castoff
@@ -108795,12 +108793,12 @@ vertieft,preoccupied
 vertiefte,deepened
 vertieftsein ; n,preoccupancy
 vertieftsein ; n,preoccupation
+vertiefung (geistige) ; f,absorption
 vertiefung ; f,consolidation
 vertiefung ; f,deepening
 vertiefung ; f,dent
 vertiefung ; f,depression
 vertiefung ; f,immersion
-vertiefung (geistige) ; f,absorption
 vertiert,brutish
 vertikalablenkplatten,y-plates
 vertikale ; f,vertical (line)
@@ -108877,6 +108875,8 @@ vertrat,represented
 vertraten,respresented
 vertrauen,to confide
 vertrauen,to rely
+vertrauen (auf) ; n,faith (in)
+vertrauen (in),to trust (in)
 vertrauen ; n,assurance
 vertrauen ; n,confidence
 vertrauen ; n,confidentialness
@@ -108884,8 +108884,6 @@ vertrauen ; n,faith
 vertrauen ; n,reliance
 vertrauen ; n,trust
 vertrauen ; n,trustfulness
-vertrauen (auf) ; n,faith (in)
-vertrauen (in),to trust (in)
 vertrauend,confident
 vertrauend,confidently
 vertrauend,confiding
@@ -108945,9 +108943,9 @@ vertraute an,intrusted
 vertrauten,intimated
 vertrauten,intimates
 vertrautes,intimately
+vertrautheit (mit) ; f,familiarity (with)
 vertrautheit ; f,familiarness
 vertrautheit ; f,intimateness
-vertrautheit (mit) ; f,familiarity (with)
 vertrautheiten,familiarities
 vertreiben,dispelled
 vertreiben,distributes
@@ -108977,6 +108975,7 @@ vertretbarkeit ; f,defensibleness
 vertreten,to act for
 vertreten,to act in place of
 vertreten,to represent
+vertreter (einer firma) ; m,representative
 vertreter ; m,advocate
 vertreter ; m,agent
 vertreter ; m,deputy
@@ -108984,7 +108983,6 @@ vertreter ; m,exponent
 vertreter ; m,proxy
 vertreter ; m,stand-in
 vertreter ; m,substitute
-vertreter (einer firma) ; m,representative
 vertreterkosten,agency expenses
 vertreterprovision ; f,agency fee
 vertretung ; f,agency
@@ -109076,11 +109074,11 @@ verunreinigen,to pollute
 verunreinigend,polluting
 verunreinigt,pollutes
 verunreinigte,polluted
+verunreinigung (halbleiter) ; f,pollution
 verunreinigung ; f,contamination
 verunreinigung ; f,defilement
 verunreinigung ; f,impureness
 verunreinigung ; f,impurity
-verunreinigung (halbleiter) ; f,pollution
 verunreinigungen,impurities
 verunsichern,to make insecure
 verunsichernd,making insecure
@@ -109888,9 +109886,9 @@ verzweifelte,desperately
 verzweifelung ; f,desperation
 verzweifelung ; f,forlornness
 verzweifelungen,forlornnesses
+verzweiflung (an) ; f,despair (of)
 verzweiflung ; f,despair
 verzweiflung ; f,desperation
-verzweiflung (an) ; f,despair (of)
 verzweiflungsvoller kummer,grief and despair
 verzweigen,to branch
 verzweigen,to ramify
@@ -110661,6 +110659,7 @@ vollstreckungsbefehl ; m,writ of execution
 vollstreckungsbefehle,writs of execution
 vollständig,absolutely
 vollständig,complete
+vollständig,complete
 vollständig,completed
 vollständig,completely
 vollständig,entire
@@ -110671,7 +110670,6 @@ vollständig,quitely
 vollständig,thorough
 vollständig,total
 vollständig,totally
-vollständig,complete
 vollständige,complain
 vollständige,completive
 vollständige,plain
@@ -110699,6 +110697,7 @@ volumetrisch,volumetric
 volumetrische,volumetrically
 vom anfang bis zum ende,from start to finish
 vom erfolg berauscht,inebriated by success
+vom fass,on tap
 vom hören,by hearsay
 vom regen in die traufe,out from the frying pan into the fire
 vom schicksal bestimmt,fated
@@ -110943,8 +110942,8 @@ vorauszahlend,prepaying
 vorauszahlung ; f,advance payment
 vorauszahlung ; f,prepayment
 vorauszahlungsrabatt ; m,anticipation rebate
-vorbau ; m,front building
 vorbau (fahrrad) ; m,stem
+vorbau ; m,front building
 vorbedacht,aforethought
 vorbedacht ; f,forethought
 vorbedacht ; f,premeditation
@@ -111163,10 +111162,10 @@ vorführungen,screenings
 vorführungen,viewings
 vorfürsorglich,provident
 vorfürsorgliche,providently
+vorgabe (jagd ; f,law
 vorgabe ; f,default
 vorgabe ; f,demand
 vorgabe ; f,select
-vorgabe (jagd ; f,law
 vorgaben,defaults
 vorgabezeit ; f,all in time
 vorgabezeit ; f,allowed time
@@ -111404,8 +111403,8 @@ vorlage ; f,pattern
 vorlage ; f,submittal
 vorlagen,submittals
 vorland ; n,foreland
-vorlauf ; n,forerun
 vorlauf (fahrrad) ; m,fork rake
+vorlauf ; n,forerun
 vorlaut,forward
 vorlaut,pert
 vorlaut,pertly
@@ -112040,9 +112039,9 @@ völlig umsonst,of no earthly use
 völlige,arrantly
 völlige verzweiflung,black despair
 vörträge,recitals
+waage (sternzeichen) ; f,libra
 waage ; f,balance
 waage ; f,libra
-waage (sternzeichen) ; f,libra
 waagerecht,horizontal
 waagerecht,level
 waagerechtere,more horizontal
@@ -112114,8 +112113,8 @@ wachsen,to increase
 wachsend,accumulative
 wachsend,adolescent
 wachsend,growing
-wachsend,waxing
 wachsend,increasing
+wachsend,waxing
 wachsende,accumulatively
 wachsfigur ; f,wax figure
 wachsfigur ; f,waxwork
@@ -113092,10 +113091,10 @@ wasserfahrzeug ; n,water craft
 wasserfahrzeug ; n,watercraft
 wasserfahrzeuge,water crafts
 wasserfahrzeuge,watercrafts
+wasserfall (gross),falls
 wasserfall ; m,cascade
 wasserfall ; m,cataract
 wasserfall ; m,waterfall
-wasserfall (gross),falls
 wasserfarbe ; f,watercolor
 wasserfarbe ; f,watercolour
 wasserfarben,watercolors
@@ -113169,8 +113168,8 @@ wasserläufe,watercourses
 wasserlöslich,water soluble
 wasserlöslichere,more water soluble
 wassermangel ; m,water shortage
-wassermann ; m,merman
 wassermann (sternzeichen) ; m,aquarius
+wassermann ; m,merman
 wassermelone ; f,water melon
 wassermelone ; f,watermelon
 wassermelonen,watermelons
@@ -113428,9 +113427,9 @@ weg,off
 weg ; m,alley
 weg ; m,lane
 weg ; m,path
+weg ; m,path
 weg ; m,road
 weg ; m,way
-weg ; m,path
 weg damit!,hence with it!
 weg zum ruhm,avenue to fame
 wegblasen,to blow off
@@ -113668,8 +113667,8 @@ weichherzigkeit ; f,softheartedness
 weichherzigkeit ; f,tenderheartedness
 weichherzigkeiten,soft heartednesses
 weichherzigste,most soft hearted
-weichholz ; n,softwood
 weichholz (fälschlich auch nadelholz),softwood
+weichholz ; n,softwood
 weichlich,mollycoddle
 weichlich,mushy
 weichlich,softish
@@ -113775,8 +113774,8 @@ weile ; f,while
 weilen,whiles
 weilend,staying
 weiler ; m,hamlet
-wein ; m,vine
 wein (getränk),wine
+wein ; m,vine
 wein vom fass,wine from the wood
 wein...,tartaric
 weinbau ; m,viticulture
@@ -114306,9 +114305,9 @@ wendel ; f,coil
 wendeltreppe ; f,flight of winding stairs
 wendeltreppe ; f,staircorkscrew
 wendeltreppen,flights of winding stairs
+wendepunkt ; m,inflection point
 wendepunkt ; m,reversal point
 wendepunkt ; m,watershed
-wendepunkt ; m,inflection point
 wendepunkte,turning points
 wendet ab,averts
 wendet an,applies
@@ -114582,9 +114581,9 @@ werkzeugmaschine ; f,machine-tool
 werkzeugtasche ; f,tool bag
 werkzeugtaschen,tool bags
 werkzeugwechsel ; m,tool change
-wermut ; m,absinthe
 wermut (pflanze) ; m,wormwood
 wermut (wein) ; m,vermouth
+wermut ; m,absinthe
 wert,worth
 wert ; m,account
 wert ; m,sign
@@ -114604,9 +114603,9 @@ wertbildung ; f,accumulation of value
 wertbrief ; m,insured letter
 werte,values
 werte,worthes
+wertebereich ; m,co-domain
 wertebereich ; m,range
 wertebereich ; m,values rang
-wertebereich ; m,co-domain
 wertend,valuing
 werteste,worthiest
 wertet ab,devalues
@@ -114923,8 +114922,8 @@ wickelte ein,swathed
 wicken,vetches
 wicklung ; f,coil
 wicklungsverhältnis,turns rate
-widder ; m,ram
 widder (sternzeichen) ; m,aries
+widder ; m,ram
 wideraufnahme ; f,resumption
 widerborstig,cross grained
 widerfahren,to befall
@@ -116015,11 +116014,11 @@ wink ; m,beck
 wink ; m,nod
 wink ; m,suggestion
 winkel ; m,angle
+winkel ; m,angle
 winkel ; m,angles
 winkel ; m,bracket
 winkel ; m,corner
 winkel ; m,nooks
-winkel ; m,angle
 winkeladvokat ; m,hack lawyer
 winkeladvokat ; m,hedge lawyer
 winkeladvokat ; m,shyster
@@ -116942,9 +116941,9 @@ wucherische,hawkishly
 wucherischen,usuriously
 wuchermiete ; f,rack rent
 wuchern,to practice usury
-wuchern ; n,usuriousness
 wuchern (medizin),to proliferate
 wuchern (pflanze),to grow rampant
+wuchern ; n,usuriousness
 wuchernd,growing exuberantly
 wuchernd,proliferating
 wuchernd,rampantly
@@ -116953,11 +116952,11 @@ wuchert,grows exuberantly
 wuchert,proliferates
 wucherte,grew exuberantly
 wucherte,proliferated
-wucherung ; f,rank growth
 wucherung (medizin) ; f,excrescence
 wucherung (medizin) ; f,proliferation
 wucherung (medizin) ; f,tumor
 wucherung (medizin) ; f,tumour
+wucherung ; f,rank growth
 wucherungen,adenoids
 wucherzins ; m,usurious interest
 wuchs,grew
@@ -117055,8 +117054,8 @@ wundlaufen,to get footsore
 wundlaufend,getting footsore
 wundliegend,getting bedsore
 wundreibung ; f,chafing
-wunsch ; m,wish
 wunsch (nach) ; m,desire (for)
+wunsch ; m,wish
 wunschbilder,ideals
 wunschdenken ; n,wishful thinking
 wunschgemäss,as requested
@@ -117190,9 +117189,9 @@ wählende,dialling
 wähler,dialer
 wähler,elector
 wähler,electors
+wähler,selector
 wähler,voter
 wähler,voters
-wähler,selector
 wählerisch,choosy
 wählerisch,delicate
 wählerisch,finical
@@ -117227,13 +117226,13 @@ wähnt,fancies
 wähnte,fancied
 während,as
 während,during
+während,during
 während,when
 während,whereas
 während,while
-während,whilst
 während,while
 während,whilst
-während,during
+während,whilst
 während der laufzeit,at run time
 während der verarbeitung,at object time
 während der übersetzung,at compile time
@@ -117731,10 +117730,10 @@ zahnfäule,caries
 zahnfäule,tooth dedcay
 zahnfüllung,filling
 zahnheilkunde ; f,dentistry
-zahnkranz ; m,gear rim
-zahnkranz ; m,sprocket
 zahnkranz (am fahrrad) ; m,sprocket
 zahnkranz (am fahrrad) ; m,sprocket wheel
+zahnkranz ; m,gear rim
+zahnkranz ; m,sprocket
 zahnkrone ; f,crpwn
 zahnlabor ; n,dental laboratory
 zahnlos,toothless
@@ -117809,6 +117808,7 @@ zankte aus,berated
 zankteufel,termagant
 zankteufel,virago
 zankteufel,viragos
+zapfen (holz) ; m,tenon
 zapfen ; m,gudgeon
 zapfen ; m,pin
 zapfen ; m,spigot
@@ -117817,7 +117817,6 @@ zapfen ; m,stud
 zapfen ; m,tap
 zapfen ; m,trunnion
 zapfen ; m,trunnions
-zapfen (holz) ; m,tenon
 zapfentragend,coniferous
 zapfstelle ; f,tap
 zapfwelle ; f,p. t. o. shaft
@@ -117852,9 +117851,9 @@ zart machend,tenderizing
 zartere,more tender
 zarteste,most tender
 zartheit ; f,delicateness
+zauber (bann) ; m,spell
 zauber ; m,charm
 zauber ; m,magic
-zauber (bann) ; m,spell
 zauberei ; f,bewitchment
 zauberei ; f,magic
 zauberei ; f,necromancy
@@ -117978,8 +117977,8 @@ zeichen je zoll,characters per inch
 zeichen pro sekunde,baud
 zeichen-zwischenraum-verhältnis,mark-to-space ratio
 zeichenabfühlung,mark sensing
-zeichenabstand ; m,character pitch
 zeichenabstand (in der zeile) ; m,horizontal spacing
+zeichenabstand ; m,character pitch
 zeichenabtastung ; f,character sensing
 zeichenblock ; m,sketch block
 zeichenblöcke,sketch blocks
@@ -119072,8 +119071,8 @@ ziel ; n,destination
 ziel ; n,end
 ziel ; n,object
 ziel ; n,target
-zielbereich ; m,target
 zielbereich ; m,co-domain
+zielbereich ; m,target
 zielbereich ; m,target
 zielbewusst,purposeful
 zielbewusste,purposefully
@@ -119155,8 +119154,8 @@ ziert,adorns
 zierte,adorned
 ziffer ; f,digit
 ziffer ; f,figure
-ziffer ; f,numeral
 ziffer ; f,figure
+ziffer ; f,numeral
 zifferblatt ; n,clock face
 zifferblatt ; n,face
 zifferblätter,dials
@@ -119369,9 +119368,9 @@ zittern,to quaver
 zittern,to quiver
 zittern,to shake (shook
 zittern,to tremble
+zittern (vor kälte),to dither
 zittern ; n,tremor
 zittern ; n,trepidation
-zittern (vor kälte),to dither
 zittern vor,to to tremble with
 zittern wie espenlaub,to tremble like an aspen leaf
 zitternd,quavering
@@ -119445,12 +119444,12 @@ zog zurück,retracted
 zog zurück,withdrew
 zog zusammen,contracted
 zogen einen strich,drew a line
+zoll (2 ; n,inch
 zoll ; m,custom
 zoll ; m,customs duty
 zoll ; m,duane
 zoll ; m,duty
 zoll ; m,toll
-zoll (2 ; n,inch
 zoll bezahlen,to pay customs
 zoll umgehen,to avoid customs duty
 zollabfertigung ; f,customs clearance
@@ -119851,6 +119850,7 @@ zuführungsbahn,raceway
 zuführungsdraht,lead in
 zuführungsrad,picker wheel
 zuführungsriemen,picker belt
+zug (schornstein) ; m,draught
 zug ; m,draught
 zug ; m,lineament
 zug ; m,strain
@@ -119859,7 +119859,6 @@ zug ; m,tractive
 zug ; m,train
 zug ; m,trait
 zug ; m,tug
-zug (schornstein) ; m,draught
 zugabe ; f,encore
 zugaben,encores
 zugaben,extras
@@ -120201,8 +120200,8 @@ zulässiges beweismaterial,admissible evidence
 zulässigkeit,admissibility
 zulässigkeit,admissibillity
 zulässigkeit,allowableness
-zulässigkeit,permissibility
 zulässigkeit,legitimacy
+zulässigkeit,permissibility
 zulässigkeiten,admissibleness
 zum,to the
 zum abschluss,finally
@@ -120341,6 +120340,7 @@ zupfte,twitched
 zur abwechslung,for a change
 zur ader lassen,bled}
 zur ader lassen,to bleed
+zur aufbewahrung geben,to check
 zur ausbildung gehörend,educational
 zur besten sendezeit,at prime time
 zur diskussion stehen,to be under consideration
@@ -121758,8 +121758,8 @@ zwickte,pinched
 zwickte,tweaked
 zwieback ; m,rusk
 zwieback ; m,zwieback
-zwiebel ; f,onion
 zwiebel (blumen-) ; f,bulb
+zwiebel ; f,onion
 zwiebelgewächs,bulbous plant
 zwiebelgewächse,bulbous plants
 zwiebeln,bulbs
@@ -122052,9 +122052,9 @@ zählend,counting
 zähler,counter
 zähler,enumerator
 zähler,numeraire
+zähler,numerator
 zähler,tally
 zähler (bruch),numerator
-zähler,numerator
 zählt,counts
 zählt,totals
 zählt,tots
@@ -122261,14 +122261,14 @@ zürnten,were cross with
 ähnlich,likewise
 ähnlich,related
 ähnlich,similar
+ähnlich,similar
 ähnlich,similarly
 ähnlich,simular
-ähnlich,similar
 ähnlichkeit,likeness
 ähnlichkeit,resemblance
 ähnlichkeit,similarity
-ähnlichkeit,similitude
 ähnlichkeit,similarity
+ähnlichkeit,similitude
 ähnlichkeiten,resemblances
 ähnlichkeiten,similarities
 ähnlichkeiten,similitudes
@@ -122356,8 +122356,8 @@ zürnten,were cross with
 äquatorial,equatorial
 äquatoriale,equatorialy
 äquatorialguinea,equatorial guinea (gq)
-äquivalent (matrizen),equivalent in the wider sense
 äquivalent,equivalent
+äquivalent (matrizen),equivalent in the wider sense
 äquivalenz,equivalence
 äquivalenz,equivalence
 äquivalenzklasse,equivalence class

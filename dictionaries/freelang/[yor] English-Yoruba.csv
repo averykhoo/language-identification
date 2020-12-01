@@ -823,8 +823,8 @@ ilé ìjeun,café
 ilé ìjôsìn nlá,cathedral
 ilé ìsìn ölörun tàbí òrìÿà,temple
 ilé ìsó gígailé èsó,tower
-ilé ìtôjú ohun ögbìnoko-ögbìn,nursery(1)
 "ilé ìtôjú igioko-igi, ilé ìtôjú ômô wëwë",nursery
+ilé ìtôjú ohun ögbìnoko-ögbìn,nursery(1)
 ilé ìtôjú oríÿiríÿí ààrùn,clinic
 ilé ìwé àjô ìkôöwéilé ëkô,school
 ilé-oyinafárá oyin,beehive
@@ -856,11 +856,11 @@ irungígë,haircut
 irö,untrue
 "irù egbë õwö, nínú rere, ÿènìyàn",kind
 irùngbõn,beard
-irú eranko kan bí ìmàdò,walrus
 irú eja kan,jellyfish
 irú eja kékeré kan,sardine
 irú eja nlá kan,salmon
 irú eran jíje kan,sausage
+irú eranko kan bí ìmàdò,walrus
 irú eré kan,tennis
 irú eré kan tí àñta lórí ôpôn,chess
 irú eré òyìnbó kan,golf
@@ -969,8 +969,8 @@ kán; bó; rè; sòkalè,drop
 "kékeré, kéré",small
 kêkë erù,wagon
 kêsôdòrìÿà,idolize
-këkê erù elêsë méjì,cart
 këkê elêÿinìwà ìÿesí,carriage
+këkê erù elêsë méjì,cart
 këkê erùôkö akérò,van
 "këkê, ôkõ",vehicle
 këtëkëtë abilà,zebra
@@ -1328,10 +1328,10 @@ ogun elêÿin,cavalary
 "ogun, ojú ogun",battlefield
 "ogun, õgún",twenty
 ogún,an inheritance
-ohun pàtàkìlárí,importance
 "ohun aládùn, ohun ìfà",enjoyable
 ohun ikose ëëgàn àbùkù ìsôkúsô,scandal
 ohun mímu,coffee
+ohun pàtàkìlárí,importance
 ohun rere,goodness
 ohun tàbí enití a yàn ÿojú,target (1)
 ohun tí kun ni lóorun,sedative
@@ -1450,9 +1450,9 @@ otí kíkan,vinegar
 otí òyìnbóotí èso àjàràwáìn,wine
 "owo, owó",money
 owò ôjà rírà ìdíyelé ñýkan,tariff
-owó ìnáwó,finance
 "owó iÿë, owó õyà, owó oÿù",salary
 "owó oÿùöyà, san-wó",pay
+owó ìnáwó,finance
 owó öröôlá,wealth
 owó öyàìbùlé,fee
 "owó, owó iÿë, õyà",wages
@@ -1655,8 +1655,8 @@ wárápá,seizure
 wáwá-kiribéèrè,seek
 wê,bathe
 wê-mö,clean
-wí sôtenumôkéde,declare
 wí láìsôfà yô,imply
+wí sôtenumôkéde,declare
 wíwà fún ìgbá díê,temporary
 wíwà ní àpônàìyígbéyàwóÿíÿapôn,celibacy
 wíwòyetí ó fojúsílëÿíÿô,observant
@@ -2362,9 +2362,9 @@ yöÿe inúdídùn,glad
 ìmôlëìtànòye,illumination
 "ìmõ, mímõ, ôgbön êkö, òye",knowledge
 "ìmõ, ìmõ iÿë ônà, ôgbön ìmõ",kow-how
-ìmö ôgbônòye ëkô ìjìnlë,science
 ìmö ìlò örö dájúdájúgírámà,grammar
 ìmö ìrô,notion
+ìmö ôgbônòye ëkô ìjìnlë,science
 ìmönàmímönà,bearings
 ìmöìfæwôbàìfôkànmö,feeling
 "ìmúkúròìyôkúrò, ìyôjádeëkôàfàyô",deduction
@@ -2675,9 +2675,9 @@ yöÿe inúdídùn,glad
 ôkõ ófúrufú aláfëfë gbígbóná,balloon
 "ôkõ-abëlê rélùwe, ôkõ-ilê",subway
 ôkö,hoe
-ôkö ôkö wétèìgbájá,canoe
 ôkö aláfêkëkêmôtò òrénté,car
 ôkö irin fún pípa erinmi,harpoon
+ôkö ôkö wétèìgbájá,canoe
 "ôlê, oyún",embryo
 ôlôgbôn ìjìnlë,scientist
 ôlôgbôn ìjìnlë,scientist (m)
@@ -2719,10 +2719,10 @@ yöÿe inúdídùn,glad
 õkõ,spear
 "õkõõkan, olúkúlùkù",each
 õlàjú,civilized
-õnà àjò lójú omi,passage
 õnà abë títì,underpass
 õnà gêrëgêrë onípákó,ramp
 "õnà àfesêrìn, õnà alámõ líle, õnà elësê",pavement
+õnà àjò lójú omi,passage
 "õnà ôlödà, õnà olókúta",road
 õpõ,abundance
 õpõ,plenty

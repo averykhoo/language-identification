@@ -4172,7 +4172,6 @@ ntaws,"belly button, navel"
 ntaws ntiv,belly button
 ntawv,"book, note"
 ntawv,"paper, book, note, literature"
-ntawv so qhov ncauj,napkin
 ntawv cia,permit
 ntawv cim thaiv dab,Spirit paper
 ntawv kab,sentence (1)
@@ -4187,6 +4186,7 @@ ntawv qhia ciam dej ciam av,map
 ntawv qhia kev,map
 ntawv qhia zaub mov,menu
 ntawv sau,"tablet, stationery"
+ntawv so qhov ncauj,napkin
 ntawv so tes,napkin
 ntawv thov lus tso cai,petition
 ntawv thov tso cai,bills
@@ -6404,11 +6404,11 @@ theej,rattan
 theej tawm,duplicate
 theej tawm ntxiv,reproduce a copy
 theem,"category, level, step, sequence"
-theem saum toj,upstairs
 theem hauv,below
 theem hauv qab,"downstairs, basement"
 theem ntaiv,stairs
 theem pib,base
+theem saum toj,upstairs
 them,pay
 them cov nyiaj tshuaj nqi,reimburse (2)
 them rov qab,repay
@@ -6674,7 +6674,6 @@ tsem,bark
 tsem tawm,impeach
 tsem tsawv,"kind of, mild"
 tsev,"house, home, building, dwelling"
-tsev kawm ntawv dawb,public school (1)
 tsev aub,kennel
 tsev cia nyiaj,bank
 tsev cia puav pheej,museum
@@ -6687,6 +6686,7 @@ tsev haujsam,"temple, pagoda"
 tsev hav xwm police,station
 tsev kav xwm kav zos,city hall
 tsev kaw neeg raug txim,jail
+tsev kawm ntawv dawb,public school (1)
 tsev kawm ntawv rau menyuam,kindergarten
 tsev kawm ntawv theem kawg,university
 tsev kawm ntawv theem nrab,secondary school
@@ -6965,7 +6965,6 @@ tsim qhov nruab nrab,norming
 tsim tsa,"develop, structure"
 tsim txom,"abuse, persecute, corporal punishment, torture"
 tsis,"un..means not.., negative"
-tsis muaj tswv yim ua tau,incapable
 tsis ceev,loose
 tsis cia siab,hopeless
 tsis cno qab lawm,unconscious
@@ -7005,7 +7004,6 @@ tsis muab kev koom tes,under archiver
 tsis muab siab rau,ignore
 tsis muab teeb meem,secure
 tsis muaj,"vacant, none, not have"
-tsis muaj nrog,exclude
 tsis muaj ab tsi,indifferent
 tsis muaj cuabkav ua,cannot
 tsis muaj dabtsi,empty
@@ -7020,10 +7018,12 @@ tsis muaj leej twg,nobody
 tsis muaj li zaj dab neeg hais,fiction
 tsis muaj mob,healthy
 tsis muaj nqi,waste
+tsis muaj nrog,exclude
 tsis muaj nyiaj,"bankrupt, poor"
 tsis muaj phom,unanimous
 tsis muaj phom,unarmed
 tsis muaj qauv,informal
+tsis muaj tswv yim ua tau,incapable
 tsis muaj tus nrog nyob,alone
 tsis muaj tus twg,nobody
 tsis muaj txaus,"deficient, scare"
@@ -7405,7 +7405,6 @@ tuj lub,toy top
 tuj lub,wooden spinning top
 tum,pile on top of each other
 tus,"article, even, level, flat"
-tus hlub,dear
 tus cai meej tswv,democracy
 tus cawmseej,savior
 tus cim,punctuate
@@ -7420,6 +7419,7 @@ tus hais los ua haujlwm tam,representative
 tus hais plaub,malpractice
 tus hlau qhib lam fwj,bottle opener
 tus hlau tho koas poom,can opener
+tus hlub,dear
 tus kav hlau tshau qhov,corkscrew
 tus kav nroog,mayor
 tus kheej li,personal

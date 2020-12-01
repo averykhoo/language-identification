@@ -1040,9 +1040,9 @@ Lu [CHIM‚ symbole du lutétium],Lu [symbol of lutetium]
 "Lucerne [canton suisse], Lucerne; Canton {m} de ~",Lucerne [Swiss canton]
 Lucerne [cap. du canton de ~],Lucerne [town in Switzerland]
 "Lucifer {m} [Satan], Satan {m}",Lucifer {n} [Satan]
+Luxembourg {m},Luxembourg {n}[Wall. province]
 Luxembourg {m} [ville],Luxembourg {n} [city]
 Luxembourg {m} [état européen],Luxembourg {n} [Europe]
-Luxembourg {m},Luxembourg {n}[Wall. province]
 "Luxembourgeois {m}, Luxembourgeoise {f}",Luxembourger {n}
 Lyme [ville du Connecticut],Lyme [city in Connecticut]
 Lyon [chef-lieu‚ Rhône],Lyons {n} [city in France]
@@ -8614,9 +8614,9 @@ basse {f} [MUS‚voie masculine],bass {n} [MUS‚ male voice]
 basse-cour {f (~s~s)},poultry yard {n}
 "basse-cour {f (~s~s)}, bassecour {f} [RO]",farmyard {n}
 basse; de ~ [loc adj],bass [adj‚ MUS]
-"bassement [adv], ignoblement [adv]",despicably [adv]
 bassement (péj),meanly
 bassement [adv],basely [adv]
+"bassement [adv], ignoblement [adv]",despicably [adv]
 bassesse {f},baseness {n}
 bassesse {f},low act {n}
 "bassesse, servilité",servility
@@ -9889,10 +9889,10 @@ bourgeois; petit ~ {m},Babbitt {n} [smug businessman]
 bourgeoise {f} [arg‚ épouse],dutch {n} [sl‚ Br.]
 bourgeoisie,middle-classes
 "bourgeoisie {f}, classe {f} moyenne",middle class {n}
+"bourgeoisie {f}, classe {f} moyenne]",bourgeoisie {n} [middle class]
 "bourgeoisie {f}; grande ~, bourgeoisie {f}; haute ~",bourgeoisie {n} [capit. class]
 bourgeoisie {f}; petite ~,lower middle-class {n}
 bourgeoisie {f}; petite ~,petite bourgeoisie {n}
-"bourgeoisie {f}, classe {f} moyenne]",bourgeoisie {n} [middle class]
 "bourgeonnement, en herbe, naissant",budding
 bourgeonner [v intr‚ BOT],shoot [v intr‚ BOT]
 bourgeonné,sprouted
@@ -9907,13 +9907,13 @@ bourlinguer [v intr‚ MAR],labour [v intr‚ MAR]
 "bourrasque, rafale (météo)",squall (weather)
 "bourratif, lourd (fig), sans imagination",stodgy
 bourreau,executioner
+bourreau d'enfants,baby-beater {n}
 bourreau de travail,workaholic
 bourreau {m},hangman {n}
 bourreau {m} d'enfants,child batterer {n}
 bourreau {m} de travail,glutton for work {n}
 "bourreau {m} des cœurs, bourreau {m} des cœurs, don-juan {m}, séducteur {m}",lady-killer {n}
 "bourreau {m} des cœurs, homme {m} à femmes",ladies' man {n}
-bourreau d'enfants,baby-beater {n}
 bourrelet,stubbed
 bourrelet {m} de porte,draught excluder {n}
 bourrelé,pained
@@ -10558,8 +10558,8 @@ bureaucratique,bureaucratic
 bureautique,office automation
 burent,drank
 burette,burette
-burette,oilcan
 burette,cruet
+burette,oilcan
 burette {f},oiler {n}
 burettes; il me casse les ~,tits; he gets on my ~
 burin,cold chisel
@@ -11480,6 +11480,8 @@ cannibalesque [adj],cannibalistic [adj]
 cannibaliser [v tr‚ recycler],cannibalise [v tr‚ to recycle]
 cannibaliser une entreprise,strip a company of its assets
 cannibalisme {m},cannibalism {n}
+canon {m},canon {n} [sacred books]
+canon {m},canon {n}[part of the RC Mass]
 canon {m} (de fusil),barrel {n} [of a gun]
 canon {m} [ANAT‚ ZOOL],cannon-bone {n} [of a horse]
 canon {m} [ARTS],canon {n} [a general rule]
@@ -11487,8 +11489,6 @@ canon {m} [MIL],cannon {n (#)} [MIL]
 canon {m} [MUS],canon {n} [MUS]
 canon {m} [REL],canon {n} [a church law]
 "canon {m} [fille attrayante], fille {f} canon, mec {m} bien foutu",cracker {n} [Br.‚ a person]
-canon {m},canon {n}[part of the RC Mass]
-canon {m},canon {n} [sacred books]
 canon {m} lance,water gun {n}
 canon {m} sans recul [MIL],recoilless rifle {n} [MIL]
 canon {n} [MUS],round {n} [MUS]
@@ -14196,8 +14196,8 @@ combiner [v tr],compound [v tr‚ to mix]
 combiné(e) [adj],compound [adj‚ combined]
 "combiné, écouteur",receiver
 comble; pour ~ de malheur,crowning; as a ~ misfortune
-"combler [v tr], plaisir; faire ~ à, satisfaire [v tr]",gratify [v tr]
 "combler (déficit), compenser, réparer",make good
+"combler [v tr], plaisir; faire ~ à, satisfaire [v tr]",gratify [v tr]
 "combler [v tr‚ déficit], compenser [v tr], réparer [v tr]",good; to make ~
 combler de bienfaits,heap kindness on
 combler qqn de,fill sb with
@@ -15221,9 +15221,9 @@ consistant; peu ~ [loc adj],thin [adj‚ of a liquid]
 "consister dans [v tr ind], consister en [v tr ind]",consist of [v tr]
 "consister en, être composé de",consist of (to)
 consister à,consist in
+consistoire {m},consistory {n} [Prot. REL]
 consistoire {m} [REL cath],consistory {n} [Cath. REL]
 consistoire {m} [REL juive],consistory {n} [Jew REL]
-consistoire {m},consistory {n} [Prot. REL]
 consolation,solace
 consolation {f},consolation {n}
 "consolation {f}, soulagement",comfort {n} [consolation]
@@ -26731,8 +26731,8 @@ genêt {m} [BOT],greenweed {n} [BOT]
 gerbe,spray (fig)
 gerbe,wreath
 gerbe de blé,wheatsheaf
-"gerber [v tr], vomir [v tr]",puke [v tr]
 "gerber [v intr], vomir [v intr]",barf [v intr]
+"gerber [v tr], vomir [v tr]",puke [v tr]
 gercer [v tr],chap [v tr]
 gercer; se ~ [v pr],chap [v intr]
 "germain(e) [adj], germanique [adj]",Germanic [adj]
@@ -27656,8 +27656,8 @@ gémir,groan
 gémissement,groaning
 gémissement,moaning
 gémissement,whining
-génial,of genius
 génial,good buzz (fam.)
+génial,of genius
 génial(e) [adj],crazy [adj‚ excellent]
 "génial(e) [adj], super [adj]",a-OK [adj‚ Am.]
 génie,genius
@@ -38788,9 +38788,9 @@ perception,tax office
 percer [v tr],lance [v tr‚ to pierce]
 percer [v tr‚ un fût],tap [v tr‚ a cask]
 perche,punt pole
+perche {f},rod {n} [a square perch]
 perche {f} [ZOOL],bass {n} [ZOOL‚ common perch]
 perche {f} [ZOOL‚ Poisson],perch {n} [ZOOL‚ Fish]
-perche {f},rod {n} [a square perch]
 percher [v tr],perch [v tr]
 percher; se ~ [v pr],perch [v intr]
 perchoir {m},perch {n} [used by a bird]
@@ -39154,12 +39154,12 @@ peureux (-euse) [adj],coward [adj]
 peut-être [adv],maybe [adv]
 peut-être [adv],mayhap [adv]
 peut-être que non [loc adv],perhaps not [adv phr]
+phage lambda [VIRO],phage lambda {n} [VIRO]
 phage {m} [bactériophage‚VIRO],phage {n} [bacteriophage‚VIRO]
 phage {m} défectif [VIRO],defective phage {n} [VIRO]
 "phage {m} lysogénique [VIRO], phage {m} tempéré [VIRO]",temperate phage {n} [VIRO]
 phage {m} transducteur [GÉN],transducing particle {n} [GEN]
 phage {m} virulent [VIRO],virulent phage {n} [VIRO]
-phage lambda [VIRO],phage lambda {n} [VIRO]
 phalange {f} [ANAT],phalange {n} [ANAT]
 phalange {f} [ANAT],phalanx {n (-xes or -ges)}
 phalange {f} [Grèce antique],phalanx {n} [Greek antiquity]
@@ -40153,8 +40153,8 @@ polarité {f},polarity {n}
 polenta {f} jaune,boiled corn {n}
 poli(e) [adj‚ courtois],civil [adj‚ polite]
 poli; non ~ [loc adj],unpolished [adj‚ not polished]
-police,police
 police,font
+police,police
 police fluviale,river police
 police secours,emergency services
 police; femme {f} agent de ~,policewoman {n}
@@ -51638,8 +51638,8 @@ venger [v tr],avenge [v tr]
 venger; se ~ [v pr],avenge oneself [v refl]
 "vengeresse f}, vengeur {m}",avenger {n}
 venimeux,poisonous
-venimeux (-euse) [adj‚ ZOOL],venomous [adj‚ ZOOL]
 venimeux,spiteful
+venimeux (-euse) [adj‚ ZOOL],venomous [adj‚ ZOOL]
 venin,venom
 venir [v intr] en voiture de,drive out [v intr]
 venir [v intr‚ jouir],come [v intr‚ have an orgasm]

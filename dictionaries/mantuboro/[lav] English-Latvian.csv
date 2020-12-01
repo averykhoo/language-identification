@@ -6690,8 +6690,8 @@ brutal majority,brutāls vairākums
 cobble,bruģakmens
 cobble-stone,bruģakmens
 paving stone,bruģakmens
-pavement,bruģis
 cobble ( ),bruģis
+pavement,bruģis
 cobble-beds,bruģis gultas
 pave,bruģēt
 cobbled,bruģēts
@@ -11228,8 +11228,8 @@ engine,dzinējs
 thruster,dzinējs
 driving force,dzinējspēks
 hears,dzird
-hear!hear!,dzird!dzird!
 hear! hear!,dzird! dzird!
+hear!hear!,dzird!dzird!
 audibly,dzirdami
 audible,dzirdams
 hearing,dzirde
@@ -13599,8 +13599,8 @@ waiting,gaidīšana
 waiting line,gaidīšana line
 waiting game,gaidīšanas spēle
 cock,gailis
-rooster,gailis
 cock ( ),gailis
+rooster,gailis
 cock pit,gailis bedre
 cock crowning,gailis crowning
 cock fight,gailis cīņa
@@ -20728,8 +20728,8 @@ tape recording,kasešu ierakstīšanas
 cashier's stand,kasiera stends
 booking clerk,kasieris
 cashier,kasieris
-paymaster,kasieris
 cashier ( ),kasieris
+paymaster,kasieris
 paymaster general,kasieris vispārējā
 stunt man,kaskadieris
 cascade,kaskāde
@@ -22514,9 +22514,9 @@ contextually,kontekstuāli
 contemplative,kontemplatīvs
 contemplation,kontemplācija
 continent,kontinents
+continent ( ),kontinents
 mainland,kontinents
 the continent,kontinents
-continent ( ),kontinents
 continental shelf,kontinentālais šelfs
 continental,kontinentāls
 continental breakfast,kontinentālās brokastis
@@ -42727,8 +42727,8 @@ correspondence course,sarakste kurss
 correspondence-course,sarakste kurss
 lists,saraksti
 list,saraksts
-timetable,saraksts
 list ( ),saraksts
+timetable,saraksts
 list price,saraksts cena
 shrinks,saraujas
 dismember,saraustīt gabalos
@@ -52348,6 +52348,7 @@ boiling-point,viršanas punkts
 heather,virši
 heather mixture,virši maisījums
 vis major,vis lielākais
+vis … vis,vis vis
 entire,visa
 whole-meal,visa maltīte
 whole meal bread,visa maltīte maize
@@ -52525,7 +52526,6 @@ lowermost,viszemākais
 rock bottom,viszemākais
 bottom-most,viszemākajā
 omniscient,viszinošs
-vis … vis,vis vis
 all over,visā
 world wide,visā pasaulē
 world-wide,visā pasaulē

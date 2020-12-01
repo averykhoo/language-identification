@@ -3751,8 +3751,8 @@ neeg tuag lub cev,corpse
 neeg txawj ntse txawj xav,sage
 neeg txawv teb chaws,alien
 neeg txhab dej caw,bartender
-"neeg txhais lus, tus txhais lus",interpreter
 neeg txhais lus,translator
+"neeg txhais lus, tus txhais lus",interpreter
 neeg txhaum txim,ciminal
 neeg txheeb ze,next of kin
 neeg txuas xovtooj,telephone operator
@@ -4272,7 +4272,6 @@ ntawm ntug zaus,outskirts
 ntaws,navel
 "ntaws, ntaws ntiv",belly button
 ntawv,paper
-"ntawv so qhov ncauj, ntawv so tes",napkin
 ntawv cim thaiv dab,Spirit paper
 ntawv loj,capital letter
 "ntawv pov thawj, zaj dabneeg lub npe",title
@@ -4280,6 +4279,7 @@ ntawv loj,capital letter
 ntawv qhia zaub mov,menu
 ntawv sau,stationery
 "ntawv sau, ntsiav",tablet
+"ntawv so qhov ncauj, ntawv so tes",napkin
 "ntawv thov lus tso cai, ntawv thov uaibyam dab tsi",petition
 ntawv thov tso cai,bills
 ntawv tso cai,license
@@ -6152,10 +6152,10 @@ theej,rattan
 theej,transfer from one place
 theej tawm,duplicate
 theej tawm ntxiv,reproduce a copy
-"theem saum toj, tsev theem saum",upstairs
 theem hauv qab,downstairs
 theem ntaiv,stairs
 theem pib,base
+"theem saum toj, tsev theem saum",upstairs
 them cov nyiaj tshuaj nqi,reimburse (2)
 them rov qab,repay
 "them teb, txhem",unburned branches
@@ -6356,7 +6356,6 @@ tseg nyiaj,save money
 "tsej tsem, uas nqa tibneeg tsaug mob",stretcher
 tsem tawm,impeach
 tsev,dwelling
-tsev kawm ntawv dawb,public school (1)
 "tsev aub, tsev dev",kennel
 "tsev cia nyiaj, txhab nyiaj",bank
 "tsev cia puav pheej, tsev khaws puav pheej",museum
@@ -6365,6 +6364,7 @@ tsev fuabtais,castle
 tsev haujsam,temple
 "tsev hav xwm police, tsev tos, tsev tub ceev xwm",station
 tsev kav xwm kav zos,city hall
+tsev kawm ntawv dawb,public school (1)
 tsev kawm ntawv rau menyuam,kindergarten
 tsev kawm ntawv theem kawg,university
 tsev kawm ntawv theem nrab,secondary school
@@ -6595,7 +6595,6 @@ tsim txom,torture
 "tsim, txua",construct
 "tsim, ua kom muaj",generate
 tsis,un..means not..
-"tsis muaj tswv yim ua tau, ua tsis tau",incapable
 tsis cia siab,hopeless
 tsis coj khawb ncaws,menopause
 tsis coj nruj,lenient
@@ -6640,6 +6639,7 @@ tsis muaj nyiaj,bankrupt
 "tsis muaj phom, tsis muaj yam tawv",unanimous
 "tsis muaj phom, tsis muaj yam tawv",unarmed
 tsis muaj qauv,informal
+"tsis muaj tswv yim ua tau, ua tsis tau",incapable
 tsis muaj zog,flimsy
 tsis muaj zog,listless
 tsis muaj zog,nonexistent

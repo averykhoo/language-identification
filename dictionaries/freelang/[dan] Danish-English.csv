@@ -160,8 +160,6 @@ Other,English
 9.83m/s² Jordens poler,9.83m/s²-9.78m/s²
 9.Beaufort-Stormende kuling,"Beaufort 9.-Strong gale, 9.(20.8-24.4 m/s)"
 90-års bryllupsdag(-en) (?),granite wedding (90 years)
-ikke lig med,<> not equal to
-ikke lig med/modsat,<> not equal to/opposite of
 > (Alt+062),> (larger than)
 > (større end),> (larger than)
 A.D. (anno domini),A.D. (After Christ - A.C.)
@@ -1050,6 +1048,7 @@ Zeus (græsk gud),Zeus
 Zuidersøen,the Zuider Zee
 Zürich,Zürich
 ^ accent cirkumfleks,^ circumflex
+`fy for den,fie!
 a la (ligesom),"à la (like), like (~wise), similar, resembling"
 a la grecque mønster(mæander),"meander, Greek key pattern"
 a vista,at sight
@@ -6414,8 +6413,8 @@ cimbrer (kimbrer),Cimbrian
 cinders,"furnace coke, coke"
 cinnober,cinnabar
 cinnoberrød,vermillion
-cirka,"roughly, about, approximately"
 cirka,"circa (ca), approximately (approx)"
+cirka,"roughly, about, approximately"
 cirkel(-en),circle
 cirkelbevis,"circular reasoning, circular proof"
 cirkelbevis(-et),"begging the question, arguing in a circle"
@@ -7489,13 +7488,13 @@ docent(-en),"lecturer, reader, assistant professor"
 docentur,lectureship
 docere,"lecture on, teach, lecture, lay down the law"
 docerende,didactic
-doctor,doctor of laws (L.L.D)
+doctor,Doctor of Divinity (D.D.)
+doctor,Doctor of Engineering (D.Eng.)
 doctor,Doctor of Medicine (M.D.)
 doctor,Doctor of Philosophy (Ph.D)
-doctor (dr.scient),Doctor of Science (D.Sc.)
-doctor,Doctor of Divinity (D.D.)
 doctor,Doctor-Dental surgery (D.D.S.)
-doctor,Doctor of Engineering (D.Eng.)
+doctor,doctor of laws (L.L.D)
+doctor (dr.scient),Doctor of Science (D.Sc.)
 dodekaeder (tolvkant),dodecahedron (12 sided)
 dodenkop (farve),caput mortuum
 dog,"though, however, yet, still, after all, really"
@@ -7734,8 +7733,8 @@ drilleri(-et),"tease, teasing, banter, chaff"
 drillesyg,mischievous
 drillevorn,"mischievious, teasing"
 drilsk,"impish, mischievious, teasing"
-drink,"tipple, piña colada"
 drink,sundowner
+drink,"tipple, piña colada"
 drink(med rå æggeblomme),prairie oyster
 dristig,"audacious, bold, intrepid, racy"
 dristig,"audacious, bold, intrepid, racy, bodacious"
@@ -12858,8 +12857,8 @@ forvridning(-en),"luxation, dislocation"
 forvrænge,"contort, distort, twist"
 forvrængning(-en),distortion
 forvrøvlet,"muddle-headed, meandering (gibberish)"
-forvrøvlet sludder,rigmarole
 forvrøvlet sludder,gobbledygook
+forvrøvlet sludder,rigmarole
 forvåget,"worn out watching, gone too long without sleep"
 forvænne,"spoil, pamper"
 forvænt,"fastidious, over-particular, pampered, spoiled"
@@ -12950,12 +12949,12 @@ foxtrot(-en),foxtrot
 foyer,"greenroom, foyer"
 fr. dækker både fru og frøken,Ms.
 fra,"from, of, out of, off, since"
-fra dag til dag,overnight
 fra Herodes til Pilatus,from pillar to post
 fra Mars (planeten),Martian
 fra asken til ilden,"out of frying pan into fire, from bad to worse"
 fra bunden/grunden,from scratch
 fra da af,from then
+fra dag til dag,overnight
 fra første færd,"originally, outset"
 fra nu af,"henceforth, from now on"
 fra rummet (udenfor jorden),extraterrestial
@@ -13706,7 +13705,6 @@ futurum,the future
 futurum exactum,future perfect
 fx.,for example
 fx. - f.x.,"e.g., for example, for instance"
-`fy for den,fie!
 fy for søren,"phew, ugh, hang it, damn it"
 fy!,"ugh!, shame!"
 fy-råb,cat-calls
@@ -15047,7 +15045,6 @@ giv den gas,"step on it, hurry, get a move on"
 giv dit besyv med,pipe up
 giv ham friere tøjler,give him more rope
 give,"give, dispense, yield, render"
-give en hård medfart,give somebody a pasting
 give afkald på,"forgo, renounce, waive"
 give bagerbørn hvedebrød,carry coals to Newcastle
 give bagslag,"backfire, rebound, recoil"
@@ -15061,6 +15058,7 @@ give efter for,indulge
 give en eller anden løbepas,send somebody packing
 give en hånd,lend a hand
 give en hånd med,muck in
+give en hård medfart,give somebody a pasting
 give en indsprøjtning,inject
 give en over næsen,"giving a reprimand, give a good dressing down"
 give endefuld,spank
@@ -16434,8 +16432,8 @@ gåsepen(-en),goose quill
 gåsesteg(-en),roast goose
 gåsetræk,skein of geese
 gåseurt(-en),"camomile, daisy"
-gåseøjne (”),inverted commas
 gåseøjne (anførselstegn),"inverted commas, quotation marks"
+gåseøjne (”),inverted commas
 gåtur(-en),"walk, stroll"
 gæk,"fool, dupe, tumbler (lock)"
 gæk (i lås),tumbler (lock)
@@ -20233,7 +20231,9 @@ ikke kunne tage mere,at the end of one's tether
 ikke lagt på sin vante plads,mislay
 ikke langt væk,short-range
 ikke leve op til løfte,dishonour
+ikke lig med,<> not equal to
 ikke lig med (U+2260),unequal to (Alt+8800)
+ikke lig med/modsat,<> not equal to/opposite of
 ikke lydefri,blemish
 ikke magte opgaven,"not being able to cope, being unequal to the task"
 ikke med vilje,unintentional
@@ -21494,8 +21494,8 @@ jakkesæt(-et),suit
 jakkesæt(-et),"suit, lounge suit, seersucker suit (stribed)"
 jakobiner(-en),Jacobin
 jakobsstige(-en),"Jacob's ladder, phlox (plant)"
-jalousi (skinsyge),jealousy
 jalousi,"Venetian blind, roll front"
+jalousi (skinsyge),jealousy
 jalousiskab(-et),roll-front cabinet
 jalousiskrivebord(-et),roll-top desk
 jaloux,jealous
@@ -30107,9 +30107,9 @@ mobbe,mob
 mobil,"mobile, active"
 mobilisere,mobilize
 mobilisering,mobilization
+mobiltelefon,"BlackBerry (smartphone), smartphone (BlackBerry)"
 mobiltelefon,"mobile phone, mobile telephone"
 mobiltelefon,"mobile phone, mobile telephone, cell(ular) phone"
-mobiltelefon,"BlackBerry (smartphone), smartphone (BlackBerry)"
 mobning,mob
 mod,"courage, fortitude, gut, mettle, spirit, valour"
 mod (imod),"against, adverse to, towards"
@@ -30388,8 +30388,8 @@ mor (moder),"mother, ma, mom, mum, mummy"
 mor (morian),Moor
 morads,"mire, bog, marsh, treacherous ground, morass"
 morakke,"work very hard, force the pace, slave (willingly)"
-morakker,"tear-arse, one who forces the pace"
 morakker,beaver (diligent)
+morakker,"tear-arse, one who forces the pace"
 moral,"ethics, moral, morals, standards"
 morale,"moral, maxim"
 moralfølelse,morality
@@ -34802,8 +34802,8 @@ pandehår,fringe (hair)
 pandekage,"pancake, flapjack"
 pandekage (ofte US morgenmad),flapjack
 pandekage (ofte med kødfyld),tortilla (Spanish-American)
-pandekagedej,"batter, beignet dough"
 pandekagedej,batter (liquid dough)
+pandekagedej,"batter, beignet dough"
 pandekrølle,"quiff, forelock"
 pandeplader,"gal iron (plates), corro (plates)"
 panderynke,wrinkle (forehead)
@@ -44348,8 +44348,8 @@ soffitter,borders (theater)
 sofisme (ordkløveri),sophism
 sofist (ordkløver),sophist
 sofisteri,sophistry
-sogn,parish
 sogn,"canton, unit in a municipality"
+sogn,parish
 sogne/kommune -(mæssigt),parochial
 sognebarn,parishioner
 sognedegn,parish clerk
@@ -51174,9 +51174,9 @@ troværdig,"credible, likely, trustworthy, reliable"
 troværdighed,"credibility, reliability"
 trubadur,minstrel
 true,"menace, threaten"
-truende,"sinister, threatening, menacing, intimidating"
 truende,imminent
 truende,impending
+truende,"sinister, threatening, menacing, intimidating"
 trug,trough
 trukken i langdrag,protracted
 trumf,trump
@@ -55408,8 +55408,8 @@ vendefrakke,reversible coat
 vendehals,wryneck (bird)
 vendekreds,tropic
 vendekrog,peavey
-vendekåbe,turncoat
 vendekåbe,"tergiversator, turncoat, apostate (apostatize)"
+vendekåbe,turncoat
 vendepunkt,turning point
 vender (gl. folkeslag),"Wend, Sorb, Sorbian"
 vendetå (nogle fugle bla. ugle,versatile toe

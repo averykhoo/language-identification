@@ -1741,6 +1741,7 @@ illustrate,alal misali
 asterisk,alama
 buoy,alama
 cue,alama
+cue ( ),alama
 emblem,alama
 feature,alama
 likelihood,alama
@@ -1750,7 +1751,6 @@ seems,alama
 symptom,alama
 token,alama
 trace,alama
-cue ( ),alama
 cue signal,alama alama
 marked feature,alama alama
 feature matter,alama alamarin
@@ -6521,8 +6521,8 @@ sick-room,ciwo-daki
 sick-bed,ciwo-gado
 sick-list,ciwo-list
 colon,ciwon
-sore,ciwon
 colon ( ),ciwon
+sore,ciwon
 back pain,ciwon baya
 stomach ache,ciwon ciki
 stomachache,ciwon ciki
@@ -19195,6 +19195,7 @@ captured,kama
 catch,kama
 caught,kama
 clutch,kama
+clutch ( ),kama
 gripped,kama
 likeness,kama
 resemblance,kama
@@ -19204,7 +19205,6 @@ resembling,kama
 seize,kama
 similarity,kama
 the arrest,kama
-clutch ( ),kama
 catch at,kama a
 clutch at,kama a
 trapped,kama a tarko
@@ -29181,9 +29181,9 @@ grammar,nahawu
 grammar school,nahawu makaranta
 grammar-school,nahawu-makaranta
 continent,nahiyar
+continent ( ),nahiyar
 continental,nahiyar
 the continent,nahiyar
-continent ( ),nahiyar
 continental quilt,nahiyar bargo
 continental breakfast,nahiyar da karin kumallo
 continental law,nahiyar doka

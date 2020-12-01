@@ -5319,6 +5319,7 @@ asettaa,flag
 asettaa,plant
 asettaa,posit
 asettaa,settle
+asettaa ...[[-n]] päälle ; laittaa ...[[-n]] päälle ; panna ...[[-n]] päälle ; pistää ...[[-lle]] ; pistää ...[[-n]] päälle,put on
 asettaa ; asettaa ehdolle ; kilpailuttaa,run
 asettaa ; asettua ; sijoittaa,range
 asettaa ; laittaa,station
@@ -5329,7 +5330,6 @@ asettaa ; panna ; laittaa ; laskea,lay
 asettaa ; sijoittaa,range
 asettaa ; sijoittaa ; ujuttaa,plant
 asettaa ; säätää,set
-asettaa ...[[-n]] päälle ; laittaa ...[[-n]] päälle ; panna ...[[-n]] päälle ; pistää ...[[-lle]] ; pistää ...[[-n]] päälle,put on
 asettaa alkuarvo,initialize
 asettaa ehdolle,nominate
 asettaa jonoon,enqueue
@@ -5727,13 +5727,13 @@ astua,mount
 astua,serve
 astua,step
 astua,tup
+astua (virkaan) ; nousta (valtaan) ; nousta(valtaistuimelle),accede
 astua ; käydä,tread
 astua ; nousta,get in
 astua ; panna,jump
 astua ; siirtyä,step
 astua ; siittää,sire
 astua ; tulla,enter
-astua (virkaan) ; nousta (valtaan) ; nousta(valtaistuimelle),accede
 astua esiin,come forward
 astua harhaan,misstep
 astua jalallaan,set foot
@@ -6348,12 +6348,12 @@ auttaa,help
 auttaa,in the way of
 auttaa,lend a hand
 auttaa,stead
+auttaa (rikoksen tekemisessä),aid and abet
 auttaa ; avittaa,friend
 auttaa ; avustaa,assist
 auttaa ; hyödyttää,avail
 auttaa ; ohjata,hand
 auttaa ; opastaa,help
-auttaa (rikoksen tekemisessä),aid and abet
 auttaa maailmaan ; avustaa synnytyksessä,deliver
 auttaa paljon,go a long way
 auttamaton,incorrigible
@@ -6483,12 +6483,12 @@ avata,undo
 avata,unlock
 avata,untie
 avata,unwind
+avata (viesti) ; murtaa ; purkaa,decipher
 avata ; avata lukitus ; avata lukko,unlock
 avata ; dekoodata,decode
 avata ; laskea ; valuttaa,tap
 avata ; posauttaa ; sihauttaa,crack
 avata ; vastata,answer
-avata (viesti) ; murtaa ; purkaa,decipher
 avata ammolleen,gape
 avata gordionin solmu,cut the gordian knot
 avata keskustelu,broach
@@ -9259,6 +9259,7 @@ edestakaisin ; menopaluuna ; sinne ja takaisin,there and back
 edesvastuuttomasti ; piittaamattomasti,recklessly
 edetä,proceed
 edetä,progress
+edetä (jonossa),train
 edetä ; edistyä,come along
 edetä ; edistyä,get ahead
 edetä ; edistyä ; jatkaa,get on
@@ -9266,7 +9267,6 @@ edetä ; edistyä ; kehittyä,come on
 edetä ; jatkaa ; mennä eteenpäin,proceed
 edetä ; lähestyä,advance
 edetä ; mennä läpi,go through
-edetä (jonossa),train
 edetä hitaasti ; hivuttautua,inch
 edetä hyvin,rock along
 edetä seuraavalle tasolle ; päästä seuraavalle tasolle,level
@@ -9416,8 +9416,8 @@ ehdoton,unconditional
 ehdoton,unquestioning
 ehdoton antautuminen,unconditional surrender
 ehdoton tai,xor
-ehdoton tai ; eksklusiivinen tai ; poissulkeva tai,xor
 ehdoton tai -portti ; eksklusiivinen tai -portti ; poissulkeva tai -portti,xor
+ehdoton tai ; eksklusiivinen tai ; poissulkeva tai,xor
 ehdottaa,proposition
 ehdottaa,set forth
 ehdottaa,suggest
@@ -9821,9 +9821,9 @@ eksyttää ; harhauttaa,disorientate
 eksyttää ; harhauttaa ; hämmentää ; sekoittaa,bewilder
 eksyä,get lost
 eksyä,straggle
+eksyä (aiheesta) ; poiketa (aiheesta),digress
 eksyä ; hairahtua ; poiketa,go astray
 eksyä ; harhautua ; poiketa,stray
-eksyä (aiheesta) ; poiketa (aiheesta),digress
 eksä,ex
 ektodermi,ectoderm
 ektomykorritsa,ectomycorrhiza
@@ -14638,6 +14638,7 @@ hakata,hammer
 hakata,hew
 hakata,peck
 hakata,whoop
+hakata (irti),chop
 hakata ; jyskyttää,beat
 hakata ; jyskyttää,pound
 hakata ; jyskyttää ; tykyttää,palpitate
@@ -14649,7 +14650,6 @@ hakata ; paukuttaa,bang away
 hakata ; pieksää ; piestä,pelt
 hakata ; piestä,whoop
 hakata ; pilkkoa,chop
-hakata (irti),chop
 hakata homouden takia,gay bash
 hakata mustelmille ; mukiloida,bruise
 hakata päätään seinään,beat one's head against a stone wall
@@ -16180,8 +16180,8 @@ heisimato,cestode
 heisimato,tapeworm
 heite,cast
 heite,ejecta
-heitellä ; heittää ; paiskoa ; paskata,pelt
 heitellä ; heittää (maahan) ; nakata (maahan) ; nakella ; paiskata (maahan) ; paiskoa,throw
+heitellä ; heittää ; paiskoa ; paskata,pelt
 heitin ; heittäjä ; valaja ; valuri,caster
 heitin ; koppi ; pesä,trap
 heitin ; laukaisin,launcher
@@ -17697,11 +17697,11 @@ hioa,facet
 hioa,grind
 hioa,hone
 hioa,sandpaper
+hioa (hiekkapaperilla),sand
 hioa ; jalostaa,refine
 hioa ; kehittää ; parannella,polish
 hioa ; leikata,cut
 hioa ; pois,buff out
-hioa (hiekkapaperilla),sand
 hioma-arkki,sanding sheet
 hioma-arkki,sandpaper
 hiomajäte ; hiomapöly,abrasion
@@ -19654,6 +19654,7 @@ hyvissä käsissä,in good hands
 hyvitellä,palliate
 hyvitettävä ; korvattava,reimbursable
 hyvittää,credit
+hyvittää (jotakin) ; maksaa (jostakin),acquit
 hyvittää ; korvata,indemnify
 hyvittää ; korvata,make up
 hyvittää ; korvata,reimburse
@@ -19662,7 +19663,6 @@ hyvittää ; maksaa ; maksaa takaisin ; palauttaa,pay back
 hyvittää ; maksaa takaisin ; palautt,refund
 hyvittää ; sovittaa,atone
 hyvittää ; sovittaa,expiate
-hyvittää (jotakin) ; maksaa (jostakin),acquit
 hyvitys,composition
 hyvitys,credit
 hyvitys,nemesis
@@ -20203,10 +20203,10 @@ hämäys ; savua ja peilejä ; silmänlume,smoke and mirrors
 hän,(s)he
 hän,he/she
 hän,her
+hän ... itse,herself
 hän ; se,he
 hän ; se,she
 hän ; se,they
-hän ... itse,herself
 hän on tajuton,he's unconscious
 hän on tajuton,she's unconscious
 hän vakuutteli mielestäni liiaksi,the lady doth protest too much
@@ -21287,11 +21287,11 @@ ilmestyä,come out
 ilmestyä,drop
 ilmestyä,pop up
 ilmestyä,spring up
+ilmestyä (paikalle),show up
 ilmestyä ; lähestyä ; tulla luokse,come up
 ilmestyä ; näyttäytyä,appear
 ilmestyä ; näyttää,appear
 ilmestyä ; tulla näkyviin,appear
-ilmestyä (paikalle),show up
 ilmestyä horisonttin,heave in sight
 ilmetä,come out
 ilmi ; paljastua ; selvitä,emerge
@@ -22975,6 +22975,8 @@ jakaa,subdivide
 jakaa,subdivision
 jakaa,sunder
 jakaa,whack
+jakaa (alueisiin) ; rajata pois,zone
+jakaa (kahtia),cut
 jakaa ; jyvittää,allocate
 jakaa ; lajitella ; luokitella,distribute
 jakaa ; leikata ; lohkoa,section
@@ -22983,8 +22985,6 @@ jakaa ; osittaa,partition
 jakaa ; polarisoida,polarize
 jakaa ; rikkoa ; särkeä,break
 jakaa ; tasata,apportion
-jakaa (alueisiin) ; rajata pois,zone
-jakaa (kahtia),cut
 jakaa kahtia,part
 jakaa kolmeen yhtä suureen osaan,trisect
 jakaa lasku ; maksaa omansa,go dutch
@@ -28562,12 +28562,12 @@ katse ; ilme,look
 katsekontakti,eye contact
 katselija ; katsoja,viewer
 katselin ; katseluohjelma,viewer
+katsella (ylös) ; katsoa (ylös),look up
 katsella ; katsoa,regard
 katsella ; katsoa ; suunnata katseensa,cast
 katsella ; kuljeksia ; kuljeskella,cruise
 katsella ; selailla ; tutkailla,browse
 katsella ; tutkailla,look at
-katsella (ylös) ; katsoa (ylös),look up
 katsella luvatta ; salakuunnella,tap
 katsella nähtävyyksiä,sightsee
 katsellaan myöhemmin ; nähdään,later
@@ -35516,9 +35516,9 @@ kuivata ; valmistaa kuivalihaa,jerk
 kuivata lämmöllä,bake
 kuivattaa,drain
 kuivattaa,season
+kuivattaa (ilmassa) ; tuulettaa,air
 kuivattaa ; kuivata,dry
 kuivattaa ; poistaa ; tyhjentää,exhaust
-kuivattaa (ilmassa) ; tuulettaa,air
 kuivattu,desiccated
 kuivattu ; kuivunut,dried
 kuivattu ; vedetön,dehydrated
@@ -36524,9 +36524,9 @@ kuoria,shale
 kuoria,shell
 kuoria,skim
 kuoria,unbark
+kuoria (herneitä),pod
 kuoria ; aisata ; tuohia,bark
 kuoria ; puida,husk
-kuoria (herneitä),pod
 kuoriainen,weevil
 kuoriaita,altar screen
 kuorija,peeler
@@ -36750,8 +36750,8 @@ kurkkupastilli,lozenge
 kurkkupastilli,pastille
 kurkkutautioppi,laryngology
 kurkkuyrtti,borage
-kurkottaa ; kurottaa ; ojentaa ; ylettyä,reach
 kurkottaa (kaulaansa),crane
+kurkottaa ; kurottaa ; ojentaa ; ylettyä,reach
 kurkottaa kaulaansa,rubberneck
 kurkuma ; maustekurkuma,turmeric
 kurkumiini,curcumin
@@ -37042,9 +37042,9 @@ kuulua,go
 kuulua,none of someone's business
 kuulua,pertain
 kuulua,what's it to you
+kuulua (olennaisena osana),inhere
 kuulua ; käsi kädessä,hand in hand
 kuulua ; lukeutua,belong
-kuulua (olennaisena osana),inhere
 kuulua jollekulle ; olla jonkun heiniä[[-än|än]],cup of tea
 kuulua miehistöön,crew
 kuulua yhteen,go together
@@ -38365,13 +38365,13 @@ käydä,attend
 käydä,do
 käydä,go to
 käydä,go up
+käydä (jollekulle) kalliiksi,cost dear
 käydä ; kulkea ; pyöriä ; toimia,run
 käydä ; mennä ; pistäytyä,hit
 käydä ; sietää,pass
 käydä ; sopia,be good for
 käydä ; tapahtua,pass
 käydä ; vierailla,visit
-käydä (jollekulle) kalliiksi,cost dear
 käydä ilmi ; osoittautua,turn out
 käydä ilmi ; paljastua ; tulla ilmi ; tulla tietoon,transpire
 käydä jonkun hermoille ; tehdä joku hulluksi,drive someone up the wall
@@ -38512,6 +38512,7 @@ käyttää,use
 käyttää,utilise
 käyttää,wear
 käyttää,work
+käyttää (hyväkseen) ; verottaa,tap
 käyttää ; hyödyntää,utilise
 käyttää ; ohjata,work
 käyttää ; ohjata ; pyörittää,drive
@@ -38520,7 +38521,6 @@ käyttää ; ottaa käyttöön,bring to bear
 käyttää ; ottaa käyttöön,put to use
 käyttää ; panna käymään,ferment
 käyttää ; panostaa ; satsata,invest
-käyttää (hyväkseen) ; verottaa,tap
 käyttää [[veto-oikeutta]]([[-nsa|nsa]]) ; vetota,veto
 käyttää dopingia,dope
 käyttää hyväkseen ; riistää,exploit
@@ -38709,11 +38709,11 @@ kääntyä,take a turn for the better
 kääntyä,translate
 kääntyä,turn
 kääntyä,yaw
+kääntyä + genitive + eduksi ; kääntyä + partitive + vastaan ; kääntää ; kääntää + accusative + edukseen,turn around
 kääntyä ; muuttua,redound
 kääntyä ; pyörittää ; pyöriä,rotate
 kääntyä ; pyöriä,turn
 kääntyä ; tehdä parannus,repent
-kääntyä + genitive + eduksi ; kääntyä + partitive + vastaan ; kääntää ; kääntää + accusative + edukseen,turn around
 kääntyä haudassaan,turn in one's grave
 kääntyä jonkin ympäri,round
 kääntyä jonkun puoleen ; uskoutua,apply
@@ -40274,9 +40274,9 @@ laukku ; kassi ; säkki ; pussi,bag
 laukku ; matkalaukku,case
 laukoa,fire
 laulaa,sing
+laulaa (uneen),sing
 laulaa ; lausua,sing
 laulaa ; vasikoida,sing
-laulaa (uneen),sing
 laulaa karaokea,karaoke
 laulaa kuin varis,can't carry a tune in a bucket
 laulaa nuoteista ; laulaa prima vista,sight sing
@@ -42599,6 +42599,7 @@ lopettaa,euthanize
 lopettaa,put down
 lopettaa,stint
 lopettaa,upend
+lopettaa (toiminta) ; sulkea,shut up
 lopettaa ; lakata ; luopua ; luovuttaa,quit
 lopettaa ; lakata ; päättää,cease
 lopettaa ; luopua,give up
@@ -42614,7 +42615,6 @@ lopettaa ; ripustaa pelikenkänsä naulaan,hang up one's boots
 lopettaa ; tappaa,kill
 lopettaa ; tehdä loppu,put an end to
 lopettaa ; vaieta,stint
-lopettaa (toiminta) ; sulkea,shut up
 lopettaja,finisher
 lopettaja ; tuhoaja,terminator
 lopettaminen,determination
@@ -47632,9 +47632,9 @@ mittava ; monumentaalinen ; valtava,monumental
 mittaviiva,gradation
 mittayksikkö,unit of measure
 mittelö ; ottelu,bout
+"mitä + comp., sen + comp. ; mitä + comp., sitä + comp.",the
 mitä ; mikä,what
 mitä ; täh,huh
-"mitä + comp., sen + comp. ; mitä + comp., sitä + comp.",the
 mitä arvoa tällä onkaan,for what it's worth
 "mitä enemmän asiat muuttuvat, sitä enemmän ne pysyvät ennallaan","the more things change, the more they stay the same"
 mitä haluaisitte,what would you like
@@ -49142,8 +49142,8 @@ muurari,mason
 muurarimehiläinen,mason bee
 muurarius,masonry
 muurata,mason
-muurata ; muurittaa ; ympäröidä muurilla,wall
 muurata (sisään) ; sulkea (sisään),immure
+muurata ; muurittaa ; ympäröidä muurilla,wall
 muuri,oyster
 muuri,wall
 muuri ; seinä,wall
@@ -49234,9 +49234,9 @@ muuttua,change
 muuttua,turn
 muuttua,turn into
 muuttua,turn to
+muuttua (yhtäkkiä,break
 muuttua ; tulla,wax
 muuttua ; vaihtua,pass
-muuttua (yhtäkkiä,break
 muuttuja,variable
 muuttumaton,invariable
 muuttumaton,invariant
@@ -51426,6 +51426,7 @@ nostaa,up
 nostaa,upthrust
 nostaa,weigh
 nostaa,withdraw
+nostaa (pystyyn),stand up
 nostaa ; kohottaa,elevate
 nostaa ; nostattaa,mount
 nostaa ; nousta,lift
@@ -51434,7 +51435,6 @@ nostaa ; ottaa pois,get off
 nostaa ; ottaa pois ; poistaa,get off
 nostaa ; pitää yllä,uphold
 nostaa ; poimia,pick up
-nostaa (pystyyn),stand up
 nostaa ankkuri,cat
 nostaa hattua,doff
 nostaa hattua,take one's hat off to
@@ -51537,6 +51537,7 @@ nousta,mount
 nousta,rise
 nousta,stir
 nousta,upthrust
+nousta (ylös),stand up
 nousta ; astua,board
 nousta ; kivuta ; kohota ; yletä,climb
 nousta ; kohota,ascend
@@ -51549,7 +51550,6 @@ nousta ; selvitä,emerge
 nousta ; syntyä,spring to life
 nousta ; tulla ylös,come up
 nousta ; yltyä,get up
-nousta (ylös),stand up
 nousta esille ; tulla,come up
 nousta huipulle ; olla huippu,peak
 nousta istumaan,sit up
@@ -52819,9 +52819,9 @@ ojentaa,rax
 ojentaa,reach
 ojentaa,reclaim
 ojentaa,ship
-ojentaa ; ylettyä,reach
 ojentaa (käte[[-nsa|nsä]]),reach out
 ojentaa (ylös),pass up
+ojentaa ; ylettyä,reach
 ojentajalihas,extensor
 ojentaminen,outreach
 ojibwa,ojibwe
@@ -53141,6 +53141,13 @@ olla,go
 olla,have
 olla,make
 olla,there be
+olla (+ elative or ablative) ; tulla (+ elative or ablative),come from
+olla (johonkin) päin,face
+olla (jollakin) alueella,occupy
+olla (yhteensä) ; tehdä,total
+olla + third active infinitive in inessive case ; olla,be
+olla ... tuulella,find oneself
+olla ...[[-vuotias]] ; olla,be
 olla ; olla olemassa,be
 olla ; olla olemassa,obtain
 olla ; olla yhtä suuri kuin,be
@@ -53151,13 +53158,6 @@ olla ; tehdä,total
 olla ; toimia,go
 olla ; tulla,run
 olla ; vastata,amount
-olla (+ elative or ablative) ; tulla (+ elative or ablative),come from
-olla (johonkin) päin,face
-olla (jollakin) alueella,occupy
-olla (yhteensä) ; tehdä,total
-olla + third active infinitive in inessive case ; olla,be
-olla ... tuulella,find oneself
-olla ...[[-vuotias]] ; olla,be
 olla [[ehto|ehdolla ; pyrkiä,run
 olla allapäin,have one's heart in one's boots
 olla auringossa,sun
@@ -54425,6 +54425,7 @@ otsonointi,ozonization
 ottaa,do
 ottaa,get
 ottaa,take
+ottaa (esimerkiksi),take
 ottaa ; kahmia ; napata,take
 ottaa ; maata ; naida,take
 ottaa ; napata,cop
@@ -54438,7 +54439,6 @@ ottaa ; ottaa pois ; viedä,take away
 ottaa ; poimia ; valita,take
 ottaa ; poistaa ; siirtää,remove
 ottaa ; voittaa,take
-ottaa (esimerkiksi),take
 ottaa asiat sellaisina kuin ne tulevat,take things as they come
 ottaa aurinkoa,apricate
 ottaa aurinkoa ; paistatella,sun
@@ -54837,9 +54837,9 @@ pahoillaan,sorry
 pahoillaan ; pelkäänpä,afraid
 pahoinpidellä,abuse
 pahoinpidellä,mutilate
+pahoinpidellä ([[raa’asti]]) ; piestä,brutalise
 pahoinpidellä ; hakata ; piestä,batter
 pahoinpidellä ; raadella,maul
-pahoinpidellä ([[raa’asti]]) ; piestä,brutalise
 pahoinpitely,abuse
 pahoinpitely,assault
 pahoinpitely,battery
@@ -55498,8 +55498,8 @@ paljastaa,reveal
 paljastaa,unfold
 paljastaa,unmask
 paljastaa,unveil
-paljastaa ; pettää,betray
 paljastaa (kasvonsa),unmask
+paljastaa ; pettää,betray
 paljastaa itsensä,expose oneself
 paljastaja,exposer
 paljastaja,telltale
@@ -58251,8 +58251,8 @@ piirtäminen,drawing
 piirtäminen,graphics
 piirtää,draw
 piirtää,emblazon
-piirtää ; piirtää käyrä ; plotata ; tulostaa,plot
 piirtää (jonkun/jonkin) kuva,portray
+piirtää ; piirtää käyrä ; plotata ; tulostaa,plot
 piirtää uudelleen,redraw
 piirtää ympyrä monikulmion kärkien kautta ; piirtää ympäri,circumscribe
 piiru,inch
@@ -59052,6 +59052,7 @@ pitää,keep
 pitää,keep on
 pitää,think
 pitää,withhold
+pitää (kiinni),retain
 pitää ; löytää,find
 pitää ; pidellä,hold
 pitää ; pidätellä ; pidellä ; pitää varattuna,hold
@@ -59063,7 +59064,6 @@ pitää ; tykätä,like
 pitää ; tykätä ; nauttia,like
 pitää ; täytyä,need
 pitää ; varata,hold
-pitää (kiinni),retain
 pitää [[kunnia-asiana]][[-an|an]] ; syventyä,study
 pitää ajan tasalla,keep someone posted
 pitää ajan tasalla ; saattaa ajan tasalle,update
@@ -59458,11 +59458,11 @@ poikkeama,aberrance
 poikkeama,absolute deviation
 poikkeama,departure
 poikkeama,variance
+poikkeama (linjasta) ; siirros,offset
 poikkeama ; anomalia,anomaly
 poikkeama ; patologia,pathology
 poikkeama ; poikkeaminen ; syrjähyppy,digression
 poikkeama ; poikkeava,deviate
-poikkeama (linjasta) ; siirros,offset
 poikkeaminen,deviation
 poikkeava,aberrant
 poikkeava,deviant
@@ -59704,8 +59704,8 @@ polkaista käyntiin,kick start
 polkaisu,stamp
 polkea,pedal
 polkea,treadle
-polkea ; talloa,ride roughshod over
 polkea (jalkaa) ; tömistää,stamp
+polkea ; talloa,ride roughshod over
 polkea paikallaan,tread water
 polkea taaksepäin,backpedal
 polkka,polka
@@ -60699,8 +60699,8 @@ pudottaa,drop
 pudottaa,pot
 pudottaa,squeeze out
 pudottaa,unhorse
-pudottaa ; tiputtaa,drop
 pudottaa (painoa),lose
+pudottaa ; tiputtaa,drop
 pudottaminen ; tyrmäys,flooring
 pudotus,drop
 pudotus,drop-off
@@ -62272,9 +62272,9 @@ pyytämätön,unsolicited
 pyytää,ask
 pyytää,ask for
 pyytää,invoke
+pyytää (jotakin),seek
 pyytää ; anoa,request
 pyytää ; vedota,appeal
-pyytää (jotakin),seek
 pyytää apua,reach out
 pyytää atraimella ; tuulastaa,gig
 pyytää hylkeitä,seal
@@ -62788,9 +62788,9 @@ päästää,discharge
 päästää,give off
 päästää,let out
 päästää,release
+päästää (sisään) ; sallia,admit
 päästää ; vapauttaa,outright
 päästää ; vapauttaa,rid
-päästää (sisään) ; sallia,admit
 päästää irti,loose
 päästää kärsimyksistä,put out of one's misery
 päästää menemään,dump
@@ -62868,10 +62868,10 @@ päättää,come down
 päättää,determine
 päättää,make up one's mind
 päättää,resolve
+päättää (kauppa),close
 päättää ; ratkaista ; valita,decide
 päättää ; saada valmiiksi,wrap up
 päättää ; valita,elect
-päättää (kauppa),close
 päättää päivänsä,end one's days
 päättökoe,boards
 päättömyys,headlessness
@@ -66207,9 +66207,9 @@ ryhti,carriage
 ryhtyä,betake
 ryhtyä,engage
 ryhtyä,wage
+ryhtyä + infinitive iii illative,get
 ryhtyä ; ruveta,undertake
 ryhtyä ; touhuta,get up to
-ryhtyä + infinitive iii illative,get
 ryhtyä toimenpiteisiin ; toimi,take steps
 ryhtyä toimenpiteisiin ; toimia,take action
 ryhän toiminta,group action
@@ -68285,8 +68285,8 @@ sekunti ; kulmasekunti,second
 sekuntikello ; sekkari,stopwatch
 sekuntiosoitin ; sekuntiviisari,second hand
 sekvenssi,sequence
-sekä ; samoin kuin,as well as
 sekä ... että,both
+sekä ; samoin kuin,as well as
 selailla ; selata,page
 selain,explorer
 selain ; verkkoselain ; www-selain,web browser
@@ -68458,8 +68458,8 @@ selvitysmies,receiver
 selvitystila,receivership
 selvitä,sober
 selvitä,sober up
-selvitä ; selviytyä,make it
 selvitä (jostakin),weather
+selvitä ; selviytyä,make it
 selvitä säikähdyksellä ; väistää luoti,dodge a bullet
 selvitä tilanteesta,weather the storm
 selviytyjä,survivor
@@ -69248,8 +69248,8 @@ sijoittaa,assign
 sijoittaa,locate
 sijoittaa,place
 sijoittaa,set
-sijoittaa ; panna ; asettaa ; laittaa,place
 sijoittaa ... välein,space
+sijoittaa ; panna ; asettaa ; laittaa,place
 sijoittaa laitoshoitoon,institutionalize
 sijoittaa sairaalaan,hospitalize
 sijoittaa tasaisin välein,space out
@@ -70487,12 +70487,12 @@ soittaa,phone up
 soittaa,ring
 soittaa,sound
 soittaa,toll
-soittaa ; pelata,play
-soittaa ; toistaa,play
 soittaa (jollekin),phone in
 soittaa (jollekin),ring
 soittaa (puhelimella),phone
 soittaa (puhelimella),telephone
+soittaa ; pelata,play
+soittaa ; toistaa,play
 soittaa huilua,flute
 soittaa ilmakitaraa,air guitar
 soittaa kelloa,ring a bell
@@ -72652,8 +72652,8 @@ suurennusleikkaus,augmentation
 suurentaa,blow up
 suurentaa,magnify
 suurentaa,maximize
-suurentaa ; laajentaa,enlarge
 suurentaa (näyttöä),zoom in
+suurentaa ; laajentaa,enlarge
 suuresti,greatly
 suuresti,widely
 suuret kodinkoneet,white goods
@@ -75322,8 +75322,8 @@ tavoite ; aikomus ; tarkoitus,aim
 tavoite ; tärkeysjärjestys,priority
 tavoitella,chase
 tavoitella,jostle
-tavoitella ; yrittää,go for
 tavoitella (jotakin),seek
+tavoitella ; yrittää,go for
 tavoitella kuuta taivaalta,shoot the moon
 tavoittaa ; vangita,capture
 tavoitteenasetanta,goalsetting
@@ -75434,6 +75434,9 @@ tehdä,go for
 tehdä,make
 tehdä,pull
 tehdä,send
+tehdä (jostakin) marttyyri,martyr
+tehdä (jotain) itse,diy
+tehdä (jotakin) rimaa hipoen ; tehdä (jotakin) vasemmalla kädellä,phone in
 tehdä ; luoda,make
 tehdä ; muuttaa,render
 tehdä ; rakentaa,make
@@ -75441,9 +75444,6 @@ tehdä ; toimia,act
 tehdä ; toimia ; suorittaa,operate
 tehdä ; tuottaa,make
 tehdä ; valmistaa,fix
-tehdä (jostakin) marttyyri,martyr
-tehdä (jotain) itse,diy
-tehdä (jotakin) rimaa hipoen ; tehdä (jotakin) vasemmalla kädellä,phone in
 tehdä alustava varaus,pencil in
 tehdä aukko,gap
 tehdä avaruuskävely,spacewalk
@@ -78490,9 +78490,9 @@ tuomita,judge
 tuomita,objurgate
 tuomita,reprobate
 tuomita,sentence
+tuomita (kadotukseen),damn
 tuomita ; arvioida,judge
 tuomita ; tuomita syylliseksi,condemn
-tuomita (kadotukseen),damn
 tuomita ennalta,prejudge
 tuomitseva,censorious
 tuomittava,condemnable
@@ -79647,9 +79647,9 @@ täysin,clean
 täysin,stark
 täysin,stone
 täysin,wide
+täysin (genitive) kaltaista (+ possessive suffix),all over
 täysin ; kokonaan ; tykkänään ; tyystin ; tyyten,completely
 täysin ; täydellisen,completely
-täysin (genitive) kaltaista (+ possessive suffix),all over
 täysin hereillä,wide awake
 täysin oikeassa,spot on
 täysin rinnoin ; täysin sydämin,wholeheartedly
@@ -80935,6 +80935,7 @@ vaatia,demand
 vaatia,govern
 vaatia,insist
 vaatia,vindicate
+vaatia (korvausta),claim
 vaatia ; edellyttää,require
 vaatia ; inttää ; vakuuttaa,insist
 vaatia ; määrätä,exact
@@ -80942,7 +80943,6 @@ vaatia ; perätä,require
 vaatia ; tiukata ; tivata,demand
 vaatia ; vaatia itselleen,lay claim
 vaatia ; vallata,claim
-vaatia (korvausta),claim
 vaatimaton,humble
 vaatimaton,lowly
 vaatimaton,modest
@@ -81135,9 +81135,9 @@ vaihtaa,shift
 vaihtaa,switch
 vaihtaa,toggle
 vaihtaa,transact
+vaihtaa (+ genitive plural +) paikkaa,reverse
 vaihtaa ; tehdä vaihtokauppa,barter
 vaihtaa ; tehdä vaihtokauppa,exchange
-vaihtaa (+ genitive plural +) paikkaa,reverse
 vaihtaa kanavaa,tune out
 vaihtaa kuulumisia,catch up
 vaihtaa levyä,change the record
@@ -82362,9 +82362,9 @@ vapauttaa,rescue
 vapauttaa,set free
 vapauttaa,spring
 vapauttaa,unchain
-vapauttaa ; päästää vapaaksi,free
 vapauttaa (itsensä),acquit
 vapauttaa (velvollisuudesta),acquit
+vapauttaa ; päästää vapaaksi,free
 vapauttaja,relief
 vapauttaminen,exemption
 vapauttaminen,release
@@ -82606,8 +82606,8 @@ varoitus,caveat
 varoitus,heads-up
 varoitus,monition
 varoitus,warning
-varoitus ; neuvo ; ohjenuora,caution
 varoitus - liukas märkänä,caution - slippery when wet
+varoitus ; neuvo ; ohjenuora,caution
 varoituskolmio,warning triangle
 varoituslaukaus,shot across the bow
 varoituslaukaus,warning shot
@@ -82949,8 +82949,8 @@ vastata,reply
 vastata,respond
 vastata,return
 vastata,tally
-vastata ; vastuu,in charge
 vastata ...[[-vn]] (illative case),meet
+vastata ; vastuu,in charge
 vastata puhelimeen,pick up the phone
 vastatiedustelu,countersurveillance
 vastatoimi,counteraction
@@ -83988,9 +83988,9 @@ viedä,carry
 viedä,export
 viedä,occupy
 viedä,use up
+viedä (genitive) kunnia,steal someone's thunder
 viedä ; viedä pois,take away
 viedä ; viedä pois ; viedä ulos,take out
-viedä (genitive) kunnia,steal someone's thunder
 viedä huomio,abstract
 viedä loppuun,see through
 viedä loppuun asti ; viedä päätökseen,consummate
@@ -86780,8 +86780,8 @@ ylemmäs,up
 ylemmäs ; ylös,upward
 ylempi ; ylin,ranking
 ylempi keskiluokka,upper middle class
-ylempänä ; ylhäällä,upward
 ylempänä (oleva),above
+ylempänä ; ylhäällä,upward
 ylen ; yli-,uberly
 ylenkatse ; halveksinta,contempt
 ylenkatse ; pilkka,scorn

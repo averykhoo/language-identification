@@ -3413,9 +3413,9 @@ ako,in so far as
 ako,insofar as
 ako,provided
 ako,where
-ako bude zatraženo,if so requested
 ako bude zatražen,if required
 ako bude zatraženo,if required
+ako bude zatraženo,if so requested
 ako je prikladno,where appropriate
 ako je prikladno,where appropriate
 ako jedna od stranaka smatra,if either party considers
@@ -15033,8 +15033,8 @@ dražiti,anger
 dražiti,dangle
 dražiti,pique
 dražiti,rile
-drek,tibit
 drek,shit
+drek,tibit
 dreknuti,yell
 dremljiv,dormant
 dremljiv,somnolent
@@ -16853,7 +16853,6 @@ elektroničke mreže,electronic networks
 elektroničke smetnje,electronic interference
 elektronički,electronic
 elektronički,electronically
-elektronički ugovor,electronic contract
 elektronički dokument,electronic document
 elektronički element,electron device
 elektronički kalkulator,electronic calculator
@@ -16867,6 +16866,7 @@ elektronički prijenos novca,electronic funds transfer
 elektronički prikaz,electronic display
 elektronički sklop,electronic circuit
 elektronički sklopovi,electronic circuits
+elektronički ugovor,electronic contract
 elektronički uređaj,electron device
 elektronički časopis,e-zine
 elektronički čitač,electronic reader
@@ -18857,8 +18857,8 @@ gašenje vatre,fire fighting
 gašenje čelika,steel quenching
 gdje,where
 gdje bilo,anywhere
-gdje je prikladno,where appropriate
 gdje je god to moguće,wherever possible
+gdje je prikladno,where appropriate
 gdje je prikladno,where appropriate
 gdje je to bitno,when relevant
 gdje je to potrebno,where necessary
@@ -20226,8 +20226,8 @@ goveđi,bovine
 goveđi odrezak,beefsteak
 govnarija,shit
 govno,crap
-govno,tibit
 govno,shit
+govno,tibit
 govor,address
 govor,allocution
 govor,discourse
@@ -29171,8 +29171,8 @@ kada,puddle
 kada,tub
 kada,when
 kada,whenever
-kada je primjereno,where appropriate
 kada je potrebno,where necessary
+kada je primjereno,where appropriate
 kada je primjereno,where appropriate
 kada okolnosti zahtijevaju,when circumstances require
 kada ste,you've
@@ -57190,12 +57190,12 @@ oslobođen od poreza,tax-free
 oslobođenja,exemptions
 oslobođenja,liberation
 oslobođenje,clearance
+oslobođenje,immunity
 oslobođenje,liberation
 oslobođenje,relief
 oslobođenje,remission
 oslobođenje,rescue
 oslobođenje,riddance
-oslobođenje,immunity
 oslobođenje od,exemption
 oslobođenje od poreza,tax exemption
 oslobođenje poreza,tax exempt
@@ -57625,11 +57625,11 @@ osobni,peculiar
 osobni,personal
 osobni,private
 osobni,privy
-osobni ključ,private key
 osobni Web poslužitelj,personal web server
 osobni bežični telefon,personal handy phone
 osobni dodir,personal contact
 osobni identifikacijski broj,personal identification number
+osobni ključ,private key
 osobni kontakti,personal contacts
 osobni podaci,personal data
 osobni pomoćnik,personal assistant
@@ -63512,13 +63512,13 @@ podzemni,infernal
 podzemni,underearth
 podzemni,undergroudn
 podzemni,underground
-podzemni svijet,underworld
 podzemni hodnik,subway
 podzemni hodnik,tunnel
 podzemni kabel,buried cable
 podzemni prijevoz,underground transport
 podzemni rov,mine
 podzemni rov,sap
+podzemni svijet,underworld
 podzemnih,underground
 podzemnih,underworld
 podzemnim,underworld
@@ -67665,11 +67665,11 @@ poticati,originate
 poticati,proceed
 poticati,stimulate
 poticati,stir
-poticati uporabu,to encourage the use of
 poticati elektrificiju,all-electric
 poticati razvoj,to foster development
 poticati suradnju,foster cooperation
 poticati suradnju,to foster cooperation
+poticati uporabu,to encourage the use of
 potiljak,nape
 potisak,buoyance
 potisak,buoyancy
@@ -75980,8 +75980,8 @@ programski paket,package
 programski prevoditelj,assembler
 programski prevoditelj jezika,language translator
 programski slog,sentence
-programsko osjetilo,sensor
 programsko inženjerstvo,software engineering
+programsko osjetilo,sensor
 programu,agenda
 programu,program
 programu,programme
@@ -81385,8 +81385,8 @@ razvojna strategija,development strategy
 razvojne strategije,strategies for development
 razvojni,development
 razvojni,developmental
-razvojni jezični poremećaji,developmental language disorders
 razvojni indikatori,development indicators
+razvojni jezični poremećaji,developmental language disorders
 razvojni modeli,developing models
 razvojni plan,development plan
 razvojni potencijal,development potential
@@ -91490,7 +91490,6 @@ staviti,put
 staviti,set
 staviti,station
 staviti,stick
-staviti na raspolaganje,to make available
 staviti biljeg,notch
 staviti brnjicu,muzzle
 staviti inter,punctuate
@@ -91500,6 +91499,7 @@ staviti mamac,bait
 staviti na kocku,stake
 staviti na kocku,venture
 staviti na raspolaganje,tender
+staviti na raspolaganje,to make available
 staviti na raspolaganje,to make available
 staviti na račun,debit
 staviti natrag,replace

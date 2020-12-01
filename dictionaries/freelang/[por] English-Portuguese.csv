@@ -347,8 +347,8 @@ abeto,fir
 abilidade,ability
 abismar,cast into an abyss
 abismar,stupefy
-"abismar , espantar , maravilhar , pasmar , supreender",astonish
 "abismar , espantar , espante",amaze
+"abismar , espantar , maravilhar , pasmar , supreender",astonish
 "abismar , supreender , surpreender , surpresa",surprise
 abismar-se,be astonished
 abismar-se,fall into an abyss
@@ -370,10 +370,10 @@ abranger,embrace
 abrasar,be on fire
 abrasar,become excited
 abrasar,burn with passion
-"abrasar , fulgor",glow
 abrasar,polish (surface)
 abrasar,scorch
 "abrasar , escalde",scald
+"abrasar , fulgor",glow
 "abrasar , inflamar",inflame
 "abrasar , queimadura, queimar",burn
 abrasivo,abrasive
@@ -388,12 +388,9 @@ abrilhantar,embellish
 abrilhantar,enliven
 "abrilhantar , acariciar , lapidar , lustrador, polir",polish
 "abrilhantar , aclarar",brighten
+abrir,bloom (flower)
 abrir,break (day)
 abrir,clear up (weather)
-abrir,bloom (flower)
-"abrir , desdobrar",unfold
-"abrir , difundir",spread out
-"abrir , expandir",expand
 abrir,cleave (log)
 abrir,gate)
 abrir,turn on (light)
@@ -401,7 +398,10 @@ abrir,unlock (trunk
 abrir,untie (package)
 "abrir , começar , comece, iniciar",begin
 "abrir , desabrigar , desagasalhar , descubra, destapar",uncover
+"abrir , desdobrar",unfold
 "abrir , desprender",unfasten
+"abrir , difundir",spread out
+"abrir , expandir",expand
 "abrir , partir , quebrar",split
 abruptamente,abruptly
 abrupto,abrupt
@@ -971,11 +971,11 @@ analítico,analytical
 anchova,anchovy
 ancinho,rake
 "andar , assoalho, soalho",floor
-"andar , história",story
 "andar , caminhada, caminhar",walk
 "andar , comporte-se",behave
 "andar , correr , funcionamento, funcionar",run
 "andar , etapa",step
+"andar , história",story
 "andar aos bandos , juntar-se , multidão, rebanho",flock
 "andorinha, tragar",swallow
 "anel , enlaçar , ligação",link
@@ -1239,8 +1239,8 @@ assassinato,murder
 assegure,assure
 assemelhar,be similar
 assemelhe-se,resemble
-"assentar , chegar , fazer-se , ficar , passar , passar a ser , ser , ser próprio , tornar , tornar-se",become
 "assentar , assento, sentar",seat
+"assentar , chegar , fazer-se , ficar , passar , passar a ser , ser , ser próprio , tornar , tornar-se",become
 assentimento,nod
 "assim, deste (de este) , deste modo, então, portanto, tais, tal, tão",so
 "assim, tais, tal, tão",like this
@@ -1596,9 +1596,9 @@ braço,arm
 breio,bridle
 brema,bream
 "breve , breve , sumário",brief
+"breve , cedo, logo",soon
 "breve , conciso",concise
 "breve , curto",short
-"breve , cedo, logo",soon
 "brigar , combater , guerrear , lidar , luta, lutar , pelejar , pugnar",fight
 brilhante,bright
 brilhante,brilliant
@@ -1962,8 +1962,8 @@ charuto,cigar
 charuto-extremidade,cigar-end
 charuto-topo,cigar-stub
 chave,key
-chave,wrench
 chave,spanner
+chave,wrench
 chave de fenda,screwdriver
 "checar , deter , fiscalizar , inspeccionar , revisar , travar , verificação, verificar",check
 chefe,chef
@@ -2109,18 +2109,18 @@ coletivo,collective
 coleção,collection
 "colheita, colher",harvest
 colher,ladle
-colher,spoon
 colher,reap
-"colher , picareta",pick
+colher,spoon
 "colher , pegar , prendedor, supreender , tomar",catch
+"colher , picareta",pick
 colida,collide
 "colina, monte",hill
 colisão,bump
 colisão,collision
 colocar,put together
-"colocar , meter , pôr , posto",put
 "colocar , local, lugar , meter , pôr, sentar , sítio",place
 "colocar , meter , por",lay down
+"colocar , meter , pôr , posto",put
 colonizar,colonize
 coluna,column
 coluna,pillar
@@ -2175,8 +2175,8 @@ competição,competition
 compilador,compiler
 compilar,compile
 compilação,compilation
-complementar,complementary
 complementar,complement
+complementar,complementary
 completamente,completely
 "completamente, inteiramente",entirely
 "completamente, tudo",altogether
@@ -2940,8 +2940,8 @@ detonar,detonate
 deus,god
 deva,shall
 "deva, dever",owe
-dever,duty
 dever,be in debt
+dever,duty
 dever,have to
 "dever , obrigação",must
 "deveras, genuìna, verdadeiramente",genuinely
@@ -3766,8 +3766,8 @@ festa,feast
 fibra,fiber (US)
 fibra,fibre (UK)
 ficar,be located
-"ficar , permanecer , remanesça, restar , sobrar",remain
 ficar,stay over
+"ficar , permanecer , remanesça, restar , sobrar",remain
 fiel,faithful
 figo,fig
 figueira,fig tree
@@ -4172,12 +4172,12 @@ imigrar,immigrate
 imobilizar,immobilize
 imolar,immolate
 imortalizar,immortalize
-impar,odd (number)
-impar,uneven (number)
-"impar , simples, só, único",single
 impar,boast (fig.)
+impar,odd (number)
 impar,pant
 impar,sob
+impar,uneven (number)
+"impar , simples, só, único",single
 imparcial,impartial
 impedimento,deterrent
 impelir,impel
@@ -4414,11 +4414,11 @@ jornal,newspaper
 jornalista,female journalist
 jornalista,journalist
 jorros,spurt
-jovem,youngster
 jovem,juvenile
+jovem,youngster
 jovem,youthful
-"jovem , novo",young
 "jovem , juventude",youth
+"jovem , novo",young
 jubilar,exult
 jubilar,jubilate
 "jubilar , regozijar",rejoice
@@ -4525,10 +4525,10 @@ licença,licence (UK)
 licença,license (US)
 "licença, licenciar",permit
 licor,liquor
+lidar,fight (t.: bulls)
 "lidar , lidar , trabalho",labor (US)
 "lidar , trabalho",labour (UK)
 "lidar , trabalho",toil
-lidar,fight (t.: bulls)
 liga,alloy
 liga,league
 ligar,alloy (metals)
@@ -4860,9 +4860,9 @@ moeda de um centavo,penny
 moer,grind
 moinho,mill
 "mola, nascente, primavera",spring
-molde,template
 molde,mold (US)
 molde,mould (UK)
+molde,template
 molde-fora,cast-off
 moleiro,miller
 molestar,molest
@@ -5110,16 +5110,16 @@ oitecentos,eight hundred
 oitenta,eighty
 oito,eight
 "olhadela, olhar",look
-olhar,peep
-"olhar , olhar",glance
-"olhar , olhar , olhar",gaze
-olhar,look (at) (at)
 olhar,care for
 olhar,consider (fig.)
+olhar,look (at) (at)
 olhar,look after
 olhar,look upon
+olhar,peep
 olhar,stare (at) (at)
 olhar,take charge of
+"olhar , olhar",glance
+"olhar , olhar , olhar",gaze
 "olhar , olho",eye
 "olhar , varredura",scan
 "olhar , ver",attend to
@@ -5443,11 +5443,11 @@ plástico,plastic
 pneumático,tire (US)
 pneumático,tyre (UK)
 pobreza,poverty
-poder,capacity
-poder,power
 poder,be able
 poder,be allowed
 poder,be permitted
+poder,capacity
+poder,power
 "poder , possa",may
 poderoso,powerful
 poema,poem
@@ -5535,11 +5535,11 @@ pratear,silver plate
 "prateleira, tábua",shelf
 prato,dish
 prato,platter
+prazer,be pleasant
 prazer,enjoyment
 prazer,gratification
 prazer,pleasure
 "prazer , satisfação",satisfaction
-prazer,be pleasant
 preamar,high tide
 precedente,previous
 precioso,precious
@@ -5835,9 +5835,9 @@ reaparecer,reappear
 reator,ballast
 "reavivar , ressuscitar",revive
 reação,reaction
-rebaixar,decry
 rebaixar,abase (UK)
 rebaixar,debase (US)
+rebaixar,decry
 rebaixo,recess
 rebanho,herd
 "rebater , repelir",repel
@@ -6410,13 +6410,18 @@ sustentar,sustain
 "sutura, suturar",suture
 sábio,wise
 "sábio, salva",sage
+são,a sturdy man
 são,able-bodied
 são,flawless
 são,hale
 são,hardy
+são,healthy limb
 são,judicious
 são,saintly
 são,sane
+são,sound part
+são,the healthy limb
+são,the sound part
 são,undamaged
 são,undecayed
 são,unimpaired
@@ -6424,11 +6429,6 @@ são,vigorous
 são,wholesome
 "são , saudável",healthy
 "são , soar , som",sound
-são,a sturdy man
-são,healthy limb
-são,sound part
-são,the healthy limb
-são,the sound part
 século,centennial
 século,century
 séptico,septic

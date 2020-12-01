@@ -92,15 +92,6 @@ velor,velour
 අක්කර,acre
 අක්කර,acreage
 අක්මාව,liver
-අක්වෙරළ,offshore
-අක්ෂය,axis
-අක්ෂය,axle
-අක්ෂර,syllable
-අක්ෂර වින්යාසය,calligraphy
-අක්ෂර වින්යාසය,spell
-අක්ෂර වින්යාසය,spelling
-අක්ෂාංශ,latitude
-අක්ෂි,ocular
 අක්රමවත්,disorderly
 අක්රමවත්,irregular
 අක්රමිකතාව,irregularity
@@ -113,6 +104,15 @@ velor,velour
 අක්රීයයි,disabled
 අක්රීයයි,downtime
 අක්රීයයි,inactive
+අක්වෙරළ,offshore
+අක්ෂය,axis
+අක්ෂය,axle
+අක්ෂර,syllable
+අක්ෂර වින්යාසය,calligraphy
+අක්ෂර වින්යාසය,spell
+අක්ෂර වින්යාසය,spelling
+අක්ෂාංශ,latitude
+අක්ෂි,ocular
 අකාර්යක්ෂමයි,ineffective
 අකාර්යක්ෂමයි,ineffectual
 අකාර්යක්ෂමයි,inefficient
@@ -260,6 +260,12 @@ velor,velour
 අත්පොළසන් දෙන්න,applaud
 අත්බෑගය,handbag
 අත්බෝම්බය,grenade
+අත්යවශ්ය,vitals
+අත්යවශ්යයි,essential
+අත්යවශ්යයි,imperative
+අත්යවශ්යයි,indispensable
+අත්යවශ්යයි,vital
+අත්යුත්තර,transcendent
 අත්ලාන්තික් සාගරය,transatlantic
 අත්වැස්ම,glove
 අත්වැසුම්,gloves
@@ -279,12 +285,6 @@ velor,velour
 අත්හිටුවන්න,suspend
 අත්හිටුවීම,suspense
 අත්හිටුවීම,suspension
-අත්යවශ්ය,vitals
-අත්යවශ්යයි,essential
-අත්යවශ්යයි,imperative
-අත්යවශ්යයි,indispensable
-අත්යවශ්යයි,vital
-අත්යුත්තර,transcendent
 අතාර්කික,irrational
 අති විශාල,humongous
 අති විශාලයි,overwhelming
@@ -356,12 +356,12 @@ velor,velour
 අදෘශ්යමාන,invisible
 අදෘශ්යමාන බව,invisibility
 අදේවවාදියා,atheist
-අධ්යයනය,study
-අධ්යාපන,education
 අධ්යක්ෂක,director
 අධ්යයන වාරය,semester
+අධ්යයනය,study
 අධ්යාත්මික,spiritual
 අධ්යාත්මිකත්වය,spirituality
+අධ්යාපන,education
 අධ්යාපන ator,educator
 අධ්යාපනික,educational
 අධි,high
@@ -395,8 +395,8 @@ velor,velour
 අධිපතිත්වය,lordship
 අධිපතියා,overlord
 අධිමානුෂික,superhuman
-අධිරාජ්යය,empire
 අධිරාජ්ය,imperial
+අධිරාජ්යය,empire
 අධිරාජ්යයා,emperor
 අධිරාජ්යයා,empress
 අධිරාජ්යයා,tycoon
@@ -464,12 +464,12 @@ velor,velour
 අන්ධභාවය,blindness
 අන්ධයි,blindfold
 අන්නාසි,pineapple
+අන්යජාතික,gentile
 අන්යෝන්ය,mutual
 අන්වර්ථ නාමය,nickname
 අන්වර්ථය,alias
 අන්වීක්ෂය,microscope
 අන්වීක්ෂීය,microscopic
-අන්යජාතික,gentile
 අනාගත,prospective
 අනාගතය,future
 අනාගතවක්තෘ,prophet
@@ -548,8 +548,8 @@ velor,velour
 අනුගාමිකයා,follower
 අනුචලනය කරන්න,scroll
 අනුනාදය,resonance
-අනුප්රාප්තිය,succession
 අනුප්රාප්තිකයා,successor
+අනුප්රාප්තිය,succession
 අනුපාතය,proportion
 අනුපාතය,rate
 අනුපාතය,ratio
@@ -645,15 +645,15 @@ velor,velour
 අපහාස කිරීම,insult
 අපහාස කිරීම,insulting
 අප්රසන්න,disgruntled
+අප්රසන්න,displeased
 අප්රසන්න,distasteful
+අප්රසන්න,obnoxious
 අප්රසන්න,unpleasant
 අප්රසන්න,unsavory
 අප්රසන්න භාවය,unpleasantness
-අප්රිකානු,african
-අප්රසන්න,displeased
-අප්රසන්න,obnoxious
 අප්රසාදය,displease
 අප්රසාදය,displeasure
+අප්රිකානු,african
 අපාචේ,apache
 අපැහැදිලි,obscure
 අපැහැදිලි,unclear
@@ -691,11 +691,11 @@ velor,velour
 අභක්තික,ungodly
 අභයභූමිය,sanctuary
 අභ්යන්තර,inner
-අභ්යන්තර යොමුගත,inbound
-අභ්යන්තරය,interior
 අභ්යන්තර,insider
 අභ්යන්තර,internal
+අභ්යන්තර යොමුගත,inbound
 අභ්යන්තරය,innermost
+අභ්යන්තරය,interior
 අභ්යන්තරික,intracranial
 අභ්යවකාශ නැව,spaceship
 අභ්යවකාශ මිනිසා,spaceman
@@ -988,10 +988,10 @@ velor,velour
 අවහිර වීම,blockage
 අව් කන්නාඩි,sunglasses
 අව් රශ්මිය,sunburn
-අව්ව,sunny
 අව්යාජ,genuine
 අව්යාජභාවය,authenticity
 අව්යාජයි,authentic
+අව්ව,sunny
 අවාසනාව,misfortune
 අවාසනාව,predicament
 අවාසනාව,unhappiness
@@ -1073,8 +1073,8 @@ velor,velour
 අසනීප,sick
 අසනීප,sickness
 අසනීප,unwell
-අසභ්ය,obscenity
 අසභ්ය,obscene
+අසභ්ය,obscenity
 අසභ්ය,porn
 අසභ්ය,vulgar
 අසභ්ය වචන,profanity
@@ -1179,15 +1179,15 @@ velor,velour
 ආකර්ෂණීය,stunner
 ආකල්පය,attitude
 ආක්ටික්,arctic
-ආක්රමණශීලී,intrusive
-ආක්රමණශීලීත්වය,aggression
 ආක්රමණය,intrusion
 ආක්රමණය,invasion
 ආක්රමණය කරන්න,invade
 ආක්රමණශීලී,aggressive
+ආක්රමණශීලී,intrusive
 ආක්රමණශීලී,invasive
 ආක්රමණශීලී,offensive
 ආක්රමණශීලී බව,aggressiveness
+ආක්රමණශීලීත්වය,aggression
 ආක්රමණිකයා,aggressor
 ආක්රමණිකයා,invader
 ආකාරය,manner
@@ -1331,6 +1331,7 @@ velor,velour
 ආරක්ෂා කරන්න,protect
 ආරක්ෂා කරන්න,safeguard
 ආරක්ෂාව,protection
+ආරක්ෂාව,safekeeping
 ආරක්ෂාව,safety
 ආරක්ෂාව,security
 ආරක්ෂිත පියවරක්,precaution
@@ -1338,7 +1339,6 @@ velor,velour
 ආරක්ෂිතයි,protective
 ආරක්ෂිතයි,safe
 ආරක්ෂිතයි,secure
-ආරක්ෂාව,safekeeping
 ආරම්භ කරන්න,commence
 ආරම්භ කරන්න,embark
 ආරම්භ කරන්න,initiate
@@ -1394,12 +1394,12 @@ velor,velour
 ආවේගශීලීයි,impulsive
 ආශ්චර්යමත්,miraculous
 ආශ්චර්යය,miracle
+ආශ්රය,courtship
+ආශ්රිත,associate
 ආශ්වාස කරන්න,inhale
 ආශ්වාස කරන්නා,inhaler
 ආශ්වාස කිරීම,inhalation
 ආශ්වාසය,asphyxia
-ආශ්රය,courtship
-ආශ්රිත,associate
 ආශා,yearn
 ආශාව,aspire
 ආශාව,desire
@@ -1767,11 +1767,11 @@ velor,velour
 ඉස්කුරුප්පු,screwy
 ඉස්කුරුප්පු ඇණ,wrench
 ඉස්කුරුප්පු නියන,screwdriver
+ඉස්ගෙඩිය,tadpole
 ඉස්ටුවක්,stew
 ඉස්ම සහිත,juicy
 ඉස්මතු කරන්න,highlight
 ඉස්සන්,prawn
-ඉස්ගෙඩිය,tadpole
 ඉසින්න,spray
 ඉසිය යුතු ය,sprinkle
 ඉහත සඳහන් කර ඇත,aforementioned
@@ -1861,10 +1861,10 @@ velor,velour
 උත්තේජනය,stimulus
 උත්තේජනය කරන්න,stimulate
 උත්ප්රාසය,irony
+උත්ප්රාසාත්මක ය,ironic
 උත්ප්රේරකය,catalyst
 උත්පාතය,boom
 උත්පාදක යන්ත්රය,generator
-උත්ප්රාසාත්මක ය,ironic
 උත්ශ්රේණි කිරීම,upgrade
 උත්සන්න,escalation
 උත්සන්න වීම,escalating
@@ -1900,15 +1900,15 @@ velor,velour
 උද්භිද විද්යාව,botanical
 උද්භිද විද්යාව,botany
 උද්භිද විද්යාව,botulism
-උද්යෝගය,enthusiasm
-උද්යෝගිමත්,enthusiast
-උද්යෝගිමත්,enthusiastic
-උද්යෝගිමත්,spirited
-උද්යෝගිමත්,upbeat
 උද්යානය,park
+උද්යෝගය,enthusiasm
 උද්යෝගය,gusto
 උද්යෝගිමත්,avid
+උද්යෝගිමත්,enthusiast
+උද්යෝගිමත්,enthusiastic
 උද්යෝගිමත්,passionate
+උද්යෝගිමත්,spirited
+උද්යෝගිමත්,upbeat
 උදා,ex
 උදාර,grandiose
 උදාරත්වය,grandeur
@@ -1972,8 +1972,8 @@ velor,velour
 උපක්රමශීලී,tricky
 උපකාරක පන්ති,tuition
 උපකාරය,recourse
-උපග්රන්ථය,appendix
 උපග්රන්ථය,appendage
+උපග්රන්ථය,appendix
 උපත,birth
 උපත,birthing
 උපත,born
@@ -2647,19 +2647,58 @@ velor,velour
 කළුකුමා,turkey
 කළුගල්,granite
 කෆ්,cuff
+ක්රමය,method
+ක්රමයෙන්,gradual
+ක්රමලේඛකයා,programmer
+ක්රමවත්,methodical
 ක්රමවත්ව ක්රියා නොකිරීම,malfunction
+ක්රමවේදය,methodology
+ක්රමාංකනය,caliber
+ක්රමානුකූල,schematic
+ක්රමානුකූල,systematic
+ක්රමික ගමන,commute
 ක්රැන්බෙරි,cranberry
 ක්රිකට්,cricket
+ක්රිපර්,creeper
+ක්රිප්ටොනයිට්,kryptonite
 ක්රියා පදයේ,verb
 ක්රියාකරු,operator
+ක්රියාකාරකම්,activity
+ක්රියාකාරිකයා,activist
+ක්රියාකාරී,functional
+ක්රියාකාරී,operative
+ක්රියාත්මක කරන්න,execute
+ක්රියාත්මක කරන්න,implement
+ක්රියාත්මක කරන්නා,executioner
 ක්රියාත්මක කරන්නා,executor
+ක්රියාත්මක කිරීම,execution
+ක්රියාත්මක වන්න,operate
+ක්රියාවලිය,process
+ක්රියාශීලී,proactive
 ක්රිස්ටන්,christen
 ක්රීඩකයා,player
+ක්රීඩකයා,sportsman
+ක්රීඩා,sporting
+ක්රීඩා,sporty
+ක්රීඩා කාමරය,playroom
+ක්රීඩා කාලය,playtime
+ක්රීඩා පිටිය,playground
+ක්රීඩා පොත,playbook
+ක්රීඩා ලේඛකයා,sportswriter
+ක්රීඩා හැකියාව,sportsmanship
+ක්රීඩාංගනය,stadium
+ක්රීඩාව,game
+ක්රීඩාව,sport
 ක්රීම්,cream
 ක්රීම්,creamed
 ක්රීම්,creamer
 ක්රීම්,creamy
+ක්රෙටින්,cretin
 ක්රෙයොන්,crayon
+ක්රෙසෙන්ඩෝ,crescendo
+ක්රොකට්,croquet
+ක්රෝච්,crouch
+ක්රෝමියම්,chromium
 ක්ලක්,cluck
 ක්ලච්,clutch
 ක්ලබ්හවුස්,clubhouse
@@ -2703,45 +2742,6 @@ velor,velour
 ක්ෂේත්රය,field
 ක්ෂේත්රය,infield
 ක්ෂේම භූමිය,oasis
-ක්රමය,method
-ක්රමයෙන්,gradual
-ක්රමලේඛකයා,programmer
-ක්රමවත්,methodical
-ක්රමවේදය,methodology
-ක්රමාංකනය,caliber
-ක්රමානුකූල,schematic
-ක්රමානුකූල,systematic
-ක්රමික ගමන,commute
-ක්රිපර්,creeper
-ක්රිප්ටොනයිට්,kryptonite
-ක්රියාකාරකම්,activity
-ක්රියාකාරිකයා,activist
-ක්රියාකාරී,functional
-ක්රියාකාරී,operative
-ක්රියාත්මක කරන්න,execute
-ක්රියාත්මක කරන්න,implement
-ක්රියාත්මක කරන්නා,executioner
-ක්රියාත්මක කිරීම,execution
-ක්රියාත්මක වන්න,operate
-ක්රියාවලිය,process
-ක්රියාශීලී,proactive
-ක්රීඩකයා,sportsman
-ක්රීඩා,sporting
-ක්රීඩා,sporty
-ක්රීඩා කාමරය,playroom
-ක්රීඩා කාලය,playtime
-ක්රීඩා පිටිය,playground
-ක්රීඩා පොත,playbook
-ක්රීඩා ලේඛකයා,sportswriter
-ක්රීඩා හැකියාව,sportsmanship
-ක්රීඩාංගනය,stadium
-ක්රීඩාව,game
-ක්රීඩාව,sport
-ක්රෙටින්,cretin
-ක්රෙසෙන්ඩෝ,crescendo
-ක්රොකට්,croquet
-ක්රෝච්,crouch
-ක්රෝමියම්,chromium
 කාංසාව,anxiety
 කාකි,khaki
 කාච,lens
@@ -3072,10 +3072,10 @@ velor,velour
 කුපිත කරයි,irritating
 කුපිත කිරීම,provocation
 කුපිත වීම,irritation
-කුමන්ත්රණය,plot
 කුමන්ත්රණය,conspiracy
 කුමන්ත්රණය,coup
 කුමන්ත්රණය,intrigue
+කුමන්ත්රණය,plot
 කුමන්ත්රණය කරන්න,conspire
 කුමරිය,princess
 කුම්කට්,kumquat
@@ -3246,8 +3246,8 @@ velor,velour
 කොන්ඩම්,condom
 කොන්ඩර්,condor
 කොන්ඩෝ,condo
-කොන්ත්රාත්තුව,contract
 කොන්ත්රාත්කරු,contractor
+කොන්ත්රාත්තුව,contract
 කොන්දේසි විරහිත,unconditional
 කොන්දොස්තර,conductor
 කොන්යැක්,cognac
@@ -3475,23 +3475,11 @@ velor,velour
 ගස,tree
 ගහගෙන ගියා,castaway
 ගහනවා,spanking
-ග්රහනය,grip
-ග්රේප් පෘට්,grapefruit
-ග්ලයිඩය,glide
-ග්ලයිඩර්,glider
-ග්ලැඩ්,glade
-ග්ලැඩියේටර්,gladiator
-ග්ලැසියරය,glacier
-ග්ලිටර්,glitter
-ග්ලුකෝමා,glaucoma
-ග්ලූකෝස්,glucose
-ග්ලූම්,glum
-ග්ලොස්,gloss
-ග්වාකොමෝල්,guacamole
 ග්රන්ථිය,gland
 ග්රවුන්ඩ්හෝග්,groundhog
 ග්රහකය,asteroid
 ග්රහණය කරගන්න,grasp
+ග්රහනය,grip
 ග්රහලෝක,planetary
 ග්රහලෝකය,planet
 ග්රහලෝකාගාරය,planetarium
@@ -3506,10 +3494,22 @@ velor,velour
 ග්රිල්,grill
 ග්රීසර්,greaser
 ග්රීස්,grease
+ග්රේප් පෘට්,grapefruit
 ග්රේල්,grail
 ග්රේවි,gravy
 ග්රේහවුන්ඩ්,greyhound
 ග්රෝප්,grope
+ග්ලයිඩය,glide
+ග්ලයිඩර්,glider
+ග්ලැඩ්,glade
+ග්ලැඩියේටර්,gladiator
+ග්ලැසියරය,glacier
+ග්ලිටර්,glitter
+ග්ලුකෝමා,glaucoma
+ග්ලූකෝස්,glucose
+ග්ලූම්,glum
+ග්ලොස්,gloss
+ග්වාකොමෝල්,guacamole
 ගාංචුව,buckle
 ගාටර්,garter
 ගායකයා,singer
@@ -3844,9 +3844,9 @@ velor,velour
 චට්නි,chutney
 චතුර ලෙස,fluent
 චන්කි,chunky
-චන්ද්රිකාව,satellite
 චන්ද්ර,lunar
 චන්ද්රවංකය,crescent
+චන්ද්රිකාව,satellite
 චපල,capricious
 චබී,chubby
 චමත්කාරජනක,glamorous
@@ -3871,9 +3871,9 @@ velor,velour
 චාන්සලර්,chancellor
 චාම්,arcane
 චාම්,charmer
+චාරිත්ර,rite
 චාරිත්රය,customary
 චාරිත්රය,ritual
-චාරිත්ර,rite
 චාරිත්රානුකූල,ceremonial
 චාරිත්රානුකූල,ritualistic
 චාරේ,charade
@@ -3890,10 +3890,10 @@ velor,velour
 චිත්ත ධෛර්යය,morale
 චිත්ත ශක්තිය,grit
 චිත්තවේගීය,emotional
-චිත්රපටය,film
-චිත්රපටය,movie
 චිත්ර ශිල්පියා,painter
 චිත්රපට නිෂ්පාදක,filmmaker
+චිත්රපටය,film
+චිත්රපටය,movie
 චින්චිලා,chinchilla
 චින්තකයා,thinker
 චිප,chip
@@ -3958,8 +3958,8 @@ velor,velour
 ජනගහනය,population
 ජනනය කරන්න,generate
 ජනපදය,colony
-ජනප්රිය,popular
 ජනප්රවාද,folklore
+ජනප්රිය,popular
 ජනප්රියත්වය,popularity
 ජනරජ,republican
 ජනරජය,republic
@@ -3981,12 +3981,12 @@ velor,velour
 ජය ගන්න,prevail
 ජය ගැනීම,conquering
 ජයග්රහණ,winnings
-ජයග්රාහී,victorious
 ජයග්රහණය,achievement
 ජයග්රහණය,victory
 ජයග්රාහකයා,conqueror
 ජයග්රාහකයා,winner
 ජයග්රාහී,triumphant
+ජයග්රාහී,victorious
 ජර්ක්,jerk
 ජර්කි,jerky
 ජර්නලය,journal
@@ -4009,13 +4009,13 @@ velor,velour
 ජලාශය,reservoir
 ජවනාරන්,tangerine
 ජ්යාමිතික,geometric
+ජ්යාමිතිය,geometry
+ජ්යෙෂ්,senior
+ජ්යෙෂ් ity ත්වය,seniority
 ජ්යෝති gy ශාස්ත්රය,astrology
 ජ්වලනය,ignition
 ජ්වලනය කරන්න,ignite
 ජ්වලිතය,zeal
-ජ්යාමිතිය,geometry
-ජ්යෙෂ්,senior
-ජ්යෙෂ් ity ත්වය,seniority
 ජාතික,national
 ජාතිය,nation
 ජාතිය,nationality
@@ -4140,33 +4140,33 @@ velor,velour
 ටර්මිනේටර්,terminator
 ටර්ෆ්,turf
 ටවර්න්,tavern
-ට්රක් රථ,trucker
-ට්රයිප්,tripe
-ට්රයුට්,trout
-ට්රාන්ස්ෆෝමර්,transformer
-ට්රැකර්,tracker
-ට්රේසර්,tracer
-ට්වයින්,twine
-ට්වීට් කරන්න,tweet
 ට්රක්,truck
+ට්රක් රථ,trucker
 ට්රක් රථ,truckload
 ට්රම්ප්,tramp
 ට්රම්ප්,trampoline
 ට්රම්බෝන්,trombone
 ට්රයැතලෝන්,triathlon
+ට්රයිප්,tripe
+ට්රයුට්,trout
 ට්රාන්ස්,trance
 ට්රාන්ස්පෝන්ඩර්,transponder
 ට්රාන්ස්වෙස්ටයිට්,transvestite
+ට්රාන්ස්ෆෝමර්,transformer
 ට්රාන්සිස්ටරය,transistor
+ට්රැකර්,tracker
 ට්රැක්ටරය,tractor
 ට්රෑම් රථය,tram
 ට්රිබියුන්,tribune
 ට්රිලියන,trillion
 ට්රෙඩ්මිල්,treadmill
 ට්රේලරය,trailer
+ට්රේසර්,tracer
 ට්රොට්,trot
 ට්රොල්,troll
 ට්රොලි,trolley
+ට්වයින්,twine
+ට්වීට් කරන්න,tweet
 ටාටාර්,tartar
 ටැංකිය,tank
 ටැංකිය,tanker
@@ -4460,36 +4460,36 @@ velor,velour
 තහවුරු කරන්න,assert
 තහවුරු කරන්න,confirm
 තහවුරු කිරීම,confirmation
-ත්යාගය,reward
-ත්යාගශීලී,generous
-ත්රස්තවාදී,terrorist
-ත්රාසජනක,adventure
-ත්රාසජනක,adventurous
-ත්රිකෝණය,triangle
-ත්රිකෝණාකාර,triangulate
-ත්රිත්ව,triple
-ත්වරකය,accelerant
-ත්වරකය,accelerator
-ත්වරණය,acceleration
 ත්යාග,bounty
 ත්යාගය,prize
+ත්යාගය,reward
 ත්යාගශීලිත්වය,generosity
+ත්යාගශීලී,generous
 ත්රස්තවාදය,terrorism
+ත්රස්තවාදී,terrorist
+ත්රාසජනක,adventure
 ත්රාසජනක,adventurer
+ත්රාසජනක,adventurous
 ත්රාසජනකයි,thriller
 ත්රිකෝණය,triad
+ත්රිකෝණය,triangle
 ත්රිකෝණය,tripod
+ත්රිකෝණාකාර,triangulate
 ත්රිත්ව,trident
+ත්රිත්ව,triple
 ත්රිත්ව,triplicate
 ත්රිරෝද රථය,tricycle
 ත්රෛභාෂාව,trilogy
 ත්රෛමාසිකය,trimester
+ත්වරකය,accelerant
+ත්වරකය,accelerator
+ත්වරණය,acceleration
+තාක්ෂණය,tech
 තාක්ෂණය,technique
 තාක්ෂණය,technology
 තාක්ෂණික,technical
 තාක්ෂණික,technological
 තාක්ෂණිකභාවය,technicality
-තාක්ෂණය,tech
 තාත්තා,dad
 තාත්තා,daddy
 තාත්තා,papa
@@ -4855,19 +4855,6 @@ velor,velour
 දළ සටහන,outline
 දළඹුවා,caterpillar
 ද්රව්ය,material
-ද්වන්ධ සටන,duel
-ද්වාරය,portal
-ද්වි ධ්රැවය,bipolar
-ද්වි ලිංගික,bisexual
-ද්විත්ව,dual
-ද්විත්ව,duplex
-ද්විත්ව,twosome
-ද්විතියික,secondary
-ද්විපාර්ශ්වික,bilateral
-ද්විමය,binary
-ද්විවාර්ෂික,bicentennial
-ද්වේෂ සහගත,spiteful
-ද්වේෂය,malice
 ද්රව්යකරණය,materialize
 ද්රව්යය,substance
 ද්රාවකය,solvent
@@ -4881,6 +4868,19 @@ velor,velour
 ද්රෝහී,traitorous
 ද්රෝහී,treacherous
 ද්රෝහී,unfaithful
+ද්වන්ධ සටන,duel
+ද්වාරය,portal
+ද්වි ධ්රැවය,bipolar
+ද්වි ලිංගික,bisexual
+ද්විත්ව,dual
+ද්විත්ව,duplex
+ද්විත්ව,twosome
+ද්විතියික,secondary
+ද්විපාර්ශ්වික,bilateral
+ද්විමය,binary
+ද්විවාර්ෂික,bicentennial
+ද්වේෂ සහගත,spiteful
+ද්වේෂය,malice
 දාගැබ,dagger
 දාදු කැටය,dice
 දානපතියෙක්,philanthropist
@@ -5322,18 +5322,18 @@ velor,velour
 නම් කරන්න,nominate
 නම් නොකළ,unnamed
 නම් නොකළ,untamed
+නම්යශීලි,flex
 නම්යශීලී,flexible
 නම්යශීලී,floppy
 නම්යශීලීභාවය,flexibility
-නම්යශීලි,flex
 නයිට් ස්ටෑන්ඩ්,nightstand
 නයිට්කැප්,nightcap
-නයිට්රේට්,nitrate
-නයිට්ස්ටික්,nightstick
-නයිට්හවුඩ්,knighthood
 නයිට්රජන්,nitrogen
 නයිට්රස්,nitrous
+නයිට්රේට්,nitrate
 නයිට්රෝ,nitro
+නයිට්ස්ටික්,nightstick
+නයිට්හවුඩ්,knighthood
 නයිටි,nightie
 නයිලොන්ග්,nylong
 නයිලෝන්,nylon
@@ -6085,9 +6085,9 @@ velor,velour
 පත් කරන්න,appoint
 පත්රය,sheet
 පත්රව,scab
-පත්වීම,appointment
 පත්රිකාව,pamphlet
 පත්රිකාව,tract
+පත්වීම,appointment
 පතුලක් නැති,bottomless
 පතුවළ,shaft
 පතොක්,cactus
@@ -6390,52 +6390,291 @@ velor,velour
 පළිබෝධ,pest
 පළිබෝධකය,pestle
 පෆ්,puff
+ප්ර .ාව,wisdom
+ප්ර ter ප්තිය,charter
+ප්ර ute ප්තිය,statute
+ප්රක්ෂේපණය,projectile
+ප්රක්ෂේපණය,projection
+ප්රක්ෂේපණය කිරීම,projecting
+ප්රකාශ කරන්න,articulate
+ප්රකාශ කරන්න,declare
+ප්රකාශ කරන්න,proclaim
+ප්රකාශ කරන්න,publish
+ප්රකාශක,publisher
+ප්රකාශක,spokesman
+ප්රකාශක,spokesperson
+ප්රකාශන,expressive
+ප්රකාශනය,expression
+ප්රකාශනය,manifestation
+ප්රකාශනය,publication
+ප්රකාශනය,publishing
 ප්රකාශය,declaration
 ප්රකාශය,proclamation
+ප්රකාශය,remark
 ප්රකාශය,statement
+ප්රකෘතිමත් වීම,recovery
+ප්රකෝටිපතියා,billionaire
+ප්රකෝපකාරී,provocative
 ප්රගතිය,progress
+ප්රගතිය,progression
+ප්රගතිශීලී,progressive
+ප්රචණ්ඩකාරී,violent
+ප්රචණ්ඩත්වය,violence
 ප්රචාරක,publicist
+ප්රචාරණය,propaganda
+ප්රචාලකය,propeller
+ප්රචාලනය,propulsion
+ප්රජනක,reproductive
+ප්රජනනය,procreation
 ප්රජනනය,reproduction
+ප්රජනනය,reprogram
+ප්රජනනය කරන්න,procreate
 ප්රජනනය කරන්න,reproduce
+ප්රජාතන්ත්රවාදය,democracy
+ප්රජාතන්ත්රවාදී,democrat
+ප්රජාතන්ත්රවාදී,democratic
+ප්රජාව,community
+ප්රණීතභාවය,delicacy
+ප්රත්යාවර්ත,alternating
+ප්රත්යාස්ථතාව,elastic
+ප්රති .ලය,result
+ප්රති come ලය,outcome
+ප්රති ledge ාව,pledge
+ප්රති-ගුවන් යානා,antiaircraft
 ප්රතිංධිසරාේධක,contraception
+ප්රතික්රියා කරන්න,react
+ප්රතික්රියාකාරකය,reactor
 ප්රතික්රියාව,reaction
+ප්රතික්රියාශීලී,reactive
+ප්රතික්ෂේප කරන්න,deny
+ප්රතික්ෂේප කරන්න,disown
+ප්රතික්ෂේප කරන්න,disprove
+ප්රතික්ෂේප කරන්න,refuse
+ප්රතික්ෂේප කරන්න,refute
+ප්රතික්ෂේප කරන්න,reject
+ප්රතික්ෂේප කිරීම,deniability
+ප්රතික්ෂේප කිරීම,denial
+ප්රතික්ෂේප කිරීම,refusal
 ප්රතික්ෂේප කිරීම,rejection
+ප්රතික්ෂේප විය,rejected
 ප්රතිකාර,treatment
 ප්රතිකාර කළ හැකි,treatable
+ප්රතිග්රාහක,receptive
+ප්රතිග්රාහකය,receptor
+ප්රතිගාමී වීම,regression
+ප්රතිචක්රීකරණය,recycle
+ප්රතිචක්රීකරණය,recycled
+ප්රතිචක්රීකරණය,recycling
+ප්රතිචාර දක්වන්න,respond
+ප්රතිචාර නොදක්වයි,unresponsive
+ප්රතිචාරය,response
+ප්රතිචාරාත්මක,responsive
 ප්රතිජීවක,antibiotic
 ප්රතිජීවක,antibiotics
+ප්රතිදානය,output
+ප්රතිදීප්ත,fluorescent
+ප්රතිදේහජනකත්වය,antigravity
+ප්රතිනිර්මාණය,reconstructive
+ප්රතිනිර්මාණය,reenactment
+ප්රතිනිර්මාණය,remake
+ප්රතිනිර්මාණය කරන්න,reconstruct
+ප්රතිනිර්මාණය කරන්න,recreate
 ප්රතිනිහිතය,surrogate
 ප්රතිපත්ති,policy
+ප්රතිපත්ති ප්රකාශනය,manifesto
 ප්රතිපත්ති පූජාවන්ට මූලිකත්වය දෙමින්,sill
+ප්රතිප්රහාර එල්ල කරන්න,counteract
 ප්රතිප්රහාරය,counterattack
+ප්රතිපාදන,provision
+ප්රතිපූරණය කරන්න,reimburse
+ප්රතිපෝෂණය,feedback
+ප්රතිභානය,intuition
+ප්රතිරෝධය,resistance
+ප්රතිරෝධී,resistant
+ප්රතිලාභ,benefit
+ප්රතිලාභියා,benefactor
+ප්රතිලාභියා,beneficiary
+ප්රතිලෝම,inverted
 ප්රතිවාදියා,opponent
+ප්රතිවාදියා,rival
+ප්රතිවිපාකය,consequence
 ප්රතිවිරුද්ධ,opposite
+ප්රතිවිරෝධී,antagonistic
+ප්රතිශක්තිය,immunity
+ප්රතිශක්තීකරණ,immune
+ප්රතිශතය,percentage
+ප්රතිශතය,percentile
+ප්රතිෂ් .ාපනය,restoration
+ප්රතිසංවිධානය කරන්න,reorganize
+ප්රතිසංස්කරණ,reform
+ප්රතිසංස්කරණය,reconstruction
+ප්රතිසන්ධානය,reconcile
+ප්රතිසන්ධානය,reconciliation
+ප්රතිසම,analogy
 ප්රතිස්ථාපනය කරන්න,replace
+ප්රතීකයක්,reflex
+ප්රදර්ශනය,exhibit
 ප්රදර්ශනය,exhibition
+ප්රදර්ශනය,exposition
+ප්රදර්ශනාගාරය,showcase
+ප්රදර්ශනාගාරය,showroom
+ප්රදානය කරන්න,confer
+ප්රදීපාගාරය,lighthouse
+ප්රදේශය,area
 ප්රධාන,chief
 ප්රධාන,main
+ප්රධාන ආහාරය,staple
+ප්රධාන ගුරුවරයා,headmaster
+ප්රධාන දේශනය,keynote
+ප්රධාන ධාරාව,mainstream
+ප්රධාන භූමිය,mainland
 ප්රධාන මෙහෙයුම් නිලධාරී,coo
+ප්රපාතය,precipice
+ප්රබන්ධ,fable
+ප්රබන්ධ,fabled
+ප්රබන්ධ,fiction
+ප්රබන්ධ,fictional
+ප්රබන්ධ නොවන,nonfiction
+ප්රබන්ධය,lore
+ප්රබලයි,resounding
+ප්රභාෂාව,jargon
+ප්රභූ පැලැන්තිය,elite
+ප්රභූ පැලැන්තිය,elitist
+ප්රභේදය,genre
 ප්රමාණය,amount
+ප්රමාණය,extent
+ප්රමාණය,quantity
+ප්රමාණය,size
+ප්රමාණවත්,adequate
+ප්රමාණවත්,ample
+ප්රමාණවත්,suffice
 ප්රමාණවත්,sufficient
+ප්රමාණවත් නොවේ,inadequate
 ප්රමාණවත් නොවේ,insufficient
+ප්රමාදය,delay
+ප්රමාදයි,belated
+ප්රමාදයි,delayed
+ප්රමාදයි,lag
+ප්රමිතිගත,standardized
 ප්රමුඛතම,foremost
+ප්රමුඛත්වය,flagship
+ප්රමුඛතාවය,precedence
+ප්රමුඛතාවය,priority
+ප්රමුඛතාවය දෙන්න,prioritize
 ප්රමෝදය,bliss
+ප්රමෝදය,ecstasy
+ප්රයිමර්,primer
+ප්රයිමේට්,primate
+ප්රයෝජනවත්,beneficial
+ප්රයෝජනවත්,helpful
+ප්රයෝජනවත්,useful
+ප්රයෝජනවත් බව,usefulness
+ප්රලේඛනය,documentation
+ප්රවණතාවය,trend
+ප්රවනතාවය,tendency
+ප්රවර්ධකයා,promoter
 ප්රවර්ධන,promotion
+ප්රවර්ධන,promotional
+ප්රවර්ධන වැඩසටහන,promo
+ප්රවර්ධනය කරන්න,promote
+ප්රවාහකයා,transporter
+ප්රවාහනය,livery
+ප්රවාහනය,transport
+ප්රවාහනය,transportation
+ප්රවාහය,flux
+ප්රවීණ,proficient
+ප්රවීණත්වය,mastery
+ප්රවීණතාවය,proficiency
+ප්රවීණයෙක්,veteran
+ප්රවෘත්ති කාමරය,newsroom
+ප්රවෘත්ති විකාශකයා,newscaster
+ප්රවෘත්ති විකාශය,newscast
+ප්රවෘත්තිකරු,newsman
+ප්රවේගය,velocity
 ප්රවේශ,access
+ප්රවේශ විය නොහැක,inaccessible
+ප්රවේශ විය හැකිය,accessible
+ප්රවේශම් වන්න,caution
+ප්රවේශම් වන්න,cautious
 ප්රවේශය,approach
 ප්රවේසම් වන්න,lookout
+ප්රශංසනීයයි,admirable
+ප්රශංසනීයයි,commendable
+ප්රශංසා කරන්න,commend
+ප්රශංසා කරන්න,praise
+ප්රශංසා කිරීම,commendation
+ප්රශංසාව,eulogy
+ප්රශස්ත,optimum
+ප්රශ්න කරන්න,interrogate
+ප්රශ්න කිරීම,interrogation
+ප්රශ්නය,question
+ප්රශ්නාවලිය,questionnaire
+ප්රශ්නාවලිය,quiz
+ප්රසංගය,concert
+ප්රසංගය,concerto
 ප්රසන්න,pleasant
+ප්රසන්න,pleasing
+ප්රසන්න,pleasurable
+ප්රසම්පාදනය,procure
+ප්රස්ථාරය,graph
+ප්රසාද දීමනාව,bonus
+ප්රසිද්ධයි,famed
+ප්රසිද්ධයි,famous
+ප්රසිද්ධිය,publicity
+ප්රහාරකයා,assailant
+ප්රහාරකයා,attacker
 ප්රහාරය,attack
+ප්රහේලිකාව,puzzle
+ප්රහේලිකාව,riddance
+ප්රහේලිකාව,riddle
+ප්රහේලිකාවක්,puzzled
+ප්රාග් or තිහාසික,prehistoric
 ප්රාග්ධනය,capital
 ප්රාග්ධනීකරණය කරන්න,capitalize
 ප්රාචීරය,diaphragm
+ප්රාණ ඇපකරුවන්,hostage
+ප්රාණ පරිත්යාගිකයා,martyr
+ප්රාථමික,primal
+ප්රාථමික,primary
+ප්රාථමික,primitive
+ප්රාථමික,primordial
+ප්රාන්තය,county
 ප්රාන්තය,stateside
+ප්රායෝගික,practical
+ප්රායෝගික,pragmatic
+ප්රායෝගික නැත,impractical
+ප්රාර්ථනා කරන්න,wish
+ප්රිය,fond
 ප්රියතම,favorite
+ප්රීති ප්රමෝදය,euphoria
+ප්රීති ප්රමෝදය,euphoric
+ප්රීති ප්රමෝදය,joyride
+ප්රීති ප්රමෝදයට පත් විය,exhilarated
+ප්රීති වන්න,cheer
 ප්රීති වන්න,rejoice
+ප්රීති වන්න,revel
+ප්රීතිමත්,blissful
+ප්රීතිමත්,exhilarating
 ප්රීතිමත්,jolly
 ප්රීතිමත්,joyful
 ප්රීතිමත්,joyous
+ප්රීතිය,glee
+ප්රීතියෙන් ඉපිල ගියේය,elated
+ප්රීතියෙන් ඉපිල ගියේය,overjoyed
+ප්රීමා,prima
+ප්රේක්ෂකයා,spectator
+ප්රේක්ෂකයින්,audience
+ප්රේරකය,trig
+ප්රේරකය,trigger
+ප්රේරණය,induction
+ප්රේරිත,apostle
+ප්රොක්සි,proxy
+ප්රොජෙක්ටරය,projector
 ප්රොටෝකෝලය,protocol
+ප්රොපෙක්ටස්,prospectus
+ප්රොපේන්,propane
+ප්රෝටීන්,protein
+ප්රෝටෝනය,proton
 ප්ලග්,plug
 ප්ලයර්ස්,pliers
 ප්ලයිඩ්,plaid
@@ -6461,245 +6700,6 @@ velor,velour
 ප්ලේසෙබෝ,placebo
 ප්ලේහවුස්,playhouse
 ප්ලොප්,plop
-ප්ර .ාව,wisdom
-ප්ර ter ප්තිය,charter
-ප්ර ute ප්තිය,statute
-ප්රක්ෂේපණය,projectile
-ප්රක්ෂේපණය,projection
-ප්රක්ෂේපණය කිරීම,projecting
-ප්රකාශ කරන්න,articulate
-ප්රකාශ කරන්න,declare
-ප්රකාශ කරන්න,proclaim
-ප්රකාශ කරන්න,publish
-ප්රකාශක,publisher
-ප්රකාශක,spokesman
-ප්රකාශක,spokesperson
-ප්රකාශන,expressive
-ප්රකාශනය,expression
-ප්රකාශනය,manifestation
-ප්රකාශනය,publication
-ප්රකාශනය,publishing
-ප්රකාශය,remark
-ප්රකෘතිමත් වීම,recovery
-ප්රකෝටිපතියා,billionaire
-ප්රකෝපකාරී,provocative
-ප්රගතිය,progression
-ප්රගතිශීලී,progressive
-ප්රචණ්ඩකාරී,violent
-ප්රචණ්ඩත්වය,violence
-ප්රචාරණය,propaganda
-ප්රචාලකය,propeller
-ප්රචාලනය,propulsion
-ප්රජනක,reproductive
-ප්රජනනය,procreation
-ප්රජනනය,reprogram
-ප්රජනනය කරන්න,procreate
-ප්රජාතන්ත්රවාදය,democracy
-ප්රජාතන්ත්රවාදී,democrat
-ප්රජාතන්ත්රවාදී,democratic
-ප්රජාව,community
-ප්රණීතභාවය,delicacy
-ප්රත්යාවර්ත,alternating
-ප්රත්යාස්ථතාව,elastic
-ප්රති .ලය,result
-ප්රති come ලය,outcome
-ප්රති ledge ාව,pledge
-ප්රති-ගුවන් යානා,antiaircraft
-ප්රතික්ෂේප කරන්න,deny
-ප්රතික්ෂේප කරන්න,disown
-ප්රතික්ෂේප කරන්න,disprove
-ප්රතික්ෂේප කරන්න,refuse
-ප්රතික්ෂේප කරන්න,refute
-ප්රතික්ෂේප කරන්න,reject
-ප්රතික්ෂේප කිරීම,deniability
-ප්රතික්ෂේප කිරීම,denial
-ප්රතික්ෂේප කිරීම,refusal
-ප්රතික්ෂේප විය,rejected
-ප්රතික්රියා කරන්න,react
-ප්රතික්රියාකාරකය,reactor
-ප්රතික්රියාශීලී,reactive
-ප්රතිග්රාහක,receptive
-ප්රතිග්රාහකය,receptor
-ප්රතිගාමී වීම,regression
-ප්රතිචක්රීකරණය,recycle
-ප්රතිචක්රීකරණය,recycled
-ප්රතිචක්රීකරණය,recycling
-ප්රතිචාර දක්වන්න,respond
-ප්රතිචාර නොදක්වයි,unresponsive
-ප්රතිචාරය,response
-ප්රතිචාරාත්මක,responsive
-ප්රතිදානය,output
-ප්රතිදීප්ත,fluorescent
-ප්රතිදේහජනකත්වය,antigravity
-ප්රතිනිර්මාණය,reconstructive
-ප්රතිනිර්මාණය,reenactment
-ප්රතිනිර්මාණය,remake
-ප්රතිනිර්මාණය කරන්න,reconstruct
-ප්රතිනිර්මාණය කරන්න,recreate
-ප්රතිපත්ති ප්රකාශනය,manifesto
-ප්රතිප්රහාර එල්ල කරන්න,counteract
-ප්රතිපාදන,provision
-ප්රතිපූරණය කරන්න,reimburse
-ප්රතිපෝෂණය,feedback
-ප්රතිභානය,intuition
-ප්රතිරෝධය,resistance
-ප්රතිරෝධී,resistant
-ප්රතිලාභ,benefit
-ප්රතිලාභියා,benefactor
-ප්රතිලාභියා,beneficiary
-ප්රතිලෝම,inverted
-ප්රතිවාදියා,rival
-ප්රතිවිපාකය,consequence
-ප්රතිවිරෝධී,antagonistic
-ප්රතිශක්තිය,immunity
-ප්රතිශක්තීකරණ,immune
-ප්රතිශතය,percentage
-ප්රතිශතය,percentile
-ප්රතිෂ් .ාපනය,restoration
-ප්රතිසංවිධානය කරන්න,reorganize
-ප්රතිසංස්කරණ,reform
-ප්රතිසංස්කරණය,reconstruction
-ප්රතිසන්ධානය,reconcile
-ප්රතිසන්ධානය,reconciliation
-ප්රතිසම,analogy
-ප්රතීකයක්,reflex
-ප්රදර්ශනය,exhibit
-ප්රදර්ශනය,exposition
-ප්රදර්ශනාගාරය,showcase
-ප්රදර්ශනාගාරය,showroom
-ප්රදානය කරන්න,confer
-ප්රදීපාගාරය,lighthouse
-ප්රදේශය,area
-ප්රධාන ආහාරය,staple
-ප්රධාන ගුරුවරයා,headmaster
-ප්රධාන දේශනය,keynote
-ප්රධාන ධාරාව,mainstream
-ප්රධාන භූමිය,mainland
-ප්රපාතය,precipice
-ප්රබන්ධ,fable
-ප්රබන්ධ,fabled
-ප්රබන්ධ,fiction
-ප්රබන්ධ,fictional
-ප්රබන්ධ නොවන,nonfiction
-ප්රබන්ධය,lore
-ප්රබලයි,resounding
-ප්රභාෂාව,jargon
-ප්රභූ පැලැන්තිය,elite
-ප්රභූ පැලැන්තිය,elitist
-ප්රභේදය,genre
-ප්රමාණය,extent
-ප්රමාණය,quantity
-ප්රමාණය,size
-ප්රමාණවත්,adequate
-ප්රමාණවත්,ample
-ප්රමාණවත්,suffice
-ප්රමාණවත් නොවේ,inadequate
-ප්රමාදය,delay
-ප්රමාදයි,belated
-ප්රමාදයි,delayed
-ප්රමාදයි,lag
-ප්රමිතිගත,standardized
-ප්රමුඛත්වය,flagship
-ප්රමුඛතාවය,precedence
-ප්රමුඛතාවය,priority
-ප්රමුඛතාවය දෙන්න,prioritize
-ප්රමෝදය,ecstasy
-ප්රයිමර්,primer
-ප්රයිමේට්,primate
-ප්රයෝජනවත්,beneficial
-ප්රයෝජනවත්,helpful
-ප්රයෝජනවත්,useful
-ප්රයෝජනවත් බව,usefulness
-ප්රලේඛනය,documentation
-ප්රවණතාවය,trend
-ප්රවනතාවය,tendency
-ප්රවර්ධකයා,promoter
-ප්රවර්ධන,promotional
-ප්රවර්ධන වැඩසටහන,promo
-ප්රවර්ධනය කරන්න,promote
-ප්රවාහකයා,transporter
-ප්රවාහනය,livery
-ප්රවාහනය,transport
-ප්රවාහනය,transportation
-ප්රවාහය,flux
-ප්රවීණ,proficient
-ප්රවීණත්වය,mastery
-ප්රවීණතාවය,proficiency
-ප්රවීණයෙක්,veteran
-ප්රවෘත්ති කාමරය,newsroom
-ප්රවෘත්ති විකාශකයා,newscaster
-ප්රවෘත්ති විකාශය,newscast
-ප්රවෘත්තිකරු,newsman
-ප්රවේගය,velocity
-ප්රවේශ විය නොහැක,inaccessible
-ප්රවේශ විය හැකිය,accessible
-ප්රවේශම් වන්න,caution
-ප්රවේශම් වන්න,cautious
-ප්රශංසනීයයි,admirable
-ප්රශංසනීයයි,commendable
-ප්රශංසා කරන්න,commend
-ප්රශංසා කරන්න,praise
-ප්රශංසා කිරීම,commendation
-ප්රශංසාව,eulogy
-ප්රශස්ත,optimum
-ප්රශ්න කරන්න,interrogate
-ප්රශ්න කිරීම,interrogation
-ප්රශ්නය,question
-ප්රශ්නාවලිය,questionnaire
-ප්රශ්නාවලිය,quiz
-ප්රසංගය,concert
-ප්රසංගය,concerto
-ප්රසන්න,pleasing
-ප්රසන්න,pleasurable
-ප්රසම්පාදනය,procure
-ප්රස්ථාරය,graph
-ප්රසාද දීමනාව,bonus
-ප්රසිද්ධයි,famed
-ප්රසිද්ධයි,famous
-ප්රසිද්ධිය,publicity
-ප්රහාරකයා,assailant
-ප්රහාරකයා,attacker
-ප්රහේලිකාව,puzzle
-ප්රහේලිකාව,riddance
-ප්රහේලිකාව,riddle
-ප්රහේලිකාවක්,puzzled
-ප්රාග් or තිහාසික,prehistoric
-ප්රාණ ඇපකරුවන්,hostage
-ප්රාණ පරිත්යාගිකයා,martyr
-ප්රාථමික,primal
-ප්රාථමික,primary
-ප්රාථමික,primitive
-ප්රාථමික,primordial
-ප්රාන්තය,county
-ප්රායෝගික,practical
-ප්රායෝගික,pragmatic
-ප්රායෝගික නැත,impractical
-ප්රාර්ථනා කරන්න,wish
-ප්රිය,fond
-ප්රීති ප්රමෝදය,euphoria
-ප්රීති ප්රමෝදය,euphoric
-ප්රීති ප්රමෝදය,joyride
-ප්රීති ප්රමෝදයට පත් විය,exhilarated
-ප්රීති වන්න,cheer
-ප්රීති වන්න,revel
-ප්රීතිමත්,blissful
-ප්රීතිමත්,exhilarating
-ප්රීතිය,glee
-ප්රීතියෙන් ඉපිල ගියේය,elated
-ප්රීතියෙන් ඉපිල ගියේය,overjoyed
-ප්රීමා,prima
-ප්රේක්ෂකයා,spectator
-ප්රේක්ෂකයින්,audience
-ප්රේරකය,trig
-ප්රේරකය,trigger
-ප්රේරණය,induction
-ප්රේරිත,apostle
-ප්රොක්සි,proxy
-ප්රොජෙක්ටරය,projector
-ප්රොපෙක්ටස්,prospectus
-ප්රොපේන්,propane
-ප්රෝටීන්,protein
-ප්රෝටෝනය,proton
 පා er කයා,reader
 පාංශු,earthy
 පාංශු,soil
@@ -7670,9 +7670,19 @@ velor,velour
 බළලුන්,feline
 බෆරය,buffer
 බ්රන්ච්,brunch
+බ්රහ්මචර්යාව,celibacy
+බ්රහ්මචාරී,celibate
+බ්රා,bra
+බ්රැට්,brat
+බ්රැට්වර්ස්ට්,bratwurst
 බ්රැන්ඩි,brandy
+බ්රිගේඩියර්,brig
+බ්රිස්කට්,brisket
+බ්රීච්,breech
+බ්රේකර්,breaker
 බ්රොකොලී,broccoli
 බ්රොන්කෝ,bronco
+බ්රෝමයිඩ්,bromide
 බ්ලවුස්,blouse
 බ්ලෂ්,blush
 බ්ලෆ්,bluff
@@ -7702,16 +7712,6 @@ velor,velour
 බ්ලොග්,blog
 බ්ලොටර්,blotter
 බ්ලොට්,blot
-බ්රහ්මචර්යාව,celibacy
-බ්රහ්මචාරී,celibate
-බ්රා,bra
-බ්රැට්,brat
-බ්රැට්වර්ස්ට්,bratwurst
-බ්රිගේඩියර්,brig
-බ්රිස්කට්,brisket
-බ්රීච්,breech
-බ්රේකර්,breaker
-බ්රෝමයිඩ්,bromide
 බාගත,download
 බාගෙට,halfback
 බාධක,barricade
@@ -8103,10 +8103,10 @@ velor,velour
 භයානකයි,horrid
 භයානකයි,terrible
 භයානකයි,terrific
-භ්රමණය,spin
-භ්රෑණය,fetal
 භ්රමණය,rotary
 භ්රමණය,rotation
+භ්රමණය,spin
+භ්රෑණය,fetal
 භාගය,fraction
 භාජන,utensil
 භාජනය,jar
@@ -8181,8 +8181,8 @@ velor,velour
 භෝජන ශාලාව,diner
 භෝජන සංග්රහය,banquet
 භෞතික,physical
-භෞතික විද්යාත්මක,physiological
 භෞතික විද්යා ist,physicist
+භෞතික විද්යාත්මක,physiological
 භෞතික විද්යාව,physics
 භෞතිකය,physique
 භෞතිකවාදය,materialism
@@ -8269,19 +8269,19 @@ velor,velour
 මතුපිටින්,superficial
 මතුවන්න,emerge
 මදුරුවා,mosquito
+මධ්ය කාලීන,midterm
 මධ්යකාලීන,medieval
 මධ්යන්ය,mean
 මධ්යන්ය,meanie
 මධ්යන්ය,median
 මධ්යම,central
 මධ්යම,medium
-මධ්යස්ථානය,center
-මධ්ය කාලීන,midterm
 මධ්යම බර,middleweight
 මධ්යම රාත්රිය,midnight
 මධ්යස්ථ,mediocre
 මධ්යස්ථ,moderate
 මධ්යස්ථභාවය,mediocrity
+මධ්යස්ථානය,center
 මධුසමය,honeymoon
 මන as කල්පිත කරන්න,fantasize
 මන asy කල්පිතය,fantasy
@@ -8639,13 +8639,13 @@ velor,velour
 මිණිබිරිය,granddad
 මිණිබිරිය,granddaddy
 මිත්යාවක්,illusion
-මිත්රත්වය,befriend
-මිත්රත්වය,friendship
-මිත්රශීලී,friendly
 මිත්ර පාක්ෂික,allied
+මිත්රත්වය,befriend
 මිත්රත්වය,companionship
+මිත්රත්වය,friendship
 මිත්රශීලී,amiable
 මිත්රශීලී,friendless
+මිත්රශීලී,friendly
 මිතුරා,ally
 මිතුරා,friend
 මිථ්යා,mythical
@@ -8720,11 +8720,11 @@ velor,velour
 මිලියන,million
 මිලියන,millionth
 මිලීෂියාව,militia
-මිශ්ර කරන්න,mix
-මිශ්රණය,mixture
 මිශ්ර කරන්න,blend
 මිශ්ර කරන්න,mingle
+මිශ්ර කරන්න,mix
 මිශ්ර ලෝහය,alloy
+මිශ්රණය,mixture
 මිෂනාරි,missionary
 මිසයිලය,missile
 මිස්,miss
@@ -8782,7 +8782,6 @@ velor,velour
 මුද්දර,stampede
 මුද්දරප්පලම්,raisin
 මුද්දරය,stamp
-මුද්රිත පිටපත,printout
 මුද්රණ යන්ත්රය,printer
 මුද්රණය,imprint
 මුද්රණය,printing
@@ -8790,6 +8789,7 @@ velor,velour
 මුද්රා නාට්ය ශිල්පියා,ballerina
 මුද්රා නාට්යය,ballet
 මුද්රාව,seal
+මුද්රිත පිටපත,printout
 මුදා හැරීම,release
 මුදාහරින්න,unleash
 මුදු මොළොක් බව,tenderness
@@ -8849,17 +8849,17 @@ velor,velour
 මූර්ති,sculpture
 මූර්තිය,embodiment
 මූල පදය,keyword
-මූලද්රව්යය,element
 මූලද්රව්ය,elemental
+මූලද්රව්යය,element
 මූලධර්ම,principles
 මූලධර්මය,principle
 මූලධර්මවාදී,fundamentalist
 මූලස්ථානය,headquarter
 මූලස්ථානය,headquarters
-මූල්ය,monetary
 මූල්ය,finance
 මූල්ය,financial
 මූල්ය,fiscal
+මූල්ය,monetary
 මූලාකෘතිය,prototype
 මූලාශ්රය,source
 මූලික,baseline
@@ -9065,9 +9065,9 @@ velor,velour
 යාචකයා,beggar
 යාච් .ා කරන්න,pray
 යාච්ඤාව,prayer
+යාත්රකයා,navigator
 යාත්රා,craft
 යාත්රාව,vessel
-යාත්රකයා,navigator
 යාත්රාව,yacht
 යානය,plane
 යාන්ත්ර විද්යාව,mechanics
@@ -9123,8 +9123,8 @@ velor,velour
 යෝ-යෝ,yo-yo
 යෝග,yoga
 යෝගට්,yogurt
-යෝග්යතාවය,fitness
 යෝග්යතාවය,aptitude
+යෝග්යතාවය,fitness
 යෝජනා,suggestive
 යෝජනා කරන්න,propose
 යෝජනා කරන්න,suggest
@@ -9278,15 +9278,14 @@ velor,velour
 රාජධානිය,realm
 රාජවංශය,dynasty
 රාජසන්තක කරන්න,confiscate
-රාජ්යය,kingdom
 රාජ්ය තාන්ත්රික,diplomatic
 රාජ්ය තාන්ත්රිකභාවය,diplomacy
 රාජ්ය තාන්ත්රිකයා,statesman
+රාජ්යය,kingdom
 රාජාණ්ඩුව,monarch
 රාජාණ්ඩුව,monarchy
 රාජාලියා,eagle
 රාත්රිය,nightly
-රාත්රී සමාජ ශාලාව,nightclub
 රාත්රී ආහාරය,dinner
 රාත්රී ආහාරය,dinnertime
 රාත්රී ආහාරය,supper
@@ -9295,6 +9294,7 @@ velor,velour
 රාත්රී කාලය,nighttime
 රාත්රී ජීවිතය,nightlife
 රාත්රී වැටීම,nightfall
+රාත්රී සමාජ ශාලාව,nightclub
 රාබු,radish
 රාබු වැනි එළවලු වර්ගයක්,turnip
 රාමුව,frame
@@ -9425,8 +9425,8 @@ velor,velour
 රෙගේ,reggae
 රෙජිමේන්තු,regimental
 රෙජිමේන්තුව,regiment
-රෙජිස්ට්රි,registry
 රෙජිස්ට්රාර්,registrar
+රෙජිස්ට්රි,registry
 රෙට්රෝ,retro
 රෙඩ්වුඩ්,redwood
 රෙදි,cloth
@@ -9488,9 +9488,9 @@ velor,velour
 ලංසු තැබීම,bidding
 ලංසුකරු,bidder
 ලංසුව,bid
+ලක්රෝස්,lacrosse
 ලක්ෂණය,characteristic
 ලක්ෂ්යය,point
-ලක්රෝස්,lacrosse
 ලකී,lackey
 ලකුණ,hallmark
 ලකුණ,sign
@@ -9948,28 +9948,15 @@ velor,velour
 වළලුකර,ankle
 වළලුකර,anklet
 වළාකුළු,cloudy
-ව්යතිරේකය,exception
-ව්යවස්ථාව,constitution
-ව්යවසාය,enterprise
-ව්යාකූල කරන්න,confuse
-ව්යාකූලත්වය,confusion
-ව්යාකූලයි,confused
-ව්යාජ,counterfeit
-ව්යාජ,fake
-ව්යාජ,forgery
-ව්යාධි විද්යා,pathologist
-ව්යාධි විද්යාව,pathology
-ව්යාධිජනක,pathological
-ව්යාපාරික,business
-ව්යාපාරික කාන්තාව,businesswoman
-ව්යායාම,exercise
-ව්යායාමය,workout
 ව්යංජන,curry
+ව්යතිරේකය,exception
 ව්යභිචාරය,incest
 ව්යවර්ථය,torque
 ව්යවස්ථාදායකය,legislature
 ව්යවස්ථාපිත,statutory
 ව්යවස්ථාමය,constitutional
+ව්යවස්ථාව,constitution
+ව්යවසාය,enterprise
 ව්යවසායක,enterprising
 ව්යවසායකයා,entrepreneur
 ව්යසනකාරී,catastrophic
@@ -9980,21 +9967,34 @@ velor,velour
 ව්යාකූල,fuzz
 ව්යාකූල,paranoid
 ව්යාකූල කරන්න,confound
+ව්යාකූල කරන්න,confuse
+ව්යාකූලත්වය,confusion
 ව්යාකූලත්වය,delirium
 ව්යාකූලයි,bewildered
+ව්යාකූලයි,confused
 ව්යාකූලයි,delirious
 ව්යාජ,bog
 ව්යාජ,bogus
+ව්යාජ,counterfeit
 ව්යාජ,dummy
+ව්යාජ,fake
 ව්යාජ,forge
 ව්යාජ,forger
+ව්යාජ,forgery
 ව්යාජ,phony
 ව්යාජත්වය,impersonation
+ව්යාධි විද්යා,pathologist
+ව්යාධි විද්යාව,pathology
+ව්යාධිජනක,pathological
 ව්යාධිය,malady
 ව්යාපාරය,venture
+ව්යාපාරික,business
+ව්යාපාරික කාන්තාව,businesswoman
 ව්යාපාරිකයා,businessman
 ව්යාපෘතිය,project
+ව්යායාම,exercise
 ව්යායාම ශාලාව,gymnasium
+ව්යායාමය,workout
 ව්යුත්පන්න කරන්න,derive
 ව්යුත්පන්නය,derivative
 ව්යුහ විද්යාව,anatomy
@@ -10314,15 +10314,15 @@ velor,velour
 විත්තිකරු,defendant
 විද ත්,electrocute
 විද්යත්මක උපකරණයකින ලැබෙන දෘෂ්යමාන වාර්තාවක් හෝ කියවීමක්,readout
+විද්යා ist,scientist
+විද්යාගාරය,lab
+විද්යාත්මක,scientific
 විද්යාව,science
 විද්යුත්,electric
 විද්යුත් චුම්භක,electromagnetic
 විද්යුත් තැපෑල,email
 විද්වත්,scholarly
 විද්වත්,scholastic
-විද්යා ist,scientist
-විද්යාගාරය,lab
-විද්යාත්මක,scientific
 විදැහුම්කරණය,render
 විදැහුම්කරණය,rendition
 විදින,sprinkler
@@ -10548,6 +10548,7 @@ velor,velour
 විශ්මයජනකයි,magnificent
 විශ්මයට පත් කරන්න,impress
 විශ්රාම ගැනීම,retirement
+විශ්රාම යන්න,retire
 විශ්රාම වැටුප්,pension
 විශ්ලේෂක,analyst
 විශ්ලේෂකය,analyzer
@@ -10581,7 +10582,6 @@ velor,velour
 විශ්වාසවන්තභාවය,fidelity
 විශ්වාසවන්තයි,confidant
 විශ්වීය,universal
-විශ්රාම යන්න,retire
 විශාරද,scholar
 විශාරද,wiz
 විශාරද,wizard
@@ -10934,25 +10934,25 @@ velor,velour
 ශබ්දාගාර,studio
 ශල්ය,surgical
 ශල්ය වෛද්ය,surgeon
-ශ්රව්ය උපකරණ,audio
-ශ්රේණියේ,grade
-ශ්ලේෂ්මල,mucous
-ශ්ලේෂ්මල,mucus
-ශ්වසන,respiratory
-ශ්වසන යන්ත්රය,respirator
-ශ්වසනය,respiration
 ශ්රද්ධාව,piety
 ශ්රවණාගාරය,auditorium
 ශ්රවණාගාරය,auditory
+ශ්රව්ය උපකරණ,audio
 ශ්රාවකයා,disciple
 ශ්රිතය,function
 ශ්රේණිගත කිරීම,ranking
 ශ්රේණිගත කිරීම,rating
 ශ්රේණිය,grad
 ශ්රේණිය,grader
+ශ්රේණියේ,grade
 ශ්රේෂ් ness ත්වය,greatness
 ශ්රෝණි,pelvic
 ශ්රෝණිය,pelvis
+ශ්ලේෂ්මල,mucous
+ශ්ලේෂ්මල,mucus
+ශ්වසන,respiratory
+ශ්වසන යන්ත්රය,respirator
+ශ්වසනය,respiration
 ශාක,plant
 ශාක පත්ර,foliage
 ශාකමය,vegetative
@@ -11045,16 +11045,16 @@ velor,velour
 සං .ාව,signal
 සංකල්පය,concept
 සංකල්පය,notion
-සංක්ෂිප්ත,concise
-සංක්ෂිප්ත,debrief
-සංක්ෂිප්ත කිරීම,briefing
-සංක්ෂිප්ත කිරීම,debriefing
 සංක්රමණය,migration
 සංක්රමණය වන්න,migrate
 සංක්රමණික,immigrant
 සංක්රාන්ති,transitional
 සංක්රාන්තිය,transit
 සංක්රාන්තිය,transition
+සංක්ෂිප්ත,concise
+සංක්ෂිප්ත,debrief
+සංක්ෂිප්ත කිරීම,briefing
+සංක්ෂිප්ත කිරීම,debriefing
 සංකීර්ණ,complex
 සංකීර්ණ කරන්න,complicate
 සංකීර්ණ නොවේ,uncomplicated
@@ -11068,10 +11068,10 @@ velor,velour
 සංකේතවත් කරන්න,symbolize
 සංකේතවාදය,symbolism
 සංකේතාත්මක,symbolic
-සංඛ්යානමය,statistic
-සංඛ්යානමය,statistical
 සංඛ්යාතය,frequency
 සංඛ්යාත්මක,numerical
+සංඛ්යානමය,statistic
+සංඛ්යානමය,statistical
 සංගණනය,census
 සංගත,compact
 සංගමය,union
@@ -11112,9 +11112,9 @@ velor,velour
 සංරචකය,component
 සංවත්සරය,anniversary
 සංවර්ධක,developer
+සංවර්ධනය,condescending
 සංවර්ධනය කරන්න,develop
 සංවර්ධනයක්,development
-සංවර්ධනය,condescending
 සංවාදය,converse
 සංවාදශීලී,conversational
 සංවාදශීලී,conversationalist
@@ -11172,8 +11172,8 @@ velor,velour
 සක්මන් මළුව,prom
 සක්මන් මළුව,promenade
 සක්රමේන්තුව,sacrament
-සක්රිය කිරීම,activation
 සක්රිය කරන්න,activate
+සක්රිය කිරීම,activation
 සක්රීය කරන්න,enable
 සක්රීයයි,active
 සගයා,colleague
@@ -11207,15 +11207,15 @@ velor,velour
 සත්කාරක,host
 සත්ත්ව විශේෂ,fauna
 සත්ත්වයා,faun
-සත්ව,animal
-සත්වයා,creature
-සත්වෝද්යානය,zoo
 සත්ය,veritable
 සත්යය,truth
 සත්යවාදී,truthful
 සත්යාපනය,verification
 සත්යාපනය කරන්න,authenticate
 සත්යාපනය කරන්න,verify
+සත්ව,animal
+සත්වයා,creature
+සත්වෝද්යානය,zoo
 සති අන්තය,weekend
 සතිපතා,weekly
 සතිය,week
@@ -11376,8 +11376,8 @@ velor,velour
 සමහර,certain
 සම්,leather
 සම්පත්,resource
-සම්ප්රදායික,traditional
 සම්ප්රදාය,tradition
+සම්ප්රදායික,traditional
 සම්ප්රේෂකය,transceiver
 සම්ප්රේෂකය,transmitter
 සම්ප්රේෂණය,transmit
@@ -11386,6 +11386,7 @@ velor,velour
 සම්පීඩනය,compress
 සම්පීඩනය,compression
 සම්පීඩිත,compressed
+සම්පූර්ණ,consummate
 සම්පූර්ණ,full
 සම්පූර්ණ,total
 සම්පූර්ණ කිරීම,completion
@@ -11393,7 +11394,6 @@ velor,velour
 සම්පූර්ණයි,complete
 සම්පූර්ණයි,entirety
 සම්පූර්ණයෙන්ම,utter
-සම්පූර්ණ,consummate
 සම්බන්ධ,relate
 සම්බන්ධ කරන්න,connect
 සම්බන්ධ කිරීම,coupling
@@ -11674,11 +11674,11 @@ velor,velour
 ස්ටන්ට්,stunt
 ස්ටයිපන්ඩ්,stipend
 ස්ටර්ලින්,sterling
+ස්ට්රයිකර්,striker
+ස්ට්රයිපර්,stripper
 ස්ට්රෙචර්,stretcher
 ස්ට්රේක්,streak
 ස්ට්රෝබෙරි,strawberry
-ස්ට්රයිකර්,striker
-ස්ට්රයිපර්,stripper
 ස්ටාර්ලට්,starlet
 ස්ටාර්ලින්,starling
 ස්ටිකර්,sticker
@@ -11695,14 +11695,14 @@ velor,velour
 ස්ටේප්ලර්,stapler
 ස්ටොයික්,stoic
 ස්තරය,layer
-ස්ත්රී පුරුෂ භාවය,gender
-ස්ත්රීකරණය,womanizer
-ස්ත්රීත්වය,womanhood
 ස්ත්රී,femme
 ස්ත්රී,femoral
 ස්ත්රී දූෂකයා,rapist
 ස්ත්රී දූෂණය,rape
+ස්ත්රී පුරුෂ භාවය,gender
+ස්ත්රීකරණය,womanizer
 ස්ත්රීත්වය,femininity
+ස්ත්රීත්වය,womanhood
 ස්ත්රීවාදී,feminist
 ස්තූති කිරීම,thanksgiving
 ස්තූතියි,thank
@@ -11765,10 +11765,10 @@ velor,velour
 ස්පර්ශය,touchdown
 ස්පර්ශය,touchy
 ස්පර්ශ්ය,tangible
+ස්ප්රයිට්,sprite
 ස්ප්රින්ට්,sprint
 ස්ප්ලැටර්,splatter
 ස්ප්ලෑෂ්,splash
-ස්ප්රයිට්,sprite
 ස්පා,spa
 ස්පාර්ක්,spark
 ස්පැගටි,spaghetti
@@ -11902,10 +11902,10 @@ velor,velour
 සාමාජික,member
 සාමාජිකත්වය,membership
 සාමාන්ය,ordinary
-සාමාන්යයි,typical
 සාමාන්ය බව,normalcy
 සාමාන්යය,average
 සාමාන්යයි,normal
+සාමාන්යයි,typical
 සාමූහික,collective
 සාමූහිකය,collegiate
 සායක්,skirt
@@ -12519,11 +12519,11 @@ velor,velour
 හයසින්ත්,hyacinth
 හයිකු,haiku
 හයිටේල්,hightail
-හයිඩ්රොලික්,hydraulic
 හයිඩ්රජන්,hydrogen
 හයිඩ්රන්ට්,hydrant
 හයිඩ්රේට්,hydrate
 හයිඩ්රොපොනික්,hydroponics
+හයිඩ්රොලික්,hydraulic
 හයිඩ්රොලික්,hydraulics
 හයිනා,hyena
 හයිපර්,hyper
@@ -12912,6 +12912,7 @@ velor,velour
 ෆයිබර්ග්ලාස්,fiberglass
 ෆයිබ්රෝසිස්,fibrosis
 ෆලෆෙල්,falafel
+ෆ්රයර්,fryer
 ෆ්රයි,fray
 ෆ්රයි,fry
 ෆ්රයිඩ්,frayed
@@ -12925,7 +12926,6 @@ velor,velour
 ෆ්ලින්ච්,flinch
 ෆ්ලිප්පර්,flipper
 ෆ්ලෝටේෂන්,flotation
-ෆ්රයර්,fryer
 ෆාමසිය,pharmacy
 ෆැක්ස්,fax
 ෆැග්,fag

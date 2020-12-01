@@ -6690,8 +6690,8 @@ brutāls vairākums,Brutal Majority
 bruģakmens,Cobble
 bruģakmens,Cobble-Stone
 bruģakmens,Paving Stone
-bruģis,Pavement
 bruģis,Cobble ( )
+bruģis,Pavement
 bruģis gultas,Cobble-Beds
 bruģēt,Pave
 bruģēts,Cobbled
@@ -11228,8 +11228,8 @@ dzinējs,Engine
 dzinējs,Thruster
 dzinējspēks,Driving Force
 dzird,Hears
-dzird!dzird!,Hear!Hear!
 dzird! dzird!,Hear! Hear!
+dzird!dzird!,Hear!Hear!
 dzirdami,Audibly
 dzirdams,Audible
 dzirde,Hearing
@@ -13599,8 +13599,8 @@ gaidīšana,Waiting
 gaidīšana line,Waiting Line
 gaidīšanas spēle,Waiting Game
 gailis,Cock
-gailis,Rooster
 gailis,Cock ( )
+gailis,Rooster
 gailis bedre,Cock Pit
 gailis crowning,Cock Crowning
 gailis cīņa,Cock Fight
@@ -20728,8 +20728,8 @@ kasešu ierakstīšanas,Tape Recording
 kasiera stends,Cashier'S Stand
 kasieris,Booking Clerk
 kasieris,Cashier
-kasieris,Paymaster
 kasieris,Cashier ( )
+kasieris,Paymaster
 kasieris vispārējā,Paymaster General
 kaskadieris,Stunt Man
 kaskāde,Cascade
@@ -22514,9 +22514,9 @@ kontekstuāli,Contextually
 kontemplatīvs,Contemplative
 kontemplācija,Contemplation
 kontinents,Continent
+kontinents,Continent ( )
 kontinents,Mainland
 kontinents,The Continent
-kontinents,Continent ( )
 kontinentālais šelfs,Continental Shelf
 kontinentāls,Continental
 kontinentālās brokastis,Continental Breakfast
@@ -42727,8 +42727,8 @@ sarakste kurss,Correspondence Course
 sarakste kurss,Correspondence-Course
 saraksti,Lists
 saraksts,List
-saraksts,Timetable
 saraksts,List ( )
+saraksts,Timetable
 saraksts cena,List Price
 saraujas,Shrinks
 saraustīt gabalos,Dismember
@@ -52348,6 +52348,7 @@ viršanas punkts,Boiling-Point
 virši,Heather
 virši maisījums,Heather Mixture
 vis lielākais,Vis Major
+vis vis,Vis … Vis
 visa,Entire
 visa maltīte,Whole-Meal
 visa maltīte maize,Whole Meal Bread
@@ -52525,7 +52526,6 @@ viszemākais,Lowermost
 viszemākais,Rock Bottom
 viszemākajā,Bottom-Most
 viszinošs,Omniscient
-vis vis,Vis … Vis
 visā,All Over
 visā pasaulē,World Wide
 visā pasaulē,World-Wide

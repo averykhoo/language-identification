@@ -97,13 +97,13 @@ Ale shan,A smart boy
 Ale yäb,An orphan boy
 Alem mazitf yä-näbj,The boy is 5 months old
 Alemre pshashemre,The boy and the girl
-Aler ch'ihe,he boy is long
-Aler psigho,The boy is thin
 Aler bzace,The boy is bad
+Aler ch'ihe,he boy is long
 Aler deyyä,The boy is bad
 Aler ghesaghep,The boy is not...
 Aler hem yewagh,The boy hit the dog
 Aler mazitfäm yät,The boy is in the fifth month
+Aler psigho,The boy is thin
 Aler qabze,The boy is handsome
 Aler shädäm tès,The boy is on the donkey
 Aler shäm tès,The boy is on the horse
@@ -176,7 +176,6 @@ Bligu,Arm pit
 Bläshhe,Monday
 Bzegu,Tongue
 Can,shirt
-Cane plhäj,Red shirt
 Cane ch'äh,A long shirt
 Cane dax,A nice shirt
 Cane daxe ch'ihe fij,A nice long white shirt
@@ -187,6 +186,7 @@ Cane fijir ch'ihe,The white shirt is long
 Cane fäj,White shirt
 Cane fïj ch'iher,The long white shirt
 Cane ghoj,Yellow shirt
+Cane plhäj,Red shirt
 Caner,The shirt
 Caner bghuze,The shirt is narrow
 Caner fiji,The shirt is white
@@ -205,8 +205,8 @@ Ch'e,Seed
 Ch'ench'e,egg
 Ch'ench'e gejagh,omelette
 Ch'ench'e ghejuagh,Boiled egg
-Ch'ench'em yighoj,The yellow of the egg
 Ch'ench'em yfj,The white of the egg
+Ch'ench'em yighoj,The yellow of the egg
 Ch'ench'er chetim qèch'ets'i,Egg is laid by hen
 Ch'et'y,Intestine
 Ch'et'y ghum,Colon
@@ -292,8 +292,8 @@ He yän,big dog
 He`em fetecäx,They stand up for a guest
 He`er ya-ghashu`e,guests
 Hem aler yewagh,The dog who the boy did hit
-Her yänäded,the dog is too big
 Her ts'k'u,the dog is small
+Her yänäded,the dog is too big
 Hollandem Yä-adäge Kultur Xase,Adäge Cult. Soc. in Holland
 Ifi,pale
 Ipxigh,you took
@@ -449,9 +449,9 @@ Mefiy,8 day's
 Meli-lir pstomi yanehashu`,Sheep's meat is the best
 Melä,Sheep
 Melä-she,Sheep's milk
-Meläm yäts,Sheep's wool
 Meläm psä yet,Give the sheep water
 Meläm yäsho,The skin of a sheep
+Meläm yäts,Sheep's wool
 Meläri xatem xet,The sheep is als in the garden
 Mepame,He smells
 Mepamex,They smell
@@ -477,8 +477,8 @@ Minim nulish yä`,1000 has 3 zero's
 Minut t'o` tèsh`eme qeje,It'll be backed within 20 min.
 Mishexer xesix,There live bears
 Mo,here
-Mo t'ys,Sit here
 Mo qak'o,Come here
+Mo t'ys,Sit here
 More,Brown
 Mäye,Apple
 Nach'e,Corner of the eye
@@ -522,8 +522,8 @@ Näm ye-plhi,Look at the mother
 Näqo,½
 Näqoh,Partner
 Näsashe,Wedding feast
-Näsashe yän,A big feast
 Näsashe ti`,We have a feast
+Näsashe yän,A big feast
 Näse,Bride
 Näse dax,A beautiful bride
 Näser daxe,The bride is beatiful
@@ -579,19 +579,19 @@ Psh`eshuxe,Highly respect
 Psh`eshuxe fash`,They do respect hem very much
 Psh`eshuxe zi`e thamater,Highly respected Sir
 Psh`yh,Dream
-Psh`yhe s-lhegho,I had a dream
 Psh`yhe daxe,He has a nice dream
+Psh`yhe s-lhegho,I had a dream
 Pshaghe,You sold
 Pshashe,girl
 Pshashe ch'ih,A tall girl
 Pshashem yä-lhesit'u yä-näbj,The girl is 2 years old
-Pshasher ghesaghe,The girl is qualified socially
-Pshasher nashe,The girl squinting
-Pshasher page,The girl is dainty
 Pshasher ch'ak'o,The girl is short
 Pshasher ch'ähe,The girl is tall
 Pshasher daxo qè-sh`e,The girl dancing good
 Pshasher dèle,The girl is crazy
+Pshasher ghesaghe,The girl is qualified socially
+Pshasher nashe,The girl squinting
+Pshasher page,The girl is dainty
 Pshasher ushe,The girl is smart
 Pshashexer,girls
 Pshashexeri,Girls too
@@ -630,20 +630,20 @@ Psim plhisho yi`ep,Water has no colour
 Psine kuw,A deep well
 Psiner kuwu,The well is deep
 Psixer meshtix,Water does frees
-Psä shä`ep,Tgere is no water
 Psä khuray,lake
 Psä qset,Give me water
 Psä shhe,Spring
 Psä shiwghu,salty water
+Psä shä`ep,Tgere is no water
 Psä-qèfex,Water-fall
 Psä-shhe,river
 Psä-xekhojäp',Delta
 Psäm,belong to the water
 Psänch'e,quick
-Psär shäwghe,the water is salty
 Psär fabe,The water is hot
 Psär mashe,Running water
 Psär shä`e,The water is cold
+Psär shäwghe,the water is salty
 Psäre haläghure,water and bread
 Psäre; haläghure shäghure,water; bread and salt
 Pts'ane,Naked
@@ -814,17 +814,17 @@ Shhante p?t,A hard pillow
 Shhante shab,A soft pillow
 Shhe,"Head, chief, begin"
 Shhe kuts',Brain
-Shhe tsä,head hair
 Shhe pät,Strong headed
+Shhe tsä,head hair
 Shhe tèkhu,Head cover
 Shhe zaqu,not married
 Shhe-qumishh,Skull
 Shhek'o xelh,With integrity
 Shhepts'e,Uncoverd head
 Shhi-t'u,2 heads
+Shibji - shighu,Pepper with saly
 Shibji haliju,Pepper bread
 Shibji stir,Hot pepper
-Shibji - shighu,Pepper with saly
 Shibjir li ghejaghem dèk'u,Pepper suits fried meat
 Shible,Lightning
 Shibler qewagh,The lightning has hit
@@ -931,8 +931,8 @@ Shutä,give! (pl)
 Shutäghe,you gave (pl)
 Shutäsht,you will give (pl)
 Shuz,woman
-Shuz bzac,A bad woman
 Shuz ay,An ugly woman
+Shuz bzac,A bad woman
 Shuz deghu,A good woman
 Shuzab,Widow
 Shuä`sher shäsh`ägh,He got what he deserved
@@ -1013,8 +1013,8 @@ Sishiyagh,I slept
 Sishiyesht,I will sleep
 Sishxagh,I ate
 Sishxesht,I will eat
-Sishä qolenä,My horse is coloured
 Sishä qolen neshu,my brother is colour-blind
+Sishä qolenä,My horse is coloured
 Sit'isigh,I sat
 Sit'isisht,I will sit
 Skhojghe,I changed
@@ -1041,10 +1041,10 @@ Syd?,What?
 Sydo,how
 Sydo wshyt?,How are you
 Sä-shxerep,I do not eat
-Säd yäshxäre,What does he eat
 Säd pshxäre,"What do you eat, What you are eating"
 Säd sshxäre,What I am eating
 Säd winäbjär?,What is your age?
+Säd yäshxäre,What does he eat
 Säk'uagh,I went
 Säshefagh,I made shopping
 Säshefesht,I will make shopping
@@ -1100,8 +1100,8 @@ Them wä-näbj ch'ähe yesh`,God let you live for long time
 Themate,boss
 Thembilir organ yin,The lungs are large organ
 Theomafe,Sunday
-Theomafem yapere mafer,The first day of the week
 Theomafem mafibl yi`,7 day's in a week
+Theomafem yapere mafer,The first day of the week
 Theomafer mafibl mekhu,The exist of 7 day's
 Thepexer yapitix,Full of leaves
 Thomaf,A week
@@ -1114,16 +1114,16 @@ Ti-pemagh,We smelt
 Ti-pemesht,We will smell
 Ti-pkhu,Our daughter
 Ti-pshen qelhfagh,Our goat gave birth
-Ti-qale zi-tsosh det,There is stable in our house
 Ti-qale psäne ded,There is a well in our house
+Ti-qale zi-tsosh det,There is stable in our house
 Ti-qek'uagh,We came
 Ti-ts'e,Our name
 Ti-wnash`e,Our new house
 Ti-wnash`e daxe,Our new house is nice
 Ti-wne,Our house
-Ti-wne yini,Our house is large
 Ti-wne sh`e,Our house is new
 Ti-wne wnish yit,There 3 rooms in our house
+Ti-wne yini,Our house is large
 Ticegugh,we played
 Ticegusht,we will play
 Tik'osht,We will go
@@ -1172,10 +1172,10 @@ Tsi canexer zshalhex,They ware woollen clothes
 Tsli-shh,Molar
 Tsosh,Stable
 Tsuaqe,shoe
+Tsuaqe atägh,Boots
 Tsuaqe lhegu,Sole of shoe
 Tsuaqe lheps,Shoe lace
 Tsuaqe zeju,A narrow shoe
-Tsuaqe atägh,Boots
 Tsuaqer sho,Shoe made of skin
 Tsuqe shu`its',A black shoe
 Tsye,Coat
@@ -1227,8 +1227,8 @@ Washo,weather
 Washor ayye,A bad weather
 Washor daxe,A nice weather
 Washor ze`ehagh,The weather is troubled
-We äd shxäre,What you are eating
 We sä pshxäre,What you are eating
+We äd shxäre,What you are eating
 We-laje,You work
 We-psew,Bless you
 We-psew,You are working
@@ -1240,8 +1240,8 @@ Wekhoji,you change
 Welheghu,You see
 Wepame,You smell
 Weplhe,You look
-Weri weshxe,You too eat
 Weri we-laje,You too work
+Weri weshxe,You too eat
 Werä shxere,who eat
 Wes qèsä,The snow is snowing
 Wes qèxä,The snow is falling
@@ -1333,10 +1333,10 @@ Xefeded,very sour
 Xelhhen,Add
 Xet hem yewagher,Who hit the dog
 Xexen,Subtract
-Xi plhij,Red sea
 Xi lh`agh,Dead sea
-Xä shu`ätsé,Black sea
+Xi plhij,Red sea
 Xä fij,Mediterrenean
+Xä shu`ätsé,Black sea
 Xä-`ushu,Sea-shore
 Y-ate ch'ähe,His father is long
 Y-etä,He gives
@@ -1401,10 +1401,10 @@ Yewkhume,Protects
 Yi-abjanexer shu`oyix,His nails are dirty
 Yi-alcane qutaghe,His forearm is broken
 Yi-bghe mewizi,His chest is painful
-Yi-gu pkhashe,his heart is harsh
-Yi-gu shabe,his heart is soft
 Yi-gu halel,clean
+Yi-gu pkhashe,his heart is harsh
 Yi-gu qabze,He is honest
+Yi-gu shabe,his heart is soft
 Yi-gu shu`oy,He is dis-honest
 Yi-gu ts'ap'e,his heart is bad
 Yi-gu xemghe`,Do not hurt hem
@@ -1784,9 +1784,9 @@ metyorit,Meteorite
 milyard,1000.000.000
 milyon,1000.000
 min,1000
-min t'o,20000
 min pshäk'utú,12000
 min pshäk'uz,11000
+min t'o,20000
 minipsh`,10000
 minishe,100.000
 minit'u,2000

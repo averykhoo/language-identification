@@ -40,14 +40,17 @@ persian,english
 آب مروارید,Cataract
 آب و هوا,Weather
 آبادان,Abadan
+آببازان,Cetacea
 آبجو,Beer
 آبخاز,Abkhazia
 آبدره,Fjord
 آبراهام لینکلن,Abraham Lincoln
 آبزیشناسی,Ichthyology
+آبسنگ,Atoll
 آبسنگ مرجانی,Coral reef
 آبشار,Waterfall
 آبشار نیاگارا,Niagara Falls
+آبشناسی,Hydrology
 آبل تاسمان,Abel Tasman
 آبله مرغان,Chickenpox
 آبمار,Hydrus
@@ -55,9 +58,6 @@ persian,english
 آبی,Blue
 آبی دریایی,Cyan
 آبیجان,Abidjan
-آببازان,Cetacea
-آبسنگ,Atoll
-آبشناسی,Hydrology
 آتاکاما,Atacama Desert
 آترئوس,Atreus
 آتش,Fire
@@ -202,11 +202,11 @@ persian,english
 آنتونی هاپکینز,Anthony Hopkins
 آنتونیو ویوالدی,Antonio Vivaldi
 آنتی اکسیدانت,Antioxidant
+آنتیبیوتیک,Antibiotic
 آنتیل هلند,Netherlands Antilles
 آنتیموان,Antimony
 آنتیگوا و باربودا,Antigua and Barbuda
 آنتیگونه,Antigone
-آنتیبیوتیک,Antibiotic
 آند,Andes
 آندرا پرادش,Andhra Pradesh
 آندرس سلسیوس,Anders Celsius
@@ -261,9 +261,9 @@ persian,english
 آیولوس,Aeolus
 آیووا,Iowa
 آیوی لیگ,Ivy League
+آیپاد,IPod
 آیکیدو,Aikido
 آیین مانی,Manichaeism
-آیپاد,IPod
 ائا,Enki
 ائوترپه,Euterpe
 ائوروپه,Europa
@@ -391,8 +391,8 @@ persian,english
 استوا,Equator
 استوارتمیل,John Stuart Mill
 استون,Acetone
-استونی,Estonia
 استونهنج,Stonehenge
+استونی,Estonia
 استکهلم,Stockholm
 استیفن گراور کلیولند,Grover Cleveland
 استیل سالیسیلیک اسید,Aspirin
@@ -471,11 +471,11 @@ persian,english
 اعداد مرکب,Composite number
 اعداد گویا,Rational number
 اعمال رسولان,Acts of the Apostles
+افبیآی,Federal Bureau of Investigation
+افتیپی,File Transfer Protocol
 افسس,Ephesus
 افغانستان,Afghanistan
 افلاطون,Plato
-افبیآی,Federal Bureau of Investigation
-افتیپی,File Transfer Protocol
 اقتصاد,Economics
 اقتصاد,Economy
 اقتصاد خرد,Microeconomics
@@ -491,6 +491,7 @@ persian,english
 ال پاسو,El Paso
 ال گور,Al Gore
 الا فیتزجرالد,Ella Fitzgerald
+الاسدی,Lysergic acid diethylamide
 الب,Elbe
 الجزایر,Algeria
 الجزیره,Algiers
@@ -526,10 +527,11 @@ persian,english
 الگول,ALGOL
 الیزابت تیلور,Elizabeth Taylor
 الیور کرامول,Oliver Cromwell
-الاسدی,Lysergic acid diethylamide
+امآرآی,Magnetic resonance imaging
 اما گلدمن,Emma Goldman
 اماتراسو,Amaterasu
 امارات متحده عربی,United Arab Emirates
+اماس-داس,MS-DOS
 امام,Imam
 امانوئل کانت,Immanuel Kant
 امریسیوم,Americium
@@ -541,8 +543,6 @@ persian,english
 امیر,Emir
 امیلی دیکنسون,Emily Dickinson
 امیلیانو زاپاتا,Emiliano Zapata
-امآرآی,Magnetic resonance imaging
-اماس-داس,MS-DOS
 انار,Pomegranate
 انتاریو,Ontario
 انتخابات,Election
@@ -767,8 +767,8 @@ persian,english
 بانک جهانی,World Bank
 بانک مرکزی,Central bank
 بانک مرکزی اروپا,European Central Bank
-بانکوک,Bangkok
 بانکها,Banks
+بانکوک,Bangkok
 بانگوئی,Bangui
 باوهاوس,Bauhaus
 باپتیست,Baptist
@@ -782,8 +782,8 @@ persian,english
 بایرن,Bavaria
 ببر,Tiger
 ببرهای تامیل,Liberation Tigers of Tamil Eelam
-بتن,Concrete
 بتمن,Batman
+بتن,Concrete
 بحرین,Bahrain
 بخارست,Bucharest
 بختالنصر,Nebuchadrezzar II
@@ -875,8 +875,8 @@ persian,english
 بلگراد,Belgrade
 بلیز,Belize
 بمب,Bomb
-بمبئی,Mumbai
 بمب ناپالم,Napalm
+بمبئی,Mumbai
 بمبافکن,Bomber
 بن,Bonn
 بندر,Port
@@ -952,11 +952,11 @@ persian,english
 بیماری,Disease
 بیماریهای آمیزشی,Sexually transmitted disease
 بیمه,Insurance
+بیمهرگان,Invertebrate
 بینی,Nose
 بیهار,Bihar
-بیگانه هراسی,Xenophobia
-بیمهرگان,Invertebrate
 بیکاری,Unemployment
+بیگانه هراسی,Xenophobia
 تئاتر,Theatre
 تئودئوس اول,Theodosius I
 تئودور روزولت,Theodore Roosevelt
@@ -967,8 +967,8 @@ persian,english
 تابع نمایی,Exponential function
 تابو,Taboo
 تابوت عهد,Ark of the Covenant
-تاجیکستان,Tajikistan
 تاجمحل,Taj Mahal
+تاجیکستان,Tajikistan
 تاریخ,History
 تاریخ ایران پیش از اسلام,Persian Empire
 تاسمانی,Tasmania
@@ -1029,8 +1029,8 @@ persian,english
 ترکیه,Turkey
 تریاک,Opium
 تریتیوم,Tritium
-ترینیداد و توباگو,Trinidad and Tobago
 ترینیتروتولوئن,Trinitrotoluene
+ترینیداد و توباگو,Trinidad and Tobago
 تزار,Tsar
 تسئوس,Theseus
 تسبیح,Rosary
@@ -1047,6 +1047,7 @@ persian,english
 تقسیم,Division
 تقویم عبری,Hebrew calendar
 تقویم هجری قمری,Islamic calendar
+تلآویو,Tel Aviv
 تلدو,Toledo
 تلسکوپ,Telescope
 تلسکوپ,Telescopium
@@ -1055,9 +1056,8 @@ persian,english
 تلمبه,Antlia
 تلمود,Talmud
 تلویزیون,Television
-تلآویو,Tel Aviv
-تمامیتخواهی,Totalitarianism
 تمامنگاری,Holography
+تمامیتخواهی,Totalitarianism
 تمبر,Postage stamp
 تمدن,Civilization
 تمدن بابل,Babylonia
@@ -1126,19 +1126,19 @@ persian,english
 توگو,Togo
 تویوتا,Toyota
 تپاختر,Pulsar
+تکآهنگ,Single
 تکانه,Momentum
+تکسوراخیان,Monotreme
+تکشاخ,Unicorn
+تکقندی,Monosaccharide
+تکلپهایها,Monocotyledon
 تکنسیوم,Technetium
 تکنو,Techno
 تکواندو,Taekwondo
 تکواژ,Morpheme
 تکپار,Monomer
-تکیلا,Tequila
-تکآهنگ,Single
-تکسوراخیان,Monotreme
-تکشاخ,Unicorn
-تکقندی,Monosaccharide
-تکلپهایها,Monocotyledon
 تکیاختگان,Protozoa
+تکیلا,Tequila
 تگرگ,Hail
 تگزاس,Texas
 تگوسیگالپا,Tegucigalpa
@@ -1151,9 +1151,9 @@ persian,english
 تیغ اوکام,Occam's razor
 تیمبوکتو,Timbuktu
 تیمسار,General Officer
+تیمهای فوتبال,Football clubs
 تیمور شرقی,East Timor
 تیمور لنگ,Timur
-تیمهای فوتبال,Football clubs
 ثابت عمومی گازها,Gas constant
 ثابت گرانش,Gravitational constant
 ثانیه,Second
@@ -1209,13 +1209,13 @@ persian,english
 جروم دیوید سالینجر,J. D. Salinger
 جریان الکتریکی,Electric current
 جریان مستقیم,Direct current
-جزایر کوکو,Cocos Islands
 جزایر بالئارس,Balearic Islands
 جزایر بریتانیا,British Isles
 جزایر سلیمان,Solomon Islands
 جزایر فالکلند,Falkland Islands
 جزایر قناری,Canary Islands
 جزایر مارشال,Marshall Islands
+جزایر کوکو,Cocos Islands
 جزیره,Island
 جزیره ایرلند,Ireland
 جزیره بورنئو,Borneo
@@ -1273,13 +1273,13 @@ persian,english
 جنگ ویتنام,Vietnam War
 جنگ کره,Korean War
 جنگ یوم کیپور,Yom Kippur War
-جنگل,Forest
-جنگل سیاه,Black Forest
-جنگنده,Fighter aircraft
 جنگافزار,Weapon
 جنگافزار شیمیایی,Chemical warfare
 جنگافزار هستهای,Nuclear weapon
 جنگافزار گرم,Firearm
+جنگل,Forest
+جنگل سیاه,Black Forest
+جنگنده,Fighter aircraft
 جنین,Embryo
 جهاد,Jihad
 جهان,World
@@ -1467,8 +1467,10 @@ persian,english
 دامنه اینترنتی,Domain name
 دانته آلیگیری,Dante Alighieri
 دانش,Knowledge
+دانشآموز,Student
 دانشمند,Scientist
 دانشنامه,Encyclopedia
+دانشنماها,Pseudoscience
 دانشگاه,University
 دانشگاه استنفورد,Stanford University
 دانشگاه دوک,Duke University
@@ -1479,8 +1481,6 @@ persian,english
 دانشگاه کرنل,Cornell University
 دانشگاه کلمبیا,Columbia University
 دانشگاه ییل,Yale University
-دانشآموز,Student
-دانشنماها,Pseudoscience
 دانمارک,Denmark
 دانوب,Danube
 دانیل برنولی,Daniel Bernoulli
@@ -1569,6 +1569,7 @@ persian,english
 دلتا,Delta
 دلفت,Delft
 دما,Temperature
+دماسبی,Equisetum
 دماسنج,Thermometer
 دمای ذوب,Melting point
 دمشق,Damascus
@@ -1576,7 +1577,6 @@ persian,english
 دموکریتوس,Democritus
 دمیتری شوستاکوویچ,Dmitri Shostakovich
 دمیتری مندلیف,Dmitri Mendeleev
-دماسبی,Equisetum
 دن کیشوت,Don Quixote
 دنور,Denver
 دنگ ژیائوپینگ,Deng Xiaoping
@@ -1625,17 +1625,20 @@ persian,english
 دی فاکتو,De facto
 دیالکتیک,Dialectic
 دیانا,Diana
+دیانای,DNA
 دیترویت,Detroit
-دیرینهزیستی,Paleozoic
+دیجی,Disc jockey
 دیرینشناسی,Paleontology
+دیرینهزیستی,Paleozoic
 دیزی گیلیسپی,Dizzy Gillespie
 دیسپروزیوم,Dysprosium
 دیفتری,Diphtheria
+دیموین,Des Moines
 دیمیتیر,Demeter
 دین,Religion
 دینامیک,Dynamics
-دینگو,Dingo
 دینسالاری,Theocracy
+دینگو,Dingo
 دیهگو ریورا,Diego Rivera
 دیو,Demon
 دیوار چین,Great Wall of China
@@ -1650,13 +1653,10 @@ persian,english
 دیوید لیوینگستن,David Livingstone
 دیوید هیوم,David Hume
 دیوید وارک گریفیث,D. W. Griffith
+دیویدی,DVD
 دیپلماسی,Diplomacy
 دیژون,Dijon
 دیکتاتوری,Dictatorship
-دیانای,DNA
-دیجی,Disc jockey
-دیموین,Des Moines
-دیویدی,DVD
 ذاتالکرسی,Cassiopeia
 ذرات آلفا,Alpha particle
 ذرات بنیادی,Elementary particle
@@ -1723,17 +1723,17 @@ persian,english
 رمضان,Ramadan
 رنسانس,Renaissance
 رنگ,Color
+رنگدانه,Pigment
 رنگینتن,Chromosome
 رنگینکمان,Rainbow
-رنگدانه,Pigment
 رنیوم,Rhenium
 رهبری ارکستر,Conducting
 روابط عمومی,Public relations
 رواندا,Rwanda
 روانشناسی,Psychology
+روانشناسی,Psychology
 روانشناسی رشد,Developmental psychology
 روانکاوی,Psychoanalysis
-روانشناسی,Psychology
 روانگسیختگی,Schizophrenia
 روبات,Robot
 روباه,Fox
@@ -2010,11 +2010,12 @@ persian,english
 سلوکوس یکم,Seleucus I Nicator
 سلیمان,Solomon
 سمرقند,Samarkand
+سمشناسی,Toxicology
 سمفونی,Symphony
 سمندر,Salamander
-سمشناسی,Toxicology
 سن دیگو,San Diego
 سن پترزبورگ,Saint Petersburg
+سنآنتونیو,San Antonio
 سنت,Tradition
 سنت لوسیا,Saint Lucia
 سنت وینسنت و گرنادین,Saint Vincent and the Grenadines
@@ -2029,19 +2030,18 @@ persian,english
 سنگال,Senegal
 سنگاپور,Singapore
 سنگتراش,Sculptor
-سنگواره,Fossil
 سنگشناسی,Petrology
 سنگنوشته,Epigraphy
 سنگهای قیمتی,Gemstone
+سنگواره,Fossil
 سنی,Sunni Islam
-سنآنتونیو,San Antonio
 سه نقطه,Ellipsis
 سهره جنگلی,Chaffinch
-سهیل,Canopus
 سهسو,Triangulum
 سهشنبه,Tuesday
 سهپایه,Pictor
 سهگانه,Trilogy
+سهیل,Canopus
 سوئد,Sweden
 سوئیس,Switzerland
 سوازیلند,Swaziland
@@ -2059,9 +2059,9 @@ persian,english
 سوسیالیسم,Socialism
 سوشی,Sushi
 سوفسطائیان,Sophism
+سوفماهیشکلان,Perciformes
 سوفوکل,Sophocles
 سوفیا لورن,Sophia Loren
-سوفماهیشکلان,Perciformes
 سولاوسی,Sulawesi
 سولون,Solon
 سوماترا,Sumatra
@@ -2143,13 +2143,14 @@ persian,english
 شاه,Monarchy
 شاه,Shah
 شاه لیر,King Lear
-شاهدانه,Cannabis
-شاهین,Falcon
 شاهتخته,Carina
+شاهدانه,Cannabis
 شاهمولکان,Archosaur
+شاهین,Falcon
 شایستهسالاری,Meritocracy
 شاین,Cheyenne
 شباهنگ,Sirius
+شببوها,Brassicaceae
 شبكه,Computer network
 شبه جزیره,Peninsula
 شبه جزیره مالایا,Malay Peninsula
@@ -2159,7 +2160,6 @@ persian,english
 شبهجزیره کامچاتکا,Kamchatka Peninsula
 شبکه محلی,Local area network
 شبکه گسترده,Wide area network
-شببوها,Brassicaceae
 شتاب,Acceleration
 شتر,Camel
 شتر,Dromedary
@@ -2388,11 +2388,11 @@ persian,english
 فرهنگ,Culture
 فرودگاه,Airport
 فروسرخ,Infrared
+فریتاون,Freetown
 فریتس هابر,Fritz Haber
 فریتیوف نانسن,Fridtjof Nansen
 فریدریش انگلس,Friedrich Engels
 فریسلاند,Friesland
-فریتاون,Freetown
 فست فود,Fast food
 فسفر,Phosphorus
 فسفریک اسید,Phosphoric acid
@@ -2524,8 +2524,8 @@ persian,english
 لایپزیگ,Leipzig
 لبنان,Lebanon
 لحن,Melody
-لسوتو,Lesotho
 لسآنجلس,Los Angeles
+لسوتو,Lesotho
 لشکر,Division
 لعل,Garnet
 لمباردی,Lombardy
@@ -2682,6 +2682,7 @@ persian,english
 مایلز دیویس,Miles Davis
 مایکل فارادی,Michael Faraday
 مبابانه,Mbabane
+متآمفتامین,Methamphetamine
 متاستاز,Metastasis
 متافیزیک,Metaphysics
 متالورژی,Metallurgy
@@ -2689,7 +2690,6 @@ persian,english
 متدیست,Methodism
 متر,Metre
 متر مکعب,Cubic metre
-متآمفتامین,Methamphetamine
 مثلث,Triangle
 مثلث برمودا,Bermuda Triangle
 مثلث جنوبی,Triangulum Australe
@@ -2768,8 +2768,8 @@ persian,english
 مسیریاب,Router
 مشتری,Jupiter
 مشتری-خدمتگذار,Client-server
-مشتق,Derivative
 مشتزنی,Boxing
+مشتق,Derivative
 مشهد,Mashhad
 مصر,Egypt
 مصوت,Vowel
@@ -2880,17 +2880,17 @@ persian,english
 مکزیکو سیتی,Mexico City
 مکعب,Cube
 مکه,Mecca
-مکینتاش,Macintosh
 مککارتیسم,McCarthyism
+مکینتاش,Macintosh
 مگابایت,Megabyte
 مگس جنوبی,Musca
 میامی,Miami
+میانافزار,Firmware
+میانرودان,Mesopotamia
 میانمار,Burma
 میانه,Median
 میانک,Centriole
 میانگین,Expected value
-میانافزار,Firmware
-میانرودان,Mesopotamia
 میتریا,Maitreya
 میتنریوم,Meitnerium
 میتوکندری,Mitochondrion
@@ -2950,12 +2950,12 @@ persian,english
 نانجینگ,Nanjing
 نانسی,Nancy
 ناهید,Venus
+ناو,Cruiser
 ناو هواپیمابر,Aircraft carrier
 ناوبری,Navigation
 ناوشکن,Destroyer
 ناوچه,Frigate
 ناوچه سبک,Corvette
-ناو,Cruiser
 ناپل,Naples
 ناگازاکی,Nagasaki
 ناگویا,Nagoya
@@ -3040,8 +3040,8 @@ persian,english
 نوسترآداموس,Nostradamus
 نوشیدنیهای الکلی,Alcoholic beverage
 نووسیبیرسک,Novosibirsk
-نوکلئوتید,Nucleotide
 نوکاردکی,Platypus
+نوکلئوتید,Nucleotide
 نوگرایی,Modernism
 نویسنده,Author
 نویسنده,Writer
@@ -3159,8 +3159,8 @@ persian,english
 هستیشناسی,Ontology
 هسن,Hesse
 هسپریدس,Hesperides
-هشتک,Octans
 هشتپا,Octopus
+هشتک,Octans
 هفته,Week
 هلال بارور,Fertile Crescent
 هلسینکی,Helsinki
@@ -3172,6 +3172,7 @@ persian,english
 هلو,Peach
 هلیم,Helium
 هم رنجی,Synesthesia
+همآوا,Homonym
 همبرگر,Hamburger
 همبندی,Network topology
 همتاسازی,Cloning
@@ -3183,7 +3184,6 @@ persian,english
 همهگیرشناسی,Epidemiology
 هموفیلی,Haemophilia
 همگردان,Compiler
-همآوا,Homonym
 هند,India
 هندسه,Geometry
 هندوانه,Watermelon
@@ -3277,9 +3277,9 @@ persian,english
 وایکینگها,Viking
 وب جهانگستر,World Wide Web
 وبا,Cholera
+وببین,Webcam
 وبلاگ,Blog
 وبگاه,Website
-وببین,Webcam
 ودکا,Vodka
 ورزش,Sport
 ورزشگاه,Stadium
@@ -3464,10 +3464,10 @@ persian,english
 پلوتارک,Plutarch
 پلوتون,Pluto
 پلوتونیوم,Plutonium
-پلینیوس,Pliny the Elder
 پلیبوی,Playboy
 پلینزی,Polynesia
 پلینزی فرانسه,French Polynesia
+پلینیوس,Pliny the Elder
 پمپ,Pump
 پنبه,Cotton
 پنجشنبه,Thursday
@@ -3480,14 +3480,15 @@ persian,english
 پنیر,Cheese
 پنیرکیان,Malvaceae
 پنیسیلین,Penicillin
+پهاش,PH
 پو,Po River
 پورت او پرنس,Port-au-Prince
 پورت مورسبی,Port Moresby
 پورت ویلا,Port Vila
-پورتو,Porto
-پورتوریکو,Puerto Rico
 پورتلند,Portland
 پورتلوئیس,Port Louis
+پورتو,Porto
+پورتوریکو,Puerto Rico
 پوزئیدون,Poseidon
 پوزیترون,Positron
 پوست,Skin
@@ -3532,7 +3533,6 @@ persian,english
 پیکسل,Pixel
 پییر,Pierre
 پییر دو فرما,Pierre de Fermat
-پهاش,PH
 چاد,Chad
 چارلز داروین,Charles Darwin
 چارلز دیکنز,Charles Dickens
@@ -3546,9 +3546,9 @@ persian,english
 چدن,Cast iron
 چرتکه,Abacus
 چرخ,Wheel
-چرخند,Cyclone
 چرخدنده,Gear
 چرخریسک,Tit
+چرخند,Cyclone
 چستر آلن آرتور,Chester A. Arthur
 چشم,Eye
 چلپاسه,Lacerta
@@ -3773,11 +3773,11 @@ persian,english
 کلیولند,Cleveland
 کمان,Sagittarius
 کمبریج,Cambridge
+کمخونی,Anemia
 کمدی,Comedy
 کمربند کایپر,Kuiper belt
 کمنیتز,Chemnitz
 کمونیسم,Communism
-کمخونی,Anemia
 کن,Cannes
 کنتاکی,Kentucky
 کنترباس,Double bass
@@ -3930,10 +3930,10 @@ persian,english
 گلاسگو,Glasgow
 گلخانه,Greenhouse
 گلدا مایر,Golda Meir
+گلستارهایها,Asteraceae
 گلسرخیان,Rosaceae
 گلسنگ,Lichen
 گلف,Golf
-گلستارهایها,Asteraceae
 گنبد,Dome
 گنجشکسانان,Passeriformes
 گنجه,Ganja
@@ -3990,8 +3990,8 @@ persian,english
 یاقوت,Ruby
 یالتا,Yalta
 یان فلمینگ,Ian Fleming
-یانگون,Yangon
 یانگتسه,Yangtze River
+یانگون,Yangon
 یاکوزا,Yakuza
 یتی,Yeti
 یحیی,John the Baptist
@@ -4021,9 +4021,9 @@ persian,english
 یون,Ion
 یونان,Greece
 یونسکو,UNESCO
+یوننان,Yunnan
 یونیسف,United Nations Children's Fund
 یونیکس,Unix
-یوننان,Yunnan
 یوهان سباستین باخ,Johann Sebastian Bach
 یوهان ولفگانگ گوته,Johann Wolfgang von Goethe
 یوهان کپلر,Johannes Kepler

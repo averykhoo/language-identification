@@ -211,8 +211,6 @@ Other,English
 9.Beaufort-Stormende kuling,9.(20.8-24.4 m/s)
 9.Beaufort-Stormende kuling,Beaufort 9.-Strong gale
 90-års bryllupsdag(-en) (?),granite wedding (90 years)
-"ikke lig med, Alt+8800",<> not equal to
-ikke lig med/modsat,<> not equal to/opposite of
 "=, lighedstegn(-et)",equal sign
 "> (Alt+062), > (større end)",> (larger than)
 A.D. (anno domini),A.D. (After Christ - A.C.)
@@ -10366,13 +10364,13 @@ docent(-en),assistant professor
 "docentur, lektorat(-et)",lectureship
 docere,lecture on
 "docere, foredrag(-et), lektie(-en), prædiken, straffeprædiken",lecture
-doctor,doctor of laws (L.L.D)
+doctor,Doctor of Divinity (D.D.)
+doctor,Doctor of Engineering (D.Eng.)
 doctor,Doctor of Medicine (M.D.)
 doctor,Doctor of Philosophy (Ph.D)
-doctor (dr.scient),Doctor of Science (D.Sc.)
-doctor,Doctor of Divinity (D.D.)
 doctor,Doctor-Dental surgery (D.D.S.)
-doctor,Doctor of Engineering (D.Eng.)
+doctor,doctor of laws (L.L.D)
+doctor (dr.scient),Doctor of Science (D.Sc.)
 dodekaeder (tolvkant),dodecahedron (12 sided)
 dodenkop (farve),caput mortuum
 "dog, endda",after all
@@ -17010,13 +17008,13 @@ foxtrot(-en),foxtrot
 foyer,foyer
 foyer,greenroom
 fr. dækker både fru og frøken,Ms.
-"fra dag til dag, i nattens løb, natten over",overnight
 fra Herodes til Pilatus,from pillar to post
 "fra Mars (planeten), marsboer",Martian
 fra asken til ilden,out of frying pan into fire
 "fra asken til ilden, udarte",from bad to worse
 "fra bunden/grunden, på en frisk(fra grunden), påny",from scratch
 fra da af,from then
+"fra dag til dag, i nattens løb, natten over",overnight
 fra første færd,outset
 "fra første færd, oprindelig",originally
 fra nu af,from now on
@@ -19421,7 +19419,6 @@ gitterværk(-et),trellis-work
 "giv den gas, træd sømmet i bund",step on it
 "giv dit besyv med, åben munden",pipe up
 "giv ham friere tøjler, give ham længere snor",give him more rope
-"give en hård medfart, give tæv",give somebody a pasting
 give bagerbørn hvedebrød,carry coals to Newcastle
 "give bagslag, kikse, udstødningsknald",backfire
 "give bagslag, springe tilbage, tilbageslag",rebound
@@ -19433,6 +19430,7 @@ give dem så de klarer sig,tide them over
 "give en eller anden løbepas, vise vintervejen",send somebody packing
 give en hånd med,muck in
 "give en hånd, give et nap, hjælpe",lend a hand
+"give en hård medfart, give tæv",give somebody a pasting
 "give en indsprøjtning, indgyde, indgyde, indsprøjte",inject
 give en over næsen,give a good dressing down
 give en over næsen,giving a reprimand
@@ -24679,8 +24677,8 @@ høflighedsvisit,courtesy visit
 høflighedsvisit,formal call
 "høg (politisk), strammer (modsat slapper)",hardliner
 høg over høg,diamond cut diamond
-høg over høg,involved intricate situation
 høg over høg,dog eat dog
+høg over høg,involved intricate situation
 høg over høg situation,cutthroat competition
 "høg over høg situation, kompliceret situation",wheels within wheels
 "høg, sjakre",hawk
@@ -25303,6 +25301,8 @@ ikke kunne bunde,be out of one's depth
 ikke kunne nænne det,not have the heart to do it
 "ikke langt væk, kortfristet, kortrækkende",short-range
 "ikke leve op til løfte, skænde, skændsel, vanære, vanære, æreløs",dishonour
+"ikke lig med, Alt+8800",<> not equal to
+ikke lig med/modsat,<> not equal to/opposite of
 "ikke lydefri, lyde (fejl), plet, plette, skavank",blemish
 ikke magte opgaven,being unequal to the task
 ikke magte opgaven,not being able to cope
@@ -26492,8 +26492,8 @@ jakkesæt(-et),lounge suit
 jakkesæt(-et),seersucker suit (stribed)
 jakobiner(-en),Jacobin
 jakobsstige(-en),phlox (plant)
-"jalousi (skinsyge), nid, skinsyge",jealousy
 jalousi,roll front
+"jalousi (skinsyge), nid, skinsyge",jealousy
 "jalousi , persienne",Venetian blind
 jalousiskab(-et),roll-front cabinet
 jalousiskrivebord(-et),roll-top desk
@@ -35043,8 +35043,8 @@ mo (fx. af græs/hø),swath (fx. hay)
 mo (fx. af græs/hø),windrow
 mobilisere,mobilize
 mobilisering,mobilization
-mobiltelefon,cell(ular) phone
 mobiltelefon,BlackBerry (smartphone)
+mobiltelefon,cell(ular) phone
 mobiltelefon,smartphone (BlackBerry)
 "mobiltelefon, mobiltelefon",mobile phone
 "mobiltelefon, mobiltelefon",mobile telephone
@@ -35339,9 +35339,9 @@ morads,morass
 morads,treacherous ground
 morakke,force the pace
 morakke,slave (willingly)
+morakker,beaver (diligent)
 morakker,one who forces the pace
 morakker,tear-arse
-morakker,beaver (diligent)
 "moral, morale, moralsk, moralsk, moralsk, moralsk, sædelig",moral
 "moral, moralopfattelse",morals
 "moral, normer, standarder",standards

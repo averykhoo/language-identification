@@ -305,9 +305,9 @@ arguo,show
 arguo,testify
 armarium,closet
 armarium,cupboard
-ars,trick
 ars,art
 ars,fine art
+ars,trick
 artifex,artist
 artifex,creative person
 artis,art
@@ -462,10 +462,10 @@ candidus,bright
 candidus,brilliant
 candidus,vivid
 canis,Canis familiaris
-canis,dog
-canis,domestic dog
 canis,Canis familiaris
 canis,dog
+canis,dog
+canis,domestic dog
 canis,domestic dog
 cantor,singer
 cantor,vocaliser
@@ -797,10 +797,10 @@ cursus publicus,mail service
 cursus publicus,post
 cursus publicus,postal service
 cutis,cutis
-cutis,skin
-cutis,tegument
 cutis,cutis
 cutis,skin
+cutis,skin
+cutis,tegument
 cutis,tegument
 debilis,weak
 decem,10
@@ -1070,9 +1070,9 @@ exerceo,exercise
 exerceo,practice
 exerceo,practise
 exercitatio,grooming
+exercitatio,practice
 exercitatio,preparation
 exercitatio,training
-exercitatio,practice
 exercitationis,practice
 exercitus,army
 exercitus,ground forces
@@ -1146,8 +1146,8 @@ fasiolum,edible bean
 feles,cat
 feles,true cat
 felis,cat
-felis,true cat
 felis,cat
+felis,true cat
 felis,true cat
 felix,happy
 felix exitus,success
@@ -1268,11 +1268,11 @@ frequento,visit
 frigidus,cold
 frigus,cold
 frigus,common cold
+frons,brow
+frons,forehead
 frons,forepart
 frons,front
 frons,front end
-frons,brow
-frons,forehead
 frontis,brow
 frontis,forehead
 fructus,fruit

@@ -2566,6 +2566,7 @@ underhand,अप्रकट
 unpublished,अप्रकाशित
 germinal,अप्रगल्भ
 obsolete,अप्रचलित
+oldfashioned,अप्रचलित
 archaism,अप्रचलित असा शब्द किंवा म्हण
 desuetude,अप्रचलितावस्था
 irreversibility,अप्रतिक्रमणीयता
@@ -2600,7 +2601,6 @@ irrelevantly,अप्रासंगिकपणे
 disagreeable,अप्रिय
 unpleasant,अप्रिय
 euphemism,अप्रिय गोष्ट सौम्य शब्दांत सांगणे
-oldfashioned,अप्रचलित
 nymph,अप्सरा
 afghan,अफगाण
 afghanistan,अफगाणिस्तान
@@ -10080,10 +10080,10 @@ trash,कचरा
 waste,कचरा
 refusebin,कचराकुंडी
 rubbishbin,कचरापेटी
+ashbin,कचर्याचा डबा
 wastes,कचर्याचे
 untrashed,कचर्यात टाकला नाही
 trashes,कचर्यात टाकले
-ashbin,कचर्याचा डबा
 dustbin,कचूर्याचा डबा
 kaccha,कच्चा
 kutcha,कच्चा
@@ -10469,11 +10469,11 @@ fictions,कपोलकल्पित
 shipmaster,कप्तानाने योनाला पाहिले
 cappadocia,कप्पदुकिया
 compartment,कप्पा
+kapaa,कप्पा
 loculus,कप्पा
 pulley,कप्पी
 compartments,कप्पे
 drawers,कप्पे
-kapaa,कप्पा
 coughs,कफ
 expectorant,कफ
 expectoration,कफ
@@ -13755,6 +13755,7 @@ colosseum,कोलोझियम
 cologne,कोलोन
 colorado,कोलोरॅडो
 colorectal,कोलोरेक्टल
+coldwater,कोल्डवॉटर
 koln,कोल्न
 staghound,कोल्हयांची शिकार करणार्या जातीचा परंतु मोठया आकाराचा व काळविटांची शिकार करणारा कुत्रा
 fox,कोल्हा
@@ -13767,7 +13768,6 @@ bitch,कोल्ही
 vixen,कोल्ही
 foxes,कोल्ह्यांना
 foxhound,कोल्ह्याची शिकार करणारा कुत्रा
-coldwater,कोल्डवॉटर
 prawn,कोळंबी
 prawns,कोळंबी
 shrimp,कोळंबी मासा
@@ -16576,12 +16576,12 @@ criminalisation,गुन्हेगारीकरण
 criminalization,गुन्हेगारीकरण
 criminalises,गुन्हेगारीत्वाचा
 arraign,गुन्ह्याचा आरोप करणे
+talion,गुन्ह्याच्या गंभीरतेनुसार शिक्षा देण्याची पद्धत (जशास तसा न्याय)
 incriminate,गुन्ह्यात गोवणे
 inculpatory,गुन्ह्यात सामील करणारा
 abet,गुन्ह्याला प्रोत्साहन देणे
 abetment,गुन्ह्याला मदत
 incriminatory,गुन्ह्याशी संबंध आहे असे दाखवणारा
-talion,गुन्ह्याच्या गंभीरतेनुसार शिक्षा देण्याची पद्धत (जशास तसा न्याय)
 furtively,गुपचुप
 slyly,गुपचूप
 sneaking,गुपचूप
@@ -25602,13 +25602,13 @@ scorners,थट्टा
 jape,थट्टा करणे
 jest,थट्टा करणे
 mocked,थट्टा केली
+pleasentry,थट्टामस्करी
 waggish,थट्टेखोर
 farce,थट्टेचा
 butt,थट्टेचा विषय
 jestingly,थट्टेने
 jokingly,थट्टेने
 josher,थट्टेबाज मनुष्य
-pleasentry,थट्टामस्करी
 tombstone,थडगीवजा रचना
 tomb,थडगे
 headstone,थडग्याच्या माथ्याशी रोवलेला उभा दगड
@@ -27132,24 +27132,24 @@ counterpart,दुसर्या
 piggybacking,दुसर्या कंपनीची उत्पादने आपल्या कंपनीच्या उत्पादनाबरोबर विकणे
 towboat,दुसर्या जहाजांना ओढून नेणारी शक्तिशाली बोट
 bypassed,दुसर्या मार्गाने
+secondclass,दुसर्या वर्गाचा
 sadism,दुसर्या व्यक्तीला शारीरिक पीडा देण्यात आनंद वाटण्याची मानसिक विकृती
 synergist,दुसर्या स्नायूच्या संगतीने कार्य करणारा स्नायु सहकारी
+roadhog,दुसर्यांची पर्वा न करता मोटारगाडी चालवणारा अविचारी माणूस
 hauteur,दुसर्यांना तुच्छ लेखण्याची वृत्ती
 feeler,दुसर्याची प्रतिक्रिया जाणून घेण्यासाठी पुढे केलेली तात्पुरती सूचना
 captious,दुसर्याचे दोष दाखविण्यची आवड असलेला
 conciliation,दुसर्याचे मन वळवणे
 poach,दुसर्याच्या जागेत अतिक्रमण करणे
+splosh,दुसर्याच्या डोळयांत भरेल अशा प्रकारे (पैसे) उधळणे
 condole,दुसर्याच्या दु: खात सहानुभूती व्यक्त करणे
 baldly,दुसर्याच्या भावनांचा विचार न करता
 trencherman,दुसर्याच्या मदतीवर जगणारा
 protege,दुसर्याच्या सरंक्षणाखाली व मदतीवर अवलंबुन असणारी व्यक्ती
+catspaw,दुसर्याच्या हातातील बाहुले
 echopraxia,दुसर्याच्या हालचालीची नकळत नक्कल करणे
 trustful,दुसर्यावर चटकन विश्वास ठेवणारा
 trustfulness,दुसर्यावर चटकन विश्वास ठेवून
-secondclass,दुसर्या वर्गाचा
-roadhog,दुसर्यांची पर्वा न करता मोटारगाडी चालवणारा अविचारी माणूस
-splosh,दुसर्याच्या डोळयांत भरेल अशा प्रकारे (पैसे) उधळणे
-catspaw,दुसर्याच्या हातातील बाहुले
 insuperable,दुस्तर
 double,दुहेरी
 dual,दुहेरी
@@ -32019,6 +32019,7 @@ supervised,पर्यवेक्षण
 superintend,पर्यवेक्षण करणे
 elves,पर्या
 faerie,पर्यांची
+fairyland,पर्यांनचे जग
 adequateness,पर्याप्तता
 alternatives,पर्याय
 amused,पर्याय
@@ -32070,7 +32071,6 @@ persis,पर्सिस
 percy,पर्सी
 persepolis,पर्सेपोलिस
 practicals,पर्ात्य
-fairyland,पर्यांनचे जग
 bedstead,पलंग
 couch,पलंग
 bedside,पलंगाकडचा
@@ -37329,9 +37329,9 @@ phenobarbital,फेनोबार्बिटल
 hysterics,फेपऱ्याची झटका
 seizures,फेफरे येतात
 hystericus,फेफर्यामध्ये होणे
+hysteroepilepsy,फेफर्यासह आंकडी येणे
 epileptiform,फेफर्यासारखा वाटणारा
 epileptoid,फेफर्यासारखा वाटणारा
-hysteroepilepsy,फेफर्यासह आंकडी येणे
 feb,फेब्रुवारी
 february,फेब्रुवारी
 fema,फेमाच्या
@@ -41728,8 +41728,8 @@ finial,मनोरा
 gazebo,मनोरा
 towered,मनोरा किंवा मनोरे असलेला
 daydream,मनोराज्य
-carillon,मनोर्यातील घंटांचा आवाज
 squinch,मनोर्याच्या अतील कोपर्यात असलेली व वरच्या बांधकामास (विशेषतः मनोर्याच्या निमुळत्या भागास) आधार देणारी कमान
+carillon,मनोर्यातील घंटांचा आवाज
 paedophile,मनोविकारग्रस्त महिलेने अपहृत
 pedophile,मनोविकारग्रस्त महिलेने अपहृत
 psychodrama,मनोविकाराच्या सामूहिक चिकित्सा
@@ -42995,8 +42995,8 @@ hug,मिठी
 embraced,मिठी मारली
 hugged,मिठी मारली
 hugs,मिठ्या
-midfielders,मिडफिल्डर
 midfield,मिडफिल्ड
+midfielders,मिडफिल्डर
 midland,मिडलँड
 middleton,मिडलटोन
 middleweight,मिडलवेट
@@ -45319,8 +45319,8 @@ prewar,युद्धापूर्वी
 flopped,युद्धामध्ये भाग
 wars,युद्धे
 munition,युध्दसाहित्य पुरवणे
-bellingerent,युध्यमान
 wartorn,युध्दाने जेरीस आलेला
+bellingerent,युध्यमान
 uae,युनायटेड अरब एमिरत
 unix,युनिक्स
 unit,युनिट
@@ -47256,11 +47256,11 @@ rhine,र्हाइन
 rohypnol,र्हाइप्नॉल
 degeneration,र्हास
 deterioration,र्हास
+diminition,र्हास
 rapidity,र्हासाच्या
 polyarthritis,र्हूमॅटॉइड आर्थ्रायटिसमध्ये असतात त्याप्रमाणे एकाच वेळी अनेक सांध्यांचा दाह होणे
 rhodium,र्होडियम
 rhodes,र्होड्स
-diminition,र्हास
 lancashire,लँकेशायर
 lancaster,लँकेस्टर
 langer,लँगर
@@ -47783,12 +47783,12 @@ tuffet,लहानसा मातीचा ढिगारा किंवा 
 hamlet,लहानसे खेडे
 centesis,लहानसे भोक
 la,ला
-lasalle,ला सॅले
 exalting,ला उच्च करितो त्याला
 underrate,ला कमी लेखणे
 endue,ला बहाल करणे
 overmatch,ला भारी असणे
 overrule,ला वरचढ करणे
+lasalle,ला सॅले
 serves,ला सेवा पुरविणारे
 longboat,लाँगबोट
 launch,लाँच
@@ -50009,6 +50009,7 @@ whiff,वार्याची झुळूक
 weathercock,वार्याची दिशा दर्शवणारे यंत्र
 zephyr,वार्याची मंद झुळूक
 windward,वार्याच्या दिशेने
+windblown,वार्याने वाहून नेलेले
 snowdrift,वार्यामुळे एकत्र साचलेला बर्फाचा ढिगारा
 warwick,वार्विक
 annual,वार्षिक
@@ -50018,7 +50019,6 @@ annum,वार्षिक
 yearly,वार्षिक
 econometric,वार्षिक आर्थिक
 yearbook,वार्षिकपुस्तिका
-windblown,वार्याने वाहून नेलेले
 walrus,वालरस
 salicaceae,वालुंज कुल
 arenaceous,वालुकामय
@@ -58729,12 +58729,12 @@ neglige,सैल मोकळा पोशाख
 salicylic,सैलीसिलिक
 saunders,सॉंडर्स
 socket,सॉकेट
+sox,सॉक् चे अनेकवचनी रुप
 socratic,सॉक्रेटिक
 socrates,सॉक्रेटीस
 xaniippe,सॉक्रोटिसची पत्नी - झांटिपी
 xanthippe,सॉक्रोटिसची पत्नी - झांटिपी
 socks,सॉक्स
-sox,सॉक् चे अनेकवचनी रुप
 sonnets,सॉनेट्स
 softener,सॉफ्टनर
 software,सॉफ्टवेअर

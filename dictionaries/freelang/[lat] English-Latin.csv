@@ -768,9 +768,9 @@ adversor,fight back
 "adversor, reluctor",resist
 adversus,opposing.
 adversus,opposite
+"adversus (prep. + acc.), contra, contra (+ acc.), in (+ acc.)",against
 "adversus , adversus (prep. + acc.)",facing
 "adversus , infortunatus, miser",unfortunate
-"adversus (prep. + acc.), contra, contra (+ acc.), in (+ acc.)",against
 adverto,direct one's attention to
 advocatus,lawyer
 "advocatus, altor, causidicus",advocate
@@ -3461,13 +3461,13 @@ cucumis,cucumber
 cucurbita,gourd
 cucurbita,pumpkin
 cucurbita,squash
+cui,(the monster)
 cui,IN WHICH (province)
 cui,TO WHOM did you give it?
-cui,(the monster)
 cui,TO WHOM the cattle belonged
 cuius,(the queen)
-cuius,the vices OF WHOM were many
 cuius,(the saint)
+cuius,the vices OF WHOM were many
 cuius (neut. sing. gen),(the building)
 cuiusmodi,of what kind
 culpa,(esp. aginst chastity)
@@ -4557,9 +4557,9 @@ ereptio,confiscation
 "ereptor, furs, raptor",thief
 "ereptor, latro, latrunculus, prædator, vispilio",robber
 ergastulum,a workhouse for slaves
+"ergo (gen. +), præ, propter (+ acc.)",because of
 "ergo , ideo, igitur, igitur, itaque , proinde",therefore
 "ergo , secundum",accordingly
-"ergo (gen. +), præ, propter (+ acc.)",because of
 ericius,chevaux de frise
 ericius,hedgehog
 erigo,to arouse
@@ -5052,8 +5052,8 @@ facinarose,viciously
 facio,be of service
 facio,to experience
 facio,to give permission
-facio,to sacrifice
 facio,to make
+facio,to sacrifice
 facio + inf.,to have done
 "facio + inf., iubeo, iubeo iussi iussum",to order
 facio servitium,to be in one's service
@@ -5562,10 +5562,10 @@ fumo,to smoke
 funditus,totally
 "funditus, prorsus, prorsus, radicitus",utterly
 fundo,pour out (like molten metal)
+fundo,put to flight
 fundo,to cast to the ground
 fundo,to found
 fundo,to pour
-fundo,put to flight
 fundo,to rout
 "fundo, iacio",cast
 "fundus, praedium, vicus, villa",estate
@@ -5774,9 +5774,9 @@ habito,to have frequently
 "habito, moror, sedeo",reside
 habitus,disposed
 habitus,in a certain condition
+hac,He who lives BY THIS (the sword).
 hac,this side
 hac,this way
-hac,He who lives BY THIS (the sword).
 "hac, hic, hic",here
 hactenus,hitherto
 hactenus,up to this point
@@ -5813,13 +5813,13 @@ hinc inde,from different directions
 hinnire,whinny
 hinnus,mule
 hio,to gape wide
-"his (fem. plur. abl), illis (fem. plur. abl)",A life is enriched BY THESE (friendships)
 his,She gave her property TO THESE (churches)
 his,They passed BY THESE (roads)
+"his (fem. plur. abl), illis (fem. plur. abl)",A life is enriched BY THESE (friendships)
 "his , illis",Listen TO THESE (orders)
-hoc,He gave plenty FOR THIS (field)
-hoc,Do not hesistate BECAUSE OF THIS! (doubt)
 hoc,Break THIS! (fetter)
+hoc,Do not hesistate BECAUSE OF THIS! (doubt)
+hoc,He gave plenty FOR THIS (field)
 hoc,THIS (monastery)
 hodie,to-day
 "hodie, hodie",today
@@ -5864,8 +5864,8 @@ hostes hostium,the enemy
 hostilis,hostile or enemy
 hostilitas,enmity
 hostis,an enemy of the state
-huic,There is a statue IN THIS (abbey)
 huic,He sent FOR THIS (doctor)
+huic,There is a statue IN THIS (abbey)
 huic,i'd give my right arm FOR THIS (cookie)
 huius,They are fond OF THIS (change)
 huius (masc. fem. neut. gen.,eat some OF THIS
@@ -5963,15 +5963,15 @@ ile,intestines
 ilicet,it is finished
 ilicet,right away
 "ilico, statim",on the spot
+illa,Deborah always won THESE (wars)
 illa,He who lives BY THAT (the sword).
 illa,THAT (sword)
-illa,Deborah always won THESE (wars)
 illa,THOSE (arms)
 illac,along that path
 illac,in that direction
 illac,over there
-illae ille,THOSE (women)
 illae ille,She paid half OF THIS (the cost)
+illae ille,THOSE (women)
 "illaesus, incolumis, sospes",unharmed
 illarum,The city wall had four OF THOSE (gates)
 illas,They gave THOSE (their lives)
@@ -5984,23 +5984,23 @@ ille illa illud,the former
 "ille illa illud, is ea id",it
 "ille illa illud, is ea id, iste ista istud, quatenus/quatinus",that
 illectus,allured
-illi,There is a statue IN THAT (abbey)
-illi,THOSE (men)
 illi,He sent FOR THAT (doctor)
+illi,THOSE (men)
+illi,There is a statue IN THAT (abbey)
 illi,i'd give my right arm FOR THOSE (cookies)
 illiam,She wasted THAT (her youth)
 illic,at that place
 "illic, inibi",therein
 illicitus,unlawful
 illis,She gave her property TO THOSE (churches)
-illis,They passed BY THOSE (roads)
 illis,Tell it TO THOSE (Marines)
+illis,They passed BY THOSE (roads)
 "illis , illis",She earned it BY THESE (her deeds)
+illius,She paid half OF THAT (the cost)
 illius,They are fond OF THAT (change)
 illius (masc. fem. neut. gen.,eat some OF THAT
-illius,She paid half OF THAT (the cost)
-illo,He gave plenty FOR THAT (field)
 illo,Do not hesitate BECAUSE OF THAT! (doubt)
+illo,He gave plenty FOR THAT (field)
 illorum,The horses OF THOSE (soldiers)
 illos,They burned THOSE (houses)
 illuc,thither
@@ -7639,8 +7639,8 @@ matrimonium,marriage
 maxime,principally
 maxime,to the highest degree
 "maxime, singulariter, summopere, valde, valde, vehementer",exceedingly
-me,you'll do fine with ME
 me,that old black magic has ME in its spell
+me,you'll do fine with ME
 "medicor, sano",to heal
 medicus,doctor
 medicus,physician
@@ -8060,9 +8060,9 @@ nixor,to lean against
 "no (nare, navi)",to swim
 "no (nare, navi), velum, velum",sail
 "no (nare, navi), volare",fly
+nobis,the world belongs to US
 nobis,there'll be no one as happy as US
 "nobis , nobis , nos",us
-nobis,the world belongs to US
 nocens,culpable
 "nocens, pestifer",injurious
 noceo,do harm
@@ -8689,9 +8689,9 @@ penitens (penitentis),a penitent
 penitentia,penance
 penitio,to do penance
 penitus,through and through
-"penitus , plene , quamtotius",completely
 penitus (adverb),thoroughly
 "penitus (adverb), sagaciter",accurately
+"penitus , plene , quamtotius",completely
 "penna, penna, pennae, pinna",wing
 "penna, penna, pinna, pluma, pluma",feather
 "pennatus, penniger",with feathers
@@ -9681,9 +9681,9 @@ pyropus,bronze
 pyus pyxidis,a little box
 pyus pyxidis,casket
 pæninsula,peninsula
+qua,(the abbess)
 qua,by which route
 "qua , quo, ubi",where
-qua,(the abbess)
 quadra,dining table
 quadraginta,forty
 quadraginta,forty (Indecl.)
@@ -9697,8 +9697,8 @@ quadruplator,an exaggerator
 quadruplator,informer
 quadruplor,to be an informant
 quae,Let THOSE (women)
-quae,those things WHICH we must have
 quae,WHAT cannot be avoided must be endured
+quae,those things WHICH we must have
 quae que,(the milkmaid)
 quae que,WHO loved a prince
 quaerito,to seek/look earnestly for
@@ -9715,11 +9715,11 @@ qualiscumque,of any kind whatever
 qualislibet,of what sort you will
 "qualitas, species",quality
 qualiter,in whatever manner/way
+quam,(the church)
+quam,WHICH the Lord loved
 quam,than
 "quam , quemadmodum, quomodo, unde",how
 "quam , tam .. quam",as .. as possible
-quam,(the church)
-quam,WHICH the Lord loved
 quam plures,as many as possible
 quamdiu,such a long time
 quamobrem,for which reason
@@ -9794,14 +9794,14 @@ qui (question),how? in what way?
 qui (question),wherewith
 "qui (question), quomodo",somehow
 quibus,BY WHICH the pirates were known
-quibus,the beards
-quibus,TO WHICH he owed his crown
-quibus,the good fortune
 quibus,BY WHOM he was attacked when old
+quibus,TO WHICH he owed his crown
 quibus,his sons
-quibus,the monastery IN WHICH he was intered
 quibus,the arms WITH WHICH he won Rome
+quibus,the beards
 quibus,the crimes FOR WHICH he was executed
+quibus,the good fortune
+quibus,the monastery IN WHICH he was intered
 "quicquid, quisquis",anything at all
 "quicquid, quisquis",whatever
 "quicquid, quisquis",whatsoever
@@ -9856,19 +9856,19 @@ quislibet,whom you will
 "quisnam, quidnam",who
 quisque,each one
 quisque,each person
+quo,(the eagerness)
+quo,(the money)
 quo,to what place
 quo,to which place
 quo,where ... to
 quo,whither
-quo,(the money)
-quo,(the eagerness)
+quod,(the sea)
+quod,(the war)
+quod,WHICH killed so many
+quod,WHICH you cannot drink dry
 quod,the fact that
 quod,the point that
 quod (+ comparative),the x the better
-quod,(the sea)
-quod,WHICH you cannot drink dry
-quod,(the war)
-quod,WHICH killed so many
 quod (with time),to the extent that
 "quod (with time), tenus (prep. with abl)",as far as
 quod sui juris est,what is one's by right
@@ -9882,10 +9882,10 @@ quondam,one time
 quondam,one-time
 "quondam, sero, tardus",late
 quoque,too
-quorum,half OF WHICH was ill
-quorum,the army
 quorum,OF WHICH there were not a few
 quorum,dangers
+quorum,half OF WHICH was ill
+quorum,the army
 quos,those WHOM he accused of treachery
 quot,as many (indecl.)
 quot,how many
@@ -11690,8 +11690,8 @@ vicus,neigborhood
 vicus,quarter (or a city)
 "vicus, villa",ranch
 "vicus, villa",village
-videlicet,it is clear
 videlicet,(ironically)
+videlicet,it is clear
 video vidi visum,to see
 videor,seem
 videor,to be seen
@@ -11755,10 +11755,10 @@ virtus,virility
 virtus,virtuousness
 "virtus, vitualis",manliness
 virus,virus
-vis,vigour
 vis,a force
 vis,a large number
 vis,quantity
+vis,vigour
 vis,violence
 viscum,mistletoe
 viscus,bowels

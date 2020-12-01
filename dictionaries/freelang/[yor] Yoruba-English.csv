@@ -806,8 +806,8 @@ gbà,"get, grant"
 gbà,"lay hold of, obtain, acknowledge"
 gbà,"pick up, to accept, get"
 gbà,take
-gbà möra,embrace
 gbà lôwô enirô lóyègbàloyè,deprive
+gbà möra,embrace
 gbà padarí-gbàtêwôgbà,receive
 gbà síÿêfiÿê fún,employ
 gbàgbé,forget
@@ -963,7 +963,6 @@ ilekun,door
 ilè ìpamô ôjà,warehouse
 ilè ìpamú aÿô,wardrobe
 ilé,"house, fabric"
-ilé ôtí títàilé ôtí,bar
 ilé ajá,kennel
 ilé alákàrà,bakery
 ilé alápìín gbé,flat
@@ -993,13 +992,14 @@ ilé ìse àkàrà,bakery
 ilé ìseñje,kitchen
 ilé ìsìn ölörun tàbí òrìÿà,temple
 ilé ìsó gígailé èsó,tower
-ilé ìtôjú ohun ögbìnoko-ögbìn,nursery(1)
 ilé ìtôjú igioko-igi,nursery
+ilé ìtôjú ohun ögbìnoko-ögbìn,nursery(1)
 ilé ìtôjú oríÿiríÿí ààrùn,clinic
 ilé ìtôjú ômô wëwë,nursery
 ilé ìwé àjô ìkôöwéilé ëkô,school
 ilé òwò,factory
 ilé ôba,palace
+ilé ôtí títàilé ôtí,bar
 ilé-oyinafárá oyin,beehive
 iléko,farmhouse
 ilê,earth
@@ -1042,11 +1042,11 @@ irö,untrue
 irù egbë õwö,kind
 irùngbõn,beard
 irú,"race, manner"
-irú eranko kan bí ìmàdò,walrus
 irú eja kan,jellyfish
 irú eja kékeré kan,sardine
 irú eja nlá kan,salmon
 irú eran jíje kan,sausage
+irú eranko kan bí ìmàdò,walrus
 irú eré kan,tennis
 irú eré kan tí àñta lórí ôpôn,chess
 irú eré òyìnbó kan,golf
@@ -1140,8 +1140,8 @@ juwó sí,to wave
 jà,"accidental, quarrel"
 jà¸bá,damage
 já,accident
-já gbàjá lôwó,grab
 já fáfá,neat
+já gbàjá lôwó,grab
 já ní koro,object
 jáde,eject
 jáde ní ìlú,"pass, pass (1)"
@@ -1209,8 +1209,8 @@ kêkë erù,wagon
 kêsôdòrìÿà,idolize
 kë,pamper
 këkê,vehicle
-këkê erù elêsë méjì,cart
 këkê elêÿinìwà ìÿesí,carriage
+këkê erù elêsë méjì,cart
 këkê erùôkö akérò,van
 këra,pamper
 këtëkëtë abilà,zebra
@@ -1756,11 +1756,11 @@ ogota,sixty
 ogun,"war, fight, battle, battlefield, twenty"
 ogun elêÿin,cavalary
 ogún,an inheritance
-ohun pàtàkìlárí,importance
 ohun aládùn,enjoyable
 ohun ikose ëëgàn àbùkù ìsôkúsô,scandal
 ohun mímu,coffee
 ohun olóró,radioactive
+ohun pàtàkìlárí,importance
 ohun rere,goodness
 ohun rírí,object
 ohun tàbí enití a yàn ÿojú,target (1)
@@ -1961,7 +1961,6 @@ otí òyìnbóotí èso àjàràwáìn,wine
 owo,money
 owò ôjà rírà ìdíyelé ñýkan,tariff
 owó,"wages, cash, money"
-owó ìnáwó,finance
 owó iÿê,fare
 owó iÿë,"wages, salary"
 owó oÿù,salary
@@ -1969,6 +1968,7 @@ owó oÿùöyà,pay
 owó àpamö,account
 owó ìdáràn,fine
 owó ìdásílê,ransom
+owó ìnáwó,finance
 owó ôkö,fare
 owó õyà,salary
 owó öröôlá,wealth
@@ -2414,9 +2414,9 @@ wê,bathe
 wê-mö,clean
 wë,to wash
 wí,"to talk, to say"
-wí sôtenumôkéde,declare
 wí fúnsô fúnka iyesô,to tell
 wí láìsôfà yô,imply
+wí sôtenumôkéde,declare
 wíwà fún ìgbá díê,temporary
 wíwà ní àpônàìyígbéyàwóÿíÿapôn,celibacy
 wíwí,saying
@@ -3073,8 +3073,8 @@ yún,to scratch
 ìbísiàsunkúnìpösi,increase
 ìbò,ballot
 ìbójútó,management
-ìbôlôwô ìjölôwôìbímô,deliver
 ìbôlôwô ewu,security
+ìbôlôwô ìjölôwôìbímô,deliver
 ìbôn etù,machine gun
 ìbôn nlààgbá,cannon
 ìbôpòìbùsùn àsôrô,hammock
@@ -3356,9 +3356,9 @@ yún,to scratch
 ìmõ,knowledge
 ìmõ,"kow-how, faculty"
 ìmõ iÿë ônà,kow-how
-ìmö ôgbônòye ëkô ìjìnlë,science
 ìmö ìlò örö dájúdájúgírámà,grammar
 ìmö ìrô,notion
+ìmö ôgbônòye ëkô ìjìnlë,science
 ìmönàmímönà,bearings
 ìmöìfæwôbàìfôkànmö,feeling
 ìmùlë,pact
@@ -3521,7 +3521,6 @@ yún,to scratch
 ìwo,ye
 ìwo,you
 ìwà,"quality, passion, nature, action, habit"
-ìwà ìÿe,manner
 ìwà akôni,valor
 ìwà ará oko,barbaric
 ìwà ti obìnrinti aboti obìnrin,feminine
@@ -3530,6 +3529,7 @@ yún,to scratch
 ìwà àìfiyèsí,negligence
 ìwà àìgbônìwà ômôdebí ômôdé,immaturity
 ìwà àìlajú,barbaric
+ìwà ìÿe,manner
 ìwà ôkùnrin,manhood
 ìwà-àìmòye,barbaric
 ìwàorúkôènìà,character
@@ -3846,9 +3846,9 @@ yún,to scratch
 ôkõ-abëlê rélùwe,subway
 ôkõ-ilê,subway
 ôkö,hoe
-ôkö ôkö wétèìgbájá,canoe
 ôkö aláfêkëkêmôtò òrénté,car
 ôkö irin fún pípa erinmi,harpoon
+ôkö ôkö wétèìgbájá,canoe
 ôkùnrin,man
 ôlê,embryo
 ôlô-inú,kidney
@@ -3945,7 +3945,6 @@ yún,to scratch
 õkõõkan,each
 õlàjú,civilized
 õnà,"access, manner"
-õnà àjò lójú omi,passage
 õnà abë títì,underpass
 õnà alámõ líle,pavement
 õnà elësê,pavement
@@ -3953,6 +3952,7 @@ yún,to scratch
 õnà olókúta,road
 õnà re o! ódìgbòÿe o!,goodbye
 õnà àfesêrìn,pavement
+õnà àjò lójú omi,passage
 õnà àárín òkè méjì,pass
 õnà àìtö,illegitimate
 õnà ôlödà,road
