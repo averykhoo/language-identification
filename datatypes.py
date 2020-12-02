@@ -543,13 +543,18 @@ class MultiCharSet:
             index.add(charset)
         return index
 
-    def to_json(self):
+    def to_json(self, path: Optional[str]):
         out = dict()
         for i, charset in enumerate(self.charsets):
             if charset.name is None:
                 out[f'charset_{i}'] = charset.ranges
             else:
                 out[charset.name] = charset.ranges
+
+        if path is not None:
+            with open(path, 'w', encoding='ascii') as f:
+                json.dump(out, f, indent=4, ensure_ascii=False)
+
         return json.dumps(out, indent=4, ensure_ascii=False)
 
 
