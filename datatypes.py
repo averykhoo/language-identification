@@ -1,9 +1,13 @@
+import json
 import re
+from collections import Counter
 from dataclasses import dataclass
 from dataclasses import field
 from typing import Callable
+from typing import Dict
 from typing import Iterable
 from typing import List
+from typing import Optional
 from typing import Pattern
 from typing import Set
 from typing import Tuple
@@ -63,8 +67,16 @@ unicode_category_mapping = {
 @dataclass(frozen=True)
 class CharSet:
     chars: Set[str] = field(default_factory=set)
+    name: Optional[str] = field(default=None, compare=False, hash=False)
 
     def __post_init__(self):
+        # check name
+        if self.name is not None:
+            if not isinstance(self.name, str):
+                raise TypeError(self.name)
+            if len(self.name) == 0:
+                raise ValueError(self.name)
+
         # check type of provided set
         if not isinstance(self.chars, set):
             raise TypeError(self.chars)
@@ -91,8 +103,10 @@ class CharSet:
         self.chars.update(_chars)
 
     @classmethod
-    def from_ranges(cls, unicode_ranges: Iterable[Tuple[int, int]]) -> 'CharSet':
-        out = CharSet()
+    def from_ranges(cls,
+                    unicode_ranges: Iterable[Tuple[int, int]],
+                    name: Optional[str] = None) -> 'CharSet':
+        out = CharSet(name=name)
         for range_start, range_end in unicode_ranges:
             out.add_range(range_start, range_end)
         return out
@@ -443,11 +457,65 @@ class CharSet:
         return self.pattern.findall(text, pos, endpos)
 
 
+@dataclass
+class CharSetIndex:
+    inverted_index: Dict[str, Set[int]] = field(default_factory=dict, init=False)
+    charsets_names: List[str] = field(default_factory=list, init=False)
+
+    def add(self, charset: CharSet, charset_name: Optional[str] = None):
+        if not isinstance(charset, CharSet):
+            raise TypeError(charset)
+
+        # check name
+        if charset_name is None:
+            charset_name = charset.name
+        if not isinstance(charset_name, str):
+            raise TypeError(charset_name)
+        if len(charset_name) == 0:
+            raise ValueError(charset_name)
+
+        # avoid dupe charsets
+        assert charset_name not in self.charsets_names
+
+        # add charset to seen
+        charset_idx = len(self.charsets_names)
+        self.charsets_names.append(charset_name)
+        assert self.charsets_names[charset_idx] == charset_name
+
+        # index the chars
+        for char in charset:
+            self.inverted_index.setdefault(char, set()).add(charset_idx)
+
+    def lookup_char(self, char: str) -> List[str]:
+        return sorted(self.charsets_names[idx] for idx in self.inverted_index.get(char, set()))
+
+    def lookup_union(self, word: str) -> List[str]:
+        out = Counter()
+        for char in word:
+            out.update(self.inverted_index.get(char, set()))
+        return [self.charsets_names[idx] for idx, count in out.most_common()]
+
+    def lookup_intersection(self, word: str) -> List[str]:
+        out = set(range(len(self.charsets_names)))
+        for char in word:
+            out.intersection_update(self.inverted_index.get(char, set()))
+        return [self.charsets_names[idx] for idx in out]
+
+
 class MultiCharSet:
     def __init__(self, *charsets: CharSet):
         for charset in charsets:
             assert isinstance(charset, CharSet)
         self.charsets = list(charsets)
+
+    @classmethod
+    def from_json(cls, path) -> 'MultiCharSet':
+        out = MultiCharSet()
+        with open(path, encoding='ascii') as f:
+            data = json.load(f)
+            for charset_name in sorted(data.keys()):
+                out.add(CharSet.from_ranges(data[charset_name], name=charset_name))
+        return out
 
     @property
     def pattern(self) -> Pattern:
@@ -468,3 +536,27 @@ class MultiCharSet:
         if endpos is None:
             endpos = len(text)
         return self.pattern.findall(text, pos, endpos)
+
+    def build_index(self) -> CharSetIndex:
+        index = CharSetIndex()
+        for charset in self.charsets:
+            index.add(charset)
+        return index
+
+    def to_json(self):
+        out = dict()
+        for i, charset in enumerate(self.charsets):
+            if charset.name is None:
+                out[f'charset_{i}'] = charset.ranges
+            else:
+                out[charset.name] = charset.ranges
+        return json.dumps(out, indent=4, ensure_ascii=False)
+
+
+if __name__ == '__main__':
+    mcs = MultiCharSet.from_json('iso15924/char_scripts_4.json')
+
+    i = mcs.build_index()
+    print(i.lookup_char('h'))
+    print(i.lookup_union('hello'))
+    print(i.lookup_intersection('hello'))
