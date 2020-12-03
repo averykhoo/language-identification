@@ -15,6 +15,8 @@ from typing import Union
 
 import unicodedata
 
+from tokenizer import unicode_tokenize
+
 unicode_category_mapping = {
     'Lu': {'Lu'},  # Uppercase_Letter
     'Ll': {'Ll'},  # Lowercase_Letter
@@ -565,6 +567,94 @@ class Dictionary:
     _vocab_indices: Dict[str, int] = field(default_factory=dict)  # word -> word_index
 
     # terms and definitions are stored as sequences of words
-    keys: List[Tuple[int, ...]] = field(default_factory=list)
-    values: List[Tuple[int, ...]] = field(default_factory=list)
+    terms: List[Tuple[int, ...]] = field(default_factory=list)
+    definitions: List[Tuple[int, ...]] = field(default_factory=list)
 
+    # inverted indices
+    _casefold_indices: Dict[str, Set[int]] = field(default_factory=dict)  # word -> word indices
+    _term_indices: List[Set[int]] = field(default_factory=list)  # word_index -> term indices
+    _def_indices: List[Set[int]] = field(default_factory=list)  # word_index -> def indices
+
+    def __post_init__(self):
+        assert self._resolve_word_index(' ') == 0
+
+    def _resolve_word_index(self, word: str) -> int:
+        # return if known word
+        if word in self._vocab_indices:
+            return self._vocab_indices[word]
+
+        # add unknown word
+        assert isinstance(word, str), word
+        _idx = self._vocab_indices[word] = len(self.vocabulary)
+        self.vocabulary.append(word)
+        self._casefold_indices.setdefault(word.casefold(), set()).add(_idx)
+        self._term_indices.append(set())
+        self._def_indices.append(set())
+
+        # double-check invariants before returning
+        assert len(self._vocab_indices) == len(self.vocabulary) == _idx + 1
+        assert len(self._term_indices) == len(self._def_indices) == _idx + 1
+        assert self.vocabulary[_idx] == word, (self.vocabulary[_idx], word)  # check race condition
+        return _idx
+
+    def add_definition(self, term: str, definition: str) -> 'Dictionary':
+
+        # tokenize
+        term_words = list(unicode_tokenize(' '.join(term.strip().split())))
+        def_words = list(unicode_tokenize(' '.join(definition.strip().split())))
+        term_word_indices = tuple(self._resolve_word_index(token) for token in term_words)
+        def_word_indices = tuple(self._resolve_word_index(token) for token in def_words)
+
+        # add definition
+        _idx = len(self.terms)
+        self.terms.append(term_word_indices)
+        self.definitions.append(def_word_indices)
+
+        # add to index
+        for word_index in term_word_indices:
+            self._term_indices[word_index].add(_idx)
+        for word_index in def_word_indices:
+            self._def_indices[word_index].add(_idx)
+
+        # allow operator chaining
+        return self
+
+    def _tuple_to_text(self, text_tuple):
+        return ''.join(self.vocabulary[idx] for idx in text_tuple)
+
+    def lookup_terms(self, text):
+        matches = Counter()
+        for word in unicode_tokenize(' '.join(text.strip().casefold().split())):
+            for word_index in self._casefold_indices.get(word, set()):
+                matches.update(self._term_indices[word_index])
+
+        out = []
+        for match_index, count in matches.most_common():
+            out.append((''.join(self.vocabulary[idx] for idx in self.terms[match_index]),
+                        ''.join(self.vocabulary[idx] for idx in self.definitions[match_index]),
+                        count))
+        return out
+
+    def lookup_definitions(self, text):
+        matches = Counter()
+        for word in unicode_tokenize(' '.join(text.strip().casefold().split())):
+            for word_index in self._casefold_indices.get(word, set()):
+                matches.update(self._def_indices[word_index])
+
+        out = []
+        for match_index, count in matches.most_common():
+            out.append((''.join(self.vocabulary[idx] for idx in self.terms[match_index]),
+                        ''.join(self.vocabulary[idx] for idx in self.definitions[match_index]),
+                        count))
+        return out
+
+
+if __name__ == '__main__':
+    d = Dictionary()
+    from bhanot_dictionary import definitions
+
+    for term, definition in definitions.items():
+        d.add_definition(term, definition)
+
+    print(d.lookup_terms('abah'))
+    print(d.lookup_definitions('become'))
