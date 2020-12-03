@@ -15,6 +15,7 @@ from typing import Union
 
 import unicodedata
 
+from tokenizer import text_n_grams
 from tokenizer import unicode_tokenize
 
 unicode_category_mapping = {
@@ -562,6 +563,10 @@ class MultiCharSet:
 
 @dataclass
 class Dictionary:
+    term_language: str
+    definition_language: str
+    data_source: Optional[str] = field(default=None)
+
     # vocabulary: word <-> word_index
     vocabulary: List[str] = field(default_factory=list)  # word_index -> word
     _vocab_indices: Dict[str, int] = field(default_factory=dict)  # word -> word_index
@@ -612,9 +617,11 @@ class Dictionary:
 
         # add to index
         for word_index in term_word_indices:
-            self._term_indices[word_index].add(_idx)
+            if word_index > 0:
+                self._term_indices[word_index].add(_idx)
         for word_index in def_word_indices:
-            self._def_indices[word_index].add(_idx)
+            if word_index > 0:
+                self._def_indices[word_index].add(_idx)
 
         # allow operator chaining
         return self
@@ -648,13 +655,140 @@ class Dictionary:
                         count))
         return out
 
+    def term_words(self):
+        return [self.vocabulary[word_idx]
+                for word_idx, term_idx in enumerate(self._term_indices)
+                if len(term_idx) > 0]
+
+    def definition_words(self):
+        return [self.vocabulary[word_idx]
+                for word_idx, def_idx in enumerate(self._def_indices[1:])
+                if len(def_idx) > 0]
+
+
+@dataclass
+class MultiDictionary:
+    dictionaries: List[Dictionary] = field(default_factory=list)
+    _casefold_index: Dict[str, Set[int]] = field(default_factory=dict)
+
+    def add_dictionary(self, dictionary: Dictionary):
+        _idx = len(self.dictionaries)
+        self.dictionaries.append(dictionary)
+        for word in dictionary.term_words():
+            self._casefold_index.setdefault(word.casefold(), set()).add(_idx)
+        for word in dictionary.definition_words():
+            self._casefold_index.setdefault(word.casefold(), set()).add(_idx)
+
+    def lookup_terms(self, text):
+        dict_indices = set()
+        for word in unicode_tokenize(' '.join(text.strip().casefold().split())):
+            dict_indices.update(self._casefold_index.get(word, set()))
+
+        out = []
+        for dict_index in dict_indices:
+            out.extend(self.dictionaries[dict_index].lookup_terms(text))
+        return sorted(out, key=lambda x: x[-1], reverse=True)
+
+
+@dataclass
+class ApproxWordList:
+    n: int
+
+    # vocabulary: word <-> word_index
+    vocabulary: List[str] = field(default_factory=list)  # word_index -> word
+    _vocab_indices: Dict[str, int] = field(default_factory=dict)  # word -> word_index
+
+    # n-gram index (normalized vectors): n_gram -> [(word_index, norm_count), ...]
+    n_gram_index: Dict[str, List[Tuple[int, float]]] = field(default_factory=dict)
+
+    def _resolve_word_index(self, word: str) -> int:
+        # return if known word
+        if word in self._vocab_indices:
+            return self._vocab_indices[word]
+
+        # add unknown word
+        assert isinstance(word, str), word
+        _idx = self._vocab_indices[word] = len(self.vocabulary)
+        self.vocabulary.append(word)
+
+        # double-check invariants before returning
+        assert len(self._vocab_indices) == len(self.vocabulary) == _idx + 1
+        assert self.vocabulary[_idx] == word, (self.vocabulary[_idx], word)  # check race condition
+        return _idx
+
+    def add_word(self, word: str):
+        if word not in self._vocab_indices:
+            word_index = self._resolve_word_index(word)
+            n_gram_counter = Counter(text_n_grams(f'^{word}$', n=self.n))
+            denominator = sum(count ** 2 for count in n_gram_counter.values()) ** 0.5
+            for n_gram, count in Counter(text_n_grams(f'^{word}$', n=self.n)).most_common():
+                self.n_gram_index.setdefault(n_gram, []).append((word_index, count / denominator))
+
+        return self
+
+    def lookup(self, word: str, top_k: Optional[int] = None):
+        n_gram_counter = Counter(text_n_grams(f'^{word}$', n=self.n))
+        denominator = sum(count ** 2 for count in n_gram_counter.values()) ** 0.5
+
+        matches = Counter()
+        for n_gram, count in Counter(text_n_grams(f'^{word}$', n=self.n)).most_common():
+            for word_index, norm_count in self.n_gram_index.get(n_gram, []):
+                matches[word_index] += norm_count * (count / denominator)
+
+        if top_k is None:
+            top_k = len(matches)
+        return [(self.vocabulary[word_index], round(match_score, 3)) for word_index, match_score in matches.most_common(top_k)]
+
 
 if __name__ == '__main__':
-    d = Dictionary()
-    from bhanot_dictionary import definitions
+    with open('dictionaries/words_ms.txt', encoding='utf8') as f:
+        words = set(f.read().split())
 
-    for term, definition in definitions.items():
-        d.add_definition(term, definition)
+    wl_1 = ApproxWordList(1)
+    for word in words:
+        wl_1.add_word(word)
 
-    print(d.lookup_terms('abah'))
-    print(d.lookup_definitions('become'))
+    wl_2 = ApproxWordList(2)
+    for word in words:
+        wl_2.add_word(word)
+
+    wl_3 = ApproxWordList(3)
+    for word in words:
+        wl_3.add_word(word)
+
+    wl_4 = ApproxWordList(4)
+    for word in words:
+        wl_4.add_word(word)
+
+    with open('dictionaries/words_en.txt', encoding='utf8') as f:
+        words = set(f.read().split())
+
+    wl2_1 = ApproxWordList(1)
+    for word in words:
+        wl2_1.add_word(word)
+
+    wl2_2 = ApproxWordList(2)
+    for word in words:
+        wl2_2.add_word(word)
+
+    wl2_3 = ApproxWordList(3)
+    for word in words:
+        wl2_3.add_word(word)
+
+    wl2_4 = ApproxWordList(4)
+    for word in words:
+        wl2_4.add_word(word)
+
+    while True:
+        word = input('word:\n')
+        word = word.strip()
+        if not word:
+            break
+        print('wl_1', wl_1.lookup(word, 10))
+        print('wl_2', wl_2.lookup(word, 10))
+        print('wl_3', wl_3.lookup(word, 10))
+        print('wl_4', wl_4.lookup(word, 10))
+        print('wl2_1', wl2_1.lookup(word, 10))
+        print('wl2_2', wl2_2.lookup(word, 10))
+        print('wl2_3', wl2_3.lookup(word, 10))
+        print('wl2_4', wl2_4.lookup(word, 10))

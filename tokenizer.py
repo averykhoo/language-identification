@@ -6,7 +6,6 @@ from typing import Any
 from typing import Generator
 from typing import Iterable
 from typing import List
-from typing import Sequence
 from typing import Set
 from typing import Tuple
 from typing import Union
@@ -467,11 +466,12 @@ def sentence_split(text: str,
             yield sentence
 
 
-def ngrams(seq: Sequence, n=2) -> List[Sequence]:
+def text_n_grams(text: str,
+                 n: int = 2) -> List[str]:
     """
     fast ngram generator
     """
-    return [seq[i:i + n] for i in range(len(seq) - n + 1)]
+    return [text[i:i + n] for i in range(len(text) - n + 1)]
 
 
 def word_n_grams(text: str,
