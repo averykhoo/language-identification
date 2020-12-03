@@ -692,14 +692,14 @@ class MultiDictionary:
 
 @dataclass
 class ApproxWordList:
-    n: int
+    n_list: Tuple[int, ...]
 
     # vocabulary: word <-> word_index
     vocabulary: List[str] = field(default_factory=list)  # word_index -> word
     _vocab_indices: Dict[str, int] = field(default_factory=dict)  # word -> word_index
 
     # n-gram index (normalized vectors): n_gram -> [(word_index, norm_count), ...]
-    n_gram_index: Dict[str, List[Tuple[int, float]]] = field(default_factory=dict)
+    n_gram_indices: Dict[int, Dict[str, List[Tuple[int, float]]]] = field(default_factory=dict)
 
     def _resolve_word_index(self, word: str) -> int:
         # return if known word
@@ -717,65 +717,74 @@ class ApproxWordList:
         return _idx
 
     def add_word(self, word: str):
-        if word not in self._vocab_indices:
+        if word in self._vocab_indices:
+            return self
+
+        for n in set(self.n_list):
+            n_gram_index = self.n_gram_indices.setdefault(n, dict())
             word_index = self._resolve_word_index(word)
-            n_gram_counter = Counter(text_n_grams(f'^{word}$', n=self.n))
+            n_gram_counter = Counter(text_n_grams(f'^{word}$', n=n))
             denominator = sum(count ** 2 for count in n_gram_counter.values()) ** 0.5
-            for n_gram, count in Counter(text_n_grams(f'^{word}$', n=self.n)).most_common():
-                self.n_gram_index.setdefault(n_gram, []).append((word_index, count / denominator))
+            for n_gram, count in n_gram_counter.most_common():
+                n_gram_index.setdefault(n_gram, []).append((word_index, count / denominator))
 
         return self
 
-    def lookup(self, word: str, top_k: Optional[int] = None):
-        n_gram_counter = Counter(text_n_grams(f'^{word}$', n=self.n))
-        denominator = sum(count ** 2 for count in n_gram_counter.values()) ** 0.5
+    def lookup(self, word: str, top_k: Optional[int] = None, dim=1):
+        matches: Dict[int, List[float]] = dict()
+        for n_idx, n in enumerate(self.n_list):
+            n_gram_counter = Counter(text_n_grams(f'^{word}$', n=n))
+            denominator = sum(count ** 2 for count in n_gram_counter.values()) ** 0.5
+            for n_gram, count in n_gram_counter.most_common():
+                for word_index, norm_count in self.n_gram_indices[n].get(n_gram, []):
+                    word_scores = matches.setdefault(word_index, [0 for _ in range(len(self.n_list))])
+                    word_scores[n_idx] += norm_count * (count / denominator)
 
-        matches = Counter()
-        for n_gram, count in Counter(text_n_grams(f'^{word}$', n=self.n)).most_common():
-            for word_index, norm_count in self.n_gram_index.get(n_gram, []):
-                matches[word_index] += norm_count * (count / denominator)
+        c = Counter({word_index: (sum(x ** dim for x in scores) / len(scores)) ** (1 / dim)
+                     for word_index, scores in matches.items()})
 
         if top_k is None:
             top_k = len(matches)
-        return [(self.vocabulary[word_index], round(match_score, 3)) for word_index, match_score in matches.most_common(top_k)]
+        return [(self.vocabulary[word_index], round(match_score, 3)) for word_index, match_score in
+                c.most_common(top_k)]
 
 
 if __name__ == '__main__':
     with open('dictionaries/words_ms.txt', encoding='utf8') as f:
         words = set(f.read().split())
 
-    wl_1 = ApproxWordList(1)
+    wl_1 = ApproxWordList((2, 3, 4))
     for word in words:
         wl_1.add_word(word)
 
-    wl_2 = ApproxWordList(2)
+    wl_2 = ApproxWordList((2,))
     for word in words:
         wl_2.add_word(word)
 
-    wl_3 = ApproxWordList(3)
+    wl_3 = ApproxWordList((3,))
     for word in words:
         wl_3.add_word(word)
 
-    wl_4 = ApproxWordList(4)
+    wl_4 = ApproxWordList((4,))
     for word in words:
         wl_4.add_word(word)
 
     with open('dictionaries/words_en.txt', encoding='utf8') as f:
         words = set(f.read().split())
 
-    wl2_1 = ApproxWordList(1)
+    wl2_1 = ApproxWordList((2, 3, 4))
     for word in words:
         wl2_1.add_word(word)
 
-    wl2_2 = ApproxWordList(2)
+    wl2_2 = ApproxWordList((2,))
     for word in words:
         wl2_2.add_word(word)
 
-    wl2_3 = ApproxWordList(3)
+    wl2_3 = ApproxWordList((3,))
     for word in words:
         wl2_3.add_word(word)
 
-    wl2_4 = ApproxWordList(4)
+    wl2_4 = ApproxWordList((4,))
     for word in words:
         wl2_4.add_word(word)
 
