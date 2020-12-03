@@ -558,10 +558,13 @@ class MultiCharSet:
         return json.dumps(out, indent=4, ensure_ascii=False)
 
 
-if __name__ == '__main__':
-    mcs = MultiCharSet.from_json('iso15924/char_scripts_4.json')
+@dataclass
+class Dictionary:
+    # vocabulary: word <-> word_index
+    vocabulary: List[str] = field(default_factory=list)  # word_index -> word
+    _vocab_indices: Dict[str, int] = field(default_factory=dict)  # word -> word_index
 
-    i = mcs.build_index()
-    print(i.lookup_char('h'))
-    print(i.lookup_union('hello'))
-    print(i.lookup_intersection('hello'))
+    # terms and definitions are stored as sequences of words
+    keys: List[Tuple[int, ...]] = field(default_factory=list)
+    values: List[Tuple[int, ...]] = field(default_factory=list)
+
