@@ -3,12 +3,12 @@ from typing import Optional
 
 from nltk.classify import textcat
 
-from language_identification.iso639_3 import iso639_3_2
+from language_identification.iso639_3 import iso639_2_1
 from language_identification.preprocessing import check_languages
 from language_identification.preprocessing import clean_text
 
 textcat_model = textcat.TextCat()
-SUPPORTED_LANGUAGES = sorted(iso639_3_2.get(lang, lang) for lang in
+SUPPORTED_LANGUAGES = sorted(iso639_2_1.get(lang, lang) for lang in
                              ['abk', 'abn', 'ace', 'ach', 'acu', 'ada', 'afr', 'agr', 'aja', 'aka',
                               'ako', 'alt', 'amc', 'ame', 'amh', 'ami', 'amr', 'arg', 'ang', 'arb',
                               'arl', 'arn', 'asm', 'ast', 'ava', 'ayr', 'azj', 'bak', 'bcc', 'ban',
@@ -59,7 +59,7 @@ def detect_language(text: str, language_codes: Optional[Iterable[str]] = None):
     language_codes = check_languages(language_codes, SUPPORTED_LANGUAGES)
 
     results = [(lang, 1 / dist) for lang, dist in textcat_model.lang_dists(clean_text(text)).items()]
-    results = [(iso639_3_2[lang], prob) for lang, prob in results if lang in iso639_3_2]
+    results = [(iso639_2_1[lang], prob) for lang, prob in results if lang in iso639_2_1]
     normalize_constant = sum(prob for lang, prob in results)
     results = [(lang, prob / normalize_constant) for lang, prob in results]
     results = sorted(results, key=lambda x: x[1], reverse=True)

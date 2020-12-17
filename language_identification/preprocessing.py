@@ -3,6 +3,8 @@ import warnings
 from typing import Iterable
 from typing import List
 from typing import Optional
+from typing import Set
+from typing import Union
 
 import utils
 
@@ -25,9 +27,9 @@ def clean_text(text: str):
     return text
 
 
-def check_languages(specified_languages: Optional[Iterable[str]], supported_languages: List[str]):
+def check_languages(specified_languages: Optional[Iterable[str]], supported_languages: Union[List[str], Set[str]]):
     if not specified_languages:
-        return supported_languages
+        return sorted(supported_languages)
 
     _language_codes = set()
     if not isinstance(specified_languages, Iterable):
