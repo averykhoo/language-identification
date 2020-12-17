@@ -34,10 +34,13 @@ _CHARSET_INDEX = load('scripts.json')
 SUPPORTED_LANGUAGES = sorted(_CHARSET_INDEX.charsets_names)
 
 
+# todo: probabilities should be exponential not linear
 def detect_language(text: str, language_codes: Optional[Iterable[str]] = None) -> List[Tuple[str, float]]:
     language_codes = set(check_languages(language_codes, SUPPORTED_LANGUAGES))
     out = []
     total = 0
+
+    # todo: iterate over Counter(text) to reduce duplicate lookups?
     for lang, fraction in _CHARSET_INDEX.lookup_fraction(text, True):
         if lang in language_codes:
             out.append((lang, fraction))
