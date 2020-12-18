@@ -93,8 +93,11 @@ class Dictionary:
         return out
 
     def lookup_definitions(self, text):
+        # normalize case and whitespace
+        text = ' '.join(text.strip().casefold().split())
+
         matches = Counter()
-        for word in unicode_tokenize(' '.join(text.strip().casefold().split())):
+        for word in unicode_tokenize(text):
             for word_index in self._casefold_indices.get(word, set()):
                 matches.update(self._def_indices[word_index])
 
