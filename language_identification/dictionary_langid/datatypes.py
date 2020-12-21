@@ -489,7 +489,7 @@ class ApproxWordList3:
         return Counter({word_index: (sum(x ** dim for x in scores) / len(scores)) ** (1 / dim)
                         for word_index, scores in matches.items()})
 
-    def lookup(self, word: str, top_k: Optional[int] = 10, dim: Union[int, float] = 1):
+    def lookup(self, word: str, top_k: int = 10, dim: Union[int, float] = 1):
         if not isinstance(word, str):
             raise TypeError(word)
         if len(word) == 0:
@@ -504,8 +504,8 @@ class ApproxWordList3:
         counter = self.__lookup(word, dim)
         _, top_score = counter.most_common(1)[0]
 
-        # return only top_k results if specified, otherwise return all results
-        if top_k is None:
+        # return only top_k results if specified (and non-zero), otherwise return all results
+        if not top_k or top_k < 0:
             top_k = len(counter)
 
         # also return edit distances for debugging
@@ -558,19 +558,19 @@ if __name__ == '__main__':
     for word in words:
         wl2_4.add_word(word)
 
-    # while True:
-    #     word = input('word:\n')
-    #     word = word.strip()
-    #     if not word:
-    #         break
-    #     # print('wl_1', wl_1.lookup(word))
-    #     # print('wl_2', wl_2.lookup(word))
-    #     # print('wl_3', wl_3.lookup(word))
-    #     print('wl_4', wl_4.lookup(word))
-    #     # print('wl2_1', wl2_1.lookup(word))
-    #     # print('wl2_2', wl2_2.lookup(word))
-    #     # print('wl2_3', wl2_3.lookup(word))
-    #     print('wl2_4', wl2_4.lookup(word))
+    print(wl_4.lookup('bananananaanananananana'))
+    print(wl2_4.lookup('bananananaanananananana'))
 
-    print(wl_4.lookup('hellllllo'))
-    print(wl2_4.lookup('hellllllo'))
+    while True:
+        word = input('word:\n')
+        word = word.strip()
+        if not word:
+            break
+        # print('wl_1', wl_1.lookup(word))
+        # print('wl_2', wl_2.lookup(word))
+        # print('wl_3', wl_3.lookup(word))
+        print('wl_4', wl_4.lookup(word))
+        # print('wl2_1', wl2_1.lookup(word))
+        # print('wl2_2', wl2_2.lookup(word))
+        # print('wl2_3', wl2_3.lookup(word))
+        print('wl2_4', wl2_4.lookup(word))
