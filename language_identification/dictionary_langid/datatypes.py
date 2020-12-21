@@ -1,11 +1,14 @@
 from collections import Counter
 from dataclasses import dataclass
 from dataclasses import field
+from functools import lru_cache
 from typing import Dict
+from typing import Iterable
 from typing import List
 from typing import Optional
 from typing import Set
 from typing import Tuple
+from typing import Union
 
 from tokenizer import text_n_grams
 from tokenizer import unicode_tokenize
@@ -202,28 +205,42 @@ class ApproxWordList:
                 c.most_common(top_k)]
 
 
+@lru_cache(maxsize=0xFFFF)
+def _emd_1d(locations_1: Tuple[float], locations_2: Tuple[float]) -> float:
+    if len(locations_1) == len(locations_2):
+        return sum(abs(l1 - l2) for l1, l2 in zip(locations_1, locations_2))
+
+    elif len(locations_2) == 1:
+        return len(locations_1) - 1 + min(abs(l1 - locations_2[0]) for l1 in locations_1)
+
+    else:
+        # noinspection PyTypeChecker
+        return 1 + min(_emd_1d(locations_1[:i] + locations_1[i + 1:], locations_2) for i in range(len(locations_1)))
+
+
 def emd_1d(locations_1: List[float], locations_2: List[float]) -> float:
     """
     distance needed to move
     """
-    locations_1 = sorted(locations_1)
-    locations_2 = sorted(locations_2)
-
     assert all(0 <= x <= 1 for x in locations_1)
     assert all(0 <= x <= 1 for x in locations_2)
 
-    if len(locations_1) < len(locations_2):
-        return emd_1d(locations_2, locations_1)
+    len_l1 = len(locations_1)
+    len_l2 = len(locations_2)
 
-    elif len(locations_2) == 0:
-        return len(locations_1)
+    if len_l1 < len_l2:
+        len_l1, len_l2 = len_l2, len_l1
+        locations_1, locations_2 = locations_2, locations_1
 
-    elif len(locations_1) == len(locations_2):
-        # return sum((1 - 2 ** (-abs(l1 - l2) / max(locations_2))) for l1, l2 in zip(locations_1, locations_2))
-        return sum(abs(l1 - l2) for l1, l2 in zip(locations_1, locations_2))
+    # empty list, so just count the l1 items
+    if len_l2 == 0:
+        return len_l1
 
-    else:
-        return 1 + min(emd_1d(locations_1[:i] + locations_1[i + 1:], locations_2) for i in range(len(locations_1)))
+    # only one item, so take min distance and count the rest of the l1 items
+    if len_l2 == 1:
+        return min(abs(l1 - locations_2[0]) for l1 in locations_1) + len_l1 - 1
+
+    return _emd_1d(tuple(sorted(locations_1)), tuple(sorted(locations_2)))
 
 
 def dameraulevenshtein(seq1, seq2):
@@ -337,59 +354,223 @@ class ApproxWordList2:
 
         if top_k is None:
             top_k = len(matches)
-        return [(self.vocabulary[word_index], round(match_score, 3), dameraulevenshtein(word, self.vocabulary[word_index])) for word_index, match_score in
-                c.most_common(top_k)]
+        return [
+            (self.vocabulary[word_index], round(match_score, 3), dameraulevenshtein(word, self.vocabulary[word_index]))
+            for word_index, match_score in
+            c.most_common(top_k)]
+
+
+def levenshteinDistance(s1, s2):
+    if len(s1) > len(s2):
+        s1, s2 = s2, s1
+
+    distances = range(len(s1) + 1)
+    for i2, c2 in enumerate(s2):
+        distances_ = [i2 + 1]
+        for i1, c1 in enumerate(s1):
+            if c1 == c2:
+                distances_.append(distances[i1])
+            else:
+                distances_.append(1 + min((distances[i1], distances[i1 + 1], distances_[-1])))
+        distances = distances_
+    return distances[-1]
+
+
+class ApproxWordList3:
+    def __init__(self, n: Union[int, Iterable[int]] = (2, 4), case_sensitive: bool = False):
+        if isinstance(n, int):
+            self.__n_list = (n,)
+        elif isinstance(n, Iterable):
+            self.__n_list = tuple(n)
+        else:
+            raise TypeError(n)
+
+        # vocabulary: word <-> word_index
+        self.__vocabulary: List[str] = []  # word_index -> word
+        self.__vocab_indices: Dict[str, int] = dict()  # word -> word_index
+
+        # n-gram index (normalized vectors): n_gram -> [(word_index, (loc, loc, ...)), ...]
+        self.__n_gram_indices: Dict[str, List[Tuple[int, Tuple[float, ...]]]] = dict()
+
+        # case sensitivity
+        if not isinstance(case_sensitive, (bool, int)):
+            raise TypeError(case_sensitive)
+        self.__case_insensitive = not case_sensitive
+
+    @property
+    def vocabulary(self) -> List[str]:
+        return sorted(self.vocabulary)
+
+    def _resolve_word_index(self, word: str, auto_add=True) -> Optional[int]:
+        if not isinstance(word, str):
+            raise TypeError(word)
+        if len(word) == 0:
+            raise ValueError(word)
+
+        # a bit like lowercase, but more consistent for arbitrary unicode
+        if self.__case_insensitive:
+            word = word.casefold()
+
+        # return if known word
+        if word in self.__vocab_indices:
+            return self.__vocab_indices[word]
+
+        # do we want to add it to the vocabulary
+        if not auto_add:
+            return None
+
+        # add unknown word
+        _idx = self.__vocab_indices[word] = len(self.__vocabulary)
+        self.__vocabulary.append(word)
+
+        # double-check invariants before returning
+        assert len(self.__vocab_indices) == len(self.__vocabulary) == _idx + 1
+        assert self.__vocabulary[_idx] == word, (self.__vocabulary[_idx], word)  # check race condition
+        return _idx
+
+    def add_word(self, word: str):
+        if not isinstance(word, str):
+            raise TypeError(word)
+        if len(word) == 0:
+            raise ValueError(word)
+
+        if self.__case_insensitive:
+            word = word.casefold()
+
+        # already contained, nothing to add
+        if word in self.__vocab_indices:
+            return self
+
+        # i'll be using the STX and ETX control chars as START_TEXT and END_TEXT flags
+        assert '\2' not in word and '\3' not in word, word
+
+        word_index = self._resolve_word_index(word)
+
+        for n in set(self.__n_list):
+            if n > 1:
+                # add START_TEXT and END_TEXT flags
+                n_grams = [f'\2{word}\3'[i:i + n] for i in range(len(word) - n + 3)]
+            else:
+                # do not add START_TEXT and END_TEXT flags for 1-grams
+                n_grams = list(word)
+
+            n_gram_locations = dict()  # n_gram -> [loc, loc, ...]
+            if len(n_grams) > 1:
+                for idx, n_gram in enumerate(n_grams):
+                    n_gram_locations.setdefault(n_gram, []).append(idx / (len(n_grams) - 1))
+            elif n_grams:
+                n_gram_locations.setdefault(n_grams[0], []).append(0)
+
+            for n_gram, locations in n_gram_locations.items():
+                self.__n_gram_indices.setdefault(n_gram, []).append((word_index, tuple(locations)))
+
+        return self
+
+    def __lookup(self, word: str, dim: Union[int, float] = 1) -> Counter:
+        # count matching n-grams
+        matches: Dict[int, List[float]] = dict()
+        for n_idx, n in enumerate(self.__n_list):
+            n_grams = [f'\2{word}\3'[i:i + n] for i in range(len(word) - n + 3)]
+            n_gram_locations = dict()
+            for idx, n_gram in enumerate(n_grams):
+                n_gram_locations.setdefault(n_gram, []).append(idx / (len(n_grams) - 1))
+
+            for n_gram, locations in n_gram_locations.items():
+                for other_word_index, other_locations in self.__n_gram_indices.get(n_gram, []):
+                    word_scores = matches.setdefault(other_word_index, [0 for _ in range(len(self.__n_list))])
+                    word_scores[n_idx] += max(len(locations), len(other_locations)) - emd_1d(locations, other_locations)
+
+        # normalize scores
+        for other_word_index, word_scores in matches.items():
+            norm_scores = [word_scores[n_idx] / (len(word) - n + 3) for n_idx, n in enumerate(self.__n_list)]
+            matches[other_word_index] = norm_scores
+
+        # average the similarity scores
+        return Counter({word_index: (sum(x ** dim for x in scores) / len(scores)) ** (1 / dim)
+                        for word_index, scores in matches.items()})
+
+    def lookup(self, word: str, top_k: Optional[int] = 10, dim: Union[int, float] = 1):
+        if not isinstance(word, str):
+            raise TypeError(word)
+        if len(word) == 0:
+            raise ValueError(word)
+
+        if self.__case_insensitive:
+            word = word.casefold()
+
+        assert '\2' not in word and '\3' not in word, word
+
+        # average the similarity scores
+        counter = self.__lookup(word, dim)
+        _, top_score = counter.most_common(1)[0]
+
+        # return only top_k results if specified, otherwise return all results
+        if top_k is None:
+            top_k = len(counter)
+
+        # also return edit distances for debugging
+        out = [(self.__vocabulary[word_index], round(match_score, 3),
+                dameraulevenshtein(word, self.__vocabulary[word_index]),
+                levenshteinDistance(word, self.__vocabulary[word_index]),
+                )
+               for word_index, match_score in counter.most_common(top_k * 2)
+               if (match_score >= top_score * 0.9) or dameraulevenshtein(word, self.__vocabulary[word_index]) <= 1]
+
+        return out[:top_k]
 
 
 if __name__ == '__main__':
     with open('../../dictionaries/words_ms.txt', encoding='utf8') as f:
         words = set(f.read().split())
+    #
+    # wl_1 = ApproxWordList3((1, 2, 3, 4))
+    # for word in words:
+    #     wl_1.add_word(word)
+    #
+    # wl_2 = ApproxWordList3((2, 3, 4))
+    # for word in words:
+    #     wl_2.add_word(word)
+    #
+    # wl_3 = ApproxWordList3((3, 4))
+    # for word in words:
+    #     wl_3.add_word(word)
 
-    wl_1 = ApproxWordList2((1, 2, 3, 4))
-    for word in words:
-        wl_1.add_word(word)
-
-    wl_2 = ApproxWordList2((2, 3, 4))
-    for word in words:
-        wl_2.add_word(word)
-
-    wl_3 = ApproxWordList2((3, 4))
-    for word in words:
-        wl_3.add_word(word)
-
-    wl_4 = ApproxWordList2((2, 4))
+    wl_4 = ApproxWordList3((2, 4))
     for word in words:
         wl_4.add_word(word)
 
     with open('../../dictionaries/words_en.txt', encoding='utf8') as f:
         words = set(f.read().split())
 
-    wl2_1 = ApproxWordList2((1, 2, 3, 4))
-    for word in words:
-        wl2_1.add_word(word)
+    # wl2_1 = ApproxWordList3((1, 2, 3, 4))
+    # for word in words:
+    #     wl2_1.add_word(word)
+    #
+    # wl2_2 = ApproxWordList3((2, 3, 4))
+    # for word in words:
+    #     wl2_2.add_word(word)
+    #
+    # wl2_3 = ApproxWordList3((3, 4))
+    # for word in words:
+    #     wl2_3.add_word(word)
 
-    wl2_2 = ApproxWordList2((2, 3, 4))
-    for word in words:
-        wl2_2.add_word(word)
-
-    wl2_3 = ApproxWordList2((3, 4))
-    for word in words:
-        wl2_3.add_word(word)
-
-    wl2_4 = ApproxWordList2((2, 4))
+    wl2_4 = ApproxWordList3((2, 4))
     for word in words:
         wl2_4.add_word(word)
 
-    while True:
-        word = input('word:\n')
-        word = word.strip()
-        if not word:
-            break
-        print('wl_1', wl_1.lookup(word, 10))
-        print('wl_2', wl_2.lookup(word, 10))
-        print('wl_3', wl_3.lookup(word, 10))
-        print('wl_4', wl_4.lookup(word, 10))
-        print('wl2_1', wl2_1.lookup(word, 10))
-        print('wl2_2', wl2_2.lookup(word, 10))
-        print('wl2_3', wl2_3.lookup(word, 10))
-        print('wl2_4', wl2_4.lookup(word, 10))
+    # while True:
+    #     word = input('word:\n')
+    #     word = word.strip()
+    #     if not word:
+    #         break
+    #     # print('wl_1', wl_1.lookup(word))
+    #     # print('wl_2', wl_2.lookup(word))
+    #     # print('wl_3', wl_3.lookup(word))
+    #     print('wl_4', wl_4.lookup(word))
+    #     # print('wl2_1', wl2_1.lookup(word))
+    #     # print('wl2_2', wl2_2.lookup(word))
+    #     # print('wl2_3', wl2_3.lookup(word))
+    #     print('wl2_4', wl2_4.lookup(word))
+
+    print(wl_4.lookup('hellllllo'))
+    print(wl2_4.lookup('hellllllo'))
