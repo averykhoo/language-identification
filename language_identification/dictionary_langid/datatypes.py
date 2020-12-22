@@ -221,6 +221,7 @@ def _emd_1d(locations_1: Tuple[float], locations_2: Tuple[float]) -> float:
 def emd_1d(locations_1: List[float], locations_2: List[float]) -> float:
     """
     distance needed to move
+    todo: optimize worst case
     """
     assert all(0 <= x <= 1 for x in locations_1)
     assert all(0 <= x <= 1 for x in locations_2)
@@ -870,4 +871,5 @@ if __name__ == '__main__':
     ]
     b = 'Schwarzenegger'
 
+    print(n_gram_emd('banana', 'bababananananananananannanananananananana'))
     print(n_gram_emd('banana', 'bababananananananananannanananananananana'))
