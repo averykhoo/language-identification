@@ -519,58 +519,355 @@ class ApproxWordList3:
         return out[:top_k]
 
 
+def n_gram_emd(word_1: str, word_2: str, n: int = 2):
+    """
+    optimized for readability, not speed
+    test cases: https://www.watercoolertrivia.com/blog/schwarzenegger
+    """
+
+    assert isinstance(word_1, str) and '\2' not in word_1 and '\3' not in word_1
+    assert isinstance(word_2, str) and '\2' not in word_2 and '\3' not in word_2
+    assert isinstance(n, int) and n >= 2
+
+    n_grams_1 = [f'\2{word_1}\3'[i:i + n] for i in range(len(word_1) - n + 3)]
+    n_grams_2 = [f'\2{word_2}\3'[i:i + n] for i in range(len(word_2) - n + 3)]
+
+    n_gram_locations_1 = dict()
+    for idx, n_gram in enumerate(n_grams_1):
+        n_gram_locations_1.setdefault(n_gram, []).append(idx / (len(n_grams_1) - 1))
+
+    n_gram_locations_2 = dict()
+    for idx, n_gram in enumerate(n_grams_2):
+        n_gram_locations_2.setdefault(n_gram, []).append(idx / (len(n_grams_2) - 1))
+
+    distance = 0
+    total = 0
+    for n_gram, locations in n_gram_locations_1.items():
+        total += len(locations)
+        if n_gram not in n_gram_locations_2:
+            distance += len(locations)
+    for n_gram, locations in n_gram_locations_2.items():
+        total += len(locations)
+        if n_gram not in n_gram_locations_1:
+            distance += len(locations)
+        else:
+            print(n_gram, locations, n_gram_locations_1[n_gram])
+            distance += emd_1d(locations, n_gram_locations_1[n_gram])
+
+    return distance, total
+
+
 if __name__ == '__main__':
-    with open('../../dictionaries/words_ms.txt', encoding='utf8') as f:
-        words = set(f.read().split())
+    # with open('../../dictionaries/words_ms.txt', encoding='utf8') as f:
+    #     words = set(f.read().split())
+    # #
+    # # wl_1 = ApproxWordList3((1, 2, 3, 4))
+    # # for word in words:
+    # #     wl_1.add_word(word)
+    # #
+    # # wl_2 = ApproxWordList3((2, 3, 4))
+    # # for word in words:
+    # #     wl_2.add_word(word)
+    # #
+    # # wl_3 = ApproxWordList3((3, 4))
+    # # for word in words:
+    # #     wl_3.add_word(word)
     #
-    # wl_1 = ApproxWordList3((1, 2, 3, 4))
+    # wl_4 = ApproxWordList3((2, 4))
     # for word in words:
-    #     wl_1.add_word(word)
+    #     wl_4.add_word(word)
     #
-    # wl_2 = ApproxWordList3((2, 3, 4))
-    # for word in words:
-    #     wl_2.add_word(word)
+    # with open('../../dictionaries/words_en.txt', encoding='utf8') as f:
+    #     words = set(f.read().split())
     #
-    # wl_3 = ApproxWordList3((3, 4))
-    # for word in words:
-    #     wl_3.add_word(word)
-
-    wl_4 = ApproxWordList3((2, 4))
-    for word in words:
-        wl_4.add_word(word)
-
-    with open('../../dictionaries/words_en.txt', encoding='utf8') as f:
-        words = set(f.read().split())
-
-    # wl2_1 = ApproxWordList3((1, 2, 3, 4))
-    # for word in words:
-    #     wl2_1.add_word(word)
+    # # wl2_1 = ApproxWordList3((1, 2, 3, 4))
+    # # for word in words:
+    # #     wl2_1.add_word(word)
+    # #
+    # # wl2_2 = ApproxWordList3((2, 3, 4))
+    # # for word in words:
+    # #     wl2_2.add_word(word)
+    # #
+    # # wl2_3 = ApproxWordList3((3, 4))
+    # # for word in words:
+    # #     wl2_3.add_word(word)
     #
-    # wl2_2 = ApproxWordList3((2, 3, 4))
+    # wl2_4 = ApproxWordList3((2, 4))
     # for word in words:
-    #     wl2_2.add_word(word)
+    #     wl2_4.add_word(word)
     #
-    # wl2_3 = ApproxWordList3((3, 4))
-    # for word in words:
-    #     wl2_3.add_word(word)
+    # print(wl_4.lookup('bananananaanananananana'))
+    # print(wl2_4.lookup('bananananaanananananana'))
+    #
+    # while True:
+    #     word = input('word:\n')
+    #     word = word.strip()
+    #     if not word:
+    #         break
+    #     # print('wl_1', wl_1.lookup(word))
+    #     # print('wl_2', wl_2.lookup(word))
+    #     # print('wl_3', wl_3.lookup(word))
+    #     print('wl_4', wl_4.lookup(word))
+    #     # print('wl2_1', wl2_1.lookup(word))
+    #     # print('wl2_2', wl2_2.lookup(word))
+    #     # print('wl2_3', wl2_3.lookup(word))
+    #     print('wl2_4', wl2_4.lookup(word))
+    a = [
+        'Schwartzenegger',
+        'Schwarzeneger',
+        'Schwarzenager',
+        'Schwartzenager',
+        'Schwartzeneger',
+        'Schwarzeneggar',
+        'Schwarzenneger',
+        'Swartzenegger',
+        'Swarzenegger',
+        'Schwarzenagger',
+        'Schwarznegger',
+        'Swartzenager',
+        'Schwarzanegger',
+        'Shwarzenegger',
+        'Schwartzenagger',
+        'Swartzeneger',
+        'Schwartznegger',
+        'Schwarzenegar',
+        'Shwartzenegger',
+        'Schwarzennegger',
+        'Schwarzennager',
+        'Schwartzanegger',
+        'Schwartzenneger',
+        'Schwarzanager',
+        'Schwarzengger',
+        'Schwarzennegar',
+        'Shwartzeneger',
+        'Schwartzeneggar',
+        'Schwarzneger',
+        'Schwarzneggar',
+        'Schwartzenegar',
+        'Schwartzneger',
+        'Schwazenegger',
+        'Shwartzenager',
+        'Swartzanegger',
+        'Swarzeneger',
+        'Swarzeneggar',
+        'Schwarenegger',
+        'Schwartzennager',
+        'Schwartzneggar',
+        'Shwarzeneger',
+        'Swartzeneggar',
+        'Swartznegger',
+        'Swarzenager',
+        'Swarzenagger',
+        'Scharzenegger',
+        'Schwarnegger',
+        'Schwartnegger',
+        'Schwartzanager',
+        'Schwartzaneger',
+        'Schwartzinager',
+        'Schwarzzenager',
+        'Shwarzenager',
+        'Swartzenagger',
+        'Swartzineger',
+        'Scharzeneger',
+        'Schwarnzenegger',
+        'Schwartenager',
+        'Schwartenegar',
+        'Schwarteneger',
+        'Schwartnegar',
+        'Schwartzanegar',
+        'Schwartzenger',
+        'Schwartzenggar',
+        'Schwartzineger',
+        'Schwartznager',
+        'Schwarzaneger',
+        'Schwarzaneggar',
+        'Schwarzanger',
+        'Schwarzenaeger',
+        'Schwarzeniger',
+        'Schwarzinager',
+        'Schwarznager',
+        'Schwarztenegger',
+        'Schwarzzeneger',
+        'Schwarzzenegger',
+        'Schwazenager',
+        'Schwazeneger',
+        'Scwartzenegger',
+        'Scwarzenegger',
+        'Shwartznegger',
+        'Shwarzenegar',
+        'Swarteneger',
+        'Swartzanager',
+        'Swartznager',
+        'Swartzneger',
+        'Swarzanegger',
+        'Swarzennager',
+        'Swarzenneger',
+        'Swazeneger',
+        'Schartzenager',
+        'Schartzennager',
+        'Schartznager',
+        'Scharwzeneger',
+        'Scharzenager',
+        'Schawarzneneger',
+        'Schawrknegger',
+        'Schazenegger',
+        'Schneckenger',
+        'Schrarznegger',
+        'Schrawzenneger',
+        'Schrwazeneggar',
+        'Schrwazenegger',
+        'Schrwtzanagger',
+        'Schsargdneger',
+        'Schwaranagger',
+        'Schwararzenegger',
+        'Schwarezenegger',
+        'Schwarganzer',
+        'Schwarnznegar',
+        'Schwarsanegger',
+        'Schwarsenagger',
+        'Schwarsnegger',
+        'Schwartaneger',
+        'Schwartenagger',
+        'Schwartenegger',
+        'Schwartenneger',
+        'Schwarterneger',
+        'Schwartineger',
+        'Schwartnager',
+        'Schwartnehar',
+        'Schwartsaneger',
+        'Schwartsinager',
+        'Schwartzaneggar',
+        'Schwartzanger',
+        'Schwartzeiojaweofjaweneger',
+        'Schwartzenagar',
+        'Schwartzenegget',
+        'Schwartzeneiger',
+        'Schwartzengar',
+        'Schwartzenkangaroo',
+        'Schwartzennegar',
+        'Schwartzinagger',
+        'Schwartzinegar',
+        'Schwartziniger',
+        'Schwartznagger',
+        'Schwartznegar',
+        'Schwarz',
+        'Schwarzamegger',
+        'Schwarzanagger',
+        'Schwarzatwizzler',
+        'Schwarzeggar',
+        'Schwarzegger',
+        'Schwarzenaega',
+        'Schwarzenagher',
+        'Schwarzeneeger',
+        'Schwarzenegor',
+        'Schwarzenenergy',
+        'Schwarzengeggar',
+        'Schwarzgenar',
+        'Schwarzinagger',
+        'Schwarzineggar',
+        'Schwarztenegar',
+        'Schwarzzanager',
+        'Schwatzeneggar',
+        'Schwatzenneger',
+        'Schwazenaeger',
+        'Schwazenegrr',
+        'Schwazerneger',
+        'Schwazinager',
+        'Schwaznagger',
+        'Schwazneger',
+        'Schwaznnager',
+        'Schwazzeneger',
+        'Schwazzenger',
+        'Schwazzinager',
+        'Schzwarnegger',
+        'Scwarrzenegger',
+        'Scwarzenager',
+        'Scwarzeneggar',
+        'Scwarzenneger',
+        'Scwharzanegger',
+        'Scwharzeneggar',
+        'Shwarsneger',
+        'Shwartaneger',
+        'Shwarteneger',
+        'Shwartinznegar',
+        'Shwartnierger',
+        'Shwartsnagger',
+        'Shwartzanager',
+        'Shwartzanegar',
+        'Shwartzaneger',
+        'Shwartzanegger',
+        'Shwartzenagor',
+        'Shwartzeneggar',
+        'Shwartzengar',
+        'Shwartzennegar',
+        'Shwartzganeger',
+        'Shwartznager',
+        'Shwartzneger',
+        'Shwarzanegger',
+        'Shwarzenagger',
+        'Shwarzenneger',
+        'Shwarznager',
+        'Shwaztsinager',
+        'Swarchneger',
+        'Swarchzinager',
+        'Swarchznegger',
+        'Swartenager',
+        'Swartenegger',
+        'Swartenzager',
+        'Swartiznager',
+        'Swartschenager',
+        'Swartseneger',
+        'Swartseneggar',
+        'Swartsenenger',
+        'Swartshanaiger',
+        'Swarttenegger',
+        'Swartz.',
+        'Swartzanagger',
+        'Swartzaneger',
+        'Swartzanegga',
+        'Swartzeigner',
+        'Swartzenagar',
+        'Swartzeneagar',
+        'Swartzenegar',
+        'Swartzenegher',
+        'Swartzengger',
+        'Swartzennager',
+        'Swartzennegar',
+        'Swartzenneger',
+        'Swartzerniger',
+        'Swartzinager',
+        'Swartzineggar',
+        'Swartznagger',
+        'Swartznegar',
+        'Swartzneggar',
+        'Swarzenaeger',
+        'Swarzenaggar',
+        'Swarzenaider',
+        'Swarzengger',
+        'Swarzneger',
+        'Swarznegger',
+        'Swarzshnegger',
+        'Swarzzeneggar',
+        'Swarzzenegger',
+        'Swatgnezzer',
+        'Swatz..',
+        'Swatzinagger',
+        'Swazenegger',
+        'Swazernager',
+        'Swchwartzignegeridknga',
+        'Swchwazaneger',
+        'Swertizager',
+        'Swertzeneggar',
+        'Swhartznegar',
+        'Switzenagger',
+        'Swiztinager',
+        'Swuartzenegar',
+        'Schwartzanagger',
+        'Schwartzennnnnnn',
+        'Schwarzenger',
+        'Swartasenegger',
+        'Swazenegar',
+    ]
+    b = 'Schwarzenegger'
 
-    wl2_4 = ApproxWordList3((2, 4))
-    for word in words:
-        wl2_4.add_word(word)
-
-    print(wl_4.lookup('bananananaanananananana'))
-    print(wl2_4.lookup('bananananaanananananana'))
-
-    while True:
-        word = input('word:\n')
-        word = word.strip()
-        if not word:
-            break
-        # print('wl_1', wl_1.lookup(word))
-        # print('wl_2', wl_2.lookup(word))
-        # print('wl_3', wl_3.lookup(word))
-        print('wl_4', wl_4.lookup(word))
-        # print('wl2_1', wl2_1.lookup(word))
-        # print('wl2_2', wl2_2.lookup(word))
-        # print('wl2_3', wl2_3.lookup(word))
-        print('wl2_4', wl2_4.lookup(word))
+    print(n_gram_emd('banana', 'bababananananananananannanananananananana'))
