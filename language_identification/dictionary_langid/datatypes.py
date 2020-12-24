@@ -218,30 +218,40 @@ def _emd_1d(locations_1: Tuple[float], locations_2: Tuple[float]) -> float:
         return 1 + min(_emd_1d(locations_1[:i] + locations_1[i + 1:], locations_2) for i in range(len(locations_1)))
 
 
-def emd_1d(locations_1: List[float], locations_2: List[float]) -> float:
+def emd_1d(locations_x: List[float], locations_y: List[float]) -> float:
     """
     distance needed to move
     todo: optimize worst case
     """
-    assert all(0 <= x <= 1 for x in locations_1)
-    assert all(0 <= x <= 1 for x in locations_2)
+    assert all(0 <= x <= 1 for x in locations_x)
+    assert all(0 <= x <= 1 for x in locations_y)
 
-    len_l1 = len(locations_1)
-    len_l2 = len(locations_2)
-
-    if len_l1 < len_l2:
-        len_l1, len_l2 = len_l2, len_l1
-        locations_1, locations_2 = locations_2, locations_1
+    # locations_1 will be the longer list
+    if len(locations_x) < len(locations_y):
+        locations_x, locations_y = locations_y, locations_x
 
     # empty list, so just count the l1 items
-    if len_l2 == 0:
-        return len_l1
+    if len(locations_y) == 0:
+        return len(locations_x)
+
+    # todo: greedy-match points with only one possible match (at the start/end of locations_y)
+    # [y1 x1 ...]       ==> y1 -> x1
+    # [y1 y2 x1 x2 ...] ==> y1, y2 -> x1, x2 (order doesn't matter)
+    # [... x9 y3]       ==> y3 -> x9
+
+    # todo: remove all suboptimal points from locations_1
+    # backward and forward pass
+    # might need to treat it as a bipartite graph, but ordered in one dimension
+
+    # todo: greedy-match unshared points
+    # [x1 y1 ... x2 ...]       ==> if x1y1 < y1x2, then y1 -> x1
+    # [... x3 x4 y1 x5 x6 ...] ==> y1 can only match x4 or x5 (assuming there are no y-chains)
 
     # only one item, so take min distance and count the rest of the l1 items
-    if len_l2 == 1:
-        return min(abs(l1 - locations_2[0]) for l1 in locations_1) + len_l1 - 1
+    if len(locations_y) == 1:
+        return min(abs(l1 - locations_y[0]) for l1 in locations_x) + len(locations_x) - 1
 
-    return _emd_1d(tuple(sorted(locations_1)), tuple(sorted(locations_2)))
+    return _emd_1d(tuple(sorted(locations_x)), tuple(sorted(locations_y)))
 
 
 def dameraulevenshtein(seq1, seq2):
