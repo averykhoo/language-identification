@@ -230,18 +230,24 @@ def emd_1d(locations_x: List[float], locations_y: List[float]) -> float:
     if len(locations_x) < len(locations_y):
         locations_x, locations_y = locations_y, locations_x
 
+    # todo: greedy-match constrained points with only one possible match (at the start/end of locations_y)
+    # [y1 x1 ...]       ==> y1 -> x1
+    # [y1 y2 x1 x2 ...] ==> y1, y2 -> x1, x2 (order doesn't matter)
+    # [... x9 y3]       ==> y3 -> x9
+    while locations_y[0] <= locations_x[0]:
+        pass
+    while locations_y[-1] >= locations_x[-1]:
+        pass
+
     # empty list, so just count the l1 items
     if len(locations_y) == 0:
         return len(locations_x)
 
-    # todo: greedy-match points with only one possible match (at the start/end of locations_y)
-    # [y1 x1 ...]       ==> y1 -> x1
-    # [y1 y2 x1 x2 ...] ==> y1, y2 -> x1, x2 (order doesn't matter)
-    # [... x9 y3]       ==> y3 -> x9
-
-    # todo: remove all suboptimal points from locations_1
+    # todo: build the bipartite graph
     # backward and forward pass
-    # might need to treat it as a bipartite graph, but ordered in one dimension
+
+    # todo: remove all unmatchable points from the graph
+    # [y1 x1 x2 x3 y2] ==> x2 can never be matched
 
     # todo: greedy-match unshared points
     # [x1 y1 ... x2 ...]       ==> if x1y1 < y1x2, then y1 -> x1
