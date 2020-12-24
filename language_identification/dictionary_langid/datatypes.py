@@ -235,6 +235,7 @@ def emd_1d(locations_x: List[float], locations_y: List[float]) -> float:
     # [y1 y2 x1 x2 ...] ==> y1, y2 -> x1, x2 (order doesn't matter)
     # [... x9 y3]       ==> y3 -> x9
     while locations_y[0] <= locations_x[0]:
+        # handle list re-init cost somehow
         pass
     while locations_y[-1] >= locations_x[-1]:
         pass
