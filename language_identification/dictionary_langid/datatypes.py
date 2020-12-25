@@ -295,7 +295,6 @@ def emd_1d_fast(locations_x: List[float], locations_y: List[float]) -> float:
 
 
 def emd_1d_slow(locations_x: List[float], locations_y: List[float]) -> float:
-
     # locations_1 will be the longer list
     if len(locations_x) < len(locations_y):
         return emd_1d_slow(locations_y, locations_x)
@@ -313,7 +312,7 @@ def emd_1d(locations_x: List[float], locations_y: List[float]) -> float:
 
     answer_1 = emd_1d_slow(locations_x, locations_y)
     answer_2 = emd_1d_fast(locations_x, locations_y)
-    assert answer_1 == answer_2
+    assert abs(answer_1 - answer_2) < 0.00001, (answer_2, answer_1)
     return answer_2
 
 
@@ -632,60 +631,61 @@ def n_gram_emd(word_1: str, word_2: str, n: int = 2):
 
 
 if __name__ == '__main__':
-    # with open('../../dictionaries/words_ms.txt', encoding='utf8') as f:
-    #     words = set(f.read().split())
-    # #
-    # # wl_1 = ApproxWordList3((1, 2, 3, 4))
-    # # for word in words:
-    # #     wl_1.add_word(word)
-    # #
-    # # wl_2 = ApproxWordList3((2, 3, 4))
-    # # for word in words:
-    # #     wl_2.add_word(word)
-    # #
-    # # wl_3 = ApproxWordList3((3, 4))
-    # # for word in words:
-    # #     wl_3.add_word(word)
+    with open('../../dictionaries/words_ms.txt', encoding='utf8') as f:
+        words = set(f.read().split())
     #
-    # wl_4 = ApproxWordList3((2, 4))
+    # wl_1 = ApproxWordList3((1, 2, 3, 4))
     # for word in words:
-    #     wl_4.add_word(word)
+    #     wl_1.add_word(word)
     #
-    # with open('../../dictionaries/words_en.txt', encoding='utf8') as f:
-    #     words = set(f.read().split())
-    #
-    # # wl2_1 = ApproxWordList3((1, 2, 3, 4))
-    # # for word in words:
-    # #     wl2_1.add_word(word)
-    # #
-    # # wl2_2 = ApproxWordList3((2, 3, 4))
-    # # for word in words:
-    # #     wl2_2.add_word(word)
-    # #
-    # # wl2_3 = ApproxWordList3((3, 4))
-    # # for word in words:
-    # #     wl2_3.add_word(word)
-    #
-    # wl2_4 = ApproxWordList3((2, 4))
+    # wl_2 = ApproxWordList3((2, 3, 4))
     # for word in words:
-    #     wl2_4.add_word(word)
+    #     wl_2.add_word(word)
     #
+    # wl_3 = ApproxWordList3((3, 4))
+    # for word in words:
+    #     wl_3.add_word(word)
+
+    wl_4 = ApproxWordList3((2, 4))
+    for word in words:
+        wl_4.add_word(word)
+
+    with open('../../dictionaries/words_en.txt', encoding='utf8') as f:
+        words = set(f.read().split())
+
+    # wl2_1 = ApproxWordList3((1, 2, 3, 4))
+    # for word in words:
+    #     wl2_1.add_word(word)
+    #
+    # wl2_2 = ApproxWordList3((2, 3, 4))
+    # for word in words:
+    #     wl2_2.add_word(word)
+    #
+    # wl2_3 = ApproxWordList3((3, 4))
+    # for word in words:
+    #     wl2_3.add_word(word)
+
+    wl2_4 = ApproxWordList3((2, 4))
+    for word in words:
+        wl2_4.add_word(word)
+
     # print(wl_4.lookup('bananananaanananananana'))
     # print(wl2_4.lookup('bananananaanananananana'))
-    #
-    # while True:
-    #     word = input('word:\n')
-    #     word = word.strip()
-    #     if not word:
-    #         break
-    #     # print('wl_1', wl_1.lookup(word))
-    #     # print('wl_2', wl_2.lookup(word))
-    #     # print('wl_3', wl_3.lookup(word))
-    #     print('wl_4', wl_4.lookup(word))
-    #     # print('wl2_1', wl2_1.lookup(word))
-    #     # print('wl2_2', wl2_2.lookup(word))
-    #     # print('wl2_3', wl2_3.lookup(word))
-    #     print('wl2_4', wl2_4.lookup(word))
+
+    while True:
+        word = input('word:\n')
+        word = word.strip()
+        if not word:
+            break
+        # print('wl_1', wl_1.lookup(word))
+        # print('wl_2', wl_2.lookup(word))
+        # print('wl_3', wl_3.lookup(word))
+        print('wl_4', wl_4.lookup(word))
+        # print('wl2_1', wl2_1.lookup(word))
+        # print('wl2_2', wl2_2.lookup(word))
+        # print('wl2_3', wl2_3.lookup(word))
+        print('wl2_4', wl2_4.lookup(word))
+
     a = [
         'Schwartzenegger',
         'Schwarzeneger',
