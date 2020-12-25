@@ -218,7 +218,7 @@ def _emd_1d(locations_1: Tuple[float], locations_2: Tuple[float]) -> float:
         return 1 + min(_emd_1d(locations_1[:i] + locations_1[i + 1:], locations_2) for i in range(len(locations_1)))
 
 
-def emd_1d(locations_x: List[float], locations_y: List[float]) -> float:
+def emd_1d_fast(locations_x: List[float], locations_y: List[float]) -> float:
     """
     distance needed to move
     todo: optimize worst case
@@ -230,19 +230,49 @@ def emd_1d(locations_x: List[float], locations_y: List[float]) -> float:
     if len(locations_x) < len(locations_y):
         locations_x, locations_y = locations_y, locations_x
 
-    # todo: greedy-match constrained points with only one possible match (at the start/end of locations_y)
-    # [y1 x1 ...]       ==> y1 -> x1
-    # [y1 y2 x1 x2 ...] ==> y1, y2 -> x1, x2 (order doesn't matter)
-    # [... x9 y3]       ==> y3 -> x9
-    while locations_y[0] <= locations_x[0]:
-        # handle list re-init cost somehow
-        pass
-    while locations_y[-1] >= locations_x[-1]:
-        pass
-
-    # empty list, so just count the l1 items
+    # empty list, so just count the l1 items and exit early
     if len(locations_y) == 0:
         return len(locations_x)
+
+    # only one item, so take min distance and count the rest of the l1 items
+    if len(locations_y) == 1:
+        return min(abs(l1 - locations_y[0]) for l1 in locations_x) + len(locations_x) - 1
+
+    # make a COPY of the list, sorted in reverse (descending order)
+    # we'll be modifying in-place later, and we don't want to update the input
+    locations_x = sorted(locations_x, reverse=True)
+    locations_y = sorted(locations_y, reverse=True)
+
+    # accumulated distance as we simplify the problem
+    acc = 0
+
+    # greedy-match constrained points with only one possible match (at the smaller end of locations_y)
+    while locations_y and locations_x:
+        if locations_y[-1] <= locations_x[-1]:
+            acc += locations_x.pop(-1) - locations_y.pop(-1)
+        elif len(locations_x) >= 2 and (locations_y[-1] - locations_x[-1]) <= (locations_x[-2] - locations_y[-1]):
+            acc += locations_y.pop(-1) - locations_x.pop(-1)
+        else:
+            break
+
+    # reverse both lists IN PLACE, so now they are sorted in ascending order
+    locations_x.reverse()
+    locations_y.reverse()
+
+    # greedy-match constrained points with only one possible match (at the larger end of locations_y)
+    while locations_y and locations_x:
+        if locations_y[-1] >= locations_x[-1]:
+            acc += locations_y.pop(-1) - locations_x.pop(-1)
+        elif len(locations_x) >= 2 and (locations_x[-1] - locations_y[-1]) <= (locations_y[-1] - locations_x[-2]):
+            acc += locations_x.pop(-1) - locations_y.pop(-1)
+        else:
+            break
+
+    # another chance to early exit
+    if len(locations_y) == 0:
+        return acc + len(locations_x)
+    if len(locations_y) == 1:
+        return acc + min(abs(l1 - locations_y[0]) for l1 in locations_x) + len(locations_x) - 1
 
     # todo: build the bipartite graph
     # backward and forward pass
@@ -254,11 +284,30 @@ def emd_1d(locations_x: List[float], locations_y: List[float]) -> float:
     # [x1 y1 ... x2 ...]       ==> if x1y1 < y1x2, then y1 -> x1
     # [... x3 x4 y1 x5 x6 ...] ==> y1 can only match x4 or x5 (assuming there are no y-chains)
 
-    # only one item, so take min distance and count the rest of the l1 items
-    if len(locations_y) == 1:
-        return min(abs(l1 - locations_y[0]) for l1 in locations_x) + len(locations_x) - 1
-
     return _emd_1d(tuple(sorted(locations_x)), tuple(sorted(locations_y)))
+
+
+def emd_1d_slow(locations_x: List[float], locations_y: List[float]) -> float:
+
+    # locations_1 will be the longer list
+    if len(locations_x) < len(locations_y):
+        return emd_1d_slow(locations_y, locations_x)
+
+    #
+    if len(locations_x) == len(locations_y):
+        return sum(abs(l1 - l2) for l1, l2 in zip(sorted(locations_x), sorted(locations_y)))
+
+    return 1 + min(emd_1d_slow(locations_x[:i] + locations_x[i + 1:], locations_y) for i in range(len(locations_x)))
+
+
+def emd_1d(locations_x: List[float], locations_y: List[float]) -> float:
+    assert all(0 <= x <= 1 for x in locations_x)
+    assert all(0 <= x <= 1 for x in locations_y)
+
+    answer_1 = emd_1d_slow(locations_x, locations_y)
+    answer_2 = emd_1d_fast(locations_x, locations_y)
+    assert answer_1 == answer_2
+    return answer_2
 
 
 def dameraulevenshtein(seq1, seq2):
@@ -888,5 +937,6 @@ if __name__ == '__main__':
     ]
     b = 'Schwarzenegger'
 
-    print(n_gram_emd('banana', 'bababananananananananannanananananananana'))
-    print(n_gram_emd('banana', 'bababananananananananannanananananananana'))
+    print(n_gram_emd('banana', 'bababanananananananana'))
+    print(n_gram_emd('banana', 'bababanananananananananna'))
+    # print(n_gram_emd('banana', 'bababananananananananannanananananananana'))
