@@ -268,6 +268,8 @@ def emd_1d_fast(locations_x: List[float], locations_y: List[float]) -> float:
         else:
             break
 
+    # todo: remove any matching points in x and y
+
     # another chance to early exit
     if len(locations_y) == 0:
         return acc + len(locations_x)
