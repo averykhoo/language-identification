@@ -277,12 +277,17 @@ def emd_1d_fast(locations_x: List[float], locations_y: List[float]) -> float:
     # todo: build the bipartite graph
     # backward and forward pass
 
-    # todo: remove all unmatchable points from the graph
-    # [y1 x1 x2 x3 y2] ==> x2 can never be matched
+    # todo: split into connected components
+    # this will remove all unmatchable points from the graph
+    # [x1 y1 x2 x3 x4 y2 x3] ==> [x1 y1 x2], [x4 y2 x5] (x3 can never be matched)
 
-    # todo: greedy-match unshared points
+    # todo: try to greedy-match unshared points for each component
     # [x1 y1 ... x2 ...]       ==> if x1y1 < y1x2, then y1 -> x1
     # [... x3 x4 y1 x5 x6 ...] ==> y1 can only match x4 or x5 (assuming there are no y-chains)
+    # if it succeeds, then remove the component
+
+    # todo: try to enumerate the options instead of recursing
+    # maybe use functools?
 
     return _emd_1d(tuple(sorted(locations_x)), tuple(sorted(locations_y)))
 
