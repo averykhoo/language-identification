@@ -1,3 +1,4 @@
+import itertools
 from collections import Counter
 from dataclasses import dataclass
 from dataclasses import field
@@ -301,7 +302,7 @@ def emd_1d_fast(locations_x: List[float], locations_y: List[float]) -> float:
     if len(locations_y) == 0:
         return acc + len(locations_x)
     if len(locations_y) == 1:
-        return acc + min(abs(l1 - locations_y[0]) for l1 in locations_x) + len(locations_x) - 1
+        return acc + min(abs(x - locations_y[0]) for x in locations_x) + len(locations_x) - 1
 
     # todo: build the bipartite graph
     # backward and forward pass
@@ -315,18 +316,18 @@ def emd_1d_fast(locations_x: List[float], locations_y: List[float]) -> float:
     # [... x3 x4 y1 x5 x6 ...] ==> y1 can only match x4 or x5 (assuming there are no y-chains)
     # if it succeeds, then remove the component
 
-    # todo: try to enumerate the options instead of recursing
-    # maybe use functools?
-
-    return _emd_1d(tuple(sorted(locations_x)), tuple(sorted(locations_y)))
+    # enumerate the options instead of recursing
+    acc += len(locations_x) - len(locations_y)
+    min_cost = len(locations_y)
+    for x_combination in itertools.combinations(locations_x, len(locations_y)):
+        min_cost = min(min_cost, sum(abs(x - y) for x, y in zip(x_combination, locations_y)))
+    return acc + min_cost
 
 
 def emd_1d_slow(locations_x: List[float], locations_y: List[float]) -> float:
-    # locations_1 will be the longer list
     if len(locations_x) < len(locations_y):
         return emd_1d_slow(locations_y, locations_x)
 
-    #
     if len(locations_x) == len(locations_y):
         return sum(abs(l1 - l2) for l1, l2 in zip(sorted(locations_x), sorted(locations_y)))
 
@@ -970,4 +971,5 @@ if __name__ == '__main__':
 
     print(n_gram_emd('banana', 'bababanananananananana'))
     print(n_gram_emd('banana', 'bababanananananananananna'))
+    print(n_gram_emd('banana', 'nanananananabababa'))
     # print(n_gram_emd('banana', 'bababananananananananannanananananananana'))
