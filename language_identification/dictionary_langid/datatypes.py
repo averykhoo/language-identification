@@ -223,8 +223,14 @@ def emd_1d_fast(locations_x: List[float], locations_y: List[float]) -> float:
     distance needed to move
     todo: optimize worst case
     """
+
+    # all inputs must be in the unit interval
     assert all(0 <= x <= 1 for x in locations_x)
     assert all(0 <= x <= 1 for x in locations_y)
+
+    # in our use case, there should be no duplicates in each list
+    assert len(locations_x) == len(set(locations_x))
+    assert len(locations_y) == len(set(locations_y))
 
     # locations_1 will be the longer list
     if len(locations_x) < len(locations_y):
@@ -268,7 +274,28 @@ def emd_1d_fast(locations_x: List[float], locations_y: List[float]) -> float:
         else:
             break
 
-    # todo: remove any matching points in x and y
+    # remove any matching points in x and y
+    new_x = []
+    new_y = []
+    locations_x.reverse()
+    locations_y.reverse()
+    while locations_x and locations_y:
+        if locations_x[-1] < locations_y[-1]:
+            new_x.append(locations_x.pop(-1))
+        elif locations_x[-1] > locations_y[-1]:
+            new_y.append(locations_y.pop(-1))
+        else:
+            # discard duplicate
+            locations_x.pop(-1)
+            locations_y.pop(-1)
+    if locations_x:
+        locations_x.reverse()
+        new_x.extend(locations_x)
+    if locations_y:
+        locations_y.reverse()
+        new_y.extend(locations_y)
+    locations_x = new_x
+    locations_y = new_y
 
     # another chance to early exit
     if len(locations_y) == 0:
@@ -307,9 +334,6 @@ def emd_1d_slow(locations_x: List[float], locations_y: List[float]) -> float:
 
 
 def emd_1d(locations_x: List[float], locations_y: List[float]) -> float:
-    assert all(0 <= x <= 1 for x in locations_x)
-    assert all(0 <= x <= 1 for x in locations_y)
-
     answer_1 = emd_1d_slow(locations_x, locations_y)
     answer_2 = emd_1d_fast(locations_x, locations_y)
     assert abs(answer_1 - answer_2) < 0.00001, (answer_2, answer_1)
