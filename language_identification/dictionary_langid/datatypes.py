@@ -1,3 +1,4 @@
+import itertools
 from collections import Counter
 from dataclasses import dataclass
 from dataclasses import field
@@ -218,47 +219,126 @@ def _emd_1d(locations_1: Tuple[float], locations_2: Tuple[float]) -> float:
         return 1 + min(_emd_1d(locations_1[:i] + locations_1[i + 1:], locations_2) for i in range(len(locations_1)))
 
 
-def emd_1d(locations_x: List[float], locations_y: List[float]) -> float:
+def emd_1d_fast(locations_x: List[float], locations_y: List[float]) -> float:
     """
     distance needed to move
     todo: optimize worst case
     """
+
+    # all inputs must be in the unit interval
     assert all(0 <= x <= 1 for x in locations_x)
     assert all(0 <= x <= 1 for x in locations_y)
+
+    # in our use case, there should be no duplicates in each list
+    assert len(locations_x) == len(set(locations_x))
+    assert len(locations_y) == len(set(locations_y))
 
     # locations_1 will be the longer list
     if len(locations_x) < len(locations_y):
         locations_x, locations_y = locations_y, locations_x
 
-    # todo: greedy-match constrained points with only one possible match (at the start/end of locations_y)
-    # [y1 x1 ...]       ==> y1 -> x1
-    # [y1 y2 x1 x2 ...] ==> y1, y2 -> x1, x2 (order doesn't matter)
-    # [... x9 y3]       ==> y3 -> x9
-    while locations_y[0] <= locations_x[0]:
-        # handle list re-init cost somehow
-        pass
-    while locations_y[-1] >= locations_x[-1]:
-        pass
-
-    # empty list, so just count the l1 items
+    # empty list, so just count the l1 items and exit early
     if len(locations_y) == 0:
         return len(locations_x)
-
-    # todo: build the bipartite graph
-    # backward and forward pass
-
-    # todo: remove all unmatchable points from the graph
-    # [y1 x1 x2 x3 y2] ==> x2 can never be matched
-
-    # todo: greedy-match unshared points
-    # [x1 y1 ... x2 ...]       ==> if x1y1 < y1x2, then y1 -> x1
-    # [... x3 x4 y1 x5 x6 ...] ==> y1 can only match x4 or x5 (assuming there are no y-chains)
 
     # only one item, so take min distance and count the rest of the l1 items
     if len(locations_y) == 1:
         return min(abs(l1 - locations_y[0]) for l1 in locations_x) + len(locations_x) - 1
 
-    return _emd_1d(tuple(sorted(locations_x)), tuple(sorted(locations_y)))
+    # make a COPY of the list, sorted in reverse (descending order)
+    # we'll be modifying in-place later, and we don't want to update the input
+    locations_x = sorted(locations_x, reverse=True)
+    locations_y = sorted(locations_y, reverse=True)
+
+    # accumulated distance as we simplify the problem
+    acc = 0
+
+    # greedy-match constrained points with only one possible match (at the smaller end of locations_y)
+    while locations_y and locations_x:
+        if locations_y[-1] <= locations_x[-1]:
+            acc += locations_x.pop(-1) - locations_y.pop(-1)
+        elif len(locations_x) >= 2 and (locations_y[-1] - locations_x[-1]) <= (locations_x[-2] - locations_y[-1]):
+            acc += locations_y.pop(-1) - locations_x.pop(-1)
+        else:
+            break
+
+    # reverse both lists IN PLACE, so now they are sorted in ascending order
+    locations_x.reverse()
+    locations_y.reverse()
+
+    # greedy-match constrained points with only one possible match (at the larger end of locations_y)
+    while locations_y and locations_x:
+        if locations_y[-1] >= locations_x[-1]:
+            acc += locations_y.pop(-1) - locations_x.pop(-1)
+        elif len(locations_x) >= 2 and (locations_x[-1] - locations_y[-1]) <= (locations_y[-1] - locations_x[-2]):
+            acc += locations_x.pop(-1) - locations_y.pop(-1)
+        else:
+            break
+
+    # remove any matching points in x and y
+    new_x = []
+    new_y = []
+    locations_x.reverse()
+    locations_y.reverse()
+    while locations_x and locations_y:
+        if locations_x[-1] < locations_y[-1]:
+            new_x.append(locations_x.pop(-1))
+        elif locations_x[-1] > locations_y[-1]:
+            new_y.append(locations_y.pop(-1))
+        else:
+            # discard duplicate
+            locations_x.pop(-1)
+            locations_y.pop(-1)
+    if locations_x:
+        locations_x.reverse()
+        new_x.extend(locations_x)
+    if locations_y:
+        locations_y.reverse()
+        new_y.extend(locations_y)
+    locations_x = new_x
+    locations_y = new_y
+
+    # another chance to early exit
+    if len(locations_y) == 0:
+        return acc + len(locations_x)
+    if len(locations_y) == 1:
+        return acc + min(abs(x - locations_y[0]) for x in locations_x) + len(locations_x) - 1
+
+    # todo: build the bipartite graph
+    # backward and forward pass
+
+    # todo: split into connected components
+    # this will remove all unmatchable points from the graph
+    # [x1 y1 x2 x3 x4 y2 x3] ==> [x1 y1 x2], [x4 y2 x5] (x3 can never be matched)
+
+    # todo: try to greedy-match unshared points for each component
+    # [x1 y1 ... x2 ...]       ==> if x1y1 < y1x2, then y1 -> x1
+    # [... x3 x4 y1 x5 x6 ...] ==> y1 can only match x4 or x5 (assuming there are no y-chains)
+    # if it succeeds, then remove the component
+
+    # enumerate the options instead of recursing
+    acc += len(locations_x) - len(locations_y)
+    min_cost = len(locations_y)
+    for x_combination in itertools.combinations(locations_x, len(locations_y)):
+        min_cost = min(min_cost, sum(abs(x - y) for x, y in zip(x_combination, locations_y)))
+    return acc + min_cost
+
+
+def emd_1d_slow(locations_x: List[float], locations_y: List[float]) -> float:
+    if len(locations_x) < len(locations_y):
+        return emd_1d_slow(locations_y, locations_x)
+
+    if len(locations_x) == len(locations_y):
+        return sum(abs(l1 - l2) for l1, l2 in zip(sorted(locations_x), sorted(locations_y)))
+
+    return 1 + min(emd_1d_slow(locations_x[:i] + locations_x[i + 1:], locations_y) for i in range(len(locations_x)))
+
+
+def emd_1d(locations_x: List[float], locations_y: List[float]) -> float:
+    answer_1 = emd_1d_slow(locations_x, locations_y)
+    answer_2 = emd_1d_fast(locations_x, locations_y)
+    assert abs(answer_1 - answer_2) < 0.00001, (answer_2, answer_1)
+    return answer_2
 
 
 def dameraulevenshtein(seq1, seq2):
@@ -576,60 +656,61 @@ def n_gram_emd(word_1: str, word_2: str, n: int = 2):
 
 
 if __name__ == '__main__':
-    # with open('../../dictionaries/words_ms.txt', encoding='utf8') as f:
-    #     words = set(f.read().split())
-    # #
-    # # wl_1 = ApproxWordList3((1, 2, 3, 4))
-    # # for word in words:
-    # #     wl_1.add_word(word)
-    # #
-    # # wl_2 = ApproxWordList3((2, 3, 4))
-    # # for word in words:
-    # #     wl_2.add_word(word)
-    # #
-    # # wl_3 = ApproxWordList3((3, 4))
-    # # for word in words:
-    # #     wl_3.add_word(word)
+    with open('../../dictionaries/words_ms.txt', encoding='utf8') as f:
+        words = set(f.read().split())
     #
-    # wl_4 = ApproxWordList3((2, 4))
+    # wl_1 = ApproxWordList3((1, 2, 3, 4))
     # for word in words:
-    #     wl_4.add_word(word)
+    #     wl_1.add_word(word)
     #
-    # with open('../../dictionaries/words_en.txt', encoding='utf8') as f:
-    #     words = set(f.read().split())
-    #
-    # # wl2_1 = ApproxWordList3((1, 2, 3, 4))
-    # # for word in words:
-    # #     wl2_1.add_word(word)
-    # #
-    # # wl2_2 = ApproxWordList3((2, 3, 4))
-    # # for word in words:
-    # #     wl2_2.add_word(word)
-    # #
-    # # wl2_3 = ApproxWordList3((3, 4))
-    # # for word in words:
-    # #     wl2_3.add_word(word)
-    #
-    # wl2_4 = ApproxWordList3((2, 4))
+    # wl_2 = ApproxWordList3((2, 3, 4))
     # for word in words:
-    #     wl2_4.add_word(word)
+    #     wl_2.add_word(word)
     #
+    # wl_3 = ApproxWordList3((3, 4))
+    # for word in words:
+    #     wl_3.add_word(word)
+
+    wl_4 = ApproxWordList3((2, 4))
+    for word in words:
+        wl_4.add_word(word)
+
+    with open('../../dictionaries/words_en.txt', encoding='utf8') as f:
+        words = set(f.read().split())
+
+    # wl2_1 = ApproxWordList3((1, 2, 3, 4))
+    # for word in words:
+    #     wl2_1.add_word(word)
+    #
+    # wl2_2 = ApproxWordList3((2, 3, 4))
+    # for word in words:
+    #     wl2_2.add_word(word)
+    #
+    # wl2_3 = ApproxWordList3((3, 4))
+    # for word in words:
+    #     wl2_3.add_word(word)
+
+    wl2_4 = ApproxWordList3((2, 4))
+    for word in words:
+        wl2_4.add_word(word)
+
     # print(wl_4.lookup('bananananaanananananana'))
     # print(wl2_4.lookup('bananananaanananananana'))
-    #
-    # while True:
-    #     word = input('word:\n')
-    #     word = word.strip()
-    #     if not word:
-    #         break
-    #     # print('wl_1', wl_1.lookup(word))
-    #     # print('wl_2', wl_2.lookup(word))
-    #     # print('wl_3', wl_3.lookup(word))
-    #     print('wl_4', wl_4.lookup(word))
-    #     # print('wl2_1', wl2_1.lookup(word))
-    #     # print('wl2_2', wl2_2.lookup(word))
-    #     # print('wl2_3', wl2_3.lookup(word))
-    #     print('wl2_4', wl2_4.lookup(word))
+
+    while True:
+        word = input('word:\n')
+        word = word.strip()
+        if not word:
+            break
+        # print('wl_1', wl_1.lookup(word))
+        # print('wl_2', wl_2.lookup(word))
+        # print('wl_3', wl_3.lookup(word))
+        print('wl_4', wl_4.lookup(word))
+        # print('wl2_1', wl2_1.lookup(word))
+        # print('wl2_2', wl2_2.lookup(word))
+        # print('wl2_3', wl2_3.lookup(word))
+        print('wl2_4', wl2_4.lookup(word))
+
     a = [
         'Schwartzenegger',
         'Schwarzeneger',
@@ -888,5 +969,7 @@ if __name__ == '__main__':
     ]
     b = 'Schwarzenegger'
 
-    print(n_gram_emd('banana', 'bababananananananananannanananananananana'))
-    print(n_gram_emd('banana', 'bababananananananananannanananananananana'))
+    print(n_gram_emd('banana', 'bababanananananananana'))
+    print(n_gram_emd('banana', 'bababanananananananananna'))
+    print(n_gram_emd('banana', 'nanananananabababa'))
+    # print(n_gram_emd('banana', 'bababananananananananannanananananananana'))
